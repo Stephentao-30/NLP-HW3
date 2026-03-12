@@ -1,0 +1,1387 @@
+{
+    "version": "1.1",
+    "data": [
+        {
+            "title": "EECS_Reference_100",
+            "paragraphs": [
+                {
+                    "context": "",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": "Jelani Nelson",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Nelson",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the chair of the EECS department?",
+                            "id": "q1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ana Claudia Arias",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Arias",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who serves as the EE Division Chair?",
+                            "id": "q2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "John Wawrzynek",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Wawrzynek",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS Division Chair?",
+                            "id": "q3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Josh Hug",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Hug",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS Vice Chair for Undergraduate Study?",
+                            "id": "q4"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Robert Pilawa-Podgurski",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Pilawa-Podgurski",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the EE Vice Chair for Undergraduate Study?",
+                            "id": "q5"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Joseph Gonzalez",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Gonzalez",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS Vice Chair for Graduate Matters?",
+                            "id": "q6"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ali Javey",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Javey",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the EE Vice Chair for Graduate Matters?",
+                            "id": "q7"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Sanjit Seshia",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Seshia",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Vice Chair for Masters Degree Programs?",
+                            "id": "q8"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Eric Fraser",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Fraser",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Director of Information Technology for EECS?",
+                            "id": "q9"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Logan Baldini",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Baldini",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Director of Facilities & Capital Projects?",
+                            "id": "q10"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Faye Chou",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Chou",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the incoming Director of Administrative Services?",
+                            "id": "q11"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Josephine Williamson",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Williamson",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the outgoing Director of Administrative Services?",
+                            "id": "q12"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "3",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Three",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many chairs are listed in the Department Chairs section?",
+                            "id": "q13"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Antoine Davis",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Davis",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Executive Director of the Center for Student Affairs?",
+                            "id": "q14"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Judy Smithson",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Smithson",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Director of Graduate Affairs?",
+                            "id": "q15"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Michelle Fong",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Fong",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Director of Undergraduate Affairs?",
+                            "id": "q16"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Christopher Hunn",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Hunn",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Director of Undergraduate Student Instruction?",
+                            "id": "q17"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Tiffany Grimsley",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Grimsley",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Assistant Director of Student Support?",
+                            "id": "q18"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Charlene Duncan",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Duncan",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS Scholars Program Director?",
+                            "id": "q19"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Executive Director",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Executive Director, Center for Student Affairs",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is Antoine Davis\u2019s title in the CSA?",
+                            "id": "q20"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "David Wagner",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Wagner",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the coordinator for the Computer Security group?",
+                            "id": "q21"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "7",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Seven",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many primary faculty are in the Security group?",
+                            "id": "q22"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Jitendra Malik",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Malik",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the coordinator for the AI research group?",
+                            "id": "q23"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Pieter Abbeel",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Abbeel",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which faculty member won the ACM Prize in Computing in 2021?",
+                            "id": "q24"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Dawn Song",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Song",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the MacArthur Fellow award in 2010?",
+                            "id": "q25"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "SUPERB-AI4E",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "SUPERB",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the acronym for the AI engineering REU program?",
+                            "id": "q26"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Natural language processing",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Parsing",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What language research topic is performed by AI faculty?",
+                            "id": "q27"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "4 units",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "4",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many units are required for Honors research credit?",
+                            "id": "q28"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "3.7",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "3.7 GPA",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the technical GPA requirement for the Honors Program?",
+                            "id": "q29"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Vice Chairs",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Department Vice Chairs",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the contact for EECS Honors applications?",
+                            "id": "q30"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ruzena Bajcsy",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Bajcsy",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which faculty member won the Berkeley Citation in 2023?",
+                            "id": "q31"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Alessandro Chiesa",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Chiesa",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Name a faculty member with security as a focus.",
+                            "id": "q32"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ion Stoica",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Stoica",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the National Academy of Engineering award in 2024?",
+                            "id": "q33"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "45 units",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "45",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many units must first-year admits complete for Honors?",
+                            "id": "q34"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "May 6th",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Wednesday, May 6th",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the deadline for Fall 2026 Honors Admission?",
+                            "id": "q35"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "RDI",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "RDI Center",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which lab focuses on Responsible, Decentralized Intelligence?",
+                            "id": "q36"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "EECS faculty",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Research mentors",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the coordinator for human-computer interaction in SUPERB?",
+                            "id": "q37"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "John DeNero",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "DeNero",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the UC Berkeley Distinguished Teaching Award in 2018?",
+                            "id": "q38"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Resume",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "CV",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Resume or CV",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What summary document is required for SUPERB applications?",
+                            "id": "q39"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "9 weeks",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "9",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the length of the SUPERB summer program?",
+                            "id": "q40"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "217 Cory Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "217 Cory",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Where is the EE PhD Advisor's office located?",
+                            "id": "q41"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Carissa Caloud",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Caloud",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS PhD Advisor?",
+                            "id": "q42"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "215 Cory Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "215 Cory",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which room is the Masters Degrees Advisor located in?",
+                            "id": "q43"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Glenna Anton",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Anton",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the CS Graduate Admissions Coordinator?",
+                            "id": "q44"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "grads-fifthyrms@berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the email for 5th Year MS inquiries?",
+                            "id": "q45"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "24 units",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "24",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many units are required for the EECS MS?",
+                            "id": "q46"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "3.0",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "3.0 GPA",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the minimum overall GPA for MS graduation?",
+                            "id": "q47"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "3.5",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "3.5 GPA",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the technical GPA requirement for the MS?",
+                            "id": "q48"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "No",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Not available",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Are part-time MS programs available in EECS?",
+                            "id": "q49"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "No",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Not required",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Is a master's degree required to apply for the PhD?",
+                            "id": "q50"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Gina Garcia",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Garcia",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Program Lead and EECS Advisor?",
+                            "id": "q51"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Kait Guthrie",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Guthrie",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who serves as the ECE Lead Advisor?",
+                            "id": "q52"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Grayson Johnston",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Johnston",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Lead Undergraduate Advisor?",
+                            "id": "q53"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "gradadmissions@eecs.berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the contact email for graduate admissions?",
+                            "id": "q54"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Patrick Hernan",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Hernan",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which office handles EE GSI assignments?",
+                            "id": "q55"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "B-",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "B- or better",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the minimum grade to receive MS credit?",
+                            "id": "q56"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "8 units",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "8",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many units outside EECS are needed for 5th Year MS?",
+                            "id": "q57"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Yes",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Yes, capstone project",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Does the M.Eng program require a capstone project?",
+                            "id": "q58"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Lydia Raya",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Raya",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Assistant Director of Undergraduate Affairs?",
+                            "id": "q59"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "No",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Not required",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Is the GRE required for EECS graduate admission?",
+                            "id": "q60"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Chris DelliGatti",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "DelliGatti",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the building manager for Soda Hall?",
+                            "id": "q61"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "253 Cory Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "253 Cory",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which room is Logan Baldini's office located in?",
+                            "id": "q62"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "+1 (510) 704-3853",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "510-704-3853",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the phone number for the Soda Hall manager?",
+                            "id": "q63"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "+1 (510) 642-3333",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "510-642-3333",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the emergency cell phone number for campus?",
+                            "id": "q64"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "253 Cory Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "253 Cory",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What room number is the Cory Hall Front Office?",
+                            "id": "q65"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "387 Soda Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "387 Soda",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What room number is the Soda Hall Front Office?",
+                            "id": "q66"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "1770",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the mail code for Cory Hall?",
+                            "id": "q67"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "1776",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the mail code for Soda Hall?",
+                            "id": "q68"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "keys@eecs.berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What email address is used for key access problems?",
+                            "id": "q69"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "copiers-printers@eecs.berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the contact for public printer problems?",
+                            "id": "q70"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Sutardja Dai Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "266 Sutardja Dai Hall",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which building handles ERSO Shipping and Receiving?",
+                            "id": "q71"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Yes",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Yes, 1-4 pm",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Is the Soda Hall front office open in the afternoon?",
+                            "id": "q72"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "2",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Two",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many building managers are listed for Cory and Soda?",
+                            "id": "q73"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Logan Baldini",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Baldini",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the safety coordinator for Cory Hall?",
+                            "id": "q74"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "+1 (510) 642-1032",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "510-642-1032",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What is the phone number for urgent safety concerns?",
+                            "id": "q75"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "393 Soda Hall",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "393 Soda",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which room does Chris DelliGatti occupy?",
+                            "id": "q76"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "cory-building@eecs.berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What email should be used for Cory building requests?",
+                            "id": "q77"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "soda-building@eecs.berkeley.edu",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What email should be used for Soda building requests?",
+                            "id": "q78"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Katie Ravnik",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Ravnik",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who is the Copy Card Assistant for Cory and Soda?",
+                            "id": "q79"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Yes",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Yes, available",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Are hand carts available at the front office?",
+                            "id": "q80"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ruzena Bajcsy",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Bajcsy",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Berkeley Citation in 2023?",
+                            "id": "q81"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Pieter Abbeel",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Abbeel",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the ACM Prize in Computing in 2021?",
+                            "id": "q82"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Dawn Song",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Song",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Which faculty member won the MacArthur Fellow in 2010?",
+                            "id": "q83"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Ion Stoica",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Stoica",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the National Academy of Engineering in 2024?",
+                            "id": "q84"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Michael I. Jordan",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Jordan",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Frontiers of Knowledge Laureate award?",
+                            "id": "q85"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Dan Garcia",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Garcia",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Distinguished Teaching Award in 2025?",
+                            "id": "q86"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Song Mei",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Mei",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Sloan Research Fellow in 2025?",
+                            "id": "q87"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "January 1, 2026",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "2026",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "When does Somayeh Sojoudi\u2019s IEEE Fellow status begin?",
+                            "id": "q88"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Christopher Hunn",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Hunn",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the COSA award in 2014?",
+                            "id": "q89"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "1",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "One",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "How many faculty are listed as winning NAS in Security?",
+                            "id": "q90"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "David E. Culler",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Culler",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Okawa Prize in 2013?",
+                            "id": "q91"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Leyla Kabuli",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Kabuli",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the University Medal in 2021?",
+                            "id": "q92"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Danny Halawi",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Halawi",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Eugene L. Lawler Prize in 2021?",
+                            "id": "q93"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Sheila Humphreys",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Humphreys",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Berkeley Citation in 2013?",
+                            "id": "q94"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Yes",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Yes, 2025",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Was Dawn Song an American Academy of Arts Member?",
+                            "id": "q95"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Somayeh Sojoudi",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Sojoudi",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Frontiers of Engineering Symposium invitation in 2021?",
+                            "id": "q96"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Toni Sweet",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Sweet",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the Chancellor's Distinguished Service Award in 1993?",
+                            "id": "q97"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Audrey Sillers",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Sillers",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Who won the EIM award in 2022?",
+                            "id": "q98"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Yes",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Yes, Nobel Prize",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "Is the Turing Award known as the Nobel of CS?",
+                            "id": "q99"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "text": "Upper-division",
+                                    "answer_start": 0
+                                },
+                                {
+                                    "text": "Upper-division courses",
+                                    "answer_start": 0
+                                }
+                            ],
+                            "question": "What academic level of coursework is required for the honors breadth area?",
+                            "id": "q100"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

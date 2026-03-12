@@ -1,0 +1,502 @@
+{
+  "q1": {
+    "question": "Who is the chair of the EECS department?",
+    "answers": "Jelani Nelson|Nelson",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q2": {
+    "question": "Who serves as the EE Division Chair?",
+    "answers": "Ana Claudia Arias|Arias",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q3": {
+    "question": "Who is the CS Division Chair?",
+    "answers": "John Wawrzynek|Wawrzynek",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q4": {
+    "question": "Who is the CS Vice Chair for Undergraduate Study?",
+    "answers": "Josh Hug|Hug",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q5": {
+    "question": "Who is the EE Vice Chair for Undergraduate Study?",
+    "answers": "Robert Pilawa-Podgurski|Pilawa-Podgurski",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q6": {
+    "question": "Who is the CS Vice Chair for Graduate Matters?",
+    "answers": "Joseph Gonzalez|Gonzalez",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q7": {
+    "question": "Who is the EE Vice Chair for Graduate Matters?",
+    "answers": "Ali Javey|Javey",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q8": {
+    "question": "Who is the Vice Chair for Masters Degree Programs?",
+    "answers": "Sanjit Seshia|Seshia",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q9": {
+    "question": "Who is the Director of Information Technology for EECS?",
+    "answers": "Eric Fraser|Fraser",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q10": {
+    "question": "Who is the Director of Facilities & Capital Projects?",
+    "answers": "Logan Baldini|Baldini",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q11": {
+    "question": "Who is the incoming Director of Administrative Services?",
+    "answers": "Faye Chou|Chou",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q12": {
+    "question": "Who is the outgoing Director of Administrative Services?",
+    "answers": "Josephine Williamson|Williamson",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q13": {
+    "question": "How many chairs are listed in the Department Chairs section?",
+    "answers": "3|Three",
+    "url": "https://eecs.berkeley.edu/people/leadership/"
+  },
+  "q14": {
+    "question": "Who is the Executive Director of the Center for Student Affairs?",
+    "answers": "Antoine Davis|Davis",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q15": {
+    "question": "Who is the Director of Graduate Affairs?",
+    "answers": "Judy Smithson|Smithson",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q16": {
+    "question": "Who is the Director of Undergraduate Affairs?",
+    "answers": "Michelle Fong|Fong",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q17": {
+    "question": "Who is the Director of Undergraduate Student Instruction?",
+    "answers": "Christopher Hunn|Hunn",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q18": {
+    "question": "Who is the Assistant Director of Student Support?",
+    "answers": "Tiffany Grimsley|Grimsley",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q19": {
+    "question": "Who is the CS Scholars Program Director?",
+    "answers": "Charlene Duncan|Duncan",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q20": {
+    "question": "What is Antoine Davis’s title in the CSA?",
+    "answers": "Executive Director|Executive Director, Center for Student Affairs",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q21": {
+    "question": "Who is the coordinator for the Computer Security group?",
+    "answers": "David Wagner|Wagner",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q22": {
+    "question": "How many primary faculty are in the Security group?",
+    "answers": "7|Seven",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q23": {
+    "question": "Who is the coordinator for the AI research group?",
+    "answers": "Jitendra Malik|Malik",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q24": {
+    "question": "Which faculty member won the ACM Prize in Computing in 2021?",
+    "answers": "Pieter Abbeel|Abbeel",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q25": {
+    "question": "Who won the MacArthur Fellow award in 2010?",
+    "answers": "Dawn Song|Song",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q26": {
+    "question": "What is the acronym for the AI engineering REU program?",
+    "answers": "SUPERB-AI4E|SUPERB",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/undergraduate-research/superb/"
+  },
+  "q27": {
+    "question": "What language research topic is performed by AI faculty?",
+    "answers": "Natural language processing|Parsing",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q28": {
+    "question": "How many units are required for Honors research credit?",
+    "answers": "4 units|4",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q29": {
+    "question": "What is the technical GPA requirement for the Honors Program?",
+    "answers": "3.7|3.7 GPA",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q30": {
+    "question": "Who is the contact for EECS Honors applications?",
+    "answers": "Vice Chairs|Department Vice Chairs",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q31": {
+    "question": "Which faculty member won the Berkeley Citation in 2023?",
+    "answers": "Ruzena Bajcsy|Bajcsy",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q32": {
+    "question": "Name a faculty member with security as a focus.",
+    "answers": "Alessandro Chiesa|Chiesa",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q33": {
+    "question": "Who won the National Academy of Engineering award in 2024?",
+    "answers": "Ion Stoica|Stoica",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q34": {
+    "question": "How many units must first-year admits complete for Honors?",
+    "answers": "45 units|45",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q35": {
+    "question": "What is the deadline for Fall 2026 Honors Admission?",
+    "answers": "May 6th|Wednesday, May 6th",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q36": {
+    "question": "Which lab focuses on Responsible, Decentralized Intelligence?",
+    "answers": "RDI|RDI Center",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"
+  },
+  "q37": {
+    "question": "Who is the coordinator for human-computer interaction in SUPERB?",
+    "answers": "EECS faculty|Research mentors",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/undergraduate-research/superb/"
+  },
+  "q38": {
+    "question": "Who won the UC Berkeley Distinguished Teaching Award in 2018?",
+    "answers": "John DeNero|DeNero",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q39": {
+    "question": "What summary document is required for SUPERB applications?",
+    "answers": "Resume|CV|Resume or CV",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/undergraduate-research/superb/"
+  },
+  "q40": {
+    "question": "What is the length of the SUPERB summer program?",
+    "answers": "9 weeks|9",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/undergraduate-research/"
+  },
+  "q41": {
+    "question": "Where is the EE PhD Advisor's office located?",
+    "answers": "217 Cory Hall|217 Cory",
+    "url": "https://eecs.berkeley.edu/resources/grads/"
+  },
+  "q42": {
+    "question": "Who is the CS PhD Advisor?",
+    "answers": "Carissa Caloud|Caloud",
+    "url": "https://eecs.berkeley.edu/resources/grads/"
+  },
+  "q43": {
+    "question": "Which room is the Masters Degrees Advisor located in?",
+    "answers": "215 Cory Hall|215 Cory",
+    "url": "https://eecs.berkeley.edu/resources/grads/"
+  },
+  "q44": {
+    "question": "Who is the CS Graduate Admissions Coordinator?",
+    "answers": "Glenna Anton|Anton",
+    "url": "https://eecs.berkeley.edu/resources/grads/"
+  },
+  "q45": {
+    "question": "What is the email for 5th Year MS inquiries?",
+    "answers": "grads-fifthyrms@berkeley.edu",
+    "url": "https://eecs.berkeley.edu/resources/grads/"
+  },
+  "q46": {
+    "question": "How many units are required for the EECS MS?",
+    "answers": "24 units|24",
+    "url": "https://eecs.berkeley.edu/book/ms/"
+  },
+  "q47": {
+    "question": "What is the minimum overall GPA for MS graduation?",
+    "answers": "3.0|3.0 GPA",
+    "url": "https://eecs.berkeley.edu/book/ms/"
+  },
+  "q48": {
+    "question": "What is the technical GPA requirement for the MS?",
+    "answers": "3.5|3.5 GPA",
+    "url": "https://eecs.berkeley.edu/book/ms/"
+  },
+  "q49": {
+    "question": "Are part-time MS programs available in EECS?",
+    "answers": "No|Not available",
+    "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+  },
+  "q50": {
+    "question": "Is a master's degree required to apply for the PhD?",
+    "answers": "No|Not required",
+    "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+  },
+  "q51": {
+    "question": "Who is the Program Lead and EECS Advisor?",
+    "answers": "Gina Garcia|Garcia",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q52": {
+    "question": "Who serves as the ECE Lead Advisor?",
+    "answers": "Kait Guthrie|Guthrie",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q53": {
+    "question": "Who is the Lead Undergraduate Advisor?",
+    "answers": "Grayson Johnston|Johnston",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q54": {
+    "question": "What is the contact email for graduate admissions?",
+    "answers": "gradadmissions@eecs.berkeley.edu",
+    "url": "https://eecs.berkeley.edu/resources/csa/"
+  },
+  "q55": {
+    "question": "Which office handles EE GSI assignments?",
+    "answers": "Patrick Hernan|Hernan",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q56": {
+    "question": "What is the minimum grade to receive MS credit?",
+    "answers": "B-|B- or better",
+    "url": "https://eecs.berkeley.edu/book/ms/"
+  },
+  "q57": {
+    "question": "How many units outside EECS are needed for 5th Year MS?",
+    "answers": "8 units|8",
+    "url": "https://eecs.berkeley.edu/academics/graduate/industry-programs/5yrms/degree-requirements/"
+  },
+  "q58": {
+    "question": "Does the M.Eng program require a capstone project?",
+    "answers": "Yes|Yes, capstone project",
+    "url": "https://eecs.berkeley.edu/resources/grads/meng-2/"
+  },
+  "q59": {
+    "question": "Who is the Assistant Director of Undergraduate Affairs?",
+    "answers": "Lydia Raya|Raya",
+    "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"
+  },
+  "q60": {
+    "question": "Is the GRE required for EECS graduate admission?",
+    "answers": "No|Not required",
+    "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+  },
+  "q61": {
+    "question": "Who is the building manager for Soda Hall?",
+    "answers": "Chris DelliGatti|DelliGatti",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q62": {
+    "question": "Which room is Logan Baldini's office located in?",
+    "answers": "253 Cory Hall|253 Cory",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q63": {
+    "question": "What is the phone number for the Soda Hall manager?",
+    "answers": "+1 (510) 704-3853|510-704-3853",
+    "url": "https://eecs.berkeley.edu/resources/facilities/safety-manual/"
+  },
+  "q64": {
+    "question": "What is the emergency cell phone number for campus?",
+    "answers": "+1 (510) 642-3333|510-642-3333",
+    "url": "https://eecs.berkeley.edu/contact/emergency/"
+  },
+  "q65": {
+    "question": "What room number is the Cory Hall Front Office?",
+    "answers": "253 Cory Hall|253 Cory",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q66": {
+    "question": "What room number is the Soda Hall Front Office?",
+    "answers": "387 Soda Hall|387 Soda",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q67": {
+    "question": "What is the mail code for Cory Hall?",
+    "answers": "1770",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q68": {
+    "question": "What is the mail code for Soda Hall?",
+    "answers": "1776",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q69": {
+    "question": "What email address is used for key access problems?",
+    "answers": "keys@eecs.berkeley.edu",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q70": {
+    "question": "Who is the contact for public printer problems?",
+    "answers": "copiers-printers@eecs.berkeley.edu",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q71": {
+    "question": "Which building handles ERSO Shipping and Receiving?",
+    "answers": "Sutardja Dai Hall|266 Sutardja Dai Hall",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q72": {
+    "question": "Is the Soda Hall front office open in the afternoon?",
+    "answers": "Yes|Yes, 1-4 pm",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q73": {
+    "question": "How many building managers are listed for Cory and Soda?",
+    "answers": "2|Two",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q74": {
+    "question": "Who is the safety coordinator for Cory Hall?",
+    "answers": "Logan Baldini|Baldini",
+    "url": "https://eecs.berkeley.edu/resources/facilities/safety-manual/"
+  },
+  "q75": {
+    "question": "What is the phone number for urgent safety concerns?",
+    "answers": "+1 (510) 642-1032|510-642-1032",
+    "url": "https://eecs.berkeley.edu/resources/facilities/safety-manual/"
+  },
+  "q76": {
+    "question": "Which room does Chris DelliGatti occupy?",
+    "answers": "393 Soda Hall|393 Soda",
+    "url": "https://eecs.berkeley.edu/resources/facilities/safety-manual/"
+  },
+  "q77": {
+    "question": "What email should be used for Cory building requests?",
+    "answers": "cory-building@eecs.berkeley.edu",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q78": {
+    "question": "What email should be used for Soda building requests?",
+    "answers": "soda-building@eecs.berkeley.edu",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q79": {
+    "question": "Who is the Copy Card Assistant for Cory and Soda?",
+    "answers": "Katie Ravnik|Ravnik",
+    "url": "https://eecs.berkeley.edu/people/staff/facilities-staff/"
+  },
+  "q80": {
+    "question": "Are hand carts available at the front office?",
+    "answers": "Yes|Yes, available",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/administrative-services/"
+  },
+  "q81": {
+    "question": "Who won the Berkeley Citation in 2023?",
+    "answers": "Ruzena Bajcsy|Bajcsy",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q82": {
+    "question": "Who won the ACM Prize in Computing in 2021?",
+    "answers": "Pieter Abbeel|Abbeel",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q83": {
+    "question": "Which faculty member won the MacArthur Fellow in 2010?",
+    "answers": "Dawn Song|Song",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q84": {
+    "question": "Who won the National Academy of Engineering in 2024?",
+    "answers": "Ion Stoica|Stoica",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q85": {
+    "question": "Who won the Frontiers of Knowledge Laureate award?",
+    "answers": "Michael I. Jordan|Jordan",
+    "url": "https://eecs.berkeley.edu/category/honors/page/4/"
+  },
+  "q86": {
+    "question": "Who won the Distinguished Teaching Award in 2025?",
+    "answers": "Dan Garcia|Garcia",
+    "url": "https://eecs.berkeley.edu/category/honors/page/4/"
+  },
+  "q87": {
+    "question": "Who won the Sloan Research Fellow in 2025?",
+    "answers": "Song Mei|Mei",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/AI/"
+  },
+  "q88": {
+    "question": "When does Somayeh Sojoudi’s IEEE Fellow status begin?",
+    "answers": "January 1, 2026|2026",
+    "url": "https://people.eecs.berkeley.edu/~sojoudi/Awards.html"
+  },
+  "q89": {
+    "question": "Who won the COSA award in 2014?",
+    "answers": "Christopher Hunn|Hunn",
+    "url": "https://eecs.berkeley.edu/people/staff/awards-2/"
+  },
+  "q90": {
+    "question": "How many faculty are listed as winning NAS in Security?",
+    "answers": "1|One",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q91": {
+    "question": "Who won the Okawa Prize in 2013?",
+    "answers": "David E. Culler|Culler",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q92": {
+    "question": "Who won the University Medal in 2021?",
+    "answers": "Leyla Kabuli|Kabuli",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q93": {
+    "question": "Who won the Eugene L. Lawler Prize in 2021?",
+    "answers": "Danny Halawi|Halawi",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  },
+  "q94": {
+    "question": "Who won the Berkeley Citation in 2013?",
+    "answers": "Sheila Humphreys|Humphreys",
+    "url": "https://eecs.berkeley.edu/people/staff/awards-2/"
+  },
+  "q95": {
+    "question": "Was Dawn Song an American Academy of Arts Member?",
+    "answers": "Yes|Yes, 2025",
+    "url": "https://www2.eecs.berkeley.edu/Research/Areas/SEC/"
+  },
+  "q96": {
+    "question": "Who won the Frontiers of Engineering Symposium invitation in 2021?",
+    "answers": "Somayeh Sojoudi|Sojoudi",
+    "url": "https://people.eecs.berkeley.edu/~sojoudi/Awards.html"
+  },
+  "q97": {
+    "question": "Who won the Chancellor's Distinguished Service Award in 1993?",
+    "answers": "Toni Sweet|Sweet",
+    "url": "https://eecs.berkeley.edu/people/staff/awards-2/"
+  },
+  "q98": {
+    "question": "Who won the EIM award in 2022?",
+    "answers": "Audrey Sillers|Sillers",
+    "url": "https://eecs.berkeley.edu/people/staff/awards-2/"
+  },
+  "q99": {
+    "question": "Is the Turing Award known as the Nobel of CS?",
+    "answers": "Yes|Yes, Nobel Prize",
+    "url": "https://eecs.berkeley.edu/resources/faculty-staff/ieee-acm-awards/"
+  },
+  "q100": {
+    "question": "What academic level of coursework is required for the honors breadth area?",
+    "answers": "Upper-division|Upper-division courses",
+    "url": "https://eecs.berkeley.edu/resources/undergrads/honors/"
+  }
+}
