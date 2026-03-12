@@ -1,2 +1,5 @@
 artifacts/*.faiss filter=lfs diff=lfs merge=lfs -text
 artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+submission.zip filter=lfs diff=lfs merge=lfs -text
+submission/artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+submission/artifacts/*.faiss filter=lfs diff=lfs merge=lfs -text
