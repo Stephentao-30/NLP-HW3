@@ -1,5 +1,7 @@
 .venv/
 __pycache__/
-artifacts/
+artifacts/*
+!artifacts/*.pkl
+!artifacts/*.faiss
 predictions_run.txt
 *.pyc
