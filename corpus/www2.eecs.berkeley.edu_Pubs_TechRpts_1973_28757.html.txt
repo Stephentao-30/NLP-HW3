@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28757.html
+Testing Graph Connectivity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Testing Graph Connectivity
+Testing Graph Connectivity
+R. Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M422
+November 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-422.pdf
+BibTeX citation:
+@techreport{Tarjan:M422,
+Author = {Tarjan, R. Endre},
+Title = {Testing Graph Connectivity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28757.html},
+Number = {UCB/ERL M422}
+}
+EndNote citation:
+%0 Report
+%A Tarjan, R. Endre
+%T Testing Graph Connectivity
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M422
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28757.html
+%F Tarjan:M422

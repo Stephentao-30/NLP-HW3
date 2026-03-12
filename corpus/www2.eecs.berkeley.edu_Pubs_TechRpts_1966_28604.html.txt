@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28604.html
+On the Neuron Modeling
+E.I. Jury and J.G. Blanchard
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M172
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-172.pdf
+BibTeX citation:
+@techreport{Jury:M172,
+Author= {Jury, E.I. and Blanchard, J.G.},
+Title= {On the Neuron Modeling},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28604.html},
+Number= {UCB/ERL M172},
+}
+EndNote citation:
+%0 Report
+%A Jury, E.I.
+%A Blanchard, J.G.
+%T On the Neuron Modeling
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M172
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28604.html
+%F Jury:M172

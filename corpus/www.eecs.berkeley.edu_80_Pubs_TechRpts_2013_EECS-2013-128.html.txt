@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-128.html
+Rangzen: Circumventing Government-Imposed Communication Blackouts
+Giulia Fanti and Yahel Ben David and Sebastian Benthall and Eric Brewer and Scott Shenker
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-128
+July 6,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.pdf
+A challenging problem in dissent networking is that of circumventing large-scale communication blackouts imposed
+by oppressive governments. Although prior work has not focused on the need for user anonymity, we contend that it is essential. Without anonymity, governments can use communication networks to track and persecute users. A key challenge for decentralized networks is that of resource allocation and control. Network resources must be shared in a manner that deprioritizes unwanted traffic and abusive users. This task is typically addressed through reputation systems that conflict with anonymity. Our work addresses this paradox: We prioritize resources in a privacy-preserving manner to create an attack-resilient, anonymity-preserving, mobile ad-hoc network. Our prioritization mechanism exploits the properties of a social trust graph to promote messages relayed via trusted nodes. We present Rangzen, a microblogging solution that uses smartphones to opportunistically relay messages among citizens in a delay-tolerant network (DTN) that is independent of government or corporate-controlled infrastructure.
+BibTeX citation:
+@techreport{Fanti:EECS-2013-128,
+Author= {Fanti, Giulia and Ben David, Yahel and Benthall, Sebastian and Brewer, Eric and Shenker, Scott},
+Title= {Rangzen: Circumventing Government-Imposed Communication Blackouts},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html},
+Number= {UCB/EECS-2013-128},
+Abstract= {A challenging problem in dissent networking is that of circumventing large-scale communication blackouts imposed
+by oppressive governments. Although prior work has not focused on the need for user anonymity, we contend that it is essential. Without anonymity, governments can use communication networks to track and persecute users. A key challenge for decentralized networks is that of resource allocation and control. Network resources must be shared in a manner that deprioritizes unwanted traffic and abusive users. This task is typically addressed through reputation systems that conflict with anonymity. Our work addresses this paradox: We prioritize resources in a privacy-preserving manner to create an attack-resilient, anonymity-preserving, mobile ad-hoc network. Our prioritization mechanism exploits the properties of a social trust graph to promote messages relayed via trusted nodes. We present Rangzen, a microblogging solution that uses smartphones to opportunistically relay messages among citizens in a delay-tolerant network (DTN) that is independent of government or corporate-controlled infrastructure.},
+}
+EndNote citation:
+%0 Report
+%A Fanti, Giulia
+%A Ben David, Yahel
+%A Benthall, Sebastian
+%A Brewer, Eric
+%A Shenker, Scott
+%T Rangzen: Circumventing Government-Imposed Communication Blackouts
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 6
+%@ UCB/EECS-2013-128
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-128.html
+%F Fanti:EECS-2013-128

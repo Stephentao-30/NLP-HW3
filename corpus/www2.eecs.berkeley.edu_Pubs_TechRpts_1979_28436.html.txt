@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28436.html
+A Structure Preserving Model for Power System Stability Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Structure Preserving Model for Power System Stability Analysis
+A Structure Preserving Model for Power System Stability Analysis
+A.R. Bergen and D.J. Hill
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/44
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-44.pdf
+BibTeX citation:
+@techreport{Bergen:M79/44,
+Author = {Bergen, A.R. and Hill, D.J.},
+Title = {A Structure Preserving Model for Power System Stability Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28436.html},
+Number = {UCB/ERL M79/44}
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Hill, D.J.
+%T A Structure Preserving Model for Power System Stability Analysis
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/44
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28436.html
+%F Bergen:M79/44

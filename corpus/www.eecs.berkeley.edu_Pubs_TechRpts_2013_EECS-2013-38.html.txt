@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-38.html
+Experimental and Simulation Study of Resistive Switches for Memory Applications
+Feng Pan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-38
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-38.pdf
+Advisors:  Vivek Subramanian
+BibTeX citation:
+@phdthesis{Pan:EECS-2013-38,
+Author= {Pan, Feng},
+Title= {Experimental and Simulation Study of Resistive Switches for Memory Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-38.html},
+Number= {UCB/EECS-2013-38},
+}
+EndNote citation:
+%0 Thesis
+%A Pan, Feng
+%T Experimental and Simulation Study of Resistive Switches for Memory Applications
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-38
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-38.html
+%F Pan:EECS-2013-38

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29270.html
+Canonical Structure in Attribute Based File Organization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Canonical Structure in Attribute Based File Organization
+Canonical Structure in Attribute Based File Organization
+Eugene Wong and T.C. Chiang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M285
+October 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-285.pdf
+BibTeX citation:
+@techreport{Wong:M285,
+Author = {Wong, Eugene and Chiang, T.C.},
+Title = {Canonical Structure in Attribute Based File Organization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29270.html},
+Number = {UCB/ERL M285}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%A Chiang, T.C.
+%T Canonical Structure in Attribute Based File Organization
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M285
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29270.html
+%F Wong:M285

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7258.html
+Optimum Design of Integrated Variable-Gain Amplifiers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimum Design of Integrated Variable-Gain Amplifiers
+Optimum Design of Integrated Variable-Gain Amplifiers
+Willy M. C. Sansen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M367
+November 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-367.pdf
+Advisor:  Robert G. Meyer
+BibTeX citation:
+@phdthesis{Sansen:M367,
+Author = {Sansen, Willy M. C.},
+Title = {Optimum Design of Integrated Variable-Gain Amplifiers},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7258.html},
+Number = {UCB/ERL M367}
+}
+EndNote citation:
+%0 Thesis
+%A Sansen, Willy M. C.
+%T Optimum Design of Integrated Variable-Gain Amplifiers
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M367
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7258.html
+%F Sansen:M367

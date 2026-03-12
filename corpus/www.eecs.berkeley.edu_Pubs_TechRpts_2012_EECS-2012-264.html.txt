@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-264.html
+Temperature Compensation of Aluminum Nitride Lamb Wave Resonators Utilizing the Lowest-Order Symmetric Mode
+Chih-Ming Lin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-264
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-264.pdf
+In this work, temperature compensation of AlN Lamb wave resonators (LWRs) using the lowest-order symmetric (S0) Lamb wave mode is theoretically and experimentally investigated.  By adding a compensating layer of silicon dioxide (SiO2) with an appropriate thickness ratio to the aluminum nitride (AlN) thin film, the AlN/SiO2 LWR can achieve a low first-order TCF at room temperature.  In addition, LWRs with an AlN layer as thin as 250 nm are proposed to realize the temperature compensation over a wide frequency range from 100 MHz to 1 GHz.  Using a multilayer plate composed of 1-μm-thick AlN and 0.83-μm-thick SiO2, a temperature-compensated AlN/SiO2 LWR operating at a series resonance frequency of 711 MHz exhibits a zero first-order TCF and a small second-order TCF of -21.5 ppb/C^2 at its turnover temperature, 18.05 degree C.  The temperature dependence of fractional frequency variation is less than 250 parts per million (ppm) over a wide temperature range from –55 to 125 degree C.  The temperature-compensated AlN LWR is promising for future applications including thermally stable oscillators, filters, and sensors.
+Advisors:  Albert Pisano
+BibTeX citation:
+@mastersthesis{Lin:EECS-2012-264,
+Author= {Lin, Chih-Ming},
+Title= {Temperature Compensation of Aluminum Nitride Lamb Wave Resonators Utilizing the Lowest-Order Symmetric Mode},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-264.html},
+Number= {UCB/EECS-2012-264},
+Abstract= {In this work, temperature compensation of AlN Lamb wave resonators (LWRs) using the lowest-order symmetric (S0) Lamb wave mode is theoretically and experimentally investigated.  By adding a compensating layer of silicon dioxide (SiO2) with an appropriate thickness ratio to the aluminum nitride (AlN) thin film, the AlN/SiO2 LWR can achieve a low first-order TCF at room temperature.  In addition, LWRs with an AlN layer as thin as 250 nm are proposed to realize the temperature compensation over a wide frequency range from 100 MHz to 1 GHz.  Using a multilayer plate composed of 1-μm-thick AlN and 0.83-μm-thick SiO2, a temperature-compensated AlN/SiO2 LWR operating at a series resonance frequency of 711 MHz exhibits a zero first-order TCF and a small second-order TCF of -21.5 ppb/C^2 at its turnover temperature, 18.05 degree C.  The temperature dependence of fractional frequency variation is less than 250 parts per million (ppm) over a wide temperature range from –55 to 125 degree C.  The temperature-compensated AlN LWR is promising for future applications including thermally stable oscillators, filters, and sensors.},
+}
+EndNote citation:
+%0 Thesis
+%A Lin, Chih-Ming
+%T Temperature Compensation of Aluminum Nitride Lamb Wave Resonators Utilizing the Lowest-Order Symmetric Mode
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-264
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-264.html
+%F Lin:EECS-2012-264

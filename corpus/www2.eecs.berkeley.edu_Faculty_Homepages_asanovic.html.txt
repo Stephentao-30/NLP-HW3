@@ -1,0 +1,69 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/asanovic.html
+Krste Asanović: Faculty Home Page
+Larger Photo
+Krste Asanović
+Professor Emeritus, Professor in the Graduate School
+Contact Information
+579B Soda Hall
+tel:  510-642-6506
+krste@berkeley.edu
+Office Hours
+Email for appt
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Leslie Goldstein
+765 Soda
+3-2469
+lgolds@berkeley.edu
+Biography
+Krste Asanović is Professor Emeritus and Professor in the Graduate School in the EECS Department at the University of California, Berkeley. He received a PhD in Computer Science from UC Berkeley in 1998 then joined the faculty at MIT, receiving tenure in 2005.  He returned to join the faculty at Berkeley in 2007. His main research areas are computer architecture, VLSI design, parallel programming and operating system design. He leads the RISC-V project at Berkeley, is Chief Architect at RISC-V International, and co-founded SiFive Inc. to support commercial use of RISC-V processors.  He is also an Associate Director at the Berkeley Wireless Research Center. He received the NSF CAREER award, and is an ACM Fellow and an IEEE Fellow.
+Education
+1998, PhD, Computer Science, UC Berkeley
+1987, BA, Electrical and Information Sciences, University of Cambridge, UK
+Research Areas
+Computer Architecture & Engineering (ARC)
+Integrated Circuits (INC)
+Operating Systems & Networking (OSNT)
+Design, Modeling and Analysis (DMA)
+Research Centers
+Berkeley Wireless Research Center (BWRC)
+SpeciaLIzed Computing Ecosystems (SLICE)
+D. Lee, D. Kohlbrenner, S. Shinde, K. Asanović, and D. Song, "Keystone: An Open Framework for Architecting Trusted Execution Environments," in  Proceedings of the Fifteenth European Conference on Computer Systems , EuroSys'20, 2020.
+M. Maas, P. Reames, J. Morlan, K. Asanović, A. D. Joseph, and J. D. Kubiatowicz, " GPUs as an Opportunity for Offloading Garbage Collection ," in  Proceedings of the 2012 International Symposium on Memory Management , ISMM '12, New York, NY, USA: ACM, 2012, pp. 25--36.
+A. Waterman, Y. Lee, D. A. Patterson, and K. Asanović, " The RISC-V Instruction Set Manual, Volume I: Base User-Level ISA ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2011-62, May 2011.
+B. C. Catanzaro, S. A. Kamil, Y. Lee, K. Asanović, J. Demmel, K. Keutzer, J. Shalf, K. A. Yelick, and A. Fox, "SEJITS: Getting productivity and performance with selective embedded JIT specialization," in  Proceedings First Workshop on Programming Models for Emerging Architectures , 2009.
+C. Batten, A. Joshi, J. Orcutt, A. Khilo, B. Moss, C. Holzwarth, M. Popovic, H. Li, H. Smith, J. Hoyt, F. Kartner, R. Ram, V. Stojanovic, and K. Asanović, "Building Many-Core Processor-to-DRAM Networks with Monolithic   CMOS Silicon Photonics,"  IEEE Micro , vol. 29, July 2009.
+S. Beamer, K. Asanović, C. Batten, A. Joshi, and V. Stojanovic, " Designing Multi-socket Systems Using Silicon Photonics ," in  Proceedings 23rd International Conference on Supercomputing , 2009.
+A. Joshi, C. Batten, Y. Kwon, S. Beamer, I. Shamin, K. Asanović, and V. Stojanovic, "Silicon-Photonic Clos Networks for Global On-Chip Communication," in  3rd ACM/IEEE International Symposium on Networks-on-Chip , 2009.
+C. Jones, R. Liu, L. Meyerovich, K. Asanović, and R. Bodik, "Parallelizing the Web Browser," in  First USENIX Workshop on Hot Topics in Parallelism , 2009.
+R. Liu, K. Klues, S. Bird, S. Hofmeyr, K. Asanović, and J. D. Kubiatowicz, "Tessellation: Space-Time Partitioning in a Manycore Client OS," in  First USENIX Workshop on Hot Topics in ParallelismH , 2009.
+H. Pan, B. Hindman, and K. Asanović, "Lithe: Enabling Efficient Composition of Parallel Libraries," in  First USENIX Workshop on Hot Topics in Parallelism , 2009.
+C. Batten, H. Aoki, and K. Asanović, "The case for malleable stream architectures," in  Workshop on Streaming Systems , 2008.
+C. Batten, A. Joshi, J. Orcutt, A. Khilo, B. Moss, C. Holzwarth, M. Popovic, H. Li, H. Smith, J. Hoyt, F. Kaertner, R. Ram, V. Stojanovic, and K. Asanović, " Building manycore processor-to-DRAM networks with monolithic silicon photonics ," in  Proc. 16th Annual IEEE Symp. on High-Performance Interconnects (HotI 2008) , Los Alamitos, CA: IEEE Computer Society, 2008, pp. 21-30.
+S. C. Miller, M. M. Deneroff, C. F. Schimmel, L. Rudolph, C. E. Leiserson, B. C. Kuszmaul, and K. Asanović, " System and method for performing memory operations in a computing system ," U.S. Patent 7,398,359. July 2008.
+R. Krashinsky, C. Batten, and K. Asanović, " Implementing the Scale vector-thread processor ,"  ACM Trans. Design Automation of Electronic Systems , vol. 13, no. 3, pp. Art. 41:1-24, July 2008.
+J. W. Lee, M. C. Ng, and K. Asanović, " Globally-synchronized frames for guaranteed quality-of-service in on-chip networks ," in  Proc. 35th Intl. Symp. on Computer Architecture (ISCA 2008) , Los Alamitos, CA: IEEE Computer Society, 2008, pp. 89-100.
+M. Hampton and K. Asanović, " Compiling for vector-thread architectures ," in  Proc. 6th Annual IEEE/ACM Intl. Symp. on Code Generation and Optimization (CGO-2008) , New York, NY: The Association for Computing Machinery, Inc., 2008, pp. 205-215.
+K. Asanović, R. Bodik, J. Demmel, T. Keaveny, K. Keutzer, J. D. Kubiatowicz, E. A. Lee, N. Morgan, G. Necula, D. A. Patterson, K. Sen, J. Wawrzynek, D. Wessel, and K. A. Yelick, " The Parallel Computing Laboratory at U.C. Berkeley: A Research Agenda Based on the Berkeley View ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2008-23, March 2008.
+K. Asanović, "Vector Processing," in  Digital Systems and Applications , V. G. Oklobdzija, Ed., 2nd ed., The Computer Engineering Handbook, Boca Raton, FL: CRC Press, 2007, pp. 1-25-1-35.
+K. Asanović, " Transactors for parallel hardware and software co-design (Invited Paper) ," in  Proc. 2007 IEEE Intl. High Level Design Validation and Test Workshop (HLDVT-2007) , Los Alamitos, CA: IEEE Computer Society, 2007, pp. 140-142.
+K. Asanović and E. J. Witchel, " System and technique for fine-grained computer memory protection ," U.S. Patent 7,287,140. Oct. 2007.
+DAC's Most Influential Paper Award ,
+2025
+Association for Computing Machinery (ACM) Fellow ,
+2018
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2014
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2014
+ACM Distinguished Scientist Award ,
+2011
+Jim and Donna Gray Award for Excellence in Undergraduate Teaching of Computer Science ,
+2010
+Okawa Research Grant ,
+2007
+NSF Faculty Early Career Development Award (CAREER) ,
+2001

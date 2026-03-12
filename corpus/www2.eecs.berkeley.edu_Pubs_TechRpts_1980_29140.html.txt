@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29140.html
+Explicit Solutions to a Class of Nonlinear Filtering Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Explicit Solutions to a Class of Nonlinear Filtering Problems
+Explicit Solutions to a Class of Nonlinear Filtering Problems
+Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/16
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-16.pdf
+BibTeX citation:
+@techreport{Wong:M80/16,
+Author = {Wong, Eugene},
+Title = {Explicit Solutions to a Class of Nonlinear Filtering Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29140.html},
+Number = {UCB/ERL M80/16}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%T Explicit Solutions to a Class of Nonlinear Filtering Problems
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/16
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29140.html
+%F Wong:M80/16

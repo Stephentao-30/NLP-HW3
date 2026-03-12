@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29012.html
+Algorithm Verification Applied to the Todd-Coxeter Algorithm | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Algorithm Verification Applied to the Todd-Coxeter Algorithm
+Algorithm Verification Applied to the Todd-Coxeter Algorithm
+Carolyn T. Williamson and W.D. Maurer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M317
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-317.pdf
+BibTeX citation:
+@techreport{Williamson:M317,
+Author = {Williamson, Carolyn T. and Maurer, W.D.},
+Title = {Algorithm Verification Applied to the Todd-Coxeter Algorithm},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29012.html},
+Number = {UCB/ERL M317}
+}
+EndNote citation:
+%0 Report
+%A Williamson, Carolyn T.
+%A Maurer, W.D.
+%T Algorithm Verification Applied to the Todd-Coxeter Algorithm
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M317
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29012.html
+%F Williamson:M317

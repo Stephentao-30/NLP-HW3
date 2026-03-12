@@ -1,0 +1,22 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSW169A
+Course: CSW169A | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSW169A
+CS W169A. Software Engineering
+Catalog Description:  This course presents ideas and techniques for designing, developing, and modifying large software systems using Agile techniques and tools. Topics include: function-oriented and object-oriented modular design techniques, designing for re-use and maintainability including proper use of design patterns, behavior-driven design, test-driven development, user stories for requirements elicitation & documentation, verification and validation, cost and quality metrics and estimation, project team organization and management, analyzing and refactoring legacy code.
+Units:  3.0
+Student Learning Outcomes:  Students will learn to articulate the primary differences between Agile and Plan-and-Document methodologies;, Students will learn how to identify and repair potential app-level security and performance problems., Students will learn how to recognize when an appropriate Design Pattern may improve code quality, and refactor code to apply those Design Patterns;, Students will learn how to exercise best practices in planning, effort estimation, and coordination of the efforts of small software teams, using appropriate tools to support those practices;, Students will learn how to apply BDD & TDD to identify the main parts of a legacy code base, measure code quality, and refactor code to improve its quality;, Students will learn how to construct unit- and module-level tests and measure their coverage;, Students will learn how to apply behavior-driven development (BDD) to elicit customer needs and express them as user stories that will drive development;, Students will learn how to apply the key ideas of learning a new framework to construct and deploy simple Rails applications;, Students will learn how to summarize the key architectural elements of RESTful SaaS applications and microservices; , Students will learn how to apply the key ideas of learning a new language in order to construct programs in Ruby;
+Prerequisites:  COMPSCI 61A and COMPSCI 61B.
+Credit Restrictions:  Students will receive no credit for COMPSCI W169A after completing COMPSCI 169, or COMPSCI 169A. A deficient grade in COMPSCI W169A may be removed by taking COMPSCI 169, or COMPSCI 169A.
+Formats:  Fall: 3.0 hours of web-based lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of web-based lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of web-based lecture and  0.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Fall 2020):
+Armando Fox ,  Michael Ball
+Class homepage on inst.eecs
+General Catalog listing

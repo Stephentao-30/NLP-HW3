@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-97.html
+Checking for Circular Dependencies in Distributed Stream Programs
+Dai Bui and Hiren Patel and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-97
+August 29,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-97.pdf
+This work presents a cyclic dependency analysis for stream-based programs.  Specifically, we focus on the cyclo-static dataflow (CSDF) programming model with control messages through  teleport messaging as implemented in the StreamIt framework.  Unlike existing cyclic dependency analyses, we allow overlapped teleport messages.  An overlapped teleport message is one that traverses actors that themselves transmit teleport messages, which can complicate the stream graph topology with teleport messages.  Therefore, the challenge in this work is to decide whether such stream graphs are feasible in the presence of such complex teleport messages.  Our analysis addresses this challenge by first ensuring  that the stream graph with teleport messages is feasible, and then computing an execution schedule for the CSDF graph in the presence of complex overlapped teleport messaging constraints. Consequently, our analysis accepts a larger class of CSDF stream graphs with complex teleport messaging topologies for execution.
+BibTeX citation:
+@techreport{Bui:EECS-2011-97,
+Author= {Bui, Dai and Patel, Hiren and Lee, Edward A.},
+Title= {Checking for Circular Dependencies in Distributed Stream Programs},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-97.html},
+Number= {UCB/EECS-2011-97},
+Abstract= {This work presents a cyclic dependency analysis for stream-based programs.  Specifically, we focus on the cyclo-static dataflow (CSDF) programming model with control messages through  teleport messaging as implemented in the StreamIt framework.  Unlike existing cyclic dependency analyses, we allow overlapped teleport messages.  An overlapped teleport message is one that traverses actors that themselves transmit teleport messages, which can complicate the stream graph topology with teleport messages.  Therefore, the challenge in this work is to decide whether such stream graphs are feasible in the presence of such complex teleport messages.  Our analysis addresses this challenge by first ensuring  that the stream graph with teleport messages is feasible, and then computing an execution schedule for the CSDF graph in the presence of complex overlapped teleport messaging constraints. Consequently, our analysis accepts a larger class of CSDF stream graphs with complex teleport messaging topologies for execution.},
+}
+EndNote citation:
+%0 Report
+%A Bui, Dai
+%A Patel, Hiren
+%A Lee, Edward A.
+%T Checking for Circular Dependencies in Distributed Stream Programs
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 29
+%@ UCB/EECS-2011-97
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-97.html
+%F Bui:EECS-2011-97

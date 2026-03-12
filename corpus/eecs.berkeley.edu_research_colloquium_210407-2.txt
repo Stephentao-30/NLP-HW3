@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/210407-2
+Applications of Deep Learning in Graphics, Conversational AI, and Systems Design - EECS at Berkeley
+Applications of Deep Learning in Graphics, Conversational AI, and Systems Design
+EECS Colloquium
+Wednesday, April 7, 2021
+4:00 – 5:00 pm
+Zoom webinar:  https://berkeley.zoom.us/s/99825370819
+Bryan Catanzaro
+Vice President of Applied Deep Learning Research
+NVIDIA
+Bryan Catanzaro speaks on "Applications of Deep Learning in Graphics, Conversational AI, and Systems Design," 04/07/21
+Abstract:
+Applications of deep learning are numerous and exciting, but actually applying deep learning to solve particular problems is rarely straightforward. Bryan will discuss research to solve concrete graphics, conversational AI, and systems design problems at NVIDIA. Applying deep learning requires inventing algorithms, creating datasets, scaling on large systems, and framing real-world problems as machine learning. In this talk, Bryan will give examples of each of these: the Flowtron and Waveglow speech synthesis models that pioneered invertible flow models for lifelike human speech synthesis; DLSS – the first neural reconstruction method for graphics rendering that provides increased framerate for video games; the neural networks that power intelligent code selection to speed up GPU-based deep learning computation; and the Megatron framework that enables training the largest language models at scale with extreme efficiency, along with applications of large scale language models.
+Biography
+Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to systems design using deep learning. Bryan started the CUDNN project, now used by millions of developers to train and deploy DL models, and contributed to the creation of DLSS, which is the first neural reconstruction method for graphics rendering. He has also contributed to research in all aspects of conversational AI, from speech recognition, natural language processing, to speech synthesis. Bryan received his PhD from the University of California, Berkeley advised by Kurt Keutzer.
+Video of this Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

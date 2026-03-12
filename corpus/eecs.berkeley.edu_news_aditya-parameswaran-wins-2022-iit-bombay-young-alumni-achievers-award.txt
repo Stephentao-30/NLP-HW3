@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/aditya-parameswaran-wins-2022-iit-bombay-young-alumni-achievers-award
+Aditya Parameswaran wins 2022 IIT Bombay Young Alumni Achievers Award - EECS at Berkeley
+EECS Associate Prof. Aditya Parameswaran has been selected to receive the Young Alumni Achievers Award from the Indian Institute of Technology (IIT), Bombay.  This award “recognizes and celebrates the outstanding achievements of [IIT’s] young alumni in their chosen field of endeavor.”  Parameswaran, who has a joint appointment at the I School, synthesizes techniques from data systems and human-computer interaction to develop tools to simplify data science at scale.  His tools, which have been downloaded and employed by millions of users, empower “individuals and teams to leverage and make sense of their large datasets more easily, efficiently, and effectively.”  These include the Lux library, an intelligent visualization recommendation system for very large data sets in dataframe workflows, and Modin, a scalable dataframe system which applies database and distributed systems ideas to help run dataframe workloads faster.  The award will be presented during the university’s Institute Foundation Day Function on March 10, 2022.
+Categories
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29409.html
+A Unified Theory of Symmetry for Nonlinear Resistive Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Unified Theory of Symmetry for Nonlinear Resistive Networks
+A Unified Theory of Symmetry for Nonlinear Resistive Networks
+Joos Vandewalle and Leon O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/45
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-45.pdf
+BibTeX citation:
+@techreport{Vandewalle:M78/45,
+Author = {Vandewalle, Joos and Chua, Leon O.},
+Title = {A Unified Theory of Symmetry for Nonlinear Resistive Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29409.html},
+Number = {UCB/ERL M78/45}
+}
+EndNote citation:
+%0 Report
+%A Vandewalle, Joos
+%A Chua, Leon O.
+%T A Unified Theory of Symmetry for Nonlinear Resistive Networks
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/45
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29409.html
+%F Vandewalle:M78/45

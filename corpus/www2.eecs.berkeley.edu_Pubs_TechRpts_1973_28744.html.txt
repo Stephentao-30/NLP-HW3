@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28744.html
+Examples in Verification of the Fortran Verifier | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Examples in Verification of the Fortran Verifier
+Examples in Verification of the Fortran Verifier
+Richard Kwok and Lawrence Yeung
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M400
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-400.pdf
+BibTeX citation:
+@techreport{Kwok:M400,
+Author = {Kwok, Richard and Yeung, Lawrence},
+Title = {Examples in Verification of the Fortran Verifier},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28744.html},
+Number = {UCB/ERL M400}
+}
+EndNote citation:
+%0 Report
+%A Kwok, Richard
+%A Yeung, Lawrence
+%T Examples in Verification of the Fortran Verifier
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M400
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28744.html
+%F Kwok:M400

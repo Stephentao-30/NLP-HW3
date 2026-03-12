@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28882.html
+Eigen Fuzzy Sets and Fuzzy Relations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Eigen Fuzzy Sets and Fuzzy Relations
+Eigen Fuzzy Sets and Fuzzy Relations
+Elie Sanchez
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/20
+April 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-20.pdf
+BibTeX citation:
+@techreport{Sanchez:M77/20,
+Author = {Sanchez, Elie},
+Title = {Eigen Fuzzy Sets and Fuzzy Relations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28882.html},
+Number = {UCB/ERL M77/20}
+}
+EndNote citation:
+%0 Report
+%A Sanchez, Elie
+%T Eigen Fuzzy Sets and Fuzzy Relations
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28882.html
+%F Sanchez:M77/20

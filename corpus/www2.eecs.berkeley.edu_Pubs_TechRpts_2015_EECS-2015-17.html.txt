@@ -1,0 +1,45 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-17.html
+Modularity Conserved during Evolution: Algorithms and Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modularity Conserved during Evolution: Algorithms and Analysis
+Modularity Conserved during Evolution: Algorithms and Analysis
+Luqman Hodgkinson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-17
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-17.pdf
+Modularity is a defining feature of biological systems. This dissertation presents our work on the development of algorithms to detect modularity in protein interaction networks and techniques of analysis for interpreting the results. A multiprotein module is a collection of proteins exhibiting modularity in their interactions. Multiprotein modules may perform essential functions and be conserved by purifying selection.
+A new linear-time algorithm named Produles offers significant algorithmic advantages over previous approaches. An algorithmic framework for evaluation is presented that facilitates evaluation of algorithms for detecting conserved modularity with respect to their algorithmic goals.
+Optimization criteria for detecting homologous multiprotein modules are examined, and their effects on biological process enrichment are quantified. Graph theoretic properties that arise from the physical construction of protein interaction networks account for 36 percent of the variance in biological process enrichment. Protein interaction similarities between conserved modules have only minor effects on biological process enrichment. As random modules increase in size, both biological process enrichment and modularity tend to improve, though modularity does not show this trend in small modules. To adjust for this trend, we recommend a size correction based on random sampling of modules when using biological process enrichment to evaluate module boundaries.
+Supporting software has been developed useful for designing high quality algorithms for detecting conserved multiprotein modularity. EasyProt is a parallel implementation of scientific workflow software designed for cloud computing that retrieves data from several sources, runs algorithms in parallel, and computes evaluation statistics. VieProt is visualization software for conserved multiprotein modularity that uses a dynamic force-directed layout and displays quality measures and statistical summaries.
+With high quality protein interaction data, it may be possible to use modules to improve the prediction of proteins that are orthologous to each other and that have maintained their function. We present statistical methods that may be useful for this purpose. The utility of these models will depend on anticipated improvements in protein interaction data quality.
+Advisor:  Richard M. Karp
+BibTeX citation:
+@phdthesis{Hodgkinson:EECS-2015-17,
+Author = {Hodgkinson, Luqman},
+Title = {Modularity Conserved during Evolution: Algorithms and Analysis},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-17.html},
+Number = {UCB/EECS-2015-17},
+Abstract = {Modularity is a defining feature of biological systems. This dissertation presents our work on the development of algorithms to detect modularity in protein interaction networks and techniques of analysis for interpreting the results. A multiprotein module is a collection of proteins exhibiting modularity in their interactions. Multiprotein modules may perform essential functions and be conserved by purifying selection.
+A new linear-time algorithm named Produles offers significant algorithmic advantages over previous approaches. An algorithmic framework for evaluation is presented that facilitates evaluation of algorithms for detecting conserved modularity with respect to their algorithmic goals.
+Optimization criteria for detecting homologous multiprotein modules are examined, and their effects on biological process enrichment are quantified. Graph theoretic properties that arise from the physical construction of protein interaction networks account for 36 percent of the variance in biological process enrichment. Protein interaction similarities between conserved modules have only minor effects on biological process enrichment. As random modules increase in size, both biological process enrichment and modularity tend to improve, though modularity does not show this trend in small modules. To adjust for this trend, we recommend a size correction based on random sampling of modules when using biological process enrichment to evaluate module boundaries.
+Supporting software has been developed useful for designing high quality algorithms for detecting conserved multiprotein modularity. EasyProt is a parallel implementation of scientific workflow software designed for cloud computing that retrieves data from several sources, runs algorithms in parallel, and computes evaluation statistics. VieProt is visualization software for conserved multiprotein modularity that uses a dynamic force-directed layout and displays quality measures and statistical summaries.
+With high quality protein interaction data, it may be possible to use modules to improve the prediction of proteins that are orthologous to each other and that have maintained their function. We present statistical methods that may be useful for this purpose. The utility of these models will depend on anticipated improvements in protein interaction data quality.}
+}
+EndNote citation:
+%0 Thesis
+%A Hodgkinson, Luqman
+%T Modularity Conserved during Evolution: Algorithms and Analysis
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-17
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-17.html
+%F Hodgkinson:EECS-2015-17

@@ -1,0 +1,56 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/research/extra
+Alan Mishchenko's Homepage - Library Extending CUDD Package
+EXTRA v. 2.0: Software Library Extending CUDD Package: Release
+2.3.1
+This library has been developed to extend the functionality of the popular
+decision diagram package CUDD, distributed and supported
+by Fabio Somenzi. The library is not an independent package. It should
+be used together with the  UNIX
+distribution of CUDD Release 2.3.1  or  Windows
+port of CUDD Release 2.3.1 .
+The library contains additional {A,B,Z}DD operators and routines, which
+can be called from the application source code in exactly the same way
+the procedures of CUDD are called. Most of the code is meant to enhance
+the manipulation of Zero-Suppressed Binary Decision Diagrams (ZDDs). The
+main release of CUDD contains approximately 35 procedures dealing with
+ZDDs. The library contributed many additional procedures of this kind.
+Not all of them are equally useful but some of them definitely are.
+Potential applications of the library include manipulation of cubes (clauses)
+constituting SOPs (POSs) of Boolean functions and problems reducible to
+set covering and graph theory (clique computation, graph coloring, etc).
+The complete list of procedures included in the library can be found
+in the main library header file " extra.h ".
+Documentation consists of the short descriptions of each procedure that
+go with their source code written in the traditional CUDD style. A user
+manual generated using  Ext ,
+by Stephen Edwards, will be provided in the future.
+A few words of warning for the potential users:
+The current release of the library is a snapshot of the process in motion.
+Some of the procedures are still under development while others have been
+used in one project only, meaning that they have not been sufficiently
+tested to claim buglessness. At the same time, the majority of code is
+believed to be mature and useful.
+You may run into obscure problems if you attempt to use some of the functions
+with dynamic variable reordering. Most of them are designed in the reorder-independent
+style similar to the DD-based procedures found in the main release of CUDD.
+However, there are some procedures that can be used only when dynamic variable
+reordering is disabled. I did my best to document this in the outlines
+proceeding the code of the functions.
+Some of the functions take BDDs as arguments and return ZDDs and vice versa.
+Some other take both BDDs and ZDDs as arguments (for example, Extra_zddOverlappingWithArea()
+takes the ZDD representing a set of cubes to be filtered and the BDD representing
+the area of the boolean space). These functions operate under the assumption
+that the the ZDD variables have been constructured from the BDD variables
+by the call to Cudd_zddVarsFromBddVars(), with the multiplicity 2, and that
+the variable realignment between ZDD and BDD variables is enabled. Some
+of these functions may have never been tested in situations when reordering
+actually occurs. Use them with caution.
+Enough said, you can now download and install the library.
+EXTRA v. 2.0:  UNIX release
+How to compile and use the library
+on UNIX
+EXTRA v. 2.0:  Windows release
+How to compile and use the library
+on Windows
+Alan Mishchenko's Home Page
+This page has been last modified on October 11, 2003.

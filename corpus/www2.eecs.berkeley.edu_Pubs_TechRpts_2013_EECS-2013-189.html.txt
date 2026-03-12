@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-189.html
+Experimental Study of Fine Frequency Selection Techniques  for Piezoelectric Aluminum Nitride Lamb Wave Resonators
+Ting-Ta Yen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-189
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-189.pdf
+Strong demand for high-Q resonators and filters in mobile wireless communication systems has initiated various research on radio frequency microelectromechanical systems (RF MEMS). Several CMOS-compatible RF MEMS resonator technologies, either electrostatic or piezoelectric, can provide multi-frequency operation on a single substrate and have the potential to realize a channel-select RF front-end architecture. However, utilizing a narrowband filter bank in such an architecture as the key component for frequency selection leads to a major challenge: fine frequency control. Depending upon the standard, it may entail the simultaneous fabrication of tens to hundreds of filters with 0.05 to 0.1% bandwidth, and spacing.
+Aluminum nitride (AlN) Lamb wave resonators (LWRs) utilize piezoelectric transduction to ensure low motional resistance. The resonance frequency of a LWR is defined by interdigital transducer (IDT) pitch and is thus decoupled from the overall device dimensions. This fine frequency selection technique is enabled by adjusting the so-called AlN "overhang" dimension allowing control of relative frequency of Lamb wave resonators in an array to 0.1%. Experimental results suggest the center frequency of LWRs can be linearly adjusted by up to 5% with no significant effect on other resonator parameters including Q, Rm, C0, and kt2. Closely and evenly spaced AlN Lamb wave resonators, without post-process trimming, demonstrate the potential to realize a pure mechanical, high performance, yet low power RF front-end system.
+Advisors:  Albert Pisano and Clark Nguyen
+BibTeX citation:
+@mastersthesis{Yen:EECS-2013-189,
+Author= {Yen, Ting-Ta},
+Title= {Experimental Study of Fine Frequency Selection Techniques  for Piezoelectric Aluminum Nitride Lamb Wave Resonators},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-189.html},
+Number= {UCB/EECS-2013-189},
+Abstract= {    Strong demand for high-Q resonators and filters in mobile wireless communication systems has initiated various research on radio frequency microelectromechanical systems (RF MEMS). Several CMOS-compatible RF MEMS resonator technologies, either electrostatic or piezoelectric, can provide multi-frequency operation on a single substrate and have the potential to realize a channel-select RF front-end architecture. However, utilizing a narrowband filter bank in such an architecture as the key component for frequency selection leads to a major challenge: fine frequency control. Depending upon the standard, it may entail the simultaneous fabrication of tens to hundreds of filters with 0.05 to 0.1% bandwidth, and spacing.
+Aluminum nitride (AlN) Lamb wave resonators (LWRs) utilize piezoelectric transduction to ensure low motional resistance. The resonance frequency of a LWR is defined by interdigital transducer (IDT) pitch and is thus decoupled from the overall device dimensions. This fine frequency selection technique is enabled by adjusting the so-called AlN "overhang" dimension allowing control of relative frequency of Lamb wave resonators in an array to 0.1%. Experimental results suggest the center frequency of LWRs can be linearly adjusted by up to 5% with no significant effect on other resonator parameters including Q, Rm, C0, and kt2. Closely and evenly spaced AlN Lamb wave resonators, without post-process trimming, demonstrate the potential to realize a pure mechanical, high performance, yet low power RF front-end system.},
+}
+EndNote citation:
+%0 Thesis
+%A Yen, Ting-Ta
+%T Experimental Study of Fine Frequency Selection Techniques  for Piezoelectric Aluminum Nitride Lamb Wave Resonators
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-189
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-189.html
+%F Yen:EECS-2013-189

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28437.html
+Fuzzy Sets and Information Granularity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fuzzy Sets and Information Granularity
+Fuzzy Sets and Information Granularity
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/45
+June 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-45.pdf
+BibTeX citation:
+@techreport{Zadeh:M79/45,
+Author = {Zadeh, L.A.},
+Title = {Fuzzy Sets and Information Granularity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28437.html},
+Number = {UCB/ERL M79/45}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Fuzzy Sets and Information Granularity
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/45
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28437.html
+%F Zadeh:M79/45

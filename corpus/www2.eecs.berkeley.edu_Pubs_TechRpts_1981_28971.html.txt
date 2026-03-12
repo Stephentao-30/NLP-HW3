@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28971.html
+A New Approach to Channel Routing
+M. Marek-Sadowska and E.S. Kuh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/95
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-95.pdf
+BibTeX citation:
+@techreport{Marek-Sadowska:M81/95,
+Author= {Marek-Sadowska, M. and Kuh, E.S.},
+Title= {A New Approach to Channel Routing},
+Year= {1981},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28971.html},
+Number= {UCB/ERL M81/95},
+}
+EndNote citation:
+%0 Report
+%A Marek-Sadowska, M.
+%A Kuh, E.S.
+%T A New Approach to Channel Routing
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/95
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28971.html
+%F Marek-Sadowska:M81/95

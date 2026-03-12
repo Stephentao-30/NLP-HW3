@@ -1,0 +1,19 @@
+URL: https://eecs.berkeley.edu/research/colloquium/170913-2
+Planes, Trains and Automobiles: Engineering Efficient and Clean Powertrains - EECS at Berkeley
+Planes, Trains and Automobiles: Engineering Efficient and Clean Powertrains
+EECS Colloquium
+Wednesday, September 13, 2017
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Patrick Groeneveld
+Cadence Design Systems
+Patrick Groeneveld speaks on "Planes, Trains and Automobiles: Engineering Efficient and Clean Powertrains," 9/13/17
+Abstract
+Transportation accounts for over 1/3 of total energy consumption in the USA. At the same time the scientific facts about efficiency and emissions of our daily transportation options are surprisingly elusive. How much worse is it to fly rather than to drive down to LA? How clean and efficient are electrical vehicles given that electricity generation is polluting as well? And how could we engineers improve this? This presentation will provide the often unintuitive answers, giving a solid base for a policy on climate change and air quality.
+The speaker has reverse-engineered the secrets of the latest automotive powertrain technologies to discover the intricate engineering trade-offs.  Hybrid cars use a remarkably clever combination of electrical motors, gasoline engine, batteries, gears and software to hit the energy conversion sweet spot. Compared to that electrical vehicles have much simpler drivetrain mechanics, yet need innovative systems to condition batteries for maximum endurance. It matters that a powertrain engineering honestly considers all aspects. Volkswagen’s diesel engineers, for instance, had achieved great mileage, low cost and good CO2 emissions at the expense of astronomical NOx emissions. The problem was cloaked by secretly moving the operating point during government tests. Hydrogen powered vehicles are clean, yet the production of hydrogen remains stubbornly energy-inefficient.
+Based on a thorough ‘well-to-wheel’ analysis we will identify the most promising powertrain technologies and predict the best options moving forward.
+Biography
+Patrick Groeneveld was Chief Technologist at Magma Design Automation. He co-designed Magma’s revolutionary RTL to GDS2 synthesis flow which is based on a pervasive use of a common data model. The core engine was a native sign-off STA tool that drives various logical and physical synthesis tools. After acquisition by Synopsys he worked on optimization in Design Compiler. Patrick was chair of the Design Automation Conference. He was also a full professor in EE at Eindhoven University. He holds a Ph.D. in EE from Delft University of Technology, the Netherlands. In his spare time he enjoys flying, opera, his family and absorbing borderline useless information.
+Video of Presentation
+View
+Open Faculty Positions

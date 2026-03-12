@@ -1,0 +1,45 @@
+URL: http://www.eecs.berkeley.edu/Faculty/Homepages/boser.html
+Bernhard Boser: Faculty Home Page
+Larger Photo
+Bernhard Boser
+Professor Emeritus
+Biography
+He received a diploma in Electrical Engineering from the Swiss Federal Institute of Technology (ETH), Zurich, Switzerland, his M.S. and Ph.D. in EE from Stanford University, 1985 and 1988, respectively.  Prior to joining the faculty of EECS in 1991, he was a member of the technical staff of AT&T Bell Laboratories in Holmdel, NJ. Dr. Boser has was the Editor of the IEEE Journal of Solid-State Circuits and President of the IEEE Solid-State Circuits Society. He is a co-founder of SiTime, a company commercializing MEMS resonators to replace quartz crystals as precision timing references. His research focuses on sensors and sensor interface electronics.
+Education
+1988, Ph.D., Electrical Engineering, Stanford
+1985, M.S., Electrical Engineering, Stanford
+1984, B.S., Electrical Engineering, Swiss Federal Institute of Technology
+Research Areas
+Design, Modeling and Analysis (DMA)
+Integrated Circuits (INC)
+Physical Electronics (PHY)
+Research Centers
+Berkeley Sensor & Actuator Center (BSAC)
+B. Boser, " From micro to nano: MEMS as an interface to the nano world ," in  IEEE/ACM Intl. Conf. on computer Aided Design (ICCAD '06). Digest of Technical Papers , S. Hassoun, Ed., Piscataway, NJ: IEEE Press, 2006, pp. 824-825.
+V. P. Petkov and B. Boser, " High-order electromechanical $Sigma Delta$ modulation in micromachined inertial sensors ,"  IEEE Trans. Circuits and Systems I: Fundamental Theory and Applications , vol. 53, no. 5, pp. 1016-1022, May 2006.
+K. E. Wojciechowski, B. Boser, and A. Pisano, " A MEMS resonant strain sensor with 33 nano-strain resolution in a 10 kHz bandwidth ," in  Proc. 4th IEEE Sensors 2005 Conf. , Piscataway, NJ: IEEE Press, 2005, pp. 947-950.
+B. S. Leibowitz, B. Boser, and K. Pister, " A 256-element CMOS imaging receiver for free-space optical communication ,"  IEEE J. Solid-State Circuits , vol. 40, no. 9, pp. 1948-1956, Sep. 2005.
+B. Cagdaser and B. Boser, " Resonant drive for stabilizing parallel-plate actuators beyond the pull-in point ," in  13th Intl. Conf. on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS '05). Digest of Technical Papers , Vol. 1, Piscataway, NJ: IEEE Press, 2005, pp. 688-692.
+T. S. Aytur, T. Ishikawa, and B. Boser, " A 2.2-mm2 CMOS bioassay chip and wireless interface ," in  2004 Symp. on VLSI Circuits. Digest of Technical Papers , Gaithersburg, MD: Widerkehr and Associates, 2004, pp. 314-317.
+B. Murmann and B. Boser,  Digitally Assisted Pipeline ADCs: Theory and Implementation , Boston, MA: Kluwer Academic Publishers, 2004.
+B. Murmann and B. Boser, " A 12-bit 75-MS/s pipelined ADC using open-loop residue amplification ,"  IEEE J. Solid-State Circuits , vol. 38, no. 12, pp. 2040-2050, Dec. 2003.
+J. I. Seeger and B. Boser, " Charge control of parallel-plate, electrostatic actuators and the tip-in instability ,"  IEEE/ASME J. Microelectromechanical Systems , vol. 12, no. 5, pp. 656-671, Oct. 2003.
+M. D. Scott, B. Boser, and K. Pister, " An ultralow-energy ADC for Smart Dust ,"  IEEE J. Solid-State Circuits , vol. 38, no. 7, pp. 1123-1129, July 2003.
+S. A. Bhave, J. I. Seeger, X. Jiang, B. Boser, R. T. Howe, and J. Yasaitis, " An integrated, vertical-drive, in-plane-sense microgyroscope ," in  12th Intl. Conf. on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS '03). Digest of Technical Papers , Vol. 1, Piscataway, NJ: IEEE Press, 2003, pp. 171-174.
+M. Last, B. S. Leibowitz, B. Cagdaser, A. Jog, L. Zhou, B. Boser, and K. Pister, " Toward a wireless optical communication link between two small unmanned aerial vehicles ," in  Proc. 2003 IEEE Intl. Symp. on Circuits and Systems (ISCAS 2003) , Vol. 3, Piscataway, NJ: IEEE Press, 2003, pp. 930-933.
+B. A. Warneke, M. D. Scott, B. S. Leibowitz, L. Zhou, C. L. Bellew, J. A. Chediak, J. M. Kahn, B. Boser, and K. Pister, " An autonomous 16 mm3 solar-powered node for distributed wireless sensor networks ," in  Proc. 2002 1st Intl. Conf. on Sensors , Vol. 2, Piscataway, NJ: IEEE Press, 2002, pp. 1510-1515.
+D. J. Young, B. Boser, V. Malba, and A. F. Bernhardt, " A micromachined RF low phase noise voltage-controlled oscillator for wireless communications ,"  Intl. J. RF and Microwave Computer-Aided Engineering , vol. 11, no. 5, pp. 285-300, Sep. 2001.
+B. S. Leibowitz, B. Boser, and K. Pister, " CMOS "smart pixel" for free-space optical communication ," in  Proc. SPIE: Sensors and Camera Systems for Scientific, Industrial, and Digital Photography Applications II , M. M. Blouke, J. Canosa, and N. Sampat, Eds., Vol. 4306, Bellingham, WA: SPIE, 2001, pp. 308-318.
+L. Doherty, B. A. Warneke, B. Boser, and K. Pister, "Energy and performance considerations for smart dust,"  Intl. J. Parallel and Distributed Systems & Networks , vol. 4, no. 3, pp. 121-133, March 2001.
+M. Lemkin and B. Boser, " A three-axis micromachined accelerometer with a CMOS position-sense interface and digital offset-trim electronics ,"  IEEE J. Solid-State Circuits , vol. 34, no. 4, pp. 456-468, April 1999.
+D. Young and B. Boser, "A micromachined variable capacitor for monolithic low-noise VCOs," in  6th IEEE Solid-State Sensor and Actuator Workshop. Technical Digest , Cleveland Heights, OH: Transducer Research Foundation, 1996, pp. 86-89.
+B. Boser, I. M. Guyon, and V. N. Vapnik, " A training algorithm for optimal margin classifiers ," in  Proc. 5th Annual ACM Workshop on Computational Learning Theory , New York, NY: ACM Press, 1992, pp. 144-152.
+B. Boser and B. A. Wooley, " The design of sigma-delta modulation analog-to-digital converters ,"  IEEE J. Solid-State Circuits , vol. 23, no. 6, pp. 1298-1308, Dec. 1988.
+Alexander Schwarzkopf Prize ,
+2016
+SSCS ISSCC Lewis Winner Award for Outstanding Paper ,
+2016
+IEEE Electron Devices Society (EDS) Fellows ,
+2003
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2002

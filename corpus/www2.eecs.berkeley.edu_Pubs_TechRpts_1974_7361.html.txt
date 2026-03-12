@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7361.html
+Recursive Generation and Computation of Fast Unitary Transforms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Recursive Generation and Computation of Fast Unitary Transforms
+Recursive Generation and Computation of Fast Unitary Transforms
+Bernard J. L. Fino
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M415
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-415.pdf
+Advisor:  V. Ralph Algazi
+BibTeX citation:
+@phdthesis{Fino:M415,
+Author = {Fino, Bernard J. L.},
+Title = {Recursive Generation and Computation of Fast Unitary Transforms},
+School = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7361.html},
+Number = {UCB/ERL M415}
+}
+EndNote citation:
+%0 Thesis
+%A Fino, Bernard J. L.
+%T Recursive Generation and Computation of Fast Unitary Transforms
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M415
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7361.html
+%F Fino:M415

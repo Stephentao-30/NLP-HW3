@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE105
+EE 105. Microelectronic Devices and Circuits
+Catalog Description:  This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are discussed. Sinusoidal steady-state signals are introduced and the techniques of phasor analysis are developed, including impedance and the magnitude and phase response of linear circuits. The frequency responses of single and multi-stage amplifiers are analyzed. Differential amplifiers are introduced.
+Units:  4
+Related Areas:
+Integrated Circuits (INC)
+Prerequisites:  EECS 16A and EECS 16B.
+Credit Restrictions:  Students will receive no credit for EL ENG 105 after completing EL ENG 240A, or EL ENG 140.
+Formats:  Fall: 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week
+Spring: 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+EE 105 –                TuTh 11:00-12:29, Soda 306 –
+Aditya Varma Muppala Class Notes
+Phase 1 and 2 seats are open to ECE, EECS, CS, and non-EECS COE majors. Remaining seats open during the adjustment period.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

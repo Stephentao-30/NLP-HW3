@@ -1,0 +1,837 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/csbsym_8cpp_source.html
+Compressed Sparse Blocks: csbsym.cpp Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+csbsym.cpp
+Go to the documentation of this file.     1   #include " csbsym.h "
+2   #include <iterator>
+3   #include " utility.h "
+4
+5   // Choose block size as big as possible given the following constraints
+6   // 1) The bot array is addressible by IT
+7   // 2) The parts of x & y vectors that a block touches fits into L2 cache [assuming a saxpy() operation]
+8   // 3) There's enough parallel slackness for block rows (at least SLACKNESS * CILK_NPROC)
+9   template  < class  NT,  class  IT>
+10   void   CsbSym<NT, IT>::Init ( int  workers, IT forcelogbeta)
+11  {
+12      ispar = (workers > 1);
+13      IT roundup =  nextpoweroftwo (n);
+14
+15       // if indices are negative, highestbitset returns -1,
+16       // but that will be caught by the sizereq below
+17      IT nbits =  highestbitset (roundup);
+18       bool  sizereq;
+19       if  (ispar)
+20      {
+21          sizereq = ( IntPower<2> (nbits) >  SLACKNESS  * workers);
+22      }
+23       else
+24      {
+25          sizereq = (nbits > 1);
+26      }
+27       if (!sizereq)
+28      {
+29          cerr <<  "Matrix too small for this library"  << endl;
+30           return ;
+31      }
+32
+33      nlowbits = nbits-1;
+34      IT inf = numeric_limits<IT>::max();
+35      IT maxbits =  highestbitset (inf);
+36
+37      nhighbits = nbits-nlowbits;  // # higher order bits for rows (has at least one bit)
+38       if (ispar)
+39      {
+40           while ( IntPower<2> (nhighbits) <  SLACKNESS  * workers)
+41          {
+42              nhighbits++;
+43              nlowbits--;
+44          }
+45      }
+46
+47       // calculate the space that suby and subx occupy in L2 cache
+48      IT yL2 =  IntPower<2> (nlowbits) *  sizeof (NT);
+49       while (yL2 >  L2SIZE )
+50      {
+51          yL2 /= 2;
+52          nhighbits++;
+53          nlowbits--;
+54      }
+55
+56      lowmask =  IntPower<2> (nlowbits) - 1;
+57       if (forcelogbeta != 0)
+58      {
+59          IT candlowmask  =  IntPower<2> (forcelogbeta) -1;
+60          cout <<  "Forcing beta to " << (candlowmask+1) <<  " instead of the chosen "  << (lowmask+1) << endl;
+61          cout <<  "Warning : No checks are performed on the beta you have forced, anything can happen !"  << endl;
+62          lowmask = candlowmask;
+63          nlowbits = forcelogbeta;
+64          nhighbits = nbits-nlowbits;
+65      }
+66       else
+67      {
+68           double  sqrtn = sqrt(static_cast<double>(n));
+69          IT logbeta =  static_cast< IT > (ceil(log2(sqrtn))) + 2;
+70           if (nlowbits > logbeta)
+71          {
+72              nlowbits = logbeta;
+73              lowmask =  IntPower<2> (logbeta) -1;
+74              nhighbits = nbits-nlowbits;
+75          }
+76          cout <<  "Beta chosen to be " << (lowmask+1) << endl;
+77      }
+78      highmask = ((roundup - 1) ^ lowmask);
+79
+80      IT blcdim = lowmask + 1;
+81          ncsb =  static_cast< IT > (ceil(static_cast<double>(n) / static_cast<double>(blcdim)));
+82
+83      blcrange = (lowmask+1) * (lowmask+1);    // range indexed by one block
+84      mortoncmp =  MortCompSym<IT> (nlowbits, lowmask);
+85  }
+86
+87
+88   // copy constructor
+89   template  < class  NT,  class  IT>
+90   CsbSym<NT, IT>::CsbSym  ( const   CsbSym<NT,IT>  & rhs)
+91  : nz(rhs.nz), n(rhs.n), blcrange(rhs.blcrange), ncsb(rhs.ncsb), nhighbits(rhs.nhighbits), nlowbits(rhs.nlowbits),
+92  highmask(rhs.highmask), lowmask(rhs.lowmask), mortoncmp(rhs.mortoncmp), ispar(rhs.ispar), diagonal(rhs.diagonal)
+93  {
+94       if (nz > 0)   // nz > 0 iff nrb > 0
+95      {
+96          num =  new  NT[nz]();
+97          bot =  new  IT[nz];
+98
+99          copy ( rhs.num, rhs.num+nz, num);
+100          copy ( rhs.bot, rhs.bot+nz, bot );
+101      }
+102       if  ( ncsb > 0)
+103      {
+104          top =  new  IT* [ncsb];
+105           for (IT i=0; i<ncsb; ++i)
+106              top[i] =  new  IT[ncsb-i+1];
+107           for (IT i=0; i<ncsb; ++i)
+108               for (IT j=0; j <= (ncsb-i); ++j)
+109                  top[i][j] = rhs.top[i][j];
+110      }
+111  }
+112
+113   template  < class  NT,  class  IT>
+114   CsbSym<NT, IT>  &  CsbSym<NT, IT>::operator=  ( const   CsbSym<NT, IT>  & rhs)
+115  {
+116       if ( this  != &rhs)
+117      {
+118           if (nz > 0)   // if the existing object is not empty
+119          {
+120               // make it empty
+121               delete  [] bot;
+122               delete  [] num;
+123          }
+124           if (ncsb > 0)
+125          {
+126               for (IT i=0; i<ncsb; ++i)
+127                   delete  [] top[i];
+128               delete  [] top;
+129          }
+130          ispar   = rhs.ispar;
+131          nz  = rhs.nz;
+132          n   = rhs.n;
+133          ncsb    = rhs.ncsb;
+134          blcrange = rhs.blcrange;
+135          mortoncmp = rhs.mortoncmp;
+136
+137          nhighbits = rhs.nhighbits;
+138          nlowbits = rhs.nlowbits;
+139          highmask = rhs.highmask;
+140          lowmask  = rhs.lowmask;
+141          diagonal = rhs.diagonal;     // copy the whole sparse vector
+142
+143           if (nz > 0)   // if the copied object is not empty
+144          {
+145              num =  new  NT[nz]();
+146              bot =  new  IT[nz];
+147
+148              copy ( rhs.num, rhs.num+nz, num);
+149              copy ( rhs.bot, rhs.bot+nz, bot );
+150          }
+151           if (ncsb > 0)
+152          {
+153              top =  new  IT* [ncsb];
+154               for (IT i=0; i<ncsb; ++i)
+155                  top[i] =  new  IT[ncsb-i+1];
+156               for (IT i=0; i<ncsb; ++i)
+157                   for (IT j=0; j <= (ncsb-i); ++j)
+158                      top[i][j] = rhs.top[i][j];
+159          }
+160      }
+161       return  * this ;
+162  }
+163
+164   template  < class  NT,  class  IT>
+165   CsbSym<NT, IT>::~CsbSym ()
+166  {
+167       if ( nz > 0)
+168      {
+169           delete  [] bot;
+170           delete  [] num;
+171      }
+172       if  ( ncsb > 0)
+173      {
+174           for (IT i=0; i<ncsb; ++i)
+175               delete  [] top[i];
+176           delete  [] top;
+177      }
+178  }
+179
+180   template  < class  NT,  class  IT>
+181   CsbSym<NT, IT>::CsbSym  ( Csc<NT, IT>  & csc,  int  workers):nz(csc.nz), n(csc.n)
+182  {
+183           typedef  std::pair<IT, IT> ipair;
+184           typedef  std::pair<IT, ipair> mypair;
+185
+186          assert(nz != 0 && n != 0);
+187          Init(workers);
+188
+189      top =  new  IT* [ncsb];
+190       for (IT i=0; i<ncsb; ++i)
+191          top[i] =  new  IT[ncsb-i+1];
+192
+193          mypair * pairarray =  new  mypair[nz];
+194          IT k = 0;
+195           for (IT j = 0; j < n; ++j)
+196          {
+197                   for  (IT i = csc.jc [j] ; i < csc.jc[j+1] ; ++i)  // scan the jth column
+198                  {
+199                           // concatenate the higher/lower order half of both row (first) index and col (second) index bits
+200                          IT hindex = (((highmask &  csc.ir[i] ) >> nlowbits) << nhighbits) | ((highmask & j) >> nlowbits);
+201                          IT lindex = ((lowmask &  csc.ir[i]) << nlowbits) | (lowmask & j) ;
+202
+203                           // i => location of that nonzero in csc.ir and csc.num arrays
+204                          pairarray[k++] = mypair(hindex, ipair(lindex,i));
+205                  }
+206          }
+207          sort(pairarray, pairarray+nz);   // sort according to hindex
+208          SortBlocks(pairarray, csc.num);
+209           delete  [] pairarray;
+210  }
+211
+212   template  < class  NT,  class  IT>
+213   void   CsbSym<NT, IT>::SortBlocks (pair<IT, pair<IT,IT> > * pairarray, NT * val)
+214  {
+215           typedef  pair<IT, pair<IT, IT> > mypair;
+216          IT cnz = 0;
+217      vector<IT> tempbot;
+218      vector<NT> tempnum;
+219          IT ldim =  IntPower<2> (nhighbits);   // leading dimension (not always equal to ncsb)
+220           for (IT i = 0; i < ncsb; ++i)
+221          {
+222                   for (IT j = 0; j < (ncsb-i); ++j)
+223                  {
+224                          top[i][j] = tempbot.size();
+225                          IT prevcnz = cnz;
+226                          std::vector<mypair> blocknz;
+227                           while (cnz < nz && pairarray[cnz].first == ((i*ldim)+(j+i)) )         // as long as we're in this block
+228                          {
+229                                  IT interlowbits = pairarray[cnz].second.first;
+230                                  IT rlowbits = ((interlowbits >> nlowbits) & lowmask);
+231                                  IT clowbits = (interlowbits & lowmask);
+232                                  IT bikey =  BitInterleaveLow (rlowbits, clowbits);
+233
+234                   if (j == 0 && rlowbits == clowbits)
+235                  {
+236                      diagonal.push_back(make_pair((i << nlowbits)+rlowbits, val[pairarray[cnz++].second.second]));
+237                  }
+238                   else
+239                  {
+240                                      blocknz.push_back(mypair(bikey, pairarray[cnz++].second));
+241                  }
+242                          }
+243                           // sort the block into bitinterleaved order
+244                          sort(blocknz.begin(), blocknz.end());
+245               typename  vector<mypair>::iterator itr;
+246
+247               for ( itr = blocknz.begin(); itr != blocknz.end(); ++itr)
+248                          {
+249                                  tempbot.push_back( itr->second.first );
+250                                  tempnum.push_back( val[itr->second.second] );
+251                          }
+252                  }
+253                  top[i][ncsb-i] = tempbot.size();
+254          }
+255
+256      assert (cnz == (tempbot.size() + diagonal.size()));
+257      nz = tempbot.size();     // update the number of off-diagonal nonzeros
+258      bot =  new  IT[nz];
+259      num =  new  NT[nz];
+260
+261      copy(tempbot.begin(), tempbot.end(), bot);
+262      copy(tempnum.begin(), tempnum.end(), num);
+263      sort(diagonal.begin(), diagonal.end());
+264  }
+265
+266   template < class  NT,  class  IT>
+267   void   CsbSym<NT, IT>::DivideIterationSpace (IT * & lspace, IT * & rspace, IT & lsize, IT & rsize, IT size, IT d)  const
+268   {
+269       if (d == 1)
+270      {
+271          lsize = size-size/2;
+272          rsize = size/2;
+273          lspace =  new  IT[lsize];
+274          rspace =  new  IT[rsize];
+275           for (IT i=0; i<rsize; ++i)    // we alternate indices
+276          {
+277              lspace[i] = 2*i;
+278              rspace[i] = 2*i+1;
+279          }
+280           if (lsize > rsize)
+281          {
+282              lspace[lsize-1] = size-1;
+283          }
+284      }
+285       else
+286      {
+287          IT chunks = size / (2*d);
+288           int  rest = size - (2*d*chunks);  // rest is modulus 2d
+289          lsize = d*chunks;    // initial estimates
+290          rsize = d*chunks;
+291           if (rest > d)     // first d goes to lsize, rest goes to rsize
+292          {
+293              rsize += (rest-d);
+294              lsize += d;
+295          }
+296           else   // all goes to lsize
+297          {
+298              lsize += rest;
+299          }
+300          lspace =  new  IT[lsize];
+301          rspace =  new  IT[rsize];
+302           int  remrest = (int) rest;    // needs to be signed integer since we're looping it until negative
+303           if (d == 2)
+304          {
+305               for (IT i=0; i<chunks; ++i)   // we alternate indices
+306              {
+307                  lspace[2*i+0] = 4*i+0;
+308                  lspace[2*i+1] = 4*i+1;
+309                  rspace[2*i+0] = 4*i+2;
+310                  rspace[2*i+1] = 4*i+3;
+311              }
+312               if (remrest-- > 0)   lspace[2*chunks+0] = 4*chunks+0;
+313               if (remrest-- > 0)   lspace[2*chunks+1] = 4*chunks+1;
+314               if (remrest-- > 0)   rspace[2*chunks+0] = 4*chunks+2;
+315          }
+316           else   if (d == 3)
+317          {
+318               for (IT i=0; i<chunks; ++i)
+319              {
+320                  lspace[3*i+0] = 6*i+0;
+321                  lspace[3*i+1] = 6*i+1;
+322                  lspace[3*i+2] = 6*i+2;
+323                  rspace[3*i+0] = 6*i+3;
+324                  rspace[3*i+1] = 6*i+4;
+325                  rspace[3*i+2] = 6*i+5;
+326              }
+327               if (remrest-- > 0)   lspace[3*chunks+0] = 6*chunks+0;
+328               if (remrest-- > 0)   lspace[3*chunks+1] = 6*chunks+1;
+329               if (remrest-- > 0)   lspace[3*chunks+2] = 6*chunks+2;
+330               if (remrest-- > 0)   rspace[3*chunks+0] = 6*chunks+3;
+331               if (remrest-- > 0)   rspace[3*chunks+1] = 6*chunks+4;
+332          }
+333           else   if (d == 4)
+334          {
+335
+336               for (IT i=0; i<chunks; ++i)
+337              {
+338                  lspace[4*i+0] = 8*i+0;
+339                  lspace[4*i+1] = 8*i+1;
+340                  lspace[4*i+2] = 8*i+2;
+341                  lspace[4*i+3] = 8*i+3;
+342                  rspace[4*i+0] = 8*i+4;
+343                  rspace[4*i+1] = 8*i+5;
+344                  rspace[4*i+2] = 8*i+6;
+345                  rspace[4*i+3] = 8*i+7;
+346              }
+347               if (remrest-- > 0)   lspace[4*chunks+0] = 8*chunks+0;
+348               if (remrest-- > 0)   lspace[4*chunks+1] = 8*chunks+1;
+349               if (remrest-- > 0)   lspace[4*chunks+2] = 8*chunks+2;
+350               if (remrest-- > 0)   lspace[4*chunks+3] = 8*chunks+3;
+351               if (remrest-- > 0)   rspace[4*chunks+0] = 8*chunks+4;
+352               if (remrest-- > 0)   rspace[4*chunks+1] = 8*chunks+5;
+353               if (remrest-- > 0)   rspace[4*chunks+2] = 8*chunks+6;
+354          }
+355           else
+356          {
+357              cout <<  "Diagonal d = "  << d <<  " is not yet supported"  << endl;
+358          }
+359      }
+360  }
+361
+362   template < class  NT,  class  IT>
+363   void   CsbSym<NT, IT>::MultAddAtomics (NT * __restrict y,  const  NT * __restrict x,  const  IT d)  const
+364   {
+365      cilk_for(IT i=0; i< ncsb-d; ++i)     // all blocks at the dth diagonal and beyond
+366      {
+367          IT rhi = (i << nlowbits);
+368                  NT * __restrict suby = &y[rhi];
+369           const  NT * __restrict subx_mirror = &x[rhi];
+370
+371          cilk_for(IT j=d; j < (ncsb-i); ++j)
+372          {
+373              IT chi = ((j+i) << nlowbits);
+374               const  NT * __restrict subx = &x[chi];
+375              NT * __restrict suby_mirror = &y[chi];
+376
+377              IT * __restrict r_bot = bot;
+378                  NT * __restrict r_num = num;
+379               for (IT k=top[i][j]; k<top[i][j+1]; ++k)
+380              {
+381                  IT ind = r_bot[k];
+382                  NT val = r_num[k];
+383
+384                  IT rli = ((r_bot[k] >> nlowbits) & lowmask);
+385                  IT cli = (r_bot[k] & lowmask);
+386
+387                   atomicallyIncrementDouble (&suby[rli], val * subx[cli]);
+388                   atomicallyIncrementDouble (&suby_mirror[cli], val * subx_mirror[rli]);
+389   #ifdef STATS
+390                       atomicflops += 2;
+391   #endif
+392               }
+393          }
+394      }
+395  }
+396
+397
+398   template  < class  NT,  class  IT>
+399   void   CsbSym<NT, IT>::MultMainDiag (NT * __restrict y,  const  NT * __restrict x)  const
+400   {
+401       if (Imbalance(0) > 2 *  BALANCETH )
+402      {
+403          cilk_for(IT i=0; i< ncsb; ++i)   // in main diagonal, j = i
+404          {
+405              IT hi = (i << nlowbits);
+406                      NT * __restrict suby = &y[hi];
+407               const  NT * __restrict subx = &x[hi];
+408
+409               if (i == (ncsb-1) && (n-hi) <= lowmask)   // last iteration and it's irregular (can't parallelize)
+410              {
+411                  IT * __restrict r_bot = bot;
+412                      NT * __restrict r_num = num;
+413                   for (IT k=top[i][0]; k<top[i][1]; ++k)
+414                  {
+415                      IT ind = r_bot[k];
+416                      NT val = r_num[k];
+417
+418                      IT rli = ((ind >> nlowbits) & lowmask);
+419                      IT cli = (ind & lowmask);
+420
+421                      suby[rli] += val * subx[cli];
+422                      suby[cli] += val * subx[rli];    // symmetric update
+423                  }
+424              }
+425               else
+426              {
+427                  BlockTriPar(top[i][0], top[i][1], subx, suby, 0, blcrange,  BREAKEVEN  * (nlowbits+1));
+428              }
+429          }
+430      }
+431       else   // No need for block parallelization
+432      {
+433          cilk_for(IT i=0; i< ncsb; ++i)   // in main diagonal, j = i
+434          {
+435              IT hi = (i << nlowbits);
+436                      NT * __restrict suby = &y[hi];
+437               const  NT * __restrict subx = &x[hi];
+438
+439              IT * __restrict r_bot = bot;
+440                  NT * __restrict r_num = num;
+441               for (IT k=top[i][0]; k<top[i][1]; ++k)
+442              {
+443                  IT ind = r_bot[k];
+444                  NT val = r_num[k];
+445
+446                  IT rli = ((ind >> nlowbits) & lowmask);
+447                  IT cli = (ind & lowmask);
+448
+449                  suby[rli] += val * subx[cli];
+450                  suby[cli] += val * subx[rli];    // symmetric update
+451              }
+452          }
+453      }
+454       const  IT diagsize = diagonal.size();
+455      cilk_for(IT i=0; i < diagsize; ++i)
+456      {
+457          y[diagonal[i].first] += diagonal[i].second * x[diagonal[i].first];   // process the diagonal
+458      }
+459  }
+460
+461
+462   // Multiply the dth block diagonal
+463   // which is composed of blocks A[i][i+n]
+464   template  < class  NT,  class  IT>
+465   void   CsbSym<NT, IT>::MultDiag (NT * __restrict y,  const  NT * __restrict x,  const  IT d)  const
+466   {
+467       if (d == 0)
+468      {
+469          MultMainDiag(y, x);
+470           return ;
+471      }
+472      IT * lspace;
+473      IT * rspace;
+474      IT lsize, rsize;
+475      DivideIterationSpace(lspace, rspace, lsize, rsize, ncsb-d, d);
+476      IT lsum = 0;
+477      IT rsum = 0;
+478       for (IT k=0; k<lsize; ++k)
+479      {
+480          lsum += top[lspace[k]][d+1] - top[lspace[k]][d];
+481      }
+482       for (IT k=0; k<rsize; ++k)
+483      {
+484          rsum += top[rspace[k]][d+1] - top[rspace[k]][d];
+485      }
+486       float  lave = lsum / lsize;
+487       float  rave = rsum / rsize;
+488
+489      cilk_for(IT i=0; i< lsize; ++i)  // in the dth diagonal, j = i+d
+490      {
+491          IT rhi = (lspace[i] << nlowbits) ;
+492          IT chi = ((lspace[i]+d) << nlowbits);
+493                  NT * __restrict suby = &y[rhi];
+494                  NT * __restrict suby_mirror = &y[chi];
+495           const  NT * __restrict subx = &x[chi];
+496           const  NT * __restrict subx_mirror = &x[rhi];
+497
+498           if ((top[lspace[i]][d+1] - top[lspace[i]][d] >  BALANCETH  * lave)  // relative denser block
+499              && (!(lspace[i] == (ncsb-d-1) && (n-chi) <= lowmask)))   // and parallelizable
+500          {
+501              BlockPar(top[lspace[i]][d], top[lspace[i]][d+1], subx, subx_mirror, suby, suby_mirror, 0, blcrange,  BREAKEVEN  * (nlowbits+1));
+502          }
+503           else
+504          {
+505              IT * __restrict r_bot = bot;
+506                  NT * __restrict r_num = num;
+507               for (IT k=top[lspace[i]][d]; k<top[lspace[i]][d+1]; ++k)
+508              {
+509                  IT rli = ((r_bot[k] >> nlowbits) & lowmask);
+510                  IT cli = (r_bot[k] & lowmask);
+511                  suby[rli] += r_num[k] * subx[cli];
+512                  suby_mirror[cli] += r_num[k] * subx_mirror[rli];     // symmetric update
+513              }
+514          }
+515      }
+516
+517      cilk_for(IT j=0; j< rsize; ++j)
+518      {
+519          IT rhi = (rspace[j] << nlowbits) ;
+520          IT chi = ((rspace[j]+d) << nlowbits);
+521              NT * __restrict suby = &y[rhi];
+522                  NT * __restrict suby_mirror = &y[chi];
+523           const  NT * __restrict subx = &x[chi];
+524           const  NT * __restrict subx_mirror = &x[rhi];
+525
+526           if ((top[rspace[j]][d+1] - top[rspace[j]][d] >  BALANCETH  * rave)  // relative denser block
+527              && (!(rspace[j] == (ncsb-d-1) && (n-chi) <= lowmask)))  // and parallelizable
+528          {
+529              BlockPar(top[rspace[j]][d], top[rspace[j]][d+1], subx, subx_mirror, suby, suby_mirror, 0, blcrange,  BREAKEVEN  * (nlowbits+1));
+530          }
+531           else
+532          {
+533              IT * __restrict r_bot = bot;
+534                  NT * __restrict r_num = num;
+535               for (IT k=top[rspace[j]][d]; k<top[rspace[j]][d+1]; ++k)
+536              {
+537                  IT rli = ((r_bot[k] >> nlowbits) & lowmask);
+538                  IT cli = (r_bot[k] & lowmask);
+539                  suby[rli] += r_num[k] * subx[cli];
+540                  suby_mirror[cli] += r_num[k] * subx_mirror[rli];     // symmetric update
+541              }
+542          }
+543      }
+544       delete  [] lspace;
+545       delete  [] rspace;
+546  }
+547
+548   // Block parallelization for upper triangular compressed sparse blocks
+549   // start/end: element start/end positions (indices to the bot array)
+550   // bot[start...end] always fall in the `same block
+551   // PRECONDITION: rangeend-rangebeg is a power of two
+552   template  < class  NT,  class  IT>
+553   void   CsbSym<NT, IT>::BlockTriPar (IT start, IT end,  const  NT * __restrict subx, NT * __restrict suby,
+554                  IT rangebeg, IT rangeend, IT cutoff)  const
+555   {
+556      assert( IsPower2 (rangeend-rangebeg));
+557       if (end - start < cutoff)
+558      {
+559          IT * __restrict r_bot = bot;
+560              NT * __restrict r_num = num;
+561           for (IT k=start; k<end; ++k)
+562          {
+563              IT ind = r_bot[k];
+564              NT val = r_num[k];
+565
+566              IT rli = ((ind >> nlowbits) & lowmask);
+567              IT cli = (ind & lowmask);
+568
+569              suby[rli] += val * subx[cli];
+570              suby[cli] += val * subx[rli];    // symmetric update
+571          }
+572      }
+573       else
+574      {
+575           // Lower_bound is a version of binary search: it attempts to find the element value in an ordered range [first, last)
+576           // Specifically, it returns the first position where value could be inserted without violating the ordering
+577          IT halfrange = (rangebeg+rangeend)/2;
+578          IT qrt1range = (rangebeg+halfrange)/2;
+579          IT qrt3range = (halfrange+rangeend)/2;
+580
+581          IT * mid = std::lower_bound(&bot[start], &bot[end], halfrange, mortoncmp);   // divides in mid column
+582          IT * right = std::lower_bound(mid, &bot[end], qrt3range, mortoncmp);
+583
+584           /* -------
+585              | 0 2 |
+586              | 1 3 |
+587              ------- */
+588           // subtracting two pointers pointing to the same array gives you the # of elements separating them
+589           // In the symmetric case, quadrant "1" doesn't exist (size1 = 0)
+590          IT size0 =  static_cast< IT >  (mid - &bot[start]);
+591          IT size2 =  static_cast< IT >  (right - mid);
+592          IT size3 =  static_cast< IT >  (&bot[end] - right);
+593
+594          IT ncutoff = std::max<IT>(cutoff/2,  MINNNZTOPAR );
+595
+596          cilk_spawn BlockTriPar(start, start+size0, subx, suby, rangebeg, qrt1range, ncutoff);    // multiply subblock_0
+597          BlockTriPar(end-size3, end, subx, suby, qrt3range, rangeend, ncutoff);           // multiply subblock_3
+598          cilk_sync;
+599
+600          BlockPar(start+size0, end-size3, subx, subx, suby, suby, halfrange, qrt3range, ncutoff);  // multiply subblock_2
+601      }
+602  }
+603
+604   // Parallelize the block itself
+605   // start/end: element start/end positions (indices to the bot array)
+606   // bot[start...end] always fall in the same block
+607   // PRECONDITION: rangeend-rangebeg is a power of two
+608   // TODO: we rely on the particular implementation of lower_bound for correctness, which is dangerous !
+609   //       what if lhs (instead of rhs) parameter to the comparison object is the splitter?
+610   template  < class  NT,  class  IT>
+611   void   CsbSym<NT, IT>::BlockPar (IT start, IT end,  const  NT * __restrict subx,  const  NT * __restrict subx_mirror,
+612              NT * __restrict suby, NT * __restrict suby_mirror, IT rangebeg, IT rangeend, IT cutoff)  const
+613   {
+614      assert( IsPower2 (rangeend-rangebeg));
+615       if (end - start < cutoff)
+616      {
+617          IT * __restrict r_bot = bot;
+618              NT * __restrict r_num = num;
+619           for (IT k=start; k<end; ++k)
+620          {
+621              IT ind = r_bot[k];
+622              NT val = r_num[k];
+623
+624              IT rli = ((ind >> nlowbits) & lowmask);
+625              IT cli = (ind & lowmask);
+626
+627              suby[rli] += val * subx[cli];
+628              suby_mirror[cli] += val * subx_mirror[rli];  // symmetric update
+629          }
+630      }
+631       else
+632      {
+633           // Lower_bound is a version of binary search: it attempts to find the element value in an ordered range [first, last)
+634           // Specifically, it returns the first position where value could be inserted without violating the ordering
+635          IT halfrange = (rangebeg+rangeend)/2;
+636          IT qrt1range = (rangebeg+halfrange)/2;
+637          IT qrt3range = (halfrange+rangeend)/2;
+638
+639          IT * mid = std::lower_bound(&bot[start], &bot[end], halfrange, mortoncmp);
+640          IT * left = std::lower_bound(&bot[start], mid, qrt1range, mortoncmp);
+641          IT * right = std::lower_bound(mid, &bot[end], qrt3range, mortoncmp);
+642
+643           /* -------
+644              | 0 2 |
+645              | 1 3 |
+646              ------- */
+647           // subtracting two pointers pointing to the same array gives you the # of elements separating them
+648           // we're *sure* that the differences are 1) non-negative, 2) small enough to be indexed by an IT
+649          IT size0 =  static_cast< IT >  (left - &bot[start]);
+650          IT size1 =  static_cast< IT >  (mid - left);
+651          IT size2 =  static_cast< IT >  (right - mid);
+652          IT size3 =  static_cast< IT >  (&bot[end] - right);
+653
+654          IT ncutoff = std::max<IT>(cutoff/2,  MINNNZTOPAR );
+655
+656           // We only perform [0,3] in parallel and then [1,2] in parallel because the symmetric update causes races when
+657           // performing [0,1] in parallel (as it would perform [0,2] in the fictitious lower triangular part)
+658          cilk_spawn BlockPar(start, start+size0, subx, subx_mirror, suby, suby_mirror, rangebeg, qrt1range, ncutoff);     // multiply subblock_0
+659          BlockPar(end-size3, end, subx, subx_mirror, suby, suby_mirror, qrt3range, rangeend, ncutoff);            // multiply subblock_3
+660          cilk_sync;
+661
+662          cilk_spawn BlockPar(start+size0, start+size0+size1, subx, subx_mirror, suby, suby_mirror, qrt1range, halfrange, ncutoff);    // multiply subblock_1
+663          BlockPar(start+size0+size1, end-size3, subx, subx_mirror, suby, suby_mirror, halfrange, qrt3range, ncutoff);         // multiply subblock_2
+664          cilk_sync;
+665      }
+666  }
+667
+668
+669   // double* restrict a; --> No aliases for a[0], a[1], ...
+670   // bstart/bend: block start/end index (to the top array)
+671   template  < class  NT,  class  IT>
+672   void   CsbSym<NT, IT>::SeqSpMV ( const  NT * __restrict x, NT * __restrict y)  const
+673   {
+674       const  IT diagsize = diagonal.size();
+675       for (IT i=0; i < diagsize; ++i)
+676      {
+677          y[diagonal[i].first] += diagonal[i].second * x[diagonal[i].first];   // process the diagonal
+678      }
+679       for  (IT i = 0 ; i < ncsb ; ++i)     // for all block rows of A
+680      {
+681          IT rhi = (i << nlowbits);
+682          NT * suby = &y[rhi];
+683           const  NT * subx_mirror = &x[rhi];
+684
+685          IT * __restrict r_bot = bot;
+686              NT * __restrict r_num = num;
+687           for  (IT j = 0 ; j < (ncsb-i) ; ++j)      // for all blocks inside that block row
+688          {
+689                       // get higher order bits for column indices
+690                      IT chi = ((j+i) << nlowbits);
+691                       const  NT * __restrict subx = &x[chi];
+692              NT * __restrict suby_mirror = &y[chi];
+693
+694               for (IT k=top[i][j]; k<top[i][j+1]; ++k)
+695              {
+696                  IT rli = ((r_bot[k] >> nlowbits) & lowmask);
+697                  IT cli = (r_bot[k] & lowmask);
+698                  NT val = r_num[k];
+699                  suby[rli] += val * subx[cli];
+700                  suby_mirror[cli] += val * subx_mirror[rli];  // symmetric update
+701              }
+702          }
+703      }
+704  }
+705
+706   // Imbalance in the dth block diagonal (the main diagonal is the 0th)
+707   template  < class  NT,  class  IT>
+708   float   CsbSym<NT, IT>::Imbalance (IT d)  const
+709   {
+710       if  (ncsb <= d+1)
+711      {
+712           return  0.0;  //pointless
+713      }
+714
+715      IT size = ncsb-d-1;
+716      IT * sums =  new  IT[size];
+717           for ( size_t  i=0; i< size; ++i)
+718          {
+719          sums[i] = top[i][d+1] - top[i][d];
+720          }
+721      IT max = *max_element(sums, sums+size);
+722      IT mean = accumulate(sums, sums+size, 0.0) / size;
+723       delete  [] sums;
+724
+725           return   static_cast< float > (max) / mean;
+726  }
+727
+728
+729   // Total number of nonzeros in the dth block diagonal (the main diagonal is the 0th)
+730   template  < class  NT,  class  IT>
+731  IT  CsbSym<NT, IT>::nzsum (IT d)  const
+732   {
+733          IT sum = 0;
+734       for ( size_t  i=0; i< ncsb-d; ++i)
+735          {
+736          sum += (top[i][d+1] - top[i][d]);
+737          }
+738           return  sum;
+739  }
+740
+741   // Print stats to an ofstream object
+742   template  < class  NT,  class  IT>
+743  ofstream &  CsbSym<NT, IT>::PrintStats (ofstream & outfile)  const
+744   {
+745       if (nz == 0)
+746      {
+747          outfile <<  "## Matrix Doesn't have any nonzeros"  <<endl;
+748           return  outfile;
+749      }
+750       const  IT ntop = ncsb * ncsb;
+751
+752      outfile <<  "## Average block is of dimensions " << lowmask+1 <<  "-by-"  << lowmask+1 << endl;
+753      outfile <<  "## Number of real blocks is " << ntop << endl;
+754      outfile <<  "## Main (0th) block diagonal imbalance: "  << Imbalance(0) << endl;
+755      outfile <<  "## 1st block diagonal imbalance: "  << Imbalance(1) << endl;
+756      outfile <<  "## 2nd block diagonal imbalance: "  << Imbalance(2) << endl;
+757
+758      outfile <<  "## nnz ratios (block diagonal 0,1,2): "  <<  static_cast< float > (nzsum(0)) / nz <<  ", "
+759          << static_cast<float>(nzsum(1)) / nz <<  ", "  << static_cast<float>(nzsum(2)) / nz << endl;
+760      outfile <<  "## atomics ratio: "  <<  static_cast< float > (nz-nzsum(0)-nzsum(1)-nzsum(2))/nz << endl;
+761
+762      std::vector<int> blocksizes;
+763       for (IT i=0; i<ncsb; ++i)
+764      {
+765           for (IT j=0; j < (ncsb-i); ++j)
+766          {
+767              blocksizes.push_back(static_cast<int> (top[i][j+1]-top[i][j]));
+768          }
+769      }
+770      sort(blocksizes.begin(), blocksizes.end());
+771      outfile<<  "## Total number of nonzeros: "  << 2*nz +diagonal.size()<< endl;
+772      outfile<<  "## Total number of stored nonzeros: " << nz+diagonal.size() << endl;
+773      outfile<<  "## Size of diagonal: "  << diagonal.size() << endl;
+774
+775      outfile <<  "## Nonzero distribution (sorted) of blocks follows: \n"  ;
+776      std::copy(blocksizes.begin(), blocksizes.end(), ostream_iterator<int>(outfile, "\n" ));
+777      outfile << endl;
+778       return  outfile;
+779  }
+780
+781
+782   template  < class  NT,  class  IT>
+783  ofstream &  CsbSym<NT, IT>::Dump (ofstream & outfile)  const
+784   {
+785       for ( typename  vector< pair<IT,NT> >::const_iterator itr = diagonal.begin(); itr != diagonal.end(); ++itr)
+786      {
+787          outfile << itr->first <<  " "  << itr->second <<  "\n" ;
+788      }
+789       for (IT i =0; i<ncsb; ++i)
+790      {
+791           for (IT j=0; j< (ncsb-i); ++j)
+792          {
+793              outfile <<  "Dumping A.top("  << i <<  ","  << j <<  ")"  << endl;
+794               for (IT k=top[i][j]; k< top[i][j+1]; ++k)
+795              {
+796                  IT rli = ((bot[k] >> nlowbits) & lowmask);
+797                  IT cli = bot[k] & lowmask;
+798                  outfile <<  "A("  << rli <<  ","  << cli <<  ")="  << num[k] << endl;
+799              }
+800          }
+801      }
+802       return  outfile;
+803  }
+csbsym.h
+nextpoweroftwo unsigned int nextpoweroftwo(unsigned int v) Definition:   utility.h:401
+CsbSym::Dump ofstream & Dump(ofstream &outfile) const  Definition:   csbsym.cpp:783
+SLACKNESS #define SLACKNESS Definition:   utility.h:130
+CsbSym::operator= CsbSym< NT, IT > & operator=(const CsbSym< NT, IT > &rhs) Definition:   csbsym.cpp:114
+CsbSym::PrintStats ofstream & PrintStats(ofstream &outfile) const  Definition:   csbsym.cpp:743
+atomicallyIncrementDouble void atomicallyIncrementDouble(volatile double *target, const double by) Definition:   csbsym.h:17
+CsbSym::~CsbSym ~CsbSym() Definition:   csbsym.cpp:165
+BREAKEVEN #define BREAKEVEN Definition:   utility.h:136
+BitInterleaveLow ITYPE BitInterleaveLow(ITYPE x, ITYPE y) Definition:   utility.h:344
+IntPower< 2 > unsigned IntPower< 2 >(unsigned exponent) Definition:   utility.h:387
+BALANCETH #define BALANCETH Definition:   utility.h:127
+utility.h
+IsPower2 bool IsPower2(T x) Definition:   utility.h:396
+CsbSym Definition:   csbsym.h:43
+highestbitset unsigned int highestbitset(unsigned __int64 v) Definition:   utility.h:423
+Csc Definition:   csc.h:15
+L2SIZE #define L2SIZE Definition:   utility.h:132
+CsbSym::CsbSym CsbSym() Definition:   csbsym.h:46
+MortCompSym< IT >
+MINNNZTOPAR #define MINNNZTOPAR Definition:   utility.h:137
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

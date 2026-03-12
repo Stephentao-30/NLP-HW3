@@ -1,0 +1,43 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-4.html
+Axioms for Asynchronous Processes
+Eleftherios Matsikoudis
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-4
+January 20,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-4.pdf
+From classical computability theory to modern programming language design, the mathematical concept of function has dominated our perception of sequential computation. But as soon as we venture into the realm of concurrent interaction, it is well understood that this concept has to be abandoned. What are we to replace it with?
+This question is considered too general to admit a definitive answer. If we want such an answer, we must be willing to narrow our scope, and impose some constraint on the form of concurrent interaction that we choose to consider. Here, we derive such a constraint solely from the intuitive notion of asynchrony. And under this constraint, we propose a mathematical concept of sequential asynchronous process, which we define axiomatically, and put forward as the sought replacement to the classical function.
+Our theory is an interleaving theory. And traditionally, interleaving theories have failed to integrate a satisfactory treatment of what is known as the finite delay property, according to which, if a process can make progress, then it will eventually do so, but after an arbitrary amount of time. This failure is generally attributed to the so-called expansion law of such theories, which reduces parallel execution to indeterminate serialization. But in truth, the problem is deeply rooted in the concept of labelled transition system, which is the pervasive mathematical object underlying such theories.
+To solve this problem, we introduce a new type of system, in which, instead of labelled transitions, we have, essentially, sequences of labelled transitions. We call systems of this type labelled execution systems. We use a coalgebraic representation to obtain a proper concept of bisimilarity among such systems, and study the conditions under which that concept agrees with the intuitive notion of branching equivalence that one has for them.
+Finally, we examine the difference in expressive power and branching complexity between labelled execution systems and labelled transition systems.
+The intended interpretation of our concept of asynchronous process is a state of what we may think of as a very large labelled execution system, and the role of our axioms is to fix the shape of that system.
+There are two groups of axioms. The first group is used to specify the form of the executions of the system, and the way in which they branch off one another, in a manner consistent with our intuitive notion of behaviour of an asynchronous process. The second group is deduced from a single extremal axiom asserting the finality of the system in a covariety of coalgebras relating to the first group of axioms, and is used to guarantee that every behaviour is accounted for exactly once.
+Advisors:  Edward A. Lee
+BibTeX citation:
+@phdthesis{Matsikoudis:EECS-2011-4,
+Author= {Matsikoudis, Eleftherios},
+Title= {Axioms for Asynchronous Processes},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-4.html},
+Number= {UCB/EECS-2011-4},
+Abstract= {From classical computability theory to modern programming language design, the mathematical concept of function has dominated our perception of sequential computation. But as soon as we venture into the realm of concurrent interaction, it is well understood that this concept has to be abandoned. What are we to replace it with?
+This question is considered too general to admit a definitive answer. If we want such an answer, we must be willing to narrow our scope, and impose some constraint on the form of concurrent interaction that we choose to consider. Here, we derive such a constraint solely from the intuitive notion of asynchrony. And under this constraint, we propose a mathematical concept of sequential asynchronous process, which we define axiomatically, and put forward as the sought replacement to the classical function.
+Our theory is an interleaving theory. And traditionally, interleaving theories have failed to integrate a satisfactory treatment of what is known as the finite delay property, according to which, if a process can make progress, then it will eventually do so, but after an arbitrary amount of time. This failure is generally attributed to the so-called expansion law of such theories, which reduces parallel execution to indeterminate serialization. But in truth, the problem is deeply rooted in the concept of labelled transition system, which is the pervasive mathematical object underlying such theories.
+To solve this problem, we introduce a new type of system, in which, instead of labelled transitions, we have, essentially, sequences of labelled transitions. We call systems of this type labelled execution systems. We use a coalgebraic representation to obtain a proper concept of bisimilarity among such systems, and study the conditions under which that concept agrees with the intuitive notion of branching equivalence that one has for them.
+Finally, we examine the difference in expressive power and branching complexity between labelled execution systems and labelled transition systems.
+The intended interpretation of our concept of asynchronous process is a state of what we may think of as a very large labelled execution system, and the role of our axioms is to fix the shape of that system.
+There are two groups of axioms. The first group is used to specify the form of the executions of the system, and the way in which they branch off one another, in a manner consistent with our intuitive notion of behaviour of an asynchronous process. The second group is deduced from a single extremal axiom asserting the finality of the system in a covariety of coalgebras relating to the first group of axioms, and is used to guarantee that every behaviour is accounted for exactly once.},
+}
+EndNote citation:
+%0 Thesis
+%A Matsikoudis, Eleftherios
+%T Axioms for Asynchronous Processes
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 January 20
+%@ UCB/EECS-2011-4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-4.html
+%F Matsikoudis:EECS-2011-4

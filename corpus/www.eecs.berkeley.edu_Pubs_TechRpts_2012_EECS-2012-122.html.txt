@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-122.html
+Single View Pose Estimation of Mobile Devices in Urban Environments
+Aaron Hallquist
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-122
+May 25,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-122.pdf
+Pose estimation of mobile devices is useful in a wide variety of applications, including augmented reality and geo-tagging. Even though most of today’s cell phones are equipped with sensors such as GPS, accelerometers, and gyros, the pose estimated via these is often inaccurate. This is particularly true in urban environments where tall buildings block satellite view for GPS, and distortions in Earth’s magnetic field from power lines adversely affect compass readings. In this thesis, we describe an image based localization algorithm for estimating the pose of cell phones in urban environments. This is motivated by the fact that most of today’s cell phones are equipped with cameras whose imagery can be matched against an image database for localization purposes. We use the sensors available on the cell phone, an image taken with its camera, and a database of geo-tagged images and associated 3D depth to estimate the position and orientation of the cell phone. Our proposed approach consists of two steps. The first step, based on existing work, matches the query image from the cell phone against the image database in order to retrieve a database image of the same scene. The second step, which is the focus of this thesis, begins by using pitch and roll estimates from the cell phone to recover plane normals and yaw via vanishing points. These are then used to solve for a constrained homography matrix for the detected planes to recover translation via matching point feature correspondences between the query and database images. We characterize the performance of this approach for a dataset in Oakland, California and show that for a query set of 92 images, our computed yaw is within 10 degrees for 96% of queries as compared to 26% for the compass on the cell phone; similarly, our estimated position is within 10 meters for 92% of queries as compared to 31% for GPS on the cell phone.
+Advisors:  Avideh Zakhor
+BibTeX citation:
+@mastersthesis{Hallquist:EECS-2012-122,
+Author= {Hallquist, Aaron},
+Editor= {Zakhor, Avideh},
+Title= {Single View Pose Estimation of Mobile Devices in Urban Environments},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-122.html},
+Number= {UCB/EECS-2012-122},
+Abstract= {Pose estimation of mobile devices is useful in a wide variety of applications, including augmented reality and geo-tagging. Even though most of today’s cell phones are equipped with sensors such as GPS, accelerometers, and gyros, the pose estimated via these is often inaccurate. This is particularly true in urban environments where tall buildings block satellite view for GPS, and distortions in Earth’s magnetic field from power lines adversely affect compass readings. In this thesis, we describe an image based localization algorithm for estimating the pose of cell phones in urban environments. This is motivated by the fact that most of today’s cell phones are equipped with cameras whose imagery can be matched against an image database for localization purposes. We use the sensors available on the cell phone, an image taken with its camera, and a database of geo-tagged images and associated 3D depth to estimate the position and orientation of the cell phone. Our proposed approach consists of two steps. The first step, based on existing work, matches the query image from the cell phone against the image database in order to retrieve a database image of the same scene. The second step, which is the focus of this thesis, begins by using pitch and roll estimates from the cell phone to recover plane normals and yaw via vanishing points. These are then used to solve for a constrained homography matrix for the detected planes to recover translation via matching point feature correspondences between the query and database images. We characterize the performance of this approach for a dataset in Oakland, California and show that for a query set of 92 images, our computed yaw is within 10 degrees for 96% of queries as compared to 26% for the compass on the cell phone; similarly, our estimated position is within 10 meters for 92% of queries as compared to 31% for GPS on the cell phone.},
+}
+EndNote citation:
+%0 Thesis
+%A Hallquist, Aaron
+%E Zakhor, Avideh
+%T Single View Pose Estimation of Mobile Devices in Urban Environments
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 25
+%@ UCB/EECS-2012-122
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-122.html
+%F Hallquist:EECS-2012-122

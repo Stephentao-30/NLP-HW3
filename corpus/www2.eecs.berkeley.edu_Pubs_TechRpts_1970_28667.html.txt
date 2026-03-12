@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28667.html
+On the Use of Models in the Synthesis of Optimization Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Use of Models in the Synthesis of Optimization Algorithms
+On the Use of Models in the Synthesis of Optimization Algorithms
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M274
+July 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-274.pdf
+BibTeX citation:
+@techreport{Polak:M274,
+Author = {Polak, E.},
+Title = {On the Use of Models in the Synthesis of Optimization Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28667.html},
+Number = {UCB/ERL M274}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T On the Use of Models in the Synthesis of Optimization Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M274
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28667.html
+%F Polak:M274

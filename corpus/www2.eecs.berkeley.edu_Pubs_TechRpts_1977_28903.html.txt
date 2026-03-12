@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28903.html
+A Theory of Approximate Reasoning (AR) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Theory of Approximate Reasoning (AR)
+A Theory of Approximate Reasoning (AR)
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/58
+August 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-58.pdf
+BibTeX citation:
+@techreport{Zadeh:M77/58,
+Author = {Zadeh, L.A.},
+Title = {A Theory of Approximate Reasoning (AR)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28903.html},
+Number = {UCB/ERL M77/58}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T A Theory of Approximate Reasoning (AR)
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28903.html
+%F Zadeh:M77/58

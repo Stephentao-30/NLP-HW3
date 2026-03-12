@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28730.html
+A Globally Converging Secant Method, with Applciations to Boundary Value Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Globally Converging Secant Method, with Applciations to Boundary Value Problems
+A Globally Converging Secant Method, with Applciations to Boundary Value Problems
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M374
+September 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-374.pdf
+BibTeX citation:
+@techreport{Polak:M374,
+Author = {Polak, E.},
+Title = {A Globally Converging Secant Method, with Applciations to Boundary Value Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28730.html},
+Number = {UCB/ERL M374}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T A Globally Converging Secant Method, with Applciations to Boundary Value Problems
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M374
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28730.html
+%F Polak:M374

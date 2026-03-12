@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29293.html
+Inductive Inference: A Recursion Theoretic Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Inductive Inference: A Recursion Theoretic Approach
+Inductive Inference: A Recursion Theoretic Approach
+L. Blum and M. Blum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M386
+March 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-386.pdf
+BibTeX citation:
+@techreport{Blum:M386,
+Author = {Blum, L. and Blum, M.},
+Title = {Inductive Inference: A Recursion Theoretic Approach},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29293.html},
+Number = {UCB/ERL M386}
+}
+EndNote citation:
+%0 Report
+%A Blum, L.
+%A Blum, M.
+%T Inductive Inference: A Recursion Theoretic Approach
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M386
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29293.html
+%F Blum:M386

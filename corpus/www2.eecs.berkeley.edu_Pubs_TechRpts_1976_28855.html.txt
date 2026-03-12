@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28855.html
+On Fuzziness and Linguistic Probabilities
+Hung T. Nguyen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M595
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-595.pdf
+BibTeX citation:
+@techreport{Nguyen:M595,
+Author= {Nguyen, Hung T.},
+Title= {On Fuzziness and Linguistic Probabilities},
+Year= {1976},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28855.html},
+Number= {UCB/ERL M595},
+}
+EndNote citation:
+%0 Report
+%A Nguyen, Hung T.
+%T On Fuzziness and Linguistic Probabilities
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M595
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28855.html
+%F Nguyen:M595

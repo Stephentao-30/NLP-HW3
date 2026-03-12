@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-236.html
+Firm Software Parallelism: Building a measure of how firms will be impacted by the changeover to multicore chips
+Neil Thompson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-236
+December 12,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-236.pdf
+The National Research Council has highlighted the importance of the changeover to multicore architectures on software performance.  They predict strong economic impacts for users in industry as a result of the change.
+This thesis is part of a larger research project that aims to quantify those effects.  The main contribution of this thesis is to build a measure of how well firms can take advantage of multicore chips, which is a key ingredient in addressing this important problem.  This measure is built up using unique data on firm software usage from the marketing firm Harte Hanks, and combining it with results from the Berkeley Software Parallelism Survey – a survey of parallelism experts run for this thesis.  Alternative formulations for creating this parallelism measure are also discussed and evaluated, with the reasons for choosing the main formulation clearly expressed.  Finally, this thesis highlights the limitations of this measure and discusses the other on-going initiatives that are underway to address them.
+This thesis also makes a supplemental contribution by highlighting a new case study detailing the impact of the changeover to multicore.  It also reports additional results from the Berkeley Software Parallelism Survey that may be of interest to those assessing the presence of different types of parallelism or different computational motifs in mainstream software programs.
+Advisors:  James Demmel
+BibTeX citation:
+@mastersthesis{Thompson:EECS-2012-236,
+Author= {Thompson, Neil},
+Title= {Firm Software Parallelism: Building a measure of how firms will be impacted by the changeover to multicore chips},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-236.html},
+Number= {UCB/EECS-2012-236},
+Abstract= {The National Research Council has highlighted the importance of the changeover to multicore architectures on software performance.  They predict strong economic impacts for users in industry as a result of the change.
+This thesis is part of a larger research project that aims to quantify those effects.  The main contribution of this thesis is to build a measure of how well firms can take advantage of multicore chips, which is a key ingredient in addressing this important problem.  This measure is built up using unique data on firm software usage from the marketing firm Harte Hanks, and combining it with results from the Berkeley Software Parallelism Survey – a survey of parallelism experts run for this thesis.  Alternative formulations for creating this parallelism measure are also discussed and evaluated, with the reasons for choosing the main formulation clearly expressed.  Finally, this thesis highlights the limitations of this measure and discusses the other on-going initiatives that are underway to address them.
+This thesis also makes a supplemental contribution by highlighting a new case study detailing the impact of the changeover to multicore.  It also reports additional results from the Berkeley Software Parallelism Survey that may be of interest to those assessing the presence of different types of parallelism or different computational motifs in mainstream software programs.},
+}
+EndNote citation:
+%0 Thesis
+%A Thompson, Neil
+%T Firm Software Parallelism: Building a measure of how firms will be impacted by the changeover to multicore chips
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 12
+%@ UCB/EECS-2012-236
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-236.html
+%F Thompson:EECS-2012-236

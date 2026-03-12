@@ -1,0 +1,16 @@
+URL: http://people.eecs.berkeley.edu:80/~alexhall/cs267/hw_00
+Alex Hall
+Bio
+I am a computer science student working with Maneesh Agrawala and Alyosha Efros. My research is primarily in the realm of computer vision as it applies to understanding movies and video.
+Prior to pursuing computer science, I worked for over a decade as a classically trained actor in theaters across the country.
+Course Goals
+In this course, I hope to acquire the skills necessary to optimally use parallel computing for my work in computer vision and video understanding.
+As I final project, I hope to better parallelize my current video face detection pipeline to better run on the XSEDE clusters.
+Parallel Application Review
+Face detection is a well studied problem in computer vision. We see it in action in our phones and cameras when little green bounding boxes appear around the faces of our subjects. As technology movies forward, researchers have begun to explore the use of face detection in video scenarios. A simple approach to this kind of video face detection is to parallelize existing image based face detectors and run them per frame over the entire video. This approach might use a parallelization framework as presented in [1]. The shortcoming of this approach is that it does not leverage the additional information inherent in video (e.g. we expect that movement between frames will be minimal and relatively consistent).Other projects such as [2][3][4], make use of the frame-to-frame continuity of video and achieve AP's of 90-94% in the harder task of face identification; however, these works are typically slow and inadequately parallelized.
+In my own research, I have implemented simple parallelization of the face detector used in [2][3][4], but with only moderate speedup. The challenge in parallelizing video based face tracking is to divide the video into contiguous chunks, typically 'shots' and to process those shots in parallel. Unfortunately, the most effective shot detectors for movie and television based video (the type of footage with which I work) use face detection information in order to detect shot boundaries. Additionally, the Bojanowski detector requires frequent and large memory reads as it loads the individual frames. The frames tend to be 1920 x 1080 pixels, or about 6MB in size. When I run this software on supercomputers such as SDSC's Gordon  (#55 on top500.org as of Nov 2015) , much of the processing time seems to be in reading the files from disk.
+Works Cited
+Chouchene, Marwa, et al. "Optimized Parallel Implementation of Face Detection based on GPU component." Microprocessors and Microsystems (2015).
+Sivic, Josef, Mark Everingham, and Andrew Zisserman. "“Who are you?”-Learning person specific classifiers from video." Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on. IEEE, 2009.
+Everingham, Mark, Josef Sivic, and Andrew Zisserman. "Taking the bite out of automated naming of characters in TV video." Image and Vision Computing 27.5 (2009): 545-559.
+Bojanowski, Piotr, et al. "Finding actors and actions in movies." Computer Vision (ICCV), 2013 IEEE International Conference on. IEEE, 2013.

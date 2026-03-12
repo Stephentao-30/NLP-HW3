@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28961.html
+Characterization of Finite Fuzzy Measures Using Markoff-Kernels | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Characterization of Finite Fuzzy Measures Using Markoff-Kernels
+Characterization of Finite Fuzzy Measures Using Markoff-Kernels
+E.P. Klement
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/40
+July 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-40.pdf
+BibTeX citation:
+@techreport{Klement:M79/40,
+Author = {Klement, E.P.},
+Title = {Characterization of Finite Fuzzy Measures Using Markoff-Kernels},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28961.html},
+Number = {UCB/ERL M79/40}
+}
+EndNote citation:
+%0 Report
+%A Klement, E.P.
+%T Characterization of Finite Fuzzy Measures Using Markoff-Kernels
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28961.html
+%F Klement:M79/40

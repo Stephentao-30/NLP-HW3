@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7566.html
+Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics
+Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics
+Newton Faller
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/59
+June 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-59.pdf
+Advisor:  Domenico Ferrari
+BibTeX citation:
+@phdthesis{Faller:M81/59,
+Author = {Faller, Newton},
+Title = {Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7566.html},
+Number = {UCB/ERL M81/59}
+}
+EndNote citation:
+%0 Thesis
+%A Faller, Newton
+%T Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/59
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7566.html
+%F Faller:M81/59

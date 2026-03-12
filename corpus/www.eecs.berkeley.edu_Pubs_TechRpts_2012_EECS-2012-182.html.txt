@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-182.html
+Reducing Attack Surfaces for Intra-Application Communication in Android
+David Kantola and Erika Chin and Warren He and David Wagner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-182
+July 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-182.pdf
+The complexity of Android's message-passing system has led to numerous vulnerabilities in third-party applications. Many of these vulnerabilities are a result of developers confusing inter-application and intra-application communication mechanisms. Consequently, we propose modifications to the Android platform to detect and protect inter-application messages that should have been intra-application messages. Our approach automatically reduces attack surfaces in legacy applications. We describe our implementation for these changes and evaluate it based on attack surface reduction and the extent to which our changes break compatibility with a large set of popular applications. We fix 100% of intra-application vulnerabilities, which represents 31.4% of security flaws found in previous work. Furthermore, we find that 99.4% and 93.0% of applications are compatible with our sending and receiving changes, respectively.
+BibTeX citation:
+@techreport{Kantola:EECS-2012-182,
+Author= {Kantola, David and Chin, Erika and He, Warren and Wagner, David},
+Title= {Reducing Attack Surfaces for Intra-Application Communication in Android},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-182.html},
+Number= {UCB/EECS-2012-182},
+Abstract= {The complexity of Android's message-passing system has led to numerous vulnerabilities in third-party applications. Many of these vulnerabilities are a result of developers confusing inter-application and intra-application communication mechanisms. Consequently, we propose modifications to the Android platform to detect and protect inter-application messages that should have been intra-application messages. Our approach automatically reduces attack surfaces in legacy applications. We describe our implementation for these changes and evaluate it based on attack surface reduction and the extent to which our changes break compatibility with a large set of popular applications. We fix 100% of intra-application vulnerabilities, which represents 31.4% of security flaws found in previous work. Furthermore, we find that 99.4% and 93.0% of applications are compatible with our sending and receiving changes, respectively.},
+}
+EndNote citation:
+%0 Report
+%A Kantola, David
+%A Chin, Erika
+%A He, Warren
+%A Wagner, David
+%T Reducing Attack Surfaces for Intra-Application Communication in Android
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 31
+%@ UCB/EECS-2012-182
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-182.html
+%F Kantola:EECS-2012-182

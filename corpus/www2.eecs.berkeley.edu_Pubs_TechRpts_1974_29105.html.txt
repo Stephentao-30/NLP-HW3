@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29105.html
+A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts
+A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M474
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-474.pdf
+BibTeX citation:
+@techreport{Zadeh:M474,
+Author = {Zadeh, L.A.},
+Title = {A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29105.html},
+Number = {UCB/ERL M474}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M474
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29105.html
+%F Zadeh:M474

@@ -1,0 +1,13 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE244
+Course: EE244 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EE244
+EE 244. Fundamental Algorithms for Systems Modeling, Analysis, and Optimization
+Catalog Description:  The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. Laboratory assignments and a class project will expose students to state-of-the-art.
+Units:  4.0
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  This course introduces students to the fundamentals of modeling, analysis and optimization of complex systems. Integrated circuit design will be used as a central example, augmented by examples from biological systems, cyber-physical systems, and software design. The main course web page is here:  http://embedded.eecs.berkeley.edu/eecsx44/ .

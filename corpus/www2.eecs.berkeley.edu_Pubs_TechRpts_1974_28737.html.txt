@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28737.html
+Transformation of Local Martingales Under a Change of Law | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Transformation of Local Martingales Under a Change of Law
+Transformation of Local Martingales Under a Change of Law
+Jan H. Van Schuppen and Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M385
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-385.pdf
+BibTeX citation:
+@techreport{Schuppen:M385,
+Author = {Schuppen, Jan H. Van and Wong, Eugene},
+Title = {Transformation of Local Martingales Under a Change of Law},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28737.html},
+Number = {UCB/ERL M385}
+}
+EndNote citation:
+%0 Report
+%A Schuppen, Jan H. Van
+%A Wong, Eugene
+%T Transformation of Local Martingales Under a Change of Law
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M385
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28737.html
+%F Schuppen:M385

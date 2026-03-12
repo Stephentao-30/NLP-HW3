@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-206.html
+Predictive and Programmable Testing of Concurrent and Cloud Systems
+Pallavi Joshi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-206
+October 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-206.pdf
+Advisors:  Koushik Sen
+BibTeX citation:
+@phdthesis{Joshi:EECS-2012-206,
+Author= {Joshi, Pallavi},
+Title= {Predictive and Programmable Testing of Concurrent and Cloud Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-206.html},
+Number= {UCB/EECS-2012-206},
+}
+EndNote citation:
+%0 Thesis
+%A Joshi, Pallavi
+%T Predictive and Programmable Testing of Concurrent and Cloud Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 October 30
+%@ UCB/EECS-2012-206
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-206.html
+%F Joshi:EECS-2012-206

@@ -1,0 +1,53 @@
+URL: https://eecs.berkeley.edu/book/requirements-2/peic-2
+Current: Physical Electronics and Integrated Circuits - EECS at Berkeley
+Current: Physical Electronics and Integrated Circuits
+Program Requirements
+All EECS MEng students should expect to complete four (4) technical courses within the EECS department at the graduate level, the Fung Institute’s engineering leadership curriculum, as well as a capstone project that will be hosted by the EECS department. You must select a project from the list below.
+2019-2020 Capstone Projects
+For the capstone projects for Master of Engineering in Electrical Engineering and Computer Science (EECS) our department believes that the students are going to have a significantly better experience if the projects are followed closely by an EECS professor throughout the academic year. To ensure this, we have asked the faculty in each area for which the Master of Engineering is offered in our department to formulate one or more project ideas that the incoming students will have to choose from.
+Project 1
+Title  –  Retina Tracking and Stimulation for Color Perception Beyond Human Vision  (advisor Prof. Ren Ng)
+Description  –  The goal of this project is to prototype next-generation color display technology, based on laser-writing directly to the retina surface. In principle, the system would have new capabilities that include displaying colors that cannot be seen in the real world, or treating color blindness. This underlying research is in collaboration with the School of Optometry. The scope of the project can be adjusted based on the expertise of the project members. Helpful background includes some of: software engineering, embedded programming, computer graphics, computer vision, computational imaging, signal processing, machine learning, optical engineering, physical electronics, exposure to biomedical devices, and precision engineering.
+Project 2
+Title  -Systematic Quantization of Neural Networks (advisors Profs. Kurt Keutzer)
+Description  – Model size and inference speed/power have become a major challenge in the deployment of Neural Networks for many applications. A promising approach to address this problem is quantization. This project will explore a new systematic quantization method using second-order methods. The project will include exploring quantization for challenging tasks such as object detection, segmentation, face recognition, and style transfer.
+Projects 3 & 4
+Title  –  Machine Learning driven circuit design (advisor Prof. Vladimir Stojanovic)
+Description  – This project aims to develop a design infrastructure for fast prototyping of various complex mixed-signal circuit blocks utilizing scripted layout tools like Berkeley Analog Generator, and machine-learning driven circuit sizing/tuning algorithms. The work will comprise creation of a library of standard building blocks for high-speed links (serializers, deserializers, transmit and receive equalizers, clock and data recovery, etc) for both PAM2 and PAM4 modulation formats. Building blocks will be designed at the behavioral modeling level (Verilog and Verilog A), mixed-signal and digital circuit and scripted layout level for accelerated design automation, targeting sub-65nm process nodes. We will target link designs in the 10-50Gb/s speed range. The project will sharpen the following design skills: system level and component modeling of high-speed links (timing, equalization, modulation); digital design of link back-ends in Verilog and synthesis, place and route flow; analog and mixed-signal design (DLL/PLL, driver and receiver circuits).
+Title  – Accelerating Intelligence at the Edge through Hardware-Software Co-design (advisor Prof. Vladimir Stojanovic)
+Description  – This project aims to develop hardware-software stack for generation of various chip-scale accelerators for deep neural network inference in low-power, embedded device applications. The project will build-on previously developed hardware-aware training framework and Chisel-based chip generator. The work will consist of training various deep neural networks with interesting edge applications, mapping them onto and further development of the chip-generator framework, to estimate the power, area and performance of the generated accelerators for these applications.
+Technical Courses
+At least THREE of your four technical courses should be chosen from the list below. The remaining technical courses should be chosen from your own or another MEng area of concentration within the EECS Department.
+Fall 2019 (Updated: 7/10/2019)
+EE 213A, Power Electronics
+EE 218A, Introduction to Optical Engineering
+EE C220A, Advanced Control Systems
+EE C220B,  Experiential Advanced Control Design
+EE 230A,  Integrated-Circuits Devices
+EE 230C, Solid State Electronics
+EE 240A, Linear Integrated Circuits
+EE240C, Analog Integrated Circuit Design and Analysis
+EE 247A, Introduction to MEMS Systems
+EECS 251A, Introduction to Digital Design and Integrated Circuits
+Pick  ONE  accompanying lab section below:
+EECS 251AL,  Application Specific Integrated Circuits Laboratory
+EECS 251BL,  FPGA Design Laboratory
+Spring 2020 (Updated: 10/7/2019)
+CS 289A, Introduction to Machine Learning
+EE 219C, Computer-Aided Verification
+EE C220C, Experiential Advanced Control Design
+EE 230A, Integrated-Circuits Devices
+EE 232, Lightwave Devices
+EE 240A, Linear Integrated Circuits
+EE 240B, Advanced Analog Integrated Circuits
+EE 241B, Advanced Digital Integrated Circuits
+EE 247B, Introduction to MEMS Design
+EECS 251A, Introduction to Digital Design and Integrated Circuits
+Pick ONE accompanying lab section below:
+EECS 251AL, Application Specific Integrated Circuits Laboratory
+EECS 251BL, FPGA Design Laboratory
+Note: The courses listed here are not guaranteed to be offered, and the course schedule may change without notice. Refer to the  UC Berkeley Course Schedule  for further enrollment information.
+< Current: Data Science and Systems
+Current: Robotics and Embedded Software >
+View
+Open Faculty Positions

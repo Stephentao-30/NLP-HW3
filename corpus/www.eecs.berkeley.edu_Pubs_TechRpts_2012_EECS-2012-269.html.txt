@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-269.html
+An Optimized Distributed Video-on-Demand Streaming System: Theory and Design
+Kang Wook Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-269
+December 19,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-269.pdf
+In this report, we present a general framework for a distributed Video-on-Demand content distribution problem by formulating an optimization problem yielding a highly distributed implementation that is highly scalable and resilient to changes in demand. Our solution takes into account several individual node resource constraints including disk space, network link bandwidth, and node-I/O degree bound. First, we present a natural formulation that is NP-hard. Next, we design a simple fractional storage architecture based on codes to "fluidify" the content, thereby yielding a convex content placement problem. Third, we use a recently developed Markov approximation technique to approximately solve the NP-hard problem of topology selection under node degree bound, and propose a simple distributed solution. We prove analytically that our algorithm achieves close-to-optimal performance. Based on the distributed algorithm we design, we consider practical settings and propose a practical design of a distributed VoD system. We implement a packet level simulator written in MATLAB. Our simulation results show that the proposed design and algorithms improve significantly over existing approaches including Least-Recently-Used (LRU), Least-Frequently-Used (LFU) and Mixed Integer Programming (MIP). We establish via simulations that the system is robust to changes in user demand or in network condition and churn. Based on the algorithm derived from theory, we design a practical algorithm considering practical issues.
+Advisors:  Kannan Ramchandran
+BibTeX citation:
+@mastersthesis{Lee:EECS-2012-269,
+Author= {Lee, Kang Wook},
+Title= {An Optimized Distributed Video-on-Demand Streaming System: Theory and Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-269.html},
+Number= {UCB/EECS-2012-269},
+Abstract= {In this report, we present a general framework for a distributed Video-on-Demand content distribution problem by formulating an optimization problem yielding a highly distributed implementation that is highly scalable and resilient to changes in demand. Our solution takes into account several individual node resource constraints including disk space, network link bandwidth, and node-I/O degree bound. First, we present a natural formulation that is NP-hard. Next, we design a simple fractional storage architecture based on codes to "fluidify" the content, thereby yielding a convex content placement problem. Third, we use a recently developed Markov approximation technique to approximately solve the NP-hard problem of topology selection under node degree bound, and propose a simple distributed solution. We prove analytically that our algorithm achieves close-to-optimal performance. Based on the distributed algorithm we design, we consider practical settings and propose a practical design of a distributed VoD system. We implement a packet level simulator written in MATLAB. Our simulation results show that the proposed design and algorithms improve significantly over existing approaches including Least-Recently-Used (LRU), Least-Frequently-Used (LFU) and Mixed Integer Programming (MIP). We establish via simulations that the system is robust to changes in user demand or in network condition and churn. Based on the algorithm derived from theory, we design a practical algorithm considering practical issues.},
+}
+EndNote citation:
+%0 Thesis
+%A Lee, Kang Wook
+%T An Optimized Distributed Video-on-Demand Streaming System: Theory and Design
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 19
+%@ UCB/EECS-2012-269
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-269.html
+%F Lee:EECS-2012-269

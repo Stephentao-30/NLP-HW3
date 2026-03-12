@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-80.html
+Methods for Reachability-based Hybrid Controller Design
+Jerry Ding
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-80
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-80.pdf
+With the increasing complexity of systems found in practical applications, the problem of controller design is often approached in a hierarchical fashion, with discrete abstractions and design methods used to satisfy high level task specifications, and continuous abstractions and design techniques used to satisfy low level control objectives.  Although such a separation allows the application of mature theoretical and computational tools from the realms of computer science and control theory, the task of ensuring desired closed-loop behaviors, which results from the composition between discrete and continuous designs, often requires costly and time consuming verification and validation.  This problem becomes especially acute in safety-critical applications, in which design specifications are often subject to rigorous industry standards and government regulations.  Hybrid systems, which feature state trajectories evolving on a combination of discrete and continuous state spaces, have been proposed as a possible approach to reconcile the analysis and design techniques from the discrete and continuous domains under a rigorous theoretical framework.  However, designing controllers for general classes of hybrid systems is a highly nontrivial task, as such a design problem inherits both the difficulty of nonlinear control, as well as the range of theoretical and computational issues introduced by the consideration of discrete switching.
+This dissertation describes several efforts aimed towards the development of theoretical analysis tools and computational synthesis techniques to facilitate the systematic design of feedback control policies satisfying safety and target attainability specifications with respect to subclasses of hybrid system models.  The main types of problems we consider are safety/invariance problems, which involve keeping the closed-loop state trajectory within a safe set in the hybrid state space, and reach-avoid problems, which involve driving the state trajectory into a target set subject to a safety constraint.  These problems are addressed within the context of continuous time switched nonlinear systems and discrete time stochastic hybrid systems, as motivated by application scenarios arising in autonomous vehicle control and air traffic management.
+Advisors:  Claire Tomlin
+BibTeX citation:
+@phdthesis{Ding:EECS-2012-80,
+Author= {Ding, Jerry},
+Title= {Methods for Reachability-based Hybrid Controller Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-80.html},
+Number= {UCB/EECS-2012-80},
+Abstract= {With the increasing complexity of systems found in practical applications, the problem of controller design is often approached in a hierarchical fashion, with discrete abstractions and design methods used to satisfy high level task specifications, and continuous abstractions and design techniques used to satisfy low level control objectives.  Although such a separation allows the application of mature theoretical and computational tools from the realms of computer science and control theory, the task of ensuring desired closed-loop behaviors, which results from the composition between discrete and continuous designs, often requires costly and time consuming verification and validation.  This problem becomes especially acute in safety-critical applications, in which design specifications are often subject to rigorous industry standards and government regulations.  Hybrid systems, which feature state trajectories evolving on a combination of discrete and continuous state spaces, have been proposed as a possible approach to reconcile the analysis and design techniques from the discrete and continuous domains under a rigorous theoretical framework.  However, designing controllers for general classes of hybrid systems is a highly nontrivial task, as such a design problem inherits both the difficulty of nonlinear control, as well as the range of theoretical and computational issues introduced by the consideration of discrete switching.
+This dissertation describes several efforts aimed towards the development of theoretical analysis tools and computational synthesis techniques to facilitate the systematic design of feedback control policies satisfying safety and target attainability specifications with respect to subclasses of hybrid system models.  The main types of problems we consider are safety/invariance problems, which involve keeping the closed-loop state trajectory within a safe set in the hybrid state space, and reach-avoid problems, which involve driving the state trajectory into a target set subject to a safety constraint.  These problems are addressed within the context of continuous time switched nonlinear systems and discrete time stochastic hybrid systems, as motivated by application scenarios arising in autonomous vehicle control and air traffic management.},
+}
+EndNote citation:
+%0 Thesis
+%A Ding, Jerry
+%T Methods for Reachability-based Hybrid Controller Design
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-80
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-80.html
+%F Ding:EECS-2012-80

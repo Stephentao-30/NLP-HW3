@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-57.html
+Optical Injection Locking of Vertical Cavity Surface-Emitting Lasers: Digital and Analog Applications
+Devang Parekh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-57
+May 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-57.pdf
+Advisors:  Constance Chang-Hasnain
+BibTeX citation:
+@phdthesis{Parekh:EECS-2012-57,
+Author= {Parekh, Devang},
+Title= {Optical Injection Locking of Vertical Cavity Surface-Emitting Lasers: Digital and Analog Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-57.html},
+Number= {UCB/EECS-2012-57},
+}
+EndNote citation:
+%0 Thesis
+%A Parekh, Devang
+%T Optical Injection Locking of Vertical Cavity Surface-Emitting Lasers: Digital and Analog Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 2
+%@ UCB/EECS-2012-57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-57.html
+%F Parekh:EECS-2012-57

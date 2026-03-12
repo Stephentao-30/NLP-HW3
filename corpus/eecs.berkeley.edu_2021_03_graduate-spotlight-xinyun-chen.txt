@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/2021/03/graduate-spotlight-xinyun-chen
+Graduate Spotlight: Xinyun Chen - EECS at Berkeley
+We are thrilled to spotlight Xinyun Chen, an EECS PhD student under Professor Dawn Song. We had the opportunity to interview her about her research and advice for undergraduate students. Here’s what she had to say!
+Tell us about your research?
+My research lies at the intersection of deep learning, programming languages, and security. Specifically, my recent research focuses on neural program synthesis and adversarial machine learning, towards tackling the grand challenges of increasing the accessibility of programming to general users, and enhancing the security and trustworthiness of machine learning models.
+For neural program synthesis, I have developed deep learning techniques to synthesize accurate and complex programs. I have shown that our approaches could automatically generate programs from natural language descriptions, test cases, etc.
+For adversarial machine learning, I have worked on exploring the vulnerabilities of existing machine learning models, and we demonstrated attacks that could pose threats in the real world, e.g., leading the face recognition systems to identify an attacker as an authorized person to enter into a private space. I have also proposed defenses against various attacks for machine learning models.
+What first drew you to EE/CS fields?
+I learned to code and participated in programming contests when I was in middle school. The motivation at that time was pretty random: I started playing the piano when I was in kindergarten, and I thought programming was just like playing with another keyboard. Though the motivation was naive, it turns out that I enjoy coding in the end, thus I chose CS as the major for my undergraduate degree and now for my Ph.D. study.
+What do you hope to do in the future?
+I would like to continue pursuing my research goals after I graduate, either as a faculty member in academia or as a research scientist in the industry
+What is your favorite memory at Cal?
+My favorite memory was during a summer break, when my parents were able to come to the U.S. from China. This was the first time my family met in person in U.S. (and the only time so far). I was able to show them around the campus, and we went together to several great places in the Bay area. As an international student, I would like to let my parents know that I am living a great life in Berkeley, so that they won’t get worried about me.
+Advice for women who may be interested in pursuing a graduate degree in your field?
+Since I began to learn programming, I have heard some people commenting that women are not suitable for computer science, especially when I did not do well in a programming contest or a project. I never believe this prejudice, and I suggest that everyone should avoid this thought. Pursuing a graduate degree in computer science could be tough, and you may get frustrated from time to time. However, please remember that this happens not because you are not born to work in computer science, this is simply because everyone could fail occasionally. As long as you have enough passion for computer science, you would like to take challenges, and you have a strong will to stand up after a failure, you could eventually excel in this field.
+Her website is  https://jungyhuk.github.io/  which contains more information about her research and papers! Thank you Xinyun for being a part of EECS Women’s History Month!
+Categories
+Current WHM
+Diversity
+People
+Students
+Women's History
+View
+Open Faculty Positions

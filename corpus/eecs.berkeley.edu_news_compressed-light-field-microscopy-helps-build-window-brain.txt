@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/compressed-light-field-microscopy-helps-build-window-brain
+Compressed light field microscopy helps build a window into the brain - EECS at Berkeley
+In a project funded by a $21.6M donation from DARPA,  a light field microscope developed by EE Associate Prof. Laura Waller, MCB Assistant Prof. Hillel Adesnik and their lab groups, is being used to  create a window into the brain  through which researchers — and eventually physicians — can monitor and activate thousands of individual neurons using light.   The microscope is based on CS Assistant Prof. Ren Ng’s revolutionary light field camera which captures light through an array of lenses and reconstructs images computationally in any focus .  The microscope is the first tier of a two-tier device referred to as a  cortical modem :  it “reads” through the surface of the brain to visualize up to a million neurons; the second tier component “writes” by projecting light patterns onto these neurons using 3D holograms, stimulating them in a way that reflects normal brain activity. The goal of the project is to read from a million individual neurons and simultaneously stimulate 1,000 of them with single-cell accuracy.  “By encoding perceptions into the human cortex,” MCB Prof. Ehud Isacoff says, “you could allow the blind to see or the paralyzed to feel touch.”
+There are 10 faculty involved in this project, 4 of which are from EECS: Laura Waller, Ren Ng, Jose Carmena and Rikky Muller. The project is being led by Ehud Isacoff from the Helen Wills Neuroscience Institute.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

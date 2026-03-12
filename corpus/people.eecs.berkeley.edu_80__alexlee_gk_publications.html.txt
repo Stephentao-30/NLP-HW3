@@ -1,0 +1,89 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/publications.html
+Alex X. Lee
+Alex X. Lee
+Home
+Publications
+Google Scholar
+GitHub
+Visual Dynamics Models for Robotic Planning and Control,
+Alex X. Lee
+Ph.D. Dissertation, University of California at Berkeley, Computer Science, August 2019.
+( thesis )
+Publications
+bibtex
+[19] RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation,
+Konstantinos Bousmalis*, Giulia Vezzani*, Dushyant Rao*, Coline Devin*, Alex X. Lee*, Maria Bauza*, Todor Davchev*, Yuxiang Zhou*, Agrim Gupta*, Akhil Raju, Antoine Laurens, Claudio Fantacci, Valentin Dalibard, Martina Zambelli, Murilo Martins, Rugile Pevceviciute, Michiel Blokzijl, Misha Denil, Nathan Batchelor, Thomas Lampe, Emilio Parisotto, Konrad Żołna, Scott Reed, Sergio Gómez Colmenarejo, Jon Scholz, Abbas Abdolmaleki, Oliver Groth, Jean-Baptiste Regli, Oleg Sushkov, Tom Rothörl, José Enrique Chen, Yusuf Aytar, Dave Barker, Joy Ortiz, Martin Riedmiller, Jost Tobias Springenberg, Raia Hadsell†, Francesco Nori† and Nicolas Heess†.
+( paper ,  blog )
+[18] How to Spend Your Robot Time: Bridging Kickstarting and Offline Reinforcement Learning for Vision-based Robotic Manipulation,
+Alex X. Lee*, Coline Devin*, Jost Tobias Springenberg*, Yuxiang Zhou, Thomas Lampe, Abbas Abdolmaleki, Konstantinos Bousmalis.
+In  International Conference on Intelligent Robots and Systems (IROS) , 2022.
+( paper )
+[17] Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes,
+Alex X. Lee*, Coline Devin*, Yuxiang Zhou*, Thomas Lampe*, Konstantinos Bousmalis*, Jost Tobias Springenberg*, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, Raia Hadsell, Francesco Nori.
+In  Conference on Robot Learning (CoRL) , 2021.
+( paper ,  blog ,  video ,  code )
+[16] Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model,
+Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine.
+In  Neural Information Processing Systems (NeurIPS) , 2020.
+( paper ,  website ,  code )
+[15] Visual Foresight: Model-Based Deep Reinforcement Learning for Vision-Based Robotic Control,
+Frederik Ebert*, Chelsea Finn*, Sudeep Dasari, Annie Xie, Alex X. Lee, Sergey Levine.
+arXiv preprint arXiv:1812.00568, 2018.
+( paper ,  website ,  code )
+[14] Stochastic Adversarial Video Prediction,
+Alex X. Lee, Richard Zhang, Frederik Ebert, Pieter Abbeel, Chelsea Finn, Sergey Levine.
+arXiv preprint arXiv:1804.01523, 2018.
+( paper ,  website ,  code )
+[13] Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning,
+Frederik Ebert, Sudeep Dasari, Alex X. Lee, Sergey Levine, Chelsea Finn.
+In  Conference on Robot Learning (CoRL) , 2018.
+( paper ,  website )
+[12] Self-Supervised Visual Planning with Temporal Skip Connections,
+Frederik Ebert, Chelsea Finn, Alex X. Lee, Sergey Levine.
+In  Conference on Robot Learning (CoRL) , 2017.
+( paper ,  website ,  code ,  data )
+[11] Learning Visual Servoing with Deep Features and Fitted Q-Iteration,
+Alex X. Lee, Sergey Levine, Pieter Abbeel.
+In  International Conference on Learning Representations (ICLR) , 2017.
+( paper ,  code ,  servoing benchmark code ,  website ,  GTC 2017 slides ,  with notes ,  GTC 2017 talk )
+[10] Learning from Multiple Demonstrations using Trajectory-Aware Non-Rigid Registration with Applications to Deformable Object Manipulation,
+Alex X. Lee, Abhishek Gupta, Henry Lu, Sergey Levine, Pieter Abbeel.
+In  International Conference on Intelligent Robots and Systems (IROS) , 2015.
+( paper ,  videos )
+[9] Beyond Lowest-Warping Cost Action Selection in Trajectory Transfer,
+Dylan Hadfield-Menell, Alex X. Lee, Chelsea Finn, Eric Tzeng, Sandy Huang, Pieter Abbeel.
+In  International Conference on Robotics and Automation (ICRA) , 2015.
+( paper )
+[8] Learning Force-Based Manipulation of Deformable Objects from Multiple Demonstrations,
+Alex X. Lee, Henry Lu, Abhishek Gupta, Sergey Levine, Pieter Abbeel.
+In  International Conference on Robotics and Automation (ICRA) , 2015.
+( paper ,  videos )
+[7] A Non-Rigid Point and Normal Registration Algorithm with Applications to Learning from Demonstrations,
+Alex X. Lee, Max A. Goldstein, Shane T. Barratt, Pieter Abbeel.
+In  International Conference on Robotics and Automation (ICRA) , 2015.
+( paper ,  videos )
+[6] Unifying Scene Registration and Trajectory Optimization for Learning from Demonstrations with Application to Manipulation of Deformable Objects,
+Alex X. Lee, Sandy H. Huang, Dylan Hadfield-Menell, Eric Tzeng, Pieter Abbeel.
+In  International Conference on Intelligent Robots and Systems (IROS) , 2014.
+( paper ,  presentation slides ,  interactive presentation slide ,  code )
+[5] Motion Planning with Sequential Convex Optimization and Convex Collision Checking,
+John Schulman, Yan Duan, Jonathan Ho, Alex X. Lee, Ibrahim Awwal, Henry Bradlow, Jia Pan, Sachin Patil, Ken Goldberg, Pieter Abbeel.
+In  International Journal of Robotics Research (IJRR) , 2014.
+( paper )
+[4] Autonomous Multilateral Debridement with the Raven Surgical Robot,
+Ben Kehoe, Gregory Kahn, Jeffrey Mahler, Jonathan Kim, Alex X. Lee, Anna Lee, Keisuke Nakagawa, Sachin Patil, W. Douglas Boyd, Pieter Abbeel, Ken Goldberg.
+In  International Conference on Robotics and Automation (ICRA) , 2014.
+( paper ,  videos )
+[3] Sigma Hulls for Gaussian Belief Space Planning for Imprecise Articulated Robots amid Obstacles,
+Alex X. Lee, Yan Duan, Sachin Patil, John Schulman, Zoe McCarthy, Jur van den Berg, Ken Goldberg and Pieter Abbeel.
+In  International Conference on Intelligent Robots and Systems (IROS) , 2013.
+( paper ,  talk video ,  slides )
+[2] Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization,
+John Schulman, Jonathan Ho, Alex X. Lee, Ibrahim Awwal, Henry Bradlow and Pieter Abbeel.
+In  Robotics: Science and Systems (RSS) , 2013.
+( paper ,  videos ,  code )
+[1] Tracking Deformable Objects with Point Clouds,
+Best Vision Paper Award,
+John Schulman, Alex X. Lee, Jonathan Ho and Pieter Abbeel.
+In  International Conference on Robotics and Automation (ICRA) , 2013.
+( paper ,  videos )

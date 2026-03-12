@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28844.html
+Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements
+Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements
+L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M575
+December 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-575.pdf
+BibTeX citation:
+@techreport{Chua:M575,
+Author = {Chua, L.O.},
+Title = {Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28844.html},
+Number = {UCB/ERL M575}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%T Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M575
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28844.html
+%F Chua:M575

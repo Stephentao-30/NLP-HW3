@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29324.html
+A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors
+A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors
+S.P. Chan, R. Feldman and B.N. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M517
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-517.pdf
+BibTeX citation:
+@techreport{Chan:M517,
+Author = {Chan, S.P. and Feldman, R. and Parlett, B.N.},
+Title = {A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29324.html},
+Number = {UCB/ERL M517}
+}
+EndNote citation:
+%0 Report
+%A Chan, S.P.
+%A Feldman, R.
+%A Parlett, B.N.
+%T A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M517
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29324.html
+%F Chan:M517

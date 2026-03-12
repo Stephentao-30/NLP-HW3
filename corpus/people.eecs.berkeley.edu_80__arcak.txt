@@ -1,0 +1,34 @@
+URL: http://people.eecs.berkeley.edu:80/~arcak
+Arcak Lab
+Home
+Research Group
+Research Areas
+Publications
+Murat Arcak
+Professor of Electrical Engineering and Computer Sciences
+Professor of Mechanical Engineering
+Robert M. Saunders Endowed Chair, College of Engineering
+Office: 569 Cory Hall
+Email: arcak@*
+Research
+Our group develops scalable control design and verification methods for applications where the system size and
+complexity are beyond the reach of traditional methods. We particularly address systems with many
+interconnected components, nonlinear dynamics, and learning and decision making capabilities. Our broad
+approach is to obtain system-level guarantees from appropriate abstractions of the components with
+compositional, hierarchical and learning-based procedures, and to exploit structural system properties for
+scalability. We uncover such properties in applications and generalize them to broader classes of systems.
+Current research topics include control of autonomous systems, networks and multi-agent systems. Please follow the link to Research Areas on the left for further descriptions of these topics.
+Course Materials
+Nonlinear Systems (EE C222/ME C237), Spring 2025 ( website with class notes )
+Linear Systems (EE 221A), Fall 2024 ( notes )
+Dissipation Inequalities and Quadratic Constraints for Control, Optimization, and Learning - short course taught with Peter Seiler (U. Michigan) as part of the European Embedded Control Institute International Graduate School on Control (May 2024) ( website with slides and videos )
+Signals and Systems (EE 120), Fall 2019 ( website with class notes )
+Designing Information Devices and Systems II (EE 16B), Spring 2017 ( notes )
+Affiliations
+Berkeley Artificial Intelligence Research (BAIR)
+Berkeley Deep Drive (BDD)
+Berkeley Institute of Transportation Studies (ITS)
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)
+Partners for Advanced Transit and Highways (PATH)
+* .berkeley.edu
+Page generated 2025-05-23 07:57:36 PDT, by  jemdoc .

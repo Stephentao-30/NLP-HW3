@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.html?ref=highscalability.com
+Above the Clouds: A Berkeley View of Cloud Computing
+Michael Armbrust and Armando Fox and Rean Griffith and Anthony D. Joseph and Randy H. Katz and Andrew Konwinski and Gunho Lee and David A. Patterson and Ariel Rabkin and Ion Stoica and Matei Zaharia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2009-28
+February 10, 2009
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf
+Provided certain obstacles are overcome, we believe Cloud Computing has the potential to transform a large part of the IT industry, making software even more attractive as a service and shaping the way IT hardware is designed and purchased.  Developers with innovative ideas for new interactive Internet services no longer require the large capital outlays in hardware to deploy their service or the human expense to operate it. They need not be concerned about over-provisioning for a service whose popularity does not meet their predictions, thus wasting costly resources, or under-provisioning for one that becomes wildly popular, thus missing potential customers and revenue. Moreover, companies with large batch-oriented tasks can get their results as quickly as their programs can scale, since using 1000 servers for one hour costs no more than using one server for 1000 hours. This elasticity of resources, without paying a premium for large scale, is unprecedented in the history of IT.  The economies of scale of very large-scale datacenters combined with  ``pay-as-you-go'' resource usage has heralded the rise of Cloud Computing. It is now attractive to deploy an innovative new Internet service on a third party's Internet Datacenter rather than your own infrastructure, and to gracefully scale its resources as it grows or declines in popularity and revenue. Expanding and shrinking daily in response to normal diurnal patterns could lower costs even further. Cloud Computing transfers the risks of over-provisioning or under-provisioning to the Cloud Computing provider, who mitigates that risk by statistical multiplexing over a much larger set of users and who offers relatively low prices due better utilization and from the economy of purchasing at a larger scale. We define terms, present an economic model that quantifies the key buy vs. pay-as-you-go decision, offer a spectrum to classify Cloud Computing providers, and give our view of the top 10 obstacles and opportunities to the growth of Cloud Computing.
+BibTeX citation:
+@techreport{Armbrust:EECS-2009-28,
+Author= {Armbrust, Michael and Fox, Armando and Griffith, Rean and Joseph, Anthony D. and Katz, Randy H. and Konwinski, Andrew and Lee, Gunho and Patterson, David A. and Rabkin, Ariel and Stoica, Ion and Zaharia, Matei},
+Title= {Above the Clouds: A Berkeley View of Cloud Computing},
+Year= {2009},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.html},
+Number= {UCB/EECS-2009-28},
+Abstract= {Provided certain obstacles are overcome, we believe Cloud Computing has the potential to transform a large part of the IT industry, making software even more attractive as a service and shaping the way IT hardware is designed and purchased.  Developers with innovative ideas for new interactive Internet services no longer require the large capital outlays in hardware to deploy their service or the human expense to operate it. They need not be concerned about over-provisioning for a service whose popularity does not meet their predictions, thus wasting costly resources, or under-provisioning for one that becomes wildly popular, thus missing potential customers and revenue. Moreover, companies with large batch-oriented tasks can get their results as quickly as their programs can scale, since using 1000 servers for one hour costs no more than using one server for 1000 hours. This elasticity of resources, without paying a premium for large scale, is unprecedented in the history of IT.  The economies of scale of very large-scale datacenters combined with  ``pay-as-you-go'' resource usage has heralded the rise of Cloud Computing. It is now attractive to deploy an innovative new Internet service on a third party's Internet Datacenter rather than your own infrastructure, and to gracefully scale its resources as it grows or declines in popularity and revenue. Expanding and shrinking daily in response to normal diurnal patterns could lower costs even further. Cloud Computing transfers the risks of over-provisioning or under-provisioning to the Cloud Computing provider, who mitigates that risk by statistical multiplexing over a much larger set of users and who offers relatively low prices due better utilization and from the economy of purchasing at a larger scale. We define terms, present an economic model that quantifies the key buy vs. pay-as-you-go decision, offer a spectrum to classify Cloud Computing providers, and give our view of the top 10 obstacles and opportunities to the growth of Cloud Computing.},
+}
+EndNote citation:
+%0 Report
+%A Armbrust, Michael
+%A Fox, Armando
+%A Griffith, Rean
+%A Joseph, Anthony D.
+%A Katz, Randy H.
+%A Konwinski, Andrew
+%A Lee, Gunho
+%A Patterson, David A.
+%A Rabkin, Ariel
+%A Stoica, Ion
+%A Zaharia, Matei
+%T Above the Clouds: A Berkeley View of Cloud Computing
+%I EECS Department, University of California, Berkeley
+%D 2009
+%8 February 10
+%@ UCB/EECS-2009-28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.html
+%F Armbrust:EECS-2009-28

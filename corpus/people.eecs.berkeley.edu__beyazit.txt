@@ -1,0 +1,21 @@
+URL: https://people.eecs.berkeley.edu/~beyazit
+Beyazit Yalcinkaya
+About
+I am a third-year Computer Science Ph.D. student at UC Berkeley, advised by  Sanjit A. Seshia . In 2020, I received my BSc in Computer Engineering from the Middle East Technical University in Ankara, Turkey, where I worked with  Ebru Aydin Gol  as an undergraduate research assistant for three years. During my undergraduate degree, I did two research internships in Europe. In the summer of 2018, I was a research intern at Max Planck Institute for Software Systems in Kaiserslautern, Germany, advised by  Björn B. Brandenburg . In the summer of 2019, I was a research intern at École Polytechnique Fédérale de Lausanne, where I was advised by  George Candea . Also, in the summer of 2022 and 2023, I was an applied scientist intern at Amazon Web Services, where I worked with  Ankush Desai .
+Research
+My main research interests are formal methods, cyber-physical systems (with an emphasis on safe robotic systems), and reinforcement learning. Within the scope of formal methods, I am interested in developing techniques that could be applied to learning-based systems to reason about their correctness with respect to specifications of interest. In cyber-physical systems, I focus on applying techniques from formal methods to design safe robotic systems. Finally, in reinforcement learning, I am interested in integrating formal structures into the learning process for developing learning frameworks that could guarantee certain temporal requirements for control tasks.
+Teaching
+In the Fall of 2022, I was a teaching assistant (or graduate student instructor in Berkeley terminology) for EECS 149/249A (Introduction to Embedded Systems) at UC Berkeley.
+Publications
+Beyazit Yalcinkaya *, Niklas Lauffer*, Marcell Vazquez-Chanlatte, and Sanjit A. Seshia, "Automata Conditioned Reinforcement Learning with Experience Replay,"  NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning , 2023. *Equal contribution.
+Beyazit Yalcinkaya , Hazem Torfah, Daniel J. Fremont, and Sanjit A. Seshia, "Compositional Simulation-Based Analysis of AI-Based Autonomous Systems for Markovian Specifications,"  International Conference on Runtime Verification (RV) , 2023.
+Ameesh Shah, Jon DeCastro, John Gideon,  Beyazit Yalcinkaya , Guy Rosman, and Sanjit A. Seshia, "Specification-Guided Data Aggregation for Semantically Aware Imitation Learning,"  arXiv preprint arXiv:2303.17010 , 2023.
+Beyazit Yalcinkaya , Hazem Torfah, Ankush Desai, and Sanjit A. Seshia, "ULGEN: A Runtime Assurance Framework for Programming Safe Cyber-Physical Systems,"  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) , 2023.
+Niklas Lauffer*,  Beyazit Yalcinkaya *, Marcell Vazquez-Chanlatte, Ameesh Shah, and Sanjit A. Seshia, "Learning deterministic finite automata decompositions from examples and demonstrations,"  Formal Methods in Computer-Aided Design (FMCAD) , 2022. *Equal contribution.
+Mert Ergurtuna,  Beyazit Yalcinkaya , and Ebru Aydin Gol, "An automated system repair framework with signal temporal logic,"  Acta Informatica , 2022.
+Beyazit Yalcinkaya  and Ebru Aydin Gol, "Clock reduction in timed automata while preserving design parameters,"  International Conference on Formal Methods in Software Engineering (FormaliSE) , 2019.
+Beyazit Yalcinkaya  and Ebru Aydin Gol, "ATAC: A Tool for Automating Timed Automata Construction,"  arXiv preprint arXiv:1905.08169 , 2019.
+Beyazit Yalcinkaya , Mitra Nasri, and Björn B. Brandenburg, "An exact schedulability test for non-preemptive self-suspending real-time tasks,"  Design, Automation and Test in Europe Conference (DATE) , 2019.
+Contact
+Email: My first name at berkeley dot edu
+Office: 545S Cory Hall, Berkeley, CA 94720

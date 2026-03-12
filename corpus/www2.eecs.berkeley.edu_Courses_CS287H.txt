@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS287H
+Course: CS287H | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS287H
+CS 287H. Algorithmic Human-Robot Interaction
+Catalog Description:  As robot autonomy advances, it becomes more and more important to develop algorithms that are not solely functional, but also mindful of the end-user. How should the robot move differently when it's moving in the presence of a human? How should it learn from user feedback? How should it assist the user in accomplishing day to day tasks? These are the questions we will investigate in this course.
+We will contrast existing algorithms in robotics with studies in human-robot interaction, discussing how to tackle interaction challenges in an algorithmic way, with the goal of enabling generalization across robots and tasks. We will also sharpen research skills: giving good talks, experimental design, statistical analysis, literature surveys.
+Units:  4.0
+Student Learning Outcomes:  Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	tease out the intricacies of developing algorithms that support HRI., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to critique a scientific paper's experimental design and analysis., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to analyze and diagram the literature related to a particular topic., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to communicate scientific content to a peer audience., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	ground algorithmic HRI in the relvant psychology background., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	develop a basic understanding of verbal and non-verbal communication., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	apply Bayesian inference and learning techniques to enhance coordination in collaborative tasks., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	contrast and relate model-based and model-free learning from demonstration., Students will have gained both knowledge/abilities related to human-robot interaction, as well as to research and presentation skills including being able to	apply optimization techniques to generate motion for HRI.
+Formats:  Fall: 3.0 hours of lecture per week
+Spring: 3.0 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class Schedule (Spring 2020):
+MoWe 10:30AM - 11:59AM, Soda 310 –
+Anca Dragan
+Class homepage on inst.eecs
+General Catalog listing

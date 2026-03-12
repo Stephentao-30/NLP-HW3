@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-45.html
+Nano-Electro-Mechanical (NEM) Relay Devices and Technology  for Ultra-Low Energy Digital Integrated Circuits
+Rhesa Nathanael
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-45
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-45.pdf
+Complementary-Metal-Oxide-Semiconductor (CMOS) technology scaling has brought about an integrated circuits (IC) revolution over the past 40+ years, due to dramatic increases in IC functionality and performance, concomitant with reductions in cost per function.  In the last decade, increasing power density has emerged to be the primary barrier to continued rapid advancement in IC technology, fundamentally due to non-zero transistor off-state leakage.  While innovations in materials, transistor structures, and circuit/system architecture have enabled the semiconductor industry to continue to push the boundaries, a fundamental lower limit in energy per operation will eventually be reached.  A more ideal switching device with zero off-state leakage becomes necessary.
+This dissertation proposes a solution to the CMOS power crisis via mechanical computing.  Specifically, robust electro-mechanical relay technologies are developed for digital circuit application.  A 4-Terminal (4T) relay design is firstly developed.  Key technology features include tungsten contacts for high endurance; low-thermal-budget p+-poly-Si 0.4 Ge 0.6  structure for post-CMOS process compatibility; Al 2 O 3  as a reliable insulation material; dry release step to mitigate stiction; and folded-flexure design to mitigate the impact of residual stress.  Fabricated relays show good conductance ( R ON  < 10 kΩ), abrupt switching behavior (sub-threshold swing below 0.1 mV/dec), and virtually zero leakage ( I OFF  ~ 10 -14  A).  Switching delay in the 100 ns range and endurance exceeding 10 9  on/off cycles is achieved with excellent device yield (> 95%).  With relay design and process optimizations, pull-in voltage below 10 V with less than 1 V hysteresis is achieved.  Miniaturization reduces the device footprint to 35μm×50μm, ~10% of the first generation device footprint (120μm×150μm).  Relays with multiple source/drain electrodes and multiple gate electrodes are proposed for increased circuit functionality and reduced device count.
+Finally, simple relay-based logic circuits are demonstrated to show pathways to relay-based digital integrated circuits.  The complementary inverter is the basis for all digital logic circuits and is investigated in depth.  Relay-based logic gates are demonstrated using CMOS-like and relay-specific design approaches.  Multi-input/multi-output relays are proposed to enable any complex logic function to be implemented compactly with only two relays.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Nathanael:EECS-2013-45,
+Author= {Nathanael, Rhesa},
+Title= {Nano-Electro-Mechanical (NEM) Relay Devices and Technology  for Ultra-Low Energy Digital Integrated Circuits},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-45.html},
+Number= {UCB/EECS-2013-45},
+Abstract= {Complementary-Metal-Oxide-Semiconductor (CMOS) technology scaling has brought about an integrated circuits (IC) revolution over the past 40+ years, due to dramatic increases in IC functionality and performance, concomitant with reductions in cost per function.  In the last decade, increasing power density has emerged to be the primary barrier to continued rapid advancement in IC technology, fundamentally due to non-zero transistor off-state leakage.  While innovations in materials, transistor structures, and circuit/system architecture have enabled the semiconductor industry to continue to push the boundaries, a fundamental lower limit in energy per operation will eventually be reached.  A more ideal switching device with zero off-state leakage becomes necessary.
+This dissertation proposes a solution to the CMOS power crisis via mechanical computing.  Specifically, robust electro-mechanical relay technologies are developed for digital circuit application.  A 4-Terminal (4T) relay design is firstly developed.  Key technology features include tungsten contacts for high endurance; low-thermal-budget p+-poly-Si<sub>0.4</sub>Ge<sub>0.6</sub> structure for post-CMOS process compatibility; Al<sub>2</sub>O<sub>3</sub> as a reliable insulation material; dry release step to mitigate stiction; and folded-flexure design to mitigate the impact of residual stress.  Fabricated relays show good conductance (<i>R</i><sub>ON</sub> < 10 kΩ), abrupt switching behavior (sub-threshold swing below 0.1 mV/dec), and virtually zero leakage (<i>I</i><sub>OFF</sub> ~ 10<sup>-14</sup> A).  Switching delay in the 100 ns range and endurance exceeding 10<sup>9</sup> on/off cycles is achieved with excellent device yield (> 95%).  With relay design and process optimizations, pull-in voltage below 10 V with less than 1 V hysteresis is achieved.  Miniaturization reduces the device footprint to 35μm×50μm, ~10% of the first generation device footprint (120μm×150μm).  Relays with multiple source/drain electrodes and multiple gate electrodes are proposed for increased circuit functionality and reduced device count.
+Finally, simple relay-based logic circuits are demonstrated to show pathways to relay-based digital integrated circuits.  The complementary inverter is the basis for all digital logic circuits and is investigated in depth.  Relay-based logic gates are demonstrated using CMOS-like and relay-specific design approaches.  Multi-input/multi-output relays are proposed to enable any complex logic function to be implemented compactly with only two relays.},
+}
+EndNote citation:
+%0 Thesis
+%A Nathanael, Rhesa
+%T Nano-Electro-Mechanical (NEM) Relay Devices and Technology  for Ultra-Low Energy Digital Integrated Circuits
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-45
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-45.html
+%F Nathanael:EECS-2013-45

@@ -1,0 +1,38 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-50.html
+Design and Implementation of a Hypervisor-Based Platform for Dynamic Information Flow Tracking in a Distributed Environment
+Andrey Ermolinskiy and Scott Shenker
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-50
+May 12,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-50.pdf
+One of the central security concerns in managing an organization is protecting the flow of sensitive information, by which we mean either maintaining an audit trail or ensuring that sensitive documents are disseminated only to the authorized parties.
+A promising approach to securing sensitive data involves designing mechanisms that interpose at the software-hardware boundary and track the flow of information with high precision --- at the level of bytes and machine instructions. Fine-grained information flow tracking (IFT) is conceptually simple: memory and registers containing sensitive data are tagged with taint labels and these labels are propagated in accordance with the computation. However, previous efforts have demonstrated that full-system IFT faces two major practical limitations --- enormous performance overhead and taint explosion. These challenges render existing IFT implementations impractical for deployment outside of a laboratory setting.
+This dissertation describes our progress in addressing these challenges. We present the design and implementation of PIFT (for Practical Information Flow Tracking) --- a hypervisor-based IFT platform that achieves substantial performance improvements over previous systems and largely eliminates the problem of kernel taint explosion. PIFT takes advantage of spare CPU cores to track the flow of information asynchronously and in parallel with the primary instruction stream.
+To the best of our knowledge, PIFT is the most efficient full-system IFT platform available at the time of writing and is the only implementation that supports real-time tracking of information flow in graphical desktop environments.
+Advisors:  Scott Shenker and Ion Stoica
+BibTeX citation:
+@phdthesis{Ermolinskiy:EECS-2011-50,
+Author= {Ermolinskiy, Andrey and Shenker, Scott},
+Title= {Design and Implementation of a Hypervisor-Based Platform for Dynamic Information Flow Tracking in a Distributed Environment},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-50.html},
+Number= {UCB/EECS-2011-50},
+Abstract= {One of the central security concerns in managing an organization is protecting the flow of sensitive information, by which we mean either maintaining an audit trail or ensuring that sensitive documents are disseminated only to the authorized parties.
+A promising approach to securing sensitive data involves designing mechanisms that interpose at the software-hardware boundary and track the flow of information with high precision --- at the level of bytes and machine instructions. Fine-grained information flow tracking (IFT) is conceptually simple: memory and registers containing sensitive data are tagged with taint labels and these labels are propagated in accordance with the computation. However, previous efforts have demonstrated that full-system IFT faces two major practical limitations --- enormous performance overhead and taint explosion. These challenges render existing IFT implementations impractical for deployment outside of a laboratory setting.
+This dissertation describes our progress in addressing these challenges. We present the design and implementation of PIFT (for Practical Information Flow Tracking) --- a hypervisor-based IFT platform that achieves substantial performance improvements over previous systems and largely eliminates the problem of kernel taint explosion. PIFT takes advantage of spare CPU cores to track the flow of information asynchronously and in parallel with the primary instruction stream.
+To the best of our knowledge, PIFT is the most efficient full-system IFT platform available at the time of writing and is the only implementation that supports real-time tracking of information flow in graphical desktop environments.},
+}
+EndNote citation:
+%0 Thesis
+%A Ermolinskiy, Andrey
+%A Shenker, Scott
+%T Design and Implementation of a Hypervisor-Based Platform for Dynamic Information Flow Tracking in a Distributed Environment
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 12
+%@ UCB/EECS-2011-50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-50.html
+%F Ermolinskiy:EECS-2011-50

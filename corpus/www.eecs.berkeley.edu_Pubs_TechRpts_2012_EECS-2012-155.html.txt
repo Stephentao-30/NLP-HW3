@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-155.html
+Impacting the Future of Diabetes Management
+Nathan Collingridge
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-155
+June 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-155.pdf
+To address the societal problems associated with diabetes, this paper presents a novel approach to the management of the disease. Enabled by new technology, we constructed a glucometer that provides the ability to turn your mobile device into a blood sugar sensor, transforming blood glucose testing from struggle to sensation. We also built a web application dedicated to diabetic reviewed restaurants, presented here as a way to bring this technology to market.
+Advisors:  Pieter Abbeel and Ikhlaq Sidhu
+BibTeX citation:
+@mastersthesis{Collingridge:EECS-2012-155,
+Author= {Collingridge, Nathan},
+Title= {Impacting the Future of Diabetes Management},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-155.html},
+Number= {UCB/EECS-2012-155},
+Abstract= {To address the societal problems associated with diabetes, this paper presents a novel approach to the management of the disease. Enabled by new technology, we constructed a glucometer that provides the ability to turn your mobile device into a blood sugar sensor, transforming blood glucose testing from struggle to sensation. We also built a web application dedicated to diabetic reviewed restaurants, presented here as a way to bring this technology to market.},
+}
+EndNote citation:
+%0 Thesis
+%A Collingridge, Nathan
+%T Impacting the Future of Diabetes Management
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 2
+%@ UCB/EECS-2012-155
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-155.html
+%F Collingridge:EECS-2012-155

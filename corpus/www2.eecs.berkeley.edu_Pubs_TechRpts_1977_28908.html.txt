@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28908.html
+A Program to Swap Diagonal Blocks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Program to Swap Diagonal Blocks
+A Program to Swap Diagonal Blocks
+B.N. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/66
+November 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-66.pdf
+BibTeX citation:
+@techreport{Parlett:M77/66,
+Author = {Parlett, B.N.},
+Title = {A Program to Swap Diagonal Blocks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28908.html},
+Number = {UCB/ERL M77/66}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.N.
+%T A Program to Swap Diagonal Blocks
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/66
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28908.html
+%F Parlett:M77/66

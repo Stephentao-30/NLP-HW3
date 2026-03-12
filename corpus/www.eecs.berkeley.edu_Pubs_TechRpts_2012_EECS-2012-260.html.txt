@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-260.html
+Nano-Optoelectronic Integration on Silicon
+Roger Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-260
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-260.pdf
+Modern silicon technology offers unprecedented spatial and temporal control of electrons with high levels of integrated complexity. Integrating nanophotonic functionality onto silicon should then allow us to extend this level of control to photons. Resulting nano-optoelectronic systems will inevitably create new functionality, which not only enables next-generation technologies like optical interconnects, but also gives rise to yet unforeseen applications.
+Directly growing III-V nanomaterials on silicon provides an advantageous pathway towards optoelectronic integration. Conventional wisdom often breaks at the nanoscale, and traditional integration challenges like lattice mismatch are circumvented. In particular, III-V nanoneedles and nanopillars with attractive optical properties grow on silicon under conditions that are compatible with the process constraints of CMOS technology.
+This dissertation will present a variety of nano-optoelectronic devices developed using the nanoneedle and nanopillar platform. Nanolasers are demonstrated under optical pumping, and progress towards electrical injection is shown. Under reverse bias, nanopillars enable avalanche photodiodes featuring gain-bandwidth products in excess of 100 GHz. Nanopillar devices also exhibit clear photovoltaic effects and even support nonlinear optical generation. The breadth of functionality shown suggests that a powerful marriage between photons and electrons on silicon is well within reach.
+Advisors:  Constance Chang-Hasnain
+BibTeX citation:
+@phdthesis{Chen:EECS-2012-260,
+Author= {Chen, Roger},
+Title= {Nano-Optoelectronic Integration on Silicon},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-260.html},
+Number= {UCB/EECS-2012-260},
+Abstract= {Modern silicon technology offers unprecedented spatial and temporal control of electrons with high levels of integrated complexity. Integrating nanophotonic functionality onto silicon should then allow us to extend this level of control to photons. Resulting nano-optoelectronic systems will inevitably create new functionality, which not only enables next-generation technologies like optical interconnects, but also gives rise to yet unforeseen applications.
+Directly growing III-V nanomaterials on silicon provides an advantageous pathway towards optoelectronic integration. Conventional wisdom often breaks at the nanoscale, and traditional integration challenges like lattice mismatch are circumvented. In particular, III-V nanoneedles and nanopillars with attractive optical properties grow on silicon under conditions that are compatible with the process constraints of CMOS technology.
+This dissertation will present a variety of nano-optoelectronic devices developed using the nanoneedle and nanopillar platform. Nanolasers are demonstrated under optical pumping, and progress towards electrical injection is shown. Under reverse bias, nanopillars enable avalanche photodiodes featuring gain-bandwidth products in excess of 100 GHz. Nanopillar devices also exhibit clear photovoltaic effects and even support nonlinear optical generation. The breadth of functionality shown suggests that a powerful marriage between photons and electrons on silicon is well within reach.},
+}
+EndNote citation:
+%0 Thesis
+%A Chen, Roger
+%T Nano-Optoelectronic Integration on Silicon
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-260
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-260.html
+%F Chen:EECS-2012-260

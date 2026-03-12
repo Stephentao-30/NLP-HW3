@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28721.html
+The Hackenbush Number System For Compression of Numerical Data
+E.R. Berlekamp
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M360
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-360.pdf
+BibTeX citation:
+@techreport{Berlekamp:M360,
+Author= {Berlekamp, E.R.},
+Title= {The Hackenbush Number System For Compression of Numerical Data},
+Year= {1972},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28721.html},
+Number= {UCB/ERL M360},
+}
+EndNote citation:
+%0 Report
+%A Berlekamp, E.R.
+%T The Hackenbush Number System For Compression of Numerical Data
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M360
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28721.html
+%F Berlekamp:M360

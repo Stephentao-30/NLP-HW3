@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28699.html
+Studies on Graph Theory: 1. Partial Squares of Trees 2. Factorization of Graphs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Studies on Graph Theory: 1. Partial Squares of Trees 2. Factorization of Graphs
+Studies on Graph Theory: 1. Partial Squares of Trees 2. Factorization of Graphs
+Sukhamay Kundu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M326
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-326.pdf
+BibTeX citation:
+@techreport{Kundu:M326,
+Author = {Kundu, Sukhamay},
+Title = {Studies on Graph Theory: 1. Partial Squares of Trees 2. Factorization of Graphs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28699.html},
+Number = {UCB/ERL M326}
+}
+EndNote citation:
+%0 Report
+%A Kundu, Sukhamay
+%T Studies on Graph Theory: 1. Partial Squares of Trees 2. Factorization of Graphs
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M326
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28699.html
+%F Kundu:M326

@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-26.html
+Android Permissions: User Attention, Comprehension, and Behavior
+Adrienne Porter Felt and Elizabeth Ha and Serge Egelman and Ariel Haney and Erika Chin and David Wagner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-26
+February 17,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-26.pdf
+Android's permission system is intended to inform users about the risks of installing applications. When a user installs an application, he or she has the opportunity to review the application's permission requests and cancel the installation if the permissions are excessive or objectionable. We examine whether the Android permission system is effective at warning users. In particular, we evaluate whether Android users pay attention to, understand, and act on permission information during installation. We performed two usability studies: an Internet survey of 308 Android users, and a laboratory study where we interviewed and observed 25 Android users. Study participants displayed low attention and comprehension rates: both the Internet survey and laboratory study found that 17% of people paid attention to permissions during installation, and only 3% of Internet survey respondents could correctly answer all three permission comprehension questions. This indicates that current Android permission warnings do not help most users make correct security decisions. However, a notable minority of users demonstrated both awareness of permission warnings and reasonable rates of comprehension. We present recommendations for improving user attention and comprehension, as well as identify open challenges.
+BibTeX citation:
+@techreport{Felt:EECS-2012-26,
+Author= {Felt, Adrienne Porter and Ha, Elizabeth and Egelman, Serge and Haney, Ariel and Chin, Erika and Wagner, David},
+Title= {Android Permissions: User Attention, Comprehension, and Behavior},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-26.html},
+Number= {UCB/EECS-2012-26},
+Abstract= {Android's permission system is intended to inform users about the risks of installing applications. When a user installs an application, he or she has the opportunity to review the application's permission requests and cancel the installation if the permissions are excessive or objectionable. We examine whether the Android permission system is effective at warning users. In particular, we evaluate whether Android users pay attention to, understand, and act on permission information during installation. We performed two usability studies: an Internet survey of 308 Android users, and a laboratory study where we interviewed and observed 25 Android users. Study participants displayed low attention and comprehension rates: both the Internet survey and laboratory study found that 17% of people paid attention to permissions during installation, and only 3% of Internet survey respondents could correctly answer all three permission comprehension questions. This indicates that current Android permission warnings do not help most users make correct security decisions. However, a notable minority of users demonstrated both awareness of permission warnings and reasonable rates of comprehension. We present recommendations for improving user attention and comprehension, as well as identify open challenges.},
+}
+EndNote citation:
+%0 Report
+%A Felt, Adrienne Porter
+%A Ha, Elizabeth
+%A Egelman, Serge
+%A Haney, Ariel
+%A Chin, Erika
+%A Wagner, David
+%T Android Permissions: User Attention, Comprehension, and Behavior
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 17
+%@ UCB/EECS-2012-26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-26.html
+%F Felt:EECS-2012-26

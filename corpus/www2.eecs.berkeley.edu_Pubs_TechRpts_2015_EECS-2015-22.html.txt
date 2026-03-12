@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-22.html
+Aircraft Design Optimization as a Geometric Program | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Aircraft Design Optimization as a Geometric Program
+Aircraft Design Optimization as a Geometric Program
+Warren Hoburg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-22
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-22.pdf
+Recent advances in convex optimization make it possible to solve certain classes of constrained optimization problems reliably and efficiently. These techniques offer significant advantages over general nonlinear optimization methods. In this thesis, conceptual-stage aircraft design problems are formulated as geometric programs (GPs), which are a specific type of convex optimization problem. Modern GP solvers are extremely fast, even on large problems, require no initial guesses or tuning of solver parameters, and guarantee globally optimal solutions. They also return optimal dual variables, which encode sensitivity information that is especially relevant in an aircraft design context. These benefits come at a price: all objective and constraint functions -- the mathematical models that describe aircraft design relations -- must be expressed within the restricted functional forms of GP. Perhaps surprisingly, this restricted set of functional forms appears again and again in prevailing physics-based models for aircraft systems. Moreover, for models that cannot be manipulated algebraically into the forms required by GP, one can use methods developed in this thesis to fit compact GP models that accurately approximate the original models. Each of these ideas is illustrated by way of concrete examples from aircraft design.
+Advisor:  Pieter Abbeel
+BibTeX citation:
+@phdthesis{Hoburg:EECS-2015-22,
+Author = {Hoburg, Warren},
+Title = {Aircraft Design Optimization as a Geometric Program},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-22.html},
+Number = {UCB/EECS-2015-22},
+Abstract = {Recent advances in convex optimization make it possible to solve certain classes of constrained optimization problems reliably and efficiently. These techniques offer significant advantages over general nonlinear optimization methods. In this thesis, conceptual-stage aircraft design problems are formulated as geometric programs (GPs), which are a specific type of convex optimization problem. Modern GP solvers are extremely fast, even on large problems, require no initial guesses or tuning of solver parameters, and guarantee globally optimal solutions. They also return optimal dual variables, which encode sensitivity information that is especially relevant in an aircraft design context. These benefits come at a price: all objective and constraint functions -- the mathematical models that describe aircraft design relations -- must be expressed within the restricted functional forms of GP. Perhaps surprisingly, this restricted set of functional forms appears again and again in prevailing physics-based models for aircraft systems. Moreover, for models that cannot be manipulated algebraically into the forms required by GP, one can use methods developed in this thesis to fit compact GP models that accurately approximate the original models. Each of these ideas is illustrated by way of concrete examples from aircraft design.}
+}
+EndNote citation:
+%0 Thesis
+%A Hoburg, Warren
+%T Aircraft Design Optimization as a Geometric Program
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-22.html
+%F Hoburg:EECS-2015-22

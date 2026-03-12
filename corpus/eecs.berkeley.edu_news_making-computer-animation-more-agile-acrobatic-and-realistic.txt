@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/making-computer-animation-more-agile-acrobatic-and-realistic
+Making computer animation more agile, acrobatic — and realistic - EECS at Berkeley
+Graduate student Xue Bin “Jason” Peng (advisors Pieter Abbeel and Sergey Levine) has made a major advance in realistic computer animation using deep reinforcement learning to recreate natural motions, even for acrobatic feats like break dancing and martial arts. The simulated characters can also respond naturally to changes in the environment, such as recovering from tripping or being pelted by projectiles.  “We developed more capable agents that behave in a natural manner,” Peng said. “If you compare our results to motion-capture recorded from humans, we are getting to the point where it is pretty difficult to distinguish the two, to tell what is simulation and what is real. We’re moving toward a virtual stuntman.”  Peng will present his paper at the 2018 SIGGRAPH conference in August.
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

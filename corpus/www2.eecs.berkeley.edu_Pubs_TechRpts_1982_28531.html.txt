@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28531.html
+The VLSI Complexity of Sorting | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The VLSI Complexity of Sorting
+The VLSI Complexity of Sorting
+C.D. Thompson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/5
+February 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-5.pdf
+BibTeX citation:
+@techreport{Thompson:M82/5,
+Author = {Thompson, C.D.},
+Title = {The VLSI Complexity of Sorting},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28531.html},
+Number = {UCB/ERL M82/5}
+}
+EndNote citation:
+%0 Report
+%A Thompson, C.D.
+%T The VLSI Complexity of Sorting
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28531.html
+%F Thompson:M82/5

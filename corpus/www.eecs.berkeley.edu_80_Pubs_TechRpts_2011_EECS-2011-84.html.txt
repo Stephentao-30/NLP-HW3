@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-84.html
+Improving CMOS Speed and Switching Power with Air-gap Structures
+Jemin Park
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-84
+July 21,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-84.pdf
+Scaling transistors is good for speed but scaling interconnect degrades it due to resistances and parasitic capacitances. Scaling of supply voltage has significantly slowed down since the 130 nm node. As a result, integrated circuit (IC) power consumption has been on the rapid rise. Crosstalk noise problem has been also increased as scaling. Reducing capacitance is an excellent solution for these problems; the circuit delay, power consumption, and crosstalk noise. The future transistor and interconnect with lower capacitance should be considered to overcome these problems. An air-gap structure can be attractive solution for both transistors and interconnects. Novel air-gap structures are proposed in this research. In transistor parts, the conventional spacer structure is replaced with air-gap spacer structure. This new structure leads for the fringing capacitance to be decreased much. Therefore, the speed and power consumption can be improved. This structure can be compatible with both the conventional gate-first and gate-last processes. Other designs involve use of self-aligned contact or linear contact processes to achieve a much more effect. The low-k spacer transistor which is included this air-gap spacer transistor degrades the current performance. Thus, the air-gap spacer technology is very helpful to the high performance devices but it is not much helpful to the low stand-by power devices. The corner spacer transistor with high-k inner spacer and low-k outer spacer is proposed to overcome the degradation of current performance. The high-k material can improve the current performance and the low-k material can improve the capacitance. In interconnect parts, the proposed novel air-gap interconnects are compatible with both the subtractive etch interconnect and dual damascene interconnect processes. These air-gap structures can improve not only the effective dielectric constant but also crosstalk noise problem.
+Advisors:  Chenming Hu
+BibTeX citation:
+@phdthesis{Park:EECS-2011-84,
+Author= {Park, Jemin},
+Title= {Improving CMOS Speed and Switching Power with Air-gap Structures},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-84.html},
+Number= {UCB/EECS-2011-84},
+Abstract= {      Scaling transistors is good for speed but scaling interconnect degrades it due to resistances and parasitic capacitances. Scaling of supply voltage has significantly slowed down since the 130 nm node. As a result, integrated circuit (IC) power consumption has been on the rapid rise. Crosstalk noise problem has been also increased as scaling. Reducing capacitance is an excellent solution for these problems; the circuit delay, power consumption, and crosstalk noise. The future transistor and interconnect with lower capacitance should be considered to overcome these problems. An air-gap structure can be attractive solution for both transistors and interconnects. Novel air-gap structures are proposed in this research. In transistor parts, the conventional spacer structure is replaced with air-gap spacer structure. This new structure leads for the fringing capacitance to be decreased much. Therefore, the speed and power consumption can be improved. This structure can be compatible with both the conventional gate-first and gate-last processes. Other designs involve use of self-aligned contact or linear contact processes to achieve a much more effect. The low-k spacer transistor which is included this air-gap spacer transistor degrades the current performance. Thus, the air-gap spacer technology is very helpful to the high performance devices but it is not much helpful to the low stand-by power devices. The corner spacer transistor with high-k inner spacer and low-k outer spacer is proposed to overcome the degradation of current performance. The high-k material can improve the current performance and the low-k material can improve the capacitance. In interconnect parts, the proposed novel air-gap interconnects are compatible with both the subtractive etch interconnect and dual damascene interconnect processes. These air-gap structures can improve not only the effective dielectric constant but also crosstalk noise problem.},
+}
+EndNote citation:
+%0 Thesis
+%A Park, Jemin
+%T Improving CMOS Speed and Switching Power with Air-gap Structures
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 21
+%@ UCB/EECS-2011-84
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-84.html
+%F Park:EECS-2011-84

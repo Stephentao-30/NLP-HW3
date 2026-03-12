@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29176.html
+Complete Stability of Non-Reciprocal Nonlinear Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Complete Stability of Non-Reciprocal Nonlinear Systems
+Complete Stability of Non-Reciprocal Nonlinear Systems
+L.O. Chua and S. Suwannukul
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/51
+April 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-51.pdf
+BibTeX citation:
+@techreport{Chua:M79/51,
+Author = {Chua, L.O. and Suwannukul, S.},
+Title = {Complete Stability of Non-Reciprocal Nonlinear Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29176.html},
+Number = {UCB/ERL M79/51}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Suwannukul, S.
+%T Complete Stability of Non-Reciprocal Nonlinear Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29176.html
+%F Chua:M79/51

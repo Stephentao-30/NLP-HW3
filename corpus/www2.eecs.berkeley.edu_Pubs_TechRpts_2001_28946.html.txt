@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2001/28946.html
+A Vision System for Landing an Unmanned Aerial Vehicle | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Vision System for Landing an Unmanned Aerial Vehicle
+A Vision System for Landing an Unmanned Aerial Vehicle
+Courtney S. Sharp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M01/10
+December 2001
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2001/ERL-01-10.pdf
+BibTeX citation:
+@techreport{Sharp:M01/10,
+Author = {Sharp, Courtney S.},
+Title = {A Vision System for Landing an Unmanned Aerial Vehicle},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2001},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2001/28946.html},
+Number = {UCB/ERL M01/10}
+}
+EndNote citation:
+%0 Report
+%A Sharp, Courtney S.
+%T A Vision System for Landing an Unmanned Aerial Vehicle
+%I EECS Department, University of California, Berkeley
+%D 2001
+%@ UCB/ERL M01/10
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2001/28946.html
+%F Sharp:M01/10

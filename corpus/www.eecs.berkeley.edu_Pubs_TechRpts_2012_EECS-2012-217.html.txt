@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-217.html
+Model Order Reduction of Nonlinear Dynamical Systems
+Chenjie Gu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-217
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-217.pdf
+Higher-level representations (macromodels, reduced-order models) abstract away unnecessary implementation details and model only important system properties such as functionality. This methodology -- well-developed for linear systems and digital (Boolean) circuits -- is not mature for general nonlinear systems (such as analog/mixed-signal circuits). Questions arise regarding abstracting/macromodeling nonlinear dynamical systems: What are ``important'' system properties to preserve in the macromodel? What is the appropriate representation of the macromodel? What is the general algorithmic framework to develop a macromodel? How to automatically derive a macromodel from a white-box/black-box model?  This dissertation presents techniques for solving the problem of macromodeling nonlinear dynamical systems by trying to answer these questions.
+We formulate the nonlinear model order reduction problem as an optimization problem and present a general nonlinear projection framework that encompasses previous linear projection-based techniques as well as the techniques developed in this dissertation.  We illustrate that nonlinear projection is natural and appropriate for reducing nonlinear systems, and can achieve more compact and accurate reduced models than linear projection.
+The first method, ManiMOR, is a direct implementation of the nonlinear projection framework. It generates a nonlinear reduced model by projection on a general-purpose nonlinear manifold. The proposed manifold can be proven to capture important system dynamics such as DC and AC responses. We develop numerical methods that alleviates the computational cost of the reduced model which is otherwise too expensive to make the reduced order model of any value compared to the full model.
+The second method, QLMOR, transforms the full model to a canonical QLDAE representation and performs Volterra analysis to derive a reduced model. We develop an algorithm that can mechanically transform a set of nonlinear differential equations to another set of equivalent nonlinear differential equations that involve only quadratic terms of state variables, and therefore it avoids any problem brought by previous Taylor-expansion-based methods. With the QLDAE representation, we develop the corresponding model order reduction algorithm that extends and generalizes previously-developed Volterra-based technique.
+The third method, NTIM, derives a macromodel that specifically captures timing/phase responses of a nonlinear system. We rigorously define the phase response for a non-autonomous system, and derive the dynamics of the phase response. The macromodel emerges as a scalar, nonlinear time-varying differential equation that can be computed by performing Floquet analysis of the full model. With the theory developed, we also present efficient numerical methods to compute the macromodel.
+The fourth method, DAE2FSM, considers a slightly different problem -- finite state machine abstraction of continuous dynamical systems. We present an algorithm that learns a Mealy machine from a set of differential equations from its input-output trajectories. The algorithm explores the state space in a smart way so that it can identify the underlying finite state machine using very few information about input-output trajectories.
+Advisors:  Jaijeet Roychowdhury
+BibTeX citation:
+@phdthesis{Gu:EECS-2012-217,
+Author= {Gu, Chenjie},
+Title= {Model Order Reduction of Nonlinear Dynamical Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-217.html},
+Number= {UCB/EECS-2012-217},
+Abstract= {Higher-level representations (macromodels, reduced-order models) abstract away unnecessary implementation details and model only important system properties such as functionality. This methodology -- well-developed for linear systems and digital (Boolean) circuits -- is not mature for general nonlinear systems (such as analog/mixed-signal circuits). Questions arise regarding abstracting/macromodeling nonlinear dynamical systems: What are ``important'' system properties to preserve in the macromodel? What is the appropriate representation of the macromodel? What is the general algorithmic framework to develop a macromodel? How to automatically derive a macromodel from a white-box/black-box model?  This dissertation presents techniques for solving the problem of macromodeling nonlinear dynamical systems by trying to answer these questions.
+We formulate the nonlinear model order reduction problem as an optimization problem and present a general nonlinear projection framework that encompasses previous linear projection-based techniques as well as the techniques developed in this dissertation.  We illustrate that nonlinear projection is natural and appropriate for reducing nonlinear systems, and can achieve more compact and accurate reduced models than linear projection.
+The first method, ManiMOR, is a direct implementation of the nonlinear projection framework. It generates a nonlinear reduced model by projection on a general-purpose nonlinear manifold. The proposed manifold can be proven to capture important system dynamics such as DC and AC responses. We develop numerical methods that alleviates the computational cost of the reduced model which is otherwise too expensive to make the reduced order model of any value compared to the full model.
+The second method, QLMOR, transforms the full model to a canonical QLDAE representation and performs Volterra analysis to derive a reduced model. We develop an algorithm that can mechanically transform a set of nonlinear differential equations to another set of equivalent nonlinear differential equations that involve only quadratic terms of state variables, and therefore it avoids any problem brought by previous Taylor-expansion-based methods. With the QLDAE representation, we develop the corresponding model order reduction algorithm that extends and generalizes previously-developed Volterra-based technique.
+The third method, NTIM, derives a macromodel that specifically captures timing/phase responses of a nonlinear system. We rigorously define the phase response for a non-autonomous system, and derive the dynamics of the phase response. The macromodel emerges as a scalar, nonlinear time-varying differential equation that can be computed by performing Floquet analysis of the full model. With the theory developed, we also present efficient numerical methods to compute the macromodel.
+The fourth method, DAE2FSM, considers a slightly different problem -- finite state machine abstraction of continuous dynamical systems. We present an algorithm that learns a Mealy machine from a set of differential equations from its input-output trajectories. The algorithm explores the state space in a smart way so that it can identify the underlying finite state machine using very few information about input-output trajectories.},
+}
+EndNote citation:
+%0 Thesis
+%A Gu, Chenjie
+%T Model Order Reduction of Nonlinear Dynamical Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-217
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-217.html
+%F Gu:EECS-2012-217

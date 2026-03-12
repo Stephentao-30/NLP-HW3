@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-78.html
+Using Linked Data to improve the query performance of Patent Data
+Xiaoting Yin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-78
+May 16, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-78.pdf
+Tens of thousands of related people, thousands of sensors and millions of transactions now work to create unimaginable amounts of information. People believe there are some values hidden behind these large amounts of data but find it unable to manage, analyze and manipulate these data to their advantage.
+One of the main challenges in today’s data-driven scenarios is not just the size and complexity of datasets, but the question of how to make sense of big data by combining it with other data and thus create valuable context for the data. Linked Data is one method for combining very rich and freely available public data and using it to be able to answer more advanced analytical questions. The next generation of analytics needs semantic reasoning where expert knowledge is combined with the analytics.
+My project is to experiment with the state of the art, as well as current shortcomings, in Big data integration and analysis. We will build a search engine to integrate Public Linked Data into Patent Data to provide more sematic contexts and values to each patent. We build the interface and connection to retrieve the traditional data from the front-end website.
+Advisors:  Anant Sahai
+BibTeX citation:
+@mastersthesis{Yin:EECS-2013-78,
+Author= {Yin, Xiaoting},
+Title= {Using Linked Data to improve the query performance of Patent Data},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-78.html},
+Number= {UCB/EECS-2013-78},
+Abstract= {Tens of thousands of related people, thousands of sensors and millions of transactions now work to create unimaginable amounts of information. People believe there are some values hidden behind these large amounts of data but find it unable to manage, analyze and manipulate these data to their advantage.
+One of the main challenges in today’s data-driven scenarios is not just the size and complexity of datasets, but the question of how to make sense of big data by combining it with other data and thus create valuable context for the data. Linked Data is one method for combining very rich and freely available public data and using it to be able to answer more advanced analytical questions. The next generation of analytics needs semantic reasoning where expert knowledge is combined with the analytics.
+My project is to experiment with the state of the art, as well as current shortcomings, in Big data integration and analysis. We will build a search engine to integrate Public Linked Data into Patent Data to provide more sematic contexts and values to each patent. We build the interface and connection to retrieve the traditional data from the front-end website.},
+}
+EndNote citation:
+%0 Thesis
+%A Yin, Xiaoting
+%T Using Linked Data to improve the query performance of Patent Data
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 16
+%@ UCB/EECS-2013-78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-78.html
+%F Yin:EECS-2013-78

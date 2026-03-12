@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29299.html
+BUDS: The Berkeley Urban Data System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+BUDS: The Berkeley Urban Data System
+BUDS: The Berkeley Urban Data System
+Philip Pasquale Macri
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M412
+November 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-412.pdf
+BibTeX citation:
+@techreport{Macri:M412,
+Author = {Macri, Philip Pasquale},
+Title = {BUDS: The Berkeley Urban Data System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29299.html},
+Number = {UCB/ERL M412}
+}
+EndNote citation:
+%0 Report
+%A Macri, Philip Pasquale
+%T BUDS: The Berkeley Urban Data System
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M412
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29299.html
+%F Macri:M412

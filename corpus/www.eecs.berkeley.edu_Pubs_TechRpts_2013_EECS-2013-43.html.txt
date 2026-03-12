@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-43.html
+Fundamental limits and insights: from wireless communication to DNA sequencing
+Guy Bresler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-43
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-43.pdf
+Interference is a central phenomenon in wireless networks of all types, occurring whenever multiple users attempt to communicate over a shared medium. Current state-of-the-art systems rely on two basic approaches: orthogonalizing communication links, or treating interference as noise. These approaches both suffer from a swift degradation in performance as the number of users in the system grows large. Recently, interference alignment has emerged as a promising new perspective towards mitigating interference. The extent of the potential benefit of interference alignment was observed by Cadambe and Jafar (2008), who showed that for time-varying or frequency selective channels, K/2 total degrees of freedom are achievable in a K-user interference channel. In the context of the result, this means that interference causes essentially no degradation at all in performance as the number of users grows. However, a caveat is that the number of independent channel realizations needed over time or frequency, i.e. the channel diversity, is unbounded. Actual communication systems have only finite channel diversity, and thus the practical implications of interference alignment are uncertain: Just how much channel diversity is required in order to get substantial benefit from interference alignment? The first part of this thesis focuses on this question. Our first result characterizes the degrees of freedom for the three-user interference channel as a function of time or frequency diversity. We next focus on spatial diversity, in the form of multiple antennas at transmitters and receivers. We characterize the degrees of freedom for the symmetric three-user multiple-input multiple-output interference channel. This result is partially generalized to an arbitrary number of users, under a further symmetry assumption.
+The second part of this thesis studies DNA sequencing from an information theory point-of-view. DNA sequencing is the basic workhorse of modern day biology and medicine. Shotgun sequencing is the dominant technique used: many randomly located short fragments called reads are extracted from the DNA sequence, and these reads are assembled to reconstruct the original sequence. During the last two decades, many assembly algorithms have been proposed, but comparing and evaluating them is difficult.
+To clarify this, we ask: Given N reads of length L sampled from an arbitrary DNA sequence, is it possible to achieve some target probability 1-epsilon of successful reconstruction?  We show that the answer depends on the repeat statistics of the DNA sequence to be assembled, and we compute these statistics for a number of reference genomes.
+We construct lower bounds showing that reconstruction is impossible for certain choices of N and L, and complement this by analytically deriving the performance of several algorithms, both in terms of repeat statistics. In seeking an algorithm that matches the lower bounds on real DNA data, we are able to methodically progress towards an optimal assembly algorithm. The goal of this work is to advocate a new systematic approach to the design of assembly algorithms with an optimality or near-optimality guarantee.
+Advisors:  David Tse
+BibTeX citation:
+@phdthesis{Bresler:EECS-2013-43,
+Author= {Bresler, Guy},
+Title= {Fundamental limits and insights: from wireless communication to DNA sequencing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-43.html},
+Number= {UCB/EECS-2013-43},
+Abstract= {Interference is a central phenomenon in wireless networks of all types, occurring whenever multiple users attempt to communicate over a shared medium. Current state-of-the-art systems rely on two basic approaches: orthogonalizing communication links, or treating interference as noise. These approaches both suffer from a swift degradation in performance as the number of users in the system grows large. Recently, interference alignment has emerged as a promising new perspective towards mitigating interference. The extent of the potential benefit of interference alignment was observed by Cadambe and Jafar (2008), who showed that for time-varying or frequency selective channels, K/2 total degrees of freedom are achievable in a K-user interference channel. In the context of the result, this means that interference causes essentially no degradation at all in performance as the number of users grows. However, a caveat is that the number of independent channel realizations needed over time or frequency, i.e. the channel diversity, is unbounded. Actual communication systems have only finite channel diversity, and thus the practical implications of interference alignment are uncertain: Just how much channel diversity is required in order to get substantial benefit from interference alignment? The first part of this thesis focuses on this question. Our first result characterizes the degrees of freedom for the three-user interference channel as a function of time or frequency diversity. We next focus on spatial diversity, in the form of multiple antennas at transmitters and receivers. We characterize the degrees of freedom for the symmetric three-user multiple-input multiple-output interference channel. This result is partially generalized to an arbitrary number of users, under a further symmetry assumption.
+The second part of this thesis studies DNA sequencing from an information theory point-of-view. DNA sequencing is the basic workhorse of modern day biology and medicine. Shotgun sequencing is the dominant technique used: many randomly located short fragments called reads are extracted from the DNA sequence, and these reads are assembled to reconstruct the original sequence. During the last two decades, many assembly algorithms have been proposed, but comparing and evaluating them is difficult.
+To clarify this, we ask: Given N reads of length L sampled from an arbitrary DNA sequence, is it possible to achieve some target probability 1-epsilon of successful reconstruction?  We show that the answer depends on the repeat statistics of the DNA sequence to be assembled, and we compute these statistics for a number of reference genomes.
+We construct lower bounds showing that reconstruction is impossible for certain choices of N and L, and complement this by analytically deriving the performance of several algorithms, both in terms of repeat statistics. In seeking an algorithm that matches the lower bounds on real DNA data, we are able to methodically progress towards an optimal assembly algorithm. The goal of this work is to advocate a new systematic approach to the design of assembly algorithms with an optimality or near-optimality guarantee.},
+}
+EndNote citation:
+%0 Thesis
+%A Bresler, Guy
+%T Fundamental limits and insights: from wireless communication to DNA sequencing
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-43.html
+%F Bresler:EECS-2013-43

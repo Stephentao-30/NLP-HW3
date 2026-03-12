@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-153.html
+Determinate Composition of FMUs for Co-Simulation
+David Broman and Christopher Brooks and Lev Greenberg and Edward A. Lee and Michael Masin and Stavros Tripakis and Michael Wetter
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-153
+August 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-153.pdf
+In this paper, we explain how to achieve deterministic execution of FMUs (Functional Mockup Units) under the FMI (Functional Mockup Interface) standard. In particular, we focus on co-simulation, where an FMU either contains its own internal simulation algorithm or serves as a gateway to a simulation tool. We give conditions on the design of FMUs and master algorithms (which orchestrate the execution of FMUs) to achieve deterministic co-simulation. We show that with the current version of the standard, these conditions demand capabilities from FMUs that are optional in the standard and rarely provided by an FMU in practice. When FMUs lacking these required capabilities are used to compose a model, many basic modeling capabilities become unachievable, including simple discrete-event simulation and variable-step-size numerical integration algorithms. We propose a small extension to the standard and a policy for designing FMUs that enables deterministic execution for a much broader class of models. The extension enables a master algorithm to query an FMU for the time of events that are expected in the future. We show that a model can be executed deterministically if all FMUs in the model are either memoryless or implement one of rollback or step-size prediction. We show further that such a model can contain at most one “legacy” FMU that is not memoryless and provides neither rollback nor step-size prediction.
+BibTeX citation:
+@techreport{Broman:EECS-2013-153,
+Author= {Broman, David and Brooks, Christopher and Greenberg, Lev and Lee, Edward A. and Masin, Michael and Tripakis, Stavros and Wetter, Michael},
+Title= {Determinate Composition of FMUs for Co-Simulation},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-153.html},
+Number= {UCB/EECS-2013-153},
+Abstract= {In this paper, we explain how to achieve deterministic execution of FMUs (Functional Mockup Units) under the FMI (Functional Mockup Interface) standard. In particular, we focus on co-simulation, where an FMU either contains its own internal simulation algorithm or serves as a gateway to a simulation tool. We give conditions on the design of FMUs and master algorithms (which orchestrate the execution of FMUs) to achieve deterministic co-simulation. We show that with the current version of the standard, these conditions demand capabilities from FMUs that are optional in the standard and rarely provided by an FMU in practice. When FMUs lacking these required capabilities are used to compose a model, many basic modeling capabilities become unachievable, including simple discrete-event simulation and variable-step-size numerical integration algorithms. We propose a small extension to the standard and a policy for designing FMUs that enables deterministic execution for a much broader class of models. The extension enables a master algorithm to query an FMU for the time of events that are expected in the future. We show that a model can be executed deterministically if all FMUs in the model are either memoryless or implement one of rollback or step-size prediction. We show further that such a model can contain at most one “legacy” FMU that is not memoryless and provides neither rollback nor step-size prediction.},
+}
+EndNote citation:
+%0 Report
+%A Broman, David
+%A Brooks, Christopher
+%A Greenberg, Lev
+%A Lee, Edward A.
+%A Masin, Michael
+%A Tripakis, Stavros
+%A Wetter, Michael
+%T Determinate Composition of FMUs for Co-Simulation
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 18
+%@ UCB/EECS-2013-153
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-153.html
+%F Broman:EECS-2013-153

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29039.html
+Topological Generation and Analysis of Voltage Multiplier Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Topological Generation and Analysis of Voltage Multiplier Circuits
+Topological Generation and Analysis of Voltage Multiplier Circuits
+P.M. Lin and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M616
+November 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-616.pdf
+BibTeX citation:
+@techreport{Lin:M616,
+Author = {Lin, P.M. and Chua, L.O.},
+Title = {Topological Generation and Analysis of Voltage Multiplier Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29039.html},
+Number = {UCB/ERL M616}
+}
+EndNote citation:
+%0 Report
+%A Lin, P.M.
+%A Chua, L.O.
+%T Topological Generation and Analysis of Voltage Multiplier Circuits
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M616
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29039.html
+%F Lin:M616

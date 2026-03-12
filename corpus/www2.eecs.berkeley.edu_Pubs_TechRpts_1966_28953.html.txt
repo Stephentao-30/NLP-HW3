@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28953.html
+Electrical Properties of Metal-Doped Polymer Membranes
+Donald K.F. Lam
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M121
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-121.pdf
+BibTeX citation:
+@techreport{Lam:M121,
+Author= {Lam, Donald K.F.},
+Title= {Electrical Properties of Metal-Doped Polymer Membranes},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28953.html},
+Number= {UCB/ERL M121},
+}
+EndNote citation:
+%0 Report
+%A Lam, Donald K.F.
+%T Electrical Properties of Metal-Doped Polymer Membranes
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M121
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28953.html
+%F Lam:M121

@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28408.html
+Foundations of Nonlinear Network Theory: Part I Passivity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Foundations of Nonlinear Network Theory: Part I Passivity
+Foundations of Nonlinear Network Theory: Part I Passivity
+J.L. Wyatt Jr., L.O. Chua, J.W. Gannett, I.C. Goknar and D.N. Green
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/76
+December 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-76.pdf
+BibTeX citation:
+@techreport{Wyatt Jr.:M78/76,
+Author = {Wyatt Jr., J.L. and Chua, L.O. and Gannett, J.W. and Goknar, I.C. and Green, D.N.},
+Title = {Foundations of Nonlinear Network Theory: Part I Passivity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28408.html},
+Number = {UCB/ERL M78/76}
+}
+EndNote citation:
+%0 Report
+%A Wyatt Jr., J.L.
+%A Chua, L.O.
+%A Gannett, J.W.
+%A Goknar, I.C.
+%A Green, D.N.
+%T Foundations of Nonlinear Network Theory: Part I Passivity
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28408.html
+%F Wyatt Jr.:M78/76

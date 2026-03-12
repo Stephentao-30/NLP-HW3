@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/180207-2
+Model-based Versus Learning-based Robotics - EECS at Berkeley
+Model-based Versus Learning-based Robotics
+EECS Colloquium
+Wednesday, February 7, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Dieter Fox
+Paul G. Allen School of Computer Science & Engineering
+University of Washington
+Dieter Fox speaks on "Model-based Versus Learning-based Robotics," 2/7/18
+Abstract
+The predominant approach to perception, control, and planning in robotics is to design approximate models of the physics underlying a robot, its sensors, and its interactions with the environment. These model-based techniques often capture properties such as the propagation of light and sound, or the mass, momentum, shape, and surface friction of objects, and use these to generate controls that change the environment in a desirable way. While physics-based models are very general and have broad applicability, they are brittle when not all relevant model parameters are known or observed with sufficient accuracy.  Over the last years, deep learning has been applied  successfully to various recognition and control learning tasks in robotics. While these approaches often result in state-of-the-art performance on specific test cases, they still lack the generalization capabilities ofmodel-based approaches.
+In this talk, I will discuss the pros and cons of model-based and learning-based techniques using examples from the research done in my lab. Building on these experiences, I will present ideas on how these two paradigms can be unified.  Rather than treating them as opposing solutions, I argue that their combination could inherit the benefits of both paradigms, thereby enabling progress toward the development of truly robust, autonomous systems.
+Biography
+Dieter Fox is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where he heads the UW Robotics and State Estimation Lab. Since October 2017, he is on partial leave from UW and serves as Senior Director of Robotics Research at Nvidia.  Dieter obtained his Ph.D. from the University of Bonn, Germany.  His research is in robotics and artificial intelligence, with a focus on state estimation and perception applied to problems such as mapping, object detection and tracking, manipulation, and activity recognition. He has published more than 200 technical papers and is the co-author of the textbook “Probabilistic Robotics.” He is a Fellow of the IEEE and the AAAI, and he received several best paper awards at major robotics, AI, and computer vision conferences. He was an editor of the IEEE Transactions on Robotics, program co-chair of the 2008 AAAI Conference on Artificial Intelligence, and program chair of the 2013 Robotics: Science and Systems conference.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

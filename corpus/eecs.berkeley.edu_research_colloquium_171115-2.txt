@@ -1,0 +1,27 @@
+URL: https://eecs.berkeley.edu/research/colloquium/171115-2
+Deep Learning; the Reincarnation of Analog Computing - EECS at Berkeley
+Deep Learning; the Reincarnation of Analog Computing
+Brain Storming EECS Colloquium
+Wednesday, November 15, 2017
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Eli Yablonovitch
+EECS Professor, UC Berkeley
+Eli Yablonovitch hosts a Brain Storming Colloquium on Deep Learning; the Reincarnation of Analog Computing, 11/15/17
+Abstract
+About seventy years ago analog computing was regarded as having equal prospects as digital computing.  Operational amplifiers could provide analog differentiation and integration functions.  Nonetheless analog computing disappeared, being unable to provide the precision and dynamic range required for solving real problems.
+The emergence of Deep Learning has been accompanied by the realization that only modest precision is required.  This has taken us from regular Floating Point, to half-precision (16 bits), to quarter-precision, and with some difficulty even single-bit precision.  At 8 bits and below, analog can do that, suggesting that analog matrix multiplication could provide more efficient Deep Learning accelerators.
+In this brain-storming Colloquium, we will examine three different potential forms of analog computing.
+(a) analog matrix multipliers for Deep Learning.
+(b) literal annealing, not simulated annealing.
+(c) adiabatic computing, (classical not quantum).
+Let us examine whether any of these technologies could become the fore-runner of a new computing paradigm.
+Biography
+Eli Yablonovitch is Professor in Berkeley EECS, and Co-Chairman of the EECS Colloquium.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

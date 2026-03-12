@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-18.html
+Coherent Porous Silicon Wick for a MEMS Loop Heat Pipe
+Navdeep Singh Dhillon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-18
+January 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-18.pdf
+The electronics industry desires compact high-heat-flux thermal management solutions for keeping device junction temperatures within the safe operating limit. Loop heat pipes (LHPs) are passive phase change-based thermal transport systems that can satisfy these demands, provided they can be miniaturized to fit inside compact devices and components. This can be achieved by fabricating LHPs on silicon and Pyrex wafers using MEMS microfabrication techniques. Although most of the LHP components can be easily implemented on planar substrates, the wicking structure is a major stumbling block in the successful implementation of these MEMS loop heat pipes.
+This report presents the design and fabrication aspects of a coherent porous silicon (CPS)-based micro-columnated wicking structure for a micro-columnated loop heat pipe (μCLHP). The micro-columnated wick has a vertically-wicking dual-scale topology, with the primary wick fabricated out of CPS and the secondary wick etched onto a capping wafer. This design allows for enhanced device heat flux carrying capacities due to the ability to independently optimize the capillary pumping pressures and thin-film evaporation characteristics of the wick. CPS is obtained by illuminated electrochemical etching of silicon. The theory and experimental methods used to obtain CPS are explained, an experimental etching setup is designed, and preliminary etching results are reported. A detailed fabrication process flow for the μCLHP device is outlined, and the potential issues that could arise during its implementation are discussed.
+BibTeX citation:
+@mastersthesis{Dhillon:EECS-2012-18,
+Author= {Dhillon, Navdeep Singh},
+Title= {Coherent Porous Silicon Wick for a MEMS Loop Heat Pipe},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-18.html},
+Number= {UCB/EECS-2012-18},
+Abstract= {The electronics industry desires compact high-heat-flux thermal management solutions for keeping device junction temperatures within the safe operating limit. Loop heat pipes (LHPs) are passive phase change-based thermal transport systems that can satisfy these demands, provided they can be miniaturized to fit inside compact devices and components. This can be achieved by fabricating LHPs on silicon and Pyrex wafers using MEMS microfabrication techniques. Although most of the LHP components can be easily implemented on planar substrates, the wicking structure is a major stumbling block in the successful implementation of these MEMS loop heat pipes.
+This report presents the design and fabrication aspects of a coherent porous silicon (CPS)-based micro-columnated wicking structure for a micro-columnated loop heat pipe (μCLHP). The micro-columnated wick has a vertically-wicking dual-scale topology, with the primary wick fabricated out of CPS and the secondary wick etched onto a capping wafer. This design allows for enhanced device heat flux carrying capacities due to the ability to independently optimize the capillary pumping pressures and thin-film evaporation characteristics of the wick. CPS is obtained by illuminated electrochemical etching of silicon. The theory and experimental methods used to obtain CPS are explained, an experimental etching setup is designed, and preliminary etching results are reported. A detailed fabrication process flow for the μCLHP device is outlined, and the potential issues that could arise during its implementation are discussed.},
+}
+EndNote citation:
+%0 Thesis
+%A Dhillon, Navdeep Singh
+%T Coherent Porous Silicon Wick for a MEMS Loop Heat Pipe
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 30
+%@ UCB/EECS-2012-18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-18.html
+%F Dhillon:EECS-2012-18

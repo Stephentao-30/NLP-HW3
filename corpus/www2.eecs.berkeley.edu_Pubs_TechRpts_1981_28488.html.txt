@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28488.html
+Two Results on Polynomial Time Turning Reductions to Sparse Sets
+Esko Ukkonen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/68
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-68.pdf
+BibTeX citation:
+@techreport{Ukkonen:M81/68,
+Author= {Ukkonen, Esko},
+Title= {Two Results on Polynomial Time Turning Reductions to Sparse Sets},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28488.html},
+Number= {UCB/ERL M81/68},
+}
+EndNote citation:
+%0 Report
+%A Ukkonen, Esko
+%T Two Results on Polynomial Time Turning Reductions to Sparse Sets
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/68
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28488.html
+%F Ukkonen:M81/68

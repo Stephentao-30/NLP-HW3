@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-195.html
+Hybrid Aerial and Terrestrial Locomotion, and Implications for Avian Flight Evolution
+Kevin Peterson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-195
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-195.pdf
+Recent advances in the development of meso-scale legged robots have enabled high performance over a variety of terrains. However, there are still many environments where terrestrial legged robots are limited. The addition of aerodynamic capabilities provides a method of further extending the performance of small mobile robots towards all-terrain mobility.
+This dissertation presents the development of DASH+Wings and BOLT, two small hybrid legged and winged robots. DASH+Wings is a six-legged, two-winged robot capable of wing-assisted terrestrial running and controlled aerial descent. BOLT is a two-legged, four-winged robot capable of high-speed terrestrial running and sustained flight. While the dynamics of legged locomotion have been extensively studied, the interaction between legs and flapping wings during terrestrial locomotion is poorly understood. WingSLIP, an extension to the canonical SLIP model for understanding wing-assisted terrestrial locomotion, is introduced. Analysis of the leg/wing phasing and leg stiffnesses elucidates the interaction between the legs and wings. The model suggests the presence of passively stable gaits for high-speed wing-assisted terrestrial running. The dynamics of wing-assisted terrestrial locomotion for a quasi-static and dynamic gait are examined using BOLT with the addition of an on-board accelerometer and rate gyroscope. The flapping wings enable BOLT to run at over two m/s and take off in as little as one meter of space. In addition to flapping wings, the passive effects of aerodynamics on a high-speed legged robot (VelociRoACH) are also examined. Passive aerodynamic stabilization is shown to improve the performance and stability of the system. An examination of avian flight evolution is performed using DASH+Wings to examine the consequences of adding wings to a cursorial locomotor. We note that current support for the diverse theories of avian flight origins derive from limited fossil evidence, the adult behavior of extant flying birds, and developmental stages of already volant taxa. The addition of flapping wings increased the maximum horizontal running speed and the maximum terrestrial incline angle of ascent, along with decreasing the aerial descent angle. To better examine avian flight evolution, a scaled model of  Archaeopteryx  is developed, and the effects of flapping frequency and amplitude are examined through the use of wind tunnel measurements. The findings are discussed in the context of existing hypotheses for the origins of flapping flight in vertebrates.
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Peterson:EECS-2013-195,
+Author= {Peterson, Kevin},
+Title= {Hybrid Aerial and Terrestrial Locomotion, and Implications for Avian Flight Evolution},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-195.html},
+Number= {UCB/EECS-2013-195},
+Abstract= {Recent advances in the development of meso-scale legged robots have enabled high performance over a variety of terrains. However, there are still many environments where terrestrial legged robots are limited. The addition of aerodynamic capabilities provides a method of further extending the performance of small mobile robots towards all-terrain mobility.
+This dissertation presents the development of DASH+Wings and BOLT, two small hybrid legged and winged robots. DASH+Wings is a six-legged, two-winged robot capable of wing-assisted terrestrial running and controlled aerial descent. BOLT is a two-legged, four-winged robot capable of high-speed terrestrial running and sustained flight. While the dynamics of legged locomotion have been extensively studied, the interaction between legs and flapping wings during terrestrial locomotion is poorly understood. WingSLIP, an extension to the canonical SLIP model for understanding wing-assisted terrestrial locomotion, is introduced. Analysis of the leg/wing phasing and leg stiffnesses elucidates the interaction between the legs and wings. The model suggests the presence of passively stable gaits for high-speed wing-assisted terrestrial running. The dynamics of wing-assisted terrestrial locomotion for a quasi-static and dynamic gait are examined using BOLT with the addition of an on-board accelerometer and rate gyroscope. The flapping wings enable BOLT to run at over two m/s and take off in as little as one meter of space. In addition to flapping wings, the passive effects of aerodynamics on a high-speed legged robot (VelociRoACH) are also examined. Passive aerodynamic stabilization is shown to improve the performance and stability of the system. An examination of avian flight evolution is performed using DASH+Wings to examine the consequences of adding wings to a cursorial locomotor. We note that current support for the diverse theories of avian flight origins derive from limited fossil evidence, the adult behavior of extant flying birds, and developmental stages of already volant taxa. The addition of flapping wings increased the maximum horizontal running speed and the maximum terrestrial incline angle of ascent, along with decreasing the aerial descent angle. To better examine avian flight evolution, a scaled model of <i>Archaeopteryx</i> is developed, and the effects of flapping frequency and amplitude are examined through the use of wind tunnel measurements. The findings are discussed in the context of existing hypotheses for the origins of flapping flight in vertebrates.},
+}
+EndNote citation:
+%0 Thesis
+%A Peterson, Kevin
+%T Hybrid Aerial and Terrestrial Locomotion, and Implications for Avian Flight Evolution
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-195
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-195.html
+%F Peterson:EECS-2013-195

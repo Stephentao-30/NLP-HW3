@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication/chipyard-micro
+Chipyard: Integrated Design, Simulation, and Implementation Framework for Custom SoCs | Alon Amid
+Search
+Chipyard: Integrated Design, Simulation, and Implementation Framework for Custom SoCs
+Alon Amid ,  David Biancolin ,  Abraham Gonzalez ,  Daniel Grubb ,  Sagar Karandikar ,  Harrison Liew ,  Albert Magyar ,  Howard Mao ,  Albert Ou ,  Nathan Pemberton ,  Paul Rigge ,  Colin Schmidt ,  John Wright ,  Jerry Zhao ,  Yakun Sophia Shao ,  Krste Asanovic ,  Borivoje Nikolic
+July 2020
+Preprint
+PDF
+Abstract
+Continued improvement in computing efficiency requires functional specialization of hardware designs. Agile hardware design methodologies have been proposed to alleviate the increased design costs of custom silicon architectures, but their practice thus far has been accompanied with challenges in integration and validation of complex systems-on-a-chip (SoCs).We present the Chipyard framework, an integrated SoCdesign, simulation, and implementation environment for specialized compute systems. Chipyard includes configurable, composable,open-source,generator-based IP blocks that can be used across multiple stages of the hardware development flow while maintaining design intent and integration consistency. Through cloud-hosted FPGA accelerated simulation and rapid ASIC implementation, Chipyard enables continuous validation of physically realizable customized systems.
+Type
+Journal article
+Publication
+In  IEEE Micro , vol. 40, no. 4, pp. 10-21, Jul.-Aug. 2020.
+Cite
+Copy
+Download

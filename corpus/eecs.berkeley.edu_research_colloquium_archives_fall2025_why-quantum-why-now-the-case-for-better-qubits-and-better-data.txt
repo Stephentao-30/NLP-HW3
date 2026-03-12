@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/why-quantum-why-now-the-case-for-better-qubits-and-better-data
+Why Quantum, Why Now: The Case for Better Qubits and Better Data - EECS at Berkeley
+Why Quantum, Why Now: The Case for Better Qubits and Better Data
+Krysta Svore gives her talk, “Why Quantum, Why Now: The Case for Better Qubits and Better Data” on Oct. 15, 2025.
+EECS Colloquium
+Wednesday, October 15, 2025
+Simons Institute Main Auditorium 12:00 – 1:00 pm
+Youtube Webinar
+Krysta Svore
+Dr. Krysta Svore is a Technical Fellow at Microsoft, leading advancements in fault-tolerant systems and setting records in logical qubit reliability.
+Bio
+Dr. Krysta Svore  is a Technical Fellow at Microsoft, leading advancements in fault-tolerant systems and setting records in logical qubit reliability. She brought the first quantum computers to Azure and continues to drive innovation at the intersection of quantum hardware, software, and scientific discovery. With over 70 publications and 30 patents, she contributes broadly to the field and serves as an advisor to national and global quantum initiatives. A fellow of AAAS, APS, and WSAS, Dr. Svore is passionate about building transformative technologies that empower researchers and expand the frontier of computation.
+Abstract
+Quantum computing holds the promise of generating novel data efficiently that classical systems cannot—data that fuels AI models, drives scientific discovery, and unlocks new ways of understanding our world. But to realize this potential, quantum computers must become dramatically more reliable, capable of producing high-accuracy outputs at scale. In this talk, I’ll explore how quantum error correction is enabling that leap, with a focus on neutral atom architectures and their unique advantages in scalability and connectivity. We’ll examine how these techniques come together into a common platform supporting complementary hardware platforms, and how qubit virtualization and hybrid quantum-classical systems are accelerating progress toward fault-tolerant quantum computing. Join me to discover how better quantum hardware and smarter error correction are transforming quantum data generation into a powerful resource for science and society.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

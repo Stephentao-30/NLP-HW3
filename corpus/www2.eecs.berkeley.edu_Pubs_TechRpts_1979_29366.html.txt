@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29366.html
+MUFFIN: A Distributed Data Base Machine | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+MUFFIN: A Distributed Data Base Machine
+MUFFIN: A Distributed Data Base Machine
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/28
+May 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-28.pdf
+BibTeX citation:
+@techreport{Stonebraker:M79/28,
+Author = {Stonebraker, Michael},
+Title = {MUFFIN: A Distributed Data Base Machine},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29366.html},
+Number = {UCB/ERL M79/28}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T MUFFIN: A Distributed Data Base Machine
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29366.html
+%F Stonebraker:M79/28

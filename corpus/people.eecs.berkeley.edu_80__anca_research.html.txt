@@ -1,0 +1,84 @@
+URL: http://people.eecs.berkeley.edu:80/~anca/research.html
+Anca Dragan
+Anca Dragan
+Contact
+CV
+Publications
+Teaching
+Research
+Home
+Find a summary paper  here .
+Autonomy that interacts — that collaborates and coexists with humans — is becoming more and more functional,
+making its way out of research labs and into industry. My goal is to weave interaction into the very fabric of this autonomy.
+I envision riding in a self-driving car as it is effectively  coordinating  with other drivers on the road and with pedestrians.
+I envision people with disabilities  seamlessly  operating assistive devices to thrive independently.
+And I envision collaborative robots in the home or in the factory  helping  us with our tasks and
+even gently  guiding  us to better ways of achieving them.
+Autonomously generating such behavior demands a deep understanding of interaction.
+I run the  InterACT Lab , and we work
+at the intersection of robotics, machine learning, and cognitive science with the goal of enabling this understanding.
+Despite successes in robot  function , robot  interaction  with people is lagging behind. We can plan or learn to
+autonomously navigate and even manipulate in the physical world, and yet when it comes to people,
+we rely on hand-designing strategies -- like an autonomous car needing to inch forward at a 4-way stop by a particular amount
+in order to be allowed by other people to pass through, or a home robot needing to tilt an object in a particular way to hand it over to a person.
+What makes interaction more difficult is that it is no longer about just one agent and the physical world. It involves a second agent, the human,
+with  physical  and  internal  state that should influence what the robot does.
+Our thesis is that in order to autonomously generate behavior that works for interaction and not just function, robots need to formally integrate
+human state into their models, learners, and planners.
+We formalize interaction by building on game theory and the theory of dynamical systems, focusing on finding or learning  models  of human
+behavior, and computing with them  tractably  in continuous state and action spaces.
+Influence-Aware Planning: Physical Human (Re)Actions
+[RSS 2016]   [ISER 2016]   [IROS 2016]
+Robots will need to share physical space with people: share the road, a workspace, a home. Today, we, humans, tend to merely be obstacles to robots.
+For instance, cars estimate a human-driven vehicle's motion and plan to stay out of its way; factory robots detect workers and plan around them.
+This model of people leads to  avoidance , but not to  coordination . It leads to ultra-conservative robots, always afraid of being in the way,
+responding to what people do but not expecting people to respond back. But that is not actually true: robot actions actually influence
+the physical actions that a person ends up taking, be it on the road or in a collaborative manipulation task. Our goal is to enable robots
+to leverage this influence for more effective coordination.
+Viewed from this lens, interaction becomes an  underactuated  dynamical system. The robot's actions no longer affect only the robot's physical state,
+they indirectly affect the human's as well. A core part of our research is dedicated to formulating interaction this way,
+learning a dynamics model for the system -- a model for human behavior in response to robot actions,
+and finding approximations that make planning in such a system tractable despite the continuous state and action spaces.
+We have shown that this makes robots less defensive, e.g. a car will sometimes merge in front of a human-driven vehicle, expecting that they will accommodate the merge by slightly slowing down.
+More interestingly, we have found that
+coordination strategies emerge from planning in this system that we would otherwise need to hand-craft, like inching backwards at a 4-way stop to encourage a human to proceed first.
+We used this formalism to study the case
+in which the human and the robot have different objectives (e.g.
+an autonomous car interacting with other drivers on the road), showing that it makes the robot
+more efficient and
+better at coordinating with people .
+For collaborative tasks, like robot to human handovers, we have shown that this formalism can be used to enable the robot to generate actions that  help the person end up with a better plan  for the task.
+We showed that the robot can leverage the person's reactions to its own actions
+to  actively estimate  the human behavior model, e.g. a car will
+plan to nudge into a person's lane or inch forward at an intersection to probe whether the person is distracted.
+Transparency, Legibility, Expression: Internal Human Beliefs
+[RSS 2013]   [WAFR 2016]   [HRI 2017a]   [ACL 2017]   [RSS 2017a]
+Robot actions don't just influence human actions, they also influence human beliefs. Robots need to be mindful of this more subtle influence as well, because it determines whether people understand what the robot is doing,
+whether it is optimizing the right objective, whether it is confident in carrying out the task, etc.
+Our
+work enabled robots to convey their goals to people via  legible motion .
+Since then, we've studied  generating task plans  that are easy for people to anticipate.
+But we've also found that motion influences other, more interesting perceptions about the robot, beyond goals, like  how confident the robot appears , or  what the robot's objective function is .
+We've build on these techniques to  translate "neuralese" , the language that agents learn in order to coordinate with each other, to natural language, so that their strategies become interpretable by people.
+Value Alignment: Internal Human Objectives
+[NIPS 2016]   [ICRA 2016]   [CDC 2016]   [HRI 2017b]
+[ICRA 2017]   [IJCAI 2017a]   [IJCAI 2017b]
+[RSS 2017b]
+As robots become more capable at optimizing their objectives, there is a higher burden placed on us to make sure we specify the  right  objective for them to optimize.
+This is a notoriously difficult task, and getting it wrong leads negative side effects, where robots deem it better to take actions that we really do not mean for them to take.
+A classic example is the vacuuming robot that is told to optimize how much dust it sucks in, and the optimal policy ends up being to suck in a bit of dust, dump it back out, and repeat.
+But we also have examples from popular culture, like King Midas, who wished that everything he touched turned to gold, despite that really not being what he wanted (it is useful to
+be able to touch food or people without them turning into gold).
+We argue that the correct view of robotics and artificial intelligence can not that of a robot with an exogenously specified objective, but instead a robot trying to optimize a
+person 's (internal) objective function. The robot should not take any objective function for granted, but should instead work together with the person to uncover what it is that
+they really want:
+We developed a two-player partial information game formulation
+that enables the robot to account for the fact that humans act differently when they teach than when they perform the task.
+We call it  Collaborative Inverse Reinforcement Learning .
+We've shown that if the robot has  uncertainty about the objective ,
+and uses human oversight as useful information about it, then it actually has an incentive to accept the human oversight.
+We've enabled robots to exploit different sources of information about the human's objective, beyond physical demonstrations, to  comparisons , physical corrections, and even the specified reward function.
+We developed tools for reducing the burden on the human teacher by  only asking for examples when they are actually needed :
+not asking when  the robot is confident , and not asking when
+analytical models are still useful . We've also studied  interfaces  through which people can most easily provide guidance.
+© Anca Dragan

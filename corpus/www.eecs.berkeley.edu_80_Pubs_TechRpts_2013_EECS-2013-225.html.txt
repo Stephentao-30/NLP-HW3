@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-225.html
+Program Verification with Property Directed Reachability
+Tobias Welp
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-225
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-225.pdf
+As a consequence of the increasing use of software in safety-critical systems and the considerable risk associated with their failure, effective and efficient algorithms for program verification are of high value. Despite extensive research efforts towards better software verification technology and substantial advances in the state-of-the-art, verification of larger and complex software systems must still be considered infeasible and further advances are desirable.
+In 2011, Property Directed Reachablity (PDR) was proposed as a new algorithm for hardware model checking. PDR outperforms all previously known algorithms for this purpose and has additional favorable algorithmic properties, such as incrementality and parallelizability.
+In this dissertation, we explore the potential of using PDR for program verification and - as product of this endeavor - present a sound and complete algorithm for intraprocedural verification of programs with static memory allocation that is based on PDR.
+In the first part, we describe a generalization of the original Boolean PDR algorithm to the theory of quantifier-free formulae over bitvectors (QF\_BV). We implemented the algorithm and present experimental results that show that the generalized algorithm outperforms the original algorithm applied to bit-blasted versions of the used benchmarks.
+In the second part, we present a program verification frontend that uses loop invariants to construct a model of the program that overapproximates its behavior. If the verification fails using the overapproximation, the QF\_BV PDR algorithm from the first part is used to refine the model of the program. We compare the novel algorithm with other approaches to software verification on the conceptional level and quantitatively using standard competition benchmarks. Finally, we present an extension of the proposed verification framework that uses a previous dynamic approach to program verification to strengthen the discussed static algorithm.
+Advisors:  Andreas Kuehlmann
+BibTeX citation:
+@phdthesis{Welp:EECS-2013-225,
+Author= {Welp, Tobias},
+Title= {Program Verification with Property Directed Reachability},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-225.html},
+Number= {UCB/EECS-2013-225},
+Abstract= {As a consequence of the increasing use of software in safety-critical systems and the considerable risk associated with their failure, effective and efficient algorithms for program verification are of high value. Despite extensive research efforts towards better software verification technology and substantial advances in the state-of-the-art, verification of larger and complex software systems must still be considered infeasible and further advances are desirable.
+In 2011, Property Directed Reachablity (PDR) was proposed as a new algorithm for hardware model checking. PDR outperforms all previously known algorithms for this purpose and has additional favorable algorithmic properties, such as incrementality and parallelizability.
+In this dissertation, we explore the potential of using PDR for program verification and - as product of this endeavor - present a sound and complete algorithm for intraprocedural verification of programs with static memory allocation that is based on PDR.
+In the first part, we describe a generalization of the original Boolean PDR algorithm to the theory of quantifier-free formulae over bitvectors (QF\_BV). We implemented the algorithm and present experimental results that show that the generalized algorithm outperforms the original algorithm applied to bit-blasted versions of the used benchmarks.
+In the second part, we present a program verification frontend that uses loop invariants to construct a model of the program that overapproximates its behavior. If the verification fails using the overapproximation, the QF\_BV PDR algorithm from the first part is used to refine the model of the program. We compare the novel algorithm with other approaches to software verification on the conceptional level and quantitatively using standard competition benchmarks. Finally, we present an extension of the proposed verification framework that uses a previous dynamic approach to program verification to strengthen the discussed static algorithm.},
+}
+EndNote citation:
+%0 Thesis
+%A Welp, Tobias
+%T Program Verification with Property Directed Reachability
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-225
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-225.html
+%F Welp:EECS-2013-225

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28733.html
+Execution Time Requirements for Programmed Encryption Methods | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Execution Time Requirements for Programmed Encryption Methods
+Execution Time Requirements for Programmed Encryption Methods
+T.D. Friedman and L.J. Hoffman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M378
+June 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-378.pdf
+BibTeX citation:
+@techreport{Friedman:M378,
+Author = {Friedman, T.D. and Hoffman, L.J.},
+Title = {Execution Time Requirements for Programmed Encryption Methods},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28733.html},
+Number = {UCB/ERL M378}
+}
+EndNote citation:
+%0 Report
+%A Friedman, T.D.
+%A Hoffman, L.J.
+%T Execution Time Requirements for Programmed Encryption Methods
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M378
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28733.html
+%F Friedman:M378

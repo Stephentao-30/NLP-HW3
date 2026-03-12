@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29364.html
+On the Spatial Breadth of Spatial Frequency Channels in Human Visual Detection
+Matthew C. Halter
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M609
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-609.pdf
+BibTeX citation:
+@techreport{Halter:M609,
+Author= {Halter, Matthew C.},
+Title= {On the Spatial Breadth of Spatial Frequency Channels in Human Visual Detection},
+Year= {1976},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29364.html},
+Number= {UCB/ERL M609},
+}
+EndNote citation:
+%0 Report
+%A Halter, Matthew C.
+%T On the Spatial Breadth of Spatial Frequency Channels in Human Visual Detection
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M609
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29364.html
+%F Halter:M609

@@ -1,0 +1,91 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2005
+Technical Reports - 2005
+Semantic Foundation of the Tagged Signal Model  (EECS-2005-31) Xiaojun Liu
+Detecting Hidden Causality in Network Connections  (EECS-2005-30) Jayanth Kumar Kannan, Jaeyeon Jung, Vern Paxson and Can Emre Koksal
+Vector Scattering Analysis of TPF Coronagraph Pupil Masks  (EECS-2005-29) Daniel Peter Ceperley
+Fast Simulation Methods for Non-Planar Phase and Multilayer Defects in DUV and EUV Photomasks for Lithography  (EECS-2005-28) Michael Lam
+Design Automation for Streaming Systems  (EECS-2005-27) Eylon Caspi
+Complex Event Processing Beyond Active Databases: Streams and Uncertainties  (EECS-2005-26) Shariq Rizvi
+Programming SCORE  (EECS-2005-25) Eylon Caspi
+IP Options are not an option  (EECS-2005-24) Rodrigo Fonseca, George Manning Porter, Randy H. Katz, Scott Shenker and Ion Stoica
+Estimating Data Stream Quality for Object-Detection Applications  (EECS-2005-23) Anish Das Sarma, Shawn Ryan Jeffery, Michael Franklin and Jennifer Widom
+Maps of Our Lives: Sensing People and Objects Together in the Home  (EECS-2005-22) Ryan Aipperspach, Allison Woodruff, Ken Anderson and Ben Hooker
+Key Consistency in DHTs  (EECS-2005-21) Sriram Sankararaman, Byung-Gon Chun, Chawathe Yatin and Scott Shenker
+Defining, Designing, and Evaluating Peripheral Displays: An Analysis Using Activity Theory  (EECS-2005-20) Tara Lynn Matthews, Tye Lawrence Rattenbury and Scott Alan Carter
+Interviewing Peripheral Display Designers and Developers  (EECS-2005-19) Tara Lynn Matthews
+What Motivates Programmers to Comment?  (EECS-2005-18) David Patrick Marin
+Incremental Network Programming for Wireless Sensors  (EECS-2005-17) Jaein Jeong
+Empirical Analysis of Transmission Power Control Algorithms for Wireless Sensor Networks  (EECS-2005-16) Jaein Jeong, David E. Culler and Jae-Hyuk Oh
+Titanium Language Reference Manual, version 2.19  (EECS-2005-15) Paul N. Hilfinger, Dan Oscar Bonachea, Kaushik Datta, David Gay, Susan L. Graham, Benjamin Robert Liblit, Geoffrey Pike, Jimmy Zhigang Su and Katherine A. Yelick
+Combining Cues: Shape from Shading and Texture  (EECS-2005-14) Ryan White and David Forsyth
+Minimizing Churn in Distributed Systems  (EECS-2005-12) Philip Brighten Godfrey, Scott Shenker and Ion Stoica
+Maelstrom: Churn as Shelter  (EECS-2005-11) Tyson Condie, Varun Kacholia, Sriram Sankararaman, Petros Maniatis and Joseph M. Hellerstein
+Towards Secure Network Programming and Recovery in Wireless Sensor Networks  (EECS-2005-7) Prabal Dutta, Jonathan W. Hui, David Chiyuan Chu and David E. Culler
+Selecting Shape Features Using Multi-class Relevance Vector Machine  (EECS-2005-6) Hao Zhang and Jitendra Malik
+Building Unreliable Systems out of Reliable Components: The Real Time Story  (EECS-2005-5) Edward A. Lee
+Retexturing Single Views Using Texture and Shading  (EECS-2005-4) Ryan White and David Forsyth
+Deforming Objects Provide Better Camera Calibration  (EECS-2005-3) Ryan White and David Forsyth
+In-network Video Prioritization via iBox Classification Predicates  (EECS-2005-1) George Manning Porter and Randy H. Katz
+LAPACK Working Note 172: Benefits of IEEE-754 Features in Modern Symmetric Tridiagonal Eigensolvers  (CSD-05-1414) Osni A. Marques, E. Jason Riedy and Christof Voemel
+A Pipelined Framework for Online Cleaning of Sensor Data Streams  (CSD-05-1413) Shawn R. Jeffery, Gustavo Alonso, Michael J. Franklin, Wei Hong and Jennifer Widom
+RAMP: Research Accelerator for Multiple Processors - A Community Vision for a Shared Experimental Parallel HW/SW Platform  (CSD-05-1412)  Arvind, Krste Asanović, Derek Chiou, James C. Hoe, Christoforos Kozyrakis, Shih-Lien Lu, Mark Oskin, David Patterson, Jan Rabaey and John Wawrzynek
+The Design and Evaluation of Network Power Scheduling for Sensor Networks  (CSD-05-1410) Barbara Ann Hohlt
+Twinkle: Network Power Scheduling in Sensor Networks  (CSD-05-1409) Barbara Hohlt and Eric A. Brewer
+Nash Equilibrium for Upward-Closed Objectives  (CSD-05-1407) Krishnendu Chatterjee
+Memoryless Strategies in Concurrent Games with Reachability Objectives  (CSD-05-1406) Krishnendu Chatterjee, Luca de Alfaro and Thomas A. Henzinger
+Stochastic Limit-Average Games are in EXPTIME  (CSD-05-1405) Krishnendu Chatterjee, Rupak Majumdar and Thomas A. Henzinger
+Long-Term Data Maintenance in Wide-Area Storage Systems: A Quantitative Approach  (CSD-05-1404) Hakim Weatherspoon, Byung-Gon Chun, Chiu Wah So and John Kubiatowicz
+Witnessing Side-Effects  (CSD-05-1402) Tachio Terauchi and Alexander Aiken
+Two-Level, Self-Verifying Data for Peer-to-Peer Storage  (CSD-05-1401) Patrick Eaton, Hakim Weatherspoon and John Kubiatowicz
+EM-trust: a Robust Reputation Algorithm for Peer-to-peer Marketplaces  (CSD-05-1400) Jonathan Traupman and Robert Wilensky
+LAPACK Working Note 168: PDSYEVR. ScaLAPACK's Parallel MRRR Algorithm for the Symmetric Eigenvalue  (CSD-05-1399) Dominic Antonelli and Christof Voemel
+Secure Authentication System for Public WLAN Roaming  (CSD-05-1398) Ana Sanz Merino
+OCALA: An Architecture for Supporting Legacy Applications over Overlays  (CSD-05-1397) Dilip Joseph, Jayanth Kumar Kannan, Ayumu Kubota, Karthik Lakshminarayanan, Ion Stoica and Klaus Wehrle
+Secure Information Flow as a Safety Problem  (CSD-05-1396) Tachio Terauchi and Alex Aiken
+Learning to Move Autonomously in a Hostile World  (CSD-05-1395) Leslie Ikemoto, Okan Arikan and David A. Forsyth
+The Cost of Inconsistency in DHTs  (CSD-05-1394) Shelley Zhuang, Ion Stoica and Randy Katz
+Why Does Windows Crash?  (CSD-05-1393) Archana Ganapathi
+Algorithms for Stochastic Parity Games  (CSD-05-1391) Krishnendu Chatterjee and Thomas A. Henzinger
+Anonymity in Structured Peer-to-Peer Networks  (CSD-05-1390) Nikita Borisov and Jason Waddle
+Using Electronic Tools in the Iterative Design of a Context-Aware Tour Guide, a Case Study  (CSD-05-1389) Yang Li, James A. Landay and Jason I. Hong
+SSA: A Power and Memory Efficient Scheme to Multi-Match Packet Classification  (CSD-05-1388) Fang Yu, T. V. Lakshman, Martin Austin Motoyama and Randy H. Katz
+Cloth Capture  (CSD-05-1387) Ryan White, Anthony Lobay and D. A. Forsyth
+WhoPay: a Scalable and Anonymous Payment System for Peer-to-Peer Environments  (CSD-05-1386) Kai Wei, Yih-Farn Chen, Alan J. Smith and Binh Vo
+Concurrent Games with Tail Objectives  (CSD-05-1385) Krishnendu Chatterjee
+An Improved Frequent Items Algorithm with Applications to Web Caching  (CSD-05-1383) Kevin Chen and Satish Rao
+Mid-level Cues Improve Boundary Detection  (CSD-05-1382) Xiaofeng Ren, Charless Fowlkes and Jitendra Malik
+Shared Hierarchical Aggregation for Monitoring Distributed Streams  (CSD-05-1381) Sailesh Krishnamurthy and Michael J. Franklin
+Momento: Early Stage Prototyping and Evaluation for Mobile Applications  (CSD-05-1380) Scott Carter and Jennifer Mankoff
+Program Context Specific Buffer Caching with AMP  (CSD-05-1379) Feng Zhou, Rob von Behren and Eric Brewer
+Approaches to Bin Packing with Clique-Graph Conflicts  (CSD-05-1378) Bill McCloskey and Ajeet Shankar
+BGP Routing Policies in ISP Networks  (CSD-05-1377) Matthew Caesar and Jennifer Rexford
+LAPACK Working Note 166: Computing the Bidiagonal SVD Using Multiple Relatively Robust Representations  (CSD-05-1376) Paul R. Willems, Bruno Lang and Christof Voemel
+Virtual Devices: An Extensible Architecture for Bridging the Physical-Digital Divide  (CSD-05-1375) Shawn R. Jeffery, Gustavo Alonso, Michael J. Franklin, Wei Hong and Jennifer Widom
+Argus: Bandwidth Management in Sensor Networks  (CSD-05-1373) Cheng Tien Ee
+Tython: a Dynamic Simulation Environment for Sensor Networks  (CSD-05-1372) Michael Demmer, Philip Levis, August Joki, Eric Brewer and David Culler
+Smartseer: Continuous Queries over Citeseer  (CSD-05-1371) Jayanthkumar Kannan, Beverly Yang, Scott Shenker, Puneet Sharma, Sujata Banerjee, Sujoy Basu and Sung Ju Lee
+Transformational Generation of Language Plug-ins in the Harmonia Framework  (CSD-05-1370) Andrew Begel, Marat Boshernitsan and Susan L. Graham
+Reachability Analysis for Discrete Time Stochastic Hybrid Systems  (M05/34) Saurabh Amin, Alessandro Abate, Maria Prandini, John Lygeros and Shankar Sastry
+BISCSE 2005 Forging New Frontiers  (M05/31) Masoud Nikravesh
+Microcode Compression for TIPI  (M05/29) Nadathur R. Satish and Pierre-Yves Droz
+Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization  (M05/28) Nadathur Satish, Kaushik Ravindran, Matthew Moskewicz, David Chinnery and Kurt Keutzer
+Modeling Innovations in EUV and Nanoimprint Lithography  (M05/27) Yunfei Deng
+Modeling and Calibration of Resist Processes in Photolithography  (M05/26) Lei Yuan
+VisualSense: Visual Modeling for Wireless and Sensor Network Systems  (M05/25) Philip Baldwin, Sanjeev Kohli, Edward A. Lee, Xiaojun Liu and Yang Zhao
+HyVisual: A Hybrid System Visual Modeler  (M05/24) Christopher Brooks, Adam Cataldo, Edward A. Lee, J. Liu, Xiaojun Liu, Stephen Neuendorffer and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 3: Ptolemy II Domains)  (M05/23) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 2: Ptolemy II Software Architecture)  (M05/22) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 1: Introduction to Ptolemy II)  (M05/21) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Interferometric pattern and probe-based aberration monitors  (M05/20) Garth Charles Robins
+Markov chain Monte Carlo data association for multiple-target tracking  (M05/19) Songhwai Oh, Stuart J. Russell and S. Shankar Sastry
+Fourth Starkfest Conference on Vision and Movement in Men and Machines  (M05/18)
+Applying Drop-On-Demand Inkjet Printing Method to Maskless Lithography  (M05/17) Yan Wang
+Ultra-Low Power Wireless Technologies for Sensor Networks  (M05/16) Brian P. Otis
+0.35um CMOS Process on Six-Inch Wafers - Baseline Report IV  (M05/15) A. Horvath, S. Parsa and H. Y. Wong
+Stability and Delay Consideration for Flow Control over Wireless Networks  (M05/14) M. Chen, A. Abate, Avideh Zakhor and S. Shankar Sastry
+Synthesizing FSMs According to co-bu chi Properties  (M05/13) G. Wang, A. Mishchenko, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Discrete-Event Systems Generalizing Metric Spaces and Fixed-Point Semantics  (M05/12) A. Cataldo, Edward A. Lee, X. Liu, E. Matsikoudis and H. Zheng
+Ignition Conditions for Peripheral Plasma in a Grounded Chamber Connected to a Dual Frequency Capactive Discharge  (M05/10) Michael A. Lieberman, Allan J. Lichtenberg, S. Kim and J. T. Gudmundsson
+A Scalable Real Time Multiple-Target  (M05/9) S. Oh, L. Schenato, P. Chen and S. Shankar Sastry
+METROC: A Metropolis Based Design Methodology Developed in a C++ Framework  (M05/6) D. Gasperini, A. Pinto and Alberto L. Sangiovanni-Vincentelli
+Actor-Oriented Metaprogramming  (M05/1) Stephen A. Neuendorffer

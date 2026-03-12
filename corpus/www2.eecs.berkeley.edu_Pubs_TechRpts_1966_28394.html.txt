@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28394.html
+Submerged and Buried Aperture Antennas
+M.J. Gans
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M146
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-146.pdf
+BibTeX citation:
+@techreport{Gans:M146,
+Author= {Gans, M.J.},
+Title= {Submerged and Buried Aperture Antennas},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28394.html},
+Number= {UCB/ERL M146},
+}
+EndNote citation:
+%0 Report
+%A Gans, M.J.
+%T Submerged and Buried Aperture Antennas
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M146
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28394.html
+%F Gans:M146

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28619.html
+Proposed New Method for Generating High-Frequency Elastic Waves
+R.M. White
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M196
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-196.pdf
+BibTeX citation:
+@techreport{White:M196,
+Author= {White, R.M.},
+Title= {Proposed New Method for Generating High-Frequency Elastic Waves},
+Year= {1966},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28619.html},
+Number= {UCB/ERL M196},
+}
+EndNote citation:
+%0 Report
+%A White, R.M.
+%T Proposed New Method for Generating High-Frequency Elastic Waves
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M196
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28619.html
+%F White:M196

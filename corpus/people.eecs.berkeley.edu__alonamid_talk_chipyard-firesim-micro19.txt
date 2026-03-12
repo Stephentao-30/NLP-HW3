@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/talk/chipyard-firesim-micro19
+Tutorial on FireSim and Chipyard: End-to-End Architecture Research with RISC-V SoC Generators, Agile Test Chips, and FPGA-Accelerated Simulation on Amazon EC2 F1 | Alon Amid
+Search
+Tutorial on FireSim and Chipyard: End-to-End Architecture Research with RISC-V SoC Generators, Agile Test Chips, and FPGA-Accelerated Simulation on Amazon EC2 F1
+Abstract
+Chipyard is a one-stop shop for generating complex RISC-V SoCs, including in-order and out-of-order processors, uncore components, vector co-processors, and other kinds of accelerators. Users can customize any component of the system and push it through automated ASIC flows (e.g. Hammer), software simulation (e.g. Verilator and VCS), and FPGA-accelerated simulation flows (e.g. FireSim) to enable agile end-to-end computer architecture research with a single re-usable toolchain. FireSim is an open-source FPGA-accelerated simulation framework that can simulate designs built in Chipyard and deploy them to cloud FPGAs, running complex software stacks (e.g. Linux + applications) at 100s of MHz. FireSim simulations exactly and deterministically model Chipyard designs, matching cycle-by-cycle bit-by-bit behavior of the design as if it were taped out in silicon. I/Os like DRAM, UART, and Ethernet are also modeled cycle-accurately, allowing users to model complex systems, including large clusters, beyond the capabilities of test-chips. Together, Chipyard and FireSim bridge the gap between open-hardware and architecture research, automating many common tasks of architecture and VLSI researchers in a single, easy-to-use platform. More details at  https://fires.im/micro-2019-tutorial/
+Date
+Oct 12, 2019 12:00 AM
+Event
+52nd IEEE/ACM International Symposium on Microarchitecture (MICRO)
+Location
+Columbus, OH, USA
+Alon Amid
+EECS Graduate Student
+Cite
+Copy
+Download

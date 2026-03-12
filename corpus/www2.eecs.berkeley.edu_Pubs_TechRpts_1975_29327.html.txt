@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29327.html
+Finding Nasal Zeros | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Finding Nasal Zeros
+Finding Nasal Zeros
+Michael H. O'Malley
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M531
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-531.pdf
+BibTeX citation:
+@techreport{O'Malley:M531,
+Author = {O'Malley, Michael H.},
+Title = {Finding Nasal Zeros},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29327.html},
+Number = {UCB/ERL M531}
+}
+EndNote citation:
+%0 Report
+%A O'Malley, Michael H.
+%T Finding Nasal Zeros
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M531
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29327.html
+%F O'Malley:M531

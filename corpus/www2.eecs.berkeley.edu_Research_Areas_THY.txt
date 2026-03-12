@@ -1,0 +1,109 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/THY
+Theory (THY)
+Overview
+Berkeley is one of the cradles of modern theoretical computer science. Over the last thirty years, our graduate students and, sometimes, their advisors have done foundational work on NP-completeness, cryptography, derandomization, probabilistically checkable proofs, quantum computing, and algorithmic game theory.
+In addition, Berkeley's Simons Institute for the Theory of Computing regularly brings together theory-oriented researchers from all over the world to collaboratively work on hard problems. The institute organizes a sequence of programs based on topics, supported by workshops and other events.
+For more information visit the  Theory group website  and the  Cryptography group website .
+Topics
+Using computation as a lens to the sciences
+Like probabilistic thinking in the last century, computational thinking will give mathematics and, more generally, science a new language to use and the ability to formulate new fundamental questions.
+Applications of theoretical computer science
+We are studying the applications of theoretical computer science in many sciences, including economics (with our work on computational game theory and mechanism design), physics (with our work on random structures and quantum computing), biology, and pure mathematics (especially geometry, functional analysis, and additive number theory).
+Foundational questions in cryptography
+We study foundational questions on subjects such as computing on encrypted data, functional encryption, program obfuscation, verifiable computation, zero-knowlege proofs, and others. We also investigate concrete efficiency aspects and implementations of cryptographic protocols.
+Research Centers
+Berkeley Laboratory for Information and System Sciences
+Berkeley Quantum Information and Computation Center
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley
+Simons Institute for the Theory of Computing
+Faculty
+Primary
+Christian Borgs
+Jennifer Chayes
+Lijie Chen
+Thomas Courtade
+Sanjam Garg
+Shafi Goldwasser
+Venkatesan Guruswami
+Nika Haghtalab
+Jiantao Jiao
+Song Mei
+Jelani Nelson
+Prasad Raghavendra
+Jonathan Shewchuk
+Alistair Sinclair
+Avishay Tal
+Umesh Vazirani
+John Wright
+Secondary
+Henry Corrigan-Gibbs
+Michael Jordan
+Richard M. Karp
+Jason Lee
+Pierluigi Nuzzo
+Christos Papadimitriou
+Satish Rao
+Anant Sahai
+Sanjit A. Seshia
+Yun S. Song
+Bernd Sturmfels
+Faculty Awards
+National Medal of Science:
+Richard M. Karp, 1996.
+ACM A.M. Turing Award:
+Shafi Goldwasser, 2012.
+Richard M. Karp, 1985.
+SIAM John von Neumann Lecture Prize:
+Jennifer Chayes, 2015.
+Bernd Sturmfels, 2010.
+Richard M. Karp, 1987.
+Harvey Prize:
+Richard M. Karp, 1998.
+Kyoto Prize:
+Richard M. Karp, 2008.
+National Academy of Sciences (NAS) Member:
+Jennifer Chayes, 2019.
+Umesh Vazirani, 2018.
+Michael Jordan, 2010.
+Christos Papadimitriou, 2009.
+Shafi Goldwasser, 2004.
+Richard M. Karp, 1980.
+National Academy of Engineering (NAE) Member:
+Michael Jordan, 2010.
+Shafi Goldwasser, 2005.
+Christos Papadimitriou, 2002.
+Richard M. Karp, 1992.
+American Academy of Arts and Sciences Member:
+Jennifer Chayes, 2014.
+Michael Jordan, 2010.
+Shafi Goldwasser, 2001.
+Christos Papadimitriou, 1990.
+Richard M. Karp, 1980.
+UC Berkeley Distinguished Teaching Award:
+Richard M. Karp, 1986.
+Sloan Research Fellow:
+John Wright, 2026.
+Song Mei, 2025.
+Nika Haghtalab, 2024.
+Avishay Tal, 2022.
+Sanjam Garg, 2020.
+Jelani Nelson, 2017.
+Prasad Raghavendra, 2012.
+Sanjit A. Seshia, 2008.
+Yun S. Song, 2008.
+Venkatesan Guruswami, 2005.
+Jonathan Shewchuk, 2004.
+Bernd Sturmfels, 1991.
+Jennifer Chayes, 1989.
+Related Courses
+CS 70. Discrete Mathematics and Probability Theory
+CS 170. Efficient Algorithms and Intractable Problems
+CS 172. Computability and Complexity
+CS 174. Combinatorics and Discrete Probability
+CS 194. Special Topics
+CS 270. Combinatorial Algorithms and Data Structures
+CS 271. Randomness and Computation
+CS 273. Foundations of Parallel Computation
+CS 274. Computational Geometry
+CS 276. Cryptography
+CS 278. Machine-Based Complexity Theory

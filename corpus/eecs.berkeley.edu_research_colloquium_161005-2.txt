@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/161005-2
+Planning and Control for Self-Driving Trucks - EECS at Berkeley
+Planning and Control for Self-Driving Trucks
+EECS Colloquium
+Wednesday, October 5, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Jur van den Berg
+Senior researcher/developer at  Otto
+Jur van den Berg speaks on Planning and Control for Self-Driving Trucks, 10/5/16
+Abstract
+Self-driving cars is a very active area of research in both academia and industry. Apart from personal transportation, an equally important industry is transportation of goods over large distances. Otto is a start-up company founded in January of 2016 to bring autonomy to long-haul trucking. It was acquired by Uber only seven months later. Today’s speaker joined Otto from its inception, and has led the motion planning effort with Otto. In his talk he will focus on specific technical challenges in motion planning and control for trucks versus personal vehicles. In particular, he will discuss Vehicle Dynamics, a novel approach to incorporate constraints into the Iterative LQR trajectory optimization algorithm, and he will show a particular example of a nice algorithmic and mathematical challenge that arises in motion planning for autonomous vehicles: how to compute the distance to a polyline.
+Biography
+Jur van den Berg is a founding employee of the start up Otto, which started in the beginning of 2016 to develop technology, software, and infrastructure for self-driving trucks. Otto was recently acquired by Uber, where Jur is now officially a senior staff engineer. Jur has expertise in a broad range of subjects in robotics, but his core expertise and main subject area in his academic and industrial career of almost ten years has been motion planning, most recently with a specific focus on self-driving vehicles. Jur obtained his PhD from Utrecht University, the Netherlands in 2007. After his PhD, he was a postdoc at the University of North Carolina, Chapel Hill and the University of California, Berkeley, for a combined total of four years. He joined the faculty at the School of Computing at the University of Utah in 2011. After three years he switched to industry to work on self-driving cars. Jur has worked with Google and Apple until he joined Otto in 2016.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7368.html
+CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base
+CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base
+Nancy H. McDonald
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M563
+November 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-563.pdf
+Advisor:  Michael R. Stonebraker
+BibTeX citation:
+@phdthesis{McDonald:M563,
+Author = {McDonald, Nancy H.},
+Title = {CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base},
+School = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7368.html},
+Number = {UCB/ERL M563}
+}
+EndNote citation:
+%0 Thesis
+%A McDonald, Nancy H.
+%T CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M563
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7368.html
+%F McDonald:M563

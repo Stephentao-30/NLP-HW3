@@ -1,0 +1,19 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS285
+CS 285. Deep Reinforcement Learning, Decision Making, and Control
+Catalog Description:  Intersection of control, reinforcement learning, and deep learning. Deep learning methods, which train large parametric function approximators, achieve excellent results on problems that require reasoning about unstructured real-world situations (e.g., computer vision, speech recognition, NLP). Advanced treatment of the reinforcement learning formalism, the most critical model-free reinforcement learning algorithms (policy gradients, value function and Q-function learning, and actor-critic), a discussion of model-based reinforcement learning algorithms, an overview of imitation learning, and a range of advanced topics (e.g., exploration, model-based learning with video prediction, transfer learning, multi-task learning, and meta-learning).
+Units:  3
+Student Learning Outcomes:  Provide students with foundational knowledge to understand deep reinforcement learning algorithms;, Provide an opportunity to embark on a research-level final project with support from course staff., Provide hands-on experience with several commonly used RL algorithms; , Provide students with an overview of advanced deep reinforcement learning topics, including current research trends;
+Prerequisites:  CS189/289A or equivalent is a prerequisite for the course. This course will assume some familiarity with reinforcement learning, numerical optimization and machine learning, as well as a basic working knowledge of how to train deep neural networks (which is taught in CS182 and briefly covered in CS189).
+Formats:  Spring: 3.0 hours of lecture per week
+Fall: 3.0 hours of lecture per week
+Grading Basis:  letter
+Final Exam Status:  No final exam
+Class Schedule (Spring 2026):
+CS 185/285 –                We 09:00-09:59, Hearst Field Annex A1; Fr 08:00-09:59, Hearst Field Annex A1 –
+Sergey Levine Class Notes
+- Lectures will be recorded.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-1.html
+Data-driven Techniques for Improving Data Collection in Low-resource Environments
+Kuang Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-1
+January 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-1.pdf
+Low-resource organizations worldwide work to improve health, education, infrastructure, and economic opportunity in disadvantaged communities. These organizations must collect data in order to inform service delivery and performance monitoring. In such settings, data collection can be laborious and expensive due to challenges in the physical and digital infrastructure, in capacity and retention of technical staff, and in poor performance incentives. Governments, donors, and non-governmental organizations (NGOs) large and small are demanding more accountability and transparency, resulting in increased data collection workloads. Despite continued emphasis and investment, countless data collection efforts continue to experience delayed and low-quality results. Existing tools and capabilities for data collection have not kept pace with increased reporting requirements.
+This dissertation addresses data collection in low-resource settings by algorithmically shepherding human attention at three different scales: (1) by redirecting workers' attention at the moment of entry, (2) by reformulating the data collection instrument in its design and use, and (3) by reorganizing the flow and composition of data entry tasks within and between organizations. These three different granularities of intervention map to the three major parts of this dissertation.
+First, the Usher system learns probabilistic models from previous form responses, supplementing the lack of expertise and quality control. The models are a principled foundation for data in forms, and are applied at every step of the data collection process: form design, form filling, and answer verification. Simulated experiments demonstrate that Usher can improve data quality and reduce quality-control effort considerably.
+Next, a number of dynamic user-interface mechanisms improve accuracy and efficiency during the act of data entry, powered by Usher. Based on a cognitive model, these interface adaptations can be applied as interventions before, during, and after input. An evaluation with professional data entry clerks in rural Uganda reduced error by up to 78%.
+Finally, the Shreddr system transforms paper form images into structured data on-demand. Shreddr reformulates data entry work-flows with pipeline and batching optimizations at the organizational level. It combines emergent techniques from computer vision, database systems, and machine learning, with newly-available infrastructure - on-line workers and mobile connectivity - into a hosted data entry web-service. It is a framework for data digitization that can deliver Usher and other optimizations at scale. Shreddr's impact on digitization efficiency and quality is illustrated in a one-million-value case study in Mali.
+The main contributions of this dissertation are (1) a probabilistic foundation for data collection, which effectively guides form design, form filling, and value verification; (2) dynamic data entry interface adaptations, which significantly improve data entry accuracy and efficiency; and (3) the design and large-scale evaluation of a hosted-service architecture for data entry.
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Chen:EECS-2012-1,
+Author= {Chen, Kuang},
+Title= {Data-driven Techniques for Improving Data Collection in Low-resource Environments},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-1.html},
+Number= {UCB/EECS-2012-1},
+Abstract= {Low-resource organizations worldwide work to improve health, education, infrastructure, and economic opportunity in disadvantaged communities. These organizations must collect data in order to inform service delivery and performance monitoring. In such settings, data collection can be laborious and expensive due to challenges in the physical and digital infrastructure, in capacity and retention of technical staff, and in poor performance incentives. Governments, donors, and non-governmental organizations (NGOs) large and small are demanding more accountability and transparency, resulting in increased data collection workloads. Despite continued emphasis and investment, countless data collection efforts continue to experience delayed and low-quality results. Existing tools and capabilities for data collection have not kept pace with increased reporting requirements.
+This dissertation addresses data collection in low-resource settings by algorithmically shepherding human attention at three different scales: (1) by redirecting workers' attention at the moment of entry, (2) by reformulating the data collection instrument in its design and use, and (3) by reorganizing the flow and composition of data entry tasks within and between organizations. These three different granularities of intervention map to the three major parts of this dissertation.
+First, the Usher system learns probabilistic models from previous form responses, supplementing the lack of expertise and quality control. The models are a principled foundation for data in forms, and are applied at every step of the data collection process: form design, form filling, and answer verification. Simulated experiments demonstrate that Usher can improve data quality and reduce quality-control effort considerably.
+Next, a number of dynamic user-interface mechanisms improve accuracy and efficiency during the act of data entry, powered by Usher. Based on a cognitive model, these interface adaptations can be applied as interventions before, during, and after input. An evaluation with professional data entry clerks in rural Uganda reduced error by up to 78%.
+Finally, the Shreddr system transforms paper form images into structured data on-demand. Shreddr reformulates data entry work-flows with pipeline and batching optimizations at the organizational level. It combines emergent techniques from computer vision, database systems, and machine learning, with newly-available infrastructure - on-line workers and mobile connectivity - into a hosted data entry web-service. It is a framework for data digitization that can deliver Usher and other optimizations at scale. Shreddr's impact on digitization efficiency and quality is illustrated in a one-million-value case study in Mali.
+The main contributions of this dissertation are (1) a probabilistic foundation for data collection, which effectively guides form design, form filling, and value verification; (2) dynamic data entry interface adaptations, which significantly improve data entry accuracy and efficiency; and (3) the design and large-scale evaluation of a hosted-service architecture for data entry.},
+}
+EndNote citation:
+%0 Thesis
+%A Chen, Kuang
+%T Data-driven Techniques for Improving Data Collection in Low-resource Environments
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 2
+%@ UCB/EECS-2012-1
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-1.html
+%F Chen:EECS-2012-1

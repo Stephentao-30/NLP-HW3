@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28919.html
+The Robust Nonlinear Servomechanism Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Robust Nonlinear Servomechanism Problem
+The Robust Nonlinear Servomechanism Problem
+C.A. Desoer and Y.T. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/11
+March 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-11.pdf
+BibTeX citation:
+@techreport{Desoer:M78/11,
+Author = {Desoer, C.A. and Wang, Y.T.},
+Title = {The Robust Nonlinear Servomechanism Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28919.html},
+Number = {UCB/ERL M78/11}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wang, Y.T.
+%T The Robust Nonlinear Servomechanism Problem
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28919.html
+%F Desoer:M78/11

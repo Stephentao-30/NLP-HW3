@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29217.html
+Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter
+Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter
+C.L. Hoang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/67
+September 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-67.pdf
+BibTeX citation:
+@techreport{Hoang:M82/67,
+Author = {Hoang, C.L.},
+Title = {Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29217.html},
+Number = {UCB/ERL M82/67}
+}
+EndNote citation:
+%0 Report
+%A Hoang, C.L.
+%T Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29217.html
+%F Hoang:M82/67

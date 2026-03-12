@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28592.html
+Bound Water
+P. Vogelhut and M. Orentlicher
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M156
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-156.pdf
+BibTeX citation:
+@techreport{Vogelhut:M156,
+Author= {Vogelhut, P. and Orentlicher, M.},
+Title= {Bound Water},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28592.html},
+Number= {UCB/ERL M156},
+}
+EndNote citation:
+%0 Report
+%A Vogelhut, P.
+%A Orentlicher, M.
+%T Bound Water
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M156
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28592.html
+%F Vogelhut:M156

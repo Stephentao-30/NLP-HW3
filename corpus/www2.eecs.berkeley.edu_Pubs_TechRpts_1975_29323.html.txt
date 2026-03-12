@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29323.html
+Implementation of Integrity Constraints and Views by Query Modification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Implementation of Integrity Constraints and Views by Query Modification
+Implementation of Integrity Constraints and Views by Query Modification
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M514
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-514.pdf
+BibTeX citation:
+@techreport{Stonebraker:M514,
+Author = {Stonebraker, Michael},
+Title = {Implementation of Integrity Constraints and Views by Query Modification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29323.html},
+Number = {UCB/ERL M514}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Implementation of Integrity Constraints and Views by Query Modification
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M514
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29323.html
+%F Stonebraker:M514

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7512.html
+MOS Switched Capacitor Ladder Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+MOS Switched Capacitor Ladder Filters
+MOS Switched Capacitor Ladder Filters
+David J. Allstot
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/30
+May 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-30.pdf
+Advisor:  Robert W. Brodersen and Paul R. Gray
+BibTeX citation:
+@phdthesis{Allstot:M79/30,
+Author = {Allstot, David J.},
+Title = {MOS Switched Capacitor Ladder Filters},
+School = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7512.html},
+Number = {UCB/ERL M79/30}
+}
+EndNote citation:
+%0 Thesis
+%A Allstot, David J.
+%T MOS Switched Capacitor Ladder Filters
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7512.html
+%F Allstot:M79/30

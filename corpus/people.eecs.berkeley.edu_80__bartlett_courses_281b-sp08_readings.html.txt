@@ -1,0 +1,330 @@
+URL: http://people.eecs.berkeley.edu:80/~bartlett/courses/281b-sp08/readings.html
+CS 281B / Stat 241B Spring 2008 Readings
+CS 281B / Stat 241B, Spring 2008:
+Statistical Learning Theory
+Readings
+This page contains pointers to a collection of optional readings,
+in case you wish to delve further into the topics covered in lectures.
+Probabilistic formulation of prediction problems
+The following text books describe probabilistic formulations of
+prediction problems:
+`An Introduction to Computational Learning Theory,'
+Michael J. Kearns and Umesh V. Vazirani,
+MIT Press, 1994.
+`A Probabilistic Theory of Pattern Recognition,'
+L. Devroye, L. Gyorfi, G. Lugosi,
+Springer, New York, 1996.
+`Statistical learning theory,'
+Vladimir N. Vapnik,
+Wiley, 1998.
+`Neural network learning: Theoretical foundations,'
+Martin Anthony and Peter L. Bartlett,
+Cambridge University Press, 1999.
+`The elements of statistical learning: data mining, inference, and
+prediction,'
+Trevor Hastie, Robert Tibshirani and Jerome Friedman,
+Springer, 2001.
+See also the following review papers.
+`Pattern classification and learning theory.'
+G. Lugosi
+`Learning Pattern Classification---A Survey.'
+S. Kulkarni, G. Lugosi, and S. Venkatesh
+`Introduction to statistical learning theory'
+Olivier Bousquet, Stephane Boucheron, and Gabor Lugosi.
+Kernel Methods
+Perceptron Algorithm
+The argument giving the minimax lower bound for linear
+threshold functions is similar to the proof of the main
+result in the following paper.
+`A General Lower Bound on the Number of Examples Needed for Learning.'
+A. Ehrenfeucht, D. Haussler, M. Kearns and L. Valiant.
+The following are old (1987 and 1990) revisions of older (1969
+and 1965, respectively) books
+on linear threshold functions, the perceptron algorithm, and the
+perceptron convergence theorem.
+Perceptrons: An Introduction to Computational Geometry
+Marvin L. Minsky, Seymour A. Papert,
+MIT Press, 1987.
+The Mathematical Foundations of Learning Machines,
+Nilsson, N.,
+San Francisco: Morgan Kaufmann, 1990.
+The upper bound on risk for the perceptron algorithm that we saw
+in lectures follows from
+the perceptron convergence theorem and results converting mistake
+bounded algorithms to average risk bounds.
+The following paper reviews these results.
+Large margin classification using the perceptron algorithm.
+Yoav Freund and Robert E. Schapire.
+Kernel Methods, Support Vector Machines
+The following two survey papers give nice overviews of
+kernel methods.
+(Note that Section 2 in both papers provides some worthwhile intuition,
+but the theorems are only superficially related to kernel methods.)
+`An introduction to kernel-based learning algorithms.'
+K.-R. Mueller, S. Mika, G. Raetsch, K. Tsuda, and B. Schoelkopf.
+`A Tutorial on Support Vector Machines for Pattern Recognition.'
+C. J. C. Burges.
+The following paper introduces the soft margin SVM.
+`Support Vector Networks.'
+Corinna Cortes and Vladimir Vapnik.
+A Tutorial on Support Vector Regression.'
+A. J. Smola and B. Schoelkopf.
+See also the text books:
+`An Introduction to Support Vector Machines.'
+Nello Cristianini and John Shawe-Taylor.
+Cambridge University Press, Cambridge, UK, 2000.
+(see the  web page )
+`Kernel Methods for Pattern Analysis.'
+John Shawe-Taylor and Nello Cristianini.
+Cambridge University Press, Cambridge, UK, 2004.
+(see the  web page )
+`Learning with Kernels.'
+Bernhard Schoelkopf and Alex Smola.
+MIT Press, Cambridge, MA, 2002.
+(see the  web page )
+The following text book gives a good treatment of
+constrained optimization problems and Lagrangian duality
+(see Chapter 5). It is available on the web.
+`Convex Optimization.'
+Stephen Boyd and Lieven Vandenberghe.
+The following papers describe a geometric view of
+SVM optimization problems.
+`A fast iterative nearest point algorithm for support vector
+machine classifier design.'
+S.S. Keerthi, S.K. Shevade, C. Bhattacharyya and K.R.K. Murthy.
+`Duality and Geometry in SVM Classifiers.'
+Kristin P. Bennett and Erin J. Bredensteiner.
+`A Geometric Interpretation of nu-SVM Classifiers.'
+D.J. Crisp and C.J.C. Burges
+The following papers present relationships between convex cost
+functions and discrete loss (for two-class pattern classification).
+The first paper generalizes and simplifies results of the second.
+The third paper considers more general decision-theoretic problems,
+including weighted classification, regression, quantile estimation
+and density estimation.
+`Convexity, classification, and risk bounds.'
+Peter Bartlett, Mike Jordan and Jon McAuliffe.
+`Statistical behavior and consistency of classification methods based
+on convex risk minimization.'
+Tong Zhang.
+`How to compare different loss functions and their risks.'
+Ingo Steinwart.
+These papers investigate the RKHS of Gaussian kernels.
+`Consistency and convergence rates of one-class SVM and related
+algorithms.'  (See Section 3.)
+R. Vert and J.-P. Vert.
+`An Explicit Description of the Reproducing Kernel Hilbert
+Spaces of Gaussian RBF Kernels .'
+I. Steinwart, D. Hush, and C. Scovel.
+The following papers describe kernels defined on structures, such as
+sequences and trees. The first describes a number of operations that
+can be used in constructing kernels.
+`Convolution Kernels on discrete structures'
+D. Haussler
+`Dynamic alignment kernels'
+C. Watkins
+`Convolution kernels for natural language'
+Michael Collins and Nigel Duffy.
+`Text classification using string kernels'
+H. Lodhi, C. Saunders, J. Sahwe-Taylor, N. Cristianini, and C. Watkins
+The following paper gives a good overview of kernels for sequences.
+`Kernel methods in genomics and computational biology'
+J.-P. Vert
+A kernelized version of PCA.
+`Nonlinear component analysis as a kernel eigenvalue problem.'
+B. Schoelkopf, A. Smola, K.-R. Mueller.
+Some more detail on the gaussian process viewpoint.
+`Prediction with Gaussian Processes: From Linear Regression to Linear
+Prediction and Beyond.'
+C. K. I. Williams.
+Ensemble Methods
+The original bagging and boosting papers.
+`Bagging predictors'
+Leo Breiman.
+`A decision-theoretic generalization of on-line learning
+and an application to boosting.'
+Yoav Freund and Robert E. Schapire.
+`Experiments with a new boosting algorithm.'
+Yoav Freund and Robert E. Schapire.
+This paper contains the
+result in lectures about the relationship between the existence of
+weak learners and the existence of a large margin convex combination.
+It also contains bounds on the misclassification probability of a
+large margin classifier.
+`Boosting the margin: A new explanation for the
+effectiveness of voting methods.'
+Robert E. Schapire, Yoav Freund, Peter Bartlett and Wee Sun Lee.
+A nice survey of boosting.
+`The boosting approach to machine learning: An overview.' .'
+Robert E. Schapire.
+Two other views of boosting algorithms.
+`Arcing classifiers.'
+Leo Breiman.
+`Additive logistic regression: a statistical view of boosting.'
+Jerome Friedman, Trevor Hastie and Robert Tibshirani.
+An extension of AdaBoost to real-valued base classifiers.
+`Improved boosting algorithms using confidence-rated predictions'
+R. E. Schapire and Y. Singer.
+Four papers analyzing the convergence of various boosting algorithms.
+The third and fourth give sufficient conditions for the classifier
+returned by AdaBoost (stopped early) to converge to the Bayes decision
+rule.
+` Boosting with early stopping: Convergence and Consistency.'
+T. Zhang and B. Yu.
+`Some Theory for Generalized Boosting Algorithms.'
+P. J. Bickel, Y. Ritov and A. Zakai.
+`Process consistency for AdaBoost.'
+W. Jiang.
+`AdaBoost is Consistent.'
+P. L. Bartlett and M. Traskin.
+Risk Bounds and Uniform Convergence
+The following paper surveys some concentration inequalities.
+`Concentration-of-measure inequalities.'
+Gabor Lugosi.
+Some review papers on Rademacher averages and local Rademacher averages:
+` A few notes on Statistical Learning Theory.'
+Shahar Mendelson
+`New Approaches to Statistical Learning Theory.'
+Olivier Bousquet.
+Some properties of Rademacher averages:
+`Rademacher and Gaussian complexities:
+risk bounds and structural results'
+P. L. Bartlett and S. Mendelson.
+Rademacher averages for large margin classifiers:
+`Empirical margin distributions and bounding the generalization error
+of combined classifiers.'
+Vladimir Koltchinskii and Dmitriy Panchenko.
+The `finite lemma' (Rademacher averages of finite sets) is Lemma 5.2
+in this paper, which also introduces local Rademacher averages.
+`Some applications of concentration inequalities to statistics.'
+Pascal Massart.
+The growth function, VC-dimension, and pseudodimension
+are described in the following text (see chapter 3).
+Estimates of these quantities for parameterized
+function classes is covered in chapters 7 and 8.
+`Neural
+network learning: Theoretical foundations.'
+Martin Anthony and Peter Bartlett. Cambridge University Press. 1999.
+Model Selection, universal consistency
+The following papers describe the model selection problem and
+penalization methods for model selection.
+`Risk bounds for model selection via penalisation.' .
+Andrew Barron, Lucien Birge and Pascal Massart.
+`An experimental and theoretical comparison of model selection
+methods.'
+M. Kearns, Y. Mansour, A. Ng, and D. Ron
+`Model
+selection and error estimation.'
+P.  L. Bartlett, S. Boucheron, and G. Lugosi.
+`Some applications of concentration inequalities to statistics.'
+Pascal Massart.
+A collection of papers that use risk bounds together with a suitable
+approximation property to prove universal consistency.
+`A consistent strategy for boosting algorithms.'
+Gabor Lugosi and Nicolas Vayatis.
+`On the rate of convergence of regularized boosting methods.'
+G. Blanchard, G. Lugosi and N. Vayatis.
+`The
+consistency of greedy algorithms for classification.'
+Shie Mannor, Ron Meir, Tong Zhang.
+`Consistency of support vector machines and other regularized kernel
+classifiers.'
+I. Steinwart.
+`Fast Rates for Support Vector Machines using Gaussian Kernels.'
+I. Steinwart and C. Scovel.
+`Concentration
+inequalities and model selection.'
+Pascal Massart.
+Online learning
+Early papers on prediction of individual sequences:
+`Aggregating strategies.'
+V. Vovk.
+`How to use expert advice.'
+N. Cesa-Bianchi, Y. Freund, D.P. Helmbold, D. Haussler, R. Schapire,
+and M.K. Warmuth.
+`On prediction of individual sequences'
+N. Cesa-Bianchi and G. Lugosi
+See also the text book:
+Prediction, learning, and games.
+N. Cesa-Bianchi and G. Lugosi.
+Cambridge University Press, 2006.
+The following paper introduced the online convex optimization
+formulation that we examined in lectures.
+`Online convex programming and generalized
+infinitesimal gradient ascent.'
+M. Zinkevich.
+With strongly convex functions, logarithmic regret is possible.
+`Logarithmic regret algorithms for online convex optimization'
+E. Hazan, A. Agarwal, and S. Kale.
+And the optimal regret can still be obtained, even
+if the adversary chooses not to play flat functions.
+`Adaptive Online Gradient Descent.'
+P. Bartlett, E. Hazan, A. Rakhlin.
+NIPS 2007.
+`Optimal Strategies and Minimax Lower Bounds for Online Convex
+Games.'
+J. Abernethy, P. Bartlett, A. Rakhlin and A.Tewari.
+(COLT 2008, to appear.)
+The results on online linear bandit problems are from this paper.
+`Competing in the Dark: An Efficient Algorithm for Bandit Linear
+Optimization.'
+J. Abernethy, E. Hazan, A. Rakhlin.
+(COLT 2008, to appear.)
+Follow the perturbed leader was described in the following paper:
+`Efficient Algorithms for On-line Optimization'
+Adam Tauman Kalai and Santosh Vempala.
+(Journal of Computer and System Sciences 71(3): 291-307, 2005.)
+The following paper gives
+some results on the relationship between prediction in adversarial and
+probabilistic settings.
+`On the generalization ability of on-line learning algorithms.'
+N. Cesa-Bianchi, A. Conconi, and C. Gentile.
+Online portfolio optimization
+A probabilistic formulation of portfolio optimization, featuring the
+tradeoff between mean and variance of returns.
+`Portfolio Selection.'
+Harry Markowitz.
+(The Journal of Finance: 7(1):77-91, 1952.)
+The following paper considered betting with side information, and showed that
+maximizing expected log wealth leads to maximal
+growth rate and that this growth rate is the channel capacity.
+`A new interpretation of information rate'
+J. L. Kelly, Jr.. (J. Oper. Res. Soc.  57:975-985, 1956.)
+The following papers showed that the log-optimal strategy has the optimal growth
+rate, the first for discrete-valued i.i.d. returns and the second for
+arbitrary random returns.
+`Optimal gambling systems for favorable games'
+Leo Breiman.
+(in Proc. Fourth Berkeley Symp. Math. Statist. Probab.  1: 60-77,
+Univ.  California Press, 1960.)
+`Asymptotic Optimality and Asymptotic Equipartition Properties
+of Log-Optimum Investment'
+Paul H. Algoet and Thomas M. Cover.
+(The Annals of Probability, 16(2):876-898, 1988.)
+The following paper introduced the universal portfolio strategy, and
+proved that it is competitive with constantly rebalanced portfolios.
+`Universal Portfolios'
+Thomas M. Cover.
+(Mathematical Finance 1(1):1-29, 1991.)
+The following paper gave a simplified proof that Cover's
+universal portfolio is competitive with CRPs.
+`Universal Portfolios With and Without Transaction Costs'
+Avrim Blum and Adam Kalai.
+(Machine Learning 35:193-205, 1999.)
+And this paper shows that it can be computed efficiently.
+`Efficient algorithms for universal portfolios.'
+Adam Kalai and Santosh Vempala.
+(Journal of Machine Learning Research 3: 423 - 440. 2002.)
+The following papers describe an online convex optimization approach
+to portfolio optimization.
+`Algorithms for Portfolio Management based on the Newton
+Method.'
+Amit Agarwal, Elad Hazan, Satyen Kale and Robert E. Schapire.
+`Logarithmic Regret Algorithms for Online Convex Optimization.'
+Elad Hazan, Amit Agarwal and Satyen Kale.
+(Machine Learning, 69(2-3): 169--192. 2007.)
+See also Chapters 9 and 10 of the text book:
+Prediction, learning, and games.
+N. Cesa-Bianchi and G. Lugosi.
+Cambridge University Press, 2006.
+Back to course home page

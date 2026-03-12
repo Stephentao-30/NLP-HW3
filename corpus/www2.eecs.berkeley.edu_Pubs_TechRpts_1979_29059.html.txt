@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29059.html
+The Working Set Size Distribution of the Markov Program Behavior Model | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Working Set Size Distribution of the Markov Program Behavior Model
+The Working Set Size Distribution of the Markov Program Behavior Model
+Makoto Kobayashi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/46
+July 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-46.pdf
+BibTeX citation:
+@techreport{Kobayashi:M79/46,
+Author = {Kobayashi, Makoto},
+Title = {The Working Set Size Distribution of the Markov Program Behavior Model},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29059.html},
+Number = {UCB/ERL M79/46}
+}
+EndNote citation:
+%0 Report
+%A Kobayashi, Makoto
+%T The Working Set Size Distribution of the Markov Program Behavior Model
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/46
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29059.html
+%F Kobayashi:M79/46

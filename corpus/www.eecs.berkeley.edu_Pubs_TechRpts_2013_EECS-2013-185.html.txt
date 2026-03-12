@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-185.html
+Three Fingered Jack: Productively Addressing Platform Diversity
+David Sheffield
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-185
+November 26,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-185.pdf
+Moore’s Law has given the application designer a large palette of potential computational substrates. The application designer can potential map his or her application onto specialized task-specific accelerators for either energy or performance benefits; however, the design space for task-specific accelerators is large. At one extreme is the conventional microprocessor, easy to program but relatively low-performance and energy inefficient. At the other extreme is custom, fixed-function hardware crafted solely for a given task. Studies have reported energy-efficiency gains using fixed-function hardware from 2× to 100× over programmable solutions. If we wish to evaluate this design space we need prototypes for the elements of it; however, constructing functional prototypes for each hardware substrate is a daunting prospect. This is because each implementation target requires a radically different set of programming and design tools.
+To address the challenges of mapping applications across a broad range of targets, this thesis presents Three Fingered Jack. Three Fingered Jack is a highly productive approach
+to generating applications that run on multicore CPUs or data-parallel processors. Three Fingered Jack also integrates a high-level hardware synthesis engine that has the ability to generate custom hardware implementations. Three Fingered Jack applies dependence analysis and reordering transformations to a restricted set of Python loop nests to uncover parallelism. By exploiting data parallelism, Three Fingered Jack allows the programmer to use the same Python source to target all three supported platforms. It exploits this parallelism on CPUs and vector-thread processors by generating multithreaded code with short-vector instructions. The high-level hardware synthesis engine uses the parallelism found by the system to both exploit memory-level parallelism and automatically generate multiple parallel processing engines.
+On a 3.4 GHz Intel i7-2600 CPU, Three Fingered Jack generated software solutions that obtained performance between 0.97-113.3× of hand-written C++ across four kernels and two applications. Over four kernels, Three Fingered Jacks high-level synthesis results are between 1.5-12.1× faster than an optimized soft-core CPU on a Zynq XC7Z020 FPGA. When evaluated in a 45nm ASIC technology, the results of Three Fingered Jacks high-level synthesis system is 3.6× more efficient than an optimized scalar processor on the key kernels used in automatic speech recognition. On the same speech recognition kernels, the hardware results are 2.4× more energy efficient than a highly optimized data-parallel processor.
+Advisors:  Kurt Keutzer
+BibTeX citation:
+@phdthesis{Sheffield:EECS-2013-185,
+Author= {Sheffield, David},
+Title= {Three Fingered Jack: Productively Addressing Platform Diversity},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-185.html},
+Number= {UCB/EECS-2013-185},
+Abstract= {Moore’s Law has given the application designer a large palette of potential computational substrates. The application designer can potential map his or her application onto specialized task-specific accelerators for either energy or performance benefits; however, the design space for task-specific accelerators is large. At one extreme is the conventional microprocessor, easy to program but relatively low-performance and energy inefficient. At the other extreme is custom, fixed-function hardware crafted solely for a given task. Studies have reported energy-efficiency gains using fixed-function hardware from 2× to 100× over programmable solutions. If we wish to evaluate this design space we need prototypes for the elements of it; however, constructing functional prototypes for each hardware substrate is a daunting prospect. This is because each implementation target requires a radically different set of programming and design tools.
+To address the challenges of mapping applications across a broad range of targets, this thesis presents Three Fingered Jack. Three Fingered Jack is a highly productive approach
+to generating applications that run on multicore CPUs or data-parallel processors. Three Fingered Jack also integrates a high-level hardware synthesis engine that has the ability to generate custom hardware implementations. Three Fingered Jack applies dependence analysis and reordering transformations to a restricted set of Python loop nests to uncover parallelism. By exploiting data parallelism, Three Fingered Jack allows the programmer to use the same Python source to target all three supported platforms. It exploits this parallelism on CPUs and vector-thread processors by generating multithreaded code with short-vector instructions. The high-level hardware synthesis engine uses the parallelism found by the system to both exploit memory-level parallelism and automatically generate multiple parallel processing engines.
+On a 3.4 GHz Intel i7-2600 CPU, Three Fingered Jack generated software solutions that obtained performance between 0.97-113.3× of hand-written C++ across four kernels and two applications. Over four kernels, Three Fingered Jacks high-level synthesis results are between 1.5-12.1× faster than an optimized soft-core CPU on a Zynq XC7Z020 FPGA. When evaluated in a 45nm ASIC technology, the results of Three Fingered Jacks high-level synthesis system is 3.6× more efficient than an optimized scalar processor on the key kernels used in automatic speech recognition. On the same speech recognition kernels, the hardware results are 2.4× more energy efficient than a highly optimized data-parallel processor.},
+}
+EndNote citation:
+%0 Thesis
+%A Sheffield, David
+%T Three Fingered Jack: Productively Addressing Platform Diversity
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 November 26
+%@ UCB/EECS-2013-185
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-185.html
+%F Sheffield:EECS-2013-185

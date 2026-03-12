@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28585.html
+Fuzzy Rational Choice Functions
+S.V. Ovchinnikov
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/4
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-4.pdf
+BibTeX citation:
+@techreport{Ovchinnikov:M81/4,
+Author= {Ovchinnikov, S.V.},
+Title= {Fuzzy Rational Choice Functions},
+Year= {1981},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28585.html},
+Number= {UCB/ERL M81/4},
+}
+EndNote citation:
+%0 Report
+%A Ovchinnikov, S.V.
+%T Fuzzy Rational Choice Functions
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28585.html
+%F Ovchinnikov:M81/4

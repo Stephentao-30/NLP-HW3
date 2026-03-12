@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28865.html
+NP-Complete Decision Problems for Binary Quadratics
+Kenneth L. Adleman and Leonard Adleman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M615
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-615.pdf
+BibTeX citation:
+@techreport{Adleman:M615,
+Author= {Adleman, Kenneth L. and Adleman, Leonard},
+Title= {NP-Complete Decision Problems for Binary Quadratics},
+Year= {1976},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28865.html},
+Number= {UCB/ERL M615},
+}
+EndNote citation:
+%0 Report
+%A Adleman, Kenneth L.
+%A Adleman, Leonard
+%T NP-Complete Decision Problems for Binary Quadratics
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M615
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28865.html
+%F Adleman:M615

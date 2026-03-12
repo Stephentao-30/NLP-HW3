@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2024/advanced-fabrication-of-superconducting-qubits-for-a-quantum-computer
+Advanced Fabrication of Superconducting Qubits for a Quantum Computer - EECS at Berkeley
+Advanced Fabrication of Superconducting Qubits for a Quantum Computer
+John Martinis gives his talk “Advanced Fabrication of Superconducting Qubits for a Quantum Computer” on Dec. 11, 2024.
+EECS Colloquium
+Wednesday, December 11, 2024
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Youtube Webina r
+John Martinis
+CTO of Qolab
+Professor of Physics
+UC Santa Barbara
+Abstract
+The next important milestone for quantum computing is moving past quantum supremacy, which demonstrated computational power, to quantum utility – solving useful computations much faster than classical computers.  To accomplish this, quantum computers must scale up to large size, and most importantly, qubit quality must improve to lower errors to the 10^-3 to 10^-4 range.  For superconducting qubits, I discuss here our strategy to use 300 mm semiconductor fabrication technology to improve the various interfaces and make wafer-scale systems.  I will also describe our plan to scale up to 1M qubits using wafer-scale subsystems including ideas on how to integrate and thus miniaturize the readout system.
+Biography
+John Martinis did pioneering experiments in superconducting qubits in the mid 1980’s for his PhD thesis.  He has worked on a variety of low temperature device physics during his career, focusing on quantum computation since the late 1990s.  He was awarded the London Prize in low temperature physics in 2014 for his work in this field.  From 2014 to 2020 he worked at Google to build a useful quantum computer, culminating in a quantum supremacy experiment in 2019.  He was awarded the John Stewart Bell prize in 2021.  In 2023 he co-founded the startup Qolab to build a superconducting quantum computer.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

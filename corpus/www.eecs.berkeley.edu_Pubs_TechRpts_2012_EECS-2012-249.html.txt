@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-249.html
+Implantable Miniaturized Glucose Fuel Cell
+Hoai Chau Nguyen Van
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-249
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-249.pdf
+Advisors:  Elad Alon
+BibTeX citation:
+@mastersthesis{Nguyen Van:EECS-2012-249,
+Author= {Nguyen Van, Hoai Chau},
+Title= {Implantable Miniaturized Glucose Fuel Cell},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-249.html},
+Number= {UCB/EECS-2012-249},
+}
+EndNote citation:
+%0 Thesis
+%A Nguyen Van, Hoai Chau
+%T Implantable Miniaturized Glucose Fuel Cell
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-249
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-249.html
+%F Nguyen Van:EECS-2012-249

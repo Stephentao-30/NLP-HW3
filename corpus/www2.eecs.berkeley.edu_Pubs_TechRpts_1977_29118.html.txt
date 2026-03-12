@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29118.html
+Optimal and Suboptimal Stationary Controls for Markov Chains | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal and Suboptimal Stationary Controls for Markov Chains
+Optimal and Suboptimal Stationary Controls for Markov Chains
+P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/17
+March 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-17.pdf
+BibTeX citation:
+@techreport{Varaiya:M77/17,
+Author = {Varaiya, P.},
+Title = {Optimal and Suboptimal Stationary Controls for Markov Chains},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29118.html},
+Number = {UCB/ERL M77/17}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.
+%T Optimal and Suboptimal Stationary Controls for Markov Chains
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/17
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29118.html
+%F Varaiya:M77/17

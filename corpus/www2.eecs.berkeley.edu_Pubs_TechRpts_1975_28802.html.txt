@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28802.html
+Finding Minimum Spanning Trees | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Finding Minimum Spanning Trees
+Finding Minimum Spanning Trees
+R. Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M501
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-501.pdf
+BibTeX citation:
+@techreport{Tarjan:M501,
+Author = {Tarjan, R. Endre},
+Title = {Finding Minimum Spanning Trees},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28802.html},
+Number = {UCB/ERL M501}
+}
+EndNote citation:
+%0 Report
+%A Tarjan, R. Endre
+%T Finding Minimum Spanning Trees
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M501
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28802.html
+%F Tarjan:M501

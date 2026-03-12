@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-122.html
+Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter
+Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter
+Michael Eggleston
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-122
+May 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-122.pdf
+Since the invention of the laser, stimulated emission has been the de facto king of optical communication. Lasers can be directly modulated at rates as high as 50GHz, much faster than a typical solid state light-emitting diode (LED) that is limited by spontaneous emission to 1GHz. Unfortunately, lasers have a severe scaling problem; they require large cavities operated at high power to achieve efficient lasing. A properly designed LED can be made arbitrarily small and still operate with high-efficiency. On-chip interconnects is an area that is in desperate need of a high-speed, low-power optical emitter that can enable on-chip links to replace current high-loss metal wires. In this work, I will show that by utilizing proper antenna design, a nanoLED can be created that is faster than a laser while still operating at >50% efficiency. I start by formulating an optical antenna circuit model whose elements are based completely off of antenna geometry. This allows for intuitive antenna design and suggests that rate enhancements up to ~3,000x are possible while keeping antenna efficiency 50%. Such a massive speed-up in spontaneous emission would enable an LED that can be directly modulated at 100’s of GHz, much faster than any laser. I then use the circuit model to design an arch-dipole antenna, a dipole antenna with an inductive arch across the feedgap. I experimentally demonstrate a free-standing arch-dipole based nanoLED with rate enhancement of 115x and 66% antenna efficiency. Because the emitter is InGaAsP, a common III-V material, I experimentally show that this device can be easily and efficiently coupled into an InP waveguide. Experimental coupling efficiencies up to 70% are demonstrated and directional antennas are employed that offer front to back emission ratios of 3:1. Finally, I show that a nanoLED can still have high quantum yield by using a transition metal dichalcogenide, WSe2, as the emitter material. By coupling a monolayer of WSe2 to a cavity-backed slot antenna, I demonstrate a record rate enhancement for a solid state emitter of 320x. In addition, the nanoscale devices (30nm x 250nm) have a quantum yield comparable to an unprocessed WSe2 monolayer. Such a fast, efficient, nano-emitter not only has the ability to reduce power consumption in central processing units (CPUs) by orders of magnitude but may also revolutionize integrated sensing and imaging applications at the nanoscale.
+Advisor:  Ming C. Wu
+BibTeX citation:
+@phdthesis{Eggleston:EECS-2015-122,
+Author = {Eggleston, Michael},
+Title = {Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-122.html},
+Number = {UCB/EECS-2015-122},
+Abstract = {Since the invention of the laser, stimulated emission has been the de facto king of optical communication. Lasers can be directly modulated at rates as high as 50GHz, much faster than a typical solid state light-emitting diode (LED) that is limited by spontaneous emission to 1GHz. Unfortunately, lasers have a severe scaling problem; they require large cavities operated at high power to achieve efficient lasing. A properly designed LED can be made arbitrarily small and still operate with high-efficiency. On-chip interconnects is an area that is in desperate need of a high-speed, low-power optical emitter that can enable on-chip links to replace current high-loss metal wires. In this work, I will show that by utilizing proper antenna design, a nanoLED can be created that is faster than a laser while still operating at >50% efficiency.
+I start by formulating an optical antenna circuit model whose elements are based completely off of antenna geometry. This allows for intuitive antenna design and suggests that rate enhancements up to ~3,000x are possible while keeping antenna efficiency 50%. Such a massive speed-up in spontaneous emission would enable an LED that can be directly modulated at 100’s of GHz, much faster than any laser.
+I then use the circuit model to design an arch-dipole antenna, a dipole antenna with an inductive arch across the feedgap. I experimentally demonstrate a free-standing arch-dipole based nanoLED with rate enhancement of 115x and 66% antenna efficiency. Because the emitter is InGaAsP, a common III-V material, I experimentally show that this device can be easily and efficiently coupled into an InP waveguide. Experimental coupling efficiencies up to 70% are demonstrated and directional antennas are employed that offer front to back emission ratios of 3:1.
+Finally, I show that a nanoLED can still have high quantum yield by using a transition metal dichalcogenide, WSe2, as the emitter material. By coupling a monolayer of WSe2 to a cavity-backed slot antenna, I demonstrate a record rate enhancement for a solid state emitter of 320x. In addition, the nanoscale devices (30nm x 250nm) have a quantum yield comparable to an unprocessed WSe2 monolayer. Such a fast, efficient, nano-emitter not only has the ability to reduce power consumption in central processing units (CPUs) by orders of magnitude but may also revolutionize integrated sensing and imaging applications at the nanoscale.}
+}
+EndNote citation:
+%0 Thesis
+%A Eggleston, Michael
+%T Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 15
+%@ UCB/EECS-2015-122
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-122.html
+%F Eggleston:EECS-2015-122

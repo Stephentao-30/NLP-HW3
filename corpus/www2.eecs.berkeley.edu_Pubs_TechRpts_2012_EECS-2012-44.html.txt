@@ -1,0 +1,10 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-44.html
+A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy of Communication-Avoiding Krylov Subspace Methods
+THIS REPORT HAS BEEN WITHDRAWN
+Erin Carson and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-44
+April 20, 2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2012-44.pdf
+Author Comments:  This technical report is to be withdrawn, due to errors in analysis, which are corrected in the updated version:
+http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-197.html

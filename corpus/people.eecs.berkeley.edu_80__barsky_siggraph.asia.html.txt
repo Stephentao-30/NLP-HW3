@@ -1,0 +1,45 @@
+URL: http://people.eecs.berkeley.edu:80/~barsky/siggraph.asia.html
+Correcting for Optical Aberrations using Multilayer Displays
+Proceedings of ACM SIGGRAPH Asia 2012 ,
+Singapore, 28 November - 1 December 2012
+ACM Transaction on Graphics ,
+Volume 31, Issue 6, November 2012, Article No. 185
+Authors
+Fu-Chung Huang
+Douglas Lanman
+Brian A. Barsky
+Ramesh Raskar
+Abstract
+Optical aberrations of the human eye are currently corrected using
+eyeglasses, contact lenses, or surgery. We describe a fourth option: modifying
+the composition of displayed content such that the perceived image appears in
+focus, after passing through an eye with known optical defects. Prior
+approaches synthesize pre-filtered images by deconvolving the content by the
+point spread function of the aberrated eye. Such methods have not led to
+practical applications, due to severely reduced contrast and ringing
+artifacts.
+We address these limitations by introducing multilayer pre-filtering,
+implemented using stacks of semi-transparent, light-emitting layers. By
+optimizing the layer positions and the partition of spatial frequencies
+between layers, contrast is improved and ringing artifacts
+are eliminated. We assess design constraints for multilayer displays;
+autostereoscopic light field displays are identified as a preferred, thin form
+factor architecture, allowing synthetic layers to be
+displaced in response to viewer movement and refractive errors. We assess the
+benefits of multilayer pre-filtering versus prior light field pre-distortion
+methods, showing pre-filtering works within the constraints of current display
+resolutions. We conclude by analyzing benefits and limitations using a
+prototype multilayer LCD.
+Citation
+Fu-Chung Huang, Douglas Lanman, Brian A. Barsky, and Ramesh Raskar.
+" Correcting for Optical Aberrations using Multilayer
+Displays ",
+Proceedings of ACM SIGGRAPH Asia 2012 ,
+Singapore, 28 November - 1 December 2012,
+ACM Transactions on Graphics (TOG) ,
+Volume 31, Issue 6, November 2012, Article No. 185.
+Download Bibtex
+Paper
+Click here to download paper
+Video
+Click here to download video

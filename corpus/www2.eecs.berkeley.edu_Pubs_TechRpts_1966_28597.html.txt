@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28597.html
+On the Existence of Solutions to a Differential Game | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Existence of Solutions to a Differential Game
+On the Existence of Solutions to a Differential Game
+P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M162
+May 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-162.pdf
+BibTeX citation:
+@techreport{Varaiya:M162,
+Author = {Varaiya, P.P.},
+Title = {On the Existence of Solutions to a Differential Game},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28597.html},
+Number = {UCB/ERL M162}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.P.
+%T On the Existence of Solutions to a Differential Game
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M162
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28597.html
+%F Varaiya:M162

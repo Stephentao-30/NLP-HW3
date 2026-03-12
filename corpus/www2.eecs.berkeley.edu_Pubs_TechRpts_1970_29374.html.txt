@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29374.html
+Target Function Approach to Linear Persuit Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Target Function Approach to Linear Persuit Problems
+Target Function Approach to Linear Persuit Problems
+Wladimir Borgest and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M282
+September 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-282.pdf
+BibTeX citation:
+@techreport{Borgest:M282,
+Author = {Borgest, Wladimir and Varaiya, Pravin},
+Title = {Target Function Approach to Linear Persuit Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29374.html},
+Number = {UCB/ERL M282}
+}
+EndNote citation:
+%0 Report
+%A Borgest, Wladimir
+%A Varaiya, Pravin
+%T Target Function Approach to Linear Persuit Problems
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M282
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29374.html
+%F Borgest:M282

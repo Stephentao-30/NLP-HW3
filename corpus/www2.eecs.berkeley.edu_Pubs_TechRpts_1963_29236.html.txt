@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29236.html
+Neural Pulse Frequency Modulated Control Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Neural Pulse Frequency Modulated Control Systems
+Neural Pulse Frequency Modulated Control Systems
+T. Pavlidis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M15
+April 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-15.pdf
+BibTeX citation:
+@techreport{Pavlidis:M15,
+Author = {Pavlidis, T.},
+Title = {Neural Pulse Frequency Modulated Control Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29236.html},
+Number = {UCB/ERL M15}
+}
+EndNote citation:
+%0 Report
+%A Pavlidis, T.
+%T Neural Pulse Frequency Modulated Control Systems
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29236.html
+%F Pavlidis:M15

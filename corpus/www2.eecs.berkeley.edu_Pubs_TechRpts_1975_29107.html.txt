@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29107.html
+Calculus of Fuzzy Restrictions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Calculus of Fuzzy Restrictions
+Calculus of Fuzzy Restrictions
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M502
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-502.pdf
+BibTeX citation:
+@techreport{Zadeh:M502,
+Author = {Zadeh, L.A.},
+Title = {Calculus of Fuzzy Restrictions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29107.html},
+Number = {UCB/ERL M502}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Calculus of Fuzzy Restrictions
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M502
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29107.html
+%F Zadeh:M502

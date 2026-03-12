@@ -1,0 +1,57 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/CPSDA
+Cyber-Physical Systems and Design Automation (CPSDA)
+Overview
+The CPS&DA research area at UC Berkeley spans the fields of cyber-physical systems (CPS) and design automation (DA). A cyber-physical system is an integration of computation with physical processes whose behavior is defined by both cyber and physical parts of the system (e.g., automotive systems, avionics, medical devices, sensor networks, etc.). Design automation is the field concerned with the development of mathematical and algorithmic techniques for design, modeling, and analysis of systems. The CPS&DA area develops theories, tools, and technologies for the design, modeling, and analysis of CPS and other complex systems (including integrated circuits, biological systems, and emerging computational systems).
+The CPS&DA area has a strong record of contributions to design automation and cyber-physical systems over a span of five decades. Notable contributions in DA include the formation of Electronic DA companies (Cadence and Synopsys), circuit simulation (e.g., SPICE, and SPECTRE); layout of semiconductor circuits (e.g., TimberWolf, YACR and BBL); logic synthesis and verification (e.g., Espresso, SIS, VIS and ABC); and model-based design of embedded, cyber-physical systems (e.g., models of computation, Ptolemy, Platform-Based Design, and Metropolis). Berkeley has been a leader in defining the field of cyber-physical systems through research projects (e.g., PATH, CHESS, TRUST, TerraSwarm, and iCyPhy) and teaching (e.g., the book "Introduction to Embedded Systems").
+Research Centers
+Agile Design of Efficient Processing Technologies
+Berkeley Deep Drive
+Foundations Of Resilient CybEr-physical Systems
+Industrial Cyber-Physical Systems Center
+Multiscale System Center
+Partners for Advanced Transit and Highways
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+Faculty
+Primary
+Murat Arcak
+Prabal Dutta
+Jiantao Jiao
+Edward A. Lee
+Giuseppe Loianno
+Pierluigi Nuzzo
+Jaijeet Roychowdhury
+Alberto L. Sangiovanni-Vincentelli
+S. Shankar Sastry
+Sanjit A. Seshia  (coordinator)
+Secondary
+Alexandre Bayen
+David E. Culler
+Borivoje Nikolic
+Sophia Shao
+Faculty Awards
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Engineering (NAE) Member:
+David E. Culler, 2005.
+S. Shankar Sastry, 2001.
+Alberto L. Sangiovanni-Vincentelli, 1998.
+American Academy of Arts and Sciences Member:
+Alberto L. Sangiovanni-Vincentelli, 2024.
+S. Shankar Sastry, 2003.
+Berkeley Citation:
+David E. Culler, 2021.
+S. Shankar Sastry, 2018.
+Edward A. Lee, 2018.
+UC Berkeley Distinguished Teaching Award:
+Alberto L. Sangiovanni-Vincentelli, 1981.
+Sloan Research Fellow:
+Sophia Shao, 2024.
+Prabal Dutta, 2017.
+Sanjit A. Seshia, 2008.
+Related Courses
+CS C149. Introduction to Embedded Systems
+CS C249A. Introduction to Embedded Systems
+EECS 219C. Formal Methods: Specification, Verification, and Synthesis
+EE C149. Introduction to Embedded Systems
+EE C249A. Introduction to Embedded Systems
+EE C291E. Hybrid Systems and Intelligent Control

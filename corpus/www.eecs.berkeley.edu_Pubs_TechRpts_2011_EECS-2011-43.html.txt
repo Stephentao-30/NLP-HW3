@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-43.html
+Circuit Analysis in Metal-Optics, Theory and Applications
+Matteo Staffaroni
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-43
+May 9,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-43.pdf
+In the first part of the dissertation we provide electrical circuit descriptions for bulk plasmons, single-surface plasmons, and parallel-plate plasmons. Simple circuits can reproduce the exact frequency versus wave-vector dispersion relations for all these cases, with reasonable accuracy.
+The circuit paradigm directly provides a characteristic wave impedance that is rarely discussed in the context of plasmonics. Owing to the presence of kinetic inductance, a plasmonic transmission line can support very large characteristic impedances on the order of kilo-Ohms. The ability to adjust the plasmonic wave impedance allows voltage transformer action at optical frequencies,
+through tapered metallic structures. This transformer action can be used to engineer efficient delivery of optical power to the nanoscale, or as an impedance matching tool toward molecular light emitters.
+In the second part of the dissertation we discuss at length the application of plasmonic impedance matching to the problem of heat assisted magnetic recording (HAMR) where an
+optical antenna is used to concentrate optical power to nanoscale dimensions on the surface of a magnetic hard-disk drive.
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@phdthesis{Staffaroni:EECS-2011-43,
+Author= {Staffaroni, Matteo},
+Title= {Circuit Analysis in Metal-Optics, Theory and Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-43.html},
+Number= {UCB/EECS-2011-43},
+Abstract= {In the first part of the dissertation we provide electrical circuit descriptions for bulk plasmons, single-surface plasmons, and parallel-plate plasmons. Simple circuits can reproduce the exact frequency versus wave-vector dispersion relations for all these cases, with reasonable accuracy.
+The circuit paradigm directly provides a characteristic wave impedance that is rarely discussed in the context of plasmonics. Owing to the presence of kinetic inductance, a plasmonic transmission line can support very large characteristic impedances on the order of kilo-Ohms. The ability to adjust the plasmonic wave impedance allows voltage transformer action at optical frequencies,
+through tapered metallic structures. This transformer action can be used to engineer efficient delivery of optical power to the nanoscale, or as an impedance matching tool toward molecular light emitters.
+In the second part of the dissertation we discuss at length the application of plasmonic impedance matching to the problem of heat assisted magnetic recording (HAMR) where an
+optical antenna is used to concentrate optical power to nanoscale dimensions on the surface of a magnetic hard-disk drive.},
+}
+EndNote citation:
+%0 Thesis
+%A Staffaroni, Matteo
+%T Circuit Analysis in Metal-Optics, Theory and Applications
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 9
+%@ UCB/EECS-2011-43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-43.html
+%F Staffaroni:EECS-2011-43

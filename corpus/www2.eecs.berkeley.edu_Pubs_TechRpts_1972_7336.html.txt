@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7336.html
+On the Input-Output Properties of Convolution Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Input-Output Properties of Convolution Feedback Systems
+On the Input-Output Properties of Convolution Feedback Systems
+Frank M. Callier
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M338
+June 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-338.pdf
+Advisor:  Charles A. Desoer
+BibTeX citation:
+@phdthesis{Callier:M338,
+Author = {Callier, Frank M.},
+Title = {On the Input-Output Properties of Convolution Feedback Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7336.html},
+Number = {UCB/ERL M338}
+}
+EndNote citation:
+%0 Thesis
+%A Callier, Frank M.
+%T On the Input-Output Properties of Convolution Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M338
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7336.html
+%F Callier:M338

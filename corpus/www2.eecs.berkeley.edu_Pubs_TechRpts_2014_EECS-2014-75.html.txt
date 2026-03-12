@@ -1,0 +1,46 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-75.html
+Exploiting Spatial Channel Occupancy Information in WLANs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Exploiting Spatial Channel Occupancy Information in WLANs
+Exploiting Spatial Channel Occupancy Information in WLANs
+Michael N Krishnan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-75
+May 15, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-75.pdf
+Current 802.11 networks do not typically achieve the maximum potential throughput despite link adaptation and cross-layer optimization techniques designed to alleviate many causes of packet loss. A primary contributing factor is the difficulty in distinguishing between various causes of packet loss, including collisions caused by high network use, co-channel interference from neighboring networks, and errors due to poor channel conditions.
+In current 802.11 networks, there are two adaptations occurring simultaneously but independently each using packet loss as an indication of a different problem. The first is contention window adaptation, which implicitly assumes all losses are due to collision, and the second is rate adaptation, which implicitly assumes all losses are due to channel errors. Thus, in all high-loss scenarios, at least one of these two adaptations behaves incorrectly, unnecessarily increasing the impact of packet loss.
+In this thesis, we propose a novel method for estimating various collision type probabilities locally at a given node of an 802.11 network. The key to our approach is a signal we call the busy-idle (BI) signal, which is a binary-valued record of the channel occupancy over time as observed locally by a given node. We show that if the access point(AP) periodically broadcasts its BI signal to associated nodes at an overhead of less than 2%, the nodes can use this information in conjunction with locally observable quantities to obtain partial spatial information about the network traffic. With this spatial information, nodes can estimate their probabilities of various types of loss and make adaptations to improve throughput and/or network utility.
+We provide a systematic assessment and definition of the different types of collision, and show how to approximate each of them using local information and the AP's BI signal. We verify our methods using NS-2 simulations, as well as using the Ath5k open source wireless card driver in an experimental testbed. We show that our proposed methodology accurately estimates overall collision probability to within 5%. This experimental verification demonstrates the feasibility of our collision probability estimation approach and the resulting throughput gains in practice.
+In addition, we describe a suite of methods which exploit these loss probability estimates and the BI signal to improve network throughput and utility. We show via NS-2 simulations that we can achieve gains of up to 400% via modulation rate adaptation, 350% via contention window adaptation, 25% via packet length adaptation, and 50% via carrier sense threshold adaptation.
+Advisor:  Avideh Zakhor
+BibTeX citation:
+@phdthesis{Krishnan:EECS-2014-75,
+Author = {Krishnan, Michael N},
+Title = {Exploiting Spatial Channel Occupancy Information in WLANs},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-75.html},
+Number = {UCB/EECS-2014-75},
+Abstract = {Current 802.11 networks do not typically achieve the maximum potential throughput despite link adaptation and cross-layer optimization techniques designed to alleviate many causes of packet loss. A primary contributing factor is the difficulty in distinguishing between various causes of packet loss, including collisions caused by high network use, co-channel interference from neighboring networks, and errors due to poor channel conditions.
+In current 802.11 networks, there are two adaptations occurring simultaneously but independently each using packet loss as an indication of a different problem. The first is contention window adaptation, which implicitly assumes all losses are due to collision, and the second is rate adaptation, which implicitly assumes all losses are due to channel errors. Thus, in all high-loss scenarios, at least one of these two adaptations behaves incorrectly, unnecessarily increasing the impact of packet loss.
+In this thesis, we propose a novel method for estimating various collision type probabilities locally at a given node of an 802.11 network. The key to our approach is a signal we call the busy-idle (BI) signal, which is a binary-valued record of the channel occupancy over time as observed locally by a given node. We show that if the access point(AP) periodically broadcasts its BI signal to associated nodes at an overhead of less than 2%, the nodes can use this information in conjunction with locally observable quantities to obtain partial spatial information about the network traffic. With this spatial information, nodes can estimate their probabilities of various types of loss and make adaptations to improve throughput and/or network utility.
+We provide a systematic assessment and definition of the different types of collision, and show how to approximate each of them using local information and the AP's BI signal.
+We verify our methods using NS-2 simulations, as well as using the Ath5k open source wireless card driver in an experimental testbed. We show that our proposed methodology accurately estimates overall collision probability to within 5%. This experimental verification demonstrates the feasibility of our collision probability estimation approach and the resulting throughput gains in practice.
+In addition, we describe a suite of methods which exploit these loss probability estimates and the BI signal to improve network throughput and utility. We show via NS-2 simulations that we can achieve gains of up to 400% via modulation rate adaptation, 350% via contention window adaptation, 25% via packet length adaptation, and 50% via carrier sense threshold adaptation.}
+}
+EndNote citation:
+%0 Thesis
+%A Krishnan, Michael N
+%T Exploiting Spatial Channel Occupancy Information in WLANs
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 15
+%@ UCB/EECS-2014-75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-75.html
+%F Krishnan:EECS-2014-75

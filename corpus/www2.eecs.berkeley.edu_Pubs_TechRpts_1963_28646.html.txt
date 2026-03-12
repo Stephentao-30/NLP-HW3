@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28646.html
+Natural Frequencies of Networks Containing Tunnel Diodes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Natural Frequencies of Networks Containing Tunnel Diodes
+Natural Frequencies of Networks Containing Tunnel Diodes
+V.W. Chang and I.T. Frisch
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M24
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-24.pdf
+BibTeX citation:
+@techreport{Chang:M24,
+Author = {Chang, V.W. and Frisch, I.T.},
+Title = {Natural Frequencies of Networks Containing Tunnel Diodes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28646.html},
+Number = {UCB/ERL M24}
+}
+EndNote citation:
+%0 Report
+%A Chang, V.W.
+%A Frisch, I.T.
+%T Natural Frequencies of Networks Containing Tunnel Diodes
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28646.html
+%F Chang:M24

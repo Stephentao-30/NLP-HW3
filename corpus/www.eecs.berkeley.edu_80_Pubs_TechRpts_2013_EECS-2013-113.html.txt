@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-113.html
+FastLane: An Agile Congestion Signaling Mechanism for Improving Datacenter Performance
+David Zats and Anand Padmanabha Iyer and Randy H. Katz and Ion Stoica and Amin Vahdat
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-113
+May 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-113.pdf
+The drive towards richer, more interactive content places increasingly stringent latency requirements on datacenters. A critical component of meeting these is ensuring that the network responds agilely to congestion, bounding network latency and improving high-percentile flow completion times.
+We propose a new approach to rapidly detecting and responding to congestion. We introduce FastLane, a congestion signaling mechanism that allows senders to respond more quickly. By delivering signals to senders with high probability and low latency, FastLane allows them to retransmit packets sooner, avoiding resource-wasting timeouts. It also enables senders to make more informed decisions by differentiating between out-of-order delivery and packet loss. We demonstrate through simulation and implementation that FastLane reduces high-percentile flow completion times by over 80% by effectively managing congestion hot-spots. These benefits come at minimal cost - FastLane consumes no more than 2% of bandwidth and 5% of buffers.
+BibTeX citation:
+@techreport{Zats:EECS-2013-113,
+Author= {Zats, David and Padmanabha Iyer, Anand and Katz, Randy H. and Stoica, Ion and Vahdat, Amin},
+Title= {FastLane: An Agile Congestion Signaling Mechanism for Improving Datacenter Performance},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-113.html},
+Number= {UCB/EECS-2013-113},
+Abstract= {The drive towards richer, more interactive content places increasingly stringent latency requirements on datacenters. A critical component of meeting these is ensuring that the network responds agilely to congestion, bounding network latency and improving high-percentile flow completion times.
+We propose a new approach to rapidly detecting and responding to congestion. We introduce FastLane, a congestion signaling mechanism that allows senders to respond more quickly. By delivering signals to senders with high probability and low latency, FastLane allows them to retransmit packets sooner, avoiding resource-wasting timeouts. It also enables senders to make more informed decisions by differentiating between out-of-order delivery and packet loss. We demonstrate through simulation and implementation that FastLane reduces high-percentile flow completion times by over 80% by effectively managing congestion hot-spots. These benefits come at minimal cost - FastLane consumes no more than 2% of bandwidth and 5% of buffers.},
+}
+EndNote citation:
+%0 Report
+%A Zats, David
+%A Padmanabha Iyer, Anand
+%A Katz, Randy H.
+%A Stoica, Ion
+%A Vahdat, Amin
+%T FastLane: An Agile Congestion Signaling Mechanism for Improving Datacenter Performance
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 20
+%@ UCB/EECS-2013-113
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-113.html
+%F Zats:EECS-2013-113

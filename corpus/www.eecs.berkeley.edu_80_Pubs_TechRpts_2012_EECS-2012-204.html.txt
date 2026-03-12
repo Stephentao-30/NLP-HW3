@@ -1,0 +1,65 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-204.html
+Long range dependent models in information theory
+Barlas Oguz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-204
+October 23,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-204.pdf
+Long range dependence refers to stochastic processes for which correlations persist
+at much longer time scales as compared to traditional models. For such processes the
+central limit theorem does not in general hold, and the smoothing effect of the law of
+large numbers takes more time to settle in. Such phenomena have been observed in
+many different fields including financial time series, DNA sequences, network traffic
+and variable bit-rate video. The bursty nature and persistent correlation structure of
+long range dependent processes make them tough to control and predict in practice,
+and tough to analyze in theory. In this thesis we look at the origins of long range
+dependence through the use of Markov models.
+We first introduce a model of long range dependence using countable state Markov
+chains. A positive recurrent, aperiodic Markov chain is said to be long range dependent (LRD) when the indicator function of a particular state is LRD. This happens if and only if the return time distribution for that state has infinite variance.
+We investigate the question of whether other instantaneous functions of the Markov
+chain also inherit this property. We provide conditions under which the function has the same degree of long range dependence as the chain itself. We illustrate
+our results through three examples in diverse fields: queuing networks, source compression, and finance. We then prove information-theoretic pointwise lossless source
+coding theorems for a class of sources constructed from this model. We are able
+to show that the code length process at the output of an encoder inherits the long
+range dependent nature of the source irrespective of the coding algorithm chosen.
+We extend our results to lossy source coding under suitable conditions, demonstrating quite generally the information-theoretic relevance of long range dependence.
+Advisors:  Venkat Anantharam
+BibTeX citation:
+@phdthesis{Oguz:EECS-2012-204,
+Author= {Oguz, Barlas},
+Title= {Long range dependent models in information theory},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-204.html},
+Number= {UCB/EECS-2012-204},
+Abstract= {Long range dependence refers to stochastic processes for which correlations persist
+at much longer time scales as compared to traditional models. For such processes the
+central limit theorem does not in general hold, and the smoothing effect of the law of
+large numbers takes more time to settle in. Such phenomena have been observed in
+many different fields including financial time series, DNA sequences, network traffic
+and variable bit-rate video. The bursty nature and persistent correlation structure of
+long range dependent processes make them tough to control and predict in practice,
+and tough to analyze in theory. In this thesis we look at the origins of long range
+dependence through the use of Markov models.
+We first introduce a model of long range dependence using countable state Markov
+chains. A positive recurrent, aperiodic Markov chain is said to be long range dependent (LRD) when the indicator function of a particular state is LRD. This happens if and only if the return time distribution for that state has infinite variance.
+We investigate the question of whether other instantaneous functions of the Markov
+chain also inherit this property. We provide conditions under which the function has the same degree of long range dependence as the chain itself. We illustrate
+our results through three examples in diverse fields: queuing networks, source compression, and finance. We then prove information-theoretic pointwise lossless source
+coding theorems for a class of sources constructed from this model. We are able
+to show that the code length process at the output of an encoder inherits the long
+range dependent nature of the source irrespective of the coding algorithm chosen.
+We extend our results to lossy source coding under suitable conditions, demonstrating quite generally the information-theoretic relevance of long range dependence.},
+}
+EndNote citation:
+%0 Thesis
+%A Oguz, Barlas
+%T Long range dependent models in information theory
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 October 23
+%@ UCB/EECS-2012-204
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-204.html
+%F Oguz:EECS-2012-204

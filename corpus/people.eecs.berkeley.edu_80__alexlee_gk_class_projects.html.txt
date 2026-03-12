@@ -1,0 +1,17 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/class_projects.html
+Alex Lee: Class Projects
+Alex X. Lee
+Home
+Publications
+Projects
+Research Projects
+Class Projects
+Side Projects
+Internship Projects
+Contact:
+alexleegk [at] gmail [dot] com
+These are selected projects that I have worked on in some of my undergraduate classes at UC Berkeley.
+Autonomous Airplane Landing
+A final project we made for the Embedded Systems class at UC Berkeley. The airplane, equipped with inertial, proximity and infrared sensors, was guided by infrared sources on the runway. The airplane used an Arduino-based board.
+"Operation", the virtual game
+For our Computer Graphics final project, we came up with a virtual version of the board game "Operation". We used Bullet Physics for physics-based simulation, NVIDIA Optix for real-time ray tracing rendering, and OpenNI to interface with the Kinect.

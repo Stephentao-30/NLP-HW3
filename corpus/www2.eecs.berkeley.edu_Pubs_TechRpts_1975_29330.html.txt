@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29330.html
+The Rayleight Quotient Iteration For Non-Normal Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Rayleight Quotient Iteration For Non-Normal Matrices
+The Rayleight Quotient Iteration For Non-Normal Matrices
+Nai-Fu Chen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M548
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-548.pdf
+BibTeX citation:
+@techreport{Chen:M548,
+Author = {Chen, Nai-Fu},
+Title = {The Rayleight Quotient Iteration For Non-Normal Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29330.html},
+Number = {UCB/ERL M548}
+}
+EndNote citation:
+%0 Report
+%A Chen, Nai-Fu
+%T The Rayleight Quotient Iteration For Non-Normal Matrices
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M548
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29330.html
+%F Chen:M548

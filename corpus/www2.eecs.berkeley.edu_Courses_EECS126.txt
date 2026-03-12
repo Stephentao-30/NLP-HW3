@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS126
+Course: EECS126 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EECS126
+EECS 126. Probability and Random Processes
+Catalog Description:  This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.
+Units:  4.0
+Prerequisites:  CS 70 preferred but not required. Familiarity with linear algebra.
+Credit Restrictions:  Students will receive no credit for EECS 126 after completing EE 126.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+TuTh 12:30PM - 1:59PM, Stanley 105 –
+Kannan Ramchandran Class Schedule (Fall 2019):
+TuTh 11:00AM - 12:29PM, Evans 10 –
+Shyam Parekh
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Updated Description: (4 units) Three hours of lecture and one hour of discussion per week.
+This course explains applications of probability in electrical engineering and computer sciences: PageRank, Multiplexing, Digital Link, Tracking, Speech Recognition, Route Planning and more.  Topics include Markov chains, detection, coding, estimation, Viterbi algorithm, expectation maximization, clustering, compressed sensing, recommender systems, Kalman Filter, Markov decision problems, LQG, and channel capacity. Matlab examples are used to simulate models and to implement the algorithms. The necessary concepts from basic probability and linear algebra are reviewed.
+Prerequisites:  CS 70.
+Course objectives: This course introduces probability and probabilistic models. The objective is to equip students with the basic tools required to build and analyze such models in both the discrete and continuous context.
+Topics Covered:
+Basic probability: probability space, random variables, expectation of functions, change of density.
+PageRank: balance equations, Markov chains, first step equations, convergence, law of large numbers.
+Multiplexing: central limit theorem, confidence intervals.
+Digital links: detection, MAP, MLE, Huffman and LDPC codes.
+Tracking: estimation, LLSE, MMSE, Kalman Filter.
+Speech Recognition: Viterbi algorithm, clustering and expectation maximization, matching pursuit, compressed sensing, recommender systems.
+Route Planning: Markov decision problems, LQG control.
+Complements: Poisson process, continuous and infinite Markov chains, and more.
+Related Areas:
+Signal Processing (SP)

@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-30.html
+The Complexity of Optimal Auction Design
+George Pierrakos
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-30
+April 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-30.pdf
+This dissertation provides a complexity-theoretic critique of Myerson's theorem, one of Mechanism Design's crown jewels, for which Myerson was awarded the 2007 Nobel Memorial Prize in Economic Sciences. This theorem gives a remarkably crisp solution to the problem faced by a monopolist wishing to sell a single item to a number of interested, rational bidders, whose valuations for the item are distributed independently according to some given distributions; the monopolist's goal is to design an auction that will maximize her expected revenue, while at the same time incentivizing the bidders to bid their true value for the item. Myerson solves this problem of designing the revenue-maximizing auction, through an elegant transformation of the valuation space, and a reduction to the problem of designing the social welfare-maximizing auction (i.e. allocating the item to the bidder who values it the most). This latter problem is well understood, and it admits a deterministic (i.e. the auctioneer does not have to flip any coins) and simple solution: the Vickrey (or second-price) auction. In the present dissertation we explore the trade-offs between the plausibility of this result and its tractability:
+First, we consider what happens as we shift away from the simple setting of Myerson to more complex settings, and, in particular, to the case of bidders with arbitrarily correlated valuations. Is a characterization as crisp and elegant as Myerson's still possible? In Chapter 2 we provide a negative answer: we show that, for three or more bidders, the problem of computing a deterministic, ex-post incentive compatible and individually rational auction that maximizes revenue is NP-complete --in fact, inapproximable. Even for the case of two bidders, where, as we show, the revenue-maximizing auction is easy to compute, it admits nonetheless no obvious natural interpretation a-la Myerson.
+Then, motivated by the subtle interplay between social welfare- and revenue-maximizing auctions implied by Myerson's theorem, we study the trade-off between those two objectives for various types of auctions. We show that, as one moves from the least plausible auction format to the most plausible one, the problem of reconciling revenue and welfare becomes less and less tractable. Indeed, if one is willing to settle for randomized solutions, then auctions that fare well with respect to both objectives simultaneously are possible, as shown by Myerson and Satterthwaite. For deterministic auctions on the other hand, we show in Chapter 3 that it is NP-hard to exactly compute the optimal trade-off (Pareto) curve between those two objectives. On the positive side, we show how this curve can be approximated within arbitrary precision for some settings of interest. Finally, when one is only allowed to use variants of the simple Vickrey auction, we show in Chapter 4 that there exist auctions that  achieve constant factor approximations of the optimal revenue and social welfare simultaneously.
+Advisors:  Christos Papadimitriou
+BibTeX citation:
+@phdthesis{Pierrakos:EECS-2013-30,
+Author= {Pierrakos, George},
+Title= {The Complexity of Optimal Auction Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-30.html},
+Number= {UCB/EECS-2013-30},
+Abstract= {This dissertation provides a complexity-theoretic critique of Myerson's theorem, one of Mechanism Design's crown jewels, for which Myerson was awarded the 2007 Nobel Memorial Prize in Economic Sciences. This theorem gives a remarkably crisp solution to the problem faced by a monopolist wishing to sell a single item to a number of interested, rational bidders, whose valuations for the item are distributed independently according to some given distributions; the monopolist's goal is to design an auction that will maximize her expected revenue, while at the same time incentivizing the bidders to bid their true value for the item. Myerson solves this problem of designing the revenue-maximizing auction, through an elegant transformation of the valuation space, and a reduction to the problem of designing the social welfare-maximizing auction (i.e. allocating the item to the bidder who values it the most). This latter problem is well understood, and it admits a deterministic (i.e. the auctioneer does not have to flip any coins) and simple solution: the Vickrey (or second-price) auction. In the present dissertation we explore the trade-offs between the plausibility of this result and its tractability:
+First, we consider what happens as we shift away from the simple setting of Myerson to more complex settings, and, in particular, to the case of bidders with arbitrarily correlated valuations. Is a characterization as crisp and elegant as Myerson's still possible? In Chapter 2 we provide a negative answer: we show that, for three or more bidders, the problem of computing a deterministic, ex-post incentive compatible and individually rational auction that maximizes revenue is NP-complete --in fact, inapproximable. Even for the case of two bidders, where, as we show, the revenue-maximizing auction is easy to compute, it admits nonetheless no obvious natural interpretation a-la Myerson.
+Then, motivated by the subtle interplay between social welfare- and revenue-maximizing auctions implied by Myerson's theorem, we study the trade-off between those two objectives for various types of auctions. We show that, as one moves from the least plausible auction format to the most plausible one, the problem of reconciling revenue and welfare becomes less and less tractable. Indeed, if one is willing to settle for randomized solutions, then auctions that fare well with respect to both objectives simultaneously are possible, as shown by Myerson and Satterthwaite. For deterministic auctions on the other hand, we show in Chapter 3 that it is NP-hard to exactly compute the optimal trade-off (Pareto) curve between those two objectives. On the positive side, we show how this curve can be approximated within arbitrary precision for some settings of interest. Finally, when one is only allowed to use variants of the simple Vickrey auction, we show in Chapter 4 that there exist auctions that  achieve constant factor approximations of the optimal revenue and social welfare simultaneously.},
+}
+EndNote citation:
+%0 Thesis
+%A Pierrakos, George
+%T The Complexity of Optimal Auction Design
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 April 25
+%@ UCB/EECS-2013-30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-30.html
+%F Pierrakos:EECS-2013-30

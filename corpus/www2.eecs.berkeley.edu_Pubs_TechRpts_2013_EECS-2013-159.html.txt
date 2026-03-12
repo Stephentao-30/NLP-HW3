@@ -1,0 +1,31 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-159.html
+Appendix to the History of the UC Berkeley Microlab
+Katalin Voros
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-159
+September 11,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-159.pdf
+The UC Berkeley Microfabrication Laboratory (Microlab) in Cory Hall had its opening dedication ceremony on 23 March 1983. It was officially closed on 31 December 2010. Technical Report No. UCB/EECS-213-158 is the documentation, in wide swathes, of 28 years of operation, including management of resources:  facilities, staff, finances, and related activities of control, communications and planning.
+This is the Appendix to Technical Report No. UCB/EECS-213-158. It is a collection of the year-end reports Katalin Voros submitted to the Microlab’s Faculty Director, from 1987 through 2012. Starting 1990, the professional staff of the Microlab also submitted year-end reports. These can be seen on the Microfabrication Laboratory Archive Portal, Microlab Staff and Reports, http://microlab.berkeley.edu/people/staffpage.html.
+BibTeX citation:
+@techreport{Voros:EECS-2013-159,
+Author= {Voros, Katalin},
+Title= {Appendix to the History of the UC Berkeley Microlab},
+Year= {2013},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-159.html},
+Number= {UCB/EECS-2013-159},
+Abstract= {The UC Berkeley Microfabrication Laboratory (Microlab) in Cory Hall had its opening dedication ceremony on 23 March 1983. It was officially closed on 31 December 2010. Technical Report No. UCB/EECS-213-158 is the documentation, in wide swathes, of 28 years of operation, including management of resources:  facilities, staff, finances, and related activities of control, communications and planning.
+This is the Appendix to Technical Report No. UCB/EECS-213-158. It is a collection of the year-end reports Katalin Voros submitted to the Microlab’s Faculty Director, from 1987 through 2012. Starting 1990, the professional staff of the Microlab also submitted year-end reports. These can be seen on the Microfabrication Laboratory Archive Portal, Microlab Staff and Reports, http://microlab.berkeley.edu/people/staffpage.html.},
+}
+EndNote citation:
+%0 Report
+%A Voros, Katalin
+%T Appendix to the History of the UC Berkeley Microlab
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 September 11
+%@ UCB/EECS-2013-159
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-159.html
+%F Voros:EECS-2013-159

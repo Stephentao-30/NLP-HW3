@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28440.html
+Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales
+Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales
+Michel Metivier
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/50
+July 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-50.pdf
+BibTeX citation:
+@techreport{Metivier:M79/50,
+Author = {Metivier, Michel},
+Title = {Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28440.html},
+Number = {UCB/ERL M79/50}
+}
+EndNote citation:
+%0 Report
+%A Metivier, Michel
+%T Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28440.html
+%F Metivier:M79/50

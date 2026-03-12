@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28438.html
+Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities
+Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/48
+July 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-48.pdf
+BibTeX citation:
+@techreport{Polak:M79/48,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28438.html},
+Number = {UCB/ERL M79/48}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28438.html
+%F Polak:M79/48

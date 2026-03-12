@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28764.html
+Efficiency of a Good But Not Linear Set Union Algorithm | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficiency of a Good But Not Linear Set Union Algorithm
+Efficiency of a Good But Not Linear Set Union Algorithm
+Robert Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M434
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-434.pdf
+BibTeX citation:
+@techreport{Tarjan:M434,
+Author = {Tarjan, Robert Endre},
+Title = {Efficiency of a Good But Not Linear Set Union Algorithm},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28764.html},
+Number = {UCB/ERL M434}
+}
+EndNote citation:
+%0 Report
+%A Tarjan, Robert Endre
+%T Efficiency of a Good But Not Linear Set Union Algorithm
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M434
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28764.html
+%F Tarjan:M434

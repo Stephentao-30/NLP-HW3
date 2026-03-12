@@ -1,0 +1,87 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/HCI
+Human-Computer Interaction (HCI)
+Overview
+The Human-Computer Interaction Group in EECS studies interaction in current and future computing environments, spanning workplaces, homes, public spaces, and beyond. The HCI group engages in collaborations with scholars and designers across campus, driving research presented at venues such as CHI, UIST, DIS, VIS, and CSCW, and creates novel artifacts that lead to real-world impact, benefiting end users beyond the academic community.
+Our research takes place in several spaces on campus. In addition to core EECS facilities, we work in the Berkeley Institute of Design (BID), a 4000-sq ft research lab designed to foster interdisciplinary collaboration. Researchers have access to the Jacobs Institute for Design Innovation which provides extensive prototyping and fabrication resources. Many of our faculty also have close ties to the School of Information which offers masters and PhD programs focused on HCI.
+Topics
+Context-aware computing:
+Activity analysis, Embodied and Wearable Computing, Smart Spaces, Location-aware systems, Privacy technologies, Affective Computing.
+Perceptual Interfaces:
+Virtual reality (VR) and Augmented reality (AR), Vision-based interfaces, Conversational interfaces
+Collaboration and Learning:
+Tutorial and instruction systems, Crowdsourcing, Pattern-based authoring tools, Learning at scale, Remote group collaboration technologies, Citizen science
+Digital Design and Fabrication:
+Prototyping tools, DIY and Maker Culture, Computational Design, Creativity-support tools, Sensing technologies
+Human-Centered Artificial Intelligence:
+Human-robot interaction, Explainable AI, Interactive Machine Learning, Responsible AI, Multimedia retrieval and understanding, Recommender Systems
+Interactive Data Exploration and Presentation:
+Visualization and visual analytics, Sketch-based and direct manipulation interfaces, Computational notebooks
+Optometry and Human Vision Simulation:
+Computer aided cornea modeling and visualization, Medical imaging, Virtual environments for surgical simulation, Vision realistic rendering
+Usable Programming:
+Usable programming languages, Programming environments, Program synthesizers, Programming by demonstration, Tools for non-programmers, novices and end-user programmers
+Research Centers
+Algorithms and Computing for Education
+Berkeley Artificial Intelligence Research Lab
+Berkeley Equity and Access in Algorithms, Mechanisms, and Optimization
+Berkeley Institute of Design
+Berkeley Laboratory for Automation Science and Engineering
+Center for Augmented Cognition
+Center for Information Technology Research in the Interest of Society - The Banatao Institute
+CITRIS Connected Communities
+CITRIS Health
+CITRIS People and Robots
+EPIC Data lab
+FHL Vive Center for Enhanced Reality
+Human-Assistive Robotic Technologies Lab
+Jacobs Institute for Design Innovation
+Tele-Immersion
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+Visual Computing Lab
+Faculty
+Primary
+Anca Dragan
+Björn Hartmann
+Marti Hearst
+Aditya Parameswaran
+Eric Paulos
+Niloufar Salehi
+Secondary
+Gopala Krishna Anumanchipalli
+Ruzena Bajcsy
+Michael Ball
+Brian A. Barsky
+John F. Canny  (coordinator)
+Sarah Chasins
+Armando Fox
+Ken Goldberg
+Susan L. Graham
+Preeya Khanna
+Michael Lustig
+Eric Y. Ma
+James O'Brien
+Carlo H. Séquin
+Faculty Awards
+National Academy of Engineering (NAE) Member:
+Ken Goldberg, 2026.
+Ruzena Bajcsy, 1997.
+Susan L. Graham, 1993.
+American Academy of Arts and Sciences Member:
+Ruzena Bajcsy, 2007.
+Susan L. Graham, 1995.
+Berkeley Citation:
+Ruzena Bajcsy, 2023.
+Carlo H. Séquin, 2016.
+Susan L. Graham, 2009.
+Sloan Research Fellow:
+Sarah Chasins, 2026.
+Preeya Khanna, 2024.
+Aditya Parameswaran, 2020.
+Anca Dragan, 2018.
+Björn Hartmann, 2013.
+Michael Lustig, 2013.
+James O'Brien, 2003.
+Related Courses
+CS 160. User Interface Design and Development
+CS 260A. User Interface Design and Development
+CS 260B. Human-Computer Interaction Research

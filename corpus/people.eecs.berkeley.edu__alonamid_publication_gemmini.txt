@@ -1,0 +1,16 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication/gemmini
+Gemmini: An Agile Systolic Array Generator Enabling Systematic Evaluations of Deep-Learning Architectures | Alon Amid
+Search
+Gemmini: An Agile Systolic Array Generator Enabling Systematic Evaluations of Deep-Learning Architectures
+Hasan Genc ,  Ameer Haj-Ali ,  Vighnesh Iyer ,  Alon Amid ,  Howard Mao ,  John Wright ,  Colin Schmidt ,  Jerry Zhao ,  Albert Ou ,  Max Banister ,  Yakun Sophia Shao ,  Borivoje Nikolic ,  Ion Stoica ,  Krste Asanovic
+November 2019
+PDF
+Abstract
+Advances in deep learning and neural networks have resulted in rapid development of hardware accelerators that support them. A large majority of ASIC accelerators, however, target a single hardware design point to accelerate the main computational kernels of deep neural networks such as convolutions or matrix multiplication. On the other hand, the spectrum of use-cases for neural network accelerators, ranging from edge devices to cloud, presents a prime opportunity for agile hardware design and generator methodologies. We present Gemmini1 - an open source and agile systolic array generator enabling systematic evaluations of deep-learning architectures. Gemmini generates a custom ASIC accelerator for matrix multiplication based on a systolic array architecture, complete with additional functions for neural network inference. Gemmini runs with the RISC-V ISA, and is integrated with the Rocket Chip System-on-Chip generator ecosystem, including Rocket in-order cores and BOOM out-of-order cores. Through an elaborate design space exploration case study, this work demonstrates the selection processes of various parameters for the use-case of inference on edge devices. Selected design points achieve two to three orders of magnitude speedup in deep neural network inference compared to the baseline execution on a host processor. Gemmini-generated accelerators were used in the fabrication of test systems-on-chip in TSMC 16nm and Intel 22FFL process technologies.
+Type
+Preprint
+Publication
+In  arXiv preprint arXiv:1911.09925
+Cite
+Copy
+Download

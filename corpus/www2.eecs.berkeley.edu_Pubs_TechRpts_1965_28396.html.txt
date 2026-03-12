@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28396.html
+Constrained Minimization Problems In Finite Dimensional Spaces | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Constrained Minimization Problems In Finite Dimensional Spaces
+Constrained Minimization Problems In Finite Dimensional Spaces
+M. Canon, C. Cullum and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M149
+December 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-149.pdf
+BibTeX citation:
+@techreport{Canon:M149,
+Author = {Canon, M. and Cullum, C. and Polak, E.},
+Title = {Constrained Minimization Problems In Finite Dimensional Spaces},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28396.html},
+Number = {UCB/ERL M149}
+}
+EndNote citation:
+%0 Report
+%A Canon, M.
+%A Cullum, C.
+%A Polak, E.
+%T Constrained Minimization Problems In Finite Dimensional Spaces
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M149
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28396.html
+%F Canon:M149

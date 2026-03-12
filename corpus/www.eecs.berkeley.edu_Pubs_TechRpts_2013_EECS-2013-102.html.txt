@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-102.html
+Autonomous Navigation and Collision Avoidance Robot
+Pengqi Cheng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-102
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-102.pdf
+In the last 50 years, information technology has automated many jobs like word processing, mathematical calculation and data retrieval. However, as driving a car is much more difficult than such simple jobs, it has always been a dream to do so autonomously with a computer. With the development of related technologies, people have begun significant work on making this dream a reality.
+For automakers, it is more profitable to invest in a mature market -- semi-automatic vehicles. However, this project aims to develop a fully automated driving system that is profitable in the market. To accomplish this, this project uses a single personal computer instead of computer clusters as in experimental projects like Stanford's Junior. This opens up the possibility of migrating the software into high-end smartphones due to their gradually increasing performance. In this case, we simplified existing algorithms and still keep the basic functionality, but we still have to make sure that our system is safe enough for passengers. In addition, this project only uses cheap sensors. For instance, the video cameras are low-end webcams and cameras in smartphones rather than high-end professional cameras. Thus, the definition of our sensors is lower and the responding time may be longer. So we have to use multiple sensors to reach redundancy and robustness.
+This paper discusses a subset of the larger autonomous vehicle project. In particular, it includes the GPS driver module migration and Orca Robotics middleware integration.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Cheng:EECS-2013-102,
+Author= {Cheng, Pengqi},
+Title= {Autonomous Navigation and Collision Avoidance Robot},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-102.html},
+Number= {UCB/EECS-2013-102},
+Abstract= {In the last 50 years, information technology has automated many jobs like word processing, mathematical calculation and data retrieval. However, as driving a car is much more difficult than such simple jobs, it has always been a dream to do so autonomously with a computer. With the development of related technologies, people have begun significant work on making this dream a reality.
+For automakers, it is more profitable to invest in a mature market -- semi-automatic vehicles. However, this project aims to develop a fully automated driving system that is profitable in the market. To accomplish this, this project uses a single personal computer instead of computer clusters as in experimental projects like Stanford's Junior. This opens up the possibility of migrating the software into high-end smartphones due to their gradually increasing performance. In this case, we simplified existing algorithms and still keep the basic functionality, but we still have to make sure that our system is safe enough for passengers. In addition, this project only uses cheap sensors. For instance, the video cameras are low-end webcams and cameras in smartphones rather than high-end professional cameras. Thus, the definition of our sensors is lower and the responding time may be longer. So we have to use multiple sensors to reach redundancy and robustness.
+This paper discusses a subset of the larger autonomous vehicle project. In particular, it includes the GPS driver module migration and Orca Robotics middleware integration.},
+}
+EndNote citation:
+%0 Thesis
+%A Cheng, Pengqi
+%T Autonomous Navigation and Collision Avoidance Robot
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-102
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-102.html
+%F Cheng:EECS-2013-102

@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/doug-tygars-class-ethical-hackers-learns-wage-cyberwar
+Doug Tygar's class of "ethical hackers" learns to wage cyberwar - EECS at Berkeley
+Prof. Doug Tygar and his CS 194 Cybewar class are the focus of a New Yorker article titled “ At Berkeley, a New Generation of “Ethical Hackers” Learns to Wage Cyberwar .” The students have teamed up with the white hat hackers at HackerOne, a vulnerability coordination and bug bounty platform.  Companies, organizations, and government agencies use HackerOne to solicit help identifying vulnerabilities in their products––or, as Tygar put it, “subject themselves to the indignity of having undergraduate students try to hack them.”  Junior Vy-An Phan decided to focus on various secretary-of-state Web sites around the country, which house tools central to the electoral process—voter registration, ballot measures, candidate information, Election Day guidelines.  She has already found eight bugs spread across four sites.  “I could trick someone into registering for the wrong party, or not registering at all,” Phan said.
+Categories
+Education
+Faculty
+Research
+Students
+View
+Open Faculty Positions

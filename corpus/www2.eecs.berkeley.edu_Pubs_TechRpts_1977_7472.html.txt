@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/7472.html
+Explaining and Ameliorating the Ill Condition of Zeros of Polynomials | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Explaining and Ameliorating the Ill Condition of Zeros of Polynomials
+Explaining and Ameliorating the Ill Condition of Zeros of Polynomials
+David G. Hough
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/30
+May 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-30.pdf
+Advisor:  William M. Kahan
+BibTeX citation:
+@phdthesis{Hough:M77/30,
+Author = {Hough, David G.},
+Title = {Explaining and Ameliorating the Ill Condition of Zeros of Polynomials},
+School = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/7472.html},
+Number = {UCB/ERL M77/30}
+}
+EndNote citation:
+%0 Thesis
+%A Hough, David G.
+%T Explaining and Ameliorating the Ill Condition of Zeros of Polynomials
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/7472.html
+%F Hough:M77/30

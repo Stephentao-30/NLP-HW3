@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29207.html
+The Outputs of Jacksonian Networks are Poissonian | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Outputs of Jacksonian Networks are Poissonian
+The Outputs of Jacksonian Networks are Poissonian
+Jean Walrand and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/60
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-60.pdf
+BibTeX citation:
+@techreport{Walrand:M78/60,
+Author = {Walrand, Jean and Varaiya, Pravin},
+Title = {The Outputs of Jacksonian Networks are Poissonian},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29207.html},
+Number = {UCB/ERL M78/60}
+}
+EndNote citation:
+%0 Report
+%A Walrand, Jean
+%A Varaiya, Pravin
+%T The Outputs of Jacksonian Networks are Poissonian
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/60
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29207.html
+%F Walrand:M78/60

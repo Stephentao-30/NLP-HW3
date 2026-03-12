@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29028.html
+Solving Piecewise-Linear Equations for Resistive Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solving Piecewise-Linear Equations for Resistive Networks
+Solving Piecewise-Linear Equations for Resistive Networks
+M.J. Chien and E.S. Kuh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M471
+September 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-471.pdf
+BibTeX citation:
+@techreport{Chien:M471,
+Author = {Chien, M.J. and Kuh, E.S.},
+Title = {Solving Piecewise-Linear Equations for Resistive Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29028.html},
+Number = {UCB/ERL M471}
+}
+EndNote citation:
+%0 Report
+%A Chien, M.J.
+%A Kuh, E.S.
+%T Solving Piecewise-Linear Equations for Resistive Networks
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M471
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29028.html
+%F Chien:M471

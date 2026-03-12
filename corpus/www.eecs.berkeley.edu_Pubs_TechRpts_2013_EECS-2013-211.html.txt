@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-211.html
+The ZeroAccess Auto-Clicking and Search-Hijacking Click Fraud Modules
+Paul Pearce and Chris Grier and Vern Paxson and Vacha Dave and Damon McCoy and Geoffrey M. Voelker and Stefan Savage
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-211
+December 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-211.pdf
+ZeroAccess is a large sophisticated botnet whose modular design allows new “modules” to be downloaded on demand. Typically each module corresponds to a particular scam used to monetize the platform. However, while the structure and behavior of the ZeroAccess platform is increasingly well-understood, the same cannot be said about the operation of these modules. In this report, we fill in some of these gaps by analyzing the “auto-clicking” and “search-hijacking” modules that drive most of ZeroAccess’s revenue creation. Using a combination of code analysis and empirical measurement, we document the distinct command and control protocols used by each module, the infrastructure they use, and how they operate to defraud online advertisers.
+BibTeX citation:
+@techreport{Pearce:EECS-2013-211,
+Author= {Pearce, Paul and Grier, Chris and Paxson, Vern and Dave, Vacha and McCoy, Damon and Voelker, Geoffrey M. and Savage, Stefan},
+Title= {The ZeroAccess Auto-Clicking and Search-Hijacking Click Fraud Modules},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-211.html},
+Number= {UCB/EECS-2013-211},
+Abstract= {ZeroAccess is a large sophisticated botnet whose modular design allows new “modules” to be downloaded on demand. Typically each module corresponds to a particular scam used to monetize the platform. However, while the structure and behavior of the ZeroAccess platform is increasingly well-understood, the same cannot be said about the operation of these modules. In this report, we fill in some of these gaps by analyzing the “auto-clicking” and “search-hijacking” modules that drive most of ZeroAccess’s revenue creation. Using a combination of code analysis and empirical measurement, we document the distinct command and control protocols used by each module, the infrastructure they use, and how they operate to defraud online advertisers.},
+}
+EndNote citation:
+%0 Report
+%A Pearce, Paul
+%A Grier, Chris
+%A Paxson, Vern
+%A Dave, Vacha
+%A McCoy, Damon
+%A Voelker, Geoffrey M.
+%A Savage, Stefan
+%T The ZeroAccess Auto-Clicking and Search-Hijacking Click Fraud Modules
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 16
+%@ UCB/EECS-2013-211
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-211.html
+%F Pearce:EECS-2013-211

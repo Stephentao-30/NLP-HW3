@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29015.html
+Effects of Congestion on the Shape of a City | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Effects of Congestion on the Shape of a City
+Effects of Congestion on the Shape of a City
+L. Legey, Mario Ripper and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M330
+March 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-330.pdf
+BibTeX citation:
+@techreport{Legey:M330,
+Author = {Legey, L. and Ripper, Mario and Varaiya, Pravin},
+Title = {Effects of Congestion on the Shape of a City},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29015.html},
+Number = {UCB/ERL M330}
+}
+EndNote citation:
+%0 Report
+%A Legey, L.
+%A Ripper, Mario
+%A Varaiya, Pravin
+%T Effects of Congestion on the Shape of a City
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M330
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29015.html
+%F Legey:M330

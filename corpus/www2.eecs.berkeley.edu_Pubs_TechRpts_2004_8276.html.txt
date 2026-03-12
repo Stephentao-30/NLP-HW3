@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/8276.html
+Flux: A Mechanism for Building Robust, Scalable Dataflows
+Mehul A. Shah
+EECS Department, University of California, Berkeley
+2004
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Shah:8276,
+Author= {Shah, Mehul A.},
+Title= {Flux: A Mechanism for Building Robust, Scalable Dataflows},
+School= {EECS Department, University of California, Berkeley},
+Year= {2004},
+}
+EndNote citation:
+%0 Thesis
+%A Shah, Mehul A.
+%T Flux: A Mechanism for Building Robust, Scalable Dataflows
+%I EECS Department, University of California, Berkeley
+%D 2004
+%F Shah:8276

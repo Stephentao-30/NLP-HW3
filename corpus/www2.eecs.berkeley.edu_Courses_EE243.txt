@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE243
+Course: EE243 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EE243
+EE 243. Advanced IC Processing and Layout
+Catalog Description:  The key processes for the fabrication of integrated circuits. Optical, X-ray, and e-beam lithography, ion implantation, oxidation and diffusion. Thin film deposition. Wet and dry etching and ion milling. Effect of phase and defect equilibria on process control.
+Units:  3.0
+Prerequisites:  143 and either 140 or 141.
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  This course emphasizes the physical principles and models used in IC fabrication technology. It starts with an overview of the CMOS fabrication sequence, its key technology modules, and the issues that limit these processes. We then cover the front-end of the line (FEOL) processes: mechanisms and models for implantation, oxidation, and diffusion. We will discuss advanced models for optical image formation and resolution enhancement, resist response, defect printability, inspection and next generation nm-scale printing. Back end of the line (BEOL) processes include etching, physical depositions (sputtering) and chemical deposition (ALD and Epi), CMP, multilevel metallization, and heterogeneous integration. Contemporary issues such as high-k dielectric and strain engineering will be use as case studies of the modules.  Extension of these process modules for flat panel displays, MEMS, Photovoltaics, and Nanotechnology will be discussed. The last 3 weeks cover basic statistical process control (SPC) and design of experiments (DOE) as used to support high yield manufacturing.
+Related Areas:
+Physical Electronics (PHY)

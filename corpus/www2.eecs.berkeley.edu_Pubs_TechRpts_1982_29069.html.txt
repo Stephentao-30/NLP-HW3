@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29069.html
+Semi-infinite Optimization in Engineering Design | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Semi-infinite Optimization in Engineering Design
+Semi-infinite Optimization in Engineering Design
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/50
+November 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-50.pdf
+BibTeX citation:
+@techreport{Polak:M82/50,
+Author = {Polak, E.},
+Title = {Semi-infinite Optimization in Engineering Design},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29069.html},
+Number = {UCB/ERL M82/50}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T Semi-infinite Optimization in Engineering Design
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29069.html
+%F Polak:M82/50

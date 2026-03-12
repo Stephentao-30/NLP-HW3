@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/new-open-source-platform-helps-speed-development-interactive-3d-scenes
+New open-source platform helps speed up the development of interactive 3D scenes - EECS at Berkeley
+A team led by CS Assistant Professor Anjoo Kanazawa has created Nerfstudio, an open-source platform to help speed up the development of Neural Radiance Fields (NeRFs). NeRFs are a type of 3D imaging technology that can be used to create photorealistic 3D models of objects and scenes from a series of images. The plug-and-play framework, called Nerfstudio, makes it easier for researchers to create and train NeRFs, allowing users to run NeRFs on real-world data. “Advancements in NeRF have contributed to its growing popularity and use in applications such as computer vision, robotics, visual effects and gaming. But support for development has been lagging,” said Kanazawa. “The Nerfstudio framework is intended to simplify the development of custom NeRF methods, the processing of real-world data and interacting with reconstructions.”
+Categories
+Faculty
+Industry
+publications
+Research
+View
+Open Faculty Positions

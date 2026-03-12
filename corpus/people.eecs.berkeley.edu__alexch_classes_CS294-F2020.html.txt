@@ -1,0 +1,292 @@
+URL: https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html
+CS294 - Foundations of Probabilistic Proofs
+CS294: Foundations of Probabilistic Proofs (F2020)
+Basics
+Instructor(s):   Alessandro Chiesa
+Teaching Assistant(s):   n/a
+Time:   Tuesdays and Thursdays 11.00-12:30 (California time)
+Location:   live via Zoom (see Piazza website for links)
+Office Hours:   time slots announced in the Piazza website
+Course Description
+The discovery and study of probabilistic proof systems, such as PCPs and IPs, have had a tremendous impact on theoretical computer science. These proof systems have numerous applications (e.g., to hardness of approximation) but one of their most compelling uses is a direct one: to construct cryptographic protocols that enable super fast verification of long computations. This course will introduce students to the foundations of probabilistic proof systems, covering both classical results as well as modern efficient constructions.
+Each lecture's Zoom link and discussions will be on Piazza at  this link .
+Prerequisites
+This course requires knowledge of basic algorithms (CS 170) and complexity (CS 172).
+Requirements
+Completing the course for credit requires regular attendance/participation (on Piazza or during online lecture), completing occasional homework, scribing (once or twice), and a research project.
+Reading and Resources
+This course has no required textbook. Each lecture will have specific references.
+This course is a new revision of a prior course on probabilistic proofs from  [Spring 2019] .
+Assignments
+TBA
+Schedule
+#
+Date
+Topic
+Reading
+1
+2020.08.27
+Interactive Proofs 1
+introduction to the course
+definition of interactive proofs
+GNI is contained in IP (with private coins)
+IP is contained in PSPACE
+Formulation of interactive proofs:
+Babai 1985:  Trading group theory for randomness
+Goldwasser Micali Rackoff 1989:  The knowledge complexity of interactive proof systems
+Video:
+Proofs, Secrets, and Computation  (by Silvio Micali)
+2
+2020.09.01
+Interactive Proofs 2
+sumcheck protocol
+coNP contained in IP
+arithmetization for UNSAT
+P #P  contained in IP
+arithmetization for #SAT
+The sumcheck protocol:
+Lund Fortnow Karloff Nisan 1992:  Algebraic methods for interactive proof systems
+3
+2020.09.03
+Interactive Proofs 3
+definition of QBF
+PSPACE is contained in IP
+TQBF is the starting point
+arithmetization of formula and quantifiers
+Shamir's protocol (with Shen's degree reduction)
+TQBF is PSPACE-complete
+Shamir's protocol:
+Shamir 1992:  IP=PSPACE
+Shen 1992:  IP=PSPACE: simplified proof
+Additional:
+Meir 2013:  IP=PSPACE using error-correcting codes
+Meir 2014: talk on the work above
+4
+2020.09.08
+Interactive Proofs 4
+private coins vs public coins
+definition of AM[k] and MA[k]
+GNI is contained in AM[2]
+reduction to approximate counting
+approximate counting via pairwise-independent hashing
+IP[k] is contained in AM[k+2]
+high-level intuition only
+Goldwasser--Sipser transformation:
+Goldwasser Sipser 1986:  Private coins versus public coins in interactive proof systems
+emulating any interactive proof, with public coins
+Additional:
+Goldreich Leshkowitz 2016:  On emulating interactive proofs with public coins
+an alternative emulation that is more efficient than GS86
+Furer Goldreich Mansour Sipser Zachos 1989:  On completeness and soundness in interactive proof systems
+achieving perfect completeness for AM
+IP with perfect soundness is in NP
+5
+2020.09.10
+Interactive Proofs 5
+IPs with bounded communication/randomness
+complexity classes IP[p,v,r] and AM[p,v,r] (prover bits ≤ p, verifier bits ≤ v, random bits ≤ r)
+IP[p,v,r] is contained in DTime(2 O(p+v+r) poly)
+compute value of game tree
+IP[p,v] is contained in BPTime(2 O(p+v) poly)
+approximate value of game tree (sub-sample by random tapes)
+proof via Chernoff bound and union bound
+AM[p] is contained in BPTime(2 O(p log p) poly)
+approximate value of game tree (sub-sample by transcript-consistent next messages)
+refine previous analysis via hybrids
+IP[p] is contained in BPTime(2 O(p log p) poly) NP
+(sketch) as above but transcript consistency is harder
+The results presented in class:
+Goldreich Håstad 1998:  On the complexity of interactive proofs with bounded communication
+Additional results:
+Boppana Håstad Zachos 1987:  Does co-NP have short interactive proofs?
+Goldreich Vadhan Wigderson 2002:  On interactive proofs with a laconic prover
+6
+2020.09.15
+Interactive Proofs 6
+inefficiency of Shamir's protocol
+honest prover in Shamir's protocol is 2 O(n^2)
+honest prover in Shen's protocol is 2 O(n)
+T-time S-space machines yield 2 O(S log T) -time provers
+doubly-efficient interactive proofs
+motivation of delegation of computation
+theorem statement for log-space uniform circuits
+low-degree extensions (univariate and multivariate)
+bare bones protocol for layered circuits
+one sumcheck per layer
+The result presented in class:
+Goldwasser Kalai Rothblum 2015:  Delegating computation: interactive proofs for muggles
+A survey:
+Goldreich 2017:  On doubly-efficient interactive proof systems
+Additional on implementations of GKR's protocol:
+Cormode Mitzenmacher Thaler 2012:  Practical verified computation with streaming interactive proofs
+Thaler Roberts Mitzenmacher Pfister 2012:  Verifiable computation with massively parallel interactive proofs
+Thaler 2013:  Time-optimal interactive proofs for circuit evaluation
+Wahby Howald Garg Shelat Walfish 2015:  Verifiable ASICs
+Additional on doubly-efficient interactive proofs:
+Reingold Rothblum Rothblum 2016:  Constant-round interactive proofs for delegating computation
+Rothblum 2016: talk on the work above (basic)
+Rothblum 2016: talk on the work above (more technical)
+7
+2020.09.17
+Interactive Proofs 7
+IP for GI
+definition of honest-verifier zero knowledge (HVZK)
+the IP for GI is HVZK
+definition of malicious-verifier zero knowledge (ZK)
+the IP for GI is ZK
+PZK ⊆ SZK ⊆ CZK
+towards SZK ⊆ coAM
+running simulator when x ∉ L
+IP for GI → IP for GNI (!)
+On zero knowledge:
+Goldwasser Micali Rackoff 1989: The knowledge complexity of interactive proofs systems
+Goldreich 2010:  Zero knowledge - a tutorial
+Fortnow 1987:  The complexity of perfect zero-knowledge
+Video:
+Zero knowledge probabilistic proof systems  (by Shafi Goldwasser)
+8
+2020.09.22
+Probabilistically Checkable Proofs 1
+definition of a PCP verifier
+the complexity class PCP c,s [r,q] Σ
+simple class inclusions
+delegation of computation via PCPs
+PSPACE ⊆ PCP
+Video:
+Wigderson 2018:  Scientific revolutions, ToC and PCP
+New York Times article about the PCP Theorem:
+Kolata 1992:  New short cut found for long math proofs
+9
+2020.09.24
+Probabilistically Checkable Proofs 2
+exponential-size PCPs
+NP ⊆ PCP 1,0.5 [poly(n),O(1)] {0,1}
+good query complexity, bad proof length
+linear PCPs
+the complexity class LPCP c,s [l,r,q] Σ
+NP ⊆ LPCP 1,0.75 [O(n 2 ),O(m+n),4] {0,1}
+The exponential-size constant-query PCP is the  inner PCP  in this paper:
+Arora Lund Motwani Sudan Szegedy 1998:  Proof verification and the hardness of approximation problems
+10
+2020.09.29
+Probabilistically Checkable Proofs 3
+compiling any LPCP into a PCP
+self-correction
+linearity testing
+BLR test
+analysis via majority decoding
+Main:
+Blum Luby Rubinfeld 1990:  Self-testing/correcting with applications to numerical problems
+Additional:
+Bellare Coppersmith Håstad Kiwi Sudan 1996:  Linearity testing in characteristic two
+first connection of Fourier analysis and testing
+Video:
+Rubinfeld 2018:  A comedy of errors
+11
+2020.10.01
+Probabilistically Checkable Proofs 4
+NP ⊆ PCP[log, polylog] (up to low-degree testing)
+start from satisfiability of quadratic equations
+amplify gap via an error-correcting code
+arithmetization via Reed--Muller instead of Hadamard
+reduce to sumcheck problem
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+12
+2020.10.06
+Probabilistically Checkable Proofs 5
+NP ⊆ PCP[log, polylog] with low-degree testing
+definition of low-degree testing
+univariate polynomials
+d+2 random points (any ε)
+[S92, Section 3.1.1]
+d+2 random evenly-spaced points (ε ~ 1/d 2 )
+[S92, Section 3.1.2]
+multivariate polynomials
+total degree via random lines (ε ~ 1/d 2 )
+[S92, Section 3.2.1]
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+Additional:
+Arora Safra 1998, Section 4
+Sudan 1992:  Efficient checking of polynomials and proofs and the hardness of approximation problems
+13
+2020.10.08
+PCPs with Sublinear Verification 1
+NEXP ⊆ PCP[poly, poly]
+why last lecture's approach fails
+verifier would run in exponential time
+definition of oracle satisfiability (OSAT)
+[BFL90, Definition 4.1]
+OSAT is NEXP-complete
+[BFL90, Proposition 4.2]
+OSAT to zero testing
+zero testing to sumcheck
+Method 1: via random evaluation  [BFLS91, Section 5.2]
+Method 2: via additional polynomials  [BS08, Lemma 4.11]
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+14
+2020.10.13
+PCPs with Sublinear Verification 2
+NTIME(T) ⊆ PCP[ptime=poly(T), vtime=poly(n,log(T))]
+low-degree extension with H of logarithmic size
+[BFLS91, Section 4.1]
+low-degree projection polynomials to obtain bits
+[BFLS91, Section 6]
+PCP-based delegation of computation
+Main:
+Babai Fortnow Levin Szegedy 1991:  Checking computations in polylogarithmic time
+Kilian 1992:  A note on efficient zero-knowledge proofs and arguments
+Micali 1994:  Computationally sound proofs
+15
+2020.10.15
+Hardness of Approximation 1
+16
+2020.10.20
+Hardness of Approximation 2
+17
+2020.10.22
+Reducing Query Complexity 1
+18
+2020.10.27
+Reducing Query Complexity 2
+19
+2020.10.29
+Reducing Query Complexity 3
+20
+2020.11.03
+Parallel Repetition 1
+21
+2020.11.05
+Parallel Repetition 2
+22
+2020.11.10
+Interactive Oracle Proofs 1
+23
+2020.11.12
+Interactive Oracle Proofs 2
+24
+2020.11.17
+Interactive Oracle Proofs 3
+25
+2020.11.19
+Interactive Oracle Proofs 4
+X
+2020.11.24
+No class.
+X
+2020.11.26
+No class.
+26
+2020.12.01
+Class Project Presentations 1
+27
+2020.12.03
+Class Project Presentations 2
+X
+2020.12.08
+No class.
+X
+2020.12.10
+No class.

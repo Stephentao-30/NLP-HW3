@@ -1,0 +1,167 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1991
+Technical Reports - 1991
+An Analytic Performance Model of Disk Arrays and its Application  (CSD-91-660) Edward K. Lee and Randy H. Katz
+Pan I Version 4.0: An Introduction For Users  (CSD-91-659) Laura M. Downs and Michael L. Van De Vanter
+Efficient Generation of Random Nonsingular Matrices  (CSD-91-658) Dana Randall
+Determining Three-Dimensional Shape from Orientation and Spatial Frequency Disparities II--Using Corresponding Image Patches  (CSD-91-657) David G. Jones and Jitendra Malik
+Determining Three-Dimensional Shape from Orientation and Spatial Frequency Disparities I-Using Corresponding Line Elements  (CSD-91-656) David G. Jones and Jitendra Malik
+A Computational Framework for Determining Stereo Correspondence from a Set of Linear Spatial Filters  (CSD-91-655) David G. Jones and Jitendra Malik
+Sublinear Expected Time Approximate String Matching and Biological Applications  (CSD-91-654) William I. Chang and Eugene L. Lawler
+Theoretical and Empirical Comparisons of Approximate String Matching Algorithms  (CSD-91-653) William I. Chang and Jordan Lampe
+A Walk Through the Planned CS Building  (CSD-91-652) Delnaz Khorramabadi
+Robo-line Storage: Low Latency, High Capacity Storage Systems over Geographically Distributed Networks  (CSD-91-651) Randy H. Katz, Thomas E. Anderson, John K. Ousterhout and David A. Patterson
+High Performance Network and Channel-Based Storage  (CSD-91-650) Randy H. Katz
+Congestion Control in Computer Networks  (CSD-91-649) Srinivasan Keshav
+Cache Performance of the SPEC Benchmark Suite  (CSD-91-648) Jeffrey D. Gee, Mark Donald Hill, Dionisios N. Pnevmatikatos and Alan Jay Smith
+VLSI Design of a Network Interface Processor  (CSD-91-647) Jeffrey Rothman
+Real-Time Disk Storage and Retrieval of Digital Audio/Video Data  (CSD-91-646) David P. Anderson, Yoshitomo Osawa and Ramesh Govindan
+Computing the Generalized Singular Value Decomposition  (CSD-91-645) Zhaojun Bai and James W. Demmel
+Compiling Dataflow into Threads: Efficient Compiler-Controlled Multithreading for Lenient Parallel Languages  (CSD-91-644) Klaus Erik Schauser
+Finite Element Methods for Global Illumination  (CSD-91-643) Paul S. Heckbert and James M. Winget
+An Efficient Approach to Removing Geometric Degeneracies  (CSD-91-642) Ioannis Z. Emiris
+Evaluation of a "Stall" Cache: An Efficient Restricted On-chip Instruction Cache  (CSD-91-641) Klaus Erik Schauser, Krste Asanović, David A. Patterson and Edward H. Frank
+Compiler-Controlled Multithreading for Lenient Parallel Languages  (CSD-91-640) Klaus Erik Schauser, David E. Culler and Thorsten von Eicken
+Emerging Faces in Anisotropically Etched Crystals  (CSD-91-639) Carlo H. Séquin
+File Migration on the Cray Y-MP at the National Center for Atmospheric Research  (CSD-91-638) Ethan L. Miller
+Interactive Procedural Model Generation  (CSD-91-637) Carlo H. Séquin, Joseph M. Rojas, Ajay Sreekanth, Milind M. Joshi, Raja Kadiyala, Mark Halstead, Tom Funkhouser, Alonzo C. Addison, Laura Downs and Ashutosh Rege
+Simulating Global Illumination Using Adaptive Meshing  (CSD-91-636) Paul S. Heckbert
+Fast and Accurate Radiosity-Based Rendering  (CSD-91-635) Kevin P. Smith
+Stabbing Isothetic Boxes and Rectangles in O(n lg n) Time  (CSD-91-634) Michael E. Hohmeyer and Seth J. Teller
+A Symbolic Derivation of Beta-splines of Arbitrary Order  (CSD-91-633) Brian A. Barsky and Gadiel Seroussi
+MultiPolynomial Resultant Algorithms  (CSD-91-632) Dinesh Manocha and John F. Canny
+Parallel Language Support on Shared Memory Multiprocessors  (CSD-91-631) Anurag Sah
+FORMULA Version 3.4 Reference Manual  (CSD-91-630) David P. Anderson and Ron Kuivila
+A Flexible, Parallel Model of Natural Language Generation  (CSD-91-629) Nigel G. Ward
+A Debugger for the Post Script Language  (CSD-91-628) Michael A. Harrison and Fred Meyer
+Profile-Driven Compilation  (CSD-91-627) Alan Dain Samples
+The Design of a User Interface for Computer Algebra Systems  (CSD-91-626) Neil Morrell Soiffer
+String Layout in Redundant Disk Arrays  (CSD-91-625) Lee Newberg and David Wolfe
+Hardware-Assisted Replay of Multiprocessor Programs  (CSD-91-624) David F. Bacon and Seth Copen Goldstein
+An Analytical Solution for a Markov Chain Modeling Multithreaded Execution  (CSD-91-623) Rafael H. Saavedra-Barrera and David E. Culler
+Scheduling and IPC Mechanisms for Continuous Media  (CSD-91-622) Ramesh Govindan and David P. Anderson
+User's Guide to the MS Macro Language: 2nd edition  (CSD-91-621) A. Dain Samples
+Graph Transformations and Program Flow Analysis  (CSD-91-620) Douglas R. Grundman
+Detecting Curvilinear Structure in Images  (CSD-91-619) Ziv Gigus and Jitendra Malik
+Extending the Lexicon by Exploiting Subregularities  (CSD-91-618) Robert Wilensky
+Synchronization Policies and Mechanisms in a Continous Media I/O Server  (CSD-91-617) David P. Anderson and George Homsy
+Input/Output Behavior of Supercomputing Application  (CSD-91-616) Ethan L. Miller
+INCTEX: An Incremental Document Processing System  (CSD-91-614) Michael A. Harrison and Derluen Pan
+Redundant Disk Arrays: Reliable, Parallel Secondary Storage  (CSD-91-613) Garth Alan Gibson
+A Characterization of the Variability of Packet Arrival Processes in Workstation Networks  (CSD-91-612) Riccardo Gusella
+Storage System Metrics for Evaluating Disk Array Organizations  (CSD-91-611) Randy H. Katz, David W. Gordon and James A. Tuttle
+A Detailed Description of the VLSI-PLM Instruction Set: A WAM Based Processor for Prolog  (CSD-91-610) Bruce K. Holmer
+The Performance Impact of Vector Processor Caches  (CSD-91-609) Jeffrey D. Gee and Alan Jay Smith
+Computer Aided Design Tools for Phase-Shift Masks and Spatial Filtering  (M91/117) D.M. Newmark
+Plasma Immersion Ion Implantation (PIII) for Integrated Circuit Manufacturing: Fourth Quarterly Progress Report  (M91/116) Nathan W. Cheung, Michael A. Lieberman, C.A. Pico, R.A. Stewart, J. Tao, M.H. Kiang, C. Yu, V. Vahedi, B. Troyanovsky, W. En, E. Jones and J. Benasso
+Control of a Class of Interconnected Nonlinear Dynamical Systems: The Platoon Problem  (M91/115) Shahab E. Sheikholeslam
+Self-Consistent Electron Cyclotron Resonance Absorption in a Plasma with Varying Parameters  (M91/114) M.C. Williamson, Allan J. Lichtenberg and Michael A. Lieberman
+Hierarchical Control in Planar Grasping and Manipulation -- An Experimental Study  (M91/113) K. Hollerbach
+An Exploratory Study of Ad Hoc Query Languages to Databases  (M91/112) J.E. Bell and Lawrence A. Rowe
+The Design of a Policy-Free, Parallel Core for Graphical User Interface Tool Kits  (M91/111) J.A. Konstan and Lawrence A. Rowe
+Stability and Dynamics of Delay-Type and Nonlinear Cellular Neural Networks  (M91/110) T. Roska, C.W. Wu, M. Balsi and Leon O. Chua
+A Real Time Large Vocabulary Speech Recognition System  (M91/109) A.M. Stolzle
+Wideband Digital Portable Communications: A System Design  (M91/108) S. Sheng
+BERT - Berkeley Reliability Tools  (M91/107) R.H. Tu, E. Rosenbaum, C.C. Li, W.Y. Chan, P.M. Lee, B-K. Liew, J.D. Burnett, P.K. Ko and Chenming Hu
+Image Halftoning with Cellular Neural Networks  (M91/106) K.R. Crounse, T. Roska and Leon O. Chua
+Synthesis of VLSI Designs with Symbolic Techniques  (M91/105) Bill Lin
+Performance Optimization of Large-Scale Integrated Circuits  (M91/104) Arvind Srinivasan
+RITUAL: A Performance Driven Placement Algorithm  (M91/103) A. Srinivasan, K. Chaudhary and Ernest S. Kuh
+Resist Mechanisms and Models in Electron-Beam Lithography  (M91/102) Nelson N.-S. Tam
+Semi-Global Stabilization of Minimum Phase Nonlinear Systems in Special Normal Forms  (M91/101) A.R. Teel
+Performance and Testability Interactions in Logic Synthesis  (M91/100) Alexander Saldanha
+Algorithms for Three-Dimensional Simulation of Etching and Deposition Processes in Integrated Circuit Fabrication  (M91/99) Edward W. Scheckler
+An Index Implementation Supporting Fast Recovery for the POSTGRES Storage System  (M91/98) M. Sullivan and M. Olson
+BLIF-MV: An Interchange Format for Design Verification and Synthesis  (M91/97) Robert K. Brayton, M. Chiodo, R. Hojati, T. Kam, K. Kodandapani, R.P. Kurshan, S. Malik, Alberto L. Sangiovanni-Vincentelli, E.M. Sentovich, T. Shiple, K.J. Singh and H.Y. Wang
+Error-Based Adaptive Nonlinear Control and Regions of Feasibility  (M91/96) A.R. Teel
+Experimental Chaos via Chua's Circuits  (M91/95) M.P. Kennedy
+Priority Pricing of Interruptible Electric Service with an Early Warning Option  (M91/94) T. Strauss and S. Oren
+Optimal Licensing of Cost-Reducing Innovation  (M91/93) M.I. Kamien, S.S. Oren and Y. Tauman
+Plasma Etching of CVD Tungsten Using ECR Discharges  (M91/92) C. Lee, D.W. Hess and Michael A. Lieberman
+A Secant Method Based on Cubic Interpolation for Solving One Dimensional Optimization Problems  (M91/91) C. Kirjner Neto and E. Polak
+An Experimental Study of Hierarchical Control Laws for Grasping and Manipulation Using a Two-Fingered Planar Hand  (M91/90) K. Hollerbach, R.M. Murray and S. Shankar Sastry
+Secure Communications by Synchronization to a Chaotic Signal  (M91/89) J. Gullicksen, M. de Sousa Vieira, Michael A. Lieberman, R. Sherman, Allan J. Lichtenberg, J.Y. Huang, W. Wonchoba, M. Steinberg and P. Khoury
+A New Family of Algorithms for Manipulating Compressed Images  (M91/88) B.C. Smith and Lawrence A. Rowe
+Control Loops and Dynamic Run Modification Using the Berkeley Process-Flow Language  (M91/87) C.J. Hegarty and Lawrence A. Rowe
+Plasma Immersion Ion Implantation (PIII) for Integrated Circuit Manufacturing: Third Quarterly Progress Report  (M91/86) Nathan W. Cheung, Michael A. Lieberman, C.A. Pico, R.A. Stewart, J. Tao, M.H. Kiang, C. Yu, V. Vahedi, B. Troyanovsky, W. En, E. Jones and J. Benasso
+Using Saturation to Stabilize a Class of Single-Input Partially Linear Composite Systems  (M91/85) A.R. Teel
+Moving Horizon Control of Linear Systems with Input Saturation and Plant Uncertainty  (M91/84) Elijah Polak and T.H. Yang
+Moving Horizon Control of Linear Systems with Input Saturation, Disturbances, and Plant Uncertainty  (M91/83) Elijah Polak and T.H. Yang
+Moving Horizon Control of Nonlinear Systems with Input Saturation, Disturbances, and Plant Uncertainty  (M91/82) T.H. Yang and Elijah Polak
+A Two-Coupled-Sheath Model for the Conduction of Current Through Asymmetric Parallel Plate RF Discharges  (M91/81) A.H. Sato and Michael A. Lieberman
+Evidence of Stochastic Diffusionn Across a Cross-Field Sheath Due to Kelvin-Helmholtz Vortices  (M91/79) S.E. Parker, X.Q. Xu, Allan J. Lichtenberg and Charles K. (Ned) Birdsall
+Modeling and Simulation of Reaction Kinetics in Advanced Resist Processes for Optical Lithograpy  (M91/78) Richard A. Ferguson
+Synthesis for Testability Techniques for Asynchronous Circuits  (M91/77) Kurt Keutzer, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Chaos and the Approach to Equilibrium in the Discrete Sine-Gordon Equation  (M91/76) C.G. Goedde, Allan J. Lichtenberg and Michael A. Lieberman
+Novel Routing Schemes for IC Layout  (M91/75) Deborah C. Wang
+Design of a Finite Impulse Response Filter Integrated Circuit for Pulsar Signal Recovery  (M91/74) A.A. Kapadia
+Techniques for Test Generation and Verification of VLSI Sequential Circuits  (M91/73) A. Ghosh
+Investigation of Optical Phenomena in Photolithography and Optical Metrology Using Massively Parallel Simulation  (M91/72) K.H. Tadros
+BTU - Berkeley Topography Utilities for Linking Topography and Impurity Diffusion Simulations  (M91/71) R.H. Wang
+The Selective Epitaxy of Silicon at Low Temperatures  (M91/70) Jen-Chung Lou
+An Integrated Approach to Logic Synthesis and Physical Design  (M91/69) Massoud Pedram
+Statistical Memory Management for Digital Signal Processing  (M91/68) F. Moussavi
+Specification, Synthesis and Verification of Hazard-Free Asynchronous Circuits  (M91/67) C.W. Moon, P.R. Stephan and Robert K. Brayton
+Investigation of Process Technology Elements  (M91/66) William G. Oldham and Andrew R. Neureuther
+Scheduling Synchronous Dataflow Graphs for Efficient Iteration  (M91/65) S.S. Bhattacharyya
+PIX (Program User Interface in X)  (M91/64) S.M. Chiu
+Plasma Immersion Ion Implantation (PIII) for Integrated Circuit Manufacturing: Second Quarterly Progress Report  (M91/63) N.W. Cheung, Michael A. Lieberman, C.A. Pico, R.A. Stewart, J. Tao, M.H. Kiang, C. Yu, V. Vahedi, B. Troyanovsky, W. En, E. Jones and J. Benasso
+The POSTGRES Next Generation DBMS  (M91/62) Michael Stonebraker and G. Kemnitz
+Real-Time Statistical Process Control for Plasma Etching  (M91/61) H-F. Guo
+Receding Horizon Control of Linear Systems with Input Saturation, Disturbances, and Plant Uncertainty  (M91/60) Elijah Polak and T.H. Yang
+Synchronization of Chaos in Phase-Locked Loops  (M91/59) T. Endo and Leon O. Chua
+Global Stabilization and Restricted Tracking for Multiple Integrators with Bounded Controls  (M91/58) A.R. Teel
+Robust and Adaptive Nonlinear Output Regulation  (M91/57) A.R. Teel
+Using Write Protected Data Structures to Improve Software Fault Tolerance in Highly Available Database Management Systems  (M91/56) M. Sullivan and Michael Stonebraker
+Manufacturing-Based IC Process and Device Simulation  (M91/55) T.L. Luan
+Multilevel and Non-Ideal Quantization in Sigma-Delta Modulation  (M91/54) O. Feely and Leon O. Chua
+PLDS: Prototyping in Lager Using Decomposition and Synthesis  (M91/53) R.K. Yu
+Rule Processing with Query Rewrite  (M91/52) K-S.J. Goh
+Version Modeling Using Production Rules in the POSTGRES DBMS  (M91/51) L-P. Ong
+Optimization of Parallel Query Execution Plans in XPRS  (M91/50) W. Hong and Michael Stonebraker
+Managing Persistent Objects in a Multi-Level Store  (M91/49) Michael Stonebraker
+Minimization of Multiple-Valued Relations  (M91/48) Y. Watanabe
+RITUAL An Algorithm for Performance-Driven Placement of Cell-Based ICs  (M91/47) A. Srinivasan, K. Chaudhary and Ernest S. Kuh
+A Case Study in Approximate Linearization: The Acrobot Example  (M91/46) R.M. Murray and J. Hauser
+Nonholonomic Motion Planning: Steering Using Sinusoids  (M91/45) R.M. Murray and S. Shankar Sastry
+FAULTS: An Equipment Maintenance and Repair Tracking System Using a Relational Database  (M91/44) D.C. Mudie
+STEPS - SPICE Text Editing Package Utilizing Schematics  (M91/43) D.S. Yip
+A DFT-Based Approach to the Quasi-Periodic Steady-State Simulation of IC's and Noise Analysis Algorithm in Spectre  (M91/42) C.S. Tung
+High Quality, Low Bit-Rate Speech Coding for Low-Power VLSI Implementation  (M91/41) P. Landman
+Process-Flow Specification and Dynamic Run Modification for Semiconductor Manufacturing  (M91/40) Christopher J. Hegarty
+Adaptive Linearization and Model Reference Control of a Class of MIMO Nonlinear Systems  (M91/39) M. di Benedetto and S. Shankar Sastry
+Singularly Perturbed Zero Dynamics of Nonlinear Systems  (M91/38) A. Isidori, S. Shankar Sastry, P.V. Kokotovic and C.I. Byrnes
+Admission Control and Routing in ATM Networks Using Inferences From Measured Buffered Occupancy  (M91/37) C. Courcoubetis, G. Kesidis, A. Ridder, Jean Walrand and R. Weber
+Monolithic Microwave Oscillators and Amplifiers  (M91/36) Nhat M. Nguyen
+On Reorienting Linked Rigid Bodies Using Internal Motions  (M91/35) G. Walsh and S. Shankar Sastry
+The POSTGRES Tutorial  (M91/34) G. Kemnitz and Michael Stonebraker
+Automated Malfunction Diagnosis of Integrated Circuit Manufacturing Equipment  (M91/33) Gary S. May
+A Non-Fractal Chaotic Attractor on a Two-Dimensional Surface  (M91/32) G-N. Lin and Leon O. Chua
+On the Universe of Stable Cellular Neural Networks  (M91/31) Leon O. Chua and C.W. Wu
+Nonlinear Dynamics of a Class of Analog-to- Digital Converters  (M91/30) O. Feely and Leon O. Chua
+Multiprocessor Scheduling to Account for Interprocessor Communication  (M91/29) Gilbert C. Sih
+High-Speed High-Density CMOS CNNs  (M91/28) J.M. Cruz and Leon O. Chua
+Design of a Real-Time Flexible Image Processing System  (M91/27) A.P. Chandrakasan
+Plasma Immersion Ion Implantation (PIII) for Integrated Circuit Manufacturing  (M91/26) Michael A. Lieberman and Nathan W. Cheung
+A Generalized Cellular Neural Network Implementation of a Novel Edge Detection Algorithm  (M91/25) B.E. Shi and Leon O. Chua
+Generalizing the Twist and Flip Paradigm  (M91/24) R. Brown and Leon O. Chua
+Stability Analysis of Generalized Cellular Neural Networks  (M91/23) C. Guzelis and Leon O. Chua
+Automated Design Management Using Traces  (M91/22) Andrea Casotto
+HTEXT: An Intuitive, File-Transparent Hypertext System  (M91/21) N.B. Jaramillo, M. Schiff and Lawrence A. Rowe
+Cellular Neural Network A/D Conversion  (M91/20) L. Yang and Leon O. Chua
+Analysis of an Electron Wave Interference Filter in the Presence of an Applied Electric Field Using Optical Plane Wave Analogies  (M91/19) J.A. Kenrow
+An Optimal Algorithm for On-Line Bipartite Matching  (M91/18) Richard M. Karp, Umesh Vazirani and V.V. Vazirani
+Online Algorithms for Locating Checkpoints  (M91/17) M. Bern, D.H. Greene, A. Raghunathan and M. Sudan
+Model of Plasma Immersion Ion Implantation for Voltage Pulses with Finite Rise- and Fall-Times  (M91/14) R.A. Stewart and Michael A. Lieberman
+Implicit Manipulation of Equivalence Classes Using Binary Decision Diagrams  (M91/13) B. Lin and A. Richard Newton
+Efficiency of Simulated Annealing: Analysis by Rapidly-Mixing Markov Chains and Results for Fractal Landscapes  (M91/12) G. Sorkin
+Markets and Pricing for Interruptible Electric Power  (M91/11) T.W. Gedra and Pravin Varaiya
+A Model for Pricing Interruptible Electric Power Service  (M91/10) C-W. Tan and Pravin Varaiya
+Design of Interruptible Electric Power Service Contracts with Stochastic Demand  (M91/9) C-W. Tan, T. Ishikida and Pravin Varaiya
+Special Issues in Semiconductor Manufacturing  (M91/8) Costas J. Spanos, R. Chen, S. Leang and N. Tam
+Computing Shortest Paths in Networks Derived from Recurrence Relations  (M91/7) E.L. Lawler
+Nonlinear Dynamics of Self-Synchronizing Systems  (M91/6) M. de Sousa Vieira, Allan J. Lichtenberg and Michael A. Lieberman
+Effects of DC Bias on the Kinetics and Electrical Properties of Silicon Dioxide Grown in an Electron Cyclotron Resonance Plasma  (M91/5) D.A. Carl, D.W. Hess, Michael A. Lieberman, T.D. Nguyen and R. Gronsky
+A Test Controller Board for TSS  (M91/4) K.T. Kornegay
+An Analytic Method for Designing Simple Cellular Neural Networks  (M91/3) Leon O. Chua and P. Thiran
+Preserving Don't Care Conditions During Retiming  (M91/2) E.M. Sentovich and Robert K. Brayton
+Markov Fluid Models and Large Deviations  (M91/1) A. Ridder

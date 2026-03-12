@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29111.html
+A Theory of Nonenergetic N-Ports | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Theory of Nonenergetic N-Ports
+A Theory of Nonenergetic N-Ports
+J.L. Wyatt and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M549
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-549.pdf
+BibTeX citation:
+@techreport{Wyatt:M549,
+Author = {Wyatt, J.L. and Chua, L.O.},
+Title = {A Theory of Nonenergetic N-Ports},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29111.html},
+Number = {UCB/ERL M549}
+}
+EndNote citation:
+%0 Report
+%A Wyatt, J.L.
+%A Chua, L.O.
+%T A Theory of Nonenergetic N-Ports
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M549
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29111.html
+%F Wyatt:M549

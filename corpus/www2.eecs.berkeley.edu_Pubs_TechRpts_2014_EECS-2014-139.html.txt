@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-139.html
+Program Synthesis for Hierarchical Specifications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Program Synthesis for Hierarchical Specifications
+Program Synthesis for Hierarchical Specifications
+Thibaud Hottelier and Ras Bodik
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-139
+July 29, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-139.pdf
+Synthesis is the problem of obtaining programs from relational specifications. We present grammar-modular (GM) synthesis, an algorithm for synthesis from tree-structured relational specifications. GM synthesis makes synthesis applicable to previously intractable relational specifications by decomposing them into smaller subproblems, which can be tackled in isolation by off-the-shelf synthesis procedures. The program fragments thus generated are subsequently composed to form a program satisfying the overall specification.
+We also generalize our technique to tree languages of relational specifications. Here, we synthesize a single program capable satisfying any (tree-shaped) relation belonging to the language; the synthesized program is syntax-directed by the structure of the relation.
+We evaluate our work by applying GM synthesis to document layout: given the semantics of a layout language, we synthesize tailored constraint solvers capable of laying out languages of documents. Our experiments show that GM synthesis is sufficiently complete to successfully generate solvers for non-trivial data visualizations, and that our synthesized solvers are between 39- to 200-times faster than general-purpose constraint solvers.
+BibTeX citation:
+@techreport{Hottelier:EECS-2014-139,
+Author = {Hottelier, Thibaud and Bodik, Ras},
+Title = {Program Synthesis for Hierarchical Specifications},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-139.html},
+Number = {UCB/EECS-2014-139},
+Abstract = {Synthesis is the problem of obtaining programs from relational specifications. We present grammar-modular (GM) synthesis, an algorithm for synthesis from tree-structured relational specifications. GM synthesis makes synthesis applicable to previously intractable relational specifications by decomposing them into smaller subproblems, which can be tackled in isolation by off-the-shelf synthesis procedures. The program fragments thus generated are subsequently composed to form a program satisfying the overall specification.
+We also generalize our technique to tree languages of relational specifications. Here, we synthesize a single program capable satisfying any (tree-shaped) relation belonging to the language; the synthesized program is syntax-directed by the structure of the relation.
+We evaluate our work by applying GM synthesis to document layout: given the semantics of a layout language, we synthesize tailored constraint solvers capable of laying out languages of documents. Our experiments show that GM synthesis is sufficiently complete to successfully generate solvers for non-trivial data visualizations, and that our synthesized solvers are between 39- to 200-times faster than general-purpose constraint solvers.}
+}
+EndNote citation:
+%0 Report
+%A Hottelier, Thibaud
+%A Bodik, Ras
+%T Program Synthesis for Hierarchical Specifications
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 July 29
+%@ UCB/EECS-2014-139
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-139.html
+%F Hottelier:EECS-2014-139

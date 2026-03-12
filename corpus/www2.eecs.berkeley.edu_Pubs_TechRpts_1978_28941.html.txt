@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28941.html
+An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making
+An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making
+A.N. Payne and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/50
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-50.pdf
+BibTeX citation:
+@techreport{Payne:M78/50,
+Author = {Payne, A.N. and Polak, E.},
+Title = {An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28941.html},
+Number = {UCB/ERL M78/50}
+}
+EndNote citation:
+%0 Report
+%A Payne, A.N.
+%A Polak, E.
+%T An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28941.html
+%F Payne:M78/50

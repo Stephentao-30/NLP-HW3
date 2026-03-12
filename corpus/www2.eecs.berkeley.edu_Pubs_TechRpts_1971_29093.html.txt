@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29093.html
+A Matroid Generalization of a Theorem of Medelsohn and Dulmage | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Matroid Generalization of a Theorem of Medelsohn and Dulmage
+A Matroid Generalization of a Theorem of Medelsohn and Dulmage
+Sukhamay Kundu and Eugene L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M328
+September 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-328.pdf
+BibTeX citation:
+@techreport{Kundu:M328,
+Author = {Kundu, Sukhamay and Lawler, Eugene L.},
+Title = {A Matroid Generalization of a Theorem of Medelsohn and Dulmage},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29093.html},
+Number = {UCB/ERL M328}
+}
+EndNote citation:
+%0 Report
+%A Kundu, Sukhamay
+%A Lawler, Eugene L.
+%T A Matroid Generalization of a Theorem of Medelsohn and Dulmage
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M328
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29093.html
+%F Kundu:M328

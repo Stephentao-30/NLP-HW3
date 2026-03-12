@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29184.html
+The Minimal Realization of Impulse Response Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Minimal Realization of Impulse Response Matrices
+The Minimal Realization of Impulse Response Matrices
+C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M128
+September 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-128.pdf
+BibTeX citation:
+@techreport{Desoer:M128,
+Author = {Desoer, C.A.},
+Title = {The Minimal Realization of Impulse Response Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29184.html},
+Number = {UCB/ERL M128}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%T The Minimal Realization of Impulse Response Matrices
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M128
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29184.html
+%F Desoer:M128

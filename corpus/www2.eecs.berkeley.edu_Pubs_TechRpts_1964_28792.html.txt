@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28792.html
+Optimal Control of Asynchronous Discrete-time Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Control of Asynchronous Discrete-time Systems
+Optimal Control of Asynchronous Discrete-time Systems
+B.W. Jordan and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M49
+January 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-49.pdf
+BibTeX citation:
+@techreport{Jordan:M49,
+Author = {Jordan, B.W. and Polak, E.},
+Title = {Optimal Control of Asynchronous Discrete-time Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28792.html},
+Number = {UCB/ERL M49}
+}
+EndNote citation:
+%0 Report
+%A Jordan, B.W.
+%A Polak, E.
+%T Optimal Control of Asynchronous Discrete-time Systems
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M49
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28792.html
+%F Jordan:M49

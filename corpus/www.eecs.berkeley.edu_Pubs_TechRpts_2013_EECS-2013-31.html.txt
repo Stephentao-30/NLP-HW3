@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-31.html
+Engineering Scalable Combinational Logic in Escherichia coli Using Zinc Finger Proteins
+William J. Holtz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-31
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-31.pdf
+Available to synthetic biologists are a wide range of genetic devices. Many of these devices are able to either sense or alter local conditions. The ability to sense a multitude of inputs combined with diverse outputs could enable engineered organisms that interact with their environment in new and complex ways. Currently the complexity of such systems has been limited by our ability to integrate several inputs into a desired output. Simple combinational logic functions, containing 1 to 3 logic gates, have been constructed in Escherichia coli, but more complex logic networks are needed to fully exploit the opportunities presented by these sensors and actuators. Use of genetic logic gates is constrained by the specific molecular interactions that are used to implement each gate. These interactions involve diffusible molecules that can move within the cytoplasm of the cell and therefore are not spatially separated from other gates. To make larger logic blocks, sets of gates that use unique molecular interactions with minimal crosstalk are required.
+Zinc finger proteins (ZFPs) can be used to predictably create a large number of unique protein-DNA interactions. These proteins can then be used to build transcriptional activators or repressors in E. coli, but these methods are not well defined.  Attempts at using ZFPs to make one-hybrid transcriptional activators have failed to give a fold activation of higher than 2. ZFP repressors based on steric hindrance of RNA polymerase performed better with fold repressions values of up to 300. The positional dependence of the ZFP operator site within the promoter was investigated, and both position and dissociation constant were found to play important roles in determining the level of repression.
+ZFP based repressors without cooperativity cannot be used to create logic gates. A new inverter topology using both ZFP based repressors and sRNA was designed. This topology uses a reference promoter to set the switching threshold of the gate. There are no cooperative interactions in this topology, but the maximum slope of the transfer function is similar to a Hill-equation with a coefficient of 10. The high slope and excellent transfer function of these gates make them robust to many types of parameter variation and noise.
+A set of 27 validated ZFP repressors and 27 promoters with ZFP operator sites were created and tested for non-orthogonal interactions. A sub-set of 5 repressor-promoter pairs were found to have a high degree of orthogonality where the cognate pairs resulted in more than 73% attenuation of the promoter and non-cognate pairs gave less than 19% attenuation.  The ZFPs and promoter used in this task were far from optimal and these attenuation values could readily be improved.
+The combination of these orthogonal repressor-promoter pairs and the new logic gate topology should enable more logic gates to be implemented in a single E. coli cell.
+Advisors:  Jay D. Keasling and Michel Maharbiz
+BibTeX citation:
+@phdthesis{Holtz:EECS-2013-31,
+Author= {Holtz, William J.},
+Title= {Engineering Scalable Combinational Logic in Escherichia coli Using Zinc Finger Proteins},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-31.html},
+Number= {UCB/EECS-2013-31},
+Abstract= {Available to synthetic biologists are a wide range of genetic devices. Many of these devices are able to either sense or alter local conditions. The ability to sense a multitude of inputs combined with diverse outputs could enable engineered organisms that interact with their environment in new and complex ways. Currently the complexity of such systems has been limited by our ability to integrate several inputs into a desired output. Simple combinational logic functions, containing 1 to 3 logic gates, have been constructed in Escherichia coli, but more complex logic networks are needed to fully exploit the opportunities presented by these sensors and actuators. Use of genetic logic gates is constrained by the specific molecular interactions that are used to implement each gate. These interactions involve diffusible molecules that can move within the cytoplasm of the cell and therefore are not spatially separated from other gates. To make larger logic blocks, sets of gates that use unique molecular interactions with minimal crosstalk are required.
+Zinc finger proteins (ZFPs) can be used to predictably create a large number of unique protein-DNA interactions. These proteins can then be used to build transcriptional activators or repressors in E. coli, but these methods are not well defined.  Attempts at using ZFPs to make one-hybrid transcriptional activators have failed to give a fold activation of higher than 2. ZFP repressors based on steric hindrance of RNA polymerase performed better with fold repressions values of up to 300. The positional dependence of the ZFP operator site within the promoter was investigated, and both position and dissociation constant were found to play important roles in determining the level of repression.
+ZFP based repressors without cooperativity cannot be used to create logic gates. A new inverter topology using both ZFP based repressors and sRNA was designed. This topology uses a reference promoter to set the switching threshold of the gate. There are no cooperative interactions in this topology, but the maximum slope of the transfer function is similar to a Hill-equation with a coefficient of 10. The high slope and excellent transfer function of these gates make them robust to many types of parameter variation and noise.
+A set of 27 validated ZFP repressors and 27 promoters with ZFP operator sites were created and tested for non-orthogonal interactions. A sub-set of 5 repressor-promoter pairs were found to have a high degree of orthogonality where the cognate pairs resulted in more than 73% attenuation of the promoter and non-cognate pairs gave less than 19% attenuation.  The ZFPs and promoter used in this task were far from optimal and these attenuation values could readily be improved.
+The combination of these orthogonal repressor-promoter pairs and the new logic gate topology should enable more logic gates to be implemented in a single E. coli cell.},
+}
+EndNote citation:
+%0 Thesis
+%A Holtz, William J.
+%T Engineering Scalable Combinational Logic in Escherichia coli Using Zinc Finger Proteins
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-31
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-31.html
+%F Holtz:EECS-2013-31

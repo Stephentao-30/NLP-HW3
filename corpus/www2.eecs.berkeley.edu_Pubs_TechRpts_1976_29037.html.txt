@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29037.html
+Non-Parametric Etimation for Diffusion Processes
+G. Banon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M599
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-599.pdf
+BibTeX citation:
+@techreport{Banon:M599,
+Author= {Banon, G.},
+Title= {Non-Parametric Etimation for Diffusion Processes},
+Year= {1976},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29037.html},
+Number= {UCB/ERL M599},
+}
+EndNote citation:
+%0 Report
+%A Banon, G.
+%T Non-Parametric Etimation for Diffusion Processes
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M599
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29037.html
+%F Banon:M599

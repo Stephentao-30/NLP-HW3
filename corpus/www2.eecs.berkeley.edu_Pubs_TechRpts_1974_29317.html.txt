@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29317.html
+On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints
+On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints
+H. Mukai and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M489
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-489.pdf
+BibTeX citation:
+@techreport{Mukai:M489,
+Author = {Mukai, H. and Polak, E.},
+Title = {On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29317.html},
+Number = {UCB/ERL M489}
+}
+EndNote citation:
+%0 Report
+%A Mukai, H.
+%A Polak, E.
+%T On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M489
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29317.html
+%F Mukai:M489

@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-247.html
+Fundamental Conductance ÷ Voltage Limit in Low Voltage Tunnel Switches
+Sapan Agarwal and Eli Yablonovitch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-247
+December 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-247.pdf
+There is a fundamental conductance ÷ voltage limit in low voltage (less than 4kT/q) tunnel switching devices that obtain a sharp turn off by relying upon the band edges to abruptly cut off the available density of states. The Fermi occupation probabilities are thermally broadened by 4kbT. However, current is only allowed to flow in a narrow energy range limited by the applied voltage, V. This means that if we apply a voltage less than 4kbT/q, the conductance will be reduced by at least qV/4kbT. Even with a perfect tunneling probability of 1 in a perfect quantum channel, the conductance quantum would be diminished by qV/4kT. Attempts at lowering the operating voltage below 4kT/q must come at the expense of smaller conductance.
+BibTeX citation:
+@techreport{Agarwal:EECS-2013-247,
+Author= {Agarwal, Sapan and Yablonovitch, Eli},
+Title= {Fundamental Conductance ÷ Voltage Limit in Low Voltage Tunnel Switches},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-247.html},
+Number= {UCB/EECS-2013-247},
+Abstract= {There is a fundamental conductance ÷ voltage limit in low voltage (less than 4kT/q) tunnel switching devices that obtain a sharp turn off by relying upon the band edges to abruptly cut off the available density of states. The Fermi occupation probabilities are thermally broadened by 4kbT. However, current is only allowed to flow in a narrow energy range limited by the applied voltage, V. This means that if we apply a voltage less than 4kbT/q, the conductance will be reduced by at least qV/4kbT. Even with a perfect tunneling probability of 1 in a perfect quantum channel, the conductance quantum would be diminished by qV/4kT. Attempts at lowering the operating voltage below 4kT/q must come at the expense of smaller conductance.},
+}
+EndNote citation:
+%0 Report
+%A Agarwal, Sapan
+%A Yablonovitch, Eli
+%T Fundamental Conductance ÷ Voltage Limit in Low Voltage Tunnel Switches
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 31
+%@ UCB/EECS-2013-247
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-247.html
+%F Agarwal:EECS-2013-247

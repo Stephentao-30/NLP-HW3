@@ -1,0 +1,45 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/5546.html
+%s ",$title,$link,$text);
+return $button;
+}
+?>
+Active Mapping: Resisting NIDS Evasion Without Altering Traffic | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Active Mapping: Resisting NIDS Evasion Without Altering Traffic
+Umesh Shankar
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-03-1246
+2002
+http://www.eecs.berkeley.edu/Pubs/TechRpts/2003/CSD-03-1246.pdf
+A critical problem faced by a Network Intrusion Detection System (NIDS) is that of ambiguity. The NIDS cannot always determine what traffic reaches a given host nor how that host will interpret the traffic, and attackers may exploit this ambiguity to avoid detection or cause misleading alarms. We present a novel, lightweight solution, Active Mapping, which eliminates TCP/IP-based ambiguity in a NIDS' analysis with minimal runtime cost. Active Mapping efficiently builds profiles of the network topology and the TCP/IP policies of hosts on the network; a NIDS may then use the host profiles to disambiguate the interpretation of the network traffic on a per-host basis. Active Mapping avoids the semantic and performance problems of traffic normalization, in which traffic streams are modified to remove ambiguities.  We have developed a prototype implementation of Active Mapping and modified a NIDS to use the Active Mapping-generated profile database in our tests. We found wide variation across operating systems' TCP/IP stack policies in real-world tests (about 6,700 hosts), underscoring the need for this sort of disambiguation.  We discuss the capabilities and limitations of Active Mapping in detail, including real-world challenges. We also present results on the performance impact of using Active Mapping in terms of time and memory.
+";
+?>
+BibTeX citation:
+@techreport{Shankar:CSD-03-1246,
+Author = {Shankar, Umesh},
+Title = {Active Mapping: Resisting NIDS Evasion Without Altering Traffic},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2002},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/2002/5546.html},
+Number = {UCB/CSD-03-1246}
+}
+EndNote citation:
+%0 Report
+%A Shankar, Umesh
+%T Active Mapping: Resisting NIDS Evasion Without Altering Traffic
+%I EECS Department, University of California, Berkeley
+%D 2002
+%@ UCB/CSD-03-1246
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/2002/5546.html
+%F Shankar:CSD-03-1246
+Home
+|
+©
+UC Berkeley EECS
+|
+|
+Contact Webteam

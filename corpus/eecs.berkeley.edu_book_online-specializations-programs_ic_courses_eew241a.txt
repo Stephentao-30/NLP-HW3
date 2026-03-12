@@ -1,0 +1,316 @@
+URL: https://eecs.berkeley.edu/book/online-specializations-programs/ic/courses/eew241a
+EE W241A Course Overview: Introduction to Digital Integrated Circuits - EECS at Berkeley
+EE W241A Course Overview: Introduction to Digital Integrated Circuits
+In This Page
+Course Description
+Learning Objectives
+Intended Audience
+Prerequisites
+Course Outline
+Module by Module Summary
+Instructional Methodology
+Grading
+Required Readings, Supplements, and Materials
+Purpose of the Course/Course Description
+CMOS devices and deep sub-micron manufacturing technology. CMOS inverters and complex gates. Modeling of interconnect wires. Optimization of designs with respect to a number of metrics: cost, reliability, performance, and power dissipation. Sequential circuits, timing considerations, and clocking approaches. Design of large system blocks, including arithmetic, interconnect, memories, and programmable logic arrays. Introduction to design methodologies, including laboratory experience.
+We look at various digital circuit design styles and architectures as well as the issues that designers must face, such as technology scaling and the impact of interconnect. Implementations of basic CMOS logic gates will be discussed first, looking at optimizing the speed, area, or power. The learned techniques will be applied on more evolved designs such as adders and multipliers. The influence of interconnect parasitics on circuit performance and approaches to cope with them are treated in detail.  Substantial attention will then be devoted to sequential circuits, clocking approaches and memories. The class includes getting familiar with industrial design automation and verification tools, and using them in assignments, labs and projects.
+Learning Objectives (Goals/Takeaways)
+When students have completed this course, they will:
+Gain understanding of CMOS IC manufacturing and digital IC design metrics
+Gain understanding of combinational logic design
+Gain understanding of digital design with wires and interconnects
+Gain understanding of sequential logic design
+Gain understanding of timing in digital IC design
+Gain understanding of clocking and clock distribution
+Gain understanding of large arithmetic blocks (adders, multipliers, etc)
+Gain understanding of memory design (SRAM, DRAM)
+Master the EDA tools (HSPICE, Cadence layout tools, etc)
+Gain experience in larger digital IC block design through a hands-on class project.
+Intended Audience
+This program seeks to fill the educational gaps within the field of integrated circuit design using a fully online and interactive method. This is a base graduate-level course in digital IC design intended to provide an entry point for the aspiring digital IC designers.
+Students taking this graduate-level course will be mastering, in both breadth and depth, the domain of Integrated Circuits, as taught by some of the most accomplished leaders and innovators in the field. Upon taking the class, they will have acquired the basic skills in analysis and design in the area of digital ICs and laid the foundation to take-on an advanced digital IC design course – EE W241B upon which they will be ready to tackle the state-of-the-art digital IC design challenges.
+Prerequisites
+There are no prior graduate course requirements. Basic circuit components (resistors, capacitors, voltage and current sources) and analysis knowledge (KVL, KCL, etc) is expected.
+Course Content Outline
+1. Introduction:
+1.1 Intro (01:44)
+1.2 The Past – The Evolution of Information Processing (07:16)
+1.3 Integrated Circuits (05:01)
+1.4 Microprocessors (07:46)
+1.5 Moore’s Law (09:02)
+1.6 Moore’s Law: More than Economics (07:30)
+1.7 Scaling (10:47)
+2. Design Metrics:
+2.1 Design Metrics Intro (06:47)
+2.2 Recurring Expenses (07:46)
+2.3 Area and Cost (05:27)
+2.4 Yield (14:56)
+2.5 Reliability (14:42)
+2.6 The Digital Abstraction (06:56)
+2.7 Noise Margins (12:25)
+2.8 Are Noise Margins Sufficient? (05:58)
+2.9 Fan-out, What We Have Learned So Far (02:55)
+2.10 Performance (21:06)
+2.11 Energy and Power (17:22)
+3. Switch Logic:
+3.1 Switch Logic (09:11)
+3.2 Building an Inverter from Switches (22:08)
+3.3 CMOS: How Good Is It? (04:59)
+3.4 Impacting Reliability, Performance & Energy (06:15)
+3.5 Optimizing Inverter Networks (09:15)
+3.6 A Delay Model for the Inverter (21:22)
+3.7 Back to the Delay Optimization Problem (10:01)
+3.8 Untangling the Optimization Problem (15:53)
+3.9 How to Back Off (03:23)
+4. Combinational Logic:
+4.1 Moving to Logic (18:22)
+4.2 Switch Limitations (05:46)
+4.3 Logical Effort (04:26)
+4.4 Intermezzo: Complex Gate Sizing (05:45)
+4.5 Delay of Complex Gate (23:13)
+4.6 Example: XOR (07:39)
+4.7 Optimizing Complex Combinational Logic (21:22)
+4.8 Logical Effort Examples (13:18)
+5. Wires and Interconnect:
+5.1 Beyond Logic (14:14)
+5.2 Capacitance (12:21)
+5.3 Capacitive Coupling and Noise (02:28)
+5.4 Capacitive Coupling and Delay (07:06)
+5.5 Wiring Capacitance (From a Designer’s Perspective) (02:40)
+5.6 Resistance (20:38)
+5.7 Interconnect Modeling (07:21)
+5.8 Intermezzo: Delay of RC Networks (19:59)
+5.9 Logic and Wires, Repeaters (18:13)
+5.10 Case Study: Memory Decoders (14:06)
+5.11 Decoder Optimization (21:49)
+6. MOS Transistors:
+6.1 MOS Transistor (17:01)
+6.2 I-V Relationships (12:45)
+6.3 I-V Relationships in Deep Sub-Micron (<250 nm) (14:05)
+6.4 Models Models Models (13:59)
+6.5 Equivalent Resistance (20:07)
+6.6 MOS Capacitance (03:21)
+6.7 Gate Capacitance (14:10)
+6.8 Gate Capacitance Continued (13:54)
+6.9 Diffusion Capacitance (18:50)
+6.10 Capacitance Summary (03:42)
+7. Inverters Revisited:
+7.1 CMOS Inverter Revisited (29:16)
+7.2 Inverter Capacitances (18:11)
+7.3 Inverter Capacitance Model (14:14)
+7.4 Step Inputs (04:23)
+7.5 CMOS Inverter Energy (10:37)
+7.6 Short Circuit Current (13:11)
+7.7 Leakage (06:04)
+7.8 Threshold Definition (22:46)
+7.9 Trading Off Energy And Delay (06:12)
+8. Complementary CMOS Logic:
+8.1 CMOS Logic Revisited (11:39)
+8.2 Optimization of Complex Logic: The Critical Path and False Paths (11:58)
+8.3 Optimizing Complex Logic (12:11)
+8.4 Energy (22:41)
+8.5 Principles of Energy Reduction (03:46)
+9. Alternative Logic Styles:
+9.1 Pass Transistor Logic (13:45)
+9.2 Logical Effort (08:10)
+9.3 Noise Margin Challenges (22:11)
+9.4 Transmission Gate XOR (05:03)
+9.5 Ratioed Logic (11:52)
+9.6 Pseudo-NMOS (14:53)
+9.7 Improvements (15:15)
+9.8 Dynamic Logic (11:40)
+9.9 Dynamic Logic: Properties (18:46)
+9.10 Dynamic Logic: Noise Margins (04:02)
+9.11 Dynamic Logic: Challenges (14:39)
+9.12 Challenges Continued (22:35)
+9.13 Domino Logic Intro (10:48)
+9.14 Domino Logic (16:17)
+9.15 Cascading, Other Options (07:16)
+9.16 Logic Summary (02:29)
+10. Sequential Logic:
+10.1 Sequential Logic and Systems (05:36)
+10.2 Some Definitions (10:36)
+10.3 Latch Design (09:44)
+10.4 The Static Latch (09:27)
+10.5 Timing Parameters (10:42)
+10.6 The Race Problem (10:51)
+10.7 Register Design (17:53)
+10.8 C2MOS Latch-register (18:04)
+10.9 Pulse-based Registers (07:37)
+11. Timing:
+11.1 Clock Non-idealities and Timing Constraints (04:50)
+11.2 Skew (12:07)
+11.3 Jitter (07:52)
+11.4 Pipelining and Latch-based Clocking (17:02)
+12. Clock Distribution:
+12.1 Clock Distribution (17:32)
+12.2 Examples (10:00)
+13. Arithmetic:
+13.1 Adders (12:14)
+13.2 Ripple Adders (19:52)
+13.3 Mirror Adders (11:36)
+13.4 Manchester Carry Chain Adder (07:40)
+13.5 Defeating the Ripple (15:07)
+13.6 Logarithmic Adders (22:30)
+13.7 Multipliers (16:49)
+13.8 Booth Multipliers (04:35)
+13.9 Logarithmic Multipliers (07:01)
+14. Memories:
+14.1 Memories (07:28)
+14.2 Memory Classification (07:51)
+14.3 SRAM Cell (08:14)
+14.4 How To Build An Associative Memory (13:05)
+14.5 SRAM (15:25)
+14.6 SRAM Read (10:14)
+14.7 SRAM Write (11:35)
+14.8 SRAM Layout (08:47)
+14.9 DRAM (01:33)
+14.10 DRAM Concept (21:54)
+14.11 Memory – Non-volatile (17:33)
+14.12 Non-Volatile & Flash (12:55)
+14.13 Memory – Periphery (09:55)
+14.14 Sense Amplifiers (09:29)
+15. Power and Energy Revisited:
+15.1 Energy and Power Revisited (08:30)
+15.2 Type of Logic Function or Family (19:16)
+15.3 Principles for Power Reduction (09:57)
+15.4 Energy-Performance Space (10:16)
+15.5 Examples, Concurrency (19:55)
+15.6 Run-time Optimization (04:55)
+15.7 Taming Leakage Power (03:42)
+15.8 Transistor Stacking (09:46)
+15.9 Power Gating (06:06)
+15.10 Voltage Islands (04:56)
+16. Perspectives:
+16.1 Digital Design: Where Does It Go From Here? (11:04)
+16.2 Challenges (07:14)
+16.3 It’s All About Energy – The Cloud (06:48)
+16.4 The Mobile (03:45)
+16.5 The Sensory Swarm (04:12)
+16.6 Energy Limits of Digital (06:15)
+16.7 The Lessons of EE241A (03:21)
+Module by Module Summary
+Each module has an associated problem set. There are a total of five labs that span multiple modules. The course culminates with a three-phase design project.
+Module
+Topic
+Module 1
+Introduction
+Module 2
+Metrics
+Intermezzo 1
+IC Manufacturing
+Module 3
+Switch Logic
+Module 4
+Combinational Logic
+Intermezzo 2
+Design rules and methodology
+Module 5
+Wires & Interconnect
+Module 6
+Transistors
+Module 7
+Inverters Revisited
+Module 8
+Complementary CMOS Logic
+Module 9
+Alternative Logic Styles
+Intermezzo 3
+CMOS Scaling
+Module 10
+Sequential Logic
+Module 11
+Timing
+Module 12
+Clock Distribution
+Module 13
+Arithmetic
+Module 14
+Memories
+Module 15
+Power and Energy Revisited
+Module 16
+Perspectives
+Lab 1 – EDA Environment introduction
+Lab 2 – Schematic Entry and Circuit Simulation
+Lab 3 – Introduction to Layout Editing using Cadence Virtuoso
+Lab 4 – Extraction and Post-Layout Verification
+Lab 5 – Logic Gates
+Instructional Methodology (Modes of Instruction)
+Modules
+A module is a grouping of topics related to one area of study, typically with readings, lectures and various kinds of assignments. Each module contains a list of Learning Outcomes for the module. Your assignments reflect the learning activities to perform to reach those outcomes.
+Multimedia Lectures
+Recorded lectures support your readings and assignments but also contain additional material that may be included in the exams. Each lecture has been broken into sections. You are expected to take notes while viewing the lectures as you would in a regular classroom.
+Reading Assignments
+Reading assignments include sections of the required textbook, distributed readings, and supplementary notes. Reading assignments are indicated on Module Overview pages, and will also be included in homework assignments where appropriate. Supplementary notes will be provided for topics where lecture coverage is substantially different from the textbook. Students are responsible for all material in the reading. In particular, the scope of coverage for problem sets, quizzes, the design project, and the final examination includes the reading assignments as well as lecture material.
+Software and Labs
+Laboratory exercises are an essential component in getting acquainted with the various design tools used in this class.
+Compute Server Access.
+Most of the tools used in the course will be run on our compute servers.
+Tool manuals and instructions.
+The design tools you will use during the semester has been made available by the EDA major vendors for sole use in this course. They are not to be employed for any other purpose. In addition, all information provided in the form of manuals and tutorials is protected, and should not be shared or disseminated to anyone else.
+Office Hours & Discussion Sessions
+We will use the web conferencing tool Zoom to hold live instructional sessions online. You will be able to ask questions via webcam, microphone, and text chat. You can enter the online classroom through the classroom home page.
+Office hours will be held once a week by both the instructor and graduate course facilitators.
+Discussion sessions are weekly supplementary 1hr live sessions, and will be led by the designated graduate course facilitators. They typically take a more in-depth look at topics covered in the lecture videos.
+Participation
+A major component of the course is the topic discussion questions posed to you each week. These discussions reinforce and expand upon ideas presented in the lectures, as well as present new content beyond those lectures.
+To participate fully in discussions you must:
+Answer the questions asked by the professor for every topic.
+Reflect thoughtfully on your classmates’ responses.
+Quality and quantity participation count in the online discussions. Quantity includes the number of questions which you complete for the week as well as the number of replies you make to other student posts. Quality includes, among other things:
+sharing personal experiences which expand upon the principles discussed
+insightful and constructive critiques of others’ contributions
+integrative comments across activities and/or courses
+questions that assist in reshaping or furthering the conversation
+Course Grade Weighting (Grading)
+Grading Policies
+Course grades will be assigned according to the following tentative grading formula:
+Problem Sets (10%)
+There will be a number of problem sets assigned over the course of the semester, approximately one per week. Electronic versions of your completed problem sets must be turned in online by the due date assigned. Late assignments will not be accepted. Solutions will be posted on the Modules page.
+You are encouraged to discuss problems with other students in the class, the course facilitator and/or the Professor. However, the work which you submit for grading must be your own.
+Labs (10%)
+There will be 5 lab assignments to complete, during the first half of the semester. Use the Lab Information page as your resource for all project materials and information.
+Course Project (20%)
+There will be a course project to complete during the second half of the semester. The project will bring together the skills developed in the labs as well as the topics covered in lecture. The project will be done in 2 phases. Use the Course Project page as your resource for all project materials and information.
+Midterm Exams (30%)
+There will be 2 midterm exams during the semester. The first exam will be held around Week 6, covering Modules 1-4. The second exam will be held around Week 12, covering Modules 5-8. Both will be online, and more information will be provided as we get closer to the dates.
+Final Exam (30%)
+The final exam will be comprehensive, covering all of the material in the course. The exam will be closed book, though notes will be allowed. Students will not be allowed to use a calculator.
+The final exam must be a live, proctored exam. We will provide information by email on how to arrange for your proctored exam session remotely.
+Letter grades will be assigned based approximately on the following scale:
+UC Berkeley Grading System
+Letter Grade
+A
+A-
+B+
+B
+B-
+C+
+C
+C-
+D+
+D
+D-
+F
+Percentage
+100-94
+93-90
+89-86
+85-83
+82-80
+79-76
+75-73
+72-70
+69-66
+65-63
+62-60
+<60
+Required Readings, Supplements, and Materials
+Textbooks
+Required:
+Digital Integrated Circuits 2nd edition ISBN-13: 978-0130909961 ISBN-10: 0130909963 Jan Rabaey, Anantha Chandrakasan and Borivoje Nikolic Prentice Hall 2 2003
+< EECS Online Graduate Specialization Programs
+EECS Online Graduate Specialization Programs >
+View
+Open Faculty Positions

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28443.html
+Heterogeneous Data Models- Part I Semantic Issues | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Heterogeneous Data Models- Part I Semantic Issues
+Heterogeneous Data Models- Part I Semantic Issues
+R.H. Katz and E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/56
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-56.pdf
+BibTeX citation:
+@techreport{Katz:M79/56,
+Author = {Katz, R.H. and Wong, E.},
+Title = {Heterogeneous Data Models- Part I Semantic Issues},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28443.html},
+Number = {UCB/ERL M79/56}
+}
+EndNote citation:
+%0 Report
+%A Katz, R.H.
+%A Wong, E.
+%T Heterogeneous Data Models- Part I Semantic Issues
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/56
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28443.html
+%F Katz:M79/56

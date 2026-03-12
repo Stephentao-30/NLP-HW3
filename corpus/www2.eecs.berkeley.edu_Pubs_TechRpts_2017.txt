@@ -1,0 +1,190 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017
+Technical Reports - 2017
+WAVE: A Decentralized Authorization System for IoT via Blockchain Smart Contracts  (EECS-2017-234) Michael P Andersen, John Kolb, Kaifei Chen, Gabriel Fierro, David E. Culler and Raluca Ada Popa
+Meta Learning for Control  (EECS-2017-233) Rocky Duan
+New Techniques for Continuous Optimization and Fast Algorithms for Flow  (EECS-2017-232) Jonah Sherman
+Uncertain Reward-Transition MDPs for Negotiable Reinforcement Learning  (EECS-2017-231) Nishant Desai
+Adjoint based optimization to enable single mirror optic for extreme ultraviolet lithography  (EECS-2017-229) Greggory Scranton
+Data-efficient Analytics for Optimal Human-Cyber-Physical Systems  (EECS-2017-228) Ming Jin
+Optical Design: from Extreme Ultraviolet Lithography to Thermo-Photovoltaics  (EECS-2017-227) Greggory Scranton
+Human Modeling for Autonomous Vehicles: Reachability Analysis, Online Learning, and Driver Monitoring for Behavior Prediction  (EECS-2017-226) Vijay Govindarajan and Ruzena Bajcsy
+Threat modeling and circumvention of Internet censorship  (EECS-2017-225) David Fifield
+Communication Avoidance for Algorithms with Sparse All-to-all Interactions  (EECS-2017-221) Penporn Koanantakool
+Design of a Lightweight Serial Link Generator for Test Chips  (EECS-2017-220) John Wright
+System Design for Large Scale Machine Learning  (EECS-2017-219) Shivaram Venkataraman
+Towards Automated Online Schema Evolution  (EECS-2017-218) Yu Zhu
+Large-Scale Analysis of Modern Code Review Practices and Software Security in Open Source Software  (EECS-2017-217) Christopher Thompson
+Secure Computing using Certified Software and Trusted Hardware  (EECS-2017-216) Rohit Sinha
+Design and Implementation of an Optionally-Typed Functional Programming Language  (EECS-2017-215) Shaobai Li
+Learning to Synthesize and Manipulate Natural Images  (EECS-2017-214) Jun-Yan Zhu
+Node-Pore Coded Coincidence Correcting Microfluidic Channel Framework: Code Design and Sparse Deconvolution  (EECS-2017-213) Michael Kellman
+On learning Game-Theoretical models with Application to Urban Mobility  (EECS-2017-212) Jerome Thai
+Mechanisms of neural activity exploration and consolidation underlying neuroprosthetic skill learning  (EECS-2017-211) Vivek Athalye
+Emergence of coordinated neural dynamics underlies neuroprosthetic learning and skillful control  (EECS-2017-210) Vivek Athalye
+Towards Improved Mitigations for Two Attacks on Memory Safety  (EECS-2017-209) Thurston Dang, David Wagner and Petros Maniatis
+Electronic-Photonic Co-Design of Silicon Photonic Interconnects  (EECS-2017-208) Sen Lin
+FEA-Assisted Analysis and Gain Optimization of a Micromechanical Resonant Displacement Amplifier  (EECS-2017-207) Gleb Melnikov
+Collaborative, Contact-based Schemas for Robot Righting utilizing Hull Shape Design  (EECS-2017-206) David McPherson
+Dosimetry Dust: An Ultrasonic Backscatter Implantable Dosimetry Device  (EECS-2017-205) Stefanie Garcia
+Scalable Systems and Algorithms for Genomic Variant Analysis  (EECS-2017-204) Frank Nothaft
+Skipping-oriented Data Design for Large-Scale Analytics  (EECS-2017-203) Liwen Sun
+TreeRegex: An Extension to Regular Expressions for Matching and Manipulating Tree-Structured Text (Technical Report)  (EECS-2017-202) Benjamin Mehne
+A Generative Model of Urban Activities from Cellular Data  (EECS-2017-201) Mogeng Yin, Madeleine Sheehan, Sidney Feygin, Jean-Francois Paiement, Alexei Pozdnoukhov and Alexandre Bayen
+Recognizing Functions in Binaries with Neural Networks  (EECS-2017-200) Richard Shin, Dawn Song and Reza Moazzezi
+Learning to Reconstruct 3D Objects  (EECS-2017-199) Abhishek Kar
+Efficient Abstraction and Refinement for Word-level Model Checking  (EECS-2017-198) Yen-Sheng Ho
+DebateCAFE v1.0: Incentivizing Articulation and Consideration of Adversarial Arguments  (EECS-2017-197) Ken Goldberg and Mo Zhou
+Technical Report: Benchmarking and Evaluating Whole Genome Assembly  (EECS-2017-196) Faraz Tavakoli Farahani
+Alternate Representations for Scalable Analysis and Control of Heterogeneous Time Series  (EECS-2017-195) Francois Belletti
+Overcoming Calibration Problems in Pattern Labeling with Pairwise Ratings  (EECS-2017-194) Baiyu Chen, Sergio Escalera, Isabelle Guyon, Victor Ponce-Lopez, Nihar Shah and Marc Oliu Simon
+Demonstration of an Optical Chip-to-Chip Link in a 3D Integrated Electronic-Photonic Platform  (EECS-2017-193) Sen Lin, Krishna Settaluri and Sajjad Moazeni
+Optomechanical Dynamics in Vertical-Cavity Surface-Emitting Lasers  (EECS-2017-192) Adair Gerke
+Three-Dimensional Microwave Imaging for Indoor Environments  (EECS-2017-191) Simon Scott
+Improving Sequential Decision Making in Human-In-The-Loop Systems  (EECS-2017-189) Chi Pang Lam
+Key Challenges in EUV Mask Technology: Actinic Mask Inspection and Mask 3D Effects  (EECS-2017-188) Yow-Gwo Wang
+High Coverage Hint Generation for Massive Courses  (EECS-2017-187) Sumukh Sridhara, Phitchaya Phothilimthana and John DeNero
+Nanomaterials and High-Contrast Metastructures for Integrated Optoelectronics  (EECS-2017-183) Kun Li
+Printed Organic Thin Film Transistors, Photodiodes, and Phototransistors for Sensing and Imaging  (EECS-2017-180) Adrien Pierre
+Inkjet-Printed Microelectromechanical Systems: Materials, Process and Devices  (EECS-2017-179) Muhammed Karim
+OMNI: A Distributed, Modular, Closed-Loop Neuromodulation Device for the Treatment of Neuropsychiatric Disorders  (EECS-2017-178) Ali Moin, Jan M. Rabaey and Elad Alon
+Implantable Beta Radiation Detecting Active Pixel Sensor Design For Prostate Cancer Surveillance  (EECS-2017-177) Leticia Ibarra, Michel Maharbiz and Kristofer Pister
+Wireless Power Monitoring at Plugs and Panels  (EECS-2017-176) Michael Lorek
+CMOS Magnetic Particle Flow Cytometer  (EECS-2017-175) Pramod Murali
+Bio-Inspired Artificial Olfactory System  (EECS-2017-173) Ping-Chen Huang and Jan M. Rabaey
+High-Q MEMS Capacitive-Gap Resonators for RF Channel Selection  (EECS-2017-172) Lingqi Wu
+A Micromechanical Frequency-Selective Power Amplifier  (EECS-2017-171) Clark Nguyen and Wei-chang Li
+Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition  (EECS-2017-169) Suman Ravuri
+Three-Dimensional Inkjet-Printed Metal Nanoparticles: Ink and Application Development  (EECS-2017-168) Jake Sadie
+Harmonic syntax and high-level statistics of the songs of three early Classical composers  (EECS-2017-167) Wendy de Heer
+Serving CS Formative Feedback on Assessments Using Simple and Practical Teacher-Bootstrapped Error Models  (EECS-2017-166) Kristin Stephens-Martinez
+Compositional Falsification of Cyber-Physical Systems with Machine Learning Components  (EECS-2017-165) Tommaso Dreossi, Alexandre Donze and Sanjit A. Seshia
+Compositional Verification without Compositional Specification for Learning-Based Systems  (EECS-2017-164) Sanjit A. Seshia
+Recursive SDN for Carrier Networks  (EECS-2017-162) James McCauley, Zhi Liu, Aurojit Panda, Teemu Koponen, Barath Raghavan, Jennifer Rexford and Scott Shenker
+Gradient-Domain Vertex Connection and Merging  (EECS-2017-161) Weilun Sun
+Modelling Optical Devices and Systems in MAPP  (EECS-2017-160) Tianshi Wang and Jaijeet Roychowdhury
+A Berkeley View of Systems Challenges for AI  (EECS-2017-159) Ion Stoica, Dawn Song, Raluca Ada Popa, David A. Patterson, Michael W. Mahoney, Randy H. Katz, Anthony D. Joseph, Michael Jordan, Joseph M. Hellerstein, Joseph Gonzalez, Ken Goldberg, Ali Ghodsi, David E. Culler and Pieter Abbeel
+Architecting for Performance Clarity in Data Analytics Frameworks  (EECS-2017-158) Kay Ousterhout
+BOOM v2: an open-source out-of-order RISC-V core  (EECS-2017-157) Christopher Celio, Pi-Feng Chiu, Borivoje Nikolic, David A. Patterson and Krste Asanović
+Scaling SGD Batch Size to 32K for ImageNet Training  (EECS-2017-156) Yang You, Igor Gitman and Boris Ginsburg
+Deep Factor Graphs for Bayesian Prediction of High-Dimensional Games  (EECS-2017-151) Alon Daks
+Reasoning about High-Level Constructs in Hardware/Software Formal Verification  (EECS-2017-150) Jiang Long
+Motion Planning of the Sit to Stand Movement for Powered Lower Limb Orthoses  (EECS-2017-148) Octavio Narvaez-Aroche, Andrew Packard and Murat Arcak
+Scalable, Gravure-Printed Transparent Electronics: Materials and Process Design for Metal Oxide Thin-Film Transistors  (EECS-2017-147) Will Scheideler
+Hardness of Approximation Between P and NP  (EECS-2017-146) Aviad Rubinstein
+Towards Predictive Medicine — On Remote Monitoring, Privacy and Scientific Bias  (EECS-2017-145) Daniel Aranki
+Integrated Nanoscale Antenna-LED for On-Chip Optical Communication  (EECS-2017-144) Seth Fortuna
+Safe and Interactive Autonomy: Control, Learning, and Verification  (EECS-2017-143) Dorsa Sadigh
+Towards Cooperative SLAM for Low-Cost Biomimetic Robots  (EECS-2017-142) Austin Buchan
+A New Approach to Network Function Virtualization  (EECS-2017-141) Aurojit Panda
+System-Aware Optimization for Machine Learning at Scale  (EECS-2017-140) Virginia Smith
+Securing the Internet of Things via Locally Centralized, Globally Distributed Authentication and Authorization  (EECS-2017-139) Hokeun Kim
+Parallel Machine Learning Using Concurrency Control  (EECS-2017-138) Xinghao Pan
+Understanding Data Analysis Activity via Log Analysis  (EECS-2017-137) Sara Alspaugh
+A JavaScript Extension Providing Deterministic Temporal Semantics for the Internet of Things  (EECS-2017-136) Chadlia Jerad and Edward A. Lee
+Optimal Control for Learning with Applications in Dynamic MRI  (EECS-2017-135) John Maidens
+High-Performance Systems for Crowdsourced Data Analysis  (EECS-2017-134) Daniel Haas
+Learning From People  (EECS-2017-133) Nihar Shah
+High Dimensional Reachability Analysis: Addressing the Curse of Dimensionality in Formal Verification  (EECS-2017-132) Mo Chen
+The Mezuri Data Provenance Management Platform  (EECS-2017-131) Dibyo Majumdar
+Random Matrices and the Sum-of-Squares Hierarchy  (EECS-2017-129) Tselil Schramm
+Quantum Transport and Phase-Field Modeling for Next-Generation Logic Devices  (EECS-2017-128) Samuel Smith
+Fast Approximation Algorithms for Positive Linear Programs  (EECS-2017-126) Di Wang
+Study of Line Edge Roughness and Interactions of Secondary Electrons in Photoresists for EUV Lithography  (EECS-2017-125) Suchit Bhattarai
+A Compiler and Verifier for Page Access Oblivious Computation  (EECS-2017-124) Rohit Sinha, Sriram Rajamani and Sanjit A. Seshia
+Significance of Disk Failure Prediction in Datacenters  (EECS-2017-123) Jayanta Basak and Randy H. Katz
+Verification and Synthesis of Clock-Gated Circuits  (EECS-2017-122) Yu-Yun Dai
+High-Frequency Clock Distribution Methods in Digital Integrated Circuits  (EECS-2017-116) Sajjad Moazeni
+SKYE: Motion Detection & Tracking with SEJITS  (EECS-2017-115) Mihir Patil
+Modular Toroids Constructed from Nonahedra  (EECS-2017-114) Carlo H. Séquin, Yifat Amir, Ruta Jawale, Hong Jeon, Alex Romano and Rohan Taori
+The BDD-Nexar Collective: A Large-Scale, Crowsourced, Dataset of Driving Scenes  (EECS-2017-113) Vashisht Madhavan and Trevor Darrell
+Spectrum Access System: Design and Implementation of the Decision-Feedback Equalizer in Software  (EECS-2017-112) Heyi Sun
+Arx: A DBMS with Semantically Secure Encryption  (EECS-2017-111) Rishabh Poddar, Tobias Boelter and Raluca Ada Popa
+Solving the Cox Proportional Hazards Model and Its Applications  (EECS-2017-110) Jessica Ko
+Using Adaptive and Cooperative Adaptive Cruise Control to Maximize Throughput of Signalized Arterials  (EECS-2017-109) Daniel Albarnaz Farias
+A Multiplying Delay-Locked Loop For A Self-Adjustable Clock Generator  (EECS-2017-108) Gary Choi
+Manipulation-resistant online learning  (EECS-2017-107) Paul Christiano
+Transferrable Representations for Visual Recognition  (EECS-2017-106) Jeffrey Donahue
+Solving Minimum Energy Structures with Neural Networks  (EECS-2017-104) Brian Barch and Norman Tubman
+Algorithms and Applications of the Vision Correcting Display  (EECS-2017-103) Charles Ding
+First Order Driving Simulator  (EECS-2017-102) Wesley Hsieh
+Models of Competition for Intelligent Transportation Infrastructure: Parking, Ridesharing, and External Factors in Routing Decisions  (EECS-2017-101) Daniel Calderone
+Privacy-Aware Remote Mobile Health and Fitness Monitoring  (EECS-2017-100) Yu Xiao, Caitlin Gruis and Kaidi Du
+BIDViz: Real-time Monitoring and Debugging of Machine Learning Training Processes  (EECS-2017-99) Han Qi, Jingqiu Liu, Xuan Zou and Allen Tang
+Privacy-Aware Remote Mobile Health and Fitness Monitoring  (EECS-2017-98) Caitlin Gruis and Kaidi Du
+Supporting Asynchronous Interactive Visualization for Exploratory Data Analysis  (EECS-2017-97) Larry Xu
+Vision Correcting Display - Master of Engineering Capstone Final Report  (EECS-2017-96) Sijia Teng, Jia Zeng and Vivek Claver
+Efficient Sequential Decision Making  (EECS-2017-94) Alan Malek
+Vision Correcting Display M.Eng Capstone Report  (EECS-2017-93) Jia Zeng, Sijia Teng and Vivek Claver
+Model-Based Design of a Satellite with Orthogonal Spinning Sensors  (EECS-2017-92) Jonathan Shum
+BPSK Demodulation for RF Applications  (EECS-2017-91) Yu-Ting Toh
+gNUFFTW: Auto-Tuning for High-Performance GPU-Accelerated Non-Uniform Fast Fourier Transforms  (EECS-2017-90) Teresa Ou
+Algorithmic Mechanism Design in Dynamic Environments  (EECS-2017-89) Christos-Alexandros Psomas
+Spectrum Access System: Comparison of Different Equalizers  (EECS-2017-87) Anant Sahai, John Wawrzynek and Felicity Zhao
+9AGNR Local Back-gate Graphene Nanoribbon Short-field Transistors  (EECS-2017-86) Robert Lear
+Understanding Deep Learning Through Visualization  (EECS-2017-85) Jingqiu Liu
+Understanding Deep Learning Through Visualization  (EECS-2017-84) Xuan Zou
+Spectrum Access System: Design and Implementation of the Decision-Feedback Equalizer in Hardware  (EECS-2017-83) Ci Chen
+Distributed Visualization for Genomic Analysis  (EECS-2017-82) Alyssa Morrow
+Adversarial Examples for Visual Decompilers  (EECS-2017-81) James Wei
+Shaping Model-Free Reinforcement Learning with Model-Based Pseudorewards  (EECS-2017-80) Paul Krueger, Thomas Griffiths and Stuart J. Russell
+Controls for Assistive Robots  (EECS-2017-79) Guangzheng Zang
+Breaking Active-Set Backward-Edge Control-Flow Integrity  (EECS-2017-78) Michael Theodorides
+PLSI: A Portable VLSI Flow  (EECS-2017-77) Daniel Dabbelt
+User Interface and Data Visualization for Environmental Assessment  (EECS-2017-75) Caroline Chen
+Scaling Up Deep Learning on Clusters  (EECS-2017-74) Quanlai Li
+An Integrated Multilevel Converter with Sigma Delta Control for LED Lighting  (EECS-2017-73) Daniel Gerber
+High Speed Data Link  (EECS-2017-72) Vladimir Stojanovic and liheng zhu
+Understanding the Enhanced Mobility of Solution-Processed Metal-Oxide Thin-Film Transistors Having High-k Gate Dielectrics  (EECS-2017-70) Andre Zeumault
+Modern High-Speed Link Design  (EECS-2017-69) Jeremie David
+Predicting Pad Patents  (EECS-2017-66) Tzuo Shuin Yew
+Spectrum Access System: Design and Implementation of the Decision-Feedback Equalizer in Software  (EECS-2017-65) Heyi Sun
+Predicting Bad Patents  (EECS-2017-63) William Ho
+Goal-Driven Dynamics Learning via Bayesian Optimization  (EECS-2017-62) Teddey Xiao
+Predicting Bad Patents: Employing Machine Learning to Predict Post-Grant Review Outcomes for US Patents  (EECS-2017-60) David Winer
+Scaling Up Deep Learning on Clusters  (EECS-2017-59) Jiaqi Xie
+Predicting Bad Patents  (EECS-2017-57) Joong Hwa Lee
+Exploring a New IoT Infrastructure  (EECS-2017-56) Paul Bramsen, Sam Kumar, Andrew Chen and Dibyo Majumdar
+Flexible Integrated Architectures for Frequency Division Duplex Communication  (EECS-2017-55) Lucas Calderin
+Scaling Up Deep Learning on Clusters  (EECS-2017-54) Aleks Kamko
+Design of Z-Source Inverter for Electric Bikes  (EECS-2017-53) Wencong Zhang
+New Data Markets Deriving from the Internet of Things: A Societal Perspective on the Design of New Service Models  (EECS-2017-52) Roy Dong
+Self-Supervision for Reinforcement Learning  (EECS-2017-51) Parsa Mahmoudieh
+Beyond Photo-Consistency: Shape, Reflectance, and Material Estimation Using Light-Field Cameras  (EECS-2017-50) Ting-Chun Wang
+Fitting Nonconvex Biomechanics Energy Functions  (EECS-2017-46) Ahmed Bakhaty
+Baseline Building Power Estimation  (EECS-2017-45) Sumedh Bhattacharya
+TurtleGuard: Helping Android Users Apply Contextual Privacy Preferences  (EECS-2017-44) Lynn Tsai, Primal Wijesekera, Joel Reardon, Irwin Reyes, Jung-Wei Chen, Nathan Good, Serge Egelman and David Wagner
+User Interface and Data Visualization for Environmental Assessment  (EECS-2017-43) Jonya Chen
+A miniaturized bioelectronic sensing system featuring portable microbial reactors for environmental deployment  (EECS-2017-42) Alyssa Zhou
+Tools for Trustworthy Autonomy: Robust Predictions, Intuitive Control, and Optimized Interaction  (EECS-2017-41) Katherine Driggs Campbell
+EchoBot: Facilitating Data Collection for Robot Learning with the Amazon Echo  (EECS-2017-40) Rishi Kapadia
+Statistical Learning for Sparse Sensing and Agile Operation  (EECS-2017-39) Yuxun Zhou
+Polynomial Proof Systems, Effective Derivations, and their Applications in the Sum-of-Squares Hierarchy  (EECS-2017-38) Benjamin Weitz
+Implementing Efficient, Portable Computations for Machine Learning  (EECS-2017-37) Matthew Walter Moskewicz
+Privacy-Aware Remote Mobile Health and Fitness Monitoring: Extending the Functionality of The Berkeley Telemonitoring Framework  (EECS-2017-36) Kaidi Du
+Autoregressive Linear Thermal Model of a Residential Forced-Air Heating System with Backpropagation Parameter Estimation Algorithm  (EECS-2017-28) Eric Burger, Scott Moura and David E. Culler
+Rodent Wearable Ultrasound Interrogation System for Wireless Neural Recording  (EECS-2017-27) Joshua Kay
+Implementation and Characterization of a Multi-hop 6TiSCH Network for Experimental Feedback Control of an Inverted Pendulum  (EECS-2017-26) Craig Schindler, Thomas Watteyne, Xavier Vilajosana and Kristofer Pister
+Cooperative Inchworm Localization with a Low Cost Heterogeneous Team  (EECS-2017-25) Brian Nemsick
+Design of Integrated Full-Duplex Wireless Transceivers  (EECS-2017-24) Sameet Ramakrishnan and Borivoje Nikolic
+A 40Gb/s PAM4 Transmitter based on a Ring-resonator Optical DAC  (EECS-2017-23) Sajjad Moazeni and Vladimir Stojanovic
+Electro-Mechanical Devices for Ultra-Low-Power Electronics  (EECS-2017-21) Chuang Qian
+Optimizing Nanophotonics: from Photoreceivers to Waveguides  (EECS-2017-20) Christopher Lalau Keraly
+Printed and Flexible Systems for Solar Energy Harvesting  (EECS-2017-19) Aminy Ostfeld
+MiBao: A Video Processing Middlebox  (EECS-2017-18) Siyuan He
+Gravure-printed electronics: Devices, technology development and design  (EECS-2017-17) Gerd Grau
+A Framework for Computing the Stability of Human Motion  (EECS-2017-16) Victor Shia
+Interface Electronics for Ultrasonic Transducers  (EECS-2017-15) Hao-Yen Tang
+Capacitive-Gap MEMS Resonator-Based Oscillator Systems for Low-Power Signal Processing  (EECS-2017-14) Thura Lin Naing
+Reliability Studies of Micro-Relays for Digital Logic Applications  (EECS-2017-13) Yenhao Chen
+High Contrast Metastructures on Silicon for Optoelectronic Devices  (EECS-2017-12) James Ferrara
+RF Transmitter Design for Large Array Applications  (EECS-2017-11) Pengpeng Lu and Elad Alon
+Design Techniques for Ultra-High-Speed Time-Interleaved Analog-to-Digital Converters (ADCs)  (EECS-2017-10) Yida Duan
+Advanced High-Frequency Measurement Techniques for Electrical and Biological Characterization in CMOS  (EECS-2017-9) Jun-Chau Chien and Ali Niknejad
+III-V Nanolaser Integration with CMOS Electronics and Silicon Photonics  (EECS-2017-8) Fanglu Lu
+A Secure One-Roundtrip Index for Range Queries  (EECS-2017-7) Tobias Boelter, Rishabh Poddar and Raluca Ada Popa
+Hybrid Co-simulation: It's About Time  (EECS-2017-6) Fabio Cremona, Marten Lohstroh, David Broman, Stavros Tripakis, Edward A. Lee and Michael Masin
+Gordian SMT: Untangling Ranging Attacks in Noisy Sensor Networks for Secure Localization  (EECS-2017-5) Matthew Weber, Baihong Jin, Gil Lederman, Yasser Shoukry, Edward A. Lee, Sanjit A. Seshia and Alberto L. Sangiovanni-Vincentelli
+Chip-scale Lidar  (EECS-2017-4) Behnam Behroozpour Baghmisheh
+Imputing a Variational Inequality Function or a Convex Objective Function: a Robust Approach  (EECS-2017-3) Jerome Thai
+Hardware Acceleration for Memory to Memory Copies  (EECS-2017-2) Howard Mao
+Virtual Walkthrough of 3D Captured Scenes in Web-based Virtual Reality  (EECS-2017-1) Austin Chen

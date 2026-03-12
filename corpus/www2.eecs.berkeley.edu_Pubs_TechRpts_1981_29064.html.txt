@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29064.html
+On Synonymy, Antonymy, and Negotiations
+S.V. Ovchinnikov
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/63
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-63.pdf
+BibTeX citation:
+@techreport{Ovchinnikov:M81/63,
+Author= {Ovchinnikov, S.V.},
+Title= {On Synonymy, Antonymy, and Negotiations},
+Year= {1981},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29064.html},
+Number= {UCB/ERL M81/63},
+}
+EndNote citation:
+%0 Report
+%A Ovchinnikov, S.V.
+%T On Synonymy, Antonymy, and Negotiations
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29064.html
+%F Ovchinnikov:M81/63

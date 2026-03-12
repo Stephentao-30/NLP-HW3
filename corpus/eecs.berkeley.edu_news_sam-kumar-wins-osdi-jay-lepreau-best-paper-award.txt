@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/sam-kumar-wins-osdi-jay-lepreau-best-paper-award
+Sam Kumar wins OSDI Jay Lepreau Best Paper Award - EECS at Berkeley
+CS graduate student Sam Kumar (advisors: David Culler and Raluca Ada Popa) has won the Jay Lepreau Best Paper Award at the 15th USENIX Symposium on Operating Systems Design and Implementation (OSDI) for “MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation.”   The OSDI, which brings together “professionals from academic and industrial backgrounds in a premier forum for discussing the design, implementation, and implications of systems software,” selects three best papers each year after a double-blind review.  Co-authored by Prof. David Culler and Associate Prof. Raluca Ada Popa, the paper introduces an execution engine for secure computation that efficiently runs computations that do not fit in memory.  It demonstrates that in many cases, one can run secure computations that do not fit in memory at nearly the same speed as if the underlying machines had unbounded physical memory to fit the entire computation.  Kumar works in the Buildings, Energy, and Transportation Systems (BETS) research group in the RISE Lab.
+Categories
+Honors
+publications
+Research
+Students
+View
+Open Faculty Positions

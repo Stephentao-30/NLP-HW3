@@ -1,0 +1,719 @@
+URL: https://people.eecs.berkeley.edu/~aydin/publications.html
+Publications of Aydın Buluç
+Aydın Buluç
+Publications
+[ 1 ]
+Alok Tripathy, Katherine Yelick, and Aydin Buluç.
+Reducing communication in graph neural network training.
+In  Proceedings of the 2020 ACM/IEEE International Conference for
+High Performance Computing, Networking, Storage and Analysis , SC'20, 2020.
+[  bib  |
+code  |
+arXiv  ]
+[ 2 ]
+Oguz Selvitopi, Saliya Ekanayake, Giulia Guidi, Georgios Pavlopoulos, Ariful
+Azad, and Aydin Buluç.
+Distributed many-to-many protein sequence alignment using sparse
+matrices.
+In  Proceedings of the 2020 ACM/IEEE International Conference for
+High Performance Computing, Networking, Storage and Analysis , SC'20, 2020.
+[  bib  |
+code  |
+.pdf  ]
+[ 3 ]
+Ariful Azad, Aydin Buluç, Xiaoye S Li, Xinliang Wang, and Johannes
+Langguth.
+A distributed-memory algorithm for computing a heavy-weight perfect
+matching on bipartite graphs.
+SIAM Journal on Scientific Computing , 42(4):C143-C168, 2020.
+[  bib  |
+DOI  |
+arXiv  |
+.pdf  ]
+[ 4 ]
+Steven Hofmeyr, Rob Egan, Evangelos Georganas, C Alex Copeland, Robert Riley,
+Alicia Clum, Emiley Eloe-Fadrosh, Simon Roux, Eugene Goltsman, Aydin
+Buluç, Daniel Rokhsar, Leonid Oliker, and Katherine Yelick.
+Terabase-scale metagenome coassembly with MetaHipMer.
+Scientific reports , 2020.
+[  bib  |
+DOI  ]
+[ 5 ]
+Yongzhe Zhang, Ariful Azad, and Aydin Buluç.
+Parallel algorithms for finding connected components using linear
+algebra.
+Journal of Parallel and Distributed Computing , 2020.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 6 ]
+Yu-Hang Tang, Oguz Selvitopi, Doru Popovici, and Aydin Buluç.
+A high-throughput solver for marginalized graph kernels on GPU.
+In  Proceedings of the IPDPS , 2020.
+[  bib  |
+arXiv  |
+.pdf  ]
+[ 7 ]
+Oguz Selvitopi, Md Taufique Hussain, Ariful Azad, and Aydin Buluç.
+Optimizing high performance Markov clustering for pre-exascale
+architectures.
+In  Proceedings of the IPDPS , 2020.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 8 ]
+Alberto Zeni, Giulia Guidi, Marquita Ellis, Nan Ding, Marco D. Santambrogio,
+Steven Hofmeyr, Aydin Buluç, Leonid Oliker, and Katherine Yelick.
+LOGAN: High-performance GPU-based x-drop long-read alignment.
+In  Proceedings of the IPDPS , 2020.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 9 ]
+Katherine Yelick, Aydin Buluç, Muaaz Awan, Ariful Azad, Benjamin
+Brock, Rob Egan, Saliya Ekanayake, Marquita Ellis, Evangelos Georganas,
+Giulia Guidi, et al.
+The parallelism motifs of genomic data analysis.
+Philosophical Transactions of the Royal Society A ,
+378(2166):20190394, 2020.
+[  bib  |
+DOI  |
+arXiv  ]
+[ 10 ]
+Francesco Peverelli, Lorenzo Di Tucci, Marco D. Santambrogio, Nan Ding, Steven
+Hofmeyr, Aydin Buluç, Leonid Oliker, and Katherine Yelick.
+GPU accelerated partial order multiple sequence alignment for long
+reads self-correction.
+In  IEEE International Workshop on High Performance Computational
+Biology (HiCOMB) , 2020.
+[  bib  |
+code  |
+bioRxiv  |
+.pdf  ]
+[ 11 ]
+Benjamin Brock, Aydin Buluç, Timothy Mattson, Scott McMillan, José
+Moreira, Roger Pearce, Oguz Selvitopi, and Trevor Steil.
+Considerations for a distributed GraphBLAS API.
+In  GrAPL: Workshop on Graphs, Architectures, Programming, and
+Learning (IPDPSW) , 2020.
+[  bib  |
+.pdf  ]
+[ 12 ]
+Benjamin Brock, Aydin Buluç, Timothy Mattson, Scott McMillan, and
+José Moreira.
+A roadmap for the GraphBLAS C++ API.
+In  GrAPL: Workshop on Graphs, Architectures, Programming, and
+Learning (IPDPSW) , 2020.
+[  bib  |
+.pdf  ]
+[ 13 ]
+Carl Yang, Aydin Buluç, and John D. Owens.
+GraphBLAST: A high-performance linear algebra-based graph framework
+on the GPU.
+arXiv preprint , 2019.
+[  bib  |
+arXiv  ]
+[ 14 ]
+Yusuke Nagasaka, Satoshi Matsuoka, Ariful Azad, and Aydin Buluç.
+Performance optimization, modeling and analysis of sparse
+matrix-matrix products on multi-core and many-core processors.
+Parallel Computing , 90:102545, 2019.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 15 ]
+Benjamin Brock, Yuxin Chen, Jiakun Yan, John D. Owens, Aydin Buluç,
+and Katherine Yelick.
+RDMA vs. RPC for implementing distributed data structures.
+In  IEEE/ACM 9th Workshop on Irregular Applications:
+Architectures and Algorithms (IA3) , 2019.
+[  bib  |
+arXiv  ]
+[ 16 ]
+Ben Brock, Aydin Buluç, and Katherine Yelick.
+BCL: A cross-platform distributed data structures library.
+In  48th International Conference on Parallel Processing (ICPP) ,
+Kyoto, Japan, 2019.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 17 ]
+Marquita Ellis, Giulia Guidi, Aydin Buluç, Leonid Oliker, and Katherine
+Yelick.
+diBELLA: Distributed long read to long read alignment.
+In  48th International Conference on Parallel Processing (ICPP) ,
+Kyoto, Japan, 2019.
+[  bib  |
+arXiv  |
+.pdf  ]
+[ 18 ]
+Santosh Pandey, Xiaoye Sherry Li, Aydin Buluç, Jiejun Xu, and Hang Liu.
+H-INDEX: Hash-indexing for parallel triangle counting on GPUs.
+In  IEEE High Performance Extreme Computing Conference (HPEC) ,
+pages 1-7. IEEE, 2019.
+[  bib  |
+.pdf  ]
+[ 19 ]
+Timothy Mattson, Timothy A. Davis, Manoj Kumar, Aydin Buluç, Scott
+McMillan, José Moreira, and Carl Yang.
+LAGraph: A community effort to collect graph algorithms built on
+top of the GraphBLAS.
+In  GrAPL: Workshop on Graphs, Architectures, Programming, and
+Learning (IPDPSW) , 2019.
+[  bib  |
+.pdf  ]
+[ 20 ]
+Muhammad Osama, Minh Truong, Carl Yang, Aydin Buluç, and John D Owens.
+Graph coloring on the GPU.
+In  GrAPL: Workshop on Graphs, Architectures, Programming, and
+Learning (IPDPSW) , 2019.
+[  bib  |
+.pdf  ]
+[ 21 ]
+Ariful Azad and Aydin Buluç.
+LACC: a linear-algebraic algorithm for finding connected components
+in distributed memory.
+In  Proceedings of the IPDPS , 2019.
+[  bib  |
+code  |
+.pdf  ]
+[ 22 ]
+Giulia Guidi, Marquita Ellis, Daniel Rokhsar, Katherine Yelick, and Aydin
+Buluç.
+BELLA: Berkeley efficient long-read to long-read aligner and
+overlapper.
+bioRxiv , page 464420, 2019.
+[  bib  |
+code  |
+bioRxiv  |
+.pdf  ]
+[ 23 ]
+Evangelos Georganas, Rob Egan, Steven Hofmeyr, Eugene Goltsman, Bill Arndt,
+Andrew Tritt, Aydin Buluç, Leonid Oliker, and Katherine Yelick.
+Extreme scale de novo metagenome assembly.
+In  Proceedings of the International Conference for High
+Performance Computing, Networking, Storage, and Analysis (SC) , page 10. IEEE
+Press, 2018.
+Best Paper Nominee.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 24 ]
+Amir Gholami, Ariful Azad, Peter Jin, Kurt Keutzer, and Aydin Buluç.
+Integrated model, batch, and domain parallelism in training neural
+networks.
+In  SPAA'18: 30th ACM Symposium on Parallelism in Algorithms and
+Architectures , 2018.
+[  bib  |
+arXiv  |
+.pdf  ]
+[ 25 ]
+Carl Yang, Aydin Buluç, and John D Owens.
+Implementing push-pull efficiently in GraphBLAS.
+In  47th International Conference on Parallel Processing (ICPP) ,
+2018.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 26 ]
+Carl Yang, Aydin Buluç, and John D Owens.
+Design principles for sparse matrix multiplication on the GPU.
+In  24th International European Conference on Parallel and
+Distributed Computing (Euro-Par) , 2018.
+Distinguished Paper and Best Artifact Award.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 27 ]
+Yusuke Nagasaka, Satoshi Matsuoka, Ariful Azad, and Aydin Buluc.
+High-performance sparse matrix-matrix products on Intel KNL and
+multicore architectures.
+In  47th International Conference on Parallel Processing
+Workshops (ICPPW) , 2018.
+[  bib  |
+code  |
+arXiv  |
+.pdf  ]
+[ 28 ]
+Ariful Azad, Georgios A. Pavlopoulos, Christos A. Ouzounis, Nikos C. Kyrpides,
+and Aydin Buluç.
+HipMCL: A high-performance parallel implementation of the Markov
+clustering algorithm for large-scale networks.
+Nucleic Acids Research (NAR) , 2018.
+[  bib  |
+DOI  |
+code  ]
+[ 29 ]
+Penporn Koanantakool, Alnur Ali, Ariful Azad, Aydin Buluç, Dmitriy
+Morozov, Sang-Yun Oh, Leonid Oliker, and Katherine Yelick.
+Communication-avoiding optimization methods for distributed
+massive-scale sparse inverse covariance estimation.
+In  The 21st International Conference on Artificial Intelligence
+and Statistics (AISTATS) , 2018.
+[  bib  |
+code  |
+.pdf  ]
+[ 30 ]
+Yang You, Aydin Buluç, and James Demmel.
+Scaling deep learning on GPU and Knights Landing clusters.
+In  Proceedings of the International Conference for High
+Performance Computing, Networking, Storage and Analysis (SC'17) , 2017.
+[  bib  |
+DOI  |
+code  |
+.pdf  ]
+[ 31 ]
+Ariful Azad and Aydin Buluç.
+A work-efficient parallel sparse matrix-sparse vector multiplication
+algorithm.
+In  Proceedings of the IPDPS , 2017.
+[  bib  |
+code  |
+.pdf  ]
+[ 32 ]
+Aydin Buluç, Timothy Mattson, Scott McMillan, Jose Moreira, and Carl
+Yang.
+Design of the GraphBLAS API for C.
+In  IEEE Workshop on Graph Algorithm Building Blocks, IPDPSW ,
+2017.
+[  bib  |
+.pdf  ]
+[ 33 ]
+Ariful Azad, Mathias Jacquelin, Aydin Buluç, and Esmond G. Ng.
+The reverse Cuthill-McKee algorithm in distributed-memory.
+In  Proceedings of the IPDPS , 2017.
+[  bib  |
+code  |
+.pdf  ]
+[ 34 ]
+Marquita Ellis, Evangelos Georganas, Rob Egan, Steven Hofmeyr, Aydin
+Buluç, Brandon Cook, Leonid Oliker, and Katherine Yelick.
+Performance characterization of de novo genome assembly on leading
+parallel systems.
+In  Europar - International European Conference on Parallel and
+Distributed Computing , 2017.
+[  bib  |
+.pdf  ]
+[ 35 ]
+Ariful Azad and Aydin Buluç.
+Towards a GraphBLAS library in Chapel.
+In  Intl. Parallel & Distributed Processing Symposium Workshops
+(IPDPSW) , 2017.
+[  bib  |
+.pdf  ]
+[ 36 ]
+Ariful Azad, Aydin Buluç, and Alex Pothen.
+Computing maximum cardinality matchings in parallel on bipartite
+graphs via tree-grafting.
+IEEE Transactions on Parallel and Distributed Systems (TPDS)) ,
+28(1):44-59, 2017.
+[  bib  |
+DOI  |
+code  |
+.pdf  ]
+[ 37 ]
+Timothy G Mattson, Carl Yang, Scott McMillan, Aydin Buluç, and José E
+Moreira.
+GraphBLAS C API: Ideas for future versions of the specification.
+In  IEEE High Performance Extreme Computing Conference (HPEC) ,
+2017.
+[  bib  |
+.pdf  ]
+[ 38 ]
+Hasan Metin Aktulga, Md. Afibuzzaman, Samuel Williams, Aydin Buluç,
+Meiyue Shao, Chao Yang, Esmond G. Ng, Pieter Maris, and James P. Vary.
+A high performance block eigensolver for nuclear configuration
+interaction calculations.
+IEEE Transactions on Parallel and Distributed Systems (TPDS)) ,
+2017.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 39 ]
+Evangelos Georganas, Marquita Ellis, Rob Egan, Steven Hofmeyr, Aydin
+Buluç, Brandon Cook, Leonid Oliker, and Katherine Yelick.
+MerBench: PGAS benchmarks for high performance genome assembly.
+In  Proceedings of the Second Annual PGAS Applications Workshop ,
+page 5. ACM, 2017.
+[  bib  |
+.pdf  ]
+[ 40 ]
+Evangelos Georganas, Steven Hofmeyr, Rob Egan, Aydin Buluc, Leonid Oliker,
+Daniel Rokhsar, and Katherine Yelick.
+Extreme-scale de novo genome assembly.
+2017.
+To appear as a chapter in Exascale Scientific Applications:
+Programming Approaches for Scalability, Performance, and Portability (CRC
+Press).
+[  bib  |
+arXiv  ]
+[ 41 ]
+Ariful Azad, Grey Ballard, Aydin Buluç, James Demmel, Laura Grigori,
+Oded Schwartz, Sivan Toledo, and Samuel Williams.
+Exploiting multiple levels of parallelism in sparse matrix-matrix
+multiplication.
+SIAM Journal on Scientific Computing (SISC) , 38(6):C624-C651,
+2016.
+[  bib  |
+DOI  |
+code  |
+arXiv  |
+.pdf  ]
+[ 42 ]
+Ariful Azad and Aydin Buluç.
+A matrix-algebraic formulation of distributed-memory maximal
+cardinality matching algorithms in bipartite graphs.
+Parallel Computing , 2016.
+[  bib  |
+DOI  |
+code  ]
+[ 43 ]
+Ariful Azad and Aydin Buluç.
+Distributed-memory algorithms for maximum cardinality matching in
+bipartite graphs.
+In  Proceedings of the IPDPS . IEEE, 2016.
+[  bib  |
+code  |
+.pdf  ]
+[ 44 ]
+Penporn Koanantakool, Ariful Azad, Aydin Buluç, Dmitriy Morozov,
+Sang-Yun Oh, Leonid Oliker, and Katherine Yelick.
+Communication-avoiding parallel sparse-dense matrix-matrix
+multiplication.
+In  Proceedings of the IPDPS , 2016.
+[  bib  |
+.pdf  ]
+[ 45 ]
+Veronika Strnadova-Neeley, Aydin Buluc, John R Gilbert, Leonid Oliker, and
+Weimin Ouyang.
+LiRa: A new likelihood-based similarity score for collaborative
+filtering.
+arXiv preprint arXiv:1608.08646 , 2016.
+[  bib  |
+arXiv  ]
+[ 46 ]
+Jeremy Kepner, Peter Aaltonen, David Bader, Aydin Buluç, Franz
+Franchetti, John Gilbert, Dylan Hutchison, Manoj Kumar, Andrew Lumsdaine,
+Henning Meyerhenke, Scott McMillan, José Moreira, John Owens, Carl Yang,
+Marcin Zalewski, and Timothy Mattson.
+Mathematical foundations of the GraphBLAS.
+In  IEEE High Performance Extreme Computing (HPEC) , 2016.
+[  bib  |
+.pdf  ]
+[ 47 ]
+Aydin Buluç, Henning Meyerhenke, Ilya Safro, Peter Sanders, and
+Christian Schulz.
+Recent advances in graph partitioning.
+In  Algorithm Engineering - Selected Results and Surveys , volume
+9220. Lecture Notes in Computer Science, 2016.
+[  bib  |
+DOI  |
+arXiv  ]
+[ 48 ]
+Ariful Azad and Aydin Buluç.
+Distributed-memory algorithms for maximal cardinality matching using
+matrix algebra.
+In  IEEE International Conference on Cluster Computing
+(CLUSTER) , 2015.
+(full paper).
+[  bib  |
+.pdf  ]
+[ 49 ]
+Evangelos Georganas, Aydin Buluç, Jarrod Chapman, Steven Hofmeyr,
+Chaitanya Aluru, Rob Egan, Leonid Oliker, Daniel Rokhsar, and Katherine
+Yelick.
+HipMer: An extreme-scale de novo genome assembler.
+In  International Conference for High Performance Computing,
+Networking, Storage and Analysis (SC'15) , 2015.
+[  bib  |
+.pdf  ]
+[ 50 ]
+Veronika Strnadova-Neeley, Aydin Buluç, Joseph Gonzalez, Jarrod Chapman,
+John Gilbert, and Leonid Oliker.
+Efficient data reduction for large-scale genetic mapping.
+In  ACM Conference on Bioinformatics, Computational Biology, and
+Health Informatics (ACM BCB) , 2015.
+[  bib  |
+.pdf  ]
+[ 51 ]
+Aydin Buluç, Scott Beamer, Kamesh Madduri, Krste Asanović, and David
+Patterson.
+Distributed-memory breadth-first search on massive graphs.
+In D. Bader, editor,  Parallel Graph Algorithms . CRC Press,
+Taylor-Francis, 2016 (in press).
+[  bib  |
+.pdf  ]
+[ 52 ]
+Ariful Azad, Aydin Buluç, and Alex Pothen.
+A parallel tree grafting algorithm for maximum cardinality matching
+in bipartite graphs.
+In  Proceedings of the IPDPS , 2015.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 53 ]
+Evangelos Georganas, Aydin Buluç, Jarrod Chapman, Leonid Oliker, Daniel
+Rokhsar, and Katherine Yelick.
+meraligner: A fully parallel sequence aligner.
+In  Proceedings of the IPDPS , 2015.
+[  bib  |
+.pdf  ]
+[ 54 ]
+Ariful Azad, Aydin Buluç, and John R Gilbert.
+Parallel triangle counting and enumeration using matrix algebra.
+In  Proceedings of the IPDPSW, Workshop on Graph Algorithm
+Building Blocks (GABB) , pages 804 - 811, 2015.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 55 ]
+Jarrod Chapman, Martin Mascher, Aydin Buluç, Kerrie Barry, Evangelos
+Georganas, Adam Session, Veronika Strnadova, Jerry Jenkins, Sunish Sehgal,
+Leonid Oliker, Jeremy Schmutz, Katherine Yelick, Uwe Scholz, Robbie Waugh,
+Jesse Poland, Gary Muehlbauer, Nils Stein, and Daniel Rokhsar.
+A whole-genome shotgun approach for assembling and anchoring the
+hexaploid bread wheat genome.
+Genome Biology , 16(26), 2015.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 56 ]
+Adam Lugowski, Shoaib Kamil, Aydin Buluç, Samuel Williams, Erika
+Duriakova, Leonid Oliker, Armando Fox, and John Gilbert.
+Parallel processing of filtered queries in attributed semantic
+graphs.
+Journal of Parallel and Distributed Computing (JPDC)) ,
+79-80:115-131, 2015.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 57 ]
+J. Kepner, D. Bader, A. Buluç, J. Gilbert, J. Kepner, T. Mattson, and
+H. Meyerhenke.
+Graphs, matrices, and the GraphBLAS: Seven good reasons.
+In  The International Conference on Computational Science
+(ICCS) , 2015.
+[  bib  |
+DOI  |
+arXiv  ]
+[ 58 ]
+Evangelos Georganas, Aydin Buluç, Jarrod Chapman, Leonid Oliker, Daniel
+Rokhsar, and Katherine Yelick.
+Parallel de bruijn graph construction and traversal for de novo
+genome assembly.
+In  Proceedings of the International Conference for High
+Performance Computing, Networking, Storage and Analysis (SC'14) , 2014.
+[  bib  |
+.pdf  ]
+[ 59 ]
+V. Strnadova, A. Buluç, J. Gonzalez, S. Jegelka, J. Chapman, J. Gilbert,
+D. Rokhsar, and L. Oliker.
+Efficient and accurate clustering for large-scale genetic mapping.
+In  The IEEE International Conference on Bioinformatics and
+Biomedicine (BIBM'14) , 2014.
+Regular paper.
+[  bib  |
+.pdf  ]
+[ 60 ]
+Aydin Buluç, John Gilbert, and Sivan Toledo.
+Computing shortest paths using sparse Gaussian elimination.
+In  SIAM Workshop on Network Science (NS14) , 2014.
+(extended abstract).
+[  bib  |
+.pdf  ]
+[ 61 ]
+D. Bader, A. Buluç, J. Gilbert, J. Gonzalez, J. Kepner, and T. Mattson.
+The Graph BLAS effort and its implications for Exascale.
+In  SIAM Workshop on Exascale Applied Mathematics Challenges and
+Opportunities (EX14) , 2014.
+(extended abstract).
+[  bib  |
+.pdf  ]
+[ 62 ]
+H. Metin Aktulga, Aydin Buluç, Samuel Williams, and Chao Yang.
+Optimizing sparse matrix-multiple vectors multiplication for nuclear
+configuration interaction calculations.
+In  Proceedings of the IPDPS . IEEE Computer Society, 2014.
+[  bib  |
+.pdf  ]
+[ 63 ]
+T. Mattson, D. Bader, J. Berry, A. Buluç, J. Dongarra, C. Faloutsos,
+J. Feo, J. Gilbert, J. Gonzalez, B. Hendrickson, J. Kepner, C. Leiserson,
+A. Lumsdaine, D. Padua, S. Poole, S. Reinhardt, M. Stonebraker, S. Wallach,
+and A. Yoo.
+Standards for graph algorithm primitives.
+In  High Performance Extreme Computing Conference (HPEC '13) .
+IEEE, 2013.
+(position paper).
+[  bib  |
+.pdf  ]
+[ 64 ]
+Grey Ballard, Aydin Buluç, James Demmel, Laura Grigori, Benjamin
+Lipshitz, Oded Schwartz, and Sivan Toledo.
+Communication optimal parallel multiplication of sparse random
+matrices.
+In  SPAA 2013: The 25th ACM Symposium on Parallelism in
+Algorithms and Architectures , Montreal, Canada, 2013.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 65 ]
+Aydin Buluç, Erika Duriakova, Armando Fox, John Gilbert, Shoaib Kamil,
+Adam Lugowski, Leonid Oliker, and Samuel Williams.
+High-productivity and high-performance analysis of filtered semantic
+graphs.
+In  Proceedings of the IPDPS . IEEE Computer Society, 2013.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 66 ]
+Edgar Solomonik, Aydin Buluç, and James Demmel.
+Minimizing communication in all-pairs shortest paths.
+In  Proceedings of the IPDPS . IEEE Computer Society, 2013.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 67 ]
+Scott Beamer, Aydin Buluç, Krste Asanović, and David Patterson.
+Distributed memory breadth-first search revisited: Enabling bottom-up
+search.
+In  Workshop on Multithreaded Architectures and Applications
+(MTAAP), in conjunction with IPDPS . IEEE Computer Society, 2013.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 68 ]
+Aydin Buluç and Kamesh Madduri.
+Graph partitioning for scalable distributed graph computations.
+In  Graph Partitioning and Graph Clustering (Proc. 10th DIMACS
+Implementation Challenge) , volume 588 of  Contemporary Mathematics ,
+pages 83-101. AMS, 2013.
+[  bib  |
+.pdf  ]
+[ 69 ]
+Adam Lugowski, David Alber, Aydin Buluç, John Gilbert, Steve Reinhardt,
+Yun Teng, and Andrew Waranis.
+A flexible open-source toolbox for scalable complex graph analysis.
+In  SIAM Conference on Data Mining (SDM) , 2012.
+[  bib  |
+.pdf  ]
+[ 70 ]
+Aydin Buluç and John R. Gilbert.
+Parallel sparse matrix-matrix multiplication and indexing:
+Implementation and experiments.
+SIAM Journal of Scientific Computing (SISC) , 34(4):170 - 191,
+2012.
+[  bib  |
+DOI  |
+arXiv  |
+.pdf  ]
+[ 71 ]
+Adam Lugowski, Aydin Buluç, John R. Gilbert, and Steve Reinhardt.
+Scalable complex graph analysis with the knowledge discovery toolbox.
+In  ICASSP, Special session on “Big Data” , 2012.
+[  bib  |
+.pdf  ]
+[ 72 ]
+K Kandalla, A Buluc, H Subramoni, K Tomko, J Vienne, L Oliker, and DK Panda.
+Can network-offload based non-blocking neighborhood MPI collectives
+improve communication overheads of irregular graph algorithms?
+In  IEEE International Conference on Cluster Computing
+Workshops , pages 222-230. IEEE, 2012.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 73 ]
+Aydin Buluç and Kamesh Madduri.
+Parallel breadth-first search on distributed memory systems.
+In  International Conference for High Performance Computing,
+Networking, Storage and Analysis (SC'11) , 2011.
+[  bib  |
+DOI  |
+arXiv  |
+.pdf  ]
+[ 74 ]
+Aydin Buluç, Samuel Williams, Leonid Oliker, and James Demmel.
+Reduced-bandwidth multithreaded algorithms for sparse matrix-vector
+multiplication.
+In  Proc. IPDPS , 2011.
+[  bib  |
+.pdf  ]
+[ 75 ]
+Aydin Buluç and John R. Gilbert.
+The Combinatorial BLAS: Design, implementation, and applications.
+The International Journal of High Performance Computing
+Applications , 25(4):496 - 509, 2011.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 76 ]
+Aydin Buluç, John R. Gilbert, and Viral B. Shah.
+Implementing Sparse Matrices for Graph Algorithms.
+In Jeremy Kepner and John R. Gilbert, editors,  Graph Algorithms
+in the Language of Linear Algebra . SIAM Press, 2011.
+[  bib  |
+DOI  ]
+[ 77 ]
+Aydin Buluç and John R. Gilbert.
+New Ideas in Sparse Matrix-Matrix Multiplication.
+In Jeremy Kepner and John R. Gilbert, editors,  Graph Algorithms
+in the Language of Linear Algebra . SIAM Press, 2011.
+[  bib  |
+DOI  ]
+[ 78 ]
+Aydin Buluç, John R. Gilbert, and Ceren Budak.
+Solving path problems on the GPU.
+Parallel Computing , 36(5-6):241 - 253, 2010.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 79 ]
+Aydin Buluç and John R. Gilbert.
+Highly parallel sparse matrix-matrix multiplication.
+Technical Report UCSB-CS-2010-10, UCSB CS Department, June 2010.
+[  bib  |
+.pdf  ]
+[ 80 ]
+Aydin Buluç.
+Linear Algebraic Primitives for Parallel Computing on Large
+Graphs .
+PhD thesis, University of California, Santa Barbara, CA, March 2010.
+[  bib  |
+.pdf  ]
+[ 81 ]
+Aydin Buluç, Jeremy T. Fineman, Matteo Frigo, John R. Gilbert, and
+Charles E. Leiserson.
+Parallel sparse matrix-vector and matrix-transpose-vector
+multiplication using compressed sparse blocks.
+In  Proc. SPAA , Calgary, Canada, August 2009.
+[  bib  |
+.pdf  ]
+[ 82 ]
+Aydin Buluç and John R. Gilbert.
+Challenges and advances in parallel sparse matrix-matrix
+multiplication.
+In  The 37th International Conference on Parallel Processing
+(ICPP'08) , pages 503-510, Portland, Oregon, USA, September 2008.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 83 ]
+Aydin Buluç and John R. Gilbert.
+On the Representation and Multiplication of Hypersparse Matrices.
+In  Proc. IPDPS , April 2008.
+[  bib  |
+DOI  |
+.pdf  ]
+[ 84 ]
+Aydin Buluç and Erik G. Boman.
+Towards scalable parallel hypergraph partitioning.
+In  CSRI Summer Proceedings , Albuquerque, NM and Livermore, CA,
+2008.
+[  bib  |
+.pdf  ]

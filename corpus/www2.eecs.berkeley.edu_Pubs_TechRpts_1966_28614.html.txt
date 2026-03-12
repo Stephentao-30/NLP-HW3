@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28614.html
+Controllability and Observability
+C.T. Chen and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M186
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-186.pdf
+BibTeX citation:
+@techreport{Chen:M186,
+Author= {Chen, C.T. and Desoer, C.A.},
+Title= {Controllability and Observability},
+Year= {1966},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28614.html},
+Number= {UCB/ERL M186},
+}
+EndNote citation:
+%0 Report
+%A Chen, C.T.
+%A Desoer, C.A.
+%T Controllability and Observability
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M186
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28614.html
+%F Chen:M186

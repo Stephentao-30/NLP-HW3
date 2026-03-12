@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28700.html
+Optimum City Size: A Minimum Congestion Cost Approach
+D.A. Livesey
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M329
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-329.pdf
+BibTeX citation:
+@techreport{Livesey:M329,
+Author= {Livesey, D.A.},
+Title= {Optimum City Size: A Minimum Congestion Cost Approach},
+Year= {1972},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28700.html},
+Number= {UCB/ERL M329},
+}
+EndNote citation:
+%0 Report
+%A Livesey, D.A.
+%T Optimum City Size: A Minimum Congestion Cost Approach
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M329
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28700.html
+%F Livesey:M329

@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-214.html
+Readout Circuits for Frequency-Modulated Gyroscopes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Readout Circuits for Frequency-Modulated Gyroscopes
+Readout Circuits for Frequency-Modulated Gyroscopes
+Igor Izyumin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-214
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-214.pdf
+In recent years, MEMS gyroscopes have become nearly omnipresent. From their origins in automotive stability control systems, these sensors have migrated to a diverse range of applications, including image stabilization in cameras and motion tracking in video games and fitness monitors. A key application for MEMS gyroscopes is pedestrian navigation, which can help provide always-on location in portable devices while minimizing power consumption and infrastructure requirements. While modern smartphones have all of the necessary sensors for inertial navigation, their performance is not sufficient for this application. Consumer-grade MEMS gyroscopes are typically rate-grade devices, and generally have poor bias stability and scale factor accuracy. In addition, their power consumption tends to be too high to enable always-on operation without significantly impacting battery life.
+This work describes the first frequency-output MEMS gyroscope to achieve sub-7 ppm scale factor accuracy and sub-6 deg/hr bias stability with a 3.24 sq. mm transducer. By implementing continuous-time mode reversal in an FM gyro, the rate signal is modulated away from DC, making the system insensitive to the resonant frequency of the transducer. The scale factor is almost entirely ratiometric, depending primarily on the mechanical angular gain factor of the transducer and the accuracy of the timing reference. Scale factor sensitivity to variations in quality factor, electro-mechanical coupling coefficients, and circuit drift is significantly reduced compared to conventional open-loop and force-rebalance operating modes. Low-power frequency-to-digital converters enable a gyroscope with 91 dB of dynamic range and an estimated power consumption below 150 uW per axis.
+Advisor:  Bernhard Boser
+BibTeX citation:
+@phdthesis{Izyumin:EECS-2015-214,
+Author = {Izyumin, Igor},
+Title = {Readout Circuits for Frequency-Modulated Gyroscopes},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-214.html},
+Number = {UCB/EECS-2015-214},
+Abstract = {In recent years, MEMS gyroscopes have become nearly omnipresent.  From their origins in automotive stability control systems, these sensors have migrated to a diverse range of applications, including image stabilization in cameras and motion tracking in video games and fitness monitors.  A key application for MEMS gyroscopes is pedestrian navigation, which can help provide always-on location in portable devices while minimizing power consumption and infrastructure requirements.  While modern smartphones have all of the necessary sensors for inertial navigation, their performance is not sufficient for this application.  Consumer-grade MEMS gyroscopes are typically rate-grade devices, and generally have poor bias stability and scale factor accuracy.  In addition, their power consumption tends to be too high to enable always-on operation without significantly impacting battery life.
+This work describes the first frequency-output MEMS gyroscope to achieve sub-7 ppm scale factor accuracy and sub-6 deg/hr bias stability with a 3.24 sq. mm transducer.  By implementing continuous-time mode reversal in an FM gyro, the rate signal is modulated away from DC, making the system insensitive to the resonant frequency of the transducer.  The scale factor is almost entirely ratiometric, depending primarily on the mechanical angular gain factor of the transducer and the accuracy of the timing reference.  Scale factor sensitivity to variations in quality factor, electro-mechanical coupling coefficients, and circuit drift is significantly reduced compared to conventional open-loop and force-rebalance operating modes.  Low-power frequency-to-digital converters enable a gyroscope with 91 dB of dynamic range and an estimated power consumption below 150 uW per axis.}
+}
+EndNote citation:
+%0 Thesis
+%A Izyumin, Igor
+%T Readout Circuits for Frequency-Modulated Gyroscopes
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-214
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-214.html
+%F Izyumin:EECS-2015-214

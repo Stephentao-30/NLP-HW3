@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-273.html
+Multi-agent Cluster Scheduling for Scalability and Flexibility
+Andrew Konwinski
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-273
+December 22,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-273.pdf
+This dissertation presents a taxonomy and evaluation of three cluster scheduling architectures for scalability and flexibility using a common high level taxonomy of cluster scheduling, a Monte Carlo simulator, and a real system implementation. We begin with the popular Monolithic State Scheduling (MSS), then consider two new architectures: Dynamically Partitioned State Scheduling (DPS) and Replicated State Scheduling (RSS). We describe and evaluate DPS, which uses pessimistic concurrency control for cluster resource sharing. We then present the design, implementation, and evaluation of Mesos, a real-world DPS cluster scheduler that allows diverse cluster computing frameworks to efficiently share resources. Our evaluation shows Mesos achieve high utilization, respond quickly to workload changes, and flexibly cater to diverse frameworks while scaling to 50,000 nodes in simulation and remaining robust. We also show existing and new frameworks sharing cluster resources. Finally, we describe and evaluate RSS, a cluster scheduling architecture being explored by Google in Omega, their next generation cluster management system. RSS uses optimistic concurrency control for sharing cluster resources. We show the tradeoffs between optimistic concurrency in RSS and pessimistic concurrency in DPS and quantify the costs of the added flexibility of RSS in terms of job wait time and scheduling utilization.
+Advisors:  Randy H. Katz
+BibTeX citation:
+@phdthesis{Konwinski:EECS-2012-273,
+Author= {Konwinski, Andrew},
+Title= {Multi-agent Cluster Scheduling for Scalability and Flexibility},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-273.html},
+Number= {UCB/EECS-2012-273},
+Abstract= {This dissertation presents a taxonomy and evaluation of three cluster scheduling architectures for scalability and flexibility using a common high level taxonomy of cluster scheduling, a Monte Carlo simulator, and a real system implementation. We begin with the popular Monolithic State Scheduling (MSS), then consider two new architectures: Dynamically Partitioned State Scheduling (DPS) and Replicated State Scheduling (RSS). We describe and evaluate DPS, which uses pessimistic concurrency control for cluster resource sharing. We then present the design, implementation, and evaluation of Mesos, a real-world DPS cluster scheduler that allows diverse cluster computing frameworks to efficiently share resources. Our evaluation shows Mesos achieve high utilization, respond quickly to workload changes, and flexibly cater to diverse frameworks while scaling to 50,000 nodes in simulation and remaining robust. We also show existing and new frameworks sharing cluster resources. Finally, we describe and evaluate RSS, a cluster scheduling architecture being explored by Google in Omega, their next generation cluster management system. RSS uses optimistic concurrency control for sharing cluster resources. We show the tradeoffs between optimistic concurrency in RSS and pessimistic concurrency in DPS and quantify the costs of the added flexibility of RSS in terms of job wait time and scheduling utilization.},
+}
+EndNote citation:
+%0 Thesis
+%A Konwinski, Andrew
+%T Multi-agent Cluster Scheduling for Scalability and Flexibility
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 22
+%@ UCB/EECS-2012-273
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-273.html
+%F Konwinski:EECS-2012-273

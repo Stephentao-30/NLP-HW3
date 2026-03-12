@@ -1,0 +1,426 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/courses/2008_290A/lectures.htm
+EECS 290N
+EECS 290A
+Advanced Methods in
+Logic Synthesis and Equivalence Checking �
+Schedule
+Instruction begins �
+Tuesday, January 22, 2008
+Spring recess �
+Monday, March 24, 2008 - Friday, March 28,
+2008
+Instruction ends
+Monday, May 12, 2008
+Lecture
+Date
+Lecture
+Date
+Lecture
+Date
+1
+January
+22
+6
+February
+26
+11
+April
+8
+2
+January
+29
+7
+March
+4
+12
+April
+15
+3
+February
+5
+8
+March
+11
+13
+April
+22
+4
+February
+12
+9
+March
+18
+14
+April
+29
+5
+February
+19
+10
+April
+1
+15
+May
+6
+Lectures
+1.
+Introduction
+�
+Logistics
+�
+Overview of synthesis and
+verification problems and tools
+�
+ABC: A System
+for Sequential Synthesis and Verification .
+2.
+Combinational/sequential AIGs and AIG rewriting
+�
+Combinational and sequential
+AIG
+o
+A. Biere.  AIGER format
+�
+Engineering an AIG package
+o
+Package �abc/src/aig/aig� in  ABC
+�
+Sequential AIGs
+o
+J.  � Baumgartner and A. Kuehlmann.  Min-area retiming on
+flexible circuit structures . Proc. ICCAD�01.
+�
+AIG rewriting for formal
+verification
+o
+P. Bjesse and A. Boralv.  DAG-aware circuit compression for formal
+verification . Proc. ICCAD �04.
+�
+AIG rewriting for logic
+synthesis
+o
+A. Mishchenko, S. Chatterjee,
+and R. Brayton.  DAG-aware
+AIG rewriting: A fresh look at combinational logic synthesis . Proc. DAC
+'06.
+3.
+Cuts and windows
+�
+Exhaustive cut enumeration for
+combinational and sequential networks
+o
+P. Pan and C.-C. Lin.  A new retiming-based technology mapping algorithm
+for LUT-based FPGAs . Proc. FPGA �98.
+�
+Priority cuts
+o
+A. Mishchenko, S. Cho,  S. Chatterjee , and R. Brayton.  Combinational
+and sequential mapping with priority cuts . Proc. ICCAD '07.
+�
+Windowing
+o
+A. Mishchenko and R. K. Brayton.
+Scalable
+logic synthesis using a simple circuit structure . Proc. IWLS '06.
+�
+Using cuts outside of logic
+synthesis
+o
+N. Een, A. Mishchenko, and N.
+S�rensson.  Applying
+logic synthesis for speeding up SAT . Proc. SAT�07.
+4.
+Manipulation of Boolean functions
+�
+Truth tables
+�
+SOPs
+o
+E. Sentovich et al.  SIS: A system for sequential circuit synthesis .
+Tech. Rep. UCB/ERI, M92/41, ERL, Dept. of EECS, UC Berkeley, 1992
+�
+BDDs
+o
+F. Somenzi.  Binary
+Decision Diagrams . In M. Broy and R. Steinbruggen, editors, Calculational
+System Design, Vol. 173, NATO Science Series F: Computer and Systems Sciences,
+IOS Press, 1999.
+�
+SAT solving
+o
+N. Een and N. S�rensson.  An extensible SAT-solver . Proc. SAT�03.
+o
+N. Een and N. S�rensson.  SAT solver
+MINISAT .
+�
+Simulation and SAT
+o
+A. Mishchenko, J. S. Zhang, S.
+Sinha, J. R. Burch, R. Brayton, and M. Chrzanowska-Jeske.  Using
+simulation and satisfiability to compute flexibilities in Boolean networks .
+IEEE Trans. CAD, Vol. 25(5), May 2006.
+�
+Truth tables, again
+o
+Package �abc/src/aig/kit� in  ABC
+�
+Case study: A resynthesis
+engine based on truth tables
+o
+A. Mishchenko, S. Chatterjee,
+and R. Brayton.  Fast
+Boolean matching for LUT structures . ERL Technical Report, EECS Dept., UC
+Berkeley.
+5.
+Technology mapping
+�
+Problem formulation
+�
+Priority cuts
+o
+A. Mishchenko, S. Cho,  S. Chatterjee , and R. Brayton.  Combinational
+and sequential mapping with priority cuts . Proc. ICCAD '07.
+�
+Structural choices
+o
+S. Chatterjee, A. Mishchenko,
+R. Brayton, X. Wang, and T. Kam.  Reducing
+structural bias in technology mapping . Proc. ICCAD '05.
+�
+Tuning mapping for placement
+o
+S. Jang, B. Chan, K. Chung, and
+A. Mishchenko.  WireMap:
+FGPA technology mapping for improved routability . Proc. FPGA '08.
+�
+Other applications
+o
+N. Een, A. Mishchenko, and N.
+Sorensson.  Applying
+logic synthesis to speedup SAT . Proc. SAT '07.
+6.
+Don�t-cares
+�
+Computing don�t-cares using simulation
+and SAT
+o
+A. Mishchenko and R. Brayton.  SAT-based
+complete don't-care computation for network optimization . Proc. DATE '05.
+�
+Computing don�t-cares using
+interpolation.
+o
+K. L. McMillan.  Don�t-care computation using k-clause
+approximation . Proc. IWLS�05.
+�
+Computing sequential
+don�t-cares using induction
+o
+M. L. Case, V. N. Kravets, A.
+Mishchenko, and R. K. Brayton.  Merging
+nodes under sequential observability . Submitted to DAC'08.
+7.
+� A contemporary
+view of the traditional synthesis
+�
+SIS nodes vs. AIG nodes
+�
+Cut-based and window-based
+transforms
+�
+Multi-level synthesis without
+ESPRESSO
+�
+Don�t-cares and Boolean methods
+without BDDs
+o
+R. K. Brayton.  The
+synergy between logic synthesis and equivalence checking . Invited
+presentation at FMCAD�07.
+8.
+Combinational equivalence checking (SAT sweeping)
+�
+Robust integrated CEC
+o
+A. Kuehlmann, V. Paruthi, F.
+Krohm, and M. K. Ganai.  Robust
+Boolean reasoning for equivalence checking and functional property verification .
+IEEE Trans. CAD, 21(12), Dec 2002, pp. 1377-1394.
+�
+SAT sweeping
+o
+A. Kuehlmann.  Dynamic
+transition relation simplification for bounded property checking . Proc.
+ICCAD �04.
+�
+Improved CEC
+o
+A. Mishchenko, S. Chatterjee,
+R. Brayton, and N. Een.  Improvements
+to combinational equivalence checking . Proc. ICCAD '06.
+�
+Uses of CEC in logic synthesis
+and as building block for SEC
+9.
+Retiming
+�
+Multiple flavors of retiming
+o
+C. E. Leiserson and J. B. Saxe.
+Retiming synchronous circuitry , Technical
+Report. Digital, 1986.
+o
+A. P. Hurst, A. Mishchenko, and
+R. K. Brayton.  Scalable
+min-area retiming under simultaneous delay and initial state constraints . Submitted
+to DAC'08.
+�
+Retiming in verification
+o
+A. Kuehlmann and J.
+Baumgartner.  Transformation-based
+verification using generalized retiming . Proc. CAV�01.
+�
+Retiming and resynthesis
+o
+J.-H. Jiang and R. Brayton.  Retiming
+and resynthesis: A complexity perspective . Accepted to IEEE TCAD.
+�
+Efficient implementations
+10.
+Induction
+�
+Pioneering work
+o
+C. A. J. van Eijk.  Sequential equivalence checking based on
+structural similarities . IEEE Trans. CAD, 19(7), July 2000.
+�
+SAT-based formulation
+o
+P. Bjesse and K. Claessen.  SAT-based verification without state space
+traversal . Proc. FMCAD'00.
+o
+N. Een and N. S�rensson.  Temporal
+Induction by Incremental SAT Solving . Proc. BMC�03.
+�
+Speculative reduction
+o
+H. Mony, J. Baumgartner, V.
+Paruthi, and R. Kanzelman.  Exploiting
+suspected redundancy without proving it . Proc. DAC�05.
+o
+F. Lu and T. Cheng.  IChecker:
+An efficient checker for inductive invariants . Proc. HLDVT�06.
+�
+Implementation in ABC
+o
+A. Mishchenko, M. Case, R.
+Brayton, and S. Jang.  Scalable
+and scalably-verifiable sequential synthesis . Submitted to DAC'08.
+11.
+Integrated sequential equivalence checking (IBM)
+�
+Nomenclature
+o
+M. N. Mneimneh and K. A.
+Sakallah.  Principles of
+sequential-equivalence verification . IEEE D&T Comp. Vol. 22(3), 2005.
+�
+Transformation-based
+verification
+o
+J. Baumgartner, H. Mony, V.
+Paruthi, R. Kanzelman, and G. Janssen.  Scalable sequential
+equivalence checking across arbitrary design transformations . Proc. ICCD�06.
+�
+Expert system
+o
+H. Mony, J. Baumgartner, V.
+Paruthi, R. Kanzelman and A. Kuehlmann,  Scalable automated verification
+via expert-system guided transformations . Proc. FMCAD�04.
+12.
+Boolean methods for resynthesis of mapped networks
+�
+SAT-based evaluation
+o
+J. Cong and K. Minkovich.  Improved SAT-based Boolean
+matching using implicants for LUT-based FPGAs , Proc. FPGA�07.
+o
+Y. Hu, V. Shih, R. Majumdar,
+and L. He.  Exploiting
+symmetry in SAT-based Boolean matching for heterogeneous FPGA technology
+mapping . Proc. ICCAD�07.
+�
+Bi-decomposition
+o
+A. Mishchenko, B. Steinbach,
+and M. A. Perkowski.  An
+algorithm for bi-decomposition of logic functions . Proc. DAC '01.
+�
+Disjoint-support decomposition
+o
+V. Bertacco and M. Damiani.  The
+disjunctive decomposition of logic functions . Proc. ICCAD�97.
+o
+A. Mishchenko, R. K. Brayton,
+and S. Chatterjee.  Boolean
+factoring and decomposition of logic networks . To appear in  IWLS '08 .
+13.
+Resolution proofs
+�
+Recording resolution proofs
+o
+L. Zhang and S. Malik.  Validating
+SAT solvers using an independent resolution-based checker: Practical
+implementations and other applications . Proc. DATE�03.
+�
+Resolution proofs for
+combinational equivalence checking
+o
+S. Chatterjee, A. Mishchenko,
+R. Brayton, and A. Kuehlmann.  On
+resolution proofs for combinational equivalence checking . ERL Technical
+Report, EECS Dept., UC Berkeley.
+�
+Extending resolution proofs to
+work for sequential problems
+14.
+Interpolation
+�
+Pioneering work
+o
+K. L. McMillan.  Interpolation and SAT-based model checking .
+Proc. CAV�03, pp. 1-13.
+�
+Synthesis interpretation
+o
+R. K. Brayton.  The real reason why McMillan's construction is
+an interpolant . ERL Technical Report, EECS Dept., UC Berkeley.
+�
+Using interpolation
+resubstitution
+o
+A. Mishchenko, R. Brayton,
+J.-H. R. Jiang, and S. Jang,  SAT-based
+logic optimization and resynthesis . ERL Technical Report, EECS Dept., UC
+Berkeley.
+�
+Using interpolation for Boolean
+decomposition
+15.
+Recording and using synthesis history
+�
+History AIG
+o
+� A. Mishchenko and R. Brayton.  Recording
+synthesis history for sequential verification . Submitted to DAC'08.
+�
+Using synthesis history for
+technology mapping
+o
+S. Chatterjee, A. Mishchenko,
+R. Brayton, X. Wang, and T. Kam.  Reducing
+structural bias in technology mapping . Proc. ICCAD '05.
+�
+Using synthesis history for ECO
+synthesis, mapping, and placement

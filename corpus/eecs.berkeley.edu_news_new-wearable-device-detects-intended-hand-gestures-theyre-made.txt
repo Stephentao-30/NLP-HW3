@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/new-wearable-device-detects-intended-hand-gestures-theyre-made
+New wearable device detects intended hand gestures before they're made - EECS at Berkeley
+A team of researchers, including EECS graduate students Ali Moin, Andy Zhou, Alisha Menon, George Alexandrov, Jonathan Ting and Yasser Khan, Profs. Ana Arias and Jan Rabaey, postdocs Abbas Rahimi and Natasha Yamamoto, visiting scholar Simone Benatti, and BWRC research engineer Fred Burghardt, have created a new flexible armband that combines wearable biosensors with artificial intelligence software to help recognize what hand gesture a person intends to make based on electrical signal patterns in the forearm.  The device, which was described in a paper published in Nature Electronics in December, can read the electrical signals at 64 different points on the forearm.  These signals are then fed into an electrical chip, which is programmed with an AI algorithm capable of associating these signal patterns in the forearm with 21 specific hand gestures, including a thumbs-up, a fist, a flat hand, holding up individual fingers and counting numbers. The device paves the way for better prosthetic control and seamless interaction with electronic devices.
+Categories
+Alumni
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

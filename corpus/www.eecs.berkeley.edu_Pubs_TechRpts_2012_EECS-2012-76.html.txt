@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-76.html
+Analysis and Design of a High Speed Delta-Sigma Modulator for mm-Wave Imaging Applications
+Juan Yaquian and Ali Niknejad
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-76
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-76.pdf
+Advisors:  Ali Niknejad
+BibTeX citation:
+@mastersthesis{Yaquian:EECS-2012-76,
+Author= {Yaquian, Juan and Niknejad, Ali},
+Title= {Analysis and Design of a High Speed Delta-Sigma Modulator for mm-Wave Imaging Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-76.html},
+Number= {UCB/EECS-2012-76},
+}
+EndNote citation:
+%0 Thesis
+%A Yaquian, Juan
+%A Niknejad, Ali
+%T Analysis and Design of a High Speed Delta-Sigma Modulator for mm-Wave Imaging Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-76.html
+%F Yaquian:EECS-2012-76

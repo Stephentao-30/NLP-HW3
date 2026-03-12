@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28702.html
+Runoff: A Program for the Preparation of Documents
+Richard Herzog and Nagib Badre
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M331
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-331.pdf
+BibTeX citation:
+@techreport{Herzog:M331,
+Author= {Herzog, Richard and Badre, Nagib},
+Title= {Runoff: A Program for the Preparation of Documents},
+Year= {1972},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28702.html},
+Number= {UCB/ERL M331},
+}
+EndNote citation:
+%0 Report
+%A Herzog, Richard
+%A Badre, Nagib
+%T Runoff: A Program for the Preparation of Documents
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M331
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28702.html
+%F Herzog:M331

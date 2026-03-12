@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28405.html
+MOS Switched -Capacitor Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+MOS Switched -Capacitor Filters
+MOS Switched -Capacitor Filters
+R.W. Brodersen, P.R. Gray and D.A. Hodges
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/70
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-70.pdf
+BibTeX citation:
+@techreport{Brodersen:M78/70,
+Author = {Brodersen, R.W. and Gray, P.R. and Hodges, D.A.},
+Title = {MOS Switched -Capacitor Filters},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28405.html},
+Number = {UCB/ERL M78/70}
+}
+EndNote citation:
+%0 Report
+%A Brodersen, R.W.
+%A Gray, P.R.
+%A Hodges, D.A.
+%T MOS Switched -Capacitor Filters
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28405.html
+%F Brodersen:M78/70

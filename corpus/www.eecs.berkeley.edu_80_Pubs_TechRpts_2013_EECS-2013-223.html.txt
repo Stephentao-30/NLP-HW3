@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-223.html
+Assessment and Methods for Supply-Following Loads in Modern Electricity Grids with Deep Renewables Penetration
+Jayant Taneja
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-223
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-223.pdf
+Electricity is an indispensable commodity to modern society, yet it is delivered via a grid architecture that remains largely unchanged over the past century. A host of factors are conspiring to topple this dated yet venerated design: developments in renewable electricity generation technology, policies to reduce greenhouse gas emissions, and advances in information technology for managing energy systems. Modern electric grids are emerging as complex distributed systems in which a portfolio of power generation resources, often incorporating fluctuating renewable resources such as wind and solar, must be managed dynamically to meet uncontrolled, time-varying demand. Uncertainty in both supply and demand makes control of modern electric grids fundamentally more challenging, and growing portfolios of renewables exacerbate the challenge.
+We study three electricity grids: the state of California, the province of Ontario, and the country of Germany. To understand the effects of increasing renewables, we develop a methodology to scale renewables penetration. Analyzing these grids yields key insights about rigid limits to renewables penetration and their implications in meeting long-term emissions targets. We argue that to achieve deep penetration of renewables, the operational model of the grid must be inverted, changing the paradigm from load-following supplies to supply-following loads.
+To alleviate the challenge of supply-demand matching on deeply renewable grids, we first examine well-known techniques, including altering management of existing supply resources, employing utility-scale energy storage, targeting energy efficiency improvements, and exercising basic demand-side management. Then, we create several instantiations of supply-following loads -- including refrigerators, heating and cooling systems, and laptop computers -- by employing a combination of sensor networks, advanced control techniques, and enhanced energy storage. We examine the capacity of each load for supply-following and study the behaviors of populations of these loads, assessing their potential at various levels of deployment throughout the California electricity grid. Using combinations of supply-following strategies, we can reduce peak natural gas generation by 19% on a model of the California grid with 60% renewables. We then assess remaining variability on this deeply renewable grid incorporating supply-following loads, characterizing additional capabilities needed to ensure supply-demand matching in future sustainable electricity grids.
+Advisors:  David E. Culler
+BibTeX citation:
+@phdthesis{Taneja:EECS-2013-223,
+Author= {Taneja, Jayant},
+Title= {Assessment and Methods for Supply-Following Loads in Modern Electricity Grids with Deep Renewables Penetration},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-223.html},
+Number= {UCB/EECS-2013-223},
+Abstract= {Electricity is an indispensable commodity to modern society, yet it is delivered via a grid architecture that remains largely unchanged over the past century. A host of factors are conspiring to topple this dated yet venerated design: developments in renewable electricity generation technology, policies to reduce greenhouse gas emissions, and advances in information technology for managing energy systems. Modern electric grids are emerging as complex distributed systems in which a portfolio of power generation resources, often incorporating fluctuating renewable resources such as wind and solar, must be managed dynamically to meet uncontrolled, time-varying demand. Uncertainty in both supply and demand makes control of modern electric grids fundamentally more challenging, and growing portfolios of renewables exacerbate the challenge.
+We study three electricity grids: the state of California, the province of Ontario, and the country of Germany. To understand the effects of increasing renewables, we develop a methodology to scale renewables penetration. Analyzing these grids yields key insights about rigid limits to renewables penetration and their implications in meeting long-term emissions targets. We argue that to achieve deep penetration of renewables, the operational model of the grid must be inverted, changing the paradigm from load-following supplies to supply-following loads.
+To alleviate the challenge of supply-demand matching on deeply renewable grids, we first examine well-known techniques, including altering management of existing supply resources, employing utility-scale energy storage, targeting energy efficiency improvements, and exercising basic demand-side management. Then, we create several instantiations of supply-following loads -- including refrigerators, heating and cooling systems, and laptop computers -- by employing a combination of sensor networks, advanced control techniques, and enhanced energy storage. We examine the capacity of each load for supply-following and study the behaviors of populations of these loads, assessing their potential at various levels of deployment throughout the California electricity grid. Using combinations of supply-following strategies, we can reduce peak natural gas generation by 19% on a model of the California grid with 60% renewables. We then assess remaining variability on this deeply renewable grid incorporating supply-following loads, characterizing additional capabilities needed to ensure supply-demand matching in future sustainable electricity grids.},
+}
+EndNote citation:
+%0 Thesis
+%A Taneja, Jayant
+%T Assessment and Methods for Supply-Following Loads in Modern Electricity Grids with Deep Renewables Penetration
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-223
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-223.html
+%F Taneja:EECS-2013-223

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29402.html
+On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised)
+On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised)
+Ronald L. Rivest and Jean Vuillemin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M476
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-476.pdf
+BibTeX citation:
+@techreport{Rivest:M476,
+Author = {Rivest, Ronald L. and Vuillemin, Jean},
+Title = {On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29402.html},
+Number = {UCB/ERL M476}
+}
+EndNote citation:
+%0 Report
+%A Rivest, Ronald L.
+%A Vuillemin, Jean
+%T On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised)
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M476
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29402.html
+%F Rivest:M476

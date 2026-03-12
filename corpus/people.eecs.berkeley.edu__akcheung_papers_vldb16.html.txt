@@ -1,0 +1,21 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/vldb16.html
+Leveraging Lock Contention to Improve OLTP Application Performance
+Leveraging Lock Contention to Improve OLTP Application Performance
+Cong Yan, Alvin Cheung
+Proceedings of  VLDB 2016
+Abstract
+Locking is one of the predominant costs in transaction processing. While much
+work has focused on designing efficient concurrency control mechanisms, not
+much has been done on understanding how transaction applications issue queries
+and leveraging application semantics to improve application performance. This
+paper presents QURO, a query-aware compiler that automatically reorders queries
+in transaction code to improve performance. Observing that certain queries
+within a transaction are more contentious than oth- ers as they require locking
+the same tuples as other concurrently executing transactions, QURO
+automatically changes the application such that contentious queries are
+issued as late as possible. We have evaluated QURO on various transaction
+benchmarks, and our results show that QURO-generated implementations can
+increase transaction throughput by up to 6.53x, while reduce transaction
+latency by up to 85%.
+[ Project website ]
+home

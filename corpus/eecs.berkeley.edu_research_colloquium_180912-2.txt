@@ -1,0 +1,21 @@
+URL: https://eecs.berkeley.edu/research/colloquium/180912-2
+FarmBeats: Empowering Farmers with Artificial Intelligence Agriculture Solutions - EECS at Berkeley
+FarmBeats: Empowering Farmers with Artificial Intelligence Agriculture Solutions
+EECS Colloquium
+Wednesday, September 12, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Ranveer Chandra
+Microsoft Research
+Ranveer Chandra speaks on FarmBeats: Empowering Farmers with  Artificial Intelligence Agriculture Solutions, 9/12/18
+Abstract
+Data-driven techniques help boost agricultural productivity by increasing yields, reducing losses and cutting down input costs. However, these techniques have seen sparse adoption owing to high costs of manual data collection and limited connectivity solutions. Our solution, called FarmBeats, an end-to-end IoT & AI platform for agriculture that enables seamless data collection from various sensors, cameras and drones. Our system design explicitly accounts for weather-related power and Internet outages, which has enabled six month long deployments in two US farms. In this talk, we will describe the FarmBeats system, and also outline the AI challenges we are currently addressing for outdoor as well as indoor agriculture.
+Biography
+Ranveer Chandra is a Principal Researcher at Microsoft Research where he is leading a team on the Incubation on IoT Applications. His research has shipped as part of multiple Microsoft products, including VirtualWiFi & low power Wi-Fi in Windows since 2009, Energy Profiler in Visual Studio, the Wireless Controller Protocol for XBOX One, and Software Defined Batteries in Windows 10. Ranveer is leading the FarmBeats, battery research, and TV white space projects at Microsoft Research. He has published over 80 papers, and filed over 100 patents, with over 85 granted by the USPTO. He has won several awards, including best paper awards at ACM CoNext 2008, ACM SIGCOMM 2009, IEEE RTSS 2014, USENIX ATC 2015, and Runtime Verification 2016 (RV’16), the Microsoft Research Graduate Fellowship, the Microsoft Gold Star Award, the MIT Technology Review’s Top Innovators Under 35, TR35 (2010) and Fellow in Communications, World Technology Network (2012). Ranveer has an undergraduate degree from IIT Kharagpur, India and a PhD from Cornell University.
+Video of this Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

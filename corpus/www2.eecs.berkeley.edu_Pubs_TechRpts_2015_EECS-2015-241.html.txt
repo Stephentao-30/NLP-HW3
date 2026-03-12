@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-241.html
+Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition
+Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition
+Suman Ravuri
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-241
+December 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-241.pdf
+Neural networks, especially those with more than one hidden layer, have re-emerged in Automatic Speech Recognition (ASR) systems as replacements to emission models based on Gaussian Mixture Models (GMMs). While the use of these so-called Deep Neural Networks (DNNs) has enjoyed widespread success due to improvements in recognition results, the exact source of better recognition accuracy is not entirely understood. Using a bootstrap resampling framework that generates synthetic test set data satisfying conditional independence assumptions of the model while still using real observations, I show that DNNs used for both feature generation and hybrid acoustic modeling help compensate for incorrect conditional independence assumptions and help fix poor phone duration estimates of the hidden Markov Model (HMM).
+Despite these improvements, the large increase in word error rates for DNN-HMM systems on real data compared to synthetic data suggests that one can improve recognition performance by modifying the training criterion. Since neural networks are log-linear at the output layer, I propose using sequences of last hidden layers as input to a log-linear model, and training that model with large-margin criteria. These Structured Support Vector Machine (SVM) approaches allow us to more directly minimize errors relevant to automatic speech recognition, and provide some guarantees on test set error. First, I show how one can generate better features by combining a neural network with a hidden Markov Support Vector Machine (HMSVM). Then, I propose a hybrid DNN-Structured SVM acoustic model and an online training algorithm that iteratively updates alignments for faster convergence. Training of this model falls under a class of approaches known as sequence-discriminative training, which are used to train state-of-the-art systems. This DNN-latent Structured SVM model beats alternative methods to sequence-discriminative training by 1.0% absolute, while needing 33-66% fewer utterances to converge.
+Finally, I analyze the Structured SVM approach to sequence-discriminative training and compare it to standard methods. I show how the loss function for boosted Maximum Mutual Information is an upper bound of the hinge loss for the Structured SVM, and how such a relaxation precludes the use of aggressive boosting parameters needed for better results. Finally, I analyze four of the most popular sequence-discriminative training criteria – Maximum Mutual Information, boosted Maximum Mutual Information, Minimum Phone Error, and state-level Minimum Bayes Risk – and the latent Structured SVM using the bootstrap resampling framework, and compare how different sequence-discriminative training criteria compensate for data/model mismatch. Structured SVM models perform better for real rather than synthetic data, likely because the model makes fewer distributional assumptions about the underlying data.
+Advisor:  Nelson Morgan
+BibTeX citation:
+@phdthesis{Ravuri:EECS-2015-241,
+Author = {Ravuri, Suman},
+Title = {Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-241.html},
+Number = {UCB/EECS-2015-241},
+Abstract = {Neural networks, especially those with more than one hidden layer, have re-emerged in Automatic Speech Recognition (ASR) systems as replacements to emission models based on Gaussian Mixture Models (GMMs). While the use of these so-called Deep Neural Networks (DNNs) has enjoyed widespread success due to improvements in recognition results, the exact source of better recognition accuracy is not entirely understood. Using a bootstrap resampling framework that generates synthetic test set data satisfying conditional independence assumptions of the model while still using real observations, I show that DNNs used for both feature generation and hybrid acoustic modeling help compensate for incorrect conditional independence assumptions and help fix poor phone duration estimates of the hidden Markov Model (HMM).
+Despite these improvements, the large increase in word error rates for DNN-HMM systems on real data compared to synthetic data suggests that one can improve recognition performance by modifying the training criterion. Since neural networks are log-linear at the output layer, I propose using sequences of last hidden layers as input to a log-linear model, and training that model with large-margin criteria. These Structured Support Vector Machine (SVM) approaches allow us to more directly minimize errors relevant to automatic speech recognition, and provide some guarantees on test set error. First, I show how one can generate better features by combining a neural network with a hidden Markov Support Vector Machine (HMSVM). Then, I propose a hybrid DNN-Structured SVM acoustic model and an online training algorithm that iteratively updates alignments for faster convergence. Training of this model falls under a class of approaches known as sequence-discriminative training, which are used to train state-of-the-art systems. This DNN-latent Structured SVM model beats alternative methods to sequence-discriminative training by 1.0% absolute, while needing 33-66% fewer utterances to converge.
+Finally, I analyze the Structured SVM approach to sequence-discriminative training and compare it to standard methods. I show how the loss function for boosted Maximum Mutual Information is an upper bound of the hinge loss for the Structured SVM, and how such a relaxation precludes the use of aggressive boosting parameters needed for better results. Finally, I analyze four of the most popular sequence-discriminative training criteria – Maximum Mutual Information, boosted Maximum Mutual Information, Minimum Phone Error, and state-level Minimum Bayes Risk – and the latent Structured SVM using the bootstrap resampling framework, and compare how different sequence-discriminative training criteria compensate for data/model mismatch. Structured SVM models perform better for real rather than synthetic data, likely because the model makes fewer distributional assumptions about the underlying data.}
+}
+EndNote citation:
+%0 Thesis
+%A Ravuri, Suman
+%T Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 17
+%@ UCB/EECS-2015-241
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-241.html
+%F Ravuri:EECS-2015-241

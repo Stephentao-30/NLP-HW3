@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-4.html
+Probabilistically Bounded Staleness for Practical Partial Quorums
+Peter Bailis and Shivaram Venkataraman and Joseph M. Hellerstein and Michael Franklin and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-4
+January 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-4.pdf
+Modern storage systems employing quorum replication are often configured to use partial, non-strict quorums. These systems wait only for a subset of their replicas to respond to a request before returning an answer, without guaranteeing that read and write replica sets intersect. While these partial quorum mechanisms provide only basic eventual consistency guarantees, with no limit to the recency of data returned, these configurations are frequently “good enough” for practitioners given their latency benefits. In this work, we discuss why partial quorums are often acceptable in practice by analyzing the staleness of data they return. Extending prior work on strongly consistent probabilistic quorums and using models of Dynamo-style anti-entropy processes, we introduce Probabilistically Bounded Staleness (PBS) consistency, which provides expected bounds on staleness with respect to both versions and wall clock time. We derive a closed-form solution for versioned staleness and model real-time staleness for representative Dynamo-style systems under internet-scale production workloads. We quantitatively demonstrate why, in practice, eventually consistent systems employing partial quorums often serve consistent data.
+BibTeX citation:
+@techreport{Bailis:EECS-2012-4,
+Author= {Bailis, Peter and Venkataraman, Shivaram and Hellerstein, Joseph M. and Franklin, Michael and Stoica, Ion},
+Title= {Probabilistically Bounded Staleness for Practical Partial Quorums},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-4.html},
+Number= {UCB/EECS-2012-4},
+Abstract= {Modern storage systems employing quorum replication are often configured to use partial, non-strict quorums. These systems wait only for a subset of their replicas to respond to a request before returning an answer, without guaranteeing that read and write replica sets intersect. While these partial quorum mechanisms provide only basic eventual consistency guarantees, with no limit to the recency of data returned, these configurations are frequently “good enough” for practitioners given their latency benefits. In this work, we discuss why partial quorums are often acceptable in practice by analyzing the staleness of data they return. Extending prior work on strongly consistent probabilistic quorums and using models of Dynamo-style anti-entropy processes, we introduce Probabilistically Bounded Staleness (PBS) consistency, which provides expected bounds on staleness with respect to both versions and wall clock time. We derive a closed-form solution for versioned staleness and model real-time staleness for representative Dynamo-style systems under internet-scale production workloads. We quantitatively demonstrate why, in practice, eventually consistent systems employing partial quorums often serve consistent data.},
+}
+EndNote citation:
+%0 Report
+%A Bailis, Peter
+%A Venkataraman, Shivaram
+%A Hellerstein, Joseph M.
+%A Franklin, Michael
+%A Stoica, Ion
+%T Probabilistically Bounded Staleness for Practical Partial Quorums
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 3
+%@ UCB/EECS-2012-4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-4.html
+%F Bailis:EECS-2012-4

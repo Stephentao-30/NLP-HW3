@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29234.html
+An Investigation of Multiprocessor Structures and Algorithms for Data Base Management
+James Richard Goodman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/33
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-33.pdf
+BibTeX citation:
+@techreport{Goodman:M81/33,
+Author= {Goodman, James Richard},
+Title= {An Investigation of Multiprocessor Structures and Algorithms for Data Base Management},
+Year= {1981},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29234.html},
+Number= {UCB/ERL M81/33},
+}
+EndNote citation:
+%0 Report
+%A Goodman, James Richard
+%T An Investigation of Multiprocessor Structures and Algorithms for Data Base Management
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29234.html
+%F Goodman:M81/33

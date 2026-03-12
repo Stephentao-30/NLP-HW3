@@ -1,0 +1,22 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/socc16.html
+PipeGen: Data Pipe Generator for Hybrid Analytics
+PipeGen: Data Pipe Generator for Hybrid Analytics
+Brandon Haynes, Alvin Cheung, Magdalena Balazinska
+Proceedings of  SoCC 2016
+Abstract
+As the number of big data management systems continues to grow, users
+increasingly seek to leverage multiple systems in the context of a single data
+analysis task. To efficiently support such hybrid analytics, we develop a
+tool called PipeGen for efficient data transfer between database management
+systems. PipeGen automatically generates data pipes between DBMSs by
+leveraging their functionality to transfer data via disk files using common
+data formats such as CSV. PipeGen creates data pipes by extending such
+functionality with efficient binary data transfer capabilities that avoid file
+system materialization, include multiple important format optimizations, and
+transfer data in parallel when possible. We evaluate our PipeGen prototype by
+generating 20 data pipes automatically between five different DBMSs. The
+results show that PipeGen speeds up data transfer by up to 3.8× as compared to
+transferring using disk files.
+Download
+[ paper ]
+home

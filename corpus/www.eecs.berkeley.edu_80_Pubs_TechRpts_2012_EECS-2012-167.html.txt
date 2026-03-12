@@ -1,0 +1,36 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-167.html
+Logic and Lattices for Distributed Programming
+Neil Conway and William Marczak and Peter Alvaro and Joseph M. Hellerstein and David Maier
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-167
+June 22,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-167.pdf
+In recent years there has been interest in achieving application-level consistency criteria without the latency and availability costs of strongly consistent storage infrastructure. A standard technique is to adopt a vocabulary of commutative operations; this avoids the risk of inconsistency due to message reordering.  A more powerful approach was recently captured by the  CALM theorem , which proves that logically monotonic programs are guaranteed to be eventually consistent. In logic languages such as Bloom, CALM analysis can automatically verify that program modules achieve consistency without coordination.
+In this paper we present Bloom L , an extension to Bloom that takes inspiration from both these traditions. Bloom L  generalizes Bloom to support lattices and extends the power of CALM analysis to whole programs containing arbitrary lattices. We show how the Bloom interpreter can be generalized to support efficient evaluation of lattice-based code using well-known strategies from logic programming.  Finally, we use Bloom L  to develop several practical distributed programs, including a key-value store similar to Amazon Dynamo, and show how Bloom L  encourages the safe composition of small, easy-to-analyze lattices into larger programs.
+BibTeX citation:
+@techreport{Conway:EECS-2012-167,
+Author= {Conway, Neil and Marczak, William and Alvaro, Peter and Hellerstein, Joseph M. and Maier, David},
+Title= {Logic and Lattices for Distributed Programming},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-167.html},
+Number= {UCB/EECS-2012-167},
+Abstract= {In recent years there has been interest in achieving application-level consistency criteria without the latency and availability costs of strongly consistent storage infrastructure. A standard technique is to adopt a vocabulary of commutative operations; this avoids the risk of inconsistency due to message reordering.  A more powerful approach was recently captured by the <i>CALM theorem</i>, which proves that logically monotonic programs are guaranteed to be eventually consistent. In logic languages such as Bloom, CALM analysis can automatically verify that program modules achieve consistency without coordination.
+<p>
+In this paper we present Bloom<sup><i>L</i></sup>, an extension to Bloom that takes inspiration from both these traditions. Bloom<sup><i>L</i></sup> generalizes Bloom to support lattices and extends the power of CALM analysis to whole programs containing arbitrary lattices. We show how the Bloom interpreter can be generalized to support efficient evaluation of lattice-based code using well-known strategies from logic programming.  Finally, we use Bloom<sup><i>L</i></sup> to develop several practical distributed programs, including a key-value store similar to Amazon Dynamo, and show how Bloom<sup><i>L</i></sup> encourages the safe composition of small, easy-to-analyze lattices into larger programs.},
+}
+EndNote citation:
+%0 Report
+%A Conway, Neil
+%A Marczak, William
+%A Alvaro, Peter
+%A Hellerstein, Joseph M.
+%A Maier, David
+%T Logic and Lattices for Distributed Programming
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 22
+%@ UCB/EECS-2012-167
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-167.html
+%F Conway:EECS-2012-167

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29204.html
+Relational Decomposition Preserving Functional Dependence | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Relational Decomposition Preserving Functional Dependence
+Relational Decomposition Preserving Functional Dependence
+W. Chang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/47
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-47.pdf
+BibTeX citation:
+@techreport{Chang:M78/47,
+Author = {Chang, W.},
+Title = {Relational Decomposition Preserving Functional Dependence},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29204.html},
+Number = {UCB/ERL M78/47}
+}
+EndNote citation:
+%0 Report
+%A Chang, W.
+%T Relational Decomposition Preserving Functional Dependence
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29204.html
+%F Chang:M78/47

@@ -1,0 +1,14 @@
+URL: https://eecs.berkeley.edu/book/2019-2/faculty-3/listgarten
+BEARS 2019: Jennifer Listgarten - EECS at Berkeley
+BEARS 2019: Jennifer Listgarten
+Machine learning for protein engineering
+Berkeley Annual Research Symposium (BEARS) 2019
+Jennifer Listgarten
+Abstract
+With the advent of more and more high-throughput technologies to measure protein properties of interest such as binding, expression, fluorescence, the time for machine learning to act synergistically with protein design is here. I will touch on two stories in this space. The first will be about how machine learning can be leveraged to improve CRISPR gene editing. The second will touch on how one can accelerate design/optimization of proteins with machine learning approaches— a sort of  in silico  approach to the method of Directed Evolution, which won the 2018 Nobel prize in Chemistry.
+Biography
+Jennifer Listgarten  is a Professor in the  EECS  department and   Center for Computational Biology , a member of the steering committee for the  Berkeley AI Research (BAIR) Lab , and a Chan Zuckerberg investigator.  From 2007 to 2017 she was at Microsoft Research and before that, earned a PhD in the machine learning group at the University of Toronto.  Her expertise is in machine learning, applied statistics and computational biology. She is interested in both methods development as well as application of methods to enable new insight into basic biology and medicine.  Current areas of interest include: computational methods for protein design/engineering for properties such as expression, fluorescence, binding, stability, etc.; similar methods applied to molecule design; drug repositioning and discovery; machine learning methods development, and in particular at the intersection of graphical models, neural networks and variational inference, as well as inverting black box probabilistic functions to perform input optimization of probabilistic functions; genetic association studies with complex, high-dimensional traits such as image volumes over time.
+< BEARS 2019: Yun Song
+BEARS 2019: Michael Lustig >
+View
+Open Faculty Positions

@@ -1,0 +1,43 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-224.html
+Tools & Strategies for Social Data Analysis
+Wesley Jay Willett
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-224
+December 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-224.pdf
+Data analysis is often a complex, iterative process that involves a variety of stakeholders and requires a range of technical and professional competencies. However, in practice, tools for visualizing,analyzing, and communicating insights from data have primarily been designed to support individual users.
+In the past decade a handful of research systems like sense.us and Many Eyes have begun to explore how web-based visualization tools can allow larger groups of users to participate in analyses. Commercial data visualization tools such as Tableau and Spotfire have also begun to embrace the increasingly social web with support for sharing, discussion, and embedding for wider audiences. Social data analysis tools like these mark the beginning of a great sea change in the way we think about data, its impact on our lives, and the ways in which we interact with it. These systems point towards a future in which large teams, communities, and crowds can participate in the collection, discussion, and analysis of data, and benefit from it. Collaborative tools will also improve the quality of analyses by allowing analysis teams to work together more closely — sharing ideas, hypotheses, and findings — and allowing groups with heterogeneous expertise to bring their individual strengths to bear to solve data-driven problems.
+However, tools for collaboratively authoring, sharing, and exploring visualizations remain embryonic. The design space of tools for collaborative visual analysis is still largely unexplored and models for understanding the collaboration between analysts, domain experts, and novice participants are limited. This thesis contributes a suite of systems and experiments that explore key aspects of social data analysis and investigate how collaborative data analysis tools can support multiple classes of stakeholders.
+First, we explore the design of asynchronous tools for team-based collaboration and analysis and examine how they can facilitate more productive collaboration. We present an interactive tool, CommentSpace, that allows analysts to discuss visualizations and other analytic content. Using CommentSpace, we explore how lightweight collaboration mechanisms like tagging and linking can help  collaborators organize their findings and build common ground.
+The growing ubiquity of sensing and analysis tools also opens the door to a range of new nontraditional participants in data analysis. We explore the role of social data analysis tools in citizen science — a domain where novice community members are increasingly engaged in data collection and have the potential to contribute to analysis as well. We examine how analysis tools can be tailored to scaffold novice users into the process of data analysis, encouraging participation and understanding while contributing valuable local insights.
+Finally, we explore mechanisms for scaling and parallelizing data analysis, even in the absence of a dedicated community or team of analysts. We investigate how individual analysts can crowdsource pieces of social data analysis tasks using paid workers in order to leverage the collective effort of many participants. We demonstrate how large groups of workers can perform cognitively complex tasks like generating and rating hypotheses, and provide tools to help analysts manage the results of this process.
+These tools and strategies, along with our evaluations of them, highlight the potential of social data analysis in a variety of settings with different kinds of stakeholders. Moreover, our findings suggest leverage points for future social data analysis systems.
+Advisors:  Maneesh Agrawala
+BibTeX citation:
+@phdthesis{Willett:EECS-2012-224,
+Author= {Willett, Wesley Jay},
+Title= {Tools & Strategies for Social Data Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-224.html},
+Number= {UCB/EECS-2012-224},
+Abstract= {Data analysis is often a complex, iterative process that involves a variety of stakeholders and requires a range of technical and professional competencies. However, in practice, tools for visualizing,analyzing, and communicating insights from data have primarily been designed to support individual users.
+In the past decade a handful of research systems like sense.us and Many Eyes have begun to explore how web-based visualization tools can allow larger groups of users to participate in analyses. Commercial data visualization tools such as Tableau and Spotfire have also begun to embrace the increasingly social web with support for sharing, discussion, and embedding for wider audiences. Social data analysis tools like these mark the beginning of a great sea change in the way we think about data, its impact on our lives, and the ways in which we interact with it. These systems point towards a future in which large teams, communities, and crowds can participate in the collection, discussion, and analysis of data, and benefit from it. Collaborative tools will also improve the quality of analyses by allowing analysis teams to work together more closely &mdash; sharing ideas, hypotheses, and findings &mdash; and allowing groups with heterogeneous expertise to bring their individual strengths to bear to solve data-driven problems.
+However, tools for collaboratively authoring, sharing, and exploring visualizations remain embryonic. The design space of tools for collaborative visual analysis is still largely unexplored and models for understanding the collaboration between analysts, domain experts, and novice participants are limited. This thesis contributes a suite of systems and experiments that explore key aspects of social data analysis and investigate how collaborative data analysis tools can support multiple classes of stakeholders.
+First, we explore the design of asynchronous tools for team-based collaboration and analysis and examine how they can facilitate more productive collaboration. We present an interactive tool, CommentSpace, that allows analysts to discuss visualizations and other analytic content. Using CommentSpace, we explore how lightweight collaboration mechanisms like tagging and linking can help  collaborators organize their findings and build common ground.
+The growing ubiquity of sensing and analysis tools also opens the door to a range of new nontraditional participants in data analysis. We explore the role of social data analysis tools in citizen science &mdash; a domain where novice community members are increasingly engaged in data collection and have the potential to contribute to analysis as well. We examine how analysis tools can be tailored to scaffold novice users into the process of data analysis, encouraging participation and understanding while contributing valuable local insights.
+Finally, we explore mechanisms for scaling and parallelizing data analysis, even in the absence of a dedicated community or team of analysts. We investigate how individual analysts can crowdsource pieces of social data analysis tasks using paid workers in order to leverage the collective effort of many participants. We demonstrate how large groups of workers can perform cognitively complex tasks like generating and rating hypotheses, and provide tools to help analysts manage the results of this process.
+These tools and strategies, along with our evaluations of them, highlight the potential of social data analysis in a variety of settings with different kinds of stakeholders. Moreover, our findings suggest leverage points for future social data analysis systems.},
+}
+EndNote citation:
+%0 Thesis
+%A Willett, Wesley Jay
+%T Tools & Strategies for Social Data Analysis
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 3
+%@ UCB/EECS-2012-224
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-224.html
+%F Willett:EECS-2012-224

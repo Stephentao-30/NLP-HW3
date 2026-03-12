@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-119.html
+A CMOS Magnetic Sensor Chip for Biomedical Applications
+Paul Liu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-119
+May 24,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-119.pdf
+Advisors:  Bernhard Boser
+BibTeX citation:
+@phdthesis{Liu:EECS-2012-119,
+Author= {Liu, Paul},
+Title= {A CMOS Magnetic Sensor Chip for Biomedical Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-119.html},
+Number= {UCB/EECS-2012-119},
+}
+EndNote citation:
+%0 Thesis
+%A Liu, Paul
+%T A CMOS Magnetic Sensor Chip for Biomedical Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 24
+%@ UCB/EECS-2012-119
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-119.html
+%F Liu:EECS-2012-119

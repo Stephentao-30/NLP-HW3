@@ -1,0 +1,42 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-118.html
+A Fast Filter for Physically-Based Rendering
+Brandon Wang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-118
+May 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-118.pdf
+Building on a novel frequency analysis of soft shadows and diffuse indirect
+lighting, we develop a simple and efficient filter on noisy ray traced images
+that approaches ground truth renderings. Our filter is accurate, simple, and
+efficient, allowing for interactive renderings of computationally expensive
+effects, when coupled with an interactive ray tracer, such as NVIDIA's OptiX.
+Advisors:  Ravi Ramamoorthi
+BibTeX citation:
+@mastersthesis{Wang:EECS-2013-118,
+Author= {Wang, Brandon},
+Editor= {Ramamoorthi, Ravi and O'Brien, James},
+Title= {A Fast Filter for Physically-Based Rendering},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-118.html},
+Number= {UCB/EECS-2013-118},
+Abstract= {Building on a novel frequency analysis of soft shadows and diffuse indirect
+lighting, we develop a simple and efficient filter on noisy ray traced images
+that approaches ground truth renderings. Our filter is accurate, simple, and
+efficient, allowing for interactive renderings of computationally expensive
+effects, when coupled with an interactive ray tracer, such as NVIDIA's OptiX.},
+}
+EndNote citation:
+%0 Thesis
+%A Wang, Brandon
+%E Ramamoorthi, Ravi
+%E O'Brien, James
+%T A Fast Filter for Physically-Based Rendering
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 31
+%@ UCB/EECS-2013-118
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-118.html
+%F Wang:EECS-2013-118

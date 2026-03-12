@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-59.html
+From the Telegraph to Twitter Group Chats | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+From the Telegraph to Twitter Group Chats
+From the Telegraph to Twitter Group Chats
+James Cook
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-59
+May 9, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-59.pdf
+Communication now is easier than ever before. One consequence of this is the emergence of virtual communities, unconstrained by physical proximity. We perform two investigations into changing social trends. We study a corpus of 100 years of newspaper articles to see if we can find evidence to support the popular intuition that as news cycles have sped up, the public's attention span has gotten shorter. We find no such evidence: to the contrary, we find that the typical length of time that a person's name stays in the news has not changed over time, and celebrities now stay in the news for longer than ever before. We also investigate a new kind of community on Twitter called a group chat, where members have regular meetings to discuss a broad range of topics, from medical conditions to hobbies. We find that the phenomenon is growing over time, and paint a broad picture of the topics which one could find a group chat to discuss. With a view to helping connect new participants to group chats they may not have been able to find or might not have been aware of, we design an algorithm to rank group chats in the context of a topic given as a query.
+Advisor:  Satish Rao
+BibTeX citation:
+@phdthesis{Cook:EECS-2014-59,
+Author = {Cook, James},
+Title = {From the Telegraph to Twitter Group Chats},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-59.html},
+Number = {UCB/EECS-2014-59},
+Abstract = {Communication now is easier than ever before.  One consequence of this is the emergence of virtual communities, unconstrained by physical proximity.  We perform two investigations into changing social trends.  We study a corpus of 100 years of newspaper articles to see if we can find evidence to support the popular intuition that as news cycles have sped up, the public's attention span has gotten shorter.  We find no such evidence: to the contrary, we find that the typical length of time that a person's name stays in the news has not changed over time, and celebrities now stay in the news for longer than ever before.  We also investigate a new kind of community on Twitter called a group chat, where members have regular meetings to discuss a broad range of topics, from medical conditions to hobbies.  We find that the phenomenon is growing over time, and paint a broad picture of the topics which one could find a group chat to discuss.  With a view to helping connect new participants to group chats they may not have been able to find or might not have been aware of, we design an algorithm to rank group chats in the context of a topic given as a query.}
+}
+EndNote citation:
+%0 Thesis
+%A Cook, James
+%T From the Telegraph to Twitter Group Chats
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 9
+%@ UCB/EECS-2014-59
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-59.html
+%F Cook:EECS-2014-59

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7525.html
+Charge Circuits for Analog LSI | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Charge Circuits for Analog LSI
+Charge Circuits for Analog LSI
+Robert H. McCharles
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/24
+March 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-24.pdf
+Advisor:  David A. Hodges
+BibTeX citation:
+@phdthesis{McCharles:M81/24,
+Author = {McCharles, Robert H.},
+Title = {Charge Circuits for Analog LSI},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7525.html},
+Number = {UCB/ERL M81/24}
+}
+EndNote citation:
+%0 Thesis
+%A McCharles, Robert H.
+%T Charge Circuits for Analog LSI
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7525.html
+%F McCharles:M81/24

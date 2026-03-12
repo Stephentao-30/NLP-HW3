@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28859.html
+Interprocedural Data Flow Analysis Based on Transitive Closure
+Jeffrey M. Barth
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M600
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-600.pdf
+BibTeX citation:
+@techreport{Barth:M600,
+Author= {Barth, Jeffrey M.},
+Title= {Interprocedural Data Flow Analysis Based on Transitive Closure},
+Year= {1976},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28859.html},
+Number= {UCB/ERL M600},
+}
+EndNote citation:
+%0 Report
+%A Barth, Jeffrey M.
+%T Interprocedural Data Flow Analysis Based on Transitive Closure
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M600
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28859.html
+%F Barth:M600

@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-127.html
+Communication-Avoiding Symmetric-Indefinite Factorization
+Grey Ballard and Dulceneia Becker and James Demmel and Jack Dongarra and Alex Druinsky and Inon Peled and Oded Schwartz and Sivan Toledo and Ichitaro Yamazaki
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-127
+July 5,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-127.pdf
+We describe and analyze a novel symmetric triangular factorization algorithm. The algorithm is essentially a block version of Aasen’s triangular tridiagonalization. It factors a dense symmetric matrix A as the product A = PL^TLTP^T where P is a permutation matrix, L is lower triangular, and T is block tridiagonal and banded. The algorithm is the first symmetric-indefinite communication-avoiding factorization: it performs an asymptotically optimal amount of communication in a two-level memory hierarchy for almost any cache-line size. Adaptations of the algorithm to parallel computers are likely to be communication efficient as well; one such adaptation has been recently published. The current paper describes the algorithm, proves that it is numerically stable, and proves that it is communication optimal.
+BibTeX citation:
+@techreport{Ballard:EECS-2013-127,
+Author= {Ballard, Grey and Becker, Dulceneia and Demmel, James and Dongarra, Jack and Druinsky, Alex and Peled, Inon and Schwartz, Oded and Toledo, Sivan and Yamazaki, Ichitaro},
+Title= {Communication-Avoiding Symmetric-Indefinite Factorization},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-127.html},
+Number= {UCB/EECS-2013-127},
+Abstract= {We describe and analyze a novel symmetric triangular factorization algorithm. The algorithm is essentially a block version of Aasen’s triangular tridiagonalization. It factors a dense symmetric matrix A as the product A = PL^TLTP^T where P is a permutation matrix, L is lower triangular, and T is block tridiagonal and banded. The algorithm is the first symmetric-indefinite communication-avoiding factorization: it performs an asymptotically optimal amount of communication in a two-level memory hierarchy for almost any cache-line size. Adaptations of the algorithm to parallel computers are likely to be communication efficient as well; one such adaptation has been recently published. The current paper describes the algorithm, proves that it is numerically stable, and proves that it is communication optimal.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Becker, Dulceneia
+%A Demmel, James
+%A Dongarra, Jack
+%A Druinsky, Alex
+%A Peled, Inon
+%A Schwartz, Oded
+%A Toledo, Sivan
+%A Yamazaki, Ichitaro
+%T Communication-Avoiding Symmetric-Indefinite Factorization
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 5
+%@ UCB/EECS-2013-127
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-127.html
+%F Ballard:EECS-2013-127

@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28659.html
+The "Frozen Operating Point" Method of Small Signal Analysis
+C.A. Desoer and B. Peikari
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M260
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-260.pdf
+BibTeX citation:
+@techreport{Desoer:M260,
+Author= {Desoer, C.A. and Peikari, B.},
+Title= {The "Frozen Operating Point" Method of Small Signal Analysis},
+Year= {1969},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28659.html},
+Number= {UCB/ERL M260},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Peikari, B.
+%T The "Frozen Operating Point" Method of Small Signal Analysis
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M260
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28659.html
+%F Desoer:M260

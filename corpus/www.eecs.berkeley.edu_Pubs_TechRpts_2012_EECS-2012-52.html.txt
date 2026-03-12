@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-52.html
+Poselets and Their Applications in High-Level Computer Vision
+Lubomir Bourdev
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-52
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-52.pdf
+Part detectors are a common way to handle the variability in appearance in high-level computer vision problems, such as detection and semantic segmentation. Identifying good parts, however, remains an open question. Anatomical parts, such as arms and legs, are difficult to detect reliably because parallel lines are common in natural images. In contrast, a visual conjunction such as "half of a frontal face and a left shoulder" may be a perfectly good discriminative visual pattern.  We propose a new computer vision part, called a \emph{poselet}, which is trained to respond to a given part of the object at a given viewpoint and pose. There is a wide variety of poselets -- a frontal face, a profile face, a head-and-shoulder configuration, etc. A requirement for training poselets is that the visual correspondence of object parts in the training images be provided. We create a new dataset, H3D, in which we annotate the locations of keypoints of people, infer their 3D pose and label their parts (the face, hair, upper clothes, etc.). Our richly annotated dataset allows for creation of poselets as well as other queries not possible with traditional datasets.
+To train a poselet associated with a given image patch, we find other patches that have the same local configuration of keypoints and use them as positive training examples. We use HOG features and linear SVM classifiers. The resulting poselet is trained to recognize the visual patterns associated with the given local configuration of keypoints, which, in turn, makes it respond to a specific pose under a specific viewpoint regardless of the variation in appearance.
+High-level computer vision is challenging because the image is a function of multiple somewhat independent factors, such as the appearance model of the object, its pose, and the camera viewpoint. Poselets allow us to "untie the knot", i.e. decouple the pose from the appearance and model them separately. We show that this property helps in a variety of high-level computer vision tasks. Our person detector based on poselets is the leading method on the PASCAL VOC 2009 and 2010 person detection competitions and naturally extends to other visual classes. We currently have the best semantic segmentation engine for person and several other categories on the PASCAL 2010 segmentation datasets. We report competitive performance for pose and action recognition and we are the first method to do attribute classification for people under any viewpoint and pose.
+Advisors:  Jitendra Malik
+BibTeX citation:
+@phdthesis{Bourdev:EECS-2012-52,
+Author= {Bourdev, Lubomir},
+Title= {Poselets and Their Applications in High-Level Computer Vision},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-52.html},
+Number= {UCB/EECS-2012-52},
+Abstract= {Part detectors are a common way to handle the variability in appearance in high-level computer vision problems, such as detection and semantic segmentation. Identifying good parts, however, remains an open question. Anatomical parts, such as arms and legs, are difficult to detect reliably because parallel lines are common in natural images. In contrast, a visual conjunction such as "half of a frontal face and a left shoulder" may be a perfectly good discriminative visual pattern.  We propose a new computer vision part, called a \emph{poselet}, which is trained to respond to a given part of the object at a given viewpoint and pose. There is a wide variety of poselets -- a frontal face, a profile face, a head-and-shoulder configuration, etc. A requirement for training poselets is that the visual correspondence of object parts in the training images be provided. We create a new dataset, H3D, in which we annotate the locations of keypoints of people, infer their 3D pose and label their parts (the face, hair, upper clothes, etc.). Our richly annotated dataset allows for creation of poselets as well as other queries not possible with traditional datasets.
+To train a poselet associated with a given image patch, we find other patches that have the same local configuration of keypoints and use them as positive training examples. We use HOG features and linear SVM classifiers. The resulting poselet is trained to recognize the visual patterns associated with the given local configuration of keypoints, which, in turn, makes it respond to a specific pose under a specific viewpoint regardless of the variation in appearance.
+High-level computer vision is challenging because the image is a function of multiple somewhat independent factors, such as the appearance model of the object, its pose, and the camera viewpoint. Poselets allow us to "untie the knot", i.e. decouple the pose from the appearance and model them separately. We show that this property helps in a variety of high-level computer vision tasks. Our person detector based on poselets is the leading method on the PASCAL VOC 2009 and 2010 person detection competitions and naturally extends to other visual classes. We currently have the best semantic segmentation engine for person and several other categories on the PASCAL 2010 segmentation datasets. We report competitive performance for pose and action recognition and we are the first method to do attribute classification for people under any viewpoint and pose.},
+}
+EndNote citation:
+%0 Thesis
+%A Bourdev, Lubomir
+%T Poselets and Their Applications in High-Level Computer Vision
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-52.html
+%F Bourdev:EECS-2012-52

@@ -1,0 +1,67 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/graham-s.html
+Susan L. Graham: Faculty Home Page
+Larger Photo
+Susan L. Graham
+Professor Emerita
+Contact Information
+751 Soda Hall
+tel:  510-642-2059
+graham@cs.berkeley.edu
+Office Hours
+by appointment, 751 Soda
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Thomas Parsons
+tparsons@berkeley.edu
+Biography
+She is the Pehong Chen Distinguished Professor of Electrical Engineering and Computer Science Emerita at the UC Berkeley.  She received an A.B. in mathematics from Harvard University and M.S. and Ph.D. degrees in Computer  Science from Stanford University. Her research spans many aspects of programming language implementation, software tools, software development, environments, and high-performance computing.  As a participant in the Berkeley Unix project, she and her students built the Berkeley Pascal system and the widely used program profiling tool gprof.  Their paper on that tool was selected for the list of best papers from twenty years of the Conference on Programming Language Design and Implementation (1979-1999).  She is a Member of the National Academy of Engineering, a Fellow of the Association for Computing Machinery, the American Association for the Advancement of Science, the American Academy of Arts and Sciences, and the Institute of Electrical and Electronics Engineers, and an Eminent Member of Eta Kappa Nu. She was the founding editor-in-chief of the ACM Transactions on Programming Languages and Systems.  Her honors include the ACM SIGPLAN Career Programming Language Achievement Award (2000), the ACM Distinguished Service Award (2006), the Harvard Medal (2008), the IEEE von Neumann Medal (2009), the Berkeley Citation (2009), the ACM/IEEE Ken Kennedy Award (2011), and the Computing Research Association Distinguished Service Award (2012). She was named a University of California Honored Woman of the CAL Community in 1995 and a Berkeley Fellow in 2011.   She has served on numerous advisory committees; among them, the U.S. President's Information Technology Advisory Committee (PITAC),  the Harvard Board of Overseers, the Curtis Institute of Music Board of Overseers, the Harvard Corporation, and the President's Council of Advisors on Science and Technology (PCAST).  She served as the Chief Computer Scientist for the NSF-sponsored National Partnership for Advanced Computational Infrastructure (NPACI) from 1997 to 2005, and as Vice-Chair and then Chair of the  NSF-sponsored Computing Community Consortium.  She is co-Chair of the Board of Trustees of Cal Performances.
+Research Areas
+Graphics (GR)
+Human-Computer Interaction (HCI)
+Programming Systems (PS)
+Scientific Computing (SCI)
+Software development environments, software engineering
+P. N. Hilfinger, D. Bonachea, K. Datta, D. Gay, S. L. Graham, A. Kamil, B. Liblit, G. Pike, J. Su, and K. A. Yelick, " Titanium Language Reference Manual (Version 2.20) ," 2006.
+NRC Committee,  Getting Up to Speed: The Future of Supercomputing , S. L. Graham, M. Snir, and C. A. Patterson, Eds., Washington, D.C.: The National Academies Press, 2005.
+S. L. Graham, P. B. Kessler, and M. K. McKusick, " Among Best Papers from Twenty Years of the Conference on Programming Language Design and Implementation (1979-1999): gprof: A call graph execution profiler ,"  ACM SIGPLAN Notices: Special Issue on the Best of PLDI 1979-1999 , vol. 39, no. 4, pp. 49-57, April 2004.
+A. Begel, S. McCanne, and S. L. Graham, " BPF+: Exploiting global data-flow optimization in a generalized packet filter architecture ," in  Proc. Conf. on Applications, Technologies, Architectures, and Protocols for Computer Communication , New York, NY: ACM Press, 1999, pp. 123-134.
+K. A. Yelick, L. Semenzato, G. Pike, C. Miyamoto, B. Liblit, A. Krishnamurthy, P. N. Hilfinger, S. L. Graham, D. Gay, P. Colella, and A. Aiken, " Titanium: A high-performance Java dialect ,"  Concurrency: Practice and Experience , vol. 10, no. 11-13, pp. 825-836, Sep. 1998.
+D. F. Bacon, S. L. Graham, and O. J. Sharp, " Compiler transformations for high-performance computing ,"  ACM Computing Surveys , vol. 26, no. 4, pp. 345-420, Dec. 1994.
+T. A. Wagner, V. Maverick, S. L. Graham, and M. A. Harrison, " Accurate static estimators for program optimization ," in  Proc. ACM SIGPLAN 1994 Conf. on Programming Language Design and Implementation , New York, NY: ACM Press, 1994, pp. 85-96.
+R. Wahbe, S. Lucco, T. E. Anderson, and S. L. Graham, " Efficient software-based fault isolation ," in  Proc. 14th ACM Symp. on Operating System Principles , New York, NY: ACM Press, 1994, pp. 203-216.
+R. Giegerich and S. L. Graham, Eds.,  Code Generation: Concepts, Tools, Techniques , Workshops in Computing, New York, NY: Springer-Verlag, 1992.
+S. L. Graham and M. L. Van de Vanter, " The Pan language-based editing system ,"  ACM Trans. Software Engineering and Methodology , vol. 1, no. 1, pp. 95-117, Jan. 1992.
+R. L. Ashenhurst and S. L. Graham, Eds.,  ACM Turing Award Lectures: The First Twenty Years: 1966-1985 , ACM Press Anthology Series, New York, NY: ACM Press/Addison-Wesley Publishing Co., 1987.
+S. L. Graham, M. A. Harrison, and W. L. Ruzzo, " An improved context-free recognizer ,"  ACM Trans. Programming Languages and Systems , vol. 2, no. 3, pp. 415-462, July 1980.
+R. S. Glanville and S. L. Graham, " A new method for compiler code generation ," in  Proc. 5th ACM SIGACT-SIGPLAN Symp. on Principles of Programming Languages , New York, NY: ACM Press, 1978, pp. 231-254.
+S. L. Graham, C. B. Haley, and W. N. Joy, " Berkeley Pascal User's Manual (Version 1) ," 1977.
+S. L. Graham and M. Wegman, " A fast and usually linear algorithm for global flow analysis ,"  J. ACM , vol. 23, no. 1, pp. 172-202, Jan. 1976.
+ACM SIGOPS Hall of Fame Award ,
+2015
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2012
+CRA Distinguished Service Award ,
+2012
+ACM-IEEE CS Ken Kennedy Award ,
+2011
+Berkeley Citation ,
+2009
+IEEE John von Neumann Medal ,
+2009
+Harvard Medal ,
+2008
+ACM Distinguished Service Award ,
+2006
+ACM SIGPLAN Programming Languages Achievement Award ,
+2000
+American Academy of Arts and Sciences Member ,
+1995
+Association for Computing Machinery (ACM) Fellow ,
+1994
+National Academy of Engineering (NAE) Member ,
+1993
+American Association for the Advancement of Science (AAAS) Fellow ,
+1991

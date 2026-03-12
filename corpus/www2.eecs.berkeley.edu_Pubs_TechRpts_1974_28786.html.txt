@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28786.html
+Fuzzy Logic and Approximate Reasoning | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fuzzy Logic and Approximate Reasoning
+Fuzzy Logic and Approximate Reasoning
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M479
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-479.pdf
+BibTeX citation:
+@techreport{Zadeh:M479,
+Author = {Zadeh, L.A.},
+Title = {Fuzzy Logic and Approximate Reasoning},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28786.html},
+Number = {UCB/ERL M479}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Fuzzy Logic and Approximate Reasoning
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M479
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28786.html
+%F Zadeh:M479

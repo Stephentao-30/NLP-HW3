@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28762.html
+Molecular Dissociation in the Electron Microscope | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Molecular Dissociation in the Electron Microscope
+Molecular Dissociation in the Electron Microscope
+Mihir Parikh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M431
+April 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-431.pdf
+BibTeX citation:
+@techreport{Parikh:M431,
+Author = {Parikh, Mihir},
+Title = {Molecular Dissociation in the Electron Microscope},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28762.html},
+Number = {UCB/ERL M431}
+}
+EndNote citation:
+%0 Report
+%A Parikh, Mihir
+%T Molecular Dissociation in the Electron Microscope
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M431
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28762.html
+%F Parikh:M431

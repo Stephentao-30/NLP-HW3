@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-63.html
+Improving Energy Efficiency and Reducing Code Size with RISC-V Compressed
+Andrew Waterman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-63
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-63.pdf
+Delivering the instruction stream can be the largest source of energy consumption in a processor, yet loosely-encoded RISC instruction sets are wasteful of instruction bandwidth. Aiming to improve the performance and energy efficiency of the RISC-V ISA, this thesis proposes RISC-V Compressed (RVC), a variable-length instruction set extension. RVC is a superset of the RISC-V ISA, encoding the most frequent instructions in half the size of a RISC- V instruction; the remaining functionality is still accessible with full-length instructions. RVC programs are 25% smaller than RISC-V programs, fetch 25% fewer instruction bits than RISC- V programs, and incur fewer instruction cache misses. Its code size is competitive with other compressed RISCs. RVC is expected to improve the performance and energy per operation of RISC-V.
+Advisors:  David A. Patterson and Krste Asanović
+BibTeX citation:
+@mastersthesis{Waterman:EECS-2011-63,
+Author= {Waterman, Andrew},
+Title= {Improving Energy Efficiency and Reducing Code Size with RISC-V Compressed},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-63.html},
+Number= {UCB/EECS-2011-63},
+Abstract= {Delivering the instruction stream can be the largest source of energy consumption in a processor, yet loosely-encoded RISC instruction sets are wasteful of instruction bandwidth. Aiming to improve the performance and energy efficiency of the RISC-V ISA, this thesis proposes RISC-V Compressed (RVC), a variable-length instruction set extension. RVC is a superset of the RISC-V ISA, encoding the most frequent instructions in half the size of a RISC- V instruction; the remaining functionality is still accessible with full-length instructions. RVC programs are 25% smaller than RISC-V programs, fetch 25% fewer instruction bits than RISC- V programs, and incur fewer instruction cache misses. Its code size is competitive with other compressed RISCs. RVC is expected to improve the performance and energy per operation of RISC-V.},
+}
+EndNote citation:
+%0 Thesis
+%A Waterman, Andrew
+%T Improving Energy Efficiency and Reducing Code Size with RISC-V Compressed
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-63.html
+%F Waterman:EECS-2011-63

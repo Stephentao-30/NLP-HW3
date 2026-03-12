@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS272
+CS 272. Foundations of Decisions, Learning, and Games
+Catalog Description:  This course introduces students to the mathematical foundation of learning in the presence of strategic and societal agency. This is a theory-oriented course that will draw from the statistical and computational foundations of machine learning, computer science, and economics. As a research-oriented course, a range of advanced topics will be explored to paint a comprehensive
+picture of classical and modern approaches to learning for the purpose of decision making.These topics include foundations of learning, foundations of algorithmic game theory, cooperative and non-cooperative games, equilibria and dynamics, learning in games, information asymmetries, mechanism design, and learning with incentives.
+Units:  4
+Prerequisites:  Graduate-level mathematical maturity, including proof-based graduate-level courses in at least two, but recommended three, of the following categories:
+Statistics and Probability, e.g., STAT205A, STAT210B
+Economics, e.g., ECON207A
+Algorithms, e.g., CS270
+Optimization, e.g., EE 227B
+Control theory, e.g., EE 221A
+Credit Restrictions:  Students will receive no credit for COMPSCI 272 after completing COMPSCI 272. A deficient grade in COMPSCI 272 may be removed by taking COMPSCI 272.
+Formats:  Fall: 3.0 hours of lecture per week
+Spring: 3.0 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam

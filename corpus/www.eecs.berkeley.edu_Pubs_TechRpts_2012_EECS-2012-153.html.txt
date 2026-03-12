@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-153.html
+Evaluation of Visible and Invisible Fiducial Markers for Clothing Tracking
+Siyu E
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-153
+June 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-153.pdf
+In this paper, we summarize and evaluate the techniques for detecting and identifying the detection patterns in the context of clothing simulation for PR2 (and any robot using Robot Operating System as its OS). We illustrate in this context, why the marker processing algorithm introduced in ARToolkit - Based Tracking[7] is the best performer for minimal detectable pattern size and under warping configurations. Additionally, for our shirts to be similar enough with typical shirts, we also present a solution for PR2 to simulate the behavior of a unique marked-up clothing with invisible detection patterns. This article will describe in detail how we improve the algorithm to detect and identify UV ink markers using the Kinect system.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{E:EECS-2012-153,
+Author= {E, Siyu},
+Title= {Evaluation of Visible and Invisible Fiducial Markers for Clothing Tracking},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-153.html},
+Number= {UCB/EECS-2012-153},
+Abstract= {In this paper, we summarize and evaluate the techniques for detecting and identifying the detection patterns in the context of clothing simulation for PR2 (and any robot using Robot Operating System as its OS). We illustrate in this context, why the marker processing algorithm introduced in ARToolkit - Based Tracking[7] is the best performer for minimal detectable pattern size and under warping configurations. Additionally, for our shirts to be similar enough with typical shirts, we also present a solution for PR2 to simulate the behavior of a unique marked-up clothing with invisible detection patterns. This article will describe in detail how we improve the algorithm to detect and identify UV ink markers using the Kinect system.},
+}
+EndNote citation:
+%0 Thesis
+%A E, Siyu
+%T Evaluation of Visible and Invisible Fiducial Markers for Clothing Tracking
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 1
+%@ UCB/EECS-2012-153
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-153.html
+%F E:EECS-2012-153

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29031.html
+An Approach to Implementing a Geo-Data System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Approach to Implementing a Geo-Data System
+An Approach to Implementing a Geo-Data System
+Angela Go, Michael Stonebraker and Carol Williams
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M529
+June 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-529.pdf
+BibTeX citation:
+@techreport{Go:M529,
+Author = {Go, Angela and Stonebraker, Michael and Williams, Carol},
+Title = {An Approach to Implementing a Geo-Data System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29031.html},
+Number = {UCB/ERL M529}
+}
+EndNote citation:
+%0 Report
+%A Go, Angela
+%A Stonebraker, Michael
+%A Williams, Carol
+%T An Approach to Implementing a Geo-Data System
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M529
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29031.html
+%F Go:M529

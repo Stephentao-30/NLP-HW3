@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-37.html
+Resilient Design Methodology for Energy-Efficient SRAM
+Brian Zimmer and Borivoje Nikolic and Krste Asanović
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-37
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-37.pdf
+Increasing process variability limits energy reduction in SRAM design by increasing the need for margining and preventing optimal supply voltage scaling. However, tolerating variability with resilient designs can prevent these limitations and enable future energy-efficiency improvements. Understanding resiliency requires understanding how design decisions affect error rates—therefore we propose a unified analytical framework for SRAM design that uses importance sampling of dynamic failure metrics to quantify the effect of different assist techniques, array organization, and timing on failure rates of a 28nm arrays at design-time. Dynamic voltage and frequency scaling (DVFS) systems show great potential to improve energy-efficiency, but require designs that are both operational and efficient over a wide range of supply voltages. We propose replica circuits that adapt array settings based on corners and supply voltage to optimize energy-efficiency over the entire supply voltage range. Last, we extend our results to improve micro-architectural design of an on-chip cache system.
+Advisors:  Borivoje Nikolic and Krste Asanović
+BibTeX citation:
+@mastersthesis{Zimmer:EECS-2013-37,
+Author= {Zimmer, Brian and Nikolic, Borivoje and Asanović, Krste},
+Title= {Resilient Design Methodology for Energy-Efficient SRAM},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-37.html},
+Number= {UCB/EECS-2013-37},
+Abstract= {Increasing process variability limits energy reduction in SRAM design by increasing the need for margining and preventing optimal supply voltage scaling. However, tolerating variability with resilient designs can prevent these limitations and enable future energy-efficiency improvements. Understanding resiliency requires understanding how design decisions affect error rates—therefore we propose a unified analytical framework for SRAM design that uses importance sampling of dynamic failure metrics to quantify the effect of different assist techniques, array organization, and timing on failure rates of a 28nm arrays at design-time. Dynamic voltage and frequency scaling (DVFS) systems show great potential to improve energy-efficiency, but require designs that are both operational and efficient over a wide range of supply voltages. We propose replica circuits that adapt array settings based on corners and supply voltage to optimize energy-efficiency over the entire supply voltage range. Last, we extend our results to improve micro-architectural design of an on-chip cache system.},
+}
+EndNote citation:
+%0 Thesis
+%A Zimmer, Brian
+%A Nikolic, Borivoje
+%A Asanović, Krste
+%T Resilient Design Methodology for Energy-Efficient SRAM
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-37.html
+%F Zimmer:EECS-2013-37

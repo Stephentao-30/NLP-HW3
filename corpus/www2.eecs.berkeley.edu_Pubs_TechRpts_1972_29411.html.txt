@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29411.html
+Fasbol II: A Snobol4 Compiler for the PDP-10 | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fasbol II: A Snobol4 Compiler for the PDP-10
+Fasbol II: A Snobol4 Compiler for the PDP-10
+Paul Joseph Santos Jr.
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M348
+August 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-348.pdf
+BibTeX citation:
+@techreport{Santos Jr.:M348,
+Author = {Santos Jr., Paul Joseph},
+Title = {Fasbol II: A Snobol4 Compiler for the PDP-10},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29411.html},
+Number = {UCB/ERL M348}
+}
+EndNote citation:
+%0 Report
+%A Santos Jr., Paul Joseph
+%T Fasbol II: A Snobol4 Compiler for the PDP-10
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M348
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29411.html
+%F Santos Jr.:M348

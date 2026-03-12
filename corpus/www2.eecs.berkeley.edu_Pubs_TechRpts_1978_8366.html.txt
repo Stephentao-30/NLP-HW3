@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/8366.html
+Simulation of Integrated Injection Logic | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Simulation of Integrated Injection Logic
+Simulation of Integrated Injection Logic
+Graeme R. Boyle
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/13
+March 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-13.pdf
+Advisor:  Donald O. Pederson
+BibTeX citation:
+@phdthesis{Boyle:M78/13,
+Author = {Boyle, Graeme R.},
+Title = {Simulation of Integrated Injection Logic},
+School = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/8366.html},
+Number = {UCB/ERL M78/13}
+}
+EndNote citation:
+%0 Thesis
+%A Boyle, Graeme R.
+%T Simulation of Integrated Injection Logic
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/8366.html
+%F Boyle:M78/13

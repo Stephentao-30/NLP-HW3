@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28418.html
+Spice1 MESFET Model Description | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Spice1 MESFET Model Description
+Spice1 MESFET Model Description
+C.D. Hartgring
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/1
+January 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-1.pdf
+BibTeX citation:
+@techreport{Hartgring:M79/1,
+Author = {Hartgring, C.D.},
+Title = {Spice1 MESFET Model Description},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28418.html},
+Number = {UCB/ERL M79/1}
+}
+EndNote citation:
+%0 Report
+%A Hartgring, C.D.
+%T Spice1 MESFET Model Description
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/1
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28418.html
+%F Hartgring:M79/1

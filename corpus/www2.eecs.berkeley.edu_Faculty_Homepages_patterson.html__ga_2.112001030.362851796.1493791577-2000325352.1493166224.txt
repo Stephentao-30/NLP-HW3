@@ -1,0 +1,137 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html?_ga=2.112001030.362851796.1493791577-2000325352.1493166224
+David A. Patterson | EECS at UC Berkeley
+Skip to main content
+Home
+People
+Faculty
+David A. Patterson
+Larger
+Photo
+Info Links
+Research Areas
+Computer Architecture & Engineering (ARC) , Computer Architecture and Systems:  performance, security, RISC-V
+Operating Systems & Networking (OSNT)
+Research Centers
+Real-Time Intelligent Secure Explainable Systems (RISELab)
+Biography
+David Patterson is the Pardee Professor of Computer Science, Emeritus at the University of California at Berkeley, which he joined after graduating from UCLA in 1976.
+Dave's research style is to identify critical questions for the IT industry and gather inter-disciplinary groups of faculty and graduate students to answer them. The answer is typically embodied in demonstration systems, and these demonstration systems are later mirrored in commercial products. In addition to research impact, these projects train leaders of our field. The best known projects were Reduced Instruction Set Computers (RISC), Redundant Array of Inexpensive Disks (RAID), and Networks of Workstations (NOW), each of which helped lead to billion dollar industries.
+A measure of the success of projects is the list of awards won by Patterson and as his teammates: the ACM A.M. Turing Award, the C & C Prize, the IEEE von Neumann Medal, the IEEE Johnson Storage Award, the SIGMOD Test of Time award, the ACM-IEEE Eckert-Mauchly Award, and the Katayanagi Prize. He was also elected to both AAAS societies, the National Academy of Engineering, the National Academy of Sciences, the Silicon Valley Engineering Hall of Fame, and to be a Fellow of the Computer History Museum. The full list includes about 40 awards for research, teaching, and service.
+In his spare time he coauthored seven books---including two with John Hennessy who is past President of Stanford University and with whom he shared the Turing Award--- Patterson also served as Chair of the Computer Science Division at UC Berkeley, Chair of the Computing Research Association, and President of ACM.
+Education
+1976, PhD, Computer Science, UCLA
+1970, MS, Computer Science, UCLA
+1969, AB, Mathematics, UCLA
+Selected Publications
+D. A. Patterson and A. Waterman,  The RISC-V Reader: An Open Architecture Atlas , 1st ed., Strawberry Canyon, 2017.
+J. L. Hennessy and D. A. Patterson,  Computer Architecture: A Quantitative Approach , 6th ed., Computer Architecture and Design, Morgan Kaufmann Publishers, 2017.
+D. A. Patterson and J. L. Hennessy,  Computer Organization and Design RISC-V Edition The Hardware/Software Interface , 5th ed., Amsterdam; Boston: Elsevier/Morgan Kaufmann, 2017.
+A. Waterman, Y. Lee, R. Avizienis, D. A. Patterson, and K. Asanović, " The RISC-V Instruction Set Manual Volume II: Privileged Architecture Version 1.9.1 ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2016-161, Nov. 2016.
+A. Waterman, Y. Lee, D. A. Patterson, and K. Asanović, " The RISC-V Instruction Set Manual, Volume I: User-Level ISA, Version 2.1 ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2016-118, May 2016.
+A. Rabkin, C. Reiss, R. H. Katz, and D. A. Patterson, " Experiences teaching MapReduce in the Cloud ," in  SIGCSE '12 Proceedings of the 43rd ACM technical symposium on Computer Science Education , ACM, 2012, pp. 601-606.
+M. Zaharia, W. J. Bolosky, K. Curtis, A. Fox, D. A. Patterson, S. Shenker, I. Stoica, R. M. Karp, and T. Sittler, " Faster and More Accurate Sequence Alignment with SNAP ,"  CoRR , vol. abs/1111.5572, 2011.
+M. Armbrust, A. Fox, R. Griffith, A. D. Joseph, R. H. Katz, A. Konwinski, G. Lee, D. A. Patterson, A. Rabkin, I. Stoica, and M. Zaharia, " A view of cloud computing ,"  Communications of the ACM , vol. 53, no. 4, pp. 50-58, April 2010.
+K. Asanović, R. Bodik, J. Demmel, T. Keaveny, K. Keutzer, N. Morgan, D. A. Patterson, K. Sen, J. Wawrzynek, D. Wessel, and K. A. Yelick, " A View of the Parallel Computing Landscape ,"  Communications of the ACM , vol. 52, no. 10, pp. 56-67, Oct. 2009.
+D. A. Patterson, " New Directions for CACM? ,"  Communications of the ACM - Personal information management , vol. 49, no. 1, pp. 33-35, Jan. 2006.
+T. E. Anderson, D. E. Culler, and D. A. Patterson, " A case for NOW (Networks of Workstations) ,"  IEEE Micro , vol. 15, no. 1, pp. 54-64, Feb. 1995.
+D. E. Culler, R. M. Karp, D. A. Patterson, A. Sahay, K. E. Schauser, E. E. Santos, R. Subramonian, and T. von Eicken, " LogP: Towards a realistic model of parallel computation ," in  Proc. 4th ACM SIGPLAN Symp. on Principles and Practice of Parallel Programming , New York, NY: ACM Press, 1993, pp. 1-12.
+D. A. Patterson, D. S. Kiser, and D. N. Smith,  Computing Unbound: Using Computers in the Arts and Sciences , W.W. Norton & Company, 1989.
+D. A. Patterson, G. Gibson, and R. H. Katz, " A case for Redundant Arrays of Inexpensive Disks (RAID) (ACM SIGMOD 1998 Test of Time Award) ," in  Proc. 1988 ACM SIGMOD Intl. Conf. on Management of Data (SIGMOD '88) , H. Boral and P. Larson, Eds., New York, NY: The Association for Computing Machinery, Inc., 1988, pp. 109-116.
+D. A. Patterson and C. H. Séquin, " RISC I: A Reduced Instruction Set  VLSI Computer ," in  Proc. 8th Intl. Symp. on Computer Architecture , Los Alamitos, CA: IEEE Computer Society Press, 1981, pp. 443-457.
+D. A. Patterson and D. R. Ditzel, " The case for the Reduced Instruction Set Computer ,"  ACM SIGARCH Computer Architecture News , vol. 8, no. 6, pp. 25-33, Oct. 1980.
+Awards, Memberships and Fellowships
+Textbook Excellence Award ("Texty") ,
+2019
+ACM A.M. Turing Award ,
+2017
+Berkeley Citation ,
+2016
+Richard A. Tapia Achievement Award ,
+2016
+IEEE Life Member ,
+2016
+Most Promising New Textbook Award ,
+2016
+Textbook Excellence Award ("Texty") ,
+2014
+Jean-Claude Laprie Award in Dependable Computing ,
+2012
+ACM SIGARCH Distinguished Service Award ,
+2011
+ACM SIGOPS Hall of Fame Award ,
+2011
+Eckert-Mauchly Award ,
+2008
+UCLA Samueli Engineering Achievement in Academia ,
+2008
+American Association for the Advancement of Science (AAAS) Fellow ,
+2007
+ACM Distinguished Service Award ,
+2007
+Computer History Museum (CHM) Fellow ,
+2007
+Katayanagi Prize for Research Excellence ,
+2007
+American Academy of Arts and Sciences Member ,
+2006
+CRA Distinguished Service Award ,
+2006
+National Academy of Sciences (NAS) Member ,
+2006
+Abacus Award ,
+2006
+Silicon Valley Engineering Hall of Fame ,
+2005
+Computers and Communications (C&C) Prize ,
+2004
+IEEE James H. Mulligan Education Medal ,
+2000
+IEEE John von Neumann Medal ,
+2000
+IEEE Reynold B. Johnson Information Storage Systems Award ,
+1999
+ACM SIGMOD Test of Time Award ,
+1999
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+1998
+IEEE Undergraduate Teaching Award ,
+1995
+CS Technical Achievement Award ,
+1995
+UCLA Computer Science Distinguished Alumni Award ,
+1994
+Association for Computing Machinery (ACM) Fellow ,
+1994
+National Academy of Engineering (NAE) Member ,
+1993
+Karl V. Karlstrom Outstanding Educator Award ,
+1991
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1990
+UC Berkeley Distinguished Teaching Award ,
+1982
+Links and Contact Info
+Links
+Personal Homepage
+Projects
+Publications
+Dissertations
+Contact Information
+579 Soda Hall
+tel:
+642-6587
+fax:
+643-7352
+pattrsn@cs.berkeley.edu
+Office Hours
+Mondays, by appointment, 579 Soda
+Assistant
+Boban Zarkovich
+465A Soda
+643-0264
+boban@eecs.berkeley.edu
+Research Support
+Damon Hinson
+695 Soda
+2-3001
+damonh@berkeley.edu

@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28995.html
+Performance Analysis of Distributed Data Base Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Performance Analysis of Distributed Data Base Systems
+Performance Analysis of Distributed Data Base Systems
+Michael Stonebraker, John Woodfill, Jeff Ranstrom, Marguerite Murphy, Joseph Kalash, Michael Carey and Kenneth Arnold
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/85
+October 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-85.pdf
+BibTeX citation:
+@techreport{Stonebraker:M82/85,
+Author = {Stonebraker, Michael and Woodfill, John and Ranstrom, Jeff and Murphy, Marguerite and Kalash, Joseph and Carey, Michael and Arnold, Kenneth},
+Title = {Performance Analysis of Distributed Data Base Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28995.html},
+Number = {UCB/ERL M82/85}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Woodfill, John
+%A Ranstrom, Jeff
+%A Murphy, Marguerite
+%A Kalash, Joseph
+%A Carey, Michael
+%A Arnold, Kenneth
+%T Performance Analysis of Distributed Data Base Systems
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/85
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28995.html
+%F Stonebraker:M82/85

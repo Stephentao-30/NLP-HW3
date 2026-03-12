@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-253.html
+Designing a Voting Machine for Testing and Verification
+Cynthia Sturton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-253
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-253.pdf
+This work incorporates and builds on previous research done jointly with Susmit Jha, Sanjit Seshia, and David Wagner on designing an electronic voting machine with the goal of verification of correctness[28]. In that work we developed an approach of combining formal verification with user testing to verify an interactive machine and we demonstrated our technique with the design and implementation of a voting machine. This paper presents our work with a focus on the methodology and set of design principles we developed which made our approach possible. This also extends the functionality of our original voting machine to include a summary screen while still adhering to our methodology and design principles. We implement the new functionality and demonstrate that our original proof of correctness holds for the augmented voting machine.
+Advisors:  David Wagner
+BibTeX citation:
+@mastersthesis{Sturton:EECS-2012-253,
+Author= {Sturton, Cynthia},
+Title= {Designing a Voting Machine for Testing and Verification},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-253.html},
+Number= {UCB/EECS-2012-253},
+Abstract= {This work incorporates and builds on previous research done jointly with Susmit Jha, Sanjit Seshia, and David Wagner on designing an electronic voting machine with the goal of verification of correctness[28]. In that work we developed an approach of combining formal verification with user testing to verify an interactive machine and we demonstrated our technique with the design and implementation of a voting machine. This paper presents our work with a focus on the methodology and set of design principles we developed which made our approach possible. This also extends the functionality of our original voting machine to include a summary screen while still adhering to our methodology and design principles. We implement the new functionality and demonstrate that our original proof of correctness holds for the augmented voting machine.},
+}
+EndNote citation:
+%0 Thesis
+%A Sturton, Cynthia
+%T Designing a Voting Machine for Testing and Verification
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-253
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-253.html
+%F Sturton:EECS-2012-253

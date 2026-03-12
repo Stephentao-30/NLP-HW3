@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28980.html
+Systematic Generation of Monostable and Counting Bistable Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Systematic Generation of Monostable and Counting Bistable Circuits
+Systematic Generation of Monostable and Counting Bistable Circuits
+D.A. Hodges, D.O. Pederson and R.S. Pepper
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M92
+August 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-92.pdf
+BibTeX citation:
+@techreport{Hodges:M92,
+Author = {Hodges, D.A. and Pederson, D.O. and Pepper, R.S.},
+Title = {Systematic Generation of Monostable and Counting Bistable Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28980.html},
+Number = {UCB/ERL M92}
+}
+EndNote citation:
+%0 Report
+%A Hodges, D.A.
+%A Pederson, D.O.
+%A Pepper, R.S.
+%T Systematic Generation of Monostable and Counting Bistable Circuits
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M92
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28980.html
+%F Hodges:M92

@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4285.html
+Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory
+Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory
+A. K. Fletcher, S. Rangan, V. K. Goyal and Kannan Ramchandran
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M05/5
+September 2004
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/ERL-05-5.pdf
+BibTeX citation:
+@techreport{Fletcher:M05/5,
+Author = {Fletcher, A. K. and Rangan, S. and Goyal, V. K. and Ramchandran, Kannan},
+Title = {Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2004},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4285.html},
+Number = {UCB/ERL M05/5}
+}
+EndNote citation:
+%0 Report
+%A Fletcher, A. K.
+%A Rangan, S.
+%A Goyal, V. K.
+%A Ramchandran, Kannan
+%T Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory
+%I EECS Department, University of California, Berkeley
+%D 2004
+%@ UCB/ERL M05/5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4285.html
+%F Fletcher:M05/5

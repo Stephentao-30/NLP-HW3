@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/7541.html
+Query Processing Techniques for Distributed, Relational Data Base Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Query Processing Techniques for Distributed, Relational Data Base Systems
+Query Processing Techniques for Distributed, Relational Data Base Systems
+Robert S. Epstein
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/9
+March 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-9.pdf
+Advisor:  Michael R. Stonebraker
+BibTeX citation:
+@phdthesis{Epstein:M80/9,
+Author = {Epstein, Robert S.},
+Title = {Query Processing Techniques for Distributed, Relational Data Base Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/7541.html},
+Number = {UCB/ERL M80/9}
+}
+EndNote citation:
+%0 Thesis
+%A Epstein, Robert S.
+%T Query Processing Techniques for Distributed, Relational Data Base Systems
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/9
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/7541.html
+%F Epstein:M80/9

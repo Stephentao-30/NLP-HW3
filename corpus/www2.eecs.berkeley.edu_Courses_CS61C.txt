@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS61C
+CS 61C. Great Ideas of Computer Architecture (Machine Structures)
+Catalog Description:  The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions.
+Units:  4
+Prerequisites:  COMPSCI 61A, along with either COMPSCI 61B or COMPSCI 61BL, or programming experience equivalent to that gained in COMPSCI 9C, COMPSCI 9F, or COMPSCI 9G.
+Credit Restrictions:  Students will receive no credit for COMPSCI 61C after completing COMPSCI 61CL.
+Formats:  Summer: 6.0 hours of lecture, 2.0 hours of discussion, and 4.0 hours of laboratory per week
+Fall: 3.0 hours of lecture, 1.0 hours of discussion, and 2.0 hours of laboratory per week
+Spring: 3.0 hours of lecture, 1.0 hours of discussion, and 2.0 hours of laboratory per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 61C –                MoWeFr 11:00-11:59, Evans 10 –
+Lisa Yan Class Notes
+- Time conflicts are not allowed.
+- Lectures will be recorded.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

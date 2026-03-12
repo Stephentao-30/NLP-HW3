@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28997.html
+Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents
+Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents
+Yu-Kun Tsai, N. Narasimhamurthi and Felix F. Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/23
+April 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-23.pdf
+BibTeX citation:
+@techreport{Tsai:M81/23,
+Author = {Tsai, Yu-Kun and Narasimhamurthi, N. and Wu, Felix F.},
+Title = {Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28997.html},
+Number = {UCB/ERL M81/23}
+}
+EndNote citation:
+%0 Report
+%A Tsai, Yu-Kun
+%A Narasimhamurthi, N.
+%A Wu, Felix F.
+%T Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/23
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28997.html
+%F Tsai:M81/23

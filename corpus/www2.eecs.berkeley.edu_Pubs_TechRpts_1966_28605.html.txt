@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28605.html
+Some Computer Programs Useful in Ellipsometry
+W.H. Oldham
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M173
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-173.pdf
+BibTeX citation:
+@techreport{Oldham:M173,
+Author= {Oldham, W.H.},
+Title= {Some Computer Programs Useful in Ellipsometry},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28605.html},
+Number= {UCB/ERL M173},
+}
+EndNote citation:
+%0 Report
+%A Oldham, W.H.
+%T Some Computer Programs Useful in Ellipsometry
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M173
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28605.html
+%F Oldham:M173

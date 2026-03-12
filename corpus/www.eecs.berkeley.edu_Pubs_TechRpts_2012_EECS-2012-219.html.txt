@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-219.html
+Towards a Synthesizable Standard-Cell Radio
+Richard Yu-Kuwan Su and Kristofer Pister
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-219
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-219.pdf
+Advisors:  Kristofer Pister
+BibTeX citation:
+@phdthesis{Su:EECS-2012-219,
+Author= {Su, Richard Yu-Kuwan and Pister, Kristofer},
+Title= {Towards a Synthesizable Standard-Cell Radio},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-219.html},
+Number= {UCB/EECS-2012-219},
+}
+EndNote citation:
+%0 Thesis
+%A Su, Richard Yu-Kuwan
+%A Pister, Kristofer
+%T Towards a Synthesizable Standard-Cell Radio
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-219
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-219.html
+%F Su:EECS-2012-219

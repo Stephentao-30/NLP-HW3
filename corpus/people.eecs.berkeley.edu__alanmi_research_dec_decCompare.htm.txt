@@ -1,0 +1,66 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/research/dec/decCompare.htm
+Alan Mishchenko's Homepage - Contributions to Decomposition
+Contributions to DD-Based Decomposition
+The last summer (2001) I spend some time implementing and comparing
+a number of decision-diagram-based decomposition methods. Here is an incomplete
+list of interesting techniques:
+BDD-based disjoint-support decomposition
+Introduced by V. Bertacco and M. Damiani   [1]
+Developed by Y. Matsunaga [2]
+Verified by T. Sasao and M. Matsuura [3]
+BDD cuts and generalized dominators
+Introduced by C. Yang and M. Ciesielski   [4]
+Implemented in the logic synthesis system  BDS
+1.2 .
+BDD traversals and cofactor grouping
+Presented by T. Stanion and C. Sechen [5]
+Boolean division and factorization using BDDs
+Presented by T. Stanion and C. Sechen [6]
+Algebraic factorization using ZDDs
+Introduced by R. Brayton and C. McMullen [7]
+Adapted to ZDD by S.Minato [8]
+Extended by H. Sawada et al. [9]
+Checking decomposability conditions using BDDs
+Introduced by D. Bochmann et al [10]
+Further developed by S. Yamashita et al [11]
+Recently presented by us [12]
+The result of my comparative study will be available soon.
+Here is a link to download a  Windows executable
+of the disjoint-support decomposition software implemented following the
+Bertacco-Damiani recursive paradigm. In order to optimize this software
+for speed some specialized DD-based operators have been developed, in particular
+those listed in [2] and others. The new software seems to be several times
+faster than the implementation reported in [2]. To run the program, give
+it one command-line argument, a benchmark file in PLA or BLIF format.
+References:
+[1] V. Bertacco, M. Damiani.  "The
+Disjunctive Decomposition of Logic Functions" . Proc. of ICCAD '97,
+pp. 78-82.
+[2] Y. Matsunaga. "An Exact and Efficient Algorithm for Disjunctive
+Decomposition". Proc. of SASIMI '98, pp. 44-50.
+[3] T. Sasao, M. Matsuura.  "DECOMPOS:
+An Integrated System for Functional Decomposition" . Proc. of IWLS'98,
+pp. 471-477.
+[4] C. Yang, M. Ciesielski, V. Singhal.  "BDS:
+A BDD-based Logic Optimization System" . Proc. of DAC'00, pp. 92-97.
+[5] T. Stanion, C. Sechen, "Quasi-Algebraic Decomposition of Switching
+Functions", Proc. of Int. Conf. Adv. Research in VLSI'95, pp. 358-367.
+[6] T. Stanion, C. Sechen, "Boolean Division and Factorization Using
+Binary Decision Diagrams", IEEE TCAD '94, Vol. 13, No.9, 1994, pp. 1179-1184.
+[7] R. K. Brayton, C. McMullen. "Decomposition and factorization of
+boolean expressions ", Proc. Int. Symp. on Circuits and Systems, '82, pp.
+49-54
+[8] S. Minato. "Fast Factorization Method for Implicit Cube Cover Representation".
+IEEE TCAD, Vol. 15, No 4, April 1996, pp. 377-384.
+[9] H. Sawada, S. Yamashita, A. Nagoya,  "An
+Efficient Method for Generating Kernels on Implicit Cube Set Representations" ,
+Proc. of IWLS'99, pp. 260-263.
+[10] D. Bochmann, F.Dresig, B.Steinbach. �A new decomposition method
+for multilevel circuit design�. Proc. of Euro-DAC'91, pp. 374-377.
+[11] S. Yamashita, H. Sawada, A. Nagoya. "New Methods to Find Optimal
+Non-Disjoint Bi-Decompositions". Proc. of ASP-DAC'98, pp. 59-68.
+[12] A. Mishchenko, B. Steinbach, M. Perkowski.  "An
+Algorithm for Bi-Decomposition of Logic Functions" . Proc. of DAC'01,
+pp. 103-108.
+Alan Mishchenko's Home Page
+This page has been last modified on September 30, 2001.

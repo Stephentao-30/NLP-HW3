@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-238.html
+Modern Low-Complexity Capacity-Achieving Codes For Network Communication
+Naveen Goela
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-238
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-238.pdf
+Communication over unreliable, interfering networks is one of the current challenges in engineering. For point-to-point channels, Shannon established capacity results in 1948, and it took more than forty years to find coded systems approaching the capacity limit with feasible complexity. Significant research efforts have gone into extending Shannon’s capacity results to networks with many partial successes. By contrast, the development of low-complexity codes for networks has received limited attention to date. The focus of this thesis is the design of capacity-achieving network codes realizable by modern signal processing circuits.
+For classes of networks, the following codes have been invented on the foundation of algebraic structure and probability theory: i ) Broadcast codes which achieve multi-user rates on the capacity boundary of several types of broadcast channels. The codes utilize Arıkan’s polarization theory of random variables, providing insight into information-theoretic concepts such as random binning, superposition coding, and Marton’s construction. Reproducible experiments over block lengths n = 512, 1024, 2048 corroborate the theory; ii ) A network code which achieves the computing capacities of a countably infinite class of simple noiseless interfering networks. The code separates a network into irreducible parallel sub-networks and applies a new vector-space function alignment scheme inspired by the concept of interference alignment for channel communications. New bounds are developed to tighten the standard cut-set bound for multi-casting functions.
+As an additional example of low-complexity codes, reduced-dimension linear transforms and convex optimization methods are proposed for the lossy transmission of correlated sources across noisy networks. Surprisingly, simple un-coded or one-shot strategies achieve a performance which is exactly optimal in certain networks, or close to optimal in the low signal-to-noise regime relevant for sensor networks.
+Advisors:  Michael Gastpar
+BibTeX citation:
+@phdthesis{Goela:EECS-2013-238,
+Author= {Goela, Naveen},
+Title= {Modern Low-Complexity Capacity-Achieving Codes For Network Communication},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-238.html},
+Number= {UCB/EECS-2013-238},
+Abstract= {Communication over unreliable, interfering networks is one of the current challenges in engineering. For point-to-point channels, Shannon established capacity results in 1948, and it took more than forty years to find coded systems approaching the capacity limit with feasible complexity. Significant research efforts have gone into extending Shannon’s capacity results to networks with many partial successes. By contrast, the development of low-complexity codes for networks has received limited attention to date. The focus of this thesis is the design of capacity-achieving network codes realizable by modern signal processing circuits.
+For classes of networks, the following codes have been invented on the foundation of algebraic structure and probability theory: i ) Broadcast codes which achieve multi-user rates on the capacity boundary of several types of broadcast channels. The codes utilize Arıkan’s polarization theory of random variables, providing insight into information-theoretic concepts such as random binning, superposition coding, and Marton’s construction. Reproducible experiments over block lengths n = 512, 1024, 2048 corroborate the theory; ii ) A network code which achieves the computing capacities of a countably infinite class of simple noiseless interfering networks. The code separates a network into irreducible parallel sub-networks and applies a new vector-space function alignment scheme inspired by the concept of interference alignment for channel communications. New bounds are developed to tighten the standard cut-set bound for multi-casting functions.
+As an additional example of low-complexity codes, reduced-dimension linear transforms and convex optimization methods are proposed for the lossy transmission of correlated sources across noisy networks. Surprisingly, simple un-coded or one-shot strategies achieve a performance which is exactly optimal in certain networks, or close to optimal in the low signal-to-noise regime relevant for sensor networks.},
+}
+EndNote citation:
+%0 Thesis
+%A Goela, Naveen
+%T Modern Low-Complexity Capacity-Achieving Codes For Network Communication
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-238
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-238.html
+%F Goela:EECS-2013-238

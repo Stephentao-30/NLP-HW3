@@ -1,0 +1,70 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/ramchandran.html
+Kannan Ramchandran: Faculty Home Page
+Larger Photo
+Kannan Ramchandran
+Professor
+Contact Information
+269 Cory Hall
+tel:  510-642-2353
+fax:  642-2845
+kannanr@eecs.berkeley.edu
+Office Hours
+Tu. 3:00-4:00, or by appt., 258 Cory
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Stephanie Bratton
+sbratton@berkeley.edu
+Biography
+He received his B.E. from the City College of New York in 1982, and his M.S. and Ph.D. from Columbia University in 1984 and 1993, respectively. After completing his Ph.D., Professor Ramchandran became an Assistant Professor at the University of Illinois, Urbana-Champaign and Associate Director of the Beckman Institute Multimedia Laboratory.  In the Beckman Institute, he was a member of the Image Formation and Processing Group.  In 1999, he came to UC Berkeley's EECS Department and  created the Berkeley Audiovisual Signal Processing and Communication Systems (BASiCS) Lab here.  Professor Ramchandran is an IEEE Fellow and has been awarded the Outstanding Teaching Award by the EECS Department at UC Berkeley. He is a recipient of the IEEE Kobayashi award in 2017 “for pioneering contributions to the theory and practice of distributed source and storage coding."
+Education
+1993, Ph.D., Computer Science, Columbia University
+1984, M.S., Computer Science, Columbia University
+1982, B.E., Computer Science, City College of New York
+Research Areas
+Information, Data, Network, and Communication Sciences (IDNCS)
+Signal Processing (SP)
+Artificial Intelligence (AI)
+Control, Intelligent Systems, and Robotics (CIR)
+Research Centers
+Berkeley Audio-visual Signal processing and Communication Systems (BASiCS)
+Berkeley Deep Drive (BDD)
+Berkeley Laboratory for Information and System Sciences (BLISS)
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)
+Simons Institute for the Theory of Computing (SITC)
+Teaching Schedule
+EECS 126. Probability and Random Processes , TuTh 12:30-13:59, Dwinelle 145
+Y. Tan, S. Kadhe, and K. Ramchandran, " Proof-of-Stream: A Robust Incentivization Protocol for Blockchain-based Hybrid Video on Demand Systems ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2021-42, May 2021.
+V. N. Ekambaram, G. C. Fanti, B. Ayazifar, and K. Ramchandran, " Spline-Like Wavelet Filterbanks for Multiresolution Analysis of Graph-Structured Data ,"  Signal and Information Processing Over Networks, IEEE Transactions on , vol. 1, no. 4, pp. 268-278, Dec. 2015.
+X. Pan, D. Papailiopoulos, S. Omyak, B. Recht, K. Ramchandran, and M. Jordan, " Parallel correlation clustering on big graphs ," in  Advances in Neural Information Processing Systems 28 , 2015, pp. 82--90.
+N. Shah, S. Balakrishnan, B. Joseph, A. Parekh, K. Ramchandran, and M. Wainwright, "Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence," in  AISTATS, San Diego, May 2015 , 2015.
+L. Tian, X. Li, K. Ramchandran, and L. Waller, " Multiplexed coded illumination for Fourier Ptychography with an LED array microscope ,"  Biomed. Opt. Express , vol. 5, no. 7, pp. 2376--2389, 2014.
+V. N. Ekambaram, G. C. Fanti, B. Ayazifar, and K. Ramchandran, " Critically-sampled perfect-reconstruction spline-wavelet filterbanks for graph signals ," in  Global Conference on Signal and Information Processing (GlobalSIP), 2013 IEEE , 2013, pp. 475-478.
+V. N. Ekambaram, G. C. Fanti, B. Ayazifar, and K. Ramchandran, " Wavelet-regularized graph semi-supervised learning ," in  Global Conference on Signal and Information Processing (GlobalSIP), 2013 IEEE , 2013, pp. 423-426.
+V. N. Ekambaram, G. C. Fanti, B. Ayazifar, and K. Ramchandran, " Circulant structures and graph signal processing ," in  Image Processing (ICIP), 2013 20th IEEE International Conference on , 2013, pp. 834-838.
+V. N. Ekambaram, G. C. Fanti, B. Ayazifar, and K. Ramchandran, " Multiresolution Graph Signal Processing via Circulant Structures ," in  Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), 2013 IEEE , 2013, pp. 112-117.
+O. Bakr, M. Johnson, R. Mudumbai, and K. Ramchandran, " Multi-antenna interference cancellation techniques for cognitive radio applications ," in  IEEE Wireless Communications and Networking Conference (WCNC) , 2009.
+O. Bakr, M. Johnson, B. Wild, and K. Ramchandran, " A multi-antenna framework for spectrum reuse based on primary-secondary cooperation ," in  IEEE Symposium on New Frontiers in Dynamic Spectrum Access Networks (DySPAN) , 2008.
+D. Schonberg, C. Yeo, S. C. Draper, and K. Ramchandran, " On compression of encrypted video ," in  Proc. 2007 Data Compression Conf. (DCC '07) , J. A. Storer and M. W. Marcellin, Eds., Los Alamitos, CA: IEEE Computer Society, 2007, pp. 173-182.
+J. Wang, V. Prabhakaran, and K. Ramchandran, " Syndrome-based robust video transmission over networks with bursty losses ," in  Proc. 2006 Intl. Conf. on Image Processing (ICIP 2006) , Piscataway, NJ: IEEE Press, 2006, pp. 741-744.
+R. Puri, A. Majumdar, P. Ishwar, and K. Ramchandran, " Distributed video coding in wireless sensor networks ,"  IEEE Signal Processing Magazine , vol. 23, no. 4, pp. 94-106, July 2006.
+D. Petrovic, K. Ramchandran, and J. M. Rabaey, " Overcoming untuned radios in wireless networks with network coding ,"  IEEE Trans. Information Theory , vol. 52, no. 6, pp. 2649-2657, June 2006.
+B. Wild and K. Ramchandran, " Detecting primary receivers for cognitive radio applications ," in  Proc. 2005 1st IEEE Intl. Symp. on New Frontiers in Dynamic Spectrum Access Networks (DySPAN 2005) , Piscataway, NJ: IEEE Press, 2005, pp. 124-130.
+A. Majumdar and K. Ramchandran, " PRISM: An error-resilient video coding paradigm for wireless networks ," in  Proc. 1st Intl. Conf. on Broadband Networks , Los Alamitos, CA: IEEE Computer Society, 2004, pp. 478-485.
+J. van Greunen, D. Petrovic, A. Bonivento, J. M. Rabaey, K. Ramchandran, and A. L. Sangiovanni-Vincentelli, " Adaptive sleep discipline for energy conservation and robustness in dense sensor networks ," in  Proc. 2004 IEEE Intl. Conf. on Communications , Vol. 6, Piscataway, NJ: IEEE Press, 2004, pp. 3657-3662.
+R. Jornsten, W. Wang, B. Yu, and K. Ramchandran, " Microarray image compression: SLOCO and the effect of information loss ,"  Signal Processing: Special Issue on Genomic Signal Processing , vol. 83, no. 4, pp. 859-869, April 2003.
+S. S. Pradhan and K. Ramchandran, " Distributed source coding using syndromes (DISCUS): Design and construction ,"  IEEE Trans. Information Theory , vol. 49, no. 3, pp. 626-643, March 2003.
+IEEE Koji Kobayashi Computers and Communications Award ,
+2017
+IEEE Communications Society (COMSOC) & Information Theory Society (IT) Joint Paper Award ,
+2012
+Electrical Engineering Award for Outstanding Teaching ,
+2009
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2004
+Okawa Research Grant ,
+2000
+NSF Faculty Early Career Development Award (CAREER) ,
+1997

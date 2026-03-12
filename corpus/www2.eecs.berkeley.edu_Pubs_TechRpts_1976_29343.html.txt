@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29343.html
+Modeling the Steady-State Response of Nonlinear Devices and Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modeling the Steady-State Response of Nonlinear Devices and Systems
+Modeling the Steady-State Response of Nonlinear Devices and Systems
+L.O. Chua and S.M. Kang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M603
+October 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-603.pdf
+BibTeX citation:
+@techreport{Chua:M603,
+Author = {Chua, L.O. and Kang, S.M.},
+Title = {Modeling the Steady-State Response of Nonlinear Devices and Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29343.html},
+Number = {UCB/ERL M603}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Kang, S.M.
+%T Modeling the Steady-State Response of Nonlinear Devices and Systems
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M603
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29343.html
+%F Chua:M603

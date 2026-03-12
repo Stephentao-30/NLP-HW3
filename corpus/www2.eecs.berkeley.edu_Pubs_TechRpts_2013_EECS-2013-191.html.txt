@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-191.html
+Performance Analysis of Nonlinear Systems Combining Integral Quadratic Constraints and Sum-of-Squares Techniques
+Melissa Erin Summers
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-191
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-191.pdf
+This thesis investigates performance analysis for nonlinear systems, which consist of both known and unknown dynamics and may only be defined locally. We apply combinations of integral quadratic constraints (IQCs), developed by Megretski and Rantzer, and sum-ofsquares (SOS) techniques for the analysis.
+In this context, analysis of stability and input-output properties is performed in three ways. If the known portion of the dynamics is linear, the stability test from Megretski and Rantzer, which generalize early frequency-domain based theorems of robust control (Zames, Safonov, Doyle, and others), are well suited. If the known portion of the dynamics is nonlinear,
+frequency domain methods are not directly applicable. SOS methods using polynomial storage functions to satisfy dissipation inequalities are used to certify the stability and performance characteristics. However, if the known dynamics are high dimensional, then this approach to the analysis is (currently) intractable. An alternate approach is proposed here to address this dimensionality issue. The known portion is decomposed into a linear interconnection of smaller, nonlinear systems. We derive IQCs satisfied by the nonlinear subsystems. This is computationally feasible. With this library of IQCs coarsely describing the subsystems' behaviors, we apply the techniques from Megretski and Rantzer to the interconnection description involving the known linear part and all of the individual subsystems.
+Traditionally, IQCs have been used to cover unknown portions of the dynamics. Our approach is novel in that we cover known nonlinear dynamics with IQCs, by employing SOS methods including novel techniques for estimating the input-output gain of a system. This perspective is a step towards reducing the dimensionality of the analysis of large, interconnected nonlinear systems.
+The IQC stability analysis by Megretski and Rantzer is only applicable for systems that are well-posed in the large. This thesis makes contributions towards extending this analysis for with more limited notions of well-posedness. We define the notion of a local or "conditional" IQC, and develop a new test to verify stability and performance criteria.
+We also study a specific class of interconnected, passive subsystems. If the subsystems also exhibit gain roll-off at high frequencies, one would expect improved analysis results. In fact, we characterized the gain roll-off property as an integral quadratic constraint, and achieved an improved bound on the performance with respect to the allowable time delay in order for the interconnected system to remain stable. In the case where the interconnection is cyclic, we derive an analytical condition for stability.
+Advisors:  Andy Packard and Murat Arcak
+BibTeX citation:
+@phdthesis{Summers:EECS-2013-191,
+Author= {Summers, Melissa Erin},
+Title= {Performance Analysis of Nonlinear Systems Combining Integral Quadratic Constraints and Sum-of-Squares Techniques},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-191.html},
+Number= {UCB/EECS-2013-191},
+Abstract= {This thesis investigates performance analysis for nonlinear systems, which consist of both known and unknown dynamics and may only be defined locally. We apply combinations of integral quadratic constraints (IQCs), developed by Megretski and Rantzer, and sum-ofsquares (SOS) techniques for the analysis.
+In this context, analysis of stability and input-output properties is performed in three ways. If the known portion of the dynamics is linear, the stability test from Megretski and Rantzer, which generalize early frequency-domain based theorems of robust control (Zames, Safonov, Doyle, and others), are well suited. If the known portion of the dynamics is nonlinear,
+frequency domain methods are not directly applicable. SOS methods using polynomial storage functions to satisfy dissipation inequalities are used to certify the stability and performance characteristics. However, if the known dynamics are high dimensional, then this approach to the analysis is (currently) intractable. An alternate approach is proposed here to address this dimensionality issue. The known portion is decomposed into a linear interconnection of smaller, nonlinear systems. We derive IQCs satisfied by the nonlinear subsystems. This is computationally feasible. With this library of IQCs coarsely describing the subsystems' behaviors, we apply the techniques from Megretski and Rantzer to the interconnection description involving the known linear part and all of the individual subsystems.
+Traditionally, IQCs have been used to cover unknown portions of the dynamics. Our approach is novel in that we cover known nonlinear dynamics with IQCs, by employing SOS methods including novel techniques for estimating the input-output gain of a system. This perspective is a step towards reducing the dimensionality of the analysis of large, interconnected nonlinear systems.
+The IQC stability analysis by Megretski and Rantzer is only applicable for systems that are well-posed in the large. This thesis makes contributions towards extending this analysis for with more limited notions of well-posedness. We define the notion of a local or "conditional" IQC, and develop a new test to verify stability and performance criteria.
+We also study a specific class of interconnected, passive subsystems. If the subsystems also exhibit gain roll-off at high frequencies, one would expect improved analysis results. In fact, we characterized the gain roll-off property as an integral quadratic constraint, and achieved an improved bound on the performance with respect to the allowable time delay in order for the interconnected system to remain stable. In the case where the interconnection is cyclic, we derive an analytical condition for stability.},
+}
+EndNote citation:
+%0 Thesis
+%A Summers, Melissa Erin
+%T Performance Analysis of Nonlinear Systems Combining Integral Quadratic Constraints and Sum-of-Squares Techniques
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-191
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-191.html
+%F Summers:EECS-2013-191

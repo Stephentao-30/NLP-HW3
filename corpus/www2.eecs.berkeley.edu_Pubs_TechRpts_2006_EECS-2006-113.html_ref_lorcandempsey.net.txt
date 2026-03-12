@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-113.html?ref=lorcandempsey.net
+Designing Glanceable Peripheral Displays | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Designing Glanceable Peripheral Displays
+Designing Glanceable Peripheral Displays
+Tara Lynn Matthews, Jodi Forlizzi and Stacie Rohrbach
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2006-113
+September 7, 2006
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-113.pdf
+In this paper, we present a multi-faceted exploration of glanceable design. We seek answers to the question how do we design peripheral, visual displays that are highly glanceable? By glanceable, we mean enabling users to understand information quickly and easily. Glanceability is critical to peripheral display design because users need to quickly glance at and read displayed information with minimal interruption to their primary task. Our contributions are a taxonomy of visual variables and a set of design principles for using the visual variables to accomplish glanceable design. Our design principles are derived from interviews of experienced designers, a case study designing many variations of an email peripheral display using our visual variables, and a literature survey.
+BibTeX citation:
+@techreport{Matthews:EECS-2006-113,
+Author = {Matthews, Tara Lynn and Forlizzi, Jodi and Rohrbach, Stacie},
+Title = {Designing Glanceable Peripheral Displays},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2006},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-113.html},
+Number = {UCB/EECS-2006-113},
+Abstract = {In this paper, we present a multi-faceted exploration of glanceable design. We seek answers to the question how do we design peripheral, visual displays that are highly glanceable? By glanceable, we mean enabling users to understand information quickly and easily. Glanceability is critical to peripheral display design because users need to quickly glance at and read displayed information with minimal interruption to their primary task. Our contributions are a taxonomy of visual variables and a set of design principles for using the visual variables to accomplish glanceable design. Our design principles are derived from interviews of experienced designers, a case study designing many variations of an email peripheral display using our visual variables, and a literature survey.}
+}
+EndNote citation:
+%0 Report
+%A Matthews, Tara Lynn
+%A Forlizzi, Jodi
+%A Rohrbach, Stacie
+%T Designing Glanceable Peripheral Displays
+%I EECS Department, University of California, Berkeley
+%D 2006
+%8 September 7
+%@ UCB/EECS-2006-113
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-113.html
+%F Matthews:EECS-2006-113

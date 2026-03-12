@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29101.html
+A Unified Formulation For the Quadratic Integral (Sum) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Unified Formulation For the Quadratic Integral (Sum)
+A Unified Formulation For the Quadratic Integral (Sum)
+S. Gutman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M437
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-437.pdf
+BibTeX citation:
+@techreport{Gutman:M437,
+Author = {Gutman, S.},
+Title = {A Unified Formulation For the Quadratic Integral (Sum)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29101.html},
+Number = {UCB/ERL M437}
+}
+EndNote citation:
+%0 Report
+%A Gutman, S.
+%T A Unified Formulation For the Quadratic Integral (Sum)
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M437
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29101.html
+%F Gutman:M437

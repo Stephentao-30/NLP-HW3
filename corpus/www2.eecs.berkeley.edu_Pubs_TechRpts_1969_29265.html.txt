@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29265.html
+A Computer Program For Simulation of Tapered Dispersionless Lossy Transmission Lines
+S.R.P. Teixeirs and R.A. Rohrer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M265
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-265.pdf
+BibTeX citation:
+@techreport{Teixeirs:M265,
+Author= {Teixeirs, S.R.P. and Rohrer, R.A.},
+Title= {A Computer Program For Simulation of Tapered Dispersionless Lossy Transmission Lines},
+Year= {1969},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29265.html},
+Number= {UCB/ERL M265},
+}
+EndNote citation:
+%0 Report
+%A Teixeirs, S.R.P.
+%A Rohrer, R.A.
+%T A Computer Program For Simulation of Tapered Dispersionless Lossy Transmission Lines
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M265
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29265.html
+%F Teixeirs:M265

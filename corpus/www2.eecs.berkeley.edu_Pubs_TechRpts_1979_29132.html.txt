@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29132.html
+Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems
+Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems
+R. Aleliunas, R.M. Karp, R.J. Lipton, L. Lovasz and C. Rackoff
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/54
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-54.pdf
+BibTeX citation:
+@techreport{Aleliunas:M79/54,
+Author = {Aleliunas, R. and Karp, R.M. and Lipton, R.J. and Lovasz, L. and Rackoff, C.},
+Title = {Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29132.html},
+Number = {UCB/ERL M79/54}
+}
+EndNote citation:
+%0 Report
+%A Aleliunas, R.
+%A Karp, R.M.
+%A Lipton, R.J.
+%A Lovasz, L.
+%A Rackoff, C.
+%T Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/54
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29132.html
+%F Aleliunas:M79/54

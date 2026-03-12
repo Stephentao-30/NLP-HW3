@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28860.html
+The Entropy of Address Fields in Pascal Programs
+James Jatczynski
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M601
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-601.pdf
+BibTeX citation:
+@techreport{Jatczynski:M601,
+Author= {Jatczynski, James},
+Title= {The Entropy of Address Fields in Pascal Programs},
+Year= {1976},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28860.html},
+Number= {UCB/ERL M601},
+}
+EndNote citation:
+%0 Report
+%A Jatczynski, James
+%T The Entropy of Address Fields in Pascal Programs
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M601
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28860.html
+%F Jatczynski:M601

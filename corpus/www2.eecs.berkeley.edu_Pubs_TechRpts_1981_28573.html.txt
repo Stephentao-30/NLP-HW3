@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28573.html
+Simulation and Performance Evaluation of the Risc Architecture
+Yuval Temir
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/17
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-17.pdf
+BibTeX citation:
+@techreport{Temir:M81/17,
+Author= {Temir, Yuval},
+Title= {Simulation and Performance Evaluation of the Risc Architecture},
+Year= {1981},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28573.html},
+Number= {UCB/ERL M81/17},
+}
+EndNote citation:
+%0 Report
+%A Temir, Yuval
+%T Simulation and Performance Evaluation of the Risc Architecture
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/17
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28573.html
+%F Temir:M81/17

@@ -1,0 +1,93 @@
+URL: https://eecs.berkeley.edu/resources/faculty-staff/staff-it-procedures/spa
+Using Special Purpose Accounts (SPAs) - EECS at Berkeley
+Using Special Purpose Accounts (SPAs)
+These instructions are for EECS department staff supported by the Administrative Computing Group (ACG) only.
+Departmental group accounts, known as Special Purpose Accounts (SPAs), are created so that members of a group can share Google (bConnected/bDrive) files and jointly access mail sent to a shared mail alias.  It is very important that  every  work-related Google file that you create is in a  team drive   owned by a SPA  or simply owned by a SPA.  Any files owned by you that are not in a team drive will be deleted when your account is closed regardless of with whom it is shared. You should transfer all files that belong to your group, which you created while logged into your personal bConnected account, into a team drive.  Please send mail to acg@eecs if you need more information on your team drives.
+To see which SPAs you  belong to, visit  Manage My SPAs . For more information about campus SPA accounts see  Special Purpose Accounts .
+Transfer Ownership of your File to a SPA
+Go into Drive or a Docs, Sheets, or Slides home screen.
+Open the sharing box:
+In Drive: Select the file or folder and click the “share” icon (person with a plus sign) at the top .
+In a Docs, Sheets, or Slides home screen: Open the file and click “Share” in the top-right corner of the file.
+Type the email address of the SPA in the “Invite people” field
+(this will be the SPA name with the “spa-” removed from the beginning and @berkeley.edu added at the end. E.g.  spa-ugrad-eecs  would be  ugrad-eecs@berkeley.edu ) see image of “share with others” dialog   and
+Click “Send”
+Open Sharing again
+Click “Advanced” in the bottom-right corner of the sharing box.
+Click the drop-down menu next to the SPA name.
+Select “Is owner”
+Click “Save changes” then “Yes” then “Done.”
+Log into a SPA
+on  Firefox : Right-click on the Firefox icon and select “New private window” ( )
+OR
+on  Chrome : Right-click on the Chrome icon and select “New Incognito Window” ( )
+I prefer Firefox because a purple mustache icon appears at the top of a private window to make it clear that you this is not your usual account.
+Go to:   http://bdrive.berkeley.edu   (or any other bConnected URL)
+Put a PLUS sign in front of your CalNet login:
+e.g.     +magdalene
+and use your regular CalNet passphrase ( )
+In the “Choose one of your accounts” window, click the down arrow and select your SPA. (If the SPA does not appear, contact ACG so they can give you access.
+Click “Log in as”
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

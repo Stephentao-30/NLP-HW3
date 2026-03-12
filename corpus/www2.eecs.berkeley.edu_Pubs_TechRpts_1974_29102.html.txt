@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29102.html
+The ARPA-SUR Phonological Rules | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The ARPA-SUR Phonological Rules
+The ARPA-SUR Phonological Rules
+Alan Cole
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M445
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-445.pdf
+BibTeX citation:
+@techreport{Cole:M445,
+Author = {Cole, Alan},
+Title = {The ARPA-SUR Phonological Rules},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29102.html},
+Number = {UCB/ERL M445}
+}
+EndNote citation:
+%0 Report
+%A Cole, Alan
+%T The ARPA-SUR Phonological Rules
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M445
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29102.html
+%F Cole:M445

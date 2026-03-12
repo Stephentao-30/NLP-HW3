@@ -1,0 +1,49 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-242.html
+Parallel Layout Engines:  Synthesis and Optimization of Tree Traversals
+Leo Meyerovich
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-242
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-242.pdf
+Mobile web browsers and data visualization tools require a performance boost. Parallelization poses an opportunity because commodity computers feature fast and energy-efficient multicore, subword-SIMD, and GPU hardware. However, layout engines in both browsers and visualizations have resisted parallelization thus far. This thesis introduces techniques for parallel computing over trees and applies them to generating layout engines.
+Our solution is twofold. First, we show how to specify layout languages in the attribute grammar model of constraints over trees. Second, we address outstanding challenges in parallelizing attribute grammars and computations over trees. Our resulting attribute grammar compiler generates layout engines for various layout languages and parallel hardware.
+We provide several individual contributions:
+* We specify the functional and parallel behavior of common layout language primitives.
+* We present a language for scheduling parallel tree traversals and a static verifier for ensuring a schedule will solve the attributes of an arbitrary layout in a safe order.
+* We introduce a parallel programming model where programmers may partially specify the parallel schedule and call an optimizing synthesizer to complete the schedule.
+* We design a scheduling algorithm that is fast and modular over scheduling constructs.
+* We optimize tree traversals for SIMD hardware by automatically staging dynamic memory allocation and clustering diverging tasks.
+* We optimize parallel tree traversals for  MIMD architectures through a load-balancing heuristic that approximates work stealing.
+To evaluate our approach, we present two case studies. First, we generated the first parallel webpage layout engine that can for the most part render complex sites such as Wikipedia. Second, we generated interactive data visualizations that support up to 1,000,000 data points in real-time. Both case studies have been further validated industrially.
+Advisors:  Ras Bodik
+BibTeX citation:
+@phdthesis{Meyerovich:EECS-2013-242,
+Author= {Meyerovich, Leo},
+Title= {Parallel Layout Engines:  Synthesis and Optimization of Tree Traversals},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-242.html},
+Number= {UCB/EECS-2013-242},
+Abstract= {Mobile web browsers and data visualization tools require a performance boost. Parallelization poses an opportunity because commodity computers feature fast and energy-efficient multicore, subword-SIMD, and GPU hardware. However, layout engines in both browsers and visualizations have resisted parallelization thus far. This thesis introduces techniques for parallel computing over trees and applies them to generating layout engines.
+Our solution is twofold. First, we show how to specify layout languages in the attribute grammar model of constraints over trees. Second, we address outstanding challenges in parallelizing attribute grammars and computations over trees. Our resulting attribute grammar compiler generates layout engines for various layout languages and parallel hardware.
+We provide several individual contributions:
+* We specify the functional and parallel behavior of common layout language primitives.
+* We present a language for scheduling parallel tree traversals and a static verifier for ensuring a schedule will solve the attributes of an arbitrary layout in a safe order.
+* We introduce a parallel programming model where programmers may partially specify the parallel schedule and call an optimizing synthesizer to complete the schedule.
+* We design a scheduling algorithm that is fast and modular over scheduling constructs.
+* We optimize tree traversals for SIMD hardware by automatically staging dynamic memory allocation and clustering diverging tasks.
+* We optimize parallel tree traversals for  MIMD architectures through a load-balancing heuristic that approximates work stealing.
+To evaluate our approach, we present two case studies. First, we generated the first parallel webpage layout engine that can for the most part render complex sites such as Wikipedia. Second, we generated interactive data visualizations that support up to 1,000,000 data points in real-time. Both case studies have been further validated industrially.},
+}
+EndNote citation:
+%0 Thesis
+%A Meyerovich, Leo
+%T Parallel Layout Engines:  Synthesis and Optimization of Tree Traversals
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-242
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-242.html
+%F Meyerovich:EECS-2013-242

@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/beyond-wearables-the-rise-of-invisible-ai-powered-health-tech
+Beyond Wearables: The Rise of Invisible AI-Powered Health Tech! - EECS at Berkeley
+Beyond Wearables: The Rise of Invisible AI-Powered Health Tech!
+Dina Katabi gives her talk, “Beyond Wearables: The Rise of Invisible AI-Powered Health Tech!” on Oct. 1, 2025.
+EECS Colloquium
+Wednesday, October 1, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Youtube Webinar
+Dina Katabi
+The Thuan and Nicole Pham Professor of EECS at MIT and director of MIT’s Center for Wireless Networks and Mobile Computing
+Bio
+Dina Katabi  is the Thuan and Nicole Pham Professor of Electrical Engineering and Computer Science at MIT, and the director of MIT’s Center for Wireless Networks and Mobile Computing. Katabi is a recipient of the MacArthur Fellowship and a member of the National Academy of Engineering, the National Academy of Sciences, and the American Academy of Arts and Sciences. Dr. Katabi received her Ph.D. and Master’s degrees from MIT, and her B.S. from Damascus University. Her research focuses on innovations in digital health, wireless sensing, and applied machine learning. Dr. Katabi’s research has been recognized with the Association for Computing Machinery (ACM) Prize in Computing, the ACM Grace Murray Hopper Award, two ACM SIGCOMM and one ACM SIGMOBILE Test of Time Awards, the Faculty Research Innovation Fellowship, a Sloan Research Fellowship, the NBX Career Development Chair, and the National Science Foundation CAREER Award. Her students twice received the ACM Doctoral Dissertation Award in computer science and engineering. Her work was also recognized with the IEEE William R. Bennett Prize, three ACM SIGCOMM Best Paper awards, a Networked Systems Design and Implementation Best Paper award, and a TR10 award. Several startups have been spun out of Katabi’s lab, including PiCharging and Emerald.
+Abstract
+We face a “silver tsunami”: the number of older adults is increasing at an unprecedented rate, while shortages of both professional and family caregivers are growing. Can technology help? What if AI could analyze the wireless signals that bounce around a home and measure people’s physiological signals, diagnose new diseases, detect exacerbations of existing conditions, and track medication response, all without wearables and as patients go about their daily lives? In this talk, I will describe how we can achieve this vision. Our work is enabled by two technologies. First, my lab has created a device resembling a Wi-Fi box that uses AI to analyze wireless reflections from individuals, enabling measurement of respiratory, cardiovascular, EEG, and musculoskeletal signals, without body contact. These devices are already used by pharmaceutical companies and deployed with patients living with Parkinson’s disease, Alzheimer’s disease, ALS, lupus, Crohn’s disease, and rheumatoid arthritis (RA), generating a large real-world dataset to train and validate the AI models. Second, I will explain how we adapted large language model (LLM) methods to interpret physiological data, establishing a foundation model for screening complex diseases and tracking medication response. I envision is a future in which “the Invisibles”, a new class of AI-powered, contactless sensors, enable smart health environments and shift care from reactive to proactive, improving health and well-being.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

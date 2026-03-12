@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28454.html
+Coefficients for Stieltjes' Continued Fraction for the Gamma Function | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Coefficients for Stieltjes' Continued Fraction for the Gamma Function
+Coefficients for Stieltjes' Continued Fraction for the Gamma Function
+Bruce W. Char
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/71
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-71.pdf
+BibTeX citation:
+@techreport{Char:M79/71,
+Author = {Char, Bruce W.},
+Title = {Coefficients for Stieltjes' Continued Fraction for the Gamma Function},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28454.html},
+Number = {UCB/ERL M79/71}
+}
+EndNote citation:
+%0 Report
+%A Char, Bruce W.
+%T Coefficients for Stieltjes' Continued Fraction for the Gamma Function
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/71
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28454.html
+%F Char:M79/71

@@ -1,0 +1,232 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022
+Technical Reports - 2022
+Understanding and Exploring Serverless Cloud Computing  (EECS-2022-273) Johann Schleier-Smith
+Towards Socially and Economically Beneficial Machine Learning  (EECS-2022-272) Wenshuo Guo
+The Design and Implementation of User-Schedulable Languages  (EECS-2022-271) Alexander Reinking
+Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate  (EECS-2022-270) Audrey Cheng
+Semantic Analysis of Programs using Graph Neural Networks  (EECS-2022-269) Aayan Kumar
+A Case for Application Driven Design of Energy Harvesting Sensor Systems  (EECS-2022-268) Neal Jackson
+DCR: DataCapsule Replication System  (EECS-2022-267) Hanming Lu
+Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects  (EECS-2022-266) Yahav Avigal
+Robust Learning of Optimal Auctions  (EECS-2022-265) Wenshuo Guo
+Challenges on Decarbonization of Electric Power Systems  (EECS-2022-264) Rodrigo Marti Henriquez Auba
+Controlling Devices to Achieve Stability Guarantees on Electric Distribution Grids  (EECS-2022-263) Jaimie Swartz
+Network Optimization Algorithms and Applications to Molecular Biology  (EECS-2022-262) Alex Khodaverdian
+Large-Scale Real-World Robotic Manipulation Using Diverse Data  (EECS-2022-261) Frederik Ebert
+Towards Trustworthy Machine Learning  (EECS-2022-260) Adam Gleave
+Efficient Optimization Algorithms for Machine Learning  (EECS-2022-259) Armin Askari
+Designing Exercises to Teach Programming Patterns  (EECS-2022-257) Nathaniel Weinman
+Generative Modelling of Quantum Processes via Quantum-Probabilistic Information Geometry  (EECS-2022-256) Sahil Patel, Faris Sbahi, Antonio Martinez, Dmitri Saberi, Jae Yoo, Geoffrey Roeder and Guillaume Verdon
+Depression Severity Estimation Using Learned Vocal Biomarkers  (EECS-2022-255) Harrison Costantino
+Object-Level Representation Learning for Natural and Medical Images  (EECS-2022-254) Akash Gokul
+Machine Learning Safety  (EECS-2022-253) Daniel Hendrycks
+Contributions to Rust and C++ Cryptographic Libraries for zkSNARKS  (EECS-2022-252) Solomon Joseph
+Micro-Electro-Mechanical Relay Technology for Beyond-Von-Neumann Computer Architectures  (EECS-2022-251) Xiaoer Hu
+Privacy Controls for Always-Listening Devices  (EECS-2022-249) Nathan Malkin
+Physically Aware Design of Generated Systems-on-Chip  (EECS-2022-248) John Wright
+Generator-Based Design of Custom Systems-on-Chip for Numerical Data Analysis  (EECS-2022-247) Alon Amid
+Millimeter-wave Impedance Spectroscopy for High Sensitivity and Selectivity Biomolecular Detection  (EECS-2022-246) Luya Zhang and Ali Niknejad
+Multi-Vehicle Collision Avoidance via Hamilton-Jacobi Reachability and Integer Linear Programming  (EECS-2022-245) Chia-Yin Shih
+Improving Situational Awareness to Reduce the Wildfire Risks of Operating Power Distribution Infrastructure  (EECS-2022-244) Timothy Barat
+Integrated Hybrid Switched-Capacitor Converters for Point of Load Power Delivery  (EECS-2022-243) Pourya Assem
+Development of a Magnesium Semi-solid Redox Flow Battery  (EECS-2022-241) Matthew McPhail
+Designing New Memory Systems for Next-Generation Data Centers  (EECS-2022-240) Howard Mao
+Generators for Wireless Systems Prototyping  (EECS-2022-239) Paul Rigge
+Spectral Purification Techniques for Clock Generation Circuits  (EECS-2022-238) Yi-An Li
+Towards Ubiquitous Augmented Reality in Structured Environments  (EECS-2022-237) Joseph Menke
+Lower bounds on the complexity of quantum proofs  (EECS-2022-236) Chinmay Nirkhe
+Exploratory and Explanatory Tools for ML Application Development  (EECS-2022-234) Eldon Schoop
+Learning Representations that Enable Generalization in Assistive Tasks  (EECS-2022-233) Zhiyang He and Anca Dragan
+SCL: A Secure Concurrency Layer For Paranoid Stateful Lambdas  (EECS-2022-232) Eric Chen, Alexander Thomas, Hanming Lu, William Mullen, Jeffery Ichnowski, Rahul Arya, Nivedha Krishnakumar, Ryan Teoh, Willis Wang, Anthony D. Joseph and John D. Kubiatowicz
+Hardware-Aware Efficient Deep Learning  (EECS-2022-231) Zhen Dong
+Learning to Generalize in Dynamic Environments  (EECS-2022-229) Dequan Wang
+Rigid Scene Flow Estimation and Prediction on Temporal LiDAR for Autonomous Driving  (EECS-2022-228) David Deng
+Influence of Capacitive Transducer Nonlinearities on the Amplitude Limiting of MEMS Based Oscillators  (EECS-2022-227) Sherwin Afshar
+Learning, Control and Optimization for Electricity Distribution Networks  (EECS-2022-225) Keith Moffat
+Single-Shot 3D Microscopy: Optics and Algorithms Co-Design  (EECS-2022-224) Linda Liu
+Developing Accessible and Equitable Remote Exams at Scale During the COVID-19 Pandemic  (EECS-2022-223) Peyrin Kao
+Interactive Cross-Dimensional Media for Collaboration and Guidance in Mixed Reality Environments  (EECS-2022-221) Bala Thoravi Kumaravel
+Towards Adaptive, Continual Embodied Agents  (EECS-2022-220) Kelvin Xu
+High Efficiency Computation of Game Tree Exploration in Connect 4  (EECS-2022-219) Justin Yokota
+Low-Rank and Temporal Smoothness Regularization on Value-Based Deep Reinforcement Learning  (EECS-2022-218) Edward Yam
+Social Optimality via Dynamic Tolling and Adaptive Incentive Design  (EECS-2022-217) Kshitij Kulkarni and S. Shankar Sastry
+Machine Learning Prediction of TCR-Epitope Binding  (EECS-2022-216) Julian Faust and Yun S. Song
+Neural Network Compression with Low Rank Structured Layers  (EECS-2022-214) Dimitris Papadimitriou
+Learning Transferable Representations across Domains  (EECS-2022-213) Xiangyu Yue
+Cognitive analyses of machine learning systems  (EECS-2022-209) Erin Grant
+Tools and Techniques for Building Programming Assistants for Data Analysis  (EECS-2022-208) Rohan Bavishi
+Process-Sensitive Creativity Support Tools  (EECS-2022-207) Sarah Sterman
+Multimodal Contrastive Learning for Unsupervised Video Representation Learning  (EECS-2022-206) Anup Hiremath
+Efficient and Scalable Neural Architectures for Visual Recognition  (EECS-2022-205) Zhuang Liu
+Scalable Robot Learning  (EECS-2022-204) Ashvin Nair
+An Automated Control System for Beat Pilot Tone in MRI  (EECS-2022-203) Jordan Grelling
+On the E􏰀ectiveness of Fine Tuning versus Meta-reinforcement Learning  (EECS-2022-202) Mandi Zhao, Pieter Abbeel and Stephen James
+Multi-task Policy Learning with Minimal Human Supervision  (EECS-2022-200) Parsa Mahmoudieh
+When do machine learning models generalize well? A signal-processing perspective  (EECS-2022-199) Vignesh Subramanian
+Oscillator-Based Potts Machine (OPM) for the Implementation of the Vector Potts Model  (EECS-2022-198) Jaijeet Roychowdhury and Sayan Seal
+Integrated Multiport Conversion with Rotating Transformer  (EECS-2022-197) Richard Liou
+Parallel Algorithms for De Novo Long Read Genome Assembly via Sparse Linear Algebra  (EECS-2022-196) Giulia Guidi
+Directed Shortest Walk on Temporal Graphs  (EECS-2022-195) Alex Khodaverdian and Nir Yosef
+Machine Learning for Query Optimization  (EECS-2022-194) Zongheng Yang
+Beyond Conservatism in Offline Reinforcement Learning: The Importance of Effective Representations  (EECS-2022-193) Kevin Li
+Using neural-machine interfaces to explore skill learning in central and peripheral nervous systems  (EECS-2022-191) Paul Botros
+Learning Objective Functions from Many Diverse Signals  (EECS-2022-190) Smitha Milli
+The impact of information-aware routing on road traffic, from case studies to game-theoretical analysis and simulations  (EECS-2022-183) Theophile Cabannes
+Learning Beyond the Standard Model (of Data)  (EECS-2022-182) Nilesh Tripuraneni
+Bridging Safety and Learning in Human-Robot Interaction  (EECS-2022-181) Andrea Bajcsy
+Validity Challenges in Machine Learning Benchmarks  (EECS-2022-180) John Miller
+The Dynamics of Recommender Systems  (EECS-2022-178) Karl Krauth
+Physics-Informed Machine Learning for Computational Imaging  (EECS-2022-177) Kristina Monakhova
+Building a Ring Resonator Feedback Loop  (EECS-2022-176) Parth Patel
+Human-Guided Generation of Sketches and Prototypes  (EECS-2022-175) Forrest Huang
+Towards Privacy-Preserving and Regulation-Compliant Data Analysis  (EECS-2022-174) Lun Wang
+Automatically Converting Code-Writing Exercises to Variably-Scaffolded Parsons Problems  (EECS-2022-173) Logan Caraco, Nate Weinman, Stanley Ko and Armando Fox
+Learning when Objectives are Hard to Specify  (EECS-2022-172) Kush Bhatia
+An Optics-Free Ultra-Thin Time-Resolved Intraoperative Imager Using Upconverting Nanoparticles  (EECS-2022-170) Hossein Najafiaghdam
+CapsuleDB: A Secure Key-Value Store for the Global Data Plane  (EECS-2022-168) William Mullen
+Group Probability-Weighted Tree Sums for Interpretable Modeling of Heterogeneous Data  (EECS-2022-167) Keyan Abou-Nasseri
+Joist Detection and Climbing Method for Hexapod Robots  (EECS-2022-166) Yibin Li
+Proximity Detection Using Wi-Fi Fingerprints and Smartphone Magnetometers, With Applications to COVID-19 Surveillance  (EECS-2022-165) Zach Van Hyfte
+Computational Methods for Assessing and Improving Quality of Study Group Formation  (EECS-2022-163) Ana Tudor
+Generative Modeling for Healthcare Applications and Energy Demand Response with Normalizing Flows  (EECS-2022-162) Japjot Singh
+Towards a Real-Time Vision Correcting Display  (EECS-2022-160) Shiyun Xu
+Optimization Methods for Tracking and Mapping the Human Retina  (EECS-2022-159) Jay Shenoy
+A Compiler in Snap!: Compiling a Block-Based Language  (EECS-2022-157) Oscar Chan
+The Beauty and Joy of Physical Computing  (EECS-2022-156) Deanna Gelosi
+Learning Rate Estimation for Stochastic Gradient Descent  (EECS-2022-155) Nadia Hyder and Gerald Friedland
+Environment Reconstruction from an Aerial Perspective with RGB-D and Fisheye Cameras  (EECS-2022-154) Ritika Shrivastava
+Learning to Perceive and Manipulate Deformable Objects by Leveraging Simulation and Cloud Robotics  (EECS-2022-153) Aditya Ganapathi
+Extending Succinct Zero Knowledge Proofs for Set Membership to Ring Signatures  (EECS-2022-152) Jialin Li
+CANClassify: Automated Decoding and Labeling of CAN Bus Signals  (EECS-2022-151) Paul Ngo, Jonathan Sprinkle and Rahul Bhadani
+LEM: A Configurable RISC-V Vector Unit Based on Parameterized Microcode Expander  (EECS-2022-150) Zitao Fang
+Lifting Hardware Models from Implementations for Verification  (EECS-2022-149) Jonathan Shi
+GamesmanUni GUI Accessibility and Combinatorial Games  (EECS-2022-148) Avery Liou
+Machine Learning Safety  (EECS-2022-147) Jiaming Zou
+Learning to Walk: Legged Hexapod Locomotion from Simulation to the Real World  (EECS-2022-146) Maxime Kawawa-Beaudan
+High-Performance FPGA-accelerated Chiplet Modeling  (EECS-2022-145) Xingyu Li
+Low Overhead Remote Procedure Call System for Saturn DSP  (EECS-2022-144) Christiaan Banister
+3D Wireframe Reconstruction of Buildings from Point Cloud Data  (EECS-2022-143) Richard Wang
+Dynamic Linking in Trusted Execution Environments in RISC-V  (EECS-2022-142) Catherine Lu
+A System for Automated Security Knowledge Extraction  (EECS-2022-141) Edward Choi
+Representation Learning in Video and Text - A Social Media Misinformation Perspective  (EECS-2022-140) Kehan Wang
+The Effect of Model Size on Worst-Group Generalization  (EECS-2022-138) Alan Pham
+Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly  (EECS-2022-137) Vedaad Shakib, Spencer Whitehead and Suzanne Petryk
+Single-Chip Micro Mote in EEG, fMRI, and TMS Systems  (EECS-2022-136) Joshua Alexander
+Software-in-the-loop Testing for Autonomous Vehicles With Docker  (EECS-2022-135) Sarah Bhaskaran
+Learning Causal Overhypotheses through Exploration in Children and Computational Models  (EECS-2022-134) Jiakun Liu
+Machine Learning Safety  (EECS-2022-133) Daniel Hendrycks
+An Investigation of Sense Disambiguation in Scientific Texts  (EECS-2022-132) Manav Rathod
+Creating a Video Classification Neural Network Architecture to Map American Sign Language Gestures to Computer Cursor Controls  (EECS-2022-131) Rohan Hajela
+Overhead-communication Exploration in Large-Scale Machine Learning Frameworks  (EECS-2022-130) Wai Cheuk Chadwick Leung
+Assisting Reinforcement Learning in Real-time Strategy Environments with SCENIC  (EECS-2022-129) Qiancheng Wu
+Investigating Intuitions and Predicting Success using Fine Grained Student Code Snapshot Data  (EECS-2022-128) Henry Maier
+Visualizing High-Dimensional Hyperbolic Data  (EECS-2022-127) Haoran Guo, Yunhui Guo and Stella Yu
+Contrastive Feature Learning for Audio Classification  (EECS-2022-126) Daniel Lin
+A Case Study on COVID-19 Intervention Visualizations: The Role of Trust, Beliefs, and Interpretations  (EECS-2022-125) Priyam Mohanty and Aditya Parameswaran
+Coverage Path Planning in Dynamic Environment through Guided Reinforcement Learning  (EECS-2022-123) Ming Lung Raymond Chong
+Machine Learning Safety  (EECS-2022-122) Daniel Hendrycks
+A Simulator and Benchmark for the RingWorld Protocol  (EECS-2022-121) Yichi Zhang
+Evaluating the use of sequence-to-expression predictors for personalized expression prediction  (EECS-2022-120) Parth Baokar
+Suppression of Oscillator Bias Voltage Phase Noise via MEMS Resonator Arraying  (EECS-2022-119) Jeffrey Ni
+Low-Power Hyperdimensional Computing Processors for Real-Time Wearable Sensor Fusion and Keyword Classification  (EECS-2022-118) Daniel Sun
+Towards diffraction-limited short-wavelength imaging systems  (EECS-2022-117) Gautam Gunjala
+Accessible Two-handed Gesture Control for Human Computer Interaction  (EECS-2022-116) Patricia Ouyang
+NumS: Scalable Array Programming for the Cloud  (EECS-2022-115) Huseyin Elibol, Michael Jordan and Ion Stoica
+Reliable Prediction and Decision-Making in Sequential Environments  (EECS-2022-114) Paria Rashidinejad
+PolyVI: Deep Generative Models for Gene Expression, Chromatin Accessibility, and Surface Protein Expression Data  (EECS-2022-113) Rohan Koodli
+Compatibility, Maintainability, and Portability Improvements to the Taichi Graphics Programming Framework  (EECS-2022-112) Cheng Cao
+Single-Mode Lasing in Cavities of Different Dimensionalities  (EECS-2022-111) Wanwoo Noh
+Compressive Deconvolution Algorithms for a Computational Lightfield Display for Correcting Visual Aberrations  (EECS-2022-110) Anmol Parande
+Vision and Language for Digital Forensics  (EECS-2022-109) Grace Luo
+An Updated Model of Computation for VLSI and Applications to FPGA Implementation  (EECS-2022-108) Nathaniel Young
+Specifications from Demonstrations: Learning, Teaching, and Control  (EECS-2022-107) Marcell Vazquez-Chanlatte
+Decentralized Ledgers: Design and Applications  (EECS-2022-104) Yuncong Hu
+Simulating Spin Orbit Torque Driven Switching with Ultrafast Thermal Effects  (EECS-2022-103) Ashwin Rastogi
+City Alive: Interactive Tools to Improve Local Civic Engagement  (EECS-2022-102) Odysseus Pyrinis
+Accelerating Deep Learning on Heterogenous Architectures  (EECS-2022-100) Avinash Nandakumar
+The Algebra of Contracts  (EECS-2022-99) Inigo Incer
+Manipulation and Perception Policies for Robot Mechanical Search  (EECS-2022-98) Michael Danielczuk
+Algorithms for Robust Linear Models against Strong Adversarial Corruptions  (EECS-2022-97) Yimeng Wang
+Building Trusted Execution Environments  (EECS-2022-96) Dayeol Lee
+Design and Implementation of Physical Experiments for Evaluation of the AlphaGarden: an Autonomous Polyculture Garden  (EECS-2022-95) Mark Presten
+Power, Performance, and Area Analysis of Asynchronous Stochastic Neural Accelerator PASSOv1  (EECS-2022-94) Steven Lu
+RDMA-Based Distributed Data Structures for Large-Scale Parallel Systems  (EECS-2022-93) Benjamin Brock
+Factoring Matrices into Linear Neural Networks  (EECS-2022-92) Sagnik Bhattacharya and Jonathan Shewchuk
+Interpreting batch correction of single-cell variational inference at scale  (EECS-2022-91) Katherine Wu
+Neurotoxin: Durable Backdoors in Federated Learning  (EECS-2022-89) Linyue Song, Zhengming Zhang, Ashwinee Panda, Yaoqing Yang, Michael Mahoney, Joseph Gonzalez and Prateek Prateek Mittal
+Making the Most of Serverless Accelerators  (EECS-2022-88) Aditya Ramkumar
+The Serverless Datacenter: Hardware and Software Techniques for Resource Disaggregation  (EECS-2022-86) Nathan Pemberton
+Hallucination Is All You Need: Using Generative Models for Test Time Data Augmentation  (EECS-2022-85) Dhruv Jhamb
+Disruptive Research on Distributed Machine Learning Systems  (EECS-2022-83) Guanhua Wang
+Towards Accessible Fabrication of Proprioceptive Soft Robotic Tentacles Without External Sensors  (EECS-2022-81) Josephine Koe
+Accelerating Visual Data Exploration via Sampling: A Case Study with Lux  (EECS-2022-80) Kunal Agarwal
+Bridging the Gap Between Modular and End-to-end Autonomous Driving Systems  (EECS-2022-79) Eric Leong
+Critique of and System Design for Optimization in Construction Supply Chain Management with Consideration for the SEAD Village  (EECS-2022-78) Alec Zhou
+Scalable Supervision for Safe and Efficient Online Robot Learning  (EECS-2022-77) Ashwin Balakrishna
+Scalable Supervision for Safe and Efficient Online Robot Learning  (EECS-2022-76) Ashwin Balakrishna
+Enhancing Privacy and Security on the Extensible Internet  (EECS-2022-75) William Lin
+Towards Mutual Understanding between Mortals and Machines in Motion for Safety  (EECS-2022-74) David McPherson
+Incorporating Intent, Impact, and Context for Beneficial Machine Learning  (EECS-2022-73) Esther Rolf
+IPC-GraspSim: Reducing the Sim2Real Gap for Parallel-Jaw Grasping with the Incremental Potential Contact Model  (EECS-2022-72) Chung Min Kim
+A Study of Generalization Metrics for Natural Language Processing: Correlational Analysis and a Simpson's Paradox  (EECS-2022-71) Raguvir Kunani
+Anatomy Inspired Hardware for Magnetic Resonance Imaging  (EECS-2022-70) Karthik Gopalan
+Efficiently Designing Efficient Deep Neural Networks  (EECS-2022-69) Alvin Wan
+Voicing Silent Speech  (EECS-2022-68) David Gaddy
+TOWARD EFFICIENT SPREADSHEET COMPUTATION AND VISUALIZATION  (EECS-2022-67) Christopher De Leon
+Safe Reinforcement Learning Using Learned Safe Sets  (EECS-2022-66) Brijen Thananjeyan
+Synergy of Prediction and Control in Model-based Reinforcement Learning  (EECS-2022-65) Nathan Lambert
+Optimization Methods Leveraging V2X Communication and Traffic Management Apps for Transportation Control  (EECS-2022-64) Mikhail Burov
+Human-in-the-Loop Reinforcement Learning for Adaptive Assistive Interfaces  (EECS-2022-62) Jensen Gao
+Forecasting Future World Events with Neural Networks  (EECS-2022-61) Tristan Xiao
+Peak Load Estimation with the Generalized Extreme Value Distribution  (EECS-2022-60) Jonathan Lee, Mohini Bariya and Duncan Callaway
+Study of Program Synthesizers & Novice Programmers  (EECS-2022-59) Dhanya Jayagopal, Justin Lubin and Sarah Chasins
+Building Cryptographic Systems from Distributed Trust  (EECS-2022-57) Weikeng Chen
+Knowledge-Guided Self-Supervised Vision Transformers for Medical Imaging  (EECS-2022-56) Kevin Miao, Colorado Reed, Akash Gokul, Suzanne Petryk, Raghav Singh, Kurt Keutzer, Joseph Gonzalez and Trevor Darrell
+Mutual Information for Exploration in Reinforcement Learning  (EECS-2022-54) Abhinav Gopal
+Improved Algorithms and Upper Bounds in Differential Privacy  (EECS-2022-53) Arun Ganesh
+Tuning Doubly Randomized Block Kaczmarz Method  (EECS-2022-52) Rahul Jain
+A Dramaturgical Framework for Interactive Performance: Sensitizing Concepts at the Intersection of Performance and Technology  (EECS-2022-49) Molly Nicholas
+Robust Imitation Learning for Risk-Aware Behavior and Sim2Real Transfer  (EECS-2022-48) Zaynah Javed
+Comparative Studies on Sample Complexity Bounds in Multi-Agent Reinforcement Learning  (EECS-2022-47) Jiaqi Yang
+FogROS: An Adaptive Framework for Automating Fog Robotics Deployment and Co-scheduling Feature Updates and Queries for Feature Stores  (EECS-2022-46) Yafei Liang
+Teaching Robots to Span the Space of Functional Expressive Motion  (EECS-2022-45) Arjun Sripathy, Andreea Bobu, Zhongyu Li, Koushil Sreenath, Daniel Brown and Anca Dragan
+Fault Tolerance in Distributed Systems  (EECS-2022-44) Aisha Mushtaq
+Data Science in Snap!: A Block-Based Approach to Data Science Education  (EECS-2022-43) Isaac Merritt
+Learning-Based Program Synthesis: Towards Synthesizing Complex Programs from Multi-Modal Specifications in the Wild  (EECS-2022-42) Xinyun Chen
+Social Dynamics of Machine Learning for Decision Making  (EECS-2022-41) Lydia Liu
+Useful interpretability for real-world machine learning  (EECS-2022-40) Chandan Singh
+Indoor Scene Augmentation via Scene Graph Priors  (EECS-2022-39) Mohammad Keshavarzi
+Understanding Radiative Recombination in Two Dimensional Semiconductors  (EECS-2022-38)
+New Information Inequalities with Applications to Statistics  (EECS-2022-37) Kuan-Yun Lee
+A Modular Framework for Socially Compliant Robot Navigation in Complex Indoor Environments  (EECS-2022-36) Sara Pohland and Claire Tomlin
+Pre-training Agents for Design Optimization and Control  (EECS-2022-35) Kourosh Hakhamaneshi
+Negative Capacitance Field-Effect Transistor Design and Machine Learning Applications in Compact Models  (EECS-2022-34) Ming-Yen Kao
+Improved Bounds for Incoherent Matrix Completion  (EECS-2022-33) Emaan Hariri
+Modeling and Design of Nanoscale Ferroelectric and Negative-Capacitance Gate Transistors  (EECS-2022-32) Yu-Hung Liao
+Safety Methods for Robotic Systems  (EECS-2022-31) Chia-Yin Shih
+Robust 3D Quantitative Phase Imaging  (EECS-2022-29) Regina Eckert
+Perceiving 3D Humans and Objects in Motion  (EECS-2022-28) Zhe Cao
+Practical Solutions to Accelerating ASIC Design Development Using Machine Learning  (EECS-2022-27) Keertana Settaluri
+Stone soup: digesting the epigenome through the window of chromatin accessibility  (EECS-2022-26) Alyssa Morrow
+Perceiving 3D Humans and Objects in Motion  (EECS-2022-25) Zhe Cao
+Improving FPGA Simulation Capacity with Automatic Resource Multi-Threading  (EECS-2022-24) Albert Magyar
+Nanoelectromechanical Switch Design and Implementation in Back-End-of-Line Technology  (EECS-2022-23) Urmita Sikder
+Circuits and Control for High-Performance Grid-tied Ac-Dc Conversion Systems  (EECS-2022-22) Zitao Liao, Robert Pilawa-Podgurski, Seth R. Sanders, Duncan Callaway and Minjie Chen
+Automated, FPGA-Based Hardware Emulation of Dynamic Frequency Scaling  (EECS-2022-21) David Biancolin
+Nanoelectromechanical Switch Design and Implementation in Back-End-of-Line Technology  (EECS-2022-20) Urmita Sikder
+Single-Mode Waveguide Coupling of Optical Antenna-LED for Optical Interconnects  (EECS-2022-19) Nicolas Andrade
+Optical Antenna-Enhanced Light-Emitting Diodes and Inverse Electromagnetic Design  (EECS-2022-18) Sean Hooten
+Towards High-Endurance, Nonvolatile, CMOS-Compatible Ferroelectric Memories for Next-Generation Computing  (EECS-2022-17) Ava Tan
+Energy Efficient Communication Links for Smart Devices  (EECS-2022-16) Nathan Narevsky
+Nanopore Methylation Calling from Limited Training Data  (EECS-2022-15) Brian Yao and Jennifer Listgarten
+Two-Dimensional Semiconductors for Next-Generation Optoelectronics  (EECS-2022-14) Hyungjin Kim
+HD Recall of Reactive Behavior through Multi-Modal Sensor Fusion  (EECS-2022-13) Alisha Menon
+Printed, Flexible Electrochemical Sensors  (EECS-2022-12) Margaret Payne
+Drug Monitoring with Wearable Sweat Sensors  (EECS-2022-11) Li-Chia Tai
+Inductive Wireless Power Transfer to Multiple Biomedical Implants  (EECS-2022-10) George Alexandrov
+Practical limits to thermophotovoltaic efficiency  (EECS-2022-8) Zunaid Omair
+Building Assistive Sensorimotor Interfaces through Human-in-the-Loop Machine Learning  (EECS-2022-7) Siddharth Reddy
+Hierarchical Actor-Critic Exploration with Synchronized, Adversarial, & Knowledge-Based Actions  (EECS-2022-6) Ayush Jain
+Full Stack engineering in Robot Open Autonomous Racing  (EECS-2022-4) Michael Wu
+Characterizations and Computation of Controlled Invariants for Monotone Dynamical Systems  (EECS-2022-2) Adnane Saoud and Murat Arcak
+Training, Evaluating, and Understanding Evolutionary Models for Protein Sequences  (EECS-2022-1) Roshan Rao

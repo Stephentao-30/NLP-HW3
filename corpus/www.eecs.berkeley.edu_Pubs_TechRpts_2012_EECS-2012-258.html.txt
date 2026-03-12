@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-258.html
+Communication-Avoiding Optimization of Geometric Multigrid on GPUs
+Amik Singh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-258
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-258.pdf
+Multigrid methods are widely used to accelerate the convergence of iterative solvers for linear systems in a number of different application areas. In this report, we explore communication-avoiding implementations of Geometric Multigrid on Nvidia GPUs. We achieved an overall gain of 1.2x for the whole multigrid algorithm over baseline implementation. We also provide an insight into what future GPUs need to have in terms of on chip and shared memory for these kinds of algorithms to perform even better.
+Advisors:  James Demmel
+BibTeX citation:
+@mastersthesis{Singh:EECS-2012-258,
+Author= {Singh, Amik},
+Editor= {Demmel, James},
+Title= {Communication-Avoiding Optimization of Geometric Multigrid on GPUs},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-258.html},
+Number= {UCB/EECS-2012-258},
+Abstract= {Multigrid methods are widely used to accelerate the convergence of iterative solvers for linear systems in a number of different application areas. In this report, we explore communication-avoiding implementations of Geometric Multigrid on Nvidia GPUs. We achieved an overall gain of 1.2x for the whole multigrid algorithm over baseline implementation. We also provide an insight into what future GPUs need to have in terms of on chip and shared memory for these kinds of algorithms to perform even better.},
+}
+EndNote citation:
+%0 Thesis
+%A Singh, Amik
+%E Demmel, James
+%T Communication-Avoiding Optimization of Geometric Multigrid on GPUs
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-258
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-258.html
+%F Singh:EECS-2012-258

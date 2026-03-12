@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/8077.html
+Improving File System Performance with Adaptive Methods
+Jeanna N. Matthews
+EECS Department, University of California, Berkeley
+1999
+Advisors:  Thomas E. Anderson and Joseph Hellerstein
+BibTeX citation:
+@phdthesis{Matthews:8077,
+Author= {Matthews, Jeanna N.},
+Title= {Improving File System Performance with Adaptive Methods},
+School= {EECS Department, University of California, Berkeley},
+Year= {1999},
+}
+EndNote citation:
+%0 Thesis
+%A Matthews, Jeanna N.
+%T Improving File System Performance with Adaptive Methods
+%I EECS Department, University of California, Berkeley
+%D 1999
+%F Matthews:8077

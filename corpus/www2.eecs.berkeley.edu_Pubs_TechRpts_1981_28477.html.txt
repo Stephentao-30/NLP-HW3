@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28477.html
+Noise Reduction Techniques for Switched Capacitor Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Noise Reduction Techniques for Switched Capacitor Filters
+Noise Reduction Techniques for Switched Capacitor Filters
+K.-C. Hsieh, P.R. Gray and D. Senderowicz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/52
+July 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-52.pdf
+BibTeX citation:
+@techreport{Hsieh:M81/52,
+Author = {Hsieh, K.-C. and Gray, P.R. and Senderowicz, D.},
+Title = {Noise Reduction Techniques for Switched Capacitor Filters},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28477.html},
+Number = {UCB/ERL M81/52}
+}
+EndNote citation:
+%0 Report
+%A Hsieh, K.-C.
+%A Gray, P.R.
+%A Senderowicz, D.
+%T Noise Reduction Techniques for Switched Capacitor Filters
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28477.html
+%F Hsieh:M81/52

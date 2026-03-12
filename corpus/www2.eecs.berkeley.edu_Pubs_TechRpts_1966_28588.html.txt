@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28588.html
+On the Maximum Internally Stable Sets of a Graph
+H. Frank and T. Cisco
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M150
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-150.pdf
+BibTeX citation:
+@techreport{Frank:M150,
+Author= {Frank, H. and Cisco, T.},
+Title= {On the Maximum Internally Stable Sets of a Graph},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28588.html},
+Number= {UCB/ERL M150},
+}
+EndNote citation:
+%0 Report
+%A Frank, H.
+%A Cisco, T.
+%T On the Maximum Internally Stable Sets of a Graph
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M150
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28588.html
+%F Frank:M150

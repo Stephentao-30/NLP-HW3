@@ -1,0 +1,27 @@
+URL: https://people.eecs.berkeley.edu/~anar/ACAL/ACAL.html
+Active Capture
+ACAL: Active Capture Authoring Language
+In  Active Capture  applications, systems that direct human action, the system works with the user to achieve a common goal, for example, taking her picture and recording her name for inclusion on a department web page. The design of Active Capture applications draws from the areas of direction and cinematography, computer vision and audition, and human-computer interaction and results in a diverse design team. Without a tool to help the design team work together and leverage expertise of each of the members, the design of Active Capture applications is limited to a design team with members who can bridge the gap between the different disciplines Active Capture applications draw from. The publications listed on this page present a design process for Active Capture applications, a visual language to help the members of the design team work together and a tool to help the design team integrate the computer vision part of the system and the interaction with the user. These three pieces are work toward an integrated tool to support the design of Active Capture applications.
+Publications
+Ana Ramírez Chang   and Marc Davis. " Active Capture Design Case Study: SIMS Faces. " In Proceedings of  Conference on Designing for User eXperience (DUX 2005) in San Francisco, California ,  2005.  paper   video
+We present a design case study for the SIMS Faces
+application. The SIMS Faces application is an Active
+Capture  application that works with the user to take
+her picture and record her saying her name for
+inclusion on the department web page. Active Capture
+applications are systems that capture and direct human
+action by working with the user, directing her and
+monitoring her progress, to complete a common goal,
+in this case taking her picture when she is smiling and
+looking at the camera. In addition to producing a
+working Active Capture application, the project also
+included studying the design of Active Capture
+applications. The team conducted an ethnographic
+study  to inform the design of the interaction with
+the user, prototyped a set of tools to support the design
+process, and iterated a design process involving
+bodystorming, a Wizard-of-Oz study, the prototyped
+tools, and a user test of the implemented application.
+Ana Ramírez Chang   and Marc Davis. " Designing Systems that Direct Human Action. " In Proceedings of CHI 2005, Conference on Human Factors in Computing Systems (2005).  paper
+In this paper we present a user-centered design process for Active Capture systems. These systems bring together techniques from human-human direction practice, multimedia signal processing, and human-computer interaction to form computational systems that automatically analyze and direct human action. The interdependence between the design of multimedia signal parsers and the user interaction script presents a unique challenge in the design process. We have developed an iterative user-centered design process for Active Capture systems that incorporates bodystorming, wizard-of-oz user studies, iterative parser design, and traditional user studies, based on our experience designing a portrait camera system that works with the user to record her name and take her picture. Based on our experiences, we lay out a set of recommendations for future tools to support such a design process.
+Class Project:  Multimedia Information (IS246) Spring'03  - Active Capture Visual Language.  Paper

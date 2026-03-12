@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-96.html
+How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud
+How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud
+Lishan Zhang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2013-96
+May 17, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-96.pdf
+Advisor:  Bernhard Boser
+BibTeX citation:
+@mastersthesis{Zhang:EECS-2013-96,
+Author = {Zhang, Lishan},
+Title = {How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud},
+School = {EECS Department, University of California, Berkeley},
+Year = {2013},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-96.html},
+Number = {UCB/EECS-2013-96}
+}
+EndNote citation:
+%0 Thesis
+%A Zhang, Lishan
+%T How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-96
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-96.html
+%F Zhang:EECS-2013-96

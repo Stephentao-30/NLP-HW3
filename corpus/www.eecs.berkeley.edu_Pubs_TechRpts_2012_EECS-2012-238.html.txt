@@ -1,0 +1,10 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-238.html
+Electromagnetic Inverse Design of Light Trapping Textures for Subwavelength Thick Solar Cells
+THIS REPORT HAS BEEN WITHDRAWN
+Vidya Ganapati
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-238
+December 13, 2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2012-238.pdf
+Light trapping in solar cells allows for increased efficiency and reduced materials cost. It is well known that a 4n^2 factor of enhancement in absorption can be achieved by randomly texturing the surface of the solar cell, where n is the refractive index of the material. However, this limit only holds when the thickness of the solar cell is much greater than the wavelength of light. In the subwavelength regime, the fundamental question remains unanswered: what surface texture realizes the optimal absorption enhancement? We turn to computational inverse electromagnetic design in order to find nanoscale textures for light trapping, and observe spontaneous symmetry breaking in the creation of optimal design.
+Author Comments:  see http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-251.html

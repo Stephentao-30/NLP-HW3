@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-65.html
+Communication Avoiding and Overlapping for Numerical Linear Algebra
+Evangelos Georganas and Jorge González-Domínguez and Edgar Solomonik and Yili Zheng and Juan Touriño and Katherine A. Yelick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-65
+May 8,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-65.pdf
+To efficiently scale dense linear algebra problems to future exascale systems, communication cost must be avoided or overlapped. Communication-avoiding 2.5D algorithms improve scalability by reducing inter-processor data transfer volume at the cost of extra memory usage. Communication overlap attempts to hide messaging latency by pipelining messages and overlapping with computational work. We study the interaction and compatibility of these two techniques for two matrix multiplication algorithms (Cannon and SUMMA), triangular solve, and Cholesky factorization. For each algorithm, we construct a detailed performance model which considers both critical path dependencies and idle time. We give novel implementations of 2.5D algorithms with overlap for each of these problems. Our software employs UPC, a partitioned global address space (PGAS) language that provides fast one-sided communication. We show communication avoidance and overlap provide a cumulative benefit as core counts scale, including results using over 24K cores of a Cray XE6 system.
+BibTeX citation:
+@techreport{Georganas:EECS-2012-65,
+Author= {Georganas, Evangelos and González-Domínguez, Jorge and Solomonik, Edgar and Zheng, Yili and Touriño, Juan and Yelick, Katherine A.},
+Title= {Communication Avoiding and Overlapping for Numerical Linear Algebra},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-65.html},
+Number= {UCB/EECS-2012-65},
+Abstract= {To efficiently scale dense linear algebra problems to future exascale systems, communication cost must be avoided or overlapped. Communication-avoiding 2.5D algorithms improve scalability by reducing inter-processor data transfer volume at the cost of extra memory usage. Communication overlap attempts to hide messaging latency by pipelining messages and overlapping with computational work. We study the interaction and compatibility of these two techniques for two matrix multiplication algorithms (Cannon and SUMMA), triangular solve, and Cholesky factorization. For each algorithm, we construct a detailed performance model which considers both critical path dependencies and idle time. We give novel implementations of 2.5D algorithms with overlap for each of these problems. Our software employs UPC, a partitioned global address space (PGAS) language that provides fast one-sided communication. We show communication avoidance and overlap provide a cumulative benefit as core counts scale, including results using over 24K cores of a Cray XE6 system.},
+}
+EndNote citation:
+%0 Report
+%A Georganas, Evangelos
+%A González-Domínguez, Jorge
+%A Solomonik, Edgar
+%A Zheng, Yili
+%A Touriño, Juan
+%A Yelick, Katherine A.
+%T Communication Avoiding and Overlapping for Numerical Linear Algebra
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 8
+%@ UCB/EECS-2012-65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-65.html
+%F Georganas:EECS-2012-65

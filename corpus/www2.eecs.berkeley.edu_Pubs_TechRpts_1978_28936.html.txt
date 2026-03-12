@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28936.html
+Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation
+Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation
+J.K. Lee and C.K. Birdsall
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/39
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-39.pdf
+BibTeX citation:
+@techreport{Lee:M78/39,
+Author = {Lee, J.K. and Birdsall, C.K.},
+Title = {Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28936.html},
+Number = {UCB/ERL M78/39}
+}
+EndNote citation:
+%0 Report
+%A Lee, J.K.
+%A Birdsall, C.K.
+%T Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28936.html
+%F Lee:M78/39

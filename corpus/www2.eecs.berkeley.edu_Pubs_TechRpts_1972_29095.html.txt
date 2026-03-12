@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29095.html
+A Historical Survey of Computational Methods | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Historical Survey of Computational Methods
+A Historical Survey of Computational Methods
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M356
+July 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-356.pdf
+BibTeX citation:
+@techreport{Polak:M356,
+Author = {Polak, E.},
+Title = {A Historical Survey of Computational Methods},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29095.html},
+Number = {UCB/ERL M356}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T A Historical Survey of Computational Methods
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M356
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29095.html
+%F Polak:M356

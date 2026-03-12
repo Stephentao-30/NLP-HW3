@@ -1,0 +1,51 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-202.html
+Improving the HLA-CERTI framework | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Improving the HLA-CERTI framework
+Improving the HLA-CERTI framework
+David Come
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-202
+September 30, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-202.pdf
+Cyber-physical systems have gained momentum over the last decades and pose many challenges. On large systems, simulation is often the only way to perform tests and get some properties on the overall system without having the real system. To improve simulation’s performances, the simulation is usually distributed. But building a simulator is not an easy task, one has to be proficient in computer science and in the domain that is being simulated. Building a distributed simulation is even harder, because one has also to take intoaccount all the problems that may arise from the distributed aspect. Doing a distributed simulation for cyber-physical systems where simulation methods and tools may change from one component to another is nearly impossible.
+High Level Architecture (HLA) is a middleware commonly used for easing the creation of distributed simulations. It is a first good step and tackles several difficult issues, but one still needs to have a good understanding of it to have a working distributed simulation.
+The aim of the HLA-CERTI cosimulation framework is to simplify the creation of distributed simulations by releasing the user of deep understanding of HLA’s key concepts and providing him with an user-friendly GUI for designing federate through the Ptolemy software.
+Gilles Lasnier wrote in 2012 the original framework in a joint work between UC Berkeley and ISAE Supaero. Even if it was functional, it lacked of several features. Firstly, it lacked of a formal semantics for the actors : we provide one. Then, a model could not distinguish several objects from each other. A project in 2014 at ISAE-Supaero made that possible but it requires that each model has to be tuned manually from one simulation to the other : we describe a solution for that issue. Finally several other improvements and modeling issues are described.
+BibTeX citation:
+@techreport{Come:EECS-2015-202,
+Author = {Come, David},
+Title = {Improving the HLA-CERTI framework},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-202.html},
+Number = {UCB/EECS-2015-202},
+Abstract = {Cyber-physical systems have gained momentum over the last decades and pose many challenges.  On large
+systems, simulation is often the only way to perform tests and get some properties on the overall system without
+having the real system. To improve simulation’s performances, the simulation is usually distributed.
+But building a simulator is not an easy task, one has to be proficient in computer science and in the domain
+that is being simulated.   Building a distributed simulation is even harder,  because one has also to take intoaccount all the problems that may arise from the distributed aspect.  Doing a distributed simulation for cyber-physical systems where simulation methods and tools may change from one component to another is nearly impossible.
+High Level Architecture (HLA) is a middleware commonly used for easing the creation of distributed simulations. It is a first good step and tackles several difficult issues, but one still needs to have a good understanding of it to have a working distributed simulation.
+The aim of the HLA-CERTI cosimulation framework is to simplify the creation of distributed simulations by
+releasing the user of deep understanding of HLA’s key concepts and providing him with an user-friendly GUI for designing federate through the Ptolemy software.
+Gilles Lasnier wrote in 2012 the original framework in a joint work between UC Berkeley and ISAE Supaero.
+Even if it was functional, it lacked of several features.  Firstly, it lacked of a formal semantics for the actors :
+we provide one.  Then, a model could not distinguish several objects from each other. A project
+in 2014 at ISAE-Supaero made that possible but it requires that each model has to be tuned manually from
+one simulation to the other : we describe a solution for that issue. Finally several other improvements and modeling issues are described.}
+}
+EndNote citation:
+%0 Report
+%A Come, David
+%T Improving the HLA-CERTI framework
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 September 30
+%@ UCB/EECS-2015-202
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-202.html
+%F Come:EECS-2015-202

@@ -1,0 +1,14 @@
+URL: https://eecs.berkeley.edu/2021/10/ceedl
+UC Berkeley Announces Intel oneAPI Center of Excellence for Deep Learning - EECS at Berkeley
+Kurt Keutzer (photo: Noah Berger) and Joey Gonzalez
+Kurt Keutzer (left, photo: Noah Berger) and Joey Gonzalez
+The Department of Electrical Engineering and Computer Sciences (EECS) at the University of California, Berkeley, is happy to announce the launch of the  Center for Energy Efficient Deep Learning  (CEEDL), a new Intel oneAPI Center of Excellence (CoE). This center will focus on producing energy-efficient algorithms and implementations for deep learning’s most computationally-intensive workloads.
+As computing grows to become an increasingly significant portion of an organization’s energy budget, deep-learning workload compute demands are also becoming insatiable. The CEEDL’s charter includes developing energy-efficient algorithms for areas  such as training recommendation systems and natural language understanding systems to meet these pre-eminently important AI challenges. The center will use the oneAPI Deep Neural Network Library (oneDNN) and the oneAPI Collective Communications Library (oneCCL) to optimize this work.
+While high-level algorithms are useful, these algorithms must be implemented on an ever-increasing variety of computational platforms to be impactful. oneAPI’s open, unified heterogeneous programming will significantly ease the development of portable implementations across multiple types of architectures: CPUs, GPUs, FPGAs, and other accelerators. oneAPI also provides the ability to maximize available resources and balance workloads across multi-architecture systems, including Intel CPUs and future Xe GPUs through the advanced performance and analysis capabilities of Intel ®  oneAPI Toolkits.
+Along with the center’s work, Professor Keutzer will use his broad experience to join the oneAPI Collective Communications Library ( oneCCL ) and oneAPI Deep Neural Network Library ( oneDNN ) Technical Advisory Boards and provide valuable insights into extending these libraries, and other oneAPI compilers and tools to help support researchers and developers around the world to take advantage of the resulting improvements.
+“It’s great that Intel is playing a leadership role in the development of oneAPI, a much-needed standard to enable smooth deployment across diverse computational platforms,” notes Professor Kurt Keutzer, “our center will use oneAPI to enable the easy migration of natural language and recommendation system workloads.”  Professor Joey Gonzalez adds, “Transitioning to oneAPI will significantly reduce the overhead of porting from one platform to another, which is a challenge of proprietary programming approaches and will enable greater innovation in both hardware and software systems for machine learning.”
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

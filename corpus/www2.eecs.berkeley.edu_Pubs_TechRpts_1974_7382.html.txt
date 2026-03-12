@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7382.html
+Optimal Control of Jump Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Control of Jump Processes
+Optimal Control of Jump Processes
+Rene K. Boel
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M448
+July 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-448.pdf
+Advisor:  Pravin P. Varaiya
+BibTeX citation:
+@phdthesis{Boel:M448,
+Author = {Boel, Rene K.},
+Title = {Optimal Control of Jump Processes},
+School = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7382.html},
+Number = {UCB/ERL M448}
+}
+EndNote citation:
+%0 Thesis
+%A Boel, Rene K.
+%T Optimal Control of Jump Processes
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M448
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/7382.html
+%F Boel:M448

@@ -1,0 +1,40 @@
+URL: https://eecs.berkeley.edu/book/2018-2/schedule-2
+BEARS 2018 Schedule - EECS at Berkeley
+BEARS 2018 Schedule
+Thursday, February 8
+Sibley Auditorium, Bechtel Engineering Center
+Time
+Events
+8:30 AM
+Registration and Continental Breakfast
+9:30 AM
+Welcome from the  EECS Chairs Video of introduction and award presentations
+9:45 AM
+Distinguished  EE  and  CS  Alumni Awards Presentation Eric Brewer , EECS Professor, UC Berkeley Marie desJardins , CSEE Professor, UCBM Andrea Goldsmith , EE Professor, Stanford University Richard Ruby , Director of Technology, Broadcom Slideshow
+10:00 AM
+The Third Era of Scaling of Computing Technologies  –  Sayeef Salahuddin
+A staggering number of 15.3 billion transistors are used in NVIDIA’s GP100 Pascal GPU, a popular processor that is fueling the explosive growth of artificial intelligence and deep learning applications of today. This tremendous computing power has been enabled by two different eras of scaling in device technology — firstly by direct scaling of physical dimensions and then, over the last decade, by equivalent or effective scaling that improved computational throughput without resorting to mere reduction in device dimensions. It is well agreed that these traditional scaling paradigms are nearing an end. Here we argue that we are already starting to witness the dawn of a third era of scaling that we shall call the functional scaling. This third era will be fueled by completely new logic devices whose operating principles go beyond the limits set forth by 19th century physics, new non-volatile memory that could break the current computational bottleneck of data exchange between logic and memory and monolithic integration of heterogeneous technology in both two and three dimensions. We shall present some examples of the technology that promises to usher in this third era of scaling.
+10:30 AM
+Berkeley ADEPT Lab: Reigniting innovation in the hardware industry  –  Krste Asanović
+CMOS, at the end of scaling, is an almost magical technology, but very  few companies can afford to create custom silicon.  Moore’s Law’s  demise is largely irrelevant to the problems in the hardware industry,  as upfront design costs dominate marginal cost per transistor for all but a few high-volume products.  The problem is not manufacturing, but access.  Industry must transition from its current fixation on Moore’s Law, to a new goal of reducing NRE/transistor by a factor of two every 12 months.  In this talk, I describe the new Berkeley ADEPT (Agile Design of Efficient Processing Technologies) Lab, which expands our earlier work on the RISC-V ISA and the Chisel hardware design language to address all components of upfront design cost and thereby help democratize access to custom silicon.
+11:00 AM
+More-than-Moore with Integrated Silicon-Photonics –  Vladimir Stojanovic
+Increased costs of process development coupled with skyrocketing engineering costs to develop designs in the new process nodes, are reducing the applicability of these most advanced process nodes to a few super high-volume applications. Adding new functionalities to older, but still capable process nodes can not only revitalize the whole ecosystem but create breakthroughs in many important applications.  Just like integrating the inductor into CMOS in 1990s revolutionized the RF design and enabled mobile revolution, integration of silicon-photonic active and passive devices with CMOS is greatly positioned to revolutionize a number of applications – from chip-to-chip interconnects to analog and mixed-signal applications – low-phase noise signal sources, large bandwidth, high-resolution ADCs, and photonic phase arrays, to name a few.  In this talk we’ll present the latest results on the integration of silicon-photonic devices into a monolithic electronic-photonic platform (32/45nm SOI logic process and bulk CMOS memory periphery process). These include world’s first microprocessor communicating with light and several other application examples.
+11:30 AM
+Injecting Agile Into Analog Design   Elad Alon
+Current and future hardware products are strongly driven by their interfaces (both in terms of sensing/actuation as well as communications), and since all such interfaces must deal with the analog nature of the real world, these products must typically integrate substantial analog functionality.  However, the level of analog designer productivity has not really improved along with silicon technology scaling, and for modern processes in particular, have perhaps even taken a step backwards due to dramatic changes in the physical layout design rules.  Therefore, if we are to have any chance of realizing the ADEPT lab’s vision of a new NRE scaling law, we must also address the analog design productivity gap.  In this talk I will present our efforts under the DARPA CRAFT program and within the ADEPT lab that aim to close this gap by injecting ideas inspired by agile software devleopment into the analog design paradigm.  In particular, we have developed an open-source framework called the Berkeley Analog Generator (BAG) that enables analog designers to codify their design approach (i.e., the steps they took to convert a set of inputs specifications into a fabricate-able design) in an executable generator.  In this paradigm, rather than delivering a particular instance (i.e., a point design with a given set of specs), analog designers should focus their efforts on the development of these generators.  We have successfully practiced this approach on a variety of technologies and analog blocks, and the results from those endeavors will be highlighted throughout the talk.
+12:00 – 1:00 PM
+Box lunches will be provided after the morning session in designated areas outside of Sibley Auditorium
+1:00 – 3:00 PM
+The afternoon offers poster sessions and demos where you can interact and connect with the next generation of technology leaders: our Berkeley EECS Ph.D. students. In addition, we will be holding an open house with Research Centers. The open house will give you the chance to talk about technology with your favorite Berkeley professors inside their research centers. To receive more information about signing up for a session at a research center please register as soon as possible. EECS Research Center Open House Session:
+Berkeley Sensor & Actuator Center  (BSAC): 400 Cory Hall and 4th floor of Cory Hall
+Qualcomm Ubiquitous Swarm Lab  and  Industrial Cyber-Physical Systems Center  (iCyPhy): 490 Cory Hall
+Berkeley Wireless Research Center  (BWRC): 490 Cory Hall
+Human-Assistive Robotic Technologies  (HART Lab):  133 Sutardja Dai Hall
+Real-time Intelligent Secure Execution  (RISE Lab): 465 Soda Hall
+Agile Design of Efficient Processing Technologies  (ADEPT Lab): 565 Soda Hall
+International Computer Science Institute  (ICSI): 5th floor atrium, Soda Hall
+< BEARS 2018 Faculty
+BEARS 2018 Directions >
+View
+Open Faculty Positions

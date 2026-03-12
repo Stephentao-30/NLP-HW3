@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/graphical-lasso-and-thresholding-wins-2018-data-mining-best-paper-award
+"Graphical Lasso and Thresholding" wins 2018 Data Mining Best Paper Award - EECS at Berkeley
+A paper titled “Graphical Lasso and Thresholding: Equivalence and Closed-form Solutions” by IEOR PhD candidate Salar Fattahi and EE Assistant Prof. Somayeh Sojoudi has won the 2018 Institute for Operations Research and the Management Sciences (INFORMS) Data Mining (DM) Best Paper Award.   The paper compares the computationally-heavy Graphical Lasso (GL) technique, a popular method for learning the structure of an undirected graphical model, with a numerically-cheap heuristic method that is based on simply thresholding the sample covariance matrix.  By analyzing the properties of this conic optimization problem, the paper shows that its true complexity is indeed linear (both in time and in memory) for sparse graphical models and solves instance as large as 80,000×80,000 (more than 3.2 billion variables) in less than 30 minutes on a standard laptop computer, while other state-of-the-art methods do not converge within 4 hours.  The award recognizes excellence among DM members, particularly its student members, and was announced at the INFORMS Annual Meeting in Phoenix, Arizona, on November 5th.
+Categories
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

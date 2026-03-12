@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-72.html
+Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms
+Edgar Solomonik and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-72
+June 7,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-72.pdf
+Extra memory allows parallel matrix multiplication to be done with asymptotically less communication than Cannon’s algorithm and be faster in practice. “3D” algorithms arrange the p processors in a 3D array, and store redundant copies of the matrices on each of p^1/3 layers. ‘2D” algorithms such as Cannon’s algorithm store a single copy of the matrices on a 2D array of processors. We generalize these 2D and 3D algorithms by introducing a new class of “2.5D algorithms”. For matrix multiplication, we can take advantage of any amount of extra memory to store c copies of the data, for any c ∈ {1, 2, ..., p^1/3 }, to reduce the bandwidth cost of Cannon’s algorithm by a factor of c^1/2 and the latency cost by a factor c^3/2 . We also show that these costs reach the lower bounds, modulo polylog(p) factors. We introduce a novel algorithm for 2.5D LU decomposition. To the best of our knowledge, this LU algorithm is the first to minimize communication along the critical path of execution in the 3D case. Our 2.5D LU algorithm uses communication-avoiding pivoting, a stable alternative to partial-pivoting. We prove a novel lower bound on the latency cost of 2.5D and 3D LU factorization, showing that while c copies of the data can also reduce the bandwidth by a factor of c^1/2 , the latency must increase by a factor of c^1/2 , so that the 2D LU algorithm (c = 1) in fact minimizes latency. We provide implementations and performance results for 2D and 2.5D versions of all the new algorithms. Our results demonstrate that 2.5D matrix multiplication and LU algorithms strongly scale more efficiently than 2D algorithms. Each of our 2.5D algorithms performs over 2X faster than the corresponding 2D algorithm for certain problem sizes on 65,536 cores of a BG/P supercomputer.
+BibTeX citation:
+@techreport{Solomonik:EECS-2011-72,
+Author= {Solomonik, Edgar and Demmel, James},
+Title= {Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-72.html},
+Number= {UCB/EECS-2011-72},
+Abstract= {Extra memory allows parallel matrix multiplication to be done with asymptotically less communication than Cannon’s algorithm and be faster in practice. “3D” algorithms arrange the p processors in a 3D array, and store redundant copies of the matrices on each of p^1/3 layers. ‘2D” algorithms such as Cannon’s algorithm store a single copy of the matrices on a 2D array of processors. We generalize these 2D and 3D algorithms by introducing a new class of “2.5D algorithms”. For matrix multiplication, we can take advantage of any amount of extra memory to store c copies of the data, for any c ∈ {1, 2, ..., p^1/3 }, to reduce the bandwidth cost of Cannon’s algorithm by a factor of c^1/2 and the latency cost by a factor c^3/2 . We also show that these costs reach the lower bounds, modulo polylog(p) factors. We introduce a novel algorithm for 2.5D LU decomposition. To the best of our knowledge, this LU algorithm is the first to minimize communication along the critical path of execution in the 3D case. Our 2.5D LU algorithm uses communication-avoiding pivoting, a stable alternative to partial-pivoting. We prove a novel lower bound on the latency cost of 2.5D and 3D LU factorization, showing that while c copies of the data can also reduce the bandwidth by a factor of c^1/2 , the latency must increase by a factor of c^1/2 , so that the 2D LU algorithm (c = 1) in fact minimizes latency. We provide implementations and performance results for 2D and 2.5D versions of all the new algorithms. Our results demonstrate that 2.5D matrix multiplication and LU algorithms strongly scale more efficiently than 2D algorithms. Each of our 2.5D algorithms performs over 2X faster than the corresponding 2D algorithm for certain problem sizes on 65,536 cores of a BG/P supercomputer.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Demmel, James
+%T Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 7
+%@ UCB/EECS-2011-72
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-72.html
+%F Solomonik:EECS-2011-72

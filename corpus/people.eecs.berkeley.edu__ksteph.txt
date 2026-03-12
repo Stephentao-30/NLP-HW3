@@ -1,0 +1,191 @@
+URL: https://people.eecs.berkeley.edu/~ksteph
+Kristin Stephens-Martinez - Duke University
+Kristin
+Stephens-Martinez
+Associate Professor of the Practice · Computer Science Department
+D224 LSRC Research Drive Box 90129 · Duke University, NC 27708 ·
+(919) 660-6581 ·
+ksm@cs.duke.edu
+I am an Associate Professor of the Practice at  Duke University  in the
+Computer Science Department. I received my Ph.D. in Computer Science from  UC
+Berkeley .
+My research is in computer science education, encompassing both the study of learning computer science and its application to education problems. My research focus is on scaling classes, specifically exploring how to add more students without compromising quality. I pursue this research by examining data from course tools to find interpretable data-driven insights that inform learning interventions.
+I'm also the creator of  The CS-Ed Podcast , and I  blog about my teaching practices and thoughts on being a professor . I'm open to invitations for talks, panels, or workshops on CS education, teaching practices, and course design - please reach out by email.
+Below are highlights from  my CV .
+Education
+University of California, Berkeley
+Doctor of Philosophy: Computer Science
+Advisor:  Armando Fox
+Thesis:  Serving CS Formative Feedback on Assessments Using Simple and
+Practical Teacher-Bootstrapped Error Models
+December 2017
+University of California, Berkeley
+Master of Science: Computer Science
+Advisor:  Vern Paxson
+Master's Report:  Towards Sound HTTP Request Causation Inference.
+December 2013
+University of Maryland, College Park
+Bachelor of Science: Computer Science
+Summa Cum Laude
+May 2009
+Professional Appointments
+Associate Professor of the Practice
+Computer Science, Duke University
+See my  Teaching  Section for what I teach.
+January 2024 - Now
+Associate Director of Undergraduate Studies
+Computer Science, Duke University
+July 2024 - Now
+Assistant Professor of the Practice
+Computer Science, Duke University
+December 2017 - Dec 2023
+Co-Instructor
+EECS, University of California, Berkeley
+Co-taught  CS194-25 Special topics:
+Building Your Next Generation Education Technologies  with  Dawn Song .
+Fall 2012
+Publications
+(This is a select subset, see  Google Scholar for all )
+Journals
+Shao-Heng Ko and  Kristin Stephens-Martinez . 2025.
+Rethinking Computing Students' Help Resource Utilization through Sequentiality.
+ACM Transactions on Computing Education. March 2025.
+Conferences
+Alex Chao, Janet Jian, and  Kristin Stephens-Martinez . 2026.  How Shared Gender Identity with Teaching Assistants Relates to Student Outcomes in an Undergraduate Algorithms Course . In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.1 (SIGCSE TS 2026).
+Shao-Heng Ko and  Kristin Stephens-Martinez . 2026.  Connecting Computing Students' External Help Resource Preferences and Internal Help Resource Usage: 2021-2025 . In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.1 (SIGCSE TS 2026).
+Shao-Heng Ko, Matthew Zahn,  Kristin Stephens-Martinez , Yesenia Velasco, Lina Battestilli, and Sarah Heckman. 2025.  Relationships Between Computing Students' Characteristics, Help-Seeking Approaches, and Help-Seeking Behavior in Introductory Courses and Beyond . In Proceedings of the 2025 ACM Conference on International Computing Education Research V.1 (ICER '25).
+Shao-Heng Ko and  Kristin Stephens-Martinez . 2025.  What Experience? The Relationship Between Prior Experience and Student Help-Seeking Beyond CS1.  In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2025).
+Shao-Heng Ko,  Kristin Stephens-Martinez , Matthew Zahn, Yesenia Velasco, Lina Battestilli, and Sarah Heckman. 2025.  Student Perceptions of the Help Resource Landscape.
+In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 SIGCSETS 2025.
+Shao-Heng Ko and  Kristin Stephens-Martinez . 2024.  The Trees in the Forest: Characterizing Computing Students' Individual Help-Seeking Approaches.  In Proceedings of the 2024 ACM Conference on International Computing Education Research ICER '24
+Shao-Heng Ko and  Kristin Stephens-Martinez . 2023.  What Drives Students to Office Hours:
+Individual Differences and Similarities.  In Proceedings of the 54th ACM Technical Symposium on
+Computer Science Education V. 1 SIGCSE '23
+[ Poster ] Sadhana Suryadevara and  Kristin
+Stephens-Martinez . 2022.  UPIC a Problem-Solving
+Framework: Understand, Plan, Implement, and Correctness/Debugging.  In Proceedings of the 2022 ACM
+Conference on International Computing Education Research ICER '22
+Anshul Shah, Jonathan Liu,  Kristin Stephens-Martinez , and Susan H. Rodger. 2021.  The CS1 Reviewer App: Choose Your Own Adventure or Choose for
+Me!.  In Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science
+Education ACM ITiCSE '21
+Kristin Stephens-Martinez . 2021.  A Study of the
+Relationship Between a CS1 Student's Gender and Performance Versus Gauging Understanding and Study
+Tactics.  In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. ACM
+SIGCSE
+'21. ( Video )
+Kristin Stephens-Martinez , Armando Fox. 2018.  Giving Hints is
+Complicated: Understanding the challenges of an automated hint system based on frequent wrong
+answers . In Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in
+Computer Science Education 2018. ACM ITiCSE '18.
+Kristin Stephens-Martinez , An Ju, Krishna Parashar, Regina Ongowarsito, Nikunj Jain, Sreesha
+Venkat,
+Armando Fox. 2017.  Taking Advantage of Scale by Analyzing Frequent
+Constructed-Response, Code Tracing Wrong Answers  ACM International Computing Education
+Research
+2017. ACM ICER '17.
+Kristin Stephens-Martinez , Marti A. Hearst, and Armando Fox. 2014.  Monitoring MOOCs: Which Information Sources Do Instructors
+Value?  ACM Learning At Scale 2014. ACM L@S '14.
+Teaching
+Duke University
+CompSci 101 Introduction to Computer Science
+Spring 2020 ;
+Fall 2019 ;
+Spring 2019 ;
+Fall 2018 ;
+Spring 2018  (Co-taught with  Owen Astrachan )
+Introduction to practices and principles of computer science and programming and their impact on and
+potential to change the world. Algorithmic, problem-solving, and programming techniques in domains such as
+art, data visualization, mathematics, natural and social sciences. Programming using high-level languages
+and design techniques emphasizing abstraction, encapsulation, and problem decomposition. Design,
+implementation, testing, and analysis of algorithms and programs. No previous programming experience
+required.
+CompSci 116 Foundations of Data Science
+Fall 2021 ;
+Fall 2019
+Given data arising from some real-world phenomenon, how does one turn that data into knowledge and that
+knowledge into action? Students will learn critical concepts and skills in computer programming and
+statistical inference in the process of conducting analysis of real-world datasets. Students will write
+computer programs for projects using the Python programming language. In considering applications, we will
+discuss how data can be used responsibly to benefit society. This class assumes no prior coding
+experience.
+CompSci/Educ 171CN Learning How to Learn with AI
+Fall 2025
+This course will explore how we can learn with generative AI (GenAI). GenAI is a general tool and, therefore, could be used to support learning. However, it may also hinder learning if used ineffectively. This course will explore these ideas by learning how humans learn, the implications of how learning works, ways to use AI to support learning, and demystifying how AI works to become skeptical in a more precise way. This is a  Constellation Course  for the “How does artificial intelligence impact human experiences?” constellation.
+CompSci 201 Data Structures and Algorithms
+Spring 2021  (Co-taught with  Brandon Fain )
+In this course, you will learn how to analyze, use, and design data structures and algorithms in an
+object-oriented language (Java) to solve computational problems. Emphasis on abstraction including
+interfaces and abstract data types for lists, trees, sets, tables/maps, and graphs. Implementation and
+evaluation of programming techniques including recursion. Intuitive and rigorous analysis of algorithms.
+CompSci 216 Everything Data
+Spring 2026 ;
+Fall 2025 ;
+Spring 2025 ;
+Fall 2024 ;
+Spring 2024 ;
+Fall 2023 ;
+Spring 2023 ;
+Fall 2022 ;
+Spring 2022 ;
+Fall 2021 ;
+Spring 2021  (Co-taught with  Brandon Fain )
+This course serves as an introduction to various aspects of working with data–acquisition, integration,
+querying, analysis, and visualization–and data of different types–from unstructured text to structured
+databases. Through lectures and hands-on labs, the course covers both fundamental concepts and
+computational
+tools for working with data and applies them to real datasets in a capstone team project.
+CompSci 249 CompSci Ed Research
+Spring
+2020 ;
+Fall
+2019
+(Co-taught with  Susan Rodger  and  Robert Duvall )
+This is the computer science department’s undergrad TA training class. The goal of this class is to help
+you
+become an awesome TA. We believe that helping you become a good UTA will help your students learn and we
+believe that it is important to help you with this process. When it comes to teaching, no one is perfect.
+But no one can improve in a vacuum. It takes practice, acquiring new knowledge and skills, and a lot of
+reflection. The purpose of this class is to help you through that process and to prepare you to teach lab,
+run consulting hours, and support the faculty that teach in the department.
+CompSci 290 Computing Education Research
+Fall 2022 ;
+Spring 2022
+Computing education research (CER) is the study of how people learn and teach computing. This course will
+cover a basic understanding of what CER is, the current topics in the field, and CER methodologies. We
+will
+do this by reading an overview of CER, prominent works, and current research papers. In addition, the
+class
+will have CER projects mainly focused on data analysis.
+CompSci 590 Computing Education Research
+Spring 2025
+Computing Education Research (CER) is the study of how people learn and teach computing. Notice this does
+not say “computer science,” which is a subset of computing. CER focuses on the learning/teaching of any
+aspect of computing. In this course, we will cover the history of CER, how to design a research study,
+CER methods, and parts of learning and cognitive science as they apply to computing learning. Our main
+way to learn these ideas will be by reading research papers from the CER field and a semester-long
+research project with a required data analysis component.
+University of California, Berkeley
+CS194-25 Special topics: Building Your Next Generation Education Technologies
+Fall 2012  (Co-taught with  Dawn Song )
+In this course we will explore today's online education landscape, learn and discuss what to consider when
+designing education tools, and contribute to a next generation online education technology.
+Research
+My research is in computer science education, specifically on how to scale learning. With many classes growing in size, we cannot ignore the gap between the supply of teachers and demand in terms of the number of students. I do not believe a computer can replace a teacher, but I do think computers can help this situation. How to support the teacher, student, and class are the research questions I am most interested in. My research approach involves using mixed methods to analyze classroom data collected from class tools. I then apply the insights from this analysis to inform learning interventions.
+If you are interested in working with me or collaborating, feel free to email me. For undergrad students, I am open to doing an  independent study  or you might be interested in  Duke University's summer undergrad research program (CS+) . I often have a project in this program each summer.
+Below are some of my research projects.
+Students
+Listed since I last worked with them.
+Misc
+Affiliations
+Association for Computing Machinery (ACM)
+2008 - Now
+Special Interest Group on Computer Science Education (SIGCSE)
+2018 - Now
+Honors and Awards
+Robert B. Cox 2025 Undergraduate Teaching Award  - Duke University, Trinity College of Arts & Sciences
+Outstanding Graduate Student Instructor  - UC
+Berkeley
+National Science Foundation  Graduate Research Fellowship
+UC Berkeley Chancellor's fellowship
+Personal
+Hobby crafts blog

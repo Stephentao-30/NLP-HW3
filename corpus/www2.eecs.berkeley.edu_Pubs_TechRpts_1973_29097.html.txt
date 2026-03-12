@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29097.html
+Interconnection, Decomposition, and Synthesis of Nonlinear N-Ports | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Interconnection, Decomposition, and Synthesis of Nonlinear N-Ports
+Interconnection, Decomposition, and Synthesis of Nonlinear N-Ports
+L.O. Chua and Y-F Lam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M379
+March 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-379.pdf
+BibTeX citation:
+@techreport{Chua:M379,
+Author = {Chua, L.O. and Lam, Y-F},
+Title = {Interconnection, Decomposition, and Synthesis of Nonlinear N-Ports},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29097.html},
+Number = {UCB/ERL M379}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Lam, Y-F
+%T Interconnection, Decomposition, and Synthesis of Nonlinear N-Ports
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M379
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29097.html
+%F Chua:M379

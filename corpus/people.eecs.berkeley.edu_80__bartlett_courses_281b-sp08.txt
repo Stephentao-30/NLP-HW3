@@ -1,0 +1,221 @@
+URL: http://people.eecs.berkeley.edu:80/~bartlett/courses/281b-sp08
+CS 281B / Stat 241B Spring 2008
+CS 281B / Stat 241B, Spring 2008:
+Statistical Learning Theory
+People
+Office
+hours
+Instructor
+Peter Bartlett
+bartlett at cs
+Tue, Wed 9:00-10:00, Soda 723.
+GSI
+David Rosenberg
+drosen at stat
+Mon, 2:00-3:00, Evans 357;
+Thu, 2:00-3:00, Soda 551.
+Lectures:  Soda 310. Tuesday/Thursday 12:30-2:00.
+Course description
+This course will provide an introduction to the design and
+theoretical analysis of prediction methods, focusing on statistical
+and computational aspects.  It will cover
+methods such as kernel methods and boosting algorithms, and
+probabilistic and game theoretic formulations of prediction
+problems.  We will examine questions about the guarantees
+we can prove about the performance of learning algorithms
+and the inherent difficulty of learning problems.
+Prerequisites: CS281A/Stat241A, or advanced training in
+probability or statistics, at the level of Stat 205A or
+Stat 210A.
+[More details]
+Assignments
+The grade will be based 50% on homework, 40% on the final project, and
+10% on lecture notes.
+There will be roughly five homework assignments, approximately one
+every two weeks. Late homeworks will not be accepted. You are welcome
+to discuss homeworks with other students, but please work out and
+write up the solutions completely on your own, and specify in your
+solutions who you've discussed which problems with.
+Some of the problems have appeared in the literature.
+Please attempt them yourself, and if you need help,
+ask the instructor or GSI for assistance, rather than
+searching for someone else's solution.
+If you happen to have seen a problem before, please write up a
+solution on your own (and indicate that you've seen it before
+- it would also be helpful to point out where).
+You will need to act as scribe for
+a small number of lectures, preparing a latex version of lecture
+notes (including figures if appropriate)
+and emailing it to the GSI within two weekdays of the
+lecture.  These notes will be posted to the web site.
+Please use this  latex template
+in preparing your lecture notes. Also, see the  latex
+file  of the notes for lecture 1.
+There will be a final project. This can be in any area related to the
+topics of the course. You might implement an algorithm,
+run experiments on an algorithm for a particular application, try to
+extend an existing method or theoretical result, or do a combination
+of these. You will need to submit a brief written report and give a
+presentation in class in the last week of semester (a poster
+presentation or a talk, depending on the class size).
+It is OK to work on projects in groups of two (please email me an
+explanation if there's a good reason to work in a larger group). In
+all cases you will need to write the report individually.
+Project proposals are due on March 31 (please send one or two plain
+text paragraphs in an email message to bartlett at cs).
+Project reports are due on May 6.
+Readings
+See also the previous incarnation of the course:
+Spring 2006 .
+Homework
+1. Due Friday, Feb 1, at noon, in the box outside Soda 723.
+pdf (new version posted Jan 29)
+solutions
+code
+2. Due Thursday, Feb 14, at the lecture.
+pdf
+solutions
+3. Due Thursday, Feb 28, at the lecture.
+pdf
+solutions
+4. Due Thursday, March 20, at the lecture.
+pdf
+solutions
+5. Due Tuesday, April 22, at the lecture.
+(New version posted Wednesday April 16 correcting Q2a.)
+pdf
+solutions
+Announcements
+Wed, Apr 30:
+Project reports are due on Tuesday, May 6, at 5pm in the
+box outside Soda 723.
+Although there is no set page limit,
+aim to produce a brief report of less than 10 pages.
+We will have project poster presentations on Tuesday, May 6 and
+Thursday, May 8, in the usual lecture time slot and location.
+If you are enrolled in CS281B, you'll be presenting your poster
+on Tuesday, May 6. If you are enrolled in Stat241B,
+you'll be presenting your poster on
+Thursday, May 8.
+If you did a project in a group, you can choose to
+present your poster on the appropriate day for any of the group
+members.
+When you are preparing your poster, the target audience should be
+other students in the class. Be ready to stand by your poster and
+give a brief overview of your project.
+Please attend both poster sessions.
+Tue, Apr 29:
+David's office hours this week have been moved from Thursday 2-3:30 to
+Friday 10:30-12 in Evans 357.
+Wed, Apr 16:
+Another revised version of  Homework 5
+has been posted, again correcting question 2(a).
+It is now due on Tuesday, Apr 22, at the lecture.
+Final project reports are due on May 6. Poster presentations of the
+projects will be held in the lecture time slots on May 6 (for students
+enrolled in CS281B) and May 8 (for students enrolled in Stat241B).
+Tue, Apr 15:
+Concerning question 4 on homework 5, the parameter eta must be positive.
+As we have seen in lectures, regret bounds of the form (1) arise
+for  positive  values of eta.
+Mon, Apr 14:
+A revised version of  Homework 5
+has been posted, correcting a typo in question 2(a) (a missing
+positivity constraint). Notice also that the notation '-G' denotes the
+set {-g s.t. g in G}, as in lectures.
+Mon, Apr 7:
+Homework 5
+has been posted.
+Please sign up (via email to David) for a lecture
+when you will act as scribe.
+Lecture notes
+1. Tuesday, January 22.
+Probabilistic Formulations of Prediction Problems.
+pdf
+latex
+2. Thursday, January 24.
+Linear Threshold Functions and the Perceptron Algorithm.
+pdf
+3. Tuesday, January 29.
+Minimax Risk Bounds for Linear Threshold Functions.
+pdf
+4. Thursday, January 31.
+Kernel Methods: Support Vector Machines.
+pdf
+5. Tuesday, February 5.
+Review of Constrained Optimization.
+pdf
+6. Thursday, February 7.
+Soft-margin SVMs.
+pdf
+7. Tuesday, February 12.
+Reproducing kernel Hilbert spaces.
+pdf
+8. Thursday, February 14.
+Representer theorem. Constructing kernels.
+pdf
+9. Tuesday, February 19.
+Convex loss versus 0-1 loss.
+pdf
+10. Thursday, February 21.
+AdaBoost.
+pdf
+11. Tuesday, February 26.
+AdaBoost and large margin classifiers.
+pdf
+12. Thursday, February 28.
+AdaBoost, logistic regression. Risk bounds.
+pdf
+13. Tuesday, March 4.
+Concentration inequalities.
+pdf
+14. Thursday, March 6.
+Glivenko-Cantelli classes and Rademacher averages.
+pdf
+15. Tuesday, March 11.
+Rademacher averages and Vapnik-Chervonenkis dimension.
+pdf
+16. Thursday, March 13.
+Sauer's Lemma.
+pdf
+17. Tuesday, March 18.
+Rademacher averages and growth function.
+pdf
+18. Thursday, March 20.
+Growth function bounds for parameterized binary classes.
+pdf
+19. Tuesday, April 1.
+Covering numbers.
+pdf
+20. Thursday, April 3.
+Model selection.
+pdf
+21. Tuesday, April 8.
+Online learning: Halving algorithm. Exponential weights.
+pdf
+22. Thursday, April 10.
+Online convex optimization: gradient descent.
+pdf
+23. Tuesday, April 15.
+Online convex optimization: mirror descent.
+pdf
+24. Thursday, April 17.
+Online convex optimization: ridge regression, adaptivity.
+pdf
+25. Tuesday, April 22.
+Follow the perturbed leader, online shortest path.
+pdf
+26. Thursday, April 24.
+Online bandit problems.
+pdf
+27. Tuesday, April 29.
+Universal portfolios.
+pdf
+additional notes
+28. Thursday, May 1.
+Online to batch conversions.
+pdf
+29. Tuesday, May 6.
+Final project poster presentations, for students enrolled in CS281B.
+30. Thursday, May 8.
+Final project poster presentations, for students enrolled in Stat241B.

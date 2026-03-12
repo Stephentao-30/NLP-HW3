@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/221130-2
+Trends in Deep Learning Hardware - EECS at Berkeley
+Trends in Deep Learning Hardware
+EECS Colloquium
+Wednesday, November 30, 2022
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Bill Dally
+Chief Scientist and Senior Vice President of Research
+NVIDIA
+Bill Dally speaks on "Trends in Deep Learning Hardware," 11/30/22
+Abstract
+The current resurgence of artificial intelligence is due to advances in deep learning. Systems based on deep learning now exceed human capability in speech recognition, object classification, and playing games like Go. Deep learning has been enabled by powerful, efficient computing hardware. The algorithms used have been around since the 1980s, but it has only been in the last decade – when powerful GPUs became available to train networks – that the technology has become practical.   Advances in DL are now gated by hardware performance.  This talk will review the current state of deep learning hardware and explore a number of directions to continue performance scaling in the absence of Moore’s Law. Topics discussed will include number representation, sparsity, memory organization, optimized circuits, and analog computation.
+Biography
+Bill Dally joined NVIDIA in January 2009 as chief scientist, after spending 12 years at Stanford University, where he was chairman of the computer science department. Dally and his Stanford team developed the system architecture, network architecture, signaling, routing and synchronization technology that is found in most large parallel computers today. Dally was previously at the Massachusetts Institute of Technology from 1986 to 1997, where he and his team built the J-Machine and the M-Machine, experimental parallel computer systems that pioneered the separation of mechanism from programming models and demonstrated very low overhead synchronization and communication mechanisms. From 1983 to 1986, he was at California Institute of Technology (CalTech), where he designed the MOSSIM Simulation Engine and the Torus Routing chip, which pioneered “wormhole” routing and virtual-channel flow control. He is a member of the National Academy of Engineering, a Fellow of the American Academy of Arts & Sciences, a Fellow of the IEEE and the ACM, and has received the ACM Eckert-Mauchly Award, the IEEE Seymour Cray Award, and the ACM Maurice Wilkes award. He has published over 250 papers, holds over 120 issued patents, and is an author of four textbooks. Dally received a bachelor’s degree in Electrical Engineering from Virginia Tech, a master’s in Electrical Engineering from Stanford University and a Ph.D. in Computer Science from CalTech.  He was a cofounder of Velio Communications and Stream Processors.
+Video Of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

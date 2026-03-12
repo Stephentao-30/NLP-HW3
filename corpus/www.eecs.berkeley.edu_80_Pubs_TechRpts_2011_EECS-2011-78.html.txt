@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-78.html
+Bayesian Nonparametric Latent Feature Models
+Kurt Miller
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-78
+June 28,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-78.pdf
+Priors for Bayesian nonparametric latent feature models were originally developed a little over five years ago, sparking interest in a new type of Bayesian nonparametric model.  Since then, there have been three main areas of research for people interested in these priors: extensions/generalizations of the priors, inference algorithms, and applications.  This dissertation summarizes our work advancing the state of the art in all three of these areas.  In the first area, we present a non-exchangeable framework for generalizing and extending the original priors, allowing more prior knowledge to be used in nonparametric priors.  Within this framework, we introduce four concrete generalizations that are applicable when we have prior knowledge about object relationships that can be captured either via a tree or chain.  We discuss how to develop and derive these priors as well as how to perform posterior inference in models using them.  In the area of inference algorithms, we present the first variational approximation for one class of these priors, demonstrating in what regimes they might be preferred over more traditional MCMC approaches. Finally, we present an application of basic nonparametric latent features models to link prediction as well as applications of our non-exchangeable priors to tree-structured choice models and human genomic data.
+Advisors:  Michael Jordan
+BibTeX citation:
+@phdthesis{Miller:EECS-2011-78,
+Author= {Miller, Kurt},
+Title= {Bayesian Nonparametric Latent Feature Models},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-78.html},
+Number= {UCB/EECS-2011-78},
+Abstract= {Priors for Bayesian nonparametric latent feature models were originally developed a little over five years ago, sparking interest in a new type of Bayesian nonparametric model.  Since then, there have been three main areas of research for people interested in these priors: extensions/generalizations of the priors, inference algorithms, and applications.  This dissertation summarizes our work advancing the state of the art in all three of these areas.  In the first area, we present a non-exchangeable framework for generalizing and extending the original priors, allowing more prior knowledge to be used in nonparametric priors.  Within this framework, we introduce four concrete generalizations that are applicable when we have prior knowledge about object relationships that can be captured either via a tree or chain.  We discuss how to develop and derive these priors as well as how to perform posterior inference in models using them.  In the area of inference algorithms, we present the first variational approximation for one class of these priors, demonstrating in what regimes they might be preferred over more traditional MCMC approaches. Finally, we present an application of basic nonparametric latent features models to link prediction as well as applications of our non-exchangeable priors to tree-structured choice models and human genomic data.},
+}
+EndNote citation:
+%0 Thesis
+%A Miller, Kurt
+%T Bayesian Nonparametric Latent Feature Models
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 28
+%@ UCB/EECS-2011-78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-78.html
+%F Miller:EECS-2011-78

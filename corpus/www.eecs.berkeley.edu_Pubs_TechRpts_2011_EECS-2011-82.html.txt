@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.html
+Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
+Matei Zaharia and Mosharaf Chowdhury and Tathagata Das and Ankur Dave and Justin Ma and Murphy McCauley and Michael Franklin and Scott Shenker and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-82
+July 19,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.pdf
+We present Resilient Distributed Datasets (RDDs), a distributed memory abstraction that allows programmers to perform in-memory computations on large clusters while retaining the fault tolerance of data flow models like MapReduce. RDDs are motivated by two types of applications that current data flow systems handle inefficiently: iterative algorithms, which are common in graph applications and machine learning, and interactive data mining tools. In both cases, keeping data in memory can improve performance by an order of magnitude. To achieve fault tolerance efficiently, RDDs provide a highly restricted form of shared memory: they are read-only datasets that can only be constructed through bulk operations on other RDDs. However, we show that RDDs are expressive enough to capture a wide class of computations, including MapReduce and specialized programming models for iterative jobs such as Pregel. Our implementation of RDDs can outperform Hadoop by 20x for iterative jobs and can be used interactively to search a 1 TB dataset with latencies of 5-7 seconds.
+BibTeX citation:
+@techreport{Zaharia:EECS-2011-82,
+Author= {Zaharia, Matei and Chowdhury, Mosharaf and Das, Tathagata and Dave, Ankur and Ma, Justin and McCauley, Murphy and Franklin, Michael and Shenker, Scott and Stoica, Ion},
+Title= {Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.html},
+Number= {UCB/EECS-2011-82},
+Abstract= {We present Resilient Distributed Datasets (RDDs), a distributed memory abstraction that allows programmers to perform in-memory computations on large clusters while retaining the fault tolerance of data flow models like MapReduce. RDDs are motivated by two types of applications that current data flow systems handle inefficiently: iterative algorithms, which are common in graph applications and machine learning, and interactive data mining tools. In both cases, keeping data in memory can improve performance by an order of magnitude. To achieve fault tolerance efficiently, RDDs provide a highly restricted form of shared memory: they are read-only datasets that can only be constructed through bulk operations on other RDDs. However, we show that RDDs are expressive enough to capture a wide class of computations, including MapReduce and specialized programming models for iterative jobs such as Pregel. Our implementation of RDDs can outperform Hadoop by 20x for iterative jobs and can be used interactively to search a 1 TB dataset with latencies of 5-7 seconds.},
+}
+EndNote citation:
+%0 Report
+%A Zaharia, Matei
+%A Chowdhury, Mosharaf
+%A Das, Tathagata
+%A Dave, Ankur
+%A Ma, Justin
+%A McCauley, Murphy
+%A Franklin, Michael
+%A Shenker, Scott
+%A Stoica, Ion
+%T Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 19
+%@ UCB/EECS-2011-82
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.html
+%F Zaharia:EECS-2011-82

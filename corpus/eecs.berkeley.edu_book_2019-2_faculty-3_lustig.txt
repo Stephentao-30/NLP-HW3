@@ -1,0 +1,14 @@
+URL: https://eecs.berkeley.edu/book/2019-2/faculty-3/lustig
+BEARS 2019: Michael Lustig - EECS at Berkeley
+BEARS 2019: Michael Lustig
+Towards pediatric MRI without anesthesia with tailored hardware and massive scale computational imaging
+Berkeley Annual Research Symposium (BEARS) 2019
+Michael Lustig
+Abstract
+MRI is excellent for pediatric diagnosis, offering superb contrast, without risk to a population particularly susceptible to cancer from ionizing radiation of computed tomography. However, MRI’s impact in children is limited by technical demands of imaging small, fast moving structures, long exams that limit access, result in motion artifacts, and most often require anesthesia with attendant risk. This talk will review our decade long work to mitigate these challenges through development of dedicated pediatric receiver arrays, fast compressed sensing and parallel imaging accelerated exams,  dynamic imaging and multi-contrast MRI with rapid computation — all of which resulted in significant reduction in the incidence, depth, and duration of anesthesia at Lucile Packard Children’s Hospital. Finally, the talk will review the remaining challenges and offer possible solutions through existing, emerging and future technologies including machine learning, high-frame-rate dynamic MRI with massive computation, and dedicated pediatric scanners that could ultimately eliminate completely the need for anesthesia in pediatric MRI.
+Biography
+Michael (Miki) Lustig  is an Associate Professor in EECS. He joined the faculty of the EECS Department at UC Berkeley in Spring 2010. He received his B.Sc. in Electrical Engineering from the Technion, Israel Institute of Technology in 2002. He received his Msc and Ph.D. in Electrical Engineering from Stanford University in 2004 and 2008, respectively. His research focuses on computational imaging methods in medical imaging, particularly Magnetic Resonance Imaging (MRI). Miki is a Fellow of the Society of Magnetic Resonance in Medicine.
+< BEARS 2019: Jennifer Listgarten
+BEARS 2019: Rikky Muller >
+View
+Open Faculty Positions

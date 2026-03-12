@@ -1,0 +1,141 @@
+URL: https://eecs.berkeley.edu/resources/faculty-staff/staff-it-procedures/departure
+ACG Staff Departure Computer Procedure - EECS at Berkeley
+ACG Staff Departure Computer Procedure
+When a staff member leaves the department, there are a number of computer-related matters to be cleaned up. This procedure is intended as a guide  to be followed by the departing staff member and their supervisor . (For the purposes of this document, student workers are also staff.)
+Limits:  This procedure is designed for staff members supported by the EECS Administrative Computing Group (ACG). If you work in a different group or department, this information may or may not apply to you.  EECS staff, please send questions to acg@eecs.berkeley.edu
+In This Page
+Things You Should Know
+Account privacy and termination
+Timeline
+Grace periods before account termination
+EECS Account
+Supervisor's responsibilities, access to files, departure notification guidelines, account policies
+Transferring Files
+How to transfer ownership of MS Office and Acrobat files, Google files in bDrive, and files on Berkeley Box; how to save personal files
+E-Mail
+User's responsibilities, list memberships (IMPORTANT!), transferring mail, vacation message and mail forwarding
+Things You Should Know
+While a staff member is employed at the University, e-mail messages and mailboxes are protected by the University   Electronic Communications Policy  and can not be turned over to anyone, including a supervisor, without the explicit consent (which we require in writing) of the owner. However, this policy suggests that this protection no longer applies in the event of an emergency after someone has left University employment.
+Employees need to be aware that all files, including mail, on University-owned computers  will be disposed of after they leave their position.   Because of this, we strongly urge departing employees to review all files and mailboxes  before leaving  and remove all work and non-work-related material that they would like to keep.
+Employees transferring to other jobs on campus will keep their bConnected accounts with everything in them (bMail, bDrive, etc.)
+Timeline
+1 month  – approximate grace period for EECS staff (supported by ACG) between last day and and when their  EECS account closes  .  If IRIS receives an account closure request before the 15th of the month,  the account will close on the last day of that month.  Access to your home directory and the CHAIR shared drive will end at that time.
+3 months  – grace period between last official day and when campus  CalNet account closes .  Access to bConnected applicatons (bMail, bCal, bDrive, etc) and berkeley.box.com will end.  bMail forwarding will cease.
+There is no grace period for temp staff.
+CalNet grace period information
+EECS Account
+ACG policy is to close computer accounts at the time that a staff member leaves.  Before they leave, supervisors should confirm that the departing staff member has reviewed their files and moved anything that should be kept to a shared drive.  The departing staff member can work with ACG to get needed files moved out of the user’s home directory in advance of their departure. It is much easier to copy needed files before someone leaves; it might not even be possible after they’re gone.  Files in Google Drive  will be removed when the owner leaves campus. Staff who own Google Drive files needed for departmental operations or records should follow the instructions in the Files section below.
+EECS employees and supervisors should know the IRIS   account policies  (especially the paragraph about user privacy) and   backup/recovery policy . We use IRIS services for home directories and login accounts, so we operate within the constraints of their policies. Specifically, if a supervisor needs access to a staff member’s files after they leave, the supervisor needs to have a signed paper consent letter from the staff member.
+If IDSG is notified of the employee’s departure by the 15th of the month, the account will close at the end of that month. If IDSG is notified after the 15th, the account will close at the end of the following month. When an employee’s account is closed, the files in their home directory (the H: drive) will be removed.
+Transferring Files
+MS Office, Acrobat, and text files
+Departing staff should organize work-related computer files and place them in the appropriate folder(s) on the  \proj10.eecs.berkeley.eduCHAIR  shared drive so they can be accessed after the staff member has left. Any files left on your H: (home)  drive will disappear when your account is closed.
+Google (bDrive) files
+Staff have a  90 day grace period  before their bConnected files (Google drive, bCal, etc.) are removed.
+You should transfer any files that you have created on bDrive into a  shared team drive  owned by a bConnected Special Purpose Account (SPA).  Any file you own will be deleted  when your bConnected account is closed if it is not in a shared drive, e ven if you are sharing it with others and have given them full permissions on it .  If you do not have an appropriate team drive shared with you, mail  acg@eecs  and ask them to create one, specifying the subject matter and with which other members of your group your files need to be shared.  If you wear more than one hat you will probably need to use more than one shared drive.
+If, while clearing out your bDrive, you notice that you are still using documents owned by people who are no longer with the EECS department, make a local copy of those files.  Then move your local copies into the team drive and notify the other people in your group that they need to work with the new version.  You should also edit the old version and add at the top, in big letters, that that file is no longer used, specifying the team drive location of the new file.
+About SPAs .
+berkeley.box.com files
+You should transfer ownership of any work-related files and folders you created in your berkeley.box.com account to a SPA.
+Log into http://berkeley.box.com with your CalNet ID
+Mouse-over a folder and a “Share” button will appear to the right of it.  Click “Share”
+Click “Shared with” on the top right of the Share dialog box
+Click “Manage All” on the top right of the People dialog box
+If the folder is not owned by a SPA click “Share” (top right)
+Type the @berkeley.edu email address of your SPA in the “Invite People” field
+Click the “Invite as Editor” dropdown right under that field and select “Co-owner.”
+Type a description of the files in the Message session if needed and click “Send”
+Personal files
+Departing staff can copy any personal files onto a USB key or upload them to their berkeley.box account and then download them when they are at their home computer.
+Once your 90-day  CalNet grace period  ends, your bMail account will be canceled and you will not be able to access bMail (or Drive) data. You can download your personal email before cancelation occurs by using http://takeout.google.com
+If you have any questions about how to copy personal files, or handle computer accounts and files when someone leaves a job, please feel free to contact ACG.
+E-Mail
+Any mail forwarding must be set up by the staff member, NOT the supervisor, before the staff member leaves.  Likewise, any vacation message must be set up by the staff member before leaving.  ACG cannot set up vacation messages on staff accounts.
+If you will be transferring to another job on campus, your bMail account, and all the mail in it, will remain untouched. To removed your @eecs account from your bMail profile, click on the gear icon and select Settings. Click the Accounts tab and then click “delete” next to your @eecs and @cs accounts.
+Retiree bMail service  is available for retirees who would like to keep a campus email account with an @berkeley.edu address and are willing to pay.  See the full menu of  Services for UC Berkeley Retirees .
+Managing Mail List Memberships
+IMPORTANT!   Send an email from your @eecs email address to  sympa@lists.eecs.berkeley.edu  with the word  which  in the body of the message. You should receive a reply listing all of the mail lists you are on or moderate/own. Please forward this reply email to  acg@eecs  so we can remove you from these lists.  Sys admins do not have access to this information: only a user can request it for themself, so it’s very important that you do this before you leave!
+Transferring Existing Email
+If the employee would like to transfer mail files to their group, they should copy the mail to a departmental (aka SPA) account for group access. Contact ACG if you need help with this. If you need to transfer your mail to another personal account, see  how to save or copy bMail mail
+Upon Separation
+Set an out of office responder (vacation message) on your bMail account alerting people of your departure
+Forward any personal mail to a personal email account.
+Forwarding New Email
+To set up mail forwarding, log in to  bMail :
+Open the  cog  icon menu and select “Settings”
+Click the “Forwarding and POP/IMAP” tab
+Click the “Add a forwarding address” button and enter the email address to which you’d like to forward your mail
+Click “Proceed” to have a confirmation email sent to your forwarding address. Leave your bMail web page open.
+Open another browser window (or an incognito window if you’re forwarding your mail to another gmail account) and open mail on the account to which you are forwarding your messages. Find the confirmation message and click on the verification link.
+Go back to your bMail account window (Settings/Forwarding) and refresh the page
+Select the “Forward a copy of incoming mail to” option and make sure your new forwarding address is listed in the first drop-down menu.
+In the second drop-down menu, choose the option to forward your messages without saving a copy in bMail.
+Click “Save Changes” at the bottom of the page.
+If you elect to keep copies of your incoming messages on the bMail server: after the official exit, log into  bMail  about once a week to delete all messages. bMail has a quota so it is important to make sure that the quota is not maxed out or your forwarding will be stopped. bMail will forward mail for approximately 3 months after the employment end date (see above re 90-day grace period).
+See also:   Automatically forward Gmail messages to another account
+Setting a Vacation (Departure Notification) Message
+Upon the official exit,  set up a vacation message  via the bMail web interface. It will be sent as an auto-reply to all incoming emails. The message should contain information to the effect that you no longer work in that position, and it should include the contact information of someone who can help.  A vacation message on the bMail server will remain active for up to 90 days after the user departs.
+bConncted information about leaving UC Berkeley
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

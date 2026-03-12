@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28420.html
+On the Generalized Nyquist Stability Criterion | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Generalized Nyquist Stability Criterion
+On the Generalized Nyquist Stability Criterion
+C.A. Desoer and Y.T. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/11
+December 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-11.pdf
+BibTeX citation:
+@techreport{Desoer:M79/11,
+Author = {Desoer, C.A. and Wang, Y.T.},
+Title = {On the Generalized Nyquist Stability Criterion},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28420.html},
+Number = {UCB/ERL M79/11}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wang, Y.T.
+%T On the Generalized Nyquist Stability Criterion
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28420.html
+%F Desoer:M79/11

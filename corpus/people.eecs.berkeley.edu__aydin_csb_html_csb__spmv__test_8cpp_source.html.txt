@@ -1,0 +1,353 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/csb__spmv__test_8cpp_source.html
+Compressed Sparse Blocks: csb_spmv_test.cpp Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+csb_spmv_test.cpp
+Go to the documentation of this file.     1   #define NOMINMAX
+2   #include <iostream>
+3   #include <algorithm>
+4   #include <numeric>
+5   #include <functional>
+6   #include <fstream>
+7   #include <ctime>
+8   #include <cmath>
+9   #include <string>
+10
+11   #include "timer.gettimeofday.c"
+12   #include " cilk_util.h "
+13   #include " utility.h "
+14
+15   #include " triple.h "
+16   #include " csc.h "
+17   #include " bicsb.h "
+18   #include " bmcsb.h "
+19   #include " spvec.h "
+20   #include " Semirings.h "
+21
+22   using namespace  std;
+23
+24   #define INDEXTYPE uint32_t
+25   #ifdef SINGLEPRECISION
+26   #define VALUETYPE float
+27   #else
+28   #define VALUETYPE double
+29   #endif
+30
+31   /* Alternative native timer (wall-clock):
+32    *  timeval tim;
+33    *  gettimeofday(&tim, NULL);
+34    *  double t1=tim.tv_sec+(tim.tv_usec/1000000.0);
+35    */
+36
+37   int   main ( int  argc,  char * argv[])
+38  {
+39   #ifndef CILK_STUB
+40     int  gl_nworkers = __cilkrts_get_nworkers();
+41   #else
+42     int  gl_nworkers = 0;
+43   #endif
+44     bool  syminput =  false ;
+45       bool  binary =  false ;
+46       bool  iscsc =  false ;
+47       INDEXTYPE  m = 0, n = 0, nnz = 0, forcelogbeta = 0;
+48       string  inputname;
+49       if (argc < 2)
+50      {
+51          cout <<  "Normal usage: ./a.out inputmatrix.mtx sym/nosym binary/text triples/csc"  << endl;
+52          cout <<  "Assuming matrix.txt is the input, matrix is unsymmetric, and stored in text(ascii) file"  << endl;
+53          inputname =  "matrix.txt" ;
+54      }
+55       else   if (argc < 3)
+56      {
+57          cout <<  "Normal usage: ./a.out inputmatrix.mtx sym/nosym binary/text triples/csc"  << endl;
+58          cout <<  "Assuming that the matrix is unsymmetric, and stored in text(ascii) file"  << endl;
+59          inputname =  argv[1];
+60      }
+61       else   if (argc < 4)
+62      {
+63          cout <<  "Normal usage: ./a.out inputmatrix.mtx sym/nosym binary/text triples/csc"  << endl;
+64          cout <<  "Assuming matrix is stored in text(ascii) file"  << endl;
+65          inputname =  argv[1];
+66           string  issym(argv[2]);
+67           if (issym ==  "sym" )
+68              syminput =  true ;
+69           else   if (issym ==  "nosym" )
+70              syminput =  false ;
+71           else
+72              cout <<  "unrecognized option, assuming nosym"  << endl;
+73      }
+74       else
+75      {
+76          inputname =  argv[1];
+77           string  issym(argv[2]);
+78           if (issym ==  "sym" )
+79              syminput =  true ;
+80           else   if (issym ==  "nosym" )
+81              syminput =  false ;
+82           else
+83              cout <<  "unrecognized option, assuming unsymmetric"  << endl;
+84
+85           string  isbinary(argv[3]);
+86           if (isbinary ==  "text" )
+87              binary =  false ;
+88           else   if (isbinary ==  "binary" )
+89              binary =  true ;
+90           else
+91              cout <<  "unrecognized option, assuming text file"  << endl;
+92
+93           if (argc > 4)
+94          {
+95               string  type(argv[4]);
+96               if (type ==  "csc" )
+97              {
+98                  iscsc =  true ;
+99                  cout <<  "Processing CSC binary"  << endl;
+100              }
+101          }
+102
+103           if (argc == 6)
+104              forcelogbeta = atoi(argv[5]);
+105      }
+106
+107       typedef   PTSR<VALUETYPE,VALUETYPE>  PTDD;
+108       Csc<VALUETYPE, INDEXTYPE>  * csc;
+109       if (binary)
+110      {
+111          FILE * f = fopen(inputname.c_str(),  "r" );
+112           if (!f)
+113          {
+114              cerr <<  "Problem reading binary input file\n" ;
+115               return  1;
+116          }
+117           if (iscsc)
+118          {
+119              fread(&n,  sizeof ( INDEXTYPE ), 1, f);
+120              fread(&m,  sizeof ( INDEXTYPE ), 1, f);
+121              fread(&nnz,  sizeof ( INDEXTYPE ), 1, f);
+122          }
+123           else
+124          {
+125              fread(&m,  sizeof ( INDEXTYPE ), 1, f);
+126              fread(&n,  sizeof ( INDEXTYPE ), 1, f);
+127              fread(&nnz,  sizeof ( INDEXTYPE ), 1, f);
+128          }
+129           if  (m <= 0 || n <= 0 || nnz <= 0)
+130          {
+131              cerr <<  "Problem with matrix size in binary input file\n" ;
+132               return  1;
+133          }
+134           long  tstart =  cilk_get_time ();   // start timer
+135          cout <<  "Reading matrix with dimensions: " << m <<  "-by-"  << n << " having " << nnz <<  " nonzeros"  << endl;
+136           INDEXTYPE  * rowindices =  new   INDEXTYPE [nnz];
+137           VALUETYPE  * vals =  new   VALUETYPE [nnz];
+138           INDEXTYPE  * colindices;
+139           INDEXTYPE  * colpointers;
+140           if (iscsc)
+141          {
+142              colpointers =  new   INDEXTYPE [n+1];
+143               size_t  cols = fread(colpointers,  sizeof ( INDEXTYPE ), n+1, f);
+144               if (cols != n+1)
+145              {
+146                  cerr <<  "Problem with FREAD, aborting... "  << endl;
+147                               return  -1;
+148              }
+149          }
+150           else
+151          {
+152              colindices =  new   INDEXTYPE [nnz];
+153               size_t  cols = fread(colindices,  sizeof ( INDEXTYPE ), nnz, f);
+154               if (cols != nnz)
+155              {
+156                  cerr <<  "Problem with FREAD, aborting... "  << endl;
+157                               return  -1;
+158              }
+159          }
+160           size_t  rows = fread(rowindices,  sizeof ( INDEXTYPE ), nnz, f);
+161           size_t  nums = fread(vals,  sizeof ( VALUETYPE ), nnz, f);
+162
+163           if (rows != nnz || nums != nnz)
+164          {
+165              cerr <<  "Problem with FREAD, aborting... "  << endl;
+166               return  -1;
+167          }
+168           long  tend =  cilk_get_time ();     // end timer
+169          cout<<  "Reading matrix in binary took "  << (( VALUETYPE ) (tend-tstart)) /1000 <<  " seconds"  <<endl;
+170          fclose(f);
+171           if (iscsc)
+172          {
+173              csc =  new   Csc<VALUETYPE, INDEXTYPE> ();
+174              csc-> SetPointers (colpointers, rowindices, vals , nnz, m, n,  true );   // do the fortran thing
+175               // csc itself will manage the data in this case (shallow copy)
+176          }
+177           else
+178          {
+179              csc =  new   Csc<VALUETYPE, INDEXTYPE> (rowindices, colindices, vals , nnz, m, n);
+180               delete  [] colindices;
+181               delete  [] rowindices;
+182               delete  [] vals;
+183          }
+184      }
+185       else
+186      {
+187          cout <<  "reading input matrix in text(ascii)... "  << endl;
+188          ifstream infile(inputname.c_str());
+189           char  line[256];
+190           char  c = infile.get();
+191           while (c ==  '%' )
+192          {
+193              infile.getline(line,256);
+194              c = infile.get();
+195          }
+196          infile.unget();
+197          infile >> m >> n >> nnz;     // #{rows}-#{cols}-#{nonzeros}
+198
+199           long  tstart =  cilk_get_time ();   // start timer
+200           Triple<VALUETYPE, INDEXTYPE>  * triples =  new   Triple<VALUETYPE, INDEXTYPE> [nnz];
+201
+202           if  (infile.is_open())
+203          {
+204               INDEXTYPE  cnz = 0;   // current number of nonzeros
+205               while  (! infile.eof() && cnz < nnz)
+206              {
+207                  infile >> triples[cnz]. row  >> triples[cnz]. col  >> triples[cnz]. val ;  // row-col-value
+208                  triples[cnz]. row --;
+209                  triples[cnz]. col --;
+210                  ++cnz;
+211              }
+212              assert(cnz == nnz);
+213          }
+214           long  tend =  cilk_get_time ();     // end timer
+215          cout<<  "Reading matrix in ascii took "  << ((double) (tend-tstart)) /1000 <<  " seconds"  <<endl;
+216
+217          cout <<  "converting to csc ... "  << endl;
+218          csc=  new   Csc<VALUETYPE,INDEXTYPE> (triples, nnz, m, n);
+219           delete  [] triples;
+220      }
+221
+222      cout <<  "# workers: " << gl_nworkers << endl;
+223       BiCsb<VALUETYPE, INDEXTYPE>  bicsb(*csc, gl_nworkers);
+224       // BiCsb<bool, INDEXTYPE> bin_csb(*csc, gl_nworkers);
+225
+226   #ifndef NOBM
+227     BmCsb<VALUETYPE, INDEXTYPE, RBDIM>  bmcsb(*csc, gl_nworkers);
+228      ofstream stats( "stats.txt" );
+229      bmcsb. PrintStats (stats);
+230       Spvec<VALUETYPE, INDEXTYPE>  y_bmcsb(m);
+231      y_bmcsb. fillzero ();
+232   #endif
+233
+234       INDEXTYPE   flops  = 2 * nnz;
+235      cout <<  "generating vectors... "  << endl;
+236       Spvec<VALUETYPE, INDEXTYPE>  x(n);
+237       Spvec<VALUETYPE, INDEXTYPE>  y_bicsb(m);
+238       Spvec<VALUETYPE, INDEXTYPE>  y_csc(m);
+239      y_csc. fillzero ();
+240      y_bicsb. fillzero ();
+241      x. fillfota ();
+242
+243      cout <<  "starting SpMV ... "  << endl;
+244      cout <<  "Row imbalance is: "  <<  RowImbalance (bicsb) << endl;
+245      timer_init();
+246
+247      bicsb_gespmv<PTDD>(bicsb, x. getarr (), y_bicsb. getarr ());
+248
+249       double  t0 = timer_seconds_since_init();
+250       for ( int  i=0; i <  REPEAT ; ++i)
+251      {
+252          bicsb_gespmv<PTDD>(bicsb, x. getarr (), y_bicsb. getarr ());
+253      }
+254       double  t1 = timer_seconds_since_init();
+255
+256       double  time = (t1-t0)/REPEAT;
+257      cout<<  "BiCSB"  <<  " time: "  << time <<  " seconds"  <<endl;
+258      cout<<  "BiCSB"  <<  " mflop/sec: "  << flops  / (1000000 * time) <<endl;
+259
+260       /*************************************************************/
+261   #ifndef NOBM
+262       cout <<  "starting SpMV with BmCSB ... "  << endl;
+263      cout <<  "Row imbalance is: "  <<  RowImbalance (bmcsb) << endl;
+264
+265       prescantime  = 0;
+266       bmcsb_gespmv (bmcsb, x. getarr (), y_bmcsb. getarr ());
+267       prescantime  = 0;
+268
+269      t0 = timer_seconds_since_init();
+270       for ( int  i=0; i <  REPEAT ; ++i)
+271      {
+272           bmcsb_gespmv (bmcsb, x. getarr (), y_bmcsb. getarr ());
+273      }
+274      t1 = timer_seconds_since_init();
+275
+276       double  bmtime = ((t1-t0)/REPEAT) - (prescantime/ REPEAT );
+277      cout<<  "BmCSB"  <<  " time: "  << bmtime <<  " seconds"  <<endl;
+278      cout<<  "BmCSB"  <<  " mflop/sec: "  <<  (flops *  UNROLL ) / (1000000 * bmtime) <<endl;
+279
+280   #ifdef BWTEST
+281       transform(y_bmcsb. getarr (), y_bmcsb. getarr () + m, y_bmcsb. getarr (), bind2nd(divides<double>(), static_cast<double>( UNROLL )));
+282      cout <<  "Mega register blocks per second: "  << (bmcsb. numregb () *  UNROLL ) / (1000000 * bmtime) << endl;
+283   #endif  // BWTEST
+284       cout<<  "Prescan time: "  << (prescantime/ REPEAT )  <<  " seconds"  <<endl;
+285   #endif  // NOBM
+286
+287       // Verify with CSC (serial)
+288      y_csc += (*csc) * x;
+289
+290      t0 = timer_seconds_since_init();
+291       for ( int  i=0; i <  REPEAT ; ++i)
+292      {
+293              y_csc += (*csc) * x;
+294      }
+295      t1 = timer_seconds_since_init();
+296       double  csctime = (t1-t0)/REPEAT;
+297      cout<<  "CSC"  <<  " time: "  << csctime <<  " seconds"  <<endl;
+298      cout<<  "CSC"  <<  " mflop/sec: "  << flops / (1000000 * csctime) <<endl;
+299
+300       Verify (y_csc, y_bicsb,  "BiCSB" , m);
+301   #ifndef NOBM
+302     Verify (y_csc, y_bmcsb,  "BmCSB" , m);
+303   #endif
+304     delete  csc;
+305  }
+306
+BmCsb::PrintStats ofstream & PrintStats(ofstream &outfile) const  Definition:   bmcsb.cpp:488
+VALUETYPE #define VALUETYPE Definition:   csb_spmv_test.cpp:28
+main int main(int argc, char *argv[]) Definition:   csb_spmv_test.cpp:37
+REPEAT #define REPEAT Definition:   utility.h:144
+Spvec::fillfota void fillfota() Definition:   spvec.h:35
+UNROLL #define UNROLL Definition:   utility.h:29
+PTSR Definition:   Semirings.h:24
+BmCsb Definition:   bmcsb.h:21
+Triple::col ITYPE col Definition:   triple.h:14
+Semirings.h
+flops INDEXTYPE flops Definition:   csb_spmvt_test.cpp:29
+triple.h
+bmcsb.h
+bicsb.h
+Spvec::fillzero void fillzero() Definition:   spvec.cpp:135
+Spvec Definition:   spvec.h:10
+cilk_util.h
+INDEXTYPE #define INDEXTYPE Definition:   csb_spmv_test.cpp:24
+Spvec::getarr T * getarr() Definition:   spvec.h:42
+spvec.h
+Verify void Verify(Spvec< NT, IT > &control, Spvec< NT, IT > &test, string name, IT m) Definition:   spvec.cpp:144
+cilk_get_time int cilk_get_time() Definition:   cilk_util.h:23
+Triple::row ITYPE row Definition:   triple.h:13
+utility.h
+bmcsb_gespmv void bmcsb_gespmv(const BmCsb< NT, IT, TTDIM > &A, const NT *__restrict x, NT *__restrict y) Definition:   friends.h:33
+BmCsb::numregb IT numregb() const  Definition:   bmcsb.h:34
+prescantime double prescantime Definition:   friends.h:19
+Triple Definition:   csc.h:12
+Csc Definition:   csc.h:15
+RowImbalance float RowImbalance(const CSB &A) Definition:   friends.h:400
+Csc::SetPointers void SetPointers(ITYPE *colpointers, ITYPE *rowindices, T *vals, ITYPE size, ITYPE rows, ITYPE cols, bool fortran) Definition:   csc.h:27
+BiCsb Definition:   bicsb.h:19
+Triple::val T val Definition:   triple.h:15
+csc.h
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

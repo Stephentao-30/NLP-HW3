@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28969.html
+On Fuzzy Binary Relations
+S.V. Ovchinnikov and T. Riera
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/81
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-81.pdf
+BibTeX citation:
+@techreport{Ovchinnikov:M81/81,
+Author= {Ovchinnikov, S.V. and Riera, T.},
+Title= {On Fuzzy Binary Relations},
+Year= {1981},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28969.html},
+Number= {UCB/ERL M81/81},
+}
+EndNote citation:
+%0 Report
+%A Ovchinnikov, S.V.
+%A Riera, T.
+%T On Fuzzy Binary Relations
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/81
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28969.html
+%F Ovchinnikov:M81/81

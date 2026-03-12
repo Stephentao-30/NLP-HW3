@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/tiny-switches-give-solid-state-lidar-record-resolution
+Tiny switches give solid-state LiDAR record resolution - EECS at Berkeley
+A new type of high-resolution LiDAR chip developed by EECS Prof. Ming Wu could lead to a new generation of powerful, low-cost 3D sensors for autonomous cars, drones, robots, and smartphones. The paper, which appeared in the journal Nature, was co-authored by his former graduate students Xiaosheng Zhang (Ph.D. ’21) and Johannes Henriksson (Ph.D. ’21), current graduate student Jianheng Luo, and postdoc Kyungmok Kwon, in the Berkeley Sensor and Actuator Center (BSAC).  Their new, smaller, more efficient, and less expensive LiDAR design is based on a focal plane switch array (FPSA) with a resolution of 16,384 pixels per 1-centimeter square chip, which dwarfs the 512 pixels or less currently found on FPSA.  The design is scalable to megapixel sizes using the same complementary metal-oxide-semiconductor (CMOS) technology used to produce computer processors.   Additionally, large, slow and inefficient thermo-optic switches are replaced by microelectromechanical system (MEMS) switches, which are traditionally used to route light in communications networks.  If the resolution and range of the new system can be improved, conventional CMOS production technology can be used to produce the new, inexpensive chip-sized LiDAR.
+Categories
+Alumni
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

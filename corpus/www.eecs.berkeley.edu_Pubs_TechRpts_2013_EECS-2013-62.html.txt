@@ -1,0 +1,51 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-62.html
+Using Telemetry to Illuminate Policy Interactions: A Case Study with RequestPolicy
+Justin Samuel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-62
+May 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-62.pdf
+Modern websites perform many cross-site requests that can be detrimental to user privacy.
+Cross-site requests undermine privacy by allowing third-party websites—the websites that
+are the recipients of cross-site requests—to track a user’s browsing behavior. As a result,
+some users turn to browser extensions that give them control over these requests. One
+such extension, RequestPolicy, implements a default-deny policy for cross-site requests and
+provides users an interface through which they manage a whitelist to allow blocked requests.
+This approach breaks many websites and requires frequent user interaction.
+We set out to gain insight into how RequestPolicy is used. We study RequestPolicy’s
+usage through an opt-in telemetry study. Over a period of 24 weeks, we collected data from
+more than 2,500 RequestPolicy users about how they interact with RequestPolicy. We use
+this data, user feedback, and our own experiences to guide a redesign of RequestPolicy.
+Advisors:  Vern Paxson
+BibTeX citation:
+@mastersthesis{Samuel:EECS-2013-62,
+Author= {Samuel, Justin},
+Title= {Using Telemetry to Illuminate Policy Interactions: A Case Study with RequestPolicy},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-62.html},
+Number= {UCB/EECS-2013-62},
+Abstract= {Modern websites perform many cross-site requests that can be detrimental to user privacy.
+Cross-site requests undermine privacy by allowing third-party websites—the websites that
+are the recipients of cross-site requests—to track a user’s browsing behavior. As a result,
+some users turn to browser extensions that give them control over these requests. One
+such extension, RequestPolicy, implements a default-deny policy for cross-site requests and
+provides users an interface through which they manage a whitelist to allow blocked requests.
+This approach breaks many websites and requires frequent user interaction.
+We set out to gain insight into how RequestPolicy is used. We study RequestPolicy’s
+usage through an opt-in telemetry study. Over a period of 24 weeks, we collected data from
+more than 2,500 RequestPolicy users about how they interact with RequestPolicy. We use
+this data, user feedback, and our own experiences to guide a redesign of RequestPolicy.},
+}
+EndNote citation:
+%0 Thesis
+%A Samuel, Justin
+%T Using Telemetry to Illuminate Policy Interactions: A Case Study with RequestPolicy
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 15
+%@ UCB/EECS-2013-62
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-62.html
+%F Samuel:EECS-2013-62

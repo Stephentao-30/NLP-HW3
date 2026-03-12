@@ -1,0 +1,120 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/docs/CS276-F2015/homework-template.tex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb, amsmath, graphicx, subfigure}
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+\newcommand{\heading}[6]{
+\renewcommand{\thepage}{#1-\arabic{page}}
+\noindent
+\begin{center}
+\framebox{
+\vbox{
+\hbox to 5.78in { \textbf{#2} \hfill #3 }
+\vspace{4mm}
+\hbox to 5.78in { {\Large \hfill #6  \hfill} }
+\vspace{2mm}
+\hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+}
+}
+\end{center}
+\vspace*{4mm}
+}
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+\newenvironment{proof}{\noindent{\bf Proof:} \hspace*{1mm}}{
+\hspace*{\fill} $\Box$ }
+\newenvironment{proof_of}[1]{\noindent {\bf Proof of #1:}
+\hspace*{1mm}}{\hspace*{\fill} $\Box$ }
+\newenvironment{proof_claim}{\begin{quotation} \noindent}{
+\hspace*{\fill} $\diamond$ \end{quotation}}
+\newcommand{\problemset}[3]{\heading{#1}{CS276: Cryptography}{#2}{Alessandro Chiesa}{#3}{Problem Set #1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PLEASE MODIFY THESE FIELDS AS APPROPRIATE
+\newcommand{\problemsetnum}{X}          % problem set number
+\newcommand{\duedate}{Month Day, 2015}  % problem set deadline
+\newcommand{\studentname}{Joe Smith}    % full name of student (i.e., you)
+% PUT HERE ANY PACKAGES, MACROS, etc., ADDED BY YOU
+% ...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\problemset{\problemsetnum}{\duedate}{\studentname}
+\section*{Collaborators and Sources}
+Please list your collaborators and sources here.
+\section{Introduction}
+Write your problem set solutions here. Please make sure that you modify the problem set number, problem set due date, and student name fields in the preamble as appropriate. Also, please write your solutions clearly and using good \LaTeX{} style.
+\subsection{Theorem Environments}
+Here is a demonstration of the theorem environments.
+\begin{theorem}
+This is a theorem.
+\end{theorem}
+\begin{definition}
+This is a definition.
+\end{definition}
+\begin{remark}
+This is a remark.
+\end{remark}
+\begin{lemma}
+This is a lemma.
+\end{lemma}
+\begin{corollary}
+This is a corollary.
+\end{corollary}
+\begin{proposition}
+This is a proposition.
+\end{proposition}
+\begin{claim}
+This is a claim.
+\end{claim}
+\begin{observation}
+This is an observation.
+\end{observation}
+\begin{fact}
+This is a fact.
+\end{fact}
+\begin{assumption}
+This is an assumption.
+\end{assumption}
+\subsection{Proof Environments}
+Here is a demonstration of the proof environments.
+\begin{theorem}
+\label{thm:thm-label}
+This is a theorem with a proof.
+\end{theorem}
+\begin{proof}
+This is the theorem's proof.
+\end{proof}
+\begin{theorem}
+This is a theorem with a proof claim.
+\end{theorem}
+\begin{proof_claim}
+This is the theorem's proof claim.
+\end{proof_claim}
+\begin{proof_of}{Theorem \ref{thm:thm-label}}
+This is another proof of Theorem \ref{thm:thm-label}.
+\end{proof_of}
+% Put bibliography here (if any).
+% Example:
+%
+%\begin{thebibliography}{99}
+%
+% \bibitem[CLRS]{CLRS}
+% Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein,
+% \emph{Introduction to Algorithms}, Second Edition.
+% MIT Press and McGraw-Hill, 2001.
+%
+%\end{thebibliography}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

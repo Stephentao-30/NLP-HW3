@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-98.html
+Structured Codes in Information Theory: MIMO and Network Applications
+Jiening Zhan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-98
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-98.pdf
+Though random codes are shown to be optimal for point-to-point channels, codes with algebraic structure are found to be useful in many network scenarios. This thesis demonstrates the role of structured codes in several network and MIMO settings. In MIMO channels, structured codes can be used to improve receiver design. Traditional receiver architectures decorrelate the mixed data streams and recover each of them individually. Although optimal when the channel matrix is orthogonal, this can be highly sub-optimal when the channel is near singular. To overcome this limitation, a new architecture that recovers linear combinations of the data streams instead of the data streams individually is proposed. The proposed integer-forcing receiver outperforms traditional linear architectures and achieves the optimal diversity-multiplexing tradeoff. In network information theory, it has been shown that structured codes are useful for computation over multiple-access channels. This thesis considers function computation across general relay networks and proposes a scheme that decouples the physical and network layers. By using lattice codes in the physical layer and network codes in the network layer, the proposed scheme achieves the optimal distortion to within a constant factor. Finally, structured codes can be used to efficiently transmit channel state information when global channel state information is absent in networks. It is shown that sending a function of the channel state information is sufficient and can be much more efficient than sending the full information.
+Advisors:  Michael Gastpar
+BibTeX citation:
+@phdthesis{Zhan:EECS-2012-98,
+Author= {Zhan, Jiening},
+Title= {Structured Codes in Information Theory: MIMO and Network Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-98.html},
+Number= {UCB/EECS-2012-98},
+Abstract= {Though random codes are shown to be optimal for point-to-point channels, codes with algebraic structure are found to be useful in many network scenarios. This thesis demonstrates the role of structured codes in several network and MIMO settings. In MIMO channels, structured codes can be used to improve receiver design. Traditional receiver architectures decorrelate the mixed data streams and recover each of them individually. Although optimal when the channel matrix is orthogonal, this can be highly sub-optimal when the channel is near singular. To overcome this limitation, a new architecture that recovers linear combinations of the data streams instead of the data streams individually is proposed. The proposed integer-forcing receiver outperforms traditional linear architectures and achieves the optimal diversity-multiplexing tradeoff. In network information theory, it has been shown that structured codes are useful for computation over multiple-access channels. This thesis considers function computation across general relay networks and proposes a scheme that decouples the physical and network layers. By using lattice codes in the physical layer and network codes in the network layer, the proposed scheme achieves the optimal distortion to within a constant factor. Finally, structured codes can be used to efficiently transmit channel state information when global channel state information is absent in networks. It is shown that sending a function of the channel state information is sufficient and can be much more efficient than sending the full information.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhan, Jiening
+%T Structured Codes in Information Theory: MIMO and Network Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-98
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-98.html
+%F Zhan:EECS-2012-98

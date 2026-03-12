@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS47C
+Course: CS47C | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS47C
+CS 47C. Completion of Work in Computer Science 61C
+Catalog Description:  MIPS instruction set simulation. The assembly and linking process. Caches and virtual memory. Pipelined computer organization. Students with sufficient partial credit in 61C may, with consent of instructor, complete the credit in this self-paced course.
+Units:  1.0
+Prerequisites:  Experience with assembly language including writing an interrupt handler, COMPSCI 9C, and consent of instructor.
+Credit Restrictions:  Students will receive no credit for COMPSCI 47C after completing COMPSCI 61C, or COMPSCI 61CL.
+Formats:  Fall: 0 hours of self-paced per week
+Spring: 0 hours of self-paced per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives:  CS47C brings students through a series of abstractions from high-level programming through machine architecture to logic design. The C programming language, MIPS assembly language, and schematic diagrams are used to introduce the abstractions. The course closely follows the Patterson and Hennessy textbook, supplemented by material on the C programming language and notes on the design of synchronous digital systems.
+Topics Covered:
+Course activities include programming assignments and quizzes; quizzes focus on low-level language details or programming techniques, while programming assignments are broader in scope. One of the programs is a substantial project comprising several hundred lines of code. The list of programming assignments appears below. The topics of assembly and linking are covered in a quiz. Programs are coded in the C programming language.
+MIPS interpreter: Students write a simulator for a subset of the MIPS machine language.
+Cache exercises: Students add cache simulation, and infer cache characteristics from access time data.
+Virtual memory exercises: These exercises are drawn from the Patterson and Hennessy textbook. They deal with the mechanisms of address translation and page table use.
+Pipeline exercises: These exercises are drawn from the Patterson and Hennessy textbook. They involve identifying and optimizing pipeline hazards in program code.

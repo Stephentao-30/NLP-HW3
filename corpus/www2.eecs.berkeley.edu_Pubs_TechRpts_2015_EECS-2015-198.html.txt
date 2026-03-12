@@ -1,0 +1,56 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-198.html
+Building Reliable Distributed Systems With P | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Building Reliable Distributed Systems With P
+Building Reliable Distributed Systems With P
+Ankush Desai, Ethan Jackson, Amar Phanishayee, Shaz Qadeer and Sanjit A. Seshia
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-198
+September 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-198.pdf
+Fault-tolerant distributed systems are difficult to get right because they must deal with concurrency and failures. Despite decades of research, current approaches for a more rigorous way of building robust distributed systems are unsatisfactory. In this paper, we present P, a new approach that makes it easier to build, specify, and test distributed systems. Our programming framework provides two important features. First, we provide a high-level language for formally specifying implementations, abstractions, and specifications of protocols. The P compiler automatically generates efficient C code from the input program. Second, we provide a tool for compositional systematic testing of a P program. Together, these attributes have the power to generate and reproduce within minutes, executions that could take months or even years to manifest in a live distributed system.
+BibTeX citation:
+@techreport{Desai:EECS-2015-198,
+Author = {Desai, Ankush and Jackson, Ethan and Phanishayee, Amar and Qadeer, Shaz and Seshia, Sanjit A.},
+Title = {Building Reliable Distributed Systems With P},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-198.html},
+Number = {UCB/EECS-2015-198},
+Abstract = {Fault-tolerant distributed systems
+are difficult to get right because they must deal with concurrency and failures.
+Despite decades of research, current
+approaches for a more rigorous way of building robust
+distributed systems are unsatisfactory.
+In this paper, we present P, a new approach that makes it easier
+to build, specify, and test distributed systems.
+Our programming framework provides two important features.
+First, we provide a high-level language for formally specifying implementations,
+abstractions, and specifications of protocols.
+The P compiler automatically generates efficient C code from
+the input program.
+Second, we provide a tool for compositional systematic testing of a
+P program.
+Together, these attributes have the power to generate and reproduce within minutes,
+executions that could take months or even years to manifest in a live
+distributed system.}
+}
+EndNote citation:
+%0 Report
+%A Desai, Ankush
+%A Jackson, Ethan
+%A Phanishayee, Amar
+%A Qadeer, Shaz
+%A Seshia, Sanjit A.
+%T Building Reliable Distributed Systems With P
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 September 15
+%@ UCB/EECS-2015-198
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-198.html
+%F Desai:EECS-2015-198

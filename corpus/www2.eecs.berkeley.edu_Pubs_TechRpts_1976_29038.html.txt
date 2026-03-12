@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29038.html
+Normal Modes of a Loss Cone Plasma Slab with Steep Density Gradient
+M.J. Gerver and C.K. Birdsall
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M602
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-602.pdf
+BibTeX citation:
+@techreport{Gerver:M602,
+Author= {Gerver, M.J. and Birdsall, C.K.},
+Title= {Normal Modes of a Loss Cone Plasma Slab with Steep Density Gradient},
+Year= {1976},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29038.html},
+Number= {UCB/ERL M602},
+}
+EndNote citation:
+%0 Report
+%A Gerver, M.J.
+%A Birdsall, C.K.
+%T Normal Modes of a Loss Cone Plasma Slab with Steep Density Gradient
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M602
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29038.html
+%F Gerver:M602

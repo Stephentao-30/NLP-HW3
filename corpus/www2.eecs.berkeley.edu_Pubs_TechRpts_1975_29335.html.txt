@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29335.html
+Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems
+Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems
+F.M. Callier, W.S. Chan and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M565
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-565.pdf
+BibTeX citation:
+@techreport{Callier:M565,
+Author = {Callier, F.M. and Chan, W.S. and Desoer, C.A.},
+Title = {Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29335.html},
+Number = {UCB/ERL M565}
+}
+EndNote citation:
+%0 Report
+%A Callier, F.M.
+%A Chan, W.S.
+%A Desoer, C.A.
+%T Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M565
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29335.html
+%F Callier:M565

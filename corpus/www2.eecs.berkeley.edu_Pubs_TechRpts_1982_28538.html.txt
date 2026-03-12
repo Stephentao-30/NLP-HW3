@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28538.html
+A Simple Secure Pseudo-Random Number Generator | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Simple Secure Pseudo-Random Number Generator
+A Simple Secure Pseudo-Random Number Generator
+L. Blum, M. Blum and M. Shub
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/65
+September 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-65.pdf
+BibTeX citation:
+@techreport{Blum:M82/65,
+Author = {Blum, L. and Blum, M. and Shub, M.},
+Title = {A Simple Secure Pseudo-Random Number Generator},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28538.html},
+Number = {UCB/ERL M82/65}
+}
+EndNote citation:
+%0 Report
+%A Blum, L.
+%A Blum, M.
+%A Shub, M.
+%T A Simple Secure Pseudo-Random Number Generator
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28538.html
+%F Blum:M82/65

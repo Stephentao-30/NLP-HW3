@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28574.html
+Choice Theory for Cardinal Scales I: Ratio-Scales
+S.V. Ovchinnikov
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/18
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-18.pdf
+BibTeX citation:
+@techreport{Ovchinnikov:M81/18,
+Author= {Ovchinnikov, S.V.},
+Title= {Choice Theory for Cardinal Scales I: Ratio-Scales},
+Year= {1981},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28574.html},
+Number= {UCB/ERL M81/18},
+}
+EndNote citation:
+%0 Report
+%A Ovchinnikov, S.V.
+%T Choice Theory for Cardinal Scales I: Ratio-Scales
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28574.html
+%F Ovchinnikov:M81/18

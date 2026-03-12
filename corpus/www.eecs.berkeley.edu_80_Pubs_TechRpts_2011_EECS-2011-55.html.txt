@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-55.html
+The impact of causality on information-theoretic source and channel coding problems
+Harikrishna R Palaiyanur
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-55
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-55.pdf
+This thesis studies several problems in information theory where the notion of causality comes into play. Causality in information theory refers to the timing of when information is available to parties in a coding system.
+The first part of the thesis studies the error exponent (or reliability function) for several communication problems over discrete memoryless channels. In particular, it studies an upper bound to the error exponent, or equivalently, a lower bound to the error probability of general codes, called the Haroutunian exponent. The Haroutunian exponent is the best known upper bound to the error exponent for two channel coding problems: fixed blocklength coding with feedback and fixed delay coding without feedback. For symmetric channels like the binary symmetric channel and the binary erasure channel, the Haroutunian exponent evaluates to the sphere-packing exponent, but for asymmetric channels like the Z-channel, the Haroutunian exponent is strictly larger than the sphere-packing exponent. The reason for the presumed looseness of the Haroutunian exponent is that it assumes, despite the inherent causality of feedback, a code might be able to predict future channel behavior based on past channel behavior and accordingly tune its input distribution.  Intuitively, this kind of noncausal information should not be available to an encoder when the channel is memoryless. While we have not been able to tighten the Haroutunian exponent to the sphere-packing exponent for fixed blocklength codes with feedback, we describe some attempts made at bridging the gap. Additionally, we describe how to tighten the upper bound for two cases when the encoder is somehow limited: if the encoding strategy is constrained to use fixed type inputs regardless of output sequence and if there is a delay in the feedback path. The latter of these results leads to the insight that the Haroutunian exponent of a parallel channel constructed of independent uses of the original asymmetric channel approaches the sphere-packing exponent of the original channel after normalization. This fact can then be used to show that the error exponent for fixed delay codes is upper bounded by the sphere-packing exponent.
+The second part of the thesis studies lossy compression of the arbitrarily varying sources introduced by Berger in his paper entitled `The Source Coding Game'. An arbitrarily varying source is a model for a source that samples other subsources under the control of an agent called a switcher. Motivated by compression of active vision sources, we seek upper and lower bounds for the rate-distortion function of an arbitrarily varying source when the switcher has noncausal knowledge about the realizations of the subsources it samples from. We find that when the subsources are memoryless, noncausal knowledge of subsource realizations is strictly better than information about past subsource realizations only.
+Advisors:  Anant Sahai
+BibTeX citation:
+@phdthesis{Palaiyanur:EECS-2011-55,
+Author= {Palaiyanur, Harikrishna R},
+Title= {The impact of causality on information-theoretic source and channel coding problems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-55.html},
+Number= {UCB/EECS-2011-55},
+Abstract= {This thesis studies several problems in information theory where the notion of causality comes into play. Causality in information theory refers to the timing of when information is available to parties in a coding system.
+The first part of the thesis studies the error exponent (or reliability function) for several communication problems over discrete memoryless channels. In particular, it studies an upper bound to the error exponent, or equivalently, a lower bound to the error probability of general codes, called the Haroutunian exponent. The Haroutunian exponent is the best known upper bound to the error exponent for two channel coding problems: fixed blocklength coding with feedback and fixed delay coding without feedback. For symmetric channels like the binary symmetric channel and the binary erasure channel, the Haroutunian exponent evaluates to the sphere-packing exponent, but for asymmetric channels like the Z-channel, the Haroutunian exponent is strictly larger than the sphere-packing exponent. The reason for the presumed looseness of the Haroutunian exponent is that it assumes, despite the inherent causality of feedback, a code might be able to predict future channel behavior based on past channel behavior and accordingly tune its input distribution.  Intuitively, this kind of noncausal information should not be available to an encoder when the channel is memoryless. While we have not been able to tighten the Haroutunian exponent to the sphere-packing exponent for fixed blocklength codes with feedback, we describe some attempts made at bridging the gap. Additionally, we describe how to tighten the upper bound for two cases when the encoder is somehow limited: if the encoding strategy is constrained to use fixed type inputs regardless of output sequence and if there is a delay in the feedback path. The latter of these results leads to the insight that the Haroutunian exponent of a parallel channel constructed of independent uses of the original asymmetric channel approaches the sphere-packing exponent of the original channel after normalization. This fact can then be used to show that the error exponent for fixed delay codes is upper bounded by the sphere-packing exponent.
+The second part of the thesis studies lossy compression of the arbitrarily varying sources introduced by Berger in his paper entitled `The Source Coding Game'. An arbitrarily varying source is a model for a source that samples other subsources under the control of an agent called a switcher. Motivated by compression of active vision sources, we seek upper and lower bounds for the rate-distortion function of an arbitrarily varying source when the switcher has noncausal knowledge about the realizations of the subsources it samples from. We find that when the subsources are memoryless, noncausal knowledge of subsource realizations is strictly better than information about past subsource realizations only.},
+}
+EndNote citation:
+%0 Thesis
+%A Palaiyanur, Harikrishna R
+%T The impact of causality on information-theoretic source and channel coding problems
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-55
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-55.html
+%F Palaiyanur:EECS-2011-55

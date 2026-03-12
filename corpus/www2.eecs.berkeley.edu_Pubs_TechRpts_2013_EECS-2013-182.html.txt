@@ -1,0 +1,10 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-182.html
+A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting
+THIS REPORT HAS BEEN WITHDRAWN
+Yu-Hsiang Chen and Ben Zhang and Claire Tuna and Yang Li and Edward A. Lee and Björn Hartmann
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-182
+November 4, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2013-182.pdf
+We introduce a novel method for selecting and controlling smart appliances in physical spaces through a head-worn computing device with near-eye display and wireless communication. We augment a commercial wearable computing device, Google Glass, with a narrow-beam IR emitter for this purpose. This configuration yields a usable beam width of 2 to 4 feet (60 to 120cm) for targeting at room scale. We describe a disambiguation technique if infrared targeting hits multiple targets simultaneously. A target acquisition study with 14 participants shows that selection using head orientation with our device outperforms list selection on a wearable device. We also report qualitative data from using our device to control multiple appliances in a smart home scenario.
+Author Comments:

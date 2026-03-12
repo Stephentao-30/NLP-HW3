@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28711.html
+State Vectors: A Preliminary Survey
+W.D. Maurer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M347
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-347.pdf
+BibTeX citation:
+@techreport{Maurer:M347,
+Author= {Maurer, W.D.},
+Title= {State Vectors: A Preliminary Survey},
+Year= {1972},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28711.html},
+Number= {UCB/ERL M347},
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T State Vectors: A Preliminary Survey
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M347
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28711.html
+%F Maurer:M347

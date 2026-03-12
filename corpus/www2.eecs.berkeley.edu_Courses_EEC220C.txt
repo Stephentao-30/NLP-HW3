@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EEC220C
+EE C220C. Experiential Advanced Control Design II
+Catalog Description:  Experience-based learning in design, analysis, & verification of automatic control for uncertain systems. The course emphasizes use of practical algorithms, including thorough computer implementation for representative problems. The student will master skills needed to apply advanced model-based control analysis, design, and estimation to a variety of industrial applications. First-principles analysis is provided to explain and support the algorithms & methods. The course emphasizes model-based state estimation, including the Kalman filter, and particle filter. Optimal feedback control of uncertain systems is also discussed (the linear quadratic Gaussian problem) as well as considerations of transforming continuous-time to discrete time.
+Units:  3
+Also Offered As:  MEC ENG C231B
+Prerequisites:  Undergraduate controls course (e.g. MECENG 132, ELENG 128)
+Recommended: MECENG C231A/ELENG C220B and either MECENG C232/ELENG C220A or ELENG 221A
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  No final exam
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

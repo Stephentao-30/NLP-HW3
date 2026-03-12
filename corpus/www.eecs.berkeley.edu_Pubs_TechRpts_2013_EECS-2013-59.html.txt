@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-59.html
+AdDroid: Privilege Separation for Applications and Advertisers in Android
+Paul Pearce and Adrienne Porter Felt and Gabriel Nunez and David Wagner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-59
+May 14,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-59.pdf
+Advertising is a critical part of the Android ecosystem— many applications use one or more advertising services as a source of revenue. To use these services, developers must bundle third-party, binary-only libraries into their applications. In this model, applications and their advertising libraries share permissions. Advertising-supported applications must request multiple privacy-sensitive permissions on behalf of their advertising libraries, and advertising libraries receive access to all of their host applications’ other permissions. We conducted a study of the Android Market and found that 49% of Android applications contain at least one advertising library, and these libraries overprivilege 46% of advertising-supported applications. Further, we find that 56% of the applications with advertisements that request location (34% of all applications) do so only because of advertisements. Such pervasive overprivileging is a threat to user privacy. We introduce AdDroid, a privilege separated advertising framework for the Android platform. AdDroid introduces a new advertising API and corresponding advertising permissions for the Android platform. This enables AdDroid to separate privileged advertising functionality from host applications, allowing applications to show advertisements without requesting privacy-sensitive permissions.
+Advisors:  David Wagner and Vern Paxson
+BibTeX citation:
+@mastersthesis{Pearce:EECS-2013-59,
+Author= {Pearce, Paul and Felt, Adrienne Porter and Nunez, Gabriel and Wagner, David},
+Title= {AdDroid: Privilege Separation for Applications and Advertisers in Android},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-59.html},
+Number= {UCB/EECS-2013-59},
+Abstract= {Advertising is a critical part of the Android ecosystem— many applications use one or more advertising services as a source of revenue. To use these services, developers must bundle third-party, binary-only libraries into their applications. In this model, applications and their advertising libraries share permissions. Advertising-supported applications must request multiple privacy-sensitive permissions on behalf of their advertising libraries, and advertising libraries receive access to all of their host applications’ other permissions. We conducted a study of the Android Market and found that 49% of Android applications contain at least one advertising library, and these libraries overprivilege 46% of advertising-supported applications. Further, we find that 56% of the applications with advertisements that request location (34% of all applications) do so only because of advertisements. Such pervasive overprivileging is a threat to user privacy. We introduce AdDroid, a privilege separated advertising framework for the Android platform. AdDroid introduces a new advertising API and corresponding advertising permissions for the Android platform. This enables AdDroid to separate privileged advertising functionality from host applications, allowing applications to show advertisements without requesting privacy-sensitive permissions.},
+}
+EndNote citation:
+%0 Thesis
+%A Pearce, Paul
+%A Felt, Adrienne Porter
+%A Nunez, Gabriel
+%A Wagner, David
+%T AdDroid: Privilege Separation for Applications and Advertisers in Android
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 14
+%@ UCB/EECS-2013-59
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-59.html
+%F Pearce:EECS-2013-59

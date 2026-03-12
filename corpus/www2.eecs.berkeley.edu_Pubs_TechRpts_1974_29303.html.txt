@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29303.html
+A Note on Finding the Bridges of a Graph | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Note on Finding the Bridges of a Graph
+A Note on Finding the Bridges of a Graph
+R. Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M427
+February 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-427.pdf
+BibTeX citation:
+@techreport{Tarjan:M427,
+Author = {Tarjan, R. Endre},
+Title = {A Note on Finding the Bridges of a Graph},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29303.html},
+Number = {UCB/ERL M427}
+}
+EndNote citation:
+%0 Report
+%A Tarjan, R. Endre
+%T A Note on Finding the Bridges of a Graph
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M427
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29303.html
+%F Tarjan:M427

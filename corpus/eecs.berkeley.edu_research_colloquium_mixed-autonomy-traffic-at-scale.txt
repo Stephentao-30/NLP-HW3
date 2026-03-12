@@ -1,0 +1,21 @@
+URL: https://eecs.berkeley.edu/research/colloquium/mixed-autonomy-traffic-at-scale
+Mixed-Autonomy Traffic at Scale - EECS at Berkeley
+Mixed-Autonomy Traffic at Scale
+Alexandre Bayen   gives his talk “Mixed-Autonomy Traffic at Scale” on Sept. 11, 2024.
+EECS Colloquium
+Wednesday, September 11, 2024
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Alexandre Bayen
+Director, CITRIS and the Banatao Institute
+Associate Provost, Berkeley Space Center
+Liao-Cho Professor of Electrical Engineering and Computer Sciences, UC Berkeley
+Abstract
+This lecture will present the story of the MegaVanderTest, a test involving 100 self-driving vehicles, which ran the week of Nov. 18, 2022, on I24 in Nashville, TN. The MegaVanderTest is the test that achieved the largest concentration of self-driving vehicles collaboratively controlling traffic on a single stretch of freeway in the history of self-driving vehicles. The talk will first cover the architecture built and deployed by the CIRCLES team. It will present some of the algorithms populating the planning layer of the system, mostly based on optimal control and imitation learning of Kernel-based expert controllers. It will also present some of the algorithms populating the local control regulation layer, based on deep-reinforcement learning and MPC. Finally, it will present the way the algorithms had to run in the field, due to the fact that most modern ACC architectures do not always open access to all sensed quantities collected by onboard instrumentation.
+Biography
+Alexandre Bayen is director of CITRIS and the Banatao Institute, associate provost for the Berkeley Space Center, and Liao-Cho Innovation Endowed Chair and professor of electrical engineering and computer sciences and of civil and environmental engineering at UC Berkeley. He received an Engineering Degree in applied mathematics from the Ecole Polytechnique, France, in 1998, and an M.S. and Ph.D. in aeronautics and astronautics from Stanford University in 1999 and 2004, respectively. He was a Visiting Researcher at NASA Ames Research Center from 2000 to 2003. Between January 2004 and December 2004, he worked as the Research Director of the Autonomous Navigation Laboratory at the Laboratoire de Recherches Balistiques et Aerodynamiques, (Ministere de la Defense, Vernon, France), where he holds the rank of Major.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

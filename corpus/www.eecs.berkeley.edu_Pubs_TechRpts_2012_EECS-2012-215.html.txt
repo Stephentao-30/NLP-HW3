@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-215.html
+Autotuning Sparse Matrix-Vector Multiplication for Multicore
+Jong-Ho Byun and Richard Lin and Katherine A. Yelick and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-215
+November 28,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-215.pdf
+Sparse matrix-vector multiplication (SpMV) is an important kernel in scientific and engineering computing. Straightforward parallel implementations of SpMV often perform poorly, and with the increasing variety of architectural features in multicore processors, it is getting more difficult to determine the sparse matrix data structure and corresponding SpMV implementation that optimize performance. In this paper we present pOSKI, an autotuning system for SpMV that automatically searches over a large set of possible data structures and implementations to optimize SpMV performance on multicore platforms. pOSKI explores a design space that depends on both the nonzero pattern of the sparse matrix, typically not known until run-time, and the architecture, which is explored off-line as much as possible, in order to reduce tuning time. We demonstrate significant performance improvements compared to previous serial and parallel implementations, and compare performance to upper bounds based on architectural models.
+BibTeX citation:
+@techreport{Byun:EECS-2012-215,
+Author= {Byun, Jong-Ho and Lin, Richard and Yelick, Katherine A. and Demmel, James},
+Title= {Autotuning Sparse Matrix-Vector Multiplication for Multicore},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-215.html},
+Number= {UCB/EECS-2012-215},
+Abstract= {Sparse matrix-vector multiplication (SpMV) is an important kernel in scientific and engineering computing. Straightforward parallel implementations of SpMV often perform poorly, and with the increasing variety of architectural features in multicore processors, it is getting more difficult to determine the sparse matrix data structure and corresponding SpMV implementation that optimize performance. In this paper we present pOSKI, an autotuning system for SpMV that automatically searches over a large set of possible data structures and implementations to optimize SpMV performance on multicore platforms. pOSKI explores a design space that depends on both the nonzero pattern of the sparse matrix, typically not known until run-time, and the architecture, which is explored off-line as much as possible, in order to reduce tuning time. We demonstrate significant performance improvements compared to previous serial and parallel implementations, and compare performance to upper bounds based on architectural models.},
+}
+EndNote citation:
+%0 Report
+%A Byun, Jong-Ho
+%A Lin, Richard
+%A Yelick, Katherine A.
+%A Demmel, James
+%T Autotuning Sparse Matrix-Vector Multiplication for Multicore
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 28
+%@ UCB/EECS-2012-215
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-215.html
+%F Byun:EECS-2012-215

@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-126.html
+Perfect strong scaling using no additional energy
+James Demmel and Andrew Gearhart and Oded Schwartz and Benjamin Lipshitz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-126
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-126.pdf
+Energy efficiency of computing devices has become a dominant area of research interest in recent years. Most of this work is focused on architectural techniques to improve power and energy efficiency; only a few consider saving energy at the algorithmic level. We prove that a region of perfect strong scaling in energy exists for matrix multiplication (classical and Strassen) and the direct (O(n2)) n-body problem via the use of .5D algorithms: This means that we can increase the number of processors by a constant factor, with the runtime (both computation and communication) decreasing by the same factor, and the total energy used remaining constant.
+BibTeX citation:
+@techreport{Demmel:EECS-2012-126,
+Author= {Demmel, James and Gearhart, Andrew and Schwartz, Oded and Lipshitz, Benjamin},
+Title= {Perfect strong scaling using no additional energy},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-126.html},
+Number= {UCB/EECS-2012-126},
+Abstract= {Energy efficiency of computing devices has become a dominant area of research interest in recent years. Most of this work is focused on architectural techniques to improve power and energy efficiency; only a few consider saving energy at the algorithmic level. We prove that a region of perfect strong scaling in energy exists for matrix multiplication (classical and Strassen) and the direct (O(n2)) n-body problem via the use of .5D algorithms: This means that we can increase the number of processors by a constant factor, with the runtime (both computation and communication) decreasing by the same factor, and the total energy used remaining constant.},
+}
+EndNote citation:
+%0 Report
+%A Demmel, James
+%A Gearhart, Andrew
+%A Schwartz, Oded
+%A Lipshitz, Benjamin
+%T Perfect strong scaling using no additional energy
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-126
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-126.html
+%F Demmel:EECS-2012-126

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29281.html
+Polynomial Bounded and (Apparently) Non Polynomial Bounded Matroid Computations
+E.L. Lawler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M332
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-332.pdf
+BibTeX citation:
+@techreport{Lawler:M332,
+Author= {Lawler, E.L.},
+Title= {Polynomial Bounded and (Apparently) Non Polynomial Bounded Matroid Computations},
+Year= {1972},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29281.html},
+Number= {UCB/ERL M332},
+}
+EndNote citation:
+%0 Report
+%A Lawler, E.L.
+%T Polynomial Bounded and (Apparently) Non Polynomial Bounded Matroid Computations
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M332
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29281.html
+%F Lawler:M332

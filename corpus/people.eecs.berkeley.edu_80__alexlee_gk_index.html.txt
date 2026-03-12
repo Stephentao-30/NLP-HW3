@@ -1,0 +1,10 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/index.html
+Alex X. Lee
+Alex X. Lee
+Home
+Publications
+Google Scholar
+GitHub
+I am currently a Senior Research Scientist at  DeepMind .
+I am interested in methods that can enable robots to acquire complex sensorimotor skills in the real world. This involves methods that can reason with raw sensor measurements and efficiently learn from real-world data, including model-based and model-free reinforcement learning, imitation learning, representation learning, and transfer learning.
+I completed a Ph.D. in Computer Science and a B.S. in Electrical Engineering and Computer Science at  University of California, Berkeley . My Ph.D. work focused on learning visual dynamics models for robots and using these models for control and planning. Previously, I have also worked on motion planning, learning from demonstations, and visual tracking. See my  publications  for a comprehensive list.

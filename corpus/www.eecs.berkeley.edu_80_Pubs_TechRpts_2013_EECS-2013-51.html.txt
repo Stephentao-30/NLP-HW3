@@ -1,0 +1,40 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-51.html
+The BLOG Language Reference
+Lei Li and Stuart J. Russell
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-51
+May 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-51.pdf
+This document introduces the syntax of BLOG, a probabilistic programming language, for describing random variables and their probabilistic dependencies. BLOG defines probabilistic generative models over first-order structures. For example, all Bayesian networks can be easily described by BLOG. BLOG has the following features:
+(a) it employs open-universe semantics;
+(b) it can describe relational uncertainty;
+(c) it can handle identity uncertainty; and
+(d) it is empowered by first-order logic.
+The syntax as described in this document corresponds to BLOG version 0.6. The current version represents a significant redesign and extension to previous versions of BLOG, based on the principles of usability and implementation efficiency.
+BibTeX citation:
+@techreport{Li:EECS-2013-51,
+Author= {Li, Lei and Russell, Stuart J.},
+Title= {The BLOG Language Reference},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-51.html},
+Number= {UCB/EECS-2013-51},
+Abstract= {This document introduces the syntax of BLOG, a probabilistic programming language, for describing random variables and their probabilistic dependencies. BLOG defines probabilistic generative models over first-order structures. For example, all Bayesian networks can be easily described by BLOG. BLOG has the following features:
+(a) it employs open-universe semantics;
+(b) it can describe relational uncertainty;
+(c) it can handle identity uncertainty; and
+(d) it is empowered by first-order logic.
+The syntax as described in this document corresponds to BLOG version 0.6. The current version represents a significant redesign and extension to previous versions of BLOG, based on the principles of usability and implementation efficiency.},
+}
+EndNote citation:
+%0 Report
+%A Li, Lei
+%A Russell, Stuart J.
+%T The BLOG Language Reference
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 8
+%@ UCB/EECS-2013-51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-51.html
+%F Li:EECS-2013-51

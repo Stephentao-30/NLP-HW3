@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-186.html
+Nanodiamond Imaging: Methods and Apparatus | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nanodiamond Imaging: Methods and Apparatus
+Nanodiamond Imaging: Methods and Apparatus
+Alex Hegyi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-186
+December 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-186.pdf
+Nanodiamond imaging is a new molecular imaging modality that takes advantage of optically-detected electron spin resonance of nitrogen-vacancy defects in nanodiamonds to image the distribution of nanodiamonds, non-invasively within a living organism, with high spatial resolution and high sensitivity. Nanodiamonds can be tagged with a range of biologically active molecules such that they distribute within an organism according to the distribution of a biochemical target, such as by selectively concentrating in cancerous tissue. By imaging the spatial distribution of the nanodiamonds with a nanodiamond imaging system, one can thus discern information pertaining to various biological processes. In this project report, we describe the methods and apparatus that constitute nanodiamond imaging, both in terms of the current embodiment as well as in terms of hypothetical approaches that would offer improved performance.
+Advisor:  Eli Yablonovitch
+BibTeX citation:
+@mastersthesis{Hegyi:EECS-2014-186,
+Author = {Hegyi, Alex},
+Title = {Nanodiamond Imaging: Methods and Apparatus},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-186.html},
+Number = {UCB/EECS-2014-186},
+Abstract = {Nanodiamond imaging is a new molecular imaging modality that takes advantage of optically-detected electron spin resonance of nitrogen-vacancy defects in nanodiamonds to image the distribution of nanodiamonds, non-invasively within a living organism, with high spatial resolution and high sensitivity.  Nanodiamonds can be tagged with a range of biologically active molecules such that they distribute within an organism according to the distribution of a biochemical target, such as by selectively concentrating in cancerous tissue.  By imaging the spatial distribution of the nanodiamonds with a nanodiamond imaging system, one can thus discern information pertaining to various biological processes.  In this project report, we describe the methods and apparatus that constitute nanodiamond imaging, both in terms of the current embodiment as well as in terms of hypothetical approaches that would offer improved performance.}
+}
+EndNote citation:
+%0 Thesis
+%A Hegyi, Alex
+%T Nanodiamond Imaging: Methods and Apparatus
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 1
+%@ UCB/EECS-2014-186
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-186.html
+%F Hegyi:EECS-2014-186

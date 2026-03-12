@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28999.html
+On the Efficient Generation of Dynamic Program Profiles
+Luis Felipe Cabrera
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/38
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-38.pdf
+BibTeX citation:
+@techreport{Cabrera:M81/38,
+Author= {Cabrera, Luis Felipe},
+Title= {On the Efficient Generation of Dynamic Program Profiles},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28999.html},
+Number= {UCB/ERL M81/38},
+}
+EndNote citation:
+%0 Report
+%A Cabrera, Luis Felipe
+%T On the Efficient Generation of Dynamic Program Profiles
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/38
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28999.html
+%F Cabrera:M81/38

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-90.html
+Learning Dependency-Based Compositional Semantics
+Percy Shuo Liang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-90
+August 12,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-90.pdf
+Suppose we want to build a system that answers a natural language question by representing its semantics as a logical form and computing the answer given a structured database of facts.  The core part of such a system is the semantic parser that maps questions to logical forms.  Semantic parsers are typically trained from examples of questions annotated with their target logical forms, but this type of annotation is expensive.
+Our goal is to learn a semantic parser from question-answer pairs instead, where the logical form is modeled as a latent variable.  Motivated by this challenging learning problem, we develop a new semantic formalism, dependency-based compositional semantics (DCS), which has favorable linguistic, statistical, and computational properties.  We define a log-linear distribution over DCS logical forms and estimate the parameters using a simple procedure that alternates between beam search and numerical optimization.  On two standard semantic parsing benchmarks, our system outperforms all existing state-of-the-art systems, despite using no annotated logical forms.
+Advisors:  Michael Jordan and Daniel Klein
+BibTeX citation:
+@phdthesis{Liang:EECS-2011-90,
+Author= {Liang, Percy Shuo},
+Title= {Learning Dependency-Based Compositional Semantics},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-90.html},
+Number= {UCB/EECS-2011-90},
+Abstract= {Suppose we want to build a system that answers a natural language question by representing its semantics as a logical form and computing the answer given a structured database of facts.  The core part of such a system is the semantic parser that maps questions to logical forms.  Semantic parsers are typically trained from examples of questions annotated with their target logical forms, but this type of annotation is expensive.
+Our goal is to learn a semantic parser from question-answer pairs instead, where the logical form is modeled as a latent variable.  Motivated by this challenging learning problem, we develop a new semantic formalism, dependency-based compositional semantics (DCS), which has favorable linguistic, statistical, and computational properties.  We define a log-linear distribution over DCS logical forms and estimate the parameters using a simple procedure that alternates between beam search and numerical optimization.  On two standard semantic parsing benchmarks, our system outperforms all existing state-of-the-art systems, despite using no annotated logical forms.},
+}
+EndNote citation:
+%0 Thesis
+%A Liang, Percy Shuo
+%T Learning Dependency-Based Compositional Semantics
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 12
+%@ UCB/EECS-2011-90
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-90.html
+%F Liang:EECS-2011-90

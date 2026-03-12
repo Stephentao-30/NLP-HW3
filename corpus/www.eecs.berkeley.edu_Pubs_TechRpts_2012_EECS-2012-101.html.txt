@@ -1,0 +1,38 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-101.html
+REGIS: A Tool for Building and Distributing Personalized Practice Problems
+Albert Segars
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-101
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-101.pdf
+A wave of web technologies are emerging that allow students to receive immediate feedback, discuss topics with instructors, and learn from their peers.  Many of these tools offer improvements over the traditional classroom experience, but very few provide effective ways for students and instructors to connect with each other over domain-specific knowledge as a means of engaging with the material.
+REGIS is a tool for developing and distributing customized problems to groups.  The system has been designed primarily for college-level students, but is intended to be general enough to apply in a variety of other settings as well, e.g. K-12, informal study groups, and online courses.  Instructors and students are able to create questions, submit answers, instantly provide feedback to students, and receive measurable results about student learning and comprehension.  The system uses an interface based on a flash card analogy and is available online under an open source license.
+We have developed REGIS for use in our non-majors computing course at UC Berkeley and launched the software to our students during the spring of 2012, monitoring usage statistics and gathering student feedback at the end of the semester.  Initial feedback suggests that students are interested in using REGIS to help them practice, but may need a more structured means of interacting with the system than we provided in our trial.
+Advisors:  Dan Garcia
+BibTeX citation:
+@mastersthesis{Segars:EECS-2012-101,
+Author= {Segars, Albert},
+Editor= {Garcia, Dan and Song, Dawn},
+Title= {REGIS: A Tool for Building and Distributing Personalized Practice Problems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-101.html},
+Number= {UCB/EECS-2012-101},
+Abstract= {A wave of web technologies are emerging that allow students to receive immediate feedback, discuss topics with instructors, and learn from their peers.  Many of these tools offer improvements over the traditional classroom experience, but very few provide effective ways for students and instructors to connect with each other over domain-specific knowledge as a means of engaging with the material.
+REGIS is a tool for developing and distributing customized problems to groups.  The system has been designed primarily for college-level students, but is intended to be general enough to apply in a variety of other settings as well, e.g. K-12, informal study groups, and online courses.  Instructors and students are able to create questions, submit answers, instantly provide feedback to students, and receive measurable results about student learning and comprehension.  The system uses an interface based on a flash card analogy and is available online under an open source license.
+We have developed REGIS for use in our non-majors computing course at UC Berkeley and launched the software to our students during the spring of 2012, monitoring usage statistics and gathering student feedback at the end of the semester.  Initial feedback suggests that students are interested in using REGIS to help them practice, but may need a more structured means of interacting with the system than we provided in our trial.},
+}
+EndNote citation:
+%0 Thesis
+%A Segars, Albert
+%E Garcia, Dan
+%E Song, Dawn
+%T REGIS: A Tool for Building and Distributing Personalized Practice Problems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-101
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-101.html
+%F Segars:EECS-2012-101

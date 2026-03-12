@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29342.html
+Sub-Optimum Solution of the Back-Board Ordering with Channel Capacity Constraint
+S. Goto and I. Cederbaum and B.S. Ting
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M598
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-598.pdf
+BibTeX citation:
+@techreport{Goto:M598,
+Author= {Goto, S. and Cederbaum, I. and Ting, B.S.},
+Title= {Sub-Optimum Solution of the Back-Board Ordering with Channel Capacity Constraint},
+Year= {1976},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29342.html},
+Number= {UCB/ERL M598},
+}
+EndNote citation:
+%0 Report
+%A Goto, S.
+%A Cederbaum, I.
+%A Ting, B.S.
+%T Sub-Optimum Solution of the Back-Board Ordering with Channel Capacity Constraint
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M598
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29342.html
+%F Goto:M598

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28885.html
+Progress in Numerical Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Progress in Numerical Analysis
+Progress in Numerical Analysis
+B. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/26
+April 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-26.pdf
+BibTeX citation:
+@techreport{Parlett:M77/26,
+Author = {Parlett, B.},
+Title = {Progress in Numerical Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28885.html},
+Number = {UCB/ERL M77/26}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.
+%T Progress in Numerical Analysis
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28885.html
+%F Parlett:M77/26

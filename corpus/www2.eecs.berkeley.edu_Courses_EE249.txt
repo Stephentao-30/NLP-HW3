@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE249
+EE 249. Embedded System Design: Models, Validation, and Synthesis
+Catalog Description:  Principles of embedded system design. Focus on design methodologies and foundations. Platform-based design and communication-based design and their relationship with design time, re-use, and performance. Models of computation and their use in design capture, manipulation, verification, and synthesis. Mapping into architecture and system platforms. Performance estimation. Scheduling and real-time requirements. Synchronous languages and time-triggered protocols to simplify the design process. Simulation techniques for highly programmable platforms. Synthesis and successive refinement: meta-model of computation. Use of design tools and analysis of their capabilities and limitations: Ptolemy, POLIS, Metropolis, VCC, Co-ware.
+Units:  4
+Prerequisites:  Background in SoC design, operating systems and compilers, or consent of instructor.
+Formats:  Spring: 4 hours of lecture per week
+Fall: 4 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class homepage
+on inst.eecs
+Department Notes:  Lectures and Discussion: TuTh 11-12:30PM, Tu 5-6PM, 521 Cory	Lab: Th 4-6PM, 299 Cory
+Instructor:	Alberto Sangiovanni-Vincentelli (alberto@eecs.berkeley.edu)
+GSI: 		Pierluigi Nuzzo (nuzzo@eecs.berkeley.edu)
+CCN:  25709, 26035		Units: 4
+The emerging information technology scenario features a swarm of devices that are immersed in all kinds of physical processes and offer a variety of personal or broad use services, from health monitoring to vehicle, building and power management. In these cyber-physical systems computing, networking and control are combined with mechanical, electrical and chemical processes. The increasing sophistication of these systems requires innovations in several technology domains as well as design methodologies. This class merges theoretical aspects with applications to give students a grasp of the fundamentals of system design as well as a taste of the problems posed by complex applications. It presents theories, design methods and tools that help handle the growing complexity and heterogeneity of embedded and cyber-physical systems. Approaches to a new “system science” are demonstrated, where heterogeneity, concurrency, multiple levels of abstraction play a fundamental role and where a set of correct-by-construction refinement and composition techniques are used to substantially reduce design time and errors. System-level design methodologies and tools will be illustrated on several applications including car electronics, building automation and electrical power systems control. During the Lab sessions, methodologies and tools will be demonstrated on industrial strength platforms together with specific design cases. During the discussion sessions, recent results and papers will be presented to the class by the students.

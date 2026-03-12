@@ -1,0 +1,42 @@
+URL: https://eecs.berkeley.edu/book/2020-2/schedule-5
+BEARS 2020 Schedule - EECS at Berkeley
+BEARS 2020 Schedule
+Time
+Presentation
+9:00 – 9:05
+Opening Remarks:  EECS Chairs
+9:05 – 9:30
+Presentation of  Distinguished Alumni Awards
+9:30 – 10:00
+Plenary Talk:  Towards Safe Learning   –  Claire Tomlin   Model-based control is a popular paradigm for robot navigation because it can leverage a known dynamics model to efficiently plan robust robot trajectories.  The key challenge in robot navigation is safely and efficiently operating in environments which are unknown ahead of time, and can only be partially observed through sensors on the robot.  In this talk, we present our work in coupling learning-based perception with model-based control, and discuss how safe learning might be achieved in this context.
+This is joint work with Somil Bansal, Varun Tolani, Andrea Bajcsy, Saurabh Gupta, Eli Bronstein, and Jitendra Malik.
+10:00 – 10:20
+RISELab :  Michael Mahoney
+10:20 – 10:55
+Plenary Talk:  Turing’s Baby: A research agenda for embodied, grounded AI  –  Jitendra Malik
+10:55 – 11:20
+FHL VIVE Center :  Allen Yang
+11:20 – 11:40
+BSAC :  Clark Nguyen  and  Kris Pister
+11:40 – 12: 00
+BAIR :  Trevor Darrell
+12:00 – 1:10
+Lunch
+1:10 – 1:30
+ADEPT :  Krste Asanović
+1:30 – 1:50
+BETR :  Jeff Bokor
+1:50 – 2:10
+BWRC :  Borivoje Nikolic
+2:10 – 2:50
+Plenary Talk:  The Endgame for Moore’s Law in Science  –  Katherine Yelick   Single processor clock speed scaling ended over a decade ago, and transistor sizes are approaching atomic scales, while the demand for computing in science and engineering continues to grow.  In addition to modeling simulation problems there are new performance drivers from increased density, speed and ubiquity of data collection devices, as well as new techniques for learning models from observational data.  Future computing system designs will be constrained by power density and total system energy, and data movement dominating running time and energy costs.  The endgame for Moores Law will require rethinking our models of computation to minimize communication, expose fine-grained parallelism, and manage new specialized hardware features. Drawing on examples from metagenome analysis, imaging, and simulation, I will describe ways in which the scientific computing community is both adapting to and influencing the next generation of high end computer architectures.
+2:50 – 3:20
+Plenary Talk:  Human-Centric Computing  –  Jan Rabaey
+3:20 – 3:25
+Q & A
+3:25 – 3:30
+Closing Remarks
+< BEARS 2020 Centers and Labs
+BEARS 2020 Parking & Transportation >
+View
+Open Faculty Positions

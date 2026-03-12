@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28647.html
+The Capacity of Classes of Unknown Channels | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Capacity of Classes of Unknown Channels
+The Capacity of Classes of Unknown Channels
+L.J. Forys and P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M242
+March 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-242.pdf
+BibTeX citation:
+@techreport{Forys:M242,
+Author = {Forys, L.J. and Varaiya, P.P.},
+Title = {The Capacity of Classes of Unknown Channels},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28647.html},
+Number = {UCB/ERL M242}
+}
+EndNote citation:
+%0 Report
+%A Forys, L.J.
+%A Varaiya, P.P.
+%T The Capacity of Classes of Unknown Channels
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M242
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28647.html
+%F Forys:M242

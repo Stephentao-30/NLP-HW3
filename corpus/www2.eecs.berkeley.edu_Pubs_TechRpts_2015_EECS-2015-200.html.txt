@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-200.html
+Intuitive Appliance Identification using Image Matching in Smart Buildings | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Intuitive Appliance Identification using Image Matching in Smart Buildings
+Intuitive Appliance Identification using Image Matching in Smart Buildings
+Kaifei Chen, John Kolb, Jonathan Fürst, Dezhi Hong, David E. Culler and Randy H. Katz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-200
+September 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-200.pdf
+The number of smart appliances is rapidly increasing to foster the Internet of Things. However, identifying an appliance for interaction in a building is also becoming more confusing. Most work on simplifying contextual appliance identification and selection either requires extra effort from users or infrastructure deployments. In this paper, we present an intuitive system for users to "look up" appliances in a smart building using an image. It constructs an annotated 3D visual model of a building interior using RGB-D cameras and matches a user-provided image on the model to determine the appliances in the image. Our system matched 98% images on a public robot-collected dataset and achieved 100% recall and precision among them. We also deployed the system in our lab with human captured RGB-D videos and images, which have more degrees of freedom and noise than robots. We matched 71% of the images. Of the matched images, 63% of them achieved 80% recall, and 78% achieved 80% precision.
+BibTeX citation:
+@techreport{Chen:EECS-2015-200,
+Author = {Chen, Kaifei and Kolb, John and Fürst, Jonathan and Hong, Dezhi and Culler, David E. and Katz, Randy H.},
+Title = {Intuitive Appliance Identification using Image Matching in Smart Buildings},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-200.html},
+Number = {UCB/EECS-2015-200},
+Abstract = {The number of smart appliances is rapidly increasing to foster the Internet of Things. However, identifying an appliance for interaction in a building is also becoming more confusing. Most work on simplifying contextual appliance identification and selection either requires extra effort from users or infrastructure deployments. In this paper, we present an intuitive system for users to "look up" appliances in a smart building using an image.  It constructs an annotated 3D visual model of a building interior using RGB-D cameras and matches a user-provided image on the model to determine the appliances in the image. Our system matched 98% images on a public robot-collected dataset and achieved 100% recall and precision among them. We also deployed the system in our lab with human captured RGB-D videos and images, which have more  degrees of freedom and noise than robots. We matched 71% of the images. Of the matched images, 63% of them achieved 80% recall, and 78% achieved 80% precision.}
+}
+EndNote citation:
+%0 Report
+%A Chen, Kaifei
+%A Kolb, John
+%A Fürst, Jonathan
+%A Hong, Dezhi
+%A Culler, David E.
+%A Katz, Randy H.
+%T Intuitive Appliance Identification using Image Matching in Smart Buildings
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 September 15
+%@ UCB/EECS-2015-200
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-200.html
+%F Chen:EECS-2015-200

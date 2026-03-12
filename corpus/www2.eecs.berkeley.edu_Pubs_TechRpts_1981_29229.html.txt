@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29229.html
+The Design and Implementation of Query Modification in the Data Base Management System Ingres
+Eric Allman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/11
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-11.pdf
+BibTeX citation:
+@techreport{Allman:M81/11,
+Author= {Allman, Eric},
+Title= {The Design and Implementation of Query Modification in the Data Base Management System Ingres},
+Year= {1981},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29229.html},
+Number= {UCB/ERL M81/11},
+}
+EndNote citation:
+%0 Report
+%A Allman, Eric
+%T The Design and Implementation of Query Modification in the Data Base Management System Ingres
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29229.html
+%F Allman:M81/11

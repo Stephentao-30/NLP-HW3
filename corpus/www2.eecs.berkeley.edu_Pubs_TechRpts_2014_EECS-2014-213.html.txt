@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-213.html
+Selectively De-animating and Stabilizing Videos | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Selectively De-animating and Stabilizing Videos
+Selectively De-animating and Stabilizing Videos
+Jiamin Bai
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-213
+December 11, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-213.pdf
+This thesis presents three systems for editing the motion of videos. First, selectively de-animating videos seeks to remove the large-scale motions of one or more objects so that other motions are easier to see. The user draws strokes to indicate the regions that should be immobilized, and our algorithm warps the video to remove large-scale motion in regions while leaving finer-scale, relative motions intact. We then use a graph-cut-based optimization to composite the warped video with still frames from the input video to remove unwanted background motion. Our technique enables applications such as clearer motion visualization, simpler creation of artistic cinemagraphs, and new ways to edit appearance and motion paths in video. Second, we design a fully automatic system to create portrait cinemagraphs by tracking facial features and de-animating the video with respect to the face and torso. We then generate compositing weights automatically to create the final cinemagraph portraits.
+Third, we present a user-assisted video stabilization algorithm that is able to stabilize challenging videos when state-of-the-art automatic algorithms fail to generate a satisfactory result. Our system introduces two new modes of interaction that allow the user to improve an unsatisfactory automatically stabilized video. First, we cluster tracks and visualize them on the warped video. The user ensures that appropriate tracks are selected by clicking on track clusters to include or exclude them to guide the stabilization. Second, the user can directly specify how regions in the output video should look by drawing quadrilaterals to select and deform parts of the frame. Our algorithm then computes a stabilized video using the user-selected tracks, while respecting the user-modified regions.
+Advisor:  Ravi Ramamoorthi
+BibTeX citation:
+@phdthesis{Bai:EECS-2014-213,
+Author = {Bai, Jiamin},
+Title = {Selectively De-animating and Stabilizing Videos},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-213.html},
+Number = {UCB/EECS-2014-213},
+Abstract = {This thesis presents three systems for editing the motion of videos. First, selectively de-animating videos seeks to remove the large-scale motions of one or more objects so that other motions are easier to see. The user draws strokes to indicate the regions that should be immobilized, and our algorithm warps the video to remove large-scale motion in regions while leaving finer-scale, relative motions intact. We then use a graph-cut-based optimization to composite the warped video with still frames from the input video to remove unwanted background motion. Our technique enables applications such as clearer motion visualization, simpler creation of artistic cinemagraphs, and new ways to edit appearance and motion paths in video. Second, we design a fully automatic system to create portrait cinemagraphs by tracking facial features and de-animating the video with respect to the face and torso. We then generate compositing weights automatically to create the final cinemagraph portraits.
+Third, we present a user-assisted video stabilization algorithm that is able to stabilize challenging videos when state-of-the-art automatic algorithms fail to generate a satisfactory result. Our system introduces two new modes of interaction that allow the user to improve an unsatisfactory automatically stabilized video. First, we cluster tracks and visualize them on the warped video. The user ensures that appropriate tracks are selected by clicking on track clusters to include or exclude them to guide the stabilization. Second, the user can directly specify how regions in the output video should look by drawing quadrilaterals to select and deform parts of the frame. Our algorithm then computes a stabilized video using the user-selected tracks, while respecting the user-modified regions.}
+}
+EndNote citation:
+%0 Thesis
+%A Bai, Jiamin
+%T Selectively De-animating and Stabilizing Videos
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 11
+%@ UCB/EECS-2014-213
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-213.html
+%F Bai:EECS-2014-213

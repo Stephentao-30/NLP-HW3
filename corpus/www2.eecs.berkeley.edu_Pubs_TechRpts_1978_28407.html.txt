@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28407.html
+Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix
+Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix
+A. Sangiovanni-Vincentelli and T.A. Bickart
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/74
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-74.pdf
+BibTeX citation:
+@techreport{Sangiovanni-Vincentelli:M78/74,
+Author = {Sangiovanni-Vincentelli, A. and Bickart, T.A.},
+Title = {Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28407.html},
+Number = {UCB/ERL M78/74}
+}
+EndNote citation:
+%0 Report
+%A Sangiovanni-Vincentelli, A.
+%A Bickart, T.A.
+%T Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/74
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28407.html
+%F Sangiovanni-Vincentelli:M78/74

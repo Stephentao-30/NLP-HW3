@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28951.html
+Reachability Analysis for Discrete Time Stochastic Hybrid Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Reachability Analysis for Discrete Time Stochastic Hybrid Systems
+Reachability Analysis for Discrete Time Stochastic Hybrid Systems
+Saurabh Amin, Alessandro Abate, Maria Prandini, John Lygeros and Shankar Sastry
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M05/34
+November 2005
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/ERL-05-34.pdf
+BibTeX citation:
+@techreport{Amin:M05/34,
+Author = {Amin, Saurabh and Abate, Alessandro and Prandini, Maria and Lygeros, John and Sastry, Shankar},
+Title = {Reachability Analysis for Discrete Time Stochastic Hybrid Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2005},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28951.html},
+Number = {UCB/ERL M05/34}
+}
+EndNote citation:
+%0 Report
+%A Amin, Saurabh
+%A Abate, Alessandro
+%A Prandini, Maria
+%A Lygeros, John
+%A Sastry, Shankar
+%T Reachability Analysis for Discrete Time Stochastic Hybrid Systems
+%I EECS Department, University of California, Berkeley
+%D 2005
+%@ UCB/ERL M05/34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28951.html
+%F Amin:M05/34

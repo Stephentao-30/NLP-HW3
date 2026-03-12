@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-68.html
+Monte Carlo Methods for Multiple Target Tracking and Parameter Estimation
+Daniel Duckworth
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-68
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-68.pdf
+Multiple Target Tracking (MTT) is the problem of identifying and estimating the state of an unknown, time-varying number of targets.  A successful algorithm will identify how many unique targets have existed, at what times they were active, and what sequence of states they followed when active.
+This work presents two novel algorithms for MTT, Particle Markov Chain Monte Carlo Data Association (PMCMCDA) and Particle Filter Data Association (PFDA).  These algorithms consider MTT in a Bayesian Framework and seek to approximate the posterior distribution over track states, data associations, and model parameters by combining Markov Chain Monte Carlo and Particle Filtering to perform approximate inference.  Both algorithms are evaluated experimentally on two pedagogical examples, and proofs of convergence in the limit of infinite samples are given.
+Advisors:  Stuart J. Russell
+BibTeX citation:
+@mastersthesis{Duckworth:EECS-2012-68,
+Author= {Duckworth, Daniel},
+Title= {Monte Carlo Methods for Multiple Target Tracking and Parameter Estimation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-68.html},
+Number= {UCB/EECS-2012-68},
+Abstract= {Multiple Target Tracking (MTT) is the problem of identifying and estimating the state of an unknown, time-varying number of targets.  A successful algorithm will identify how many unique targets have existed, at what times they were active, and what sequence of states they followed when active.
+This work presents two novel algorithms for MTT, Particle Markov Chain Monte Carlo Data Association (PMCMCDA) and Particle Filter Data Association (PFDA).  These algorithms consider MTT in a Bayesian Framework and seek to approximate the posterior distribution over track states, data associations, and model parameters by combining Markov Chain Monte Carlo and Particle Filtering to perform approximate inference.  Both algorithms are evaluated experimentally on two pedagogical examples, and proofs of convergence in the limit of infinite samples are given.},
+}
+EndNote citation:
+%0 Thesis
+%A Duckworth, Daniel
+%T Monte Carlo Methods for Multiple Target Tracking and Parameter Estimation
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-68
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-68.html
+%F Duckworth:EECS-2012-68

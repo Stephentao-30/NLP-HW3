@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29007.html
+Periodic Responses of Nonlinear Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Periodic Responses of Nonlinear Feedback Systems
+Periodic Responses of Nonlinear Feedback Systems
+A.R. Bergen and R.L. Franks
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M258
+December 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-258.pdf
+BibTeX citation:
+@techreport{Bergen:M258,
+Author = {Bergen, A.R. and Franks, R.L.},
+Title = {Periodic Responses of Nonlinear Feedback Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29007.html},
+Number = {UCB/ERL M258}
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Franks, R.L.
+%T Periodic Responses of Nonlinear Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M258
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29007.html
+%F Bergen:M258

@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC267?_ga=2.73023888.2061532024.1614303377-1804943039.1610738057
+CS C267. Applications of Parallel Computers
+Catalog Description:  Models for parallel programming.  Overview of parallelism in scientific applications and study of parallel algorithms for linear algebra, particles, meshes, sorting, FFT, graphs, machine learning, etc. Survey of parallel machines and machine structures. Programming shared- and distributed-memory parallel computers, GPUs, and cloud platforms. Parallel programming languages, compilers, libraries and toolboxes. Data partitioning techniques. Techniques for synchronization and load balancing. Detailed study and algorithm/program development of medium sized applications.
+Units:  3-4
+Also Offered As:  ENGIN C233
+Related Areas:
+Programming Systems (PS)   Scientific Computing (SCI)
+Prerequisites:  No formal pre-requisites.
+Prior programming experience with a low-level language such as C, C++, or Fortran is recommended but not required.
+CS C267 is intended to be useful for students from many departments and with different backgrounds, although we will assume reasonable programming skills in a conventional (non-parallel) language, as well as enough mathematical skills to understand the problems and algorithmic solutions presented.
+Formats:  Spring: 3.0-3.0 hours of lecture and  1.0-1.0 hours of laboratory per week
+Fall: 3.0-3.0 hours of lecture and  1.0-1.0 hours of laboratory per week
+Grading Basis:  letter
+Final Exam Status:  No final exam
+Class Schedule (Spring 2025):
+CS C267 –                TuTh 11:00-12:29, Soda 306 –
+Aydin Buluc ,  James W Demmel Class Notes
+* Time conflicts WILL be allowed.
+* The class will be recorded for playback later.
+* NO undergraduate students will be allowed to enroll in this class.
+Class homepage
+on inst.eecs
+Links:
+CS enrollment policies
+EE enrollment policies
+HKN course maps

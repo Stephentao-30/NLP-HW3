@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28485.html
+Performance Enhancements to a Relational Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Performance Enhancements to a Relational Data Base System
+Performance Enhancements to a Relational Data Base System
+Michael Stonebraker, John Woodfill, Jeff Ranstrom, Marguerite Murphy, Marc Meyer and Eric Allman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/62
+August 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-62.pdf
+BibTeX citation:
+@techreport{Stonebraker:M81/62,
+Author = {Stonebraker, Michael and Woodfill, John and Ranstrom, Jeff and Murphy, Marguerite and Meyer, Marc and Allman, Eric},
+Title = {Performance Enhancements to a Relational Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28485.html},
+Number = {UCB/ERL M81/62}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Woodfill, John
+%A Ranstrom, Jeff
+%A Murphy, Marguerite
+%A Meyer, Marc
+%A Allman, Eric
+%T Performance Enhancements to a Relational Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/62
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28485.html
+%F Stonebraker:M81/62

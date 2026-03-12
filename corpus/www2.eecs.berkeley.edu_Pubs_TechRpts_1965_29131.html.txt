@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29131.html
+An Algorithm for Reducing a Linear, Time-Invariant Differential System to State Form | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Reducing a Linear, Time-Invariant Differential System to State Form
+An Algorithm for Reducing a Linear, Time-Invariant Differential System to State Form
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M140
+July 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-140.pdf
+BibTeX citation:
+@techreport{Polak:M140,
+Author = {Polak, E.},
+Title = {An Algorithm for Reducing a Linear, Time-Invariant Differential System to State Form},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29131.html},
+Number = {UCB/ERL M140}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T An Algorithm for Reducing a Linear, Time-Invariant Differential System to State Form
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M140
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29131.html
+%F Polak:M140

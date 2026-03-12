@@ -1,0 +1,132 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999
+Technical Reports - 1999
+An Efficient Method for Mining Association Rules with Item Constraints  (CSD-99-1089) Shin-Mu Vincent Tseng
+Sampling from Gibbs Distributions  (CSD-99-1088) Eric Joseph Vigoda
+Minerva: An Adaptive Subblock Coherence Protocol for Improved SMP Performance  (CSD-99-1087) Jeffrey B. Rothman and Alan Jay Smith
+A Classification of Symbolic Transition Systems  (CSD-99-1086) Thomas A. Henzinger and Rupak Majumdar
+Dynamic Memory Model based Optimization of Scalar and Vector Quantizer Encoder  (CSD-99-1085) Gene Cheung and Steven McCanne
+TCP Performance over Satellite Channels  (CSD-99-1083) Thomas R. Henderson and Randy H. Katz
+Visualizing Fuzzy Points in Parallel Coordinates  (CSD-99-1082) Michael R. Berthold and Lawrence O. Hall
+Creating a Customized Access Method for Blobworld  (CSD-99-1081) Megan Thomas
+An Network Measurement Architecture for Adaptive Applications  (CSD-99-1080) Mark Richard Stemm
+Interpreting Fuzzy Models: the Discriminative Power of Input Features  (CSD-99-1079) Rosaria Silipo and Michael R. Berthold
+Continuous Query Optimization  (CSD-99-1078) Ron Avnur and Joseph M. Hellerstein
+Non-Transparent Debugging of Optimized Code  (CSD-99-1077) Caroline Mae Tice
+Axioms for Real-Time Logics  (CSD-99-1076) Pierre-Yves Schobbens, Jean-Francois Raskin, Thomas A. Henzinger and L. Ferier
+Symbolic Representation of Upwards Closed Sets  (CSD-99-1075) Giorgio Delzanno and Jean-Francois Raskin
+Temporal Logics, Automata, and Classical Theories for Defining Real-Time Languages  (CSD-99-1074) Thomas A. Henzinger, Jean-Francois Raskin and Pierre-Yves Schobbens
+Robust Undecidability of Timed and Hybrid Systems  (CSD-99-1073) Thomas A. Henzinger and Jean-Francois Raskin
+Type Systems for Distributed Data Structures  (CSD-99-1072) Ben Liblit and Alexander Aiken
+I/O Reference Behavior of Production Database Workloads and the TPC Benchmarks - An Analysis at the Logical Level  (CSD-99-1071) Windsor W. Hsu, Alan Jay Smith and Honesty C. Young
+Analysis of the Characteristics of Production Database Workloads and Comparison with the TPC Benchmarks  (CSD-99-1070) Windsor W. Hsu, Alan Jay Smith and Honesty C. Young
+Visual Similarity of Pen Gestures  (CSD-99-1069) A. Chris Long, James A. Landay, Lawrence A. Rowe and Joseph Michiels
+The Breadcrumb Forwarding Service and the Digital Fountain Rainbow: Toward a TCP-Friendly Reliable Multicast  (CSD-99-1068) Koichi Yano and Steven McCanne
+Vector IRAM Memory Performance for Image Access Patterns  (CSD-99-1067) Richard M. Fromm
+Characterizing Large Storage Systems: Error Behavior and Performance Benchmarks  (CSD-99-1066) Nisha Darshi Talagala
+DENIM: Finding a Tighter Fit Between Tools and Practice for Web Site Design  (CSD-99-1065) James Lin, Mark Newman, Jason I. Hong and James A. Landay
+Analysis of Shared Memory Misses and Reference Patterns  (CSD-99-1064) Jeffrey B. Rothman and Alan Jay Smith
+Microbenchmark-based Extraction of Local and Global Disk Characteristics  (CSD-99-1063) Nisha Talagala, Remzi H. Arpaci-Dusseau and D. Patterson
+Sitemaps, Storyboards, and Specifications: A Sketch of Web Site Design Practice as Manifested Through Artifacts  (CSD-99-1062) Mark W. Newman and James A. Landay
+Network Provisioning and Resource Management for IP Telephony  (CSD-99-1061) Chen-Nee Chuah and Randy H. Katz
+Jagged Bite Problem NP-Complete Construction  (CSD-99-1060) Kris Hildrum and Megan Thomas
+A Media-Enhanced Vector Architecture for Embedded Memory Systems  (CSD-99-1059) Christoforos Kozyrakis
+SATIN: A Toolkit for Informal Ink-based Applications  (CSD-99-1058) James I. Hong and James A. Landay
+Projecting the Performance of Decision Support Workloads on Systems with Smart Storage (SmartSTOR)  (CSD-99-1057) Windsor W. Hsu, Alan J. Smith and Honesty C. Young
+Janus: an Approach for Confinement of Untrusted Applications  (CSD-99-1056) David A. Wagner
+A Systematic Characterization of Application Sensitivity to Network Performance  (CSD-99-1055) Richard Paul Martin
+Multiprocessor Memory Reference Generation Using Cerberus  (CSD-99-1054) Jeffrey B. Rothman and Alan Jay Smith
+A Case for Flow-Adaptive Wireless Links  (CSD-99-1053) Reiner Ludwig
+Implicit Coscheduling: Coordinated Scheduling with Implicit Information in Distributed Systems  (CSD-99-1052) Andrea Carol Arpaci-Dusseau
+An Analysis Framework for Access Methods  (CSD-99-1051) Marcel Kornacker, Mehul Shah and Joseph M. Hellerstein
+Reliable Multicast Protocol Specialization for Caching and Collaboration within the World-Wide Web  (CSD-99-1050) L. Kristin Wright
+A Scalable Framework for Secure Multicast  (CSD-99-1049) Sreedhar Mukkamalla and Randy H. Katz
+Personal Mobility in the ICEBERG Integrated Communication Network  (CSD-99-1048) Bhaskaran Raman, Randy H. Katz and Anthony D. Joseph
+Learning Mixtures of Gaussians  (CSD-99-1047) Sanjoy Dasgupta
+Correctness of Belief Propogation in Gaussian Graphical Models of Arbitrary Topology  (CSD-99-1046) Yair Weiss and William T. Freeman
+Symbolic Layout Evaluator for Floor Plans  (CSD-99-1045) Amy Shih-Chun Hsu
+Rectangular Hybrid Games (Extended Abstract)  (CSD-99-1044) Thomas A. Henzinger, Benjamin Horowitz and Rupak Majumdar
+Online Dynamic Reordering for Interactive Data Processing  (CSD-99-1043) Vijayshankar Raman, Bhaskaran Raman and Joseph M. Hellerstein
+An Analysis of Error Behavior in a Large Storage System  (CSD-99-1042) Nisha Talagala and David Patterson
+Blobworld: a System for Region-Based Image Indexing and Retrieval (long version)  (CSD-99-1041) Chad Carson, Megan Thomas, Serge Belongie, Joseph M. Hellerstein and Jitendra Malik
+Software Synthesis of Variable-length Code Decoder using a Mixture of Programmed Logic and Table Lookups  (CSD-99-1040) Gene Cheung, Steven McCanne and Christos Papadimitriou
+Execution Time of Symmetric Eigensolvers  (CSD-99-1039) Kendall Swenson Stanley
+Analysis of Personal Computer Workloads  (CSD-99-1038) Min Zhou and Alan Jay Smith
+Tracing Windows95  (CSD-99-1037) Min Zhou and Alan Jay Smith
+Parallel Multigrid Algorithms for Unstructured 3D Large Deformation Elasticity and Plasticity Finite Element Problems  (CSD-99-1036) Mark Adams
+The Pool of Subsectors Cache Design  (CSD-99-1035) Jeffrey B. Rothman and Alan Jay Smith
+Sector Cache Design and Performance  (CSD-99-1034) Jeffrey B. Rothman and Alan Jay Smith
+Multigrid Equation Solvers for Large Scale Nonlinear Finite Element Simulations  (CSD-99-1033) Mark Francis Adams
+A Compact and Universal RTD-Based CNN Cell: Circuit, Piecewise-Linear Model, and Functional Capabilities  (M99/72) R. Dogaru, Leon O. Chua and M. Hänggi
+The Mechanism of Radiation Induced Densification in Fused Silica  (M99/71) F. Piao
+Cross-Talk Noise Immune VLSI Design Using Regular Layout Fabrics  (M99/70) Sunil P. Khatri
+Geographical Routing Using Partial Information for Wireless Ad Hoc Networks  (M99/69) R. Jain, A. Puri and R. Sengupta
+Theory and Simulation of Oscillations on Near-Steady State in Crossed-Field Electron Flow and the Resulting Transport  (M99/68) K.L. Cartwright
+Ion Acoustic Waves and Solitons in Bounded Plasmas  (M99/67) K.L. Cartwright
+The Design and Implementation of a Downconversion Mixer for a Wideband CDMA Mixed Receiver  (M99/66) B. Limketkai
+Controlled Invariance of Discrete Time Systems  (M99/65) R. Vidal, S. Schaffert, J. Lygeros and S. Shankar Sastry
+Landing an Unmanned Air Vehicle: Vision Based Motion Estimation and Nonlinear Control  (M99/64) O. Shakernia
+Embedded Software - An Agenda for Research  (M99/63) Edward A. Lee
+Algebraic Methods for Multi-Valued Logic  (M99/62) Robert K. Brayton
+A Low-Power, 8-Bit, 200 MHz Digital-to- Analog Converter  (M99/61) S. Blackman
+Storm Version 2.0  (M99/60) E. Croffie
+Optimal Motion Estimation from Multiple Images by Normalized Epipolar Constraint  (M99/59) Y. Ma, R. Vidal, S. Hsu and S. Shankar Sastry
+Physical and Numerical Methods of Speeding Up Particle Codes and Paralleling as Applied to RF Discharges  (M99/58) E. Kawamura, Charles K. (Ned) Birdsall and V. Vahedi
+Image Denoising and Interpolation Based on Compression and Edge Models  (M99/57) Sai-Hsueh Grace Chang
+From Pre-Historic to Post-Modern Symbolic Model Checking  (M99/56) Thomas A. Henzinger, O. Kupferman and S. Qadeer
+Verifying Sequential Consistency on Shared-Memory Multiprocessor Systems  (M99/55) Thomas A. Henzinger, S. Qadeer and S.K. Rajamani
+Asymptotically Optimal Water Filling in Vector Multiple Access Channels  (M99/54) P. Viswanath, David Tse and Venkat Anantharam
+Recycle, Reuse, Reduce  (M99/53) L.P. Carloni and Alberto L. Sangiovanni-Vincentelli
+Don't Care Wires in Logical/Physical Design  (M99/52) P. Chong, Y. Jiang, S. Khatri, S. Sinha and Robert K. Brayton
+Binary and Multi-Valued SPFD-Based Wire Removal in PLA Networks  (M99/51) S.P. Khatri, S. Sinha, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+A VLSI Design Methodology Using a Network of PLAs Embedded in a Regular Layout Fabric  (M99/50) S.P. Khatri, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Representation of Human Vision in the Brain: How Does Human Perception Recognize Images?  (M99/49) L.W. Stark, M. Azzariti, T. Blackmon, D. Chernyak, Y.F. Ho, C.M. Privitera and H. Yang
+Thermal Effects in Deep Sub-Micron VLSI Interconnects and Implications for Reliability and Performance  (M99/48) Kaustav Banerjee
+Total Capacity of Multi-Access Vector Channels  (M99/47) P. Viswanath and Venkat Anantharam
+Non-Transparent Debugging of Optimized Code  (M99/46) Caroline Mae Tice
+Inter-Module Interconnect Strategy for System on Chip Applications  (M99/45) B. Tabbara and A. Tabbara
+BSIM01 v2.0 MOSFET Model - User's Manual for BSIMFD2.0  (M99/44) Chenming Hu, J-N. Feng, W-D. Liu, S.K.H. Fung, P. Su and S. Tang
+BSIMS01 v2.0 MOSFET Model - User's Manual for BSIM002.0  (M99/43) Chenming Hu, J-N. Feng, W-D. Liu, S.K.H. Fung, P. Su and S. Tang
+Timing Analysis and Optimization for High-Performance Digital Circuits  (M99/42) Yuji Kukimoto
+A Syntactic Method for Analyzing Plasma Etching Signals  (M99/41) Dong Wu Zhao
+Heterogeneous Concurrent Modeling and Design in Java  (M99/40) J. Davis II, M. Goel, C. Hylands, B. Kienhuis, Edward A. Lee, J. Liu, X. Liu, L. Muliadi, S. Neuendorffer, J. Reekie, N. Smyth, J. Tsay and Y. Xiong
+Design Methodologies for RF and Mixed-Signal Systems  (M99/39) Iason Vassiliou
+Simulation-Oriented Behavioral Verification  (M99/38) B. Tabbara and A. Tabbara
+Overview of the Ptolemy Project  (M99/37) J. Davis II, M. Goel, C. Hylands, B. Kienhuis, Edward A. Lee, J. Liu, X. Liu, L. Muliadi, S. Neuendorffer, J. Reekie, N. Smyth, J. Tsay and Y. Xiong
+Cyclostationary Noise in Communication Systems  (M99/36) M.T. Terrovitis and Robert G. Meyer
+A New Fair Window Algorithm for ECN Capable TCP (New-ECN)  (M99/35)  Hamann
+Hybrid Systems: Modeling, Analysis and Control - EECS 291E Lecture Notes and Class Projects  (M99/34) J. Lygeros, S. Shankar Sastry, P. Arroyo, C. Cloet, G. Gomes, B. Horowitz, J. Hu, L. Munoz, J. Musacchio, M. Ozaki, A. Nilim, C. Pinello, O. Shakernia, A. Sweet, B. Sinopoli, Takkuen John Koo, S. Rashid, H. Jin Kim, S. Schaffert, R. Vidal and J. Zhang
+Optimization Criteria and Geometric Algorithms for Motion and Structure Estimation  (M99/33) Y. Ma, J. Kosecka and S. Shankar Sastry
+Camera Self-Calibration: Geometry and Algorithms  (M99/32) Y. Ma, R. Vidal, J. Kosecka and S. Shankar Sastry
+Data Flow and Control for Hardware and Software Co-Synthesis in Embedded Systems  (M99/31) B. Tabbara and Alberto L. Sangiovanni-Vincentelli
+Instabilities in Low Pressure Inductive Discharges with Attaching Gases  (M99/30) M.A. Lieberman, A.J. Lichtenberg and A.M. Marakhtanov
+Discrete Event Modeling in Ptolemy II  (M99/29) L. Muliadi
+In-Situ Etch Rate Sensor Arrays for Plasma Etch Processes  (M99/28) M. Freed
+An Integrated System of Optical Metrology for Deep Submicron Lithography  (M99/27) Xinhui Niu
+Moving Boundary Models and Methods for Deep Submicron Resist Process Simulation  (M99/26) E. Croffie
+Design for Reliability of Low-Voltage, Switched-Capacity Circuits  (M99/25) Andrew M. Abo
+MicroElectroMechanical Devices and Fabrication Technologies for Radio-Frequency Analog Signal Processing  (M99/24) Darrin J. Young
+On the Regulation of Zend Hybrid Automata  (M99/23) K.H. Johansson, M. Egerstedt, J. Lygeros and S. Shankar Sastry
+Visual Search and Display of Metrics Functionality; Experimental Results  (M99/22) L.W. Stark, C.M. Privitera, Y.F. Ho and M. Azzariti
+Resistance Triangle Inequality  (M99/21) Leon O. Chua
+Comparing Human and Computer Top-Down Vision in a Recognition Task: Effects of Blur and Noise  (M99/20) M. Okubo and L.W. Stark
+BSIM3v3.2.1 MOSFET Model Users' Manual  (M99/19) W. Liu, X. Jin, J. Chen, M-C. Jeng, Z. Liu, Y. Cheng, K. Chen, M. Chan, K. Hui, J. Huang, R. Tu, P.K. Ko and Chenming Hu
+BSIM3v3.2.2 MOSFET Model Users' Manual  (M99/18) W. Liu, X. Jin, J. Chen, M-C. Jeng, Z. Liu, Y. Cheng, K. Chen, M. Chan, K. Hui, J. Huang, R. Tu, P.K. Ko and Chenming Hu
+SPFD-Based Wire Removal in a Network of PLAs  (M99/17) S.P. Khatri, S. Sinha, Andreas Kuehlmann, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+A Multi-Layer Area Routing Methodology Using a Boolean Satisfiability Based Router  (M99/16) Y. Jiang, S.P. Khatri, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+Routing Techniques for Deep Sub-Micron Technologies  (M99/15) S.P. Khatri, A. Mehrotra, M.R. Prasad, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Formal Specification and Verification of a Dataflow Processor Array  (M99/14) Thomas A. Henzinger, X. Liu, S. Qadeer and S.K. Rajamani
+An Assume-Guaranteee Rule for Checking Simulation for Multipoint Moment Matching of Multiport Distributed Interconnect Networks  (M99/13) Thomas A. Henzinger, S. Qadeer, S.K. Rajamani, S. Tasiran, J.M.L. Wang and Ernest S. Kuh
+An Algorithm for the Approximative Analysis of Rectangular Automata  (M99/12) J. Preubig, S. Kowalewski, H. Wong-Toi and Thomas A. Henzinger
+Latency Insensitive Protocols  (M99/11) L.P. Carloni, K.L. McMillan and Alberto L. Sangiovanni-Vincentelli
+Simulation Techniques for Noise in Non-Autonomous Radio Frequency Circuits  (M99/10) A. Mehrotra and Alberto L. Sangiovanni-Vincentelli
+Why Is ATPG Easy?  (M99/9) P. Chong, M.R. Prasad and Kurt Keutzer
+Investigation of Plasma Implantation and Gate Oxide Charging During Plasma Processing  (M99/8) Barry P. Linder
+Optimal Power Allocation Over Parallel Gaussian Channels  (M99/7) David Tse
+Autonomous Temperature Sensor for Semiconductor Processing  (M00/6) A. Gleckman
+Capacity and Mutual Information of Wideband Multipath Fading Channels  (M99/6) E. Telatar and David Tse
+Effective Interference and Effective Bandwidth of Linear Multiuser Receivers in Asynchronous Systems  (M99/5)  Kiran and David Tse
+Performance of Linear Multiuser Receivers in Random Environments  (M99/4) David Tse and O. Zeitouni
+Towards a Geometric Theory of Hybrid Systems  (M00/3) Slobodan Simić, K.H. Johansson, S. Shankar Sastry and J. Lygeros
+Issues in TCP Vegas  (M99/3) R.J. La, Jean Walrand and Venkat Anantharam
+Beyond Traditional Transform Coding  (M99/2) Vivek K. Goyal
+Synchronous Equivalence for Embedded Systems: A Tool for Design Exploration  (M99/1) H. Hsieh, F. Balarin and Alberto L. Sangiovanni-Vincentelli

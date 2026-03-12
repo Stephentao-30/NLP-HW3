@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28763.html
+Bounds on Backtrack Algorithms for Listing Cycles, Paths, and Spanning Trees | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Bounds on Backtrack Algorithms for Listing Cycles, Paths, and Spanning Trees
+Bounds on Backtrack Algorithms for Listing Cycles, Paths, and Spanning Trees
+Ronald C. Read and R. Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M433
+December 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-433.pdf
+BibTeX citation:
+@techreport{Read:M433,
+Author = {Read, Ronald C. and Tarjan, R. Endre},
+Title = {Bounds on Backtrack Algorithms for Listing Cycles, Paths, and Spanning Trees},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28763.html},
+Number = {UCB/ERL M433}
+}
+EndNote citation:
+%0 Report
+%A Read, Ronald C.
+%A Tarjan, R. Endre
+%T Bounds on Backtrack Algorithms for Listing Cycles, Paths, and Spanning Trees
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M433
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28763.html
+%F Read:M433

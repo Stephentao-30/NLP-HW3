@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-174.html
+From TPC-C to Big Data Benchmarks: A Functional Workload Model
+Yanpei Chen and Francois Raab and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-174
+July 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-174.pdf
+Big data systems help organizations store, manipulate, and derive value from vast amounts of data. Relational database and MapReduce are two, arguably competing implementations of such systems. They are characterized by very large data volumes, diverse unconventional data types and complex data analysis functions. These properties make it challenging to develop big data benchmarks that reflect real life use cases and cover multiple types of implementation options. In this position paper, we combine experiences from the TPC-C benchmark with emerging insights from MapReduce application domains to argue for using a model based on functions of abstraction to construct future benchmarks for big data systems. In particular, this model describes several components of the targeted workloads: the functional goals that the system must achieve, the representative data access patterns, the scheduling and load variations over time, and the computation required to achieve the functional goals. We show that the TPC-C benchmark already applies such a model to benchmarking transactional systems. A similar model can be developed for other big data systems, such as MapReduce, once additional empirical studies are performed. Identifying the functions of abstraction for a big data application domain represents the first step towards building truly representative big data benchmarks.
+BibTeX citation:
+@techreport{Chen:EECS-2012-174,
+Author= {Chen, Yanpei and Raab, Francois and Katz, Randy H.},
+Title= {From TPC-C to Big Data Benchmarks: A Functional Workload Model},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-174.html},
+Number= {UCB/EECS-2012-174},
+Abstract= {Big data systems help organizations store, manipulate, and derive value from vast amounts of data. Relational database and MapReduce are two, arguably competing implementations of such systems. They are characterized by very large data volumes, diverse unconventional data types and complex data analysis functions. These properties make it challenging to develop big data benchmarks that reflect real life use cases and cover multiple types of implementation options. In this position paper, we combine experiences from the TPC-C benchmark with emerging insights from MapReduce application domains to argue for using a model based on functions of abstraction to construct future benchmarks for big data systems. In particular, this model describes several components of the targeted workloads: the functional goals that the system must achieve, the representative data access patterns, the scheduling and load variations over time, and the computation required to achieve the functional goals. We show that the TPC-C benchmark already applies such a model to benchmarking transactional systems. A similar model can be developed for other big data systems, such as MapReduce, once additional empirical studies are performed. Identifying the functions of abstraction for a big data application domain represents the first step towards building truly representative big data benchmarks.},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yanpei
+%A Raab, Francois
+%A Katz, Randy H.
+%T From TPC-C to Big Data Benchmarks: A Functional Workload Model
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 1
+%@ UCB/EECS-2012-174
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-174.html
+%F Chen:EECS-2012-174

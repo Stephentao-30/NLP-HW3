@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-232.html
+Analysis and Enforcement of Web Application Security Policies
+Joel Weinberger
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-232
+December 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-232.pdf
+Web applications are generally more exposed to untrusted user content than traditional applications. Thus, web applications face a variety of new and unique threats, especially that of content injection. One method for preventing these types of attacks is web application
+security policies. These policies specify the behavior or structure of the web application. The goal of this work is twofold. First, we aim to understand how security policies and their systems are currently applied to web applications. Second, we aim to advance the mechanisms used to apply policies to web applications. We focus on the first part through two studies, examining two classes of current web application security policies. We focus on the second part by studying and working towards two new ways of applying policies. These areas will advance the state of the art in understanding and building web application security policies and provide a foundation for future work in securing web applications.
+Advisors:  Dawn Song
+BibTeX citation:
+@phdthesis{Weinberger:EECS-2012-232,
+Author= {Weinberger, Joel},
+Title= {Analysis and Enforcement of Web Application Security Policies},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-232.html},
+Number= {UCB/EECS-2012-232},
+Abstract= {Web applications are generally more exposed to untrusted user content than traditional applications. Thus, web applications face a variety of new and unique threats, especially that of content injection. One method for preventing these types of attacks is web application
+security policies. These policies specify the behavior or structure of the web application. The goal of this work is twofold. First, we aim to understand how security policies and their systems are currently applied to web applications. Second, we aim to advance the mechanisms used to apply policies to web applications. We focus on the first part through two studies, examining two classes of current web application security policies. We focus on the second part by studying and working towards two new ways of applying policies. These areas will advance the state of the art in understanding and building web application security policies and provide a foundation for future work in securing web applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Weinberger, Joel
+%T Analysis and Enforcement of Web Application Security Policies
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 11
+%@ UCB/EECS-2012-232
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-232.html
+%F Weinberger:EECS-2012-232

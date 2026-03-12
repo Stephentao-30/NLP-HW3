@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-170.html
+Systematic Techniques for Finding and Preventing Script Injection Vulnerabilities
+Prateek Saxena
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-170
+June 29,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-170.pdf
+Computer users trust web applications to protect their financial transactions and online identities from attacks by cyber criminals. However, web applications today are riddled with security flaws which can compromise the security of their web sessions. In this thesis, we address the problem of automatically finding and preventing script injection  vulnerabilities, one of the most prominent classes of web application vulnerabilities at present. Specifically, this thesis makes three contributions towards addressing script injection vulnerabilities. First, we
+propose two techniques that together automatically uncover script injection vulnerabilities in client-side JavaScript components of web applications without raising false positives. Second, we empirically study the use of sanitization, which is the predominant defense technique to prevent these attacks today. We expose two new classes of errors in the practical use of sanitization in shipping web applications and demonstrate weaknesses of emerging defenses employed in widely used web application frameworks. Third, we propose a type-based approach to automatically perform correct sanitization for applications authored in emerging web application frameworks. Finally, we propose a conceptual framework for a sanitization-free defense against script injection vulnerabilities, which can form a robust second line of defense.
+Advisors:  Dawn Song
+BibTeX citation:
+@phdthesis{Saxena:EECS-2012-170,
+Author= {Saxena, Prateek},
+Title= {Systematic Techniques for Finding and Preventing Script Injection Vulnerabilities},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-170.html},
+Number= {UCB/EECS-2012-170},
+Abstract= {Computer users trust web applications to protect their financial transactions and online identities from attacks by cyber criminals. However, web applications today are riddled with security flaws which can compromise the security of their web sessions. In this thesis, we address the problem of automatically finding and preventing script injection  vulnerabilities, one of the most prominent classes of web application vulnerabilities at present. Specifically, this thesis makes three contributions towards addressing script injection vulnerabilities. First, we
+propose two techniques that together automatically uncover script injection vulnerabilities in client-side JavaScript components of web applications without raising false positives. Second, we empirically study the use of sanitization, which is the predominant defense technique to prevent these attacks today. We expose two new classes of errors in the practical use of sanitization in shipping web applications and demonstrate weaknesses of emerging defenses employed in widely used web application frameworks. Third, we propose a type-based approach to automatically perform correct sanitization for applications authored in emerging web application frameworks. Finally, we propose a conceptual framework for a sanitization-free defense against script injection vulnerabilities, which can form a robust second line of defense.},
+}
+EndNote citation:
+%0 Thesis
+%A Saxena, Prateek
+%T Systematic Techniques for Finding and Preventing Script Injection Vulnerabilities
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 29
+%@ UCB/EECS-2012-170
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-170.html
+%F Saxena:EECS-2012-170

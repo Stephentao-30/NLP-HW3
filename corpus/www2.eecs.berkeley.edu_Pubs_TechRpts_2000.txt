@@ -1,0 +1,101 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2000
+Technical Reports - 2000
+Empirical Study of Opportunities for Bit-Level Specialization in Word-Based Programs  (CSD-00-1126) Eylon Caspi
+Measuring the Performance of Multimedia Instruction Sets  (CSD-00-1125) Nathan Slingerland and Alan Jay Smith
+Multimedia Extensions for General Purpose Microprocessors: a Survey  (CSD-00-1124) Nathan Slingerland and Alan Jay Smith
+Cache Performance for Multimedia Applications  (CSD-00-1123) Nathan T. Slingerland and Alan Jay Smith
+Design and Characterization of the Berkeley Multimedia Workload  (CSD-00-1122) Nathan T. Slingerland and Alan Jay Smith
+Giotto: a Time-triggered Language for Embedded Programming  (CSD-00-1121) Thomas A. Henzinger, Benjamin Horowitz and Christoph Meyer Kirsch
+Geometric Algorithms and Data Representation for Solid Freeform Fabrication  (CSD-00-1119) Sara Anne McMains
+Enhancing Graduated Declustering for Better Performance Availability on Clusters  (CSD-00-1118) Noah Treuhaft
+Exploring a New Interaction Paradigm for Collaborating on Handheld Computers  (CSD-00-1117) Mark Bilezikjian, Scott R. Klemmer, Regan L. Mandryk, James A. Landay and Kori M. Inkpen
+A Tangible Evolution: System Architecture and Participatory Design Studies of the Designer's Outpost  (CSD-00-1116) Scott Klemmer, Ryan Farrell, Mark Newman, Raecine Meza and James A. Landay
+Language Support and Compilation Techniques for Regions  (CSD-00-1115) David E. Gay and Alex Aiken
+Multicast Forwarding and Application State Scalability in the Internet  (CSD-00-1114) Tina Han-Ting Wong
+Entailment with Conditional Equality Constraints (Extended Version)  (CSD-00-1113) Zhendong Su and Alexander Aiken
+The XSet XML Search Engine and XBench XML Query Benchmark  (CSD-00-1112) Ben Yanbin Zhao and Anthony Joseph
+The IRAM Network Interface  (CSD-00-1111) Ioannis Mavroidis
+An Interactive Framework for Data Transformation and Cleaning  (CSD-00-1110) Vijayshankar Raman and Joseph M. Hellerstein
+Practical reinforcement learning in continuous domains  (CSD-00-1109) Jeffrey Forbes and David Andre
+A Design Framework for Highly Concurrent Systems  (CSD-00-1108) Matt Welsh, Steven D. Gribble, Eric A. Brewer and David Culler
+An Architectural Performance Study of the Fast Fourier Transform on Vector IRAM  (CSD-00-1106) Randi Thomas
+The State of the Art in Automated Usability Evaluation of User Interfaces  (CSD-00-1105) Melody Y. Ivory and Marti A. Hearst
+Optimizing the Performance of Sparse Matrix-Vector Multiplication  (CSD-00-1104) Eun-Jin Im
+Evaluation of Three Unstructured Multigrid Methods on 3D Finite Element Problems in Solid Mechanics  (CSD-00-1103) Mark F. Adams
+OceanStore: An Extremely Wide-Area Storage System  (CSD-00-1102) David Bindel, Yan Chen, Patrick Eaton, Dennis Geels, Ramakrishna Gummadi, Sean Rhea, Hakim Weatherspoon, Westly Weimer, Christopher Wells, Ben Zhao and John Kubiatowicz
+A Framework for Interactive Multicast Data Transport in the Internet  (CSD-00-1101) Suchitra Raman
+Reducing the Cost of System Administration of a Disk Storage System Built from Commodity Components  (CSD-00-1100) Satoshi Asami
+GridPix -- Presenting Large Image Files Over the Internet  (CSD-00-1099) Satoshi Asami and David A. Patterson
+Bounding Predicates and Insertion Policies for Multidimensional Indexes  (CSD-00-1098) Megan Thomas, Kirby Zhang, Jimmy Shih and Joseph M. Hellerstein
+Polymorphic versus Monomorphic Flow-insensitive Points-to Analysis for C (Extended Version)  (CSD-00-1097) Jeffrey S. Foster, Manuel Fahndrich and Alexander Aiken
+Querying Large Collections of Music for Similarity  (CSD-00-1096) Matt Welsh, Nikita Borisov, Jason Hill, Robert von Behren and Alec Woo
+Tigris: a Java-based Cluster I/O System  (CSD-00-1095) Matt Welsh
+Building VTrace, a Tracer for Windows NT and Windows 2000  (CSD-00-1093) Jacob R. Lorch and Alan Jay Smith
+Market-based Proportional Resource Sharing for Clusters  (CSD-00-1092) Brent N. Chun and David E. Culler
+Robust Hyperlinks Cost Just Five Words Each  (CSD-00-1091) Thomas A. Phelps and Robert Wilensky
+A Dynamic Mesh Display Representation for the Holodeck Ray Cache System  (CSD-00-1090) Maryann Simmons
+Layout Aware Synthesis  (M00/67) Wilsin Gosti
+Addressing the Timing Closure Problem by Integrating Logic Optimization and Placement  (M00/66) W. Gosti, S. P. Khatri and Alberto L. Sangiovanni-Vincentelli
+Adaptive Digital Signal Processing Algorithm for Image-Rejection Mixer Self-Calibration  (M00/65) G. M. Desjardins
+Analysis and Design of Low-Energy Clocked Storage Elements  (M00/64) D. Markovic
+Extreme Ultraviolet (EUV) Holographic Metrology for Lithography Applications  (M00/63) Sang Hun Lee
+Two-Component Plasma Conduction,  (M00/62) J. Lim
+CMOS Baseline Process in the UC Berkeley Microfabrication Lab Report II  (M00/61) L. Voros
+Estimation of Transition Probability Matrices in Credit Risk Analysis  (M00/60) Laurent El Ghaoui, M. Oks and A. Varma
+Worst-Case Value-at-Risk and Robust Asset Allocation: A Semidefinite Programming Approach  (M00/59) Laurent El Ghaoui, F. Oustry and M. Oks
+Effect of Ion Energy on Photoresist Etching in an Inductively Coupled Large Area Plasma Source (LAPS)  (M00/58) K. Takechi and Michael A. Lieberman
+Inference of Link Delay Through Measurement Redundancy in Communication Networks  (M00/57) Y. Xia and David Tse
+Improvement of TCP Performance Over Heterogenous Networks Using Continuous Error Detection Based Link Level Error Recovery  (M00/56) R. Anand, Kannan Ramchandran and S. Shakkottai
+A Ubiquitous Pollutant  (M00/55) Martin H. Graham
+Survey of Single Machine Scheduling with Application to Web Object Transmission  (M00/54) Y. Xia and David Tse
+The WebTP Architecture and Algorithms  (M00/53) Y. Xia, H-S. W. So, Venkat Anantharam, S. McCanne, David Tse, Jean Walrand and Pravin Varaiya
+The Framework of User-Centric Optimization in Web-Based Applications  (M00/52) Y. Xia, H-S. W. So, R. H-J. La, Venkat Anantharam, S. McCanne, David Tse, Jean Walrand and Pravin Varaiya
+Simulation of RTD-Based CNN Cells  (M00/51) M. Hänggi and Leon O. Chua
+Dynamical Systems Revisited: Hybrid Systems with Zend Executions  (M00/50) J. Zhang
+Spatially Resolved Optical Emission Spectroscopy for Plasma Etching  (M00/49) J-W. Lee
+BSIM 4.1.0 MOSFET Model-User's Manual  (M00/48) W. Liu, X. Jin, K.M. Cao and Chenming Hu
+Order and Containment in Concurrent System Design  (M00/47) John S. Davis II
+Hybrid System Design and Embedded Controller Synthesis for Multi-Modal Control  (M00/46) Takkuen John Koo
+Probabilistic Pursuit-Evasion Games: A One-Step Nash Approach  (M00/45) J.P. Hespanha, M. Prandini and S. Shankar Sastry
+Process Variation Analysis for MEMS Design  (M00/44) L. Schenato, W-C. Wu, Laurent El Ghaoui and Kristofer Pister
+Telesurgery and Surgical Simulation: Design, Modeling, and Evaluation of Haptic Interfaces to Real and Virtual Surgical Environments  (M00/43) M. Cenk Cavusoglu
+A Differential Geometric Approach to Computer Vision and Its Applications in Control  (M00/42) Yi Ma
+Eigentaste: A Constant Time Collaborative Filtering Algorithm  (M00/41) Ken Goldberg, T. Roeder, D. Gupta and C. Perkins
+Kinetics of Photoresist Etching in a Large Area Plasma Source (LAPS)  (M00/40) K. Takechi and Michael A. Lieberman
+BSIM 4.0.0 Technical Notes  (M00/39) W. Liu, K.M. Cao, X. Jin and Chenming Hu
+BSIM 4.0.0 MOSFET Model User's Manual  (M00/38) W. Liu, X. Jin, K.M. Cao and Chenming Hu
+Formal Methods for Embedded System Design  (M00/37) Harry C. C. Hsieh
+Model Checking for Hybrid Systems  (M00/36) M. Broucke
+Qualitative Analysis, Model Checking, and Controller Synthesis of Hybrid Systems  (M00/35) Mireille E. Broucke
+Optimal Control Using Bisimulations  (M00/34) M. Broucke, M.D. Di Benedetto, S. Di Gennaro and Alberto L. Sangiovanni-Vincentelli
+An Oxygen Discharge Model for a Large Area Plasma Source (LAPS)  (M00/33) K. Takechi and Michael A. Lieberman
+A 25 Ms/s Nyquist-Rate Sigma-Delta Modulator for a Wideband CDMA Receiver  (M00/32) D.A. Sobel
+Analysis, Simulation, and Applications of Passive Devices on Conductive Substrates  (M00/31) Ali M. Niknejad
+Text/Graphics and Image Transmission over Bandlimited Lossy Links  (M00/30) Jeffrey M. Gilbert
+Specification and Design of Reactive Systems  (M00/29) Bilung Lee
+Deep Submicron Photoresist Modeling and Parameter Extraction  (M00/28) J. Bao
+The Impact of Line Edge Roughness on 100 nm MOSFET Devices  (M00/27) T.T. Nguyen
+Multi-Valued Logic Network Minimization and It's Applications  (M00/26) Y. Jiang
+A Code Generation Framework for Ptolemy II  (M00/25) J. Tsay
+A Monte Carlo Collision Model to Study RF Discharges with a Mixture of Argon and Oxygen  (M00/24) M. Roberto
+Effect of Metastable Atoms in RF Argon Discharges  (M00/23) M. Roberto
+Modeling Field Enhancement in an RF Gap  (M00/22) E. Kawamura, J.P. Verboncoeur and Charles K. (Ned) Birdsall
+Function/Architecture Optimization and Co-Design of Embedded Systems  (M00/21) Bassam Tabbara
+Multiuser Successive Refinement  (M00/20) S.S. Pradhan and Kannan Ramchandran
+Picosecond Ultrasonic Characterization of the Molybdenum/Silicon Multilayers for Extreme Ultraviolet Lithography  (M00/19) Nen-Wen Pu
+Stroboscopic Interferometer System for Dynamic MEMS Characterization  (M00/18) M.R. Hart, R.A. Conant, Kam Y. Lau and Richard S. Muller
+First-Order Algorithms for Optimization Problems with a Maximum Eigenvalue Singular Value Cost and/or Constraints  (M00/17) Elijah Polak
+A Deterministic Nonlinear Capacitor Model for Single-Electron Tunneling Junctions  (M00/16) M. Hänggi and Leon O. Chua
+Operation of a Large Area Plasma Source (LAPS) with Oxygen Gas  (M00/15) K. Takechi and Michael A. Lieberman
+Consistent Approximations and Approximate Functions and Gradients in Optimal Control  (M00/14) O. Pironneau and Elijah Polak
+Charge-Sensitive TCP and Rate Control in the Internet  (M00/13) R.J. La and Venkat Anantharam
+MOML-A Modeling Markup Language in XML-Version 0.4  (M00/12) Edward A. Lee and S. Neuendorffer
+Deep Sub-Micron Photolithography Control Through In-Line Metrology  (M00/11) Nickhil H. Jakatdar
+Single-Electron Tunneling Junction Cellular Nonlinear Networks  (M00/10) T. Yang and Leon O. Chua
+MATPARSER: An Array Dataflow Analysis Comp  (M00/9) B. Kienhuis
+System-Level Types for Component-Based Design  (M00/8) Edward A. Lee and Y. Xiong
+Hardware and Software Representation, Optimization, and Co-Synthesis for Embedded Systems  (M00/7) B. Tabbara, A. Tabbara and Alberto L. Sangiovanni-Vincentelli
+Multirate Simulation for High Fidelity Haptic Interaction with Deformable Objects in Virtual Environments  (M00/5) M.C. Cavusoglu
+Low-Noise Local Oscillator Design Techniques Using a DLL-Based Frequency Multiplier for Wireless Applications  (M00/4) George Chien
+Probabilistic Modeling for Fault Classification of Plasma Equipment  (M00/2) A. M. Ison
+Physical Modeling of RTD-Based CNN Cells  (M00/1) M. Hänggi, R. Dogaru and Leon O. Chua

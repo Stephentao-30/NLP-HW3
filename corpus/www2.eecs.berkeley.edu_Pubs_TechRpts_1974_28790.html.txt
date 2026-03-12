@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28790.html
+Non-Negativity Test of Multidimensional Hermitian Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Non-Negativity Test of Multidimensional Hermitian Matrices
+Non-Negativity Test of Multidimensional Hermitian Matrices
+N.K. Bose
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M486
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-486.pdf
+BibTeX citation:
+@techreport{Bose:M486,
+Author = {Bose, N.K.},
+Title = {Non-Negativity Test of Multidimensional Hermitian Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28790.html},
+Number = {UCB/ERL M486}
+}
+EndNote citation:
+%0 Report
+%A Bose, N.K.
+%T Non-Negativity Test of Multidimensional Hermitian Matrices
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M486
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28790.html
+%F Bose:M486

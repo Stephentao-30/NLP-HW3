@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28628.html
+A Linear Search Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Linear Search Problem
+A Linear Search Problem
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M21
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-21.pdf
+BibTeX citation:
+@techreport{Wong:M21,
+Author = {Wong, E.},
+Title = {A Linear Search Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28628.html},
+Number = {UCB/ERL M21}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T A Linear Search Problem
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28628.html
+%F Wong:M21

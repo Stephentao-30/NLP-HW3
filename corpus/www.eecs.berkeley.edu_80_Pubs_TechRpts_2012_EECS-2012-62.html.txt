@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-62.html
+Metal-optic and Plasmonic Semiconductor-based Nanolasers
+Amit Lakhani
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-62
+May 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-62.pdf
+Over the past few decades, semiconductor lasers have relentlessly followed the path towards miniaturization. Smaller lasers are more energy efficient, are cheaper to make, and open up new applications in sensing and displays, among many other things. Yet, up until recently, there was a fundamental problem with making lasers smaller: purely semiconductor lasers couldn't be made smaller than the diffraction limit of light.
+In recent years, however, metal-based lasers have been demonstrated in the nanoscale that have shattered the diffraction limit. As optical materials, metals can be used to either reflect light (metal-optics) or convert light to electrical currents (plasmonics). In both cases, metals have provided ways to squeeze light beyond the diffraction limit. In this dissertation, I experimentally demonstrated one nanolaser based on plasmonic transduction and another laser based on metal-optic reflection.
+To create coherent plasmons, I designed a nanolaser based on a plasmonic bandgap defect state inside a surface plasmonic crystal. In a one-dimensional periodic semiconductor beam, I was able to confine surface plasmons by interrupting the periodicity of the crystal. These confined surface plasmons then underwent laser oscillations in effective mode volumes as small as 0.007 cubic wavelengths. At this electromagnetic volume, energy was squeezed 10 times smaller than those possible in similar photonic crystals that do not utilize metal. This demonstration should pave the way for achieving engineered nanolasers with deep-subwavelength mode volumes and enable plasmonic crystals to become attractive platforms for designing plasmons.
+After achieving large reductions in electromagnetic mode volumes, I switched to a metal-optics-based nanolaser design to further reduce the physical volumes of small light sources. The semiconductor nanopatch laser achieved laser oscillations with subwavelength-scale physical dimensions (0.019 cubic wavelengths) and effective mode volumes (0.0017 cubic wavelengths). The ultra-small laser volume is achieved with the presence of nanoscale metal patches which suppress electromagnetic radiation into free-space and convert a leaky cavity into a highly-confined subwavelength optical resonator. The nanopatch laser, with its world-record-breaking small physical volume, has exciting implications for data storage, biological sensing, on-chip optical communication, and beyond.
+Advisors:  Ming C. Wu
+BibTeX citation:
+@phdthesis{Lakhani:EECS-2012-62,
+Author= {Lakhani, Amit},
+Editor= {Wu, Ming C. and Zhang, Xiang and Yablonovitch, Eli},
+Title= {Metal-optic and Plasmonic Semiconductor-based Nanolasers},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-62.html},
+Number= {UCB/EECS-2012-62},
+Abstract= {Over the past few decades, semiconductor lasers have relentlessly followed the path towards miniaturization. Smaller lasers are more energy efficient, are cheaper to make, and open up new applications in sensing and displays, among many other things. Yet, up until recently, there was a fundamental problem with making lasers smaller: purely semiconductor lasers couldn't be made smaller than the diffraction limit of light.
+In recent years, however, metal-based lasers have been demonstrated in the nanoscale that have shattered the diffraction limit. As optical materials, metals can be used to either reflect light (metal-optics) or convert light to electrical currents (plasmonics). In both cases, metals have provided ways to squeeze light beyond the diffraction limit. In this dissertation, I experimentally demonstrated one nanolaser based on plasmonic transduction and another laser based on metal-optic reflection.
+To create coherent plasmons, I designed a nanolaser based on a plasmonic bandgap defect state inside a surface plasmonic crystal. In a one-dimensional periodic semiconductor beam, I was able to confine surface plasmons by interrupting the periodicity of the crystal. These confined surface plasmons then underwent laser oscillations in effective mode volumes as small as 0.007 cubic wavelengths. At this electromagnetic volume, energy was squeezed 10 times smaller than those possible in similar photonic crystals that do not utilize metal. This demonstration should pave the way for achieving engineered nanolasers with deep-subwavelength mode volumes and enable plasmonic crystals to become attractive platforms for designing plasmons.
+After achieving large reductions in electromagnetic mode volumes, I switched to a metal-optics-based nanolaser design to further reduce the physical volumes of small light sources. The semiconductor nanopatch laser achieved laser oscillations with subwavelength-scale physical dimensions (0.019 cubic wavelengths) and effective mode volumes (0.0017 cubic wavelengths). The ultra-small laser volume is achieved with the presence of nanoscale metal patches which suppress electromagnetic radiation into free-space and convert a leaky cavity into a highly-confined subwavelength optical resonator. The nanopatch laser, with its world-record-breaking small physical volume, has exciting implications for data storage, biological sensing, on-chip optical communication, and beyond.},
+}
+EndNote citation:
+%0 Thesis
+%A Lakhani, Amit
+%E Wu, Ming C.
+%E Zhang, Xiang
+%E Yablonovitch, Eli
+%T Metal-optic and Plasmonic Semiconductor-based Nanolasers
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 7
+%@ UCB/EECS-2012-62
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-62.html
+%F Lakhani:EECS-2012-62

@@ -1,0 +1,16 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication/nested-pagerank-carrv
+Nested-Parallelism PageRank on RISC-V Vector Multi-Processors | Alon Amid
+Search
+Nested-Parallelism PageRank on RISC-V Vector Multi-Processors
+Alon Amid ,  Albert Ou ,  Krste Asanovic ,  Borivoje Nikolic
+June 2019
+PDF
+Abstract
+Graph processing kernels and sparse-representation linear algebra workloads such as PageRank are increasingly used in machine learning and graph analytics contexts. While data-parallel processing and chip-multiprocessors have both been used in recent years as complementary mitigations to the slowing rate of single-thread performance improvements, they have been used together most effectively on dense data-structure representations as opposed to sparse representations. We present nested-parallelism implementations of PageRank for RISC-V multi-processor Rocket chip SoCs with Hwacha vector architecture accelerators. These software implementations are used for hardware and software design-space exploration using FPGA-accelerated simulation with multiple silicon-proven multi-processor SoC configurations. The design space includes a variety of scalar cores, vector accelerator cores, and cache parameters, as well as multiple software implementations with tunable parallelism parameters. This work shows the benefits of the loop-raking vectorizing technique compared to an alternative vectorizing technique, and presents up to a 14x run-time speedup relative to a parallel-scalar implementation running on the same SoC configuration. A 25x speedup is demonstrated in a dual-tile SoC with dual-lanes-per-tile vector accelerators, compared to a minimal scalar implementation, demonstrating the scalability of the proposed nested-parallelism techniques.
+Type
+Conference paper
+Publication
+In  Third Workshop on Computer Architecture Research with RISC-V (CARRV'19) , co-located with ISCA 2019
+Cite
+Copy
+Download

@@ -1,0 +1,29 @@
+URL: https://people.eecs.berkeley.edu/~elghaoui/Teaching/EECS127
+EECS 127 / 227AT: Optimization Models and Applications
+EECS 127/227AT
+Home
+Logistics
+Material
+Livebook
+Textbook
+References
+Links
+Software
+Piazza
+EECS 127 / 227AT: Optimization Models and Applications   —  Spring 2019
+Instructors:  A. Bayen ,  G. Ranade .
+This course offers an  introduction to optimization  models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization. The course covers two main topics:  practical linear algebra  and  convex optimization .
+The image on the left shows a graph of the Senators in the 2004-2006 US Senate, that is obtained by solving a specific optimization problem involving the estimation of covariance matrices with sparsity constraints. (For more details, see  here .)
+To communicate : We  do not  use this site to communicate, post homeworks, etc. We use  bCourses , and  Piazza  for student-GSI discussions.
+Link to UC Berkeley Schedule of classes :
+EECS 127  and
+EECS 227AT .
+Student Calendar:
+{}{raw}
+<div align=“center”>
+<iframe src=“https: calendar.google.com calendar embed?src=eecs127class 40gmail.com&ctz=America 2FLos_Angeles” style=“border: 0” width=“800” height=“600” frameborder=“0” scrolling=“no”>< iframe> < div>
+Syllabus:   here .
+Midterm 1 : 02/26/19, in class.
+Midterm 2 : 04/11/19, in class.
+Final exam : 05/16/19, 8-11AM.
+Page generated 2019-09-11 16:25:44 PDT, by  jemdoc .

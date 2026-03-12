@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-37.html
+Study of Variability in Advanced Transistor Technologies | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Study of Variability in Advanced Transistor Technologies
+Study of Variability in Advanced Transistor Technologies
+Nattapol Damrongplasit
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-37
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-37.pdf
+As transistor dimensions are scaled down in accordance with Moore’s Law to provide for improved performance and cost per function, variability in transistor performance grows in significance and can present a major challenge for achieving high yield in the manufacture of integrated circuits utilizing transistors with sub-30 nm gate lengths. Increased variability in the threshold voltage (VT) of a transistor ultimately limits the minimum operating voltage for six-transistor (6T) static memory (SRAM) cells, hinders aggressive scaling of cell area, and causes performance degradation in analog circuits. Better understanding and accurate assessment of device variation are needed in order to minimize yield loss and design margin.
+Several variability reduction techniques and variability characterization/modeling methodologies are explored in this work. Device simulations are performed to assess the benefit of super-steep retrograde (SSR) channel doping to reduce variability in transistor performance and thereby extend the scalability of planar bulk-Si CMOS technology with minimal incremental cost. Variability analysis of a 32nm high-permittivity-dielectric/metal gate (HKMG) stack CMOS technology using current-vs.-voltage characteristics of transistors operated in forward (F) and reverse (R) modes measurements is used to explain variabilities in VT and in drain-induced barrier lowering (DIBL) and their correlations, which cannot be captured by a traditional SPICE modeling. Test chips are designed for characterization of systematic and random variability in 16nm and 28nm generation Fully Depleted Silicon-On-Insulator (FDSOI) technologies via device arrays and padded-out SRAM cells.
+The effect of random variability on the performance of a tunnel-field effect transistor (TFET) is also examined. The TFET has emerged as a promising candidate to replace the MOSFET for low-power applications, due to its promise of achieving higher ION/IOFF at low operating voltages. Three-dimensional (3D) device simulations are used to simulate the effects of random dopant fluctuations and line edge roughness on the performance of planar Ge-source and a raised-Ge-source TFET structures.
+Advisor:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Damrongplasit:EECS-2015-37,
+Author = {Damrongplasit, Nattapol},
+Title = {Study of Variability in Advanced Transistor Technologies},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-37.html},
+Number = {UCB/EECS-2015-37},
+Abstract = {As transistor dimensions are scaled down in accordance with Moore’s Law to provide for improved performance and cost per function, variability in transistor performance grows in significance and can present a major challenge for achieving high yield in the manufacture of integrated circuits utilizing transistors with sub-30 nm gate lengths. Increased variability in the threshold voltage (VT) of a transistor ultimately limits the minimum operating voltage for six-transistor (6T) static memory (SRAM) cells, hinders aggressive scaling of cell area, and causes performance degradation in analog circuits. Better understanding and accurate assessment of device variation are needed in order to minimize yield loss and design margin.
+Several variability reduction techniques and variability characterization/modeling methodologies are explored in this work. Device simulations are performed to assess the benefit of super-steep retrograde (SSR) channel doping to reduce variability in transistor performance and thereby extend the scalability of planar bulk-Si CMOS technology with minimal incremental cost. Variability analysis of a 32nm high-permittivity-dielectric/metal gate (HKMG) stack CMOS technology using current-vs.-voltage characteristics of transistors operated in forward (F) and reverse (R) modes measurements is used to explain variabilities in VT and in drain-induced barrier lowering (DIBL) and their correlations, which cannot be captured by a traditional SPICE modeling.  Test chips are designed for characterization of systematic and random variability in 16nm and 28nm generation Fully Depleted Silicon-On-Insulator (FDSOI) technologies via device arrays and padded-out SRAM cells.
+The effect of random variability on the performance of a tunnel-field effect transistor (TFET) is also examined.  The TFET has emerged as a promising candidate to replace the MOSFET for low-power applications, due to its promise of achieving higher ION/IOFF at low operating voltages. Three-dimensional (3D) device simulations are used to simulate the effects of random dopant fluctuations and line edge roughness on the performance of planar Ge-source and a raised-Ge-source TFET structures.}
+}
+EndNote citation:
+%0 Thesis
+%A Damrongplasit, Nattapol
+%T Study of Variability in Advanced Transistor Technologies
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-37.html
+%F Damrongplasit:EECS-2015-37

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7288.html
+The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations
+The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations
+Ion S. Filotti
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M354
+August 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-354.pdf
+Advisor:  Manuel Blum
+BibTeX citation:
+@phdthesis{Filotti:M354,
+Author = {Filotti, Ion S.},
+Title = {The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7288.html},
+Number = {UCB/ERL M354}
+}
+EndNote citation:
+%0 Thesis
+%A Filotti, Ion S.
+%T The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M354
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7288.html
+%F Filotti:M354

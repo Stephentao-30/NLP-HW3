@@ -1,0 +1,42 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-75.html
+Rigging Tournament Brackets for Weaker Players
+Isabelle Stanton and Virginia Vassilevska Williams
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-75
+June 14,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-75.pdf
+Consider the following problem in game manipulation. A tournament designer who has full knowledge of the
+match outcomes between any possible pair of players would like to create a bracket for a balanced single-elimination
+tournament so that their favorite player will win. Although this problem has been studied in the areas of voting and
+tournament manipulation, it is still unknown whether it can be solved in polynomial time. We focus on identifying
+several general cases for which the tournament can always be rigged efficiently so that the given player wins. We give
+constructive proofs that, under some natural assumptions, if a player is ranked among the top K players, then one can
+efficiently rig the tournament for the given player, even when K is as large as 19% of the players.
+BibTeX citation:
+@techreport{Stanton:EECS-2011-75,
+Author= {Stanton, Isabelle and Vassilevska Williams, Virginia},
+Title= {Rigging Tournament Brackets for Weaker Players},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-75.html},
+Number= {UCB/EECS-2011-75},
+Abstract= {Consider the following problem in game manipulation. A tournament designer who has full knowledge of the
+match outcomes between any possible pair of players would like to create a bracket for a balanced single-elimination
+tournament so that their favorite player will win. Although this problem has been studied in the areas of voting and
+tournament manipulation, it is still unknown whether it can be solved in polynomial time. We focus on identifying
+several general cases for which the tournament can always be rigged efficiently so that the given player wins. We give
+constructive proofs that, under some natural assumptions, if a player is ranked among the top K players, then one can
+efficiently rig the tournament for the given player, even when K is as large as 19% of the players.},
+}
+EndNote citation:
+%0 Report
+%A Stanton, Isabelle
+%A Vassilevska Williams, Virginia
+%T Rigging Tournament Brackets for Weaker Players
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 14
+%@ UCB/EECS-2011-75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-75.html
+%F Stanton:EECS-2011-75

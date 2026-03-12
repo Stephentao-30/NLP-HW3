@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4224.html
+Estimation and Marginalization Using Kikuchi Approximation Methods | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Estimation and Marginalization Using Kikuchi Approximation Methods
+Estimation and Marginalization Using Kikuchi Approximation Methods
+P. Pakzad and Venkat Anantharam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M04/21
+December 2003
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/ERL-04-21.pdf
+BibTeX citation:
+@techreport{Pakzad:M04/21,
+Author = {Pakzad, P. and Anantharam, Venkat},
+Title = {Estimation and Marginalization Using Kikuchi Approximation Methods},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2003},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4224.html},
+Number = {UCB/ERL M04/21}
+}
+EndNote citation:
+%0 Report
+%A Pakzad, P.
+%A Anantharam, Venkat
+%T Estimation and Marginalization Using Kikuchi Approximation Methods
+%I EECS Department, University of California, Berkeley
+%D 2003
+%@ UCB/ERL M04/21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4224.html
+%F Pakzad:M04/21

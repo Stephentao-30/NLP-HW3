@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-21.html
+Experiences Integrating Building Data with sMAP
+Stephen Dawson-Haggerty and Andrew Krioukov and David E. Culler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-21
+February 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-21.pdf
+Originally designed as a RESTful protocol to expose reading data from simple instruments, we discuss the shifting role of sMAP as a common interchange format for timeseries data within a number of building projects. Due to the change in role and resulting widened set of use cases, we discuss where sMAP has fallen short and design modifications necessary to address them. Key contributions are identifying a set of features required for the broad applicability of a protocol for publishing time-series data, and a concrete proposal and implementation of our design grounded in a diverse set of use cases and real deployments.
+BibTeX citation:
+@techreport{Dawson-Haggerty:EECS-2012-21,
+Author= {Dawson-Haggerty, Stephen and Krioukov, Andrew and Culler, David E.},
+Title= {Experiences Integrating Building Data with sMAP},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-21.html},
+Number= {UCB/EECS-2012-21},
+Abstract= {Originally designed as a RESTful protocol to expose reading data from simple instruments, we discuss the shifting role of sMAP as a common interchange format for timeseries data within a number of building projects. Due to the change in role and resulting widened set of use cases, we discuss where sMAP has fallen short and design modifications necessary to address them. Key contributions are identifying a set of features required for the broad applicability of a protocol for publishing time-series data, and a concrete proposal and implementation of our design grounded in a diverse set of use cases and real deployments.},
+}
+EndNote citation:
+%0 Report
+%A Dawson-Haggerty, Stephen
+%A Krioukov, Andrew
+%A Culler, David E.
+%T Experiences Integrating Building Data with sMAP
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 6
+%@ UCB/EECS-2012-21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-21.html
+%F Dawson-Haggerty:EECS-2012-21

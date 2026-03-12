@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28745.html
+Fasbol- 6000: A Snobol4 Compiler For the CDC 6000 Series | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fasbol- 6000: A Snobol4 Compiler For the CDC 6000 Series
+Fasbol- 6000: A Snobol4 Compiler For the CDC 6000 Series
+I. Richard Strauss Jr.
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M401
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-401.pdf
+BibTeX citation:
+@techreport{Strauss Jr.:M401,
+Author = {Strauss Jr., I. Richard},
+Title = {Fasbol- 6000: A Snobol4 Compiler For the CDC 6000 Series},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28745.html},
+Number = {UCB/ERL M401}
+}
+EndNote citation:
+%0 Report
+%A Strauss Jr., I. Richard
+%T Fasbol- 6000: A Snobol4 Compiler For the CDC 6000 Series
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M401
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28745.html
+%F Strauss Jr.:M401

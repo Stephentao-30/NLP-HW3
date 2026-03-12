@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28478.html
+Finding all Solutions of Piecewise-Linear Equations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Finding all Solutions of Piecewise-Linear Equations
+Finding all Solutions of Piecewise-Linear Equations
+Leon O. Chua and Robin L.P. Ying
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/54
+July 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-54.pdf
+BibTeX citation:
+@techreport{Chua:M81/54,
+Author = {Chua, Leon O. and Ying, Robin L.P.},
+Title = {Finding all Solutions of Piecewise-Linear Equations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28478.html},
+Number = {UCB/ERL M81/54}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Ying, Robin L.P.
+%T Finding all Solutions of Piecewise-Linear Equations
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/54
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28478.html
+%F Chua:M81/54

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28925.html
+Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks
+Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks
+J.W. Gannett and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/21
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-21.pdf
+BibTeX citation:
+@techreport{Gannett:M78/21,
+Author = {Gannett, J.W. and Chua, L.O.},
+Title = {Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28925.html},
+Number = {UCB/ERL M78/21}
+}
+EndNote citation:
+%0 Report
+%A Gannett, J.W.
+%A Chua, L.O.
+%T Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28925.html
+%F Gannett:M78/21

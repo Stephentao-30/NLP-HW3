@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28832.html
+On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks
+On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks
+Leon O. Chua and Niatsu N. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M555
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-555.pdf
+BibTeX citation:
+@techreport{Chua:M555,
+Author = {Chua, Leon O. and Wang, Niatsu N.},
+Title = {On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28832.html},
+Number = {UCB/ERL M555}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Wang, Niatsu N.
+%T On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M555
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28832.html
+%F Chua:M555

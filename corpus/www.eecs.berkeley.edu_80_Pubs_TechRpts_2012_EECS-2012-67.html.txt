@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-67.html
+Using Program Analysis to Reduce Misconfiguration in Open Source Systems Software
+Ariel Rabkin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-67
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-67.pdf
+This dissertation describes using program analysis to document and debug modern open source systems software. We address three problems: documenting configuration, debugging configuration errors, and improving logger configuration.
+Thanks to the Cloud, developers today often have access to dozens or hundreds of nodes. Managing this hardware requires a large software stack. Often, this software is open-source and community developed. As a result of this development model and the complexities of distributed resource management, modern software systems can have dozens or even hundreds of configurable options. The open source development process makes it easy for developers to add options and easy for documentation to become stale. We offer a static analysis to identify the options present in a given program and to infer types for them. Our analysis is often more precise than the existing human-written documentation.
+We offer a similar analysis to aid in debugging configuration errors. We build an explicit table matching program points to the configuration options that might have caused a failure at that point. The analysis runs quickly, taking less than an hour for programs with hundreds of thousands of lines of code. We use Hadoop and JChord as case studies to assess accuracy. For those programs, our technique diagnoses over 80% of the errors due to randomly-injected illegal configuration values. Precision is high; our analysis finds an average of 3-4 possibly relevant options for each error. Using stack traces in the analysis removes approximately a third of the imprecision as compared to error messages alone.
+We also present a solution to a quite different problem: poor quality console logs. Log analysis and logging configuration are hampered by the fact that there is no way to refer unambiguously to a particular log statement. Assigning a unique identifier to every statement enables fine-grained control of which messages are printed and how they are labeled. We achieve this using program-rewriting, retrofitting statement numbers to legacy Java programs. This numbering is consistent across program runs and in the presence of software updates. We use an offline analysis to match statements across program versions. The runtime overhead of our approach is negligible.
+Advisors:  Randy H. Katz
+BibTeX citation:
+@phdthesis{Rabkin:EECS-2012-67,
+Author= {Rabkin, Ariel},
+Title= {Using Program Analysis to Reduce Misconfiguration in Open Source Systems Software},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-67.html},
+Number= {UCB/EECS-2012-67},
+Abstract= {This dissertation describes using program analysis to document and debug modern open source systems software. We address three problems: documenting configuration, debugging configuration errors, and improving logger configuration.
+Thanks to the Cloud, developers today often have access to dozens or hundreds of nodes. Managing this hardware requires a large software stack. Often, this software is open-source and community developed. As a result of this development model and the complexities of distributed resource management, modern software systems can have dozens or even hundreds of configurable options. The open source development process makes it easy for developers to add options and easy for documentation to become stale. We offer a static analysis to identify the options present in a given program and to infer types for them. Our analysis is often more precise than the existing human-written documentation.
+We offer a similar analysis to aid in debugging configuration errors. We build an explicit table matching program points to the configuration options that might have caused a failure at that point. The analysis runs quickly, taking less than an hour for programs with hundreds of thousands of lines of code. We use Hadoop and JChord as case studies to assess accuracy. For those programs, our technique diagnoses over 80% of the errors due to randomly-injected illegal configuration values. Precision is high; our analysis finds an average of 3-4 possibly relevant options for each error. Using stack traces in the analysis removes approximately a third of the imprecision as compared to error messages alone.
+We also present a solution to a quite different problem: poor quality console logs. Log analysis and logging configuration are hampered by the fact that there is no way to refer unambiguously to a particular log statement. Assigning a unique identifier to every statement enables fine-grained control of which messages are printed and how they are labeled. We achieve this using program-rewriting, retrofitting statement numbers to legacy Java programs. This numbering is consistent across program runs and in the presence of software updates. We use an offline analysis to match statements across program versions. The runtime overhead of our approach is negligible.},
+}
+EndNote citation:
+%0 Thesis
+%A Rabkin, Ariel
+%T Using Program Analysis to Reduce Misconfiguration in Open Source Systems Software
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-67.html
+%F Rabkin:EECS-2012-67

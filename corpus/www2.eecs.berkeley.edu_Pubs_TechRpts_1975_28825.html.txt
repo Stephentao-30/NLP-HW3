@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28825.html
+Differentiation Formulas for Stochastic Integrals in the Plane | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Differentiation Formulas for Stochastic Integrals in the Plane
+Differentiation Formulas for Stochastic Integrals in the Plane
+Eugene Wong and Moshe Zakai
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M540
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-540.pdf
+BibTeX citation:
+@techreport{Wong:M540,
+Author = {Wong, Eugene and Zakai, Moshe},
+Title = {Differentiation Formulas for Stochastic Integrals in the Plane},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28825.html},
+Number = {UCB/ERL M540}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%A Zakai, Moshe
+%T Differentiation Formulas for Stochastic Integrals in the Plane
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M540
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28825.html
+%F Wong:M540

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-163.html
+Adaptive Time Synchronization and Frequency Channel Hopping for Wireless Sensor Networks
+Branko Kerkez
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-163
+June 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-163.pdf
+Duty cycling mote radio resources depends fundamentally on the ability of WSN nodes to share the same sense of time. If all nodes within a network are synchronized to the same clock, mote pairs can then be scheduled to only wake up when data transmissions need to occur. In such a scenario, motes can remain in a low power state while not actively transmitting data. The ability to schedule communications removes intra-network interference by ensuring that no two mote pairs are scheduled to transmit packets at the same time. Furthermore, communication in WSNs is challenged by multipath radio propagation and narrow-band interference. The IEEE802.15.4 standard divides the 2.4 GHz band into 16 transmission channels (or, narrow-band sub-frequencies) that can be used to mitigate communication challenges posed by external interference and multipath propagation. Improper channel selection can cause data to be lost during transmission, leading to the need to retransmit data, and manifesting itself in lower packet delivery and higher energy requirements. An option to address this time-varying behavior involves equipping WSNs with the ability to channel hop. In such deployments, motes within the network select a different channel every time a transmission occurs, rather than persistently transmitting information on a single channel. This report will: (1) show that TDMA-based synchronization and channel hopping can be achieved without the use of accurate crystal time sources, (2) investigate the explicit benefits of an optimized channel hopping controller, which selects the best possible single channel based on current state information, (3) implement and compare two realistic channel hopping schemes on a commonly available hardware platform, and (4) show TDMA-based communications can be modified to support both low-throughput, persistent sensing applications, while facilitating high-throughput traffic from mobile network agents.
+Advisors:  Kristofer Pister
+BibTeX citation:
+@mastersthesis{Kerkez:EECS-2012-163,
+Author= {Kerkez, Branko},
+Title= {Adaptive Time Synchronization and Frequency Channel Hopping for Wireless Sensor Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-163.html},
+Number= {UCB/EECS-2012-163},
+Abstract= {Duty cycling mote radio resources depends fundamentally on the ability of WSN nodes to share the same sense of time. If all nodes within a network are synchronized to the same clock, mote pairs can then be scheduled to only wake up when data transmissions need to occur. In such a scenario, motes can remain in a low power state while not actively transmitting data. The ability to schedule communications removes intra-network interference by ensuring that no two mote pairs are scheduled to transmit packets at the same time. Furthermore, communication in WSNs is challenged by multipath radio propagation and narrow-band interference. The IEEE802.15.4 standard divides the 2.4 GHz band into 16 transmission channels (or, narrow-band sub-frequencies) that can be used to mitigate communication challenges posed by external interference and multipath propagation. Improper channel selection can cause data to be lost during transmission, leading to the need to retransmit data, and manifesting itself in lower packet delivery and higher energy requirements. An option to address this time-varying behavior involves equipping WSNs with the ability to channel hop. In such deployments, motes within the network select a different channel every time a transmission occurs, rather than persistently transmitting information on a single channel. This report will: (1) show that TDMA-based synchronization and channel hopping can be achieved without the use of accurate crystal time sources, (2) investigate the explicit benefits of an optimized channel hopping controller, which selects the best possible single channel based on current state information, (3) implement and compare two realistic channel hopping schemes on a commonly available hardware platform, and (4) show TDMA-based communications can be modified to support both low-throughput, persistent sensing applications, while facilitating high-throughput traffic from mobile network agents.},
+}
+EndNote citation:
+%0 Thesis
+%A Kerkez, Branko
+%T Adaptive Time Synchronization and Frequency Channel Hopping for Wireless Sensor Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 6
+%@ UCB/EECS-2012-163
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-163.html
+%F Kerkez:EECS-2012-163

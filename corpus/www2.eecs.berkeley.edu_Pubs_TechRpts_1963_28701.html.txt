@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28701.html
+Solutions to Spherical Anisotropic Antennas | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solutions to Spherical Anisotropic Antennas
+Solutions to Spherical Anisotropic Antennas
+K.K. Mei and M. Meyer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M33
+November 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-33.pdf
+BibTeX citation:
+@techreport{Mei:M33,
+Author = {Mei, K.K. and Meyer, M.},
+Title = {Solutions to Spherical Anisotropic Antennas},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28701.html},
+Number = {UCB/ERL M33}
+}
+EndNote citation:
+%0 Report
+%A Mei, K.K.
+%A Meyer, M.
+%T Solutions to Spherical Anisotropic Antennas
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28701.html
+%F Mei:M33

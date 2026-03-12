@@ -1,0 +1,13 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSW267
+Course: CSW267 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSW267
+CS W267. Applications of Parallel Computers
+Catalog Description:  Parallel programming, from laptops to supercomputers to the cloud. Goals include writing programs that run fast while minimizing programming effort. Parallel architectures and programming languages and models, including shared memory (eg OpenMP on your multicore laptop), distributed memory (MPI and UPC on a supercomputer), GPUs (CUDA and OpenCL), and cloud (MapReduce, Hadoop and Spark). Parallel algorithms and software tools for common computations (eg dense and sparse linear algebra, graphs, structured grids). Tools for load balancing, performance analysis, debugging.  How high level applications are built (eg climate modeling). On-line lectures and office hours.
+Units:  3.0
+Credit Restrictions:  Students will receive no credit for  Computer Science W267 after completing Computer Science C267.
+Class homepage on inst.eecs
+General Catalog listing

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28907.html
+On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks
+On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks
+T. Matsumoto, L.O. Chua and A. Makino
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/64
+October 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-64.pdf
+BibTeX citation:
+@techreport{Matsumoto:M77/64,
+Author = {Matsumoto, T. and Chua, L.O. and Makino, A.},
+Title = {On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28907.html},
+Number = {UCB/ERL M77/64}
+}
+EndNote citation:
+%0 Report
+%A Matsumoto, T.
+%A Chua, L.O.
+%A Makino, A.
+%T On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/64
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28907.html
+%F Matsumoto:M77/64

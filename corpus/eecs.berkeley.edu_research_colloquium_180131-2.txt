@@ -1,0 +1,35 @@
+URL: https://eecs.berkeley.edu/research/colloquium/180131-2
+Pen- and Touch-Interaction with 2D Information Spaces - EECS at Berkeley
+Pen- and Touch-Interaction with 2D Information Spaces
+EECS Colloquium
+Wednesday, January 31, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Andries van Dam
+Thomas J. Watson Jr. University Professor of Technology and Education and Professor of Computer Science
+Brown University, Providence, Rhode Island
+Andries van Dam speaks on "Pen- and Touch-Interaction with 2D Information Spaces," 1/31/18
+Abstract
+This presentation covers two of my graphics group’s projects, Vizdom and Dash. Rather than a formal exposition of completed research we will present two demos of work-in progress that are intended to illustrate directions we think will be fruitful for information exploration and sensemaking.
+Vizdom
+Vizdom and its processing backend IDEA are being developed in collaboration with Professor Tim Kraska’s Database group.
+Making sense of data is an exploratory process that demands rapid iterations. Vizdom’s goal is to support this process at a pace that matches the thought process of human analysts so that they can apply their domain knowledge without needing programming skills. Vizdom’s pen- and touch-based interface features visual programming — directly manipulable building blocks can be incrementally composed to support common data analysis tasks such as visually querying datasets or curating machine learning models. Vizdom scales seamlessly across varying dataset sizes because all of its computations, training of machine learning models and visualizations are processed progressively. Even on large datasets, approximate results, including confidence intervals, are shown to users within interactive thresholds and then refined iteratively over time as more data is scanned.
+The three key features of Vizdom are:
+Progressive computations that we argue (and have to some degree tested in usability studies) greatly improve the user experience on larger datasets.
+Tight integration of visualizations, machine learning, and statistics all within the same tool, with an accessible interaction paradigm that empowers “data enthusiast”.
+Embedding visual data exploration in a statistical framework to prevent common problems and statistical pitfalls (i.e., multiple comparisons problems).
+Dash
+Dash is a note-taking application for individuals and small workgroups that facilitates summarizing and digesting information through a streamlined UI.  Dash users gather and clip multimedia documents from an external browser or compliant applications such as Word and PowerPoint, GoogleDocs and Slides, whose APIs we use to import information into Dash.  Users can then spatially organize documents and extracts in nested collections and spatial clusters on a 2D unbounded free-form workspace.
+As users add notes, documents, and extracts, the context of each element in the workspace and its source in the external applications is automatically captured into the database.  This enables the context to be reconstructed later as a memory aid and semantic structure organization tool.  Dash provides support for this process because, in contrast to most applications which have special purpose databases that aren’t exposed as databases, it exposes database views of its document and metadata information.
+This type of automatically-generated association extends static user-generated link structures by dynamically providing additional relationship types and content . Furthermore, Dash treats all searches, visualizations and layouts as first class interactive documents on par with all other documents. Thus, through an integrated operator framework, users can apply existing operators or construct new ones  to streamline the workflow for their tasks by transforming document content, metadata, and relationship structures.
+We hope that this flexibility, which allows easy tool customization, will enable users to develop their own styles of analysis.
+Biography
+Andries van Dam, is the Thomas J. Watson Jr. University Professor of Technology and Education and Professor of Computer Science at Brown University. He has been a member of Brown’s faculty since 1965, was a co-founder of Brown’s Computer Science Department and its first Chairman from 1979 to 1985, and was also Brown’s first Vice President for Research from 2002 – 2006.
+His research includes work on computer graphics, hypermedia systems, post-WIMP and natural user interfaces (NUI), including pen- and touch-computing, and educational software. He has been involved for five decades with systems for creating and reading electronic books with interactive illustrations for use in teaching and research.
+In 1967 Prof. van Dam co-founded ACM SICGRAPH (the precursor of SIGGRAPH) and from 1985 through 1987 was Chairman of the Computing Research Association. He is a Fellow of ACM, IEEE, and AAAS, a member of the National Academy of Engineering, and the American Academy of Arts & Sciences. He has received the ACM Karl V. Karlstrom Outstanding Educator Award, the SIGGRAPH Steven A. Coons Award for Outstanding Creative Contributions to Computer Graphics, and the IEEE Centennial Medal, and holds honorary doctorates from Darmstadt Technical University, Swarthmore College, the University of Waterloo, and ETH Zurich. He has authored or co-authored over 100 papers and nine books, including “Fundamentals of Interactive Computer Graphics” and three editions of “Computer Graphics: Principles and Practice”
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

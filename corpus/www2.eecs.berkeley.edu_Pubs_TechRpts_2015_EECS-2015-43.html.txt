@@ -1,0 +1,47 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-43.html
+Active systems with uncertain parameters: an information-theoretic perspective | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Active systems with uncertain parameters: an information-theoretic perspective
+Active systems with uncertain parameters: an information-theoretic perspective
+Gireeja Ranade
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-43
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-43.pdf
+The sister fields of control and communication share many common goals. While communication aims to reduce uncertainty by communicating information about the state of the world, control aims to reduce uncertainty by moving the state of the world to a known point. Furthermore, transmitters must communicate over the unreliability in the communication channel, while controllers must overcome unreliability in the sensing and actuation channels of the system to stabilize it. Extensive work in information theory has provided a framework to understand the fundamental limits on the communication capacity of a communication channel. This dissertation builds on the information-theoretic perspective to understand the limits on the ability of controllers to actively dissipate uncertainty in systems.
+High-performance control systems include two types of uncertainty: noise that might be introduced by nature, and inaccuracy that might be introduced by modeling, sampling errors or clock jitter. The first of these is often modeled as an additive uncertainty and is the object of most prior work at the intersection of communication and control. This dissertation focuses on the multiplicative uncertainty that comes from modeling and sampling inaccuracies. Multiplicative uncertainty could be introduced from the observation mechanism that senses the state (the sensing channel) or from the actuation mechanism that implements actions (the actuation channel). This dissertation examines the control capacity of systems where the parameters of these channels are changing so fast that they cannot be perfectly tracked at the timescale at which control actions must be performed.
+This dissertation defines a notion of the ``control capacity'' of an unreliable actuation channel as the fundamental limit on the ability of a controller to stabilize a system over that channel. Our definition builds from the understanding of communication capacity as defined by Shannon. The strictest sense of control capacity, zero-error control capacity, emulates the worst-case sense of performance that the robust control paradigm captures. The weakest sense of control capacity, which we call ``Shannon'' control capacity, focuses on the typical behavior of the zeroth-moment or the log of the state. In between these two there exists a range of eta-th moment control capacities. These different notions of control capacity characterize the impact of large deviations events on the system. They also provide a partial generalization of the classic uncertainty threshold principle in control to senses of stability that go beyond the mean-squared sense.
+Since the ``Shannon'' control capacity of an actuation channel relates to physically stabilizing the system, it can be different from the Shannon capacity of the associated communication channel. For the case of actuation channels with i.i.d. randomness, we provide a computable single-letter expression for the control capacity. Our formulation for control capacity also allows for explicit characterization of the value of side information in systems. We illustrate this using simple scalar and vector examples.
+These ideas also extend to systems with unreliable sensing channels. Somewhat surprisingly, we find that in the case of non-coherent sensing channels, the separation paradigm that is often applied to understand control problems with communication constraints on the observation side, can fail. Active learning and control of a system state is possible (i.e. the control capacity is finite), even though passive estimation is not.
+The results throughout are motivated by observations made using simplified bit-level ``carry-free models.'' These models are generalized versions of deterministic bit-level models that are used in wireless network information theory to capture the interaction of signals. Here, we modify them to capture the information bottlenecks introduced by parameter uncertainty in active systems.
+Advisor:  Anant Sahai
+BibTeX citation:
+@phdthesis{Ranade:EECS-2015-43,
+Author = {Ranade, Gireeja},
+Title = {Active systems with uncertain parameters: an information-theoretic perspective},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-43.html},
+Number = {UCB/EECS-2015-43},
+Abstract = {The sister fields of control and communication share many common goals. While communication aims to reduce uncertainty by communicating information about the state of the world, control aims to reduce uncertainty by moving the state of the world to a known point. Furthermore, transmitters must communicate over the unreliability in the communication channel, while controllers must overcome unreliability in the sensing and actuation channels of the system to stabilize it. Extensive work in information theory has provided a framework to understand the fundamental limits on the communication capacity of a communication channel. This dissertation builds on the information-theoretic perspective to understand the limits on the ability of controllers to actively dissipate uncertainty in systems.
+High-performance control systems include two types of uncertainty: noise that might be introduced by nature, and inaccuracy that might be introduced by modeling, sampling errors or clock jitter. The first of these is often modeled as an additive uncertainty and is the object of most prior work at the intersection of communication and control. This dissertation focuses on the multiplicative uncertainty that comes from modeling and sampling inaccuracies. Multiplicative uncertainty could be introduced from the observation mechanism that senses the state (the sensing channel) or from the actuation mechanism that implements actions (the actuation channel). This dissertation examines the control capacity of systems where the parameters of these channels are changing so fast that they cannot be perfectly tracked at the timescale at which control actions must be performed.
+This dissertation defines a notion of the ``control capacity'' of an unreliable actuation channel as the fundamental limit on the ability of a controller to stabilize a system over that channel. Our definition builds from the understanding of communication capacity as defined by Shannon. The strictest sense of control capacity, zero-error control capacity, emulates the worst-case sense of performance that the robust control paradigm captures. The weakest sense of control capacity, which we call ``Shannon'' control capacity, focuses on the typical behavior of the zeroth-moment or the log of the state. In between these two there exists a range of eta-th moment control capacities. These different notions of control capacity characterize the impact of large deviations events on the system. They also provide a partial generalization of the classic uncertainty threshold principle in control to senses of stability that go beyond the mean-squared sense.
+Since the ``Shannon'' control capacity of an actuation channel relates to physically stabilizing the system, it can be different from the Shannon capacity of the associated communication channel. For the case of actuation channels with i.i.d. randomness, we provide a computable single-letter expression for the control capacity. Our formulation for control capacity also allows for explicit characterization of the value of side information in systems. We illustrate this using simple scalar and vector examples.
+These ideas also extend to systems with unreliable sensing channels. Somewhat surprisingly, we find that in the case of non-coherent sensing channels, the separation paradigm that is often applied to understand control problems with communication constraints on the observation side, can fail. Active learning and control of a system state is possible (i.e. the control capacity is finite), even though passive estimation is not.
+The results throughout are motivated by observations made using simplified bit-level ``carry-free models.'' These models are generalized versions of deterministic bit-level models that are used in wireless network information theory to capture the interaction of signals. Here, we modify them to capture the information bottlenecks introduced by parameter uncertainty in active systems.}
+}
+EndNote citation:
+%0 Thesis
+%A Ranade, Gireeja
+%T Active systems with uncertain parameters: an information-theoretic perspective
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-43.html
+%F Ranade:EECS-2015-43

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29404.html
+Getting Started in Ingres with Cupid | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Getting Started in Ingres with Cupid
+Getting Started in Ingres with Cupid
+Nancy Mcdonald
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M546
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-546.pdf
+BibTeX citation:
+@techreport{Mcdonald:M546,
+Author = {Mcdonald, Nancy},
+Title = {Getting Started in Ingres with Cupid},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29404.html},
+Number = {UCB/ERL M546}
+}
+EndNote citation:
+%0 Report
+%A Mcdonald, Nancy
+%T Getting Started in Ingres with Cupid
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M546
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29404.html
+%F Mcdonald:M546

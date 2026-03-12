@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-144.html
+High Frequency Trading: Price Dynamics Models and Market Making Strategies
+Cheng Lu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-144
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-144.pdf
+High Frequency Trading (HFT) has recently drawn public and regulatory attention after the “flash crash” in U.S. stock market on May 6, 2010. Data processing and statistical
+modeling techniques in finance has been revolutionized by the availability of high frequency data on transactions, quotes and order flow in electronic order-driven markets,
+which has and brought up new theoretical and computational challenges. Market dynamics at the transaction level cannot be characterized solely in terms the dynamics of a single price and one must also take into account the interaction between buy and sell orders of different types by modeling the order flow at the bid price, ask price and possibly other levels of the limit order book. In this paper, I implemented and improved a queuing model that characterizes the market dynamics as a Discrete Markovian System, which is more suitable for illiquid market. I then propose and examine a few market-making trading strategies & applications of such a model and point to the simulation results.
+Advisors:  Björn Hartmann and Xin Guo
+BibTeX citation:
+@mastersthesis{Lu:EECS-2012-144,
+Author= {Lu, Cheng},
+Title= {High Frequency Trading: Price Dynamics Models and Market Making Strategies},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-144.html},
+Number= {UCB/EECS-2012-144},
+Abstract= {High Frequency Trading (HFT) has recently drawn public and regulatory attention after the “flash crash” in U.S. stock market on May 6, 2010. Data processing and statistical
+modeling techniques in finance has been revolutionized by the availability of high frequency data on transactions, quotes and order flow in electronic order-driven markets,
+which has and brought up new theoretical and computational challenges. Market dynamics at the transaction level cannot be characterized solely in terms the dynamics of a single price and one must also take into account the interaction between buy and sell orders of different types by modeling the order flow at the bid price, ask price and possibly other levels of the limit order book. In this paper, I implemented and improved a queuing model that characterizes the market dynamics as a Discrete Markovian System, which is more suitable for illiquid market. I then propose and examine a few market-making trading strategies & applications of such a model and point to the simulation results.},
+}
+EndNote citation:
+%0 Thesis
+%A Lu, Cheng
+%T High Frequency Trading: Price Dynamics Models and Market Making Strategies
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-144
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-144.html
+%F Lu:EECS-2012-144

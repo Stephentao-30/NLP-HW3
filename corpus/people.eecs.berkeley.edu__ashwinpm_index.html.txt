@@ -1,0 +1,39 @@
+URL: https://people.eecs.berkeley.edu/~ashwinpm/index.html
+Ashwin Pananjady
+Work
+Home
+Publications
+Talks
+Fun
+An Old Website
+Ashwin Pananjady
+PhD Student
+Department of Electrical Engineering and Computer Science
+University of California, Berkeley
+Google Scholar Page
+ashwinpm (at) eecs (dot) berkeley (dot) edu
+264 Cory Hall
+Affiliations:
+Berkeley Laboratory for Information and System Sciences (BLISS)
+Berkeley Artificial Intelligence Research Lab (BAIR)
+News
+January 2019:  Preprint  on the sample complexity of learning shape-constrained single-index models
+December 2018:  Preprint  on derivative-free methods for policy optimization in continuous state-action spaces; to appear in part at AISTATS 2019
+October 2018: Talk at Cornell on Permutation-based models for machine learning
+August 2018: Talk at Columbia on Permutation-based models for machine learning
+June 2018:  New preprint  on estimating bi-isotonic matrices with unknown permutations in multiple metrics
+May 2018: Spending the summer interning at Amazon NYC with Dean Foster and Lee Dicker
+April 2018:  Paper  on faster rates for permutation-based models to appear at COLT
+March 2018: Outstanding GSI award, UC Berkeley for TAing the undergraduate machine learning class EECS189
+March 2018: Paper on  stein kernels  to appear in Annales de l’Institut Henri Poincare
+February 2018: Paper on  stability of the entropy power inequality  to appear in IEEE Transactions on Information Theory
+January 2018: Talk at TIFR Mumbai on Machine Learning with Permutation-based Models
+December 2017: Paper on  locally decodable source coding  to appear in IEEE Transactions on Information Theory
+November 2017: Paper on  linear regression with an unknown permutation  to appear in IEEE Transactions on Information Theory
+About me
+I am a fifth year graduate student in the  EECS Department  at  UC Berkeley , advised by  Martin Wainwright  and  Thomas Courtade .
+My thesis committee members are Martin Wainwright, Thomas Courtade,  Michael Jordan , and  Adityanand Guntuboyina .
+My interests are broadly in statistical machine learning, optimization, and information theory, and I am particularly interested in the conceptual and theoretical underpinnings of models and algorithms that are useful in practice. Specifically, I like thinking about the statistical and computational trade-offs of estimation in both the passive and sequential settings when the underlying object to be estimated has some combinatorial or shape-constrained structure.
+I spent the summer of 2017 at  Microsoft Research Redmond  working with  Denny Zhou  and  Lihong Li , and the summer of 2018 at Amazon Research NYC working with  Dean Foster  and  Lee Dicker .
+Before coming to Berkeley, I graduated with a B.Tech in  Electrical Engineering  from the  Indian Institute of Technology (IIT) Madras , and was fortunate to have worked with  Rahul Vaze ,  Sounaka Mishra  and  Andrew Thangaraj  during my bachelor’s degree.
+I co-organize the  BLISS seminar  at Berkeley; send me an email if you would like to give a talk!

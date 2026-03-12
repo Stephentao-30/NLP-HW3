@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-83.html
+Re-optimizing Data Parallel Computing
+Sameer Agarwal
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-83
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-83.pdf
+Performant execution of data-parallel jobs needs good execution plans. Certain properties of the code, the data, and the interaction between them are crucial to generate these plans.  Yet, these properties are difficult to estimate due to the highly distributed nature of these frameworks, the freedom that allows users to specify arbitrary code as operations on the data, and since jobs in modern clusters have evolved beyond single map and reduce phases to logical graphs of operations. Using fixed apriori estimates of these properties to choose execution plans, as modern systems do, leads to poor performance in several instances. We present RoPE, a first step towards re-optimizing data-parallel jobs. RoPE collects certain code and data properties by piggybacking on job execution. It adapts execution plans by feeding these properties to a query optimizer. We show how this improves the future invocations of the same (and similar) jobs and characterize the scenarios of benefit. Experiments on Bing's production clusters show up to 2x improvement across response time for production jobs at the 75th percentile while using 1.5x fewer resources.
+Advisors:  Ion Stoica
+BibTeX citation:
+@mastersthesis{Agarwal:EECS-2012-83,
+Author= {Agarwal, Sameer},
+Title= {Re-optimizing Data Parallel Computing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-83.html},
+Number= {UCB/EECS-2012-83},
+Abstract= {Performant execution of data-parallel jobs needs good execution plans. Certain properties of the code, the data, and the interaction between them are crucial to generate these plans.  Yet, these properties are difficult to estimate due to the highly distributed nature of these frameworks, the freedom that allows users to specify arbitrary code as operations on the data, and since jobs in modern clusters have evolved beyond single map and reduce phases to logical graphs of operations. Using fixed apriori estimates of these properties to choose execution plans, as modern systems do, leads to poor performance in several instances. We present RoPE, a first step towards re-optimizing data-parallel jobs. RoPE collects certain code and data properties by piggybacking on job execution. It adapts execution plans by feeding these properties to a query optimizer. We show how this improves the future invocations of the same (and similar) jobs and characterize the scenarios of benefit. Experiments on Bing's production clusters show up to 2x improvement across response time for production jobs at the 75th percentile while using 1.5x fewer resources.},
+}
+EndNote citation:
+%0 Thesis
+%A Agarwal, Sameer
+%T Re-optimizing Data Parallel Computing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-83.html
+%F Agarwal:EECS-2012-83

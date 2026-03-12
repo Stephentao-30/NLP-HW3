@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/8489.html
+Handling Estimation Errors in Database Query Processing
+Amol V. Deshpande
+EECS Department, University of California, Berkeley
+2004
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Deshpande:8489,
+Author= {Deshpande, Amol V.},
+Title= {Handling Estimation Errors in Database Query Processing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2004},
+}
+EndNote citation:
+%0 Thesis
+%A Deshpande, Amol V.
+%T Handling Estimation Errors in Database Query Processing
+%I EECS Department, University of California, Berkeley
+%D 2004
+%F Deshpande:8489

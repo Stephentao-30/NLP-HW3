@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7418.html
+A Structured Study of Parallel Pipelined Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Structured Study of Parallel Pipelined Systems
+A Structured Study of Parallel Pipelined Systems
+Hon F. Li
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M530
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-530.pdf
+Advisor:  C. V. Ramamoorthy
+BibTeX citation:
+@phdthesis{Li:M530,
+Author = {Li, Hon F.},
+Title = {A Structured Study of Parallel Pipelined Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7418.html},
+Number = {UCB/ERL M530}
+}
+EndNote citation:
+%0 Thesis
+%A Li, Hon F.
+%T A Structured Study of Parallel Pipelined Systems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M530
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7418.html
+%F Li:M530

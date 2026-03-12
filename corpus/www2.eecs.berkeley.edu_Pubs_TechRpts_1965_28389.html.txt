@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28389.html
+Nonlinear Programming in Banach Space | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Programming in Banach Space
+Nonlinear Programming in Banach Space
+P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M137
+December 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-137.pdf
+BibTeX citation:
+@techreport{Varaiya:M137,
+Author = {Varaiya, P.P.},
+Title = {Nonlinear Programming in Banach Space},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28389.html},
+Number = {UCB/ERL M137}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.P.
+%T Nonlinear Programming in Banach Space
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M137
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28389.html
+%F Varaiya:M137

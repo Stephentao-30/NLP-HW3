@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-110.html
+Structured Estimation in High-Dimensions
+Sahand N Negahban
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-110
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-110.pdf
+High-dimensional statistical inference deals with models in which the the number of parameters $p$ is comparable to or larger than the sample size $n$. Since it is usually impossible to obtain consistent procedures unless $p/n \to 0$, a line of recent work has studied models with various types of low-dimensional structure, including sparse vectors, sparse and structured matrices, low-rank matrices, and combinations thereof. Such structure arises in problems found in compressed sensing, sparse graphical model estimation, and matrix completion. In such settings, a general approach to estimation is to solve a regularized optimization problem, which combines a loss function measuring how well the model fits the data with some regularization function that encourages the assumed structure. We will present a unified framework for establishing consistency and convergence rates for such regularized $M$-estimators under high-dimensional scaling. We will then show how this framework can be utilized to re-derive a few existing results and also to obtain a number of new results on consistency and convergence rates, in both $\ell_2$-error and related norms.
+An equally important consideration is the computational efficiency in performing inference in the high-dimensional setting. This high-dimensional structure precludes the usual global assumptions---namely, strong convexity and smoothness conditions---that underlie much of classical optimization analysis. We will discuss ties between the statistical inference problem itself and efficient computational methods for performing the estimation. In particular, we will show that the same underlying statistical structure can be exploited to prove global geometric convergence of the gradient descent procedure up to \emph{statistical accuracy}. This analysis reveals interesting connections between statistical precision and computational efficiency in high-dimensional estimation.
+Advisors:  Martin Wainwright
+BibTeX citation:
+@phdthesis{Negahban:EECS-2012-110,
+Author= {Negahban, Sahand N},
+Title= {Structured Estimation in High-Dimensions},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-110.html},
+Number= {UCB/EECS-2012-110},
+Abstract= {High-dimensional statistical inference deals with models in which the the number of parameters $p$ is comparable to or larger than the sample size $n$. Since it is usually impossible to obtain consistent procedures unless $p/n \to 0$, a line of recent work has studied models with various types of low-dimensional structure, including sparse vectors, sparse and structured matrices, low-rank matrices, and combinations thereof. Such structure arises in problems found in compressed sensing, sparse graphical model estimation, and matrix completion. In such settings, a general approach to estimation is to solve a regularized optimization problem, which combines a loss function measuring how well the model fits the data with some regularization function that encourages the assumed structure. We will present a unified framework for establishing consistency and convergence rates for such regularized $M$-estimators under high-dimensional scaling. We will then show how this framework can be utilized to re-derive a few existing results and also to obtain a number of new results on consistency and convergence rates, in both $\ell_2$-error and related norms.
+An equally important consideration is the computational efficiency in performing inference in the high-dimensional setting. This high-dimensional structure precludes the usual global assumptions---namely, strong convexity and smoothness conditions---that underlie much of classical optimization analysis. We will discuss ties between the statistical inference problem itself and efficient computational methods for performing the estimation. In particular, we will show that the same underlying statistical structure can be exploited to prove global geometric convergence of the gradient descent procedure up to \emph{statistical accuracy}. This analysis reveals interesting connections between statistical precision and computational efficiency in high-dimensional estimation.},
+}
+EndNote citation:
+%0 Thesis
+%A Negahban, Sahand N
+%T Structured Estimation in High-Dimensions
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-110
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-110.html
+%F Negahban:EECS-2012-110

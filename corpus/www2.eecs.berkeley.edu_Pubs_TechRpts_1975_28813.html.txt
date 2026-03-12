@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28813.html
+Getting Started in Ingres- A Tutorial | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Getting Started in Ingres- A Tutorial
+Getting Started in Ingres- A Tutorial
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M518
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-518.pdf
+BibTeX citation:
+@techreport{Stonebraker:M518,
+Author = {Stonebraker, Michael},
+Title = {Getting Started in Ingres- A Tutorial},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28813.html},
+Number = {UCB/ERL M518}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Getting Started in Ingres- A Tutorial
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M518
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28813.html
+%F Stonebraker:M518

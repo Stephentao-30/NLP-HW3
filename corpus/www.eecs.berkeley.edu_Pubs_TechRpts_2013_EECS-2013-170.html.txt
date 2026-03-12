@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-170.html
+Design of Flexible Soft Output MIMO Detector for Cooperative MIMO
+Milos Jorgovanovic
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-170
+October 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-170.pdf
+Advisors:  Borivoje Nikolic
+BibTeX citation:
+@mastersthesis{Jorgovanovic:EECS-2013-170,
+Author= {Jorgovanovic, Milos},
+Title= {Design of Flexible Soft Output MIMO Detector for Cooperative MIMO},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-170.html},
+Number= {UCB/EECS-2013-170},
+}
+EndNote citation:
+%0 Thesis
+%A Jorgovanovic, Milos
+%T Design of Flexible Soft Output MIMO Detector for Cooperative MIMO
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 15
+%@ UCB/EECS-2013-170
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-170.html
+%F Jorgovanovic:EECS-2013-170

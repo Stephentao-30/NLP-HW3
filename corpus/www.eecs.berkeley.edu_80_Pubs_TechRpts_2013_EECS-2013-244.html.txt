@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-244.html
+Controlling Energy-Efficient Buildings in the Context of Smart Grid: A Cyber Physical System Approach
+Mehdi Maasoumy Haghighi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-244
+December 28,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-244.pdf
+The building sector is responsible for about 40% of energy consumption, 40% of greenhouse gas emissions, and 70% of electricity use in the US. Over 50% of the energy consumed in buildings is directly related to space heating, cooling and ventilation. Optimal control of heating, ventilation and air conditioning (HVAC) systems is crucial for reducing energy consumption in buildings.
+We present a physics-based mathematical model of thermal behavior of buildings, along with a novel Parameter Adaptive Building (PAB) model framework to update the model parameters, as new measurements arrive, to reduce the model uncertainties. We then present a Model Predictive Control (MPC), and a Robust Model Predictive Control (RMPC) algorithm and a methodology for selecting a controller type, i.e. RMPC or MPC, versus Rule Based Control (RBC) as a function of model uncertainty.
+We then address the ``Cyber-Physical" aspect of a building HVAC system in the design flow. We present a co-design framework that analyzes the interaction between the control algorithm and the embedded platform through a set of interface variables, and demonstrate how the design space is explored to optimize the energy cost and monetary cost, while satisfying the constraints for occupant comfort level.
+The last part of this dissertation is centered on the role of smart buildings in the context of the smart grid. Commercial buildings have inherent flexibility in how their HVAC systems consume electricity. We first propose a means to define and quantify the flexibility of a commercial building. We then present a contractual framework that could be used by the building operator and the utility company to declare flexibility on one side and reward structure on the other side. We also present a control mechanism for the building to decide its flexibility for the next contractual period to maximize the reward. We also present a Model Predictive Control (MPC) scheme to direct the ancillary service power flow from buildings to improve upon the classical Automatic Generation Control (AGC) practice. We show how constraints such as slow and fast ramping rates for various ancillary service providers, and short-term load forecast information can be integrated into the proposed MPC framework. Finally, results from at-scale experiments are presented to demonstrate the feasibility of the proposed algorithm.
+BibTeX citation:
+@techreport{Maasoumy Haghighi:EECS-2013-244,
+Author= {Maasoumy Haghighi, Mehdi},
+Title= {Controlling Energy-Efficient Buildings in the Context of Smart Grid: A Cyber Physical System Approach},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-244.html},
+Number= {UCB/EECS-2013-244},
+Abstract= {The building sector is responsible for about 40% of energy consumption, 40% of greenhouse gas emissions, and 70% of electricity use in the US. Over 50% of the energy consumed in buildings is directly related to space heating, cooling and ventilation. Optimal control of heating, ventilation and air conditioning (HVAC) systems is crucial for reducing energy consumption in buildings.
+We present a physics-based mathematical model of thermal behavior of buildings, along with a novel Parameter Adaptive Building (PAB) model framework to update the model parameters, as new measurements arrive, to reduce the model uncertainties. We then present a Model Predictive Control (MPC), and a Robust Model Predictive Control (RMPC) algorithm and a methodology for selecting a controller type, i.e. RMPC or MPC, versus Rule Based Control (RBC) as a function of model uncertainty.
+We then address the ``Cyber-Physical" aspect of a building HVAC system in the design flow. We present a co-design framework that analyzes the interaction between the control algorithm and the embedded platform through a set of interface variables, and demonstrate how the design space is explored to optimize the energy cost and monetary cost, while satisfying the constraints for occupant comfort level.
+The last part of this dissertation is centered on the role of smart buildings in the context of the smart grid. Commercial buildings have inherent flexibility in how their HVAC systems consume electricity. We first propose a means to define and quantify the flexibility of a commercial building. We then present a contractual framework that could be used by the building operator and the utility company to declare flexibility on one side and reward structure on the other side. We also present a control mechanism for the building to decide its flexibility for the next contractual period to maximize the reward. We also present a Model Predictive Control (MPC) scheme to direct the ancillary service power flow from buildings to improve upon the classical Automatic Generation Control (AGC) practice. We show how constraints such as slow and fast ramping rates for various ancillary service providers, and short-term load forecast information can be integrated into the proposed MPC framework. Finally, results from at-scale experiments are presented to demonstrate the feasibility of the proposed algorithm.},
+}
+EndNote citation:
+%0 Report
+%A Maasoumy Haghighi, Mehdi
+%T Controlling Energy-Efficient Buildings in the Context of Smart Grid: A Cyber Physical System Approach
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 28
+%@ UCB/EECS-2013-244
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-244.html
+%F Maasoumy Haghighi:EECS-2013-244

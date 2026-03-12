@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28945.html
+Embedding Expert Knowledge and Hypothetical Databases into a Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Embedding Expert Knowledge and Hypothetical Databases into a Data Base System
+Embedding Expert Knowledge and Hypothetical Databases into a Data Base System
+M. Stonebraker and K. Keller
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/15
+April 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ELR-m-80-15.pdf
+BibTeX citation:
+@techreport{Stonebraker:M80/15,
+Author = {Stonebraker, M. and Keller, K.},
+Title = {Embedding Expert Knowledge and Hypothetical Databases into a Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28945.html},
+Number = {UCB/ERL M80/15}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, M.
+%A Keller, K.
+%T Embedding Expert Knowledge and Hypothetical Databases into a Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28945.html
+%F Stonebraker:M80/15

@@ -1,0 +1,72 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/GR
+Graphics (GR)
+Overview
+The Computer Graphics Group studies scientific visualization, physically-based rendering, animation, computer-aided geometric design, rapid prototyping, computer aided cornea modeling and visualization, medical imaging, tele-immersive environments for geographically distributed collaboration, and virtual environments for surgical simulation.
+Graphics Group Web Pages
+Topics
+Computer Aided Design and Modeling:
+Computer aided geometric design. Splines and subdivision. Surface optimization.   Texture synthesis. Sound synthesis. Rapid prototyping.
+Rendering:
+Image based rendering. Vision realistic rendering. Computational photography and video.
+Visualization:
+Scientific and information visualization. Virtual environments, tele-immersive environments
+Animation:
+Motion capture analysis and synthesis. Physically based simulation. Video games.
+Art:
+Abstract sculpture, art & mathematics
+Research Centers
+Berkeley Center for Computational Imaging
+Berkeley Center for New Media
+Berkeley Institute of Design
+Center for Augmented Cognition
+Computer Graphics at Berkeley
+FHL Vive Center for Enhanced Reality
+Tele-Immersion
+Video and Image Processing Lab
+Visual Computing Lab
+Faculty
+Primary
+Brian A. Barsky
+Alexei (Alyosha) Efros
+Hany Farid
+Ren Ng
+James O'Brien  (coordinator)
+Carlo H. Séquin
+Secondary
+Ruzena Bajcsy
+John F. Canny
+Susan L. Graham
+Björn Hartmann
+Angjoo Kanazawa
+Michael Lustig
+Jonathan Shewchuk  (coordinator)
+Laura Waller
+Stella Yu
+Avideh Zakhor
+Faculty Awards
+ACM Prize in Computing:
+Alexei (Alyosha) Efros, 2016.
+National Academy of Engineering (NAE) Member:
+Ruzena Bajcsy, 1997.
+Susan L. Graham, 1993.
+American Academy of Arts and Sciences Member:
+Ruzena Bajcsy, 2007.
+Susan L. Graham, 1995.
+Berkeley Citation:
+Ruzena Bajcsy, 2023.
+Carlo H. Séquin, 2016.
+Susan L. Graham, 2009.
+Sloan Research Fellow:
+Angjoo Kanazawa, 2023.
+Ren Ng, 2017.
+Björn Hartmann, 2013.
+Michael Lustig, 2013.
+Alexei (Alyosha) Efros, 2008.
+Jonathan Shewchuk, 2004.
+James O'Brien, 2003.
+Related Courses
+CS 39J. Freshman/Sophomore Seminar
+CS 184. Foundations of Computer Graphics
+CS 274. Computational Geometry
+CS C280. Computer Vision
+CS 284A. Foundations of Computer Graphics

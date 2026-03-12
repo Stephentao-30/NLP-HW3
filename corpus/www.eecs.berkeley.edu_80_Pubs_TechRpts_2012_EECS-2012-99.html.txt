@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-99.html
+Matrix Factorization and Matrix Concentration
+Lester Mackey
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-99
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-99.pdf
+Motivated by the constrained factorization problems of sparse principal components analysis (PCA) for gene expression modeling, low-rank matrix completion for recommender systems, and robust matrix factorization for video surveillance, this dissertation explores the modeling, methodology, and theory of matrix factorization.
+We begin by exposing the theoretical and empirical shortcomings of standard deflation techniques for sparse PCA and developing alternative methodology more suitable for deflation with sparse “pseudo-eigenvectors.” We then explicitly reformulate the sparse PCA optimization problem and derive a generalized deflation procedure that typically outperforms more standard techniques on real-world datasets.
+We next develop a fully Bayesian matrix completion framework for integrating the complementary approaches of discrete mixed membership modeling and continuous matrix factorization. We introduce two Mixed Membership Matrix Factorization (M3F) models, develop highly parallelizable Gibbs sampling inference procedures, and find that M3F is both more parsimonious and more accurate than state-of-the-art baselines on real-world collaborative filtering datasets.
+Our third contribution is Divide-Factor-Combine (DFC), a parallel divide-and-conquer framework for boosting the scalability of a matrix completion or robust matrix factorization algorithm while retaining its theoretical guarantees. Our experiments demonstrate the near-linear to super-linear speed-ups attainable with this approach, and our analysis shows that DFC enjoys high-probability recovery guarantees comparable to those of its base algorithm.
+Finally, inspired by the analyses of matrix completion and randomized factorization procedures, we show how Stein’s method of exchangeable pairs can be used to derive concentration inequalities for matrix-valued random elements. As an immediate consequence, we obtain analogues of classical moment inequalities and exponential tail inequalities for independent and dependent sums of random matrices. We moreover derive comparable concentration inequalities for self-bounding matrix functions of dependent random elements.
+Advisors:  Michael Jordan
+BibTeX citation:
+@phdthesis{Mackey:EECS-2012-99,
+Author= {Mackey, Lester},
+Title= {Matrix Factorization and Matrix Concentration},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-99.html},
+Number= {UCB/EECS-2012-99},
+Abstract= {Motivated by the constrained factorization problems of sparse principal components analysis (PCA) for gene expression modeling, low-rank matrix completion for recommender systems, and robust matrix factorization for video surveillance, this dissertation explores the modeling, methodology, and theory of matrix factorization.
+We begin by exposing the theoretical and empirical shortcomings of standard deflation techniques for sparse PCA and developing alternative methodology more suitable for deflation with sparse “pseudo-eigenvectors.” We then explicitly reformulate the sparse PCA optimization problem and derive a generalized deflation procedure that typically outperforms more standard techniques on real-world datasets.
+We next develop a fully Bayesian matrix completion framework for integrating the complementary approaches of discrete mixed membership modeling and continuous matrix factorization. We introduce two Mixed Membership Matrix Factorization (M3F) models, develop highly parallelizable Gibbs sampling inference procedures, and find that M3F is both more parsimonious and more accurate than state-of-the-art baselines on real-world collaborative filtering datasets.
+Our third contribution is Divide-Factor-Combine (DFC), a parallel divide-and-conquer framework for boosting the scalability of a matrix completion or robust matrix factorization algorithm while retaining its theoretical guarantees. Our experiments demonstrate the near-linear to super-linear speed-ups attainable with this approach, and our analysis shows that DFC enjoys high-probability recovery guarantees comparable to those of its base algorithm.
+Finally, inspired by the analyses of matrix completion and randomized factorization procedures, we show how Stein’s method of exchangeable pairs can be used to derive concentration inequalities for matrix-valued random elements. As an immediate consequence, we obtain analogues of classical moment inequalities and exponential tail inequalities for independent and dependent sums of random matrices. We moreover derive comparable concentration inequalities for self-bounding matrix functions of dependent random elements.},
+}
+EndNote citation:
+%0 Thesis
+%A Mackey, Lester
+%T Matrix Factorization and Matrix Concentration
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-99
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-99.html
+%F Mackey:EECS-2012-99

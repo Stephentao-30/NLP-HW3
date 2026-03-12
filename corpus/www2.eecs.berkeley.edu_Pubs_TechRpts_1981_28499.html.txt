@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28499.html
+A Bit by Bit Secure Public-Key Cryptosystem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Bit by Bit Secure Public-Key Cryptosystem
+A Bit by Bit Secure Public-Key Cryptosystem
+Shafi Goldwasser
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/88
+December 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-88.pdf
+BibTeX citation:
+@techreport{Goldwasser:M81/88,
+Author = {Goldwasser, Shafi},
+Title = {A Bit by Bit Secure Public-Key Cryptosystem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28499.html},
+Number = {UCB/ERL M81/88}
+}
+EndNote citation:
+%0 Report
+%A Goldwasser, Shafi
+%T A Bit by Bit Secure Public-Key Cryptosystem
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/88
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28499.html
+%F Goldwasser:M81/88

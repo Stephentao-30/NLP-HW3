@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28939.html
+Software Requirements and Specifications: Status and Perspectives | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Software Requirements and Specifications: Status and Perspectives
+Software Requirements and Specifications: Status and Perspectives
+C.V. Ramamoorthey and H.H. So
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/44
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-44.pdf
+BibTeX citation:
+@techreport{Ramamoorthey:M78/44,
+Author = {Ramamoorthey, C.V. and So, H.H.},
+Title = {Software Requirements and Specifications: Status and Perspectives},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28939.html},
+Number = {UCB/ERL M78/44}
+}
+EndNote citation:
+%0 Report
+%A Ramamoorthey, C.V.
+%A So, H.H.
+%T Software Requirements and Specifications: Status and Perspectives
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/44
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28939.html
+%F Ramamoorthey:M78/44

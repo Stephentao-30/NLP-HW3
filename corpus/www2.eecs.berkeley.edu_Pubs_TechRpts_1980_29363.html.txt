@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29363.html
+A Software System for Optimization Based Interactive Computer-Aided Design | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Software System for Optimization Based Interactive Computer-Aided Design
+A Software System for Optimization Based Interactive Computer-Aided Design
+M.A. Bhatti, T. Essebo, W. Nye, K.S. Pister, E. Polak, A. Sangiovanni-Vincentelli and A. Tits
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/14
+April 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-80-14.pdf
+BibTeX citation:
+@techreport{Bhatti:M80/14,
+Author = {Bhatti, M.A. and Essebo, T. and Nye, W. and Pister, K.S. and Polak, E. and Sangiovanni-Vincentelli, A. and Tits, A.},
+Title = {A Software System for Optimization Based Interactive Computer-Aided Design},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29363.html},
+Number = {UCB/ERL M80/14}
+}
+EndNote citation:
+%0 Report
+%A Bhatti, M.A.
+%A Essebo, T.
+%A Nye, W.
+%A Pister, K.S.
+%A Polak, E.
+%A Sangiovanni-Vincentelli, A.
+%A Tits, A.
+%T A Software System for Optimization Based Interactive Computer-Aided Design
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29363.html
+%F Bhatti:M80/14

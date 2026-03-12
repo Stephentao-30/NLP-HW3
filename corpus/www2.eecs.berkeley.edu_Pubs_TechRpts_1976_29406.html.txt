@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29406.html
+A distributed Data Base Version of INGRES | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A distributed Data Base Version of INGRES
+A distributed Data Base Version of INGRES
+Michael Stonebraker and Eric Neuhold
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M612
+September 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-612.pdf
+BibTeX citation:
+@techreport{Stonebraker:M612,
+Author = {Stonebraker, Michael and Neuhold, Eric},
+Title = {A distributed Data Base Version of INGRES},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29406.html},
+Number = {UCB/ERL M612}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Neuhold, Eric
+%T A distributed Data Base Version of INGRES
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M612
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29406.html
+%F Stonebraker:M612

@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-208.html
+Rethinking the First Look at Data by Framing It | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Rethinking the First Look at Data by Framing It
+Rethinking the First Look at Data by Framing It
+Sara Alspaugh, Anna Swigart, Ian MacFarland, Randy H. Katz and Marti Hearst
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-208
+November 2, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-208.pdf
+Full-featured data analysis tools provide users a wide variety of ways to transform and visualize their data; ironically, this abundance can be as much hindrance as help in the initial stage of data exploration. In these stages, the critical question is often not "what steps must I take to visualize this data?" but rather "what is this data and what can it tell me?" This mismatch leads to several intertwined challenges. It’s difficult to get a mental picture of the data without first visualizing it, but it’s hard to identify the appropriate way to visualize the data without first having a mental picture of it. Moreover, it’s all too easy for an intriguing data point to pique a researcher’s interest and distract them from their current task. This difficult-to-navigate and distraction-rich environment can easily hide faulty assumptions from notice until they botch the analysis later down the line. Together these problems can send the analyst tumbling down a rabbit-hole of progressively deeper and sometimes misguided analysis, while the remainder of the data landscape lies uncharted. We investigate whether we can address these problems through a set of interface features that could easily be incorporated into current visual analytics tools. We built a prototype implementation of these features called DataFramer. Preliminary assessment via a study with 29 participants suggests the approach of examining data and stating questions before exploring the data is promising. We present a taxonomy of exploratory analysis statements and errors, as well as qualitative observations about how participants posed questions for exploring data using different tools.
+BibTeX citation:
+@techreport{Alspaugh:EECS-2015-208,
+Author = {Alspaugh, Sara and Swigart, Anna and MacFarland, Ian and Katz, Randy H. and Hearst, Marti},
+Title = {Rethinking the First Look at Data by Framing It},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-208.html},
+Number = {UCB/EECS-2015-208},
+Abstract = {Full-featured data analysis tools provide users a wide variety of ways to transform and visualize their data; ironically, this abundance can be as much hindrance as help in the initial stage of data exploration. In these stages, the critical question is often not "what steps must I take to visualize this data?" but rather "what is this data and what can it tell me?" This mismatch leads to several intertwined challenges. It’s difficult to get a mental picture of the data without first visualizing it, but it’s hard to identify the appropriate way to visualize the data without first having a mental picture of it. Moreover, it’s all too easy for an intriguing data point to pique a researcher’s interest and distract them from their current task. This difficult-to-navigate and distraction-rich environment can easily hide faulty assumptions from notice until they botch the analysis later down the line. Together these problems can send the analyst tumbling down a rabbit-hole of progressively deeper and sometimes misguided analysis, while the remainder of the data landscape lies uncharted. We investigate whether we can address these problems through a set of interface features that could easily be incorporated into current visual analytics tools. We built a prototype implementation of these features called DataFramer. Preliminary assessment via a study with 29 participants suggests the approach of examining data and stating questions before exploring the data is promising. We present a taxonomy of exploratory analysis statements and errors, as well as qualitative observations about how participants posed questions for exploring data using different tools.}
+}
+EndNote citation:
+%0 Report
+%A Alspaugh, Sara
+%A Swigart, Anna
+%A MacFarland, Ian
+%A Katz, Randy H.
+%A Hearst, Marti
+%T Rethinking the First Look at Data by Framing It
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 November 2
+%@ UCB/EECS-2015-208
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-208.html
+%F Alspaugh:EECS-2015-208

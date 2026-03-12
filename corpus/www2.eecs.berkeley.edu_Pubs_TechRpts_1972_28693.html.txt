@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28693.html
+Theory and Practice of Algorithm Verification
+W.D. Maurer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M315
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-315.pdf
+BibTeX citation:
+@techreport{Maurer:M315,
+Author= {Maurer, W.D.},
+Title= { Theory and Practice of Algorithm Verification},
+Year= {1972},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28693.html},
+Number= {UCB/ERL M315},
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T  Theory and Practice of Algorithm Verification
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M315
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28693.html
+%F Maurer:M315

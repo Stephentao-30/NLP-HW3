@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28498.html
+Two-Frequency Fermi Mapping | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Two-Frequency Fermi Mapping
+Two-Frequency Fermi Mapping
+J.E. Howard, M.A. Lieberman and A.J. Lichtenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/86
+August 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-86.pdf
+BibTeX citation:
+@techreport{Howard:M81/86,
+Author = {Howard, J.E. and Lieberman, M.A. and Lichtenberg, A.J.},
+Title = {Two-Frequency Fermi Mapping},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28498.html},
+Number = {UCB/ERL M81/86}
+}
+EndNote citation:
+%0 Report
+%A Howard, J.E.
+%A Lieberman, M.A.
+%A Lichtenberg, A.J.
+%T Two-Frequency Fermi Mapping
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/86
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28498.html
+%F Howard:M81/86

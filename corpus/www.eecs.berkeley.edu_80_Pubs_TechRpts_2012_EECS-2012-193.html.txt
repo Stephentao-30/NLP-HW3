@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-193.html
+Attacks on Emerging Architectures
+Steve Hanna
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-193
+September 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-193.pdf
+New architectures require careful examination of security properties in order to assess and contain new threats. In light of this, emerging technologies, such as web APIs, medical devices, and applications on mobile phones, are a new security landscape that has recurring security problems. We develop new techniques to analyze these applications for security vulnerabilities, utilizing techniques including: dynamic symbolic execution, binary analysis and reverse engineering, and wide scale application comparison and classification. We develop Kudzu, a system for symbolic execution of JavaScript, and use it to evaluate a wide variety of JavaScript applications in order to find client-side validation vulnerabilities. Secondly, we use this system to evaluate the security, in practice, of new HTML5 primitives. Then, we conduct the first publicly available reverse engineering and security evaluation of a ubiquitous medical device, namely an Automated External Defibrillator. We discovered a wide array of vulnerabilities and we confirm our findings using COTS software components. We offer considerations to help guide future development of medical devices. Finally, we developed Juxtapp, a scalable, efficient system for detecting code reuse in Android Applications. Using Juxtapp we detected instances of piracy, malware and buggy code reuse among Android applications. We demonstrate that these techniques are useful at discovering and/or preventing attacks, in their respective application domains.
+Advisors:  Dawn Song
+BibTeX citation:
+@phdthesis{Hanna:EECS-2012-193,
+Author= {Hanna, Steve},
+Title= {Attacks on Emerging Architectures},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-193.html},
+Number= {UCB/EECS-2012-193},
+Abstract= {New architectures require careful examination of security properties in order to assess and contain new threats. In light of this, emerging technologies, such as web APIs, medical devices, and applications on mobile phones, are a new security landscape that has recurring security problems. We develop new techniques to analyze these applications for security vulnerabilities, utilizing techniques including: dynamic symbolic execution, binary analysis and reverse engineering, and wide scale application comparison and classification. We develop Kudzu, a system for symbolic execution of JavaScript, and use it to evaluate a wide variety of JavaScript applications in order to find client-side validation vulnerabilities. Secondly, we use this system to evaluate the security, in practice, of new HTML5 primitives. Then, we conduct the first publicly available reverse engineering and security evaluation of a ubiquitous medical device, namely an Automated External Defibrillator. We discovered a wide array of vulnerabilities and we confirm our findings using COTS software components. We offer considerations to help guide future development of medical devices. Finally, we developed Juxtapp, a scalable, efficient system for detecting code reuse in Android Applications. Using Juxtapp we detected instances of piracy, malware and buggy code reuse among Android applications. We demonstrate that these techniques are useful at discovering and/or preventing attacks, in their respective application domains.},
+}
+EndNote citation:
+%0 Thesis
+%A Hanna, Steve
+%T Attacks on Emerging Architectures
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 10
+%@ UCB/EECS-2012-193
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-193.html
+%F Hanna:EECS-2012-193

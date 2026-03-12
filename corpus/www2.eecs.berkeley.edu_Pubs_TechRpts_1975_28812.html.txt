@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28812.html
+An Iterative Procedure for Solving Nonlinear Equations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Iterative Procedure for Solving Nonlinear Equations
+An Iterative Procedure for Solving Nonlinear Equations
+Y-F Lam and J.D. McPherson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M516
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-516.pdf
+BibTeX citation:
+@techreport{Lam:M516,
+Author = {Lam, Y-F and McPherson, J.D.},
+Title = {An Iterative Procedure for Solving Nonlinear Equations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28812.html},
+Number = {UCB/ERL M516}
+}
+EndNote citation:
+%0 Report
+%A Lam, Y-F
+%A McPherson, J.D.
+%T An Iterative Procedure for Solving Nonlinear Equations
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M516
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28812.html
+%F Lam:M516

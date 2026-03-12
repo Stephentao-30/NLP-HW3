@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-77.html
+A Stable Algorithm for Non-Negative Invariant Numerical Solution of Reaction-Diffusion Systems on Complicated Domains
+Insoon Yang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-77
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-77.pdf
+We present a Cartesian grid finite difference numerical method for solving a system of reaction-diffusion initial boundary value problems with Neumann type boundary conditions. The method utilizes adaptive time-stepping, which guarantees stability and non-negativity of the solutions. The latter property is critical for models in biology where solutions rep- resent physical measurements such as concentration. The level set representation of the boundary enables us to handle domains with complicated geometry with ease. We pro- vide numerical validation of our method on synthetic and biological examples. Empirical tests demonstrate second order convergence rate in the L1- and L2-norms, as well as in the L∞-norm for many cases.
+Advisors:  Claire Tomlin
+BibTeX citation:
+@mastersthesis{Yang:EECS-2012-77,
+Author= {Yang, Insoon},
+Title= {A Stable Algorithm for Non-Negative Invariant Numerical Solution of Reaction-Diffusion Systems on Complicated Domains},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-77.html},
+Number= {UCB/EECS-2012-77},
+Abstract= {We present a Cartesian grid finite difference numerical method for solving a system of reaction-diffusion initial boundary value problems with Neumann type boundary conditions. The method utilizes adaptive time-stepping, which guarantees stability and non-negativity of the solutions. The latter property is critical for models in biology where solutions rep- resent physical measurements such as concentration. The level set representation of the boundary enables us to handle domains with complicated geometry with ease. We pro- vide numerical validation of our method on synthetic and biological examples. Empirical tests demonstrate second order convergence rate in the L1- and L2-norms, as well as in the L∞-norm for many cases.},
+}
+EndNote citation:
+%0 Thesis
+%A Yang, Insoon
+%T A Stable Algorithm for Non-Negative Invariant Numerical Solution of Reaction-Diffusion Systems on Complicated Domains
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-77
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-77.html
+%F Yang:EECS-2012-77

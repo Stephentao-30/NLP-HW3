@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29263.html
+Computer Programs for Certain Problems in Electric and Magnetic Fields and Electron Streams in Two-Dimensional Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Programs for Certain Problems in Electric and Magnetic Fields and Electron Streams in Two-Dimensional Systems
+Computer Programs for Certain Problems in Electric and Magnetic Fields and Electron Streams in Two-Dimensional Systems
+R.A. Rao and K.A. Fox
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M255
+September 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-255.pdf
+BibTeX citation:
+@techreport{Rao:M255,
+Author = {Rao, R.A. and Fox, K.A.},
+Title = {Computer Programs for Certain Problems in Electric and Magnetic Fields and Electron Streams in Two-Dimensional Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29263.html},
+Number = {UCB/ERL M255}
+}
+EndNote citation:
+%0 Report
+%A Rao, R.A.
+%A Fox, K.A.
+%T Computer Programs for Certain Problems in Electric and Magnetic Fields and Electron Streams in Two-Dimensional Systems
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M255
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29263.html
+%F Rao:M255

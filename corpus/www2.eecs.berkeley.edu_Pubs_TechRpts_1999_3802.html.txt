@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/3802.html
+Towards a Geometric Theory of Hybrid Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Towards a Geometric Theory of Hybrid Systems
+Towards a Geometric Theory of Hybrid Systems
+Slobodan Simić, K.H. Johansson, S. Shankar Sastry and J. Lygeros
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M00/3
+December 1999
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/ERL-00-3.pdf
+BibTeX citation:
+@techreport{Simić:M00/3,
+Author = {Simić, Slobodan and Johansson, K.H. and Sastry, S. Shankar and Lygeros, J.},
+Title = {Towards a Geometric Theory of Hybrid Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1999},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/3802.html},
+Number = {UCB/ERL M00/3}
+}
+EndNote citation:
+%0 Report
+%A Simić, Slobodan
+%A Johansson, K.H.
+%A Sastry, S. Shankar
+%A Lygeros, J.
+%T Towards a Geometric Theory of Hybrid Systems
+%I EECS Department, University of California, Berkeley
+%D 1999
+%@ UCB/ERL M00/3
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1999/3802.html
+%F Simić:M00/3

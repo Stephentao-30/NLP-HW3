@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-105.html
+User Interface: 3D Feedback
+Seyed Hassan Elahi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-105
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-105.pdf
+In this project we examine the possibilities of bringing the gesture recognition to Windows Phone and Surface tablet devices by integrating Kinect to the aforementioned devices. We will demonstrate this by designing a physiotherapy application.
+In physiotherapy exercises, it is very important and critical to the patient to do the exercises as accurately as possible. So our physiotherapy application should have the ability to give feedback to the users in order for them to do the exercises correctly. For this purpose, we decided to render 3D arrows that show users how to adjust incorrectly positioned limbs. One way to do this is to use 3D animation on top of the skeleton image from the Kinect, so the user will know how and how much he or she should change the angle of the wrong joint to correct the position. This paper presents an approach for modeling shapes in an open source 3D application, Blender, and subsequently importing and animating those shapes in an interactive application created in the Microsoft XNA framework.
+Advisors:  Bernhard Boser
+BibTeX citation:
+@mastersthesis{Elahi:EECS-2013-105,
+Author= {Elahi, Seyed Hassan},
+Title= {User Interface: 3D Feedback},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-105.html},
+Number= {UCB/EECS-2013-105},
+Abstract= {In this project we examine the possibilities of bringing the gesture recognition to Windows Phone and Surface tablet devices by integrating Kinect to the aforementioned devices. We will demonstrate this by designing a physiotherapy application.
+In physiotherapy exercises, it is very important and critical to the patient to do the exercises as accurately as possible. So our physiotherapy application should have the ability to give feedback to the users in order for them to do the exercises correctly. For this purpose, we decided to render 3D arrows that show users how to adjust incorrectly positioned limbs. One way to do this is to use 3D animation on top of the skeleton image from the Kinect, so the user will know how and how much he or she should change the angle of the wrong joint to correct the position. This paper presents an approach for modeling shapes in an open source 3D application, Blender, and subsequently importing and animating those shapes in an interactive application created in the Microsoft XNA framework.},
+}
+EndNote citation:
+%0 Thesis
+%A Elahi, Seyed Hassan
+%T User Interface: 3D Feedback
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-105
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-105.html
+%F Elahi:EECS-2013-105

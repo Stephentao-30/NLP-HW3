@@ -1,0 +1,14 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-114.html
+Indoor Floorplan with WiFi Coverage Map Android Application
+THIS REPORT HAS BEEN WITHDRAWN
+Zeying Xin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-114
+May 22, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2013-114.pdf
+Because of the emerging trend of mobile, developing applications on smartphone platform gathers more and more people’s interests. Our capstone project is to build a
+mobile application on the Android platform that generates a house floor plan overlaid with Wi-Fi strength map. Right now in the market, there are plenty of mobile apps about measuring the floor plan or the WiFi signal strength, but there has not been an app that combines those two features. Since Wi-Fi is becoming the de facto standard for in-home wireless connectivity between devices inside the home, our
+industry partner, Qualcomm, thought this could be a great feature to be added to the floor plan app. We divided the whole product into two parts. One is the house floor plan, the other is the WiFi signal strength map. We finished those two separately then assembled them together. The whole developing process includes the selection of the main algorithms for the floor plan measurement and the WiFi signal strength, graphical user interface design as well as some marketing research. Finally we achieved that the error of the measurement result given by our application is within
+10%. After the measurement process, the user can get the desired floorplan with the WiFi signal strength map.
+Advisors:  Bernhard Boser
+Author Comments:  see http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-115.html

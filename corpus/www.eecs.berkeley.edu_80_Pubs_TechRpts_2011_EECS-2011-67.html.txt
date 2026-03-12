@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-67.html
+Reverse Execution With Constraint Solving
+Raluca Sauciuc and George Necula
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-67
+May 25,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-67.pdf
+The typical debugging experience is an iterative process of setting breakpoints, running the program and inspecting the state until the source of the bug is identified. When re-executing the program is not guaranteed to reproduce the faulty execution path, the final state and the system logs can be used to mentally construct a model of the execution. By contrast, debugging by going backward in time, i.e. the ability to reverse-execute the program, can be considered the most intuitive and easy-to-use alternative.
+We show an efficient approach to reverse execution, which sacrifices the full replay ability in favor of portability and a lighter memory footprint. We treat the execution trace as a set of constraints, and use an SMT solver to navigate the trace and restore data values. Depending on how the solver performs on constraint sets corresponding to multiple test runs, we decide where to instrument the code to save intermediate values, for a faster replay.
+BibTeX citation:
+@techreport{Sauciuc:EECS-2011-67,
+Author= {Sauciuc, Raluca and Necula, George},
+Title= {Reverse Execution With Constraint Solving},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-67.html},
+Number= {UCB/EECS-2011-67},
+Abstract= {The typical debugging experience is an iterative process of setting breakpoints, running the program and inspecting the state until the source of the bug is identified. When re-executing the program is not guaranteed to reproduce the faulty execution path, the final state and the system logs can be used to mentally construct a model of the execution. By contrast, debugging by going backward in time, i.e. the ability to reverse-execute the program, can be considered the most intuitive and easy-to-use alternative.
+We show an efficient approach to reverse execution, which sacrifices the full replay ability in favor of portability and a lighter memory footprint. We treat the execution trace as a set of constraints, and use an SMT solver to navigate the trace and restore data values. Depending on how the solver performs on constraint sets corresponding to multiple test runs, we decide where to instrument the code to save intermediate values, for a faster replay.},
+}
+EndNote citation:
+%0 Report
+%A Sauciuc, Raluca
+%A Necula, George
+%T Reverse Execution With Constraint Solving
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 25
+%@ UCB/EECS-2011-67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-67.html
+%F Sauciuc:EECS-2011-67

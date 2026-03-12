@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28798.html
+An Interpreter for Declarative Query Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Interpreter for Declarative Query Languages
+An Interpreter for Declarative Query Languages
+Wanyen Chang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M498
+January 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-498.pdf
+BibTeX citation:
+@techreport{Chang:M498,
+Author = {Chang, Wanyen},
+Title = {An Interpreter for Declarative Query Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28798.html},
+Number = {UCB/ERL M498}
+}
+EndNote citation:
+%0 Report
+%A Chang, Wanyen
+%T An Interpreter for Declarative Query Languages
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M498
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28798.html
+%F Chang:M498

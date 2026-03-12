@@ -1,0 +1,225 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021
+Technical Reports - 2021
+Systems for Using Far Memory in Datacenters  (EECS-2021-268) Emmanuel Amaro
+Acquiring Motor Skills Through Motion Imitation and Reinforcement Learning  (EECS-2021-267) Xue Bin Peng
+Modin OpenMPI Compute Engine  (EECS-2021-265) Andrew Zhang, Richard Lin, Sean Meng and Crystal Jin
+Speaking Truth to Power  (EECS-2021-264) Prabal Dutta and Noah Klugman
+Adaptive Prediction and Planning for Safe and Effective Autonomous Vehicles  (EECS-2021-263) Vijay Govindarajan
+Adaptation Based Approaches to Distribution Shift Problems  (EECS-2021-262) Marvin Zhang
+YouVerify: An Intermediate Representation and Framework for Symbolic Execution  (EECS-2021-261) Griffin Prechter
+Computational Woodworking: Tools for Designing Stable Decorative Joints and Flexible Kerf Patterns  (EECS-2021-260) Jia Xian Yao
+Human-Centered Circuit Board Design With Flexible Levels of Abstraction and Ambiguity  (EECS-2021-259) Richard Lin
+TeraPipe: Token-Level Pipeline Parallelism for Training Large-Scale Language Models  (EECS-2021-258) Zhuohan Li, Siyuan Zhuang, Shiyuan Guo, Danyang Zhuo, Hao Zhang, Dawn Song and Ion Stoica
+Cassie Learning Dodging Skills: A Hierarchical Reinforcement Learning Based Approach  (EECS-2021-254) Jesus Navarro
+Rapid Fabrication of Low Impedance, 3D Dry Electrodes for Physiological Sensing  (EECS-2021-253) Natalie Tetreault and Ryan Kaveh
+Robust deep-reinforcement learning policies for mixed-autonomy traffic  (EECS-2021-252) Kathy Jang
+Hybrid Convolutional Optoelectronic Reservoir Computing for Image Recognition  (EECS-2021-251) Philip Jacobson, Mizuki Shirao, Kerry Yu, Guan-Lin Su and Ming C. Wu
+Three-Dimensional Phase Contrast Electron Tomography For Multiple Scattering Samples  (EECS-2021-250) Yonghuan David Ren
+Implicit Models: Theories and Applications  (EECS-2021-249) Fangda Gu
+Simultaneous Localization and Mapping Through the Lens of Nonlinear Optimization  (EECS-2021-248) Amay Saxena
+Learning Grounded Pragmatic Communication  (EECS-2021-247) Daniel Fried
+Infrastructure Support for Datacenter Applications  (EECS-2021-246) Michael Chang
+Trustworthy ML: Robustness and Foresight  (EECS-2021-245) Saurav Kadavath
+Infrastructure Support for Datacenter Applications  (EECS-2021-244) Michael Chang
+Masked Layer Distillation: Fast and Robust Training Through Knowledge Transfer Normalization  (EECS-2021-243) Derek Wan, Paras Jain and Tianjun Zhang
+Towards Evaluating and Understanding the Adversarial Robustness of Random Transformation Defenses  (EECS-2021-241) Zachary Golan-Strieb and David A. Wagner
+N-for-1-Auth: N-wise Decentralized Authentication via One Authentication  (EECS-2021-240) Ryan Deng, Weikeng Chen and Raluca Ada Popa
+Millivolt Micro-Electro-Mechanical Relay Devices & Circuits  (EECS-2021-239) Alice Ye
+Practical and Scalable Serverless Computing  (EECS-2021-238) Joao Menezes Carreira
+Hybrid Switched-Capacitor Power Converters: Fundamental Limits and Design Techniques  (EECS-2021-236) Zichao Ye
+Generator-Based Broadband Analog Baseband Receivers for Massive MIMO Arrays  (EECS-2021-235) Ethan Chou
+Low-loss and nonlinear silicon-based integrated photonic circuits  (EECS-2021-234) Jean-Etienne Tremblay
+Phasor-Based Control on Islanded Networks  (EECS-2021-233) Kyle Brady
+Developing a Digital Twin for Indoor Environments: A Case Study  (EECS-2021-232) Yu-wen Lin
+Interference-Resilient CMOS Receiver Front-Ends for Next Generation Radios  (EECS-2021-231) Sashank Krishnamurthy
+3D Building Detection and Reconstruction from Aerial Drone Imagery  (EECS-2021-230) Marc WuDunn
+CoMParE: Conductance based Model Parameter Evaluation  (EECS-2021-229) Kyung Geun Kim
+Design and Fabrication of VCSELs for 3D Sensing  (EECS-2021-228) Kevin Cook
+Design of Spectral Filtering Wireless Transmitters  (EECS-2021-227) Bonjern Yang
+Design of Spectral Filtering Wireless Transmitters  (EECS-2021-226) Bonjern Yang
+Low Thermal Budget Process Engineering for Flexible Electronics, Sensors, and Nanoscale Patterning  (EECS-2021-225) Thomas Rembert and Tsu-Jae King Liu
+Design, Development and Applications of Portable Field Emission Devices  (EECS-2021-224) Nishita Deka, Vivek Subramanian and Kristofer Pister
+De-Multiplexed Multiwavelength Interferometry for High Precision Metrology  (EECS-2021-222) Syed Zain-Ul-Abideen Zaidi
+Human Intranet: Connecting Wearable and Implantable Devices  (EECS-2021-221) Ali Moin, Jan M. Rabaey and Elad Alon
+Circuits and Systems for Decentralized Power Conversion  (EECS-2021-220) Jason Poon
+Inducing Structure in Reward Learning by Learning Features  (EECS-2021-219) Andreea Bobu, Marius Wiggert, Claire Tomlin and Anca Dragan
+Lifted Neural Networks  (EECS-2021-218) Armin Askari, Geoff Negiar, Rajiv Sambarhya and Laurent El Ghaoui
+Graphical Lasso based Cluster Analysis in Energy-Game Theoretic Frameworks  (EECS-2021-217) Hari Prasanna Das
+Behavioral Network Economics  (EECS-2021-216) Soham Phade
+Unsupervised Text Generation and its Application to News Interfaces  (EECS-2021-215) Philippe Laban
+Privacy and Scalability for Decentralized Cryptographic Systems  (EECS-2021-214) Pratyush Mishra
+Code Patternz - A tool to record the programming process  (EECS-2021-213) Renaldo Williams
+The Principal-Agent Alignment Problem in Artificial Intelligence  (EECS-2021-207) Dylan Hadfield-Menell
+Local Phasor-Based Control on Three-phase Radial Distribution Networks  (EECS-2021-206) Jaimie Swartz
+Cost Savings Analysis of Semiconductor Foundries in Southeast Asian Countries  (EECS-2021-205) Andrew Tirtowijoyo Young
+RayLEAF: Benchmarking Compressed Federated Models  (EECS-2021-204) Ryan Panwar
+Empirical Evaluation of Adversarial Surprise  (EECS-2021-203) Samyak Parajuli
+Co-design of Algorithms, Hardware, and Scheduling for Deep Learning Applications  (EECS-2021-202) Qijing Huang
+Hydroflow: A Model and Runtime for Distributed Systems Programming  (EECS-2021-201) Mingwei Samuel
+Formally Verifying Trusted Execution Environments with UCLID5  (EECS-2021-200) Pranav Gaddamadugu
+Enabling Generalization of Human Models for Human-AI Collaboration to New Tasks  (EECS-2021-199) Xiaocheng Yang and Anca Dragan
+A Systematic Study of the Muscle Force–Deformation Relationship at the Human Elbow: Toward Physiology-Aware Assistive Device Control and Noninvasive Muscle Force Sensing  (EECS-2021-198) Laura Hallock
+Representation Learning for Perception and Control  (EECS-2021-197) Aravind Srinivas Lakshminarayanan
+Applications of Time Synchronized Measurements in the Electric Grid  (EECS-2021-196) Mohini Bariya
+One-Shot Interactions with Intelligent Assistants in Unfamiliar Smart Spaces  (EECS-2021-195) Meghan Clark
+Dataframe Systems: Theory, Architecture, and Implementation  (EECS-2021-193) Devin Petersohn
+Berkeley Open MOS dataBase (BOMB): A Dataset for Silicon Technology Representation Learning  (EECS-2021-192) Rohan Lageweg
+How to Train Your Robot: Techniques for Enabling Robotic Learning in the Real World  (EECS-2021-191) Abhishek Gupta
+Characterizing Circuits with Deep Embeddings  (EECS-2021-190) Arjun Mishra
+High-Performance Architectures for Vehicle Propulsion: An Unconventional Approach to Design, Fabrication and Analysis using Scalable Flying Capacitor Multilevel Converter Modules  (EECS-2021-189) Nathan Pallo
+Optical Flow for De-Identification and Driver Behavior Classification  (EECS-2021-188) Arjun Sarup
+Extending Temporal-Vector Microarchitectures for Two-Dimensional Computations  (EECS-2021-186) Colin Schmidt
+Accelerating Robot Learning and Deformable Manipulation Using Simulated Interactions, Architectural Priors, and Curricula  (EECS-2021-185) Daniel Seita
+Quantum Simulation: Upper and Lower Bounds  (EECS-2021-184) Bryan O'Gorman
+Generalized Partitioning for Dataset Versions in OrpheusDB  (EECS-2021-183) Vincent Truong
+Connected Quadratic Programs for Autonomy  (EECS-2021-182) Forrest Laine
+HASTE: Serverless DAG Execution Optimizer  (EECS-2021-181) Avinash Arjavalingam
+Principled Statistical Approaches For Sampling and Inference in High Dimensions  (EECS-2021-180) Raaz Dwivedi
+Real World Robot Learning: Learned Rewards, Offline Datasets and Skill Re-Use  (EECS-2021-179) Avi Singh
+Building Reinforcement Learning Algorithms that Generalize: From Latent Dynamics Models to Meta-Learning  (EECS-2021-178) JD Co-Reyes
+Goal-Directed Exploration and Skill Reuse  (EECS-2021-176) Vitchyr Pong
+Control of High-Dimensional Systems with Applications in Transportation  (EECS-2021-175) Stanley Smith
+Interactive Perception for Robotic Manipulation of Liquids, Grains, and Doughs  (EECS-2021-174) Carolyn Matl
+Compartmentalizing State Machine Replication  (EECS-2021-172) Michael Whittaker
+Detecting Synthetic Faces by Understanding Real Faces  (EECS-2021-171) Shruti Agarwal
+Reliable Machine Learning in Feedback Systems  (EECS-2021-170) Sarah Dean
+Offline Learning for Scalable Decision Making  (EECS-2021-168) Justin Fu
+Designing Algorithms for Learning and Decision-Making in Societal Systems  (EECS-2021-166) Eric Mazumdar
+Lucid Fabrication  (EECS-2021-165) Rundong Tian
+Model Selection for Contextual Bandits and Reinforcement Learning  (EECS-2021-164) Aldo Pacchiano
+Approximation bounds for sparse programs  (EECS-2021-163) Armin Askari
+Models of Ice Skating for the Development of Robotic Ice Skating Gaits  (EECS-2021-162) Deirdre Quillen and Sarah Dean
+Digital System Design and Fullchip Integration for Asynchronous Stochastic Neural Accelerator  (EECS-2021-161) Adhiraj Datar
+Crank, Shake, and Tilt: Transforming Social Media Interfaces with Embodied Constraints  (EECS-2021-160) Janaki Vivrekar
+Self-Adapting Software for Cyberphysical Systems  (EECS-2021-159) Gabe Fierro
+Hypercontracts  (EECS-2021-158) Inigo Incer, Albert Benveniste, Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+Active Academic Integrity  (EECS-2021-157) Alex Kassil
+Computer-Based Testing using PrairieLearn in BJC  (EECS-2021-156) Bojin Yao
+Enabling Verifiable Execution of Distributed Secure Enclave Platforms  (EECS-2021-153) Saharsh Agrawal and Karen Tu
+How Close is your Function to Depending on a Small Number of its Inputs?  (EECS-2021-152) Michael Whitmeyer
+How to See Impossible Colors: First Steps Toward the Oz Vision Display  (EECS-2021-151) James Fong
+Automatic Detection of Interesting Cellular Automata  (EECS-2021-150) Qitian Liao
+Hardware Accelerators for Graph Convolutional Networks  (EECS-2021-148) Kareem Ahmad
+GamesmanPuzzles: A Leap Into the Puzzles Domain  (EECS-2021-146) Anthony Ling
+Spreadsheet Bubbles: Showing Contextually Relevant Data During Formula Editing  (EECS-2021-145) Nidhi Kakulawaram and John Zamfirescu-Pereira
+Machine Learning for Deep Image Synthesis  (EECS-2021-143) Taesung Park
+A Curiosity-Driven Approach for Generating Textual Descriptions of Environments  (EECS-2021-142) Xinyun Zhang
+Towards Achieving Stronger Isolation in Serverless Computing  (EECS-2021-141) Saurav Chhatrapati
+Exploring the Effects of View Transforms on Self-Supervised Video Representation Learning Techniques  (EECS-2021-140) Ilian Herzi
+Language Guided Out-of-Distribution Detection  (EECS-2021-139) William Gan
+Secure Multi-threading in Keystone Enclaves  (EECS-2021-136) Stephan Kaminsky
+Neural Guidance in Constraint Solvers  (EECS-2021-135) Gil Lederman
+Enclaves in Real-Time Operating Systems  (EECS-2021-134) Alex Thomas
+Design and Application of a Co-Simulation Framework for Chisel  (EECS-2021-133) Ryan Lund
+Dynamic Verification Library for Chisel  (EECS-2021-132) Yuan-Cheng Tsai
+Incremental Learning via Rate Reduction  (EECS-2021-130) Kyung Eun Baek
+Small Autonomous Robot Actuator (SARA): A Solar-powered Wireless MEMS Gripper  (EECS-2021-129) Alexis Moreno
+The Cost of OPS in Reinforcement Learning  (EECS-2021-128) Yao Fu
+Spatiotemporal Algorithms for Neural Activity Tracking with Diffuser-Based Microscopes  (EECS-2021-127) Tiffany Chien
+Towards Characterizing Model Extraction Queries and How to Detect Them  (EECS-2021-126) Zhanyuan Zhang, Yizheng Chen and David A. Wagner
+Joining Interactive Graphics and Procedural Modeling for Precise Free-Form Designs  (EECS-2021-125) Randy Fan
+Redesigning Power Systems on a Single Chip Micro Mote with Berkeley Analog Generator Low Dropout Series Regulator Generation  (EECS-2021-124) Jackson Paddock
+Ultrasound Detection with Silicon Microring Resonators  (EECS-2021-123) Sarika Madhvapathy
+Pedagogy and Infrastructure for Upper-Division Data Science Courses  (EECS-2021-122) Allen Shen
+Robotic Untangling and Disentangling of Cables via Learned Manipulation and Recovery Strategies  (EECS-2021-121) Priya Sundaresan
+Designing an Assistive Mouse for Human Computer Interaction Using Hand Gestures  (EECS-2021-119) Michael Qi
+Snaps: A Tool for Understanding Students in Large Computer Science Classes  (EECS-2021-118) Itai Smith
+Fast Low-Overhead Logging Extending Time  (EECS-2021-117) Anusha Dandamudi
+Flexible Architectures for Image Synthesis  (EECS-2021-115) Ajay Jain
+Understanding and Evaluating the User Data Exploration Experience with Lux  (EECS-2021-114) Jerry Song
+Learning and Logic for Formal Synthesis  (EECS-2021-113) Benjamin Caulfield
+Efficient Unicontact Grasping in Cluttered Scenes  (EECS-2021-112) Vishal Satish
+Comparing Human and AI Behavior in 3D Navigation Environments  (EECS-2021-111) Jeffrey Liu
+Efficient Empowerment Estimation for Unsupervised Stabilization  (EECS-2021-109) Ruihan Zhao, Kevin Lu, Pieter Abbeel and Stas Tiomkin
+Scalable Machine Learning Algorithms for Biological Sequence Data  (EECS-2021-108) Jeffrey Chan
+A Spreadsheet Interface for Dataframes  (EECS-2021-107) Richard Lin
+A New Data-Focused Introductory Programming Course  (EECS-2021-106) Suraj Rampure
+Model-Agnostic Defense for Lane Detection Against Adversarial Attack  (EECS-2021-105) Henry Xu, An Ju and David A. Wagner
+Intermittent Visual Servoing: Effciently Learning Policies Robust to Instrument Changes for High-precision Surgical Manipulation  (EECS-2021-104) Samuel Paradis, Ken Goldberg and Joseph Gonzalez
+Scalable Techniques for Sampling-Based Falsification of AI-Based Cyber Physical Systems  (EECS-2021-103) Kesav Viswanadha
+Optimizations and Improvements to Cryptographic Libraries for zkSNARKs  (EECS-2021-102) Alexander Wu
+Safe and Sample-Efficient Reinforcement Learning  (EECS-2021-101) Michael Luo, Ashwin Balakrishna and Brijen Thananjeyan
+Automating Kitting Novel 3D Objects into Novel 3D Cavities Using Self-Supervised Learning of SE(3) Transforms  (EECS-2021-100) Shivin Devgon
+Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS  (EECS-2021-99) Nicholas Ward, Alessandro Chiesa, Pratyush Mishra, Yuncong Hu, Noah Vesely and Mary Maller
+Using Learned Image Compression for Training Accurate and Robust Convolutional Neural Networks  (EECS-2021-98) Navneedh Maudgalya
+Sharp Switching in Tunnel Transistors and Physics-based Machines for Optimization  (EECS-2021-97) Sri Krishna Vadlamani
+Accelerate Then Imitate: Learning from Task and Motion Planing  (EECS-2021-96) Michael McDonald
+Explainable Classification of Nuclear Facility Operational State Using Node and Region Importance for Sensor Networks  (EECS-2021-95) Jake Tibbetts
+On Memorability and Style of Audio Features in Multimedia Evaluation  (EECS-2021-94) Yutong Zhao
+Modeling Assumptions Clash with the Real World: Transparency, Equity, and Community Challenges for Student Assignment Algorithms  (EECS-2021-93) Sam Robertson, Tonya Nguyen and Niloufar Salehi
+In vivo Two-photon Excitation Magnetic Resonance Imaging  (EECS-2021-92) Jianshu Chi
+Deep Learning Applications in Computational MRI: A Thesis in Two Parts  (EECS-2021-91) Sukrit Arora
+Detecting Backdoored Neural Networks with Structured Adversarial Attacks  (EECS-2021-90) Charles Yang
+Provable and Efficient Algorithms for Federated, Batch and Reinforcement Learning  (EECS-2021-89) Avishek Ghosh, Kannan Ramchandran and Aditya Guntuboyina
+Compact and Efficient Power Electronics System Design for Automotive, Solar, and Aerospace Applications  (EECS-2021-88) Derek Chou
+Integrating a Localized B0 Shim Array into a Solenoid Transmit-Receive Coil for Permanent Magnet Scanners  (EECS-2021-87) Celine Veys and Rafael Calleja
+Detection of Node Pore Sensing Signals  (EECS-2021-86) Maxwell Lin-He
+Inclusive and Scalable Study Group Formation  (EECS-2021-85) Gloria Tumushabe
+Local B0 Shim Array Integrated onto a Solenoid TRX Coil for Permanent Magnet Scanners  (EECS-2021-84) Rafael Calleja and Celine Veys
+Fast Secure and Robust Aggregation Learning Frameworks on Distributed and Federated Setups  (EECS-2021-83) Beom Jin Lee, Swanand Kadhe and Kannan Ramchandran
+Approaching the Issue of Limited Annotation for Instance Segmentation  (EECS-2021-82) Vishnu Doppalapudi
+Adversarial Swarm Defense with Decentralized Swarms  (EECS-2021-81) Jason Zhou
+Towards Ubiquitous Serverless Computing: Fast Large-Scale Machine Learning and Optimal Pricing for the Cloud  (EECS-2021-80) Vipul Gupta
+Geometric Properties of Backdoored Neural Networks  (EECS-2021-78) Dominic Carrano
+Simultaneous Localization and Mapping: A Rapprochement of Filtering and Optimization-Based Approaches  (EECS-2021-76) Chih-Yuan Chiu and S. Shankar Sastry
+Visual Content Creation by Generative Adversarial Networks  (EECS-2021-75) Samaneh Azadi
+Multi-Modal Semantic Inconsistency Detection in Social Media News Posts  (EECS-2021-73) Scott McCrae
+Multi-Modal Semantic Inconsistency Detection in Social Media News Posts  (EECS-2021-72) Scott McCrae
+Vertex: A Unified Edge Computing Environment  (EECS-2021-71) Michael Perry
+Interaction History for Building Human-Data Interfaces  (EECS-2021-70) Yifan Wu
+Extremely Lightweight Vocoders for On-device Speech Synthesis  (EECS-2021-69) Tianren Gao
+Improving the Efficiency of Robust Generative Classifiers  (EECS-2021-68) Alan Rosenthal
+Parallel Architectures for Hyperdimensional Computing  (EECS-2021-67) Ryan Moughan
+Robust Naive Bayes  (EECS-2021-66) Aditya Mishra
+Automating Execution Verification in Distributed Enclave-Based Data Analysis Applications  (EECS-2021-65) Karen Tu
+Learning Self-Supervised Representations of Code Functionality  (EECS-2021-62) Paras Jain, Ajay Jain, Tianjun Zhang, Pieter Abbeel, Joseph Gonzalez and Ion Stoica
+Real-time Robotic Safety Set Blending Schemes  (EECS-2021-61) Charles Tang
+Usable and Efficient Systems for Machine Learning  (EECS-2021-59) Doris Xin
+Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation  (EECS-2021-58) Ruizhe Cheng
+Theory and Application of Bonus-based Exploration in Reinforcement Learning  (EECS-2021-57) Bryan Chen
+Toward the Control of Non-Linear, Non-Minimum Phase Systems via Feedback Linearization and Reinforcement Learning  (EECS-2021-54) Michael Estrada
+Manipulation of Objects with Tethers and Millirobots  (EECS-2021-53) Tiffany Cappellari
+Towards Light Charge Association in Liquid Argon Time Projection Chambers  (EECS-2021-52) John Newsom
+Interpolation Learning  (EECS-2021-51) Zitong Yang, Yi Ma and Jacob Steinhardt
+Scalable Reinforcement Learning Systems and their Applications  (EECS-2021-48) Eric Liang
+Generative Models as a Robust Alternative for Image Classification: Progress and Challenges  (EECS-2021-47) An Ju
+Analyzing the Prediction Accuracy of Trajectory-Based Models with  High-Dimensional Control Policies for Long-term Planning in MBRL  (EECS-2021-46) Howard Zhang
+Learning Predictive Models for Efficient Policy Learning  (EECS-2021-45) Huazhe Xu
+Post Verification of Integrity of Remote Queries in Opaque  (EECS-2021-44) Andrew Law How Hung
+Expanding the Reach of Fuzz Testing  (EECS-2021-43) Caroline Lemieux
+Proof-of-Stream: A Robust Incentivization Protocol for Blockchain-based Hybrid Video on Demand Systems  (EECS-2021-42) Yudi Tan, Swanand Kadhe and Kannan Ramchandran
+Supporting Multiple Clients in Opaque  (EECS-2021-40) Eric Feng
+Learning, Planning, and Acting with Models  (EECS-2021-39) Thanard Kurutach
+A Scalable Generator of Massive MIMO Baseband Processing Systems  (EECS-2021-38) Yue Dai
+End-to-end Model Inference and Training on Gemmini  (EECS-2021-37) Pranav Prakash
+You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module  (EECS-2021-35) Bohan Zhai
+Exploration and Safety in Deep Reinforcement Learning  (EECS-2021-34) Joshua Achiam
+Statistical Complexity and Regret in Linear Control  (EECS-2021-33) Max Simchowitz
+Progress and Proposals: A Case Study of Monocular Depth Estimation  (EECS-2021-32) Khalil Sarwari, Forrest Laine and Claire Tomlin
+Charting Cellular States, One Cell at a Time: Computational, Inferential and Modeling Perspectives  (EECS-2021-31) Romain Lopez
+Applications of Machine Learning for Character Animation  (EECS-2021-30) Stephen Bailey
+ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State  (EECS-2021-29) Jeongseok Son, Griffin Prechter, Rishabh Poddar, Raluca Ada Popa and Koushik Sen
+Data Driven Algorithms For Perception With Applications To Autonomous Driving, Energy And Mixed Reality  (EECS-2021-28) Oladapo Afolabi
+Milli-Volt Micro-Electro-Mechanical Relay Technology for Energy-Efficient Computing  (EECS-2021-27) Benjamin Osoba
+Hybrid Switched-Capacitor Converters for High-Performance Power Conversions  (EECS-2021-25) Wen Chuen Liu
+High-throughput Ultrasonic Implant Communication Link Using ML-assisted CDMA Decoder  (EECS-2021-24) Sina Faraji Alamouti
+Fanout Optimization for an Inductor-less Broadband Variable Gain Cherry-Hooper Amplifier  (EECS-2021-23) Sashank Krishnamurthy and Ali Niknejad
+Biomechanical Models and Robotic Systems for Human Motion Assessment  (EECS-2021-22) Sarah Seko
+A Likelihood-based Deconvolution of Bulk Gene Expression Data Using Single-cell References  (EECS-2021-21) Justin Hong, Dan D. Erdmann-Pham, Jonathan Fischer and Yun S. Song
+Actuation and Localization of Resource-Constrained Autonomous Microrobotic Systems  (EECS-2021-20) Brian Kilberg
+Design Techniques for Energy-Efficient, Low Latency High Speed Wireline Links  (EECS-2021-19) Nick Sutardja
+Collaborative Tools and Strategies for Data-driven Development Engineering  (EECS-2021-18) Jordan Freitas and Eric Brewer
+Directional Wireless Mesh Network Design  (EECS-2021-17) James Martin
+Two-Dimensional Semiconductor Optoelectronics  (EECS-2021-16) Matin Amani
+Efficient Inference on Video, In Real-Time and At Scale  (EECS-2021-15) Samvit Jain
+Design and Physics of VCSELs for Emerging Applications  (EECS-2021-14) Jonas Horst Kapraun
+Expert-Level Detection of Acute Intracranial Hemorrhage on Head Computed Tomography using Deep Learning  (EECS-2021-13) Wei-Cheng Kuo, Christian Haene, Pratik Mukherjee, Esther Yuh and Jitendra Malik
+Two-Dimensional Materials for Infrared Detection  (EECS-2021-12) George Zhang
+Efficient Inference on Video, In Real-Time and At Scale  (EECS-2021-11) Samvit Jain
+Satisfiability and Synthesis Modulo Oracles  (EECS-2021-10) Elizabeth Polgreen, Andrew Reynolds and Sanjit A. Seshia
+Laser Chirp Linearization and Phase Noise Compensation for Frequency-modulated Continuous-wave LiDAR  (EECS-2021-9) Xiaosheng Zhang
+Model-based Formalization of the Autonomy-to-Human Perception Hand-off  (EECS-2021-8) Yash Vardhan Pant, Balasaravanan Thoravi Kumaravel, Ameesh Shah, Erin Kraemer, Marcell Vazquez-Chanlatte, K Kulkarni, Björn Hartmann and Sanjit A. Seshia
+Finite-time analysis of approximate policy iteration for the linear quadratic regulator  (EECS-2021-7) Karl Krauth, Stephen Tu and Benjamin Recht
+Monotonicity-Based Symbolic Control for Safety in Real Driving Scenarios  (EECS-2021-5) Stanley Smith, Adnane Saoud and Murat Arcak
+Machine Learning in Compiler Optimization  (EECS-2021-2) Ameer Haj Ali
+Bridging Machine Learning and Computational Photography to Bring Professional Quality into Casual Photos and Videos  (EECS-2021-1) Cecilia Zhang

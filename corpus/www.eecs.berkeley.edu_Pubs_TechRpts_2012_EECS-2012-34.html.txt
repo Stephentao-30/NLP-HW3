@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-34.html
+An All-Fragments Grammar for Simple and Accurate Parsing
+Mohit Bansal and Daniel Klein
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-34
+March 21,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-34.pdf
+We present a simple but accurate parser which exploits both large tree fragments and symbol refinement. We parse with all fragments of the training set, in contrast to much recent work on tree selection in data-oriented parsing and tree-substitution grammar learning. We require only simple, deterministic grammar symbol refinement, in contrast to recent work on latent symbol refinement. Moreover, our parser requires no explicit lexicon machinery, instead parsing input sentences as character streams. Despite its simplicity, our parser achieves accuracies of over 88% F1 on the standard English WSJ task, which is competitive with substantially more complicated state-of-the-art lexicalized and latent-variable parsers. Additional specific contributions center on making implicit all-fragments parsing efficient, including a coarse-to-fine inference scheme and a new graph encoding.
+Advisors:  Daniel Klein
+BibTeX citation:
+@mastersthesis{Bansal:EECS-2012-34,
+Author= {Bansal, Mohit and Klein, Daniel},
+Title= {An All-Fragments Grammar for Simple and Accurate Parsing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-34.html},
+Number= {UCB/EECS-2012-34},
+Abstract= {We present a simple but accurate parser which exploits both large tree fragments and symbol refinement. We parse with all fragments of the training set, in contrast to much recent work on tree selection in data-oriented parsing and tree-substitution grammar learning. We require only simple, deterministic grammar symbol refinement, in contrast to recent work on latent symbol refinement. Moreover, our parser requires no explicit lexicon machinery, instead parsing input sentences as character streams. Despite its simplicity, our parser achieves accuracies of over 88% F1 on the standard English WSJ task, which is competitive with substantially more complicated state-of-the-art lexicalized and latent-variable parsers. Additional specific contributions center on making implicit all-fragments parsing efficient, including a coarse-to-fine inference scheme and a new graph encoding.},
+}
+EndNote citation:
+%0 Thesis
+%A Bansal, Mohit
+%A Klein, Daniel
+%T An All-Fragments Grammar for Simple and Accurate Parsing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 21
+%@ UCB/EECS-2012-34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-34.html
+%F Bansal:EECS-2012-34

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29418.html
+Evaluation of Distributed Criteria for Distributed Data Base Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Evaluation of Distributed Criteria for Distributed Data Base Systems
+Evaluation of Distributed Criteria for Distributed Data Base Systems
+D. Ries and R. Epstein
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/22
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-22.pdf
+BibTeX citation:
+@techreport{Ries:M78/22,
+Author = {Ries, D. and Epstein, R.},
+Title = {Evaluation of Distributed Criteria for Distributed Data Base Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29418.html},
+Number = {UCB/ERL M78/22}
+}
+EndNote citation:
+%0 Report
+%A Ries, D.
+%A Epstein, R.
+%T Evaluation of Distributed Criteria for Distributed Data Base Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29418.html
+%F Ries:M78/22

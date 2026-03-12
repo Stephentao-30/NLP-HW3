@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28781.html
+Application of the Relational Model to Record Indexing and Retrieval | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Application of the Relational Model to Record Indexing and Retrieval
+Application of the Relational Model to Record Indexing and Retrieval
+Jenn-Hann Liou
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M469
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-469.pdf
+BibTeX citation:
+@techreport{Liou:M469,
+Author = {Liou, Jenn-Hann},
+Title = {Application of the Relational Model to Record Indexing and Retrieval},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28781.html},
+Number = {UCB/ERL M469}
+}
+EndNote citation:
+%0 Report
+%A Liou, Jenn-Hann
+%T Application of the Relational Model to Record Indexing and Retrieval
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M469
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28781.html
+%F Liou:M469

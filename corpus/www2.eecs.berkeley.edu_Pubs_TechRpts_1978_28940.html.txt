@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28940.html
+How Far Should You Go with the Lanczos Process? | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+How Far Should You Go with the Lanczos Process?
+How Far Should You Go with the Lanczos Process?
+W. Kahan and B.N. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/48
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-48.pdf
+BibTeX citation:
+@techreport{Kahan:M78/48,
+Author = {Kahan, W. and Parlett, B.N.},
+Title = {How Far Should You Go with the Lanczos Process?},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28940.html},
+Number = {UCB/ERL M78/48}
+}
+EndNote citation:
+%0 Report
+%A Kahan, W.
+%A Parlett, B.N.
+%T How Far Should You Go with the Lanczos Process?
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28940.html
+%F Kahan:M78/48

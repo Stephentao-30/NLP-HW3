@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29310.html
+Feedback Between Stationary Stochastic Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Feedback Between Stationary Stochastic Processes
+Feedback Between Stationary Stochastic Processes
+P.E. Caines and C.W. Chan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M460
+July 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-460.pdf
+BibTeX citation:
+@techreport{Caines:M460,
+Author = {Caines, P.E. and Chan, C.W.},
+Title = {Feedback Between Stationary Stochastic Processes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29310.html},
+Number = {UCB/ERL M460}
+}
+EndNote citation:
+%0 Report
+%A Caines, P.E.
+%A Chan, C.W.
+%T Feedback Between Stationary Stochastic Processes
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M460
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29310.html
+%F Caines:M460

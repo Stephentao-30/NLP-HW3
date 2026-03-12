@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-22.html
+Nanomagnetic Logic
+David Carlton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-22
+February 8,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-22.pdf
+Advisors:  Jeffrey Bokor
+BibTeX citation:
+@phdthesis{Carlton:EECS-2012-22,
+Author= {Carlton, David},
+Title= {Nanomagnetic Logic},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-22.html},
+Number= {UCB/EECS-2012-22},
+}
+EndNote citation:
+%0 Thesis
+%A Carlton, David
+%T Nanomagnetic Logic
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 8
+%@ UCB/EECS-2012-22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-22.html
+%F Carlton:EECS-2012-22

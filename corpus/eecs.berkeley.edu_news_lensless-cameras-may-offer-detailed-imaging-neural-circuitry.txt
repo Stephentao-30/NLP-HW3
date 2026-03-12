@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/lensless-cameras-may-offer-detailed-imaging-neural-circuitry
+Lensless Cameras May Offer Detailed Imaging of Neural Circuitry - EECS at Berkeley
+EECS graduate students Nick Antipa and Grace Kuo, along their advisor Associate Prof. Laura Waller, have penned an article for Photonics Media titled “ Lensless Cameras May Offer Detailed Imaging of Neural Circuitry ” about a new architecture which could enable simultaneous monitoring of millions of neurons in 3D space at frame rates limited only by image sensor read times.  Instead of using a large, lens-based light-field microscope to image individual brain neurons, the DiffuserCam lensless imaging architecture consists of a diffuser placed in front of a 2D image sensor. When an object is placed in front of the diffuser, its volumetric information is encoded into a single 2D measurement.   Borrowing tools from the field of compressed sensing, a 3D image is reconstructed by solving a sparsity-constrained optimization problem.
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

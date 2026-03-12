@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-142.html
+Analysis of LED Technologies for Solid State Lighting Markets
+Guannan Wang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-142
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-142.pdf
+Energy saving or emission reduction is crucial for sustainable development. Lighting emitting diode (LED) has been proven to be the most promising lighting technology because of its potential to save a large amount of electricity. However, the market share of LED is limited by its high initial purchase price and poor performance in color rendering. This paper discusses basic concepts of color science and color rendering. Different methods of measuring color rendering and the new standard under development by the International Illumination Committee and several industry leading companies are introduced. Furthermore, the current situation of the LED market and the different roles of leading companies are discussed. Finally, a forecast of the future of LED and its market pattern will be given based on an analysis of the market.
+Advisors:  Constance Chang-Hasnain and Sayeef Salahuddin
+BibTeX citation:
+@mastersthesis{Wang:EECS-2012-142,
+Author= {Wang, Guannan},
+Title= {Analysis of LED Technologies for Solid State Lighting Markets},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-142.html},
+Number= {UCB/EECS-2012-142},
+Abstract= {Energy saving or emission reduction is crucial for sustainable development. Lighting emitting diode (LED) has been proven to be the most promising lighting technology because of its potential to save a large amount of electricity. However, the market share of LED is limited by its high initial purchase price and poor performance in color rendering. This paper discusses basic concepts of color science and color rendering. Different methods of measuring color rendering and the new standard under development by the International Illumination Committee and several industry leading companies are introduced. Furthermore, the current situation of the LED market and the different roles of leading companies are discussed. Finally, a forecast of the future of LED and its market pattern will be given based on an analysis of the market.},
+}
+EndNote citation:
+%0 Thesis
+%A Wang, Guannan
+%T Analysis of LED Technologies for Solid State Lighting Markets
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-142
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-142.html
+%F Wang:EECS-2012-142

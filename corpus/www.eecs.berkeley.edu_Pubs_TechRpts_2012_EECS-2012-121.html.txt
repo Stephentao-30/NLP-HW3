@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-121.html
+CrowdMine: Towards Crowdsourced Human-Assisted Verification
+Wenchao Li and Sanjit A. Seshia and Somesh Jha
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-121
+May 25,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-121.pdf
+We propose the use of crowdsourcing and human computation to help solve difficult problems in verification and debugging that can benefit from human insight. As a specific scenario, we explain how non-expert humans can assist in the verification process by finding patterns in portions of simulation or execution traces which are represented as images. Such patterns can be used in a variety of ways, including assertion-based verification, improving coverage, bug localization, and error explanation. Several related issues are discussed, including privacy and incentive mechanisms.
+BibTeX citation:
+@techreport{Li:EECS-2012-121,
+Author= {Li, Wenchao and Seshia, Sanjit A. and Jha, Somesh},
+Title= {CrowdMine: Towards Crowdsourced Human-Assisted Verification},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-121.html},
+Number= {UCB/EECS-2012-121},
+Abstract= {We propose the use of crowdsourcing and human computation to help solve difficult problems in verification and debugging that can benefit from human insight. As a specific scenario, we explain how non-expert humans can assist in the verification process by finding patterns in portions of simulation or execution traces which are represented as images. Such patterns can be used in a variety of ways, including assertion-based verification, improving coverage, bug localization, and error explanation. Several related issues are discussed, including privacy and incentive mechanisms.},
+}
+EndNote citation:
+%0 Report
+%A Li, Wenchao
+%A Seshia, Sanjit A.
+%A Jha, Somesh
+%T CrowdMine: Towards Crowdsourced Human-Assisted Verification
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 25
+%@ UCB/EECS-2012-121
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-121.html
+%F Li:EECS-2012-121

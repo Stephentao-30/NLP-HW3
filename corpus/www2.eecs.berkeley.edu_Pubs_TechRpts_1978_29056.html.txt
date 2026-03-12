@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29056.html
+A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula
+A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula
+A.C. McCurdy
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/69
+October 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-69.pdf
+BibTeX citation:
+@techreport{McCurdy:M78/69,
+Author = {McCurdy, A.C.},
+Title = {A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29056.html},
+Number = {UCB/ERL M78/69}
+}
+EndNote citation:
+%0 Report
+%A McCurdy, A.C.
+%T A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29056.html
+%F McCurdy:M78/69

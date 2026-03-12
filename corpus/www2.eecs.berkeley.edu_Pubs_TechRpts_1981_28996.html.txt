@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28996.html
+Delight: An Optimization-Based Computer-Aided Design System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Delight: An Optimization-Based Computer-Aided Design System
+Delight: An Optimization-Based Computer-Aided Design System
+W. Nye, E. Polak, A. Sangiovanni-Vincentelli and A. Tits
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/19
+April 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-19.pdf
+BibTeX citation:
+@techreport{Nye:M81/19,
+Author = {Nye, W. and Polak, E. and Sangiovanni-Vincentelli, A. and Tits, A.},
+Title = {Delight: An Optimization-Based Computer-Aided Design System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28996.html},
+Number = {UCB/ERL M81/19}
+}
+EndNote citation:
+%0 Report
+%A Nye, W.
+%A Polak, E.
+%A Sangiovanni-Vincentelli, A.
+%A Tits, A.
+%T Delight: An Optimization-Based Computer-Aided Design System
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28996.html
+%F Nye:M81/19

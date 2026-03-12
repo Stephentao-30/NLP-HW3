@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-160.html
+Mobile Health Monitoring: The Glucose Intelligence Solution
+Chun Ming Chin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-160
+June 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-160.pdf
+Diabetes is a disease that causes a person's sugar levels to vary too high or too low. This has implications such as blindness, disability, and even death. Its cost is becoming a healthcare burden for the United States, as more people are afflicted with diabetes. We build mobile healthcare applications to help diabetics better monitor their condition, save healthcare cost and improve the quality of life. Among the solutions we investigated was a prediction algorithm that estimates how a person's glucose levels will change based on specific food and exercise inputs. Another solution was a recommendation system that suggests diabetic-friendly food options when a person shops for groceries or eats at a restaurant. Our solutions are tested on ten people with diabetes over three months. Based on our tests, users found our recommendation system which suggests diabetes-friendly restaurants helpful in controlling their condition when eating out.
+Advisors:  Sayeef Salahuddin and Ikhlaq Sidhu
+BibTeX citation:
+@mastersthesis{Chin:EECS-2012-160,
+Author= {Chin, Chun Ming},
+Title= {Mobile Health Monitoring: The Glucose Intelligence Solution},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-160.html},
+Number= {UCB/EECS-2012-160},
+Abstract= {Diabetes is a disease that causes a person's sugar levels to vary too high or too low. This has implications such as blindness, disability, and even death. Its cost is becoming a healthcare burden for the United States, as more people are afflicted with diabetes. We build mobile healthcare applications to help diabetics better monitor their condition, save healthcare cost and improve the quality of life. Among the solutions we investigated was a prediction algorithm that estimates how a person's glucose levels will change based on specific food and exercise inputs. Another solution was a recommendation system that suggests diabetic-friendly food options when a person shops for groceries or eats at a restaurant. Our solutions are tested on ten people with diabetes over three months. Based on our tests, users found our recommendation system which suggests diabetes-friendly restaurants helpful in controlling their condition when eating out.},
+}
+EndNote citation:
+%0 Thesis
+%A Chin, Chun Ming
+%T Mobile Health Monitoring: The Glucose Intelligence Solution
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 3
+%@ UCB/EECS-2012-160
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-160.html
+%F Chin:EECS-2012-160

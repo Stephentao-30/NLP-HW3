@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-111.html
+Investigation of Peptoid Thin Films and Their Potential Use in a Biosensor
+Brian Lunt and Gloria Olivier and Felippe Pavinatto and Ronald Zuckermann and Ana Claudia Arias
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-111
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-111.pdf
+Advisors:  Ana Claudia Arias
+BibTeX citation:
+@mastersthesis{Lunt:EECS-2013-111,
+Author= {Lunt, Brian and Olivier, Gloria and Pavinatto, Felippe and Zuckermann, Ronald and Arias, Ana Claudia},
+Title= {Investigation of Peptoid Thin Films and Their Potential Use in a Biosensor},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-111.html},
+Number= {UCB/EECS-2013-111},
+}
+EndNote citation:
+%0 Thesis
+%A Lunt, Brian
+%A Olivier, Gloria
+%A Pavinatto, Felippe
+%A Zuckermann, Ronald
+%A Arias, Ana Claudia
+%T Investigation of Peptoid Thin Films and Their Potential Use in a Biosensor
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-111
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-111.html
+%F Lunt:EECS-2013-111

@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-154.html
+Energy Harvesting for Wireless Power Monitoring - Implementing a Low Power, Low Data Rate Wireless Network (OpenWSN)
+David Stanislowski
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-154
+June 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-154.pdf
+Advisors:  Kristofer Pister and Bernhard Boser and Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Stanislowski:EECS-2012-154,
+Author= {Stanislowski, David},
+Title= {Energy Harvesting for Wireless Power Monitoring - Implementing a Low Power, Low Data Rate Wireless Network (OpenWSN)},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-154.html},
+Number= {UCB/EECS-2012-154},
+}
+EndNote citation:
+%0 Thesis
+%A Stanislowski, David
+%T Energy Harvesting for Wireless Power Monitoring - Implementing a Low Power, Low Data Rate Wireless Network (OpenWSN)
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 2
+%@ UCB/EECS-2012-154
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-154.html
+%F Stanislowski:EECS-2012-154

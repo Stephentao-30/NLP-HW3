@@ -1,0 +1,29 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9A
+Course: CS9A | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9A
+CS 9A. Matlab for Programmers
+Catalog Description:  Introduction to the constructs in the Matlab programming language, aimed at students who already know how to program. Array and matrix operations, functions and function handles, control flow, plotting and image manipulation, cell arrays and structures, and the Symbolic Mathematics toolbox.
+Units:  2.0
+Prerequisites:  Programming experience equivalent to that gained in COMPSCI 10; familiarity with applications of matrix processing.
+Credit Restrictions:  Refer to computer science service course restrictions.
+Formats:  Fall: 2 hours of self-paced per week
+Spring: 2 hours of self-paced per week
+Grading basis:  passFail
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:
+Course objectives: Students are expected to learn the basics of Matlab programming (arrays, matrices, parallel-style programming, functions, graphing, symbolic manipulation, file I/O, and many built-in Matlab functions) for later work in numerical analysis, engineering, and science. In the process of learning the language, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Arrays
+Matrices
+Parallel-style programming
+Functions
+Graphing
+Symbolic Manipulation
+File I/O
+Built-in Matlab functions

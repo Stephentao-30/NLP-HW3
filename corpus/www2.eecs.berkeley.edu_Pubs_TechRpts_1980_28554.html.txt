@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28554.html
+Fermi Acceleration Revisited | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fermi Acceleration Revisited
+Fermi Acceleration Revisited
+A.J. Lichtenberg, M.A. Lieberman and R.H. Cohen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/36
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-36.pdf
+BibTeX citation:
+@techreport{Lichtenberg:M80/36,
+Author = {Lichtenberg, A.J. and Lieberman, M.A. and Cohen, R.H.},
+Title = {Fermi Acceleration Revisited},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28554.html},
+Number = {UCB/ERL M80/36}
+}
+EndNote citation:
+%0 Report
+%A Lichtenberg, A.J.
+%A Lieberman, M.A.
+%A Cohen, R.H.
+%T Fermi Acceleration Revisited
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28554.html
+%F Lichtenberg:M80/36

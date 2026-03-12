@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28668.html
+Similarity Relations and Fuzzy Orderings | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Similarity Relations and Fuzzy Orderings
+Similarity Relations and Fuzzy Orderings
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M277
+July 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-277.pdf
+BibTeX citation:
+@techreport{Zadeh:M277,
+Author = {Zadeh, L.A.},
+Title = {Similarity Relations and Fuzzy Orderings},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28668.html},
+Number = {UCB/ERL M277}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Similarity Relations and Fuzzy Orderings
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M277
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28668.html
+%F Zadeh:M277

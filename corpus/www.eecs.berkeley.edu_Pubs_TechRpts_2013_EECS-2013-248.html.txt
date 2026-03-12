@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-248.html
+Pronounced Effect of pn-Junction Dimensionality on Tunnel Switch Threshold Shape
+Sapan Agarwal and Eli Yablonovitch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-248
+December 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-248.pdf
+Designing tunneling junctions with abrupt on-off characteristics and high current densities is critical for many different devices including backward diodes and tunneling field effect transistors (TFETs).  It is possible to get a sharp, high conductance on/off transition by exploiting the sharp step in the density of states at band edges.  The nature of the density of states, is strongly dependent on quantum dimensionality.  To know the current/voltage curve requires us to specify both the n side dimensionality and the p side dimensionality of pn junctions.  We find that a typical bulk 3d-3d tunneling pn junction has only a quadratic turn on function, while a pn junction consisting of two overlapping quantum wells (2d-2d) would have the preferred step function response.  We consider nine physically distinguishable possibilities: 3d-3d, 2d-2dedge, 1d-1dend, 2d-3d, 1d-2d, 0d-1d, 2d-2dface, 1d-1dedge and 0d-0d.  Thus we introduce the obligation to specify the dimensionality on either side of pn junctions.
+Quantum confinement, or reduced dimensionality on each side of a pn junction has the added benefit of significantly increasing the tunnel conductance at the turn on threshold.
+BibTeX citation:
+@techreport{Agarwal:EECS-2013-248,
+Author= {Agarwal, Sapan and Yablonovitch, Eli},
+Title= {Pronounced Effect of pn-Junction Dimensionality on Tunnel Switch Threshold Shape},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-248.html},
+Number= {UCB/EECS-2013-248},
+Abstract= {Designing tunneling junctions with abrupt on-off characteristics and high current densities is critical for many different devices including backward diodes and tunneling field effect transistors (TFETs).  It is possible to get a sharp, high conductance on/off transition by exploiting the sharp step in the density of states at band edges.  The nature of the density of states, is strongly dependent on quantum dimensionality.  To know the current/voltage curve requires us to specify both the n side dimensionality and the p side dimensionality of pn junctions.  We find that a typical bulk 3d-3d tunneling pn junction has only a quadratic turn on function, while a pn junction consisting of two overlapping quantum wells (2d-2d) would have the preferred step function response.  We consider nine physically distinguishable possibilities: 3d-3d, 2d-2dedge, 1d-1dend, 2d-3d, 1d-2d, 0d-1d, 2d-2dface, 1d-1dedge and 0d-0d.  Thus we introduce the obligation to specify the dimensionality on either side of pn junctions.
+Quantum confinement, or reduced dimensionality on each side of a pn junction has the added benefit of significantly increasing the tunnel conductance at the turn on threshold.},
+}
+EndNote citation:
+%0 Report
+%A Agarwal, Sapan
+%A Yablonovitch, Eli
+%T Pronounced Effect of pn-Junction Dimensionality on Tunnel Switch Threshold Shape
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 31
+%@ UCB/EECS-2013-248
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-248.html
+%F Agarwal:EECS-2013-248

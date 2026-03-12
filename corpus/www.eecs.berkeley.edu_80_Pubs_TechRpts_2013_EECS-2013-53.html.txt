@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-53.html
+Low-Complexity Message-Passing Algorithms for Distributed Computation
+Nima Noorshams
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-53
+May 10,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-53.pdf
+Central to many statistical inference problems is the computation of some quantities defined over variables that can be fruitfully modeled in terms of graphs. Examples of such quantities include marginal distributions over graphical models and empirical average of observations over sensor networks. For practical purposes, distributed
+message-passing algorithms are well suited to deal with such
+problems. In particular, the computation is broken down into pieces and distributed among different nodes. Following some local computations, the intermediate results are shared among neighboring nodes via the so called messages. The process is repeated until the desired quantity is obtained. These distributed inference algorithms have two primary aspects: statistical properties, in which characterize how mathematically sound an algorithm is, and computational complexity that describes the efficiency of a particular
+algorithm. In this thesis, we propose low-complexity (efficient), message-passing algorithms as alternatives to some well known inference problems while providing rigorous mathematical analysis of their performances. These problems include the computation of the marginal distribution via belief propagation for discrete as well as continuous random variables, and the computation of the average of distributed observations in a noisy sensor network via gossip-type
+algorithms.
+Advisors:  Martin Wainwright
+BibTeX citation:
+@phdthesis{Noorshams:EECS-2013-53,
+Author= {Noorshams, Nima},
+Title= {Low-Complexity Message-Passing Algorithms for Distributed Computation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-53.html},
+Number= {UCB/EECS-2013-53},
+Abstract= {Central to many statistical inference problems is the computation of some quantities defined over variables that can be fruitfully modeled in terms of graphs. Examples of such quantities include marginal distributions over graphical models and empirical average of observations over sensor networks. For practical purposes, distributed
+message-passing algorithms are well suited to deal with such
+problems. In particular, the computation is broken down into pieces and distributed among different nodes. Following some local computations, the intermediate results are shared among neighboring nodes via the so called messages. The process is repeated until the desired quantity is obtained. These distributed inference algorithms have two primary aspects: statistical properties, in which characterize how mathematically sound an algorithm is, and computational complexity that describes the efficiency of a particular
+algorithm. In this thesis, we propose low-complexity (efficient), message-passing algorithms as alternatives to some well known inference problems while providing rigorous mathematical analysis of their performances. These problems include the computation of the marginal distribution via belief propagation for discrete as well as continuous random variables, and the computation of the average of distributed observations in a noisy sensor network via gossip-type
+algorithms.},
+}
+EndNote citation:
+%0 Thesis
+%A Noorshams, Nima
+%T Low-Complexity Message-Passing Algorithms for Distributed Computation
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 10
+%@ UCB/EECS-2013-53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-53.html
+%F Noorshams:EECS-2013-53

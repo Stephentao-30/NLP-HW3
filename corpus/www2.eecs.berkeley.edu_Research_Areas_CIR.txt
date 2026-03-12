@@ -1,0 +1,120 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/CIR
+Control, Intelligent Systems, and Robotics (CIR)
+Overview
+Control and Robotics at EECS is concerned with the general problem of modeling systems and machines, and then making them respond appropriately to inputs. Optimization and mathematical techniques play a key role, especially as systems of interest grow in scale. Control ranges from applications in semiconductor process control to hybrid and networked control to nonlinear and learning control, and includes interactions with faculty in Mechanical Engineering and Integrative Biology as well as between EE and CS. Robotics is interpreted broadly to include mobile autonomous systems from millimeter-sized mobile robots to 3 meter rotor span helicopters, fixed autonomous systems for assembly, as well as human augmentation capabilities such as telepresence, and virtual reality. Providing robots with image understanding capabilities is one of the key research areas, as well as using computer vision to assist humans.
+Topics
+Biological systems:
+Bio-mimetic robotics.   Neuro-prosthetic systems. Computational motor control. Human-centered control. Man-machine systems. Computer vision. Active and real-time perception. Neuroengineering. Biological systems modeling. Systems biology.
+Research Centers
+Berkeley Air & Space Center
+Berkeley Artificial Intelligence Research Lab
+Berkeley Center for Computational Imaging
+Berkeley Deep Drive
+Berkeley Equity and Access in Algorithms, Mechanisms, and Optimization
+Berkeley Laboratory for Information and System Sciences
+Biomimetic Millisystems Lab
+Center for Augmented Cognition
+Center for Automation and Learning for Medical Robotics
+Center for Neural Engineering & Prostheses
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley
+CITRIS Health
+CITRIS Sustainable Infrastructure
+Human-Assistive Robotic Technologies Lab
+Industrial Engineering and Operations Research
+Laboratory for Automation Science and Engineering
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+Video and Image Processing Lab
+Faculty
+Primary
+Pieter Abbeel
+Murat Arcak
+Alexandre Bayen
+Anca Dragan
+Ronald S. Fearing
+Ken Goldberg
+Jiantao Jiao
+Giuseppe Loianno
+Michael Lustig
+Pierluigi Nuzzo
+Gireeja Ranade
+Benjamin Recht
+S. Shankar Sastry
+Somayeh Sojoudi
+Claire Tomlin  (coordinator)
+Secondary
+Venkat Anantharam
+Ruzena Bajcsy
+Peter Bartlett
+Thomas F. Budinger
+John F. Canny
+Leon O. Chua
+Thomas Courtade
+Trevor Darrell
+Laurent El Ghaoui
+Michael Jordan
+Sergey Levine
+Jitendra Malik
+Song Mei
+Kristofer Pister
+Elijah Polak
+Kameshwar Poolla
+Kannan Ramchandran
+Jaijeet Roychowdhury
+Stuart J. Russell
+Anant Sahai
+Seth R. Sanders
+Alberto L. Sangiovanni-Vincentelli
+Sanjit A. Seshia
+Grigory Tikhomirov
+Stella Yu
+Avideh Zakhor
+Faculty Awards
+ACM Prize in Computing:
+Pieter Abbeel, 2021.
+MacArthur Fellow:
+Claire Tomlin, 2006.
+National Academy of Sciences (NAS) Member:
+Jitendra Malik, 2015.
+Michael Jordan, 2010.
+National Academy of Engineering (NAE) Member:
+Ken Goldberg, 2026.
+Stuart J. Russell, 2025.
+Claire Tomlin, 2019.
+Jitendra Malik, 2011.
+Michael Jordan, 2010.
+S. Shankar Sastry, 2001.
+Alberto L. Sangiovanni-Vincentelli, 1998.
+Ruzena Bajcsy, 1997.
+Thomas F. Budinger, 1996.
+American Academy of Arts and Sciences Member:
+Alberto L. Sangiovanni-Vincentelli, 2024.
+Claire Tomlin, 2019.
+Jitendra Malik, 2013.
+Michael Jordan, 2010.
+Ruzena Bajcsy, 2007.
+S. Shankar Sastry, 2003.
+Berkeley Citation:
+Ruzena Bajcsy, 2023.
+S. Shankar Sastry, 2018.
+Thomas F. Budinger, 2004.
+UC Berkeley Distinguished Teaching Award:
+Kameshwar Poolla, 1996.
+Alberto L. Sangiovanni-Vincentelli, 1981.
+Sloan Research Fellow:
+Song Mei, 2025.
+Sergey Levine, 2019.
+Anca Dragan, 2018.
+Michael Lustig, 2013.
+Benjamin Recht, 2011.
+Pieter Abbeel, 2011.
+Sanjit A. Seshia, 2008.
+Related Courses
+CS 287. Advanced Robotics
+EECS 127. Optimization Models in Engineering
+EECS 227AT. Optimization Models in Engineering
+EE C106A. Introduction to Robotics
+EE C106B. Robotic Manipulation and Interaction
+EE 120. Signals and Systems
+EE C128. Feedback Control Systems
+EE 192. Mechatronic Design Laboratory
+EE 221A. Linear System Theory

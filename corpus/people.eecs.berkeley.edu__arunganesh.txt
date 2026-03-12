@@ -1,0 +1,29 @@
+URL: https://people.eecs.berkeley.edu/~arunganesh
+Arun Ganesh
+Contact
+643 Soda Hall
+@berkeley.edu
+(I'm currently in charge of keeping the  theory group website  up to date, feel free to email me if you spot an error or something out-of-date.)
+Bio
+I am a second-year graduate student in the  Theory Group  at UC Berkeley, where I am fortunate to be advised by  Satish Rao . I am currently working on projects in algorithms under uncertainty, approximation algorithms, and phylogenetic reconstruction. Prior to joining Berkeley, I got my BS in Computer Science at Duke University, where I had the pleasure of working with  Debmalya Panigrahi .
+For Summer 2019 I am interning at  Google Brain  with  Kunal Talwar .
+Publications
+Optimal Sequence Length Requirements for Phylogenetic Tree
+Reconstruction with Indels  - with  Qiuyi (Richard) Zhang  - STOC 2019
+arXiv ,  conference proceedings ,  slides (20 min) ,  slides (30 min)
+Online Service with Delay  - with  Yossi Azar ,  Rong Ge ,  Debmalya Panigrahi  - STOC 2017
+arXiv ,  conference proceedings ,  slides
+Manuscripts
+Robust Algorithms for TSP and Steiner Tree  - with  Bruce Maggs ,  Debmalya Panigrahi
+Near-Linear Time Edit Distance for Indel Channels  - with  Aaron Sy
+Approximation under Uncertainty: Range-Robust Algorithms for Facility Location and k-Median  - with  Bruce Maggs ,  Debmalya Panigrahi
+Teaching
+I greatly enjoy teaching computer science, and especially computer science theory. A list of courses I've been a teaching assistant for:
+CS 170 - Berkeley - Efficient Algorithms and Intractable Problems
+Fall 2018
+COMPSCI 330 - Duke - Intro to Design and Analysis of Algorithms
+Spring 2016 ,  Fall 2016 ,  Spring 2017
+COMPSCI 201 - Duke - Data Structures and Algorithms
+Fall 2014 , Spring 2015,  Fall 2015 ,   Spring 2016
+Other
+In Summer 2018, I organized a theory reading group at Berkeley. You can find a list of papers/other information  here .

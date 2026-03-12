@@ -1,0 +1,76 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979
+Technical Reports - 1979
+Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems  (M79/81) Shankar Sastry and Pravin Varaiya
+Symbolic Layout and Compaction of Integrated Circuits  (M79/80) Min-Yu Hsueh
+Informal Conference on Particle and Hybrid Codes for Fusion  (M79/79) C.K. Birdsall and A. Friedman
+Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices  (M79/78) Chorng-Kuang Wang
+Benchmarking Unix A Comparative Study  (M79/77) Luis Felipe Cabrera
+An Improved Algorithm for Multi-Terminal Network Flow Synthesis  (M79/76) Dan Gusfield
+Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior  (M79/75) Ozalp Babaoglu
+The Robustness of Controllabiltiy and Observability of Linear Time-Varying Systems with Application to the Emergency Control of Power Systems  (M79/74) S.S. Sastry and C.A. Desoer
+Precisiation of Human Communication Via Translation Into Pruf  (M79/73) L.A. Zadeh
+Linguistic Decision Analysis Using Fuzzy Sets  (M79/72) R.M. Tong and P.P. Bonissone
+Coefficients for Stieltjes' Continued Fraction for the Gamma Function  (M79/71) Bruce W. Char
+Evaluation and Enhancement of the Performance of Relational Database Management Systems  (M79/70) Paula B. Hawthorn
+Identification and Adaptive Control of Markov Chains  (M79/69) Vivek Borkar and Pravin Varaiya
+A String Model Etching Algorithm  (M79/68) Robert Jewett
+Mathematical Theory of Power System Reliability Evaluation  (M79/67) Felix Wu
+Possibility Theory and Soft Data Analysis  (M79/66) L.A. Zadeh
+Software Microprogramming Tools for the VAX-11/780  (M79/65) Richard D. Tuck
+A Unified Hardware Description Language for CAD Programs  (M79/64) J.D. Crawford
+Asymptotic Unbounded Root Loci by the Singular Value Decomposition  (M79/63) S.S. Sastry and C.A. Desoer
+Martingales Parameterized by Sets and Multiple Ito Integrals  (M79/62) Bruce E. Hajek
+No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do?  (M79/61) W. Kahan
+Approximate Solution for the Conversion of Decision Tables Problem  (M79/60) Malik Ghallab
+Tools for Research in Computer Workload Characterization and Modeling  (M79/58) Steven Louis Gaede
+Coherence and Alert States for Interconnected Power Systems  (M79/57) Shankar Sastry and Pravin Varaiya
+Heterogeneous Data Models- Part I Semantic Issues  (M79/56) R.H. Katz and E. Wong
+Solver: An Analytic Function Root Solving and Plotting Package  (M79/55) H. Stephen Au-Yeung and Alex Friedman
+Random Walks, Universal Traversal Sequences, and the Complexity of Maze Problems  (M79/54) R. Aleliunas, R.M. Karp, R.J. Lipton, L. Lovasz and C. Rackoff
+Determination of the Transition between Adiabatic and Stochastic Motion  (M79/53) Allan J. Lichtenberg
+A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation  (M79/52) E. Polak
+Complete Stability of Non-Reciprocal Nonlinear Systems  (M79/51) L.O. Chua and S. Suwannukul
+Stability Theorems for Stochastic Integral Equations Driven by Random Measures and Semimartingales  (M79/50) Michel Metivier
+A Fluid Model for Multiple-Mirror Axial Plasma Flow Part I--Preliminaries  (M79/49) R. Bravenec
+Algorithms for Computer Aided Design of Control Systems by the Method of Inequalities  (M79/48) E. Polak and D.Q. Mayne
+The Working Set Size Distribution of the Markov Program Behavior Model  (M79/46) Makoto Kobayashi
+Fuzzy Sets and Information Granularity  (M79/45) L.A. Zadeh
+A Structure Preserving Model for Power System Stability Analysis  (M79/44) A.R. Bergen and D.J. Hill
+Ingres Verson 6.2 Reference Manual  (M79/43) John Woodfill, Nick Whyte, Mike Ubell, Polly Siegel, Dan Ries, Marc Meyer, Paula Hawthorn, Bob Epstein, Rick Bermen and Eric Allman
+Simulation of Optically Formed Image Profiles in Positive Photoresist  (M79/42) Michael M. O'Toole
+Ergodic Orbits in Particle Simulations of Strong Ion Rings  (M79/41) Alex Friedman
+Characterization of Finite Fuzzy Measures Using Markoff-Kernels  (M79/40) E.P. Klement
+Interconnections of Markov Chains and Quasi-Reversible Queuing Networks  (M79/38) Jean Walrand and Pravin Varaiya
+A Simple Dynamic Routing Problem  (M79/37) A. Ephremides, P. Varaiya and J. Walrand
+A Uniform channel IGFET  (M79/36) R.W. Coen and R.S. Muller
+Sojourn Times and the Overtaking Condition in Jacksonian Networks  (M79/35) J. Walrand and P. Varaiya
+Liar's Paradox and Truth-Qualification Principle  (M79/34) L.A. Zadeh
+Approximate Reasoning Based on Fuzzy Logic  (M79/32) L.A. Zadeh
+Exact Penalty Functions and Lagrange Multipliers  (M79/31) J.B. Lasserre
+MOS Switched Capacitor Ladder Filters  (M79/30) David J. Allstot
+Plasma Simulations Using Inversion Symmetry as a Boundary Condition  (M79/29) W.M. Nevins, Y. Matsuda and M. Gerver
+MUFFIN: A Distributed Data Base Machine  (M79/28) Michael Stonebraker
+Radial Losses in High Beta Multiple Mirror Plasmas  (M79/27) M. Tuszewski and M.A. Lieberman
+Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity  (M79/26) T. Matsumoto, L.O. Chua, H. Kawakami and S. Ichiraku
+On the Development of Correct Programs with the Documentation  (M79/25) Andrzej Blikle
+On the Validity of Dempster's Rule of Combination of Evidence  (M79/24) L.A. Zadeh
+Representation and Transformation of Two-Parameter Martingles Under a Change of Measure  (M79/23) Bruce Hajek and Eugene Wong
+MHD Stabilization of Finite Beta Multiple Mirror Plasmas  (M79/21) M. Tuszewski, D. Price, M.A. Lieberman, R. Bravenec, K. Doniger, C. Hartman and A.J. Lichtenberg
+The Effects of Concurrency Control on Database Management System Performance  (M79/20) Daniel R. Ries
+Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom  (M79/19) J.L. Tennyson, M.A. Lieberman and A.J. Lichtenberg
+Pricing and Site Selection with Market Imperfections: Hotelling Revisited  (M79/17) Roland Artle and Norman Carruthers
+Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities  (M79/15) Jae Koo Lee and C.K. Birdsall
+A Derivation of the Time to Failure Distribution  (M79/14) Natarajan Narasimhamurthi
+A Superlinearly Convergent Algorithm for Constrained Optimization Problems  (M79/13) D.Q. Mayne and E. Polak
+Solving Nonlinear Inequalities in a Finite Number of Iterations  (M79/12) D.Q. Mayne, E. Polak and A.J. Heunis
+On the Generalized Nyquist Stability Criterion  (M79/11) C.A. Desoer and Y.T. Wang
+Computer Systems  (M79/10) D.L. Chaum
+Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms  (M79/9) D.L. Chaum
+Techniques for Processing of Aggregates in Relational Database Systems  (M79/8) Robert Epstein
+A Property of Certain Multistage Linear Programs  (M79/7) J.B. Lasserre
+Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem  (M79/6) E. Polak and A. Sangiovanni-Vincentelli
+Data Abstraction, Views and Updates in Rigel  (M79/5) Lawrence A. Rowe and Kurt A. Shoens
+Retrospection on a Data Base System  (M79/4) Michael Stonebraker
+The Use of Technological Advances to Enhance Data Management System Performance  (M79/3) P. Hawthorne and M. Stonebraker
+An Access Path Model for Physical Database Design  (M80/1) R.H. Katz and E. Wong
+Spice1 MESFET Model Description  (M79/1) C.D. Hartgring

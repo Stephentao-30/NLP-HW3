@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29145.html
+First Order Logic Syntax and the Dynamic Behavior of Programs
+Luis Felipe Cabrera
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/48
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-48.pdf
+BibTeX citation:
+@techreport{Cabrera:M81/48,
+Author= {Cabrera, Luis Felipe},
+Title= {First Order Logic Syntax and the Dynamic Behavior of Programs},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29145.html},
+Number= {UCB/ERL M81/48},
+}
+EndNote citation:
+%0 Report
+%A Cabrera, Luis Felipe
+%T First Order Logic Syntax and the Dynamic Behavior of Programs
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29145.html
+%F Cabrera:M81/48

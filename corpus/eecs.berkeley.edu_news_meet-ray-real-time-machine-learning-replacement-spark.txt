@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/meet-ray-real-time-machine-learning-replacement-spark
+Meet Ray, the Real-Time Machine-Learning Replacement for Spark - EECS at Berkeley
+CS Prof. Michael Jordan, graduate students Philipp Moritz and Robert Nishihara, and research in the  RISELab  are featured in a Datanami article titled “ Meet Ray, the Real-Time Machine-Learning Replacement for Spark .”  Ray is one of the first technologies to emerge from RISELab, the successor to AMPLab and its host of influential distributed technologies including Spark, Mesos, and Tachyon. Ray is a new distributed framework designed to enable Python-based machine learning and deep learning workloads to execute in real-time with MPI-like power and granularity. This framework is ostensibly a replacement for Spark, which is seen as too slow for some real-world AI applications.
+Categories
+Faculty
+Research
+Students
+View
+Open Faculty Positions

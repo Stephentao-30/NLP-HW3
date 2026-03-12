@@ -1,0 +1,65 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/niknejad.html
+Ali Niknejad: Faculty Home Page
+Ali Niknejad
+Professor
+Contact Information
+511 Cory Hall
+tel:  510-642-0459
+niknejad@eecs.berkeley.edu
+Office Hours
+By appointment., 511 Cory
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Christina Hamilton
+cchamilton@berkeley.edu
+Biography
+Ali M. Niknejad received the Ph.D. degree in electrical engineering from the University of California, Berkeley, in 2000 where he now holds the Donald O. Pederson Distinguished Professorship chair in the EECS department at UC Berkeley and he is a faculty co-director of the Berkeley Wireless Research Center (BWRC).  He is also the Associate Director of the Center for Ubiquitous Connectivity (CUbiC) and also served as the Associate Director for the Center for Converged TeraHertz Communications and Sensing (ComSenTer). Prof. Niknejad received the 2020 SIA/SRC University Research Award, recognized “for noteworthy achievements that have advanced analog, RF, and mm-wave circuit design and modeling, which serve as the foundation of 5G+ technologies.”  Prof. Niknejad is the recipient of the 2017 IEEE Transactions On Circuits And Systems Darlington Best Paper Award, the 2017 Most Frequently Cited Paper Award of the Symposium on Very Large-Scale Integration Circuits, the CICC 2015 Best Invited Paper Award, and the 2012 ASEE Frederick Emmons Terman Award.  He is also the co-recipient of the 2013 and 2010 Jack Kilby Award for Outstanding Student Paper, and the co-recipient of the Outstanding Technology Directions Paper at ISSCC 2004.  His research interests lie within the area of wireless and broadband communications and biomedical imaging and sensors, integrated circuit technology (analog, RF, mixed-signal, mm-wave), device physics and compact modeling, and applied electromagnetics.
+Education
+2000, Ph.D., Electrical Engineering, UC Berkeley
+1997, M.S., Electrical Engineering, UC Berkeley
+1994, B.S., Electrical Engineering, UCLA
+Research Areas
+Integrated Circuits (INC) , Microwave and mm-Wave Circuits and Systems
+Physical Electronics (PHY)
+Signal Processing (SP)
+Information, Data, Network, and Communication Sciences (IDNCS)
+Design, Modeling and Analysis (DMA)
+Applied Electromagnetics
+Research Centers
+Berkeley Wireless Research Center (BWRC)
+Teaching Schedule
+EE 142. Integrated Circuits for Communications , TuTh 11:00-12:29, Cory 247
+EE 242A. Integrated Circuits for Communications , TuTh 11:00-12:29, Cory 247
+T. Liu and A. Niknejad, " A Low Power Mutual Noise-Canceling Receiver Front-End with Blocker Tolerance for IoT Applications ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2019-86, May 2019.
+N. Kuo and A. Niknejad, "RF-powered-tag intermodulation uplink with a three-tone transmitter waveform for enhanced uplink power,"  IEEE Journal of Radio Frequency Identification , vol. 2, March 2019.
+N. Kuo, B. Yang, A. Wang, L. Kong, C. Wu, V. P. Srini, E. Alon, B. Nikoli{\'c}, and A. Niknejad, "A 0.4-to-4 GHz All-Digital RF Transmitter Package with a Band-Selecting Interposer Combining Three Wideband CMOS Transmitters,"  IEEE Transactions on Microwave Theory and Techniques , vol. 66, 2018.
+N. Kuo and A. Niknejad, "Single-Antenna FDD Reader Design and Communication to a Commercial UHF RFID Tag,"  IEEE Microwave and Wireless Components Letters , vol. 28, 2018.
+N. Kuo and A. Niknejad, "An E-band QPSK transmitter element in 28-nm bulk CMOS with wideband power amplifier for digitally-modulated phased array," in  Radio Frequency Integrated Circuits Symposium, 2018 IEEE , 2018.
+N. Kuo, B. Zhao, and A. Niknejad, "Intermodulation Uplink for Far-Field Passive RFID Applications," in  Microwave Symposium (IMS), 2018 IEEE MTT-S International , 2018, pp. 1--4.
+B. Zhao, N. Kuo, B. Liu, Y. Li, L. Lotti, and A. Niknejad, "A 5.8 GHz power-harvesting 116$\mu$mx116$\mu$m “dielet” near-field radio with on-chip coil antenna," in  Solid-State Circuits Conference-(ISSCC), 2018 IEEE International , 2018, pp. 456--458.
+N. Kuo, B. Zhao, and A. Niknejad, "Equation-Based Optimization for Inductive Power Transfer to a Miniature CMOS Rectenna,"  IEEE Transactions on Microwave Theory and Techniques , vol. 66, no. 5, 2018.
+N. Kuo, B. Zhao, and A. Niknejad, "Novel inductive wireless power transfer uplink utilizing rectifier third-order nonlinearity,"  IEEE Transactions on Microwave Theory and Techniques , vol. 66, no. 1, pp. 319--331, 2018.
+B. Zhao, N. Kuo, and A. Niknejad, "A Gain Boosting Array Technique for Weakly-Coupled Wireless Power Transfer,"  IEEE Transactions on Power Electronics , vol. 32, no. 9, pp. 7130--7139, 2017.
+N. Kuo, B. Yang, A. Wang, L. Kong, C. Wu, V. P. Srini, E. Alon, B. Nikoli{\'c}, and A. Niknejad, "A Wideband All-Digital CMOS RF Transmitter on HDI Interposers With High Power and Efficiency,"  IEEE Transactions on Microwave Theory and Techniques , vol. 65, no. 11, pp. 4724--4743, 2017.
+N. Kuo, B. Zhao, and A. Niknejad, "A 10-Mb/s Uplink Utilizing Rectifier Third-Order Intermodulation in a Miniature CMOS Tag,"  IEEE Microwave and Wireless Components Letters , vol. 27, no. 11, pp. 1031--1033, 2017.
+N. Kuo, B. Zhao, and A. Niknejad, "Inductive wireless power transfer and uplink design for a CMOS tag with 0.01 mm 2 coil size,"  IEEE Microwave and Wireless Components Letters , vol. 26, no. 10, pp. 852--854, 2016.
+N. Kuo, B. Zhao, and A. Niknejad, "Bifurcation analysis in weakly-coupled inductive power transfer systems,"  IEEE Transactions on Circuits and Systems I: Regular Papers , vol. 63, no. 5, pp. 727--738, 2016.
+N. Kuo, B. Zhao, and A. Niknejad, "Inductive power transfer uplink using rectifier second-order nonlinearity,"  IEEE Transactions on Circuits and Systems I: Regular Papers , vol. 63, no. 11, pp. 2073--2085, 2016.
+B. Zhao, N. Kuo, and A. Niknejad, "An Inductive-Coupling Blocker Rejection Technique for Miniature RFID Tag,"  IEEE Transactions on Circuits and Systems I: Regular Papers , 2016.
+L. C. Yun, A. Niknejad, V. R. Sattiraju, J. C. Beck, and S. Magar, " Wireless communications systems using multiple radios ," U.S. Patent 9,277,534. March 2016.
+N. Kuo, J. Chien, and A. Niknejad, "Design and analysis on bidirectionally and passively coupled QVCO with nonlinear coupler,"  IEEE Transactions on Microwave Theory and Techniques , vol. 63, no. 4, pp. 1130--1141, 2015.
+S. Magar, L. Yun, J. Beck, V. R. Sattiraju, and A. Niknejad, " Methods and apparatus to retrofit wired healthcare and fitness systems for wireless operation ," U.S. Patent 9,155,469. Oct. 2015.
+A. Niknejad, " Wearable user interface device, system, and method of use ," U.S. Patent 9,046,919. June 2015.
+SSCS Innovative Education Award,
+2024
+SIA University Research Award ,
+2020
+IEEE CASS Darlington Best Paper Award ,
+2017
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2012
+Frederick Emmons Terman Award of the Electrical and Computer Engineering Division ,
+2012

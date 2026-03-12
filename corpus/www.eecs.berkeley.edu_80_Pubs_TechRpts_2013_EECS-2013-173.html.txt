@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-173.html
+FastLane: Agile Drop Notification for Datacenter Networks
+David Zats and Anand Padmanabha Iyer and Ganesh Ananthanarayanan and Randy H. Katz and Ion Stoica and Amin Vahdat
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-173
+October 23,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-173.pdf
+The drive towards richer and more interactive web content places increasingly stringent requirements on datacenter networks. The speed with which such networks respond to packet drops limits their ability to meet high-percentile flow completion time SLOs. Indirect notifications to packet drops (e.g., duplicates in an end-to-end acknowledgment sequence) are an important limitation to the agility of response to packet drops. We propose FastLane, a new in-network drop notification mechanism. FastLane enhances switches to send high-priority, per-flow drop notifications to sources, thus informing sources as quickly as possible. Consequently, sources can retransmit packets sooner and throttle transmission rates earlier. Sources can also make better decisions, given more precise information and the ability to differentiate between out-of-order delivery and packet loss. We demonstrate, through simulation and implementation, that FastLane reduces 99.9th percentile completion times of short flows by up to 75%. These benefits come at minimal cost—safeguards ensure that FastLane consume no more that 1% of bandwidth and 2.5% of buffers.
+BibTeX citation:
+@techreport{Zats:EECS-2013-173,
+Author= {Zats, David and Padmanabha Iyer, Anand and Ananthanarayanan, Ganesh and Katz, Randy H. and Stoica, Ion and Vahdat, Amin},
+Title= {FastLane: Agile Drop Notification for Datacenter Networks},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-173.html},
+Number= {UCB/EECS-2013-173},
+Abstract= {The drive towards richer and more interactive web content places increasingly stringent requirements on datacenter networks. The speed with which such networks respond to packet drops limits their ability to meet high-percentile flow completion time SLOs. Indirect notifications to packet drops (e.g., duplicates in an end-to-end acknowledgment sequence) are an important limitation to the agility of response to packet drops. We propose FastLane, a new in-network drop notification mechanism. FastLane enhances switches to send high-priority, per-flow drop notifications to sources, thus informing sources as quickly as possible. Consequently, sources can retransmit packets sooner and throttle transmission rates earlier. Sources can also make better decisions, given more precise information and the ability to differentiate between out-of-order delivery and packet loss. We demonstrate, through simulation and implementation, that FastLane reduces 99.9th percentile completion times of short flows by up to 75%. These benefits come at minimal cost—safeguards ensure that FastLane consume no more that 1% of bandwidth and 2.5% of buffers.},
+}
+EndNote citation:
+%0 Report
+%A Zats, David
+%A Padmanabha Iyer, Anand
+%A Ananthanarayanan, Ganesh
+%A Katz, Randy H.
+%A Stoica, Ion
+%A Vahdat, Amin
+%T FastLane: Agile Drop Notification for Datacenter Networks
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 23
+%@ UCB/EECS-2013-173
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-173.html
+%F Zats:EECS-2013-173

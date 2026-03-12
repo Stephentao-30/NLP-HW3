@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/nir-yosef-creates-algorithm-integrate-single-cell-data-multiple-sources
+Nir Yosef creates algorithm to integrate single-cell data from multiple sources - EECS at Berkeley
+CS Associate Prof. Nir Yosef has joined with colleagues in Bioengineering to write an algorithm called totalVI that uses deep learning to integrate gene and protein data about single cells, and which will allow collaborative experiments to be more accurate and efficient.   TotalVI will help to manage, analyze, and distribute gene and protein data about single cells that were gathered from different tissues and donors, and that were processed in different labs, into a single organizational system.  “The combination of CITE-seq (an RNA sequencing technique) and totalVI allows us to estimate, from the same cell, not only its gene expression but also the expression of the cell membrane proteins,” said Yosef.  “Those tell us a lot about the biology of the cells, since working with these proteins is kind of the standard in immunology.”  The new algorithm will enable researchers to integrate single-cell datasets from labs around the world, and will aid the progression of global knowledge bases.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

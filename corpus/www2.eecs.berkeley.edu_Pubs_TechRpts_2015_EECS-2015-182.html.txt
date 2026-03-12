@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-182.html
+Design of control algorithms for redundant neuroprosthetic brain-machine interfaces | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design of control algorithms for redundant neuroprosthetic brain-machine interfaces
+Design of control algorithms for redundant neuroprosthetic brain-machine interfaces
+Suraj Gowda
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-182
+August 10, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-182.pdf
+Advisor:  Jose M. Carmena
+BibTeX citation:
+@phdthesis{Gowda:EECS-2015-182,
+Author = {Gowda, Suraj},
+Title = {Design of control algorithms for redundant neuroprosthetic brain-machine interfaces},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-182.html},
+Number = {UCB/EECS-2015-182}
+}
+EndNote citation:
+%0 Thesis
+%A Gowda, Suraj
+%T Design of control algorithms for redundant neuroprosthetic brain-machine interfaces
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 10
+%@ UCB/EECS-2015-182
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-182.html
+%F Gowda:EECS-2015-182

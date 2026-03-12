@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-42.html
+Conditional Sampling Distributions for Coalescent Models Incorporating Recombination
+Joshua Paul
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-42
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-42.pdf
+With the volume of available genomic data increasing at an exponential rate, we have unprecedented ability to address key questions in molecular evolution, historical demography, and epidemiology. Central to such investigations is population genetic inference, which seeks to quantify the genetic relationship of two or more individuals provided a stochastic model of evolution. A natural and widely-used model of evolution is Kingman’s coalescent (Kingman, 1982), which explicitly describes the genealogical relationship of the individuals, with various extensions to account for complex biological phenomena. Statistical inference under the coalescent, however, remains a challenging computational problem. Modern population genetic methods must therefore realize a balance between computational efficiency and fidelity to the underlying model. A promising class of such methods employ the conditional sampling distribution (CSD).
+The CSD describes the probability of sampling an individual with a particular genomic sequence, provided that a collection of individuals from the population, and their corresponding sequences, has already been observed. Critically, the true CSD is generally inaccessible, and it is therefore necessary to use an approximate CSD in its place; such an approximate CSD is ideally both accurate and computationally efficient. In this thesis, we undertake a theoretical and algorithmic investigation of the CSD for coalescent models incorporating mutation, homologous (crossover) recombination, and population structure with migration.
+Motivated by the work of De Iorio and Griffiths (2004), we propose a general technique for algebraically deriving an approximate CSD directly from the underlying population genetic model. The resulting CSD admits an intuitive coalescent-like genealogical interpretation, explicitly describing the genealogical relationship of the conditionally sampled individual to the previously sampled individuals. We make use of the genealogical interpretation to introduce additional approximations, culminating in the sequentially Markov CSD (SMCSD), which models the conditional genealogical relationship site-by-site across the genomic sequence. Critically, the SMCSD can be cast as a hidden Markov model (HMM), for which efficient algorithms exist; by further specializing the general HMM methods to the SMCSD, we obtain optimized algorithms with substantial practical benefit. Finally, we empirically validate both the accuracy and computational efficiency of our proposed CSDs, and demonstrate their utility in several applied contexts.
+Advisors:  Yun S. Song
+BibTeX citation:
+@phdthesis{Paul:EECS-2013-42,
+Author= {Paul, Joshua},
+Title= {Conditional Sampling Distributions for Coalescent Models Incorporating Recombination},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-42.html},
+Number= {UCB/EECS-2013-42},
+Abstract= {With the volume of available genomic data increasing at an exponential rate, we have unprecedented ability to address key questions in molecular evolution, historical demography, and epidemiology. Central to such investigations is population genetic inference, which seeks to quantify the genetic relationship of two or more individuals provided a stochastic model of evolution. A natural and widely-used model of evolution is Kingman’s coalescent (Kingman, 1982), which explicitly describes the genealogical relationship of the individuals, with various extensions to account for complex biological phenomena. Statistical inference under the coalescent, however, remains a challenging computational problem. Modern population genetic methods must therefore realize a balance between computational efficiency and fidelity to the underlying model. A promising class of such methods employ the conditional sampling distribution (CSD).
+The CSD describes the probability of sampling an individual with a particular genomic sequence, provided that a collection of individuals from the population, and their corresponding sequences, has already been observed. Critically, the true CSD is generally inaccessible, and it is therefore necessary to use an approximate CSD in its place; such an approximate CSD is ideally both accurate and computationally efficient. In this thesis, we undertake a theoretical and algorithmic investigation of the CSD for coalescent models incorporating mutation, homologous (crossover) recombination, and population structure with migration.
+Motivated by the work of De Iorio and Griffiths (2004), we propose a general technique for algebraically deriving an approximate CSD directly from the underlying population genetic model. The resulting CSD admits an intuitive coalescent-like genealogical interpretation, explicitly describing the genealogical relationship of the conditionally sampled individual to the previously sampled individuals. We make use of the genealogical interpretation to introduce additional approximations, culminating in the sequentially Markov CSD (SMCSD), which models the conditional genealogical relationship site-by-site across the genomic sequence. Critically, the SMCSD can be cast as a hidden Markov model (HMM), for which efficient algorithms exist; by further specializing the general HMM methods to the SMCSD, we obtain optimized algorithms with substantial practical benefit. Finally, we empirically validate both the accuracy and computational efficiency of our proposed CSDs, and demonstrate their utility in several applied contexts.},
+}
+EndNote citation:
+%0 Thesis
+%A Paul, Joshua
+%T Conditional Sampling Distributions for Coalescent Models Incorporating Recombination
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-42
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-42.html
+%F Paul:EECS-2013-42

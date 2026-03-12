@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28497.html
+Three-Layer channel Routing
+Y.K. Chen and M.L. Liu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/84
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-84.pdf
+BibTeX citation:
+@techreport{Chen:M81/84,
+Author= {Chen, Y.K. and Liu, M.L.},
+Title= {Three-Layer channel Routing},
+Year= {1981},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28497.html},
+Number= {UCB/ERL M81/84},
+}
+EndNote citation:
+%0 Report
+%A Chen, Y.K.
+%A Liu, M.L.
+%T Three-Layer channel Routing
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/84
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28497.html
+%F Chen:M81/84

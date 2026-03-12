@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS3L
+CS 3L. Introduction to Symbolic Programming
+Catalog Description:  Introduction to computer programming, emphasizing symbolic computation and functional programming style. Students will write a project of at least 200 lines of code in Scheme (a dialect of the LISP programming language).
+Units:  4
+Prerequisites:  High school algebra.
+Credit Restrictions:  Students may remove a deficiency in 3 by taking 3L.
+Formats:  Fall: 1 hour of lecture and  6 hours of laboratory per week
+Summer: 2 hours of lecture and  12 hours of laboratory per week
+Spring: 1 hour of lecture and  6 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage
+on inst.eecs
+Department Notes:   Course objectives: Students will learn to program, using a dialect of the Scheme programming language.  In addition, they are to gain some appreciation of the algorithms underlying tools like databases, spreadsheets, and expert systems. In the process of learning how to program, they will be applying knowledge of mathematics, science and engineering. Their final project is often offered as a two-person team project, and as it requires a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics Covered:
+Exploration
+Introduction to the course and to programming.
+Functions
+Evaluation
+Words and lists
+Functional programming
+Variables
+Data types
+Inputs to functions
+Scope of variables
+Assignment
+Predicates
+Conditional evaluation
+Recursion (Several Models)
+Linear and tree-recursive operations
+Planning and debugging
+Functional operators
+Other data structures, e.g. trees, files
+Programs as data

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29278.html
+A Matrix Decomposition-Reduction Procedure For the Pole-Zero Calculation of Transfer Functions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Matrix Decomposition-Reduction Procedure For the Pole-Zero Calculation of Transfer Functions
+A Matrix Decomposition-Reduction Procedure For the Pole-Zero Calculation of Transfer Functions
+Tatsuo Ohtsuki and Lap-Kit Cheung
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M318
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-318.pdf
+BibTeX citation:
+@techreport{Ohtsuki:M318,
+Author = {Ohtsuki, Tatsuo and Cheung, Lap-Kit},
+Title = {A Matrix Decomposition-Reduction Procedure For the Pole-Zero Calculation of Transfer Functions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29278.html},
+Number = {UCB/ERL M318}
+}
+EndNote citation:
+%0 Report
+%A Ohtsuki, Tatsuo
+%A Cheung, Lap-Kit
+%T A Matrix Decomposition-Reduction Procedure For the Pole-Zero Calculation of Transfer Functions
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M318
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29278.html
+%F Ohtsuki:M318

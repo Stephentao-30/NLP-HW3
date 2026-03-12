@@ -1,0 +1,48 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/sphelper_8h_source.html
+Compressed Sparse Blocks: sphelper.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+sphelper.h
+Go to the documentation of this file.     1   #ifndef _SP_HELPER_H_
+2   #define _SP_HELPER_H_
+3
+4   class  SpHelper
+5  {
+6   public :
+7       template < typename  _ForwardIter,  typename  T>
+8       static   void   iota (_ForwardIter __first, _ForwardIter __last, T __value)
+9      {
+10           while  (__first != __last)
+11                  *__first++ = __value++;
+12      }
+13
+14       template < typename  T,  typename  I>
+15       static  T **  allocate2D (I m, I n)
+16      {
+17          T ** array =  new  T*[m];
+18           for (I i = 0; i<m; ++i)
+19              array[i] =  new  T[n];
+20           return  array;
+21      }
+22       template < typename  T,  typename  I>
+23       static   void   deallocate2D (T ** array, I m)
+24      {
+25           for (I i = 0; i<m; ++i)
+26               delete  [] array[i];
+27           delete  [] array;
+28      }
+29  }
+30
+31   #endif
+SpHelper::iota static void iota(_ForwardIter __first, _ForwardIter __last, T __value) Definition:   sphelper.h:8
+SpHelper::allocate2D static T ** allocate2D(I m, I n) Definition:   sphelper.h:15
+SpHelper::deallocate2D static void deallocate2D(T **array, I m) Definition:   sphelper.h:23
+SpHelper Definition:   sphelper.h:4
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

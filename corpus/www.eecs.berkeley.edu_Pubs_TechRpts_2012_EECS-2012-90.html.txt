@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-90.html
+Communication-Avoiding Parallel Strassen: Implementation and Performance
+Benjamin Lipshitz and Grey Ballard and Oded Schwartz and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-90
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-90.pdf
+Matrix multiplication is a fundamental kernel of many high performance and scientific computing applications. Most parallel implementations use classical O(n^3) matrix multiplication, even though there exist algorithms with lower arithmetic complexity. We recently obtained a new Communication-Avoiding Parallel Strassen algorithm (CAPS), based on Strassen's fast matrix multiplication, that minimizes communication (SPAA '12). It communicates asymptotically less than all classical and all previous Strassen-based algorithms, and it attains theoretical lower bounds.
+In this paper we show that CAPS is also faster in practice. We benchmark and compare its performance to previous algorithms on Hopper (Cray XE6),  Intrepid (IBM BG/P), and Franklin (Cray XT4).  We demonstrate significant speedups over previous  algorithms both for large matrices and for small matrices on large numbers of processors. We model and analyze the performance of CAPS and predict its performance on future exascale platforms.
+BibTeX citation:
+@techreport{Lipshitz:EECS-2012-90,
+Author= {Lipshitz, Benjamin and Ballard, Grey and Schwartz, Oded and Demmel, James},
+Title= {Communication-Avoiding Parallel Strassen: Implementation and Performance},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-90.html},
+Number= {UCB/EECS-2012-90},
+Abstract= {Matrix multiplication is a fundamental kernel of many high performance and scientific computing applications. Most parallel implementations use classical O(n^3) matrix multiplication, even though there exist algorithms with lower arithmetic complexity. We recently obtained a new Communication-Avoiding Parallel Strassen algorithm (CAPS), based on Strassen's fast matrix multiplication, that minimizes communication (SPAA '12). It communicates asymptotically less than all classical and all previous Strassen-based algorithms, and it attains theoretical lower bounds.
+In this paper we show that CAPS is also faster in practice. We benchmark and compare its performance to previous algorithms on Hopper (Cray XE6),  Intrepid (IBM BG/P), and Franklin (Cray XT4).  We demonstrate significant speedups over previous  algorithms both for large matrices and for small matrices on large numbers of processors. We model and analyze the performance of CAPS and predict its performance on future exascale platforms.},
+}
+EndNote citation:
+%0 Report
+%A Lipshitz, Benjamin
+%A Ballard, Grey
+%A Schwartz, Oded
+%A Demmel, James
+%T Communication-Avoiding Parallel Strassen: Implementation and Performance
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-90
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-90.html
+%F Lipshitz:EECS-2012-90

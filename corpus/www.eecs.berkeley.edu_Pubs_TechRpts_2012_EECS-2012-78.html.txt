@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-78.html
+Resource Allocation and Scheduling in Heterogeneous Cloud Environments
+Gunho Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-78
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-78.pdf
+Recently, there has been a dramatic increase in the popularity of cloud computing systems that rent computing resources on-demand, bill on a pay-as-you-go basis, and multiplex many users on the same physical infrastructure. These cloud computing environments provide an illusion of infinite computing resources to cloud users so that they can increase or decrease their resource consumption rate according to the demands.
+At the same time, the cloud environment poses a number of challenges. Two players in cloud computing environments, cloud providers and cloud users, pursue different goals; providers want to maximize revenue by achieving high resource utilization, while users want to minimize expenses while meeting their performance requirements. However, it is difficult to allocate resources in a mutually optimal way due to the lack of information sharing between them. Moreover, ever-increasing heterogeneity and variability of the environment poses even harder challenges for both parties.
+In this thesis, we address “the cloud resource management problem”, which is to allocate and schedule computing resources in a way that providers achieve high resource utilization and users meet their applications' performance requirements with minimum expenditure.
+We approach the problem from various aspects, using MapReduce as our target application. From provider's perspective, we propose a topology-aware resource placement solution to overcome the lack of information sharing between providers and users. From user's point of view, we present a resource allocation scheme to maintain a pool of leased resources in a cost-effective way and a progress share-based job scheduling algorithm that achieves high performance and fairness simultaneously in a heterogeneous cloud environment. To deal with variability in resource capacity and application performance in the Cloud, we develop a method to predict the job completion time distribution that is applicable to making sophisticated trade-off decisions in resource allocation and scheduling. Our evaluation shows that these methods can improve efficiency and effectiveness of cloud computing systems.
+Advisors:  Randy H. Katz
+BibTeX citation:
+@phdthesis{Lee:EECS-2012-78,
+Author= {Lee, Gunho},
+Title= {Resource Allocation and Scheduling in Heterogeneous Cloud Environments},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-78.html},
+Number= {UCB/EECS-2012-78},
+Abstract= {Recently, there has been a dramatic increase in the popularity of cloud computing systems that rent computing resources on-demand, bill on a pay-as-you-go basis, and multiplex many users on the same physical infrastructure. These cloud computing environments provide an illusion of infinite computing resources to cloud users so that they can increase or decrease their resource consumption rate according to the demands.
+At the same time, the cloud environment poses a number of challenges. Two players in cloud computing environments, cloud providers and cloud users, pursue different goals; providers want to maximize revenue by achieving high resource utilization, while users want to minimize expenses while meeting their performance requirements. However, it is difficult to allocate resources in a mutually optimal way due to the lack of information sharing between them. Moreover, ever-increasing heterogeneity and variability of the environment poses even harder challenges for both parties.
+In this thesis, we address “the cloud resource management problem”, which is to allocate and schedule computing resources in a way that providers achieve high resource utilization and users meet their applications' performance requirements with minimum expenditure.
+We approach the problem from various aspects, using MapReduce as our target application. From provider's perspective, we propose a topology-aware resource placement solution to overcome the lack of information sharing between providers and users. From user's point of view, we present a resource allocation scheme to maintain a pool of leased resources in a cost-effective way and a progress share-based job scheduling algorithm that achieves high performance and fairness simultaneously in a heterogeneous cloud environment. To deal with variability in resource capacity and application performance in the Cloud, we develop a method to predict the job completion time distribution that is applicable to making sophisticated trade-off decisions in resource allocation and scheduling. Our evaluation shows that these methods can improve efficiency and effectiveness of cloud computing systems.},
+}
+EndNote citation:
+%0 Thesis
+%A Lee, Gunho
+%T Resource Allocation and Scheduling in Heterogeneous Cloud Environments
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-78.html
+%F Lee:EECS-2012-78

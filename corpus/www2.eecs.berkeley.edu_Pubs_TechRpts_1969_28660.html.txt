@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28660.html
+A Decomposition Algorithm for Solving a Class of Optimal Control Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Decomposition Algorithm for Solving a Class of Optimal Control Problems
+A Decomposition Algorithm for Solving a Class of Optimal Control Problems
+G. Meyer and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M263
+July 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-263.pdf
+BibTeX citation:
+@techreport{Meyer:M263,
+Author = {Meyer, G. and Polak, E.},
+Title = {A Decomposition Algorithm for Solving a Class of Optimal Control Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1969},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28660.html},
+Number = {UCB/ERL M263}
+}
+EndNote citation:
+%0 Report
+%A Meyer, G.
+%A Polak, E.
+%T A Decomposition Algorithm for Solving a Class of Optimal Control Problems
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M263
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28660.html
+%F Meyer:M263

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29242.html
+The Inclined Log-Spiral, Antenna, a New Type of Unidirectional, Frequency-independent Antenna
+P. Kaiser
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M170
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-170.pdf
+BibTeX citation:
+@techreport{Kaiser:M170,
+Author= {Kaiser, P.},
+Title= {The Inclined Log-Spiral, Antenna, a New Type of Unidirectional, Frequency-independent Antenna},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29242.html},
+Number= {UCB/ERL M170},
+}
+EndNote citation:
+%0 Report
+%A Kaiser, P.
+%T The Inclined Log-Spiral, Antenna, a New Type of Unidirectional, Frequency-independent Antenna
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M170
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29242.html
+%F Kaiser:M170

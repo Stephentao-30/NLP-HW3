@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-168.html
+Instrumenting Linear Algebra Energy Consumption via On-chip Energy Counters
+James Demmel and Andrew Gearhart
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-168
+June 23,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-168.pdf
+Despite the move toward chip multiprocessing in the mid-2000s, the problem of machine energy consumption is still a prevalent and growing problem within the computing sector. To evaluate energy consumption at the application level, researchers were previously limited to specialized external instrumentation, modeling or simulation. Thankfully, new microprocessor designs have now exposed a handful of hardware counters that are able to measure energy directly, avoiding many limitations of previous techniques. This work details the capability of these counters, supports their accuracy via other measurement hardware, and explores the energy consumption of common dense and sparse linear algebra routines for various problem sizes and core frequencies.
+BibTeX citation:
+@techreport{Demmel:EECS-2012-168,
+Author= {Demmel, James and Gearhart, Andrew},
+Title= {Instrumenting Linear Algebra Energy Consumption via On-chip Energy Counters},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-168.html},
+Number= {UCB/EECS-2012-168},
+Abstract= {Despite the move toward chip multiprocessing in the mid-2000s, the problem of machine energy consumption is still a prevalent and growing problem within the computing sector. To evaluate energy consumption at the application level, researchers were previously limited to specialized external instrumentation, modeling or simulation. Thankfully, new microprocessor designs have now exposed a handful of hardware counters that are able to measure energy directly, avoiding many limitations of previous techniques. This work details the capability of these counters, supports their accuracy via other measurement hardware, and explores the energy consumption of common dense and sparse linear algebra routines for various problem sizes and core frequencies.},
+}
+EndNote citation:
+%0 Report
+%A Demmel, James
+%A Gearhart, Andrew
+%T Instrumenting Linear Algebra Energy Consumption via On-chip Energy Counters
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 23
+%@ UCB/EECS-2012-168
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-168.html
+%F Demmel:EECS-2012-168

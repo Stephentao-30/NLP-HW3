@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28714.html
+On Minimal Triangulation of a Graph
+T. Ohtsuki and L.K. Cheung and T. Fijisawa
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M351
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-351.pdf
+BibTeX citation:
+@techreport{Ohtsuki:M351,
+Author= {Ohtsuki, T. and Cheung, L.K. and Fijisawa, T.},
+Title= {On Minimal Triangulation of a Graph},
+Year= {1972},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28714.html},
+Number= {UCB/ERL M351},
+}
+EndNote citation:
+%0 Report
+%A Ohtsuki, T.
+%A Cheung, L.K.
+%A Fijisawa, T.
+%T On Minimal Triangulation of a Graph
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M351
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28714.html
+%F Ohtsuki:M351

@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28716.html
+Reduction of the Grid Effects in Simulation Plasmas
+Liu Chen and A. Bruce Langdon and C.K. Birdsall
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M353
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-353.pdf
+BibTeX citation:
+@techreport{Chen:M353,
+Author= {Chen, Liu and Langdon, A. Bruce and Birdsall, C.K.},
+Title= {Reduction of the Grid Effects in Simulation Plasmas},
+Year= {1972},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28716.html},
+Number= {UCB/ERL M353},
+}
+EndNote citation:
+%0 Report
+%A Chen, Liu
+%A Langdon, A. Bruce
+%A Birdsall, C.K.
+%T Reduction of the Grid Effects in Simulation Plasmas
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M353
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28716.html
+%F Chen:M353

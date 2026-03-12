@@ -1,0 +1,198 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/research/dec/decClassify.htm
+Alan Mishchenko's Homepage - Classification of Decompositions
+Classification of Decomposition Types and Methods
+Decomposition and Factorization Types
+We should clearly distinguish several types of factorization/decomposition.
+They are listed in the increasing order of generality (roughly):
+(1) Algebraic factorization   F = A*B + C , where
+supp(A) and supp(B) are disjoint
+(2) Boolean factorization   F = A*B + C , where supp(A) and
+supp(B) are not disjoint
+(3) Simple algebraic decomposition F = A (op) B , where (op) is
+any operation and supp(A) and supp(B) are disjoint. Another name for this
+decomposition is disjoint-support bi-decomposition
+(4) Non-algebraic (general) decomposition F = A (op) B , where
+(op) is still any operation, but supp(A) and supp(B) are not disjoint.
+Another name for this decomposition is bi-decomposition. If supp(A) = supp(F)
+or supp(B) = supp(F), this bi-decomposition is called weak; otherwise,
+it is strong. The concept of non-algebraic strong/weak bi-decomposition
+has been introduced in D.Bochmann, F.Dresig, B.Steinbach, �A new decomposition
+method for multilevel circuit design�. Proc. of Euro-DAC 1991, pp. 374
+� 377.
+(5) Curtis decomposition F = H( G(X),  Y  )
+(5a) X and Y are disjoint sets of variables
+(5b) X and Y are non-disjoint sets of variables
+(5c) G has single binary output, also known as Ashenhurst decomposition
+(5d) G has two or more binary outputs
+Notice that, of all possible combinations of (5), (5b) subsumes (5a), and
+(5d) subsumes (5c); other combinations can happen, for example: (5a) can
+go with (5c), (5b) can go with (5d), etc.
+From the above, it is clear that (1) is the special case of (2), and (3)
+is a special case of (4), if supports of A and B are disjoint.
+The relationship of (4) and (5) is somewhat more complex in nature.
+On the one hand, (4) can be considered a special case of (5) if H is a
+two-input function, function G has two components, G1 = A and G2 = B and
+the variable set Y is empty. On the other hand, (5) can be considered a
+special case of (4), if we perform (4) to get the network on two-input
+gates, and then selectively collapse some of the gates to get function
+H, while the functions, which feed into H, will be considered as Gi's.
+Therefore, structurally considered, (4) and (5) are equally powerful,
+but the actual efficiency depends on a particular implementation. If implementation
+is efficient it explores large search space in short time. Some trade-offs
+are possible. More search space with very long computation time; less search
+space but very quickly... The results also depend on the type of the benchmarks.
+The remark about (4) and (5) being equally powerful is very important!
+Because Roth/Karp (I), Lai/Pedram (III), Chang/Marek-Sadowska (VII), etc.
+(see below) belong to (5), while Yang/Ciesielski (IX) and Mishchenko/Steinbach/Perkowski
+(X) belong to (4). I personally believe that (4) gives more freedom for
+nice trade-offs, and therefore, (4) will eventually outperform (5), including
+the case of decomposition for FPGA, which so far has been always approached
+using (5). But this is a very strong statement (which sounds more lilke
+my wishful thinking), and the future will show whether it is true.
+Decomposition and Factorization Methods
+Now we can review the decomposition methods and see how they fit into
+this framework. The order is chronological (roughly).
+(I) Roth/Karp method  [IBM J. Res. Dev. 1962] performs
+(5a)+(5c) or (5a)+(5d). As a particular case, Roth/Karp can end up with
+(3) if H has two inputs (but not with (4), because (4) is part of (5b),
+and in Roth/Karp we can only have (5a)!). In relation to the approaches
+described below, we can note that Roth/Karp method, we can have a column
+composed of only zeros [00...0] and only ones [11...1]. It means that one
+of the subfunctions Gi is a constant zero/one function.
+(II) Brayton/McMullen approach  [ISCS'82] to perform algebraic
+factorization by deriving kernels and co-kernels clearly belongs to (1).
+Its generality is limited. It has been improved upon many times, but it
+is easy to implement, it is fast and reasonably efficient on many benchmarks.
+Therefore, as of today, it is perhaps the most widely-used factorization/decomposition
+method.
+Several important improvements of this method have been proposed, in
+particular:
+J. Rajski, J. Vasudevamurthy, �The Test-Preserving Concurrent Decomposition
+and Factorization of Boolean Expressions�, IEEE Trans. CAD, Vol.11 (6),
+June 1992, pp.778-793.
+This method is implemented in SIS and gives very good results but it
+is still algebraic factorization (1).
+H. Sawada, Sh. Yamashita, A. Nagoya. An Efficient Method for Generating
+Kernels on Implicit Cube Set Representations. Proc. of IWLS� 99, pp. 260-263.
+This method can generate all kernels using a ZDD representation. Even
+though the experimental results are not impressive, I believe, it is because
+this method is not properly integrated with other ideas related to (1),
+in particular with the Rajski/Vasudevamurthy method mentioned above.
+(III) Lai/Pedram method  [DAC'93] performs (5a)+(5c) or (5a)+(5d).
+Lai/Pedram with extended definition of cut set  [DAC'93] also performs
+non-disjoint (in their paper, it is called "non-disjunctive") decomposition
+(5b)+(5c) or (5b)+(5d). As particular cases, the simple method can create
+(3) and the extended method can create (4).
+( IV) Stanion/Sechen algorithm  [DAC'95] performs (5b). In particular,
+when the cut is horizontal, it performs (5a). It can be both (5c) and (5d)
+depending on how many nodes are in the cut. If there are only two nodes,
+it is (5c), if more than two, it is (5d).
+(IVa) Stanion/Sechen method  [IEEE TCAD '94 "Boolean Division
+and Factorization Using Binary Decision Diagrams", Vol. 13, No.9, 1994,
+pp. 1179-1184.]  This method belongs to (2). It is based on a specialized
+BDD operator "interval cofactor" to find good boolean divisors of a function.
+It uses don't-cares.
+The decomposition  methods (III) and (IV) can detect simple algebraic
+decompositions (3), if the bound set and the free set are separated in
+the variable order. For Stanion/Sechen, free set should be on top. For
+other methods, bound set should be on top. However, if the variable ordering
+does not separate bound set and free set, none of these methods can detect
+algebraic decomposition. BUT - and this is very important - Yang/Ciesielski
+method (IX) can detect algebraic decompositions even when the variable
+order is not favorable. For a simple example, consider F = ab + cd with
+variable order (a,c,b,d). You will see that by making a cut between (a,c,b)
+and d, you can still detect the algebraic OR-bi-decomposition.
+(V) Bertacco/Damiani algorithm  originally published
+[ICCAD'97] to perform (5a)+(5c). Later an extension was proposed [IWLS'98]
+to handle (5a)+(5d). In my opinion, this extension is too complicated to
+be practical. In any case, this method cannot do (5b). It can only perform
+disjoint decomposition (calling it "disjunctive"). (You can find the above
+publications on  Valeria Bertacco's
+webpage .)
+(VI) Sasao developed several decomposition approaches , in particular:
+[IWLS'97] - (3)
+[IWLS'98] - (5a)+(5c) (good approach but very slow)
+[IWLS'99] - (5b)+(5d) (interesting approach but explores limited search
+space(?))
+[IWLS'00] - (5a)+(5d) for symmetric functions only
+(You can find these publications on  Dr.
+Sasao's webpage. )
+(VII) Chang/Marek-Sadowska method  [IEEE TCAD'96] is a curious
+mixture of many methods, which is more or less equivalent to (5b)+(5d).
+The distinctive feature of this approach that, unlike many of the above
+listed, it is capable of handling don't-cares.
+(VIII) Files/Perkowski  extended Curtis decomposition for multi-valued
+functions and created a number of new MDD-based algorithms to perform this
+decomposition with and without encoding intermediate signals. (Find the
+references on Craig's webpage: http://www.ece.pdx.edu/~cfiles/papers.html).
+(VIIIa) Grygiel/Perkowski  [ DAC'99 ]
+used graph-coloring and multi-valued intermediate signals to perform decomposition
+of boolean functions. The represented functions using Labeled Rough Partitions
+(LRPs) and employed BDDs to implement the LRPs, but they did not use BDDs
+to direct the decomposition.
+(It is possible to add Karplus here or in the chronological order. I
+do not have his paper, but generally it looks like (3) without EXOR gates.)
+(IX) Yang/Ciesielski  performed (4) using the generalized dominators.
+In the most general case, there is no connection between the approach with
+generalized 0-, 1-, or X-dominators and the Roth/Karp decomposition table,
+because Roth/Karp performs (5a), while Yang/Ciesielski perform (4), which,
+as discussed above, is equivalent to (5)=(5a)+(5b). In fact, Yang/Ciecielski
+is more general than Roth/Karp.
+Disadvantages:
+(a) does not always give preference to strong decomposition
+over the weak decomposition resulting in delay degradation
+(b) the use of don't-cares is limited only to internally generated
+and only through the BDD minimization
+(c) decompositions are limited to those detectable using one, albeit
+optimal, variable order and only horizontal cuts; meanwhile, other variables
+orders and non-horizontal cuts can possibly give better decompositions
+(d) the common logic extraction performed on the resulting factored
+trees is not efficient because only completely specified functions of the
+tree nodes are used (representing nodes as incompletely-specified functions
+would produce freedom to find more compatible subfunctions)
+Advantages:
+(a) as of today, it is the fastest way of detecting decompositions
+on the BDD structure
+(b) it can find some of the decompositions that cannot be found by
+other BDD-based methods (see remark above about algebraic decomposition)
+(c) is can be extended to make full use of don't-cares, non-horizontal
+cuts, and efficient common logic extraction. The latter is the goal of
+our present work directed towards bringing together (IX) and (X).
+Notice that the concept of a cut used by Yang/Ciesielski (IX) is different
+from that of Lai/Pedram (III) and Stanion/Sechen (IV). In both cases, a
+cut denotes a subset of nodes. The previous authors specified a cut by
+enumerated a set of the BDDs nodes. In particular, they could have a cut
+composed of the BDD nodes that have both their predecessor and successor
+nodes in the BDD not belonging to the
+cut.
+The cuts, as defined by Yang/Ciesielski, on the other hand, are specified
+by an imaginary surface that intersects every BDD path as the most once,
+and separates the BDD nodes into those above the surface (the cut nodes)
+and those below the surface (the nodes that does not belong to the cut).
+Notice that, in this case, it is not possible that a node belongs to the
+cut while both its predecessors and
+successors do not.
+An additional restriction is that cuts defined by Yang/Ciesielski to
+generate 0- and 1- dominators always intesects one or more edges pointing
+to terminal nodes (this property may not be true for cuts used to generate
+x-dominators, as pointed out by C. Yang).
+(X) Mishchenko/Steinbach/Perkowski  [ DAC'01 ]
+performed (4) using formulas with quantifiers.
+Disadvantages:
+(a) excessive runtime for functions with more than 30 variables
+(b) the generated components A and B have the smallest possible support
+but they may not be well-decomposable, because cost function does not take
+into account the internal structure of the decomposed blocks
+Advantages:
+(a) if the strong decomposition exists, it is always used before
+weak decomposition is used
+(b) the netlist is well balanced resulting in short delay
+(c) flexible in the use of don't cares: uses both the external and
+internally generated don't-cares, which are propagated as the decomposition
+proceeds
+(d) some of the logic is efficiently shared across the logic cones
+(e) the netlist is provably 100% testable for single stuck-at faults
+This classification and description may be incomplete and have inaccuracies,
+which I hope I will fix as time goes on.
+Alan Mishchenko's Home Page
+This page has been last modified on May 24, 2001.

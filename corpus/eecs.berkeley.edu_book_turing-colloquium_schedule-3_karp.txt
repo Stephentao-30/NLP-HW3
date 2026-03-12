@@ -1,0 +1,18 @@
+URL: https://eecs.berkeley.edu/book/turing-colloquium/schedule-3/karp
+Computational Complexity in Theory and in Practice - EECS at Berkeley
+Computational Complexity in Theory and in Practice
+Berkeley ACM A.M. Turing Laureate Colloquium
+Richard Karp
+Wednesday, October 24, 2018
+Location: 306 Soda Hall (HP Auditorium)  4:00 – 5:00 pm
+This lecture will be livestreamed in 380 Soda Hall, 250 Sutardja Dai Hall, and at https://www.youtube.com/c/UCBerkeleyEECSEvents/live
+Abstract
+Computational complexity theory measures the complexity of a problem by the best possible asymptotic growth rate of a correct algorithm for the exact or approximate solution.  The phenomena of NP completeness and hardness of approximation often lead to a pessimistic conclusion. In practice, one seeks algorithms that perform well on typical instances, as measured by computational experiments or probabilistic analysis. This latter approach often yields an assessment very different from the complexity-theoretic yardstick. We will compare and contrast the two approaches to several canonical problems: satisfiability solving, linear programming, integer programming, the traveling-salesman problem, bin packing, matching and number partitioning.
+Biography
+Richard Karp received his PhD from Harvard University in 1959.  His 1972 paper, “Reducibility Among Combinatorial Problems,” showed that many of the most commonly studied combinatorial problems are NP-complete, and hence likely to be intractable. Much of his work has concerned parallel algorithms, the probabilistic analysis of combinatorial optimization algorithms and the construction of randomized algorithms for combinatorial problems. His current research activities center around algorithmic methods in genomics and computer networking.  The unifying theme in his work has been the study of combinatorial algorithms.  From 1959 to 1968 he was a member of the Mathematical Sciences Department at IBM Research, from 1968 to 1994 and from 1999 to the present he has been a Professor at the University of California, Berkeley, where he held the Class of 1939 Chair and is a University Professor. From 1988 to 1995 and 1999 to the present he has been a Research Scientist at the International Computer Science Institute in Berkeley. From 1995 to 1999 he was a Professor at the University of Washington, and during the 1999-2000 academic year he was the Hewlett-Packard Visiting Professor at the Mathematical Sciences Research Institute. He also served as  founding Director of the Simons Institute for the Theory of Computing from 2012-2017. He recieved the Turing Award in 1985 and was awarded the National Medal of Science in 1996.
+Video of Presentation
+Video of Interview
+< Proofs, Knowledge, and Computation
+The Land Sharks are on the Squawk Box >
+View
+Open Faculty Positions

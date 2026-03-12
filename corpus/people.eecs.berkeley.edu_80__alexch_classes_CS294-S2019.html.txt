@@ -1,0 +1,434 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/classes/CS294-S2019.html
+CS294 - Probabilistically Checkable and Interactive Proof Systems
+CS294: Probabilistically Checkable and Interactive Proof Systems (S2019)
+Basics
+Instructor(s):   Alessandro Chiesa
+Teaching Assistant(s):   Nick Spooner
+Time:   Tuesdays and Thursdays 15.30-17:00
+Location:   310 Soda Hall
+Office Hours:   fix appointment via email (to Alessandro or Nick)
+Course Description
+This course offers a graduate introduction to probabilistically checkable and interactive proof systems. Such proof systems play a central role in complexity theory and in cryptography. Their formulation and construction is arguably one of the leading conceptual and technical achievements in theoretical computer science. Results typically draw on techniques from coding theory, property testing, and graph theory.
+Topics covered include:
+interactive proofs
+IP=PSPACE
+public to private coins
+bounded communication/randomness
+doubly-efficient interactive proofs (aka interactive proofs for muggles)
+zero knowledge
+basic probabilistic checking
+exponential-size PCPs (Hadamard)
+polynomial-size PCPs (Reed--Muller)
+optimized probabilistic checking
+reducing query complexity (proof composition, parallel repetition, 3-query PCPs, ...)
+reducing proof length (routing, proximity testing to Reed--Solomon, ...)
+probabilistic checking via gap amplification
+Emphasis is on getting students up to speed for research in the area; lectures will often contain open problems or suggestions for future research.
+The Piazza website is  here .
+Video lectures can be found  here .
+Prerequisites
+This course requires knowledge of basic algorithms (CS 170) and complexity (CS 172).
+Requirements
+Completing the course requires regular attendance/participation, completing occasional homework, scribing (once or twice), and a research project.
+Grading will be based 20% on attendance/participation/homework; 40% on the scribe notes; and 40% on the research project.
+Reading and Resources
+This course has no required textbook. We give specific references for each lecture. In addition, the following online resources could be helpful:
+Book:  Probabilistic proof systems: a primer  (Oded Goldreich)
+Course:  Probabilistically checkable proofs  (Eli Ben-Sasson)
+Course:  PCPs and high dimensional expanders  (Irit Dinur)
+Course:  PCPs and limits of approximation algorithms  (Prahladh Harsha)
+Course:  Complexity theory  (Jonathan Katz)
+Course:  Probabilistically checkable proofs and hardness of approximation  (Subhash Khot)
+Course:  Probabilistically checkable proofs and hardness of approximation  (Dana Moshkovitz)
+Course:  PCP and hardness of approximation  (Luca Trevisan)
+Article:  A history of the PCP theorem  (Ryan O'Donnell)
+Assignments
+Given in class.
+Schedule
+#
+Date
+Topic
+Reading
+1
+2019.01.22
+Interactive Proofs 1     [video]
+introduction to the course
+definition of interactive proofs
+GNI is contained in IP (with private coins)
+IP is contained in PSPACE
+Formulation of interactive proofs:
+Babai 1985:  Trading group theory for randomness
+Goldwasser Micali Rackoff 1989:  The knowledge complexity of interactive proof systems
+Video:
+Proofs, Secrets, and Computation  (by Silvio Micali)
+2
+2019.01.24
+Interactive Proofs 2     [video]
+sumcheck protocol
+coNP contained in IP
+arithmetization for UNSAT
+P #P  contained in IP
+arithmetization for #SAT
+The sumcheck protocol:
+Lund Fortnow Karloff Nisan 1992:  Algebraic methods for interactive proof systems
+3
+2019.01.29
+Interactive Proofs 3     [video]
+definition of QBF
+PSPACE is contained in IP
+TQBF is the starting point
+arithmetization of formula and quantifiers
+Shamir's protocol (with Shen's degree reduction)
+TQBF is PSPACE-complete
+Shamir's protocol:
+Shamir 1992:  IP=PSPACE
+Shen 1992:  IP=PSPACE: simplified proof
+Additional:
+Meir 2013:  IP=PSPACE using error-correcting codes
+Meir 2014: talk on the work above
+4
+2019.01.31
+Interactive Proofs 4     [video]
+private coins vs public coins
+definition of AM[k] and MA[k]
+GNI is contained in AM[2]
+reduction to approximate counting
+approximate counting via pairwise-independent hashing
+IP[k] is contained in AM[k+2]
+high-level intuition only
+Goldwasser--Sipser transformation:
+Goldwasser Sipser 1986:  Private coins versus public coins in interactive proof systems
+emulating any interactive proof, with public coins
+Additional:
+Goldreich Leshkowitz 2016:  On emulating interactive proofs with public coins
+an alternative emulation that is more efficient than GS86
+Furer Goldreich Mansour Sipser Zachos 1989:  On completeness and soundness in interactive proof systems
+achieving perfect completeness for AM
+IP with perfect soundness is in NP
+5
+2019.02.05
+Interactive Proofs 5     [video]
+IPs with bounded communication/randomness
+complexity classes IP[p,v,r] and AM[p,v,r] (prover bits ≤ p, verifier bits ≤ v, random bits ≤ r)
+IP[p,v,r] is contained in DTime(2 O(p+v+r) poly)
+compute value of game tree
+IP[p,v] is contained in BPTime(2 O(p+v) poly)
+approximate value of game tree (sub-sample by random tapes)
+proof via Chernoff bound and union bound
+AM[p] is contained in BPTime(2 O(p log p) poly)
+approximate value of game tree (sub-sample by transcript-consistent next messages)
+refine previous analysis via hybrids
+IP[p] is contained in BPTime(2 O(p log p) poly) NP
+(sketch) as above but transcript consistency is harder
+The results presented in class:
+Goldreich Håstad 1998:  On the complexity of interactive proofs with bounded communication
+Additional results:
+Boppana Håstad Zachos 1987:  Does co-NP have short interactive proofs?
+Goldreich Vadhan Wigderson 2002:  On interactive proofs with a laconic prover
+6
+2019.02.07
+Interactive Proofs 6     [video]
+inefficiency of Shamir's protocol
+honest prover in Shamir's protocol is 2 O(n^2)
+honest prover in Shen's protocol is 2 O(n)
+T-time S-space machines yield 2 O(S log T) -time provers
+doubly-efficient interactive proofs
+motivation of delegation of computation
+theorem statement for log-space uniform circuits
+low-degree extensions (univariate and multivariate)
+bare bones protocol for layered circuits
+one sumcheck per layer
+The result presented in class:
+Goldwasser Kalai Rothblum 2015:  Delegating computation: interactive proofs for muggles
+A survey:
+Goldreich 2017:  On doubly-efficient interactive proof systems
+Additional on implementations of GKR's protocol:
+Cormode Mitzenmacher Thaler 2012:  Practical verified computation with streaming interactive proofs
+Thaler Roberts Mitzenmacher Pfister 2012:  Verifiable computation with massively parallel interactive proofs
+Thaler 2013:  Time-optimal interactive proofs for circuit evaluation
+Wahby Howald Garg Shelat Walfish 2015:  Verifiable ASICs
+Additional on doubly-efficient interactive proofs:
+Reingold Rothblum Rothblum 2016:  Constant-round interactive proofs for delegating computation
+Rothblum 2016: talk on the work above (basic)
+Rothblum 2016: talk on the work above (more technical)
+7
+2019.02.12
+Interactive Proofs 7     [video]
+IP for GI
+definition of honest-verifier zero knowledge (HVZK)
+the IP for GI is HVZK
+definition of malicious-verifier zero knowledge (ZK)
+the IP for GI is ZK
+PZK ⊆ SZK ⊆ CZK
+towards SZK ⊆ coAM
+running simulator when x ∉ L
+IP for GI → IP for GNI (!)
+On zero knowledge:
+Goldwasser Micali Rackoff 1989: The knowledge complexity of interactive proofs systems
+Goldreich 2010:  Zero knowledge - a tutorial
+Fortnow 1987:  The complexity of perfect zero-knowledge
+Video:
+Zero knowledge probabilistic proof systems  (by Shafi Goldwasser)
+8
+2019.02.14
+Basic Probabilistic Checking 1     [video]
+definition of a PCP verifier
+the complexity class PCP c,s [r,q] Σ
+simple class inclusions
+from q queries to 2 queries
+statement of PCP Theorem
+Video:
+Wigderson 2018:  Scientific revolutions, ToC and PCP
+New York Times article about the PCP Theorem:
+Kolata 1992:  New short cut found for long math proofs
+9
+2019.02.19
+Basic Probabilistic Checking 2     [video]
+exponential-size PCPs
+NP ⊆ PCP 1,0.5 [poly(n),O(1)] {0,1}
+good query complexity, bad proof length
+linear PCPs
+the complexity class LPCP c,s [l,r,q] Σ
+NP ⊆ LPCP 1,0.75 [O(n 2 ),O(m+n),4] {0,1}
+The exponential-size constant-query PCP is the  inner PCP  in this paper:
+Arora Lund Motwani Sudan Szegedy 1998:  Proof verification and the hardness of approximation problems
+10
+2019.02.21
+Basic Probabilistic Checking 3     [video]
+compiling any LPCP into a PCP
+self-correction
+linearity testing
+BLR test
+analysis via majority decoding
+Main:
+Blum Luby Rubinfeld 1990:  Self-testing/correcting with applications to numerical problems
+Additional:
+Bellare Coppersmith Håstad Kiwi Sudan 1996:  Linearity testing in characteristic two
+first connection of Fourier analysis and testing
+Video:
+Rubinfeld 2018:  A comedy of errors
+11
+2019.02.26
+Basic Probabilistic Checking 4     [video]
+NP ⊆ PCP[log, polylog] (up to low-degree testing)
+start from satisfiability of quadratic equations
+amplify gap via an error-correcting code
+arithmetization via Reed--Muller instead of Hadamard
+reduce to sumcheck problem
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+12
+2019.02.28
+Basic Probabilistic Checking 5     [video]
+NP ⊆ PCP[log, polylog] with low-degree testing
+definition of low-degree testing
+univariate polynomials
+d+2 random points (any ε)
+[S92, Section 3.1.1]
+d+2 random evenly-spaced points (ε ~ 1/d 2 )
+[S92, Section 3.1.2]
+multivariate polynomials
+total degree via random lines (ε ~ 1/d 2 )
+[S92, Section 3.2.1]
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+Additional:
+Arora Safra 1998, Section 4
+Sudan 1992:  Efficient checking of polynomials and proofs and the hardness of approximation problems
+13
+2019.03.05
+PCPs with Sublinear Verification 1     [video]
+NEXP ⊆ PCP[poly, poly]
+why last lecture's approach fails
+verifier would run in exponential time
+definition of oracle satisfiability (OSAT)
+[BFL90, Definition 4.1]
+OSAT is NEXP-complete
+[BFL90, Proposition 4.2]
+OSAT to zero testing
+zero testing to sumcheck
+Method 1: via random evaluation  [BFLS91, Section 5.2]
+Method 2: via additional polynomials  [BS08, Lemma 4.11]
+Main:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+14
+2019.03.07
+PCPs with Sublinear Verification 2     [video]
+NTIME(T) ⊆ PCP[ptime=poly(T), vtime=poly(n,log(T))]
+low-degree extension with H of logarithmic size
+[BFLS91, Section 4.1]
+low-degree projection polynomials to obtain bits
+[BFLS91, Section 6]
+PCP-based delegation of computation
+Main:
+Babai Fortnow Levin Szegedy 1991:  Checking computations in polylogarithmic time
+Kilian 1992:  A note on efficient zero-knowledge proofs and arguments
+Micali 1994:  Computationally sound proofs
+15
+2019.03.12
+Hardness of Approximation 1     [video]
+definition of an approximation algorithm
+traditional NP reductions do not preserve performance ratio
+hardness of approximating Independent Set within any constant
+Main:
+Trevisan 2004:  Inapproximability of combinatorial optimization problems
+Feige Goldwasser Lovász Safra Szegedy 1996:  Interactive proofs and the hardness of approximating cliques
+Video:
+Khot 2018:  Hardness of Approximation
+16
+2019.03.14
+Hardness of Approximation 2     [video]
+randomness-efficient error reduction
+hardness of approximating Independent Set within a polynomial factor
+equivalence of PCPs and GapCSPs
+hardness of approximating SAT
+Main:
+Trevisan 2004:  Inapproximability of combinatorial optimization problems
+17
+2019.03.19
+Reducing Query Complexity 1     [video]
+proof composition will have two ingredients:
+outer PCP is a  robust PCP  (RPCP)
+inner PCP is a  PCP of proximity  (PCPP)
+definition of PCPP
+main tool: local decoding of encoded assignment
+CSAT ∈ PCPP[poly, 1]
+modification of exponential-size PCP
+CSAT ∈ PCPP[log, polylog]
+modification of polynomials-size PCP
+Main:
+Ben-Sasson Goldreich Harsha Sudan Vadhan 2006:  Robust PCPs of proximity, shorter PCPs, and applications to coding
+Dinur Reingold 2006:  Assignment testers: towards a combinatorial proof of the PCP Theorem
+Additional on self-correction:
+Gemmell Lipton Rubinfeld Sudan Wigderson 1991:  Self-testing/correcting for polynomials and for approximate functions
+Gemmell Sudan 1992:  Highly resilient correctors for polynomials
+18
+2019.03.21
+Reducing Query Complexity 2     [video]
+definition of RPCP
+robustization
+PCP[r,q] Σ  ⊆ R Ω(1/q) PCP[r,O(q log|Σ|)] {0,1}
+bundling
+PCP[r,q] {0,1}  ⊆ PCP[r+log,O(1)] {0,1} q polylog(n)
+conclusion is polynomial-size RPCPs:
+NP ⊆ R Ω(1) PCP[log,polylog] {0,1}
+Robustization:
+Dinur Reingold 2006:  Assignment testers: towards a combinatorial proof of the PCP Theorem
+Additional on O(1)-query tests:
+Section 7.2 of  Arora Lund Motwani Sudan Szegedy 1998:  Proof verification and the hardness of approximation problems
+X
+2019.03.26
+No class (spring break).
+X
+2019.03.28
+No class (spring break).
+19
+2019.04.02
+Reducing Query Complexity 3     [video]
+proof composition
+outer PCP is a  robust PCP  (RPCP)
+inner PCP is a  PCP of proximity  (PCPP)
+yields a (regular) PCP
+NP ⊆ PCP[O(log n), O(1)] via proof composition
+Main:
+Ben-Sasson Goldreich Harsha Sudan Vadhan 2006:  Robust PCPs of proximity, shorter PCPs, and applications to coding
+20
+2019.04.04
+Parallel Repetition 1     [video]
+reducing queries at expense of alphabet size:
+PCP c,1-ε [r,q] Σ  ⊆ PCP c,1-ε/q [r+log(q),2] Σ q
+corollary: ∃ ε and a,b s.t. NP ⊆ PCP 1,1-ε [a log(n),2] {0,1} b
+parallel repetition (statement only):
+∀ s ∃ σ ∀ t, PCP c,s [r,2] Σ  ⊆ PCP c,σ t [tr,2] Σ t
+reduces soundness error at expense of alphabet size
+corollary: ∃ a,b ∀ s, NP ⊆ PCP 1,s [a log(n) log(1/s),2] {0,1} b log(1/s)
+sliding scale conjecture:
+statement: ∀ s>1/n, NP ⊆ PCP 1,s [O(log(n)),O(1)] {0,1} O(log(1/s))
+why parallel repetition is non-trivial:
+equivalence with 2-prover 1-round games
+Feige's "non-interactive agreement" counterexample
+Counterexamples:
+Feige 1991:  On the success probability of the two provers in one-round proof systems
+Feige Verbitsky 1996:  Error reduction by parallel repetition: a negative result
+Additional on parallel repetition
+Raz 1998:  A parallel repetition theorem
+Moshkovitz 2014:  Parallel repetition from fortification
+Towards the sliding scale conjecture:
+Bellare Goldwasser Lund Russell 1991:  Efficient probabilistically checkable proofs and applications to approximations
+Dinur Fischer Kindler Raz Safra 1999:  PCP characterizations of NP: Toward a polynomially-small error-probability
+Moshkovitz 2016:  Low degree test with polynomially small error
+21
+2019.04.09
+Parallel Repetition 2     [video]
+Verbitsky's Theorem
+combinatorial lines
+Furstenberg–Katznelson Theorem (statement only)
+value of repeated game is the density of largest line-free set
+why it generalizes to more than two provers/players
+Short PCPs
+state of the art (statements only)
+NTIME(T) ⊆ PCP[log T + O(loglog T), polylog(T)]
+∀ ε>0, CSAT ∈ PCP[log N + O(1/ε), N ε ]
+Main on parallel repetition:
+Verbitsky 1996:  Towards the parallel repetition conjecture
+Additional on explicit bounds for Furstenberg–Katznelson:
+Polymath 2010:  A new proof of the density Hales-Jewett theorem
+22
+2019.04.11
+Interactive Oracle Proofs 1     [video]
+definition of the IOP model
+IOP[k=poly(n), r=poly(n), q=poly(n)]=NEXP
+PCP as a special case of IOP
+IP as a special case of IOP
+IOP-based delegation of computation
+IOP model and its compilation into non-interactive arguments:
+Ben-Sasson Chiesa Spooner 2016:  Interactive oracle proofs
+23
+2019.04.16
+Interactive Oracle Proofs 2     [video]
+circuit satisfiability over the boolean field:
+CSAT(𝔽 2 ) ∈ IOP[k=3,l=O(n),q=O(1)] {0,1}
+circuit satisfiability over large and smooth fields 𝔽:
+CSAT(𝔽) ∈ IOP[k=3,l=O(n),q=O(1)] 𝔽
+we will prove a weaker statement:
+CSAT(𝔽) ∈ IOP[k=O(log n),l=O(n),q=O(log n)] 𝔽
+from circuit satisfiability to bilinear equations
+from bilinear equations to univariate sumcheck
+IOPs for CSAT(𝔽 2 ):
+Ben-Sasson Chiesa Gabizon Riabzev Spooner 2016:  Interactive oracle proofs with constant rate and query complexity
+IOPs for CSAT(𝔽):
+Ben-Sasson Chiesa Riabzev Spooner Virza Ward 2019:  Aurora: transparent succinct arguments for R1CS
+24
+2019.04.18
+Interactive Oracle Proofs 3     [video]
+univariate sumcheck
+testing proximity to the Reed--Solomon code
+the main challenges
+the FRI protocol
+IOPs for CSAT(𝔽):
+Ben-Sasson Chiesa Riabzev Spooner Virza Ward 2019:  Aurora: transparent succinct arguments for R1CS
+FRI protocol:
+Ben-Sasson Bentov Horesh Riabzev 2018:  Fast Reed-Solomon interactive oracle proofs of proximity
+25
+2019.04.23
+Interactive Oracle Proofs 4     [video]
+soundness analysis of the FRI protocol
+FRI protocol:
+Ben-Sasson Bentov Horesh Riabzev 2018:  Fast Reed-Solomon interactive oracle proofs of proximity
+Additional reading:
+Ben-Sasson Goldberg Kopparty Saraf 2019:  DEEP-FRI: sampling outside the box improves soundness
+26
+2019.04.25
+Class Project Presentations 1
+27
+2019.04.30
+Class Project Presentations 2
+28
+2019.05.02
+Class Project Presentations 3
+X
+2019.05.07
+No class.
+X
+2019.05.09
+No class.

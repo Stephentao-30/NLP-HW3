@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-165.html
+Bending and Torsion Minimization of Toroidal Loops
+Avik Das
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-165
+June 8,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-165.pdf
+We focus on an optimization problem on parameterized surfaces of genus one. In particular we trade off the penalty functions for bending a toroidal path and for applying a twist to it and aim to find local minima of this cost function. This analysis forms a key element in demonstrating the different regular homotopy classes of tori. A generalization of this surface optimization, which considers curvature as well as any shearing of its parameter grid, may be used to find the most optimal direct path from an arbitrary closed manifold of genus one into one of the four basic representatives of the four regular homotopy classes of tori.
+BibTeX citation:
+@techreport{Das:EECS-2012-165,
+Author= {Das, Avik},
+Title= {Bending and Torsion Minimization of Toroidal Loops},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-165.html},
+Number= {UCB/EECS-2012-165},
+Abstract= {We focus on an optimization problem on parameterized surfaces of genus one. In particular we trade off the penalty functions for bending a toroidal path and for applying a twist to it and aim to find local minima of this cost function. This analysis forms a key element in demonstrating the different regular homotopy classes of tori. A generalization of this surface optimization, which considers curvature as well as any shearing of its parameter grid, may be used to find the most optimal direct path from an arbitrary closed manifold of genus one into one of the four basic representatives of the four regular homotopy classes of tori.},
+}
+EndNote citation:
+%0 Report
+%A Das, Avik
+%T Bending and Torsion Minimization of Toroidal Loops
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 8
+%@ UCB/EECS-2012-165
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-165.html
+%F Das:EECS-2012-165

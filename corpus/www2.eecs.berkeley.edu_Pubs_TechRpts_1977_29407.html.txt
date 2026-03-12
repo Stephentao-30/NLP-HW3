@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29407.html
+Combined Phase I, Phase II Methods of Feasible Directions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Combined Phase I, Phase II Methods of Feasible Directions
+Combined Phase I, Phase II Methods of Feasible Directions
+E. Polak, R. Trahan and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/39
+May 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-39.pdf
+BibTeX citation:
+@techreport{Polak:M77/39,
+Author = {Polak, E. and Trahan, R. and Mayne, D.Q.},
+Title = {Combined Phase I, Phase II Methods of Feasible Directions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29407.html},
+Number = {UCB/ERL M77/39}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Trahan, R.
+%A Mayne, D.Q.
+%T Combined Phase I, Phase II Methods of Feasible Directions
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29407.html
+%F Polak:M77/39

@@ -1,0 +1,47 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-219.html
+Efficient inference algorithms for near-deterministic systems
+Shaunak Chatterjee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-219
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-219.pdf
+This thesis addresses the problem of performing probabilistic inference in stochastic systems where the probability mass is far from uniformly distributed among all possible outcomes. Such \emph{near-deterministic} systems arise in several real-world applications. For example, in human physiology, the widely varying evolution rates of physiological variables make certain trajectories much more likely than others; in natural language, a very small fraction of all possible word sequences accounts for a disproportionately high amount of probability under a language model. In such settings, it is often possible to obtain significant computational savings by focusing on the outcomes where the probability mass is concentrated. This contrasts with existing algorithms in probabilistic inference---such as junction tree, sum product, and belief propagation algorithms---which are well-tuned to exploit conditional independence relations.
+The first topic addressed in this thesis is the
+structure of discrete-time temporal graphical models of
+near-deterministic stochastic processes.  We show how the structure depends on the ratios between the size of the time step and the effective rates of change of the variables. We also prove that accurate approximations can often be obtained by sparse structures even for very large time steps. Besides providing an intuitive reason for causal sparsity in discrete temporal models, the sparsity also speeds up inference.
+The next contribution is an eigenvalue algorithm for a linear factored system (e.g., dynamic Bayesian network), where existing algorithms do not scale since the size of the system is exponential in the number of variables. Using a combination of graphical model inference algorithms and numerical methods for spectral analysis, we propose an approximate spectral algorithm which operates in the factored representation and is exponentially faster than previous algorithms.
+The third contribution is a temporally abstracted Viterbi (TAV) algorithm. Starting with a spatio-temporally abstracted coarse representation of the original problem, the TAV algorithm iteratively refines the search space for the Viterbi path via spatial and temporal refinements. The algorithm is guaranteed to converge to the optimal solution with the use of admissible heuristic costs in the abstract levels and is much faster than the Viterbi algorithm for near-deterministic systems.
+The fourth contribution is a hierarchical image/video segmentation algorithm, that shares some of the ideas used in the TAV algorithm. A supervoxel tree provides the abstraction hierarchy for this application. The algorithm starts working with the coarsest level supervoxels, and refines portions of the tree which are likely to have multiple labels. Since large contiguous patches exist in images and videos, this approach is more computationally efficient than solving the problem at the finest level of supervoxels.
+The final contribution is a family of Markov Chain Monte Carlo (MCMC) algorithms for near-deterministic systems when there exists an efficient algorithm to sample solutions for the corresponding deterministic problem. In such a case, a generic MCMC algorithm's performance worsens as the problem becomes more deterministic despite the existence of the efficient algorithm in the deterministic limit. MCMC algorithms designed using our methodology can bridge this gap.
+The computational speedups we obtain through the various new algorithms presented in this thesis show that it is indeed possible to exploit near-determinism in probabilistic systems. Near-determinism, much like conditional independence, is a potential (and promising) source of computational savings for both exact and approximate inference. It is a direction that warrants more understanding and better generalized algorithms.
+Advisors:  Stuart J. Russell
+BibTeX citation:
+@phdthesis{Chatterjee:EECS-2013-219,
+Author= {Chatterjee, Shaunak},
+Title= {Efficient inference algorithms for near-deterministic systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-219.html},
+Number= {UCB/EECS-2013-219},
+Abstract= {This thesis addresses the problem of performing probabilistic inference in stochastic systems where the probability mass is far from uniformly distributed among all possible outcomes. Such \emph{near-deterministic} systems arise in several real-world applications. For example, in human physiology, the widely varying evolution rates of physiological variables make certain trajectories much more likely than others; in natural language, a very small fraction of all possible word sequences accounts for a disproportionately high amount of probability under a language model. In such settings, it is often possible to obtain significant computational savings by focusing on the outcomes where the probability mass is concentrated. This contrasts with existing algorithms in probabilistic inference---such as junction tree, sum product, and belief propagation algorithms---which are well-tuned to exploit conditional independence relations.
+The first topic addressed in this thesis is the
+structure of discrete-time temporal graphical models of
+near-deterministic stochastic processes.  We show how the structure depends on the ratios between the size of the time step and the effective rates of change of the variables. We also prove that accurate approximations can often be obtained by sparse structures even for very large time steps. Besides providing an intuitive reason for causal sparsity in discrete temporal models, the sparsity also speeds up inference.
+The next contribution is an eigenvalue algorithm for a linear factored system (e.g., dynamic Bayesian network), where existing algorithms do not scale since the size of the system is exponential in the number of variables. Using a combination of graphical model inference algorithms and numerical methods for spectral analysis, we propose an approximate spectral algorithm which operates in the factored representation and is exponentially faster than previous algorithms.
+The third contribution is a temporally abstracted Viterbi (TAV) algorithm. Starting with a spatio-temporally abstracted coarse representation of the original problem, the TAV algorithm iteratively refines the search space for the Viterbi path via spatial and temporal refinements. The algorithm is guaranteed to converge to the optimal solution with the use of admissible heuristic costs in the abstract levels and is much faster than the Viterbi algorithm for near-deterministic systems.
+The fourth contribution is a hierarchical image/video segmentation algorithm, that shares some of the ideas used in the TAV algorithm. A supervoxel tree provides the abstraction hierarchy for this application. The algorithm starts working with the coarsest level supervoxels, and refines portions of the tree which are likely to have multiple labels. Since large contiguous patches exist in images and videos, this approach is more computationally efficient than solving the problem at the finest level of supervoxels.
+The final contribution is a family of Markov Chain Monte Carlo (MCMC) algorithms for near-deterministic systems when there exists an efficient algorithm to sample solutions for the corresponding deterministic problem. In such a case, a generic MCMC algorithm's performance worsens as the problem becomes more deterministic despite the existence of the efficient algorithm in the deterministic limit. MCMC algorithms designed using our methodology can bridge this gap.
+The computational speedups we obtain through the various new algorithms presented in this thesis show that it is indeed possible to exploit near-determinism in probabilistic systems. Near-determinism, much like conditional independence, is a potential (and promising) source of computational savings for both exact and approximate inference. It is a direction that warrants more understanding and better generalized algorithms.},
+}
+EndNote citation:
+%0 Thesis
+%A Chatterjee, Shaunak
+%T Efficient inference algorithms for near-deterministic systems
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-219
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-219.html
+%F Chatterjee:EECS-2013-219

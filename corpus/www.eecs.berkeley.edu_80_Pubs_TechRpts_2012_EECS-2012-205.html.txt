@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-205.html
+Communication-Optimal Parallel Recursive Rectangular Matrix Multiplication
+James Demmel and David Eliahu and Armando Fox and Shoaib Ashraf Kamil and Benjamin Lipshitz and Oded Schwartz and Omer Spillinger
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-205
+October 24,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-205.pdf
+Communication-optimal algorithms are known for square matrix multiplication. Here, we obtain the first communication-optimal algorithm for all dimensions of rectan- gular matrices. Combining the dimension-splitting technique of Frigo, Leiserson, Prokop and Ramachandran (1999) with the recursive BFS/DFS approach of Ballard, Demmel, Holtz, Lipshitz and Schwartz (2012) allows for a communication-optimal as well as cache- and network-oblivious algorithm. Moreover, the implementation is simple: approximately 50 lines of code for the shared-memory version. Since the new algorithm minimizes communication across the network, between NUMA domains, and between levels of cache, it performs well in practice on both shared- and distributed-memory machines. We show significant speedups over existing parallel linear algebra libraries both on a 32-core shared-memory machine and on a distributed-memory supercomputer.
+BibTeX citation:
+@techreport{Demmel:EECS-2012-205,
+Author= {Demmel, James and Eliahu, David and Fox, Armando and Kamil, Shoaib Ashraf and Lipshitz, Benjamin and Schwartz, Oded and Spillinger, Omer},
+Title= {Communication-Optimal Parallel Recursive Rectangular Matrix Multiplication},
+Year= {2012},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-205.html},
+Number= {UCB/EECS-2012-205},
+Abstract= {Communication-optimal algorithms are known for square matrix multiplication. Here, we obtain the first communication-optimal algorithm for all dimensions of rectan- gular matrices. Combining the dimension-splitting technique of Frigo, Leiserson, Prokop and Ramachandran (1999) with the recursive BFS/DFS approach of Ballard, Demmel, Holtz, Lipshitz and Schwartz (2012) allows for a communication-optimal as well as cache- and network-oblivious algorithm. Moreover, the implementation is simple: approximately 50 lines of code for the shared-memory version. Since the new algorithm minimizes communication across the network, between NUMA domains, and between levels of cache, it performs well in practice on both shared- and distributed-memory machines. We show significant speedups over existing parallel linear algebra libraries both on a 32-core shared-memory machine and on a distributed-memory supercomputer.},
+}
+EndNote citation:
+%0 Report
+%A Demmel, James
+%A Eliahu, David
+%A Fox, Armando
+%A Kamil, Shoaib Ashraf
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%A Spillinger, Omer
+%T Communication-Optimal Parallel Recursive Rectangular Matrix Multiplication
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 October 24
+%@ UCB/EECS-2012-205
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-205.html
+%F Demmel:EECS-2012-205

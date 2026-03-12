@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/161130-2
+The Large-Scale Analysis of Books - EECS at Berkeley
+The Large-Scale Analysis of Books
+EECS Colloquium
+Wednesday, November 30, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 p
+David Bamman
+Assistant Professor, School of Information
+UC Berkeley
+David Bamman speaks on Challenges in the Computational Analysis of Large Book Corpora, 11/30/16
+Abstract
+With the rise of large-scale digitization efforts over the past ten years (such as those by Google Books, the HathiTrust, and the Internet Archive), we now have access to large textual datasets preserving our cultural record in the form of printed books.  These text collections have driven research at the intersection of computational methods and the humanities, exploiting advances made over past thirty years in natural language processing and machine learning,
+In this talk, I’ll outline some of the opportunities this data presents for research in “distant reading” (such as modeling the changing portrayal of women as fictional characters over time), and focus on the computational challenges involved in using this data for historical analysis.  While much research in NLP has been heavily optimized to the domain of contemporary newswire, far less has addressed historical and literary texts written in a variety of languages and dialects, each with long, complex structure and noisy records of production.  While these challenges inhibit out-of-the-box analysis, they present opportunities for collaborative research engaging both humanists and computer scientists; I’ll discuss progress made to date toward solving them.
+Biography
+David Bamman is an assistant professor in the School of Information at UC Berkeley, where he works on applying natural language processing and machine learning to empirical questions in the humanities and social sciences. Before Berkeley, David received his PhD from the School of Computer Science at Carnegie Mellon University.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

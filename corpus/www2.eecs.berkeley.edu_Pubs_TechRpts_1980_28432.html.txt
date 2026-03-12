@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28432.html
+An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem
+An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/33
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-79-33.pdf
+BibTeX citation:
+@techreport{Polak:M79/33,
+Author = {Polak, E.},
+Title = {An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28432.html},
+Number = {UCB/ERL M79/33}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M79/33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28432.html
+%F Polak:M79/33

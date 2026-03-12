@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29146.html
+A Decentralized Termination Protocol
+Dale Skeen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/50
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-50.pdf
+BibTeX citation:
+@techreport{Skeen:M81/50,
+Author= {Skeen, Dale},
+Title= {A Decentralized Termination Protocol},
+Year= {1981},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29146.html},
+Number= {UCB/ERL M81/50},
+}
+EndNote citation:
+%0 Report
+%A Skeen, Dale
+%T A Decentralized Termination Protocol
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29146.html
+%F Skeen:M81/50

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28654.html
+CANDO (Computer Analysis of Networks With Design Orientation) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+CANDO (Computer Analysis of Networks With Design Orientation)
+CANDO (Computer Analysis of Networks With Design Orientation)
+Paul M. Russo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M251
+July 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-251.pdf
+BibTeX citation:
+@techreport{Russo:M251,
+Author = {Russo, Paul M.},
+Title = {CANDO (Computer Analysis of Networks With Design Orientation)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28654.html},
+Number = {UCB/ERL M251}
+}
+EndNote citation:
+%0 Report
+%A Russo, Paul M.
+%T CANDO (Computer Analysis of Networks With Design Orientation)
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M251
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28654.html
+%F Russo:M251

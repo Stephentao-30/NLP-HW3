@@ -1,0 +1,45 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-194.html
+Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review
+Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review
+Bradley Miller
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-194
+August 14, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-194.pdf
+This thesis examines the design, implementation and performance of a scalable analysis platform for the detection of malicious content. To reflect the deployment of actual production systems, we design our platform to explicitly model the passage of time and the involvement of human supervisors in the analysis process. This thesis shows how our platform can operate efficiently at a large scale. The thesis presents and evaluates our platform in the context of a case study focused on malware detection.
+To model the passage of time while still allowing for batch training methods our platform discretizes time into a series of retraining periods, allowing updated samples and labels to emerge during each period. During each retraining period, our platform combines the presently deployed model with externally available information about newly emerged samples to select samples for submission to a human labeling oracle. To support a large volume of data over successive timeframes, our platform uses advanced techniques to manage the size of data including compression and selective data retention. These operations support efficient feature extraction.
+Our platform is implemented in Python, allowing use of both the Python scientific stack (Numpy, Scipy, Scikit-Learn) and IPython for interactive, distributed computation. In the interest of scalability our system uses HDFS and Apache Spark to manage distributed data and computation. This thesis discusses our implementation as well as the hardware and software configuration supporting our system.
+This thesis presents an evaluation of our work using a malware dataset containing over 1 million samples collected over a period of 2.5 years. It begins by characterizing our dataset, including an examination of label shift over time motivating our work. It presents evidence demonstrating that by submitting a small fraction of samples for human review we are able to appreciably increase detection outcomes.
+We have released our code along with 3% of our case study data, allowing replication of our results on a single node. Note that detection performance will vary due to the decrease in available training data.
+Advisor:  Anthony D. Joseph and Doug Tygar
+BibTeX citation:
+@phdthesis{Miller:EECS-2015-194,
+Author = {Miller, Bradley},
+Title = {Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-194.html},
+Number = {UCB/EECS-2015-194},
+Abstract = {This thesis examines the design, implementation and performance of a scalable analysis platform for the detection of malicious content. To reflect the deployment of actual production systems, we design our platform to explicitly model the passage of time and the involvement of human supervisors in the analysis process. This thesis shows how our platform can operate efficiently at a large scale. The thesis presents and evaluates our platform in the context of a case study focused on malware detection.
+To model the passage of time while still allowing for batch training methods our platform discretizes time into a series of retraining periods, allowing updated samples and labels to emerge during each period. During each retraining period, our platform combines the presently deployed model with externally available information about newly emerged samples to select samples for submission to a human labeling oracle. To support a large volume of data over successive timeframes, our platform uses advanced techniques to manage the size of data including compression and selective data retention. These operations support efficient feature extraction.
+Our platform is implemented in Python, allowing use of both the Python scientific stack (Numpy, Scipy, Scikit-Learn) and IPython for interactive, distributed computation. In the interest of scalability our system uses HDFS and Apache Spark to manage distributed data and computation. This thesis discusses our implementation as well as the hardware and software configuration supporting our system.
+This thesis presents an evaluation of our work using a malware dataset containing over 1 million samples collected over a period of 2.5 years. It begins by characterizing our dataset, including an examination of label shift over time motivating our work. It presents evidence demonstrating that by submitting a small fraction of samples for human review we are able to appreciably increase detection outcomes.
+We have released our code along with 3% of our case study data, allowing replication of our results on a single node. Note that detection performance will vary due to the decrease in available training data.}
+}
+EndNote citation:
+%0 Thesis
+%A Miller, Bradley
+%T Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 14
+%@ UCB/EECS-2015-194
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-194.html
+%F Miller:EECS-2015-194

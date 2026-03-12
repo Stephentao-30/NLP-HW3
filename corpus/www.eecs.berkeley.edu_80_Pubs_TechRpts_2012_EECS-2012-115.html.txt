@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-115.html
+Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design
+Owen Miller
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-115
+May 20,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-115.pdf
+Photonic innovation is becoming ever more important in the modern world.  Optical systems are dominating shorter and shorter communications distances, LED's are rapidly emerging for a variety of applications, and solar cells show potential to be a mainstream technology in the energy space.  The need for novel, energy-efficient photonic and optoelectronic devices will only increase.  This work unites fundamental physics and a novel computational inverse design approach towards such innovation.
+The first half of the dissertation is devoted to the physics of high-efficiency solar cells.  As solar cells approach fundamental efficiency limits, their internal physics transforms.  Photonic considerations, instead of electronic ones, are the key to reaching the highest voltages and efficiencies.  Proper photon management led to Alta Device's recent dramatic increase of the solar cell efficiency record to 28.3%.  Moreover, approaching the Shockley-Queisser limit for any solar cell technology will require light extraction to become a part of all future designs.
+The second half of the dissertation introduces inverse design as a new computational paradigm in photonics.  An assortment of techniques (FDTD, FEM, etc.) have enabled quick and accurate simulation of the "forward problem" of finding fields for a given geometry.  However, scientists and engineers are typically more interested in the inverse problem: for a desired functionality, what geometry is needed?  Answering this question breaks from the emphasis on the forward problem and forges a new path in computational photonics.  The framework of shape calculus enables one to quickly find superior, non-intuitive designs.  Novel designs for optical cloaking and sub-wavelength solar cell applications are presented.
+Advisor: Eli Yablonovitch
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@phdthesis{Miller:EECS-2012-115,
+Author= {Miller, Owen},
+Title= {Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-115.html},
+Number= {UCB/EECS-2012-115},
+Abstract= {Photonic innovation is becoming ever more important in the modern world.  Optical systems are dominating shorter and shorter communications distances, LED's are rapidly emerging for a variety of applications, and solar cells show potential to be a mainstream technology in the energy space.  The need for novel, energy-efficient photonic and optoelectronic devices will only increase.  This work unites fundamental physics and a novel computational inverse design approach towards such innovation.
+The first half of the dissertation is devoted to the physics of high-efficiency solar cells.  As solar cells approach fundamental efficiency limits, their internal physics transforms.  Photonic considerations, instead of electronic ones, are the key to reaching the highest voltages and efficiencies.  Proper photon management led to Alta Device's recent dramatic increase of the solar cell efficiency record to 28.3%.  Moreover, approaching the Shockley-Queisser limit for any solar cell technology will require light extraction to become a part of all future designs.
+The second half of the dissertation introduces inverse design as a new computational paradigm in photonics.  An assortment of techniques (FDTD, FEM, etc.) have enabled quick and accurate simulation of the "forward problem" of finding fields for a given geometry.  However, scientists and engineers are typically more interested in the inverse problem: for a desired functionality, what geometry is needed?  Answering this question breaks from the emphasis on the forward problem and forges a new path in computational photonics.  The framework of shape calculus enables one to quickly find superior, non-intuitive designs.  Novel designs for optical cloaking and sub-wavelength solar cell applications are presented.
+Advisor: Eli Yablonovitch},
+}
+EndNote citation:
+%0 Thesis
+%A Miller, Owen
+%T Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 20
+%@ UCB/EECS-2012-115
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-115.html
+%F Miller:EECS-2012-115

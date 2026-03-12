@@ -1,0 +1,108 @@
+URL: https://eecs.berkeley.edu/working-from-home
+Working From Home - EECS at Berkeley
+Working From Home
+We do not recommend that you use personal home computers for anything other than email when you work from home because of  minimum campus security standards .   ACG highly recommends that you use only EECS department laptops when you work from home because we centrally manage their software and system security.
+If you need to access department resources from a home computer, please use Remote Desktop
+If you have a department-managed laptop that primarily stays in your home, please leave VPN running occasionally so that it can get campus updates.
+If you have a department-managed laptop that primarily stays in your home, please bring it to ACG every few months to make sure all patches have been successfully applied.
+On This Page
+Login URLs for EECS and Campus Resources
+bConnected (bMail), ACG databases, EECS website (drupal) editing portal, EECS sympa mail lists, EECS roster and network databases, Zoom, Qualtrics, Docusign, etc.
+What are VPN and Remote Desktop?
+Installing VPN On Your Work Laptop
+Logging Into the Campus VPN
+Connecting to WINTERM using Remote Desktop
+Mapping Drives
+How to map drives onto your Windows or Mac computer.   Drives include the CHAIR shared drive (also known as the Z: drive) and your personal EECS home directory (also known as the H: drive).
+VPN vs Remote Desktop
+If you are using a work computer at home, use VPN.  You will need it to get regular campus updates to secure your computer.
+If you are using  a work computer that does not have the right campus software installed on it, use Remote Desktop
+You can use both at the same time.
+VPN
+Use it to get through the campus firewall
+you will need to log back into VPN after restarting your computer or if you are away from your computer for a long time
+mapped drives stay mapped (but can’t be accessed until you login to the VPN)
+can be faster than Remote Desktop if you have a poor internet connection
+Remote Desktop
+Use it to log into an EECS computer (named WINTERM) that is behind the campus firewall
+is already available on Windows operating systems (Macs need to download it)
+can be debugged by ACG at work
+has Office, Acrobat, and other department software
+has very little space so  files must be saved some place else
+can be confusing because the WINTERM desktop might look like your regular Windows desktop
+Installing VPN On Your Work Laptop
+It is helpful if you do this at work, but it should work from home too.  If you try it from home, it may take a really, really long time, but it should eventually work.
+Check to see if you already have VPN installed
+Click the up arrow on the right side of your taskbar (bottom right of your screen).
+If there is a gray globe, click on it
+If the dialog box that comes up says Cisco VPN, you will need to uninstall it.  Go to the  Uninstall Cisco VPN  step below.
+If the dialog box says GlobalProtect VPN, you already have it installed.  Go to the darker blue  Log  into the campus VPN  block below this block.
+If there is no gray globe you need to install VPN.  Go to  Install GlobalProtect VPN  step below.
+Uninstall Cisco VPN
+Click the up arrow on the right side of your taskbar and click on the round blue icon with the ‘b’ on it.  This will open an IBM BigFix Support Center dialog box
+Look under the Offers tab for the option to uninstall CiscoVPN. Click on it and click the “Accept” button at the top of Offers tab window
+Click the Progress tab and check the status until it says it is uninstalled
+Reboot your computer and follow the steps below to  Install GlobalProtect VPN .
+Install GlobalProtect VPN
+Click the up arrow on the right side of your taskbar  and click on the round blue icon with the ‘b’ on it.  This will open an IBM BigFix Support Center dialog box
+Look under the Offers tab for the option to install GlobalProtect VPN. Click on it and click the “Accept” button at the top of Offers tab window
+Click the Progress tab and check the status until it says it is installed
+Reboot your computer and go to  Log into the campus VPN  below.
+Logging into the campus VPN
+Click the up arrow on the right side of your taskbar and click on the gray globe
+Click “Connect” and log in with your CalNet login and password
+Authenticate with CalNet 2-Step and be sure to check the box to remember for 30 days
+You will know you are logged in if the globe icon in the taskbar is in color and has a check mark next to it.
+Connecting to WINTERM using Remote Desktop
+The Remote Desktop program is automatically included on all Windows computers. The first time you use Remote Desktop to log into the  winterm.eecs.berkeley.edu  server, a new profile will be created for you on that machine. From that point on, every time you log into the  winterm  server, regardless of where you are connecting from, you will be accessing that profile.
+[ If you are trying to connect from a Mac, you can install the Microsoft Remote Desktop application from the App Store .]
+Enter  Remote Desktop Connection  in the search box next to your Start menu to find the application.  When it appears above, click it.
+In the Computer field, type in (or copy from here and paste):   winterm.eecs.berkeley.edu
+If you are not prompted right away to enter your user name, click on “Use another account.” In the User Name field, use:  login @eecs.berkeley.edu  (e.g.  maggie @eecs.berkeley.edu) and your regular EECS password.
+Two Important Notes!
+Do not save any files on your winterm desktop!  There is very little space and no back-ups are being made so if anything happens, there is no way for ACG to retrieve the files .
+When you’re done working, DO NOT JUST CLOSE THE WINDOW!  You need to  disconnect from WINTERM , before you close the window.  Go to the Start Menu and select the power option (the circle icon with the vertical line at the top) like you usually do to restart or shut down your computer– and select “Disconnect.”  If you close the window without disconnecting first, you can run into problems with applications.
+Suggestions
+Once you have logged in, right-click on the desktop and select “Personalize.”  Choose a  new background color  that is distinctly different from any others you use.  Since you have to view WINTERM windows full-size (see following bullet), you might mix up your Remote Desktop session with the desktop on the computer you are actually using.  It’s really easy to get confused!
+Keep your Remote Desktop window open  full-screen . If you want to hide the window, choose the “hide window” (dash) option at the top-right of the window rather than the “resize window” (box outline) option.  If you resize the window, it doesn’t resize your WINTERM desktop–it just hides some of it from view.
+If you find the text on winterm unclear or difficult to read, try turning on Font Smoothing via the Experience tab (or Display on a Mac) in the remote desktop client.
+If you are having trouble setting up or using your  winterm  profile, you can use Remote Desktop on your work computer to log into  winterm  while you’re at work on campus, and ACG can pay you a visit to help.
+Need to access a shared drive?
+Follow the instructions for mapping drives below.
+Mapping Drives
+On Windows Computers
+On Macs
+Mapping Drives on Windows Computers
+To access files stored in shared drives, you need to map the shared drive to your computer.  You can map the CHAIR shared drive to a department laptop running VPN or your winterm profile.
+Connecting to the CHAIR share (usually your Z: drive)
+Open your START menu and search for PC.   Right-click on “This PC” and select “Map Network Drive” (it should be about halfway down the list).
+Enter:  \\proj10.eecs.berkeley.edu\chair
+in the “Folder” field and make sure that the “Reconnect at logon” box is checked.
+If it isn’t found, check to see that your slashes are going in the right direction.
+Click “Finish”
+Connecting to your H: home directory
+On WINTERM, your personal files are in your H: drive, just like on your work PC. Your “My Documents” folder should also be the same.
+Follow the instructions to map the CHAIR share above. The path is dependent on your last name:
+A – H, use  \\home10.eecs.berkeley.edu\home10\ your_eecs_login_name
+I – Q, use  \\home20.eecs.berkeley.edu\home20\ your_eecs_login_name
+R – Z, use  \\home30.eecs.berkeley.edu\home30\ your_eecs_login_name
+To create a shortcut on your desktop to a shared drive
+Open your START menu and search for PC.   Open “This PC”
+Find the CHAIR drive, right-click on it and select “Create Shortcut”. If a dialog box asks if you would like it placed on the desktop, say “Yes.”
+WARNING: Do not leave any files on your winterm desktop. There is very little space and no back-ups are being made so if anything happens, there is no way for ACG to retrieve the files.
+Mapping Drives on Macs
+Connect to VPN.
+Right-click your finder and select “Connect to Server…”
+The “Connect to Server” dialog appears.
+Enter:   smb://proj10.eecs.berkeley.edu/CHAIR
+Hit the Connect button.
+You may see a dialog box asking to confirm you are connecting to the server — hit the Connect button. If you don’t see the dialog box then move on to the next step.
+A login dialog appears.
+Connect as the “Registered User” radio button.
+Enter your EECS account name and password.
+Hit the Connect button.
+You should be connected to the Chair share. The share will appear as a drive icon on your desktop.
+To connect to your home drive, use the same steps above, except for step 3. Connect to the following substituting your EECS username:  smb://home10.eecs.berkeley.edu/ your_EECS_username
+To disconnect from a shared drive, put the desktop icon in the trash.
+View
+Open Faculty Positions

@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29081.html
+On Bounded-Input- Bounded Output Stabiltiy of Nonlinear Feedback Systems
+A.R. Bergen and R.P. Iwens and A.J. Rault
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M155
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-155.pdf
+BibTeX citation:
+@techreport{Bergen:M155,
+Author= {Bergen, A.R. and Iwens, R.P. and Rault, A.J.},
+Title= {On Bounded-Input- Bounded Output Stabiltiy of Nonlinear Feedback Systems},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29081.html},
+Number= {UCB/ERL M155},
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Iwens, R.P.
+%A Rault, A.J.
+%T On Bounded-Input- Bounded Output Stabiltiy of Nonlinear Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M155
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29081.html
+%F Bergen:M155

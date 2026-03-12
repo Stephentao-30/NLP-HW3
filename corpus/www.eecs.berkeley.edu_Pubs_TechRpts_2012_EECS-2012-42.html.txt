@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-42.html
+How Users Understand Cellular Infrastructure
+Kurtis Heimerl and Tapan S. Parikh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-42
+April 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-42.pdf
+Billions of users across income levels, geographical locations, and cultural backgrounds routinely use wireless cellular communication. In this work, we investigate, through semi-structured interviews, how different users throughout the world (gathered through snowball sampling) experience and utilize these networks, including their strategies for dealing with network failures, understanding wireless propagation, and coping with intermittent coverage. We found that all subjects frequently encountered a lack of wireless coverage, finding work-arounds optimized to their network environments. Rural participants generally had a better knowledge about wireless infrastructure; including the location and propagation characteristics of nearby cellular towers.
+BibTeX citation:
+@techreport{Heimerl:EECS-2012-42,
+Author= {Heimerl, Kurtis and Parikh, Tapan S.},
+Title= {How Users Understand Cellular Infrastructure},
+Year= {2012},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-42.html},
+Number= {UCB/EECS-2012-42},
+Abstract= {Billions of users across income levels, geographical locations, and cultural backgrounds routinely use wireless cellular communication. In this work, we investigate, through semi-structured interviews, how different users throughout the world (gathered through snowball sampling) experience and utilize these networks, including their strategies for dealing with network failures, understanding wireless propagation, and coping with intermittent coverage. We found that all subjects frequently encountered a lack of wireless coverage, finding work-arounds optimized to their network environments. Rural participants generally had a better knowledge about wireless infrastructure; including the location and propagation characteristics of nearby cellular towers.},
+}
+EndNote citation:
+%0 Report
+%A Heimerl, Kurtis
+%A Parikh, Tapan S.
+%T How Users Understand Cellular Infrastructure
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 April 13
+%@ UCB/EECS-2012-42
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-42.html
+%F Heimerl:EECS-2012-42

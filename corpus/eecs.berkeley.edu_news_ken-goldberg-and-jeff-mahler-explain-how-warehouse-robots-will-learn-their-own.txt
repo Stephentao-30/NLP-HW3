@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/ken-goldberg-and-jeff-mahler-explain-how-warehouse-robots-will-learn-their-own
+Ken Goldberg and Jeff Mahler explain how warehouse robots will learn on their own - EECS at Berkeley
+CS/IEOR Prof. Ken Goldberg, director of the  AUTOLAB , and his EE graduate student Jeff Mahler, are profiled in a  New York Times article titled “ In the Future, Warehouse Robots Will Learn on Their Own ,” about researchers who are using neural networks and machine learning to teach robots to grab things they have never encountered before.   The AUTOLAB robot was trained by being shown hundreds of purely digital objects, after which it could pick up items that weren’t represented in its digital data set.  “We’re learning from simulated models and then applying that to real work,” said Goldberg,
+Categories
+Faculty
+Research
+Students
+View
+Open Faculty Positions

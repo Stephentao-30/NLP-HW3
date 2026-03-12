@@ -1,0 +1,21 @@
+URL: https://eecs.berkeley.edu/research/colloquium/180829-2
+Fiat Lux: Creating Photoreal Digital Actors (and Environments) for Movies, Games, and Virtual Reality - EECS at Berkeley
+Fiat Lux: Creating Photoreal Digital Actors (and Environments) for Movies, Games, and Virtual Reality
+EECS Colloquium
+Wednesday, August 29, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Paul Debevec
+Google VR & USC ICT
+Paul Debevec speaks on Creating Photoreal Digital Actors (and Environments) for Movies, Games, and Virtual Reality, 8/29/18 (Photo/Branimir Kvartuc)
+Abstract
+I will present recent work from  USC ICT  and  Google VR  for recording and rendering photorealistic actors and environments for movies, games, and virtual reality.  The  Light Stage  facial scanning systems are geodesic spheres of inward-pointing LED lights which have been used to help create digital actors based on real people in movies such as Avatar, Benjamin Button, Maleficent, Furious 7, Blade Runner: 2049, and Ready Player One.  Light Stages can also reproduce recorded  omnidirectional lighting environments  and have recently been extended with  multispectral LED lights  to accurately mimic the color rendition properties of daylight, incandescent, and mixed lighting environments.  Our full-body  Light Stage 6  system was used in conjunction with natural language processing and an  automultiscopic projector array  to record and project interactive  hologram-like conversations  with survivors of the Holocaust.  I will conclude the talk by presenting Google VR’s “ Welcome to Light Fields “, the first  downloadable  virtual reality light field experience which records and displays 360 degree photographic environments that you can move around inside of with six degrees of freedom, creating VR experiences which are far more comfortable and immersive.
+Biography
+Paul Debevec  is a Senior Scientist at Google VR and an adjunct research professor at the USC Institute for Creative Technologies in Los Angeles.  His 1996 UC Berkeley Ph.D.  thesis  under  Prof. Jitendra Malik  presented  Façade , an image-based modeling and rendering system for creating photoreal architectural models from photographs. Using Façade he led the creation of virtual cinematography of the Berkeley campus for his 1997 film  The Campanile Movie  whose techniques were used to create virtual backgrounds in  The Matrix . Subsequently, Debevec pioneered high dynamic range  image-based lighting  techniques in his films  Rendering with Natural Light  (1998),  Fiat Lux  (1999), and  The Parthenon   (2004).   At USC ICT, he continued the development the  Light Stage  devices for recording the geometry and appearance of people and objects which were first used to create photoreal digital actors for  Spider-Man 2  and  Superman Returns , and helped create new  3D Display devices  for telepresence and  teleconferencing . Debevec received ACM SIGGRAPH’s first Significant New Researcher Award in 2001, a Scientific and Engineering Academy Award in 2010, and the SMPTE Progress Medal in 2017.  Debevec co-authored the 2005 book  High Dynamic Range Imaging , chaired the SIGGRAPH 2007 Computer Animation Festival, and has served as Vice President of ACM SIGGRAPH and co-chair of the Academy of Motion Picture Arts and Sciences  Sci-Tech Council .   http://www.debevec.org/
+Video of this Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

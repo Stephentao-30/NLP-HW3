@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-140.html
+Estimating and Reconstructing a T-Shirt’s Configuration into Simulation through Tracking Fiduciary Markers for the Purpose of Laundry Folding
+Ruben Zhao
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-140
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-140.pdf
+We are considering the problem of bringing a piece of clothing from a known initial start state to a desired spread state autonomously using the PR2 (Personal Robot 2). In analyzing this problem, we will be using a simulation engine, Bullet Physics, to simulate the behavior of our clothing article and on it develop a series of manipulations by which the clothing article can be brought to the spread state in simulation. As this simulation will become significant in deciding the best action for the PR2 to take, we worked to ensure the simulation would be as realistic as possible. Additionally, in order for the simulation to have meaning to the real configuration of the clothing article, we will develop an algorithm by which the PR2 will be able to generate an accurate guess of the configuration of the clothing article through its cameras. In our work, this generation will be done on visually marked up clothing so as to allow easier detection of important locations of the clothing article. Lastly, the simulation is used to generate the control inputs for the PR2’s motors and servos so that the PR2 will be able to act according to what the simulation outputs.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Zhao:EECS-2012-140,
+Author= {Zhao, Ruben},
+Title= {Estimating and Reconstructing a T-Shirt’s Configuration into Simulation through Tracking Fiduciary Markers for the Purpose of Laundry Folding},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-140.html},
+Number= {UCB/EECS-2012-140},
+Abstract= {We are considering the problem of bringing a piece of clothing from a known initial start state to a desired spread state autonomously using the PR2 (Personal Robot 2). In analyzing this problem, we will be using a simulation engine, Bullet Physics, to simulate the behavior of our clothing article and on it develop a series of manipulations by which the clothing article can be brought to the spread state in simulation. As this simulation will become significant in deciding the best action for the PR2 to take, we worked to ensure the simulation would be as realistic as possible. Additionally, in order for the simulation to have meaning to the real configuration of the clothing article, we will develop an algorithm by which the PR2 will be able to generate an accurate guess of the configuration of the clothing article through its cameras. In our work, this generation will be done on visually marked up clothing so as to allow easier detection of important locations of the clothing article. Lastly, the simulation is used to generate the control inputs for the PR2’s motors and servos so that the PR2 will be able to act according to what the simulation outputs.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhao, Ruben
+%T Estimating and Reconstructing a T-Shirt’s Configuration into Simulation through Tracking Fiduciary Markers for the Purpose of Laundry Folding
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-140
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-140.html
+%F Zhao:EECS-2012-140

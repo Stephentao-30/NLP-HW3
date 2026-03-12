@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29262.html
+CANDOFD (Computer Analysis of Networks With Design Orientation in the Frequency Domain) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+CANDOFD (Computer Analysis of Networks With Design Orientation in the Frequency Domain)
+CANDOFD (Computer Analysis of Networks With Design Orientation in the Frequency Domain)
+Paul M. Russo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M253
+September 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-253.pdf
+BibTeX citation:
+@techreport{Russo:M253,
+Author = {Russo, Paul M.},
+Title = {CANDOFD (Computer Analysis of Networks With Design Orientation in the Frequency Domain)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29262.html},
+Number = {UCB/ERL M253}
+}
+EndNote citation:
+%0 Report
+%A Russo, Paul M.
+%T CANDOFD (Computer Analysis of Networks With Design Orientation in the Frequency Domain)
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M253
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29262.html
+%F Russo:M253

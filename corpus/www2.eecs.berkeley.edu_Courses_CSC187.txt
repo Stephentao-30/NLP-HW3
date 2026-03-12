@@ -1,0 +1,10 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC187
+CS C187. Data Engineering
+Catalog Description:  This course will cover the principles and practices of managing data at scale, with a focus on use cases in data analysis and machine learning. We will cover the entire life cycle of data management and science, ranging from data preparation to exploration, visualization and analysis, to machine learning and collaboration, with a focus on ensuring reliable, scalable operationalization.
+Units:  4
+Prerequisites:  COMPSCI 61B, or INFO 206B, or equivalent courses in programming with a C- or better, or Pass; and COMPSCI C100 / DATA C100 / STAT C100, or COMPSCI 189, or INFO 251, or DATA 144, or equivalent upper-division course in data science with a C- or better, or Pass.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  DATA C101

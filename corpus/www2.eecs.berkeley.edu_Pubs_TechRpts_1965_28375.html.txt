@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28375.html
+Nonlinear Sampled-Data Systems and Multidimensional Z-Transform | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Sampled-Data Systems and Multidimensional Z-Transform
+Nonlinear Sampled-Data Systems and Multidimensional Z-Transform
+A. Rault and E.I. Jury
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M112
+February 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-112.pdf
+BibTeX citation:
+@techreport{Rault:M112,
+Author = {Rault, A. and Jury, E.I.},
+Title = {Nonlinear Sampled-Data Systems and Multidimensional Z-Transform},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28375.html},
+Number = {UCB/ERL M112}
+}
+EndNote citation:
+%0 Report
+%A Rault, A.
+%A Jury, E.I.
+%T Nonlinear Sampled-Data Systems and Multidimensional Z-Transform
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M112
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28375.html
+%F Rault:M112

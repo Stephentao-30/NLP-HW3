@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EEC261
+Course: EEC261 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EEC261
+EE C261. Medical Imaging Signals and Systems
+Catalog Description:  Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems that reliably detect small tumors or infarcts.
+Units:  4.0
+Course Objectives:  •	understand how 2D impulse response or 2D spatial frequency transfer function (or Modulation Transfer Function) allow one to quantify the spatial resolution of an imaging system.
+•	understand 2D sampling requirements to avoid aliasing
+•	understand 2D filtered backprojection reconstruction from projections based on the projection-slice theorem of Fourier Transforms
+•	understand the concept of image reconstruction as solving a mathematical inverse problem.
+•	understand the limitations of poorly conditioned inverse problems and noise amplification
+•	understand how diffraction can limit resolution---but not for the imaging systems in this class
+•	understand the hardware components of an X-ray imaging scanner
+•, •	understand the physics and hardware limits to spatial resolution of an X-ray imaging system
+•	understand tradeoffs between depth, contrast, and dose for X-ray sources
+•	understand resolution limits for CT scanners
+•	understand how to reconstruct a 2D CT image from projection data using the filtered backprojection algorithm
+•	understand the hardware and physics of Nuclear Medicine scanners
+•	understand how PET and SPECT images are created using filtered backprojection
+•	understand resolution limits of nuclear medicine scanners
+•	understand MRI hardware components,  resolution limits and image reconstruction via a 2D FFT
+•	understand how to construct a medical imaging scanner that will achieve a desired spatial resolution specification.
+Student Learning Outcomes:  •	students will be tested for their understanding of the key concepts above
+•	undergraduate students will apply to graduate programs and be admitted
+•	students will apply this knowledge to their research at Berkeley, UCSF, the national labs or elsewhere
+•	students will be hired by companies that create, sell, operate or consult in biomedical imaging
+Prerequisites:  El Eng 20N and Engineering 7 or equivalent. Knowledge of Matlab or linear algebra assumed.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  BIO ENG C261, EL ENG C261
+Class Schedule (Fall 2019):
+TuTh 2:00PM - 3:29PM, Barrows 20 –
+Steven Michael Conolly
+Class homepage on inst.eecs
+General Catalog listing

@@ -1,0 +1,67 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/brayton.html
+Robert K. Brayton: Faculty Home Page
+Larger Photo
+Robert K. Brayton
+Professor Emeritus
+Biography
+Robert Brayton received the BSEE degree from Iowa State University in 1956 and the Ph.D. degree in mathematics from MIT in 1961. He was a member of the Mathematical Sciences Department of the IBM T. J. Watson Research Center until he joined the EECS Department at Berkeley in 1987. He held the Edgar L. and Harold H. Buttner Endowed Chair and is currently the Cadence Distinguished Professor of Electrical Engineering at Berkeley. He is a member of the National Academy of Engineering, and a Fellow of the IEEE and the AAAS. He received the 1991 IEEE CAS Technical Achievement Award, the 1971 IEEE Guilleman-Cauer award, the 1987 ISCAS Darlington award.  In 2000, he received the 2000 CAS Golden Jubilee and the IEEE Millennium Medals, the 2002 Iowa State University Marston Medal, and in 2006, the IEEE Emanuel R. Piore, the ACM Kanallakis and the EDAA Lifetime Achievement Awards. In 2007 he received the EDAC/CEDA Phil Kaufman Award and in 2009, the SIGDA/CEDA A. Richard Newton Technical Impact Award. He has authored over 450 technical papers, and 10 books in the areas of the analysis of nonlinear networks, simulation and optimization of electrical circuits, logic synthesis, and formal design verification.  Professor Brayton passed away on January 10, 2025.
+Education
+1961, Ph.D., Mathematics, MIT
+1956, BSEE, Electrical Engineering, Iowa State University
+Research Areas
+Design, Modeling and Analysis (DMA)
+Advanced methods in combinational and sequential logic synthesis and formal verification
+K. Aadithya, S. Ray, P. Nuzzo, A. Mishchenko, R. K. Brayton, and J. Roychowdhury, " ABCD-NL: Approximating Continuous Non-Linear Dynamical Systems using Purely Boolean Models for Analog/Mixed-Signal Verification ," in  Proc. IEEE Asia South-Pacific Design Automation Conference , 2014.
+A. Mishchenko, S. Chatterjee, and R. K. Brayton, " Improvements to technology mapping for LUT-based FPGAs ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 26, no. 2, pp. 240-253, Feb. 2007.
+J. R. Jiang and R. K. Brayton, " Retiming and resynthesis: A complexity perspective ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 25, no. 12, pp. 2674-2686, Dec. 2006.
+S. Chatterjee, A. Mishchenko, R. K. Brayton, X. Wang, and T. Kam, " Reducing structural bias in technology mapping ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 25, no. 12, pp. 2984-2903, Dec. 2006.
+A. Mishchenko, S. Chatterjee, and R. K. Brayton, " DAG-aware AIG rewriting: A fresh look at combinational logic synthesis ," in  Proc. IEEE/ACM 43rd Annual Conf. on Design Automation , New York, NY: ACM Press, 2006, pp. 532-535.
+A. Mishchenko and R. K. Brayton, " A theory of nondeterministic networks ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 25, no. 6, pp. 977-999, June 2006.
+A. Mishchenko, J. S. Zhang, S. Sinha, J. R. Burch, R. K. Brayton, and M. Chrzanowska-Jeske, " Using simulation and satisfiability to compute flexibilities in Boolean networks ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 25, no. 5, pp. 743-755, May 2006.
+Y. Li, A. Kondratyev, and R. K. Brayton, " Gaining predictability and noise immunity in global interconnects ," in  Proc. 5th Intl. Conf. on Application of Concurrency to System Design , Los Alamitos, CA: IEEE Computer Society, 2005, pp. 176-185.
+A. Mishchenko and R. K. Brayton, " SAT-based complete don't-care computation for network optimization ," in  Proc. Design, Automation and Test in Europe , Vol. 1, Los Alamitos, CA: IEEE Computer Society, 2005, pp. 412-417.
+J. R. Jiang and R. K. Brayton, " Functional dependency for verification reduction ," in  Computer Aided Verification: Proc. 16th Intl. Conf. (CAV 2004) , R. Alur and D. A. Peled, Eds., Lecture Notes in Computer Science, Vol. 3114, Berlin, Germany: Springer-Verlag, 2004, pp. 268-280.
+S. P. Khatri, S. Sinha, R. K. Brayton, and A. L. Sangiovanni-Vincentelli, " SPFD-based wire removal in standard-cell and network-of-PLA circuits ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 23, no. 7, pp. 1020-1030, July 2004.
+F. Mo and R. K. Brayton, " A timing-driven module-based chip design flow ," in  Proc. 2004 41st Design Automation Conf. , New York, NY: ACM Press, 2004, pp. 67-70.
+Y. Jiang, S. Matic, and R. K. Brayton, " Generalized cofactoring for logic function evaluation ," in  Proc. 2003 40th Design Automation Conf. , Piscataway, NJ: IEEE Press, 2003, pp. 155-158.
+N. Yevtushenko, T. Villa, R. K. Brayton, A. Petrenko, and A. L. Sangiovanni-Vincentelli, " Equisolvability of series vs. controller's topology in synchronous language equations ," in  Proc. 6th Design, Automation and Test in Europe Conf. and Exhibition (DATE 2003) , N. Wehn and D. Verkest, Eds., Los Alamitos, CA: IEEE Computer Society, 2003, pp. 1154-1155.
+M. Baleani, F. Gennari, Y. Jiang, Y. Patel, R. K. Brayton, and A. L. Sangiovanni-Vincentelli, "HW/SW Partitioning and Code Generation of Embedded Control Applications on a Reconfigurable Architecture Platform," in  Proceedings of the tenth international symposium on Hardware/software codesign , 2002.
+M. Baleani, F. Gennari, Y. Jiang, Y. Patel, R. K. Brayton, and A. L. Sangiovanni-Vincentelli, " HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform ," in  Proc. 10th Intl. Symp. on Hardware/Software Codesign (CODES 2002) , New York, NY: ACM Press, 2002, pp. 151-156.
+R. K. Brayton, " Compatible observability don't cares revisited ," in  IEEE/ACM Intl. Conf. on Computer Aided Design (ICCAD 2001). Digest of Technical Papers , Piscataway, NJ: IEEE Press, 2001, pp. 618-623.
+R. K. Brayton, G. D. Hachtel, A. L. Sangiovanni-Vincentelli, F. Somenzi, A. Aziz, S. Cheng, S. Edwards, S. Khatri, Y. Kukimoto, A. Pardo, S. Qadeer, R. K. Ranjan, S. Sarwary, T. R. Shiple, G. Swamy, and T. Villa, " VIS: A system for verification and synthesis ," in  Lecture Notes in Computer Science: Computer Aided Verification , R. Alur and T. A. Henzinger, Eds., Vol. 1102, London, UK: Springer-Verlag, 1996, pp. 428-432.
+E. M. Sentovich, K. J. Singh, C. Moon, H. Savoj, R. K. Brayton, and A. L. Sangiovanni-Vincentelli, " Sequential circuit design using synthesis and optimization ," in  Proc. IEEE 1992 Intl. Conf. on Computer Design: VLSI in Computers and Processors , Los Alamitos, CA: IEEE Computer Society Press, 1992, pp. 328-333.
+R. K. Brayton, G. D. Hachtel, and A. L. Sangiovanni-Vincentelli, " Invited Paper: Multilevel logic synthesis ,"  Proc. IEEE , vol. 78, no. 2, pp. 264-300, Feb. 1990.
+SRC Technical Excellence Award ,
+2011
+ACM SIGDA Pioneering Achievement Award ,
+2011
+CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation ,
+2009
+CEDA TCAD ICS Donald O. Pederson Best Paper Award ,
+2008
+Phil Kaufman Award ,
+2007
+Paris Kanellakis Theory and Practice Award ,
+2006
+IEEE Emanuel R. Piore Award ,
+2006
+EDAA Lifetime Achievement Award ,
+2006
+Anson Marston Medal ,
+2002
+IEEE CASS 2000 Millennium Medal ,
+2000
+IEEE CASS Golden Jubilee Medal ,
+2000
+National Academy of Engineering (NAE) Member ,
+1993
+IEEE CASS Charles A. Desoer Technical Achievement Award ,
+1992
+IEEE CASS Darlington Best Paper Award ,
+1987
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1981
+American Association for the Advancement of Science (AAAS) Fellow ,
+1972
+IEEE CASS Guillemin-Cauer Best Paper Award ,
+1970

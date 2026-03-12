@@ -1,0 +1,99 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/IDNCS
+Information, Data, Network, and Communication Sciences (IDNCS)
+Overview
+Research covers theory, simulation, and implementation. We study the fundamental problems in information and coding theory, communication, data science, network science, optimization, statistics, machine learning, distributed systems, economics, statistical signal processing, and stochastic control. The motivations are guided by societally important applications such as data centers, distributed storage and content delivery, peer-to-peer computing, social networks, control over wireless networks, cognitive radio, spectrum sharing, scheduling, privacy and security, incentive and mechanism design with resource constraints, sensor networks, transportation systems, hybrid systems, systems biology, DNA and RNA sequencing and storage, and MRI. We develop and apply tools in probability theory, information and coding theory, functional analysis, convex geometry, queuing theory, stochastic processes, optimization theory, statistical physics, statistics, and game theory. We also research fundamental building blocks of large-scale communication and computing infrastructures.
+Topics
+Information and coding theory
+Shannon theory, lossless and lossy data compression, algebraic codes, polar codes, LDPC codes, Turbo codes, distributed compression, network coding.
+Machine learning and data science
+Graphical models, high-dimensional statistics, approximation theory, adaptive inference, nonparametric inference, statistical learning theory, individual sequence learning theory, reinforcement learning, distributed estimation, robust statistics.
+Optimization
+Convex and non-convex optimization, stochastic optimization, stochastic approximation, computationally efficient statistical algorithms, statistical and computational tradeoff.
+Probability theory and functional analysis
+High-dimensional probability, measure concentration, matrix concentration, limit theorems, entropy power inequality, interplay between information theory and probability theory, convex geometry, stochastic processes, queuing theory.
+Network design and analysis
+Peer-to-peer networks, quality of service, communication for control, cross-layer optimization, simulation tools, privacy and security, social networks, information networks.
+Wireless and sensor networks
+Architectures and protocols for ad-hoc, mobile and vehicular networks, multiple antennas, opportunistic communication, cognitive radio, and spectrum sharing, control over wireless networks.
+Systems biology
+DNA and RNA sequencing and compression.
+Economics and game theory
+Mechanism and market design, urban economics, market-based architectures, incentive compatibility, auction design.
+Distributed systems
+Byzantine fault tolerance, permissioned and permissionless distributed consensus, distributed content delivery.
+Implementations
+Energy-efficient transceivers, ultra low-energy wireless sensors, communication system/circuit co-design, magnetic resonance imaging.
+Research Centers
+Berkeley Equity and Access in Algorithms, Mechanisms, and Optimization
+Berkeley Laboratory for Information and System Sciences
+Berkeley Wireless Research Center
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley
+Video and Image Processing Lab
+Faculty
+Primary
+Venkat Anantharam  (coordinator)
+Jennifer Chayes
+Thomas Courtade
+Alex Dimakis
+Jiantao Jiao
+Michael Lustig
+Kannan Ramchandran
+Gireeja Ranade
+Anant Sahai
+Jean Walrand
+Secondary
+Elad Alon
+Zaijun Chen
+John Chuang
+Venkatesan Guruswami
+Kam Y. Lau
+Edward A. Lee
+Song Mei
+David G. Messerschmitt
+Ali Niknejad
+Borivoje Nikolic
+Shyam Parekh
+Jan M. Rabaey
+Jaijeet Roychowdhury
+Jacob Steinhardt
+Vladimir Stojanovic
+Eugene Wong
+Avideh Zakhor
+Faculty Awards
+SIAM John von Neumann Lecture Prize:
+Jennifer Chayes, 2015.
+National Academy of Sciences (NAS) Member:
+Jennifer Chayes, 2019.
+National Academy of Engineering (NAE) Member:
+Kam Y. Lau, 2026.
+David G. Messerschmitt, 1990.
+Eugene Wong, 1987.
+American Academy of Arts and Sciences Member:
+Jennifer Chayes, 2014.
+Eugene Wong, 1980.
+Berkeley Citation:
+Edward A. Lee, 2018.
+David G. Messerschmitt, 2005.
+Eugene Wong, 1994.
+Sloan Research Fellow:
+Song Mei, 2025.
+Michael Lustig, 2013.
+Venkatesan Guruswami, 2005.
+Jennifer Chayes, 1989.
+Related Courses
+CS 70. Discrete Mathematics and Probability Theory
+EECS 126. Probability and Random Processes
+EE 120. Signals and Systems
+EE 121. Introduction to Digital Communication Systems
+EE 122. Introduction to Communication Networks
+EE 123. Digital Signal Processing
+EE 126. Probability and Random Processes
+EE 224A. Digital Communications
+EE 224B. Fundamentals of Wireless Communication
+EE 226A. Random Processes in Systems
+EE 226B. Applications of Stochastic Process Theory
+EE 228A. High Speed Communications Networks
+EE 229. Information Theory and Coding
+EE 229A. Information Theory and Coding
+EE 229B. Error Control Coding
+EE 290Q. Advanced Topics in Electrical Engineering: Advanced Topics in Communication Networks

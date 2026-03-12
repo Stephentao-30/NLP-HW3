@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/google-tpus-are-built-inference
+Google TPUs are built for inference - EECS at Berkeley
+CS Prof. Emeritus David Patterson co-authored and presented a report on Tensor Processing Units (TPUs) at a regional seminar of the National Academy of Engineering, held at the Computer History Museum in Menlo Park on April 5, 2017.   TPUs, which have been deployed in Google datacenters since 2015, are printed-circuit cards which are inserted into existing servers and act as co-processors tailored for neural-network calculations.  Prof. Patterson says that TPUs are “an order of magnitude faster than contemporary CPUs and GPUs” with an even larger relative performance per watt.  According to  an article for the IEEE Spectrum , TPUs are “built for doing inference,” having hardware that operates on 8-bit integers rather than the higher-precision floating-point numbers used in CPUs and GPUs.
+Categories
+Faculty
+Industry
+Research
+View
+Open Faculty Positions

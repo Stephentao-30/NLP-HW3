@@ -1,0 +1,24 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS287
+Course: CS287 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS287
+CS 287. Advanced Robotics
+Catalog Description:  Advanced topics related to current research in algorithms and artificial intelligence for robotics. Planning, control, and estimation for realistic robot systems, taking into account: dynamic constraints, control and sensing uncertainty, and non-holonomic motion constraints.
+Units:  3.0
+Prerequisites:  Instructor consent for undergraduate and masters students.
+Formats:  Fall: 3 hours of lecture per week
+Spring: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  Over the past ten years advances in optimization, in probabilistic reasoning, and in machine learning have had a large impact in robotics, with many of the current state-of-the-art algorithms heavily relying on these tools.  At the same time these three tools have wide applicability in many other fields.  The current curriculum of CS287 is centered around these three tools---making it both a treatment of these tools (in the context of a specific application domain, namely robotics), as well as a treatment of the state of the art in (algorithmic) robotics.  Problem sets are a mix of mathematical/algorithmic questions and programming problems.  There is a substantial final project.
+NOTE: This course is about algorithms for robotics, and does *not* cover hardware aspects.
+PREREQS: Familiarity with mathematical proofs, probability, algorithms, linear algebra; ability to implement algorithmic ideas in code.
+EE125: is not a pre-req for CS287.  EE125 covers a different aspect of robotics.
+MOST RECENT OFFERING WEBPAGE: http://people.eecs.berkeley.edu/~pabbeel/
+Related Areas:
+Artificial Intelligence (AI)   Control, Intelligent Systems, and Robotics (CIR)

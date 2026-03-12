@@ -1,0 +1,109 @@
+URL: https://people.eecs.berkeley.edu/~alig/cs294-91
+Homepage of Ali Ghodsi
+CS294-91 Distributed Computing
+CCN: 27309
+Instructor: Professor Scott Shenker (shenker@icsi)
+Guest-lecturer: Ali Ghodsi (alig@cs)
+W 10:30-12:00pm 405 Soda Hall (Starting 30 January 2013)
+In the past decade evermore applications and services, which
+previously were running on local PCs, have moved to the Internet, in
+data centers, accessible through the Web. This puts distributed systems
+at the center of many of s application architectures. Distributed
+systems (or distributed computing) concerns systems in which many nodes
+(machines) solve a common problem, using message passing over a network
+that connects those nodes. The aim of this course is to establish
+familiarity with the basic theoretical and practical foundations of
+distributed systems.
+Distributed computing is challenging due to two fundamental
+problems: (i) partial-failures, and (ii) asynchrony. Partial failures
+means that parts of the system (network or machines) can be faulty, but
+it is desirable for the rest of the system to function correctly.
+Asynchrony is due to the variance in the time it takes to send messages
+between computers and the operating speed of different computers. It is
+therefore desirable to make the system function correctly while events
+are happening asynchronously.
+Over the years, many recurring problems have been studied with
+respect to the two aforementioned challenges. Furthermore, many
+abstractions have been proposed that simplify dealing with these two
+challenges when building distributed systems. In this course we will
+study many of these problems and abstractions, including the following:
+today
+Models of distributed systems
+Safety and liveness of distributed protocols
+Different failure models for distributed systems (fail-stop,
+fail-noisy, Byzantine)
+Reliable group communication abstractions (reliable, atomic,
+etc)
+Shared memory and consistency models (linearizable, regular
+etc)
+Failure detectors and their relationship and implementation in
+real systems
+Impossibility of Consensus
+Consensus and Paxos
+Replicated State Machines and Reconfiguration
+Byzantine Fault Tolerance
+The class is 2 credits and will consist of one lecture/seminar per
+week. It also includes each student presenting in class one research
+paper, related to distributed computing, and handing in a two page
+summary of the papers. Classes are 1.5 hours long and are scheduled
+every Wednesday 10:30 in Soda Hall 405. The course starts on Wednesday
+the 30th of January.
+Grading
+2/3 Research paper summary
+1/3 Seminar Participation
+Homework
+Reading list of papers [ link ]
+Instructions for homework [ link ]
+Course Textbook
+We will loosely follow the following textbook, but also have additional lectures based on research papers:
+Introduction to Reliable and Secure Distributed Programming , C. Cachin, R. Guerraoui, L. Rodrigues, Springer, 2011.
+Lectures
+Date
+Topic
+Resources
+1/30/2013
+Administrative Information   Teaser   Formal Models (1)
+Chapter 2 in Attiya and Welch
+2/6/2013
+Formal Models (2)
+Time,
+Clocks and the Ordering of Events in a Distributed
+System
+2/13/2013
+Events and Links (Guerraoui ch.2)
+Decomposing Safety and Liveness
+Defining Liveness
+2/20/2013
+Events and Links (Guerraoui ch.2)
+Failure Detectors
+Unreliable failure detectors for reliable distributed systems
+2/27/2013
+Events and Links (Guerraoui ch.2)
+Failure Detectors
+Unreliable failure detectors for reliable distributed systems
+The weakest failure detector for solving consensus
+3/6/2013
+Failure Detectors
+Unreliable failure detectors for reliable distributed systems
+The weakest failure detector for solving consensus
+3/13/2013
+Reliable Broadcast Primitives
+Causal Broadcast
+Unreliable failure detectors for reliable distributed systems
+4/3/2013
+Shared Memory/Data Consistency
+Omega is Equivalent to Eventually Strong (previous lecture)
+4/10/2013
+Impossibility of Consensus
+Impossibility of distributed consensus with one faulty process
+4/24/2013
+Consensus Algorithms
+Probabilistic Consensus
+Fast Consensus
+Asynchronous consensus and broadcast protocols
+Consensus in One Communication Step
+5/1/2013
+Non-blocking Atomic Commit
+Terminating Reliable Broadcast (TRB)
+Revisiting the Relationship Between Non-blocking Atomic Commitment and Consensus
+Revisiting the Relationship Between Non-blocking Atomic Commitment and Consensus

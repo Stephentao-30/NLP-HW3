@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7312.html
+Correctness of Programs Manipulating Data Structures | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Correctness of Programs Manipulating Data Structures
+Correctness of Programs Manipulating Data Structures
+Tomasz Kowaltowski
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M404
+September 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-404.pdf
+Advisor:  Richard Karp and James H. Morris, Jr.
+BibTeX citation:
+@phdthesis{Kowaltowski:M404,
+Author = {Kowaltowski, Tomasz},
+Title = {Correctness of Programs Manipulating Data Structures},
+School = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7312.html},
+Number = {UCB/ERL M404}
+}
+EndNote citation:
+%0 Thesis
+%A Kowaltowski, Tomasz
+%T Correctness of Programs Manipulating Data Structures
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M404
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7312.html
+%F Kowaltowski:M404

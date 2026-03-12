@@ -1,0 +1,69 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/hellerstein.html
+Joseph M. Hellerstein: Faculty Home Page
+Larger Photo
+Joseph M. Hellerstein
+Professor Emeritus, Professor in the Graduate School
+Contact Information
+789 Soda Hall
+tel:  510-643-4011
+fax:  642-5615
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Vanessa Lopez
+lopezv@berkeley.edu
+Biography
+Joseph M. Hellerstein   is a Professor of Computer Science at the University of California, Berkeley, whose work focuses on data-centric systems and the way they drive computing.  He is an  ACM Fellow,   an  Alfred P. Sloan Research Fellow   and the recipient of two      ACM-SIGMOD "Test of Time"   awards for his research.   In 2010, Fortune Magazine included him in their list of 50     smartest people in technology , and MIT's  Technology Review  magazine included his work on      Distributed Programming   on their 2010      TR10   list of the 10 technologies "most likely to change our world". Key ideas from his research have been incorporated into commercial and open-source software from IBM, Oracle, and PostgreSQL.  He is a past director of Intel Research Berkeley, and currently serves on the technical advisory boards of a number of computing and Internet companies.
+Education
+1995, Ph.D., Computer Science, University of Wisconsin-Madison
+1992, MS, Computer Science, UC Berkeley
+1990, AB, Computer Science, Harvard University
+Research Areas
+Database Management Systems (DBMS)
+Operating Systems & Networking (OSNT)
+Research Centers
+Berkeley Center for Responsible, Decentralized Intelligence (RDI) (RDI)
+EPIC Data lab (EPIC)
+S. Shankar, R. Garcia, J. M. Hellerstein, and A. Parameswaran, "  "We have no idea how models will behave in production until production": How engineers operationalize machine learning ," Vol. 8, 2024.
+R. Garcia, A. Dandamudi, G. Matute, L. Wan, J. Gonzalez, J. M. Hellerstein, and K. Sen, " FlorDB: Multiversion Hindsight Logging for Continuous Training ," March 2024.
+R. Garcia, E. Liu, V. Sreekanti, B. Yan, A. Dandamudi, J. Gonzalez, J. M. Hellerstein, and K. Sen, " Hindsight Logging for Model Training ," in  Proceedings of the VLDB Endowment , Vol. 14, 2021, pp. 682-693.
+J. M. Hellerstein, " Quantitative Data Cleaning for Large Databases ," Jan. 2008.
+J. M. Hellerstein, M. Stonebraker, and J. Hamilton, " Architecture of a Database System ," in  Foundations and Trends in Databases , J. M. Hellerstein, Ed., Foundations and Trends, Vol. 1, Hanover, MA: now publishers inc., 2007, pp. 141-259.
+B. T. Loo, T. Condie, J. M. Hellerstein, P. Maniatis, T. Roscoe, and I. Stoica, " Implementing declarative overlays ,"  ACM SIGOPS Operating Systems Review , vol. 39, no. 5, pp. 75-90, Dec. 2005.
+S. R. Madden, M. Franklin, J. M. Hellerstein, and W. Hong, " TinyDB: An acquisitional query processing system for sensor networks ,"  ACM Trans. Database Systems: Special Issue: Best papers of SIGMOD/PODS 2003 , vol. 30, no. 1, pp. 122-173, March 2005.
+S. R. Madden, M. Franklin, J. M. Hellerstein, and W. Hong, " TAG: A Tiny AGgregation service for ad hoc sensor networks ," in  Proc. 5th Symp. on Operating Systems Design and Implementation (OSDI '02) , Berkeley, CA: USENIX Association, 2002, pp. 131-146.
+R. Avnur and J. M. Hellerstein, " Eddies: Continuously adaptive query processing ,"  ACM SIGMOD Record , vol. 29, no. 2, pp. 261-272, June 2000.
+P. J. Haas and J. M. Hellerstein, " Ripple joins for online aggregation (Best Paper in Computer Science, IBM Research) ,"  ACM SIGMOD Record , vol. 28, no. 2, pp. 287-298, June 1999.
+J. M. Hellerstein, P. J. Haas, and H. J. Wang, " Online aggregation (Winner, 2007 ACM SIGMOD Test of Time Award) ," in  Proc. 1997 ACM SIGMOD Intl. Conf. on Management of Data (SIGMOD '97) , J. M. Peckman, S. Ram, and M. Franklin, Eds., New York, NY: The Association for Computing Machinery, Inc., 1997, pp. 171-182.
+J. M. Hellerstein, J. F. Naughton, and A. Pfeffer, " Generalized search trees for database systems ," in  Proc. 21st Intl. Conf. on Very Large Data Bases , U. Dayal, P. M. D. Gray, and S. Nishio, Eds., San Francisco, CA: Morgan Kaufmann, 1995, pp. 562-573.
+H. Pirahesh, J. M. Hellerstein, and W. Hasan, " Extensible/rule-based Query Rewrite optimization in Starburst (Winner, 2002 ACM SIGMOD Test of Time Award) ," in  Proc. 1992 ACM SIGMOD Intl. Conf. on Management of Data (SIGMOD '92) , M. Stonebraker, Ed., New York, NY: The Association for Computing Machinery, Inc., 1992, pp. 39-48.
+ACM SIGMOD Edgar F. Codd Innovations Award ,
+2023
+VLDB Test of Time Award ,
+2023
+IEEE VIS Test of Time Award ,
+2022
+Jim and Donna Gray Award for Excellence in Undergraduate Teaching of Computer Science ,
+2015
+ACM SIGMOD Test of Time Award ,
+2013
+MIT Tech Review Top 10 Breakthrough Technologies (TR10) ,
+2010
+Association for Computing Machinery (ACM) Fellow ,
+2009
+ACM SIGMOD Test of Time Award ,
+2007
+ACM SIGMOD Test of Time Award ,
+2002
+MIT Tech Review Top 100 Innovators Under 35 (TR100) ,
+1999
+IBM Pat Goldberg Memorial Best Paper Award ,
+1999
+Sloan Research Fellow ,
+1998
+Okawa Research Grant ,
+1997
+NSF Faculty Early Career Development Award (CAREER) ,
+1997

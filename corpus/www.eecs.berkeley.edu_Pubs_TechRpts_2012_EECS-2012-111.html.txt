@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-111.html
+Juxtapp and DStruct: Detection of Similarity Among Android Applications
+Saung Li
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-111
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-111.pdf
+In recent years, we have witnessed an incredible growth in the adoption of smartphones, which has been accompanied by an influx of applications. Users can purchase or download applications for free onto their mobile phones from centralized application markets such as Google’s Android Market and Amazon’s third party market. Despite the rapidly increasing volume of applications available on the markets, these marketplaces often only cursorily review applications, and many applications are unreviewed due to the vast number of submissions. Markets largely rely on user policing and reporting to detect applications that may be misleading in its functionality or misbehaving. This reactive approach is neither scalable nor reliable as the incidence of piracy and malware has increased, putting too much responsibility on end users.
+To automate the process of identifying problematic applications, we previously proposed Juxtapp, a scalable infrastructure for code similarity analysis among Android applications. Juxtapp is able to find instances of malware, piracy, and vulnerable code by detecting code reuse among applications. Such a system must be scalable and fast, so in this paper we discuss the distributed implementation of Juxtapp. We evaluate Juxtapp’s performance on up to 95,000 Android applications and find that the parallelized system is able to analyze applications rapidly. To aid users in their analysis, we introduce a web service that automatically manages the resources that are required to run distributed Juxtapp, and we evaluate the performance of such a service.
+For a complementary similarity analysis approach, we propose DStruct, a tool for detecting similar Android applications based on their directory structures. DStruct provides another method for performing similarity analysis to address problems in Android security, including determining if applications are pirated or contain instances of known malware. We evaluate our system using more than 58,000 Android applications from the official Android market and a Chinese third party market. In our experiments, DStruct is able to detect 3 pirated variants of a popular paid game and 9 instances of malicious applications on the Chinese market. Furthermore, on the official market, DStruct detected 4 legitimate applications that malicious authors had used to repackage with malware. We discuss the efficacy of DStruct and provide further insights into improving detection using similarity analysis tools such as ours.
+Advisors:  Dawn Song
+BibTeX citation:
+@mastersthesis{Li:EECS-2012-111,
+Author= {Li, Saung},
+Title= {Juxtapp and DStruct: Detection of Similarity Among Android Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-111.html},
+Number= {UCB/EECS-2012-111},
+Abstract= {In recent years, we have witnessed an incredible growth in the adoption of smartphones, which has been accompanied by an influx of applications. Users can purchase or download applications for free onto their mobile phones from centralized application markets such as Google’s Android Market and Amazon’s third party market. Despite the rapidly increasing volume of applications available on the markets, these marketplaces often only cursorily review applications, and many applications are unreviewed due to the vast number of submissions. Markets largely rely on user policing and reporting to detect applications that may be misleading in its functionality or misbehaving. This reactive approach is neither scalable nor reliable as the incidence of piracy and malware has increased, putting too much responsibility on end users.
+To automate the process of identifying problematic applications, we previously proposed Juxtapp, a scalable infrastructure for code similarity analysis among Android applications. Juxtapp is able to find instances of malware, piracy, and vulnerable code by detecting code reuse among applications. Such a system must be scalable and fast, so in this paper we discuss the distributed implementation of Juxtapp. We evaluate Juxtapp’s performance on up to 95,000 Android applications and find that the parallelized system is able to analyze applications rapidly. To aid users in their analysis, we introduce a web service that automatically manages the resources that are required to run distributed Juxtapp, and we evaluate the performance of such a service.
+For a complementary similarity analysis approach, we propose DStruct, a tool for detecting similar Android applications based on their directory structures. DStruct provides another method for performing similarity analysis to address problems in Android security, including determining if applications are pirated or contain instances of known malware. We evaluate our system using more than 58,000 Android applications from the official Android market and a Chinese third party market. In our experiments, DStruct is able to detect 3 pirated variants of a popular paid game and 9 instances of malicious applications on the Chinese market. Furthermore, on the official market, DStruct detected 4 legitimate applications that malicious authors had used to repackage with malware. We discuss the efficacy of DStruct and provide further insights into improving detection using similarity analysis tools such as ours.},
+}
+EndNote citation:
+%0 Thesis
+%A Li, Saung
+%T Juxtapp and DStruct: Detection of Similarity Among Android Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-111
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-111.html
+%F Li:EECS-2012-111

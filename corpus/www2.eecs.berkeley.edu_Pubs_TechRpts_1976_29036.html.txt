@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29036.html
+The Ingres Protection System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Ingres Protection System
+The Ingres Protection System
+Michael Stonebraker and Peter Rubinstein
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M594
+July 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-594.pdf
+BibTeX citation:
+@techreport{Stonebraker:M594,
+Author = {Stonebraker, Michael and Rubinstein, Peter},
+Title = {The Ingres Protection System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29036.html},
+Number = {UCB/ERL M594}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Rubinstein, Peter
+%T The Ingres Protection System
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M594
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29036.html
+%F Stonebraker:M594

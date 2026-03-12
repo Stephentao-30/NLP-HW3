@@ -1,0 +1,29 @@
+URL: https://eecs.berkeley.edu/resources/undergrads/cs/faq-4
+Transferring from Another Institution & CS Sample Programs - EECS at Berkeley
+Transferring from Another Institution & CS Sample Programs
+Fall 2022 transfer students
+Transferring from Another Institution & CS Sample Programs
+Welcome to Computer Science at Berkeley, New Transfer Students! Whether you are just beginning your transfer journey at community college or are in your first semester at UC Berkeley, we are here to help. Find resources and information below.
+Ask an Advisor
+CS Course transferability and equivalency
+Use assist.org and choose the computer science major for a list of math and computer science classes available at your school. You should plan to take all the articulated classes that are offered at your school. Some transfer students choose to attend multiple community colleges in order to fulfill more requirements since it’s common for schools to not offer all our courses.
+View  this list  of CA community colleges that usually offer classes equivalent to CS 61ABC.
+It is very rare that we accept any course offered elsewhere as a substitute for CS  61A  or  61C . We do not accept transfer credit for  CS 70 . Please read our detailed  syllabi  before asking for a course to be reviewed to satisfy these requirements. Here are some of the highlights:
+61A: higher order functions, implement (not just use) objects with inheritance, declarative programming, write an interpreter for a programming language
+61C: map-reduce project, optimizing memory-intensive parallel code, logic design of a MIPS processor
+If you believe you have taken a course equivalent to UC Berkeley’s CS 61A or 61C, please complete the  Computer Science Equivalency Form , and include the course syllabus and any other course materials. The advisors will coordinate with the faculty to review the course materials for equivalency. They may deem the course fully or partially equivalent.
+On the other hand, courses equivalent to CS 61B are more likely to be offered at other institutions; if your course was called something like “Data Structures,” we might accept it. Courses named after programming languages are rarely adequate. Here are some of the questions we’ll ask about your course:
+Did you implement (not just use from a library) a hash table?
+Did you implement (not just use from a library) a balanced binary tree (e.g., red-black tree)?
+Did you write a significant (several thousand line) programming project from scratch?
+If you feel that you’ve taken a course equivalent to CS 61B, please complete the  Computer Science Equivalency Form , and include the course syllabus and any other course materials. The advisors will coordinate with the faculty to review the course materials for equivalency. They may deem the course fully or partially equivalent.
+Please see our  Research-Oriented Graduate Degree Programs.
+Yes. If you see the text, “Articulation subject to the completion of a university course,” this means your class is not fully transferable; this is especially common for CS 61B articulations. Please submit  our enrollment verification form  so we can help determine whether a bridge course (47B) or taking the full course at UCB would be the best option for you after you transfer.
+We no longer offer any credit for the AP Computer Science exam. If you took this exam, you’re prepared for our 61A course.
+Please see the  upper division requirements page for instructions .
+Scheduling & sample plans
+Transfers are guaranteed five semesters (2.5 years) in CDSS. Students may take 4-5 semesters to graduate.  See sample plans for examples .
+Assume that your first semester will be spent completing technical requirements that you could not take at your community college. Most students start in CS61A.  See sample plans for more examples .
+Since admissions decisions for this major will be based on the technical prerequisites taken at Berkeley, you must maximize your potential for doing well. We recommend that you take only 2 technical courses per semester.
+View
+Open Faculty Positions

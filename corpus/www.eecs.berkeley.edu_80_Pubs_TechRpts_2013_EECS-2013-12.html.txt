@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-12.html
+Communication Efficient Gaussian Elimination with Partial Pivoting using a Shape Morphing Data Layout
+Grey Ballard and James Demmel and Benjamin Lipshitz and Oded Schwartz and Sivan Toledo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-12
+February 21,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-12.pdf
+High performance for numerical linear algebra often comes at the expense of stability. Computing the LU decomposition of a matrix via Gaussian Elimination can be organized so that the computation involves regular and efficient data access. However, maintaining numerical stability via partial pivoting involves row interchanges that lead to inefficient data access patterns. To optimize communication efficiency throughout the memory hierarchy we confront two seemingly contradictory requirements: partial pivoting is efficient with column-major layout, whereas a recursive layout is optimal for the rest of the computation. We resolve this by introducing a shape morphing procedure that dynamically matches the layout to the computation throughout the algorithm, and show that Gaussian Elimination with partial pivoting can be performed in a communication efficient and cache-oblivious way. Our technique extends to QR decomposition, where computing Householder vectors prefers a different data layout than the rest of the computation.
+BibTeX citation:
+@techreport{Ballard:EECS-2013-12,
+Author= {Ballard, Grey and Demmel, James and Lipshitz, Benjamin and Schwartz, Oded and Toledo, Sivan},
+Title= {Communication Efficient Gaussian Elimination with Partial Pivoting using a Shape Morphing Data Layout},
+Year= {2013},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-12.html},
+Number= {UCB/EECS-2013-12},
+Abstract= {High performance for numerical linear algebra often comes at the expense of stability. Computing the LU decomposition of a matrix via Gaussian Elimination can be organized so that the computation involves regular and efficient data access. However, maintaining numerical stability via partial pivoting involves row interchanges that lead to inefficient data access patterns. To optimize communication efficiency throughout the memory hierarchy we confront two seemingly contradictory requirements: partial pivoting is efficient with column-major layout, whereas a recursive layout is optimal for the rest of the computation. We resolve this by introducing a shape morphing procedure that dynamically matches the layout to the computation throughout the algorithm, and show that Gaussian Elimination with partial pivoting can be performed in a communication efficient and cache-oblivious way. Our technique extends to QR decomposition, where computing Householder vectors prefers a different data layout than the rest of the computation.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%A Toledo, Sivan
+%T Communication Efficient Gaussian Elimination with Partial Pivoting using a Shape Morphing Data Layout
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 February 21
+%@ UCB/EECS-2013-12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-12.html
+%F Ballard:EECS-2013-12

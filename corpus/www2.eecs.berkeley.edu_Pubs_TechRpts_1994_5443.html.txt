@@ -1,0 +1,46 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1994/5443.html
+%s ",$title,$link,$text);
+return $button;
+}
+?>
+An Exploration of Network RAM | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+An Exploration of Network RAM
+Eric A. Anderson and Jeanna M. Neefe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-98-1000
+1994
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1998/CSD-98-1000.pdf
+The goal of network RAM is to improve the performance of memory intensive workloads by paging to idle memory over the network rather than to disk. In this paper, we reexamine common assumptions about network RAM, compare possible implementations, describe the structure and performance of our user-level implementation and investigate various methods for providing reliability.
+";
+?>
+BibTeX citation:
+@techreport{Anderson:CSD-98-1000,
+Author = {Anderson, Eric A. and Neefe, Jeanna M.},
+Title = {An Exploration of Network RAM},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1994},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1994/5443.html},
+Number = {UCB/CSD-98-1000}
+}
+EndNote citation:
+%0 Report
+%A Anderson, Eric A.
+%A Neefe, Jeanna M.
+%T An Exploration of Network RAM
+%I EECS Department, University of California, Berkeley
+%D 1994
+%@ UCB/CSD-98-1000
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1994/5443.html
+%F Anderson:CSD-98-1000
+Home
+|
+©
+UC Berkeley EECS
+|
+|
+Contact Webteam

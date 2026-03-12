@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/alvin-cheung-and-jonathan-ragan-kelley-win-2020-intel-outstanding-researcher-award
+Alvin Cheung and Jonathan Ragan-Kelley win 2020 Intel Outstanding Researcher Award - EECS at Berkeley
+EECS Assistant Profs. Alvin Cheung and Jonathan Ragan-Kelley are among 18 winners of Intel’s 2020 Outstanding Research Awards (ORA). These awards recognize exceptional contributions made through Intel university-sponsored research.  Cheung and Ragan-Kelley are developing ARION, a system for compiling programs onto heterogeneous platforms. The team will use verified lifting, which rewrites legacy code into a clean specification, stripping away optimizations that target legacy architectures. This spec, written in a DSL, can then be compiled to new platforms, sometimes with orders of magnitude of speedup in resulting code performance.
+Categories
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

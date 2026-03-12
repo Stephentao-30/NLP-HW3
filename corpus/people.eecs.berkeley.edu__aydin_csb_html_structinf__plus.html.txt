@@ -1,0 +1,30 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/structinf__plus.html
+Compressed Sparse Blocks: Semirings.h File Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Classes
+Semirings.h File Reference
+#include <utility>
+#include <climits>
+#include <cmath>
+#include <tr1/array>
+#include " promote.h "
+Go to the source code of this file.
+Classes
+struct     inf_plus< T >
+struct     PTSR< T1, T2 >
+struct     UnrollerL< Begin, End, Step >
+struct     UnrollerL< End, End, Step >
+struct     PTSRArray< T1, T2, D >
+struct     MPSR< T1, T2 >
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6
+Trans"  <<  " mflop/sec: "  <<  flops  / (1000 * (double) time) <<endl;
+300
+</a

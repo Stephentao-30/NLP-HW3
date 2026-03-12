@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29092.html
+Design of Linear Multivariable Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design of Linear Multivariable Systems
+Design of Linear Multivariable Systems
+Shih-Ho Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M309
+October 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-309.pdf
+BibTeX citation:
+@techreport{Wang:M309,
+Author = {Wang, Shih-Ho},
+Title = {Design of Linear Multivariable Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29092.html},
+Number = {UCB/ERL M309}
+}
+EndNote citation:
+%0 Report
+%A Wang, Shih-Ho
+%T Design of Linear Multivariable Systems
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M309
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29092.html
+%F Wang:M309

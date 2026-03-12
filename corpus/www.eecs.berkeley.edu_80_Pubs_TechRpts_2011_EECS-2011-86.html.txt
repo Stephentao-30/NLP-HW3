@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-86.html
+Sparse Reconstruction of Visual Appearance for Computer Graphics and Vision
+Ravi Ramamoorthi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-86
+July 27,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-86.pdf
+A broad range of problems in computer graphics rendering, appearance acquisition for graphics and vision, and imaging,
+involve sampling, reconstruction, and integration of high-dimensional (4D-8D) signals. For example, precomputation-based real-time rendering of glossy materials and intricate lighting effects like caustics, can involve (pre)-computing the response of the scene to different light and viewing directions, which is often a 6D dataset. Similarly, image-based appearance acquisition of facial details, car paint, or glazed wood, requires us to take images from different light and view directions. Even offline rendering of visual effects like motion blur from a fast-moving car, or depth of field, involves high-dimensional sampling across time and lens aperture. The same problems are also common in computational imaging applications such as light field cameras.
+In the past few years, computer graphics and computer vision researchers have made significant progress in subsequent
+analysis and compact factored or multiresolution representations for some of these problems. However, the initial full dataset must almost always still be acquired or computed by brute force. This is often prohibitively expensive, taking hours to days of computation and acquisition time, as well as being a challenge for memory usage and storage. For example, on the order of 10,000 megapixel images are needed for a 1 degree sampling of lights and views for high-frequency materials.
+We argue that dramatically sparser sampling and reconstruction of these signals is possible, before the full dataset is acquired or simulated. Our key idea is to exploit the structure of the data that often lies in lower-frequency, sparse, or low-dimensional spaces. Our framework will apply to a diverse set of problems such as sparse reconstruction of light transport matrices for relighting, sheared sampling and denoising for offline shadow rendering, time-coherent compressive sampling for appearance acquisition, and new approaches to computational photography and imaging.
+BibTeX citation:
+@techreport{Ramamoorthi:EECS-2011-86,
+Author= {Ramamoorthi, Ravi},
+Title= {Sparse Reconstruction of Visual Appearance for Computer Graphics and Vision},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-86.html},
+Number= {UCB/EECS-2011-86},
+Abstract= {A broad range of problems in computer graphics rendering, appearance acquisition for graphics and vision, and imaging,
+involve sampling, reconstruction, and integration of high-dimensional (4D-8D) signals. For example, precomputation-based real-time rendering of glossy materials and intricate lighting effects like caustics, can involve (pre)-computing the response of the scene to different light and viewing directions, which is often a 6D dataset. Similarly, image-based appearance acquisition of facial details, car paint, or glazed wood, requires us to take images from different light and view directions. Even offline rendering of visual effects like motion blur from a fast-moving car, or depth of field, involves high-dimensional sampling across time and lens aperture. The same problems are also common in computational imaging applications such as light field cameras.
+In the past few years, computer graphics and computer vision researchers have made significant progress in subsequent
+analysis and compact factored or multiresolution representations for some of these problems. However, the initial full dataset must almost always still be acquired or computed by brute force. This is often prohibitively expensive, taking hours to days of computation and acquisition time, as well as being a challenge for memory usage and storage. For example, on the order of 10,000 megapixel images are needed for a 1 degree sampling of lights and views for high-frequency materials.
+We argue that dramatically sparser sampling and reconstruction of these signals is possible, before the full dataset is acquired or simulated. Our key idea is to exploit the structure of the data that often lies in lower-frequency, sparse, or low-dimensional spaces. Our framework will apply to a diverse set of problems such as sparse reconstruction of light transport matrices for relighting, sheared sampling and denoising for offline shadow rendering, time-coherent compressive sampling for appearance acquisition, and new approaches to computational photography and imaging.},
+}
+EndNote citation:
+%0 Report
+%A Ramamoorthi, Ravi
+%T Sparse Reconstruction of Visual Appearance for Computer Graphics and Vision
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 27
+%@ UCB/EECS-2011-86
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-86.html
+%F Ramamoorthi:EECS-2011-86

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-35.html
+Shark: Fast Data Analysis Using Coarse-grained Distributed Memory
+Clifford Engle
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-35
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-35.pdf
+Shark is a research data analysis system built on a novel coarse-grained distributed shared-memory abstraction. Shark marries query processing with deep data analysis, providing a unified system for easy data manipulation using SQL and pushing sophisticated analysis closer to data. It scales to thousands of nodes in a fault-tolerant manner. Shark can answer queries 40X faster than Apache Hive and run machine learning programs 25X faster than MapReduce programs in Apache Hadoop on large datasets. This is a complete overview of the development of Shark, including design decisions, performance details, and comparison with existing data warehousing solutions. It demonstrates some of Shark's distinguishing features including its in-memory columnar caching and its unified machine learning interface.
+Advisors:  Michael Franklin
+BibTeX citation:
+@mastersthesis{Engle:EECS-2013-35,
+Author= {Engle, Clifford},
+Title= {Shark: Fast Data Analysis Using Coarse-grained Distributed Memory},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-35.html},
+Number= {UCB/EECS-2013-35},
+Abstract= {Shark is a research data analysis system built on a novel coarse-grained distributed shared-memory abstraction. Shark marries query processing with deep data analysis, providing a unified system for easy data manipulation using SQL and pushing sophisticated analysis closer to data. It scales to thousands of nodes in a fault-tolerant manner. Shark can answer queries 40X faster than Apache Hive and run machine learning programs 25X faster than MapReduce programs in Apache Hadoop on large datasets. This is a complete overview of the development of Shark, including design decisions, performance details, and comparison with existing data warehousing solutions. It demonstrates some of Shark's distinguishing features including its in-memory columnar caching and its unified machine learning interface.},
+}
+EndNote citation:
+%0 Thesis
+%A Engle, Clifford
+%T Shark: Fast Data Analysis Using Coarse-grained Distributed Memory
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-35.html
+%F Engle:EECS-2013-35

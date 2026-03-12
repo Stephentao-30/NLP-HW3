@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9G
+Course: CS9G | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9G
+CS 9G. JAVA for Programmers
+Catalog Description:  Self-paced course in Java for students who already know how to program. Applets; variables and computation; events and flow of control; classes and objects; inheritance; GUI elements; applications; arrays, strings, files, and linked structures; exceptions; threads.
+Units:  2.0
+Prerequisites:  COMPSCI 9C, COMPSCI 9F, or COMPSCI 61A plus experience with object-oriented programming or C-based language.
+Formats:  Fall: 2 hours of self-paced per week
+Spring: 2 hours of self-paced per week
+Grading basis:  passFail
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Students will learn constructs of the Java programming language, along with built-in facilities to create graphical user interfaces. In the process of learning the language, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Applets
+Variables and computation
+Events flow of control
+Details about Java looping and testing constructs
+Paint, repaint, init, and HandleEvent methods of applets
+Classes and objects
+Inheritance
+Interfaces
+Details of defining classes and interfaces and using objects
+Public vs. private methods
+Static methods and data
+Arrays
+Strings
+Linked structures
+Files
+Exceptions
+Applications
+Threads

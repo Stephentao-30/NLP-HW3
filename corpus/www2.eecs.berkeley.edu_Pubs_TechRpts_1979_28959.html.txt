@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28959.html
+Exact Penalty Functions and Lagrange Multipliers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Exact Penalty Functions and Lagrange Multipliers
+Exact Penalty Functions and Lagrange Multipliers
+J.B. Lasserre
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/31
+July 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-31.pdf
+BibTeX citation:
+@techreport{Lasserre:M79/31,
+Author = {Lasserre, J.B.},
+Title = {Exact Penalty Functions and Lagrange Multipliers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28959.html},
+Number = {UCB/ERL M79/31}
+}
+EndNote citation:
+%0 Report
+%A Lasserre, J.B.
+%T Exact Penalty Functions and Lagrange Multipliers
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/31
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28959.html
+%F Lasserre:M79/31

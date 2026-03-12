@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-85.html
+The Berkeley 3D Object Dataset
+Allison Janoch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-85
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-85.pdf
+The recent proliferation of the Microsoft Kinect [4], a cheap but quality depth sensor, has brought the need for a challenging category-level 3D object detection dataset to the forefront. Such a dataset can be used for object recognition in a spirit usually reserved for the large collections of intensity images typically collected from the Internet. The existence of such a dataset introduces new challenges in recognition, including the challenge of identifying valuable features to extract from range images.
+This thesis will review current 3D datasets and find them lacking in variation of scenes, categories, instances, and viewpoints. The Berkeley 3D Object Dataset (B3DO), which contains color and depth image pairs gathered in real domestic and office environments will be presented. B3DO includes over 50 classes across 850 images. Baseline object recognition performance in a PASCAL VOC-style detection task is established, and two ways that inferred world size of the object can be used to improve detection are suggested.
+In an effort to make more significant performance progress, the problem of extracting useful features from range images is addressed. There has been much success in using the histogram of oriented gradients (HOG) as a global descriptor for object detection in intensity images. There are also many proposed descriptors designed specifically for depth data (spin images, shape context, etc), but these are often focused on the local, not global descriptor paradigm. This work explores the failures of gradient based descriptors when applied to depth, and proposes that the proper global descriptor in the realm of 3D should be based on curvature, not gradients. This descriptor, the histogram of orientated curvature, exhibits superior performance for some classes of objects in the B3DO.
+Advisors:  Trevor Darrell
+BibTeX citation:
+@mastersthesis{Janoch:EECS-2012-85,
+Author= {Janoch, Allison},
+Editor= {Darrell, Trevor and Abbeel, Pieter and Malik, Jitendra},
+Title= {The Berkeley 3D Object Dataset},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-85.html},
+Number= {UCB/EECS-2012-85},
+Abstract= {The recent proliferation of the Microsoft Kinect [4], a cheap but quality depth sensor, has brought the need for a challenging category-level 3D object detection dataset to the forefront. Such a dataset can be used for object recognition in a spirit usually reserved for the large collections of intensity images typically collected from the Internet. The existence of such a dataset introduces new challenges in recognition, including the challenge of identifying valuable features to extract from range images.
+This thesis will review current 3D datasets and find them lacking in variation of scenes, categories, instances, and viewpoints. The Berkeley 3D Object Dataset (B3DO), which contains color and depth image pairs gathered in real domestic and office environments will be presented. B3DO includes over 50 classes across 850 images. Baseline object recognition performance in a PASCAL VOC-style detection task is established, and two ways that inferred world size of the object can be used to improve detection are suggested.
+In an effort to make more significant performance progress, the problem of extracting useful features from range images is addressed. There has been much success in using the histogram of oriented gradients (HOG) as a global descriptor for object detection in intensity images. There are also many proposed descriptors designed specifically for depth data (spin images, shape context, etc), but these are often focused on the local, not global descriptor paradigm. This work explores the failures of gradient based descriptors when applied to depth, and proposes that the proper global descriptor in the realm of 3D should be based on curvature, not gradients. This descriptor, the histogram of orientated curvature, exhibits superior performance for some classes of objects in the B3DO.},
+}
+EndNote citation:
+%0 Thesis
+%A Janoch, Allison
+%E Darrell, Trevor
+%E Abbeel, Pieter
+%E Malik, Jitendra
+%T The Berkeley 3D Object Dataset
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-85
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-85.html
+%F Janoch:EECS-2012-85

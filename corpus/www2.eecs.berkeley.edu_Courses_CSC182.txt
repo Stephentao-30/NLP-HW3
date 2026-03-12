@@ -1,0 +1,46 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC182
+Course: CSC182 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSC182
+CS C182. The Neural Basis of Thought and Language
+Catalog Description:  This is a course on the current status of interdisciplinary studies that seeks to answer the following questions: (1) How is it possible for the human brain, which is a highly structured network of neurons, to think and to learn, use, and understand language? (2) How are language and thought related to perception, motor control, and our other neural systems, including social cognition? (3) How do the computational properties of neural systems and the specific neural structures of the human brain shape the nature of thought and language? Much of the course will focus on the Neural Theory of Language (NTL), which seeks to answer these questions in terms of architecture and mechanism, using models and simulations of language and learning phenomena.
+Units:  4
+Formats:  Fall: 3 hours of lecture and  1 hour of discussion per week
+Spring: 3 hours of lecture and  1 hour of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  LINGUIS C109, COG SCI C110
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:
+This is an inherently interdisciplinary class with weekly problems ranging from linguistic analyses to programming of neural network algorithms. The final paper
+is an original synthesis in the style of the journal: Behavioral and Brain Sciences.
+Students are encouraged to work in teams and these tend to be mixed disciplines. Considerable attention is paid to the design of experiments - biological, psychological and computational. There is no specific lecture on professional responsibility or social responsibility, but both issues arise because of the importance of language understanding systems in society. The design aspect of the course lies in the detailed study of and experimenting with connectionist models and in two programming assignments that require design.
+Prerequisites: CS 61B.
+Course objectives:  Learn about the computational structure of the human brain. Gain familiarity with neural computation and how it is modeled. Learn how language and thought can be understood as neural computations.
+Topics covered:
+The Brain 1: Structure and function of the brain
+The Brain 2: Visual system and development
+Spreading activation
+Connectionist models
+PDP and structured connectionist models
+Backpropagation
+Computational models of learning
+Temporal binding
+Cognitive linguistics 1: prototypes
+Cognitive linguistics 2: image schemas
+Cognitive linguistics 3: image schemas, color, frame semantics
+Regier's model
+Bailey's model
+Events and causes
+Aspect 1: the inherent structure of events
+Aspect 2
+Metaphor 1: Narayanan's model
+Extending the NTL approach
+Temporal binding
+Grammar Acquisition
+Related Areas:
+Artificial Intelligence (AI)   Biosystems & Computational Biology (BIO)

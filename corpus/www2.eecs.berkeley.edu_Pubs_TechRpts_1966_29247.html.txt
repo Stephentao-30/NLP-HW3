@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29247.html
+A Perturbational Analysis of Norton-Type Constant Resistance Networks
+C.A. Desoer and K.K. Wong
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M194
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-194.pdf
+BibTeX citation:
+@techreport{Desoer:M194,
+Author= {Desoer, C.A. and Wong, K.K.},
+Title= {A Perturbational Analysis of Norton-Type Constant Resistance Networks},
+Year= {1966},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29247.html},
+Number= {UCB/ERL M194},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wong, K.K.
+%T A Perturbational Analysis of Norton-Type Constant Resistance Networks
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M194
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29247.html
+%F Desoer:M194

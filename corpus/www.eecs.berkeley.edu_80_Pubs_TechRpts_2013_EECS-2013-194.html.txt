@@ -1,0 +1,79 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-194.html
+Low-Dimensional Models for PCA and Regression
+Dapo Omidiran
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-194
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-194.pdf
+This thesis examines two separate statistical problems for which
+low-dimensional models are effective.
+In the first part of this thesis, we examine the Robust Principal Components Analysis
+(RPCA) problem: given a
+matrix $\datam$ that is the sum of a low-rank matrix $\lowopt$ and a sparse noise matrix
+$\sparseopt$, recover $\lowopt$ and $\sparseopt$.
+This problem appears in various settings, including image processing,
+computer vision, and graphical models. Various polynomial-time heuristics
+and algorithms have been proposed to solve this problem.
+We introduce a block coordinate descent algorithm for this
+problem and prove a convergence result. In addition, our iterative
+algorithm has low complexity per iteration and empirically performs well
+on synthetic datasets.
+In the second part of this thesis, we examine a variant of ridge regression:
+unlike in the classical setting where we know that the parameter of
+interest lies near a single point, we instead only know that it lies near
+a known low-dimensional subspace.
+We formulate this regression problem as a convex optimization problem, and
+introduce an efficient block coordinate descent algorithm for solving it.
+We demonstrate that this ``subspace prior" version of ridge regression is
+an appropriate model for understanding player effectiveness in basketball.
+In particular, we apply our algorithm to real-world data and demonstrate
+empirically that it produces a more accurate model of player effectiveness
+by showing that (1) the algorithm outperforms existing approaches and (2)
+it leads to a profitable betting strategy.
+Advisors:  Laurent El Ghaoui
+BibTeX citation:
+@phdthesis{Omidiran:EECS-2013-194,
+Author= {Omidiran, Dapo},
+Title= {Low-Dimensional Models for PCA and Regression},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-194.html},
+Number= {UCB/EECS-2013-194},
+Abstract= {This thesis examines two separate statistical problems for which
+low-dimensional models are effective.
+In the first part of this thesis, we examine the Robust Principal Components Analysis
+(RPCA) problem: given a
+matrix $\datam$ that is the sum of a low-rank matrix $\lowopt$ and a sparse noise matrix
+$\sparseopt$, recover $\lowopt$ and $\sparseopt$.
+This problem appears in various settings, including image processing,
+computer vision, and graphical models. Various polynomial-time heuristics
+and algorithms have been proposed to solve this problem.
+We introduce a block coordinate descent algorithm for this
+problem and prove a convergence result. In addition, our iterative
+algorithm has low complexity per iteration and empirically performs well
+on synthetic datasets.
+In the second part of this thesis, we examine a variant of ridge regression:
+unlike in the classical setting where we know that the parameter of
+interest lies near a single point, we instead only know that it lies near
+a known low-dimensional subspace.
+We formulate this regression problem as a convex optimization problem, and
+introduce an efficient block coordinate descent algorithm for solving it.
+We demonstrate that this ``subspace prior" version of ridge regression is
+an appropriate model for understanding player effectiveness in basketball.
+In particular, we apply our algorithm to real-world data and demonstrate
+empirically that it produces a more accurate model of player effectiveness
+by showing that (1) the algorithm outperforms existing approaches and (2)
+it leads to a profitable betting strategy.},
+}
+EndNote citation:
+%0 Thesis
+%A Omidiran, Dapo
+%T Low-Dimensional Models for PCA and Regression
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-194
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-194.html
+%F Omidiran:EECS-2013-194

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29395.html
+CANINE (Computer Analysis of Networks via Inversion of Network Equations) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+CANINE (Computer Analysis of Networks via Inversion of Network Equations)
+CANINE (Computer Analysis of Networks via Inversion of Network Equations)
+Paul M. Russo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M252
+August 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-252.pdf
+BibTeX citation:
+@techreport{Russo:M252,
+Author = {Russo, Paul M.},
+Title = {CANINE (Computer Analysis of Networks via Inversion of Network Equations)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29395.html},
+Number = {UCB/ERL M252}
+}
+EndNote citation:
+%0 Report
+%A Russo, Paul M.
+%T CANINE (Computer Analysis of Networks via Inversion of Network Equations)
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M252
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29395.html
+%F Russo:M252

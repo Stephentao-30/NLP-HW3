@@ -1,0 +1,167 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010
+Technical Reports - 2010
+Intrinsic and Systematic Variability in Nanometer CMOS Technologies  (EECS-2010-181) Kedar Patel
+Pseudorandomness against Depth-2 Circuits and Analysis of Goldreich's Candidate One-Way Function  (EECS-2010-180) Seyed Omid Etesami
+A Scalable and Cost Effective Architecture for High Gain Beamforming Antennas  (EECS-2010-178) Omar Bakr
+A High-Throughput, Flexible LDPC Decoder for Multi-Gb/s Wireless Personal Area Networks  (EECS-2010-177) Matthew Weiner and Borivoje Nikolic
+A Theory of Photometric Reconstruction for Unknown Isotropic Reflectances  (EECS-2010-176) Manmohan Chandraker, Jiamin Bai and Ravi Ramamoorthi
+Enabling More Meaningful Post-Election Investigations  (EECS-2010-175) Arel Lee Cordero
+Finding Lost Children  (EECS-2010-174) Ashley Michelle Eden
+Sense Amplifier-Based Pass Transistor Logic  (EECS-2010-173) Louis Poblete Alarcon and Jan M. Rabaey
+Making Static Pivoting Scalable and Dependable  (EECS-2010-172) Jason Riedy
+Optimizing Irregular Data Accesses for Cluster and Multicore Architectures  (EECS-2010-170) Jimmy Zhigang Su
+Computational Methods for Meiotic Recombination Inference  (EECS-2010-169) Junming Yin
+Efficient Transmitters for Wireless Communications in Nanoscale CMOS Technology  (EECS-2010-168) Debopriyo Chowdhury
+Solution Processed Silver Sulfide Thin Films for Filament Memory Applications  (EECS-2010-166) Shong Yin
+Markov Chain Monte Carlo Stimulus Generation for Constrained Random Simulation  (EECS-2010-165) Nathan Boyd Kitchen
+Steep Turn On/Off "Green" Tunnel Transistors  (EECS-2010-164) Pratik Ashvin Patel
+mm-Wave Phase Shifters and Switches  (EECS-2010-163) Ehsan Adabi Firouzjaei
+Robust Communication in Vehicular Ad Hoc Networks  (EECS-2010-162) Mark Johnson
+Phrase Alignment Models for Statistical Machine Translation  (EECS-2010-161) John Sturdy DeNero
+Mask Edge Effects in Optical Lithography and Chip Level Modeling Methods  (EECS-2010-160) Marshal Miller
+Design and Measurement of Parameter-Specific Ring Oscillators  (EECS-2010-159) Lynn Tao-Ning Wang
+Pattern-Oriented Application Frameworks for Domain Experts to Effectively Utilize Highly Parallel Manycore Microprocessors  (EECS-2010-158) Jike Chong
+A Minimum Spanning Tree Framework for Inferring Phylogenies  (EECS-2010-157) Daniel Giannico Adkins
+Frequency-Modulated Microwave Photonic Links with Direct Detection: Review and Theory  (EECS-2010-156) John Wyrwas
+Capacitive Power Transfer  (EECS-2010-155) Mitchell Kline
+Low Power Band to Band Tunnel Transistors  (EECS-2010-154) Anupama Bowonder
+Probabilistic Models of Evolution and Language Change  (EECS-2010-153) Alexandre Bouchard-Cote, Michael Jordan, Daniel Klein, Thomas L. Griffiths and Yun S. Song
+From the Rendering Equation to Stratified Light Transport Inversion  (EECS-2010-151) Tian-Tsong Ng, Ramanpreet Singh Pahwa, Jiamin Bai, Kar-Han Tan and Ravi Ramamoorthi
+Structured Approaches to Data Selection for Speaker Recognition  (EECS-2010-150) Howard Hao Lei
+Diesel: Applying Privilege Separation to Database Access  (EECS-2010-149) Adrienne Porter Felt, Matthew Finifter, Joel Weinberger and David Wagner
+TORCH Computational Reference Kernels: A Testbed for Computer Science Research  (EECS-2010-144) Alex Kaiser, Samuel Williams, Kamesh Madduri, Khaled Ibrahim, David Bailey, James Demmel and Erich Strohmaier
+The Effectiveness of Install-Time Permission Systems for Third-Party Applications  (EECS-2010-143) Adrienne Porter Felt, Kate Greenwood and David Wagner
+Searching for Jim Gray: A Technical Overview  (EECS-2010-142) Joseph M. Hellerstein and David L. Tennenhouse
+Behavior of Machine Learning Algorithms in Adversarial Environments  (EECS-2010-140) Blaine Nelson
+Recognition of Tibetan Wood Block Prints with Generalized Hidden Markov and Kernelized Modified Quadratic Distance Function  (EECS-2010-139) Fares Hedayati, Jike Chong and Kurt Keutzer
+Recognition of Tibetan Wood Block Prints with Generalized Hidden Markov and Kernelized Modified Quadratic Distance Function  (EECS-2010-138) Fares Hedayati,  Jike Chong and Kurt Keutzer
+Symmetrical Embeddings of Regular Maps R5.13 and R5.6  (EECS-2010-137) Carlo H. Séquin
+A Methodology for Understanding MapReduce Performance Under Diverse Workloads  (EECS-2010-135) Yanpei Chen, Archana Sulochana Ganapathi, Rean Griffith and Randy H. Katz
+Improving the Quality and Efficiency of Data Collection in Developing Regions - Thesis Proposal  (EECS-2010-134) Kuang Chen
+Optimization-based Inference for Temporally Evolving Boolean Networks with Applications in Biology  (EECS-2010-133) Young-Hwan Chang, Joe Gray and Claire Tomlin
+Attrition in Introductory Computer Science at the University of California, Berkeley  (EECS-2010-132) Colleen Lewis
+Communication-Avoiding QR Decomposition for GPUs  (EECS-2010-131) Michael Anderson, Grey Ballard, James Demmel and Kurt Keutzer
+The Earlier the Better: A Theory of Timed Actor Interfaces  (EECS-2010-130) Marc Geilen, Stavros Tripakis and Maarten Wiggers
+Interactive Simulation of Surgical Needle Insertion and Steering  (EECS-2010-129) Nuttapong Chentanez
+A System for Managing Physical Data in Buildings  (EECS-2010-128) Jorge Ortiz
+FATE and DESTINI: A Framework for Cloud Recovery Testing  (EECS-2010-127) Haryadi S. Gunawi, Thanh Do, Pallavi Joshi, Peter Alvaro, Jungmin Yun, Jin-su Oh, Joseph M. Hellerstein, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau, Koushik Sen and Dhruba Borthakur
+Safe Feature Elimination in Sparse Supervised Learning  (EECS-2010-126) Laurent El Ghaoui, Vivian Viallon and Tarek Rabbani
+A High-Fidelity Energy Monitoring and Feedback Architecture for Reducing Electrical Consumption in Buildings  (EECS-2010-125) Xiaofan Fred Jiang
+Copperhead: Compiling an Embedded Data Parallel Language  (EECS-2010-124) Bryan Catanzaro, Michael Garland and Kurt Keutzer
+Toward an error handling mechanism for timing errors with Java Pathfinder and Ptolemy II  (EECS-2010-123) Shanna-Shaye Forbes
+On the Degrees of Freedom of  MISO Broadcast Channels with Delayed Feedback  (EECS-2010-122) Mohammad Ali Maddah-Ali and David Tse
+Unsupervised Models of Entity Reference Resolution  (EECS-2010-121) Aria Delier Haghighi
+Width Inference Documentation  (EECS-2010-120) Bert Rodiers and Ben Lickly
+Limitations of Linear and Semidefinite Programs  (EECS-2010-119) Grant Robert Schoenebeck
+Two-Handed Marking Menus for Multitouch Devices  (EECS-2010-118) Kenrick Kin, Björn Hartmann and Maneesh Agrawala
+A Model-Based Process for Evaluating Cluster Building Blocks  (EECS-2010-117) Laura Keys
+Mobile Persuasive Technologies for Rural Health  (EECS-2010-116) Divya Lalitha Ramachandran
+Results and Techniques in Multiuser Information Theory  (EECS-2010-115) Amin Aminzadeh Gohari
+Automating Datacenter Operations Using Machine Learning  (EECS-2010-114) Peter Bodik
+Millimeter-Wave Circuits for 60GHz and Beyond  (EECS-2010-113) Bagher Afshar
+System Problem Detection by Mining Console Logs  (EECS-2010-112) Wei Xu
+An Adaptive Multi-channel P2P Video-on-Demand System using Plug-and-Play Helpers  (EECS-2010-111) Hao Zhang, Minghua Chen, Abhay Parekh and Kannan Ramchandran
+mm-Wave Quadrature Spatial Power Combining: A Proposal  (EECS-2010-110) Ali Niknejad, Debopriyo Chowdhury, JiaShu Chen, Jungdong Park and Lu Ye
+Modeling Events in Time Using Cascades Of Poisson Processes  (EECS-2010-109) Aleksandr Simma
+Global seismic monitoring as probabilistic inference  (EECS-2010-108) Nimar S Arora, Stuart J. Russell, Paul Kidwell and Erik Sudderth
+Selectivity Estimation for Extraction Operators over Text Data  (EECS-2010-107) Daisy Zhe Wang, Long Wei, Yunyao Li, Frederick Reiss and Shivakumar Vaithyanathan
+Visual Domain Adaptation Using Regularized Cross-Domain Transforms  (EECS-2010-106) Kate Saenko, Brian Kulis, Mario Fritz and Trevor Darrell
+Visual Domain Adaptation Using Regularized Cross-Domain Transforms  (EECS-2010-105) Kate Saenko, Brian Kulis, Mario Fritz and Trevor Darrell
+Dense Point Trajectories by GPU-accelerated Large Displacement Optical Flow  (EECS-2010-104) Narayanan Sundaram, Thomas Brox and Kurt Keutzer
+Quantitative Analysis of Systems Using Game-Theoretic Learning  (EECS-2010-102) Sanjit A. Seshia and Alexander Rakhlin
+A Dual Theory of Inverse and Forward Light Transport  (EECS-2010-101) Jiamin Bai, Manmohan Chandraker, Tian-Tsong Ng and Ravi Ramamoorthi
+CalCS: SMT Solving  for Non-linear Convex Constraints  (EECS-2010-100) Pierluigi Nuzzo, Alberto Alessandro Angelo Puggelli, Sanjit A. Seshia and Alberto L. Sangiovanni-Vincentelli
+Factorized Latent Spaces with Structured Sparsity  (EECS-2010-99) Yangqing Jia, Mathieu Salzmann and Trevor Darrell
+Towards Automatically Checking Thousands of Failures with Micro-specifications  (EECS-2010-98) Haryadi S. Gunawi, Thanh Do, Pallavi Joshi, Joseph M. Hellerstein, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau and Koushik Sen
+Towards Automatically Checking Thousands of Failures with Micro-specifications  (EECS-2010-97) Haryadi Gunawi, Thanh Do, Pallavi Joshi, Joseph M. Hellerstein, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau and Koushik Sen
+Optical Flow on a Flapping Wing Robot  (EECS-2010-96) Fernando Garcia Bermudez
+Analysis and Lessons from a Publicly Available Google Cluster Trace  (EECS-2010-95) Yanpei Chen, Archana Sulochana Ganapathi, Rean Griffith and Randy H. Katz
+Discovering Efficiency in Coarse-To-Fine Texture Classification  (EECS-2010-94) Jonathan Barron and Jitendra Malik
+Ripcord: A Modular Platform for Data Center Networking  (EECS-2010-93) Martin Casado, David Erickson, Igor Anatolyevich Ganichev, Rean Griffith, Brandon Heller, Nick Mckeown, Daekyeong Moon, Teemu Koponen, Scott Shenker and Kyriakos Zarifis
+Towards Practical Taint Tracking  (EECS-2010-92) Andrey Ermolinskiy, Sachin Katti, Scott Shenker, Lisa L Fowler and Murphy McCauley
+Design of Network Architectures: Role of Game Theory and Economics  (EECS-2010-91) Nikhil Gopinath Shetty
+The Declarative Imperative: Experiences and Conjectures in Distributed Logic  (EECS-2010-90) Joseph M. Hellerstein
+Algorithms for Comparing Pedigree Graphs  (EECS-2010-89) Bonnie Kirkpatrick
+Focus Replay Debugging Effort On the Control Plane  (EECS-2010-88) Gautam Altekar and Ion Stoica
+Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center  (EECS-2010-87) Benjamin Hindman, Andrew Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy H. Katz, Scott Shenker and Ion Stoica
+Effect of Multiple Alkanethiol Ligands on Solubility and Sintering Temperature of Gold Nanoparticles  (EECS-2010-86) Kevin Wang
+An Empirical Study of the Control and Data Planes (or Control Plane Determinism is Key for Replay Debugging Datacenter Applications)  (EECS-2010-85) Gautam Altekar and Ion Stoica
+Advanced Source/Drain and Contact Design for Nanoscale CMOS  (EECS-2010-84) Reinaldo Vega
+Hardware and High Data Speeds on the CINEMA CubeSat  (EECS-2010-83) David McGrogan
+Characterizing Errors in RF Time of Flight Ranging Systems: A Simulation Approach  (EECS-2010-82) David Tung
+Towards Understanding Cloud Performance Tradeoffs Using Statistical Workload Analysis and Replay  (EECS-2010-81) Yanpei Chen, Archana Sulochana Ganapathi, Rean Griffith and Randy H. Katz
+Nanoscale Bulk MOSFET Design and Process Technology for Reduced Variability  (EECS-2010-80) Xin Sun
+Sparsely Precomputing The Light Transport Matrix for Real-Time Rendering  (EECS-2010-79) Fu-Chung Huang and Ravi Ramamoorthi
+Oxygen Concentration Microgradients for Cell Culture  (EECS-2010-78) Jaehyun Park
+Communication and Control for Quantum Circuits  (EECS-2010-77) Yatish Patel
+Running with Flapping Wings  (EECS-2010-76) Kevin Peterson
+The Design and Performance of DASH  (EECS-2010-75) Paul Birkmeyer
+DCR: Replay Debugging for the Datacenter  (EECS-2010-74) Gautam Altekar and Ion Stoica
+Games with Non-Probabilistic Uncertainty  (EECS-2010-73) Ji Woong Lee
+Pattern Matching for Advanced Lithographic Technologies  (EECS-2010-72) Juliet Alison Rubinstein
+Secure Learning and Learning for Security: Research in the Intersection  (EECS-2010-71) Benjamin I. P. Rubinstein
+Virtics: A System for Privilege Separation of Legacy Desktop Applications  (EECS-2010-70) Matt Piotrowski and Anthony D. Joseph
+Fast Image Filters for Depth of Field Post-Processing  (EECS-2010-69) Todd Jerome Kosloff
+Systems Theory for Pharmaceutical Drug Discovery  (EECS-2010-68) Anil Jayanti Aswani
+Beaver: An SMT Solver for Quantifier-free Bit-vector Logic  (EECS-2010-67) Rhishikesh Shrikant Limaye and Sanjit A. Seshia
+Achieving Flexibility and Performance for Packet Forwarding and Data Center Management  (EECS-2010-66) Daekyeong Moon
+Multichannel Reliability Assessment in Real World WSNs  (EECS-2010-65) Jorge Ortiz
+Perceptual and Context Aware Interfaces on Mobile Devices  (EECS-2010-64) Jingtao Wang
+Analysis of Hidden Markov Models and Support Vector Machines in Financial Applications  (EECS-2010-63) Satish Rao and Jerry Hong
+Simulation and Compensation Methods for EUV Lithography Masks with Buried Defects  (EECS-2010-62) Chris Heinz Clifford
+Time Domain Interference Cancellation for Cognitive Radios and Future Wireless Systems  (EECS-2010-61) Jing Yang and Robert W. Brodersen
+An Investigation into the Realities of a Quantum Datapath  (EECS-2010-60) Nemanja Isailovic
+Checking the Data Sharing Strategies of Concurrent Systems Level Code  (EECS-2010-59) Zachary Ryan Anderson
+An Architecture for Structured, Concurrent, Real-Time Action  (EECS-2010-58) Leon Rubin Barrett
+Practical Shape Analysis  (EECS-2010-57) Bill McCloskey
+On the Consistency of Ranking Algorithms  (EECS-2010-56) John Duchi, Lester Mackey and Michael Jordan
+Dominant Resource Fairness: Fair Allocation of Heterogeneous Resources in Datacenters  (EECS-2010-55) Ali Ghodsi, Matei Zaharia, Benjamin Hindman, Andrew Konwinski, Scott Shenker and Ion Stoica
+Transferring Visual Category Models to New Domains  (EECS-2010-54) Kate Saenko, Brian Kulis, Mario Fritz and Trevor Darrell
+Spark: Cluster Computing with Working Sets  (EECS-2010-53) Matei Zaharia, N. M. Mosharaf Chowdhury, Michael Franklin, Scott Shenker and Ion Stoica
+Compositionality in Synchronous Data Flow: Modular Code Generation from Hierarchical SDF Graphs  (EECS-2010-52) Stavros Tripakis, Dai Bui, Marc Geilen, Bert Rodiers and Edward A. Lee
+Statistical models for analyzing human genetic variation  (EECS-2010-51) Sriram Sankararaman
+Verifying Hierarchical Ptolemy II Discrete-Event Models using Real-Time Maude  (EECS-2010-50) Kyungmin Bae, Peter Csaba Olveczky, Thomas Huining Feng, Edward A. Lee and Stavros Tripakis
+A Unifying View of Multiple Kernel Learning  (EECS-2010-49) Marius Kloft, Ulrich Rückert and Peter Bartlett
+Architecture and Hardware Design of Lossless Compression Algorithms for Direct-Write Maskless Lithography Systems  (EECS-2010-47) Hsin-I Liu
+On the Existence of Optimal Exact-Repair MDS Codes for Distributed Storage  (EECS-2010-46) Changho Suh and Kannan Ramchandran
+A Theory of Synchronous Relational Interfaces  (EECS-2010-45) Stavros Tripakis, Ben Lickly, Thomas A. Henzinger and Edward A. Lee
+Hydrostatic optimization of inkjet-printed films  (EECS-2010-44) Hongki Kang
+Pedigree Reconstruction using Identity by Descent  (EECS-2010-43) Bonnie Kirkpatrick
+15 Years of Scherk-Collins Saddle Chains  (EECS-2010-41) Carlo H. Séquin
+Ptera: An Event-Oriented Model of Computation  (EECS-2010-40) Thomas Huining Feng, Edward A. Lee and Lee W. Schruben
+Atomic Shelters: Coping with Multi-core Fallout  (EECS-2010-39) Zachary Ryan Anderson and David Gay
+Modeling and Simulation of Legacy Embedded Systems  (EECS-2010-38) Stefan Resmerita, Patricia Derler and Edward A. Lee
+Communication-avoiding Krylov subspace methods  (EECS-2010-37) Mark Frederick Hoemmen
+To Compress or Not To Compress - Compute vs. IO tradeoffs for MapReduce Energy Efficiency  (EECS-2010-36) Yanpei Chen, Archana Sulochana Ganapathi and Randy H. Katz
+Gibbs sampling in open-universe stochastic languages  (EECS-2010-34) Nimar S Arora, Rodrigo de Salvo Braz, Erik Sudderth and Stuart J. Russell
+DCR: Replay-Debugging for the Datacenter  (EECS-2010-33) Gautam Altekar and Ion Stoica
+Testing Concurrent Programs on Relaxed Memory Models  (EECS-2010-32) Jacob Burnim, Koushik Sen and Christos Stergiou
+Sound and Complete Monitoring of Sequential Consistency in Relaxed Memory Models  (EECS-2010-31) Jacob Burnim, Koushik Sen and Christos Stergiou
+Nye's Trie and Floret Estimators: Techniques for Detecting and Repairing Divergence in the SCADS Distributed Storage Toolkit  (EECS-2010-30) Jesse Trutna
+CALU: A Communication Optimal LU Factorization Algorithm  (EECS-2010-29) James Demmel, Laura Grigori and Hua Xiang
+Synthesizing Switching Logic for Safety and Dwell-Time Requirements  (EECS-2010-28) Susmit Kumar Jha, Sumit Gulwani, Sanjit A. Seshia and Ashish Tiwari
+Combined Task and Motion Planning for Mobile Manipulation  (EECS-2010-27) Jason Wolfe, Bhaskara Marthi and Stuart J. Russell
+A Symbolic Execution Framework for JavaScript  (EECS-2010-26) Prateek Saxena, Devdatta Akhawe, Steve Hanna, Feng Mao, Stephen McCamant and Dawn Song
+Chukwa: A system for reliable large-scale log collection  (EECS-2010-25) Ariel Rabkin and Randy H. Katz
+Adaptive Subgradient Methods for Online Learning and Stochastic Optimization  (EECS-2010-24) John Duchi, Elad Hazan and Yoram Singer
+SEJITS: Getting Productivity and Performance With Selective Embedded JIT Specialization  (EECS-2010-23) Bryan Catanzaro, Shoaib Ashraf Kamil, Yunsup Lee, Krste Asanović, James Demmel, Kurt Keutzer, John Shalf, Katherine A. Yelick and Armando Fox
+Security Analysis of Online Centroid Anomaly Detection  (EECS-2010-22) Marius Kloft and Pavel Laskov
+Non-Sparse Regularization and Efficient Training with Multiple Kernels  (EECS-2010-21) Marius Kloft, Ulf Brefeld, Sören Sonnenburg and Alexander Zien
+Elements of Model-Based Design  (EECS-2010-19) Jeff C. Jensen
+On Secure Distributed Data Storage Under Repair Dynamics  (EECS-2010-18) Sameer Pawar, Salim El Rouayheb and Kannan Ramchandran
+Contour Detection and Hierarchical Image Segmentation  (EECS-2010-17) Pablo Arbelaez, Michael Maire, Charless Fowlkes and Jitendra Malik
+Parallel Web Scripting with Reactive Constraints  (EECS-2010-16) Thibaud Hottelier, James Ide, Doug Kimelman and Ras Bodik
+Oracle-Guided Component-Based Program Synthesis  (EECS-2010-15) Susmit Kumar Jha, Sumit Gulwani, Sanjit A. Seshia and Ashish Tiwari
+Rain: A Workload Generation Toolkit for Cloud Computing Applications  (EECS-2010-14) Aaron Beitch, Brandon Liu, Timothy Yung, Rean Griffith, Armando Fox and David A. Patterson
+Fast L1-Minimization Algorithms and An Application in Robust Face Recognition: A Review  (EECS-2010-13) Allen Yang, Arvind Ganesh, Shankar Sastry and Yi Ma
+Interference Nulling in Distributed Lossy Source Coding  (EECS-2010-12) Mohammad Ali Maddah-Ali and David Tse
+Checking Equivalence of SPMD Programs Using Non-Interference  (EECS-2010-11) Stavros Tripakis, Christos Stergiou and Roberto Lublinerman
+A Descent Algorithm for the Optimal Control of Constrained Nonlinear Switched Dynamical Systems: Appendix  (EECS-2010-9) Humberto Gonzalez, Ram Vasudevan, Maryam Kamgarpour, S. Shankar Sastry, Ruzena Bajcsy and Claire Tomlin
+PIQL: A Performance Insightful Query Language For Interactive Applications  (EECS-2010-8) Michael Armbrust, Nick Lanham, Stephen Tu, Armando Fox, Michael Franklin and David A. Patterson
+Merging Techniques for Combinatorial Optimization: Spectral graph Theory and Semidefinite Programming  (EECS-2010-7) Alexandra Kolla
+Statistical Workloads for Energy Efficient MapReduce  (EECS-2010-6) Yanpei Chen, Archana Sulochana Ganapathi, Armando Fox, Randy H. Katz and David A. Patterson
+What’s New About Cloud Computing Security?  (EECS-2010-5) Yanpei Chen, Vern Paxson and Randy H. Katz
+Discriminative Machine Learning with Structure  (EECS-2010-4) Simon Lacoste-Julien
+TEMU: Binary Code Analysis via Whole-System Layered Annotative Execution  (EECS-2010-3) Heng Yin and Dawn Song
+Stasis: Flexible Transactional Storage  (EECS-2010-2) Russell C Sears
+Maximizing available spectrum for cognitive radios  (EECS-2010-1) Shridhar Mubaraq Mishra

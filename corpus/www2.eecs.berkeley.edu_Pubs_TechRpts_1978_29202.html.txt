@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29202.html
+Computer Science: Covert Communication Channels in Timesharing Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Science: Covert Communication Channels in Timesharing Systems
+Computer Science: Covert Communication Channels in Timesharing Systems
+Jeffrey Craig Huskamp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/37
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-37.pdf
+BibTeX citation:
+@techreport{Huskamp:M78/37,
+Author = {Huskamp, Jeffrey Craig},
+Title = {Computer Science: Covert Communication Channels in Timesharing Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29202.html},
+Number = {UCB/ERL M78/37}
+}
+EndNote citation:
+%0 Report
+%A Huskamp, Jeffrey Craig
+%T Computer Science: Covert Communication Channels in Timesharing Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29202.html
+%F Huskamp:M78/37

@@ -1,0 +1,33 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/dissertation.html
+Rethinking the Application-Database Interface
+Rethinking the Application-Database Interface
+Alvin Cheung
+MIT Dissertation,
+George M. Sprowls award for best computer science
+dissertation
+Abstract
+Applications that interact with database management systems (DBMSs) are
+ubiquitous in our daily lives. Such database applications are usually hosted on
+an application server and perform many small accesses over the network to a
+DBMS hosted on a database server to retrieve data for pro- cessing. For
+decades, the database and programming systems research communities have worked
+on optimizing such applications from different perspectives: database
+researchers have built highly efficient DBMSs, and programming systems
+researchers have developed specialized compilers and runtime systems for
+hosting applications. However, there has been relative little work that exam-
+ines the interface between these two software layers to improve application
+performance.
+In this thesis, I show how making use of application semantics
+and optimizing across these layers of the software stack can help us improve
+the performance of database applications. In particular, I describe three
+projects that optimize database applications by looking at both the programming
+system and the DBMS in tandem. By carefully revisiting the interface between
+the DBMS and the application, and by applying a mix of declarative database
+optimization and modern program analysis and synthesis techniques, we show that
+multiple orders of magnitude speedups are possible in real-world applications.
+I conclude by highlighting future work in the area, and propose a vision
+towards automatically generating application-specific data stores.
+Advisors: Prof. Samuel Madden and Prof. Armando Solar-Lezama
+Download
+[ Document ]
+home

@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/making-is-decision-making
+Making is Decision Making - EECS at Berkeley
+Making is Decision Making
+Maneesh Agrawala   gives his talk, “ Making is Decision Making ” on November 19, 2025.
+EECS Colloquium
+Wednesday, November 19, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Youtube Webinar
+Maneesh Agrawala
+Forest Baskett Professor of Computer Science and Director of the Brown Institute for Media Innovation at Stanford University
+Bio
+Maneesh Agrawala is the  Forest Baskett Professor  of  Computer Science  and Director of the  Brown Institute for Media Innovation  at Stanford University. He is also a consulting AI Scientist at Roblox. He works on  computer graphics ,  human computer interaction  and  visualization . His focus is on investigating how cognitive design principles can be used to improve the effectiveness of audio/visual media. The goals of this work are to discover the design principles and then instantiate them in both interactive and automated design tools. Honors include an  Okawa Foundation Research Grant  (2006), an  Alfred P. Sloan Foundation Fellowship  (2007), an  NSF CAREER Award  (2007), a  SIGGRAPH Significant New Researcher Award  (2008), a  MacArthur Foundation Fellowship  (2009), an  Allen Distinguished Investigator Award  (2014) and induction into the  SIGCHI Academy  (2021). He was named an  ACM Fellow  in 2022.
+Abstract
+Human creation of high-quality content requires making decisions – from coarse, high-level decisions about content and style, to precise low-level decisions about the color of an individual pixel. Such creators often move between various levels of abstraction in this decision making typically starting with a rough initial draft and then iteratively refining it towards a final result. While modern generative AI tools are capable of producing surprisingly high-quality content from simple text prompts, they do not support such design exploration and  iteration. Instead today’s AI tools are black boxes, making it impossible for users to build a mental/conceptual model that can predict how  an input prompt will be transmuted into output content. The lack of predicatability forces users to rely on iterative trial-and-error, repeatedly crafting a prompt, using the AI to generate a result, and then adjusting the prompt to try again. In this talk I’ll outline some features generative AI tools should provide to support exploration and iterative refinement rather than iterative trial-and-error. These features include consistency of the output content from iteration to iteration. hierarchical decomposition of the creation task and support for rapid, reversible actions.  Finally I’ll suggest some approaches we might use to build generative AI tools that provide such features and demonstrate a few implementations of these ideas that we have developed in our lab at Stanford.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

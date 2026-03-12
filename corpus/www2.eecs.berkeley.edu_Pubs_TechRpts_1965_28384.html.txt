@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28384.html
+Nonlinear Programming and Optimal Control | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Programming and Optimal Control
+Nonlinear Programming and Optimal Control
+Pravin P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M129
+September 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-129.pdf
+BibTeX citation:
+@techreport{Varaiya:M129,
+Author = {Varaiya, Pravin P.},
+Title = {Nonlinear Programming and Optimal Control},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28384.html},
+Number = {UCB/ERL M129}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, Pravin P.
+%T Nonlinear Programming and Optimal Control
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M129
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28384.html
+%F Varaiya:M129

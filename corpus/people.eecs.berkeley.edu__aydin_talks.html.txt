@@ -1,0 +1,113 @@
+URL: https://people.eecs.berkeley.edu/~aydin/talks.html
+Aydın Buluç
+Aydın Buluç
+Since May 2020, we try to post some of our new talks to  the PASSION Lab YouTube channel . Some older videos can also be found from the links  here .
+Selected Talks
+[ 1 ]
+GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU.
+ACS HPC and Data Analytics Workshop , Baltimore, MD, 2019
+[ Slides ]
+[ 2 ]
+GraphBLAS and parallelism in machine
+learning & computational genomics.
+LBNL CS Area Review , Berkeley, CA, 2019
+[ Slides ]
+[ 3 ]
+GraphBLAS in Data Analytics and Machine Learning.
+ACS Reverse Site Visit , Berkeley, CA, 2019
+[ Slides ]
+[ 4 ]
+Communication-Avoiding Sparse Matrix Algorithms for Large Graph and Machine Learning Problems.
+SIAM CSE , Spokane, WA, 2019
+[ Slides ]
+[ 5 ]
+Large-scale parallel computing for computational genomics.
+H.Bioinfo-11 , Thessaloniki, Greece, 2018
+[ Slides ]
+[ 6 ]
+Communication-Avoiding Sparse Matrix Primitives for Parallel Machine Learning.
+Sparse Days , Toulouse, France, 2018
+[ Slides ]
+[ 7 ]
+Scaling Parallel Graph Analysis & Machine Learning using Sparse Matrix Operations.
+Seminar at   Michigan State University   and   NERSC , 2018
+[ Slides ]
+[ 8 ]
+Graph algorithms, computational motifs,and GraphBLAS.
+Exascale Computing Project 2nd Annual Meeting, Exagraph Tutorial Session , Knoxville, TN, 2018
+[ Slides ]
+[ 9 ]
+Parallel Algorithms across the GraphBLAS Stack.
+ACS HPC and Data Analytics Workshop , Baltimore, MD, 2017
+[ Slides ]
+[ 10 ]
+Faster parallel Graph BLAS kernels and new graph algorithms in matrix algebra.
+EECS, UC Berkeley , 2016
+[ 2016 Slides ]    and
+HP Labs , Palo Alto, CA, 2015
+[ 2015 Slides ]
+[ 11 ]
+Parallel de novo Assembly of Complex (Meta) Genomes via HipMer.
+HiCOMB @ IPDPS , Chicago, IL, 2016
+[ Slides ]
+[ 12 ]
+Scalable algorithms for genome assembly, alignment, and genetic mapping.
+Georgia Institute of Technology, School of Computational Science and Engineering , Atlanta, GA, 2015
+[ Slides ]
+[ 13 ]
+Distributed-Memory Parallel Algorithms for Graph Traversal and
+Genome Assembly.
+SUNY Stony Brook, SUNY Albany, SUNY Buffalo  , NY, 2014
+[ Slides ]
+[ 14 ]
+The Graph BLAS effort and its implications for Exascale.
+SIAM Workshop on Exascale Applied Mathematics Challenges and Opportunities (EX14)  , Chicago, IL, 2014
+[ Slides ]
+[ 15 ]
+Reducing Communication in Parallel Graph Computations.
+Workshop on Algorithms for Modern Massive Data Sets (MMDS)  , Berkeley, CA, 2014
+[ Slides  |
+Video ]
+[ 16 ]
+High-Productivity and High- Performance Analysis of Filtered Semantic Graphs.
+SIAM Conference on Parallel Computing  , Portland, OR, 2014
+[ Slides ]
+[ 17 ]
+Three Goals in Parallel Graph Computations: High Performance, High Productivity, and Reduced Communication.
+Seminar at the Simons Institute  , Berkeley, CA, 2013.
+[ Video and Slides ]
+[ 18 ]
+A sustainable software stack for parallel graph analysis.
+Discovery 2015: HPC and Cloud Computing Workshop , Berkeley, CA, 2012
+[ slides ]
+[ 19 ]
+Parallel algorithms for sparse matrix product, indexing, and assignment.
+In  Scientific Computing and Matrix Computations Seminar , UC Berkeley 2012.
+[ slides ]
+[ 20 ]
+Parallel Breadth-First Search on Distributed Memory Systems.
+In  Supercomputing , Seattle 2011.
+[ slides ]
+[ 21 ]
+An Overview of the Combinatorial BLAS and Knowledge Discovery Toolbox.
+IBM Exascale Analytics Discussion , 2011.
+[ slides ]
+[ 22 ]
+Scalable Parallel Primitives for Massive Graph Computation.
+Invited talk at  Sandia National Labs, Lawrence Berkeley National Lab, and Argonne National Lab , 2010.
+[ slides ]
+[ 23 ]
+Parallel Sparse Matrix-Vector and Matrix-Transpose-Vector Multiplication Using Compressed Sparse Blocks.
+In  ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)  , Calgary, Canada, 2009.
+[ slides ]
+[ 24 ]
+Challenges and advances in parallel sparse matrix-matrix
+multiplication.
+In  International Conference on Parallel Processing
+(ICPP) , Portland, 2008.
+[ slides ]
+[ 25 ]
+Gaussian Elimination Based Algorithms on the GPU.
+In  International Workshop on Parallel Matrix Algorithms
+and Applications (PMAA) , Neuchâtel, Switzerland, 2008.
+[ slides ]

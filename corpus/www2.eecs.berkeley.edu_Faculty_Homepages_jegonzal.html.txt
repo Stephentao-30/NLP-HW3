@@ -1,0 +1,48 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/jegonzal.html
+Joseph Gonzalez: Faculty Home Page
+Larger Photo
+Joseph Gonzalez
+Associate Professor
+Contact Information
+773 Soda Hall
+jegonzal@eecs.berkeley.edu
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Monica Naputi
+mnaputi@berkeley.edu
+Biography
+I am an associate professor in the EECS department at UC Berkeley and a founding member of the new UC Berkeley RISE Lab. My research interests are at the intersection of machine learning and data systems and my students are working on a wide range of projects including: real-time model serving; machine learning life-cycle management;  accelerated deep learning for computer vision; new cryptographic primitives for federated learning; frameworks for deep reinforcement learning and parameter tuning; model based cloud resource management; software platforms for autonomous vehicles research; computational efficient representations for asynchronous time series; smf frameworks for graph query processing. Co-founder: I am also co-founder of Turi Inc. (formerly GraphLab), which was originally based on my thesis work on the GraphLab and PowerGraph Systems. Turi was recently acquired by Apple Inc. Background: Before joining UC Berkeley as an assistant professor, I was a post-doc in the UC Berkeley AMPLab working on several projects including GraphX (now part of Apache Spark), early versions of MLbase, Velox, and concurrency control for ML. I obtained my PhD from the Machine Learning Department at Carnegie Mellon University where I worked with on Parallel and Distributed Systems for Probabilistic Reasoning.
+Education
+2012, Ph.D., Machine Learning, Carnegie Mellon University
+Research Areas
+Artificial Intelligence (AI)
+Database Management Systems (DBMS)
+Operating Systems & Networking (OSNT)
+Research Centers
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Center for Responsible, Decentralized Intelligence (RDI) (RDI)
+Berkeley Deep Drive (BDD)
+EPIC Data lab (EPIC)
+Sky Computing Lab (Sky)
+Teaching Schedule
+CS 294-194. Research to Startup , Th 17:00-18:29, Soda 310
+R. Garcia, A. Dandamudi, G. Matute, L. Wan, J. Gonzalez, J. M. Hellerstein, and K. Sen, " FlorDB: Multiversion Hindsight Logging for Continuous Training ," March 2024.
+Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, I. Stoica, Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, and I. Stoica, "Representing Long-Range Context for Graph Neural Networks with Global Attention," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, I. Stoica, Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, and I. Stoica, "Representing Long-Range Context for Graph Neural Networks with Global Attention," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+E. Liang*, Z. Wu*, M. Luo, S. Mika, J. Gonzalez, and I. Stoica, " RLlib Flow: Distributed Reinforcement Learning is a Dataflow Problem ," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+R. Garcia, E. Liu, V. Sreekanti, B. Yan, A. Dandamudi, J. Gonzalez, J. M. Hellerstein, and K. Sen, " Hindsight Logging for Model Training ," in  Proceedings of the VLDB Endowment , Vol. 14, 2021, pp. 682-693.
+P. Jain, A. Jain, A. Nrusimha, A. Gholami, P. Abbeel, K. Keutzer, I. Stoica, and J. Gonzalez, " Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization ," in  Proceedings of Machine Learning and Systems 2020 , Machine Learning and Systems, 2020, pp. 497--511.
+X. Pan, J. E. Gonzalez, S. Jegelka, T. Broderick, and M. Jordan, " Optimistic concurrency control for distributed unsupervised learning ," in  Advances in Neural Information Processing Systems 26 , 2013, pp. 1403--1411.
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2023
+VLDB Test of Time Award ,
+2023
+Okawa Research Grant ,
+2018
+NASA Space Act Award ,
+2005
+NASA Inventions and Contributions Board Award ,
+2005

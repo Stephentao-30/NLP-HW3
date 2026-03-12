@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29035.html
+Fuzzy Punctuation or the Continuum of Grammaticality
+Thomas T. Ballmer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M590
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-590.pdf
+BibTeX citation:
+@techreport{Ballmer:M590,
+Author= {Ballmer, Thomas T.},
+Title= {Fuzzy Punctuation or the Continuum of Grammaticality},
+Year= {1976},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29035.html},
+Number= {UCB/ERL M590},
+}
+EndNote citation:
+%0 Report
+%A Ballmer, Thomas T.
+%T Fuzzy Punctuation or the Continuum of Grammaticality
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M590
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29035.html
+%F Ballmer:M590

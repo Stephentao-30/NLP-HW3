@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29130.html
+Certain Considerations on the Selection of Models for Biological Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Certain Considerations on the Selection of Models for Biological Systems
+Certain Considerations on the Selection of Models for Biological Systems
+T. Pavlidis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M13
+March 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-13.pdf
+BibTeX citation:
+@techreport{Pavlidis:M13,
+Author = {Pavlidis, T.},
+Title = {Certain Considerations on the Selection of Models for Biological Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29130.html},
+Number = {UCB/ERL M13}
+}
+EndNote citation:
+%0 Report
+%A Pavlidis, T.
+%T Certain Considerations on the Selection of Models for Biological Systems
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29130.html
+%F Pavlidis:M13

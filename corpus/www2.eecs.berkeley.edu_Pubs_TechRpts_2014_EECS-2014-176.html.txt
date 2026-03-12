@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-176.html
+Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation
+Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation
+Timothy Hunter
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-176
+November 9, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-176.pdf
+Large physical systems are increasingly prevalent, and designing estimation strategies for them has become both a practical necessity and a complicated problem. Their sensing infrastructure is usually ad-hoc, and the estimate of interest is often a complex function of the data. At the same time, computing power is rapidly becoming a commodity. We show with the study of two estimation tasks in urban transportation how the proper design of algorithms can lead to significant gains in scalability compared to existing solutions.
+A common problem in trip planning is to make a given deadline such as arriving at the airport within an hour. Existing routing services optimize for the expected time of arrival, but do not provide the most reliable route, which accounts for the variability in travel times. Providing statistical information is even harder for trips in cities which undergo a lot of variability. This thesis aims at building scalable algorithms for inferring statistical distributions of travel time over very large road networks, using GPS points from vehicles in real-time. We consider two complementary algorithms that differ in the characteristics of the GPS data input, and in the complexity of the model: a simpler streaming Expectation-Maximization algorithm that leverages very large volumes of extremely noisy data, and a novel Markov Model-Gaussian Markov Random Field that extracts global statistical correlations from high-frequency, privacy-preserving trajectories.
+These two algorithms have been implemented and deployed in a pipeline that takes streams of GPS data as input, and produces distributions of travel times accessible as output. This pipeline is shown to scale on a large cluster of machines and can process tens of millions of GPS observations from an area that comprises hundreds of thousands of road segments. This is to our knowledge the first research framework that considers in an integrated fashion the problem of statistical estimation of traffic at a very large scale from streams of GPS data.
+Advisor:  Alexandre Bayen and Pieter Abbeel
+BibTeX citation:
+@phdthesis{Hunter:EECS-2014-176,
+Author = {Hunter, Timothy},
+Title = {Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-176.html},
+Number = {UCB/EECS-2014-176},
+Abstract = {Large physical systems are increasingly prevalent, and designing estimation strategies for them has become both a practical necessity and a complicated problem. Their sensing infrastructure is usually ad-hoc, and the estimate of interest is often a complex function of the data. At the same time, computing power is rapidly becoming a commodity. We show with the study of two estimation tasks in urban transportation how the proper design of algorithms can lead to significant gains in scalability compared to existing solutions.
+A common problem in trip planning is to make a given deadline such as arriving at the airport within an hour. Existing routing services optimize for the expected time of arrival, but do not provide the most reliable route, which accounts for the variability in travel times. Providing statistical information is even harder for trips in cities which undergo a lot of variability. This thesis aims at building scalable algorithms for inferring statistical distributions of travel time over very large road networks, using GPS points from vehicles in real-time. We consider two complementary algorithms that differ in the characteristics of the GPS data input, and in the complexity of the model: a simpler streaming Expectation-Maximization algorithm that leverages very large volumes of extremely noisy data, and a novel Markov Model-Gaussian Markov Random Field that extracts global statistical correlations from high-frequency, privacy-preserving trajectories.
+These two algorithms have been implemented and deployed in a pipeline that takes streams of GPS data as input, and produces distributions of travel times accessible as output. This pipeline is shown to scale on a large cluster of machines and can process tens of millions of GPS observations from an area that comprises hundreds of thousands of road segments. This is to our knowledge the first research framework that considers in an integrated fashion the problem of statistical estimation of traffic at a very large scale from streams of GPS data.}
+}
+EndNote citation:
+%0 Thesis
+%A Hunter, Timothy
+%T Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 November 9
+%@ UCB/EECS-2014-176
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-176.html
+%F Hunter:EECS-2014-176

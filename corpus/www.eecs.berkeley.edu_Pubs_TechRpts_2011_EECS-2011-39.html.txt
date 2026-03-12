@@ -1,0 +1,93 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-39.html
+Structural and Algorithmic Properties of Static and Mobile Random Geometric Graphs
+Alexandre Stauffer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-39
+May 5,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-39.pdf
+We study fundamental problems for static and mobile networks.
+First, we consider the random geometric graph model, which is a well-known model for static
+wireless networks. In this model,
+n nodes are distributed independently and uniformly at random
+in the d-dimensional torus of volume n and edges are added between
+pairs of nodes whose Euclidean distance is at most some parameter r. We consider the case where r is a sufficiently large constant
+so that a so-called giant component (a connected component with \Theta(n) nodes) exists with high probability.
+In this setting, we show that the graph distance between every pair of
+nodes whose Euclidean distance is sufficiently large is only a constant factor larger than their Euclidean distance.
+This result gives, as a corollary, that the diameter of the giant component is \Theta(n^{1/d}/r).
+Then, we apply this result to analyze the performance of a broadcast algorithm known as the push algorithm.
+In this algorithm, at each discrete time step, each informed node chooses
+a neighbor independently and uniformly at random and informs it. We show that the push algorithm informs all nodes of the giant component
+of a random geometric graph within a number of steps that is only a constant factor larger then the diameter of the giant component.
+In the second part of the thesis, we consider a model of mobile graphs that we call mobile geometric graphs, and which is an extension of
+the random geometric graph model to the setting where nodes are not static but are moving in space in continuous time.
+In this model, we start with a random geometric graph and let the nodes move as independent Brownian motions.
+Then, at any given time, there exists an edge between every pair of nodes whose Euclidean distance at that time
+is at most r. This model has been recently used as a model for mobile wireless networks.
+We study four fundamental problems in this model: detection (the time until a target point---fixed or moving---is
+within distance r of some node of the graph); coverage (the time until all points inside
+a finite box are detected by the graph);
+percolation (the time until a given node belongs to the giant component of the graph) and
+broadcast (the time until all nodes of the graph receive a piece of information that was initially known by a single node).
+We obtain precise asymptotics for these quantities by combining ideas from stochastic geometry,
+coupling and multi-scale analysis.
+Finally, in the last part of the thesis, we revisit the push algorithm described above and study its performance in general regular graphs.
+Our goal is to understand the relation between the performance of the push algorithm and the vertex expansion of the graph.
+We prove an upper bound for the runtime of this algorithm that depends on the vertex expansion of the graph and is tight up to polylogarithmic factors.
+Then, we show that there exists a substantial difference between the impact of vertex expansion and edge expansion on the performance of the push algorithm.
+In particular, we prove the existence of regular graphs (which are also vertex transitive) that have constant vertex expansion and for which the runtime of
+the push algorithm is a factor of \Omega(\log n) slower than on any regular graph with constant edge expansion.
+Advisors:  Alistair Sinclair
+BibTeX citation:
+@phdthesis{Stauffer:EECS-2011-39,
+Author= {Stauffer, Alexandre},
+Title= {Structural and Algorithmic Properties of Static and Mobile Random Geometric Graphs},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-39.html},
+Number= {UCB/EECS-2011-39},
+Abstract= {We study fundamental problems for static and mobile networks.
+First, we consider the random geometric graph model, which is a well-known model for static
+wireless networks. In this model,
+n nodes are distributed independently and uniformly at random
+in the d-dimensional torus of volume n and edges are added between
+pairs of nodes whose Euclidean distance is at most some parameter r. We consider the case where r is a sufficiently large constant
+so that a so-called giant component (a connected component with \Theta(n) nodes) exists with high probability.
+In this setting, we show that the graph distance between every pair of
+nodes whose Euclidean distance is sufficiently large is only a constant factor larger than their Euclidean distance.
+This result gives, as a corollary, that the diameter of the giant component is \Theta(n^{1/d}/r).
+Then, we apply this result to analyze the performance of a broadcast algorithm known as the push algorithm.
+In this algorithm, at each discrete time step, each informed node chooses
+a neighbor independently and uniformly at random and informs it. We show that the push algorithm informs all nodes of the giant component
+of a random geometric graph within a number of steps that is only a constant factor larger then the diameter of the giant component.
+In the second part of the thesis, we consider a model of mobile graphs that we call mobile geometric graphs, and which is an extension of
+the random geometric graph model to the setting where nodes are not static but are moving in space in continuous time.
+In this model, we start with a random geometric graph and let the nodes move as independent Brownian motions.
+Then, at any given time, there exists an edge between every pair of nodes whose Euclidean distance at that time
+is at most r. This model has been recently used as a model for mobile wireless networks.
+We study four fundamental problems in this model: detection (the time until a target point---fixed or moving---is
+within distance r of some node of the graph); coverage (the time until all points inside
+a finite box are detected by the graph);
+percolation (the time until a given node belongs to the giant component of the graph) and
+broadcast (the time until all nodes of the graph receive a piece of information that was initially known by a single node).
+We obtain precise asymptotics for these quantities by combining ideas from stochastic geometry,
+coupling and multi-scale analysis.
+Finally, in the last part of the thesis, we revisit the push algorithm described above and study its performance in general regular graphs.
+Our goal is to understand the relation between the performance of the push algorithm and the vertex expansion of the graph.
+We prove an upper bound for the runtime of this algorithm that depends on the vertex expansion of the graph and is tight up to polylogarithmic factors.
+Then, we show that there exists a substantial difference between the impact of vertex expansion and edge expansion on the performance of the push algorithm.
+In particular, we prove the existence of regular graphs (which are also vertex transitive) that have constant vertex expansion and for which the runtime of
+the push algorithm is a factor of \Omega(\log n) slower than on any regular graph with constant edge expansion.},
+}
+EndNote citation:
+%0 Thesis
+%A Stauffer, Alexandre
+%T Structural and Algorithmic Properties of Static and Mobile Random Geometric Graphs
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 5
+%@ UCB/EECS-2011-39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-39.html
+%F Stauffer:EECS-2011-39

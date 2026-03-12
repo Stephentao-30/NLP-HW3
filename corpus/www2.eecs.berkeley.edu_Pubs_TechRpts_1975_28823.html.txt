@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28823.html
+NDPROG | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+NDPROG
+NDPROG
+Ronald I. Becker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M537
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-537.pdf
+BibTeX citation:
+@techreport{Becker:M537,
+Author = {Becker, Ronald I.},
+Title = {NDPROG},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28823.html},
+Number = {UCB/ERL M537}
+}
+EndNote citation:
+%0 Report
+%A Becker, Ronald I.
+%T NDPROG
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M537
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28823.html
+%F Becker:M537

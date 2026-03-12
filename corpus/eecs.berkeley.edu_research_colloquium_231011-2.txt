@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/231011-2
+Toward reverse engineering the deep networks of the human brain - EECS at Berkeley
+Toward reverse engineering the deep networks of the human brain
+EECS Colloquium
+Wednesday, October 11, 2023
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Jack Gallant
+Professor
+Department of Psychology
+UC Berkeley
+Jack Gallant speaks on "Toward reverse engineering the deep networks of the human brain" on 10/11/23
+Abstract
+The human brain is a deep neural network. Though it shares some similarities with deep networks used in ML/AI, the architecture, operating principles, and capabilities of the brain are far beyond any current architected deep network. It is well known that architected deep networks used in ML/AI are notoriously difficult to interpret. Because the brain evolved through evolution rather than being architected by humans, understanding the human brain presents a much greater challenge. In this talk, I will review work from my lab aimed at reverse engineering human brain networks. I will summarize the important questions in the study of human brain networks; I will review the fundamental measurement limitations that slow progress in neuroscience and the consequent data trade-offs. I will explain the encoding and decoding approaches to understanding human brain networks that have been the main focus of work in my lab. I will review some of our work in vision, navigation, language comprehension and/or conceptual representation. Finally, I will cover potential medical applications of this work, and offer some suggestions for how ML/AI labs could contribute to this effort.
+Biography
+Jack Gallant is Chancellor’s Professor and Class of 1940 Chair at the University of California at Berkeley. He holds appointments in the Departments of Psychology, Neuroscience, and Electrical Engineering & Computer Sciences. He is a senior member of the IEEE, and he was the 2022 Chair of the IEEE Brain Community. Professor Gallant’s research focuses on high-resolution functional mapping and quantitative computational modeling of human brain networks. His lab has created the most detailed current functional maps of human brain networks mediating vision, language comprehension and navigation, and they have used these maps to decode and reconstruct perceptual experiences directly from brain activity. Further information about ongoing work in the Gallant lab, links to talks and papers and links to online interactive brain viewers can be found at the lab web page:  http://gallantlab.org .
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

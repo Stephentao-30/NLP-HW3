@@ -1,0 +1,10 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-35.html
+Model Engineering using Multimodeling
+THIS REPORT HAS BEEN WITHDRAWN
+Christopher Brooks and Chihhong Patrick Cheng and Thomas Huining Feng and Edward A. Lee and Reinhard von Hanxleden
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2008-35
+April 14, 2008
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2008-35.pdf
+We study the simultaneous use of multiple modeling techniques in the design of embedded systems. We begin with a pre-existing Statecharts model of a simple case study, a traffic light for a pedestrian crossing. This model combines two distinct models of computation (MoCs), finite state machines (FSMs) and synchronous/reactive (SR). We add an additional MoC to the mix, a discrete-event (DE) model of the environment in which the traffic light operates, including a simple fault model. We construct a second model of a hardware deployment. This exercise reveals hidden assumptions in the original model about implementation that require refactoring to get a distributed deployment model. We show that the portions of the models defining the control logic of the lights can be shared between the functional and deployment models using actor-oriented classes. This eases maintenance of the models. Finally, we show that models used for verification are abstractions of the functional models that can be synthesized from the other models, suggesting practical design-for-verification techniques. The result is that this simple example uses three distinct models of the system (functional, deployment, verification), two of which hierarchically combine distinct modeling techniques (DE, SR, FSM).
+Author Comments:

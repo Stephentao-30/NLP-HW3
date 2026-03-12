@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-235.html
+Unsupervised Analysis of Structured Human Artifacts | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Unsupervised Analysis of Structured Human Artifacts
+Unsupervised Analysis of Structured Human Artifacts
+Taylor Berg-Kirkpatrick
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-235
+December 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-235.pdf
+The presence of hidden structure in human data—including natural language but also sources like music, historical documents, and other complex artifacts—makes this data extremely difficult to analyze. In this thesis, we develop unsupervised methods that can better cope with hidden structure across several domains of human data. We accomplish this by incorporating rich domain knowledge using two complementary approaches: (1) we develop detailed generative models that more faithfully describe how data originated and (2) we develop structured priors that create useful inductive bias.
+First, we find that a variety of transcription tasks—for example, both historical document transcription and polyphonic music transcription—can be viewed as linguistic decipherment problems. By building a detailed generative model of the relationship between the input (e.g. an image of a historical document) and its transcription (the text the document contains), we are able to learn these models in a completely unsupervised fashion—without ever seeing an example of an input annotated with its transcription—effectively deciphering the hidden correspondence. The resulting systems have turned out not only to work well for both tasks—achieving state-of-the-art-results—but to outperform their supervised counterparts.
+Next, for a range of linguistic analysis tasks—for example, both word alignment and grammar induction—we find that structured priors based on linguistically-motivated features can improve upon state-of-the-art generative models. Further, by coupling model parameters in a phylogeny-structured prior across multiple languages, we develop an approach to multilingual grammar induction that substantially outperforms independent learning.
+Advisor:  Daniel Klein
+BibTeX citation:
+@phdthesis{Berg-Kirkpatrick:EECS-2015-235,
+Author = {Berg-Kirkpatrick, Taylor},
+Title = {Unsupervised Analysis of Structured Human Artifacts},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-235.html},
+Number = {UCB/EECS-2015-235},
+Abstract = {The presence of hidden structure in human data—including natural language but also sources like music, historical documents, and other complex artifacts—makes this data extremely difficult to analyze. In this thesis, we develop unsupervised methods that can better cope with hidden structure across several domains of human data. We accomplish this by incorporating rich domain knowledge using two complementary approaches: (1) we develop detailed generative models that more faithfully describe how data originated and (2) we develop structured priors that create useful inductive bias.
+First, we find that a variety of transcription tasks—for example, both historical document transcription and polyphonic music transcription—can be viewed as linguistic decipherment problems. By building a detailed generative model of the relationship between the input (e.g. an image of a historical document) and its transcription (the text the document contains), we are able to learn these models in a completely unsupervised fashion—without ever seeing an example of an input annotated with its transcription—effectively deciphering the hidden correspondence. The resulting systems have turned out not only to work well for both tasks—achieving state-of-the-art-results—but to outperform their supervised counterparts.
+Next, for a range of linguistic analysis tasks—for example, both word alignment and grammar induction—we find that structured priors based on linguistically-motivated features can improve upon state-of-the-art generative models. Further, by coupling model parameters in a phylogeny-structured prior across multiple languages, we develop an approach to multilingual grammar induction that substantially outperforms independent learning.}
+}
+EndNote citation:
+%0 Thesis
+%A Berg-Kirkpatrick, Taylor
+%T Unsupervised Analysis of Structured Human Artifacts
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 15
+%@ UCB/EECS-2015-235
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-235.html
+%F Berg-Kirkpatrick:EECS-2015-235

@@ -1,0 +1,74 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974
+Technical Reports - 1974
+A Martingale Approach to Queues  (M513) A.F. Martins-Neto and E. Wong
+Easily Inferred Sequences  (M499) Dana Angluin
+The Feedback Interconnection of Multivariable Systems: Simplifying Theorems for Stability  (M492) C.A. Desoer and W.S. Chan
+On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding  (M491) E. Polak
+A Lower Bound on the Estimation Error For Certain Diffusion Processes  (M490) Ben Zion Bobrovsky and Moshe Zakai
+On the Use of Approximations in Algorithms for Optimization Problems with Equality and Inequality Contraints  (M489) H. Mukai and E. Polak
+CUPID- The Friendly Query Language  (M487) Nancy McDonald and Michael Stonebraker
+Non-Negativity Test of Multidimensional Hermitian Matrices  (M486) N.K. Bose
+Completeness Results for the Equivalence of Recursive Schemas  (M485) Bruno Courcelle and Jean Vuillemin
+The Theory and Applications of the Inners  (M484) E. I. Jury
+Algorithmic Aspects of Vertex Elimination on Graphs  (M483) Donald J. Rose and R. Endre Tarjan
+Optimizing Architecture in Parallel Processing  (M482) Kwang Hae Kim
+Computation of Functions of Triangular Matrices  (M481) B.N. Parlett
+The Revival of Cities in Medieval Europe  (M480) Alistair I. Mees
+Fuzzy Logic and Approximate Reasoning  (M479) L.A. Zadeh
+INGRES- A Relational Data Base System (Revised)  (M477) G.D. Held, M.R. Stonebraker and E. Wong
+On the Time Required to Recognize Properties of Graphs from Their Adjacency Matrices (Revised)  (M476) Ronald L. Rivest and Jean Vuillemin
+Martingale Approach to Waiting Line Problems  (M475) Antonio Felix Martins-Neto
+A Fuzzy-Algorithmic Approach to the Definition of Complex or Imprecise Concepts  (M474) L.A. Zadeh
+High Level Integrity Assurance in Relational Data Base Management Systems  (M473) Michael Stonebraker
+On the Number of Argument Evaluations Required to Compute Boolean Functions  (M472) Ronald L. Rivest and Jean Vuillemin
+Solving Piecewise-Linear Equations for Resistive Networks  (M471) M.J. Chien and E.S. Kuh
+A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits  (M470) Leon O. Chua and Niantsu N. Wang
+Application of the Relational Model to Record Indexing and Retrieval  (M469) Jenn-Hann Liou
+Computer Assisted Security System Design  (M468) Don Clements and Lance J. Hoffman
+An Analysis of Lanczos Algorithms for Symmetric Matrices  (M467) W. Kahan and B. Parlett
+Fortran Automatic Code Evaluation System (FACES) Part I  (M466) C.V. Ramamoorthy and S.F. Ho
+Latent Components in the Electrocardiogram  (M465) Martin Graham
+Local Public Goods: A Reexamination of the Tiebout Model  (M464)  Urban Systems Group
+Public Goods with Consumption Indivisibility  (M463)  Urban Systems Group
+Economic Theories and Empirical Models on Location Choice and Land Use: A Survey  (M461) Roland Artle and Pravin Varaiya
+Feedback Between Stationary Stochastic Processes  (M460) P.E. Caines and C.W. Chan
+On the Existence of Positive Rent Gradients in Thunen Models  (M459) Roland Artle and Pravin Varaiya
+On the Uniqueness of the Time Domain Solution of Nonlinear Dynamic Networks and Systems  (M458) T. Roska
+An Algorithm For Optimization Problems with Functional Inequality Constraints  (M456) E. Polak and D.Q. Mayne
+A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised)  (M455) H. Mukai and E. Polak
+On the Design of Rent Control  (M454) Pravin Varaiya
+Cost of Execution-Time Data-Development File Access  (M453) Joseph Kennedy
+A Two level Disk Protection System  (M452) Frank Sindelar and Lance J. Hoffman
+Prefix Precedence Grammar  (M451) Jeff Nee Yang
+Flemming's Randomized Game and His Parabolic Partial Differential Equation  (M450) John M. Danskin
+Newton Derived Methods for Nonlinear Equations and Inequalities  (M449) E. Polak and I. Teodoru
+Optimal Control of Jump Processes  (M448) Rene K. Boel
+N-Person Stochastic Differential Games  (M447) Pravin Varaiya
+On the Stability of the A-Matrix Inside the Unit Circle  (M446) E.I. Jury and S. Gutman
+The ARPA-SUR Phonological Rules  (M445) Alan Cole
+Security Ratings for Computer Systems  (M444) Lance J. Hoffman
+Generalizing the Notion of a Periodic Sequence  (M443) R.M. MacGregor
+Phonological Variation  (M442) Michael H. O'Malley and Malcah Yaeger
+Augmentation Problem  (M441) Kapali P. Eswaran and R. Endre Tarjan
+A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices  (M440) J.T. Panttaja
+Comparative Study of Real Estate Law and Protection Systems  (M439) Bernard L. Peuto
+Access Control in a Relational Data Base Management System by Query Modification  (M438) Michael Stonebraker and Eugene Wong
+A Unified Formulation For the Quadratic Integral (Sum)  (M437) S. Gutman
+Preliminary Design of INGRES (Part II)  (M436) Nancy H. McDonald, Michael Stonebraker and Eugene Wong
+Preliminary Design of INGRES (Part I)  (M435) Nancy H. McDonald, Michael Stonebraker and Eugene Wong
+Efficiency of a Good But Not Linear Set Union Algorithm  (M434) Robert Endre Tarjan
+A New Algorithm For Finding Weak Components  (M432) Robert Endre Tarjan
+Molecular Dissociation in the Electron Microscope  (M431) Mihir Parikh
+Reliability and Integrity of Large Computer Programs  (M430) C.V. Ramamoorthy, R.C. Cheung and K.H. Kim
+Two Special Cases of the Assignment Problem  (M429) Richard M. Karp and Shuo-Yen R. Li
+Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum  (M428) J. Rissanen and P.E. Caines
+A Note on Finding the Bridges of a Graph  (M427) R. Endre Tarjan
+Computable Organizations-Representation by Sequential Machine Theory  (M426) Hans W. Gottinger
+High Level Iterators and a Method for Automatically Designing Data Structure Representation  (M425) Jay Earley
+Related Controls and the Convergence of Optimal Control Algorithms  (M424) L.J. Williamson and E. Polak
+Filtering of Processes Which Have Continuous Noise  (M421) Jan Van Schuppen and Pravin Varaiya
+Spectra of Nearly Hermitian Matrices  (M420) W. Kahan
+Feedback Vertex and Edge Sets of a Digraph and Applications to Sparse Matrices  (M419) L.K. Cheung and E.S. Kuh
+On the Analysis of Large-Scale Systems  (M418) L.A. Zadeh
+Recursive Generation and Computation of Fast Unitary Transforms  (M415) Bernard J. L. Fino
+Transformation of Local Martingales Under a Change of Law  (M385) Jan H. Van Schuppen and Eugene Wong

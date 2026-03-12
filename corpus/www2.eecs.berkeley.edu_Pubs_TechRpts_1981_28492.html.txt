@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28492.html
+Fast Algorithms for VLSI Layout Rule Checking
+Dale Skeen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/74
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-74.pdf
+BibTeX citation:
+@techreport{Skeen:M81/74,
+Author= {Skeen, Dale},
+Title= {Fast Algorithms for VLSI Layout Rule Checking},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28492.html},
+Number= {UCB/ERL M81/74},
+}
+EndNote citation:
+%0 Report
+%A Skeen, Dale
+%T Fast Algorithms for VLSI Layout Rule Checking
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/74
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28492.html
+%F Skeen:M81/74

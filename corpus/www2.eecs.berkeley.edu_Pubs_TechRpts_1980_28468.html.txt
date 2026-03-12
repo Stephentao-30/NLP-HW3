@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28468.html
+Sensitivity Analysis for Combinatorial Optimization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Sensitivity Analysis for Combinatorial Optimization
+Sensitivity Analysis for Combinatorial Optimization
+Daniel Mier Gusfield
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/22
+May 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-22.pdf
+BibTeX citation:
+@techreport{Gusfield:M80/22,
+Author = {Gusfield, Daniel Mier},
+Title = {Sensitivity Analysis for Combinatorial Optimization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28468.html},
+Number = {UCB/ERL M80/22}
+}
+EndNote citation:
+%0 Report
+%A Gusfield, Daniel Mier
+%T Sensitivity Analysis for Combinatorial Optimization
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28468.html
+%F Gusfield:M80/22

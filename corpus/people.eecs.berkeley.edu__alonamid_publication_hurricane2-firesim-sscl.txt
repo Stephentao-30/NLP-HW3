@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication/hurricane2-firesim-sscl
+Programmable Fine-Grained Power Management and System Analysis of RISC-V Vector Processors in 28-nm FD-SOI | Alon Amid
+Search
+Programmable Fine-Grained Power Management and System Analysis of RISC-V Vector Processors in 28-nm FD-SOI
+Colin Schmidt ,  Alon Amid ,  John Wright ,  Ben Keller ,  Howard Mao ,  Keertana Settaluri ,  Jarno Salomaa ,  Jerry Zhao ,  Albert Ou ,  Krste Asanovic ,  Borivoje Nikolic
+July 2020
+Preprint
+PDF
+Abstract
+This letter presents a RISC-V System-on-Chip (SoC) with fully integrated switched-capacitor DC–DC converters, adaptive clock generators, mixed-precision floating-point vector accelerators, a 5-Gb/s serial memory interface, and an integrated power management unit (PMU) manufactured in 28-nm FD-SOI. The vector accelerator improves performance and energy per task on a matrix multiplication kernel by 15x and 13x, respectively, and end-to-end performance on machine learning and graph analytical workloads by 8x–12x. Inclusion of microarchitectural counters and fine spatial power-domain granularity facilitate the predictive power-management algorithms that reduce energy per task by 13%–22% compared to the baseline scalar processor. System level simulations of a range of SoC architectural variations with multiple cores and vector accelerators complement the silicon measurements.
+Type
+Journal article
+Publication
+In  IEEE Solid-State Circuits Letters , vol. 3, pp. 210-213, Aug. 2020.
+Cite
+Copy
+Download

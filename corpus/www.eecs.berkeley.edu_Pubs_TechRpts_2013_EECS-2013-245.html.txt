@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-245.html
+Band-Edge Steepness Obtained from Esaki/Backward Diode Current-Voltage Characteristics
+Sapan Agarwal and Eli Yablonovitch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-245
+December 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-245.pdf
+While science has good knowledge of semiconductor bandgaps, there is not much information regarding the steepness of the band-edges. We find that a plot of absolute conductance, I/V versus voltage, V, in an Esaki diode or a backward diode will reveal a best limit for the band tails, defined by the tunneling joint density of states of the two band-edges. This joint density of states will give information about the prospective subthreshold swing voltage that could be expected in a tunneling field effect transistor. To date, published I-V characteristics indicate that the joint band-tail density of states is not steep enough to achieve less than 60mV/decade. Heavy doping inhomogeneity, among other inhomogeneities, result in a gradual density of states extending into the band gap. The steepest measured tunnel diodes have had a tunneling joint density of states greater than 90mV/decade.
+BibTeX citation:
+@techreport{Agarwal:EECS-2013-245,
+Author= {Agarwal, Sapan and Yablonovitch, Eli},
+Title= {Band-Edge Steepness Obtained from Esaki/Backward Diode Current-Voltage Characteristics},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-245.html},
+Number= {UCB/EECS-2013-245},
+Abstract= {While science has good knowledge of semiconductor bandgaps, there is not much information regarding the steepness of the band-edges. We find that a plot of absolute conductance, I/V versus voltage, V, in an Esaki diode or a backward diode will reveal a best limit for the band tails, defined by the tunneling joint density of states of the two band-edges. This joint density of states will give information about the prospective subthreshold swing voltage that could be expected in a tunneling field effect transistor. To date, published I-V characteristics indicate that the joint band-tail density of states is not steep enough to achieve less than 60mV/decade. Heavy doping inhomogeneity, among other inhomogeneities, result in a gradual density of states extending into the band gap. The steepest measured tunnel diodes have had a tunneling joint density of states greater than 90mV/decade.},
+}
+EndNote citation:
+%0 Report
+%A Agarwal, Sapan
+%A Yablonovitch, Eli
+%T Band-Edge Steepness Obtained from Esaki/Backward Diode Current-Voltage Characteristics
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 31
+%@ UCB/EECS-2013-245
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-245.html
+%F Agarwal:EECS-2013-245

@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/microrelays-path-making-bigger-quantum-computers
+Microrelays: On the path to making bigger quantum computers - EECS at Berkeley
+Research on Microrelays presented at the IEEE International Electron Devices Meeting (IEDM) by Prof. Tsu-Jae King Liu and alumna/graduate student, Xiaoer Hu (M.S. ’18), is highlighted in an IEEE Spectrum article titled “4 Ways to Make Bigger Quantum Computers.”  It is difficult to scale quantum computers because quantum-computer processors must operate inside cryogenic enclosures at near absolute zero, but the electronics needed for readout and control don’t work at such temperatures and must reside outside the refrigerator.  King Liu and Hu have developed micrometer-scale electromechanical relays as ultralow-power alternatives to transistors that operate better when cooled to 4 kelvins than at room temperature.  Freezing temperatures solve two of the mechanical problems the devices encounter:  the reaction of ambient oxygen on electrode surfaces, and the way that microscale relays tend to stick together.  “We didn’t suspect ahead of time that these devices would operate so well at cryogenic temperatures,” says King Liu. “In retrospect, we should have.”
+Categories
+Alumni
+Faculty
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,184 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009
+Technical Reports - 2009
+Spectrum Sharing by Cognitive Radios: Opportunities and Challenges  (EECS-2009-192) Rahul Tandra
+Roll Printed Electronics: Development and Scaling of Gravure Printing Techniques  (EECS-2009-191) Alejandro De la Fuente Vornbrock
+Large-Scale Variability Characterization and Robust Design Techniques for Nanoscale SRAM  (EECS-2009-190) Zheng Guo
+Designing Multisocket Systems with Silicon Photonics  (EECS-2009-189) Scott Beamer
+Designing Sustainable Rural Wireless Networks for Developing Regions  (EECS-2009-188) Sonesh Surana
+An Extensible and Retargetable Code Generation Framework for Actor Models  (EECS-2009-187) Man-Kit Leung
+Exploiting Interference through Algebraic Structure  (EECS-2009-186) Bobak Anthony Nazer
+Protecting Browsers from Extension Vulnerabilities  (EECS-2009-185) Adam Barth, Adrienne Porter Felt, Prateek Saxena and Aaron Boodman
+Design of a system for cm-range wireless communication  (EECS-2009-184) Simone Gambini, Jan M. Rabaey and Elad Alon
+Improving MapReduce Performance in Heterogeneous Environments  (EECS-2009-183) Andrew Konwinski
+MOSFET Replacement Devices for Energy-Efficient Digital Integrated Circuits  (EECS-2009-182) Hei Kam
+Predicting and Optimizing System Utilization and Performance via Statistical Machine Learning  (EECS-2009-181) Archana Sulochana Ganapathi
+Accurate Real-Time Reconstruction of Distant Scenes Using Computer Vision: The Recursive Multi-Frame Planar Parallax Algorithm  (EECS-2009-180) Todd Templeton
+Re-architecting DRAM with Monolithically Integrated Silicon Photonics  (EECS-2009-179) Scott Beamer, Chen Sun, Yong-jin Kwon, Ajay Joshi, Christopher Batten, Vladimir Stojanovic and Krste Asanović
+Auto-tuning Stencil Codes for Cache-Based Multicore Platforms  (EECS-2009-177) Kaushik Datta
+Local Constraints in Combinatorial Optimization  (EECS-2009-175) Madhur Tulsiani
+Polythiophene Transistors as Gas Sensors for Electronic Nose Applications  (EECS-2009-174) Frank Jason Liao
+Dedalus: Datalog in Time and Space  (EECS-2009-173) Peter Alvaro, William Marczak, Neil Conway, Joseph M. Hellerstein, David Maier and Russell C Sears
+Preliminary Studies on de novo Assembly with Short Reads  (EECS-2009-172) Nanheng Wu
+Biomimetic, Polymeric Transistor-based Biosensor Technology  (EECS-2009-171) Jim Chih-Min Cheng
+Design, Implementation and Evaluation of a Storage System for  Delay-Tolerant Networks  (EECS-2009-170) Bowei Du
+Sparse signal recovery using sparse random projections  (EECS-2009-169) Wei Wang
+Automatically Tuning Collective Communication for One-Sided Programming Models  (EECS-2009-168) Rajesh Nishtala
+A Methodology for Robust System-Level Design: Theoretical Foundations and Preliminary Case-Study  (EECS-2009-167) Pierluigi Nuzzo and Alberto L. Sangiovanni-Vincentelli
+W-BOOM: a Framework for Automatic Management of Wireless Sensor Networks in Building Automation and Control  (EECS-2009-166) Pierluigi Nuzzo, Alessandro Pinto and Alberto L. Sangiovanni-Vincentelli
+Optoelectronic Manipulation, Assembly, and Patterning of Nanoparticles  (EECS-2009-165) Arash Jamshidi and Ming C. Wu
+Contributions to the Study of Autonomous Chaotic Circuits and Cellular Automata  (EECS-2009-164) Bharathwaj Muthuswamy
+0.35 µm CMOS PROCESS ON SIX-INCH WAFERS, Baseline Report VII.  (EECS-2009-163) Laszlo Petho
+From Spiral to Spline: Optimal Techniques in Interactive Curve Design  (EECS-2009-162) Raphael Linus Levien
+Performance Analysis of a 1-bit Feedback Beamforming Algorithm  (EECS-2009-161) Sherman Ng and Mark Johnson
+Statistics-Driven Workload Modeling for the Cloud  (EECS-2009-160) Archana Sulochana Ganapathi, Yanpei Chen, Armando Fox, Randy H. Katz and David A. Patterson
+Fast and Accurate Digit Classification  (EECS-2009-159) Subhransu Maji and Jitendra Malik
+Nexus: A Common Substrate for Cluster Computing  (EECS-2009-158) Benjamin Hindman, Andrew Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Scott Shenker and Ion Stoica
+Dynamic Test Generation for Large Binary Programs  (EECS-2009-157) David Alexander Molnar
+Implementing Memristor Based Chaotic Circuits  (EECS-2009-156) Bharathwaj Muthuswamy
+Transforming Community-based Healthcare with CommScape  (EECS-2009-155) Kuang Chen, Kurtis Heimerl, Tapan Parikh, Christine Robson and Beth Trushkowsky
+Framework for Body Sensor Networks  (EECS-2009-154) Sameer Iyengar
+Exploring a Centralized/Distributed Hybrid Routing Protocol for Low Power Wireless Networks and Large Scale Datacenters  (EECS-2009-153) Arsalan Tavakoli
+Spline Knots and Their Control Polygons With Differing Knottedness  (EECS-2009-152) Carlo H. Séquin
+Finite State Machines and  Modal Models in Ptolemy II  (EECS-2009-151) Edward A. Lee
+YAMR: Yet Another Multipath Routing Protocol  (EECS-2009-150) Igor Anatolyevich Ganichev, Dai BIn, Philip Brighten Godfrey and Scott Shenker
+Fun with a Deadline Instruction  (EECS-2009-149) Martin Schoeberl, Hiren D. Patel and Edward A. Lee
+On Distributed Discrete Event Execution on Chip-Multiprocessors  (EECS-2009-148) Dai Bui, Hiren Patel and Edward A. Lee
+Convex Channel Design for Improved Capacitorless DRAM Retention Time  (EECS-2009-147) Min Hee Cho, Changhwan Shin and Tsu-Jae King Liu
+Internet Enabled Personal Choice - The Culmination of Domesticated Information and Communication Technologies  (EECS-2009-146) Yanpei Chen and Xinrong Zhang
+Privacy Scope: A Precise Information Flow Tracking System  For Finding Application Leaks  (EECS-2009-145) Yu Zhu, Jaeyeon Jung, Dawn Song, Tadayoshi Kohno and David Wetherall
+Querying Uncertain Data in Resource Constrained Settings  (EECS-2009-144) Alexandra Meliou
+Compositionality in Synchronous Data Flow: Modular Code Generation from Hierarchical SDF Graphs  (EECS-2009-143) Stavros Tripakis, Dai Bui, Bert Rodiers and Edward A. Lee
+Communication and Third Parties: Costs, Cues, and Confidentiality  (EECS-2009-142) Krish Eswaran
+Enabling Innovation Below the Communication API  (EECS-2009-141) Ganesh Ananthanarayanan, Kurtis Heimerl, Matei Zaharia, Michael Demmer, Teemu Koponen, Arsalan Tavakoli, Scott Shenker and Ion Stoica
+Power Optimization – a Reality Check  (EECS-2009-140) Stephen Dawson-Haggerty, Andrew Krioukov and David E. Culler
+A Survey of Firefox Extension API Use  (EECS-2009-139) Adrienne Porter Felt
+Algorithms for Green Buildings: Learning-Based Techniques for Energy Prediction and Fault Diagnosis  (EECS-2009-138) Daniel Holcomb, Wenchao Li and Sanjit A. Seshia
+Optimization and Incentives in Communication Networks  (EECS-2009-137) Libin Jiang
+MapReduce Online  (EECS-2009-136) Tyson Condie, Neil Conway, Peter Alvaro, Joseph M. Hellerstein, Khaled Elmeleegy and Russell Sears
+Time-centric Models For Designing Embedded Cyber-physical Systems  (EECS-2009-135) John C. Eidson, Edward A. Lee, Slobodan Matic, Sanjit A. Seshia and Jia Zou
+Design and Modeling of 60-GHz CMOS Integrated Circuits  (EECS-2009-134) Chinh Huy Doan
+Binary Code Extraction and Interface Identification for Security Applications  (EECS-2009-133) Juan Caballero, Noah M. Johnson, Stephen McCamant and Dawn Song
+Path Slicing per Object for Better Testing, Debugging, and Usage Discovery  (EECS-2009-132) Sudeep Juvekar, Jacob Burnim and Koushik Sen
+Virtual Local Stores: Enabling Software-Managed Memory Hierarchies in Mainstream Computing Environments  (EECS-2009-131) Henry Cook, Krste Asanović and David A. Patterson
+Quantitative Analysis of Embedded Software Using Game-Theoretic Learning  (EECS-2009-130) Sanjit A. Seshia and Alexander Rakhlin
+Contour Detection and Image Segmentation  (EECS-2009-129) Michael Randolph Maire
+A System-level Approach to Fault and Variation Resilience in Multi-core Die  (EECS-2009-128) Yury Markovskiy
+Weigh-In-Motion System Using a MEMS Accelerometer  (EECS-2009-127) Ravneet Bajwa and Pravin Varaiya
+A Distributed CSMA Algorithm for Throughput and Utility Maximization in Wireless Networks  (EECS-2009-124) Libin Jiang and Jean Walrand
+Angelic Hierarchical Planning: Optimal and Online Algorithms (Revised)  (EECS-2009-122) Bhaskara Marthi, Stuart J. Russell and Jason Wolfe
+Information in the Local Field Potential: Implications for Brain-Machine Interfaces  (EECS-2009-121) Gireeja Ranade
+Declarative Information Extraction in a Probabilistic Database System  (EECS-2009-120) Daisy Zhe Wang, Eirinaios Chrysovalantis Michelakis, Michael Franklin, Joseph M. Hellerstein and Minos Garofalakis
+Discovering Functional Dependencies in Pay-As-You-Go Data Integration Systems  (EECS-2009-119) Daisy Zhe Wang, Michael Franklin, Luna Dong, Anish Das Sarma and Alon Halevy
+SIlicon Photonic Devices for Optoelectronic Integrated Circuits  (EECS-2009-118) Ming-Chun Tien
+On the Design of Concurrent, Distributed Real-Time Systems  (EECS-2009-117) Yang Zhao
+Coarse-to-Fine Natural Language Processing  (EECS-2009-116) Slav Orlinov Petrov
+Circuit Symmetries in Synthesis and Verification  (EECS-2009-115) Donald Chai
+Probabilistic Complex Event Triggering  (EECS-2009-114) Daisy Zhe Wang, Eirinaios Chrysovalantis Michelakis and Liviu Tancau
+BOOM: Data-Centric Programming in the Datacenter  (EECS-2009-113) Peter Alvaro, Tyson Condie, Neil Conway, Khaled Elmeleegy, Joseph M. Hellerstein and Russell C Sears
+Designs of Broadband Highly Linear CMOS LNAs for Multiradio Multimode Applications  (EECS-2009-112) Wei-Hung Chen
+BOOM: Data-Centric Programming in the Datacenter  (EECS-2009-111) Peter Alvaro, Tyson Condie, Khaled Elmeleegy, Joseph M. Hellerstein and Russell C Sears
+On the Use of Context in Network Intrusion Detection Systems  (EECS-2009-110) Jayanth Kumar Kannan
+Towards Energy Efficient MapReduce  (EECS-2009-109) Yanpei Chen, Laura Keys and Randy H. Katz
+Output-Deterministic Replay for Multicore Debugging  (EECS-2009-108) Gautam Altekar and Ion Stoica
+LNA and Mixer Designs for Multi-Band Receiver Front-Ends  (EECS-2009-107) Nuntachai Poobuapheun
+Combining Quantified Domains  (EECS-2009-106) Bill McCloskey and Mooly Sagiv
+Internet Routing and Internet Service Provision  (EECS-2009-105) Henry Lin
+Structured Tracking for Safety, Security, and Privacy: Algorithms for Fusing Noisy Estimates from Sensor, Robot, and Camera Networks  (EECS-2009-104) Jeremy Ryan Schiff
+Large-Scale System Problems Detection by Mining Console Logs  (EECS-2009-103) Wei Xu, Ling Huang, Armando Fox, David A. Patterson and Michael Jordan
+Trade Space Exploration with Ptolemy II  (EECS-2009-102) Shanna-Shaye Forbes
+Learning to Hash with Binary Reconstructive Embeddings  (EECS-2009-101) Brian Kulis and Trevor Darrell
+Growth and Characterization of III-V Nanowires and Nanoneedles  (EECS-2009-100) Michael James Moewe
+Design of LDPC Decoders for Improved Low Error Rate Performance  (EECS-2009-99) Zhengya Zhang
+BOOM: Data-Centric Programming in the Datacenter  (EECS-2009-98) Peter Alvaro, Tyson Condie, Neil Conway, Khaled Elmeleegy, Joseph M. Hellerstein and Russell C Sears
+Hard-Object: Enforcing Object Interfaces Using Code-Range Data Protection  (EECS-2009-97) Daniel Wilkerson, David Alexander Molnar, Matthew Harren and John D. Kubiatowicz
+Bayesian Localized Multiple Kernel Learning  (EECS-2009-96) Mario Christoudias, Raquel Urtasun and Trevor Darrell
+Beaver: Engineering an Efficient SMT Solver for Bit-Vector Arithmetic  (EECS-2009-95) Susmit Kumar Jha, Rhishikesh Shrikant Limaye and Sanjit A. Seshia
+Support Vector Machine Approximation using Kernel PCA  (EECS-2009-94) Narayanan Sundaram
+Proceedings of the 1st Workshop on Quantitative Analysis of Software (QA'09)  (EECS-2009-93)
+A Multi-Tier Network Architecture for Long Distance Rural Wireless Networks in Developing Regions  (EECS-2009-92) Rabin Krushnachandra Patra
+Building and Optimizing Declarative Networked Systems  (EECS-2009-91) David Chiyuan Chu
+Advanced Digital Animation Curriculum Development: An Interdisciplinary Approach  (EECS-2009-90) Jeremy R Huddleston
+Collaborative Games on Mobile Phones  (EECS-2009-89) Simon Tan, Priyanka Reddy and Anuj Tewari
+In-Situ, Portable Monitoring Methods for Photolithography Characterization  (EECS-2009-88) Jing Xue
+Analysis of Goal-directed Human Actions using Optimal Control Models  (EECS-2009-87) Sumitra Ganesh
+C Code Generation from the Giotto Model of Computation to the PRET Architecture  (EECS-2009-86) Shanna-Shaye Forbes, Ben Lickly and Man-Kit Leung
+Algorithms, Models and Systems for Eigentaste-Based Collaborative Filtering and Visualization  (EECS-2009-85) Tavi Nathanson
+A New Communications API  (EECS-2009-84) Ganesh Ananthanarayanan, Kurtis Heimerl, Matei Zaharia, Michael Demmer, Teemu Koponen, Arsalan Tavakoli, Scott Shenker and Ion Stoica
+NEM Relay Memory Design  (EECS-2009-83) Abhinav Gupta and Elad Alon
+Designing Distributed Systems for Heterogeneity  (EECS-2009-82) Philip Brighten Godfrey
+Downconverting Sigma-Delta A/D Converter for a Reconfigurable RF Receiver  (EECS-2009-81) Renaldi Winoto and Borivoje Nikolic
+Practical Fault Tolerance for Quantum Circuits  (EECS-2009-80) Mark Whitney
+Computer Science Illustrated  (EECS-2009-79) Ketrina Yim
+A Design Methodology for Switched-Capacitor DC-DC Converters  (EECS-2009-78) Michael Douglas Seeman
+Model Transformation with Hierarchical Discrete-Event Control  (EECS-2009-77) Thomas Huining Feng
+Real-time C Code Generation in Ptolemy II for the Giotto Model of Computation  (EECS-2009-76) Shanna-Shaye Forbes
+Wireless Sensor Network Metrics for Real-Time Systems  (EECS-2009-75) Phoebus Wei-Chih Chen
+Thin Film Formation of a Solution Processed Pentacene  (EECS-2009-74) Daniel C Huang
+Architectural Synthesis Techniques for Distributed Automotive System  (EECS-2009-73) Wei Zheng
+Signal processing meets computer vision: Overcoming challenges in wireless camera networks  (EECS-2009-72) Chuohao Yeo
+Sparse Coding Models of Natural Images: Algorithms for Efficient Inference and Learning of Higher-Order Structure  (EECS-2009-71) Pierre Jerome Garrigues
+Merging Surface Reconstructions of Terrestrial and Airborne LIDAR Range Data  (EECS-2009-70) James Andrews
+RF Ranging for Location Awareness  (EECS-2009-69) Steven Michael Lanzisera and Kristofer Pister
+Energy Efficient Ethernet Encodings  (EECS-2009-68) Yanpei Chen and Randy H. Katz
+Occlusions in Camera Networks and Vision: The Bridge between Topological Recovery and Metric Reconstruction  (EECS-2009-67) Edgar J. Lobaton
+Fast Surface Reconstruction and Segmentation with Terrestrial LiDAR Range Data  (EECS-2009-66) Matthew Carlberg
+Interfaces and Junctions in Nanoscale Bottom-Up Semiconductor Devices  (EECS-2009-65) Yu-Chih Tseng
+Complex Program Transformations Via Simple Online Dynamic Analyses  (EECS-2009-64) Ajeet Ganesh Shankar
+Packet Classification as a Fundamental Network Primitive  (EECS-2009-63) Dilip Antony Joseph
+A bound for block codes with delayed feedback related to the sphere-packing bound  (EECS-2009-61) Harikrishna R Palaiyanur and Anant Sahai
+On Relational Interfaces  (EECS-2009-60) Stavros Tripakis, Ben Lickly, Thomas A. Henzinger and Edward A. Lee
+On-time Network On-Chip: Analysis and Architecture  (EECS-2009-59) Dai Bui, Alessandro Pinto and Edward A. Lee
+Emulating Emulation-Resistant Malware  (EECS-2009-58) Min Gyung Kang, Heng Yin, Steve Hanna, Stephen McCamant and Dawn Song
+Bidirectional Protocol Reverse Engineering: Message Format Extraction and Field Semantics Inference  (EECS-2009-57) Juan Caballero, Pongsin Poosankam, Christian Kreibich and Dawn Song
+CAD Tools for Creating Space-filling 3D Escher Tiles  (EECS-2009-56) Mark Howison
+Job Scheduling for Multi-User MapReduce Clusters  (EECS-2009-55) Matei Zaharia, Dhruba Borthakur, Joydeep Sen Sarma, Khaled Elmeleegy, Scott Shenker and Ion Stoica
+Fast Filter Spreading and its Applications  (EECS-2009-54) Todd Jerome Kosloff, Justin Hensley and Brian A. Barsky
+Efficient Motor Control Learning  (EECS-2009-53) Gregory Donnell Lawrence
+Measuring Empirical Computational Complexity  (EECS-2009-52) Simon Fredrick Goldsmith
+Analysis and Optimization of Monolithic RF Downconversion Receivers  (EECS-2009-51) Christopher D. Hull
+A Practical Theory of Micro-Solar Power Sensor Networks  (EECS-2009-49) Jaein Jeong
+Veriﬁable Order Statistics for Secure Aggregation  (EECS-2009-48) Hsu-Chun Hsiao,  Chih-Yuan Wang, Joseph M. Hellerstein, Wei-Chung Teng and Chin-Laung Lei
+Measuring Channel Capacity to Distinguish Undue Influence  (EECS-2009-47) James Newsome, Stephen McCamant and Dawn Song
+On Invariants to Characterize the State Space for Sequential Logic Synthesis and Formal Verification  (EECS-2009-46) Mike Case
+Fast Approximate Spectral Clustering  (EECS-2009-45) Donghui Yan, Ling Huang and Michael Jordan
+Lightweight Annotations for Controlling Sharing in Concurrent Data Structures  (EECS-2009-44) Zachary Ryan Anderson, David Gay and Mayur Naik
+Convergence and Stability of a Distributed CSMA Algorithm for Maximal Network Throughput  (EECS-2009-43) Libin Jiang and Jean Walrand
+Checking Equivalence of SPMD Programs Using Non-Interference  (EECS-2009-42) Roberto Lublinerman and Stavros Tripakis
+On the Computational Complexity of Satisfiability Solving for String Theories  (EECS-2009-41) Susmit Kumar Jha, Sanjit A. Seshia and Rhishikesh Shrikant Limaye
+C2Cfs: A Collective Caching Architecture for Distributed File Access  (EECS-2009-40) Andrey Ermolinskiy and Renu Tewari
+Compact Implementation of Distributed Inference Algorithms for Network  (EECS-2009-39) Ashima Atul
+Automatic Synthesis for Distributed Systems  (EECS-2009-38) Yang Yang
+Approaching Throughput-optimality in a Distributed CSMA Algorithm with Contention Resolution  (EECS-2009-37) Libin Jiang and Jean Walrand
+Extracting Models of Security-Sensitive Operations using String-Enhanced White-Box Exploration on Binaries  (EECS-2009-36) Juan Caballero, Stephen McCamant, Adam Barth and Dawn Song
+Image Augmented Laser Scan Matching for Indoor Localization  (EECS-2009-35) Nikhil Naikal, Avideh Zakhor and John Kua
+Loop-Extended Symbolic Execution on Binary Programs  (EECS-2009-34) Prateek Saxena, Pongsin Poosankam, Stephen McCamant and Dawn Song
+Dynamic Scenes and Camera Networks  (EECS-2009-33) Marci Lenore Meingast
+PTIDES on Flexible Task Graph: Real-Time Embedded System Building from Theory to Practice  (EECS-2009-31) Jia Zou, Joshua Auerbach, David F. Bacon and Edward A. Lee
+Computing Needs Time  (EECS-2009-30) Edward A. Lee
+Communication-optimal Parallel and Sequential Cholesky decomposition  (EECS-2009-29) Grey Ballard, James Demmel, Olga Holtz and Oded Schwartz
+Above the Clouds: A Berkeley View of Cloud Computing  (EECS-2009-28) Michael Armbrust, Armando Fox, Rean Griffith, Anthony D. Joseph, Randy H. Katz, Andrew Konwinski, Gunho Lee, David A. Patterson, Ariel Rabkin, Ion Stoica and Matei Zaharia
+Maximizing Performance in Long Distance Wireless Networks for Developing Regions  (EECS-2009-27) Sergiu Nedevschi
+Human Factors in Web Authentication  (EECS-2009-26) Chris K. Karlof
+Millimeter - Wave CMOS Power Amplifiers Design  (EECS-2009-25) Mounir Youssef Bohsali
+Constructing grammar: A computational model of the emergence of early constructions  (EECS-2009-24) Nancy Chih-Lin Chang
+Energy Efficient Wireless Transmitters: Polar and Direct-Digital Modulation Architectures  (EECS-2009-22) Jason Thaine Stauth and Seth R. Sanders
+A Graphical Modeling Viewpoint on Queueing Networks  (EECS-2009-21) Charles Sutton and Michael Jordan
+A Synthetic Inductor Implementation of Chua's Circuit  (EECS-2009-20) Bharathwaj Muthuswamy, Tamara Blain and Kyle Sundqvist
+Compile Time Task and Resource Allocation of Concurrent Applications to Multiprocessor Systems  (EECS-2009-19) Nadathur Rajagopalan Satish
+A Statistical Flicker Noise Analytical Model in Scaled Bulk MOSFETs  (EECS-2009-18) Tianjiao Zhang
+Co-training with Noisy Perceptual Observations  (EECS-2009-17) C. Mario Christhoudias, Raquel Urtasun, Ashish Kapoor and Trevor Darrell
+Probabilistic Kernel Combination for Hierarchical Object Categorization  (EECS-2009-16) Ashish Kapoor, Raquel Urtasun and Trevor Darrell
+Elimination of Side Channel attacks on a Precision Timed Architecture  (EECS-2009-15) Isaac Liu and David McGrogan
+New Width Inference Algorithm for Ptolemy II  (EECS-2009-13) Ben Lickly and Bert Rodiers
+Contextual Bootstrapping for Grammar Learning  (EECS-2009-12) Eva H. Mok
+DNA Detection Using Organic Thin Film Transistors:  Physical Origins of Electrical Transduction Behavior and Optimization of Sensitivity  (EECS-2009-11) Lakshmi Jagannathan and Vivek Subramanian
+Beating the Adaptive Bandit with High Probability  (EECS-2009-10) Jacob Abernethy and Alexander Rakhlin
+Designing Multi-socket Systems Using Silicon Photonics  (EECS-2009-9) Scott Beamer, Krste Asanović, Chris Batten, Ajay Joshi and Vladimir Stojanovic
+A Novel Approach to Model and Control the Throughput of CSMA/CA Wireless Networks  (EECS-2009-8) Libin Jiang and Jean Walrand
+Disciplined Message Passing  (EECS-2009-7) Edward A. Lee
+Memristor Based Chaotic Circuits  (EECS-2009-6) Bharathwaj Muthuswamy
+Fast Surface Reconstruction and Segmentation with Ground-Based and Airborne LIDAR Range Data  (EECS-2009-5) Matthew Carlberg, James Andrews, Peiran Gao and Avideh Zakhor
+Algebraic Approach for Recovering Topology in Distributed Camera Networks  (EECS-2009-4) Edgar J. Lobaton, Parvez Ahammad and S. Shankar Sastry
+How much white space is there?  (EECS-2009-3) Mubaraq Mishra and Anant Sahai
+Local Estimation of Collision Probabilities in 802.11 WLANs with Hidden Terminals  (EECS-2009-2) Michael N Krishnan, Sofie Pollin and Avideh Zakhor
+Impact of phase and amplitude errors on array performance  (EECS-2009-1) Omar Mohammed Bakr and Mark Johnson

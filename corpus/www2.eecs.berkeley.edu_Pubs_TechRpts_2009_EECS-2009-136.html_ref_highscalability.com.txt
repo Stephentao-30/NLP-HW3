@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-136.html?ref=highscalability.com
+MapReduce Online
+Tyson Condie and Neil Conway and Peter Alvaro and Joseph M. Hellerstein and Khaled Elmeleegy and Russell Sears
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2009-136
+October 9, 2009
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-136.pdf
+MapReduce is a popular framework for data-intensive distributed computing of batch jobs. To simplify fault tolerance, the output of each MapReduce task and job is materialized to disk before it is consumed. In this paper, we propose a modified MapReduce architecture that allows data to be pipelined between operators. This extends the MapReduce programming model beyond batch processing, and can reduce completion times and improve system utilization for batch jobs as well.  We present a modified version of the Hadoop MapReduce framework that supports online aggregation, which allows users to see "early returns" from a job as it is being computed. Our Hadoop Online Prototype (HOP) also supports continuous queries, which enable MapReduce programs to be written for applications such as event monitoring and stream processing. HOP retains the fault tolerance properties of Hadoop, and can run unmodified user-defined MapReduce programs.
+BibTeX citation:
+@techreport{Condie:EECS-2009-136,
+Author= {Condie, Tyson and Conway, Neil and Alvaro, Peter and Hellerstein, Joseph M. and Elmeleegy, Khaled and Sears, Russell},
+Title= {MapReduce Online},
+Year= {2009},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-136.html},
+Number= {UCB/EECS-2009-136},
+Abstract= {MapReduce is a popular framework for data-intensive distributed computing of batch jobs. To simplify fault tolerance, the output of each MapReduce task and job is materialized to disk before it is consumed. In this paper, we propose a modified MapReduce architecture that allows data to be pipelined between operators. This extends the MapReduce programming model beyond batch processing, and can reduce completion times and improve system utilization for batch jobs as well.  We present a modified version of the Hadoop MapReduce framework that supports online aggregation, which allows users to see "early returns" from a job as it is being computed. Our Hadoop Online Prototype (HOP) also supports continuous queries, which enable MapReduce programs to be written for applications such as event monitoring and stream processing. HOP retains the fault tolerance properties of Hadoop, and can run unmodified user-defined MapReduce programs.},
+}
+EndNote citation:
+%0 Report
+%A Condie, Tyson
+%A Conway, Neil
+%A Alvaro, Peter
+%A Hellerstein, Joseph M.
+%A Elmeleegy, Khaled
+%A Sears, Russell
+%T MapReduce Online
+%I EECS Department, University of California, Berkeley
+%D 2009
+%8 October 9
+%@ UCB/EECS-2009-136
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-136.html
+%F Condie:EECS-2009-136

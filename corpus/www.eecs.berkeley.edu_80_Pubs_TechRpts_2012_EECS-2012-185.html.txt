@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-185.html
+Towards Comprehensible and Effective Permission Systems
+Adrienne Porter Felt
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-185
+August 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-185.pdf
+How can we, as platform designers, protect computer users from the threats associated with malicious, privacy-invasive, and vulnerable applications? Modern platforms have turned away from the traditional user-based permission model and begun adopting application permission systems in an attempt to shield users from these threats. This dissertation evaluates modern permission systems with the goal of improving the security of future platforms.
+In platforms with application permission systems, applications are unprivileged by default and must request permissions in order to access sensitive API calls. Developers specify the permissions that their applications need, and users approve the granting of permissions. Permissions are intended to provide defense in depth by restricting the scope of vulnerabilities and user consent by allowing users to control whether third parties have access to their resources.
+In this dissertation we investigate whether permission systems are effective at providing defense in depth and user consent. First, we perform two studies to evaluate whether permissions provide defense in depth: we analyze applications to determine whether developers request minimal sets of permissions, and we quantify the impact of permissions on real-world vulnerabilities. Next, we evaluate whether permissions obtain the user's informed consent by surveying and interviewing users. We use the Android application and Google Chrome extension platforms for our studies; at present, they are popular platforms with extensive permission systems.
+Our goal is to inform the design of future platforms with our findings. We argue that permissions are a valuable addition to a platform, and our study results support continued work on permission systems. However, current permission warnings fail to inform the majority of users about the risks of applications. We propose a set of guidelines to aid in the design of more user-friendly permissions, based on our user research and relevant literature.
+Advisors:  David Wagner
+BibTeX citation:
+@phdthesis{Felt:EECS-2012-185,
+Author= {Felt, Adrienne Porter},
+Title= {Towards Comprehensible and Effective Permission Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-185.html},
+Number= {UCB/EECS-2012-185},
+Abstract= {How can we, as platform designers, protect computer users from the threats associated with malicious, privacy-invasive, and vulnerable applications? Modern platforms have turned away from the traditional user-based permission model and begun adopting application permission systems in an attempt to shield users from these threats. This dissertation evaluates modern permission systems with the goal of improving the security of future platforms.
+In platforms with application permission systems, applications are unprivileged by default and must request permissions in order to access sensitive API calls. Developers specify the permissions that their applications need, and users approve the granting of permissions. Permissions are intended to provide defense in depth by restricting the scope of vulnerabilities and user consent by allowing users to control whether third parties have access to their resources.
+In this dissertation we investigate whether permission systems are effective at providing defense in depth and user consent. First, we perform two studies to evaluate whether permissions provide defense in depth: we analyze applications to determine whether developers request minimal sets of permissions, and we quantify the impact of permissions on real-world vulnerabilities. Next, we evaluate whether permissions obtain the user's informed consent by surveying and interviewing users. We use the Android application and Google Chrome extension platforms for our studies; at present, they are popular platforms with extensive permission systems.
+Our goal is to inform the design of future platforms with our findings. We argue that permissions are a valuable addition to a platform, and our study results support continued work on permission systems. However, current permission warnings fail to inform the majority of users about the risks of applications. We propose a set of guidelines to aid in the design of more user-friendly permissions, based on our user research and relevant literature.},
+}
+EndNote citation:
+%0 Thesis
+%A Felt, Adrienne Porter
+%T Towards Comprehensible and Effective Permission Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 9
+%@ UCB/EECS-2012-185
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-185.html
+%F Felt:EECS-2012-185

@@ -1,0 +1,67 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/unionssp__m128.html
+Compressed Sparse Blocks: ssp_m128 Union Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+Class List
+Class Index
+Class Hierarchy
+Class Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Public Attributes  |
+List of all members
+ssp_m128 Union Reference
+#include < SSEspmv.h >
+Public Attributes
+__m128    f
+__m128d    d
+__m128i    i
+__m64    m64  [2]
+ssp_u64     u64  [2]
+ssp_s64     s64  [2]
+ssp_f64     f64  [2]
+ssp_u32     u32  [4]
+ssp_s32     s32  [4]
+ssp_f32     f32  [4]
+ssp_u16     u16  [8]
+ssp_s16     s16  [8]
+ssp_u8     u8  [16]
+ssp_s8     s8  [16]
+Detailed Description
+Definition at line  68  of file  SSEspmv.cpp .
+Member Data Documentation
+__m128d ssp_m128::d
+Definition at line  71  of file  SSEspmv.cpp .
+__m128 ssp_m128::f
+Definition at line  70  of file  SSEspmv.cpp .
+ssp_f32  ssp_m128::f32
+Definition at line  79  of file  SSEspmv.cpp .
+ssp_f64  ssp_m128::f64
+Definition at line  76  of file  SSEspmv.cpp .
+__m128i ssp_m128::i
+Definition at line  72  of file  SSEspmv.cpp .
+__m64 ssp_m128::m64
+Definition at line  73  of file  SSEspmv.cpp .
+ssp_s16  ssp_m128::s16
+Definition at line  81  of file  SSEspmv.cpp .
+ssp_s32  ssp_m128::s32
+Definition at line  78  of file  SSEspmv.cpp .
+ssp_s64  ssp_m128::s64
+Definition at line  75  of file  SSEspmv.cpp .
+ssp_s8  ssp_m128::s8
+Definition at line  83  of file  SSEspmv.cpp .
+ssp_u16  ssp_m128::u16
+Definition at line  80  of file  SSEspmv.cpp .
+ssp_u32  ssp_m128::u32
+Definition at line  77  of file  SSEspmv.cpp .
+ssp_u64  ssp_m128::u64
+Definition at line  74  of file  SSEspmv.cpp .
+ssp_u8  ssp_m128::u8
+Definition at line  82  of file  SSEspmv.cpp .
+The documentation for this union was generated from the following files:
+SSEspmv.cpp
+SSEspmv.h
+Generated on Sun Mar 2 2014 21:16:25 for Compressed Sparse Blocks by
+1.8.6

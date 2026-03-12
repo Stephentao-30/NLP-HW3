@@ -1,0 +1,25 @@
+URL: https://eecs.berkeley.edu/research/colloquium/210414-2
+Neural Architecture Search and Meta Pseudo Labels - EECS at Berkeley
+Neural Architecture Search and Meta Pseudo Labels
+EECS Colloquium
+Wednesday, April 14, 2021
+4:00 – 5:00 pm
+Zoom webinar:   https://berkeley.zoom.us/s/99825370819
+Quoc Le
+Principal Research Scientist
+Google Brain
+Quoc Le will speak on "Neural Architecture Search and Meta Pseudo Labels," 04/14/21
+Abstract
+I will talk about our recent works on computer vision:
+Smart architecture search methods to discover a highly efficient model called  EfficientNet , and  EfficientNetV2  which are much more efficient than previous image classification models.
+Using unlabeled data to improve accuracy and robustness of vision models. The method, named  “Noisy Student” , requires generating pseudo labels on unlabeled data and using them to train a student. The method significantly improves the robustness of the student on hard test sets, ImageNet-A, ImageNet-C, and ImageNet-P.
+An improvement of the Noisy Student method called  Meta Pseudo Labels  that creates a feedback loop from the student network to the teacher network to improve the teaching of the teacher network. This method combined with EfficientNets reaches the top-1 accuracy of 90% on ImageNet.
+Biography
+Quoc Le is a principal research scientist at Google Brain. He obtained his PhD at Stanford, and was advised by Andrew Ng. Quoc started out as an intern when Google Brain was founded. Together with Google Brain team members, Quoc worked on  seq2seq ,  pretrained language models ,  neural architecture search  etc. His current interests are self-improving machine learning (e.g., AutoML), and semi-supervised learning, which are basically the two themes of the talk above.
+Video of this Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

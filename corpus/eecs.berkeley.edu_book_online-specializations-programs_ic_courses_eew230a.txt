@@ -1,0 +1,153 @@
+URL: https://eecs.berkeley.edu/book/online-specializations-programs/ic/courses/eew230a
+EE W230A Course Overview: Integrated-Circuit Devices - EECS at Berkeley
+EE W230A Course Overview: Integrated-Circuit Devices
+In This Page
+Course Description
+Learning Objectives
+Intended Audience
+Prerequisites
+Course Outline
+Module by Module Summary
+Instructional Methodology
+Grading
+Required Readings, Supplements, and Materials
+Purpose of the Course/Course Description
+Overview of electronic properties of semiconductors. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.
+In this course, you will learn the fundamentals of basic semiconductor devices: the pn-junction diode, the bipolar junction transistor, the metal-oxide-semiconductor capacitor, and the field-effect transistor. Upon completing this course, you will understand their principles of operation, and how their electrical characteristics depend on their physical parameters and operating conditions.
+Learning Objectives (Goals/Takeaways)
+When students have completed this course, they will:
+Gain understanding of semiconductor fundamentals
+Gain understanding of metal-semiconductor and pn junction contacts
+Gain understanding of MOS capacitor fundamentals
+Gain understanding of MOS Field-Effect Transistor (MOSFET) operation
+Gain understanding of Bipolar Junction Transistor (BJT) operation
+Master the state-of-the-art EDA tools for semiconductor device design (Synopsys Sentaurus)
+Gain experience in semiconductor device design through a hands-on class project
+Intended Audience
+This program seeks to fill the educational gaps within the field of integrated circuit design and semiconductor device design using a fully online and interactive method. This is a base graduate-level course in semiconductor device design intended to provide an entry point for the aspiring semiconductor device, analog and digital IC designers.
+Students taking this graduate-level course will be mastering, in both breadth and depth, the domain of semiconductor technology, as taught by some of the most accomplished leaders and innovators in the field. Upon taking the class, they will have acquired the basic skills in analysis and design in the area of semiconductor devices and laid the foundation to take-on an advanced semiconductor device design course – EE W230B upon which they will be ready to tackle the state-of-the-art semiconductor device design challenges. Having taken this course, students will also lay the foundation toward taking a base analog (EEW240A) or digital IC (EEW241A) design course.
+Prerequisites
+College-level mathematics (calculus, including differential equations) and physics (electricity and magnetism).
+Course Content Outline
+1. Semiconductor Fundamentals:
+Topic 1 – Intro to Semiconductors
+Topic 2 – Doping
+Topic 3 – Carrier Action
+Topic 4 – Governing Equations for Carrier Action
+2. Metal Semiconductor Contacts:
+Topic 5 – M-S Contact Electrostatics
+Topic 6 – M-S Contact Electrical Characteristics
+3. pn Junction Diodes:
+Topic 7 – pn Junction Electrostatics
+Topic 8 – pn Junction Current Flow
+Topic 9 – Practical pn Junctions
+Topic 10 – pn Junction Dynamic Response
+Topic 11 – pn Junction Diode Applications
+4. The MOS Capacitor:
+Topic 12 – Introduction to MOS Structures
+Topic 13 – MOS Electrostatics
+Topic 14 – MOS Small-Signal Capacitance
+5. The MOSFET:
+Topic 15 – MOSFET Structures & CMOS Circuits
+Topic 16 – MOSFET Operation
+Topic 17 – MOSFET Current vs. Voltage Characteristics
+Topic 18 – The CMOS Inverter
+Topic 19 – Short-Channel MOSFETs
+Topic 20 – Modern CMOS Technology
+6. The Bipolar Junction Transistor:
+Topic 21 – Overview of the BJT
+Topic 22 – BJT Current vs. Voltage Characteristics
+Topic 23 – Practical BJTs
+Topic 24 – BJT Dynamic Response
+Module by Module Summary
+Each module has an associated problem set and a quiz. The course culminates with a design project.
+Module
+Topic
+Module 1
+Semiconductor Fundamentals
+Module 2
+Metal Semiconductor Contacts
+Module 3
+pn Junction Diodes
+Module 4
+The MOS Capacitor
+Module 5
+The MOSFET
+Module 6
+The Bipolar Junction Transistor
+Instructional Methodology (Modes of Instruction)
+Modules
+A module is a grouping of topics related to one area of study, typically with readings, lectures and various kinds of assignments. Each module contains a list of Learning Outcomes for the module. Your assignments reflect the learning activities to perform to reach those outcomes.
+Multimedia Lectures
+Recorded lectures support your readings and assignments but also contain additional material that may be included in the exams. Each lecture has been broken into sections. You are expected to take notes while viewing the lectures as you would in a regular classroom.
+Reading Assignments
+Reading assignments include sections of the required textbook, distributed readings, and supplementary notes. Reading assignments are indicated on Module Overview pages, and will also be included in homework assignments where appropriate. Supplementary notes will be provided for topics where lecture coverage is substantially different from the textbook. Students are responsible for all material in the reading. In particular, the scope of coverage for problem sets, quizzes, the design project, and the final examination includes the reading assignments as well as lecture material.
+Software
+For the design project, you will use semiconductor device simulation software (Synopsys’ Sentaurus package) to design an n-channel silicon MOSFET with gate length LG = 25 nm (relevant for the “20 nm generation” of CMOS technology) to meet specified performance requirements within some practical design constraints.
+Office Hours & Discussion Sessions
+We will use the web conferencing tool Zoom to hold live instructional sessions online. You will be able to ask questions via webcam, microphone, and text chat. You can enter the online classroom through the classroom home page.
+Office hours will be held once a week by both the instructor and graduate course facilitators.
+Discussion sessions are weekly supplementary 1hr live sessions, and will be led by the designated graduate course facilitators. They typically take a more in-depth look at topics covered in the lecture videos.
+Problem Sets
+Weekly homework assignments along with their solutions are provided to help you learn and apply the concepts covered in the lectures and reading assignments, which will be necessary for you to do well on the module quizzes. You are encouraged to discuss the homework problems with other students in the class, the course facilitator and/or the professor.
+Course Grade Weighting (Grading)
+Grading Policies
+Course grades will be assigned according to the following tentative grading formula:
+Participation (10%)
+A major component of the course is the topic discussion questions posed to you each week. These discussions reinforce and expand upon ideas presented in the lectures, as well as present new content beyond those lectures.
+To participate fully in discussions you must:
+(1) Answer the questions asked by the professor for every topic.(2) Reflect thoughtfully on your classmates’ responses.
+Quality and quantity participation count in the online discussions. Quantity includes the number of questions which you complete for the week as well as the number of replies you make to other student posts. Quality includes, among other things:
+sharing personal experiences which expand upon the principles discussed
+insightful and constructive critiques of others’ contributions
+integrative comments across activities and/or courses
+questions that assist in reshaping or furthering the conversation
+Quizzes (25%)
+Six quizzes will be given throughout the semester, corresponding to each of the six modules of the course. These are intended to gauge your understanding of the basic concepts covered in that particular module, and hence will not require extensive numerical calculations (i.e. calculators should not be needed).
+Each quiz should take 30 minutes to complete. You will have an additional 15 minutes to download, print, scan, and upload the files. Please self-time yourself to complete each quiz within 30 minutes, since this will prepare you to be able to complete the final exam in the required time.
+All quizzes will be closed book, though notes will be allowed. No calculators will be allowed any of the quizzes. The lowest quiz score will be dropped for each student (i.e. only the top 5 quiz scores will be used in determining the course grade).
+Design Project (25%)
+You will gain experience in MOSFET design through a term project.
+Final Exam (40%)
+The final exam will be comprehensive, covering all of the material in the course. The exam will be closed book, though notes will be allowed. Students will not be allowed to use a calculator.
+The final exam must be a live, proctored exam. We will provide information by email on how to arrange for your proctored exam session remotely.
+Letter grades will be assigned based approximately on the following scale:
+UC Berkeley Grading System
+Letter Grade
+A
+A-
+B+
+B
+B-
+C+
+C
+C-
+D+
+D
+D-
+F
+Percentage
+100-94
+93-90
+89-86
+85-83
+82-80
+79-76
+75-73
+72-70
+69-66
+65-63
+62-60
+<60
+Required Readings, Supplements, and Materials
+Textbooks
+Required Materials
+Modern Semiconductor Devices for Integrated Circuits,  by Chenming Calvin Hu
+Recommended References
+Semiconductor Device Fundamentals , by Robert F. Pierret
+Solid State Electronic Devices , by B. G. Streetman & S. Banerjee (Prentice Hall, 2000)
+Fundamentals of Modern VLSI Devices , by Y. Taur & T.H. Ning (Cambridge University Press, 1998)
+< EECS Online Graduate Specialization Programs
+EECS Online Graduate Specialization Programs >
+View
+Open Faculty Positions

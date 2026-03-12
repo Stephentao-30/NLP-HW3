@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29380.html
+Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness
+Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness
+J.W. Gannett and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/29
+July 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-29.pdf
+BibTeX citation:
+@techreport{Gannett:M80/29,
+Author = {Gannett, J.W. and Chua, L.O.},
+Title = {Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29380.html},
+Number = {UCB/ERL M80/29}
+}
+EndNote citation:
+%0 Report
+%A Gannett, J.W.
+%A Chua, L.O.
+%T Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29380.html
+%F Gannett:M80/29

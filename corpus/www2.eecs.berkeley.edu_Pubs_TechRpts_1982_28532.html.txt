@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28532.html
+Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey
+Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey
+Charles K. Birdsall
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/51
+June 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-51.pdf
+BibTeX citation:
+@techreport{Birdsall:M82/51,
+Author = {Birdsall, Charles K.},
+Title = {Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28532.html},
+Number = {UCB/ERL M82/51}
+}
+EndNote citation:
+%0 Report
+%A Birdsall, Charles K.
+%T Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28532.html
+%F Birdsall:M82/51

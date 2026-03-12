@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-131.html
+Non-Contact Wireless Power Monitoring
+Ankur Aggarwal
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-131
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-131.pdf
+Advisors:  Bernhard Boser and Sayeef Salahuddin
+BibTeX citation:
+@mastersthesis{Aggarwal:EECS-2012-131,
+Author= {Aggarwal, Ankur},
+Title= {Non-Contact Wireless Power Monitoring},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-131.html},
+Number= {UCB/EECS-2012-131},
+}
+EndNote citation:
+%0 Thesis
+%A Aggarwal, Ankur
+%T Non-Contact Wireless Power Monitoring
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-131
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-131.html
+%F Aggarwal:EECS-2012-131

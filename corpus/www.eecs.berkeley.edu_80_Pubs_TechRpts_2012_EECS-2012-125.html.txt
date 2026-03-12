@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-125.html
+Model-based Bayesian Seismic Monitoring
+Nimar S Arora
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-125
+May 29,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-125.pdf
+This thesis presents the underlying probabilistic model, the parameter estimation, and the inference algorithm of NET-VISA, Network Processing Vertically Integrated Seismic
+Analysis. NET-VISA is an Open Universe Probability Model (OUPM) for seismic events, the transmission of seismic waves through the earth, and their detection (or misdetection) at stations, as well as a model for spurious detections.
+The probabilistic model allows for seamless integration of various disparate sources of information. Applied in the context of the International Monitoring System (IMS), a global sensor network developed for the Comprehensive Nuclear-Test-Ban Treaty (CTBT), NET-VISA achieves a reduction of around 60% in the number of missed events compared to the currently deployed system. It also
+finds events that are missed by the human analysts who post-process the IMS output.
+Advisors:  Stuart J. Russell
+BibTeX citation:
+@phdthesis{Arora:EECS-2012-125,
+Author= {Arora, Nimar S},
+Title= {Model-based Bayesian Seismic Monitoring},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-125.html},
+Number= {UCB/EECS-2012-125},
+Abstract= {This thesis presents the underlying probabilistic model, the parameter estimation, and the inference algorithm of NET-VISA, Network Processing Vertically Integrated Seismic
+Analysis. NET-VISA is an Open Universe Probability Model (OUPM) for seismic events, the transmission of seismic waves through the earth, and their detection (or misdetection) at stations, as well as a model for spurious detections.
+The probabilistic model allows for seamless integration of various disparate sources of information. Applied in the context of the International Monitoring System (IMS), a global sensor network developed for the Comprehensive Nuclear-Test-Ban Treaty (CTBT), NET-VISA achieves a reduction of around 60% in the number of missed events compared to the currently deployed system. It also
+finds events that are missed by the human analysts who post-process the IMS output.},
+}
+EndNote citation:
+%0 Thesis
+%A Arora, Nimar S
+%T Model-based Bayesian Seismic Monitoring
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 29
+%@ UCB/EECS-2012-125
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-125.html
+%F Arora:EECS-2012-125

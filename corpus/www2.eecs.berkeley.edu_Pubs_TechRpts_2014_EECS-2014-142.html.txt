@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-142.html
+Counting and Correlation Decay in Spin Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Counting and Correlation Decay in Spin Systems
+Counting and Correlation Decay in Spin Systems
+Piyush Srivastava
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-142
+August 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-142.pdf
+Spin systems originated in statistical physics as tools for modeling phase transitions in magnets. However, they have since been used to model complex systems arising in several other fields of study (e.g., in Bayesian inference and in the theory of social networks), so that various computational problems associated with them have received much attention in the literature. A lot of progress in the study of these problems has relied upon ideas from statistical physics; one example of this interplay has been the discovery of tight connections between the computational complexity of these problems and the phenomenon of phase transitions that many spin systems exhibit. Conversely, algorithmic ideas have also helped in the study of the phase transition phenomenon.
+This thesis presents two lines of work that fit into this theme. The first considers the approximation of the  partition function , a pivotal quantity associated with spin systems. Here, we obtain—in various settings—deterministic polynomial time algorithms for approximating the partition function in the so called  uniqueness regime , and thus strengthen the algorithmic side of the tight correspondence between phase transitions and the computational complexity of the partition function.
+The second line of work is concerned with the complexity of exact computation of various natural  mean observables  of spin systems, e.g., the magnetization in the Ising model. We relate these questions to the location of the complex zeros of the partition function, which have been studied in statistical physics because of their connections to the existence of phase transitions, and have been the subject of various celebrated results (such as the Lee–Yang theorem and the Heilmann–Lieb theorem). By proving a novel extension of the Lee–Yang theorem, we show that the magnetization of the ferromagnetic Ising model is indeed as hard to compute as the partition function (i.e., #P–hard). We also obtain similar results for the monomer–dimer model.
+Advisor:  Alistair Sinclair
+BibTeX citation:
+@phdthesis{Srivastava:EECS-2014-142,
+Author = {Srivastava, Piyush},
+Title = {Counting and Correlation Decay in Spin Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-142.html},
+Number = {UCB/EECS-2014-142},
+Abstract = {Spin systems originated in statistical physics as tools for modeling phase transitions in magnets. However, they have since been used to model complex systems arising in several other fields of study (e.g., in Bayesian inference and in the theory of social networks), so that various computational problems associated with them have received much attention in the literature. A lot of progress in the study of these problems has relied upon ideas from statistical physics; one example of this interplay has been the discovery of tight connections between the computational complexity of these problems and the phenomenon of phase transitions that many spin systems exhibit.  Conversely, algorithmic ideas have also helped in the study of the phase transition phenomenon.
+This thesis presents two lines of work that fit into this theme. The first considers the approximation of the <i>partition function</i>, a pivotal quantity associated with spin systems. Here, we obtain&#151;in various settings&#151;deterministic polynomial time algorithms for approximating the partition function in the so called <i>uniqueness regime</i>, and thus strengthen the algorithmic side of the tight correspondence between phase transitions and the computational complexity of the partition function.
+The second line of work is concerned with the complexity of exact computation of various natural <i>mean observables</i> of spin systems, e.g., the magnetization in the Ising model.  We relate these questions to the location of the complex zeros of the partition function, which have been studied in statistical physics because of their connections to the existence of phase transitions, and have been the subject of various celebrated results (such as the Lee&#150;Yang theorem and the Heilmann&#150;Lieb theorem). By proving a novel extension of the Lee&#150;Yang theorem, we show that the magnetization of the ferromagnetic Ising model is indeed as hard to compute as the partition function (i.e., #P&#150;hard).  We also obtain similar results for the monomer&#150;dimer model.}
+}
+EndNote citation:
+%0 Thesis
+%A Srivastava, Piyush
+%T Counting and Correlation Decay in Spin Systems
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 August 1
+%@ UCB/EECS-2014-142
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-142.html
+%F Srivastava:EECS-2014-142

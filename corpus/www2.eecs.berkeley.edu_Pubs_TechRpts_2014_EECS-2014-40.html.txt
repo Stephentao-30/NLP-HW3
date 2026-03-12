@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-40.html
+Tactile Sensors for Palm-Size Crawling Robots | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Tactile Sensors for Palm-Size Crawling Robots
+Tactile Sensors for Palm-Size Crawling Robots
+Jaakko Karras
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-40
+May 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-40.pdf
+Two novel, low-cost tactile sensors were designed for use in palm-size (approx. 10 cm in length, under 50 g in mass) crawling robots. The first is a binary, hair-based sensor array, which uses bio-inspired polymer hairs to detect both normal and shear contact forces. The hair sensors have an average normal sensitivity under 1 gram-force (1 gf approx. 10 mN), making them adequately sensitive for use in small, lightweight robots. Furthermore, the hair sensor array has a unique laminar design that allows it to be rapidly-manufactured using a layered roll-to-roll process. In a sample application, it was shown that the binary hair sensor array can be used to estimate average ground speed and to detect high-centering when running over simple obstacles by tracking the propagation of contact along the base of a crawling robot. The second sensor discussed in this work is an analog tactile bumper array that provides robots with the ability to measure contact forces when bumping into obstacles. The sensor consists of an array of laser-cut foam structures that were mechanically designed to exhibit two force sensitivity ranges. The tactile bumper is also cheap and easy to fabricate, using an array of laser-cut foam structures with analog photointerrupters to measure force. In an example application, the tactile bumper is used to estimate a hexapedal robot's traction on different surfaces, by measuring the contact forces produced when pushing against a rigid obstacle.
+Advisor:  Ronald S. Fearing
+BibTeX citation:
+@mastersthesis{Karras:EECS-2014-40,
+Author = {Karras, Jaakko},
+Editor = {Fearing, Ronald S. and Bajcsy, Ruzena},
+Title = {Tactile Sensors for Palm-Size Crawling Robots},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-40.html},
+Number = {UCB/EECS-2014-40},
+Abstract = {Two novel, low-cost tactile sensors were designed for use in palm-size (approx. 10 cm in length, under 50 g in mass) crawling robots. The first is a binary, hair-based sensor array, which uses bio-inspired polymer hairs to detect both normal and shear contact forces. The hair sensors have an average normal sensitivity under 1 gram-force (1 gf approx. 10 mN), making them adequately sensitive for use in small, lightweight robots. Furthermore, the hair sensor array has a unique laminar design that allows it to be rapidly-manufactured using a layered roll-to-roll process. In a sample application, it was shown that the binary hair sensor array can be used to estimate average ground speed and to detect high-centering when running over simple obstacles by tracking the propagation of contact along the base of a crawling robot. The second sensor discussed in this work is an analog tactile bumper array that provides robots with the ability to measure contact forces when bumping into obstacles. The sensor consists of an array of laser-cut foam structures that were mechanically designed to exhibit two force sensitivity ranges. The tactile bumper is also cheap and easy to fabricate, using an array of laser-cut foam structures with analog photointerrupters to measure force. In an example application, the tactile bumper is used to estimate a hexapedal robot's traction on different surfaces, by measuring the contact forces produced when pushing against a rigid obstacle.}
+}
+EndNote citation:
+%0 Thesis
+%A Karras, Jaakko
+%E Fearing, Ronald S.
+%E Bajcsy, Ruzena
+%T Tactile Sensors for Palm-Size Crawling Robots
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 1
+%@ UCB/EECS-2014-40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-40.html
+%F Karras:EECS-2014-40

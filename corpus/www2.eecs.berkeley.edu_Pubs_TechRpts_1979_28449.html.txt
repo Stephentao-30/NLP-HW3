@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28449.html
+A Unified Hardware Description Language for CAD Programs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Unified Hardware Description Language for CAD Programs
+A Unified Hardware Description Language for CAD Programs
+J.D. Crawford
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/64
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-64.pdf
+BibTeX citation:
+@techreport{Crawford:M79/64,
+Author = {Crawford, J.D.},
+Title = {A Unified Hardware Description Language for CAD Programs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28449.html},
+Number = {UCB/ERL M79/64}
+}
+EndNote citation:
+%0 Report
+%A Crawford, J.D.
+%T A Unified Hardware Description Language for CAD Programs
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/64
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28449.html
+%F Crawford:M79/64

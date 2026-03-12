@@ -1,0 +1,30 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/fntSurvey15.html
+Computer-Assisted Query Formulation
+Computer-Assisted Query Formulation
+Alvin Cheung, Armando Solar-Lezama
+Foundations and Trends in Programming Languages, Vol 3, Issue 1
+Abstract
+Database management systems (DBMS) typically provide an application
+programming interface for users to issue queries using query
+languages such as SQL. Many such languages were originally designed
+for business data processing applications, but while these applications
+are still relevant, two other classes of applications have become
+important users of data management systems: (a) web applications that
+issue queries programmatically to the DBMS, and (b) data analytics
+involving complex queries that allow data scientists to better
+understand their datasets. Unfortunately, existing query languages provided
+by database management systems are often far from ideal for these
+application domains.
+In this tutorial, we describe a set of systems that assist users in
+specifying database queries for different application domains. The goal
+of such systems is to bridge the gap between current query interfaces
+provided by database management systems and the needs of different
+usage scenarios that are not well served by existing query languages.
+We discuss the different interaction modes that such systems provide
+and the algorithms used to infer user queries. In particular, we focus
+on a new class of systems built using program synthesis techniques,
+and furthermore discuss opportunities in combining synthesis and other
+methods used in prior systems to infer user queries.
+Download
+[ Article ]
+home

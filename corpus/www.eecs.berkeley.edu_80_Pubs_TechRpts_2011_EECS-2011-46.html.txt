@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-46.html
+Solution-Processed Inorganic Electronics
+Teymur T Bakhishev
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-46
+May 11,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-46.pdf
+The field of low-cost and solution-processed electronics has experienced a steady increase in research interest over the past two decades. Fueled by continuous advances in materials development and deposition techniques, low-cost, printable electronics are approaching reality. However, a number of advances remain to be accomplished in order to enable some key, sought after applications, such as displays and RFID tags.  In particular, to realize such systems, it will be necessary to facilitate the development of a number of underlying electronic devices, including conductors, transistors, and memory technologies.  These particular devices are the focus of this work.
+This work is focused on transparent thin film transistors (TFTs) and conductors for flexible displays and memories for printed RFID tags. TFTs and conductors are based on ink-jet printed reduced graphene oxide (rGO). Conditions for achieving good printed features, such as jetting dynamics, ink formulation, and printing temperature control are examined. Effects of these conditions, as well as various annealing schemes, on electrical performance are presented. Physical properties of printed films are investigated by atomic force microscopy (AFM) and X-ray photoemission spectroscopy (XPS). Resulting devices exhibit drive currents up to 1 μA, current ON/OFF ratios of up to 10, and field effect mobilities of up to 0.018cm2/V-s. Presented drive currents and mobilities are sufficient to drive a basic display pixel; however, larger ON/OFF ratios are generally required. Potential solutions to achieving higher ON/OFF ratios, such as use of nano-ribbon graphene inks or dual gate structures, are proposed.
+Memory presented in this work is based on filamentary switching in a silver/zinc oxide/gold (Ag/ZnO/Au) stack. There, diffusing Ag ions can reversibly form conducting paths through the ZnO electrolyte, thereby accomplishing data storage by changing the resistive state of the cell. A fully solution-processed cell is presented along with control cells based on evaporated metal contacts. Overall, good memory characteristics are observed: long retention time, cycling endurance of over 2000 cycles, good memory window, and minimum programming time of 200 ns. Filament growth dynamics are examined via potentiostatic, potentiodynamic, and temperature measurements. With the exception of a high temperature ZnO annealing step (350°C), these memories are fully-printable and plastic-compatible. Possible solutions for achieving low-temperature ZnO are presented, such as plasma treatments of deposited films and alternative sol-gel deposition techniques. With the incorporation of plastic-compatible electrolyte, this memory technology presents a promising candidate for printed electronics.
+Advisors:  Vivek Subramanian
+BibTeX citation:
+@phdthesis{Bakhishev:EECS-2011-46,
+Author= {Bakhishev, Teymur T},
+Title= {Solution-Processed Inorganic Electronics},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-46.html},
+Number= {UCB/EECS-2011-46},
+Abstract= {The field of low-cost and solution-processed electronics has experienced a steady increase in research interest over the past two decades. Fueled by continuous advances in materials development and deposition techniques, low-cost, printable electronics are approaching reality. However, a number of advances remain to be accomplished in order to enable some key, sought after applications, such as displays and RFID tags.  In particular, to realize such systems, it will be necessary to facilitate the development of a number of underlying electronic devices, including conductors, transistors, and memory technologies.  These particular devices are the focus of this work.
+This work is focused on transparent thin film transistors (TFTs) and conductors for flexible displays and memories for printed RFID tags. TFTs and conductors are based on ink-jet printed reduced graphene oxide (rGO). Conditions for achieving good printed features, such as jetting dynamics, ink formulation, and printing temperature control are examined. Effects of these conditions, as well as various annealing schemes, on electrical performance are presented. Physical properties of printed films are investigated by atomic force microscopy (AFM) and X-ray photoemission spectroscopy (XPS). Resulting devices exhibit drive currents up to 1 μA, current ON/OFF ratios of up to 10, and field effect mobilities of up to 0.018cm2/V-s. Presented drive currents and mobilities are sufficient to drive a basic display pixel; however, larger ON/OFF ratios are generally required. Potential solutions to achieving higher ON/OFF ratios, such as use of nano-ribbon graphene inks or dual gate structures, are proposed.
+Memory presented in this work is based on filamentary switching in a silver/zinc oxide/gold (Ag/ZnO/Au) stack. There, diffusing Ag ions can reversibly form conducting paths through the ZnO electrolyte, thereby accomplishing data storage by changing the resistive state of the cell. A fully solution-processed cell is presented along with control cells based on evaporated metal contacts. Overall, good memory characteristics are observed: long retention time, cycling endurance of over 2000 cycles, good memory window, and minimum programming time of 200 ns. Filament growth dynamics are examined via potentiostatic, potentiodynamic, and temperature measurements. With the exception of a high temperature ZnO annealing step (350°C), these memories are fully-printable and plastic-compatible. Possible solutions for achieving low-temperature ZnO are presented, such as plasma treatments of deposited films and alternative sol-gel deposition techniques. With the incorporation of plastic-compatible electrolyte, this memory technology presents a promising candidate for printed electronics.},
+}
+EndNote citation:
+%0 Thesis
+%A Bakhishev, Teymur T
+%T Solution-Processed Inorganic Electronics
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 11
+%@ UCB/EECS-2011-46
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-46.html
+%F Bakhishev:EECS-2011-46

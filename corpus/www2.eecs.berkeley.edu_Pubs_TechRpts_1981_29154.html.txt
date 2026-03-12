@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29154.html
+How to Exchange (Secret) Keys | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+How to Exchange (Secret) Keys
+How to Exchange (Secret) Keys
+Manuel Blum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/90
+November 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-90.pdf
+BibTeX citation:
+@techreport{Blum:M81/90,
+Author = {Blum, Manuel},
+Title = {How to Exchange (Secret) Keys},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29154.html},
+Number = {UCB/ERL M81/90}
+}
+EndNote citation:
+%0 Report
+%A Blum, Manuel
+%T How to Exchange (Secret) Keys
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/90
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29154.html
+%F Blum:M81/90

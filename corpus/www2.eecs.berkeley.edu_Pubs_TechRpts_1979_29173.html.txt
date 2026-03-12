@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29173.html
+Retrospection on a Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Retrospection on a Data Base System
+Retrospection on a Data Base System
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/4
+January 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-4.pdf
+BibTeX citation:
+@techreport{Stonebraker:M79/4,
+Author = {Stonebraker, Michael},
+Title = {Retrospection on a Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29173.html},
+Number = {UCB/ERL M79/4}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Retrospection on a Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29173.html
+%F Stonebraker:M79/4

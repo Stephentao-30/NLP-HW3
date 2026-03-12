@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/age-ai-seeing-still-believing
+In the Age of A.I., Is Seeing Still Believing? - EECS at Berkeley
+EE Profs. Hany Farid and Alyosha Efros, the class CS 194-26—Image Manipulation and Computational Photography, and grad students Shiry Ginosar, Deepak Pathak, Angjoo Kanazawa, Richard Zhang, Jacob Huh and Tinghui Zhou are profiled in a New Yorker article titled “In the Age of A.I., Is Seeing Still Believing?” about how advances in digital imagery could deepen the fake-news crisis—or help us get out of it.  Farid is an expert in photo-forensics who “trained” a neural network to pick out numbers in the pixels of a degraded image of a license plate.  Efros pioneered a method for intelligently sampling bits of an image and probabilistically recombining them so that a texture could be indefinitely and organically extended (known in Photoshop as “content-aware fill”).   True realism, Efros said, requires “data, data, data” about “the gunk, the dirt, the complexity of the world,” which is best gathered by accident, through the recording of ordinary life.
+Categories
+Education
+Faculty
+Research
+Students
+View
+Open Faculty Positions

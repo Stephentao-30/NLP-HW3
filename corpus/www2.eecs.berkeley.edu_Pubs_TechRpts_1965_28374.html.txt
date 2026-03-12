@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28374.html
+On the Stability of Nonlinear Sampled-Data Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Stability of Nonlinear Sampled-Data Feedback Systems
+On the Stability of Nonlinear Sampled-Data Feedback Systems
+C.T. Chen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M109
+April 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-109.pdf
+BibTeX citation:
+@techreport{Chen:M109,
+Author = {Chen, C.T.},
+Title = {On the Stability of Nonlinear Sampled-Data Feedback Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28374.html},
+Number = {UCB/ERL M109}
+}
+EndNote citation:
+%0 Report
+%A Chen, C.T.
+%T On the Stability of Nonlinear Sampled-Data Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M109
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28374.html
+%F Chen:M109

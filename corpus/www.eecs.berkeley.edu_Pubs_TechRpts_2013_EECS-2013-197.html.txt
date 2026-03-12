@@ -1,0 +1,59 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-197.html
+Data-Driven Probabilistic Modeling and Verification of Human Driver Behavior
+Dorsa Sadigh and Katherine Driggs Campbell and Alberto Alessandro Angelo Puggelli and Wenchao Li and Victor Shia and Ruzena Bajcsy and Alberto L. Sangiovanni-Vincentelli and S. Shankar Sastry and Sanjit A. Seshia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-197
+December 5,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-197.pdf
+We address the problem of formally verifying quantitative
+properties of driver models.We first propose a novel stochastic
+model of the driver behavior based on Convex Markov
+Chains, i.e., Markov chains in which the transition probabilities
+are only known to lie in convex uncertainty sets. This formalism
+captures the intrinsic uncertainty in estimating transition
+probabilities starting from experimentally-collected data.
+We then formally verify properties of the model expressed
+in probabilistic computation tree logic (PCTL). Results show
+that our approach can correctly predict quantitative information
+about driver behavior depending on his/her state, e.g.,
+whether he or she is attentive or distracted.
+BibTeX citation:
+@techreport{Sadigh:EECS-2013-197,
+Author= {Sadigh, Dorsa and Driggs Campbell, Katherine and Puggelli, Alberto Alessandro Angelo and Li, Wenchao and Shia, Victor and Bajcsy, Ruzena and Sangiovanni-Vincentelli, Alberto L. and Sastry, S. Shankar and Seshia, Sanjit A.},
+Title= {Data-Driven Probabilistic Modeling and Verification of Human Driver Behavior},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-197.html},
+Number= {UCB/EECS-2013-197},
+Abstract= {We address the problem of formally verifying quantitative
+properties of driver models.We first propose a novel stochastic
+model of the driver behavior based on Convex Markov
+Chains, i.e., Markov chains in which the transition probabilities
+are only known to lie in convex uncertainty sets. This formalism
+captures the intrinsic uncertainty in estimating transition
+probabilities starting from experimentally-collected data.
+We then formally verify properties of the model expressed
+in probabilistic computation tree logic (PCTL). Results show
+that our approach can correctly predict quantitative information
+about driver behavior depending on his/her state, e.g.,
+whether he or she is attentive or distracted.},
+}
+EndNote citation:
+%0 Report
+%A Sadigh, Dorsa
+%A Driggs Campbell, Katherine
+%A Puggelli, Alberto Alessandro Angelo
+%A Li, Wenchao
+%A Shia, Victor
+%A Bajcsy, Ruzena
+%A Sangiovanni-Vincentelli, Alberto L.
+%A Sastry, S. Shankar
+%A Seshia, Sanjit A.
+%T Data-Driven Probabilistic Modeling and Verification of Human Driver Behavior
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 5
+%@ UCB/EECS-2013-197
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-197.html
+%F Sadigh:EECS-2013-197

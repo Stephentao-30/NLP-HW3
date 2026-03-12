@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28862.html
+Fuzzy Sets and Their Application To Pattern Classification and Cluster Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fuzzy Sets and Their Application To Pattern Classification and Cluster Analysis
+Fuzzy Sets and Their Application To Pattern Classification and Cluster Analysis
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M607
+October 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-607.pdf
+BibTeX citation:
+@techreport{Zadeh:M607,
+Author = {Zadeh, L.A.},
+Title = {Fuzzy Sets and Their Application To Pattern Classification and Cluster Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28862.html},
+Number = {UCB/ERL M607}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Fuzzy Sets and Their Application To Pattern Classification and Cluster Analysis
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M607
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28862.html
+%F Zadeh:M607

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7454.html
+MOS Switched-Capacitor Analog Sampled-Data Recursive Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+MOS Switched-Capacitor Analog Sampled-Data Recursive Filters
+MOS Switched-Capacitor Analog Sampled-Data Recursive Filters
+Ian A. Young
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/61
+November 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-61.pdf
+Advisor:  David A. Hodges
+BibTeX citation:
+@phdthesis{Young:M78/61,
+Author = {Young, Ian A.},
+Title = {MOS Switched-Capacitor Analog Sampled-Data Recursive Filters},
+School = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7454.html},
+Number = {UCB/ERL M78/61}
+}
+EndNote citation:
+%0 Thesis
+%A Young, Ian A.
+%T MOS Switched-Capacitor Analog Sampled-Data Recursive Filters
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7454.html
+%F Young:M78/61

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-234.html
+Harsh Environment Silicon Carbide Metal-Semiconductor Field-Effect Transistor
+Wei-Cheng Lien
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-234
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-234.pdf
+A harsh environment can be defined by one or more of the following: High temperature, high shock, high radiation, erosive flow, and corrosive media. Among all the harsh environment applications, high temperature applications have drawn lots of attention due to the emerging activity in automotive, turbine engine, space exploration and deep-well drilling telemetry. Silicon carbide has become the candidate for these harsh environment applications because of its wide bandgap, excellent chemical and thermal stability, and high breakdown electric field strength. This work details the fabrication process of n-channel silicon carbide metal-semiconductor field-effect transistors and the device performances are characterized from room temperature to 550 °C. These devices are made along with the fabrication process of silicon carbide junction field-effect transistors. The high transconductance and on/off drain saturation current ratio for the entire temperature range suggest the possibility of using these devices for high temperature operational amplifier applications.
+Advisors:  Albert Pisano
+BibTeX citation:
+@mastersthesis{Lien:EECS-2013-234,
+Author= {Lien, Wei-Cheng},
+Title= {Harsh Environment Silicon Carbide Metal-Semiconductor Field-Effect Transistor},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-234.html},
+Number= {UCB/EECS-2013-234},
+Abstract= {A harsh environment can be defined by one or more of the following: High temperature, high shock, high radiation, erosive flow, and corrosive media. Among all the harsh environment applications, high temperature applications have drawn lots of attention due to the emerging activity in automotive, turbine engine, space exploration and deep-well drilling telemetry. Silicon carbide has become the candidate for these harsh environment applications because of its wide bandgap, excellent chemical and thermal stability, and high breakdown electric field strength. This work details the fabrication process of n-channel silicon carbide metal-semiconductor field-effect transistors and the device performances are characterized from room temperature to 550 °C. These devices are made along with the fabrication process of silicon carbide junction field-effect transistors. The high transconductance and on/off drain saturation current ratio for the entire temperature range suggest the possibility of using these devices for high temperature operational amplifier applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Lien, Wei-Cheng
+%T Harsh Environment Silicon Carbide Metal-Semiconductor Field-Effect Transistor
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-234
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-234.html
+%F Lien:EECS-2013-234

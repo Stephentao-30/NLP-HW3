@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29419.html
+An Improved Algorithm for Optimization Problems with Functional Inequality Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Improved Algorithm for Optimization Problems with Functional Inequality Constraints
+An Improved Algorithm for Optimization Problems with Functional Inequality Constraints
+C. Gonzaga, E. Polak and R. Trahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/56
+September 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-78-56.pdf
+BibTeX citation:
+@techreport{Gonzaga:M78/56,
+Author = {Gonzaga, C. and Polak, E. and Trahan, R.},
+Title = {An Improved Algorithm for Optimization Problems with Functional Inequality Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29419.html},
+Number = {UCB/ERL M78/56}
+}
+EndNote citation:
+%0 Report
+%A Gonzaga, C.
+%A Polak, E.
+%A Trahan, R.
+%T An Improved Algorithm for Optimization Problems with Functional Inequality Constraints
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M78/56
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29419.html
+%F Gonzaga:M78/56

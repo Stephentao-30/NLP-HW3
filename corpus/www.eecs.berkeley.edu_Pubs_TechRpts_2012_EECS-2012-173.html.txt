@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-173.html
+Modelyze: a Gradually Typed Host Language for Embedding Equation-Based Modeling Languages
+David Broman and Jeremy G. Siek
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-173
+June 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-173.pdf
+Equation-based modeling languages provide an effective means to simulate the physical part of a cyber-physical system. Such languages are complex domain-specific languages that enable model engineers, such as mechanical engineers, to declaratively model the dynamics of systems. However, these modeling languages do not support all modeling needs, which has lead to frequent revisions of state-of-the-art languages. In this article we explore a solution to this extensibility problem based on domain-specific embedded languages.  We introduce a host language, named Modelyze, in which modeling languages may be easily embedded. The key features of Modelyze are first-class functions, which provide a mechanism to abstract components of a model, and symbolic expressions, to represent and manipulate equations. The type system for symbolic expressions supports model-level static error checking and provides an automatic lifting translation to provide seamless integration between the host language and the equations represented by symbolic expressions. The type system is based on gradual typing, enabling early static checking for model engineers while providing expressiveness for domain experts. We evaluate this approach by embedding a series of equation-based modeling languages in Modelyze and using them to develop models.
+BibTeX citation:
+@techreport{Broman:EECS-2012-173,
+Author= {Broman, David and Siek, Jeremy G.},
+Title= {Modelyze: a Gradually Typed Host Language for Embedding Equation-Based Modeling Languages},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-173.html},
+Number= {UCB/EECS-2012-173},
+Abstract= {Equation-based modeling languages provide an effective means to simulate the physical part of a cyber-physical system. Such languages are complex domain-specific languages that enable model engineers, such as mechanical engineers, to declaratively model the dynamics of systems. However, these modeling languages do not support all modeling needs, which has lead to frequent revisions of state-of-the-art languages. In this article we explore a solution to this extensibility problem based on domain-specific embedded languages.  We introduce a host language, named Modelyze, in which modeling languages may be easily embedded. The key features of Modelyze are first-class functions, which provide a mechanism to abstract components of a model, and symbolic expressions, to represent and manipulate equations. The type system for symbolic expressions supports model-level static error checking and provides an automatic lifting translation to provide seamless integration between the host language and the equations represented by symbolic expressions. The type system is based on gradual typing, enabling early static checking for model engineers while providing expressiveness for domain experts. We evaluate this approach by embedding a series of equation-based modeling languages in Modelyze and using them to develop models.},
+}
+EndNote citation:
+%0 Report
+%A Broman, David
+%A Siek, Jeremy G.
+%T Modelyze: a Gradually Typed Host Language for Embedding Equation-Based Modeling Languages
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 30
+%@ UCB/EECS-2012-173
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-173.html
+%F Broman:EECS-2012-173

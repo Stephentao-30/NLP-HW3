@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/logics-project-receives-84m-darpa-grant
+LOGiCS project receives $8.4M DARPA grant - EECS at Berkeley
+Learning-Based Oracle-Guided Compositional Symbiotic Design of CPS (LOGiCS), a project led by Prof. Sanjit Seshia with a team that includes Profs. Prabal Dutta, Björn Hartmann, Alberto Sangiovanni-Vincentelli, Claire Tomlin, and Shankar Sastry, as well as alumni Ankur Mehta (EECS Ph.D. ’12, advisor: Kris Pister) and Daniel Fremont (CS Ph.D. ’20, advisor: Sanjit Seshia), has been awarded an $8.4M Defense Advanced Research Projects Agency (DARPA) grant as part of their Symbiotic Design of Cyber-Physical Systems (SDCPS) program.  CPS has applications not only for DARPA missions but also in areas such as agriculture, environmental science, civil engineering, healthcare, and transportation. SDCPS is a four-year program which aims to “develop AI-based approaches that partner with human intelligence to perform ‘correct-by-construction’ design for cyber-physical systems, which integrate computation with physical processes.”  LOGiCS takes a novel approach that blends AI and machine learning with guidance from human and computational oracles to perform compositional design of CPS such as autonomous vehicles that operate on the ground, in the air and in water to achieve complex missions.  “Our primary role is to develop algorithms, formalisms and software for use in the design of CPS,” said Seshia. “These techniques allow designers to represent large, complex design spaces; efficiently search those spaces for safe, high-performance designs; and compose multiple components spanning very different domains — structural, mechanical, electrical and computational.”
+Categories
+Alumni
+Faculty
+Research
+View
+Open Faculty Positions

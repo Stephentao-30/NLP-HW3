@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28576.html
+Characterization and Reproduction of the Referencing Dynamics of Programs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Characterization and Reproduction of the Referencing Dynamics of Programs
+Characterization and Reproduction of the Referencing Dynamics of Programs
+Domenico Ferrari
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/22
+April 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-22.pdf
+BibTeX citation:
+@techreport{Ferrari:M81/22,
+Author = {Ferrari, Domenico},
+Title = {Characterization and Reproduction of the Referencing Dynamics of Programs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28576.html},
+Number = {UCB/ERL M81/22}
+}
+EndNote citation:
+%0 Report
+%A Ferrari, Domenico
+%T Characterization and Reproduction of the Referencing Dynamics of Programs
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28576.html
+%F Ferrari:M81/22

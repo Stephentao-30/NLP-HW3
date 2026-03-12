@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-165.html
+Variability Modeling and Statistical Parameter Extraction for CMOS Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Variability Modeling and Statistical Parameter Extraction for CMOS Devices
+Variability Modeling and Statistical Parameter Extraction for CMOS Devices
+Kun Qian
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-165
+June 12, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-165.pdf
+Semiconductor technology has been scaling down at an exponential rate for many decades, yielding dramatic improvements in power, performance and cost, year after year. Today’s advanced CMOS transistors have critical dimensions well below 24nm. This means that controlling the manufacturing process is increasingly difficult. Process and material fluctuations cause device and circuit characteristics to deviate from design goals, and introduce significant device-to-device variability due to spatial variations across silicon wafers. Accurate modeling of these spatial process variations has become critical to both foundries and circuit designers that seek optimal power/speed/area balance.
+To understand the nature of spatial process variations, we first carried out a comprehensive variability analysis of data measured from thousands of variability-sensitized test structures, including ring oscillators, SRAM bit cells and their internal transistors. We manufactured these test chips using early stage 90nm and 45nm commercial semiconductor processes. We proposed a hierarchical variability model to capture the systematic and random components of device parameter variations across silicon wafers, and across chips. The detailed decomposition of the process variation profile reveals significant across-wafer systematic component for the delay and leakage of ring oscillators, and across-chip systematic component for the read/write margins of SRAM bit cells, as well as their internal transistors. The proper modeling of each hierarchical component proved to be crucial for the accurate estimation of the statistics of device performance distribution and its parametric yield.
+The knowledge gained about process variation from carefully designed test structures was leveraged into estimating the variation and parametric yield of new devices and circuits. This was accomplished by improved the statistical compact model parameter extraction methodology, and by proposing a stepwise parameter selection method. We used a normalized notional confidence interval and, and the sum of squares of fitting residuals as extraction and fitting quality criteria. This allowed us to determine the essential model parameters for accurate fitting over a large number of transistors. We applied this methodology to EKV and PSP with both simulated and experimental data, demonstrating its effectiveness. Finally, we combined the results from statistical parameter extraction with the hierarchical spatial variability model. This, compared to traditional methods, produced much-improved estimates of device performance and manufacturing yield.
+Advisor:  Costas J. Spanos
+BibTeX citation:
+@phdthesis{Qian:EECS-2015-165,
+Author = {Qian, Kun},
+Title = {Variability Modeling and Statistical Parameter Extraction for CMOS Devices},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-165.html},
+Number = {UCB/EECS-2015-165},
+Abstract = {Semiconductor technology has been scaling down at an exponential rate for many decades, yielding dramatic improvements in power, performance and cost, year after year. Today’s advanced CMOS transistors have critical dimensions well below 24nm. This means that controlling the manufacturing process is increasingly difficult. Process and material fluctuations cause device and circuit characteristics to deviate from design goals, and introduce significant device-to-device variability due to spatial variations across silicon wafers. Accurate modeling of these spatial process variations has become critical to both foundries and circuit designers that seek optimal power/speed/area balance.
+To understand the nature of spatial process variations, we first carried out a comprehensive variability analysis of data measured from thousands of variability-sensitized test structures, including ring oscillators, SRAM bit cells and their internal transistors. We manufactured these test chips using early stage 90nm and 45nm commercial semiconductor processes. We proposed a hierarchical variability model to capture the systematic and random components of device parameter variations across silicon wafers, and across chips. The detailed decomposition of the process variation profile reveals significant across-wafer systematic component for the delay and leakage of ring oscillators, and across-chip systematic component for the read/write margins of SRAM bit cells, as well as their internal transistors. The proper modeling of each hierarchical component proved to be crucial for the accurate estimation of the statistics of device performance distribution and its parametric yield.
+The knowledge gained about process variation from carefully designed test structures was leveraged into estimating the variation and parametric yield of new devices and circuits. This was accomplished by improved the statistical compact model parameter extraction methodology, and by proposing a stepwise parameter selection method. We used a normalized notional confidence interval and, and the sum of squares of fitting residuals as extraction and fitting quality criteria. This allowed us to determine the essential model parameters for accurate fitting over a large number of transistors. We applied this methodology to EKV and PSP with both simulated and experimental data, demonstrating its effectiveness. Finally, we combined the results from statistical parameter extraction with the hierarchical spatial variability model. This, compared to traditional methods, produced much-improved estimates of device performance and manufacturing yield.}
+}
+EndNote citation:
+%0 Thesis
+%A Qian, Kun
+%T Variability Modeling and Statistical Parameter Extraction for CMOS Devices
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 June 12
+%@ UCB/EECS-2015-165
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-165.html
+%F Qian:EECS-2015-165

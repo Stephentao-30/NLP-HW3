@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28834.html
+The Multilayer Routing Problem: Some Necessary and Sufficient Conditions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Multilayer Routing Problem: Some Necessary and Sufficient Conditions
+The Multilayer Routing Problem: Some Necessary and Sufficient Conditions
+B.S. Ting, E.S. Kuh and I. Shirakawa
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M559
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-559.pdf
+BibTeX citation:
+@techreport{Ting:M559,
+Author = {Ting, B.S. and Kuh, E.S. and Shirakawa, I.},
+Title = {The Multilayer Routing Problem: Some Necessary and Sufficient Conditions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28834.html},
+Number = {UCB/ERL M559}
+}
+EndNote citation:
+%0 Report
+%A Ting, B.S.
+%A Kuh, E.S.
+%A Shirakawa, I.
+%T The Multilayer Routing Problem: Some Necessary and Sufficient Conditions
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M559
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28834.html
+%F Ting:M559

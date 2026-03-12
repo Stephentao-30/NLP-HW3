@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6940.html
+Optimal control with Random Inputs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal control with Random Inputs
+Optimal control with Random Inputs
+Huibert Kwakernaak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M28
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-28.pdf
+Advisor:  Arthur R. Bergen
+BibTeX citation:
+@phdthesis{Kwakernaak:M28,
+Author = {Kwakernaak, Huibert},
+Title = {Optimal control with Random Inputs},
+School = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6940.html},
+Number = {UCB/ERL M28}
+}
+EndNote citation:
+%0 Thesis
+%A Kwakernaak, Huibert
+%T Optimal control with Random Inputs
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6940.html
+%F Kwakernaak:M28

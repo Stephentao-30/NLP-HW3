@@ -1,0 +1,27 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-183.html
+A Team Analysis Proposal for Recursive Single Program, Multiple Data Programs
+Amir Ashraf Kamil
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-183
+August 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-183.pdf
+BibTeX citation:
+@techreport{Kamil:EECS-2012-183,
+Author= {Kamil, Amir Ashraf},
+Title= {A Team Analysis Proposal for Recursive Single Program, Multiple Data Programs},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-183.html},
+Number= {UCB/EECS-2012-183},
+}
+EndNote citation:
+%0 Report
+%A Kamil, Amir Ashraf
+%T A Team Analysis Proposal for Recursive Single Program, Multiple Data Programs
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 6
+%@ UCB/EECS-2012-183
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-183.html
+%F Kamil:EECS-2012-183

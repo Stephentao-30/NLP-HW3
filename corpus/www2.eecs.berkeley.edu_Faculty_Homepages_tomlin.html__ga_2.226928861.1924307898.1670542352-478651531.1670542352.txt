@@ -1,0 +1,98 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html?_ga=2.226928861.1924307898.1670542352-478651531.1670542352
+Claire Tomlin | EECS at UC Berkeley
+Skip to main content
+Home
+People
+Faculty
+Claire Tomlin
+Larger
+Photo
+Info Links
+Research Areas
+Control, Intelligent Systems, and Robotics (CIR)
+Biosystems & Computational Biology (BIO)
+Control theory; hybrid and embedded systems; biological cell networks
+Research Centers
+Berkeley Center for New Media (BCNM)
+SWARM Lab
+Foundations Of Resilient CybEr-physical Systems (FORCES)
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems (VeHICaL)
+Center for Neural Engineering & Prostheses (CNEP)
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)
+Biography
+EECS Prof. Claire Tomlin holds of the Charles A. Desoer Chair in Engineering.  Her research interests include hybrid systems, distributed and decentralized optimization, and control theory, with an emphasis on applications, unmanned aerial vehicles, air traffic control and modeling of biological processes. She taught at Stanford University from 1998 to-2007 where she was a director of the Hybrid Systems Laboratory and held joint positions the Department of Aeronautics and Astronautics and the Department of Electrical Engineering.   She was awarded a MacArthur Genius grant in 2006 and the IEEE Transportation Technologies Award in 2017 "for contributions to air transportation systems, focusing on collision avoidance protocol design and avionics safety verification"
+Education
+1998, Ph.D., EECS, UC Berkeley
+1993, M.Sc., Electrical Engineering, Imperial College, London
+1992, B.A.Sc., Electrical Engineering, University of Waterloo
+Selected Publications
+D. Zhou, Q. Hu, and C. Tomlin, "Quantitative comparison of data-driven and physics-based models for commercial building HVAC systems," in  2017 American Control Conference , 2017.
+G. Fiore, Y. H. Chang, Q. Hu, D. Di Benedetto, and C. Tomlin, "Secure state estimation for cyber physical systems with sparse malicious packet drops," in  2017 American Control Conference , 2017.
+Q. Hu, D. Fooladivanda, Y. H. Chang, and C. Tomlin, "Secure state estimation for nonlinear power systems under cyber attacks," in  2017 American Control Conference , 2017.
+Q. Hu, Y. H. Chang, and C. Tomlin, "Secure estimation for unmanned aerial vehicles against adversarial cyber attacks," in  30th congress of the international council of the aeronautical sciences , 2016.
+R. L. Raffard and C. Tomlin, " Tractable algorithm for open loop stochastic control ," in  Proc. 45th IEEE Conf. on Decision and Control (CDC 2006) , Piscataway, NJ: IEEE Press, 2006, pp. 3222-3227.
+R. Raffard, K. Amonlirdviman, J. D. Axelrod, and C. Tomlin, " Automatic parameter identification via the adjoint method, with application to understanding planar cell polarity ," in  Proc. 45th IEEE Conf. on Decision and Control (CDC 2006) , Piscataway, NJ: IEEE Press, 2006, pp. 13-18.
+I. Hwang, H. Balakrishnan, and C. Tomlin, " State estimation for hybrid systems: Applications to aircraft tracking ,"  IEE Proc. Control Theory and Applications , vol. 153, no. 5, pp. 556-566, Sep. 2006.
+A. M. Bayen, R. L. Raffard, and C. Tomlin, " Adjoint-based control of a new Eulerian network model for air traffic flow ,"  IEEE Trans. Control Systems Technology , vol. 14, no. 5, pp. 804-818, Sep. 2006.
+K. Roy, B. Levy, and C. Tomlin, " Target tracking and estimated time of arrival (ETA) prediction for arrival aircraft ," in  Proc. AIAA Guidance, Navigation, and Control Conf. and Exhibit , Herndon, VA: American Institute of Aeronautics and Astronautics, Inc., 2006, pp. 1-22.
+S. L. Waslander, R. L. Raffard, and C. Tomlin, " Toward efficient and equitable distributed air traffic flow control ," in  Proc. 2006 American Control Conf. (ACC '06) , Piscataway, NJ: IEEE Press, 2006, pp. 5189-5194.
+A. M. Bayen, P. Grieder, G. Meyer, and C. Tomlin, " Lagrangian delay predictive model for sector-based air traffic flow ,"  AIAA J. Guidance, Control, and Dynamics , vol. 28, no. 5, pp. 1015-1026, Sep. 2005.
+I. M. Mitchell, A. M. Bayen, and C. Tomlin, " A time-dependent Hamilton-Jacobi formulation of reachable sets for continuous dynamic games ,"  IEEE Trans. Automatic Control , vol. 50, no. 7, pp. 947-957, July 2005.
+C. Tomlin and J. D. Axelrod, " Understanding biology by reverse engineering the control ,"  Proc. National Academy of Sciences of the United States of America , vol. 102, no. 12, pp. 4219-4220, March 2005.
+I. Hwang, K. Roy, H. Balakrishnan, and C. Tomlin, " A distributed multiple-target identity management algorithm in sensor networks ," in  Proc. 2004 43rd IEEE Conf. on Decision and Control , Vol. 1, Piscataway, NJ: IEEE Press, 2004, pp. 728-734.
+D. M. Stipanovic, G. Inalhan, R. Teo, and C. Tomlin, " Decentralized overlapping control of a formation of unmanned aerial vehicles ,"  Automatica , vol. 40, no. 8, pp. 1285-1296, Aug. 2004.
+I. Hwang, H. Balakrishnan, K. Roy, and C. Tomlin, " Multiple-target tracking and identity management in clutter, with application to aircraft tracking ," in  Proc. 2004 American Control Conf. (ACC '04) , Vol. 4, Evanston, IL: American Automatic Control Council, 2004, pp. 3422-3428.
+R. Ghosh and C. Tomlin, " Symbolic reachable set computation of piecewise affine hybrid automata and its application to biological modelling: Delta-Notch protein signaling ,"  IEE Systems Biology , vol. 1, no. 1, pp. 170-183, June 2004.
+C. Tomlin, I. Mitchell, A. M. Bayen, and M. Oishi, " Computational techniques for the verification of hybrid systems ,"  Proc. IEEE , vol. 91, no. 7, pp. 986-1001, July 2003.
+R. Ghosh and C. Tomlin, " Lateral inhibition through Delta-Notch signaling: A piecewise affine hybrid model ," in  Hybrid Systems: Computation and Control. Proc. 4th Intl. Workshop (HSCC 2001) , M. D. Di Benedetto and A. L. Sangiovanni-Vincentelli, Eds., Lecture Notes in Computer Science, Vol. 2034, Berlin, Germany: Springer-Verlag, 2001, pp. 232-246.
+C. Tomlin, J. Lygeros, and S. S. Sastry, " A game theoretic approach to controller design for hybrid systems (Invited Paper) ,"  Proc. IEEE , vol. 88, no. 7, pp. 949-970, July 2000.
+Awards, Memberships and Fellowships
+International Federation for Automatic Control (IFAC) Fellow ,
+2020
+American Academy of Arts and Sciences Member ,
+2019
+National Academy of Engineering (NAE) Member ,
+2019
+IEEE Transportation Technologies Award ,
+2017
+Outstanding Advising Administrator, Director, Manager, Faculty Advisor or Dean ,
+2017
+American Institute for Medical and Biological Engineering (AIMBE) Fellow ,
+2015
+Electrical Engineering Award for Outstanding Teaching ,
+2011
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2010
+Okawa Research Grant ,
+2006
+MacArthur Fellow ,
+2006
+Donald P. Eckman Award ,
+2003
+MIT Tech Review Top 100 Innovators Under 35 (TR100) ,
+2003
+Links and Contact Info
+Links
+Personal Homepage
+Publications
+Dissertations
+Contact Information
+721 Sutardja Dai Hall
+tel:
+510-643-6610
+tomlin@eecs.berkeley.edu
+Office Hours
+By Appointment, 721 Sutardja Dai
+Assistant
+Jessica Gamble
+337 Cory
+510-643-5105
+jessicagamble@berkeley.edu
+Alex Sandoval
+510 642-0253
+alexandersandoval@eecs.berkeley.edu
+Research Support
+Annie Ren
+353 Cory
+annie@erso.berkeley.edu

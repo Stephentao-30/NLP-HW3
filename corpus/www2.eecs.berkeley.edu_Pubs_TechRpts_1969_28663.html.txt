@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28663.html
+Abstract Models for the Synthesis of Optimization Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Abstract Models for the Synthesis of Optimization Algorithms
+Abstract Models for the Synthesis of Optimization Algorithms
+G. Meyer and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M268
+October 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-268.pdf
+BibTeX citation:
+@techreport{Meyer:M268,
+Author = {Meyer, G. and Polak, E.},
+Title = {Abstract Models for the Synthesis of Optimization Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1969},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28663.html},
+Number = {UCB/ERL M268}
+}
+EndNote citation:
+%0 Report
+%A Meyer, G.
+%A Polak, E.
+%T Abstract Models for the Synthesis of Optimization Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M268
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28663.html
+%F Meyer:M268

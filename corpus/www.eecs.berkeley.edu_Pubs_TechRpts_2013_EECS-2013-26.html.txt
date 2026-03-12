@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-26.html
+Anatomy of the Berkeley Sensor & Actuator Center (BSAC):
+John Huggins
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-26
+April 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-26.pdf
+The Berkeley Sensor & Actuator Center at the University of California Berkeley has, since 1986 (more than twenty‐five years), had a major impact on the research foundations and consequent commercialization of MEMS and NEMS. This has been achieved through creative combinations of resources, incentives, and shared goals involving Academia, Industry, and Government. The strongly multidisciplinary and
+interdisciplinary operational model of BSAC (a National Science Foundation Industry/University Cooperative Research Center) is described.
+BibTeX citation:
+@techreport{Huggins:EECS-2013-26,
+Author= {Huggins, John},
+Title= {Anatomy of the Berkeley Sensor & Actuator Center (BSAC):},
+Year= {2013},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-26.html},
+Number= {UCB/EECS-2013-26},
+Abstract= {The Berkeley Sensor & Actuator Center at the University of California Berkeley has, since 1986 (more than twenty‐five years), had a major impact on the research foundations and consequent commercialization of MEMS and NEMS. This has been achieved through creative combinations of resources, incentives, and shared goals involving Academia, Industry, and Government. The strongly multidisciplinary and
+interdisciplinary operational model of BSAC (a National Science Foundation Industry/University Cooperative Research Center) is described.},
+}
+EndNote citation:
+%0 Report
+%A Huggins, John
+%T Anatomy of the Berkeley Sensor & Actuator Center (BSAC):
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 April 8
+%@ UCB/EECS-2013-26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-26.html
+%F Huggins:EECS-2013-26

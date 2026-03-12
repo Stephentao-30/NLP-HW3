@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29379.html
+Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom
+Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom
+M.A. Lieberman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/83
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-79-83.pdf
+BibTeX citation:
+@techreport{Lieberman:M79/83,
+Author = {Lieberman, M.A.},
+Title = {Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29379.html},
+Number = {UCB/ERL M79/83}
+}
+EndNote citation:
+%0 Report
+%A Lieberman, M.A.
+%T Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M79/83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29379.html
+%F Lieberman:M79/83

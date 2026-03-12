@@ -1,0 +1,1011 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/publications
+Alan Mishchenko - Publications
+Publications of Alan Mishchenko
+Last modified: June 28, 2019.
+Disclaimer: Papers are made available on this webpage to ensure
+timely dissemination of research results. Copyright and all rights
+therein are retained by authors or other copyright holders.
+In particular, the papers that appeared in Design Automation
+Conference are available here due to the
+copyright policy of ACM .
+2019
+IWLS
+S.-Y. Lee, J.-H. R. Jiang, A. Mishchenko, and R. Brayton,
+"Enumeration of minimum fanout-free circuit structures",
+Proc. IWLS'19.
+PDF
+V. Possani, A. Mishchenko, R. Ribas, and A. Reis,
+"Parallel combinational equivalence checking",
+Proc. IWLS'19.
+PDF
+Y. Miyasaka, A. Mishchenko, and M. Fujita,
+"Area efficient BDD package without reordering and its application to logic optimization with permissible functions",
+Proc. IWLS'19.
+PDF
+Workshop on Understanding and Improving Generalization in Deep Learning (co-located with ICML 2019)
+S. Chatterjee and A. Mishchenko,
+"Circuit-based intrinsic methods to detect overfitting",
+Proc. WUIGDL'19.
+PDF
+Poster
+DAC
+H. Riener, E. Testa, W. Haaswijk, A. Mishchenko, L. Amaru, and G. De Micheli, M. Soeken,
+"Scalable generic logic synthesis: One approach to rule them all",
+Proc. DAC'19.
+PDF
+ISMVL
+B. Schmitt, M. Soeken, G. De Micheli, and A. Mishchenko,
+"Scaling-up ESOP synthesis for quantum compilation",
+Proc. ISMVL'19.
+PDF
+MBMV
+H. Riener, E. Testa, W. Haaswijk, A. Mishchenko, L. Amaru, G. De Micheli, and M. Soeken,
+"Logic optimization of majority-inverter graphs",
+Proc. MBMV'19.
+PDF
+DATE
+E. Testa, L. Amaru, M. Soeken, A. Mishchenko, P. Vuillod, J. Luo, Ch. Casares, P.-E. Gaillardon, and G. De Micheli,
+"Scalable Boolean methods in a modern synthesis flow",
+Proc. DATE'19.
+PDF
+H. Riener, W. Haaswijk, A. Mishchenko, G. De Micheli, and M. Soeken,
+"On-the-fly and DAG-aware: Rewriting Boolean networks with exact synthesis",
+Proc. DATE'19.
+PDF
+Journals
+X. Zhou, L. Wang, and A. Mishchenko,
+"Fast adjustable NPN classification using generalized symmetries",
+ACM TRETS, Vol. 12(2), June 2019, Article 7.
+PDF
+2018
+LPAR-22
+C. Yu, A. Yasin, T. Su, A. Mishchenko, and M. Ciesielski,
+"Rewriting environment for arithmetic circuit verification",
+Proc. 22nd Intl. Conf. on Logic for Programming Artificial Intelligence and Reasoning (LPAR-22).
+PDF
+ICCAD
+V. N. Possani, Y.-S. Lu, A. Mishchenko, K. Pingali, R. Ribas, and A. Reis,
+"Unlocking fine-grain parallelism for AIG rewriting", Proc. ICCAD'18.
+PDF
+FPL
+X. Zhou, L. Wang, P. Zhao, and A. Mishchenko,
+"Fast adjustable NPN classification using generalized symmetries", Proc. FPL'18.
+PDF
+DAC
+A. Mishchenko, R. Brayton, A. Petkovska, M. Soeken, L. Amaru, and A. Domic,
+"Canonical computation without canonical representation", Proc. DAC'18.
+PDF
+A. Q. Dao, N.-Z. Lee, L.-C. Chen, M. P.-H. Lin, J.-H. R. Jiang, A. Mishchenko, and R. Brayton,
+"Efficient computation of ECO patch functions", Proc. DAC'18.
+PDF
+W. Haaswijk, M. Soeken, A. Mishchenko, and G. De Micheli,
+"SAT-based exact synthesis using DAG topology families", Proc. DAC'18.
+PDF
+IWLS
+A. Mishchenko and R. Brayton,
+"Integrating AIG package, simulator, and SAT solver", Proc. IWLS'18.
+PDF
+V. N. Possani, Y.-S. Lu, A. Mishchenko, K. Pingali, R. P. Ribas, and A. I. Reis,
+"Parallel AIG rewriting", Proc. IWLS'18.
+DATE
+L. Amaru�, M. Soeken, P. Vuillod, J. Luo, A. Mishchenko, J. Olson, R. Brayton, and G. De Micheli,
+"Improvements to Boolean resynthesis", Proc. DATE'18.
+PDF
+M. Soeken, W. Haaswijk, E. Testa, A. Mishchenko, L. G. Amaru, R. K. Brayton, and G. De Micheli,
+"Practical exact synthesis", Proc. DATE'18.
+PDF
+FPGA
+W. Feng, J. Greene, and A. Mishchenko,
+"Improving FPGA performance with a S44 LUT structure", Proc. FPGA'18.
+PDF
+ASP-DAC
+B. Schmitt, A. Mishchenko, and R. Brayton,
+"SAT-based area recovery in structural technology mapping",
+Proc. ASP-DAC'18.
+PDF
+Journals
+D. A. Quoc, M. P.-H. Lin, and A. Mishchenko,
+"SAT-based fault equivalence checking in functional safety verification",
+IEEE Trans. CAD, Vol. 37(12), December 2018, pp. 3198-3205.
+PDF
+C. Yu, M. Ciesielski, and A. Mishchenko,
+"Fast algebraic rewriting based on and-inverter graphs",
+IEEE Trans. CAD, Vol. 37(9), September 2018, pp. 1907-1911.
+PDF
+M. Soeken, E. Testa, A. Mishchenko, and G. De Micheli,
+"Pairs of majority-decomposing functions",
+To appear in Information Processing letters.
+2017
+ICCAD
+L. Amaru, M. Soeken, P. Vuillod, J. Luo, A. Mishchenko, P.-E. Gaillardon, J. Olson, R. K. Brayton, and G. De Micheli,
+"Enabling exact delay synthesis", Proc. ICCAD'17.
+PDF
+FMCAD
+Y.-S. Ho, A. Mishchenko, and R. Brayton, "Property directed reachability with word-level abstraction", Proc. FMCAD'17.
+PDF
+IWLS
+Y.-S. Ho, A. Mishchenko, and R. Brayton, "Property directed reachability with word-level abstraction", Proc. IWLS'17.
+Y.-S. Ho, A. Mishchenko, R. Brayton, and N. Een, "Enhancing PDR/IC3 with localization abstraction", Proc. IWLS'17.
+PDF
+B. Schmitt, A. Mishchenko, and R. Brayton, "SAT-based area recovery in technology mapping", Proc. IWLS'17.
+PDF
+A. Mishchenko, R. Brayton, A. Petkovska, and M. Soeken, "SAT-based optimization with don't-cares revisited", Proc. IWLS'17.
+PDF
+DATE
+M. Soeken, G. De Micheli, and A. Mishchenko, "Busy man's synthesis: Combinational delay optimization with SAT", Proc. DATE'17.
+PDF
+ASP-DAC
+B. Schmitt, A. Mishchenko, V. Kravets, R. Brayton, and A. Reis,
+"Fast-extract with cube hashing", Proc. ASP-DAC'17.
+PDF
+Journals
+G. Cabodi, P. E. Camurati, A. Mishchenko, M. Palena, and P. Pasini,
+"SAT solver management strategies in IC3: an experimental approach",
+Formal Methods in System Design, March 2017, Volume 50(1), pp 39-74.
+PDF
+N. A. B. Adnan, S. Yamashita, and A. Mishchenko,
+"Reduction of quantum cost by making temporary changes to the function",
+IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences,
+Vol. E100-D(7), July 2017, pp. 1393-1402.
+PDF
+Book Chapters
+A. Petkovska, A. Mishchenko, D. Novo, M. Owaida, and P. Ienne,
+"Progressive generation of canonical sums of products using a SAT solver",
+In "Advanced Logic Synthesis" (eds. R. Drechsler and A. Reis), Springer 2017, pp. 169-188.
+PDF
+Technical Reports
+A. Mishchenko, B. Sterin, and R. Brayton, "Structural reverse engineering of arithmetic circuits", UC Berkeley, Tech. Report, 2017.
+PDF
+2016
+FMCAD
+Y.-S. Ho, P. Chauhan, P. Roy, A. Mishchenko, and R. Brayton,
+"Efficient uninterpreted function abstraction and refinement for word-level model checking", Proc. FMCAD'16.
+PDF
+ICCAD
+A. Petkovska, A. Mishchenko, M. Soeken, G. De Micheli, R. Brayton, and P. Ienne,
+"Fast generation of lexicographic satisfiable assignments: Enabling canonicity in SAT-based applications", Proc. ICCAD'16.
+PDF
+FPL
+A. Petkovska, M. Soeken, G. De Micheli, P. Ienne, and A. Mishchenko,
+"Fast hierarchical NPN classification", Proc. FPL'16.
+PDF
+SAT
+V. Balabanov, J.-H. R. Jiang, A. Mishchenko, Ch. Scholl, and R. K. Brayton,
+"2QBF: challenges and solutions", Proc. SAT'16, pp. 453-469.
+PDF
+M. Soeken, A. Mishchenko, A. Petkovska, B. Sterin, P. Ienne, R. Brayton, and G. De Micheli,
+"Heuristic NPN classification for large functions using AIGs and LEXSAT", Proc. SAT'16, pp. 212-227.
+PDF
+IWLS
+A. Mishchenko, R. Brayton, T. Besson, S. Govindarajan, H. Arts, and P. van Besouw,
+"Versatile SAT-based remapping for standard cells", Proc. IWLS'16.
+PDF
+A. Petkovska, A. Mishchenko, M. Soeken, G. De Micheli, R. Brayton, and P. Ienne,
+"Fast generation of lexicographic satisfiable assignments: Enabling canonicity in SAT-based applications", Proc. IWLS'16.
+PDF
+A. Petkovska, A. Mishchenko, D. Novo, M. Owaida, and P. Ienne,
+"Progressive generation of canonical sums of products using a SAT solver", Proc. IWLS'16.
+PDF
+Y.-S. Ho, A. Mishchenko, and R. Brayton,
+"Uninterpreted function abstraction and refinement for word-level model checking", Proc. IWLS'16.
+PDF
+AAAI
+V. Balabanov, J.-H. R. Jiang, A. Mishchenko, and Ch. Scholl,
+"Clauses versus gates in CEGAR-based 2QBF solving",
+Proc. of Beyong NP Workshop,
+PDF
+Journals
+H. Savoj, A. Mishchenko, and R. Brayton,
+"m-inductive property of logic circuits",
+IEEE TCAD, Vol. 35(6), June 2016, pp. 919-930.
+PDF
+2015
+Journals
+T. Villa, A. Petrenko, N. Yevtushenko, A. Mishchenko, and R. Brayton,
+"Component-based design by solving language equations",
+Proc. IEEE, Vol. 103(11), Nov 2015, pp. 2152-2167.
+PDF
+FPT
+A. Petkovska, G. Zgheib, D. Novo, M. Owaida, A. Mishchenko, and P. Ienne,
+"Improved carry-chain mapping for the VTR flow", Proc. FPT'15, pp. 80-87.
+PDF
+ICCAD
+A. Neutzling, J. M. Matos, A. Mishchenko, R. Ribas, and A. Reis,
+"Threshold logic synthesis based on cut pruning", Proc. ICCAD'15, pp. 494-499.
+PDF
+ISQED
+M. Fujita, N. Taguchi, K. Iwata, and A. Mishchenko,
+"Incremental ATPG methods for multiple faults under multiple fault models",
+Proc. ISQED'15, pp. 177-180.
+PDF
+IWLS
+A. Mishchenko and R. Brayton,
+"A linear divisor extraction algorithm", Proc. IWLS'15.
+PDF
+R. Brayton and A. Mishchenko,
+"Recursive decomposition of sparse incompletely specified networks", Proc. IWLS'15.
+PDF
+A. Neutzling, J. M. Matos, R. Ribas, A. Reis, and A. Mishchenko,
+"Threshold logic synthesis based on cut pruning", Proc. IWLS'15.
+PDF
+DAC
+J. M. Matos, R. Ribas, A. Mishchenko, A. Reis, and A. Neutzling,
+"Threshold logic synthesis based on cut pruning", Proc. DAC'15. (poster)
+VLSI
+L. Amaru, P.-E. Gaillardon, A. Mishchenko, M. Ciesielski, G. De Micheli,
+"Exploiting circuit duality to speed up SAT", Proc. VLSI'15.
+PDF
+FPGA
+A. Mishchenko, R. Brayton, W. Feng, and J. Greene,
+"Technology mapping into general programmable cells", Proc. FPGA'15.
+PDF
+SEFMW
+G. Castagnetti, M. Piccolo, T. Villa, N. Yevtushenko, R. K. Brayton, and A. Mishchenko:
+"Automated synthesis of protocol converters with BALM-II", Proc. SEFMW'15, pp. 281-296.
+PDF
+2014
+Journals
+H. Savoj, A. Mishchenko, and R. Brayton,
+"Sequential equivalence checking for clock-gated circuits",
+IEEE TCAD, Vol. 33(2), Feb 2014, pp. 305-317.
+PDF
+ITC (International Test Conference)
+M. Fujita and A. Mishchenko,
+"Efficient SAT-based ATPG techniques for all multiple stuck-at faults", Proc. ITC'14, pp. 1-10.
+PDF
+VLSI (IFIP/IEEE International Conference on Very Large Scale Integration)
+M. Fujita and A. Mishchenko,
+"Logic synthesis and verification on fixed topology", Proc. VLSI'14, pp. 1-6.
+PDF
+ICCAD
+A. Petkovska, D. Novo, A. Mishchenko, and P. Ienne
+"Constrained interpolation for guided logic synthesis", Proc. ICCAD'14, pp. 462-469.
+PDF
+IWLS
+A. Mishchenko,
+"Enumeration of irredundant circuit structures", Proc. IWLS'14.
+PDF
+H. Savoj, A. Mishchenko, and R. Brayton,
+"m-inductive properties of logic circuits", Proc. IWLS'14.
+PDF
+A. Petkovska, D. Novo, A. Mishchenko, and P. Ienne,
+"Constrained interpolation for guided logic synthesis", Proc. IWLS'14.
+PDF
+BCB
+A. V. Karthik, D. Soloveichik, S. Ray, B. Sterin, A. Mishchenko, R. K. Brayton, and J. Roychowdhury:
+"NINJA: boolean modelling and formal verification of tiered-rate chemical reaction networks (extended abstract)", Proc. BCB'14, pp. 623-624.
+ASP-DAC
+A. V. Karthik, S. Ray, P. Nuzzo, A. Mishchenko, R. K. Brayton, and J. Roychowdhury,
+"ABCD-NL: Approximating continuous non-linear dynamical systems using purely Boolean models for analog/mixed-signal verification", Proc. ASP-DAC'14.
+PDF
+Book Chapters
+A. Mishchenko, "An introduction to zero-suppressed binary decision diagrams",
+Chapter 1 in 'Applications of zero-suppressed decision diagrams', T. Sasao and J. T. Butler (eds.),
+Morgan & Claypool Publishers, December 2014.
+2013
+ICFPT
+Z. Huang, L. Wang, Y. Nasikovskiy, and A. Mishchenko, "Fast Boolean matching based on NPN classification", Proc. ICFPT'13.
+PDF
+DIFTS
+N. Een and A. Mishchenko (presented by B. Sterin), "A fast reparameterization procedure". Proc. DIFTS'13.
+PDF
+G. Cabodi, A. Mishchenko, and M. Palena, "Trading-off incrementality and dynamic restart of multiple solvers in IC3". Proc. DIFTS'13.
+PDF
+IWLS
+Z. Huang, L. Wang, Y. Nasikovskiy, and A. Mishchenko,
+"Fast Boolean matching for small practical functions", Proc. IWLS'13.
+PDF
+A. Mishchenko and R. Brayton,
+"Faster logic manipulation for large designs", Proc. IWLS'13.
+PDF
+A. Mishchenko, N. Een, and R. Brayton,
+"A toolbox for counter-example analysis and optimization", Proc. IWLS'13.
+PDF
+DATE
+A. Mishchenko, N. Een, R. Brayton, J. Baumgartner, H. Mony, and P. Nalla,
+"GLA: Gate-level abstraction revisited", Proc. DATE'13, pp. 1399-1404.
+PDF
+A. Mishchenko, N. Een, R. Brayton, M. Case, P. Chauhan, and N. Sharma,
+"A semi-canonical form for sequential AIGs", Proc. DATE'13, pp. 797-802.
+PDF
+A. Belov, H. Chen, J. Marques-Silva, and A. Mishchenko,
+"Core minimization in SAT-based abstraction", Proc. DATE'13, pp. 1411-1416.
+PDF
+Technical Reports
+D. B. Strukov, A. Mishchenko, and R. Brayton,
+"Maximum throughput logic synthesis for stateful logic: A case study",
+ERL Technical Report, EECS Dept., UC Berkeley, 2013.
+PDF
+2012
+Books
+T. Villa, N. Yevtushenko, R. K. Brayton, A. Mishchenko, A. Petrenko, and A. Sangiovanni-Vincentelli,
+The Unknown Component Problem: Theory and Applications,
+Springer 2012, 326 pages.
+Springer
+Amazon
+ICCAD
+W. Yang, L. Wang, and A. Mishchenko,
+"Lazy man's logic synthesis", Proc. ICCAD'12, pp. 597-604.
+PDF
+IWLS
+W. Yang, L. Wang, and A. Mishchenko,
+"LMS: A new logic synthesis method based on pre-computed library", Proc. IWLS'12, pp. 1-9.
+PDF
+A. Mishchenko, N. Een, R. Brayton, J. Baumgartner, H. Mony, and P. Nalla,
+"Variable time-frame abstraction", Proc. IWLS'12, pp. 41-47.
+PDF
+B. Sterin, A. Mishchenko, N. Een and R. K. Brayton,
+"Logic synthesis for disjunctions of Boolean functions", Proc. IWLS'12, pp. 73-77.
+PDF
+A. Mishchenko,
+"LUT structure for delay: cluster or cascade?", Proc. IWLS'12, pp. 84-88.
+PDF
+A. Mishchenko, N. Een, R. Brayton, M. Case, P. Chauhan, and N. Sharma,
+"A semi-canonical form for sequential AIGs", Proc. IWLS'12, pp. 117-123.
+PDF
+R. Brayton, N. Een, and A. Mishchenko,
+"A tight consistent delay model for black boxes", Proc. IWLS'12, pp. 160-164.
+PDF
+R. Brayton, H. Savoj, A. Mishchenko, and D. Berthelot,
+"Sequential equivalence checking for clock-gated circuits", Proc. IWLS'12, pp. 131-138.
+PDF
+R. Brayton, N. Een, and A. Mishchenko,
+"Using speculation for sequential equivalence checking", Proc. IWLS'12, pp. 139-145.
+PDF
+G. Castagnetti, M. Piccolo, T. Villa, N. Yevtushenko, R. Brayton, and A. Mishchenko,
+"Protocol converter synthesis by solving language equations", Proc. IWLS'12, pp. 65-72.
+DATE
+S. Ray, A. Mishchenko, N. Een, R. Brayton, S. Jang, and C. Chen,
+"Mapping into LUT structures", Proc. DATE'12, pp. 1579-1584.
+PDF
+2011
+Journals
+A. Mishchenko, R. Brayton, J.-H. R. Jiang, and S. Jang.
+"Scalable don't-care-based logic optimization and resynthesis",
+ACM Trans. Reconfigurable Technology and Systems (TRETS), Vol. 4(4), April 2011, Article 34.
+PDF
+Book Chapters
+V. Kravets and A. Mishchenko,
+"Sequential logic synthesis using symbolic bi-decomposition",
+Chapter 3, S. P. Khatri and K. Gulati (eds.),
+"Advanced Techniques in Logic Synthesis, Optimizations and Applications",
+Springer 2011, pp 31-45.
+R. Brayton, A. Mishchenko, and S. Chatterjee,
+"Boolean factoring and decomposition of logic networks",
+Chapter 4, S. P. Khatri and K. Gulati (eds.),
+"Advanced Techniques in Logic Synthesis, Optimizations and Applications",
+Springer 2011, pp. 47-66.
+DIFTS
+J. Long, S. Ray, B. Sterin, A. Mishchenko, and R. Brayton,
+"Enhancing ABC for LTL stabilization verification of SystemVerilog/VHDL models",
+Proc. DIFTS: 1st Intl. Workshop on Design and Implementation of Formal Tools and Systems, Austin TX, 2011.
+PDF
+FMCAD
+N. Een, A. Mishchenko and R. Brayton, "Efficient implementation of property-directed reachability",
+Proc. FMCAD'11, pp. 125-134.
+PDF
+ICCAD
+A. Mishchenko, R. Brayton, S. Jang, and V. Kravets,
+"Delay optimization using SOP balancing",
+Proc. ICCAD'11, pp. 375-382.
+PDF
+IWLS
+A. Mishchenko, R. Brayton, S. Jang, and V. Kravets,
+"Delay optimization using SOP balancing",
+Proc. IWLS'11, pp. 75-82. (See ICCAD'11.)
+N. Een, A. Mishchenko, and R. Brayton,
+"Efficient implementation of property directed reachability",
+Proc. IWLS'11, pp. 166-175. (See FMCAD'11.)
+B. Sterin, N. Een, A. Mishchenko, and R. Brayton,
+"The benefit of concurrency in model checking",
+Proc. IWLS'11, pp. 176-182.
+PDF
+Technical Reports
+A. Mishchenko, R. Brayton, S. Jang, and K. Chung,
+"A power optimization toolbox for logic synthesis and mapping",
+ERL Technical Report, EECS Dept., UC Berkeley, 2011.
+PDF
+2010
+Journals
+K.-H. Chang, V. Bertacco, I. L. Markov, and A. Mishchenko,
+"Logic synthesis and circuit customization using extensive
+external don't-cares", ACM TODAES 2010, Vol. 15(3), Article 26.
+PDF
+J.-H. R. Jiang, C.-C. Lee, A. Mishchenko, and C.-Y. R. Huang,
+"To SAT or not to SAT: Scalable exploration of functional dependency",
+IEEE Trans. Computers, April 2010, Vol. 59(4), pp. 457-467.
+PDF
+FMCAD
+H. Savoj, D. Berthelot, A. Mishchenko, and R. Brayton,
+"Combinational techniques for sequential equivalence checking".
+Proc. FMCAD'10, pp. 145-149.
+PDF
+N. Een, A. Mishchenko, and N. Amla,
+"A single-instance incremental SAT formulation of proof- and counterexample-based abstraction",
+Proc. FMCAD'10, pp. 181-188.
+PDF
+Usable Verification
+R. Brayton, N. Een, and A. Mishchenko,
+"Continued relevance of bit-level verification research",
+Proc. UV'10 ( Usable Verification ), Nov 15-16, 2010, Redmond, Washington.
+PDF
+FPL
+A. A. Kennings, A. Mishchenko, K. Vorwerk, V. Pevzner, and A. Kundu,
+"Efficient FPGA resynthesis using precomputed LUT structures".
+Proc. FPL'10, pp. 532-537.
+PDF
+CAV
+R. Brayton and A. Mishchenko,
+"ABC: An academic industrial-strength verification tool",
+Proc. CAV'10, Springer, LNCS 6174, pp. 24-40.
+PDF
+IWLS
+N. Een, A. Mishchenko, and N. Amla,
+"A single-instance incremental SAT formulation of proof- and counterexample-based abstraction".
+Proc. IWLS'10, pp. 109-116. (See FMCAD'10.)
+A. Kennings, A. Mishchenko, K. Vorwerk, V. Pevzner, and A. Kundu,
+"Generating efficient libraries for use in FPGA resynthesis algorithms".
+Proc. IWLS'10, pp. 147-154.
+PDF
+H. Savoj, D. Berthelot, A. Mishchenko, and R. Brayton,
+"Combinational techniques for sequential equivalence checking".
+Proc. IWLS'10, pp. 158-162. (See FMCAD'10.)
+S. Ray, B. Sterin, A. Mishchenko, and R. Brayton,
+"Synthesis-guided partial hierarchy collapsing".
+Proc. IWLS'10, pp. 103-107.
+PDF
+S. Ray, A. Mishchenko, R. K. Brayton, S. Jang, and T. Daniel,
+"Minimum-perturbation retiming for delay optimization".
+Proc. IWLS'10, pp. 90-94.
+PDF
+A. Mishchenko, N. Een, R. K. Brayton, S. Jang, M. Ciesielski, and T. Daniel,
+"Magic: An industrial-strength logic optimization, technology mapping, and formal verification tool".
+Proc. IWLS'10, pp. 124-127.
+PDF
+DATE
+D. Strukov and A. Mishchenko, "Monolithically stackable hybrid FPGA",
+Proc. DATE'10, pp. 661-666.
+PDF
+FPGA
+A. Mishchenko, R. Brayton, and S. Jang,
+"Global delay optimization using structural choices",
+Proc. FPGA'10, pp. 181-184.
+PDF
+2009
+Journals
+S. Jang, B. Chan, K. Chung, and A. Mishchenko,
+"WireMap: FPGA technology mapping for improved routability and
+enhanced LUT merging". ACM Trans. Reconfigurable Technology and
+Systems (TRETS), Vol. 2(2), 2009, Article 14.
+PDF
+IWLS
+S. Jang, K. Chung, A. Mishchenko, and R. Brayton,
+"A power optimization toolbox for logic synthesis and mapping", Proc. IWLS'09, pp. 1-8.
+PDF
+S. Ray, A. Mishchenko, and R. Brayton,
+"Incremental sequential equivalence checking and subgraph isomorphism", Proc. IWLS'09, pp. 37-42.
+PDF
+T. Sasao and A. Mishchenko,
+"LUTMIN: FPGA logic synthesis with MUX-based and cascade realizations", Proc. IWLS'09, pp. 310-316.
+PDF
+DATE
+V. Kravets and A. Mishchenko, "Sequential logic synthesis using
+symbolic bi-decomposition", Proc. DATE'09, pp. 1458-1463.
+PDF
+H. Mony, J. Baumgartner, A. Mishchenko, and R. Brayton, "Speculative
+reduction-based scalable redundancy identification", Proc. DATE'09, pp. 1674-1679.
+PDF
+FPGA
+S. Jang, D. Wu, M. Jarvin, B. Chan, K. Chung, A. Mishchenko, and R. Brayton,
+"SmartOpt: An industrial strength framework for logic synthesis",
+Proc. FPGA'09, pp. 237-240.
+PDF
+A. Mishchenko, R. Brayton, J.-H. R. Jiang, and S. Jang,
+"Scalable don't care based logic optimization and resynthesis",
+Proc. FPGA'09, pp. 151-160.
+PDF
+Technical reports
+A. Mishchenko, R. Brayton, and S. Jang,
+"Global delay optimization using structural choices",
+ERL Technical Report, EECS Dept., UC Berkeley, 2009.
+PDF
+2008
+FMCAD
+M. L. Case, A. Mishchenko, R. K. Brayton, J. Baumgartner, and H. Mony,
+"Invariant-strengthened elimination of dependent state elements",
+Proc. FMCAD'08, pp. 9-17.
+PDF
+A. Mishchenko and R. K. Brayton,
+"Recording synthesis history for sequential verification",
+Proc. FMCAD'08, pp. 27-34.
+PDF
+ICCAD
+A. Mishchenko, M. L. Case, R. K. Brayton, and S. Jang,
+"Scalable and scalably-verifiable sequential synthesis",
+Proc. ICCAD'08, pp. 234-241.
+PDF
+A. Mishchenko, R. K. Brayton, and S. Chatterjee,
+"Boolean factoring and decomposition of logic networks",
+Proc. ICCAD'08, pp. 38-44.
+PDF
+IWLS
+A. Mishchenko, R. K. Brayton, and S. Jang,
+"Global delay optimization using structural choices",
+Proc. IWLS'08, pp. 1-6.
+PDF
+A. Mishchenko, M. L. Case, R. K. Brayton, and S. Jang,
+"Scalable and scalably-verifiable sequential synthesis",
+Proc. IWLS'08, pp. 110-117. (See ICCAD'08.)
+A. Mishchenko and R. K. Brayton,
+"Recording synthesis history for sequential verification",
+Proc. IWLS'08, pp. 240-246.
+PDF
+A. Mishchenko, R. K. Brayton, and S. Chatterjee,
+"Boolean factoring and decomposition of logic networks",
+Proc. IWLS'08, pp. 145-151. (See ICCAD'08.)
+M. L. Case, A. Mishchenko, and R. K. Brayton,
+"Cut-based inductive invariant computation",
+Proc. IWLS'08, pp. 253-258.
+PDF
+K.-H. Chang, V. Bertacco, I. L. Markov, and A. Mishchenko,
+"Synthesis with external don't-cares
+using Shannon entropy and Craig interpolation",
+Proc. IWLS'08, pp. 165-172.
+PDF
+DAC
+A. P. Hurst, A. Mishchenko, and R. K. Brayton,
+"Scalable min-area retiming under simultaneous delay and
+initial state constraints". Proc. DAC'08, pp. 534-539.
+PDF
+M. L. Case, V. N. Kravets, A. Mishchenko, and R. K. Brayton,
+"Merging nodes under sequential observability", Proc. DAC'08, pp. 540-545.
+PDF
+FPGA
+S. Jang, B. Chan, K. Chung, and A. Mishchenko,
+"WireMap: FPGA technology mapping for improved routability".
+Proc. FPGA '08, pp. 47-55.
+PDF
+Technical reports
+M. L. Case, S. A. Seshia, A. Mishchenko, and R. K. Brayton,
+"Conflict guided simplication for SAT".
+ERL Technical Report, EECS Dept., UC Berkeley. 2008.
+PDF
+(Experimental results reported in this paper contain a performance bug.)
+2007
+Journals
+A. Mishchenko, S. Chatterjee, and R. Brayton,
+"Improvements to technology mapping for LUT-based FPGAs".
+IEEE TCAD, Vol. 26(2), Feb 2007, pp. 240-253.
+PDF
+ICCAD
+A. Mishchenko, S. Cho, S. Chatterjee, and R. Brayton,
+"Combinational and sequential mapping with priority cuts",
+Proc. ICCAD '07, pp. 354-361.
+PDF
+C.-C. Lee, J.-H. R. Jiang, C.-Y. Huang, and A. Mishchenko.
+"Scalable exploration of functional dependency by interpolation
+and incremental SAT solving",
+Proc. ICCAD '07, pp. 227-233.
+PDF
+FMCAD
+M. L. Case, A. Mishchenko, and R. K. Brayton,
+"Automated extraction of inductive invariants to aid model checking",
+Proc. FMCAD '07, pp. 165-172.
+PDF
+A. Hurst, A. Mishchenko, and R. Brayton,
+"Fast minimum-register retiming via binary maximum-flow",
+Proc. FMCAD '07, pp. 181-187.
+PDF
+DAC
+S. Chatterjee, A. Mishchenko, R. Brayton, and A. Kuehlmann,
+"On resolution proofs for combinational equivalence".
+Proc. DAC '07, pp. 600-605.
+PDF
+IWLS
+R. Brayton and A. Mishchenko,
+"Sequential rewriting",
+Proc. IWLS '07, pp. 1-8.
+PDF
+A. Hurst, A. Mishchenko, and R. Brayton,
+"Minimizing implementation costs with end-to-end retiming",
+Proc. IWLS '07, pp. 9-16.
+PDF
+A. Mishchenko, S. Cho, S. Chatterjee, and R. Brayton,
+"Combinational and sequential mapping with priority cuts",
+Proc. IWLS '07, pp. 91-98. (See ICCAD'07.)
+J. Pistorius, M. Hutton, A. Mishchenko, and R. Brayton.
+"Benchmarking method and designs targeting logic synthesis for FPGAs",
+Proc. IWLS '07, pp. 230-237.
+PDF
+M. L. Case, A. Mishchenko, and R. K. Brayton,
+"Automated extraction of inductive invariants to aid model checking",
+Proc. IWLS '07, pp. 282-289. (See FMCAD'07.)
+A. Hurst, A. Mishchenko, and R. Brayton,
+"Fast minimum-register retiming via binary maximum-flow",
+Proc. IWLS '07, pp. 328-335. (See FMCAD'07.)
+S. Chatterjee, Z. Wei, A. Mishchenko, and R. Brayton,
+"A linear time algorithm for optimum tree placement",
+Proc. IWLS '07, pp. 336-342.
+PDF
+A. Mishchenko, R. Brayton, J.-H. R. Jiang, and S. Jang,
+"SAT-based logic optimization and resynthesis",
+Proc. IWLS '07, pp. 358-364.
+PDF
+C.-C. Lee, J.-H. R. Jiang, C.-Y. Huang, and A. Mishchenko.
+"Scalable exploration of functional dependency by interpolation
+and incremental SAT solving",
+Proc. IWLS '07, pp. 365-371. (See ICCAD'07.)
+SAT
+N. Een, A. Mishchenko, and N. Sorensson,
+"Applying logic synthesis to speedup SAT",
+Proc. SAT '07, pp. 272-286.
+PDF
+FPGA
+S. Cho, S. Chatterjee, A. Mishchenko, and R. Brayton,
+"Efficient FPGA mapping using priority cuts". (Poster.) Proc. FPGA '07.
+PDF
+Technical reports
+A. Mishchenko, S. Chatterjee, and R. Brayton,
+"Fast Boolean matching for LUT structures".
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+A. Mishchenko, R. Brayton, J.-H. R. Jiang, and S. Jang,
+"SAT-based logic optimization and resynthesis".
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+R. Brayton and A. Mishchenko,
+"Scalably-verifiable sequential synthesis",
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+R. Brayton and A. Mishchenko,
+"Scalable sequential verification",
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+A. Hurst, A. Mishchenko, and R. Brayton,
+"Fast minimum-register retiming via binary maximum-flow",
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+A. Mishchenko, S. Cho, S. Chatterjee, and R. Brayton, "Cutless FPGA mapping",
+ERL Technical Report, EECS Dept., UC Berkeley, 2007.
+PDF
+2006
+Journals
+A. Mishchenko and R. Brayton,
+"A theory of non-deterministic networks",
+IEEE Trans. CAD, Vol. 25(6), June 2006, pp. 977-999.
+PDF
+J. S. Zhang, M. Chrzanowska-Jeske, A. Mishchenko, and J. R. Burch,
+"Linear cofactor relationships in Boolean functions",
+IEEE Trans. CAD, Vol. 25(6), June 2006, pp. 1011-1023.
+PDF
+S. Chatterjee, A. Mishchenko, R. Brayton, X. Wang, and T. Kam,
+"Reducing structural bias in technology mapping",
+IEEE Trans. CAD, Vol. 25(12), December 2006, pp. 2894-2903.
+PDF
+A. Mishchenko, J. S. Zhang, S. Sinha, J. R. Burch, R. Brayton, and M. Chrzanowska-Jeske,
+"Using simulation and satisfiability to compute flexibilities in Boolean networks",
+IEEE Trans. CAD, Vol. 25(5), May 2006, pp. 743-755.
+PDF
+( Best paper award. )
+ICCAD
+S. Chatterjee, A. Mishchenko, and R. Brayton,
+"Factor cuts",
+Proc. ICCAD '06, pp. 143-150.
+PDF
+A. Mishchenko, S. Chatterjee, R. Brayton, and N. Een,
+"Improvements to combinational equivalence checking",
+Proc. ICCAD '06, pp. 836-843.
+PDF
+DAC
+J. S. Zhang, A. Mishchenko, R. Brayton, and M. Chrzanowska-Jeske,
+"Symmetry detection for large boolean functions using circuit representation, simulation, and satisfiability",
+Proc. DAC '06, pp. 510-515.
+PDF
+A. Mishchenko, S. Chatterjee, and R. Brayton,
+"DAG-aware AIG rewriting: A fresh look at combinational logic synthesis",
+Proc. DAC '06, pp. 532-536.
+PDF
+IWLS
+S. Chatterjee, A. Mishchenko, and R. Brayton,
+"Factor cuts",
+Proc. IWLS '06, pp. 1-8. (See ICCAD'06)
+M. L.Case, A. Mishchenko, and R. K. Brayton,
+"Inductively finding a reachable state space over-approximation",
+Proc. IWLS '06, pp. 172-179.
+PDF
+A. Mishchenko, S. Chatterjee, R. Brayton, and N. Een,
+"Improvements to combinational equivalence checking",
+Proc. IWLS '06, pp. 180-187. (See ICCAD'06)
+A. Mishchenko and R. K. Brayton,
+"Scalable logic synthesis using a simple circuit structure",
+Proc. IWLS '06, pp. 15-22.
+PDF
+A. Mishchenko and R. K. Brayton,
+"Verification after synthesis",
+Proc. IWLS '06, pp. 263-267.
+PDF
+FPGA
+A. Mishchenko, S. Chatterjee, and R. Brayton,
+"Improvements to technology mapping for LUT-based FPGAs", Proc. FPGA '06, pp. 41-49.
+PDF
+Technical reports
+A. Mishchenko, S. Chatterjee, R. Brayton, and P. Pan,
+"Integrating logic synthesis, technology mapping, and retiming",
+ERL Technical Report, EECS Dept., UC Berkeley, April 2006.
+PDF
+G. Wang, A. Mishchenko, R. Brayton, and A. Sangiovanni-Vincentelli,
+"Sequential synthesis with co-Buchi specifications",
+ERL Technical Report, EECS Dept., UC Berkeley, April 2006.
+PDF
+2005
+Journals
+S. Nagayama, A. Mishchenko, T. Sasao, and J. T. Butler,
+"Exact and heuristic minimization of the average path length in decision diagrams",
+Journal of Multiple-Valued Logic and Soft Computing, 2005, Vol. 11, Num. 5-6, pp. 437-465.
+PDF
+ICCAD
+S. Chatterjee, A. Mishchenko, R. Brayton, X. Wang, and T. Kam,
+"Reducing structural bias in technology mapping",
+Proc. ICCAD '05, pp. 519-526.
+PDF
+IWLS
+S. Chatterjee, A. Mishchenko, R. Brayton, X. Wang, and T. Kam,
+"Reducing structural bias in technology mapping",
+Proc. IWLS '05, pp. 375-382.
+PDF
+A. Mishchenko, S. Chatterjee, R. Brayton, and M. Ciesielski,
+"An integrated technology mapping environment",
+Proc. IWLS '05, pp. 383-390.
+PDF
+A. Mishchenko, S. Chatterjee, J.-H. Jiang, and R. Brayton,
+"Integrating logic synthesis, technology mapping, and retiming",
+Proc. IWLS '05, pp. 177-181.
+PDF
+J. Zhang, S. Sinha, A. Mishchenko, R. Brayton, and M. Chrzanowska-Jeske,
+"Simulation and satisfiability in logic synthesis",
+Proc. IWLS '05, pp. 161-168.
+PDF
+ISCAS
+M. Chrzanowska-Jeske and A. Mishchenko, "Synthesis for regularity using
+decision diagrams", Proc. International Symposium on Circuits and Systems
+(ISCAS '05), pp. 4721-4724.
+PDF
+DATE
+A. Mishchenko and R. Brayton,
+"SAT-based complete don't-care computation for network optimization",
+Proc. DATE '05, pp. 418-423.
+PDF
+A. Mishchenko, R. Brayton, R. Jiang, T. Villa, and N. Yevtushenko,
+"Efficient solution of language equations using partitioned representations",
+Proc. DATE '05, pp. 412-417.
+PDF
+ASP-DAC
+J. S. Zhang, M. Chrzanowska-Jeske, A. Mishchenko, and J. R. Burch,
+"Detecting support-reducing bound sets using two-cofactor symmetries".
+Proc. ASP-DAC '05, pp. 266-271.
+PDF
+Technical reports
+A. Mishchenko, S. Chatterjee, R. Jiang, and R. K. Brayton,
+"FRAIGs: A unifying representation for logic synthesis and verification".
+ERL Technical Report, EECS Dept., UC Berkeley, March 2005.
+PDF
+A. Mishchenko, S. Chatterjee, R. Brayton, X. Wang, and T. Kam,
+"Technology mapping with Boolean matching, supergates and choices".
+ERL Technical Report, EECS Dept., UC Berkeley, March 2005.
+PDF
+2004
+ICCAD
+J.-H. R. Jiang, A. Mishchenko, and R. K. Brayton
+"On breakable cyclic definitions",
+Proc. ICCAD '04, pp. 411-418.
+PDF
+IWLS
+M. Chrzanowska-Jeske, A. Mishchenko, J. S. Zhang, and M. Perkowski,
+"Logic synthesis for layout regularity using decision diagrams",
+Proc. IWLS '04, pp. 149-154.
+PDF
+A. Mishchenko and R. K. Brayton,
+"SAT-based complete don't-care computation for network optimization",
+Proc. IWLS '04, pp. 353-360.
+PDF
+A. Mishchenko, R. K. Brayton, J.-H. R. Jiang, T. Villa, and N. Yevtushenko,
+"Efficient solution of language equations using partitioned representations",
+Proc. IWLS '04, pp. 401-408. (See DATE '05)
+N. Yevtushenko, T. Villa, R. K. Brayton, A. Mishchenko, and A. L. Sangiovanni-Vincentelli,
+"Composition operators in language equations",
+Proc. IWLS '04, pp. 409-415.
+PDF
+J. S. Zhang, M. Chrzanowska-Jeske, A. Mishchenko, and J. R. Burch,
+"Fast computation of generalized symmetries in Boolean functions",
+Proc. IWLS '04, pp. 424-430.
+PDF
+J.-H. R. Jiang, A. Mishchenko, and R. K. Brayton,
+"On breakable cyclic definitions",
+Proc. IWLS '04, pp. 454-461. (See ICCAD '04)
+2003
+Journals
+A. Mishchenko,
+"Fast computation of symmetries in Boolean functions",
+IEEE Trans. CAD, Vol. 22(11), November 2003, pp.1588-1593.
+PDF
+X. Song, W. N. N. Hung, A. Mishchenko, M. Chrzanowska-Jeske, A. Kennings, and A. Coppola,
+"Board-level multiterminal net assignment for the partial cross-bar architecture",
+IEEE Trans. VLSI, Vol. 11 (3), June 2003, pp. 511-514.
+PDF
+ICCAD
+A. Mishchenko and R. K. Brayton,
+"A theory of non-deterministic networks",
+Proc. ICCAD '03, pp. 709-717.
+PDF
+DAC
+A. Mishchenko, X. Wang, and T. Kam,
+"A new enhanced constructive decomposition and mapping algorithm",
+Proc. DAC '03, pp. 143-148.
+PDF
+A. Mishchenko and T. Sasao,
+"Large-scale SOP minimization using decomposition and functional properties",
+Proc. DAC '03, pp. 149-154.
+PDF
+DATE
+J.-H. R. Jiang, A. Mishchenko, and R. K. Brayton,
+"Reducing multi-valued algebraic operations to binary",
+Proc. DATE '03, pp. 752-757.
+PDF
+IWLS
+S. Nagayama, A. Mishchenko, T. Sasao, and J. Butler,
+"Minimization of average path length in BDDs by variable reordering",
+Proc. IWLS '03, pp. 207-213.
+PDF
+A. Mishchenko, R. Brayton, and T. Sasao,
+"Exploring multi-valued minimization using binary methods",
+Proc. IWLS '03, pp. 278-285.
+PDF
+R. K. Brayton and A. Mishchenko,
+"A theory of non-deterministic networks",
+Proc. IWLS '03, pp. 286-293. (See ICCAD '03)
+Technical reports
+J. Cortadella, M. Kishinevsky, and A. Mishchenko,
+"Restructuring multi-level networks by using function approximations",
+Technical report, March 2003.
+PDF
+2002
+Journals
+M. Chrzanowska-Jeske, A. Mishchenko, and M. Perkowski,
+"Generalized inclusive forms: New canonical Reed-Muller forms including minimum ESOPs",
+VLSI Design Journal, Vol. 14(1), January 2002, pp. 13-21.
+ICCAD
+A. Mishchenko and R. K. Brayton,
+"Simplification of non-deterministic multi-valued networks",
+Proc. ICCAD '02, pp. 557-562.
+PDF
+S. Sinha, A. Mishchenko, and R. K. Brayton,
+"Topologically constrained logic synthesis",
+Proc. ICCAD '02, pp. 679-686.
+PDF
+Lake Biwa Workshop
+A. Mishchenko and T. Sasao,
+"Logic synthesis of LUT cascades with limited rails: A direct implementation of multi-output functions",
+Proc. Lake Biwa Workshop '02.
+PDF
+ISBP
+M. Lukac, M. Pivtoraiko, A. Mishchenko, and M. Perkowski,
+"Automated synthesis of generalized reversible cascades using genetic algorithms",
+Proc. International Symposium on Boolean Problems, Freiberg, Germany, 2002.
+PDF
+GLSVLSI
+X. Song, W. N. N. Hung, A. Mishchenko, M. Chrzanowska-Jeske, A. J. Coppola, and A. A. Kennings,
+"Board-level multiterminal net assignment",
+Proc. ACM Great Lakes Symposium on VLSI '02, pp. 130-135.
+PDF
+ISMVL
+R. K. Brayton, M. Gao, J.-H. R. Jiang, Y. Jiang, Y. Li, A. Mishchenko, S. Sinha, and T. Villa,
+"Optimization of multi-valued multi-level networks",
+Proc. ISMVL '02: 168-177.
+PDF
+IWLS
+A. Mishchenko and T. Sasao,
+"Encoding of Boolean functions and its application to LUT cascade synthesis",
+Proc. IWLS '02, pp. 115-120.
+PDF
+S. Sinha, A. Mishchenko, and R. K. Brayton.
+"Topologically constrained logic synthesis",
+Proc. IWLS '02, pp. 13-20. (See ICCAD '02)
+A. Mishchenko and R. K. Brayton,
+"A Boolean paradigm in multi-valued logic synthesis",
+Proc. IWLS '02, pp. 173-177.
+PDF
+A. Mishchenko and M. A. Perkowski,
+"Logic synthesis of reversible wave cascades",
+Proc. IWLS '02, pp. 197-202.
+PDF
+A. Mishchenko and R. K. Brayton,
+"Simplification of non-deterministic multi-valued networks",
+Proc. IWLS '02, pp. 333-338. (See ICCAD '02)
+J.-H. R. Jiang, A. Mishchenko, and R. K. Brayton,
+"Reducing multi-valued algebraic operations to binary",
+Proc. IWLS '02, pp. 339-344. (See DATE '03)
+5th Intl Workshop on Boolean Problems, September 19-20, 2002, Freiberg (Sachsen), Germany
+M. Perkowski and A. Mishchenko,
+"Logic synthesis for regular layout using satisfiability",
+Proc. Intl Workshop on Boolean Problems '02.
+PDF
+A. Mishchenko and R. Brayton,
+"A theory of non-deterministic networks",
+Proc. Intl Workshop on Boolean Problems '02.
+Technical reports
+A. Mishchenko and R. K. Brayton,
+"Higher-order flexibilities in multi-valued networks",
+ERL Technical Report, EECS Dept., UC Berkeley, May 2002.
+PDF
+2001
+DAC
+A. Mishchenko, B. Steinbach, and M. A. Perkowski,
+"An algorithm for bi-decomposition of logic functions",
+Proc. DAC '01, pp. 103-108.
+PDF
+Fifth Intl Workshop on Applications of the Reed Muller Expansion in Circuit Design, Starkville, Mississippi, August 10-11, 2001
+A. Mishchenko and M. Perkowski,
+"Fast heuristic minimization of exclusive-sums-of-products",
+Proc. Reed-Muller Workshop '01, pp. 242-250.
+PDF
+B. Steinbach and A. Mishchenko,
+"SNF: A special normal form for ESOPs",
+Proc. Reed-Muller Workshop '01, pp. 66-81.
+PDF
+IWLS
+A. Mishchenko, B. Steinbach, and M. Perkowski,
+"Bi-decomposition of multi-valued relations",
+Proc. IWLS '01, pp. 35-40.
+PDF
+J. Jacob and A. Mishchenko,
+"Unate decomposition of Boolean functions",
+Proc. IWLS '01, pp. 66-71.
+PDF
+M. Perkowski, P. Kerntopf, A. Buller, M. Chrzanowska-Jeske, A. Mishchenko, X. Song, A. Al-Rabadi, L. Jozwiak, A. Coppola, and B. Massey,
+"Regularity and symmetry as a base for efficient realization of reversible logic circuits",
+Proc. IWLS '01, pp. 90-95.
+Euromicro Symposium on Digital Systems Design, 4-6 September, 2001
+M. A. Perkowski, M. Chrzanowska-Jeske, A. Mishchenko, X. Song, A. Al-Rabadi, B. Massey, P. Kerntopf, A. Buller, L. Jozwiak, and A. J. Coppola,
+"Regular realization of symmetric functions using reversible logic",
+Proc. Euromicro Symposium on Digital Systems Design '01, pp. 245-253.
+Technical reports
+A. Mishchenko,
+"An experimental evaluation of algorithms for computation of internal don't-cares in Boolean networks",
+Technical report, Portland State University, September 2001.
+PDF
+A. Mishchenko,
+"An introduction to zero-suppressed binary decision diagrams",
+Technical report, Portland State University, June 2001.
+A. Mishchenko,
+"An approach to disjoint-support decomposition of logic functions",
+Technical report, Portland State University, February 2001.
+PDF
+2000
+A. Mishchenko, C. Files, M. Perkowski, B. Steinbach, and Ch. Dorotska,
+"Implicit algorithms for multi-valued input support manipulation",
+Proc. 4th Intl. Workshop on Boolean Problems, September 2000, Freiberg, Germany.
+PDF
+A. Mishchenko,
+"Implicit representation of discrete objects",
+Proc. 3d Oregon Symposium on Logic, Design, and Learning (LDL '00), May 22, 2000, Porland, Oregon.
+A. Mishchenko,
+"An efficient implementation of L language data processing algorithms",
+Proc. 2d International Conference UKRPROG '00 (May 23-26, 2000), Kiev, Ukraine.
+Published in the special issue of the journal "Problemy Programirovaniya" (Problems in Programming), #1-2, 2000, pp. 335-344.
+1999
+M. A. Perkowski, R. Malvi, S. Grygiel, M. Burns, and A. Mishchenko,
+"Graph coloring algorithms for fast evaluation of Curtis decompositions",
+Proc. DAC '99, pp. 225-230.
+PDF
+M. A. Perkowski, A. Mishchenko, and A. N. Chebotarev,
+"Evolvable hardware or learning hardware? Induction of state machines from temporal logic constraints",
+Proc. First NASA/DoD Workshop on Evolvable Hardware '99, pp. 129-138.
+N. Venkataramaiah, K. Dill, D. Hall, M. A. Perkowski, A. Mishchenko, and U. Kalay,
+"Highly testable finite state machines based on EXOR logic",
+Proc. 7th IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM '99), Victoria, B.C., Canada, August 23-25, 1999, pp. 440-443.
+M. Chrzanowska-Jeske, A. Mishchenko, and M. Perkowski,
+"A family of canonical AND/EXOR forms that includes exact minimum ESOPs",
+Proc. Fourth Intl Workshop on Applications of the Reed Muller Expansion in Circuit Design, University of Victoria, Victoria B.C., Canada, August 20-21, 1999, pp. 1-15.
+A. Mishchenko and M. A. Perkowski,
+"TRACE: A visual software system to explore properties of Reed-Muller movement functions",
+Proc. Fourth Intl Workshop on Applications of the Reed Muller Expansion in Circuit Design, University of Victoria, Victoria B.C., Canada, August 20-21, 1999, pp. 265-271.

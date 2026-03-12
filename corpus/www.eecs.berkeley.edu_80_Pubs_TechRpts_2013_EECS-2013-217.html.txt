@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-217.html
+Techniques for Model Inference and Bug Finding
+Chia Yuan Cho
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-217
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-217.pdf
+Security bugs in network-based applications allow an attacker to compromise a system from the network. Existing techniques to find bugs in network-based applications are limited because the rules by which a program interacts with its network environment (i.e., the protocol) are often unknown. Further, the complexity of stateful interactions in such applications makes bug-finding difficult.
+In this thesis, we explore two directions towards solving the problem of finding bugs in network-based applications. First, to overcome the problem of not knowing how an application interacts with its network environment, we propose new techniques to automatically infer the protocol model implemented by an application, and use the inferred model to guide the search for bugs. We apply our technique to infer the command-and-control protocol model of a major spam botnet, and analyze it to discover its weakest link and protocol logic flaws. The analysis leads to new ways to disable botnets and new ways to fight spam.
+Second, we propose new techniques to analyze programs to find bugs. Our techniques are based on a family of techniques called symbolic analysis, that are equivalent to testing with entire classes of test case inputs. We show that a synergistic combination of model inference and symbolic analysis is more effective than symbolic analysis alone. Our technique finds several new vulnerabilities in popular applications that have remained undetected for years.
+Symbolic analysis has limited scalability on programs of significant sizes. We propose a compositional approach to symbolic analysis, that scales to programs in the order of hundreds of thousands of lines of code (100 KLOC). Our technique uses a novel combination of satisfying assignments and proofs of unsatisfiability in a solver to generalize preconditions that must lead to bugs. Using the preconditions with the data-flow of the program allows it to prune irrelevant code from analysis. Our technique outperforms existing tools, and finds multiple new vulnerabilities in critical Internet infrastructure software.
+Advisors:  Dawn Song
+BibTeX citation:
+@phdthesis{Cho:EECS-2013-217,
+Author= {Cho, Chia Yuan},
+Title= {Techniques for Model Inference and Bug Finding},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-217.html},
+Number= {UCB/EECS-2013-217},
+Abstract= {Security bugs in network-based applications allow an attacker to compromise a system from the network. Existing techniques to find bugs in network-based applications are limited because the rules by which a program interacts with its network environment (i.e., the protocol) are often unknown. Further, the complexity of stateful interactions in such applications makes bug-finding difficult.
+In this thesis, we explore two directions towards solving the problem of finding bugs in network-based applications. First, to overcome the problem of not knowing how an application interacts with its network environment, we propose new techniques to automatically infer the protocol model implemented by an application, and use the inferred model to guide the search for bugs. We apply our technique to infer the command-and-control protocol model of a major spam botnet, and analyze it to discover its weakest link and protocol logic flaws. The analysis leads to new ways to disable botnets and new ways to fight spam.
+Second, we propose new techniques to analyze programs to find bugs. Our techniques are based on a family of techniques called symbolic analysis, that are equivalent to testing with entire classes of test case inputs. We show that a synergistic combination of model inference and symbolic analysis is more effective than symbolic analysis alone. Our technique finds several new vulnerabilities in popular applications that have remained undetected for years.
+Symbolic analysis has limited scalability on programs of significant sizes. We propose a compositional approach to symbolic analysis, that scales to programs in the order of hundreds of thousands of lines of code (100 KLOC). Our technique uses a novel combination of satisfying assignments and proofs of unsatisfiability in a solver to generalize preconditions that must lead to bugs. Using the preconditions with the data-flow of the program allows it to prune irrelevant code from analysis. Our technique outperforms existing tools, and finds multiple new vulnerabilities in critical Internet infrastructure software.},
+}
+EndNote citation:
+%0 Thesis
+%A Cho, Chia Yuan
+%T Techniques for Model Inference and Bug Finding
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-217
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-217.html
+%F Cho:EECS-2013-217

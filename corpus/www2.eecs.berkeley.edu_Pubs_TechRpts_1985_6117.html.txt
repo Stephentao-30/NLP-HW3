@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1985/6117.html
+An Election Algorithm for a Distributed Clock Synchronization Program | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Login
+An Election Algorithm for a Distributed Clock Synchronization Program
+Riccardo Gusella and Stefano Zatti
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-86-275
+1985
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1986/CSD-86-275.pdf
+This paper describes the election algorithm that guarantees the reliability of TEMPO, a distributed clock synchronizer running on Berkeley UNIX 4.3BSD systems. TEMPO is a distributed program based on a master-slave scheme that is comprised of time daemon processes running on individual machines.     The election algorithm chooses a new master from among the slaves after the crash of the machine on which the original master was running. When the master is working, it periodically resets an election timer in each slave. If the master disappears, the slave whose timer expires first will become a candidate for the new master. The election algorithm covers this normal case, as well as the infrequent case where there may be two or more simultaneous candidates. It also handles the case in which, due to a network partition that has been repaired, two masters are present at the same time.
+BibTeX citation:
+@techreport{Gusella:CSD-86-275,
+Author = {Gusella, Riccardo and Zatti, Stefano},
+Title = {An Election Algorithm for a Distributed Clock Synchronization Program},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1985},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1985/6117.html},
+Number = {UCB/CSD-86-275}
+}
+EndNote citation:
+%0 Report
+%A Gusella, Riccardo
+%A Zatti, Stefano
+%T An Election Algorithm for a Distributed Clock Synchronization Program
+%I EECS Department, University of California, Berkeley
+%D 1985
+%@ UCB/CSD-86-275
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1985/6117.html
+%F Gusella:CSD-86-275
+Home
+|
+©
+UC Berkeley EECS
+|
+Jan 10, 2008 00:19
+|
+Contact Webteam

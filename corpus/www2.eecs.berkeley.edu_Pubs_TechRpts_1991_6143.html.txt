@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1991/6143.html
+Connectivity Properties of Matroids | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Login
+Connectivity Properties of Matroids
+Milena Mihail and Madhu Sudan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-92-662
+1991
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/CSD-92-662.pdf
+The bases-exchange graph of a matroid is the graph whose vertices are the bases of the matroid, and two bases are connected by an edge if and only if one can be obtained from the other by the exchange of a single pair of elements.  In this paper we prove that a matroid is "connected" if and only if the "restricted bases-exchange graph" (the bases-exchange graph restricted to exchanges involving only one specific element  e ) is connected. This provides an alternative definition of matroid connectivity. Moreover, it shows that the connected components of the restricted bases-exchange graph satisfy a "ratios-condition", namely, that the ratio of the number of bases containing  e  to the number of bases not containing  e  is the same for each connected component of the restricted bases-exchange graph. We further show that if a more general ratios-condition is also true, namely, that any fraction alpha of the bases containing  e  is adjacent to at least a fraction alpha of the bases not containing  e  (where alpha is any real number between 0 and 1), then the bases-exchange graph has the following expansion property: "For any bipartition of its vertices, the number of edges incident to both partition classes is at least as large as the size of the smaller partion". In fact, this was our original motivation for studying matroid connectivity, since such an expansion property yields efficient randomized approximation algorithms to count the number of bases of a matroid.
+BibTeX citation:
+@techreport{Mihail:CSD-92-662,
+Author = {Mihail, Milena and Sudan, Madhu},
+Title = {Connectivity Properties of Matroids},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1991},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1991/6143.html},
+Number = {UCB/CSD-92-662}
+}
+EndNote citation:
+%0 Report
+%A Mihail, Milena
+%A Sudan, Madhu
+%T Connectivity Properties of Matroids
+%I EECS Department, University of California, Berkeley
+%D 1991
+%@ UCB/CSD-92-662
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1991/6143.html
+%F Mihail:CSD-92-662
+Home
+|
+©
+UC Berkeley EECS
+|
+Dec 15, 2023 20:38
+|
+Contact Webteam

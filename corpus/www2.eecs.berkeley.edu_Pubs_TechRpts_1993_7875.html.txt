@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993/7875.html
+Nonlinear Control of a Two-Link Hopping Robot
+Matthew D. Berkemeier
+EECS Department, University of California, Berkeley
+1993
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Berkemeier:7875,
+Author= {Berkemeier, Matthew D.},
+Title= {Nonlinear Control of a Two-Link Hopping Robot},
+School= {EECS Department, University of California, Berkeley},
+Year= {1993},
+}
+EndNote citation:
+%0 Thesis
+%A Berkemeier, Matthew D.
+%T Nonlinear Control of a Two-Link Hopping Robot
+%I EECS Department, University of California, Berkeley
+%D 1993
+%F Berkemeier:7875

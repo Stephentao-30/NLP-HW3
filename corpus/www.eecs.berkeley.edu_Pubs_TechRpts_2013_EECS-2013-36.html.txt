@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-36.html
+Fully Integrated Silicon Terahertz Transceivers for Sensing and Communication Applications
+Jung-Dong Park
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-36
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-36.pdf
+With advancement of the silicon device, we have witnessed revolutionary achievements in RF and millimeter-wave integrated circuit (IC) technology during last decade. Reflecting the impact of the RFICs in its compactness, low-cost, and mass production, the Terahertz Silicon Integrated Circuit (THz-IC) will open a new era in imaging, sensing, spectroscopy, and ultrafast wireless communication. This thesis mainly explores two fully integrated terahertz transceivers for sensing and communication applications in well matured 0.13 µm BiCMOS and 65 nm digital CMOS technology. Since antenna size shrinks quadratically as radiation frequency increases for a given gain, on-chip antennas have great potential in terahertz range by eliminating packaging issues for cost-effective, compact terahertz transceivers. To achieve high radiation efficiency, we investigate the loss mechanisms of several on-chip antennas implemented in conventional (Bi) CMOS technologies. By introducing a compact N-push clamping harmonic generator utilizing the transformer-coupled push-push structure with Coplanar Stripline (CPS), the fundamental signal filtering is effectively achieved by highly rejecting the common-mode input. The designed N-push harmonic generator with proposed architecture is robust to the phase mismatch in driving signals. A 0.38 THz Frequency Modulated Continuous Wave (FMCW) radar transceiver is presented with the ranging and detection of a target in 10 cm. A 0.26 THz fully integrated CMOS transceiver is demonstrated for wireless chip to chip communication. The non-coherent On-Off Keying (OOK) transceiver with dual antenna chains is implemented to overcome the limited device performance in 65 nm CMOS which achieves +5 dBm of the Equivalent Isotropically Radiated Power (EIRP).
+Advisors:  Ali Niknejad
+BibTeX citation:
+@phdthesis{Park:EECS-2013-36,
+Author= {Park, Jung-Dong},
+Title= {Fully Integrated Silicon Terahertz Transceivers for Sensing and Communication Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-36.html},
+Number= {UCB/EECS-2013-36},
+Abstract= {With advancement of the silicon device, we have witnessed revolutionary achievements in RF and millimeter-wave integrated circuit (IC) technology during last decade. Reflecting the impact of the RFICs in its compactness, low-cost, and mass production, the Terahertz Silicon Integrated Circuit (THz-IC) will open a new era in imaging, sensing, spectroscopy, and ultrafast wireless communication. This thesis mainly explores two fully integrated terahertz transceivers for sensing and communication applications in well matured 0.13 µm BiCMOS and 65 nm digital CMOS technology. Since antenna size shrinks quadratically as radiation frequency increases for a given gain, on-chip antennas have great potential in terahertz range by eliminating packaging issues for cost-effective, compact terahertz transceivers. To achieve high radiation efficiency, we investigate the loss mechanisms of several on-chip antennas implemented in conventional (Bi) CMOS technologies. By introducing a compact N-push clamping harmonic generator utilizing the transformer-coupled push-push structure with Coplanar Stripline (CPS), the fundamental signal filtering is effectively achieved by highly rejecting the common-mode input. The designed N-push harmonic generator with proposed architecture is robust to the phase mismatch in driving signals. A 0.38 THz Frequency Modulated Continuous Wave (FMCW) radar transceiver is presented with the ranging and detection of a target in 10 cm. A 0.26 THz fully integrated CMOS transceiver is demonstrated for wireless chip to chip communication. The non-coherent On-Off Keying (OOK) transceiver with dual antenna chains is implemented to overcome the limited device performance in 65 nm CMOS which achieves +5 dBm of the Equivalent Isotropically Radiated Power (EIRP).},
+}
+EndNote citation:
+%0 Thesis
+%A Park, Jung-Dong
+%T Fully Integrated Silicon Terahertz Transceivers for Sensing and Communication Applications
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-36.html
+%F Park:EECS-2013-36

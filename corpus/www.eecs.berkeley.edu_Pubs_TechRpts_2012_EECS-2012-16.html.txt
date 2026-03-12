@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-16.html
+Don't Look Back: Post-hoc Category Detection via Sparse Reconstruction
+Hyun Oh Song and Mario Fritz and Tim Althoff and Trevor Darrell
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-16
+January 24,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-16.pdf
+We consider optimal representations for representing prototypical categories in the latent deformable part model framework, with a specific emphasis on category-level retrieval tasks defined "on the fly'' for a large corpus. In this setting, it is impractical to perform an exhaustive search with a full model; we investigate methods which approximately reconstruct the score function of a novel category from a set of precomputed responses.  We propose a novel sparse reconstruction method where part classifiers are decomposed via a shared dictionary of part filters; in turn, our method can efficiently reconstruct approximate part responses on large image corpora using a sparse matrix-vector product based on pre-computed filter responses instead of exhaustive convolutions.  We compare our method to baseline schemes using SVD-based or nearest-category approximation and show our method is more effective at detecting novel categories.  We additionally demonstrate results towards an end-to-end system for activity detection which trains a protoype category concept model from one dataset (PASCAL), learns post-hoc categories on the fly based on training data from a second dataset where labeled data are available (ImageNet), and sucessfully detects instances in test data from a third dataset (TRECVID MED) via reconstruction with the precomputed prototype models.
+BibTeX citation:
+@techreport{Song:EECS-2012-16,
+Author= {Song, Hyun Oh and Fritz, Mario and Althoff, Tim and Darrell, Trevor},
+Title= {Don't Look Back: Post-hoc Category Detection via Sparse Reconstruction},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-16.html},
+Number= {UCB/EECS-2012-16},
+Note= {Contact Trevor Darrell trevor@eecs for information.},
+Abstract= {We consider optimal representations for representing prototypical categories in the latent deformable part model framework, with a specific emphasis on category-level retrieval tasks defined "on the fly'' for a large corpus. In this setting, it is impractical to perform an exhaustive search with a full model; we investigate methods which approximately reconstruct the score function of a novel category from a set of precomputed responses.  We propose a novel sparse reconstruction method where part classifiers are decomposed via a shared dictionary of part filters; in turn, our method can efficiently reconstruct approximate part responses on large image corpora using a sparse matrix-vector product based on pre-computed filter responses instead of exhaustive convolutions.  We compare our method to baseline schemes using SVD-based or nearest-category approximation and show our method is more effective at detecting novel categories.  We additionally demonstrate results towards an end-to-end system for activity detection which trains a protoype category concept model from one dataset (PASCAL), learns post-hoc categories on the fly based on training data from a second dataset where labeled data are available (ImageNet), and sucessfully detects instances in test data from a third dataset (TRECVID MED) via reconstruction with the precomputed prototype models.},
+}
+EndNote citation:
+%0 Report
+%A Song, Hyun Oh
+%A Fritz, Mario
+%A Althoff, Tim
+%A Darrell, Trevor
+%T Don't Look Back: Post-hoc Category Detection via Sparse Reconstruction
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 24
+%@ UCB/EECS-2012-16
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-16.html
+%F Song:EECS-2012-16

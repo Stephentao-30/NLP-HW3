@@ -1,0 +1,172 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008
+Technical Reports - 2008
+Depth of Field Postprocessing For Layered Scenes Using Constant-Time Rectangle Spreading  (EECS-2008-187) Todd Jerome Kosloff, Michael Tao and Brian A. Barsky
+Type-Based Verification of Assembly Language  (EECS-2008-186) Bor-Yuh Evan Chang
+Convergence Analysis of a Distributed CSMA Algorithm for Maximal Throughput in a General Class of Networks  (EECS-2008-185) Libin Jiang and Jean Walrand
+Resampling Methods for Protein Structure Prediction  (EECS-2008-184) Benjamin Norman Blum
+How Bad are Selfish Investments in Network Security?  (EECS-2008-183) Libin Jiang, Venkat Anantharam and Jean Walrand
+SRAM Leakage-Power Optimization Framework: a System Level Approach  (EECS-2008-182) Animesh Kumar
+A Platform-Based Approach to Low-Power Receiver Design  (EECS-2008-181) Yanmei Li
+Synchronous Reactive Communication: Generalization, Implementation, and Optimization  (EECS-2008-178) Guoqiang Wang
+Program Synthesis By Sketching  (EECS-2008-177) Armando Solar Lezama
+Program Synthesis By Sketching  (EECS-2008-176) Armando Solar Lezama
+Answering Questions about Complex Events  (EECS-2008-175) Steve Sinha
+DexterNet: An Open Platform for Heterogeneous Body Sensor Networks and Its Applications  (EECS-2008-174) Philip Kuryloski, Annarita Giani, Roberta Giannantonio, Katherine Gilani, Raffaele Gravina, Ville-Pekka Seppa, Edmund Seto, Victor Shia, Curtis Wang, Posu Yan, Allen Yang, Jari Hyttinen, S. Shankar Sastry, Stephen Wicker and Ruzena Bajcsy
+Novel Processes and Structures for Low Temperature Fabrication of Integrated Circuit Devices  (EECS-2008-173) Joanna Lai
+Subwavelength High-Contrast Grating (HCG) and its Applications in Optoelectronic Devices  (EECS-2008-172) Ye Zhou
+K-Sketch: A Kinetic Sketch Pad for Novice Animators  (EECS-2008-171) Richard C. Davis
+Audio Segmentation for Meetings Speech Processing  (EECS-2008-170) Kofi Agyeman Boakye
+Pay-as-you-go Data Cleaning and Integration  (EECS-2008-169) Shawn Jeffery
+0.35 µm CMOS PROCESS ON SIX-INCH WAFERS, Baseline Report VI.  (EECS-2008-168) Laszlo Petho and Anita Pongracz
+Improving Visibility of Distributed Systems through Execution Tracing  (EECS-2008-167) Rodrigo Fonseca
+Supporting Asynchronous Collaboration for Interactive Visualization  (EECS-2008-166) Jeffrey Michael Heer
+A Computational Model of Human Blood Clotting: Simulation, Analysis, Control, and Validation  (EECS-2008-165) Joseph Gerard Makin
+Auto-tuning Performance on Multicore Computers  (EECS-2008-164) Samuel Webb Williams
+An Activity Based Approach to Context-Aware Computing  (EECS-2008-163) Tye Lawrence Rattenbury and John F. Canny
+User-Extensible Natural Language Spoken Interfaces for Environment and Device Control  (EECS-2008-162) Ana Ramirez Chang
+End-User Program Analysis  (EECS-2008-161) Bor-Yuh Evan Chang
+Ensemble Feature Selection for Multi-Stream Automatic Speech Recognition  (EECS-2008-160) David Gelbart
+Engineering Structurally Configurable Models with Model Transformation  (EECS-2008-159) Thomas Huining Feng
+Privacy Preserving Joins on Secure Coprocessors  (EECS-2008-158) Yaping Li
+Probabilistic Timing Analysis of Distributed Real-time Automotive Systems  (EECS-2008-157) Haibo Zeng
+Enabling Multi-level Trust in Privacy Preserving Data Mining  (EECS-2008-156) Yaping Li and Minghua Chen
+MILLEE: Mobile and Immersive Learning for Literacy in Emerging Economies  (EECS-2008-155) Matthew Boon Tian Kam
+Coding and Message-Passing for Large-Scale Storage and Inference  (EECS-2008-153) Georgios Alexandros Dimakis
+Robust video transmission over lossy channels and efficient video distribution over peer-to-peer networks  (EECS-2008-152) Jiajun Wang
+ThreadedComposite: A Mechanism for Building Concurrent and Parallel Ptolemy II Models  (EECS-2008-151) Edward A. Lee
+Angelic Hierarchical Planning: Optimal and Online Algorithms  (EECS-2008-150) Bhaskara Marthi, Stuart J. Russell and Jason Wolfe
+Spatial and Temporal Cost Analysis on OSEK Implementations of Synchronous Reactive Semantics Preserving Communication Protocols  (EECS-2008-149) Guoqiang Wang, Marco Di Natale and Alberto L. Sangiovanni-Vincentelli
+Optofluidic Devices for Cell, Microparticle, and Nanoparticle Manipulation  (EECS-2008-148) Aaron Takami Ohta
+Cognitive Radios for Spectrum Sharing: Technical Appendices  (EECS-2008-147) Anant Sahai, Mubaraq Mishra, Rahul Tandra and Kristen Ann Woyach
+Simulation Framework for Electromagnetic Effects in Plasmonics, Filter Apertures, Wafer Scattering, Grating Mirrors, and Nano-Crystals  (EECS-2008-146) Daniel Peter Ceperley
+Improving Tetrahedral Meshes  (EECS-2008-145) Bryan Matthew Klingner
+Programming a Parallel Future  (EECS-2008-144) Joseph M. Hellerstein
+PERCU: A Holistic Method for Evaluating High Performance Computing Systems  (EECS-2008-143) William TC Kramer
+Spectrum Agile Radios Project Report  (EECS-2008-142) Ji Woong Lee, Pedram Keshavarz, Miklos Christine, Sherman Ng, Sofie Pollin, Libin Jiang, Jean Walrand and Hidekazu Miyoshi
+On the Performance of Quorum Replication on the Internet  (EECS-2008-141) Omar Mohammed Bakr and Idit Keidar
+VHDL Code Generation in the Ptolemy II Environment  (EECS-2008-140) Man-Kit Leung, Terry Esther Filiba and Vinayak Nagpal
+Code Generation for Process Network Models onto Parallel Architectures  (EECS-2008-139) Man-Kit Leung, Isaac Liu and Jia Zou
+Matrix regularization techniques for online multitask learning  (EECS-2008-138) Alekh Agarwal, Alexander Rakhlin and Peter Bartlett
+Approximating Sensor Network Queries with In-Network Summaries  (EECS-2008-137) Alexandra Meliou, Carlos Guestrin and Joseph M. Hellerstein
+Abstracting RTL Designs to the Term Level  (EECS-2008-136) Bryan Brady, Randal Bryant and Sanjit A. Seshia
+Distributed inference with declarative overlay networks  (EECS-2008-135) Stanislav Funiak, Ashima Atul, Kuang Chen, Joseph M. Hellerstein and Carlos Guestrin
+Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures  (EECS-2008-134) Samuel Webb Williams, Andrew Waterman and David A. Patterson
+Impact of photomask quadrature edge effects through focus  (EECS-2008-133) Marshal Miller, Andrew R. Neureuther, Daniel Ceperley and Koji Kikuchi
+Nonparametric Bayesian Models for Machine Learning  (EECS-2008-130) Romain Jean Thibaux
+Minimizing Curvature Variation for Aesthetic Surface Design  (EECS-2008-129) Pushkar Prakash Joshi
+Wireless network information flow: a deterministic approach  (EECS-2008-128) Amir Salman Avestimehr
+A Case For Adaptive Datacenters To Conserve Energy and Improve Reliability  (EECS-2008-127) Peter Bodik, Michael Paul Armbrust, Kevin Canini, Armando Fox, Michael Jordan and David A. Patterson
+Optimizing Mapping in System Level Design  (EECS-2008-126) Qi Zhu
+Intuitive Exposition of Third Order Surface Behavior  (EECS-2008-125) Pushkar Prakash Joshi and Carlo H. Séquin
+A Delay Tolerant Networking and System Architecture for Developing Regions  (EECS-2008-124) Michael Demmer
+Heuristics for Scalable Dynamic Test Generation  (EECS-2008-123) Jacob Burnim and Koushik Sen
+A Novel Approach to Bottleneck Analysis in Networks  (EECS-2008-122) Nikhil Gopinath Shetty
+CMOS Circuits and Devices beyond 100 GHz  (EECS-2008-121) Babak Heydari
+Reducing Transient Disconnectivity using Anomaly-Cognizant Forwarding  (EECS-2008-120) Andrey Ermolinskiy and Scott Shenker
+Illuminac: Simultaneous Naming and Configuration for Workspace Lighting Control  (EECS-2008-119) Ana Ramirez Chang and John F. Canny
+Interference Management in Wireless Networks: Physical Layer Communication Strategies, MAC Layer Interactions, and High Layer Messaging Structures  (EECS-2008-118) Leonard Henry Grokop
+60 GHz Tapered Transmission Line Resonators  (EECS-2008-117) Cristian Marcu and Ali Niknejad
+An Extended Internet Architecture for Low-Power Wireless Networks - Design and Implementation  (EECS-2008-116) Jonathan W. Hui
+A Timing Requirements-Aware Scratchpad Memory Allocation Scheme for a Precision Timed Architecture  (EECS-2008-115) Hiren D. Patel, Ben Lickly, Bas Burgers and Edward A. Lee
+Greening the Switch  (EECS-2008-114) Ganesh Ananthanarayanan and Randy H. Katz
+Complexity of Game Dynamics  (EECS-2008-113) Alex Fabrikant
+The Euler spiral: a mathematical history  (EECS-2008-111) Raph Levien
+Extended edition: What is a spectrum hole and what does it take to recognize one?  (EECS-2008-110) Rahul Tandra, Mubaraq Mishra and Anant Sahai
+The Effect of Link Churn on Wireless Routing  (EECS-2008-109) Stephen Dawson-Haggerty, Jorge Ortiz, Xiaofan Fred Jiang and David E. Culler
+Measurement and Analysis of Variability in CMOS circuits  (EECS-2008-108) Liang Teck Pang
+The Complexity of Nash Equilibria  (EECS-2008-107) Constantinos Daskalakis
+Sound Synthesis from Shape-Changing Geometric Models  (EECS-2008-105) Cynthia Maxwell
+A Scratchpad Memory Allocation Scheme for Dataflow Models  (EECS-2008-104) Shamik Bandyopadhyay, Thomas Huining Feng, Hiren D. Patel and Edward A. Lee
+The elastica: a mathematical history  (EECS-2008-103) Raph Levien
+Performance analysis of a multi-antenna framework for spectrum reuse  (EECS-2008-101) Omar Mohammed Bakr, Mark Christopher Johnson, Ben Wild and Kannan Ramchandran
+Best-Fit Constructional Analysis  (EECS-2008-100) John Edward Bryant
+Improving MapReduce Performance in Heterogeneous Environments  (EECS-2008-99) Matei Zaharia, Andrew Konwinski, Anthony D. Joseph, Randy H. Katz and Ion Stoica
+Clock Driven Design Planning  (EECS-2008-98) Shauki Elassaad
+Games for the Verification of Timed Systems  (EECS-2008-97) Vinayak Prabhu
+Optical Injection Locking on Vertical-Cavity Surface-Emitting Lasers (VCSELs): Physics and Applications  (EECS-2008-96) Xiaoxue Zhao
+Advanced Source/Drain Technologies for Nanoscale CMOS  (EECS-2008-95) Pankaj Kalra
+Integrated MEMS Technologies for Adaptive Optics  (EECS-2008-94) Blake Ching-Yu Lin
+Power-Performance Tradeoffs in ASICs for Next Generation Wireless Communication Datapaths  (EECS-2008-93) Farhana Sheikh
+Recovering Models of a Four-Wheel Vehicle Using Vehicular System Data  (EECS-2008-92) Jonathan Sprinkle, J. Mikael Eklund, Humberto Gonzalez, Esten Grotli, Pannag Sanketi and Michael Moser
+The Joe-E Language Specification, Version 1.0  (EECS-2008-91) Adrian Mettler and David Wagner
+Learning Data Driven Representations from Large Collections of Multidimensional Patterns with Minimal Supervision  (EECS-2008-90) Parvez Ahammad
+Communication-optimal parallel and sequential QR and LU factorizations  (EECS-2008-89) James Demmel, Laura Grigori, Mark Frederick Hoemmen and Julien Langou
+Robust and adaptive communication under uncertain interference  (EECS-2008-86) Anand D. Sarwate
+Scalable Models Using Model Transformation  (EECS-2008-85) Thomas Huining Feng and Edward A. Lee
+Automating Rendezvous and Proxy Selection  (EECS-2008-84) David Chiyuan Chu and Joseph M. Hellerstein
+Interlinked Isohedral Tilings of 3D Space  (EECS-2008-83) Roman Fuchs and Carlo H. Séquin
+A Policy-aware Switching Layer for Data Centers  (EECS-2008-82) Dilip Antony Joseph, Arsalan Tavakoli and Ion Stoica
+A New Outer Bound to the Capacity Region of Deterministic-Code Discrete Memoryless Arbitrary Varying General Broadcast Channel  (EECS-2008-81) Amin Aminzadeh Gohari and Venkat Anantharam
+Efficient Programming of Reconfigurable Hardware through Direct Verification  (EECS-2008-80) Kevin Brandon Camera
+Compressed domain video processing of meetings for activity estimation in dominance classification and slide transition detection  (EECS-2008-79) Chuohao Yeo and Kannan Ramchandran
+Some Digital Communication Fundamentals for Physicists and Others  (EECS-2008-78) David G. Messerschmitt
+Efficiency of Selfish Investments in Network Security  (EECS-2008-77) Libin Jiang, Venkat Anantharam and Jean Walrand
+Non-Negative Diagonals and High Performance on Low-Profile Matrices from Householder QR  (EECS-2008-76) James Demmel, Mark Frederick Hoemmen, Yozo Hida and Jason Riedy
+Sequential Optimization for Low Power Digital Design  (EECS-2008-75) Aaron P. Hurst
+Compromising PCA-based Anomaly Detectors for Network-Wide Traffic  (EECS-2008-73) Benjamin I. P. Rubinstein, Blaine Nelson, Ling Huang, Anthony D. Joseph, Shing-hon Lau, Nina Taft and Doug Tygar
+PTIDES: A Programming Model for Distributed Real-Time Embedded Systems  (EECS-2008-72) Patricia Derler, Thomas Huining Feng, Edward A. Lee, Slobodan Matic, Hiren D. Patel, Yang Zhao and Jia Zou
+L2 Cache to Off-chip Memory Networks for Chip Multiprocessor  (EECS-2008-71) Carrell Killebrew
+Gravure as an Industrially Viable Process for Printed Electronics  (EECS-2008-70) Vivek Subramanian and Donovan Sung
+Data-Parallel Large Vocabulary Continuous Speech Recognition on Graphics Processors  (EECS-2008-69) Jike Chong, Youngmin Yi, Arlo Faria, Nadathur Rajagopalan Satish and Kurt Keutzer
+Improving Distributed Application Reliability with End-to-End Datapath Tracing  (EECS-2008-68) George Porter
+Digitally Calibrated Analog-to-Digital Converters in Deep Sub-micron CMOS  (EECS-2008-67) Cheongyuen (Bill) Tsang
+Nanoscale organic electronics: Experimental and theoretical studies on alkyl thiophene and rotaxane  (EECS-2008-66) Kin-Yip Phoa and Vivek Subramanian
+Interface Design and Implementation of a Collaborative Observatory for Natural Environments  (EECS-2008-65) Bryce Lee
+Evaluating the Security of Machine Learning Algorithms  (EECS-2008-63) Marco Antonio Barreno
+Machine Learning in the Presence of an Adversary: Attacking and Defending the SpamBayes Spam Filter  (EECS-2008-62) Udam Saini
+Towards Silicon Nanowire Based Resonant Systems  (EECS-2008-61) Noel Arellano
+Characterizing Redundancy in Populations of Neurons  (EECS-2008-60) Jiening Zhan
+Ultra-Low Power Wake-Up Receivers for Wireless Sensor Networks  (EECS-2008-59) Nathan Pletcher and Jan M. Rabaey
+Attacks and Defenses of Ubiquitous Sensor Networks  (EECS-2008-58) Tanya Gazelle Roosta
+Minuet: Rethinking Concurrency Control in Storage Area Networks  (EECS-2008-57) Andrey Ermolinskiy, Daekyeong Moon, Byung-Gon Chun and Scott Shenker
+Redesign of the Micromechanical Flying Insect in a Power Density Context  (EECS-2008-56) Erik Edward Steltz
+Data Compression for Maskless Lithography Systems: Architecture, Algorithms and Implementation  (EECS-2008-55) Vito Dai
+A Platform-Based Approach to Communication Synthesis for Embedded Systems  (EECS-2008-54) Alessandro Pinto
+Partial Evaluation for Optimized Compilation of Actor-Oriented Models  (EECS-2008-53) Gang Zhou
+PIER: Internet Scale P2P Query Processing with Distributed Hash Tables  (EECS-2008-52) Ryan Jay Huebsch
+Device and Circuit Techniques for Reducing Variation in Nanoscale SRAM  (EECS-2008-51) Andrew Evert Carlson
+CITRIC: A Low-Bandwidth Wireless Camera Network Platform  (EECS-2008-50) Phoebus Wei-Chih Chen, Parvez Ahammad, Colby Boyer, Shih-I Huang, Leon Lin, Edgar J. Lobaton, Marci Lenore Meingast, Songhwai Oh, Simon Wang, Posu Yan, Allen Yang, Chuohao Yeo, Lung-Chung Chang, Doug Tygar and S. Shankar Sastry
+LU, QR and Cholesky Factorizations using Vector Capabilities of GPUs  (EECS-2008-49) Vasily Volkov and James Demmel
+Visually Dependent Nonverbal Cues and Video Communication  (EECS-2008-48) David Tong Nguyen
+Low-complexity Vector Microprocessor Extensions  (EECS-2008-47) Joseph James Gebis
+A Cellular Automaton for Factoring Integers  (EECS-2008-46) Bharathwaj Muthuswamy and Jonathan Ellithorpe
+A Baseband Mixed-Signal Receiver Front-End for 1Gbps Wireless Communications at 60GHz  (EECS-2008-45) David Amory Sobel
+The Security of Machine Learning  (EECS-2008-43) Marco Barreno, Blaine Alan Nelson, Anthony D. Joseph and Doug Tygar
+Scheduling Task Dependence Graphs with Variable Task Execution Times onto Heterogeneous Multiprocessors  (EECS-2008-42) Nadathur Rajagopalan Satish, Kaushik Ravindran and Kurt Keutzer
+Applied Verification: The Ptolemy Approach  (EECS-2008-41) Chihhong Patrick Cheng, Teale Fristoe and Edward A. Lee
+Predictable Programming on a Precision Timed Architecture  (EECS-2008-40) Ben Lickly, Isaac Liu, Sungjun Kim, Hiren D. Patel, Stephen A. Edwards and Edward A. Lee
+Model Engineering using Multimodeling  (EECS-2008-39) Christopher Brooks, Chihhong Patrick Cheng, Thomas Huining Feng, Edward A. Lee and Reinhard von Hanxleden
+A Distributed Algorithm for Maximal Throughput and Optimal Fairness in Wireless Networks with a General Interference Model  (EECS-2008-38) Libin Jiang and Jean Walrand
+Heterogeneous Concurrent Modeling and Design in Java (Volume 3: Ptolemy II Domains)  (EECS-2008-37) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Single and Multi-CPU Performance Modeling for Embedded Systems  (EECS-2008-36) Trevor Conrad Meyerowitz
+Infusing Parallelism into Introductory Computer Science Curriculum using MapReduce  (EECS-2008-34) Matthew Johnson, Robert H. Liao, Alexander Rasmussen, Ramesh Sridharan, Dan Garcia and Brian K. Harvey
+Measurement and Analysis of Wireless Channel Impairments in DSRC Vehicular Communications  (EECS-2008-33) Ian Nathaniel Lim Tan, Wanbin Tang, Ken Laberteaux and Ahmad Bahai
+Security Inference from Noisy Data  (EECS-2008-32) Li Zhuang
+Sensitivity Analysis for AM Detectors  (EECS-2008-31) Simone Gambini, Nathan Pletcher and Jan M. Rabaey
+Heterogeneous Concurrent Modeling and Design in Java (Volume 2: Ptolemy II Software Architecture)  (EECS-2008-29) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 1: Introduction to Ptolemy II)  (EECS-2008-28) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+D3: Declarative Distributed Debugging  (EECS-2008-27) Byung-Gon Chun, Kuang Chen, Gunho Lee, Randy H. Katz and Scott Shenker
+On the Duality between Vacuity and Coverage  (EECS-2008-26) Orna Kupferman, Wenchao Li and Sanjit A. Seshia
+SharC: Checking Data Sharing Strategies for Multithreaded C  (EECS-2008-25) Zachary Ryan Anderson, David Gay, Rob Ennals and Eric Brewer
+Power Consumption in a Real, Commercial Multimedia Core  (EECS-2008-24) Dominic Aldo Antonelli, Alan J. Smith and Jan-Willem van de Waerdt
+The Parallel Computing Laboratory at U.C. Berkeley: A Research Agenda Based on the Berkeley View  (EECS-2008-23) Krste Asanović, Ras Bodik, James Demmel, Tony Keaveny, Kurt Keutzer, John D. Kubiatowicz, Edward A. Lee, Nelson Morgan, George Necula, David A. Patterson, Koushik Sen, John Wawrzynek, David Wessel and Katherine A. Yelick
+COSI: A Public-Domain Design Framework for the Design of Interconnection Networks  (EECS-2008-22) Alessandro Pinto, Luca Carloni and Alberto L. Sangiovanni-Vincentelli
+Nanoscale CMOS Modeling  (EECS-2008-20) Mohan Vamsi Dunga
+Optimal Strategies and Minimax Lower Bounds for Online Convex Games  (EECS-2008-19) Jacob Duncan Abernethy, Peter Bartlett, Alexander Rakhlin and Ambuj Tewari
+An Efficient Algorithm for Bandit Linear Optimization  (EECS-2008-18) Jacob Duncan Abernethy, Elad Hazan and Alexander Rakhlin
+Metro II Execution Semantics for Mapping  (EECS-2008-16) Douglas Michael Densmore, Trevor Conrad Meyerowitz, Abhijit Davare, Qi Zhu and Guang Yang
+Slow and Fast Light in Semiconductors  (EECS-2008-15) Forrest G. Sedgwick
+Wireless Embedded Systems and Networking - Labs Based on the AIIT Lecture  (EECS-2008-14) Jaein Jeong and David E. Culler
+Evaluating Architectures for Application-Specific Parallel Scientific Computing Systems  (EECS-2008-13) Mark Murphy, Kurt Keutzer, Leonid Oliker, Chris Rowen and John Shalf
+Compositionality in Deterministic Real-Time Embedded Systems  (EECS-2008-12) Slobodan Matic
+Fast Support Vector Machine Training and Classification on Graphics Processors  (EECS-2008-11) Bryan Christopher Catanzaro, Narayanan Sundaram and Kurt Keutzer
+A Hierarchical Coordination Language for Reliable Real-Time Tasks  (EECS-2008-10) Arkadeb Ghosal
+Advanced Structures and New Detection Methods for Future High Density Non-volatile Memory Technologies  (EECS-2008-9) Alvaro Padilla
+Cyber Physical Systems: Design Challenges  (EECS-2008-8) Edward A. Lee
+Multimodeling: A Preliminary Case Study  (EECS-2008-7) Christopher Brooks, Thomas Huining Feng, Edward A. Lee and Reinhard von Hanxleden
+Optimization and Reconstruction over Graphs  (EECS-2008-6) Samantha J. Riesenfeld
+A 98% peak efficiency 1.5A 12V-to-1.5V Switched Capacitor dc-dc converter in 0.18um CMOS technology  (EECS-2008-5) Vincent Wai-Shan Ng and Seth R. Sanders
+Trading Infinite Memory for  Uniform Randomness in Timed Games  (EECS-2008-4) Krishnendu Chatterjee, Thomas A. Henzinger and Vinayak Prabhu
+Sparse Signal Sampling using Noisy Linear Projections  (EECS-2008-3) Galen Reeves
+Nano-Electromechanical Optoelectronic Tunable Lasers  (EECS-2008-2) Michael Chung-Yi Huang
+The price of certainty: "waterslide curves" and the gap to capacity  (EECS-2008-1) Anant Sahai and Pulkit Grover

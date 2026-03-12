@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/jelani-nelson-shrinks-big-data-and-expands-cs-learning-opportunities
+Jelani Nelson shrinks Big Data and expands CS learning opportunities - EECS at Berkeley
+Since computers cannot store unlimited amounts of data, it is important to be able to quickly extract patterns in that data without having to remember it in real time. CS Prof. Jelani Nelson, who is profiled in a  Q&A session for Quanta magazine , has been expanding the theoretical possibilities for low-memory streaming algorithms using a technique called sketching, which compresses big data sets into smaller components that can be stored using less memory and analyzed quickly.  He has used this technique to help devise the best possible algorithm for monitoring things like repeat IP addresses accessing a server.  “The design space is just so broad that it’s fun to see what you can come up with,” he said.  Nelson also founded AddisCoder, a free summer program which has taught coding and computer science to over 500 high school students in Addis Ababa, Ethiopia.  “A lot of the students have never been outside of their town, or their region,” he said.  “So AddisCoder is the first time they’re seeing kids from all over the country, and then they’re meeting instructors from all over the world.  It’s very eye-opening for them.”
+Categories
+Diversity
+Education
+Faculty
+Research
+View
+Open Faculty Positions

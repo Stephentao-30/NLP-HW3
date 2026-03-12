@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28445.html
+Tools for Research in Computer Workload Characterization and Modeling | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Tools for Research in Computer Workload Characterization and Modeling
+Tools for Research in Computer Workload Characterization and Modeling
+Steven Louis Gaede
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/58
+September 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-58.pdf
+BibTeX citation:
+@techreport{Gaede:M79/58,
+Author = {Gaede, Steven Louis},
+Title = {Tools for Research in Computer Workload Characterization and Modeling},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28445.html},
+Number = {UCB/ERL M79/58}
+}
+EndNote citation:
+%0 Report
+%A Gaede, Steven Louis
+%T Tools for Research in Computer Workload Characterization and Modeling
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28445.html
+%F Gaede:M79/58

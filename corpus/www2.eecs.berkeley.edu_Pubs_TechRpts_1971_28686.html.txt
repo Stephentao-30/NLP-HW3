@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28686.html
+Fuzzy Languages and Their Relation to Human and Machine Intelligence | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fuzzy Languages and Their Relation to Human and Machine Intelligence
+Fuzzy Languages and Their Relation to Human and Machine Intelligence
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M302
+August 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-302.pdf
+BibTeX citation:
+@techreport{Zadeh:M302,
+Author = {Zadeh, L.A.},
+Title = {Fuzzy Languages and Their Relation to Human and Machine Intelligence},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28686.html},
+Number = {UCB/ERL M302}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Fuzzy Languages and Their Relation to Human and Machine Intelligence
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M302
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28686.html
+%F Zadeh:M302

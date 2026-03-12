@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/29312.html
+Theory of a Class of Discrete Optimal Control Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theory of a Class of Discrete Optimal Control Systems
+Theory of a Class of Discrete Optimal Control Systems
+B.W. Jordan and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M47
+January 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-47.pdf
+BibTeX citation:
+@techreport{Jordan:M47,
+Author = {Jordan, B.W. and Polak, E.},
+Title = {Theory of a Class of Discrete Optimal Control Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/29312.html},
+Number = {UCB/ERL M47}
+}
+EndNote citation:
+%0 Report
+%A Jordan, B.W.
+%A Polak, E.
+%T Theory of a Class of Discrete Optimal Control Systems
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/29312.html
+%F Jordan:M47

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28998.html
+When is a Device Passive? | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+When is a Device Passive?
+When is a Device Passive?
+P.J. Moylan, L.O. Chua and E.W. Szeto
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/34
+June 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-34.pdf
+BibTeX citation:
+@techreport{Moylan:M81/34,
+Author = {Moylan, P.J. and Chua, L.O. and Szeto, E.W.},
+Title = {When is a Device Passive?},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28998.html},
+Number = {UCB/ERL M81/34}
+}
+EndNote citation:
+%0 Report
+%A Moylan, P.J.
+%A Chua, L.O.
+%A Szeto, E.W.
+%T When is a Device Passive?
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28998.html
+%F Moylan:M81/34

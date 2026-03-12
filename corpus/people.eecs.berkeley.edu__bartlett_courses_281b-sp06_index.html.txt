@@ -1,0 +1,144 @@
+URL: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp06/index.html
+CS 281B / Stat 241B Spring 2006
+CS 281B / Stat 241B, Spring 2006:
+Statistical Learning Theory
+People
+Office
+hours
+Instructor
+Peter Bartlett
+bartlett at cs
+Tu 5:00-6:00, Evans 399. Thu
+11:00-12:00, Soda 527.
+GSI
+Ambuj Tewari
+ambuj at cs
+Soda 551. Tu 4:00-5:00, Fr
+11:00-12:00
+Lectures:  Soda 405. Tuesday/Thursday 9:30-11:00.
+Course description
+This course will provide an introduction to the analysis
+of advanced statistical and computational methods for the
+modeling of complex, multivariate data. It will concentrate
+on the development of theoretical concepts to support
+such methods, and in particular the analysis of the
+statistical properties of prediction methods.
+Prerequisites: CS281A/Stat241A, or advanced training in
+probability or statistics, at the level of Stat 205A or
+Stat 210A.
+[More details]
+Assignments
+There will be regular homework assignments,
+due at the class three lectures after being passed out.
+Late homeworks will not be accepted.
+You will be expected to act as scribe for
+a small number of lectures, preparing a latex version of lecture notes
+that will be posted on the web site.
+( Latex template )
+In addition, you will present one paper during one of the
+lectures.  Please sign up for papers on  this list , by email to ambuj at cs.
+There will be a final project in an area
+relevant to the course. Feel free to discuss topics with me, or ask for
+suggestions.
+Project proposals are due April 4 (one or two paragraphs
+in an email message to bartlett at cs).
+Project reports are due May 9.
+We will have project poster presentations on May 9 and May 11,
+9:30-11:00 in Soda 405.
+Readings
+Homework
+1. Due Thursday, February 2, at the lecture.  pdf   solutions
+2. Due Tuesday, April 4, at the lecture.  pdf  (New version, Thu Mar 23 12:21:40 PST
+2006)   solutions   code
+3. Due Tuesday, May 2, at the lecture.  pdf  (New version, Thu Apr 27 09:31:57
+PDT 2006)
+Announcements
+Project reports are due on Tuesday, May 9, at the lecture.
+We will have project poster presentations on Tuesday, May 9 and
+Thursday, May 11, in Soda 405, 9:30-11:00. If your last name starts
+with A-J, you'll be presenting your poster on Tuesday, May 9. If your
+last name starts with K-Z, you'll be presenting your poster on
+Thursday, May 11. Please attend both sessions.
+If you did a project in a group, you can choose to
+present your poster on the appropriate day for any of the group
+members - in that case, email me with the date you've chosen.
+If you'd like to change from your assigned day, please swap with
+another person/group and email the details to me.
+I will be travelling on Tuesday, May 2 and Thursday, May 4, so
+my office hours for both days have been cancelled. Email me if you
+have questions that week.
+Ambuj will present the lecture on Tuesday, May 2.
+There will be no lecture on Thursday, May 4. We'll have an extra
+lecture on Thursday, May 11: the second session of project presentations.
+(Same time and place)
+Reminder: project proposals are due on Tuesday, April 4
+(one or two paragraphs in an email message to bartlett at cs).
+Homework 2  has been updated: an error
+in Question 1(b) has been fixed.
+The  list
+of readings has been updated. Please sign up for presentations,
+by email to ambuj at cs.
+Here are some  notes
+on the proof of the bounded differences
+inequality, showing where independence of the random variables
+is important in the proof.
+My office hours on Tuesdays have been moved to 5-6pm in Evans 399.
+Lecture notes
+1. Tuesday, January 17.  Pattern Classification
+and the Perceptron Algorithm
+2. Thursday, January 19.   Classification
+and the Perceptron Algorithm
+3. Tuesday, January 24.  Perceptron Risk
+Bounds and Kernel Classification
+4. Thursday, January 26.  Kernels and
+Constrained Optimization
+5. Tuesday, January 31.  Constrained
+Optimization and Non-separable SVMs
+6. Thursday, February 2.  Support Vector Machines for
+Non-separable Problems
+7. Tuesday, February 7.  Discrete Loss and Convex Loss
+8. Thursday, February 9.  Reproducing Kernel Hilbert Spaces
+9. Tuesday, February 14.  Representer
+Theorem and Constructing Kernels
+10. Thursday, February 16.  Kernel Methods
+for Regression
+11. Thursday, February 23.  Ensemble
+Methods"
+12. Tuesday, February 28.  Ensemble
+Methods and Adaboost
+13. Thursday, March 2.  More on AdaBoost,
+Risk Bounds
+14. Tuesday, March 7.  Risk Bounds and
+Uniform Convergence
+15. Thursday, March 9.  Concentration
+Inequalities
+16. Tuesday, March 14.  Bounded
+Differences Inequality and Loss Classes
+17. Thursday, March 16.  Glivenko-Cantelli
+Theorem
+18. Tuesday, March 21.  Rademacher
+Averages
+19. Thursday, March 23.  Growth
+Function and Vapnik-Chervonenkis Dimension
+20. Tuesday, April 4.  Operations with
+Rademacher Averages
+21.  Thursday, April 6.  Rademacher
+Averages of Kernel Classes
+22. Tuesday, April 11.  Growth Function
+Estimates for Parameterized Binary Classes
+23. Thursday, April 13.  Covering
+Numbers and Metric Entropy
+24. Tuesday, April 18.
+Covering Numbers, Chaining and Dudley's Entropy Integral
+25. Thursday, April 20.  Covering Numbers
+and Pseudo-dimension
+26. Tuesday, April 25.  Pseudo-dimension
+and Model Selection
+27. Thursday, April 27.   Model
+Selection and Oracle Inequalities
+28. Tuesday, May 2.  Better rates through
+variance information.
+29. Tuesday, May 9. Poster presentations of projects. Surnames
+A-J.
+30. Thursday, May 11. Poster presentations of projects. Surnames
+K-Z.

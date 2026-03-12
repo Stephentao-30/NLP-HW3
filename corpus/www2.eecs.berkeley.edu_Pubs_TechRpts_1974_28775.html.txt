@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28775.html
+An Algorithm For Optimization Problems with Functional Inequality Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm For Optimization Problems with Functional Inequality Constraints
+An Algorithm For Optimization Problems with Functional Inequality Constraints
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M456
+August 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-456.pdf
+BibTeX citation:
+@techreport{Polak:M456,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {An Algorithm For Optimization Problems with Functional Inequality Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28775.html},
+Number = {UCB/ERL M456}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T An Algorithm For Optimization Problems with Functional Inequality Constraints
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M456
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28775.html
+%F Polak:M456

@@ -1,0 +1,81 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-247.html
+Location Privacy: User Behavior in the Field
+Andrew Fisher
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-247
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-247.pdf
+Current smartphone platforms provide ways for users to control access to
+information about their location.  For instance, on the iPhone, when an
+application requests access to location information, the operating system asks
+the user whether to grant location access to this application.  In this paper,
+we study how users are using these controls, and seek to answer the following
+questions:
+Do iPhone users allow applications to access their location?
+Do their decisions differ from application to application?
+Can we predict how a user will respond for a particular
+application, given their past responses for other applications?
+We gather data from iPhone users that sheds new light on these questions.
+Our results indicate that there are different classes of users:
+some deny all applications access to their location
+some allow all applications access to their location
+some selectively permit a fraction of their applications to access their location
+We also find that apps can be separated into different classes by what
+fraction of users trust the app with their location data.  Finally, we
+investigate using machine learning techniques to predict users'
+location-sharing decisions; we find that we are sometimes able to predict the
+user's actual choice, though there is considerable room for improvement.  If it
+is possible to improve the accuracy rate further, this information could be
+used to relieve users of the cognitive burden of individually assigning
+location permissions for each application, allowing users to focus their
+attention on more critical matters.
+Advisors:  David Wagner and Björn Hartmann
+BibTeX citation:
+@mastersthesis{Fisher:EECS-2012-247,
+Author= {Fisher, Andrew},
+Title= {Location Privacy: User Behavior in the Field},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-247.html},
+Number= {UCB/EECS-2012-247},
+Abstract= {<p>Current smartphone platforms provide ways for users to control access to
+information about their location.  For instance, on the iPhone, when an
+application requests access to location information, the operating system asks
+the user whether to grant location access to this application.  In this paper,
+we study how users are using these controls, and seek to answer the following
+questions:</p>
+<ul>
+<li>Do iPhone users allow applications to access their location?</li>
+<li>Do their decisions differ from application to application?</li>
+<li>Can we predict how a user will respond for a particular
+application, given their past responses for other applications?</li>
+</ul>
+<p>We gather data from iPhone users that sheds new light on these questions.
+Our results indicate that there are different classes of users:<p>
+<ul>
+<li>some deny all applications access to their location</li>
+<li>some allow all applications access to their location</li>
+<li>some selectively permit a fraction of their applications to access their location</li>
+</ul>
+<p>We also find that apps can be separated into different classes by what
+fraction of users trust the app with their location data.  Finally, we
+investigate using machine learning techniques to predict users'
+location-sharing decisions; we find that we are sometimes able to predict the
+user's actual choice, though there is considerable room for improvement.  If it
+is possible to improve the accuracy rate further, this information could be
+used to relieve users of the cognitive burden of individually assigning
+location permissions for each application, allowing users to focus their
+attention on more critical matters.</p>},
+}
+EndNote citation:
+%0 Thesis
+%A Fisher, Andrew
+%T Location Privacy: User Behavior in the Field
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-247
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-247.html
+%F Fisher:EECS-2012-247

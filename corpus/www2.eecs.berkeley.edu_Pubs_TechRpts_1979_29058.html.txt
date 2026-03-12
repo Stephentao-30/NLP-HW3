@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29058.html
+A Uniform channel IGFET | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Uniform channel IGFET
+A Uniform channel IGFET
+R.W. Coen and R.S. Muller
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/36
+June 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-36.pdf
+BibTeX citation:
+@techreport{Coen:M79/36,
+Author = {Coen, R.W. and Muller, R.S.},
+Title = {A Uniform channel IGFET},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29058.html},
+Number = {UCB/ERL M79/36}
+}
+EndNote citation:
+%0 Report
+%A Coen, R.W.
+%A Muller, R.S.
+%T A Uniform channel IGFET
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29058.html
+%F Coen:M79/36

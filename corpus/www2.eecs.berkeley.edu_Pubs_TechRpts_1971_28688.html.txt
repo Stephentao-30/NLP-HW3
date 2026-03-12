@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28688.html
+Nonlinear N-Ports: I--Characterization, Classification, and Representation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear N-Ports: I--Characterization, Classification, and Representation
+Nonlinear N-Ports: I--Characterization, Classification, and Representation
+L.O. Chua and Y-F Lam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M307
+September 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-307.pdf
+BibTeX citation:
+@techreport{Chua:M307,
+Author = {Chua, L.O. and Lam, Y-F},
+Title = {Nonlinear N-Ports: I--Characterization, Classification, and Representation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28688.html},
+Number = {UCB/ERL M307}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Lam, Y-F
+%T Nonlinear N-Ports: I--Characterization, Classification, and Representation
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M307
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28688.html
+%F Chua:M307

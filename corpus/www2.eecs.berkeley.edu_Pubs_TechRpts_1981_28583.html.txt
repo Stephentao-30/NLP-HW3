@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28583.html
+The Reproducibility of Fuzzy Control Systems
+K. Burdzy and J.B. Kiszka
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/37
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-37.pdf
+BibTeX citation:
+@techreport{Burdzy:M81/37,
+Author= {Burdzy, K. and Kiszka, J.B.},
+Title= {The Reproducibility of Fuzzy Control Systems},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28583.html},
+Number= {UCB/ERL M81/37},
+}
+EndNote citation:
+%0 Report
+%A Burdzy, K.
+%A Kiszka, J.B.
+%T The Reproducibility of Fuzzy Control Systems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28583.html
+%F Burdzy:M81/37

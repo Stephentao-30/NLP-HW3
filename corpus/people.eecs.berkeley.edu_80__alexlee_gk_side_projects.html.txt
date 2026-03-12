@@ -1,0 +1,25 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/side_projects.html
+Alex Lee: Side Projects
+Alex X. Lee
+Home
+Publications
+Projects
+Research Projects
+Class Projects
+Side Projects
+Internship Projects
+Contact:
+alexleegk [at] gmail [dot] com
+These are some side projects that I have worked for the past few years. They include electronics and DIY projects.
+Smart Alarm (in progress)
+Light "Painting" (in progress)
+I have 300 analog RGB LEDs that I will incorporate to the light system of my room. I'll arrange the LEDs into a matrix and thus make what I call a light "painting." Since these LEDs are analog (as opposed to individually addressable digital LEDs), they will be controlled via PWM and transistors. I'll use 15 channels of PWM, which means that 5 regions of the painting can separately be set to any RGB color.
+Control Box for Philips Hue Lights (in progress)
+I have a set of  Philips hue lights , which are wireless LED light bulbs that can deliver any color in the spectrum. Normally the lights can be controlled from the official app or third-party apps in a smart phone. However, sometimes I want to physically control the lights just as we do with a normal switch. Philips has such a physical switch called  hue tap  but their controls are not as fine-grained as I wanted. So I made a box to control my hue lights. It has 4 buttons: 3 blue buttons for selecting the lights to control and a green button to quickly turn all the lights on or off. In addition, it has 3 knobs which controls hue, saturation and brightness for the selected lights. Since hue values wrap around, the hue knob is a rotary encoder. The other 2 knobs are linear potentiometers. These controls are connected to a BeagleBone Black. I still need to fabricate a PCB to replace the breadboard and the mess of wires.
+Organizer Box
+I saw  this organizer box  and I decided that I wanted to make one as a gift for my dad. Unfortunately, the design files of that box wasn't released. So I designed the box from scratch. I closely followed the design of the other box but added a removable separator for each box. My 3D model and the vector graphics files for laser cutting can be downloaded from  here .
+The exterior frame was cut from 0.225" sanded plywood, the interior frame from 1/8" birch wood, and the drawers from 1/8" birch wood and 1/8" acrylic. The handles are made of 1/4"-20 x 1-1/4" flat head phillips machine screws and nuts.
+Automatic Anti-energy-saving Controller
+During my undergraduate years, I was doing research in a lab where the lights will automatically go off after 7pm or all day during weekends and holidays. As it turns out, sometimes I needed to do research during those times. Luckily, the lights could be turned on back again by pressing an override switch, in which case the lights would remain on for the next two hours before they go off again. I couldn’t resist but to come up with an over-engineered solution to this simple problem. I used a solar cell to detect if the lights went off and a servo to press the override switch every time the lights went off. I used a TI MSP430 for processing and interfacing with the solar cell and servo. The yellow LED indicates medium darkness and the red one indicates total darkness. A simpler solution is to tape something small (e.g. marble or piece of plastic) onto the switch to have the switch being pressed all the time. This actually works pretty well too, but what’s the fun of that if there are no electronics involved?
+Proximity Sensor Scanner
+I had a Sharp IR proximity sensor, a servo, and a TI MSP430 microcontroller lying around so I made a simple proximity sensor scanner! The device sweeps back and forth while the distance readings were visualized with an array of LEDs. The following images shows the setup of the device, time lapse images and a video of the device in action.

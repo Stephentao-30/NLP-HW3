@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29121.html
+A Characterization of the Minimum Cycle Mean in a Digraph | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Characterization of the Minimum Cycle Mean in a Digraph
+A Characterization of the Minimum Cycle Mean in a Digraph
+R.M. Karp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/47
+June 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-47.pdf
+BibTeX citation:
+@techreport{Karp:M77/47,
+Author = {Karp, R.M.},
+Title = {A Characterization of the Minimum Cycle Mean in a Digraph},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29121.html},
+Number = {UCB/ERL M77/47}
+}
+EndNote citation:
+%0 Report
+%A Karp, R.M.
+%T A Characterization of the Minimum Cycle Mean in a Digraph
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29121.html
+%F Karp:M77/47

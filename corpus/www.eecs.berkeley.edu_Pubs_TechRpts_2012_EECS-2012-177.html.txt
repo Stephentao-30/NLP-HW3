@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-177.html
+Scalable Test Data Generation from Multidimensional Models
+Emina Torlak
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-177
+July 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-177.pdf
+Multidimensional data models form the core of modern decision support software. The need for this kind of software is significant, and it continues to grow with the size and variety of datasets being collected today. Yet real multidimensional instances are often unavailable for testing and benchmarking, and existing data generators can only produce a limited class of such structures. In this paper, we present a new framework for scalable generation of test data from a rich class of multidimensional models. The framework provides a small, expressive language for specifying such models, and a novel solver for generating sample data from them. While the satisfiability problem for the language is NP-hard, we identify a polynomially solvable fragment that captures most practical modeling patterns. Given a model and, optionally, a statistical specification of the desired test dataset, the solver detects and instantiates a maximal subset of the model within this fragment, generating data that exhibits the desired statistical properties. We use our framework to generate a variety of high-quality test datasets from real industrial models, which cannot be correctly instantiated by existing data generators, or as effectively solved by general-purpose constraint solvers.
+BibTeX citation:
+@techreport{Torlak:EECS-2012-177,
+Author= {Torlak, Emina},
+Title= {Scalable Test Data Generation from Multidimensional Models},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-177.html},
+Number= {UCB/EECS-2012-177},
+Abstract= {Multidimensional data models form the core of modern decision support software. The need for this kind of software is significant, and it continues to grow with the size and variety of datasets being collected today. Yet real multidimensional instances are often unavailable for testing and benchmarking, and existing data generators can only produce a limited class of such structures. In this paper, we present a new framework for scalable generation of test data from a rich class of multidimensional models. The framework provides a small, expressive language for specifying such models, and a novel solver for generating sample data from them. While the satisfiability problem for the language is NP-hard, we identify a polynomially solvable fragment that captures most practical modeling patterns. Given a model and, optionally, a statistical specification of the desired test dataset, the solver detects and instantiates a maximal subset of the model within this fragment, generating data that exhibits the desired statistical properties. We use our framework to generate a variety of high-quality test datasets from real industrial models, which cannot be correctly instantiated by existing data generators, or as effectively solved by general-purpose constraint solvers.},
+}
+EndNote citation:
+%0 Report
+%A Torlak, Emina
+%T Scalable Test Data Generation from Multidimensional Models
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 13
+%@ UCB/EECS-2012-177
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-177.html
+%F Torlak:EECS-2012-177

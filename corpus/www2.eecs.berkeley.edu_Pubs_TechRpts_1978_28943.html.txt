@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28943.html
+A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis
+A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis
+Piero P. Bonissone
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/57
+August 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-57.pdf
+BibTeX citation:
+@techreport{Bonissone:M78/57,
+Author = {Bonissone, Piero P.},
+Title = {A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28943.html},
+Number = {UCB/ERL M78/57}
+}
+EndNote citation:
+%0 Report
+%A Bonissone, Piero P.
+%T A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28943.html
+%F Bonissone:M78/57

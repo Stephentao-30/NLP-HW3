@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-24.html
+A Survey of Enterprise Middlebox Deployments
+Justine Sherry and Sylvia Ratnasamy
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-24
+February 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-24.pdf
+In November 2011, we surveyed 57 enterprise network administrators, primarily from the NANOG network operators group, regarding network appliances or so-called ‘middleboxes.’ We designed our survey with the goal of bridging the gap between research and practice, by allowing the experiences and concerns of network administrators to inform the direction of our research. We asked operators about the number of middleboxes they deployed, what the challenges are in managing middleboxes, how much middleboxes cost, and what causes middleboxes to fail. Not only has the survey data driven some of our own research, but we hope that once published some of our conclusions will be able to guide others in the research community. With this report, we aim to give back to the operator community by reporting on our findings and conclusions.
+BibTeX citation:
+@techreport{Sherry:EECS-2012-24,
+Author= {Sherry, Justine and Ratnasamy, Sylvia},
+Title= {A Survey of Enterprise Middlebox Deployments},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-24.html},
+Number= {UCB/EECS-2012-24},
+Abstract= {In November 2011, we surveyed 57 enterprise network administrators, primarily from the NANOG network operators group, regarding network appliances or so-called ‘middleboxes.’ We designed our survey with the goal of bridging the gap between research and practice, by allowing the experiences and concerns of network administrators to inform the direction of our research. We asked operators about the number of middleboxes they deployed, what the challenges are in managing middleboxes, how much middleboxes cost, and what causes middleboxes to fail. Not only has the survey data driven some of our own research, but we hope that once published some of our conclusions will be able to guide others in the research community. With this report, we aim to give back to the operator community by reporting on our findings and conclusions.},
+}
+EndNote citation:
+%0 Report
+%A Sherry, Justine
+%A Ratnasamy, Sylvia
+%T A Survey of Enterprise Middlebox Deployments
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 9
+%@ UCB/EECS-2012-24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-24.html
+%F Sherry:EECS-2012-24

@@ -1,0 +1,24 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9F
+Course: CS9F | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9F
+CS 9F. C++ for Programmers
+Catalog Description:  Self-paced introduction to the constructs provided in the C++ programming language for procedural and object-oriented programming, aimed at students who already know how to program.
+Units:  2.0
+Prerequisites:  Programming experience equivalent to that gained in COMPSCI 61A or ENGIN 7.
+Credit Restrictions:  Students will receive no credit for COMPSCI 9F after completing COMPSCI 61A.
+Formats:  Fall: 2 hours of self-paced per week
+Spring: 2 hours of self-paced per week
+Grading basis:  passFail
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Students will learn constructs of the C++ programming language sufficient to implement an object-oriented design. In the process of learning the language, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Fundamentals: Types and Variables; input/output; flow of control; functions, value parameters, and reference parameters; classes, member functions, public and private data, use of interface and implementation files; scope; function overloading.
+Arrays, Strings, and I/O Streams: Indexing; multidimensional arrays; interaction of constructors for container/containee classes; straightforward use of files and string streams.
+Linked Structures: Pointers; new and delete; building and using linked lists and trees; use of iterators; the "this" pointer; copy constructors; destructors; memory allocation and deallocation.
+Class Design: Function and class templates; operator overloading; derived classes; virtual functions; friends.

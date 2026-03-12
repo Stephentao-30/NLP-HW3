@@ -1,0 +1,31 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9C
+Course: CS9C | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9C
+CS 9C. C for Programmers
+Catalog Description:  Self-paced course in the C programming language for students who already know how to program. Computation, input and output, flow of control, functions, arrays, and pointers, linked structures, use of dynamic storage, and implementation of abstract data types.
+Units:  2.0
+Prerequisites:  Programming experience with pointers (or addresses in assembly language) and linked data structures equivalent to that gained in COMPSCI 9B, COMPSCI 61A or ENGIN 7.
+Credit Restrictions:  Students will receive no credit for COMPSCI 9C after completing COMPSCI 61A.
+Formats:  Fall: 2 hours of self-paced per week
+Spring: 2 hours of self-paced per week
+Grading basis:  passFail
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Students are expected to learn the basics of C programming (up through constructs, arrays, and pointers). In the process of learning the language, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Computation
+Input/Output
+Functions and procedures
+Flow of control
+Arrays
+Pointers
+Structures
+Files
+Linked structures
+Implementation of abstract data types
+Use of the "malloc" and "free" functions

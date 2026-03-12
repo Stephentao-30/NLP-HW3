@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28717.html
+A Property of the P-Medians of a Graph
+Chuan Chen and C.K. Butt
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M355
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-355.pdf
+BibTeX citation:
+@techreport{Chen:M355,
+Author= {Chen, Chuan and Butt, C.K.},
+Title= {A Property of the P-Medians of a Graph},
+Year= {1972},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28717.html},
+Number= {UCB/ERL M355},
+}
+EndNote citation:
+%0 Report
+%A Chen, Chuan
+%A Butt, C.K.
+%T A Property of the P-Medians of a Graph
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M355
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28717.html
+%F Chen:M355

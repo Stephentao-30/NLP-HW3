@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-241.html
+Towards Programmable Buildings: A Study of System Design for Application Portability in Buildings
+Andrew Krioukov
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-241
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-241.pdf
+Buildings consume 72% of electricity in the U.S. and are a prime opportunity for software to improve sustainability and unlock new capabilities. Many commercial buildings have digital controls and extensive sensor networks that can be used to develop novel applications for saving energy, detecting faults, improving comfort, etc. However, buildings are custom designed, leading to differences in functionality, connectivity, controls and operation. As a result today’s building applications are hard to write and non-portable. We present BAS, an application programming interface and runtime that addresses these issues using a fuzzy query API, a graph representation of building metadata and a hierarchical driver model for building components.
+We demonstrate and evaluate BAS by exploring three applications enabled by this architecture. Specifically, we focus on a class of applications that incorporate occupant feedback into building operation. We develop a personalized lighting control application that uses existing lighting hardware and saves over 50% of lighting energy. We also develop a ventilation optimization and a personal HVAC control application, demonstrating that BAS enables rapid development and scale for building applications.
+Advisors:  David E. Culler
+BibTeX citation:
+@mastersthesis{Krioukov:EECS-2013-241,
+Author= {Krioukov, Andrew},
+Title= {Towards Programmable Buildings: A Study of System Design for Application Portability in Buildings},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-241.html},
+Number= {UCB/EECS-2013-241},
+Abstract= {Buildings consume 72% of electricity in the U.S. and are a prime opportunity for software to improve sustainability and unlock new capabilities. Many commercial buildings have digital controls and extensive sensor networks that can be used to develop novel applications for saving energy, detecting faults, improving comfort, etc. However, buildings are custom designed, leading to differences in functionality, connectivity, controls and operation. As a result today’s building applications are hard to write and non-portable. We present BAS, an application programming interface and runtime that addresses these issues using a fuzzy query API, a graph representation of building metadata and a hierarchical driver model for building components.
+We demonstrate and evaluate BAS by exploring three applications enabled by this architecture. Specifically, we focus on a class of applications that incorporate occupant feedback into building operation. We develop a personalized lighting control application that uses existing lighting hardware and saves over 50% of lighting energy. We also develop a ventilation optimization and a personal HVAC control application, demonstrating that BAS enables rapid development and scale for building applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Krioukov, Andrew
+%T Towards Programmable Buildings: A Study of System Design for Application Portability in Buildings
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-241
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-241.html
+%F Krioukov:EECS-2013-241

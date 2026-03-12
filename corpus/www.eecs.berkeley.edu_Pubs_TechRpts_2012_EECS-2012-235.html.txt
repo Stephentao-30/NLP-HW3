@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-235.html
+Graph Algorithms in the Internet Age
+Isabelle Stanton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-235
+December 12,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-235.pdf
+This dissertation addresses a series of graph problems inspired by the computational issues with face with the Internet, a massive distributed network of autonomous agents. There are several levels to this problem. From a systems perspective, what can we do to facilitate computation over massive graphs? From a modeling perspective, what do natural graphs look like and what features are useful? From a game theoretic perspective, the graphs often represent individuals or systems with their own goals and agendas. Can we understand how these systems compete and when these competitions are fair or can be manipulated?
+These questions are addressed. For the first, we consider the problem of streaming graph partitioning and show it is feasible. For the second, we study the joint degree distribution of a graph and show it is combinatorially easy to work with. Finally, we address questions about tournament design and manipulation.
+Advisors:  Satish Rao
+BibTeX citation:
+@phdthesis{Stanton:EECS-2012-235,
+Author= {Stanton, Isabelle},
+Title= {Graph Algorithms in the Internet Age},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-235.html},
+Number= {UCB/EECS-2012-235},
+Abstract= {This dissertation addresses a series of graph problems inspired by the computational issues with face with the Internet, a massive distributed network of autonomous agents. There are several levels to this problem. From a systems perspective, what can we do to facilitate computation over massive graphs? From a modeling perspective, what do natural graphs look like and what features are useful? From a game theoretic perspective, the graphs often represent individuals or systems with their own goals and agendas. Can we understand how these systems compete and when these competitions are fair or can be manipulated?
+These questions are addressed. For the first, we consider the problem of streaming graph partitioning and show it is feasible. For the second, we study the joint degree distribution of a graph and show it is combinatorially easy to work with. Finally, we address questions about tournament design and manipulation.},
+}
+EndNote citation:
+%0 Thesis
+%A Stanton, Isabelle
+%T Graph Algorithms in the Internet Age
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 12
+%@ UCB/EECS-2012-235
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-235.html
+%F Stanton:EECS-2012-235

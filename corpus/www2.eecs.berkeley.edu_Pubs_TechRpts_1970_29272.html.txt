@@ -1,0 +1,46 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29272.html
+Examples of Algorithm Verification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Examples of Algorithm Verification
+Examples of Algorithm Verification
+W.D. Maurer, L.L. Krishna, D.C. Leong, A. Ling, A. Ong, G. Pritchett, R. Rawson, B. Romberger, A. Rosenthal, J. Serences, C.H. Trent, A.G. Tucker, B. Wong, P. Wong and Wong R.
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M291
+January 1970
+BibTeX citation:
+@techreport{Maurer:M291,
+Author = {Maurer, W.D. and Krishna, L.L. and Leong, D.C. and Ling, A. and Ong, A. and Pritchett, G. and Rawson, R. and Romberger, B. and Rosenthal, A. and Serences, J. and Trent, C.H. and Tucker, A.G. and Wong, B. and Wong, P. and R., Wong},
+Title = {Examples of Algorithm Verification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29272.html},
+Number = {UCB/ERL M291}
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%A Krishna, L.L.
+%A Leong, D.C.
+%A Ling, A.
+%A Ong, A.
+%A Pritchett, G.
+%A Rawson, R.
+%A Romberger, B.
+%A Rosenthal, A.
+%A Serences, J.
+%A Trent, C.H.
+%A Tucker, A.G.
+%A Wong, B.
+%A Wong, P.
+%A R., Wong
+%T Examples of Algorithm Verification
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M291
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29272.html
+%F Maurer:M291

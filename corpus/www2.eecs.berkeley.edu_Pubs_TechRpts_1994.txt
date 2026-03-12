@@ -1,0 +1,181 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1994
+Technical Reports - 1994
+Procedural Modeling  (CSD-94-860) Carlo H. Séquin
+The Dynamic Management of Guaranteed Performance Connections in Packet Switched Integrated Service Networks  (CSD-94-859) Colin J. Parris and Domenico Ferrari
+Measurements and Observations of IP Multicast Traffic  (CSD-94-858) Bruce A. Mah
+A Sharp Version of Kahan's Theorem on Clustered Eigenvalues  (CSD-94-857) Ren-Cang Li, Zhi-Hao Cao and Jin-Jun Xie
+Relative Perturbation Theory: (II) Eigenspace Variations  (CSD-94-856) Ren-Cang Li
+Relative Perturbation Theory: (I) Eigenvalue Variations  (CSD-94-855) Ren-Cang Li
+Relative Perturbation Bounds for the Unitary Polar Factor  (CSD-94-854) Ren-Cang Li
+Linear systems with coefficient matrices having fields of values not containing the origin  (CSD-94-853) Ren-Cang Li
+New Perturbation Bounds for the Unitary Polar Factor  (CSD-94-852) Ren-Cang Li
+Solving Secular Equations Stably and Efficiently  (CSD-94-851) Ren-Cang Li
+Reciproot Algorithm -- Correctly Rounded?  (CSD-94-850) Ren-Cang Li
+Relations Between the Field of Values of a Matrix and Those of its Schur Complements  (CSD-94-849) Ren-Cang Li
+An Efficient Tridiagonal Eigenvalue Solver on CM 5 with Laguerre's Iteration  (CSD-94-848) Ren-Cang Li and Huan Ren
+Tertiary Storage: An Evaluation of New Applications  (CSD-94-847) Ann Louise Chervenak
+SATZ - An Adaptive Sentence Segmentation System  (CSD-94-846) David D. Palmer
+Implementation Techniques for Continuous Media Systems and Applications  (CSD-94-845) Brian Christopher Smith
+Cooperative Caching: Using Remote Client Memory to Improve File System Performance  (CSD-94-844) Michael D. Dahlin, Randolph Y. Wang, Thomas E. Anderson and David A. Patterson
+Active Documentation for VLSI Design  (CSD-94-843) Mario Jorge Silva
+Efficient, Portable, and Robust Extension of Operating System Functionality  (CSD-94-842) Amin M. Vahdat, Douglas Ghormley and Thomas Anderson
+In Network of Queues, M/M/1 Can Outperform M/D/1  (CSD-94-841) Mor Harchol-Balter and David Wolfe
+On the Complexity of Sparse Elimination  (CSD-94-840) Ioannis Z. Emiris
+Efficient Incremental Algorithms for the Sparse Resultant and the Mixed Volume  (CSD-94-839) Ioannis Z. Emiris and John F. Canny
+Combining Parallel and Sequential Workloads on a Network of Workstations  (CSD-94-838) Remzi H. Arpaci, Amin M. Vahdat, Thomas Anderson and David A. Patterson
+The Case for Design using the World Wide Web  (CSD-94-837) Mario J. Silva and Randy H. Katz
+Context and Structure in Automated Full-Text Information Access  (CSD-94-836) Marti A. Hearst
+Optimizing Explicitly Parallel Programs  (CSD-94-835) Arvind Krishnamurthy
+Stochastic Hillclimbing as a Baseline Method for Evaluating Genetic Algorithms  (CSD-94-834) Martin Wattenberg and Ari Juels
+Proteus: An Adaptable Presentation System for a Software Development and Multimedia Document Environment  (CSD-94-833) Ethan Vincent Munson
+Compiling Lenient Languages for Parallel Asynchronous Execution  (CSD-94-832) Klaus Erik Schauser
+Ugmovie - Interactive UNIGRAFIX Movie Previewing  (CSD-94-831) Gregory S. Couch
+Berkeley UNIGRAFIX 3.1 - Data Structure and Language  (CSD-94-830) Gregory S. Couch
+Modeling Parallel Sorts with LogP on the CM-5  (CSD-94-829) Andrea Carol Dusseau
+Mantis User's Guide, Version 1.0  (CSD-94-828) Steven S. Lumetta and David E. Culler
+A Scalable, Empirical Approach to Anaphoric Reference  (CSD-94-827) Caroline Tice
+Process Lifetimes are Not Exponential, more like 1/T: Implications on Dynamic Load Balancing  (CSD-94-826) Mor Harchol-Balter
+Modeling Parallel Sorts with LogP on the CM-5  (CSD-94-825) Andrea C. Dusseau
+Adaptive Probabilistic Networks  (CSD-94-824) Stuart Russell, John Binder and Daphne Koller
+Network Interface Specification for the T1 Microprocessor  (CSD-94-823) Timothy J. Callahan
+Tools and Strategies for the Development of Application-Specific Virtual Memory Management  (CSD-94-822) Keith Krueger
+Greater Variance Does Not Necessarily Imply Greater Average Delay  (CSD-94-821) Mor Harchol-Balter and David Wolfe
+Constant Beats Memoryless for Service in a Markovian Queueing Network  (CSD-94-820) Mor Harchol-Balter and David Wolfe
+SPINE: A Synthesizer for Practical Incremental Evaluators  (CSD-94-819) Kannan Muthukkaruppan
+The Implementation of a Threaded Abstract Machine  (CSD-94-818) Seth Copen Goldstein
+Scene Partitioning via Statistic-Based Region Growing  (CSD-94-817) Joseph Weber
+High-Level Abstractions for Symbolic Parallel Programming (Parallel Lisp Hacking Made Easy)  (CSD-94-816) Kinson Ho
+Impulse-based Dynamic Simulation  (CSD-94-815) Brian Mirtich and John F. Canny
+Towards A Low Power File System  (CSD-94-814) Kester Li
+Interactive Multiple-Representation Editing of Physically-based 3D Animation  (CSD-94-813) Wayne Alfred Christopher
+TC: An Efficient Implementation of the Tcl Language  (CSD-94-812) Adam Sah
+Parallel MPEG-1 Video Encoding  (CSD-94-811) Kevin L. Gong and Lawrence A. Rowe
+Implementing an Efficient Portable Global Memory Layer on Distributed Memory Multiprocessors  (CSD-94-810) Stephen S. Luna
+Topic Characterization of Full Length Texts Using Direct and Indirect Term Evidence  (CSD-94-809) David E. Fisher
+Interactive Geometric Constraint Systems  (CSD-94-808) Mark W. Brunkhart
+Measurements of Active Messages Performance on the CM-5  (CSD-94-807) Lok T. Liu and David E. Culler
+Interactive Object Displacement in Building Walkthrough Models  (CSD-94-806) Thurman A. Brown
+On the Correctness of Parallel Bisection in Floating Point  (CSD-94-805) James W. Demmel, Inderjit Dhillon and Huan Ren
+Binocular Stereopsis and Lane Marker Flow for Vehicle Navigation: Lateral and Longitudinal Control  (CSD-94-804) Dieter Koller, Quang-Tuan Luong and Jitendra Malik
+High Speed Switch Scheduling for Local Area Networks  (CSD-94-803) Thomas E. Anderson, Susan S. Owicki, James B. Saxe and Charles P. Thacker
+Domain-Specific Information Browsers for Man Page, File, and Font  (CSD-94-802) Thomas A. Phelps
+Characterization of Contention in Real Relational Databases  (CSD-94-801) Vigyan Singhal and Alan Jay Smith
+Simple and Efficient Leader Election in the Full Information Model  (CSD-94-800) Rafail Ostrovsky, Sridhar Rajagopalan and Umesh Vazirani
+A Serial Implementation of Cuppen's Divide and Conquer Algorithm for the Symmetric Eigenvalue Problem  (CSD-94-799) Jeffery D. Rutter
+A Quantitative Analysis of Cache Policies for Scalable Network File Systems  (CSD-94-798) Michael D. Dahlin, Clifford J. Mather, Randolph Y. Wang, Thomas E. Anderson and David A. Patterson
+Adaptive Sentence Boundary Disambiguation  (CSD-94-797) David D. Palmer and Marti A. Hearst
+Indexes for User Access to Large Video Databases  (CSD-94-796) Lawrence A. Rowe, John S. Boreczky and Charles A. Eads
+A Distributed Hierarchical Storage Manager for a Video-on-Demand System  (CSD-94-795) Craig Federighi and Lawrence A. Rowe
+MPEG Video in Software: Representation, Transmission, and Playback  (CSD-94-794) Lawrence A. Rowe, Ketan D. Patel, Brian C. Smith and Kim Liu
+Inverse Free Parallel Spectral Divide and Conquer Algorithms for Nonsymmetric Eigenproblems  (CSD-94-793) Zhaojun Bai, James W. Demmel and Ming Gu
+QuaC: Binary Optimization for Fast Runtime Code Generation in C (Extended Abstract)  (CSD-94-792) Curtis Yarvin and Adam Sah
+Directional Type Checking of Logic Programs  (CSD-94-791) Alexander Aiken and T.K. Lakshman
+Multi-Paragraph Segmentation of Expository Texts  (CSD-94-790) Marti A. Hearst
+Contextualizing Retrieval of Full-Length Documents  (CSD-94-789) Marti A. Hearst
+Service Disciplines for Packet-Switching Integrated-Services Networks  (CSD-94-788) Hui Zhang
+Fast Crash Recovery in Distributed File Systems  (CSD-94-787) Mary Louise Gray Baker
+Parallel Algorithms for Hierarchical Clustering  (CSD-94-786) Clark F. Olson
+The Postgres User Manual  (M92/120-v2)  The POSTGRES Group
+Semiconductor Equipment Analysis and Wafer State Prediction System Using Real-Time Signals  (M94/104) Sherry F. Lee
+Time-Varying Channels with Side Information and Separation Principle  (M94/103) M. Khansari and Martin Vetterli
+Deterministic Simulation of Randomized Protocols Over Noisy Channels  (M94/102) S. Venkatesan and Venkat Anantharam
+Applications of Parallel Processors to Technology Computer-Aided Design Problems  (M94/101) Eric R. Tomacruz
+Efficient Formal Design Verification: Data Structure + Algorithm  (M94/100) R.K. Ranjan, A. Aziz, Robert K. Brayton, B. Plessier and C. Pixley
+A User Friendly Environment for Property Specification  (M94/99) R.K. Ranjan and Robert K. Brayton
+Techniques for Fast Circuit Simulation Applied to Power Estimation of CMOS Circuits  (M94/98) P. Buch, S. Lin, V. Nagasamy and Ernest S. Kuh
+Inductive Learning by Selection of Minimal Complexity Representations  (M94/97) Arlindo M. Limede de Oliveira
+Synthesizing Interacting Finite State Machines  (M94/96) A. Aziz and Robert K. Brayton
+Performance Analysis and Optimization of Mixed Asynchronous Synchronous Systems  (M94/95) J. Teich, S. Sriram, L. Thiele and M. Martin
+New Approaches for On-Chip Power Switching Noise Reduction  (M94/94) C. Hough, T. Xue and Ernest S. Kuh
+Combined Code and Data Minimization for Synchronous Dataflow Programs  (M94/93) P.K. Murthy, S.S. Bhattacharyya and Edward A. Lee
+Performance Evaluation of an Optimal Processor Assignment  (M94/92) S. Ha and Edward A. Lee
+Compile-Time Scheduling of Dynamic Constructs in Dataflow Program Graphs  (M94/91) S. Ha and Edward A. Lee
+Exterior Differential Systems and Nonholonomic Motion Planning  (M94/90) Dawn M. Tilbury
+Low-Power CMOS Library Design Methodology  (M94/89) T. Burd
+Quick Detection of Changes in Traffic Statistics: Application to Variable Rate Compression  (M94/88) I. Hsu and Jean Walrand
+Synthesis of Software Programs for Embedded Control Applications  (M94/87) M. Chiodo, P. Giusto, A. Jurecska, L. Lavagno, K. Suzuki, E. Sentovich, H. Hsieh and Alberto L. Sangiovanni-Vincentelli
+Arnol'd Tongues, The Devil's Staircase, and Self-Similarity in the Driven Chua's Circuit  (M94/86) L. Pivka, A.L. Zheleznyak and Leon O. Chua
+Vehicle-to-Vehicle Communications for Intelligent Vehicle Highway Systems  (M94/85) T. Tank
+The Application of Dynamic Specifications in a Multistep Lithographic Sequence  (M94/84) S-Y. Ma
+On the Generation of Scroll Waves in a Three-Dimensional Discrete Active Medium  (M94/83) L. Pivka, A.L. Zheleznyak, C.W. Wu and Leon O. Chua
+Code Generation for Multirate DSP Systems in Gabriel  (M94/82) S. How
+Architecture and Implementation of the INFOPAD Network Prototype  (M94/81) F.L. Burghardt
+Error Control Coding with Applications for INFOPAD  (M94/80) Y.K. Lu
+The Validity of Retiming Sequential Circuits  (M94/79) V. Singhal, C. Pixley, R.L. Rudell and Robert K. Brayton
+Formula-Dependent Equivalence for Compositional CTL Model Checking  (M94/78) A. Aziz, T.R. Shiple, V. Singhal, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Synchronizing Nonautonomous Chaotic Systems Without Phase-Locking  (M94/77) C.W. Wu and Leon O. Chua
+Incremental Formal Design Verification  (M94/76) G.M. Swamy and Robert K. Brayton
+Design and Performance of High-Speed Communication Systems over Time-Varying Radio Channels  (M94/75) Andrea J. Goldsmith
+Scheduling Communication Resources in Statically Scheduled Multiprocessor Architectures  (M94/74) S. Sriram and Edward A. Lee
+Moment Models of General Transmission Lines with Application to Interconnect  (M94/73) Q. Yu and Ernest S. Kuh
+A Monte Carlo Collision Model for the Particle-In-Cell Method: Applications to Argon and Oxygen Discharges  (M94/72) V. Vahedi and M. Surendra
+An Object-Oriented Electromagnetic PIC Code  (M94/71) J.P. Verboncoeur, A.B. Langdon and N.T. Gladd
+The Analog Cellular Neural Network as a Bionic Eye  (M94/70) F. Werblin, T. Roska and Leon O. Chua
+Rigorous Three-Dimensional Time-Domain Finite-Difference Electromagnetic Simulation  (M94/69) Alfred K.-K. Wong
+Integrating Networks Characterized by Measured S-Parameter Data Into SWEC  (M94/68) R. Hu
+Motion Planning for Wheeled Nonholonomic Systems  (M94/67) Linda G. Bushnell
+Planning and Feedback Control for Mechanical Systems with Nonholonomic Constraints  (M94/66) Gregory C. Walsh
+Low Power Digital CMOS Design  (M94/65) Anantha P. Chandrakasan
+TEMPEST User's Guide  (M94/64) A. Wong
+Electrical Testing of A CMOS Baseline Process  (M94/63) D. Rodriguez
+Low-Power Architectural Design Methodologies  (M94/62) Paul E. Landman
+Superconducting Flash-Type Analog-to-Digital Converters with Multi-Gigahertz Performance  (M94/61) Howard C. Luong
+Model Based Fuzzy Logic Control  (M94/60) J. Lygeros, D.N. Godbole and C.P. Coleman
+A Comparative Approach to Processor Verification Using Symbolic Model Checking  (M94/59) N. Ishiura and Robert K. Brayton
+Sidewall Protection Mechanisms in Halocarbon and Halogen Discharges  (M94/58) D.L. Flamm
+Digital Filter Design with High Performance Superconducting Technology  (M94/57) R. Mehra
+Characterization at Different Aspect Ratios (Radius/Length) of a Radio Frequency Inductively Coupled Plasma Source  (M94/56) P.N. Wainman, Michael A. Lieberman, Allan J. Lichtenberg, R.A. Stewart and C. Lee
+A Neural-Net Based, In-Line Focus/Exposure Monitor  (M94/55) P.M. Tsai
+Estimating the Dimensional Characteristics of Two-Dimensional Patterns  (M94/54) A.L. Zheleznyak and Leon O. Chua
+Dataflow Process Networks  (M94/53) Edward A. Lee
+Compiling Dataflow Programs for Digital Signal Processing  (M94/52) Shuvra S. Bhattacharyya
+A Unified Framework for Synchronization and Control of Dynamical Systems II-- Arrays of Linearly Coupled Systems  (M94/51) C.W. Wu and Leon O. Chua
+Spatially Averaged (Global) Model of the Time Modulated High Density Argon Plasmas  (M94/50) S. Ashida, Michael A. Lieberman and C. Lee
+Global Model of Ar, O_2, Cl_2, and Ar/O_2 High Density Plasma Discharges  (M94/49) C. Lee and Michael A. Lieberman
+An Exact Optimization of Two-Level Acyclic Sequential Circuits  (M94/48) E.M. Sentovich and Robert K. Brayton
+A Hardware Library Representation for the Hyper Synthesis System  (M94/47) S.Z. Wu
+On the Optimal Blocking Factor for Blocked, Non-Overlapped Schedules  (M94/46) P. Murthy and Edward A. Lee
+Performance Evaluation of One and Two- Level Dynamic Branch Prediction Schemes Over Comparable Hardware Costs  (M94/45) J.L. Pino and B. Singh
+Admission Control for ATM Networks  (M94/44) I. Hsu and Jean Walrand
+An Esterel Compiler for a Synchronous/ Reactive Development System  (M94/43) S. Edwards
+Implementation of Chua's Circuit with a Cubic Nonlinearity  (M94/42) G-Q. Zhong
+Code Generation for VSP Software Tool in Ptolemy  (M94/41) S-I. Shih
+A Performance-Driven Router for RF and Microwave Analog Circuit Design  (M94/40) C. Charbon, G. Holmlund, Alberto L. Sangiovanni-Vincentelli and B. Donecker
+Time Domain Non-Monte Carlo Noise Simulation for Nonlinear Dynamic Circuits with Arbitrary Excitations  (M94/39) A. Demir
+Compiling Verilog into Automata  (M94/37) S-T. Cheng and Robert K. Brayton
+Developing a Multidimensional Synchronous Dataflow Domain in Ptolemy  (M94/36) M.J. Chen
+Sidewall Forcing of Hexagonal Turing Patterns: Rhombic Patterns  (M94/35) V. Perez-Munuzuri, M. Gomez-Gesteira, A.P. Munuzuri, Leon O. Chua and V. Perez-Villar
+Optical Proximity Correction for Resolution Enhancement Technology  (M94/34) David M. Newmark
+Compiling Digital Networks for Parallel Simulation  (M94/33) E. McCaughrin
+Logic Optimization of Interacting Components in Synchronous Digital Systems  (M94/32) Yosinori Watanabe
+Multi-Level Synthesis for Safe Replaceability  (M94/31) C. Pixley, V. Singhal, A. Aziz and Robert K. Brayton
+Analogic CNN Algorithms for Some Image Compression and Restoration Tasks  (M94/30) P.L. Venetianer, F. Werblin, T. Roska and Leon O. Chua
+Novel Types of Analogic CNN Algorithms for Recognizing Bank-Notes  (M94/29) A. Zarandy, F. Werblin, T. Roska and Leon O. Chua
+A Unified Framework for Synchronization and Control of Dynamical Systems  (M94/28) C.W. Wu and Leon O. Chua
+Frequency-Conversion Optics for 213-nm Optical Lithography Light Source  (M94/27) E. Tejnil
+Indirect Adaptive Pole-Placement Control of MIMO Stochastic Systems: Self-Tuning Results  (M94/26) K. Nassiri-Toussi and W. Ren
+Stochastic H^inf Identification: An Iteratively Weighted Least Squares Algorithm  (M94/25) S. Rangan and W. Ren
+Continuous Platooning: A New Evolutionary and Operating Concept for Automated Highway Systems  (M94/24) W. Ren and D. Green
+Uncertainty Structures in Adaptive and Robust Stabilization  (M94/23) G. Nahapetian and W. Ren
+On the Use of Consistent Approximations for the Optimal Design of Beams  (M94/22) C.K. Neto and Elijah Polak
+Consistent Approximations for Optimal Control Problems Based on Runge-Kutta Integration  (M94/21) A. Schwartz and Elijah Polak
+Moment Matching Model of Transmission Lines and Application to Interconnect Delay Estimation  (M94/20) Q. Yu and Ernest S. Kuh
+Algebraic Methods for Timing Analysis and Testing in High-Performance Designs  (M94/19) William K.-C. Lam
+On the Automatic Computation of Network Invariants  (M94/18) F. Balarin and Alberto L. Sangiovanni-Vincentelli
+Internal Auctions for Efficient Sourcing of Intermediate Products  (M94/17) J. Bushnell and S. Oren
+On Goursat Normal Forms, Prolongations, and Control Systems  (M94/16) D. Tilbury and S. Shankar Sastry
+Permissible Observability Relations in FSM Networks  (M94/15) H-Y. Wang and Robert K. Brayton
+A Low-Power High-Speed Digital Adaptive Equalizer for Magnetic Disk Drive Channels Utilizing Class IV Partial Response Signalling  (M94/14) J.C. Rudell
+Efficient Collision Detection for Animation and Robotics  (M94/13) Ming C. Lin
+Edge-Streett/Edge-Rabin Automata Environment for Formal Verification Using Language Containment  (M94/12) R. Hojati, V. Singhal and Robert K. Brayton
+Heuristic Algorithms for Early Quantification and Partial Product Minimization  (M94/11) R. Hojati, S. Krishnan and Robert K. Brayton
+An Obstacle Avoidance Algorithm for a Car Pulling Many Trailers with Kingpin Hitching  (M94/10) Anant Sahai, M. Secor and L. Bushnell
+A High-Speed Parallel Pipeline A/D Converter Technique in CMOS  (M94/9) Cormac S. G. Conroy
+Heterogeneous Cell-Relay Network Simulation and Performance Analysis with Ptolemy  (M94/8) A.Y. Lao
+Milli Robotics for Endoscopy  (M94/7) J. Wendlandt
+Multi-Carrier DCMA in an Indoor Wireless Radio Channel  (M94/6) N. Yee and J-P. Linnartz
+Cellular Neural Networks Operating in Oscillatory Modes  (M94/5) C.W. Wu, T. Roska and Leon O. Chua
+Sequential Test Pattern Generation: Using Implicit STG Traversal Techniques to Generate Tests and Identify Redundancies in Sequential Circuits  (M94/4) C. Wawrukiewicz, A. Saldanha, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Microsoft Windows NT and the Competition for Desktop Computing  (M94/3) B. Peters, W.R. Bush and A. Richard Newton
+Special Issues in Semiconductor Manufacturing IV  (M94/2) Costas J. Spanos, J. Hutchinson, P. Tsai, H-J. Wann and M. Zuniga
+Compositing and Manipulation of Video Signals for Multimedia Network Video Services  (M94/1) S-F. Chang

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28494.html
+On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems
+On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems
+E. Polak, D.Q. Mayne and Y. Wardi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/78
+April 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-78.pdf
+BibTeX citation:
+@techreport{Polak:M81/78,
+Author = {Polak, E. and Mayne, D.Q. and Wardi, Y.},
+Title = {On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28494.html},
+Number = {UCB/ERL M81/78}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%A Wardi, Y.
+%T On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28494.html
+%F Polak:M81/78

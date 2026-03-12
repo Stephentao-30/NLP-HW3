@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29261.html
+Stability of a Nonlinear Time-Invariant Feedback System Under Almost Constant Factors | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Stability of a Nonlinear Time-Invariant Feedback System Under Almost Constant Factors
+Stability of a Nonlinear Time-Invariant Feedback System Under Almost Constant Factors
+C.A. Desoer and M.Y. Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M249
+April 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-249.pdf
+BibTeX citation:
+@techreport{Desoer:M249,
+Author = {Desoer, C.A. and Wu, M.Y.},
+Title = {Stability of a Nonlinear Time-Invariant Feedback System Under Almost Constant Factors},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29261.html},
+Number = {UCB/ERL M249}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wu, M.Y.
+%T Stability of a Nonlinear Time-Invariant Feedback System Under Almost Constant Factors
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M249
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29261.html
+%F Desoer:M249

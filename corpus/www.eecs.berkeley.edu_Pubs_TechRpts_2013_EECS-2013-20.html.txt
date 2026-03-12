@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-20.html
+Data-Confined HTML5 Applications
+Devdatta Akhawe and Frank Li and Warren He and Prateek Saxena and Dawn Song
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-20
+March 23,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-20.pdf
+BibTeX citation:
+@techreport{Akhawe:EECS-2013-20,
+Author= {Akhawe, Devdatta and Li, Frank and He, Warren and Saxena, Prateek and Song, Dawn},
+Title= {Data-Confined HTML5 Applications},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-20.html},
+Number= {UCB/EECS-2013-20},
+}
+EndNote citation:
+%0 Report
+%A Akhawe, Devdatta
+%A Li, Frank
+%A He, Warren
+%A Saxena, Prateek
+%A Song, Dawn
+%T Data-Confined HTML5 Applications
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 23
+%@ UCB/EECS-2013-20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-20.html
+%F Akhawe:EECS-2013-20

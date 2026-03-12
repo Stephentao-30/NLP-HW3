@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28515.html
+Nonlinear Optimization with Constraints: A Cookbook Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Optimization with Constraints: A Cookbook Approach
+Nonlinear Optimization with Constraints: A Cookbook Approach
+L.O. Chua and G.N. Lin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/26
+April 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-26.pdf
+BibTeX citation:
+@techreport{Chua:M82/26,
+Author = {Chua, L.O. and Lin, G.N.},
+Title = {Nonlinear Optimization with Constraints: A Cookbook Approach},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28515.html},
+Number = {UCB/ERL M82/26}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Lin, G.N.
+%T Nonlinear Optimization with Constraints: A Cookbook Approach
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28515.html
+%F Chua:M82/26

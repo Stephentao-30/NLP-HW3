@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-141.html
+Towards Sound HTTP Request Causation Inference
+Kristin Stephens
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-141
+August 12,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-141.pdf
+Network traces are a useful tool in understanding how users navigate the web.
+Knowing the sequence of pages that led a user to arrive at a malicious website can help researchers develop techniques to prevent users from reaching such sites. Nevertheless, inferring sound causation between HTTP requests is a challenging task. Previous work often inferred these relationships without proper calibration. We present here methods for and considerations when inferring causation relationships between HTTP requests. We also introduce causation trees and terminology needed to model causal relationships between HTTP requests. Finally, we describe Gretel, our system that infers causation relationships, how we calibrated it, and our results on a sample control data set where ground truth was available.
+Advisors:  David Wagner and Vern Paxson
+BibTeX citation:
+@mastersthesis{Stephens:EECS-2013-141,
+Author= {Stephens, Kristin},
+Title= {Towards Sound HTTP Request Causation Inference},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-141.html},
+Number= {UCB/EECS-2013-141},
+Abstract= {Network traces are a useful tool in understanding how users navigate the web.
+Knowing the sequence of pages that led a user to arrive at a malicious website can help researchers develop techniques to prevent users from reaching such sites. Nevertheless, inferring sound causation between HTTP requests is a challenging task. Previous work often inferred these relationships without proper calibration. We present here methods for and considerations when inferring causation relationships between HTTP requests. We also introduce causation trees and terminology needed to model causal relationships between HTTP requests. Finally, we describe Gretel, our system that infers causation relationships, how we calibrated it, and our results on a sample control data set where ground truth was available.},
+}
+EndNote citation:
+%0 Thesis
+%A Stephens, Kristin
+%T Towards Sound HTTP Request Causation Inference
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 12
+%@ UCB/EECS-2013-141
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-141.html
+%F Stephens:EECS-2013-141

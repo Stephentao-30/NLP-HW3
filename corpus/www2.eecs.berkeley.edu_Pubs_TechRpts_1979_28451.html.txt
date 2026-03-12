@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28451.html
+Mathematical Theory of Power System Reliability Evaluation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Mathematical Theory of Power System Reliability Evaluation
+Mathematical Theory of Power System Reliability Evaluation
+Felix Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/67
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-67.pdf
+BibTeX citation:
+@techreport{Wu:M79/67,
+Author = {Wu, Felix},
+Title = {Mathematical Theory of Power System Reliability Evaluation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28451.html},
+Number = {UCB/ERL M79/67}
+}
+EndNote citation:
+%0 Report
+%A Wu, Felix
+%T Mathematical Theory of Power System Reliability Evaluation
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28451.html
+%F Wu:M79/67

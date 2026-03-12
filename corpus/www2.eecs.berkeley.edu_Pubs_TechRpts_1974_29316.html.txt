@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29316.html
+Completeness Results for the Equivalence of Recursive Schemas | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Completeness Results for the Equivalence of Recursive Schemas
+Completeness Results for the Equivalence of Recursive Schemas
+Bruno Courcelle and Jean Vuillemin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M485
+December 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-485.pdf
+BibTeX citation:
+@techreport{Courcelle:M485,
+Author = {Courcelle, Bruno and Vuillemin, Jean},
+Title = {Completeness Results for the Equivalence of Recursive Schemas},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29316.html},
+Number = {UCB/ERL M485}
+}
+EndNote citation:
+%0 Report
+%A Courcelle, Bruno
+%A Vuillemin, Jean
+%T Completeness Results for the Equivalence of Recursive Schemas
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M485
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29316.html
+%F Courcelle:M485

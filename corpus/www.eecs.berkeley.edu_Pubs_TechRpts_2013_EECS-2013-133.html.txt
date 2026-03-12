@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-133.html
+Blazes: Coordination Analysis for Distributed Programs
+Peter Alvaro and Neil Conway and Joseph M. Hellerstein and David Maier
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-133
+July 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-133.pdf
+Fault tolerance is an essential feature of scalable software services. For a fault tolerance mechanism to be transparent, it must provide consistency across the results of redundant computations. Coordination protocols can ensure this consistency, but in practice they cause undesirable performance unless used judiciously. This raises significant challenges for distributed system architects and developers. In this paper we present Blazes, a cross-platform program analysis framework that (a) identifies program locations that require coordination to ensure consistent executions, and (b) automatically synthesizes application-speciﬁc coordination code that can significantly outperform general-purpose techniques. We present two case studies, one using annotated programs in the Twitter Storm system, and another using the Bloom declarative language.
+BibTeX citation:
+@techreport{Alvaro:EECS-2013-133,
+Author= {Alvaro, Peter and Conway, Neil and Hellerstein, Joseph M. and Maier, David},
+Title= {Blazes: Coordination Analysis for Distributed Programs},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-133.html},
+Number= {UCB/EECS-2013-133},
+Abstract= {Fault tolerance is an essential feature of scalable software services. For a fault tolerance mechanism to be transparent, it must provide consistency across the results of redundant computations. Coordination protocols can ensure this consistency, but in practice they cause undesirable performance unless used judiciously. This raises significant challenges for distributed system architects and developers. In this paper we present Blazes, a cross-platform program analysis framework that (a) identifies program locations that require coordination to ensure consistent executions, and (b) automatically synthesizes application-speciﬁc coordination code that can significantly outperform general-purpose techniques. We present two case studies, one using annotated programs in the Twitter Storm system, and another using the Bloom declarative language.},
+}
+EndNote citation:
+%0 Report
+%A Alvaro, Peter
+%A Conway, Neil
+%A Hellerstein, Joseph M.
+%A Maier, David
+%T Blazes: Coordination Analysis for Distributed Programs
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 16
+%@ UCB/EECS-2013-133
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-133.html
+%F Alvaro:EECS-2013-133

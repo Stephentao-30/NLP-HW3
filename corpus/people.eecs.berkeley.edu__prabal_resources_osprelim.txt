@@ -1,0 +1,428 @@
+URL: http://people.eecs.berkeley.edu/~prabal/resources/osprelim
+operating systems prelim :: fall 2005
+operating systems prelims :: fall 2005
+Quick Links
+[
+CS Prelims  |
+OS Page  |
+OS Questions
+]
+Undergrad Material
+Operating System Concepts , Fourth Edition
+A. Silberschatz, and P.B. Galvin
+Addison-Wesley, 1994
+Modern Operating Systems
+A. Tanenbaum
+Computer Architecture: A Quantitative Approach
+David Patterson, and John Hennessey
+MorganKaufman, 1990
+Internetworking with TCP/IP , Second Edition
+D.E. Comer
+Prentice-Hall, 1991
+An Introduction to Programming with Threads
+Research Report 35
+Andrew Birrell
+Digital Equipment Corporation Systems Research Center
+1991
+[ source ]
+[ AMC ]
+Working Sets, Past and Present
+Peter Denning
+IEEE Transactions on Software Engineering
+Vol. SE-6, No. 1 (January 1980), pp. 64-84
+[RR]
+Virtual Memory Management in the VAX/VMS Operating System
+H.M. Levy, and P.H. Lipman
+IEEE Computer
+Vol. 15, No. 3 (March 1982), pp. 35-41
+[RR]
+Input/Output Optmizations and Disk Architectures: A Survey
+Alan Jay Smith
+Performance Evaluation
+Vol. 1 (1981), pp. 104-117
+A Fast File System For UNIX
+M.K. McKusick, W.N. Joy, S.J. Leffler, and R.S. Fabry
+ACM Transactions on Computer Systems
+Vol. 2, No. 3 (August 1984), pp. 181-197
+The Transaction Concept: Virtues and Limitations
+Jim Gray
+Proceedings of the Seventh International Conference on Very Large Data Bases
+September 1981, pp. 144-154
+Recovery Techniques for Database Systems
+J.S.M. Verhofstad
+Computing Surveys
+Vol. 10, No. 2 (June 1978), pp. 167-195
+[RR]
+Data Security,
+D.E. Denning, and P.J. Denning
+Computing Surveys
+Vol. 11, No. 3 (September 1979), pp. 227-249
+[RR]
+Concurrency,  Scheduling, and  Synchronization
+[ LR80 ]
+Experience with Processes and Monitors in Mesa
+B.W. Lampson, and D.D. Redell
+Communications of the ACM
+Vol. 23, No. 2 (Feb 1980), pp. 105-117
+[ MP89 ]
+Threads and Input/Output in the Synthesis Kernel
+H. Massalin, and C. Pu
+Proceedings of the 12th ACM Symposium on Operating Systems Principles
+December 1989, pp. 191-200
+[ And93 ]
+Metascheduling for Continuous Media
+D.P. Anderson
+ACM Transactions on Computer Systems
+Vol. 11, No. 3 (August 1993), pp. 226-253
+[ WW94 ]
+Lottery Scheduling: Flexible Proportional Share Resource Management
+C. Waldspurger, and W. Weihl
+Proceedings of the First Symposium on Operating Systems Design and Implementation
+November 1994, pp. 1-12
+Communications: Local and Remote
+[ BN84 ]
+Implementing Remote Procedure Calls
+A.D. Birrell, and B.J. Nelson
+ACM Transactions on Computer Systems
+Vol. 2, No. 1 (Feb 1984), pp. 39-59
+[ PHO+89 ]
+RPC in the x-Kernel: Evaluating New Design Techniques
+L. Peterson, N. Hutchinson, S. O'Malley, and M. Abbott
+Proceedings of the 12th ACM Symposium on Operating Systems Principles
+December 1989, pp. 91-101
+[ BAL+90 ]
+Lightweight Remote Procedure Call
+B.N. Bershad, T.E. Anderson, E.D. Lazowska, and H.M. Levy
+ACM Transactions on Computer Systems
+Vol. 8, No. 1 (Feb 1990), pp. 37-55
+[ ECG+92 ]
+Active Messages: A Mechanism for Integrated Communication and Computation
+T. von Eicken, D.E. Culler, S.C. Goldstein, and K.E. Schauser
+Proceedings of the Nineteenth Annual International Symposium on Computer Architecture
+May 1992, pp. 256-266
+[ WLA+93 ]
+Efficient Software-Based Fault Isolation
+R. Wahbe, S. Lucco, T.E. Anderson, and S.L. Graham
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 203-216
+[ MB93 ]
+Protocol Service Decomposition for High-Performance Networking
+C. Maeda, and Brian N. Bershad
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 244-255
+[ LTW+93 ]
+On the Self-Similar Nature of Ethernet Traffic
+W. Leland, M. Taqqu, W. Willinger, and D. Wilson
+Proceedings of SIGCOMM '93
+September 1993, pp. 183-193
+[ BK94 ]
+How to Get Good Performance from the CM5 Data Network
+E. Brewer, and B. Kuszmaul
+Proceedings of the Eighth International Parallel Processing Symposium
+April 1994, pp. 858-867
+File Systems
+[ SGK+85 ]
+Design and Implementation of the Sun Network Filesystem
+R. Sandberg, D. Goldberg, S. Kleiman, D. Walsh, and B. Lyon
+USENIX Summer Conference Proceedings
+June 1985, pp. 119-130
+[RR]
+[ HKS+88 ]
+Scale and Performance in a Distributed File System
+J. Howard, M. Kazar, S. Menees, D. Nichols, M. Satyanarayanan, R. Sidebotham, and M. West
+ACM Transactions on Computer Systems
+Vol. 6, No. 1 (Feb 1988), pp. 51-81
+[ NWO+88 ]
+Caching in the Sprite Network File System
+M.N. Nelson, B.B. Welch, and J.K. Ousterhout
+ACM Transactions on Computer Systems
+Vol. 6, No. 1 (Feb 1988), pp. 134-154
+[ BHK+91 ]
+Measurements of a Distributed File System
+M.G. Baker, J.H. Hartman, M.D. Kupfer, K.W. Shirriff, and J.K. Ousterhout
+Proceedings of the 13th ACM Symposium on Operating Systems Principles
+October 1991, pp. 198-212
+[ RO92 ]
+The Design and Implementation of a Log-Structured File System
+M. Rosenblum, and J.K. Ousterhout
+ACM Transactions on Computer Systems
+Vol. 10, No. 1 (Feb 1992), pp. 26-52
+[ KS92 ]
+Disconnected Operation in the Coda File System
+J.J. Kistler, and M. Satyanarayanan
+ACM Transactions on Computer Systems
+Vol. 10, No. 1 (Feb 1992), pp. 3-25
+[ HO93 ]
+The Zebra Striped Network File System
+John H. Hartman, and John K. Ousterhout
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 29-43
+[ KN93 ]
+Extensible File Systems in Spring
+Y.A. Khalidi, and M.N. Nelson
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 1-14
+[ DAP+94 ]
+Cooperative Caching: Using Remote Client Memory to Improve File System Performance
+M. Dahlin, T. Anderson, D. Patterson, and R. Wang
+Proceedings of the First Symposium on Operating Systems Design and Implementation
+November 1994, pp. 267-280
+Virtual Memory
+[ DD68 ]
+Virtual Memory, Processes, and Sharing in MULTICS
+Robert C. Daley, and Jack B. Dennis
+Communications of the ACM
+Vol. 11, No. 5 (May 1968), pp. 306-312
+[ BCD72 ]
+The MULTICS Virtual Memory: Concepts and Design
+A. Bensoussan, C. Clingen, and R. Daley
+Communications of the ACM
+Vol. 15, No. 5 (May 1972), pp. 308-318
+[ RTY+88 ]
+Machine-Independent Virtual Memory Management for Paged Uniprocessor and Multiprocessor Architectures
+Richard Rashid, Avadis Tevanian, Michael Young, David Golub, Robert Baron, David Black, William Bolosky, and Jonathan Chew
+IEEE Transactions on Computers
+Vol. 37, No. 8 (August 1988), pp. 896-908
+[ YTR+87 ]
+The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System
+Michael Young, Avadis Tevanian, Richard Rashid, David Golub, Jeffrey Eppinger, Jonathan Chew, William Bolosky, David Black, and Robert Baron
+Proceedings of the 11th ACM Symposium on Operating Systems Principles
+November 1987, pp. 63-76
+[ HC92 ]
+Application-Controlled Physical Memory using External Page-Cache Management
+K. Harty, and D.R. Cheriton
+ACM
+Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems
+October 1992, pp. 187-199
+Multiprocessors
+[ LH89 ]
+Memory Coherence in Shared Virtual Memory Systems
+K. Li, and P. Hudak
+ACM Transactions on Computer Systems
+Vol. 7, No. 4 (November 1989), pp. 321-359
+[ BFS89 ]
+Simple But Effective Techniques for NUMA Memory Management
+W. Bolosky, R. Fitzgerald, and M. Scott
+Proceedings of the 12th ACM Symposium on Operating Systems Principles
+December 1989, pp. 19-31
+[ ABL+92 ]
+Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism
+T. Anderson, B. Bershad, E. Lazowska, and H. Levy
+ACM Transactions on Computer Systems
+Vol. 10, No. 1 (Feb 1992), pp. 53-79
+[ DKC+93 ]
+Evaluation of Release Consistent Software Distributed Shared Memory on Emerging Network Technology
+S. Dwarkadas, P. Keleher, A.L. Cox, and W. Zwaenepoel
+Proceedings of the Twentieth Annual International Symposium on Computer Architecture
+May 1993, pp. 144-155
+Distributed Systems
+[ Lam78 ]
+Time, Clocks, and the Ordering of Events in a Distributed System
+L. Lamport
+Communications of the ACM
+Vol. 21, No. 7 (July 1978), pp. 558-565
+[ SH82 ]
+The ``Worm'' Programs-Early Experience with a Distributed Computation
+John F. Shoch, and Jon A. Hupp
+Communications of the ACM
+Vol. 25, No. 3 (March 1982), pp. 172-180
+[ BLS+93 ]
+Grapevine: An Exercise in Distributed Computing
+A.D. Birrell, Roy Levin,. Roger M. Needham, and Michael D. Schroeder
+Communications of the ACM
+Vol. 25, No. 4 (April 1982), pp. 260-274
+[ SBN84 ]
+Experience with Grapevine: The Growth of a Distributed System
+M.D. Schroeder, A.D. Birrell, and R.M. Needham
+ACM Transactions on Computer Systems
+Vol. 2, No. 1 (Feb 1984), pp. 3-23
+[ JLH+88 ]
+Fine-Grained Mobility in the Emerald System
+E. Jul, H. Levy, N. Hutchinson, and A. Black
+ACM Transactions on Computer Systems
+Vol. 6, No. 1 (Feb 1988), pp. 109-133
+[ DO91 ]
+Transparent Process Migration: Design Alternatives and the Sprite Implementation
+Fred Douglis, and John Ousterhout
+Software Practice and Experience
+Vol. 21, No. 7 (August 1991), p. 757
+[ BSS91 ]
+Lightweight Causal and Atomic Group Multicast
+K. Birman, A. Schiper, and P. Stephenson
+ACM Transactions on Computer Systems
+Vol. 9, No. 3 (August 1991), pp. 272-314
+[ CS93 ]
+Understanding the Limitations of Causally and Totally Ordered Communication
+David D. Cheriton, and Dale Skeen
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 44-57
+[ Wei93 ]
+Some Computer Science Issues in Ubiquitous Computing
+M. Weiser
+Communications of the ACM
+Vol. 36, No. 7 (July 1993), pp. 74-83
+Transactions,  Recovery, and  Fault-Tolerance
+[ Sto81 ]
+Operating System Support for Database Management
+Michael Stonebraker
+Communications of the ACM
+Vol. 24, No. 7 (July 1981), pp. 412-418
+[ Bar81 ]
+A NonStop Kernel
+Joel F. Bartlett
+Proceedings of the 8th ACM Symposium on Operating Systems Principles
+Operating Systems Review
+Vol. 15, No. 5 (December 1981), pp. 22-29
+[ HMS+88 ]
+Recovery Management in QuickSilver
+Roger Haskin, Yoni Malachi, Wayne Sawdon, and Gregory Chan
+ACM Transactions on Computers
+Vol. 6, No. 1 (Feb 1988), pp. 82-108
+[ SMK+94 ]
+Lightweight Recoverable Virtual Memory
+M. Satyanarayanan, H.H. Mashburn, P. Kumar, D.C. Steere, and J.J. Kistler
+ACM Transactions on Computer Systems
+Vol. 12, No. 1 (Feb 1994), pp. 33-58
+Protection and Security
+[ SS72 ]
+A Hardware Architecture for Implementing Protection Rings
+M.D. Schroeder, and J.H. Saltzer
+Communications of the ACM
+Vol. 15, No. 3 (March 1972), pp. 157-170
+[ SS75 ]
+The Protection of Information in Computer Systems
+Jerome H. Saltzer and Michael D. Schroeder
+Proceedings of the IEEE
+Vol. 63, No. 9 (September 1975), pp. 1278-1308
+[ DH79 ]
+Privacy and Authentication: An Introduction to Cryptography
+Whitfield Diffie, and Martin Hellman
+Proceedings of the IEEE
+Vol. 67, No. 3 (March 1979), pp. 397-427
+[ NS78 ]
+Using Encryption for Authentication in Large Networks of Computers
+R.M. Needham, and M.D. Schroeder
+Communications of the ACM
+Vol. 21, No. 12 (December 1978), pp. 993-999
+[ SNS88 ]
+Kerberos: An Authentication Service for Open Network Systems
+J.G. Steiner, C. Neuman, and J.I. Schiller
+USENIX Winter Conference Proceedings
+Feb 1988, pp. 191-202
+[ BAN90 ]
+A Logic of Authentication
+M. Burrows, M. Abadi, and R. Needham
+ACM Transactions on Computer Systems
+Vol. 8, No. 1 (Feb 1990), pp. 18-36
+OS Structure
+[ Cla85 ]
+The Structuring of Systems Using Upcalls
+D.D. Clark
+Proceedings of the 10th ACM Symposium on Operating Systems Principles
+December 1985, pp. 171-180
+[ Ous90 ]
+Why Aren't Operating Systems Getting Faster as Fast as Hardware?
+J.K. Ousterhout
+USENIX Summer Conference Proceedings
+June 1990, pp. 247-256
+[ ALB+91 ]
+The Interaction of Architecture and Operating System Design
+Thomas Anderson, Henry Levy, Brian Bershad, and Edward Lazowska
+ACM
+Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems
+April 1991
+[ CB93 ]
+The Impact of Operating System Structure on Memory System Performance
+J. Bradley Chen, and Brian N. Bershad
+Proceedings of the 14th ACM Symposium on Operating Systems Principles
+December 1993, pp. 120-133
+[ CD94 ]
+A Caching Model of Operating System Kernel Functionality
+D. Cheriton, and K. Duda
+Proceedings of the First Symposium on Operating Systems Design and Implementation
+November 1994
+Specific OS's
+[ Dij68 ]
+The Structure of the THE Multiprogramming System
+E. Dijkstra
+Communications of the ACM
+Vol. 11, No. 5 (May 1968), pp. 341-346
+[ Gol74 ]
+Survey of Virtual Machine Research
+Goldberg, R.P.
+IEEE Computer
+Vol. 7, No. 6 (June 1974), pp. 34-45
+[ WCC+74 ]
+HYDRA: The Kernel of a Multiprocessor Operating System
+W. Wulf, E. Cohen, W. Corwin, A. Jones, R. Levin, C. Pierson, and F. Pollack
+Communications of the ACM
+Vol. 17, No. 6 (June 1974), pp. 337-344
+[ Tho78 ]
+UNIX Implementation
+K. Thompson
+The Bell System Technical Journal
+Vol. 57, No. 6 (July-August 1978), Part 2, pp. 1931-1946
+[ RT74 ]
+[ Che88 ]
+The V Distributed System,
+D. Cheriton
+Communications of the ACM
+Vol. 31, No. 3 (March 1988), pp. 314-333
+[ MRT+90 ]
+Amoeba: A Distributed Operating System for the 1990s
+S.J. Mullender, G. van Rossum, A.S. Tanenbaum, R. van Renesse, and H. van Staveren
+IEEE Computer
+Vol. 23, No. 5 (May 1990), pp. 44-53
+[ RAA+92 ]
+Overview of the Chorus Distributed Operating System
+M. Rozier, V. Abrossimov, F. Armand, I. Boule, M. Gien, M. Guillemont, F. Herrmann, C. Kaiser, S. Langlois, P. L�onard, W. Neuhauser
+Proceedings of the USENIX Workshop on Micro-kernels and Other Kernel Architectures
+April 1992, pp. 39-70
+[ PPT+90 ]
+Plan 9 from Bell Labs
+Rob Pike, Dave Presotto, Ken Thompson, and Howard Trickey
+Proceedings of the UKUUG Summer 1990 Conference
+1990
+Plan 9, a Distributed System (not on reading list)
+Rob Pike, Dave Presotto, Ken Thompson, and Howard Trickey
+Removed from an earlier reading list:
+[ BSP+95 ]
+Extensibility, Safety, and Performance in the SPIN Operating System
+Brian Bershad, Stefan Savage, Przemyslaw Pardyak, Emin Gun Sirer, David Becker, Marc Fiuczynski, Craig Chambers, and Susan Eggers
+Proceedings of the 15th ACM Symposium on Operating System Principles
+pp. 267-284
+[ EKO95 ]
+Exokernel: An Operating System Architecture for Application-Level Resource Management
+Dawson R. Engler, M. Frans Kaashoek, and James O'Toole Jr.
+Proceedings of the 15th ACM Symposium on Operating Systems Principles
+December 1995
+Revealed Truth
+[ Hoa81 ]
+The Emperor's Old Clothes
+C.A.R. Hoare
+Communications of the ACM
+Vol. 24, No. 2 (Feb 1981), pp. 75-83
+[ Lam83 ]
+Hints for Computer System Design,
+B.W. Lampson
+Proceedings of the 9th ACM Symposium on Operating Systems Principles
+October 1983, pp. 33-48
+Removed from an earlier reading list:
+[ SRC84 ]
+End-to-End Arguments in System Design
+Saltzer and Schroeder
+ACM Transactions on Computer Systems
+Vol. 2, No. 4 (November 1984), pp. 277-288
+Supplemental Readings
+[ HotOSX ]
+HotOS X Session Notes
+Santa Fe, NM, June, 2004
+Karl Chen ,
+David Chu ,
+Prabal Dutta ,
+Amir Kamil ,
+Adrian Mettler
+Computer Science Division
+Department of Electrical Engineering and Computer Sciences
+The University of California, Berkeley
+Soda Hall #1776 ,  Berkeley ,  California  94720

@@ -1,0 +1,283 @@
+URL: http://people.eecs.berkeley.edu:80/~anca/AHRI-F2015.html
+Algorithmic Human-Robot Interaction
+CS 294-115 Algorithmic Foundations of HRI
+Welcome to CS 294-115 Algorithmic Foundations of Human-Robot Interaction, Fall 2015 (CCN 27519)!
+* If you are looking for the Fall 2016 offering,  click here .*
+Instructor:   Anca Dragan  (anca at berkeley dot edu)
+Lectures:  TuThu, 2:30-4:00, Soda 310
+Description:
+As robot autonomy advances, it becomes more and more important to
+develop algorithms that are not solely functional, but also mindful
+of the end-user. How should the robot move differently when it's moving
+in the presence of a human? How should it learn from user feedback?
+How should it assist the user in accomplishing day to day tasks? These
+are the questions we will investigate in this course.
+We will contrast existing algorithms in robotics
+with studies in human-robot interaction, discussing how
+to tackle interaction challenges in an algorithmic way,
+with the goal of enabling generalization across robots and tasks. We will also
+sharpen research skills: giving good talks, experimental design,
+statistical analysis, literature surveys.
+Format:
+This course combines lectures with paper presentations
+by the students, encouraging both fundamental knowledge
+acquisition as well as open-ended discussions. Each student
+will also carry out an individual research project OR
+an in-depth literature survey.
+Learning objectives:  At the end of this course,
+you will have gained both knowledge/abilities related
+to human-robot interaction, as well as to research and presentation skills:
+[Human-robot interaction abilities]
+tease out the intricacies of developing algorithms that support HRI
+apply optimization techniques to generate motion for HRI
+contrast and relate model-based and model-free learning from demonstration
+apply Bayesian inference and learning techniques to enhance coordination in collaborative tasks
+develop a basic understanding of verbal and non-verbal communication
+ground algorithmic HRI in the relvant psychology background
+[Research skills]
+communicate scientific content to a peer audience
+analyze and diagram the literature related to a particular topic
+critique a scientific paper's experimental design and analysis
+Prerequisites:  There are no official prerequisites but a knowledge of probability and multivariate calculus is expected.
+Grading:
+Student Presentations (30%): Each student will get the opportunity
+to present multiple times. You will be
+graded based on your level of insight into the material (including how well you answer questions from us
+and the rest of the class), how well you relate the paper to other papers and lecture material, as well as how
+well you present the material to the class. There will be 2 presenters for each paper: a PRO presenter and a CON presenter. We will have 2-3 papers per lecture.
+Quizzes (20%): We will have a short (10 min) quiz before each lecture/set of presentations, to test the understanding
+of the material. These quizzes are not meant to be
+onerous, but are meant to ensure that you read carefully through the papers. They are graded with a check, a minus, or a plus for particularly good answers.
+Final Project (35%): You have a choice between a research project, and an in-depth
+literature survey (~50 relevant papers, organized by different features, identifying gaps in the state of the art). You will have a final presentation, and submit a proposal along the way (1 page) and a report (up to 5 pages) at the end.
+Participation (10%): Be engaged! Ask and answer questions!
+Scribing (5%): You will take turns compiling PDFs of lecture notes. The scribe template is  here . Send an email to anca at berkeley dot edu with the tex and pdf.
+Expectations:  You can expect me to start and end class on time, devise quizzes that adequately cover the material,
+and grade your quizzes and send you feedback on your presentations in a timely manner.
+In turn, I can expect you to come to class on time, be attentive and engaged in class,
+and refrain from using laptops, cell phones and other electronic devices during class.
+Please take notes, and ask questions when something is not clear.
+I also expect you to spend an adequate amount of time on the readings each week (at least 3 hours),
+and spend 60 hours on your final project.
+Important dates:
+28 Oct - 1 Page Proposal (by this time you should have a clear idea of what you want to do and what your key insight is in the case of a project, and how you will select and classify papers in the case of a literature survey); Come talk to me about your project, especially if you'd like us to write a paper on it.
+1 & 3 Dec - Final Presentations
+13 Dec - Final Reports (start gearing up for a paper submission)
+Schedule:  Find a tentative schedule  here .
+Below you can find notes from previous classes and the assigned readings for the next lectures.
+#
+Day
+Date
+Topic
+Reading
+Scribes
+Notes
+1
+Th
+27 Aug
+The What, Why, and How of Algorithmic HRI
+no mandatory reading
+PANNA, NEGAR
+pdf
+[Motion]
+2
+Tu
+1 Sept
+Motion Planning (lecture)
+no mandatory reading
+Lozano-Perez "Spatial Planning: A Configuration Space Approach"
+Kavraki "Analysis of Probabilistic Roadmaps for Path Planning"
+Lavalle "Randomized Kinodynamic Planning"
+Hsu "Path Planning in Expansive Configuration Spaces"
+Peggy, Samaneh
+pdf
+3
+Th
+3 Sept
+Trajectory Optimization (lecture)
+no mandatory reading
+Zucker "CHOMP: Covariant Hamiltonian Optimization for Motion Planning"
+Rocky, Chelsea
+pdf
+4
+Tu
+8 Sept
+Trajectory Optimization ctd (lecture)
+no reading
+Abhishek, Jaime
+pdf
+5
+Th
+10 Sept
+Optimal Motion Algorithms (papers)
+To start off, we will have only one student per paper. Next lectures will consist of PRO/CON teams as discussed.
+"Elastic Bands: Connecting Path Planning and Control" (1993)  pdf  [Horia; 25min]
+"Finding Locally Optima, Collision Free Trajectories with Sequentional Qadratic Programming" (2014)  pdf  [Dylan; 25min]
+no scribes
+6
+Tu
+15 Sept
+Optimal Motion in HRI (papers)
+"Planning human-aware motions using a sampling-based costmap planner" (2011)  link  [Pro - Evan; 20min][Con - Kiwoo; 10min]
+"Generating Human-Like Motion for Robots" (2013)  pdf  [Pro - Negar; 20 min] [Con - Justin; 10 min]
+no scribes
+7
+Th
+17 Sept
+HRI in Industry (lecture)
+no reading
+no scribes
+[Tools of HRI]
+8
+Tu
+22 Sept
+Experimental Design (lecture)
+no reading
+Jessica, Andrew
+9
+Th
+24 Sept
+Experimental Design Ctd. (lecture)
+no reading
+Jessica, Andrew
+pdf
+1
+Tu
+29 Sept
+Experimental Design Ctd (lecture)
+no reading
+Amy, Kiwoo
+pdf
+[Learning from Demonstration]
+10
+Th
+1 Oct
+Learning from Demonstration (lecture)
+no mandatory reading
+"Maximum Margin Planning" (2006)  link
+"Learning Attractor Landscapes for Learning Motor Primitives" (2003)  pdf
+"Movement Primitives via Optimization" (2015)  pdf
+Rohan, Evan
+pdf
+11
+Tu
+6 Oct
+LfD in Psychology (papers)
+"Understanding Intentions of Others" (1995)  pdf  [Pro - Dexter; 20min][Con - Eric; 10min]
+2 short papers: "Infant Imitation After a 1-Week Delay" (1988)  pdf1
+; "Rational Imitation in Preverbal Infants" (2002)  pdf2  [Pro - Christopher; 20min][Con - Peggy; 10min]
+no scribes
+12
+Th
+8 Oct
+LfD Algorithms (papers)
+"Maximum Entropy IRL" (2010)  pdf  [Pro - Chelsea; 20 min][Con - Amy; 10 min]
+"A Reduction of Imitation Learning and Structured Prediciton to No-Regret Online Learning" (2010)  pdf  [Pro - Michael; 20 min][Con - Zoe; 10 min]
+no scribes
+13
+Tu
+13 Oct
+LfD in HRI (papers)
+"Trajectories and Keyframes for Kinesthetic Teaching" (2012)  pdf  [Pro - Andrew; 15 min][Con - Sandy; 5min]
+"Designing Robot Learners that Ask Good Questions" (2012) pdf [Pro - Pablo; 15min][Con - Chang; 5min]
+"Using Perspective Taking to Learn from Ambiguous Demonstrations" (2006)  pdf [Pro - Rocky; 15min][Con - David; 5min]
+no scribes
+[Communication]
+14
+Th
+15 Oct
+Intent Inference and Expression(lecture)
+no mandatory reading
+"Planning Based Prediction for Pedestrians" (2009) pdf
+"Generating Legible Motion (2013)"  pdf
+Dylan, Horia
+pdf
+15
+Tu
+20 Oct
+Intent in Psychology (papers)
+"Understanding and Sharing Intentions" (2005)  pdf  [Pro - Jess; 15 min][Con - Rohan; 5min]
+"Obsessed with Goals" (2007)  pdf  [Pro - Erik; 15 min][Con - Alex; 5min]
+16
+Th
+22 Oct
+Intent Algorithms (papers)
+"Robot Navigation in Dense Human Crowds" (2012)  pdf  [Pro - Aaron; 15 min][Con - Jaime; 5min]
+"Predicing Human Reaching Motion" (2015)  pdf
+[Pro - Eric; 15 min][Con - Dexter; 5min]
+17
+Tu
+27 Oct
+Intent in HRI (papers)
+"Improving Robot Readability" (2011)  pdf  [Pro - Peggy; 15 min][Con - Christopher; 5min]
+"Anticipation in Robot Motion" (2011)  pdf  [Pro - Amy; 15 min][Con - Chelsea; 5min]
+"Communication of Intent in Assistive Free Flyers" (2014)  pdf  [Pro - Zoe; 15 min][Con - Michael; 5min]
+18
+Th
+29 Oct
+Natural Language (guest lecture: Dan Klein)
+Christopher, David
+pdf
+19
+Tu
+3 Nov
+Natural Language Algorithms (papers)
+"Knowledge and Implicature" (2013)  pdf      [Pro - Dylan; 15 min][Con - Horia; 5min]
+"Asking for Help Using Inverse Semantics" (2014)  pdf  [Pro - Jess; 15 min][Con - Kiwoo; 5min]
+"Towards Understanding Natural Language  Directions (2010)"  pdf  [Pro - David; 15 min][Con - Rocky; 5min]
+20
+Th
+5 Nov
+Natural Language in HRI (papers)
+"Simon Plays Simon Says" (2011)  pdf  [Pro - Erik; 15 min][Con - Jaime; 5min]
+"Rhetorical Robots" (2013)  link [Pro - Sandy; 15 min][Con - Andrew; 5min]
+21
+Tu
+10 Nov
+Other Communication Channels (papers)
+"Nonverbal Leackage in Robots" (2009)  link  [Pro - Rohan; 15 min][Con - Negar; 5min]
+"Conversational Gaze Aversion" (2009)  link  [Pro - Jaime; 15 min][Con - Jess; 5min]
+[Collaboration]
+22
+Th
+12 Nov
+Collaboration in Psychology (papers)
+"Shared Cooperative Activity" (1992)  pdf  [Pro - Alex; 15 min][Con - Erik; 5min]
+"Mixed Initiative Systems" (2007)  pdf  [Pro - Chelsea; 15 min][Con - Evan; 5min]
+"A Minimal Architecture for Joint Action" (2010)  pdf  [Pro - Michael; 15 min][Con - Aaron; 5min]
+23
+Tu
+17 Nov
+Collaboration Algorithms (papers)
+"Chaski" (2009)  link  [Pro - Rocky; 15 min][Con - Eric; 5min]
+"CrossTraining" (2013)  pdf  [Pro - Jaime; 15 min][Con - Zoe; 5min]
+24
+Th
+19 Nov
+No Class
+25
+Tu
+24 Nov
+Collaboration in HRI (papers)
+"Coordination Mechanisms for Human-Robot Collaboration" (2013)  pdf  [Pro - Amy; 15 min][Con - Sandy; 5min]
+"Evaluating Fluency in Human-Robot Collaboration" (2013)  pdf  [Pro - Chang; 15 min][Con - Evan; 5min]
+26
+Th
+26 Nov
+No Class, Holiday
+27
+Tu
+1 Dec
+Project Presentations
+Amy, Rohan+Christopher, Alex, Eric, Jessica, Zoe, Rocky, Dexter, Evan
+28
+Th
+3 Dec
+Project Presentations
+Dylan, Peggy, David, Chelsea, Erik, Michael, Jaime+Chang, Sandy, Aaron, Andrew, Negar
+For more readings, check out a few other class websites (this is by no means a comprehensive list):
+Cooperative Machines (MIT)
+Human-Robot Interaction (GaTech)
+Human-Robot Interaction (UW)
+Manipulation Algorithms (CMU)
+© Anca Dragan

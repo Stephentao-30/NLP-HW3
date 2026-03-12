@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29152.html
+The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits
+The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits
+Ekachai Lelarasmee, A.E. Ruehli and A.L. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/75
+June 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-75.pdf
+BibTeX citation:
+@techreport{Lelarasmee:M81/75,
+Author = {Lelarasmee, Ekachai and Ruehli, A.E. and Sangiovanni-Vincentelli, A.L.},
+Title = {The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29152.html},
+Number = {UCB/ERL M81/75}
+}
+EndNote citation:
+%0 Report
+%A Lelarasmee, Ekachai
+%A Ruehli, A.E.
+%A Sangiovanni-Vincentelli, A.L.
+%T The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29152.html
+%F Lelarasmee:M81/75

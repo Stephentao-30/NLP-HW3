@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication/chipyard-dac
+Chipyard - An Integrated SoC Research and Implementation Environment | Alon Amid
+Search
+Chipyard - An Integrated SoC Research and Implementation Environment
+Alon Amid ,  David Biancolin ,  Abraham Gonzalez ,  Daniel Grubb ,  Sagar Karandikar ,  Harrison Liew ,  Albert Magyar ,  Howard Mao ,  Albert Ou ,  Nathan Pemberton ,  Paul Rigge ,  Colin Schmidt ,  John Wright ,  Jerry Zhao ,  Jonathan Bachrach ,  Yakun Sophia Shao ,  Borivoje Nikolic ,  Krste Asanovic
+July 2020
+Preprint
+PDF
+Abstract
+Continued improvement in computing efficiency requires functional specialization of hardware designs. We present an agile design flow for custom SoCs using the Chipyard framework, an integrated SoC research and implementation environment for custom systems. Chipyard includes configurable, composable, open-source, generator-based designs that can be used across multiple stages of the hardware development flow while maintaining design intent and integration consistency. Through cloud FPGA simulation and rapid ASIC implementation, we demonstrate an iterative agile hardware design cycle which enables continuous validation of physically-realizable customized systems.
+Type
+Conference paper
+Publication
+In  Proceedings of the 2020 57th Design Automation Conference (DAC'20, Invited Paper), San Francisco, CA, USA, July 2020
+Cite
+Copy
+Download

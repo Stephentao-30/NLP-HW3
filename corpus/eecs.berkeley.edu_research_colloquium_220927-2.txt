@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/220927-2
+From Machine Learning to Autonomous Intelligence - EECS at Berkeley
+From Machine Learning to Autonomous Intelligence
+EECS Colloquium
+Tuesday, September 27, 2022
+310 Sutardja Dai Hall (Banatao Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Yann LeCun
+VP & Chief AI Scientist, Meta-FAIR
+Professor, New York University
+Yann LeCun speaks on "From Machine Learning to Autonomous Intelligence" (9/27/22)
+Abstract
+How could machines learn as efficiently as humans and animals? How could machines learn to reason and plan? How could machines learn representations of percepts and action plans at multiple levels of abstraction, enabling them to reason, predict, and plan at multiple time horizons? I will propose a possible path towards autonomous intelligent agents, based on a new modular cognitive architecture and a somewhat new self-supervised training paradigm. The centerpiece of the proposed architecture is a configurable predictive world model that allows the agent to plan.  Behavior and learning are driven by a set of differentiable intrinsic cost functions. The world model uses a new type of energy-based model architecture called H-JEPA (Hierarchical Joint Embedding Predictive Architecture). H-JEPA learns hierarchical abstract representations of the world that are simultaneously maximally informative and maximally predictable. The corresponding working paper is available here:  https://openreview.net/forum?id=BZ5a1r-kVsf .
+Biography
+Yann LeCun is VP & Chief AI Scientist at Meta and Silver Professor at NYU affiliated with the Courant Institute of Mathematical Sciences & the Center for Data Science. He was the founding Director of FAIR and of the NYU Center for Data Science. He received an Engineering Diploma from ESIEE (Paris) and a Ph.D. from Sorbonne Université. After a postdoc in Toronto he joined AT&T Bell Labs in 1988, and AT&T Labs in 1996 as Head of Image Processing Research. He joined NYU as a professor in 2003 and Meta/Facebook in 2013. His interests include AI machine learning, computer perception, robotics and computational neuroscience. He is the recipient of the 2018 ACM Turing Award (with Geoffrey Hinton and Yoshua Bengio) for “conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing”, a member of the National Academy of Sciences, the National Academy of Engineering, the French Académie des Sciences.
+Video of this Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

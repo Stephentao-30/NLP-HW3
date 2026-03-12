@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28380.html
+Experimental Study of PWM Control Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Experimental Study of PWM Control Systems
+Experimental Study of PWM Control Systems
+S.C. Gupta and E.I. Jury
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M12
+January 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-12.pdf
+BibTeX citation:
+@techreport{Gupta:M12,
+Author = {Gupta, S.C. and Jury, E.I.},
+Title = {Experimental Study of PWM Control Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28380.html},
+Number = {UCB/ERL M12}
+}
+EndNote citation:
+%0 Report
+%A Gupta, S.C.
+%A Jury, E.I.
+%T Experimental Study of PWM Control Systems
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28380.html
+%F Gupta:M12

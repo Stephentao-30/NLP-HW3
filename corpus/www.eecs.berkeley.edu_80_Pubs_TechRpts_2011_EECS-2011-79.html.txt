@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-79.html
+Large Scale Image Annotations on Amazon Mechanical Turk
+Subhransu Maji
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-79
+July 1,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-79.pdf
+We describe our experience with collecting roughly 250, 000 image annotations on Amazon Mechanical Turk (AMT). The annotations we collected range from location of keypoints and figure ground masks of various object categories, 3D pose estimates of head and torsos of people in images and attributes like gender, race, type of hair, etc. We describe the setup and strategies we adopted to automatically approve and reject the annotations, which becomes important for large scale annotations. These annotations were used to train algorithms for detection, segmentation, pose estimation, action recognition and attribute recognition of people in images.
+BibTeX citation:
+@techreport{Maji:EECS-2011-79,
+Author= {Maji, Subhransu},
+Title= {Large Scale Image Annotations on Amazon Mechanical Turk},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-79.html},
+Number= {UCB/EECS-2011-79},
+Abstract= {We describe our experience with collecting roughly 250, 000 image annotations on Amazon Mechanical Turk (AMT). The annotations we collected range from location of keypoints and figure ground masks of various object categories, 3D pose estimates of head and torsos of people in images and attributes like gender, race, type of hair, etc. We describe the setup and strategies we adopted to automatically approve and reject the annotations, which becomes important for large scale annotations. These annotations were used to train algorithms for detection, segmentation, pose estimation, action recognition and attribute recognition of people in images.},
+}
+EndNote citation:
+%0 Report
+%A Maji, Subhransu
+%T Large Scale Image Annotations on Amazon Mechanical Turk
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 1
+%@ UCB/EECS-2011-79
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-79.html
+%F Maji:EECS-2011-79

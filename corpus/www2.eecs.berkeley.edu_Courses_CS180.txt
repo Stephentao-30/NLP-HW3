@@ -1,0 +1,17 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS180
+CS 180. Intro to Computer Vision and Computational Photography
+Catalog Description:  This advanced undergraduate course introduces students to computing with visual data (images and video). We will cover acquisition, representation, and manipulation of visual information from digital photographs (image processing), image analysis and visual understanding (computer vision), and image synthesis (computational photography). Key algorithms will be presented, ranging from classical to contemporary, with an emphasis on using these techniques to build practical systems. The hands-on emphasis will be reflected in the programming assignments, where students will acquire their own images and develop, largely from scratch, image analysis and synthesis tools for real-world applications.
+Units:  4
+Course Objectives:  Students will learn the fundamentals of image processing from the mechanics of a pin-hole camera, representation of images as pixels, physics of light and the process of image formation, to manipulating the visual information using signal processing techniques in the spatial and frequency domains. , Students will learn the fundamentals of 3D vision: stereo, multi-view geometry, camera calibration, structure-from-motion, multi-view stereo, and the plenoptic function. , Students will learn how to apply Convolutional Neural Networks for computer vision problems and how they can be used for image manipulation., Students will learn classic algorithms in image manipulation with Gaussian and Laplacian Pyramids, understand the hierarchy of image transformations including homographies, and how to warp an image with these transformations.
+Student Learning Outcomes:  After this class, students will be comfortable implementing, from scratch, these algorithms in modern programming languages and deep learning libraries.
+Prerequisites:  COMPSCI 61B; MATH 53; and MATH 54, MATH 56, MATH 110, or EECS 16A. COMPSCI C182 or COMPSCI 189 should be taken as a co-requisite.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

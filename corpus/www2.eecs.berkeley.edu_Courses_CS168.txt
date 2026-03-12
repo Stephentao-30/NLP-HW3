@@ -1,0 +1,23 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS168
+CS 168. Introduction to the Internet: Architecture and Protocols
+Catalog Description:  This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).
+Units:  4
+Prerequisites:  COMPSCI 61B; COMPSCI 61C is recommended.
+Formats:  Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 168 –                TuTh 17:00-18:29, Dwinelle 155 –
+Rishabh Iyer Class Notes
+- Time conflicts are allowed
+- Instructors plan to offer an alternate final exam
+- Lectures will be recorded
+- Seats reserved for students with enrollment permission are not open. They are reserved for students in internal programs. Please DO NOT ask faculty or staff for one of these seats. The students who qualify have already been notified.
+- FAQ: https://su25.cs168.io/sp26-faqs/
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

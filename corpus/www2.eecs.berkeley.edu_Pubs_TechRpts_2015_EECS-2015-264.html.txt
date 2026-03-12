@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-264.html
+Hwacha Preliminary Evaluation Results, Version 3.8.1 | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Hwacha Preliminary Evaluation Results, Version 3.8.1
+Hwacha Preliminary Evaluation Results, Version 3.8.1
+Yunsup Lee, Colin Schmidt, Sagar Karandikar, Daniel Dabbelt, Albert Ou and Krste Asanović
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-264
+December 19, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-264.pdf
+BibTeX citation:
+@techreport{Lee:EECS-2015-264,
+Author = {Lee, Yunsup and Schmidt, Colin and Karandikar, Sagar and Dabbelt, Daniel and Ou, Albert and Asanović, Krste},
+Title = {Hwacha Preliminary Evaluation Results, Version 3.8.1},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-264.html},
+Number = {UCB/EECS-2015-264}
+}
+EndNote citation:
+%0 Report
+%A Lee, Yunsup
+%A Schmidt, Colin
+%A Karandikar, Sagar
+%A Dabbelt, Daniel
+%A Ou, Albert
+%A Asanović, Krste
+%T Hwacha Preliminary Evaluation Results, Version 3.8.1
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 19
+%@ UCB/EECS-2015-264
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-264.html
+%F Lee:EECS-2015-264

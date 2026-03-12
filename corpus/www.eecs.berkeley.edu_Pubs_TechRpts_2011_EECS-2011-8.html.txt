@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-8.html
+Representation of Coalitional Games with Algebraic Decision Diagrams
+Karthik Aadithya and Tomasz Michalak and Nicholas Jennings
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-8
+January 30,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-8.pdf
+With the advent of algorithmic coalitional game theory, it is important to design coalitional game representation schemes that are both compact and efficient with respect to solution concept computation. To this end, we propose a new method for representing coalitional games. We show that our representation (a)~is fully expressive (i.e.,~can be used to represent any coalitional game), (b)~is compact (i.e.,~has size polynomial in the number of agents) for many games of practical interest, (c)~enables polynomial time Banzhaf~Index and Shapley~Value computation, (d)~enables polynomial time algorithms for several core-related questions, such as testing if a given vector is in the core, checking if the core is empty and computing the smallest $\epsilon$ such that the strong-$\epsilon$ core is non-empty, and (e)~enables polynomial time cost of stability computation. To the best of our knowledge, no existing coalitional game representation offers all these advantages. The core data structure behind our representation is the Algebraic Decision Diagram (ADD), which is a widely applied and well-researched topic in the Electrical Engineering (EE) community. Borrowing ideas from the EE literature, we have also been able to prove a previously unknown, powerful, positive result that enables efficient solution concept computation for a wide range of coalitional games. Hence we are hopeful that our representation opens the doors for using the rich corpus of ADD-related EE literature for advancing the field of algorithmic coalitional game theory.
+BibTeX citation:
+@techreport{Aadithya:EECS-2011-8,
+Author= {Aadithya, Karthik and Michalak, Tomasz and Jennings, Nicholas},
+Title= {Representation of Coalitional Games with Algebraic Decision Diagrams},
+Year= {2011},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-8.html},
+Number= {UCB/EECS-2011-8},
+Abstract= {With the advent of algorithmic coalitional game theory, it is important to design coalitional game representation schemes that are both compact and efficient with respect to solution concept computation. To this end, we propose a new method for representing coalitional games. We show that our representation (a)~is fully expressive (i.e.,~can be used to represent any coalitional game), (b)~is compact (i.e.,~has size polynomial in the number of agents) for many games of practical interest, (c)~enables polynomial time Banzhaf~Index and Shapley~Value computation, (d)~enables polynomial time algorithms for several core-related questions, such as testing if a given vector is in the core, checking if the core is empty and computing the smallest $\epsilon$ such that the strong-$\epsilon$ core is non-empty, and (e)~enables polynomial time cost of stability computation. To the best of our knowledge, no existing coalitional game representation offers all these advantages. The core data structure behind our representation is the Algebraic Decision Diagram (ADD), which is a widely applied and well-researched topic in the Electrical Engineering (EE) community. Borrowing ideas from the EE literature, we have also been able to prove a previously unknown, powerful, positive result that enables efficient solution concept computation for a wide range of coalitional games. Hence we are hopeful that our representation opens the doors for using the rich corpus of ADD-related EE literature for advancing the field of algorithmic coalitional game theory.},
+}
+EndNote citation:
+%0 Report
+%A Aadithya, Karthik
+%A Michalak, Tomasz
+%A Jennings, Nicholas
+%T Representation of Coalitional Games with Algebraic Decision Diagrams
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 January 30
+%@ UCB/EECS-2011-8
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-8.html
+%F Aadithya:EECS-2011-8

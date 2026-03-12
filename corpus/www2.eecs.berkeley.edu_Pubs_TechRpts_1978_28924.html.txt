@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28924.html
+A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem
+A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem
+R.M. Karp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/2
+January 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-2.pdf
+BibTeX citation:
+@techreport{Karp:M78/2,
+Author = {Karp, R.M.},
+Title = {A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28924.html},
+Number = {UCB/ERL M78/2}
+}
+EndNote citation:
+%0 Report
+%A Karp, R.M.
+%T A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28924.html
+%F Karp:M78/2

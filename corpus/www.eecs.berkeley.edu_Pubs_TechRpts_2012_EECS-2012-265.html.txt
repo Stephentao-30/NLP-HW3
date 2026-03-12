@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-265.html
+Solid State Tesla Coils and Their Uses
+Sean Soleyman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-265
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-265.pdf
+The solid state Tesla coil is a recently-discovered high voltage power supply. It has similarities to both the traditional Tesla coil and to the modern switched-mode flyback converter. This report will document the design, operation, and construction of such a system. Possible industrial applications for the device will also be considered.
+Advisors:  Jaijeet Roychowdhury
+BibTeX citation:
+@mastersthesis{Soleyman:EECS-2012-265,
+Author= {Soleyman, Sean},
+Title= {Solid State Tesla Coils and Their Uses},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-265.html},
+Number= {UCB/EECS-2012-265},
+Abstract= {The solid state Tesla coil is a recently-discovered high voltage power supply. It has similarities to both the traditional Tesla coil and to the modern switched-mode flyback converter. This report will document the design, operation, and construction of such a system. Possible industrial applications for the device will also be considered.},
+}
+EndNote citation:
+%0 Thesis
+%A Soleyman, Sean
+%T Solid State Tesla Coils and Their Uses
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-265
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-265.html
+%F Soleyman:EECS-2012-265

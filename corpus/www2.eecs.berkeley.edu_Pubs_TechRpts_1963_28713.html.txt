@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28713.html
+On Channel Capacity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Channel Capacity
+On Channel Capacity
+E. Eisenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M35
+November 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-35.pdf
+BibTeX citation:
+@techreport{Eisenberg:M35,
+Author = {Eisenberg, E.},
+Title = {On Channel Capacity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28713.html},
+Number = {UCB/ERL M35}
+}
+EndNote citation:
+%0 Report
+%A Eisenberg, E.
+%T On Channel Capacity
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28713.html
+%F Eisenberg:M35

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28889.html
+Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane
+Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane
+Richard M. Karp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/31
+May 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-31.pdf
+BibTeX citation:
+@techreport{Karp:M77/31,
+Author = {Karp, Richard M.},
+Title = {Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28889.html},
+Number = {UCB/ERL M77/31}
+}
+EndNote citation:
+%0 Report
+%A Karp, Richard M.
+%T Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/31
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28889.html
+%F Karp:M77/31

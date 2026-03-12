@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28636.html
+Second Order Conditions of Optimally For Constrained Optimization Problems in Finite Dimensional Spaces | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Second Order Conditions of Optimally For Constrained Optimization Problems in Finite Dimensional Spaces
+Second Order Conditions of Optimally For Constrained Optimization Problems in Finite Dimensional Spaces
+E. Polak and E.J. Messerli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M224
+September 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-224.pdf
+BibTeX citation:
+@techreport{Polak:M224,
+Author = {Polak, E. and Messerli, E.J.},
+Title = {Second Order Conditions of Optimally For Constrained Optimization Problems in Finite Dimensional Spaces},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28636.html},
+Number = {UCB/ERL M224}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Messerli, E.J.
+%T Second Order Conditions of Optimally For Constrained Optimization Problems in Finite Dimensional Spaces
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M224
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28636.html
+%F Polak:M224

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29189.html
+Bounded-Input Bounded-Output Stability of Nonlinear Time-Varying Differential Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Bounded-Input Bounded-Output Stability of Nonlinear Time-Varying Differential Systems
+Bounded-Input Bounded-Output Stability of Nonlinear Time-Varying Differential Systems
+P.P. Varaiya and R. Liu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M148
+January 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-148.pdf
+BibTeX citation:
+@techreport{Varaiya:M148,
+Author = {Varaiya, P.P. and Liu, R.},
+Title = {Bounded-Input Bounded-Output Stability of Nonlinear Time-Varying Differential Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29189.html},
+Number = {UCB/ERL M148}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.P.
+%A Liu, R.
+%T Bounded-Input Bounded-Output Stability of Nonlinear Time-Varying Differential Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M148
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29189.html
+%F Varaiya:M148

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28595.html
+Performance of Suboptimum Feedback Functions
+S. Sugimoto
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M160
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-160.pdf
+BibTeX citation:
+@techreport{Sugimoto:M160,
+Author= {Sugimoto, S.},
+Title= {Performance of Suboptimum Feedback Functions},
+Year= {1966},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28595.html},
+Number= {UCB/ERL M160},
+}
+EndNote citation:
+%0 Report
+%A Sugimoto, S.
+%T Performance of Suboptimum Feedback Functions
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M160
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28595.html
+%F Sugimoto:M160

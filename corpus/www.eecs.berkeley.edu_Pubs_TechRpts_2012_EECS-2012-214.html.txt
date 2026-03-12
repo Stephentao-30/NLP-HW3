@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.html
+Shark: SQL and Rich Analytics at Scale
+Reynold Shi Xin and Joshua Rosen and Matei Zaharia and Michael Franklin and Scott Shenker and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-214
+November 26,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.pdf
+Shark is a new data analysis system that marries query processing with complex analytics on large clusters. It leverages a novel distributed memory abstraction to provide a unified engine that can run SQL queries and sophisticated analytics functions (e.g., iterative machine learning) at scale, and efficiently recovers from failures mid-query. This allows Shark to run SQL queries up to 100× faster than Apache Hive, and machine learning programs up to 100× faster than Hadoop. Unlike previous systems, Shark shows that it is possible to achieve these speedups while retaining a MapReduce-like execution engine, and the fine-grained fault tolerance properties that such engines provide. It extends such an engine in several ways, including column-oriented in-memory storage and dynamic mid-query replanning, to effectively execute SQL. The result is a system that matches the speedups reported for MPP analytic databases over MapReduce, while offering fault tolerance properties and complex analytics capabilities that they lack.
+BibTeX citation:
+@techreport{Xin:EECS-2012-214,
+Author= {Xin, Reynold Shi and Rosen, Joshua and Zaharia, Matei and Franklin, Michael and Shenker, Scott and Stoica, Ion},
+Title= {Shark: SQL and Rich Analytics at Scale},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.html},
+Number= {UCB/EECS-2012-214},
+Abstract= {Shark is a new data analysis system that marries query processing with complex analytics on large clusters. It leverages a novel distributed memory abstraction to provide a unified engine that can run SQL queries and sophisticated analytics functions (e.g., iterative machine learning) at scale, and efficiently recovers from failures mid-query. This allows Shark to run SQL queries up to 100× faster than Apache Hive, and machine learning programs up to 100× faster than Hadoop. Unlike previous systems, Shark shows that it is possible to achieve these speedups while retaining a MapReduce-like execution engine, and the fine-grained fault tolerance properties that such engines provide. It extends such an engine in several ways, including column-oriented in-memory storage and dynamic mid-query replanning, to effectively execute SQL. The result is a system that matches the speedups reported for MPP analytic databases over MapReduce, while offering fault tolerance properties and complex analytics capabilities that they lack.},
+}
+EndNote citation:
+%0 Report
+%A Xin, Reynold Shi
+%A Rosen, Joshua
+%A Zaharia, Matei
+%A Franklin, Michael
+%A Shenker, Scott
+%A Stoica, Ion
+%T Shark: SQL and Rich Analytics at Scale
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 26
+%@ UCB/EECS-2012-214
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.html
+%F Xin:EECS-2012-214

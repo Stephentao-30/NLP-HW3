@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-132.html
+Clothing Simulation of LaundryBot
+Wei Wang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-132
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-132.pdf
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Wang:EECS-2012-132,
+Author= {Wang, Wei},
+Title= {Clothing Simulation of LaundryBot},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-132.html},
+Number= {UCB/EECS-2012-132},
+}
+EndNote citation:
+%0 Thesis
+%A Wang, Wei
+%T Clothing Simulation of LaundryBot
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-132
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-132.html
+%F Wang:EECS-2012-132

@@ -1,0 +1,32 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-86.html
+SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS
+Shujing Zhang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-86
+May 16, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-86.pdf
+This paper discusses a simple and secure way of enabling “Internet of Things” to be configured with Wi-Fi PIN number and register it to the Internet. The Internet of Things are objects that are embedded with sensors and actuators (from printers to pacemakers), and they are linked through wired and wireless networks, often using the same Internet Protocol (IP) that connects the Internet [1]. Many Internet of things do not have interactive interface, so we present a system which requests information from physical objects by recording them and perform computer vision techniques to extract the PIN number. After that, we can register them to the access point (AP) through WPS (Wi-Fi Protected Setup) PIN based method protocol. The advantage of this project is that the process saves people time to manually enter the PIN number into the router and there is no password to remember.
+In our model we aims at detecting the blinking pattern of red LED light using techniques in computer vision. At the core of our system, we use camera on smartphones to facilitate the secure Wi-Fi setup of these devices. First the camera records a video of LED light blinking, and then we will analyze each of the video frames that are fetched from the smartphone SD card and decode the blinking pattern into the binary numbers. After translating binary numbers into decimal numbers, we can use the information to connect the device to the user Wi-Fi Access Point through WPS protocol. The system allows simplest point-and-shoot interaction with objects. The experiments evaluate the performance of our approach and show reliable results within short distance. Future improvements on the robustness of the system should focus on invariance to the distance and shaking, or changing smartphone’s hardware configurations.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Zhang:EECS-2013-86,
+Author= {Zhang, Shujing},
+Title= {SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-86.html},
+Number= {UCB/EECS-2013-86},
+Abstract= {This paper discusses a simple and secure way of enabling “Internet of Things” to be configured with Wi-Fi PIN number and register it to the Internet. The Internet of Things are objects that are embedded with sensors and actuators (from printers to pacemakers), and they are linked through wired and wireless networks, often using the same Internet Protocol (IP) that connects the Internet [1]. Many Internet of things do not have interactive interface, so we present a system which requests information from physical objects by recording them and perform computer vision techniques to extract the PIN number. After that, we can register them to the access point (AP) through WPS (Wi-Fi Protected Setup) PIN based method protocol. The advantage of this project is that the process saves people time to manually enter the PIN number into the router and there is no password to remember.
+In our model we aims at detecting the blinking pattern of red LED light using techniques in computer vision. At the core of our system, we use camera on smartphones to facilitate the secure Wi-Fi setup of these devices. First the camera records a video of LED light blinking, and then we will analyze each of the video frames that are fetched from the smartphone SD card and decode the blinking pattern into the binary numbers. After translating binary numbers into decimal numbers, we can use the information to connect the device to the user Wi-Fi Access Point through WPS protocol. The system allows simplest point-and-shoot interaction with objects. The experiments evaluate the performance of our approach and show reliable results within short distance. Future improvements on the robustness of the system should focus on invariance to the distance and shaking, or changing smartphone’s hardware configurations.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhang, Shujing
+%T SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 16
+%@ UCB/EECS-2013-86
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-86.html
+%F Zhang:EECS-2013-86

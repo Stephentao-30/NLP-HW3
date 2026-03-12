@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-55.html
+Speech Analysis Methodologies towards Unobtrusive Mental Health Monitoring
+Keng-hao Chang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-55
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-55.pdf
+Advisors:  John F. Canny
+BibTeX citation:
+@phdthesis{Chang:EECS-2012-55,
+Author= {Chang, Keng-hao},
+Title= {Speech Analysis Methodologies towards Unobtrusive Mental Health Monitoring},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-55.html},
+Number= {UCB/EECS-2012-55},
+}
+EndNote citation:
+%0 Thesis
+%A Chang, Keng-hao
+%T Speech Analysis Methodologies towards Unobtrusive Mental Health Monitoring
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-55
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-55.html
+%F Chang:EECS-2012-55

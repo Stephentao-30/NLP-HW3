@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29044.html
+PRUF- A Meaning Representation Language for Natural Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+PRUF- A Meaning Representation Language for Natural Languages
+PRUF- A Meaning Representation Language for Natural Languages
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/61
+October 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-61.pdf
+BibTeX citation:
+@techreport{Zadeh:M77/61,
+Author = {Zadeh, L.A.},
+Title = {PRUF- A Meaning Representation Language for Natural Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29044.html},
+Number = {UCB/ERL M77/61}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T PRUF- A Meaning Representation Language for Natural Languages
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29044.html
+%F Zadeh:M77/61

@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/meet-most-nimble-fingered-robot-yet
+Meet the most nimble-fingered robot yet - EECS at Berkeley
+Many researchers are working on ways for robots to learn to grasp and manipulate things by practicing over and over, but the process is very time-consuming. The research work on robotic deep learning by Prof.  Ken Goldberg  is featured on the cover of  MIT Review  in an article titled “ Meet the Most Nimble-Fingered Robot Yet “.  Instead of practicing in the real world, Prof. Ken Goldberg and colleagues have developed a robot that learns by feeding on a data set of more than a thousand objects that includes their 3-D shape, visual appearance, and the physics of grasping them. This data set was used to train the robot’s deep-learning system. Advances in control algorithms and machine-learning approaches, together with new hardware, are steadily building a foundation on which a new generation of robots will operate.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

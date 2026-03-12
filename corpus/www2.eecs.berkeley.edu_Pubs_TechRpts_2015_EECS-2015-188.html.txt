@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-188.html
+OS and Runtime Support for Efficiently Managing Cores in Parallel Applications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+OS and Runtime Support for Efficiently Managing Cores in Parallel Applications
+OS and Runtime Support for Efficiently Managing Cores in Parallel Applications
+Kevin Klues
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-188
+August 13, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-188.pdf
+Parallel applications can benefit from the ability to explicitly control their thread scheduling policies in user-space. However, modern operating systems lack the interfaces necessary to make this type of "user-level" scheduling efficient. The key component missing is the ability for applications to gain direct access to cores and keep control of those cores even when making I/O operations that traditionally block in the kernel. A number of former systems provided limited support for these capabilities, but they have been abandoned in modern systems, where all efforts are now focused exclusively on kernel-based scheduling approaches similar to Linux’s. In many circles, the term "kernel" has actually become synonymous with Linux, and its Unix-based model of process and thread management is often assumed as the only possible choice.
+In this work, we explore the OS and runtime support required to resurrect user-level threading as a viable mechanism for exploiting parallelism on modern systems. The idea is that applications request cores, not threads, from the underlying system and employ user-level scheduling techniques to multiplex their own set of threads on top of those cores. So long as an application has control of a core, it will have uninterrupted, dedicated access to it. This gives developers more control over what runs where (and when), so they can design their algorithms to take full advantage of the parallelism available to them. They express their parallelism via core requests and their concurrency via user-level threads.
+We frame our work with a discussion of Akaros, a new, experimental operating system we developed, whose “Many-Core Process” (MCP) abstraction is built specifically with user-level scheduling in mind. The Akaros kernel provides low-level primitives for gaining direct access to cores, and a user-level library, called parlib, provides a framework for building custom threading packages that make use of those cores. From a parlib-based version of pthreads to a port of Lithe and the popular Go programming language, the combination of Akaros and parlib proves itself as a powerful medium to help bring user-level scheduling back from the dark ages.
+Advisor:  Eric Brewer
+BibTeX citation:
+@phdthesis{Klues:EECS-2015-188,
+Author = {Klues, Kevin},
+Title = {OS and Runtime Support for Efficiently Managing Cores in Parallel Applications},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-188.html},
+Number = {UCB/EECS-2015-188},
+Abstract = {Parallel applications can benefit from the ability to explicitly control their thread scheduling policies in user-space. However, modern operating systems lack the interfaces necessary to make this type of "user-level" scheduling efficient. The key component missing is the ability for applications to gain direct access to cores and keep control of those cores even when making I/O operations that traditionally block in the kernel. A number of former systems provided limited support for these capabilities, but they have been abandoned in modern systems, where all efforts are now focused exclusively on kernel-based scheduling approaches similar to Linux’s. In many circles, the term "kernel" has actually become synonymous with Linux, and its Unix-based model of process and thread management is often assumed as the only possible choice.
+In this work, we explore the OS and runtime support required to resurrect user-level threading as a viable mechanism for exploiting parallelism on modern systems. The idea is that applications request cores, not threads, from the underlying system and employ user-level scheduling techniques to multiplex their own set of threads on top of those cores. So long as an application has control of a core, it will have uninterrupted, dedicated access to it. This gives developers more control over what runs where (and when), so they can design their algorithms to take full advantage of the parallelism available to them. They express their parallelism via core requests and their concurrency via user-level threads.
+We frame our work with a discussion of Akaros, a new, experimental operating system we developed, whose “Many-Core Process” (MCP) abstraction is built specifically with user-level scheduling in mind. The Akaros kernel provides low-level primitives for gaining direct access to cores, and a user-level library, called parlib, provides a framework for building custom threading packages that make use of those cores. From a parlib-based version of pthreads to a port of Lithe and the popular Go programming language, the combination of Akaros and parlib proves itself as a powerful medium to help bring user-level scheduling back from the dark ages.}
+}
+EndNote citation:
+%0 Thesis
+%A Klues, Kevin
+%T OS and Runtime Support for Efficiently Managing Cores in Parallel Applications
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 13
+%@ UCB/EECS-2015-188
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-188.html
+%F Klues:EECS-2015-188

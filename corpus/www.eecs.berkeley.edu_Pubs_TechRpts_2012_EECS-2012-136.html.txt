@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-136.html
+CrowdBrush: A mobile photo-editing application with a crowd inside
+Suryaveer Lodha
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-136
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-136.pdf
+As per a recent report from NPD, consumers now take more than a quarter of all photos and videos on smartphone . Mobile photography is gaining popularity, but editing photographs on mobile devices is cumbersome. Almost all of the current photo manipulation apps provide standard, static and one-filter-fits-all suite of photo editing features. While sophisticated techniques to segment objects in images exist, they are limited to desktop computing for multiple reasons: mobile device touch screens make selection hard, mobile devices have small screens and these techniques require significant computing power. A robust semantic segmentation of an image can lead to interesting photo-editing features such as switch-background on the mobile device with minimal end user input. Traditionally, rotoscoping  has been a slow, process intensive and costly manual task. Computer scientists have tried to solve this problem through automation by developing computer vision techniques, but have failed to achieve satisfactory results for complex videos and images. Identifying if a pixel belongs to foreground/background element is a trivial task for humans; hence we address this problem by introducing crowd sourcing techniques. We have developed an android application for photo editing on top of a low cost crowdsourcing system. We use the crowdsourcing platform to add interesting effects to images taken by users which they can later share with their friends. CrowdBrush application thus provides a feature of custom photo editing, which is missing from the current photo manipulation applications in the market. Additionally, the system produces “human-verified” results as it relies on human (crowd) involvement in the process and guarantees an end product which is aesthetically pleasing. We compare this crowdsourcing approach to the automatic grabcut computer vision technique and conduct a user study with 20 subjects for our mobile application. We see that crowdsourcing solution works better than grabcut for complex images. We also learn that speed at which we can generate the output matters more to users than quality. We observe that users love to be able to interact with the application. The fact that they could change the photo easily and add new effects provided a sense of amusement and fun to the users.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Lodha:EECS-2012-136,
+Author= {Lodha, Suryaveer},
+Title= {CrowdBrush: A mobile photo-editing application with a crowd inside},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-136.html},
+Number= {UCB/EECS-2012-136},
+Abstract= {As per a recent report from NPD, consumers now take more than a quarter of all photos and videos on smartphone . Mobile photography is gaining popularity, but editing photographs on mobile devices is cumbersome. Almost all of the current photo manipulation apps provide standard, static and one-filter-fits-all suite of photo editing features. While sophisticated techniques to segment objects in images exist, they are limited to desktop computing for multiple reasons: mobile device touch screens make selection hard, mobile devices have small screens and these techniques require significant computing power. A robust semantic segmentation of an image can lead to interesting photo-editing features such as switch-background on the mobile device with minimal end user input. Traditionally, rotoscoping  has been a slow, process intensive and costly manual task. Computer scientists have tried to solve this problem through automation by developing computer vision techniques, but have failed to achieve satisfactory results for complex videos and images. Identifying if a pixel belongs to foreground/background element is a trivial task for humans; hence we address this problem by introducing crowd sourcing techniques. We have developed an android application for photo editing on top of a low cost crowdsourcing system. We use the crowdsourcing platform to add interesting effects to images taken by users which they can later share with their friends. CrowdBrush application thus provides a feature of custom photo editing, which is missing from the current photo manipulation applications in the market. Additionally, the system produces “human-verified” results as it relies on human (crowd) involvement in the process and guarantees an end product which is aesthetically pleasing. We compare this crowdsourcing approach to the automatic grabcut computer vision technique and conduct a user study with 20 subjects for our mobile application. We see that crowdsourcing solution works better than grabcut for complex images. We also learn that speed at which we can generate the output matters more to users than quality. We observe that users love to be able to interact with the application. The fact that they could change the photo easily and add new effects provided a sense of amusement and fun to the users.},
+}
+EndNote citation:
+%0 Thesis
+%A Lodha, Suryaveer
+%T CrowdBrush: A mobile photo-editing application with a crowd inside
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-136
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-136.html
+%F Lodha:EECS-2012-136

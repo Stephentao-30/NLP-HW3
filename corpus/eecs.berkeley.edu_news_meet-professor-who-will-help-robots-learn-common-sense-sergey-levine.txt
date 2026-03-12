@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/meet-professor-who-will-help-robots-learn-common-sense-sergey-levine
+Meet the professor who will help robots learn common sense: Sergey Levine - EECS at Berkeley
+Computer Science Assistant Prof.  Sergey Levine  is the subject of an article in BGR about machine learning titled  Meet the professor who will help robots learn common sense .  “One of the things I think we’ve seen with computer vision is the bottom-up approach tends to be very effective,” Levine says. “In other words, once you figure out a good way to acquire the low-level representations — in the case of vision, things like the fact that images consist of edges — then whatever technique you use that’s general that can acquire those low-level representations will also be able to deal with the higher level stuff”
+“So for me, part of the hope is if we can find the right way to acquire the low-level behaviors, the higher behaviors will begin to emerge naturally. Using the same technique just applied at a larger scale.”
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

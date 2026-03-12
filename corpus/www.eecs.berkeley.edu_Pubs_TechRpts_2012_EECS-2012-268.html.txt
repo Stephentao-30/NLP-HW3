@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-268.html
+The Art of Digital Publishing: A foundation of combined standards to support the future of publishing
+Daniel Lynch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-268
+December 18,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-268.pdf
+Scientific content increasingly relies on the presentation and authoring of complex multimedia diagrams and figures, sometimes interactive, to convey information in a non-textual way. Wikis and user-generated hyper-linked content have both been very successful in the case for text---this is what we aim to do for mathematical diagrams. Many professors in higher education who write textbooks know TeX, however, they don't often know how to program the Web. The future of building interactive user interfaces should lie not in the hands of programmers, but in the hands of the expert of a given field---the goal of this project is to supply math, physics, and engineering professors with a platform to express mathematical concepts to students to provide immersive learning environments. Ideally, this projects serves twofold: First, in closing the gap for non-web-technical authors to express ideas and concepts through Web technology without the knowledge of coding or user interface design, by mapping a typesetting language to interactive programming. Second, in providing deep, educational experiences for our youth to engage more in the sciences, and begin to use exploration and creativity in learning through interactive textbooks. The loose structure and nature of user interface design poses a problem for documenting science and related interfaces in a consistent manner. TeX provides us with some "laws" to obey in order to design the output of a text and graphical language around. Hence, we can attempt to create a synthesis of a structured user interface specification (TeX) and a structured functional specification (HTML5) to provide a publishing platform for the current and next generation. The Art is where we can blend these two standards bodies; higher levels of abstraction allow people to express their ideas without having to worry about the mechanisms by which the technology is rendering their works. It is in these environments when people can express themselves freely.
+Advisors:  Babak Ayazifar
+BibTeX citation:
+@mastersthesis{Lynch:EECS-2012-268,
+Author= {Lynch, Daniel},
+Title= {The Art of Digital Publishing: A foundation of combined standards to support the future of publishing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-268.html},
+Number= {UCB/EECS-2012-268},
+Abstract= {Scientific content increasingly relies on the presentation and authoring of complex multimedia diagrams and figures, sometimes interactive, to convey information in a non-textual way. Wikis and user-generated hyper-linked content have both been very successful in the case for text---this is what we aim to do for mathematical diagrams. Many professors in higher education who write textbooks know TeX, however, they don't often know how to program the Web. The future of building interactive user interfaces should lie not in the hands of programmers, but in the hands of the expert of a given field---the goal of this project is to supply math, physics, and engineering professors with a platform to express mathematical concepts to students to provide immersive learning environments. Ideally, this projects serves twofold: First, in closing the gap for non-web-technical authors to express ideas and concepts through Web technology without the knowledge of coding or user interface design, by mapping a typesetting language to interactive programming. Second, in providing deep, educational experiences for our youth to engage more in the sciences, and begin to use exploration and creativity in learning through interactive textbooks. The loose structure and nature of user interface design poses a problem for documenting science and related interfaces in a consistent manner. TeX provides us with some "laws" to obey in order to design the output of a text and graphical language around. Hence, we can attempt to create a synthesis of a structured user interface specification (TeX) and a structured functional specification (HTML5) to provide a publishing platform for the current and next generation. The Art is where we can blend these two standards bodies; higher levels of abstraction allow people to express their ideas without having to worry about the mechanisms by which the technology is rendering their works. It is in these environments when people can express themselves freely.},
+}
+EndNote citation:
+%0 Thesis
+%A Lynch, Daniel
+%T The Art of Digital Publishing: A foundation of combined standards to support the future of publishing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 18
+%@ UCB/EECS-2012-268
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-268.html
+%F Lynch:EECS-2012-268

@@ -1,0 +1,47 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-239.html
+Machine Learning and Optimization for Neural Circuit Reconstruction | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Machine Learning and Optimization for Neural Circuit Reconstruction
+Machine Learning and Optimization for Neural Circuit Reconstruction
+Jeremy Maitin-Shepard
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-239
+December 16, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-239.pdf
+Mapping neuroanatomy, in the pursuit of linking hypothesized computational models consistent with observed functions to the actual physical structures, has been a long-standing fundamental problem in neuroscience. One primary interest is in mapping the network structure of neural circuits by identifying the morphology of each neuron and the locations of synaptic connections between neurons, a field of study called connectomics. Currently, the most promising approach for obtaining such maps of neural circuit structure is volume electron microscopy of a stained and fixed block of tissue.
+While recent advances in volume electron microscopy make feasible the imaging of very large circuits at sufficient resolution to discern even the smallest neuronal processes, image analysis remains a key challenge limiting the rate of discovery. Existing fully-automated algorithms offer inadequate accuracy to replace human annotators, and semi-automated methods offer only limited speedup. Towards addressing this image analysis problem, we designed, implemented, and evaluated novel methods based on machine learning and optimization related to three different sub-problems:
+Detection of cell boundaries at the per-voxel level is a key analysis step, given that cell boundaries serve as the primary indication of cell morphology, We propose a highly-scalable, layered architecture for classification on 3-D volumes: unlike conventional dense deep learning approaches, this architecture relies on simple, parallelizable clustering algorithms and convex optimization to learn wide, sparse models. By exploiting rotational invariance of the data distribution and a highly-efficient distributed GPU implementation, we achieved performance comparable to or better than deep convolutional networks trained for weeks with only several hours of training, enabling much faster iteration on model design.
+Certain promising high-throughput microscopy techniques result in significant discontinuities between section images even after alignment, due to variations in imaging conditions and section thickness, among other artifacts. These artifacts impede truly 3-D analysis of these volumes. We propose an iterative coarse-to-fine procedure that optimizes the parameters of spatially vary linear transformations of the intensity data in order to minimize discontinuities along the section axis, subject to detail-preserving regularization. Testing showed this technique to yield significant quantitative improvement in image quality, and qualitatively corrected essentially all visible discontinuities without any noticeable loss of detail; it also significantly improved 3-D segmentation accuracy.
+To integrate higher-level prior information about shape, we introduce a new machine learning approach for image segmentation, based on a joint energy model over image features and novel local binary shape descriptors. These descriptors compactly represent rich shape information at multiple scales, including interactions between multiple objects. Our approach reflects the inherent combinatorial nature of dense image segmentation problems. We propose efficient algorithms for learning deep neural networks to model the joint energy, and for local optimization of this energy in the space of supervoxel agglomerations. This architecture yields state-of-the-art performance on several challenging electron microscopy datasets.
+These advances constitute critical progress towards fully-automated reconstruction of circuits of hundreds of thousands of neurons.
+Advisor:  Pieter Abbeel
+BibTeX citation:
+@phdthesis{Maitin-Shepard:EECS-2015-239,
+Author = {Maitin-Shepard, Jeremy},
+Title = {Machine Learning and Optimization for Neural Circuit Reconstruction},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-239.html},
+Number = {UCB/EECS-2015-239},
+Abstract = {Mapping neuroanatomy, in the pursuit of linking hypothesized computational models consistent with observed functions to the actual physical structures, has been a long-standing fundamental problem in neuroscience.  One primary interest is in mapping the network structure of neural circuits by identifying the morphology of each neuron and the locations of synaptic connections between neurons, a field of study called connectomics.  Currently, the most promising approach for obtaining such maps of neural circuit structure is volume electron microscopy of a stained and fixed block of tissue.
+While recent advances in volume electron microscopy make feasible the imaging of very large circuits at sufficient resolution to discern even the smallest neuronal processes, image analysis remains a key challenge limiting the rate of discovery.  Existing fully-automated algorithms offer inadequate accuracy to replace human annotators, and semi-automated methods offer only limited speedup.  Towards addressing this image analysis problem, we designed, implemented, and evaluated novel methods based on machine learning and optimization related to three different sub-problems:
+Detection of cell boundaries at the per-voxel level is a key analysis step, given that cell boundaries serve as the primary indication of cell morphology,   We propose a highly-scalable, layered architecture for classification on 3-D volumes: unlike conventional dense deep learning approaches, this architecture relies on simple, parallelizable clustering algorithms and convex optimization to learn wide, sparse models.  By exploiting rotational invariance of the data distribution and a highly-efficient distributed GPU implementation, we achieved performance comparable to or better than deep convolutional networks trained for weeks with only several hours of training, enabling much faster iteration on model design.
+Certain promising high-throughput microscopy techniques result in significant discontinuities between section images even after alignment, due to variations in imaging conditions and section thickness, among other artifacts.  These artifacts impede truly 3-D analysis of these volumes.  We propose an iterative coarse-to-fine procedure that optimizes the parameters of spatially vary linear transformations of the intensity data in order to minimize discontinuities along the section axis, subject to detail-preserving regularization.  Testing showed this technique to yield significant quantitative improvement in image quality, and qualitatively corrected essentially all visible discontinuities without any noticeable loss of detail; it also significantly improved 3-D segmentation accuracy.
+To integrate higher-level prior information about shape, we introduce a new machine learning approach for image segmentation, based on a joint energy model over image features and novel local binary shape descriptors.  These descriptors compactly represent rich shape information at multiple scales, including interactions between multiple objects.  Our approach reflects the inherent combinatorial nature of dense image segmentation problems.  We propose efficient algorithms for learning deep neural networks to model the joint energy, and for local optimization of this energy in the space of supervoxel agglomerations.  This architecture yields state-of-the-art performance on several challenging electron microscopy datasets.
+These advances constitute critical progress towards fully-automated reconstruction of circuits of hundreds of thousands of neurons.}
+}
+EndNote citation:
+%0 Thesis
+%A Maitin-Shepard, Jeremy
+%T Machine Learning and Optimization for Neural Circuit Reconstruction
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 16
+%@ UCB/EECS-2015-239
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-239.html
+%F Maitin-Shepard:EECS-2015-239

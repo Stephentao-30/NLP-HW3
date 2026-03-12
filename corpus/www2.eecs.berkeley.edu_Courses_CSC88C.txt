@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC88C
+Course: CSC88C | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSC88C
+CS C88C. Computational Structures in Data Science
+Catalog Description:  Development of Computer Science topics appearing in Foundations of Data Science (C8); expands computational concepts and techniques of abstraction. Understanding  the structures that underlie the programs, algorithms, and languages used in data science and elsewhere.   Mastery of a particular programming language while studying general techniques for managing program complexity, e.g., functional, object-oriented, and declarative programming. Provides practical experience with composing larger systems through several significant programming projects.
+Units:  3.0
+Course Objectives:  Develop a foundation of computer science concepts that arise in the context of data analytics, including algorithm, representation, interpretation, abstraction, sequencing, conditional, function, iteration, recursion, types, objects, and testing, and develop proficiency in the application of these concepts in the context of a modern programming language at a scale of whole programs on par with a traditional CS introduction course.
+Student Learning Outcomes:  Students will be able to demonstrate a working knowledge of these concepts and a proficiency of programming based upon them sufficient to construct substantial stand-alone programs.
+Prerequisites:  MATH 1A. Also, this course is a Data Science connector course and may only be taken concurrently with or after COMPSCI C8/DATA C8/INFO C8/STAT C8. Students may take more than one Data Science connector (88) course if they wish, concurrent with or after having taken the C8 course.
+Credit Restrictions:  Students will receive no credit for DATA C88C after completing COMPSCI 61A.
+Formats:  Fall: 2.0 hours of lecture and  2.0 hours of laboratory per week
+Spring: 2.0 hours of lecture and  2.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  DATA C88C
+Class Schedule (Fall 2022):
+TuTh 1:00PM - 1:59PM, Stanley 105 –
+Michael Ball Class Schedule (Spring 2023):
+MoWe 2:00PM - 2:59PM, Dwinelle 155 –
+Michael Ball
+Fall 2022 class homepage
+Class homepage on inst.eecs
+General Catalog listing

@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-129.html
+Optimal Mixed Spectrum Auction
+Alonso Silva and Fernando Beltran and Jean Walrand
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-129
+July 9,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-129.pdf
+This work studies the revenue-maximizing auction of a single block of spectrum
+that can be awarded either for exclusive licensed use by one operator
+or reserved for unlicensed use. A number of operators bid for exclusive licensed use and a group of non-colluding agents bid to keep the spectrum unlicensed.
+The revenue of this auction is compared to that of a Vickrey-Clarke-Groves (VCG) auction and that of another auction recently proposed.
+BibTeX citation:
+@techreport{Silva:EECS-2013-129,
+Author= {Silva, Alonso and Beltran, Fernando and Walrand, Jean},
+Title= {Optimal Mixed Spectrum Auction},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-129.html},
+Number= {UCB/EECS-2013-129},
+Abstract= {This work studies the revenue-maximizing auction of a single block of spectrum
+that can be awarded either for exclusive licensed use by one operator
+or reserved for unlicensed use. A number of operators bid for exclusive licensed use and a group of non-colluding agents bid to keep the spectrum unlicensed.
+The revenue of this auction is compared to that of a Vickrey-Clarke-Groves (VCG) auction and that of another auction recently proposed.},
+}
+EndNote citation:
+%0 Report
+%A Silva, Alonso
+%A Beltran, Fernando
+%A Walrand, Jean
+%T Optimal Mixed Spectrum Auction
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 9
+%@ UCB/EECS-2013-129
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-129.html
+%F Silva:EECS-2013-129

@@ -1,0 +1,175 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2007
+Technical Reports - 2007
+Estimating Haplotype Frequencies from Genotypes of Pooled DNA  (EECS-2007-180) Bonnie Kirkpatrick
+Using GPUs to Accelerate the Bisection Algorithm for Finding Eigenvalues of Symmetric Tridiagonal Matrices  (EECS-2007-179) Vasily Volkov and James Demmel
+Fully Distributed EM for Very Large Datasets  (EECS-2007-178) Jason Wolfe, Aria Delier Haghighi and Daniel Klein
+On a Cut-Matching Game for the Sparsest Cut Problem  (EECS-2007-177) Rohit Khandekar, Subhash A. Khot, Lorenzo Orecchia and Nisheeth K. Vishnoi
+Readout Techniques for High-Q Micromachined Vibratory Rate Gyroscopes  (EECS-2007-176) Chinwuba David Ezekwe
+Collaborative Platform for DFM  (EECS-2007-175) Wojciech Jacob Poppe
+A Framework for Compositional Design and Analysis of Systems  (EECS-2007-174) Arindam Chakrabarti
+Using the Web as an Implicit Training Set: Application to Noun Compound Syntax and Semantics  (EECS-2007-173) Preslav Ivanov Nakov
+Stirling Engines for Low-Temperature Solar-Thermal-Electric Power Generation  (EECS-2007-172) Artin Der Minassians
+Predicting Protein Molecular Function  (EECS-2007-171) Barbara Elizabeth Engelhardt
+OTFT-based DNA Detection System  (EECS-2007-170) Qintao Zhang
+Compact Modeling of Nanoscale CMOS  (EECS-2007-169) Chung-Hsun Lin
+Rethinking the Minimum Distance: Channels With Varying Sampling Rate and Iterative Decoding of LDPC Codes  (EECS-2007-168) Lara Dolecek
+Building Reliable Voting Machine Software  (EECS-2007-167) Ka-Ping Yee
+Composing and Validating Orthogonal Concerns and Heterogeneous Models  (EECS-2007-166) Guang Yang
+P4P: A Practical Framework for Privacy-Preserving Distributed Computation  (EECS-2007-165) Yitao Duan
+Streaming source coding with delay  (EECS-2007-164) Cheng Chang
+CMOS Power Amplifiers for Wireless Communications  (EECS-2007-161) King Chun Tsai
+Microwave and mm-Wave CMOS Low Noise Amplifiers  (EECS-2007-160) Ehsan Adabi Firouzjaei and Ali Niknejad
+Autonomous Jumping Microrobots  (EECS-2007-159) Sarah Elizabeth Bergbreiter
+SNSP: a Distributed Operating System for Sensor Networks  (EECS-2007-158) Jana Van Greunen
+Spatial Modeling of Gate Length Variation for Process-Design Co-Optimization  (EECS-2007-157) Paul David Friedberg
+Cognitive Radios: System Design Perspective  (EECS-2007-156) Danijela Branislav Cabric and Robert W. Brodersen
+The source coding game with a cheating switcher  (EECS-2007-155) Harikrishna R Palaiyanur, Cheng Chang and Anant Sahai
+Two Multi-Terminal Communication Problems: Distributed Estimation and Source-Channel Broadcast  (EECS-2007-154) Vinod Prabhakaran
+Fluid Animation from Simulation on Tetrahedral Meshes  (EECS-2007-153) Bryan Eric Feldman
+Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data  (EECS-2007-151) Onureena Banerjee
+Scheduling and Fairness in Multi-hop Wireless Networks  (EECS-2007-150) Ananth Rao
+Task Allocation and Scheduling of Concurrent Applications to Multiprocessor Systems  (EECS-2007-149) Kaushik Ravindran
+Modeling and Software Tools for Freeway Operational Planning  (EECS-2007-148) Alex A. Kurzhanskiy
+Generic Programming and Proving for Programming Language Metatheory  (EECS-2007-147) Adam Chlipala
+A Convex Upper Bound on the Log-Partition Function for Binary Graphical Models  (EECS-2007-146) Laurent El Ghaoui
+Black-Box Complexity of Encryption and Commitment  (EECS-2007-144) Hoe Teck Wee
+Distributed Segmentation and Classification of Human Actions Using a Wearable Motion Sensor Network  (EECS-2007-143) Allen Yang, Roozbeh Jafari, Philip Kuryloski, Sameer Iyengar, S. Shankar Sastry and Ruzena Bajcsy
+Generating Surface Crack Patterns  (EECS-2007-142) Hayley Nicole Iben
+Comparative and Evolutionary Analysis of Cellular Pathways  (EECS-2007-141) Manikandan Narayanan
+Optimizing Partitioned Global Address Space Programs for Cluster Architectures  (EECS-2007-140) Wei-Yu Chen
+Heterogeneous Composition of Models of Computation  (EECS-2007-139) Antoon Goderis, Christopher Brooks, Ilkay Altintas, Edward A. Lee and Carol Goble
+End-User Service Composition in Ubiquitous Computing Environments  (EECS-2007-138) Mark Webster Newman
+Privacy Preserving Joins  (EECS-2007-137) Yaping Li and Minghua Chen
+Report on the Pvote security review  (EECS-2007-136) Ka-Ping Yee
+The Weiner Lecture Archives : An Ontology-Driven Interface for Viewing Synchronized Lectures and Notes  (EECS-2007-135) Gene Zhang, Sean Carr, Sameer Iyengar, Hava Edelstein, Albert Liu and Dan Garcia
+Modeling Cloth from Examples  (EECS-2007-134) Ryan White
+Implementation of Real-Time Distributed Discrete-Event Execution with Fault Tolerance  (EECS-2007-133) Thomas Huining Feng and Edward A. Lee
+Probabilistic Reachability for Stochastic Hybrid Systems: Theory, Computations, and Applications  (EECS-2007-132) Alessandro Abate
+CPO Semantics of Timed Interactive Actor Networks  (EECS-2007-131) Xiaojun Liu and Edward A. Lee
+A Methodology and an Open Software Infrastructure for Constraint-Driven Synthesis of On-Chip Communications  (EECS-2007-130) Alessandro Pinto, Alberto L. Sangiovanni-Vincentelli and Luca Carloni
+Tutorial: Building Ptolemy II Models Graphically  (EECS-2007-129) Edward A. Lee and Stephen Neuendorffer
+Reducing Network Energy Consumption via Rate-Adaptation and Sleeping  (EECS-2007-128) Sergiu Nedevschi, Lucian Popa, Gianluca Iannaccone, Sylvia Ratnasamy and David Wetherall
+On the Off-Label Use of Outer Approximations: An External Active Set Strategy  (EECS-2007-127) Hoam Chung, Elijah Polak and S. Shankar Sastry
+Reinforcement Learning in Large or Unknown MDPs  (EECS-2007-126) Ambuj Tewari
+Refinement-Based Program Analysis Tools  (EECS-2007-125) Manu Sridharan
+Learning Mixtures of Distributions  (EECS-2007-124) Kamalika Chaudhuri
+Avoiding Communication in Computing Krylov Subspaces  (EECS-2007-123) James Demmel, Mark Frederick Hoemmen, Marghoob Mohiyuddin and Katherine A. Yelick
+Stochastic Omega-Regular Games  (EECS-2007-122) Krishnendu Chatterjee
+Improving Dependability of Commodity Operating Systems with Program Analysis  (EECS-2007-121) Feng Zhou
+Finitary Winning in \omega-Regular Games  (EECS-2007-120) Krishnendu Chatterjee, Thomas A. Henzinger and Florian Horn
+D-Trigger: A General Framework for Efcient Online Detection  (EECS-2007-119) Ling Huang
+Methods and Devices for Optical and Electrical Metrology with Application to Phase-Shifting Interferometers, Torsional Microstructures, and Levitated Accelerometers  (EECS-2007-118) David G Garmire
+Dependent Types for Safe Systems Software  (EECS-2007-117) Jeremy Paul Condit
+A Usability Study of Doppelganger, A Tool for Better Browser Privacy  (EECS-2007-116) Chris K. Karlof and Umesh Shankar
+Automated Mapping for Heterogeneous Multiprocessor Embedded Systems  (EECS-2007-115) Abhijit Davare
+Identity-based routing  (EECS-2007-114) Matthew Chapman Caesar
+Implementing Certified Programming Language Tools in Dependent Type Theory  (EECS-2007-113) Adam Chlipala
+Actor-Oriented Programming for Wireless Sensor Networks  (EECS-2007-112) Elaine Cheong
+Learning in decentralized systems: A nonparametric approach  (EECS-2007-111) Xuanlong Nguyen
+The Complexity of Stochastic Müller Games  (EECS-2007-110) Krishnendu Chatterjee
+Closing the Gap between Bandit and Full-Information Online Optimization: High-Probability Regret Bound  (EECS-2007-109) Alexander Rakhlin, Ambuj Tewari and Peter Bartlett
+A CMOS Biosensor for Infectious Disease Detection  (EECS-2007-108) Turgut Sefket Aytur
+EFLoW: End-to-end Fairness using Local Weights  (EECS-2007-107) Ananth Rao and Ion Stoica
+High-Speed Rapid-Single-Flux-Quantum Multiplexer and Demultiplexer Design and Testing  (EECS-2007-106) Lizhen Zheng
+Markov Decision Processes with Multiple Long-run Average Objectives  (EECS-2007-105) Krishnendu Chatterjee
+Tetrahedral Mesh Generation with Good Dihedral Angles Using Point Lattices  (EECS-2007-104) Francois Labelle
+Mechanisms to Tolerate Misbehavior in Replicated Systems  (EECS-2007-103) Byung-Gon Chun
+Tunable Optical Microresonators with Micro-Electro-Mechanical-System (MEMS) Integration  (EECS-2007-102) Jin Yao
+Ultra Low Power Clock Generation  (EECS-2007-101) Asako Toda and Jan M. Rabaey
+On Algorithms for Technology Mapping  (EECS-2007-100) Satrajit Chatterjee
+Feature Selection in Face Recognition: A Sparse Representation Perspective  (EECS-2007-99) Allan Y. Yang, John Wright, Yi Ma and S. Shankar Sastry
+Learning Local Distance Functions for Exemplar-Based Object Recognition  (EECS-2007-98) Andrea Lynn Frome
+PSYCHOPHYSICS & COMPUTATIONAL MODELING OF VISUAL MOTION PERCEPTION  (EECS-2007-97) Siddharth Jain
+Jitter Reduction on High-Speed Clock Signals  (EECS-2007-96) Tina Harriet Smilkstein
+Image registration and statistical analysis for quantitative in vivo spin-lock magnetic resonance imaging of the intervertebral disc response to compression  (EECS-2007-95) Joey Ann Kimdon
+Privacy in Camera Networks: a Technical Perspective  (EECS-2007-94) Marci Lenore Meingast, Sameer Pai, Stephen Wicker and S. Shankar Sastry
+Practical Distributed Source Coding and Its Application to the Compression of Encrypted Data  (EECS-2007-93) Daniel Hillel Schonberg
+BORPH: An Operating System for FPGA-Based Reconfigurable Computers  (EECS-2007-92) Hayden Kwok-Hay So and Robert W. Brodersen
+Wireless Sensor Networks for High Fidelity Sampling  (EECS-2007-91) Sukun Kim
+An External Active-Set Strategy for Solving Optimal Control Problems  (EECS-2007-90) Elijah Polak, Hoam Chung and S. Shankar Sastry
+Angelic Semantics for High-Level Actions  (EECS-2007-89) Bhaskara Marthi, Stuart J. Russell and Jason Wolfe
+Distributed Fair Scheduling with Variable Transmission Lengths in IEEE 802.11 Wireless Networks  (EECS-2007-88) Libin Jiang and Jean Walrand
+Latency and Connectivity Analysis Tools for Wireless Mesh Networks  (EECS-2007-87) Phoebus Wei-Chih Chen and S. Shankar Sastry
+Shifting: One-Inclusion Mistake Bounds and Sample Compression  (EECS-2007-86) Benjamin I. P. Rubinstein, Peter Bartlett and J. Hyam Rubinstein
+Platform Based Design for Wireless Sensor Networks  (EECS-2007-85) Alvise Bonivento
+Diatom-Inspired Microfluidic Generation of Tunable Emulsions for Macroporous Silica  (EECS-2007-84) Frank Zendejas
+Data-Centric Scientific Workflow Management Systems  (EECS-2007-83) David T Liu
+Adaptive Online Gradient Descent  (EECS-2007-82) Peter Bartlett, Elad Hazan and Alexander Rakhlin
+An OSEK/VDX Implementation of Synchronous Reactive Semantics Preserving Communication Protococls  (EECS-2007-81) Guoqiang Wang, Marco Di Natale and Alberto L. Sangiovanni-Vincentelli
+Shape Analysis with Structural Invariant Checkers  (EECS-2007-80) Bor-Yuh Evan Chang, Xavier Rival and George Necula
+Data Triage  (EECS-2007-79) Frederick Ralph Reiss
+Strategy Logic  (EECS-2007-78) Krishnendu Chatterjee, Thomas A. Henzinger and Nir Piterman
+Extra-precise Iterative Refinement for Overdetermined Least Squares Problems  (EECS-2007-77) James Demmel, Yozo Hida, Xiaoye Li and Edward Jason Riedy
+Easily Adaptable Handwriting Recognition in Historical Manuscripts  (EECS-2007-76) John Alexander Edwards
+Robust Reputations for Peer-to-peer Markets  (EECS-2007-75) Jonathan David Traupman
+Deep Sub-Micron SRAM Design for Ultra-Low Leakage Standby Operation  (EECS-2007-74) Huifang Qin
+Adapting Learning Techniques for Visual Recognition  (EECS-2007-73) Hao Zhang
+Computing Foundations and Practice for Cyber-Physical Systems: A Preliminary Report  (EECS-2007-72) Edward A. Lee
+Implementation of a Collaborative Observatory for Natural Environments  (EECS-2007-71) Andrew Barton Christian Dahl
+Automated Design for Current-Mode Pass-Transistor Logic Blocks  (EECS-2007-70) Matthew David Pierson
+Modeling Categorization as a Dirichlet Process Mixture  (EECS-2007-69) Kevin Canini
+Operational Semantics of Hybrid Systems  (EECS-2007-68) Haiyang Zheng
+Exploiting Ultrasound Sensitivity Patterns to Accurately Localize Mobile Motes in Real Time using Particle Filtering  (EECS-2007-67) Nathan Burkhart
+Policies in Routing  (EECS-2007-66) Cheng Tien Ee
+Dependent Types for Assembly Code Safety  (EECS-2007-65) Matthew Thomas Harren
+Exploiting Words and Pictures  (EECS-2007-64) Tamara Lee Berg
+ZeroCollision Random Backoff Algorithm  (EECS-2007-63) Ji Woong Lee and Jean Walrand
+Novel Processes for Poly-Si Thin-Film Transistors on Plastic Substrates  (EECS-2007-62) Daniel Albert Good
+Verifying Security Properties in Electronic Voting Machines  (EECS-2007-61) Naveen K. Sastry
+Transistors and Synapses: Robust, Low Power Analog Circuits in CMOS Radios and the Rabbit Retina  (EECS-2007-60) Alyosha Christopher Molnar
+A Design Flow for the Development, Characterization, and Refinement of System Level Architectural Services  (EECS-2007-59) Douglas Michael Densmore
+Supporting early-stage ubicomp experimentation  (EECS-2007-58) Scott Alan Carter
+Low Energy RF Transceiver Design  (EECS-2007-57) Ben Walter Cook
+Designing and Evaluating Glanceable Peripheral Displays  (EECS-2007-56) Tara Lynn Matthews
+Enhanced Friction and Adhesion with Biologically Inspired Fiber Arrays  (EECS-2007-55) Carmel Majidi
+Hybrid Artist- and Data-driven Techniques for Character Animation  (EECS-2007-54) Leslie Kanani Michiko Ikemoto
+Interface Theories for Causality Analysis in Actor Networks  (EECS-2007-53) Ye Zhou
+Dynamic pharming attacks and the locked same-origin policies for web browsers  (EECS-2007-52) Chris K. Karlof, Umesh Shankar, Doug Tygar and David Wagner
+Thin-Body Silicon FET Devices and Technology  (EECS-2007-51) Varadarajan Vidya
+Devices, Structures, and Processes for Optical MEMS  (EECS-2007-50) Hyuck Choo
+Josephson-CMOS hybrid memories  (EECS-2007-49) Qingguo Liu
+Minimum-Time Reachability in Timed Games  (EECS-2007-47) Thomas Brihaye, Thomas A. Henzinger, Vinayak Prabhu and Jean-Francois Raskin
+Nonmyopic Informative Path Planning in Spatio-Temporal Models  (EECS-2007-44) Alexandra Meliou, Andreas Krause, Carlos Guestrin and Joseph M. Hellerstein
+Semantic Driven Synthesis for Heterogeneous Systems  (EECS-2007-43) Qi Zhu
+Transmitter Linearization for Portable Wireless Communication Systems  (EECS-2007-42) Luns Tee
+Modeling the Adoption of new Network Architectures  (EECS-2007-41) Dilip Antony Joseph, John Chuang and Ion Stoica
+Pvote Software Review Assurance Document  (EECS-2007-40) Ka-Ping Yee
+Posterior Decoding Methods for Optimization and Accuracy Control of Multiple Alignments  (EECS-2007-39) Ariel Shaul Schwartz
+Soliciting User Feedback in a Dataspace System  (EECS-2007-38) Shawn Jeffery, Michael Franklin and Alon Halevy
+Securing User-controlled Routing Infrastructures  (EECS-2007-37) Karthik Kalambur Lakshminarayanan, Daniel Giannico Adkins, Adrian Perrig and Ion Stoica
+LATEST : Lazy Dynamic Test Input Generation  (EECS-2007-36) Rupak Majumdar and Koushik Sen
+Predictive Testing: Amplifying the Effectiveness of  Software Testing  (EECS-2007-35) Pallavi Joshi, Koushik Sen and Mark Shlimovich
+Automatic calibration of sensor-phones using gaussian processes  (EECS-2007-34) Richard Edward Honicky
+Simplifying Access Control in Enterprise Networks  (EECS-2007-33) Cheng Tien Ee, John Lee, Dave Maltz, Scott Shenker and Lakshminarayanan Subramanian
+Symbolic Reachability Analysis of Lazy Linear Hybrid Automata  (EECS-2007-32) Susmit Kumar Jha, Bryan Brady and Sanjit A. Seshia
+Novel Processes for Modular Integration of Silicon-Germanium MEMS with CMOS Electronics  (EECS-2007-31) Carrie Wing-Zin Low
+Design of a Resilient and Customizable Routing Architecture  (EECS-2007-30) Karthik Kalambur Lakshminarayanan
+A Code Generation Framework for Actor-Oriented Models with Partial Evaluation  (EECS-2007-29) Gang Zhou, Man-Kit Leung and Edward A. Lee
+Achieving Convergence-Free Routing using Failure-Carrying Packets  (EECS-2007-28) Karthik Kalambur Lakshminarayanan, Matthew Chapman Caesar, Murali Rangan, Thomas Anderson, Scott Shenker and Ion Stoica
+Resolving Inter-Domain Policy Disputes  (EECS-2007-27) Cheng Tien Ee, Vijay Ramachandran, Byung-Gon Chun, Kaushik Lakshminarayanan and Scott Shenker
+0.35 µm CMOS PROCESS ON SIX-INCH WAFERS, Baseline Report V.  (EECS-2007-26) A. Pongracz and G. Vida
+Locked cookies: Web authentication security against phishing, pharming, and active attacks  (EECS-2007-25) Chris K. Karlof, Umesh Shankar, Doug Tygar and David Wagner
+Design and Analysis of Micro-Solar Power Systems for Wireless Sensor Networks  (EECS-2007-24) Jaein Jeong, Xiaofan Fred Jiang and David E. Culler
+Catchconv: Symbolic execution and run-time type inference for integer conversion errors  (EECS-2007-23) David Alexander Molnar and David Wagner
+On the Consistency of DHT-Based Routing  (EECS-2007-22) Jayanth Kumar Kannan, Matthew Chapman Caesar, Ion Stoica and Scott Shenker
+The Design and Application of Structured Types in Ptolemy II  (EECS-2007-21) Yang Zhao, Yuhong Xiong, Edward A. Lee, Xiaojun Liu and Lizhi C. Zhong
+Multitask Learning with Expert Advice  (EECS-2007-20) Jacob Duncan Abernethy, Peter Bartlett and Alexander Rakhlin
+An Algorithm for Rendering Generalized Depth of Field Effects Based on Simulated Heat Diffusion  (EECS-2007-19) Todd Jerome Kosloff and Brian A. Barsky
+Autonomous Vision-based Rotorcraft Landing and Accurate Aerial Terrain Mapping in an Unknown Environment  (EECS-2007-18) Todd Templeton
+Low Voltage Analog to Digital Converter Design in 90nm CMOS  (EECS-2007-17) Simone Gambini and Jan M. Rabaey
+A Neural Hybrid-System Model of the Basal Ganglia  (EECS-2007-16) Joseph Gerard Makin and Alessandro Abate
+Verifying Security Properties using Type-Qualifier Inference  (EECS-2007-15) Robert Timothy Johnson
+Building Interpolating and Approximating Implicit Surfaces Using Moving Least Squares  (EECS-2007-14) Chen Shen
+Automatic Ranking of Iconic Images  (EECS-2007-13) Tamara Lee Berg and David Forsyth
+Names and Faces  (EECS-2007-12) Tamara Lee Berg, Alexander Christiansen Berg, John Alexander Edwards, Michael Randolph Maire, Ryan White, Yee-Whye Teh, Erik Learned-Miller and David Forsyth
+Improving Access to Remote Storage for Weakly Connected Users  (EECS-2007-11) Patrick Randolph Eaton
+In-Network PCA and Anomaly Detection  (EECS-2007-10) Ling Huang, Xuanlong Nguyen, Minos Garofalakis, Michael Jordan, Anthony D. Joseph and Nina Taft
+Heterogeneous Concurrent Modeling and Design in Java (Volume 3: Ptolemy II Domains)  (EECS-2007-9) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 2: Ptolemy II Software Architecture)  (EECS-2007-8) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Heterogeneous Concurrent Modeling and Design in Java (Volume 1: Introduction to Ptolemy II)  (EECS-2007-7) Christopher Brooks, Edward A. Lee, Xiaojun Liu, Stephen Neuendorffer, Yang Zhao and Haiyang Zheng
+Deterministic list codes for state-constrained arbitrarily varying channels  (EECS-2007-6) Anand D. Sarwate and Michael Gastpar
+Binary additive channels with individual noise sequences and limited active feedback  (EECS-2007-5) Krishnan Eswaran, Anand D. Sarwate, Anant Sahai and Michael Gastpar
+A Kinetic Model for G protein-coupled Signal Transduction in Macrophage Cells  (EECS-2007-4) Patrick Joseph Flaherty
+Solution Processing Techniques for Low-Cost Circuit Fabrication  (EECS-2007-3) David Howard Redinger
+Distributed Networked Sensing and Control Systems: Robust Estimation and Real-time Control  (EECS-2007-2) Songhwai Oh
+Static Analysis of C for Hybrid Type Checking  (EECS-2007-1) Zachary Ryan Anderson

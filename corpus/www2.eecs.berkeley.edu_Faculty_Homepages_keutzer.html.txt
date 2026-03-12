@@ -1,0 +1,54 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/keutzer.html
+Kurt Keutzer: Faculty Home Page
+Larger Photo
+Kurt Keutzer
+Professor Emeritus, Professor in the Graduate School
+Contact Information
+8020 Berkeley Way West
+keutzer@berkeley.edu
+Office Hours
+by appointment only
+Links
+Personal Homepage
+Dissertations
+Research Support
+Sanchita Pal
+spal@berkeley.edu
+Biography
+I am a Professor of the Graduate School, conducting research in the Berkeley AI Research (BAIR) lab. For the last 20 years, I have focused on making algorithms in the rapidly evolving areas of Machine Learning and AI more computationally efficient. Currently, I am focused on the computational challenges presented by Large Language Models and complex agentic systems. I invite postdoctoral fellows and PhD students with published research in these areas to apply to my group, but please refer to my personal webpage for details. Outstanding current Berkeley undergraduates are also invited to apply. I began my research career in industry where I developed efficient algorithms for logic synthesis and related areas. I have won many awards for that research, including “Most Influential Paper of the 1980’s” from the Design Automation Conference. I followed my early research to Synopsys where I became their first CTO. My approach to research is motivated by practical problems, and I always aspire to make a real-world impact with my work. As a result, our research group is entirely funded by industrial sponsors. Further, my orientation has naturally led me to an active engagement in entrepreneurship. I am currently a co-founder of Narada.ai and SigIQ.ai.  Previously, I co-founded Deepscale (acquired by Tesla) and Nexusflow.ai (acquired by NVIDIA). I also serve as an investor, advisor, or both, to Perplexity.ai, Sima.ai, and many others.
+Education
+1984, PhD, Computer Science, Indiana University
+Research Areas
+Artificial Intelligence (AI)
+Computer Architecture & Engineering (ARC)
+Scientific Computing (SCI)
+Research Centers
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Deep Drive (BDD)
+Teaching Schedule
+CS 294-194. Research to Startup , Th 17:00-18:29, Soda 310
+Please see Google Scholar for a complete list of publications.
+S. Shen, Z. Yao, A. Gholami, M. Mahoney, and K. Keutzer, "Powernorm: Rethinking batch normalization in transformers," in  International Conference on Machine Learning , 2020, pp. 8741--8751.
+Y. Cai, Z. Yao, Z. Dong, A. Gholami, M. W. Mahoney, and K. Keutzer, "Zeroq: A novel zero shot quantization framework," in  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition , 2020, pp. 13169--13178.
+Y. You, J. Li, S. Reddi, J. Hseu, S. Kumar, S. Bhojanapalli, X. Song, J. Demmel, K. Keutzer, and C. Hsieh, "Large batch optimization for deep learning: Training bert in 76 minutes," in  International Conference on Learning Representations , 2020.
+P. Jain, A. Jain, A. Nrusimha, A. Gholami, P. Abbeel, K. Keutzer, I. Stoica, and J. Gonzalez, " Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization ," in  Proceedings of Machine Learning and Systems 2020 , Machine Learning and Systems, 2020, pp. 497--511.
+S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. W. Mahoney, and K. Keutzer, "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT.," in  AAAI , 2020, pp. 8815--8821.
+S. Zhao, B. Li, X. Yue, Y. Gu, P. Xu, R. Hu, H. Chai, and K. Keutzer, "Multi-source domain adaptation for semantic segmentation," in  Advances in Neural Information Processing Systems , 2019, pp. 7287--7300.
+Y. You, Z. Zhang, C. Hsieh, J. Demmel, and K. Keutzer, "Fast deep neural network training on distributed systems and cloud TPUs,"  IEEE Transactions on Parallel and Distributed Systems , vol. 30, no. 11, pp. 2449--2462, Nov. 2019.
+X. Yue, Y. Zhang, S. Zhao, A. L. Sangiovanni-Vincentelli, K. Keutzer, and B. Gong, "Domain randomization and pyramid consistency: Simulation-to-real generalization without accessing target domain data," in  Proceedings of the IEEE International Conference on Computer Vision , 2019, pp. 2100--2110.
+Z. Dong, Z. Yao, A. Gholami, M. W. Mahoney, and K. Keutzer, "Hawq: Hessian aware quantization of neural networks with mixed-precision," in  Proceedings of the IEEE International Conference on Computer Vision , 2019, pp. 293--302.
+Z. Yao, A. Gholami, P. Xu, K. Keutzer, and M. W. Mahoney, "Trust region based adversarial attack on neural networks," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition , 2019, pp. 11350--11359.
+B. Wu, X. Dai, P. Zhang, Y. Wang, F. Sun, Y. Wu, Y. Tian, P. Vajda, Y. Jia, and K. Keutzer, "Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition , 2019, pp. 10734--10742.
+B. Wu, X. Zhou, S. Zhao, X. Yue, and K. Keutzer, "Squeezesegv2: Improved model structure and unsupervised domain adaptation for road-object segmentation from a lidar point cloud," in  2019 International Conference on Robotics and Automation (ICRA) , 2019, pp. 4376--4382.
+A. Gholami, K. Kwon, B. Wu, Z. Tai, X. Yue, P. Jin, S. Zhao, and K. Keutzer, "Squeezenext: Hardware-aware neural network design," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops , 2018, pp. 1638--1647.
+Y. You, Z. Zhang, C. Hsieh, J. Demmel, and K. Keutzer, "Imagenet training in minutes," in  Proceedings of the 47th International Conference on Parallel Processing , 2018, pp. 1--10.
+A. Gholami, A. Azad, P. Jin, K. Keutzer, and A. Buluç, " Integrated Model, Batch, and Domain Parallelism in Training Neural Networks ," in  SPAA'18: 30th ACM Symposium on Parallelism in Algorithms and Architectures , 2018.
+B. Wu, A. Wan, X. Yue, P. Jin, S. Zhao, N. Golmant, A. Gholaminejad, J. Gonzalez, and K. Keutzer, "Shift: A zero flop, zero parameter alternative to spatial convolutions," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition , 2018, pp. 9127--9135.
+B. Wu, A. Wan, X. Yue, and K. Keutzer, "Squeezeseg: Convolutional neural nets with recurrent crf for real-time road-object segmentation from 3d lidar point cloud," in  2018 IEEE International Conference on Robotics and Automation (ICRA) , 2018, pp. 1887--1893.
+F. Iandola and K. Keutzer, "small neural nets are beautiful: enabling embedded systems with small deep-neural-network architectures," in  2017 International Conference on Hardware/Software Codesign and System Synthesis (CODES+ ISSS) , 2017, pp. 1--10.
+B. Wu, F. Iandola, P. H. Jin, and K. Keutzer, "Squeezedet: Unified, small, low power fully convolutional neural networks for real-time object detection for autonomous driving," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops , 2017, pp. 129--137.
+F. N. Iandola, M. W. Moskewicz, K. Ashraf, and K. Keutzer, "Firecaffe: near-linear acceleration of deep neural network training on compute clusters," in  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition , 2016, pp. 2592--2600.
+DAC's Most Influential Paper Award ,
+2023
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1996

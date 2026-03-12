@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-25.html
+Sequential Decision Making in Non-stochastic Environments
+Jacob Abernethy
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-25
+February 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-25.pdf
+Decision making is challenging, of course, because the world presents itself with a generous portion of uncertainty. In order to have a model for any decision problem we must characterize this uncertainty. The typical approach is a statistical one, to imagine that the events in the world are generated randomly according to an as-of-yet-unknown probability distribution. One can then formulate the decision problem through the lens of estimating the parameters of this distribution or by learning its properties.
+This dissertation shall focus on a rather different model, one in which the world is assumed to be non-stochastic. Rather than aim for a guarantee that holds “in expectation” or “with high probability,” requiring obvious stochasticity assumptions, we instead strive for guarantees that hold “no matter what happens,” even under the worst conditions. This approach, while seemingly pessimistic, leads to surprisingly optimistic guarantees when we appropriately tailor the goal of the decision maker. The main objective we consider is that of regret which, roughly speaking, describes the difference between the decision maker’s cost minus the cost of the best decision with the benefit of hindsight.
+We give an overview of the aforementioned non-stochastic framework for decision making. We present a generic problem, known as Online Linear Optimization (OLO), and prove upper and lower bounds. We consider the bandit version of the problem as well, and give the first known efficient algorithm achieving an optimal regret rate. We then show a strong connection between a classic result from the 1950s, known as Blackwell’s Approachability Theorem, and the OLO problem. We also look at the non-stochastic decision problem as a repeated game between a Player and Nature, and we show in two cases that the Player’s optimal minimax strategy is both easy to describe and efficiently computable.
+Advisors:  Peter Bartlett
+BibTeX citation:
+@phdthesis{Abernethy:EECS-2012-25,
+Author= {Abernethy, Jacob},
+Title= {Sequential Decision Making in Non-stochastic Environments},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-25.html},
+Number= {UCB/EECS-2012-25},
+Abstract= {Decision making is challenging, of course, because the world presents itself with a generous portion of uncertainty. In order to have a model for any decision problem we must characterize this uncertainty. The typical approach is a statistical one, to imagine that the events in the world are generated randomly according to an as-of-yet-unknown probability distribution. One can then formulate the decision problem through the lens of estimating the parameters of this distribution or by learning its properties.
+This dissertation shall focus on a rather different model, one in which the world is assumed to be non-stochastic. Rather than aim for a guarantee that holds “in expectation” or “with high probability,” requiring obvious stochasticity assumptions, we instead strive for guarantees that hold “no matter what happens,” even under the worst conditions. This approach, while seemingly pessimistic, leads to surprisingly optimistic guarantees when we appropriately tailor the goal of the decision maker. The main objective we consider is that of regret which, roughly speaking, describes the difference between the decision maker’s cost minus the cost of the best decision with the benefit of hindsight.
+We give an overview of the aforementioned non-stochastic framework for decision making. We present a generic problem, known as Online Linear Optimization (OLO), and prove upper and lower bounds. We consider the bandit version of the problem as well, and give the first known efficient algorithm achieving an optimal regret rate. We then show a strong connection between a classic result from the 1950s, known as Blackwell’s Approachability Theorem, and the OLO problem. We also look at the non-stochastic decision problem as a repeated game between a Player and Nature, and we show in two cases that the Player’s optimal minimax strategy is both easy to describe and efficiently computable.},
+}
+EndNote citation:
+%0 Thesis
+%A Abernethy, Jacob
+%T Sequential Decision Making in Non-stochastic Environments
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 10
+%@ UCB/EECS-2012-25
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-25.html
+%F Abernethy:EECS-2012-25

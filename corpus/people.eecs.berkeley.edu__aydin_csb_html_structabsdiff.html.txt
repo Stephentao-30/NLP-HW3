@@ -1,0 +1,39 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/structabsdiff.html
+Compressed Sparse Blocks: absdiff< T > Struct Template Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+Class List
+Class Index
+Class Hierarchy
+Class Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Public Member Functions  |
+List of all members
+absdiff< T > Struct Template Reference
+#include < utility.h >
+Inheritance diagram for absdiff< T >:
+Public Member Functions
+T    operator()  (T const &arg1, T const &arg2) const
+Detailed Description
+template<typename T>
+struct absdiff< T >
+Definition at line  320  of file  utility.h .
+Member Function Documentation
+template<typename T >
+T  absdiff < T >::operator()
+(
+T const &
+arg1 ,
+T const &
+arg2
+)
+const
+inline
+Definition at line  322  of file  utility.h .
+The documentation for this struct was generated from the following file:
+utility.h
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

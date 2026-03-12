@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29339.html
+An Experiment in Program Reconstructuring for Performance Enhancement | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Experiment in Program Reconstructuring for Performance Enhancement
+An Experiment in Program Reconstructuring for Performance Enhancement
+Domenico Ferrari and Edwin Lau
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M580
+April 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-580.pdf
+BibTeX citation:
+@techreport{Ferrari:M580,
+Author = {Ferrari, Domenico and Lau, Edwin},
+Title = {An Experiment in Program Reconstructuring for Performance Enhancement},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29339.html},
+Number = {UCB/ERL M580}
+}
+EndNote citation:
+%0 Report
+%A Ferrari, Domenico
+%A Lau, Edwin
+%T An Experiment in Program Reconstructuring for Performance Enhancement
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M580
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29339.html
+%F Ferrari:M580

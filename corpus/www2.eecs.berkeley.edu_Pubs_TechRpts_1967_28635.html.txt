@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28635.html
+An Algorithm for Computing the Jordan Canonical Form of a Matrix | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Computing the Jordan Canonical Form of a Matrix
+An Algorithm for Computing the Jordan Canonical Form of a Matrix
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M223
+October 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-223.pdf
+BibTeX citation:
+@techreport{Polak:M223,
+Author = {Polak, E.},
+Title = {An Algorithm for Computing the Jordan Canonical Form of a Matrix},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28635.html},
+Number = {UCB/ERL M223}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T An Algorithm for Computing the Jordan Canonical Form of a Matrix
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M223
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28635.html
+%F Polak:M223

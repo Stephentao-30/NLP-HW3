@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-201.html
+Games with vector payoffs : a dynamic programming approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Games with vector payoffs : a dynamic programming approach
+Games with vector payoffs : a dynamic programming approach
+Vijay Kamble
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-201
+September 22, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-201.pdf
+In several decision-making scenarios in adversarial environments, a decision-maker cares about multiple objectives at the same time. For example, in certain defense operations, an agent might be interested in simultaneously defending multiple targets from an enemy. In a repeated game against an unknown opponent, a player wants to minimize `regret', i.e., to try to choose a strategy that performs well relative to each strategy in some given class of strategies in hindsight. In dynamic asymmetric information games where a player lacks some information that other players have, a typical goal is to choose a strategy that gives appropriate worst-case guarantees simultaneously on all possibilities. Many of these scenarios can be modeled as a vector-valued sequential game between the agent and an adversary. This thesis is concerned with characterizing and efficiently computing the optimal worst-case guarantees that an agent can achieve on the losses in such games.
+The main contribution of this work is to show that for large classes of sequential games, these optimal guarantees can be characterized as the fixed point of a dynamic programming operator defined on the space of extremal (either maximal or minimal) elements of subsets of some partially ordered topological space. We first present this result in detail for the model of discounted repeated games with vector payoffs and then extend it to stochastic games with multiple states, and finally to reachability games (which model several types of pursuit-evasion games that arise in defense operations). For each of these models, we prove several structural properties of the set of these optimal guarantees and the corresponding optimal strategies. This approach opens up the possibility of using many well-known dynamic programming based methods and algorithms for approximating these guarantees and computing approximately optimal strategies. One such method based on approximate value-iteration is presented for the case of repeated games.
+This approach results in the first characterization of the minmax optimal regret and the corresponding optimal strategy for expected regret minimization in repeated games with discounted losses. Further, it results in the first known procedure for efficiently computing an approximately optimal strategy for the uninformed player in Aumann and Maschler's celebrated model of zero-sum discounted repeated games with incomplete information on one side.
+Advisor:  Jean Walrand
+BibTeX citation:
+@phdthesis{Kamble:EECS-2015-201,
+Author = {Kamble, Vijay},
+Title = {Games with vector payoffs : a dynamic programming approach},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-201.html},
+Number = {UCB/EECS-2015-201},
+Abstract = {In several decision-making scenarios in adversarial environments, a decision-maker cares about multiple objectives at the same time. For example, in certain defense operations, an agent might be interested in simultaneously defending multiple targets from an enemy. In a repeated game against an unknown opponent, a player wants to minimize `regret', i.e., to try to choose a strategy that performs well relative to each strategy in some given class of strategies in hindsight. In dynamic asymmetric information games where a player lacks some information that other players have, a typical goal is to choose a strategy that gives appropriate worst-case guarantees simultaneously on all possibilities. Many of these scenarios can be modeled as a vector-valued sequential game between the agent and an adversary. This thesis is concerned with characterizing and efficiently computing the optimal worst-case guarantees that an agent can achieve on the losses in such games.
+The main contribution of this work is to show that for large classes of sequential games, these optimal guarantees can be characterized as the fixed point of a dynamic programming operator defined on the space of extremal (either maximal or minimal) elements of subsets of some partially ordered topological space. We first present this result in detail for the model of discounted repeated games with vector payoffs and then extend it to stochastic games with multiple states, and finally to reachability games (which model several types of pursuit-evasion games that arise in defense operations). For each of these models, we prove several structural properties of the set of these optimal guarantees and the corresponding optimal strategies. This approach opens up the possibility of using many well-known dynamic programming based methods and algorithms for approximating these guarantees and computing approximately optimal strategies. One such method based on approximate value-iteration is presented for the case of repeated games.
+This approach results in the first characterization of the minmax optimal regret and the corresponding optimal strategy for expected regret minimization in repeated games with discounted losses. Further, it results in the first known procedure for efficiently computing an approximately optimal strategy for the uninformed player in Aumann and Maschler's celebrated model of zero-sum discounted repeated games with incomplete information on one side.}
+}
+EndNote citation:
+%0 Thesis
+%A Kamble, Vijay
+%T Games with vector payoffs : a dynamic programming approach
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 September 22
+%@ UCB/EECS-2015-201
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-201.html
+%F Kamble:EECS-2015-201

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29019.html
+A Mermistive Circuit Model for P-N Junction Diodes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Mermistive Circuit Model for P-N Junction Diodes
+A Mermistive Circuit Model for P-N Junction Diodes
+Leon O. Chua and Chong-Wei Tseng
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M393
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-393.pdf
+BibTeX citation:
+@techreport{Chua:M393,
+Author = {Chua, Leon O. and Tseng, Chong-Wei},
+Title = {A Mermistive Circuit Model for P-N Junction Diodes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29019.html},
+Number = {UCB/ERL M393}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Tseng, Chong-Wei
+%T A Mermistive Circuit Model for P-N Junction Diodes
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M393
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29019.html
+%F Chua:M393

@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-48.html
+The Extended Parameter Filter
+Yusuf Erol and Lei Li and Bharath Ramsundar and Stuart J. Russell
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-48
+May 7,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-48.pdf
+The parameters of temporal models, such as dynamic Bayesian networks, may be modelled in a Bayesian context as static or atemporal variables that influence transition probabilities at every time step. Particle filters fail for models that include such variables, while methods that use Gibbs sampling of parameter variables may incur a per-sample cost that grows linearly with the length of the observation sequence. Storvik devised a method for incremental computation of exact sufficient statistics that, for some cases, reduces the per-sample cost to a constant.  In this paper, we demonstrate a connection between Storvik's filter and a Kalman filter in parameter space and establish more general conditions under which Storvik's filter works. Drawing on an analogy to the extended Kalman filter, we develop and analyze, both theoretically and experimentally, a Taylor approximation
+to the parameter posterior that allows Storvik's method to be applied to a broader class of models. Our experiments on both synthetic examples and real applications show improvement over existing methods.
+BibTeX citation:
+@techreport{Erol:EECS-2013-48,
+Author= {Erol, Yusuf and Li, Lei and Ramsundar, Bharath and Russell, Stuart J.},
+Title= {The Extended Parameter Filter},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-48.html},
+Number= {UCB/EECS-2013-48},
+Abstract= {The parameters of temporal models, such as dynamic Bayesian networks, may be modelled in a Bayesian context as static or atemporal variables that influence transition probabilities at every time step. Particle filters fail for models that include such variables, while methods that use Gibbs sampling of parameter variables may incur a per-sample cost that grows linearly with the length of the observation sequence. Storvik devised a method for incremental computation of exact sufficient statistics that, for some cases, reduces the per-sample cost to a constant.  In this paper, we demonstrate a connection between Storvik's filter and a Kalman filter in parameter space and establish more general conditions under which Storvik's filter works. Drawing on an analogy to the extended Kalman filter, we develop and analyze, both theoretically and experimentally, a Taylor approximation
+to the parameter posterior that allows Storvik's method to be applied to a broader class of models. Our experiments on both synthetic examples and real applications show improvement over existing methods.},
+}
+EndNote citation:
+%0 Report
+%A Erol, Yusuf
+%A Li, Lei
+%A Ramsundar, Bharath
+%A Russell, Stuart J.
+%T The Extended Parameter Filter
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 7
+%@ UCB/EECS-2013-48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-48.html
+%F Erol:EECS-2013-48

@@ -1,0 +1,102 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982
+Technical Reports - 1982
+VLSI Implementation of Digital Fourier Transforms, Final Report  (CSD-82-111) Alvin M. Despain, Carlo H. Séquin, Clark D. Thompson, E. Wold and D. Lioupis
+On the Foundations of Artificial Workload Design  (CSD-82-110) Domenico Ferrari
+Working Set Size Strings  (CSD-82-109) Domenico Ferrari
+The Properties and Limiting Behavior of Working Set Size Strings and Flat-faults  (CSD-82-108) Tzong-yu Paul Lee
+X-Tree and Y-Components  (CSD-82-107) Carlo H. Séquin and Richard M. Fujimoto
+Design and Implementation of RISC I  (CSD-82-106) Carlo H. Séquin and David A. Patterson
+Fourier Transforms in VLSI  (CSD-82-105) Clark D. Thompson
+Talking to UNIX in English: An Overview of an On-line UNIX Consultant  (CSD-82-104) Robert Wilensky
+Solving the Weighted Parity Problem for Gammoids by Reduction to Graphic Matching  (CSD-82-103) Po Tong, Eugene L. Lawler and V. V. Vazirani
+RESST: A VLSI Implementation of a Record-Sorting Stack  (CSD-82-102) Clark D. Thompson, Michael J. Carey and Paul M. Hansen
+An Efficient Implementation of Search Trees on O(lg N) Processors  (CSD-82-101) Clark D. Thompson and Michael J. Carey
+Timber: A Sophisticated Relation Browser  (M81/94) Michael Stonebraker and Joseph Kalash
+Computer-Aided Design of Structures Subject to Eigenvalue Inequality Constraints  (M82/91) Y.Y. Wardi and E. Polak
+Algebraic Theory of Linear Multivariable Feedback Systems  (M82/90) C.A. Desoer and C.L. Gustafson
+Bias Report  (M82/89) R. Gyurcsik, D. Cheung, F. Ma and T. Yee
+On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis  (M82/88) C.L. DeMarco and A.R. Bergen
+Non-Differentiable Optimization Via Adaptive Smoothing  (M82/87) D.Q. Mayne and E. Polak
+Distributing a Database for Parallelism  (M82/86) Eugene Wong and Randy H. Katz
+Performance Analysis of Distributed Data Base Systems  (M82/85) Michael Stonebraker, John Woodfill, Jeff Ranstrom, Marguerite Murphy, Joseph Kalash, Michael Carey and Kenneth Arnold
+Bipolar-JFET-MOSFET Negative Resistance Devices  (M82/84) L.O. Chua, J. Yu and Y. Yu
+An NMOS Integrated Vector-Locked Loop  (M82/83) Daniel Senderowicz
+An MOS-LSI Adaptive Linear Prediction Filter for Speech Processing  (M82/82) Ronald D. Fellman
+A Computer-Assisted Study of Forced Relaxation Oscillations  (M82/81) T.S. Parker and L.O. Chua
+Database Portals: A New Application Program Interface  (M82/80) Michael Stonebraker and Lawrence A. Rowe
+Simultaneous Stabilization of Nonlinear Systems  (M82/79) C.A. Desoer
+Measures of Deviance in Non-Classical Logics  (M82/77) E. Trillas, T. Riera, R. Yager and S. Termini
+Evaluations of Possibility in a Fuzzy Environment  (M82/76) T. Riera
+LSI Circuit Simulation on Vector Computers  (M82/75) Andrei Vladimirescu
+A Clustering Algorithm for Partitioning of Programmed Logic Arrays  (M82/74) G. De Micheli and M. Santomauro
+Nonlinear Lumped Circuit Model of GaAs Mesfet  (M82/73) L.O. Chua and Y.W. Sing
+Layout Rule Spacing of Symbolic Integrated Circuit Artwork  (M82/72) Mark W. Bales
+Analysis of Linearized Decoupled Power Flow Approximations for Steady State Security Assessment  (M82/71) R. John Kaye and Felix F. Wu
+Synchronization and Chaos  (M82/70) Y.S. Tang, A.I. Mees and L.O. Chua
+Two-Step Compensation of Nonlinear Systems  (M82/69) C.A. Desoer and C.A. Lin
+Axial Plasma Injection and Shock Formation in Multiple Mirrors  (M82/68) R.V. Bravenec, A.J. Lichtenberg and M.A. Lieberman
+Evaluation of a Fully-Integrated High-Frequency Switched-Capacitor Bandpass Filter  (M82/67) C.L. Hoang
+Measurements of Plasma Confinement: The 10 Meter Multiple-Mirror Experiment  (M82/66) H.D. Price, A.J. Lichtenberg, M.A. Lieberman and M. Tuzsewski
+A Simple Secure Pseudo-Random Number Generator  (M82/65) L. Blum, M. Blum and M. Shub
+Automatic Layout of Optimized PLA Structures  (M82/64) Howard A. Landman
+Solution of Fuzzy Equations with Extended Operations  (M82/63) Elie Sanchez
+Megavolt Arsenic Implantation into Silicon  (M82/62) P.F. Byrne
+On Stabilization and the Existence of Coprime Factorizations  (M82/61) V. Anantharam
+Design of Multivariable Feedback System With Simple Unstable Plant  (M82/60) C.A. Desoer and C.L. Gustafson
+Observations on the Evolution of a Software System  (M82/59) Eric Allman and Michael Stonebraker
+PLEASURE: A Computer Program for Simple/Multiple Constrained/Unconstrained Folding of Programmable Logic Arrays  (M82/57) Giovanni De Micheli and Alberto Sangiovanni-Vincentelli
+Experimental Design of a Generative Model Based on Working Set Size Characterizations  (M82/56) T-Y.P Lee
+Delight for Beginners  (M82/55) Bill Nye and Andre Tits
+Experimental Study of High Beta Ballooning Modes  (M82/54) H.D. Price, N.M.P. Benjamin, A.J. Lichtenberg and M.A. Lieberman
+Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package  (M82/53) D.G. Mayne, W.T. Nye, E. Polak, P. Siegal and T. Wuu
+A High-Frequency Differential Narrow-Band Switched Capacitor Filtering Technique  (M82/52) Jesus A. Guinea
+Plasma-Sheath-Wall Time-Dependent Behavior: An Informal Survey  (M82/51) Charles K. Birdsall
+Semi-infinite Optimization in Engineering Design  (M82/50) E. Polak
+On the Stabilization of Nonlinear Systems  (M82/49) V. Anantharam and C.A. Desoer
+Soft Deduction Rules in Medical Diagnostic Processes  (M82/48) G. Soula and E. Sanchez
+Nonadiabatic Scattering and Particle Flow in Multiple Mirrors  (M82/47) K.J. Doniger and M.A. Lieberman
+Josephson Junction Circuit Analysis Via Integral Manifolds  (M82/46) M. Odyniec and L.O. Chua
+Crash Recovery in a Distributed Database System  (M82/45) Marion D. Skeen
+EXQUEL: A Semantic Extension of QUEL  (M82/44) Eugene Wong
+Negative Resistance Devices  (M82/43) Leon O. Chua, Juebang Yu and Youying Yu
+Mextra: A Manhattan Circuit Extractor  (M82/42) Daniel T. Fitzpatrick
+Large Scale Integration of Hybrid-Method Digital Subscriber Loops  (M82/41) Oscar E. Agazzi
+The Waveform Relaxation Method for Time Domain Analysis of Large Scale Integrated Circuits: Theory and Applications  (M82/40) Ekachai Lelarasmee
+Noise Limitations in Switched-Capacitor Filters  (M82/39) Kuo-Chiang Hsieh
+A Form Application Development System  (M82/38) Lawrence A. Rowe and Kurt A. Shoens
+Using a Relational Database Management System for Computer Aided Design Data  (M82/37) Antonin Guttman and Michael Stonebraker
+A Computational Approach to Fuzzy Quantifiers in Natural Languages  (M82/36) Lotfi A. Zadeh
+Treating a Fuzzy Subset as a Projectable Random Subset  (M82/35) Wang Pei-Zhuang and Elie Sanchez
+Algorithm Models for Nondifferentiable Optimization  (M82/34) E. Polak and D.Q. Mayne
+The Influence of Program Dynamics on Performance  (M82/33) Richard Bassein
+Document Processing in a Relational Data Base System  (M82/32) Michael Stonebraker, Heidi Stettner, Joseph Kalash, Antonin Guttman and Nadene Lynn
+Application of Artificial Intelligence Techniques to Database Systems  (M82/31) Michael Stonebraker
+Modeling Nonlinear Devices Exhibiting Frequency- Dependent Capacitances and Inductances  (M82/29) A. Dervisoglu and L.O. Chua
+A MOS Switched-Capacitor Instrumentation Amplifier  (M82/28) Robert C. Yen and Paul R. Gray
+High-Order Nonlinear Circuit Elements: Circuit-Theoretic Properties  (M82/27) Leon O. Chua and Ellen W. Szeto
+Nonlinear Optimization with Constraints: A Cookbook Approach  (M82/26) L.O. Chua and G.N. Lin
+Canonical Piecewise- Linear Analysis  (M82/25) Leon O. Chua and Robin L.P. Ying
+The Problem of Fuzzy Relation Decomposition  (M82/24) Janet Efstathiou and Richard M. Tong
+Designing a Database for Ingres  (M82/23) Lorna E. DuMont
+Study of Minimizing Sequences  (M82/22) E. Polak and Y.Y. Wardi
+Nonlinear Programming Without Computation  (M82/21) L.O. Chua and G.N. Lin
+Characterizing and Reproducing Program Referencing Dynamics  (M82/20) C.R. Dutt and D. Ferrari
+Using the Peral AI Package (Package for Efficient Access to Representation in Lisp)  (M82/19) Michael Deering, Joseph Faletti and Robert Wilensky
+State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements  (M82/18) Leon O. Chua and Ellen W. Szeto
+Synthesis of Higher Order Nonlinear Circuit Elements  (M82/17) Leon O. Chua and Ellen W. Szeto
+VSWS: The Variable-Interval Sampled Working Set Policy  (M82/16) Domenico Ferrari and Yiu-Yo Yih
+Program Page Reference Patterns  (M82/15) Robert Hagmann and Robert Fabry
+Some Combinatorial Aspects of Network Reliability  (M82/14) Rubin Johnson
+Possibility Distributions, Fuzzy Intervals and Possibility Measures in a Linguistic Approach to Pattern Classification in Medicine  (M82/13) E. Sanchez
+Parallel Algorithms for Minimum Cuts and Maximum Flows in Planar Networks  (M82/12) Donald B. Johnson and Shankar M. Venkatesar
+Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections  (M82/11) D.P. Clancy, G. Gross and F.F. Wu
+A VLSI RISC  (M82/10) D.A. Patterson and C.H. Séquin
+Large Scale Integration of Hybrid-Method Digital Subscriber Loops  (M82/9) O. Agazzi, D.A. Hodges and D.G. Messerschmitt
+Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems  (M82/8) G. Guardabassi
+Steady-State Security Regions of Power Systems  (M82/7) Felix F. Wu and Sadatoshi Kumagai
+Relax: A New Circuit Simulator for Large Scale MOS Integrated Circuits  (M82/6) E. Lelarasmee and A. Sangiovanni-Vincentelli
+The VLSI Complexity of Sorting  (M82/5) C.D. Thompson
+Compression and the Deterministic Time Hierarchy  (M82/4) Faith E. Fich and Shafi Goldwasser
+Optimal Causal Coding-Decoding Problems  (M82/3) J. Walrand and P. Varaiya
+A Characterization of the Kernals Associated with the Multiple Integral Representation of Some Functionals of the Wiener Process  (M82/2) Eugene Wong and Moshe Zakai
+Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model  (M82/1) Esko Ukkonen

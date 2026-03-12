@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28466.html
+Algorithms for Optimal Design | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Algorithms for Optimal Design
+Algorithms for Optimal Design
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/18
+May 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-18.pdf
+BibTeX citation:
+@techreport{Polak:M80/18,
+Author = {Polak, E.},
+Title = {Algorithms for Optimal Design},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28466.html},
+Number = {UCB/ERL M80/18}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T Algorithms for Optimal Design
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28466.html
+%F Polak:M80/18

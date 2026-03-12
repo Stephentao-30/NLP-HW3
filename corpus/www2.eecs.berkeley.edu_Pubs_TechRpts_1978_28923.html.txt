@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28923.html
+Distributed Query Processing in a Relational Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Distributed Query Processing in a Relational Data Base System
+Distributed Query Processing in a Relational Data Base System
+R. Epstein, M. Stonebraker and E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/18
+April 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-18.pdf
+BibTeX citation:
+@techreport{Epstein:M78/18,
+Author = {Epstein, R. and Stonebraker, M. and Wong, E.},
+Title = {Distributed Query Processing in a Relational Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28923.html},
+Number = {UCB/ERL M78/18}
+}
+EndNote citation:
+%0 Report
+%A Epstein, R.
+%A Stonebraker, M.
+%A Wong, E.
+%T Distributed Query Processing in a Relational Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28923.html
+%F Epstein:M78/18

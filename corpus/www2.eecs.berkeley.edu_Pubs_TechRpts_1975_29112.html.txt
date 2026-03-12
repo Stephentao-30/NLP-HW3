@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29112.html
+Embedding a Relational Data Sublanguage in a General Purpose Programming Language | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Embedding a Relational Data Sublanguage in a General Purpose Programming Language
+Embedding a Relational Data Sublanguage in a General Purpose Programming Language
+Eric Allman, Michael Stonebraker and Gerald Held
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M564
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-564.pdf
+BibTeX citation:
+@techreport{Allman:M564,
+Author = {Allman, Eric and Stonebraker, Michael and Held, Gerald},
+Title = {Embedding a Relational Data Sublanguage in a General Purpose Programming Language},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29112.html},
+Number = {UCB/ERL M564}
+}
+EndNote citation:
+%0 Report
+%A Allman, Eric
+%A Stonebraker, Michael
+%A Held, Gerald
+%T Embedding a Relational Data Sublanguage in a General Purpose Programming Language
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M564
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29112.html
+%F Allman:M564

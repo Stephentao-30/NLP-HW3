@@ -1,0 +1,47 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS284A
+Course: CS284A | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS284A
+CS 284A. Foundations of Computer Graphics
+Catalog Description:  Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation, and their matrix representations. Homogeneous coordinates, projective and perspective transformations.
+Units:  4.0
+Prerequisites:  Computer Science 61B or 61BL; programming skills in C, C++, or Java; linear algebra and calculus; or consent of instructor.
+Credit Restrictions:  Students will receive no credit for Computer Science 284A after taking 184.
+Formats:  Fall: 3 hours of lecture and  1 hour of discussion per week
+Spring: 3 hours of lecture and  1 hour of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+TuTh 9:30AM - 10:59AM, Li Ka Shing 245 –
+Jonathan Ragan-Kelley, Ren Ng, Vivien Nguyen
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives:
+An understanding of the physical and geometrical principles used in computer graphics
+An understanding of rendering algorithms, and the relationship between illumination models and the algorithms used to render them
+An understanding of the basic techniques used to model three dimensional objects, both as surfaces and as volumes
+An acquaintance with the principles of interaction and of user interfaces
+Topics covered:
+Polygon scan conversion (rasterization)
+2D and 3D Geometric and Modeling Transformations
+Rotation about an arbitrary axis, quaternions, exponential maps
+Homogeneous coordinates and projective geometry
+Planar geometric parallel and perspective projections
+2D and 3D viewing transformations
+Perspective Pipeline
+Line and Polygon clipping algorithms
+Visible surface determination
+Illumination (Reflectance) models and gamma correction
+Smooth shading methods and mach band artifacts
+Ray tracing: reflection/refraction/transparency/shadows
+Radiosity, photon mapping, and global illumination
+Texture mapping
+Environment mapping and bump mapping
+Spline curve and surface representations
+Animation
+Image-based and non-photorealistic rendering
+Related Areas:
+Graphics (GR)

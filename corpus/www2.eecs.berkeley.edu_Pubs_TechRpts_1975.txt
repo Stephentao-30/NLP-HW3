@@ -1,0 +1,77 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975
+Technical Reports - 1975
+A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System  (M591) Michael Stonebraker
+Qualitative Properties of Resistive Networks Containing Multi-Terminal Nonlinear Elements  (M575) L.O. Chua
+Decomposition-A Strategy for Query Prcoessing  (M574) Eugene Wong and Karel Youssefi
+Impulse Control of Stochastic Processes  (M572) Hemant Desai
+Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes  (M571) Eugene Wong and Moshe Zakai
+Analysis of Multicommodity Communication Nets  (M570) I. Cederbaum
+A Two levels Algorithm for Tearing  (M569) G. Guardabassi and A. Sangiovanni-Vincentelli
+A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices  (M568) A. Sangiovanni-Vincentelli
+Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision  (M567) M.J. Chien and E.S. Kuh
+On Multicriteria Optimization  (M566) E. Polak and A.N. Payne
+Stability Theory of Interconnected Systems Part I: Arbitrary Interconnections, Part II: Strongly Connected Subsytems  (M565) F.M. Callier, W.S. Chan and C.A. Desoer
+Embedding a Relational Data Sublanguage in a General Purpose Programming Language  (M564) Eric Allman, Michael Stonebraker and Gerald Held
+CUPID: A Graphics Oriented Facility for Support of Non-Programmer Interactions with a Data Base  (M563) Nancy H. McDonald
+A Second Order Method for the General Nonlinear Programming Problem  (M562) H. Mukai and E. Polak
+A Second Order Method for Unconstrained Optimization  (M561) H. Mukai and E. Polak
+The Linear Multivariable Regulator Problem  (M560) Bruce A. Francis
+The Multilayer Routing Problem: Some Necessary and Sufficient Conditions  (M559) B.S. Ting, E.S. Kuh and I. Shirakawa
+A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness  (M558) Eugene L. Lawler
+On the Approximation of Solutions to Multiple Criteria Decision Making Problems  (M556) Elijah Park
+On the Application of Degree Theory to the Analysis of Resistive Nonlinear Networks  (M555) Leon O. Chua and Niatsu N. Wang
+Successive Approximation Analog-to-Digital Conversion Techniques in MOS Integrated Circuits  (M554) James L. McCreary
+Optimal Control of Jump Processes  (M553) R. Boel and P. Varaiya
+The Limitations of Jacobi Methods for Triangulating Square Metrices  (M551) Ying Wang
+A Study in Operating System Performance Measurement and Modeling  (M550) David S. Lindsay and Domenico Ferrari
+A Theory of Nonenergetic N-Ports  (M549) J.L. Wyatt and L.O. Chua
+The Rayleight Quotient Iteration For Non-Normal Matrices  (M548) Nai-Fu Chen
+Efficient Retrieval in Relational Data Base Systems  (M547) Robert M. Pecherer
+Getting Started in Ingres with Cupid  (M546) Nancy Mcdonald
+The Spatial Structure of Production with a Leontief Technology  (M545) Urs Schweizer and Pravin Varaiya
+Rule-Directed Phone-Phoneme Matching  (M543) Alan Cole
+Multiple-Mirror Plasma Confinement  (M541) Allan J. Lichtenberg, Michael A. Lieberman and B. Grant Logan
+Differentiation Formulas for Stochastic Integrals in the Plane  (M540) Eugene Wong and Moshe Zakai
+Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks  (M539) F.M. Callier and C.A. Desoer
+Visibility of Random Patterns as Related to Image Encoding  (M538) Hassan Mostafavi-Kashani
+NDPROG  (M537) Ronald I. Becker
+Qualitative Theory of Dynamic Nonlinear Networks  (M536) L.O. Chua and D.N. Green
+On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes  (M535) Azad Bolour
+Storage Structures for Relational Data Base Management Systems  (M533) Gerald D. Held
+Solution of Large-Scale Networks by Tearing  (M532) Felix F. Wu
+Finding Nasal Zeros  (M531) Michael H. O'Malley
+A Structured Study of Parallel Pipelined Systems  (M530) Hon F. Li
+An Approach to Implementing a Geo-Data System  (M529) Angela Go, Michael Stonebraker and Carol Williams
+B-Trees Re-Examined  (M528) Gerald Held and Michael Stonebraker
+The Feedback Interconnection of Lumped Linear Time-Invariant Systems  (M527) C.A. Desoer and W.S. Chan
+A Program to Compute the Real Schur Form of a Real Square Matrix  (M526) B.N. Parlett and R. Feldman
+Infinite Normal Forms for the Lambda-Calculus and Semantics of Programming Languages  (M525) Reiji Nakajima
+Shifting Garbage Collection Overhead to Compile Time  (M524) Jeffrey M. Barth
+Investigation of a New Class of Binary Search Tree Insertion Algorithms  (M523) Robert M. MacGregor
+Photo-Assisted Electron Tunneling in Metal-Barrier-Metal Junctions  (M522) Ravinder K. Jain
+A Fast Matrix Inversion Algorithm  (M521) L. Csanky
+SPICE2: A Computer Program to Simulate Semiconductor Circuits  (M520) Laurence W. Nagel
+INGRES- Reference Manual  (M519) W. Zook, K. Youssefi, P. Kreps, G. Held and J. Ford
+Getting Started in Ingres- A Tutorial  (M518) Michael Stonebraker
+A Program to Compute the Condition Numbers of Matrix Eigenvalues Without Computing Eigenvectors  (M517) S.P. Chan, R. Feldman and B.N. Parlett
+An Iterative Procedure for Solving Nonlinear Equations  (M516) Y-F Lam and J.D. McPherson
+Memristive Devices and Systems  (M515) L.O. Chua and S.M. Kang
+Implementation of Integrity Constraints and Views by Query Modification  (M514) Michael Stonebraker
+An Augmented Transition Network Interpreter  (M511) Rowland R. Johnson
+Efficient Evaluation of Expressions in a Relational Algebra  (M510) Robert M. Pecherer
+A Qualitative Analysis of the Behavior of Dynamic Nonlinear Networks: Steady-State Solutions of Nonautonomous Networks  (M509) L.O. Chua and D.N. Green
+A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks  (M508) L.O. Chua and D.N. Green
+Graph-Theoretic Properties of Dynamic Nonlinear Networks  (M507) Leon O. Chua and Douglas N. Green
+Finding Optimum Branchings  (M506) R. Endre Tarjan
+Storage Structures and Access Methods in the Relational Data Base Management System Ingres  (M505) Gerald Held and Michael Stonebraker
+Networks, Hierarchies, and Relations in Data Base Management Systems  (M504) Michael Stonebraker and Gerald Held
+Multi-Dimensional Directory for Retrielval on Secondary Keys  (M503) Jenn-Hann Liou
+Calculus of Fuzzy Restrictions  (M502) L.A. Zadeh
+Finding Minimum Spanning Trees  (M501) R. Endre Tarjan
+Adaptive Recognizers  (M500) William Sakoda
+An Interpreter for Declarative Query Languages  (M498) Wanyen Chang
+A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits  (M497) L.O. Chua and A. Ushida
+Weak Martingales and Stochastic Integrals in the Plane  (M496) Eugene Wong and Moshe Zakai
+Nonlinear Diakoptics  (M495) L.O. Chua and L.K. Chen
+Analog-to-Digital Conversion in MOS Integrated Circuits  (M494) Ricardo E. Suárez-Gärtner
+Costs of Data Encipherment on Computers of Varying Power  (M493) James Jatczynski

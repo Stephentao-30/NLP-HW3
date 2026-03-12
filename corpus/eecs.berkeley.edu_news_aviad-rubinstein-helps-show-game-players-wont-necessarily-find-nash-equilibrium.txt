@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/aviad-rubinstein-helps-show-game-players-wont-necessarily-find-nash-equilibrium
+Aviad Rubinstein helps show that game players won’t necessarily find a Nash equilibrium - EECS at Berkeley
+CS graduate student Aviad Rubinstein (advisor: Christos Papadimitriou)  is featured in a Quanta Magazine article titled “ In Game Theory, No Clear Path to Equilibrium ,” which describes the results of his paper on game theory proving that no method of adapting strategies in response to previous games will converge efficiently to even an approximate Nash equilibrium for every possible game. The paper, titled  Communication complexity of approximate Nash equilibria , was co-authored by Yakov Babichenko and published last September.  Economists often use Nash equilibrium analyses to justify proposed economic reforms, but the new results suggest that economists can’t assume that game players will get to a Nash equilibrium, unless they can justify what is special about the particular game in question.
+Categories
+publications
+Research
+Students
+View
+Open Faculty Positions

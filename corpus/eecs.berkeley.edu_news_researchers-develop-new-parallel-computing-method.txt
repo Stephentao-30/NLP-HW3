@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/researchers-develop-new-parallel-computing-method
+Researchers Develop New Parallel Computing Method - EECS at Berkeley
+CS postdoctoral fellow  Jeff Regier  (adviser: Michael Jordan) along with researchers from Julia Computing, Intel,  NERSC, LBNL, and JuliaLabs@MIT have developed a new parallel computing method to dramatically scale up the process of cataloging astronomical objects. This major improvement leverages 8,192 Intel Xeon processors in Berkeley Lab’s Cori supercomputer and Julia, the high-performance, open-source scientific computing language to deliver a 225x increase in the speed of astronomical image analysis.
+The code used for this analysis is called Celeste.  “Astronomical surveys are the primary source of data about the Universe beyond our solar system,” said Jeff. “Through Bayesian statistics, Celeste combines what we already know about stars and galaxies from previous surveys and from physics theories, with what can be learned from new data. Its output is a highly accurate catalog of galaxies’ locations, shapes and colors. Such catalogs let astronomers test hypotheses about the origin of the Universe, as well as about the nature of dark matter and dark energy.”
+More detail can be found in an article on HPC Wire “ Researchers Develop New Parallel Computing Method .”
+Categories
+Research
+View
+Open Faculty Positions

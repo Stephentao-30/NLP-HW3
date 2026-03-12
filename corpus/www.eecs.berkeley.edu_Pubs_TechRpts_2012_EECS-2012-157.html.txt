@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-157.html
+Ballbot: A Low-Cost Robot for Tennis Ball Retrieval
+John Wang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-157
+June 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-157.pdf
+This paper presents a robotic platform which is targeted to perform the task of a tennis ball boy. This platform is self-contained with on-board sensing and computation, uses only cost-effective off-the-shelf components, and was designed to perform robustly and repeatably in semistructured real-world environments. In particular, this paper presents a particle-filter implementation that allows the robot to localize itself and navigate on a tennis court. Along with navigation and tennis ball detection, this will enable it to pick up tennis balls on a real tennis court. This paper describes our system, presents our initial experimental results, and discusses some of the challenges faced.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Wang:EECS-2012-157,
+Author= {Wang, John},
+Title= {Ballbot: A Low-Cost Robot for Tennis Ball Retrieval},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-157.html},
+Number= {UCB/EECS-2012-157},
+Abstract= {This paper presents a robotic platform which is targeted to perform the task of a tennis ball boy. This platform is self-contained with on-board sensing and computation, uses only cost-effective off-the-shelf components, and was designed to perform robustly and repeatably in semistructured real-world environments. In particular, this paper presents a particle-filter implementation that allows the robot to localize itself and navigate on a tennis court. Along with navigation and tennis ball detection, this will enable it to pick up tennis balls on a real tennis court. This paper describes our system, presents our initial experimental results, and discusses some of the challenges faced.},
+}
+EndNote citation:
+%0 Thesis
+%A Wang, John
+%T Ballbot: A Low-Cost Robot for Tennis Ball Retrieval
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 2
+%@ UCB/EECS-2012-157
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-157.html
+%F Wang:EECS-2012-157

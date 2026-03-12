@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-103.html
+Tuning Hardware and Software for Multiprocessors
+Marghoob Mohiyuddin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-103
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-103.pdf
+Technology scaling trends have enabled the exponential growth of computing power. However, the performance of communication subsystems scales less aggressively. This means that an application constrained by memory/interconnect performance will not be able to use the available computing power efficiently---in fact, technology scaling will make this efficiency even worse. This problem can be alleviated if algorithms minimize communication. To this end, we describe communication-avoiding algorithms and highly optimized implementations of a sparse linear algebra kernel called ``matrix powers''. Results show up to 2.3x improvement in performance over the naive algorithms on modern architectures. Our multi-core implementation of matrix powers enables us to develop a communication-avoiding iterative solver for sparse linear systems which is up to 2.1x faster than a conventional Generalized Minimal Residual method (GMRES) implementation.
+Another problem plaguing the supercomputer industry is the power bottleneck---power has, in fact, become the pre-eminent design constraint for future high-performance computing systems which is why computational efficiency is being emphasized over simply peak performance. Static benchmark codes have traditionally been used to find architectures optimal with respect to specific metrics. Unfortunately, because compilers generate sub-optimal code, benchmark performance can be a poor indicator of the performance potential of architecture design points. Therefore, we present hardware/software co-tuning as a novel approach for system design. In co-tuning, traditional architecture space exploration is tightly coupled with software auto-tuning for delivering substantial improvements in area and power efficiency. We demonstrate co-tuning by exploring the parameter space of a Tensilica's Xtensa-based multiprocessor running three of the most heavily used kernels in scientific computing, each with widely varying micro-architectural requirements: sparse matrix vector multiplication, stencil-based computations, and general matrix-matrix multiplication. Results
+demonstrate that co-tuning improves hardware area and power efficiency by up to 3x and 2.4x respectively.
+Advisors:  John Wawrzynek
+BibTeX citation:
+@phdthesis{Mohiyuddin:EECS-2012-103,
+Author= {Mohiyuddin, Marghoob},
+Title= {Tuning Hardware and Software for Multiprocessors},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-103.html},
+Number= {UCB/EECS-2012-103},
+Abstract= {Technology scaling trends have enabled the exponential growth of computing power. However, the performance of communication subsystems scales less aggressively. This means that an application constrained by memory/interconnect performance will not be able to use the available computing power efficiently---in fact, technology scaling will make this efficiency even worse. This problem can be alleviated if algorithms minimize communication. To this end, we describe communication-avoiding algorithms and highly optimized implementations of a sparse linear algebra kernel called ``matrix powers''. Results show up to 2.3x improvement in performance over the naive algorithms on modern architectures. Our multi-core implementation of matrix powers enables us to develop a communication-avoiding iterative solver for sparse linear systems which is up to 2.1x faster than a conventional Generalized Minimal Residual method (GMRES) implementation.
+Another problem plaguing the supercomputer industry is the power bottleneck---power has, in fact, become the pre-eminent design constraint for future high-performance computing systems which is why computational efficiency is being emphasized over simply peak performance. Static benchmark codes have traditionally been used to find architectures optimal with respect to specific metrics. Unfortunately, because compilers generate sub-optimal code, benchmark performance can be a poor indicator of the performance potential of architecture design points. Therefore, we present hardware/software co-tuning as a novel approach for system design. In co-tuning, traditional architecture space exploration is tightly coupled with software auto-tuning for delivering substantial improvements in area and power efficiency. We demonstrate co-tuning by exploring the parameter space of a Tensilica's Xtensa-based multiprocessor running three of the most heavily used kernels in scientific computing, each with widely varying micro-architectural requirements: sparse matrix vector multiplication, stencil-based computations, and general matrix-matrix multiplication. Results
+demonstrate that co-tuning improves hardware area and power efficiency by up to 3x and 2.4x respectively.},
+}
+EndNote citation:
+%0 Thesis
+%A Mohiyuddin, Marghoob
+%T Tuning Hardware and Software for Multiprocessors
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-103
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-103.html
+%F Mohiyuddin:EECS-2012-103

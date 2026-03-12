@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-16.html
+Visual Grasp Affordances From Appearance-Based Cues
+Hyun Oh Song and Mario Fritz and Chunhui Gu and Trevor Darrell
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-16
+March 4,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-16.pdf
+In this paper, we investigate the prediction of visual grasp affordances from 2D measurements. Appearance- based estimation of grasp affordances is desirable when 3- D scans are unreliable due to clutter or material proper- ties. We develop a general framework for estimating grasp affordances from 2-D sources, including local texture-like measures as well as object-category measures that capture previously learned grasp strategies. Local approaches to estimating grasp positions have been shown to be effective in real-world scenarios, but are unable to impart object- level biases and can be prone to false positives. We de- scribe how global cues can be used to compute continu- ous pose estimates and corresponding grasp point loca- tions, using a max-margin optimization for category-level continuous pose regression. We provide a novel dataset to evaluate visual grasp affordance estimation; on this dataset we show that a fused method outperforms either local or global methods alone, and that continuous pose estimation improves over discrete output models.
+Advisors:  Trevor Darrell
+BibTeX citation:
+@mastersthesis{Song:EECS-2013-16,
+Author= {Song, Hyun Oh and Fritz, Mario and Gu, Chunhui and Darrell, Trevor},
+Title= {Visual Grasp Affordances From Appearance-Based Cues},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-16.html},
+Number= {UCB/EECS-2013-16},
+Abstract= {In this paper, we investigate the prediction of visual grasp affordances from 2D measurements. Appearance- based estimation of grasp affordances is desirable when 3- D scans are unreliable due to clutter or material proper- ties. We develop a general framework for estimating grasp affordances from 2-D sources, including local texture-like measures as well as object-category measures that capture previously learned grasp strategies. Local approaches to estimating grasp positions have been shown to be effective in real-world scenarios, but are unable to impart object- level biases and can be prone to false positives. We de- scribe how global cues can be used to compute continu- ous pose estimates and corresponding grasp point loca- tions, using a max-margin optimization for category-level continuous pose regression. We provide a novel dataset to evaluate visual grasp affordance estimation; on this dataset we show that a fused method outperforms either local or global methods alone, and that continuous pose estimation improves over discrete output models.},
+}
+EndNote citation:
+%0 Thesis
+%A Song, Hyun Oh
+%A Fritz, Mario
+%A Gu, Chunhui
+%A Darrell, Trevor
+%T Visual Grasp Affordances From Appearance-Based Cues
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 4
+%@ UCB/EECS-2013-16
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-16.html
+%F Song:EECS-2013-16

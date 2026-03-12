@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28726.html
+Introduction to Programming Science-Part I: Syntax and Semantics of Programming Languages
+W.D. Maurer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M368
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-368.pdf
+BibTeX citation:
+@techreport{Maurer:M368,
+Author= {Maurer, W.D.},
+Title= {Introduction to Programming Science-Part I: Syntax and Semantics of Programming Languages},
+Year= {1972},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28726.html},
+Number= {UCB/ERL M368},
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T Introduction to Programming Science-Part I: Syntax and Semantics of Programming Languages
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M368
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28726.html
+%F Maurer:M368

@@ -1,0 +1,186 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987
+Technical Reports - 1987
+A Case for Redundant Arrays of Inexpensive Disks (RAID)  (CSD-87-391) David A. Patterson, Garth A. Gibson and Randy H. Katz
+Fast Parallel Algorithms for Graphs and Networks  (CSD-87-390) Danny Soroker
+Subtree Isomorphism is in Random NC  (CSD-87-389) Phillip B. Gibbons, Richard M. Karp, Gary L. Miller and Danny Soroker
+EPOXY: An Electrical and Physical Layout Optimizer that Considers Circuit Changes  (CSD-87-388) Fred W. Obermeier and Randy H. Katz
+A Characterization of Sharing In Parallel Programs And Its Applicability to Coherency Protocol Evaluation  (CSD-87-387) Susan J. Eggers and Randy H. Katz
+A Software Architecture for Network Communication  (CSD-87-386) David P. Anderson
+Efficient Local Data Movement in Shared-Memory Multiprocessor Systems  (CSD-87-385) Shin-Yuan Tzou, David P. Anderson and G. Scott Graham
+Covering Orthogonal Polygons with Star Polygons: The Perfect Graph Approach  (CSD-87-384) Rajeev Motwani, Arvind Raghunathan and Huzur Saran
+High-Bandwidth/Low-Latency Temporary Storage for Supercomputers  (CSD-87-383) John Alan Swensen
+A Hierarchical Approximation Algorithm for Large Multichain Product Form Queueing Networks  (CSD-87-382) Hamid Reza Bahadori
+Aspects of Cache Memory and Instruction Buffer Performance  (CSD-87-381) Mark Donald Hill
+A Parallel Execution Model for Prolog  (CSD-87-380) Barry Steven Fagin
+The Analysis of Diskless Workstation Traffic on an Ethernet  (CSD-87-379) Riccardo Gusella
+Browsing the Chip Design Database  (CSD-87-378) David Gedye and Randy Katz
+Inheritance in Computer-Aided Design Databases: Semantics and Implementation Issues  (CSD-87-377) Ellis E. Chang and Randy H. Katz
+Performance Studies of Dynamic Load Balancing in Distributed Systems  (CSD-87-376) Songnian Zhou
+An Authentication Scheme for Use in Dynamic Load Balancing  (CSD-87-375) Colin Parris
+Efficient Analysis of Caching Systems  (CSD-87-374) James Gordon Thompson
+SPUR Lisp: Design and Implementation  (CSD-87-373) Benjamin Zorn, Paul N. Hilfinger, Kinson Ho and James Larus
+Circuit Design Techniques for a Floating-Point Processor  (CSD-87-372) Timothy Hu
+Optimal Parallel Construction of Prescribed Tournaments  (CSD-87-371) Danny Soroker
+BUMP, a Motion Description and Animation Package  (CSD-87-370) Steven Anders Oakland
+Control Implementation for the SPUR Floating Point Coprocessor  (CSD-87-369) Debby Jensen
+Parallel Algorithms for Zero-One Supply-Demand Problems  (CSD-87-368) Noam Nisan and Danny Soroker
+Multiple Representation Document Development  (CSD-87-367) Pehong Chen and Michael A. Harrison
+Run-Time Partitioning of Scientific Continuum Calculations Running on Multiprocessors  (CSD-87-366) Scott B. Baden
+Primal Content and Actual Content: An Antidote to Literal Meaning  (CSD-87-365) Robert Wilensky
+An Omega(n^8/7) Lower Bound on the Randomized Complexity of Graph Properties  (CSD-87-364) Valerie King
+Prolog for VLSI Layout: Experience in the Design and Implementation of Topolog, A Prolog-Based Module Generation and Layout System  (CSD-87-363) Patrick C. McGeer, William R. Bush, Gino Cheng and Alvin M. Despain
+The Design of a Load Balancing Mechanism for Distributed Computer Systems  (CSD-87-362) Harry I. Rubin
+GAFFES: The Design of a Globally Distributed File System  (CSD-87-361) Gozani Shai, Mary Gray, Srinivasan Keshav, Vijay Madisetti, Ethan V. Munson, Mendel Rosenblum, Steve Schoettler, Mark Paul Sullivan and Douglas Terry
+UgRay: An Efficient Ray-Tracing Renderer for UniGrafix  (CSD-87-360) Donald M. Marsh
+The Sprite Network Operating System  (CSD-87-359) John K. Ousterhout, Andrew Cherenson, Frederick Douglis, Michael Nelson and Brent Ballinger Welch
+Efficient (Stack) Algorithms for Analysis of Write-Back and Sector Memories  (CSD-87-358) James G. Thompson and Alan Jay Smith
+Design of CPU Cache Memories  (CSD-87-357) Alan Jay Smith
+Data Structures and Destructive Assignment in Prolog  (CSD-87-356) Patrick C. McGeer and Alvin M. Despain
+Estimating Performance of Single Bus, Shared Memory Multiprocessors  (CSD-87-355) Garth A. Gibson
+Nonlinear Parameter Estimation of Acoustic Models  (CSD-87-354) Erling Henry Wold
+An Empirical Investigation of Load Indices for Load Balancing Applications  (CSD-87-353) Domenico Ferrari and Songnian Zhou
+A High Performance Architecture for Prolog  (CSD-87-352) Thaddeus P. Dobry
+Some Problems and Proposals for Knowledge Representation  (CSD-87-351) Robert Wilensky
+The Empirical Evaluation of a Security-Oriented Datagram Protocol  (CSD-87-350) David P. Anderson, Domenico Ferrari, P. Venkat Rangan and B. Sartirana
+Integrating Noninteractive Document Processors into an Interactive Environment  (CSD-87-349) Pehong Chen and Michael A. Harrison
+An Adaptive Subdivision Method With Crack Prevention for Rendering Beta-spline Objects  (CSD-87-348) Brian A. Barsky, Anthony D. DeRose and Mark D. Dippe
+Automating Index Preparation  (CSD-87-347) Pehong Chen and Michael A. Harrison
+Subtransport Level: The Right Place for End-to-End Security Mechanisms  (CSD-87-346) David P. Anderson, Domenico Ferrari and P. Venkat Rangan
+Caching in the Sprite Network File System  (CSD-87-345) Michael Nelson, Brent Ballinger Welch and John K. Ousterhout
+Curare: Restructuring Lisp Programs For Concurrent Execution  (CSD-87-344) James R Larus
+Process Migration in the Sprite Operating System  (CSD-87-343) Frederick Douglis
+A Protocol for Secure Communication in Large Distributed Systems  (CSD-87-342) David P. Anderson, Domenico Ferrari, P. Venkat Rangan and B. Sartirana
+Managing Change in a Computer-Aided Design Database  (CSD-87-341) Randy H. Katz and Ellis E. Chang
+Recovering Three Dimensional Shape From a Single Image of Curved Objects  (CSD-87-340) Jitendra Malik
+A Unified Theory of Inference for Text Understanding  (CSD-87-339) Peter Norvig
+The DASH Project: Issues in the Design of Very Large Distributed Systems  (CSD-87-338) David P. Anderson, Domenico Ferrari, P. Venkat Rangan and Shin-Yuan Tzou
+The Accuracy of the Clock Synchronization Achieved by TEMPO in Berkeley UNIX 4.3BSD  (CSD-87-337) Riccardo Gusella and Stefano Zatti
+An Experimental Study of Load Balancing Performance  (CSD-87-336) Songnian Zhou and Domenico Ferrari
+Decaying Confidence Functions for Aging Knowledge in Expert Systems  (CSD-87-335) Joseph Pasquale
+Using Expert Systems to Manage Distributed Computer Systems  (CSD-87-334) Joseph Pasquale
+Fuzzy Queries with Linguistic Quantifiers for Information Retrieval from Data Bases  (CSD-87-333) Marc Uszynski
+Representation Theorems for Symmetric and Intuitionistic Algebras by Classical Sets  (CSD-87-332) Franceso Esteva
+Representation of Fuzzy Symmetric Relations  (CSD-87-331) L. Valverde and S.V. Ovchinnikov
+On Negations and Algebras in Fuzzy Set Theory  (CSD-87-330) Franceso Esteva
+The Fairchild CLIPPER: Instruction Set Architecture and Processor Implementation  (CSD-87-329) Walter Hollingsworth, Howard Sachs and Alan Jay Smith
+A Basis for Secure Communication in Large Distributed Systems  (CSD-87-328) David P. Anderson and P. Venkat Rangan
+Tutorial on the C Information Abstraction System  (CSD-87-327) Michael Nishimoto and Yih-Farn Chen
+Collaborative Systems and Multi-user Interfaces: Computer-based Tools for Cooperative Problem Solving  (CSD-87-326) Gregg S. Foster
+Fault Tolerant VLSI Multicomputers  (CSD-87-325) Carlo H. Séquin and Yuval Tamir
+Design and Layout Generation at the Symbolic Level  (CSD-87-324) Carlo H. Séquin
+VLSI Design Strategies  (CSD-87-323) Carlo H. Séquin
+A GREMLIN Tutorial for the SUN Workstation  (CSD-87-322) Mark Opperman, Jim Thompson and Yih-Farn Chen
+Procedural Spline Interpolation in UNICUBIX  (CSD-87-321) Carlo H. Séquin
+Deferred Data Structuring  (CSD-87-320) Richard M. Karp, Rajeev Motwani and Prabhakar Raghavan
+Symmetric Interpolation of Triangular and Quadrilateral Patches Between Cubic Boundaries  (CSD-87-319) Leon A. Shirman
+Data Path Design Considerations for a High Performance VLSI Multiprocessor  (CSD-87-318) Daebum Lee
+GNU Emacs BIBTEX Mode  (CSD-87-317) Pehong Chen
+GNU Emacs TEX Mode  (CSD-87-316) Pehong Chen
+A Validation Subsystem of a Version Server for Computer-Aided Design Data  (CSD-87-315) Rajiv Bhateja and Randy H. Katz
+Special- or General-Purpose Hardware for Prolog: A Comparison  (CSD-87-314) Gaetano Borriello, Andrew Cherenson, Peter B. Danzig and Michael Nelson
+Interpolating Patches Between Cubic Boundaries  (CSD-87-313) Lucia L. Longhi
+Randomized Rounding And Discrete Ham-Sandwich Theorems: Provably Good Algorithms for Routing and Packing Problems  (CSD-87-312) Prabhakar Raghavan
+Functional Specification and Simulation of a Floating Point Co-Processor for SPUR  (CSD-87-311) Glenn D. Adams
+The Complexity of Parallel Search  (CSD-87-310) Richard M. Karp, Eli Upfat and Avi Wigderson
+Fast Parallel Algorithms for Finding Hamiltonian Paths and Cycles in a Tournament  (CSD-87-309) Danny Soroker
+SPUR Coprocessor Interface Description  (CSD-87-308) Paul M. Hansen and Shing I. Kong
+The SPUR Instruction Unit: An On-Chip Instruction Cache Memory for a High Performance VLSI Multiprocessor  (CSD-87-307) Richard R. Duncombe
+A Greedy Heuristic for the Rectilinear Steiner Tree Problem  (CSD-87-306) Marshall W. Bern and Marcio de Carvalho
+A Trace-Driven Simulation Study of Dynamic Load Balancing  (CSD-87-305) Songnian Zhou
+Issues in Adaptive Planning  (CSD-87-304) Richard Alterman
+UC -- A Progress Report  (CSD-87-303) Robert Wilensky, James Mayfield, Anthony Albert, Robert Chin, Charles Cox, Marc Luria, James H. Martin and Dekai Wu
+The Sprite Remote Procedure Call System  (CSD-87-302) Brent B. Welch
+Virtual Memory for the Sprite Operating System  (CSD-87-301) Michael N. Nelson
+The C Information Abstractor  (CSD-87-300) Yih-Farn Chen and C. V. Ramamoorthy
+Normal Forms for Constrained Nonlinear Differential Equations - Part II: Bifurcation  (M87/93) Leon O. Chua and H. Oka
+Two Dimensional Routing and Compaction in Computer-Aided Design of Integrated Circuits  (M87/92) Hyungchul Shin
+Nonlinear Stable Unity-Feedback Systems With One Linear Subsystem  (M87/91) Charles A. Desoer and M.G. Kabuli
+Video-Rate Analog-to-Digital Conversion Using Pipelined Architectures  (M87/90) Stephen H. Lewis
+Graphical U-Hurwitz Tests for a Class of Polynomials: A Generalization of Kharitonov's Stability Theorem  (M87/89) J.J. Anagnost, Charles A. Desoer and R.J. Minnichelli
+Multichannel PCM A/D Interfaces Using Oversampling Techniques  (M87/88) Bosco H.-C. Leung
+The Effect of Discretized Feedback in a Closed Loop System  (M87/87) Ping Hsu and S. Shankar Sastry
+A Combined Deterministic and Random Optimization Algorithm for the Placement of Macro-Cells  (M87/86) S. Daijavad, Elijah Polak and R-S. Tsay
+Kinematics and Control of Multifingered Hands With Rolling Contact  (M87/85) A. Cole, J. Hauser and S. Shankar Sastry
+A 9 Bit 10 MHz A/D Macrocell  (M87/84) A.J. Burstein
+Normal Forms for Constrained Nonlinear Differential Equations - Part I: Theory and Examples  (M87/83) Leon O. Chua and H. Oka
+Normal Forms for Nonlinear Vector Fields - Part II: Applications  (M87/82) Leon O. Chua and H. Kokubu
+Normal Forms for Nonlinear Vector Fields - Part I: Theory and Algorithm  (M87/81) Leon O. Chua and H. Kokubu
+A Unified Approach to the Via Minimization Problem  (M87/80) X-M. Xiong and Ernest S. Kuh
+PROUD: A Fast Sea-of-Gates Placement Algorithm  (M87/79) R-S. Tsay, Ernest S. Kuh and C-P. Hsu
+An Elementary Proof of Kharitonov's Stability Theorem With Extensions  (M87/78) R.J. Minnichelli, J.J. Anagnost and Charles A. Desoer
+Efficient Structures for Geometric Data Management  (M87/77) Oliver Gunther
+The Arc Tree: An Approximation Scheme to Represent Arbitrary Curved Shapes  (M87/76) O. Gunther and Eugene Wong
+An Object-Oriented Data Representation and Task Based Reasoning System for Energy Management Systems: A Proposal  (M87/75) A.F. Neyer, K. Imhof and Felix F. Wu
+Pierce Diode with External Circuit III. Chaotic Behavior  (M87/74) W.S. Lawson
+The Berkeley Process-Flow Language: Reference Document  (M87/73) C.B. Williams and Lawrence A. Rowe
+Computational Experiments in the Optimal Slewing of Flexible Structures  (M87/72) T.E. Baker and Elijah Polak
+Analytical Solution for Capacitive R.F. Sheath  (M87/71) Michael A. Lieberman
+Efficient Support for Rules and Derived Objects in Relational Database Systems  (M87/70) Eric N. Hanson
+Data Management of Musical Information  (M87/69) William B. Rubenstein
+Processing Queries Against Database Procedures: A Performance Analysis  (M87/68) E.N. Hanson
+Direct Methods in Circuit Simulation Using Multiprocessors  (M87/67) George K. Jacob
+Radial Current Distribution at a Planar Magnetron Cathode  (M87/66) A.E. Wendt, Michael A. Lieberman and H. Meuth
+Linear Stable Unity-Feedback System: Necessary and Sufficient Conditions for Stability Under Nonlinear Plant Perturbations  (M87/64) Charles A. Desoer and M.G. Kabuli
+On Grasping and Dynamic Coordination of Multifingered Robot Hands  (M87/63) Z. Li, Ping Hsu and S. Shankar Sastry
+Electrostatic Potential Formation Due to a Large Dip in the Magnetic Field with Application to FRC Confinement  (M87/62) S.E. Parker
+Evaluation of Array Type Layouts for Cell Library Generation  (M87/61) C-M. Chu
+Algorithms for Optimal Design of Feedback Compensators  (M87/60) Elijah Polak and S.E. Salcudean
+Nonlinear Dynamics of a Digital Phase Locked Loop  (M87/59) G.M. Bernstein, Michael A. Lieberman and Allan J. Lichtenberg
+Frequency Domain Analysis and Synthesis Techniques for Adaptive Systems  (M87/58) Li-Chen Fu
+Bicoprime Factorizations of the Plant and Their Relation to Right- and Left-Coprime Factorizations  (M87/57) Charles A. Desoer and A.N. Gündeş
+Perspectives in Adaptive Systems: Frequency Domain Analysis and Use of Prior Information  (M87/56) Er-Wei Bai
+Right Factorization of a Class of Time-Varying Nonlinear Systems  (M87/55) Charles A. Desoer and M.G. Kabuli
+NOnlinear ELectronics (NOEL) Package 10 SUBST: A Package for the Steady-State Analysis of Nonlinear Circuits Driven by Multi-Frequency  (M87/54) A. Sakamoto and Leon O. Chua
+Adaptive Control of Linearizable Systems  (M87/53) S. Shankar Sastry and Alberto Isidori
+The Pierce Diode with an External Circuit II. Non-Uniform Equilibria  (M87/52) W.S. Lawson
+The Pierce Diode with an External Circuit I. Simulations in the Linear Regime  (M87/51) W.S. Lawson
+An Expert System for Polysilicon Recipe Generation  (M87/50) K-K. Lin
+Cellular Neural Networks  (M87/49) Leon O. Chua and L. Yang
+Algorithms for Optimal Design of Feedback Compensators  (M87/48) Elijah Polak and S.E. Salcudean
+Determination of Process Simulation Parameters From Experiment: Plasma Etching and Photoresist Dissolution  (M87/47) W.R. Bell II
+A Pipelined 5 Ms/S 9-Bit Analog to Digital Converter  (M87/46) S.H. Lewis and Paul R. Gray
+Optimized One-Dimensional Compaction of Building-Block Layout  (M87/45) X-M. Xiong
+Search Directions for Interior Linear Programming Methods  (M87/44) C.C. Gonzaga
+An Object-Oriented Database Design for Integrated Circuit Fabrication  (M87/43) Lawrence A. Rowe and C.B. Williams
+Simulation of Contrast Enhanced Lithography  (M87/42) R.A. Ferguson
+Etching Simulation of Nonplanar Layers in the Sample Program  (M87/41) S.F. Meier
+Printability of Defects in Optical Lithography: Polarity and Critical Location Effects  (M87/40) V. Mastromarco
+Implementation of the BSIM Substrate Current and Degradation Models in SCALP  (M87/39) M.M. Kuo, K. Seki, P.M. Lee, P.K. Ko and Chenming Hu
+A Rule Manager for Relational Database Systems  (M87/38) Michael Stonebraker, E. Hanson and S. Potamianos
+Constrained Encoding in Hypercubes: Algorithms and Applications to Logical Synthesis  (M87/37) T. Villa
+Test Generation for Sequential Finite State Machines  (M87/36) H-K. T. Ma, S. Devadas, A. Richard Newton and Alberto L. Sangiovanni-Vincentelli
+Theory, Algorithms, and User's Guide for BSIM and SCALP  (M87/35) M-C. Jeng, P.M. Lee, M.M. Kuo, P.K. Ko and Chenming Hu
+Artificial Cooling Due to Quiet Injection in Bounded Plasma Particle Simulations  (M87/34) W. Lawson
+BDSYN: Logic Description Translator BDSIM: Switch-Level Simulator  (M87/33) R.B. Segal
+Circuit Placement Methods Using Multiple Eigenvectors and Linear Probe Techniques  (M87/32) Jonathan A. Frankle
+Reduced Order Identification: Parameter Error, Convergence and Robustness for Least Squares Algorithms  (M87/31) R.J. Minnichelli
+Modelling and Analysis of Systematic Errors and Their Effects on Positioning Accuracy of Manipulators  (M87/30) T.J. Hahn
+Ballooning Modes in an Axisymmetric Mirror Machine  (M87/29) R.A. Close and Allan J. Lichtenberg
+Stabilization and Robustness of the Nonlinear Unity-Feedback System: Factorization Approach  (M87/28) Charles A. Desoer and M.G. Kabuli
+Linear Time-Invariant Controller Design for Two-Channel Decentralized Control Systems  (M87/27) Charles A. Desoer and A.N. Gündeş
+Low-Cost High-Speed General Service Fiber Optic Networks  (M87/26) Ming-Kang Liu
+Analysis of Adaptive Identifiers in the Presence of Unmodelled Dynamics: Averaging and Tuned Parameters  (M87/25) J.E. Mason, E.W. Bai, L-C. Fu, M. Bodson and S. Shankar Sastry
+A Relativistic Monte Carlo Binary Collision Model for Use in Plasma Particle Simulation Codes  (M87/24) R.J. Procassini, Charles K. (Ned) Birdsall, Edward Morse and B.I. Cohen
+ES2 User's Manual - Version 1  (M87/23) K. Theilhaber
+Design of an On-Line Handwriting Recognition System  (M87/22) Po-Yang Lu
+Nonlinear Relaxation Algorithms for Circuit Simulation  (M87/21) Resve A. Saleh
+Object FADS Project Status Report  (M87/20) Lawrence A. Rowe
+Alternative Strategies for a Semantics- Based Operating System Transaction Manager  (M87/19) A. Kumar and Michael Stonebraker
+Vortex Dynamics and Transport to the Wall in a Crossed-Field Plasma Sheath  (M87/18) K. Theilhaber and Charles K. (Ned) Birdsall
+Transient Electrostatic Potentials Driven by Short-Pulse Electron Cyclotron Heating  (M87/17) Allan J. Lichtenberg, Michael A. Lieberman and R.H. Cohen
+Collisional Treatment of the Trapped Particle Mode in Multi-Region Mirror Systems  (M87/16) H. Ramachandran, Allan J. Lichtenberg, Michael A. Lieberman and A.K. Sen
+Performance Evaluation of a Operating System Transaction Manager  (M87/15) A. Kumar and Michael Stonebraker
+Computer Simulation of Bounded Plasma Systems  (M87/14) W.S. Lawson
+The POSTGRES Data Model  (M87/13) Lawrence A. Rowe and Michael Stonebraker
+MOS Processes in the Microfabrication Laboratory  (M87/12) K. Voros and P.K. Ko
+Conical Projection Algorithms for Linear Programming  (M87/11) C. Gonzaga
+An Algorithm for Solving Linear Programming Problems in O(n^3 L) Operations  (M87/10) C.C. Gonzaga
+Hybrid Velocity/Force Control of a Robot Manipulator  (M87/9) Z. Li and S. Shankar Sastry
+BSIM - Substrate Current Modeling Appendix C: Implementation of the BSIM Substrate Current and Degradation Models in SCALP  (M87/8) P.M. Lee, M.M. Kuo, M. Maghsoodnia, P.K. Ko and Chenming Hu
+MOSAICO: An Integrated Macro-Cell Layout System  (M87/7) J. Burns, A. Casotto, M. Igusa, F. Marron, F. Romeo, Alberto L. Sangiovanni-Vincentelli, C. Sechen, H. Shin, G. Srinath and H. Yaghutiel
+The Design of the POSTGRES Storage System  (M87/6) Michael Stonebraker
+A Browser for Directed Graphs  (M87/5) Lawrence A. Rowe, M. Davis, E. Messinger, C. Meyer, C. Spirakis and A. Tuan
+Electron Beam Time-of-Flight Potential Diagnostic  (M87/4) B.T. Archer, H. Meuth and Michael A. Lieberman
+Frequency Domain Synthesis of Optimal Inputs for Adaptive Identification and Control  (M87/3) L-C. Fu and S. Shankar Sastry
+A Visual Shell Interface to a Database  (M87/2) Lawrence A. Rowe, P. Danzig and W. Choi
+Algebraic Theory of Linear Time-Invariant Feedback Systems With Two-Input Two-Output Plant and Compensator  (M87/1) Charles A. Desoer and A.N. Gündeş

@@ -1,0 +1,132 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/class_bm_csb.html
+Compressed Sparse Blocks: BmCsb< NT, IT, TTDIM > Class Template Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+Class List
+Class Index
+Class Hierarchy
+Class Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Public Member Functions  |
+Friends  |
+List of all members
+BmCsb< NT, IT, TTDIM > Class Template Reference
+#include < bmcsb.h >
+Public Member Functions
+BmCsb  ()
+BmCsb  (const  BmCsb < NT, IT, TTDIM > &rhs)
+~BmCsb  ()
+BmCsb < NT, IT, TTDIM > &    operator=  (const  BmCsb < NT, IT, TTDIM > &rhs)
+BmCsb  ( Csc < NT, IT > &csc, int workers)
+ofstream &    PrintStats  (ofstream &outfile) const
+IT    colsize  () const
+IT    rowsize  () const
+IT    numregb  () const
+bool    isPar  () const
+Friends
+template<typename NU , typename IU , unsigned UUDIM>
+void    bmcsb_gespmv  (const  BmCsb < NU, IU, UUDIM > &A, const NU *x, NU *y)
+template<class CSB >
+float    RowImbalance  (const CSB &A)
+Detailed Description
+template<class NT, class IT, unsigned TTDIM>
+class BmCsb< NT, IT, TTDIM >
+Definition at line  21  of file  bmcsb.h .
+Constructor & Destructor Documentation
+template<class NT, class IT, unsigned TTDIM>
+BmCsb < NT, IT, TTDIM >:: BmCsb
+(
+)
+inline
+Definition at line  24  of file  bmcsb.h .
+template<class NT , class IT , unsigned TTDIM>
+BmCsb < NT, IT, TTDIM >:: BmCsb
+(
+const  BmCsb < NT, IT, TTDIM > &
+rhs   )
+Definition at line  135  of file  bmcsb.cpp .
+template<class NT , class IT , unsigned TTDIM>
+BmCsb < NT, IT, TTDIM >::~ BmCsb
+(
+)
+Definition at line  225  of file  bmcsb.cpp .
+template<class NT , class IT , unsigned TTDIM>
+BmCsb < NT, IT, TTDIM >:: BmCsb
+(
+Csc < NT, IT > &
+csc ,
+int
+workers
+)
+Definition at line  242  of file  bmcsb.cpp .
+Member Function Documentation
+template<class NT, class IT, unsigned TTDIM>
+IT  BmCsb < NT, IT, TTDIM >::colsize
+(
+)
+const
+inline
+Definition at line  32  of file  bmcsb.h .
+template<class NT, class IT, unsigned TTDIM>
+bool  BmCsb < NT, IT, TTDIM >::isPar
+(
+)
+const
+inline
+Definition at line  35  of file  bmcsb.h .
+template<class NT, class IT, unsigned TTDIM>
+IT  BmCsb < NT, IT, TTDIM >::numregb
+(
+)
+const
+inline
+Definition at line  34  of file  bmcsb.h .
+template<class NT , class IT , unsigned TTDIM>
+BmCsb < NT, IT, TTDIM > &  BmCsb < NT, IT, TTDIM >::operator=
+(
+const  BmCsb < NT, IT, TTDIM > &
+rhs   )
+Definition at line  163  of file  bmcsb.cpp .
+template<class NT , class IT , unsigned TTDIM>
+ofstream &  BmCsb < NT, IT, TTDIM >::PrintStats
+(
+ofstream &
+outfile   )
+const
+Definition at line  488  of file  bmcsb.cpp .
+template<class NT, class IT, unsigned TTDIM>
+IT  BmCsb < NT, IT, TTDIM >::rowsize
+(
+)
+const
+inline
+Definition at line  33  of file  bmcsb.h .
+Friends And Related Function Documentation
+template<class NT, class IT, unsigned TTDIM>
+template<typename NU , typename IU , unsigned UUDIM>
+void bmcsb_gespmv
+(
+const  BmCsb < NU, IU, UUDIM > &
+A ,
+const NU *
+x ,
+NU *
+y
+)
+friend
+template<class NT, class IT, unsigned TTDIM>
+template<class CSB >
+float RowImbalance
+(
+const CSB &
+A   )
+friend
+Definition at line  400  of file  friends.h .
+The documentation for this class was generated from the following files:
+bmcsb.h
+bmcsb.cpp
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

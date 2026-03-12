@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28455.html
+Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior
+Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior
+Ozalp Babaoglu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/75
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-75.pdf
+BibTeX citation:
+@techreport{Babaoglu:M79/75,
+Author = {Babaoglu, Ozalp},
+Title = {Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28455.html},
+Number = {UCB/ERL M79/75}
+}
+EndNote citation:
+%0 Report
+%A Babaoglu, Ozalp
+%T Efficient Generation of Memory Reference Strings Based on the LRU Stack Model of Program Behavior
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28455.html
+%F Babaoglu:M79/75

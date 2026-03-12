@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/191030-2
+Machine Learning for Fluid Mechanics - EECS at Berkeley
+Machine Learning for Fluid Mechanics
+EECS Colloquium
+Wednesday, October 30, 2019
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Petros Koumoutsakos
+Chair for Computational Science
+ETH-Zürich
+Petros Koumoutsakos speaks on "Machine Learning for Fluid Mechanics," 10/30/19
+Abstract:
+The field of fluid mechanics experiences today a shift  from first principles to data driven approaches.  While fluid mechanics has always involved  massive volumes of data from experiments, field measurements, and large-scale simulations and  despite early connections dating back to Kolmogorov,  the link between Fluid Mechanics and Machine Learning (ML) has been weak. The  situation is rapidly changing with ML   algorithms entering in numerous efforts for  modeling, optimizing, and controlling fluid flows. In this talk I will present works from our group on the interface of  Fluid Mechanics and ML ranging from low order models for turbulent flows to deep  reinforcement learning algorithms and bayesian experimental design for collective swimming. I hope to demonstrate that ML has the potential to augment, and possibly even transform, current lines of fluid mechanics research. I will also discuss how fluid mechanics problems and approaches may be of value to the ML community.
+Biography
+Petros Koumoutsakos holds the Chair for Computational Science at ETH Zurich and serves as Fellow of the Collegium Helveticum. He studied Naval Architecture (Diploma-NTU of Athens, M.Eng.-U. of Michigan), Aeronautics and Applied Mathematics (PhD-Caltech). He has conducted post-doctoral studies at the Center for Parallel Computing at Caltech and at the Center for Turbulent Research at Stanford University and NASA Ames. Petros is elected Fellow of the American Society of Mechanical Engineers (ASME), the American Physical Society (APS), the Society of Industrial and Applied Mathematics (SIAM) and the Collegium Helveticum. He has held visiting fellow positions at Caltech, the University of Tokyo, MIT, the Radcliffe Institute of Advanced Study at Harvard University and he is Distinguished Affiliated Professor at TU Munich. He is  recipient of the Advanced Investigator Award by the European Research Council  and  the ACM Gordon Bell prize in Supercomputing. He is elected  Foreign Member to the US National Academy of Engineering (NAE). His research interests  are on the fundamentals and applications of computing and artificial intelligence to understand, predict  and optimize fluid flows in engineering, nanotechnology, and medicine.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

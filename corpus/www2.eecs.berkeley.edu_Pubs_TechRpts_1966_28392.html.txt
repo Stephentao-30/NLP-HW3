@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28392.html
+Skin Necrosis
+John Sills
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M142
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-142.pdf
+BibTeX citation:
+@techreport{Sills:M142,
+Author= {Sills, John},
+Title= {Skin Necrosis},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28392.html},
+Number= {UCB/ERL M142},
+}
+EndNote citation:
+%0 Report
+%A Sills, John
+%T Skin Necrosis
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M142
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28392.html
+%F Sills:M142

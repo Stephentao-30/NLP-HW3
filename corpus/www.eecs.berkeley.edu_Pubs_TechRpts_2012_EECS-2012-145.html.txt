@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-145.html
+Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots
+Mallory Tayson-Frederick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-145
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-145.pdf
+Bio-inspired legged robots have demonstrated the capability to walk and run across a wide variety of terrains, such as those found after a natural disaster.  However, the survival of victims of natural disasters depends on the speed at which these robots can travel.  This paper describes the need for adaptive gait tuning on an eight-legged robot, which will enable it to adjust its gait parameters to increase the speed at which it navigates difficult and varying terrains.  Specifically, we characterize the robot’s performance on varied terrains and use the results to inform the implementation of a finite-difference policy gradient reinforcement learning algorithm.  We compare the robot’s performance under hand-tuned policies with the performance under the reinforcement learning algorithm, and finally, suggest improvements to the presented policy search process.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Tayson-Frederick:EECS-2012-145,
+Author= {Tayson-Frederick, Mallory},
+Editor= {Abbeel, Pieter and Fearing, Ronald S.},
+Title= {Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-145.html},
+Number= {UCB/EECS-2012-145},
+Abstract= {Bio-inspired legged robots have demonstrated the capability to walk and run across a wide variety of terrains, such as those found after a natural disaster.  However, the survival of victims of natural disasters depends on the speed at which these robots can travel.  This paper describes the need for adaptive gait tuning on an eight-legged robot, which will enable it to adjust its gait parameters to increase the speed at which it navigates difficult and varying terrains.  Specifically, we characterize the robot’s performance on varied terrains and use the results to inform the implementation of a finite-difference policy gradient reinforcement learning algorithm.  We compare the robot’s performance under hand-tuned policies with the performance under the reinforcement learning algorithm, and finally, suggest improvements to the presented policy search process.},
+}
+EndNote citation:
+%0 Thesis
+%A Tayson-Frederick, Mallory
+%E Abbeel, Pieter
+%E Fearing, Ronald S.
+%T Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-145
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-145.html
+%F Tayson-Frederick:EECS-2012-145

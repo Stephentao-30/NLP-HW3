@@ -1,0 +1,113 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/docs/CS294-S2017/scribe-template.tex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref, amssymb, amsmath, graphicx, subfigure}
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{8pt}
+\newcommand{\heading}[6]{
+\renewcommand{\thepage}{#1-\arabic{page}}
+\noindent
+\begin{center}
+\framebox{
+\vbox{
+\hbox to 5.78in { \textbf{#2} \hfill #3 }
+\vspace{4mm}
+\hbox to 5.78in { {\Large \hfill #6  \hfill} }
+\vspace{2mm}
+\hbox to 5.78in { \textit{Instructor: #4 \hfill #5} }
+}
+}
+\end{center}
+\vspace*{4mm}
+}
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}[theorem]{Fact}
+\newtheorem{assumption}[theorem]{Assumption}
+\newenvironment{proof}{\noindent{\bf Proof:} \hspace*{1mm}}{
+\hspace*{\fill} $\Box$ }
+\newenvironment{proof_of}[1]{\noindent {\bf Proof of #1:}
+\hspace*{1mm}}{\hspace*{\fill} $\Box$ }
+\newenvironment{proof_claim}{\begin{quotation} \noindent}{
+\hspace*{\fill} $\diamond$ \end{quotation}}
+\newcommand{\lecture}[4]{\heading{#1}{CS294: Probabilistically Checkable and Interactive Proofs}{#2}{Alessandro Chiesa \& Igor Shinkar}{Scribe: #4}{#3}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PLEASE MODIFY THESE FIELDS AS APPROPRIATE:
+\newcommand{\lecturenum}{X} % lecture number
+\newcommand{\lecturedate}{Month Day, 2017} % date of lecture (e.g., 'March 20, 2010')
+\newcommand{\lecturetitle}{Title of Lecture} % lecture title
+\newcommand{\scribename}{Joe Smith} % full name of scribe
+% PUT HERE ANY PACKAGES, MACROS, etc., ADDED BY YOU
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\lecture{\lecturenum}{\lecturedate}{\lecturetitle}{\scribename}
+\section{Introduction}
+Write your scribe notes here. Please make sure that you modify the lecture number, lecture title, lecture date, and scribe name fields in the preamble as appropriate. Also, please write your scribed notes clearly and using good \LaTeX{} style.
+\subsection{Theorem Environments}
+Here is a demonstration of the theorem environments.
+\begin{theorem}
+This is a theorem.
+\end{theorem}
+\begin{definition}
+This is a definition.
+\end{definition}
+\begin{remark}
+This is a remark.
+\end{remark}
+\begin{lemma}
+This is a lemma.
+\end{lemma}
+\begin{corollary}
+This is a corollary.
+\end{corollary}
+\begin{proposition}
+This is a proposition.
+\end{proposition}
+\begin{claim}
+This is a claim.
+\end{claim}
+\begin{observation}
+This is an observation.
+\end{observation}
+\begin{fact}
+This is a fact.
+\end{fact}
+\begin{assumption}
+This is an assumption.
+\end{assumption}
+\subsection{Proof Environments}
+Here is a demonstration of the proof environments.
+\begin{theorem}
+\label{thm:thm-label}
+This is a theorem with a proof.
+\end{theorem}
+\begin{proof}
+This is the theorem's proof.
+\end{proof}
+\begin{theorem}
+This is a theorem with a proof claim.
+\end{theorem}
+\begin{proof_claim}
+This is the theorem's proof claim.
+\end{proof_claim}
+\begin{proof_of}{Theorem \ref{thm:thm-label}}
+This is another proof of Theorem \ref{thm:thm-label}.
+\end{proof_of}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% bibliography goes here
+\bibliographystyle{amsalpha}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

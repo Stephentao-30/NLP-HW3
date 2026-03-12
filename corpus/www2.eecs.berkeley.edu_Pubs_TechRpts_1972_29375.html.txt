@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29375.html
+Examples of Computer Aids to Algorithm Verification
+W.D. Maurer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M319
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-319.pdf
+BibTeX citation:
+@techreport{Maurer:M319,
+Author= {Maurer, W.D.},
+Title= {Examples of Computer Aids to Algorithm Verification},
+Year= {1972},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29375.html},
+Number= {UCB/ERL M319},
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T Examples of Computer Aids to Algorithm Verification
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M319
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29375.html
+%F Maurer:M319

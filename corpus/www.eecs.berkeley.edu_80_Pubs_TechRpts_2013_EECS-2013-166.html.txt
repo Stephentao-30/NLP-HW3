@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-166.html
+From Poisson to Silicon - Advancing Compact SPICE Models for IC Design
+Sriramkumar Venugopalan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-166
+October 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-166.pdf
+Multi-gate MOSFET device architectures like FinFETs are beginning to replace their planar MOSFET counterparts at the 22 nm technology node to enable continued technology scaling. Vertical cylindrical gate (CG) MOSFET are touted to replace planar MOSFETs as the memory device for DRAM and NAND Flash offering increased area density. New device architectures together with relentless scaling of MOSFETs for performance mean increased complexity and new device physics that needs to be translated into device models for technology progress. Newer device models also require newer methodologies for model creation process and usage for circuit design.
+In this thesis we will discuss the development of a comprehensive compact SPICE model for a CG MOSFET. Relying on physics based electrostatics description (Poisson Equation) of the device analytic equations for terminal current and capacitance are derived forming the core model. Real device effects including quantum mechanical confinement effects for channel diameters below 20 nm have been captured in the form of sub-models. We validate this model to both numerical simulations (TCAD) and hardware silicon data showing less than 1 percent RMS error when the model is tuned to the data. The vertical CG MOSFET exhibits asymmetry w.r.t. source and drain. With the aid of TCAD we study the sources of asymmetry and propose a mathematical framework to capture these asymmetries in the compact model developed above. We validate this approach by showing excellent agreement to hardware silicon data from a high voltage vertical CG MOSFET technology. All these models have been incorporated in BSIM-CMG the first industry standard multi-gate MOSFET model. Despite including many complex physical effects the resultant model can be executed in the order of few 10's of micro-seconds (per operating point) enabling rapid very large scale integrated circuit design.
+A compact SPICE model maintains a balance of predictive nature and flexibility with many sub-components describing various physics and tunable parameters in order to capture data from various sources accurately which could quickly become unmanageable. For this we present a RF model extraction procedure that does not require any additional sub-circuit elements and takes advantage of advances in parameter optimization tools available today in an efficient manner. Using BSIM6, a bulk planar MOSFET compact model the resultant procedure was able to capture high frequency hardware data even beyond the cut-off frequency of the MOSFET and predict various RF circuit design figure of merits with great accuracy for multiple planar MOSFET technologies.
+Advisors:  Chenming Hu
+BibTeX citation:
+@phdthesis{Venugopalan:EECS-2013-166,
+Author= {Venugopalan, Sriramkumar},
+Title= {From Poisson to Silicon - Advancing Compact SPICE Models for IC Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-166.html},
+Number= {UCB/EECS-2013-166},
+Abstract= {Multi-gate MOSFET device architectures like FinFETs are beginning to replace their planar MOSFET counterparts at the 22 nm technology node to enable continued technology scaling. Vertical cylindrical gate (CG) MOSFET are touted to replace planar MOSFETs as the memory device for DRAM and NAND Flash offering increased area density. New device architectures together with relentless scaling of MOSFETs for performance mean increased complexity and new device physics that needs to be translated into device models for technology progress. Newer device models also require newer methodologies for model creation process and usage for circuit design.
+In this thesis we will discuss the development of a comprehensive compact SPICE model for a CG MOSFET. Relying on physics based electrostatics description (Poisson Equation) of the device analytic equations for terminal current and capacitance are derived forming the core model. Real device effects including quantum mechanical confinement effects for channel diameters below 20 nm have been captured in the form of sub-models. We validate this model to both numerical simulations (TCAD) and hardware silicon data showing less than 1 percent RMS error when the model is tuned to the data. The vertical CG MOSFET exhibits asymmetry w.r.t. source and drain. With the aid of TCAD we study the sources of asymmetry and propose a mathematical framework to capture these asymmetries in the compact model developed above. We validate this approach by showing excellent agreement to hardware silicon data from a high voltage vertical CG MOSFET technology. All these models have been incorporated in BSIM-CMG the first industry standard multi-gate MOSFET model. Despite including many complex physical effects the resultant model can be executed in the order of few 10's of micro-seconds (per operating point) enabling rapid very large scale integrated circuit design.
+A compact SPICE model maintains a balance of predictive nature and flexibility with many sub-components describing various physics and tunable parameters in order to capture data from various sources accurately which could quickly become unmanageable. For this we present a RF model extraction procedure that does not require any additional sub-circuit elements and takes advantage of advances in parameter optimization tools available today in an efficient manner. Using BSIM6, a bulk planar MOSFET compact model the resultant procedure was able to capture high frequency hardware data even beyond the cut-off frequency of the MOSFET and predict various RF circuit design figure of merits with great accuracy for multiple planar MOSFET technologies.},
+}
+EndNote citation:
+%0 Thesis
+%A Venugopalan, Sriramkumar
+%T From Poisson to Silicon - Advancing Compact SPICE Models for IC Design
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 8
+%@ UCB/EECS-2013-166
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-166.html
+%F Venugopalan:EECS-2013-166

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28634.html
+Homomorphisms Between Stochastic Sequential Machines and Related Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Homomorphisms Between Stochastic Sequential Machines and Related Problems
+Homomorphisms Between Stochastic Sequential Machines and Related Problems
+A. Paz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M221
+August 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-221.pdf
+BibTeX citation:
+@techreport{Paz:M221,
+Author = {Paz, A.},
+Title = {Homomorphisms Between Stochastic Sequential Machines and Related Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28634.html},
+Number = {UCB/ERL M221}
+}
+EndNote citation:
+%0 Report
+%A Paz, A.
+%T Homomorphisms Between Stochastic Sequential Machines and Related Problems
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M221
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28634.html
+%F Paz:M221

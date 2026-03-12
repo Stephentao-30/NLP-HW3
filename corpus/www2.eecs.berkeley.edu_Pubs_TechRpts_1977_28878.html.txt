@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28878.html
+Vias Assignment Problem in Multilayer Printed Circuit Board | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Vias Assignment Problem in Multilayer Printed Circuit Board
+Vias Assignment Problem in Multilayer Printed Circuit Board
+B.S. Ting, E. S. Kuh and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/13
+March 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-13.pdf
+BibTeX citation:
+@techreport{Ting:M77/13,
+Author = {Ting, B.S. and Kuh, E. S. and Sangiovanni-Vincentelli, A.},
+Title = {Vias Assignment Problem in Multilayer Printed Circuit Board},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28878.html},
+Number = {UCB/ERL M77/13}
+}
+EndNote citation:
+%0 Report
+%A Ting, B.S.
+%A Kuh, E. S.
+%A Sangiovanni-Vincentelli, A.
+%T Vias Assignment Problem in Multilayer Printed Circuit Board
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28878.html
+%F Ting:M77/13

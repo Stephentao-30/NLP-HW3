@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7335.html
+A Martingale Approach to Point-Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Martingale Approach to Point-Processes
+A Martingale Approach to Point-Processes
+Pierre M. Bremaud
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M345
+August 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-345.pdf
+Advisor:  Eugene Wong
+BibTeX citation:
+@phdthesis{Bremaud:M345,
+Author = {Bremaud, Pierre M.},
+Title = {A Martingale Approach to Point-Processes},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7335.html},
+Number = {UCB/ERL M345}
+}
+EndNote citation:
+%0 Thesis
+%A Bremaud, Pierre M.
+%T A Martingale Approach to Point-Processes
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M345
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7335.html
+%F Bremaud:M345

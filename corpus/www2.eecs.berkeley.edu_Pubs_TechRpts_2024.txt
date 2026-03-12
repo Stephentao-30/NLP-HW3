@@ -1,0 +1,232 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024
+Technical Reports - 2024
+Wafer-Level Integrated Microlens Couplers for Efficient and Scalable Photonic Circuit I/O  (EECS-2024-244) Jianheng Luo
+Wafer-Level Integrated Microlens Couplers for Efficient and Scalable Photonic Circuit I/O  (EECS-2024-243) Jianheng Luo
+Quantum Photonics and Electronics on a CMOS Chip  (EECS-2024-242) Danielius Kramnik
+Wafer-Level Integrated Microlens Couplers for Efficient and Scalable Photonic Circuit I/O  (EECS-2024-241) Jianheng Luo
+A Decentralized SDN Architecture for the WAN  (EECS-2024-240) Alexander Krentsel, Nitika Saran, Bikash Koley, Subhasree Mandal, Ashok Narayanan, Sylvia Ratnasamy, Ali Al-Shabibi, Anees Shaikh, Rob Shakir, Ankit Singla and Hakim Weatherspoon
+On Planning and Control for Multi-Agent Robotic Systems  (EECS-2024-239) Fangyu Wu
+Contract Replaceability for Ensuring Independent Design using Assume-Guarantee Contracts  (EECS-2024-238) Sheng-Jung Yu
+Enhancing Accelerator Design Space Exploration with Differentiable Modeling and Unified Hardware-Software Co-Exploration  (EECS-2024-237) Charles Hong
+A Hardware Accelerator Generator for Zstandard Decompression  (EECS-2024-236) Junsun Choi
+Towards Understanding and Improving Software Professionals' Security and Privacy Practices  (EECS-2024-235) Noura Alomar
+Artificial Intelligence Curricula: Comparative Prerequisite Pathways Analysis in North America  (EECS-2024-234) Rose Niousha
+Multimaterial Nanoscale Printing via Charged Nanoparticle Deposition  (EECS-2024-233) Daniel Teal
+The Hyper-Dimensional Processing Unit: Energy-Efficient Machine Learning Using Vector-Symbolic Architectures  (EECS-2024-232) Youbin Kim
+Measuring and Engineering Privacy Protections  (EECS-2024-231) Nikita Samarin
+Motion Sensing and Correction in Magnetic Resonance Imaging with Radio Frequency Signals  (EECS-2024-230) Suma Anand
+Towards Building Safe and Robust Human AI Systems  (EECS-2024-229) Zhiyang He
+Lightly Supervised Machine Learning for Wireless Signals  (EECS-2024-227) Josh Sanz
+Statistical Guarantees for Black-Box Models  (EECS-2024-226) Anastasios Angelopoulos
+Improving Inference Privacy for Large Language Models using Fully Homomorphic Encryption  (EECS-2024-225) Rohit Mittal
+Translations Alone Do Not Help Programmers Work With Unfamiliar Abstractions  (EECS-2024-224) Jacob Yim
+Building Agentic Systems in an Era of Large Language Models  (EECS-2024-223) Charles Packer
+Agile Hardware/Software Co-Design for Hyperscale Cloud Systems  (EECS-2024-222) Sagar Karandikar
+Algorithms for Learning and Incentive Design in Societal-Scale Systems  (EECS-2024-221) Kshitij Kulkarni
+FireAxe: Partitioned FPGA-Accelerated Simulation of Large-Scale RTL Designs  (EECS-2024-220) Joonho Whangbo, Krste Asanović and Borivoje Nikolic
+An Extensible Architecture for Distributed Heterogeneous Processing  (EECS-2024-219) Frank Luan
+Structured Contexts For Large Language Models  (EECS-2024-218) Kevin Lin
+From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control  (EECS-2024-217) Yide Shentu, Philipp Wu, Aravind Rajeswaran and Pieter Abbeel
+Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaption  (EECS-2024-216) Danny Halawi, Alexander Wei, Eric Wallace, Tony Wang, Nika Haghtalab and Jacob Steinhardt
+The Saturn Microarchitecture Manual  (EECS-2024-215) Jerry Zhao, Daniel Grubb, Miles Rusch, Tianrui Wei, Kevin Anderson, Borivoje Nikolic and Krste Asanović
+Implicit Learning in Deep Models: Enhancing Extrapolation Power and Sparsity  (EECS-2024-214) Alicia Tsai
+Circuit Design for Scalable and Fast Optical Circuit Switching  (EECS-2024-213) Erik Anderson
+Improved Pseudorandom Generators for AC0 Circuits  (EECS-2024-212) Xin Lyu
+Full Stack Approach for Efficient Deep Learning Inference  (EECS-2024-210) Sehoon Kim
+Learning Efficiently with Trajectory Data for Real World Robotics  (EECS-2024-209) Philipp Wu
+Structured Representations for Goal-Directed Decision Making  (EECS-2024-208) Vivek Myers
+The Cost of Parallelizing Boosting  (EECS-2024-207) Xin Lyu, Hongxun Wu and Junzhao Yang
+LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models  (EECS-2024-206) Long Lian, Boyi Li, Adam Yala and Trevor Darrell
+Modeling the Structure of the Human Semantic System  (EECS-2024-205) Catherine Chen
+Design and Analysis of Uncertainty-Aware Modularized Autonomy Stacks  (EECS-2024-204) David Shen
+Towards Robust Autonomous Systems through Uncertainty Quantification  (EECS-2024-203) Anish Muthali
+Real-Time, Streamable Differentiable DSP Vocoder for Articulatory Synthesis  (EECS-2024-202) Drake Lin
+Monolithic Electronic-Photonic Systems for Massive-MIMO Millimeter-Wave Applications  (EECS-2024-201) Ruocheng Wang
+Nonperiodic silicon photonic devices for nonlinear photon generation and multimode design for optical computing  (EECS-2024-200) Zhetao Jia
+Investigation of Energy Efficient Magnetic Switching in Novel Materials and Device Structures for Spintronics Application  (EECS-2024-199) Jason Cheng-Hsiang Hsu
+Learning to Design and Engineer Proteins from Evolution, 3D Structures, and Experiments  (EECS-2024-197) Chloe Hsu
+Learning to Design and Engineer Proteins from Evolution, 3D Structures, and Experiments  (EECS-2024-196) Chloe Hsu
+Miniature Wireless Neural Implants  (EECS-2024-195) Mohammad Meraj Ghanbari
+An Ultra-Low Loss Radio Frequency Beamforming Technique for Power-Constrainted Phased Array Applications  (EECS-2024-194) Matthew Anderson
+Learning About The World Through Video Generation  (EECS-2024-193) Wilson Yan
+Single-Shot View Synthesis using a Multiplexed Light Field Camera  (EECS-2024-192) Shamus Li
+Lightweight, Secure and Stateful Serverless Computing with PSL  (EECS-2024-191) Alex Thomas, Shubham Mishra, Eric Chen and John D. Kubiatowicz
+Novel Protein Evolution Models for Ancestral Sequence Reconstruction  (EECS-2024-190) Akshay Ravoor
+Split-Phase and Multi-Resonant Operation of Hybrid Switched-Capacitor Converters  (EECS-2024-189) Rose Abramson and Robert Pilawa-Podgurski
+Towards Agents Which Can Understand Rich Communication  (EECS-2024-188) Olivia Watkins
+Drawing Biological Understanding From Machine Learning  (EECS-2024-187) Forest Yang
+Efficient and Scalable Large Multimodal Models  (EECS-2024-186) Sheng Shen
+Efficient 3D Vision for Autonomous Driving  (EECS-2024-183) Philip Jacobson
+Rotary Inchworm Motor for Underwater Microrobot Propulsion  (EECS-2024-182) Mauricio Bustamante Eguiguren
+Shallow Quantum Circuits: Algorithms, Complexity, and Fault Tolerance  (EECS-2024-181) Yunchao Liu
+A Generalized Differentiable Evaluation Plug-in for Loop Subdivision in Surface Reconstruction Pipelines  (EECS-2024-180) Tianhao Xie, Brian A. Barsky, Sudhir Mudur and Tiberiu Popa
+Advancing Assistive Mouse and Keyboard Control Scheme Using Two-Handed Gesture Recognition for Human-Computer Interaction  (EECS-2024-179) Shawn Zhao and Brian A. Barsky
+Towards Scalable Sub-THz Massive MIMO: Beamforming ASICs and 3D Die-to-Die Interconnects  (EECS-2024-178) Harrison Liew
+Extending Data Priors Across Domains with Diffusion Distillation  (EECS-2024-177) David McAllister
+Rotary Inchworm Motor for Underwater Microrobot Propulsion  (EECS-2024-175) Mauricio Bustamante Eguiguren
+Programming Abstractions & Systems for Autonomous Vehicles  (EECS-2024-174) Sukrit Kalra
+Adapting Segment Anything Model to Invasive Melanoma Segmentation in Microscopy Slide Images  (EECS-2024-173) Qingyuan Liu
+Co-Designing Cryptographic Systems with Resource-Constrained Hardware  (EECS-2024-172) Jean-Luc Watson
+Improving Output in Generative Models  (EECS-2024-171) Tarun Amarnath
+A Novel Self-Supervised Deep Learning Method for MRI Reconstruction  (EECS-2024-170) Frederic Wang
+Obfuscation of Quantum Computation  (EECS-2024-169) James Bartusek
+Towards Reliable Causal Machine Learning for Macroeconomics  (EECS-2024-168) David Bruns-Smith
+Environment Generation for Autonomous Agents for Sequential Decision Making  (EECS-2024-167) Abdus Salam Azad
+The Foundation Model Path to Open-World Robots  (EECS-2024-166) Dhruv Shah
+Efficient 3D Vision for Autonomous Driving  (EECS-2024-164) Philip Jacobson
+Berkeley MRI Shimming Tool: Online B0 Shimming using Conformal and Local DC Arrays  (EECS-2024-163) Robert Peltekov
+Discovering the 4D World Behind Any Video  (EECS-2024-162) Vickie Ye
+Enabling Full-Stack DNN Accelerator Design and Evaluation on Synthesizable Hardware  (EECS-2024-161) Hasan Genc
+Venous Perfusion Source Mapping “in Reverse” with Magnetic Resonance Imaging  (EECS-2024-160) Ekin Karasan
+Feedback Driven Dynamics in Socio-Algorithmic Systems  (EECS-2024-159) Mihaela Curmei
+Hardness of Approximation Across Different Models of Computation  (EECS-2024-158) Seri Khoury
+Automated Testing, Verification and Repair of RTL Hardware Designs  (EECS-2024-157) Kevin Laeufer
+Re-examining Metrics for Success in Machine Learning, from Fairness and Interpretability to Protein Design  (EECS-2024-156) Frances Ding
+Learning Open-World Robot Navigation from Experience  (EECS-2024-155) Dhruv Shah
+Towards Runtime Behavior Generation in Games  (EECS-2024-153) Nicholas Jennings
+Foundation Models for Decision Making: Algorithms, Frameworks, and Applications  (EECS-2024-152) Sherry Yang
+Compressive Deconvolution Methods of Higher-Order-Aberrated Optical Systems  (EECS-2024-151) Saketh Malyala
+Empowering Large Language Models with Efficient and Automated Systems  (EECS-2024-150) Zhuohan Li
+Algorithms for Robust and Memory-Efficient Learning  (EECS-2024-149) Fred Zhang
+Achieving AI Alignment with Unreliable Supervision  (EECS-2024-148) Shivam Singhal, Cassidy Laidlaw and Anca Dragan
+Secure Systems from Insecure Components  (EECS-2024-146) Emma Dauterman
+Backyard-Degradable Interactive Electronics  (EECS-2024-145) Katherine Song
+Collaborative Learning: Aligning Goals and Outcomes  (EECS-2024-143) Mariel Werner
+The Management of Context in the Machine Learning Lifecycle  (EECS-2024-142) Rolando Garcia
+Constructing Taxonomies from Pretrained Language Models  (EECS-2024-141) Catherine Chen, Kevin Lin and Daniel Klein
+Extensible Rule Language for Query Optimizer  (EECS-2024-140) Sicheng Pan
+Parallel Solving of Two-Player Tierable Abstract Strategy Games  (EECS-2024-139) Robert Shi
+EVIL SERVERLESS CONSENSUS  (EECS-2024-138) Chris Liu
+Critical Engagement in Large-Scale Undergraduate Computing Programs  (EECS-2024-137) Jedidiah Tsang
+Querying Labeled Time Series Data with Scenario Programs  (EECS-2024-136) Devan Shanker
+Finetuning as a Defense Against LLM Secret-leaking  (EECS-2024-135) Bryce Wong
+3D Multispectral Colorimetry  (EECS-2024-133) Anjali Thakrar
+Developing and Evaluating LLM Assistants in Introductory Computer Science  (EECS-2024-132) Laryn Qi
+Dealing with Time: Measuring Real-Time Capabilities of Lingua Franca  (EECS-2024-131) Efsane Soyer
+On-the-Fly Memory Programming for Largely Unmodified Cryptographic Applications  (EECS-2024-130) Alice Yeh
+Toward Autonomous Endoscopic Surgery: a Framework and Case Studies for Robotic Learning in Healthcare  (EECS-2024-127) Will Panitch
+VLSI Design and Circuits for Multiple Supply Domains  (EECS-2024-126) Bryan Ngo
+Dreamcrafter: Imagining Future Immersive Radiance Field Editors with Generative AI  (EECS-2024-124) Cyrus Vachha
+Robust Task Specification for Learning Systems  (EECS-2024-123) Sam Toyer
+Evaluating and Predicting the Performance of Large Language Models on Long-Context Tasks  (EECS-2024-122) Yike Wang
+Real-Time Legged Locomotion Control with Diffusion from Offline Datasets  (EECS-2024-121) Ruofeng Wang
+Machine Learning Systems with Reduced Memory Requirements  (EECS-2024-120) Franklin Huang
+Expander Flows and Sparsest Cut Linear Programming  (EECS-2024-119) William Lin
+V-Former: Offline RL with Temporally-Extended Actions  (EECS-2024-118) Jeffrey Wu
+DEEP ARTICULATORY SEGMENTATION AND SPEECH SYNTHESIS USING RT-MRI  (EECS-2024-117) Bohan Yu, Peter Wu, Rishi Jain, Tejas Prabhune and Gopala Krishna Anumanchipalli
+Fleece QA: Self-Instruct Generation for Question Answering Dataset from Large Corpus  (EECS-2024-116) Yueheng Zhang
+Skeleton-based Fall Detection using Spatial Temporal Graph Convolutional Networks with Learnable Edges  (EECS-2024-115) Alex Liang
+First Token Probabilities are Unreliable Indicators for LLM Knowledge  (EECS-2024-114) Justin Shao
+Motion Diffusion From Speech  (EECS-2024-113) Kushal Khangaonkar, Sanjay Subramanian, Daniel Klein and Trevor Darrell
+Concurrency Without Threads for Multicore Microprocessors  (EECS-2024-112) Samuel Berkun
+Task Scheduling for Decentralized LLM Serving in Heterogeneous Networks  (EECS-2024-111) Elden Ren
+Towards Fast and Accurate Computational Algorithms for Vision Correcting Displays  (EECS-2024-110) Joshua Chen
+Efficient Distributed LLM Inference with Dynamic Partitioning  (EECS-2024-108) Isaac Ong
+CherryML 2.0: Almost Linear Time Estimation of Phylogenetic Models  (EECS-2024-107) Wilson Wu
+PLL Design for FMCW Radar Systems  (EECS-2024-106) Benyuanyi Liu
+Do Vision and Language Encoders Represent the World Similarly?  (EECS-2024-105) Raiymbek Akshulakov
+3D Scene Part Decomposition  (EECS-2024-104) Jake Austin
+Robust Action Primitives and Visual Perception Pipelines for Automation in Surgical and Industrial Robotics Applications  (EECS-2024-103) Kishore Srinivas
+Dynamic and Composable Enclave Measurement  (EECS-2024-102) Evgeny Pobachienko
+Modeling Social Interactions from Multimodal Signals  (EECS-2024-101) Evonne Ng
+Markerless Macaque Face Reconstruction Using Synthetic Data  (EECS-2024-100) Anik Gupta
+CoS: Enhancing Personalization and Mitigating Bias with Context Steering  (EECS-2024-99) Sashrika Pandey, Zhiyang He, Mariah Schrum and Anca Dragan
+DL-ZTE: Towards Deep Learning-based Methods for Dead Time Gap Recovery in Zero TE MRI  (EECS-2024-98) Ana Cismaru
+A Dataset for Learning Conversational Style  (EECS-2024-97) Roshan Regula
+Vision-Language Representations for Zero-Shot Robotic Perception  (EECS-2024-96) Satvik Sharma
+A Study on Advanced Ising Machine Designs: BLIM, King's Graph Mapping, and OIM Chips  (EECS-2024-95) Jui-Hsin Hung and Jaijeet Roychowdhury
+Offshore Wind and Tidal Energy Integration into Power System Linear Programming Capacity Model  (EECS-2024-94) Sunay Dagli
+Syntactic Code Search with Sequence-to-Tree Matching  (EECS-2024-93) Gabriel Matute, Wode Ni, Titus Barik, Alvin Cheung and Sarah Chasins
+HiLT: A Framework for Generating Human-in-the-Loop Data Transformation GUIs  (EECS-2024-92) Sora Kanosue
+Industrial Applications of Remote Monitoring, Learning, and Actuation  (EECS-2024-91) Shrey Aeron
+Leveraging Zero-Shot Sim2Real Learning to Improve Autonomous Vehicle Perception  (EECS-2024-90) Ashwat Chidambaram
+Autonomous Assessment of Demonstration Sufficiency  (EECS-2024-89) Alina Trinh
+Do Vision and Language Encoders Represent the World Similarly?  (EECS-2024-88) Raiymbek Akshulakov
+Parallel Solving of Two-Player Tierable Abstract Strategy Games  (EECS-2024-87) Robert Shi
+Providing Efficient Fault Tolerance in Distributed Systems  (EECS-2024-86) Siyuan Zhuang
+Teaching Large Language Models to Use Tools at Scale  (EECS-2024-85) Shishir Patil
+Advancing Robust and Aligned Measures of Semantic Similarity in Large Language Models  (EECS-2024-84) Samarth Goel
+Eliciting Domain Expertise Reduces Examples Needed for Program Synthesis  (EECS-2024-83) Jeremy Ferguson
+Interactive Robot Fleet Learning from Heterogeneous Human Supervisors using Implicit Energy-Based Models  (EECS-2024-82) Gaurav Datta
+Automated Tree Censusing from Aerial Imagery with Noisy Supervision  (EECS-2024-81) Sandeep Mukherjee
+An EMI-Compliant and Automotive-Rated 48 V to Point-of-Load Dickson-Based Hybrid Switched-Capacitor DC-DC Converter  (EECS-2024-79) Sahana Krishnan
+Towards a Quantum Hardware Roofline: Evaluating the Impact ofGate Expressivity on Processor Design  (EECS-2024-78) Justin Kalloor, Mathias Weiden, Ed Younis, De Jong Wibe, John D. Kubiatowicz and Iancu Costin
+Trajectory Prediction and Simulation for Improved Control of Connected Autonomous Vehicles  (EECS-2024-77) Avikam Chauhan
+Towards Efficient and Deterministic Dataflow Systems for Machine Learning  (EECS-2024-76) Jacky Kwok
+Reliable Representation Learning: Theory and Practice  (EECS-2024-75) Yaodong Yu
+Enabling Efficient and Reliable Robot Manipulation Through Optimization, Interactive Perception and Self-Supervised Learning  (EECS-2024-74) Yahav Avigal
+Continuous Autonomous Improvement for Mobile  Manipulation  (EECS-2024-73) Hrish Leen
+Object Discovery In Multi-Scene NeRFs  (EECS-2024-72) Junkeun Yi
+FogROS2-SGC: A Secure and Global Connectivity Framework For Latency Sensitive Cloud Robotics  (EECS-2024-70) Eric Chen
+Scalable Lifelong Imitation Learning for Robot Fleets  (EECS-2024-69) Ryan Hoque
+Gasper-Siesta: Reducing Ethereum’s Commit Latency  (EECS-2024-68) Siddhant Sharma
+Bridging Gaps Between Metrics and Social Outcomes in Multi-Stakeholder Machine Learning  (EECS-2024-67) Serena Lutong Wang
+Deep Reinforcement Learning for Autonomous Vehicles: Improving Traffic Flow in Mixed-Autonomy  (EECS-2024-66) Nathan Lichtle
+Disentangled Visual Generative Models  (EECS-2024-65) Dave Epstein
+Enhancing QUIC: Quality-of-Service LLM Serving and MASQUE Proxy Scheduling  (EECS-2024-64) Rithvik Chuppala
+VLM Guided Exploration via Image Subgoal Synthesis  (EECS-2024-62) Arjun Bhorkar
+SonicSim: Socket-based Hardware Co-Simulation With Inter-process Communication  (EECS-2024-61) Richard Yan
+Advancements in Efficient Training Strategies for Modern Deep Learning: From Implicit Deep Learning to Language Models and Beyond  (EECS-2024-60) Tanmay Gautam
+Structure and Representation in Neural Networks  (EECS-2024-56) Daniel Filan
+THOUGHTSCULPT: Reasoning with Intermediate Revision and Search  (EECS-2024-55) Yizhou Chi
+Towards A Machine Capable of Learning And Discovering Everything  (EECS-2024-54) Hao Liu
+Bottom-Up and Top-Down Attention in Deep Vision Models  (EECS-2024-49) Baifeng Shi
+Sky Computing with Intercloud Brokers  (EECS-2024-48) Zhanghao Wu
+Learning and Decision-Making in Complex Environments  (EECS-2024-46) Alexander Wei
+Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems  (EECS-2024-45) David Dalrymple, Joar Skalse, Yoshua Bengio, Stuart J. Russell, Max Tegmark, Sanjit A. Seshia, Steve Omohundro, Christian Szegedy, Alessandro Abate, Joseph Halpern, Clark Barrett, Ding Zhao, Ben Goldhaber and Nora Ammann
+RideGuard: Towards Privacy-Preserving Analytics for Mobility Applications  (EECS-2024-44) Arun Sundaresan
+Pairwise Proximal Policy Optimization: Large Language Models Alignment via Comparative RL  (EECS-2024-43) Tianhao Wu
+Magnetoelasticity for Integration of Quantum Defects  (EECS-2024-42) Adi Jung
+Optical Fiber-based γ-Photon Biosensor for Real-Time Pre-clinical Evaluation of Cancer-Targeting Radiopharmaceuticals  (EECS-2024-41) Rahul Lall
+Transformers on Dynamical Systems - An Exploration of In-context Learning  (EECS-2024-40) Wentinn Liao
+Modeling System-level Iron Homeostasis in the Human Brain over the Lifespan  (EECS-2024-39) Zoe Cohen
+Magnetic Susceptibility of Alzheimer’s Disease Brain Altered by Neurodegeneration  (EECS-2024-38) Maruf Ahmed
+Probabilistic Ising Architectures for Combinatorial Optimization, Machine Learning and Neuromorphic Computing  (EECS-2024-37) Saavan Patel
+Magnetic Susceptibility of Alzheimer’s Disease Brain Altered by Neurodegeneration  (EECS-2024-36) Maruf Ahmed
+Advances in Zero-Knowledge Proofs: Bridging the Gap between Theory and Practice  (EECS-2024-35) Tiancheng Xie
+Integrated Signal Processing for Massive MIMO Systems  (EECS-2024-30) Yue Dai
+A Wireless Image Sensor for Real-Time, In Vivo Fluorescence Microscopy in Cancer Therapy  (EECS-2024-29) Rozhan Rabbani
+Development of in vitro bioelectronic implant aging  (EECS-2024-28) Jacob Sporrer
+Browsing in the Library of Babel: Leveraging Evolutionary Information to Improve Protein Modeling  (EECS-2024-27) Neil Thomas
+Neural Circuit Dynamics Estimation and Control  (EECS-2024-26) Sang Min Han
+Iron in Alzheimer’s Disease: Analysis of the UK Biobank Dataset  (EECS-2024-25) Laurance Lau
+Object-Centric Perception for Real-World Robotics  (EECS-2024-24) Nikhil Mishra
+Enhancing Emotional Expression in Text-to-Speech Models through Reinforcement Learning with AI Feedback  (EECS-2024-23) Roshan Nagaram
+Interactive Imitation Learning as Reinforcement Learning  (EECS-2024-22) Perry Dong
+Pairwise Proximal Policy Optimization: Large Language Models Alignment via Comparative RL  (EECS-2024-21) Tianhao Wu, Banghua Zhu, Ruoyu Zhang, Zhaojin Wen, Kannan Ramchandran and Jiantao Jiao
+Advancements in Efficient Training Strategies for Modern Deep Learning: From Implicit Deep Learning to Language Models and Beyond  (EECS-2024-20) Tanmay Gautam
+Counting Counts: Overcoming Counting Challenges in Image Generation using Reinforcement Learning  (EECS-2024-19) Shaan Gill
+Solving Matrix Sensing to Optimality under Realistic Settings  (EECS-2024-18) Ziye Ma
+RLIF: Interactive Imitation Learning as Reinforcement Learning  (EECS-2024-17) Jianlan Luo, Perry Dong, Simon Zhai, Yi Ma and Sergey Levine
+Task Distribution Aware Psychomotor Skill Training with Probabilistic Programs and Bayesian Knowledge Tracing in Virtual Reality  (EECS-2024-16) Edward Kim, Alton Sturgis, Zachary Pardos, Kyle Cui, James Hu, Yunzhong Xiao, Boxi Fu, Daniel He, Issac Gonzalez, Alberto L. Sangiovanni-Vincentelli, Sanjit A. Seshia and Björn Hartmann
+Understanding, Building, and Evaluating Models for Context Aware Conditional Natural Language Generation  (EECS-2024-15) David Chan
+Fairness and representation in satellite-based poverty maps: Evidence of urban-rural disparities and their impacts on downstream policy  (EECS-2024-14) Emily Aiken
+Versatile Geometrical Sweeps  (EECS-2024-13) Monica Tang and Carlo H. Séquin
+SMT-Based Dynamic Multi-Robot Task Allocation  (EECS-2024-12) Victoria Tuck, Pei-Wei Chen, Georgios Fainekos, Bardh Hoxha, Hideki Okamoto, S. Shankar Sastry and Sanjit A. Seshia
+Can LLMs Perform Verified Lifting of Code?  (EECS-2024-11) Sahil Bhatia, Jie Qiu, Sanjit A. Seshia and Alvin Cheung
+New Perspectives on Adversarially Robust Machine Learning Systems  (EECS-2024-10) Chawin Sitawarin
+Controlling Long-Form Large Language Model Outputs  (EECS-2024-9) Kevin Yang
+Controlling Long-Form Large Language Model Outputs  (EECS-2024-8) Kevin Yang
+Magnetic Resonance Imaging and Modeling of Brain Magnetic Susceptibility  (EECS-2024-7) Jingjia Chen
+Better Embedded Design Tools with Automated Reasoning  (EECS-2024-5) Rohit Ramesh
+Application-Integrated Record-Replay of Distributed Systems  (EECS-2024-4) Narek Galstyan
+Towards a Distributed OS for Data-Intensive Cloud Applications  (EECS-2024-3) Stephanie Wang
+Topics in the Theory of Learning  (EECS-2024-2) Jonathan Shafer
+Systems for Machine Learning on Edge Devices  (EECS-2024-1) Shishir Patil
+Pedigree-Aware Genotype Simulation  () Margarita Geleta
+Ear EEG: Earworn Neural Recording Sensors and Systems  () Justin Doong
+HfO2-ZrO2-based Ferroelectricity for Next-Generation Energy-Efficient Electronics  () Nirmaan Shanker
+Ensuring Data Freshness Across Clouds for Model Serving  () Sarah Wooders
+Metal Pad Sensing: Theory, Application, Design, and Algorithms  () Alan Dong
+Eco-friendly and Scalable Fabrication of Organic Optoelectronic Sensors  () Jasmine Jan
+Accelerated Modeling of Electronic Devices using Graph Neural Networks  () Krishnakumar Bhattaram, Pratik Brahma and Sayeef Salahuddin
+Meta-learning for evolutionary-based protein property prediction  () Arthur Deng
+Learning Factorizable Representation for Dynamical Visual Scene  () Zeyu Yun and Bruno Olshausen
+Wideband and Energy-Efficient Millimeter-Wave to Sub-THz CMOS Receivers and LO Generation for High-Capacity Wireless Communications  () Ethan Chou
+Silicon Microring Resonator Design for Monolithic Electronic–Photonic Biosensing System  () Hyeong Seok Oh and Vladimir Stojanovic
+Digital Calibration of Voltage-Controlled Oscillator (VCO) Nonlinearity using a Delta-Sigma DAC  () Ashwin Rammohan
+Representation Learning for Efficient Localized Image Retrieval  () Lucas Jaffe
+Digital Calibration of Voltage-Controlled Oscillator (VCO) Nonlinearity using a Delta-Sigma DAC  () Ashwin Rammohan
+Scalable and Efficient Systems for Large Deep Learning Models  () Lianmin Zheng
+BeeGees: Stayin' Alive in Chained BFT  () Neil Giridharan, Florian Suri-Payer, Matthew Ding, Heidi Howard, Ittai Abraham and Natacha Crooks
+Scaling of Single-Mode Operation in Lasers  () Rushin Contractor

@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/yang-you-wins-acm-ieee-cs-george-michael-memorial-fellowship
+Yang You wins ACM IEEE-CS George Michael Memorial Fellowship - EECS at Berkeley
+Graduate student Yang You (advisor: James Demmel) has won a 2017 ACM IEEE Computer Society George Michael Memorial Fellowship for his work on designing accurate, fast, and scalable machine learning algorithms on distributed systems.   The award, which was named in honor of George Michael, one of the founding fathers of the Supercomputing (SC) Conference series, is given in recognition of overall potential for research excellence in subjects of interest to the High Performance Computing (HPC) community.  In You’s most recent work, “Scaling Deep Learning on GPU and Knights Landing Clusters,” his goal is to scale up the speed of training neural networks so that networks which are relatively slow to train can be redesigned for high performance clusters. This approach has reduced the percentage of communication from 87% to 14% and resulted in a five-fold increase in speed.
+Categories
+Honors
+Research
+Students
+View
+Open Faculty Positions

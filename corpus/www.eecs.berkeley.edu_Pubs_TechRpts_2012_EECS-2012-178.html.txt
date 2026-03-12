@@ -1,0 +1,48 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-178.html
+What, Where, and When: Software Fault Localization for SDN
+Robert Colin Scott and Andreas Wundsam and Kyriakos Zarifis and Scott Shenker
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-178
+July 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-178.pdf
+In this paper we leverage the
+structure of the SDN software stack to automate the process of troubleshooting
+networks. We present two techniques for programmatically localizing the root cause of network problems:
+cross-layer correspondence checking infers what problems exist in the network,
+and where in the control software the problem first developed; and
+simulation-based causal inference infers when the triggering event(s) occurred. We evaluated
+our tools on
+three popular SDN platforms---Frenetic, Floodlight and POX---and found or reproduced three bugs:
+isolation breaches and faulty failover logic between replicated controllers.
+BibTeX citation:
+@techreport{Scott:EECS-2012-178,
+Author= {Scott, Robert Colin and Wundsam, Andreas and Zarifis, Kyriakos and Shenker, Scott},
+Title= {What, Where, and When: Software Fault Localization for SDN},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-178.html},
+Number= {UCB/EECS-2012-178},
+Abstract= {In this paper we leverage the
+structure of the SDN software stack to automate the process of troubleshooting
+networks. We present two techniques for programmatically localizing the root cause of network problems:
+cross-layer correspondence checking infers what problems exist in the network,
+and where in the control software the problem first developed; and
+simulation-based causal inference infers when the triggering event(s) occurred. We evaluated
+our tools on
+three popular SDN platforms---Frenetic, Floodlight and POX---and found or reproduced three bugs:
+isolation breaches and faulty failover logic between replicated controllers.},
+}
+EndNote citation:
+%0 Report
+%A Scott, Robert Colin
+%A Wundsam, Andreas
+%A Zarifis, Kyriakos
+%A Shenker, Scott
+%T What, Where, and When: Software Fault Localization for SDN
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 13
+%@ UCB/EECS-2012-178
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-178.html
+%F Scott:EECS-2012-178

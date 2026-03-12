@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-74.html
+Rethinking Runtime Verification on Hundreds of Cores: Challenges and Opportunities
+Tayfun Elmas and Semih Okur and Serdar Tasiran
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-74
+June 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-74.pdf
+We propose a novel approach for runtime monitoring and verification on computers with a large number of computation cores. The goal of the approach is to minimize the impact of runtime verification on the performance of the application being monitored. We distinguish between two kinds of computational overhead: (i) overhead caused by instrumentation and/or logging, and (ii) parallelizable overhead due to the verification algorithm(s) analyzing the executions. So far, runtime verification algorithms have been designed to run on the same threads as the code being monitored and both (i) and (ii) contribute to the slowdown of the program being monitored. The framework we propose allows us to carry out (ii) on separate, dedicated cores and threads. As a result, the program being monitored only experiences slowdown due to (i). We conjecture that, with some inexpensive hardware support, (i) can be reduced to negligible levels. By parallelizing analyses so that they run at least as fast as the program being monitored, but on separate computational resources, one can potentially use this approach for monitoring, error detection, containment, and recovery from errors. As a demonstration of concept, we investigate runtime monitoring for concurrency bugs, in particular, data race detection. We use a few CPU threads/cores and a large number of cores on a GPU to minimize the slowdown of the application on which race detection is being run. Our early experimental results indicate that this approach has potential.
+BibTeX citation:
+@techreport{Elmas:EECS-2011-74,
+Author= {Elmas, Tayfun and Okur, Semih and Tasiran, Serdar},
+Title= {Rethinking Runtime Verification on Hundreds of Cores: Challenges and Opportunities},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-74.html},
+Number= {UCB/EECS-2011-74},
+Abstract= {We propose a novel approach for runtime monitoring and verification on computers with a large number of computation cores. The goal of the approach is to minimize the impact of runtime verification on the performance of the application being monitored. We distinguish between two kinds of computational overhead: (i) overhead caused by instrumentation and/or logging, and (ii) parallelizable overhead due to the verification algorithm(s) analyzing the executions. So far, runtime verification algorithms have been designed to run on the same threads as the code being monitored and both (i) and (ii) contribute to the slowdown of the program being monitored. The framework we propose allows us to carry out (ii) on separate, dedicated cores and threads. As a result, the program being monitored only experiences slowdown due to (i). We conjecture that, with some inexpensive hardware support, (i) can be reduced to negligible levels. By parallelizing analyses so that they run at least as fast as the program being monitored, but on separate computational resources, one can potentially use this approach for monitoring, error detection, containment, and recovery from errors. As a demonstration of concept, we investigate runtime monitoring for concurrency bugs, in particular, data race detection. We use a few CPU threads/cores and a large number of cores on a GPU to minimize the slowdown of the application on which race detection is being run. Our early experimental results indicate that this approach has potential.},
+}
+EndNote citation:
+%0 Report
+%A Elmas, Tayfun
+%A Okur, Semih
+%A Tasiran, Serdar
+%T Rethinking Runtime Verification on Hundreds of Cores: Challenges and Opportunities
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 13
+%@ UCB/EECS-2011-74
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-74.html
+%F Elmas:EECS-2011-74

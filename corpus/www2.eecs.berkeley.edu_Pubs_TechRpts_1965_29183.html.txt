@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29183.html
+Some Sufficient Conditions for Continuous Linear-Programming | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Some Sufficient Conditions for Continuous Linear-Programming
+Some Sufficient Conditions for Continuous Linear-Programming
+A. Larsen and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M123
+October 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-123.pdf
+BibTeX citation:
+@techreport{Larsen:M123,
+Author = {Larsen, A. and Polak, E.},
+Title = {Some Sufficient Conditions for Continuous Linear-Programming},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29183.html},
+Number = {UCB/ERL M123}
+}
+EndNote citation:
+%0 Report
+%A Larsen, A.
+%A Polak, E.
+%T Some Sufficient Conditions for Continuous Linear-Programming
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M123
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29183.html
+%F Larsen:M123

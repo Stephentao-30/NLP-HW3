@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-177.html
+Ambiguous fragment assignment for high-throughput sequencing experiments
+Adam Roberts
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-177
+October 30,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-177.pdf
+As the cost of short-read, high-throughput DNA sequencing continues to fall rapidly, new uses for the technology have been developed aside from its original purpose in determining the genome of various species. Many of these new experiments use the sequencer as a digital counter for measuring biological activities such as gene expression (RNA-Seq) or protein binding (ChIP-Seq).
+A common problem faced in the analysis of these data is that of sequenced fragments that are “ambiguous”, meaning they resemble multiple loci in a reference genome or other sequence. In early analyses, such ambiguous fragments were ignored or were assigned to loci using simple heuristics. However, statistical approaches using maximum likelihood estimation have been shown to greatly improve the accuracy of downstream analyses and have become widely adopted. Optimization based on the expectation- maximization (EM) algorithm are often employed by these methods to find the optimal sets of alignments, with frequent enhancements to the model. Nevertheless, these improvements increase complexity, which, along with an exponential growth in the size of sequencing datasets, has led to new computational challenges.
+Herein, we present our model for ambiguous fragment assignment for RNA-Seq, which includes the most comprehensive set of parameters of any model introduced to date, as well as various methods we have explored for scaling our optimization procedure. These methods include the use of an online EM algorithm and a distributed EM solution implemented on the Spark cluster computing system. Our advances have resulted in the first efficient solution to the problem of fragment assignment in sequencing.
+Furthermore, we are the first to create a fully generalized model for ambiguous fragment assignment and present details on how our method can provide solutions for additional high- throughput sequencing assays including ChIP-Seq, Allele-Specific Expression (ASE), and the detection of RNA-DNA Differences (RDDs) in RNA-Seq.
+Advisors:  Lior Pachter
+BibTeX citation:
+@phdthesis{Roberts:EECS-2013-177,
+Author= {Roberts, Adam},
+Title= {Ambiguous fragment assignment for high-throughput sequencing experiments},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-177.html},
+Number= {UCB/EECS-2013-177},
+Abstract= {As the cost of short-read, high-throughput DNA sequencing continues to fall rapidly, new uses for the technology have been developed aside from its original purpose in determining the genome of various species. Many of these new experiments use the sequencer as a digital counter for measuring biological activities such as gene expression (RNA-Seq) or protein binding (ChIP-Seq).
+A common problem faced in the analysis of these data is that of sequenced fragments that are “ambiguous”, meaning they resemble multiple loci in a reference genome or other sequence. In early analyses, such ambiguous fragments were ignored or were assigned to loci using simple heuristics. However, statistical approaches using maximum likelihood estimation have been shown to greatly improve the accuracy of downstream analyses and have become widely adopted. Optimization based on the expectation- maximization (EM) algorithm are often employed by these methods to find the optimal sets of alignments, with frequent enhancements to the model. Nevertheless, these improvements increase complexity, which, along with an exponential growth in the size of sequencing datasets, has led to new computational challenges.
+Herein, we present our model for ambiguous fragment assignment for RNA-Seq, which includes the most comprehensive set of parameters of any model introduced to date, as well as various methods we have explored for scaling our optimization procedure. These methods include the use of an online EM algorithm and a distributed EM solution implemented on the Spark cluster computing system. Our advances have resulted in the first efficient solution to the problem of fragment assignment in sequencing.
+Furthermore, we are the first to create a fully generalized model for ambiguous fragment assignment and present details on how our method can provide solutions for additional high- throughput sequencing assays including ChIP-Seq, Allele-Specific Expression (ASE), and the detection of RNA-DNA Differences (RDDs) in RNA-Seq.},
+}
+EndNote citation:
+%0 Thesis
+%A Roberts, Adam
+%T Ambiguous fragment assignment for high-throughput sequencing experiments
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 30
+%@ UCB/EECS-2013-177
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-177.html
+%F Roberts:EECS-2013-177

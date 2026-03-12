@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28830.html
+The Limitations of Jacobi Methods for Triangulating Square Metrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Limitations of Jacobi Methods for Triangulating Square Metrices
+The Limitations of Jacobi Methods for Triangulating Square Metrices
+Ying Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M551
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-551.pdf
+BibTeX citation:
+@techreport{Wang:M551,
+Author = {Wang, Ying},
+Title = {The Limitations of Jacobi Methods for Triangulating Square Metrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28830.html},
+Number = {UCB/ERL M551}
+}
+EndNote citation:
+%0 Report
+%A Wang, Ying
+%T The Limitations of Jacobi Methods for Triangulating Square Metrices
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M551
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28830.html
+%F Wang:M551

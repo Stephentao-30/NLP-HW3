@@ -1,0 +1,133 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1998
+Technical Reports - 1998
+Design and Evaluation of Multi-Protocol Communication on a Cluster of SMP's  (CSD-98-1032) Steven Sam Lumetta
+Virtual Log Based File Systems for a Programmable Disk  (CSD-98-1031) Randolph Y. Wang, Thomas E. Anderson and David A. Patterson
+ISTORE: Introspective Storage for Data-Intensive Network Services  (CSD-98-1030) Aaron Brown, David Oppenheimer, Kimberly Keeton, Randi Thomas, John Kubiatowicz and David A. Patterson
+Characteristics of File System Workloads  (CSD-98-1029) Drew Roselli and Thomas E. Anderson
+Bayesian Problem-Solving Applied to Scheduling  (CSD-98-1028) Othar Hansson
+Policy-Enabled Handoffs Across Heterogeneous Wireless Networks  (CSD-98-1027) Helen J. Wang
+Multivalent Documents: Anytime, Anywhere, Any Type, Every Way User-Improvable Digital Documents and Systems  (CSD-98-1026) Thomas Arthur Phelps
+Design and Implementation of the IRAM Architecture Manual and Functional Simulator  (CSD-98-1025) David R. Martin
+Soft ARQ for Streaming Layered Multimedia  (CSD-98-1024) Matthew Podolsky, Steven McCanne and Martin Vetterli
+Implementation Issues in Modern Cache Memory  (CSD-98-1023) Jih-Kwon Peir, Windsor W. Hsu and Alan Jay Smith
+Designing Graphic Presentations from First Principles  (CSD-98-1022) Michael Schiff
+Algorithms for Index-Assisted Selectivity Estimation  (CSD-98-1021) Paul M. Aoki
+The PHiPAC v1.0 Matrix-Multiply Distribution  (CSD-98-1020) Jeff A. Bilmes, Krste Asanović, Chee-Whye Chin and Jim Demmel
+Inference of Multicast Routing Trees and Bottleneck Bandwidths using End-to-end Measurements  (CSD-98-1019) Sylvia Ratnasamy and Steven McCanne
+Comparing PC Operating Systems for Storage Report  (CSD-98-1018) Nisha Talagala, Satoshi Asami and David A. Patterson
+Fast and Effective Optimization of Statically Typed Object-Oriented Languages  (CSD-98-1017) David Francis Bacon
+Addressing the Challenges of Web Data Transport  (CSD-98-1016) Venkata Narayana Padmanabhan
+An Exploration of Lightweight Meeting Capture  (CSD-98-1015) Richard C. Davis and James A. Landay
+Vector Microprocessors  (CSD-98-1014) Krste Asanović
+On the Generation of 2-Dimensional Index Workloads  (CSD-98-1013) Joseph M. Hellerstein, Lisa Hellerstein and George Kollios
+Near-Neighbor Query Performance in Search Trees  (CSD-98-1012) Shuanhu Wang, Joseph M. Hellerstein and Ilya Lipkind
+Search Party: Using Randomcast for Reliable Multicast with Local Recovery  (CSD-98-1011) Adam M. Costello and Steven McCanne
+Challenges to Reliable Data Transport over Heterogeneous Wireless Networks  (CSD-98-1010) Hari Balakrishnan
+Writing robust IEEE recommended functions in "100% Pure Java"(TM)  (CSD-98-1009) Joseph D. Darcy
+Enabling "Smart Spaces:" Entity Description and User Interface Generation for a Heterogeneous Component-based Distributed System  (CSD-98-1008) Todd D. Hodes and Randy H. Katz
+Recursive Oscillators on a Fixed-Point Vector Microprocessor for High Performance Phase-Accurate Real-Time Additive Synthesis  (CSD-98-1007) Todd David Hodes
+An Agent-based Approach to Real-time Multimedia Transmission over Heterogeneous Environments  (CSD-98-1006) Elan Amir
+Value Determination with General Function Approximators  (CSD-98-1005) Vassilis Papavassiliou and Stuart Russell
+Online Association Rule Mining  (CSD-98-1004) Christian Hidber
+Efficient View-Dependent Image-Based Rendering with Projective Texture-Mapping  (CSD-98-1003) Paul Debevec, Yizhou Yu and George Boshokov
+Scalable Multimedia Communication with Internet Multicast, Light-weight Sessions, and the MBone  (CSD-98-1002) Steven McCanne
+Performance Characterization of the Quad Pentium Pro SMP Using OLTP Workloads  (CSD-98-1001) Kimberly Keeton, David A. Patterson, Yong Qiang He, Roger C. Raphael and Walter E. Baker
+An Exploration of Network RAM  (CSD-98-1000) Eric A. Anderson and Jeanna M. Neefe
+Multivalent Documents: A New Model for Digital Documents  (CSD-98-999) Robert Wilensky and Thomas Phelps
+Experience with a Language for Writing Coherence Protocols  (CSD-98-998) Satish Chandra, Michael Dahlin, Bradley Richards, Randolph Y. Wang, Thomas E. Anderson and James R Larus
+NotePals: Lightweight Note Taking by the Group, for the Group  (CSD-98-997) Richard C. Davis, Jason A. Brotherton, James A. Landay, Morgan N. Price and Bill N. Schilit
+Tracking down Exceptions in Standard ML Programs  (CSD-98-996) Manuel Fahndrich, Jeffrey S. Foster, Jason Cu and Alexander Aiken
+User Customization of Virtual Network Interfaces with U-Net/SLE  (CSD-98-995) David Oppenheimer and Matt Welsh
+Heuristics for the Automatic Construction of Coarse Grids in Multigrid Solvers for Finite Element Matrices  (CSD-98-994) Mark Adams
+A Parallel Maximal Independent Set Algorithm  (CSD-98-993) Mark Adams
+Execution Time of Symmetric Eigensolvers  (CSD-98-992) Kendall Swenson Stanley
+Empirical Evaluation of Global Memory Support on the Cray-T3D and Cray-T3E  (CSD-98-991) Arvind Krishnamurthy, David E. Culler and Katherine Yelick
+Inference and Learning in Hybrid Bayesian Networks  (CSD-98-990) Kevin P. Murphy
+Tertiary Disk: Large Scale Distributed Storage  (CSD-98-989) Nisha Talagala, Satoshi Asami, Thomas Anderson and David Patterson
+Virtual Network Transport Protocols for Myrinet  (CSD-98-988) Brent N. Chun, Alan M. Mainwaring and David E. Culler
+Experience with a Distributed File System Implementation  (CSD-98-986) Randolph Y. Wang, Thomas E. Anderson and Michael D. Dahlin
+Evaluation of Architectural Support for Global Address-Based Communication in Large-Scale Parallel Machines  (CSD-98-984) Arvind Krishnamurthy, Klaus E. Schauser, Chris J. Scheiman, David E. Culler, Katherine Yelick and Randolph Y. Wang
+Serverless Network File Systems  (CSD-98-983) Thomas E. Anderson, Michael D. Dahlin, Jeanna M. Neefe, Drew S. Roselli, Randolph Y. Wang and David A. Patterson
+Adaptive Control for Packet Video  (CSD-98-982) Randolph Wang and Soumen Chakrabarti
+Towards a Theory of Optimal Communication Pipelines  (CSD-98-981) Randolph Y. Wang, Arvind Krishnamurthy, Richard P. Martin, Thomas E. Anderson and David E. Culler
+An Introduction to Variational Methods for Graphical Models  (CSD-98-980) Michael I. Jordan, Zoubin Ghahramani, Tommi S. Jaakkola and Lawrence K. Saul
+End-user Interaction with Clutter Reduction Techniques  (CSD-98-979) Allison Woodruff, James Landay and Michael Stonebraker
+Interactive Kinematic Objects in Virtual Environments  (CSD-98-978) Randall G Keller
+On-line Collision Avoidance for Multiple Robots Using B-Splines  (CSD-98-977) Eric Paulos
+Run to Run Control in Semiconductor Manufacturing  (M98/79) J. Musacchio
+Hybrid Systems: Computation and Abstraction  (M98/78) George J. Pappas
+WEBTP: A User-Centric Receiver-Driven Web Transport Protocol  (M98/77) R. Gupta
+Programmable, Low-Noise, High-Linearity Baseband Filter for a Fully-Integrated, Multi-Standard, CMOS RF Receiver  (M98/76) T-L.D. Au
+Programmable High-Dynamic Range Sigma-Delta A/O Converters for Multistandard Fully- Integrated RF Receivers (CMOS)  (M98/75) K.B-H. Khoo
+Continuous Time and Mixed-Signal Simulation in Ptolemy II  (M98/74) J. Liu
+System-Level Modeling and Evaluation of Network Protocol  (M98/73) S-P. Chang
+Heterogeneous Concurrent Modeling and Design in Java  (M98/72) J. Davis II, M. Goel, G. Galicia, C. Hylands, Edward A. Lee, J. Liu, X. Liu, L. Muliadi, S. Neuendorffer, J. Reekie, N. Smyth, J. Tsay and Y. Xiong
+Overview of the Ptolemy Project  (M98/71) Edward A. Lee
+Communicating Sequential Processed Domain in Ptolemy II  (M98/70) N. Smyth
+Process Networks in Ptolemy II  (M98/69) M. Goel
+A Layout and Design Methodology for Deep Sub-micron Applications Using Networks of PLAs  (M98/68) S.P. Khatri, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+An Active Contour Algorithm for Continuous- Time Cellular Neural Networks  (M98/67) D.L. Vilarino, T. Kozek and Leon O. Chua
+Delay Cognizant Video Coding  (M98/66) Yuan-Chi Chang
+Euclidean Reconstruction and Reprojection Up To Subgroups  (M98/65) Y. Ma, S. Soatto, J. Kosecka and S. Sastry
+A Mathematical Theory of Camera Self- Calibration  (M98/64) Y. Ma, J. Kosecka and S. Shankar Sastry
+Towards an Automatic Air Traffic Controller  (M98/63) S. Sekhavat and S. Shankar Sastry
+Ion Energy Distributions in RF Sheaths; Review, Analysis and Simulation  (M98/62) E. Kawamura, V. Vahedi, Michael A. Lieberman and Charles K. (Ned) Birdsall
+A Survey of Multi-valued Synthesis Techniques  (M98/61) Robert K. Brayton and S.P. Khatri
+Combinational Verification Revisted  (M98/60) S.P. Khatri, S.C. Krishnan, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+Study on Real-Time Develop Rate Monitors for Control of Deep Ultraviolet Lithography  (M98/59) M. Claassen
+Accurate Automatic Timing Characterization of Static CMOS Libraries  (M98/58) S.P. Khatri, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+Hybrid Control of Air Traffic Management Systems  (M98/57) Claire J. Tomlin
+Algorithms for Defining Visual Region-of- Interest  (M98/56) C. Privitera and L.W. Stark
+RTL Generation of Hardware Components of a Mixed Hardware/Software Implementation of Embedded Systems for System Level Co-Simulation in VHDL  (M98/55) B. Tabbara, E. Filippi, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Fast Hardware-Software Co-Simulation Using VHDL Models  (M98/54) B. Tabbara, E. Filippi, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Learning Control of Complex Skills  (M98/53) L.S. Crawford
+The Design of a 1.9 GHz, 250 mW CMOS Power Amplifier for DECT  (M98/52) R.S. Narayanaswami
+BSIM 3v3.2 MOSFET Model Users' Manual  (M98/51) W. Liu, X. Jin, J. Chen, M-C. Jeng, Z. Liu, Y. Cheng, K. Chen, M. Chan, K. Hui, J. Huang, R. Tu, P.K. Ko and Chenming Hu
+Tempest Version 5.0  (M98/50) A. Wong and T. Pistor
+Storm Version 1.0  (M98/49) E. Croffie and M. Zuniga
+Position Sensing for Electrostatic Micropositioners  (M98/48) Naiyavudhi Wongkomet
+An Accurate MOSFET Intrinsic Capacitance Model Considering Quantum Mechanic Effect for BSIM 3v3.2  (M98/47) W. Liu, X. Jin, Y-C. King and Chenming Hu
+Fair End-to-End Widow-Based Congestion Control  (M98/46) J. Mo and Jean Walrand
+Synthesis of Parallel Hardware Implementations from Synchronous Dataflow Graph Specifications  (M98/45) Michael C. Williamson
+Multi-Valued Network Compaction Using Redundancy Removal  (M98/44) S.P. Khatri, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Computation of Rate Coefficients for Electron Impact Collisions  (M98/43) T.M. Philip
+The Criteria for Symmetric Vector State Equations of Cellular Neural Networks  (M98/42) T. Yang and Leon O. Chua
+Reactive Modules  (M98/41) R. Alur and Thomas A. Henzinger
+It's About Time: Real-Time Logics Reviewed  (M98/40) Thomas A. Henzinger
+Decidable Hybrid Systems  (M98/39) G. Lafferriere, G.J. Pappas and S. Yovine
+Euclidean Structure and Motion from Image Sequences  (M98/38) Y. Ma, J. Kosecka and S. Shankar Sastry
+Optimal Motion from Image Sequences: A Riemannian Viewpoint  (M98/37) Y. Ma, J. Kosecka and S. Shankar Sastry
+Vision Theory in Spaces of Constant Curvature  (M98/36) Y. Ma and S. Shankar Sastry
+Optimal Routing Control: Game Theoretic Approach  (M98/35) R.J. La and Venkat Anantharam
+Concurrent Reachability Games  (M98/33) L. de Alfaro, Thomas A. Henzinger and O. Kupferman
+Resource Allocation for Multimedia on Wireless Networks  (M98/32) Yuming Lu
+Plasmas at the Edge, Part I  (M98/31) D.J. Cooperberg and Charles K. (Ned) Birdsall
+w-Automata, Games and Synthesis  (M98/30) S.C. Krishnan
+O-Minimal Hybrid Systems  (M98/29) G. Lafferriere, G.J. Pappas and S. Shankar Sastry
+Volume Averaged Modeling of High Density Discharges  (M98/28) K. Patel
+Hopf Bifurcations and Degeneracies in Chua's Circuit--A Perspective from a Frequency Domain Approach  (M98/27) J.L. Moiola and Leon O. Chua
+On the Optimization Power of Retiming and Resynthesis Transformations  (M98/26) R.K. Ranjan, V. Singhal, F. Somenzi and Robert K. Brayton
+Accurate Timing Analysis in the Presence of Cross-Talk Using Timed Automata  (M98/25) S. Tasiran, S.P. Khatri, S. Yovine, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+A Noise-Immune VLSI Layout Methodology with Highly Predictable Parasitics  (M98/24) S.P. Khatri, A. Mehrotra, Robert K. Brayton, R.H.J.M. Otten and Alberto L. Sangiovanni-Vincentelli
+Symbolic Analysis of Hybrid Systems  (M98/23) R. Alur, Thomas A. Henzinger and H. Wong-Toi
+What's Decidable About Hybrid Automata  (M98/22) Thomas A. Henzinger, P.W. Kopke, A. Puri and Pravin Varaiya
+Symbolic Exploration of Transition Hierarchies  (M98/21) R. Alur, Thomas A. Henzinger and S.K. Rajamani
+Alternating-Time Temporal Logic  (M98/20) R. Alur, Thomas A. Henzinger and O. Kupferman
+Reachability Verification for Hybrid Automata  (M98/19) Thomas A. Henzinger and V. Rusu
+Finitary Fairness  (M98/18) R. Alur and Thomas A. Henzinger
+A Framework for Robust Measurement-Based Admission Control  (M98/17) M. Grossglauser and David Tse
+Hierarchically Consistent Control Systems  (M98/16) G.J. Pappas, G. Lafferriere and S. Shankar Sastry
+Hybrid Systems with Finite Bisimulations  (M98/15) G. Lafferriere, G.J. Pappas and S. Shankar Sastry
+Passive Model Order Reduction Algorithm for Multipoint Moment Matching of Multiport Distributed Interconnect Networks  (M98/13) Q. Yu, J.M.L. Wang and Ernest S. Kuh
+Optimal Sequences and Sum Capacity of Synchronous CDMA Systems  (M98/12) P. Viswanath and Venkat Anantharam
+Motion Recovery from Image Sequences: Discrete Viewpoint vs. Differential Viewpoint  (M98/11) Y. Ma, J. Kosecka and S. Shankar Sastry
+Architecture and Infrastructure for a Distributed Design Environment A Client Perspective  (M98/10) F.L. Chan
+Quasi-Static Scheduling of Free-Choice Petri Nets  (M98/9) M. Sgroi, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Autonomous Image Processing Algorithms Locate Region-of-Interests: The Mars Rover Application  (M98/8) C. Privitera, M. Azzariti and L.W. Stark
+Modeling Concurrent Real-Time Processes Using Discrete Events  (M98/7) Edward A. Lee
+Optimal Sequences, Power Control and Capacity of Spread-Spectrum Systems with Multiuser Linear Receivers  (M98/6) P. Viswanath, Venkat Anantharam and David Tse
+Low-Phase-Noise, Low-Timing-Jitter Design Techniques for Delay Cell Based VCOs and Frequency Synthesizers  (M98/5) Todd C. Weigandt
+Rectification Neural Networks: A Novel Adaptive Architecture and Its Application for Implementing the Local Logic of Cellular Neural Networks  (M98/4) R. Dogaru and Leon O. Chua
+A New Speech Enabled Applications Infrastructure for the INFOPAD  (M98/3) A.K. Sinha
+Wireless Communications for Smart Dust  (M98/2) V.S. Hsu, Joseph M. Kahn and Kristofer Pister
+Linear Multiuser Receivers: Effective Interference, Effective Bandwidth and Capacity  (M98/1) David Tse and S. Hanly

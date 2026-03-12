@@ -1,0 +1,11 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-214.html
+Information Flow in Linear Systems
+THIS REPORT HAS BEEN WITHDRAWN
+Se Yong Park
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-214
+December 17, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2013-214.pdf
+Modern control systems have their own unique features that distinguish them from classical control systems. In many cases, there inherently exist multiple distributed controllers and so communication networks can be introduced to connect them. Due to these features, it is challenging to design efficient controller and transceivers for modern control systems. Practically, we must answer questions like ``How reliable do we need the communication channels to be to achieve the desired control performance?", ``What information should be exchanged between controllers?" and ``What are the optimal controller and transceiver structures?" All these practical equations are related to one theoretical question ``Can we understand the information flows between controllers?" In other words, the controllers communicate with each other explicitly through the communication networks and also implicitly through the plants, and we have to understand this information flow for control. In this thesis, we consider three seemingly simple but fundamental problems to understand explicit and implicit information flows for control, as initial building blocks for a theory that we hope will eventually lead to novel and efficient  designs for modern control systems.
+Advisors:  Anant Sahai
+Author Comments:  see http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-233.html

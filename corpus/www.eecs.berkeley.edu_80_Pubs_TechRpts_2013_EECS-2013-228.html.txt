@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-228.html
+Formal Verification and Synthesis for Quality-of-Service in On-Chip Networks
+Daniel Holcomb
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-228
+December 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-228.pdf
+Quality-of-service (QoS) in on-chip communication networks has a tremendous impact on overall system performance in today’s era of ever-increasing core counts. Yet, Networks-on-Chip (NoCs) are still designed and analyzed using RTL simulation, or analysis of highly abstracted models. The formal techniques that are used in core components do not find use in QoS verification due to the scale of the problems of interest, such as verifying latency bounds of hundreds of cycles.
+This dissertation presents my recent work toward leveraging formal methods for NoC design and QoS verification. In particular, it addresses the problems of (1) verifying end-to-end latency bounds in a mesh network using abstraction; (2) scalable latency verification using compositional inductive proofs; and (3) optimal buffer sizing based on bounded model checking.
+Advisors:  Sanjit A. Seshia
+BibTeX citation:
+@phdthesis{Holcomb:EECS-2013-228,
+Author= {Holcomb, Daniel},
+Title= {Formal Verification and Synthesis for Quality-of-Service in On-Chip Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-228.html},
+Number= {UCB/EECS-2013-228},
+Abstract= {Quality-of-service (QoS) in on-chip communication networks has a tremendous impact on overall system performance in today’s era of ever-increasing core counts. Yet, Networks-on-Chip (NoCs) are still designed and analyzed using RTL simulation, or analysis of highly abstracted models. The formal techniques that are used in core components do not find use in QoS verification due to the scale of the problems of interest, such as verifying latency bounds of hundreds of cycles.
+This dissertation presents my recent work toward leveraging formal methods for NoC design and QoS verification. In particular, it addresses the problems of (1) verifying end-to-end latency bounds in a mesh network using abstraction; (2) scalable latency verification using compositional inductive proofs; and (3) optimal buffer sizing based on bounded model checking.},
+}
+EndNote citation:
+%0 Thesis
+%A Holcomb, Daniel
+%T Formal Verification and Synthesis for Quality-of-Service in On-Chip Networks
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 19
+%@ UCB/EECS-2013-228
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-228.html
+%F Holcomb:EECS-2013-228

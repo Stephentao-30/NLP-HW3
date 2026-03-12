@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-224.html
+Wideband Signal Acquisition via Frequency-Interleaved Sampling | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Wideband Signal Acquisition via Frequency-Interleaved Sampling
+Wideband Signal Acquisition via Frequency-Interleaved Sampling
+Steven Callender
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-224
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-224.pdf
+High-speed analog-to-digital converters (ADCs) are key enabling blocks for emerging wideband applications in communication, high-end instrumentation, and medical imaging. Larger signaling bandwidths improves system performance, and necessitates high-speed ADCs for accurate digitization. As an example, current state-of-the-art oscilloscopes have an acquisition bandwidth exceeding 60GHz with effective sample rates greater than 100GS/s. This places significant difficulty in the design of sample-and-hold (S/H) and analog-to-digital conversion circuitry that can operate at such high speeds while providing moderate resolution. As a result, the front-end of these systems are often complex, multi-chip solutions that are fabricated in expensive processes such as indium-phosphide (InP). With the increased demand for battery-operable, low-power systems it is desirable to have these high-performance signal acquisition systems in a fully-integrated CMOS implementation in order to harness the power of scaling as dictated by Moore's law. To achieve this, several advancements on current data conversion techniques need to be made.
+In this thesis, we explore the design and optimization of a frequency-interleaved ADC (FI-ADC) as an alternative to conventional high-speed ADC architectures, which are often heavily time-interleaved. Due to the large interleaving factor and timing sensitivity, the conventional architectures are often very power hungry and offer typical resolutions of 4 bits or less. FI-ADCs, in which the input signal is divided into various frequency bands which are independently digitized and digitally recombined, show less susceptibility to jitter, the primary bottleneck in high-speed ADCs. System simulations have shown a potential improvement in SNR performance for a frequency-interleaved ADC versus a direct sampling, time-interleaved architecture.
+The focus of this thesis is to provide a fundamental understanding of the operation of the FI-ADC and investigate the similarities and differences to the conventional time-interleaved ADC in respect to design complexity, design challenges and overall performance.
+Advisor:  Ali Niknejad
+BibTeX citation:
+@phdthesis{Callender:EECS-2015-224,
+Author = {Callender, Steven},
+Title = {Wideband Signal Acquisition via Frequency-Interleaved Sampling},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-224.html},
+Number = {UCB/EECS-2015-224},
+Abstract = {High-speed analog-to-digital converters (ADCs) are key enabling blocks for emerging wideband applications in communication, high-end instrumentation, and medical imaging. Larger signaling bandwidths improves system performance, and necessitates high-speed ADCs for accurate digitization.  As an example, current state-of-the-art oscilloscopes have an acquisition bandwidth exceeding 60GHz with effective sample rates greater than 100GS/s. This places significant difficulty in the design of sample-and-hold (S/H) and analog-to-digital conversion circuitry that can operate at such high speeds while providing moderate resolution.   As a result, the front-end of these systems are often complex, multi-chip solutions that are fabricated in expensive processes such as indium-phosphide (InP).  With the increased demand for battery-operable, low-power systems it is desirable to have these high-performance signal acquisition systems in a fully-integrated CMOS implementation in order to harness the power of scaling as dictated by Moore's law.  To achieve this, several advancements on current data conversion techniques need to be made.
+In this thesis, we explore the design and optimization of a frequency-interleaved ADC (FI-ADC) as an alternative to conventional high-speed ADC architectures, which are often heavily time-interleaved.  Due to the large interleaving factor and timing sensitivity, the conventional architectures are often very power hungry and offer typical resolutions of 4 bits or less. FI-ADCs, in which the input signal is divided into various frequency bands which are independently digitized and digitally recombined, show less susceptibility to jitter, the primary bottleneck in high-speed ADCs.  System simulations have shown a potential improvement in SNR performance for a frequency-interleaved ADC versus a direct sampling, time-interleaved architecture.
+The focus of this thesis is to provide a fundamental understanding of the operation of the FI-ADC and investigate the similarities and differences to the conventional time-interleaved ADC in respect to design complexity, design challenges and overall performance.}
+}
+EndNote citation:
+%0 Thesis
+%A Callender, Steven
+%T Wideband Signal Acquisition via Frequency-Interleaved Sampling
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-224
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-224.html
+%F Callender:EECS-2015-224

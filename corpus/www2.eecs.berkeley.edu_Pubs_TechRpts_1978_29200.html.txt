@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29200.html
+High-Performance NMOS Operational Amplifier | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+High-Performance NMOS Operational Amplifier
+High-Performance NMOS Operational Amplifier
+D. Senderowicz, D.A. Hodges and P.R. Gray
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/29
+March 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-29.pdf
+BibTeX citation:
+@techreport{Senderowicz:M78/29,
+Author = {Senderowicz, D. and Hodges, D.A. and Gray, P.R.},
+Title = {High-Performance NMOS Operational Amplifier},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29200.html},
+Number = {UCB/ERL M78/29}
+}
+EndNote citation:
+%0 Report
+%A Senderowicz, D.
+%A Hodges, D.A.
+%A Gray, P.R.
+%T High-Performance NMOS Operational Amplifier
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29200.html
+%F Senderowicz:M78/29

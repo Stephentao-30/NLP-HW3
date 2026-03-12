@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28652.html
+State Estimation of Power Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+State Estimation of Power Systems
+State Estimation of Power Systems
+Antonio R. Zarate, G.E. Mauerberger and J.M. Smith
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M248
+June 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-248.pdf
+BibTeX citation:
+@techreport{Zarate:M248,
+Author = {Zarate, Antonio R. and Mauerberger, G.E. and Smith, J.M.},
+Title = {State Estimation of Power Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28652.html},
+Number = {UCB/ERL M248}
+}
+EndNote citation:
+%0 Report
+%A Zarate, Antonio R.
+%A Mauerberger, G.E.
+%A Smith, J.M.
+%T State Estimation of Power Systems
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M248
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28652.html
+%F Zarate:M248

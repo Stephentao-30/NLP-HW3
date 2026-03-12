@@ -1,0 +1,23 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/cidr15.html
+Towards Generating Application-Specific Data Management Systems
+Towards Generating Application-Specific Data Management Systems
+Alvin Cheung
+Abstract for  CIDR 2015
+Abstract
+Specialization is an effective way to improve performance. That
+principle has manifested time and again in database management
+systems (DBMSs), with custom data storage engines such as column
+stores and streaming engines outperforming traditional DBMSs
+in specific application and architecture domains. Unfortunately,
+designing custom data storage engines is a tedious task.
+Developers need to first analyze numerous applications and their hosting
+platforms to identify common patterns in manipulating persistent
+data. This is followed by a painstaking and trial-and-error process
+of devising efficient implementations for the data operations on the
+target platform. We argue that advances in program analysis and
+software synthesis can help in automating this design process. In
+the following we describe opportunities where understanding the
+application can improve functionalities provided by the DBMS.
+Download
+[ Full Abstract ]
+home

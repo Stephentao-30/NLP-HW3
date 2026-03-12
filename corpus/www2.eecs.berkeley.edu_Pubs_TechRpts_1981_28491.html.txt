@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28491.html
+Kink Instabilities in Long Ion Layers
+Douglas S. Harned
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/73
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-73.pdf
+BibTeX citation:
+@techreport{Harned:M81/73,
+Author= {Harned, Douglas S.},
+Title= {Kink Instabilities in Long Ion Layers},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28491.html},
+Number= {UCB/ERL M81/73},
+}
+EndNote citation:
+%0 Report
+%A Harned, Douglas S.
+%T Kink Instabilities in Long Ion Layers
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/73
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28491.html
+%F Harned:M81/73

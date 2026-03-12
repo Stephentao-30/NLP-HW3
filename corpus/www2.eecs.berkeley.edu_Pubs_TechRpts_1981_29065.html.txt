@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29065.html
+An Approach to Two-Dimensional Channel Routing
+Y.K. Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/83
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-83.pdf
+BibTeX citation:
+@techreport{Chen:M81/83,
+Author= {Chen, Y.K.},
+Title= {An Approach to Two-Dimensional Channel Routing},
+Year= {1981},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29065.html},
+Number= {UCB/ERL M81/83},
+}
+EndNote citation:
+%0 Report
+%A Chen, Y.K.
+%T An Approach to Two-Dimensional Channel Routing
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29065.html
+%F Chen:M81/83

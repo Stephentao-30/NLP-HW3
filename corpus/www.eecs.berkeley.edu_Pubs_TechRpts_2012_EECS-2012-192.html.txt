@@ -1,0 +1,27 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-192.html
+Experimental and Simulation Study of Resistive Switches for Memory Applications
+Feng Pan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-192
+September 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-192.pdf
+BibTeX citation:
+@techreport{Pan:EECS-2012-192,
+Author= {Pan, Feng},
+Title= {Experimental and Simulation Study of Resistive Switches for Memory Applications},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-192.html},
+Number= {UCB/EECS-2012-192},
+}
+EndNote citation:
+%0 Report
+%A Pan, Feng
+%T Experimental and Simulation Study of Resistive Switches for Memory Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 4
+%@ UCB/EECS-2012-192
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-192.html
+%F Pan:EECS-2012-192

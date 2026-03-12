@@ -1,0 +1,225 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015
+Technical Reports - 2015
+Syllable based Lattice Transduction for Keyword Search  (EECS-2015-268) Hang Su
+Hold ’em or Fold ’em? Aggregation Queries under Performance Variations  (EECS-2015-267) Gautam Kumar, Ganesh Ananthanarayanan, Sylvia Ratnasamy and Ion Stoica
+End-User Record and Replay for the Web  (EECS-2015-266) Shaon Barman
+Mixed Precision Vector Processors  (EECS-2015-265) Albert Ou
+Hwacha Preliminary Evaluation Results, Version 3.8.1  (EECS-2015-264) Yunsup Lee, Colin Schmidt, Sagar Karandikar, Daniel Dabbelt, Albert Ou and Krste Asanović
+The Hwacha Microarchitecture Manual, Version 3.8.1  (EECS-2015-263) Yunsup Lee, Albert Ou, Colin Schmidt, Sagar Karandikar, Howard Mao and Krste Asanović
+The Hwacha Vector-Fetch Architecture Manual, Version 3.8.1  (EECS-2015-262) Yunsup Lee, Colin Schmidt, Albert Ou, Andrew Waterman and Krste Asanović
+Opportunities for Fine-Grained Adaptive Voltage Scaling to Improve System-Level Energy Efficiency  (EECS-2015-257) Ben Keller
+Flexible FFT Optimization and RTL Generation in the Chisel Hardware Design Language  (EECS-2015-256) Stephen Twigg
+Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters  (EECS-2015-255) Henry Barrow
+Supervised Text Region Identification on Historical Documents  (EECS-2015-254) Jonathan Eng
+Characterization and applications of piezoelectric polymers  (EECS-2015-253) Tae hoon Kim
+Coarse-to-fine MCMC in a seismic monitoring system  (EECS-2015-252) Xiaofei Zhou
+Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora  (EECS-2015-251) Andrew Godbehere
+Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers  (EECS-2015-250) Cameron Rose
+Introduction to the Language of Convex Optimization  (EECS-2015-249) Elan Frenkel
+pin orbit torque driven magnetic switching for low power computing and memory  (EECS-2015-248) Debanjan Bhowmik
+High-Q AlN Contour Mode Resonators with Unattached, Voltage-Actuated Electrodes  (EECS-2015-247) Robert Schneider
+Ressort: An Auto-Tuning Framework for Parallel Shuffle Kernels  (EECS-2015-246) Eric Love
+Exploiting Structure and Input-Output Properties in Networked Dynamical Systems  (EECS-2015-245) Ana Sofia Rufino Ferreira
+Visual Representations for Fine-grained Categorization  (EECS-2015-244) Ning Zhang
+Short-Term Traffic Forecasting: Modeling and Learning Spatio-Temporal Relations in Transportation Networks Using Graph Neural Networks  (EECS-2015-243) Behrooz Shahsavari and Pieter Abbeel
+Data-centric Programming for Distributed Systems  (EECS-2015-242) Peter Alvaro
+Large-Margin Structured Prediction Extensions of Neural Networks for Automatic Speech Recognition  (EECS-2015-241) Suman Ravuri
+A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions  (EECS-2015-240) Achintya Madduri
+Machine Learning and Optimization for Neural Circuit Reconstruction  (EECS-2015-239) Jeremy Maitin-Shepard
+Model-Based Fault Detection and Identification for Power Electronics Systems  (EECS-2015-238) Jason Poon
+Tools for Creating Audio Stories  (EECS-2015-237) Steven Rubin
+On the Power of Lasserre SDP Hierarchy  (EECS-2015-236) Ning Tan
+Unsupervised Analysis of Structured Human Artifacts  (EECS-2015-235) Taylor Berg-Kirkpatrick
+Global Data Plane Router on Click  (EECS-2015-234) Nikhil Goyal, John Wawrzynek and John D. Kubiatowicz
+Connecting the Last Billion  (EECS-2015-233) Yahel Ben David
+Privacy-preserving Messaging and Search: A Collaborative Approach  (EECS-2015-230) Giulia Fanti
+Efficient Reproducible Floating Point Summation and BLAS  (EECS-2015-229) Willow Ahrens, Hong Diep Nguyen and James Demmel
+Low-Complexity Interactive Algorithms for Synchronization from Deletions, Insertions, and Substitutions  (EECS-2015-227) Vasuki Narasimha Swamy, Kannan Ramchandran and Ramji Venkataramanan
+Non-Epitaxial Thin-Film Indium Phosphide Photovoltaics: Growth, Devices, and Cost Analysis  (EECS-2015-226) Maxwell Zheng
+Learning Manipulation of Deformable Objects from Multiple Demonstrations  (EECS-2015-225) Henry Lu
+Wideband Signal Acquisition via Frequency-Interleaved Sampling  (EECS-2015-224) Steven Callender
+Worker Expertise and Expert Rubrics in Crowdsourced Design Critique  (EECS-2015-223) Alvin Yuan, Kurt Luther, Markus Krause, Steven P. Dow and Björn Hartmann
+Occlusion-aware Depth Estimation Using Light-field Cameras  (EECS-2015-222) Ting-Chun Wang, Alexei (Alyosha) Efros and Ravi Ramamoorthi
+CMOS and Memristor Technologies for Neuromorphic Computing Applications  (EECS-2015-219) Jeff Sun
+Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings  (EECS-2015-217) Costas J. Spanos and Zhaoyi Kang
+Robust Optimization and Data Approximation in Machine Learning  (EECS-2015-216) Gia Vinh Anh Pham
+Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications  (EECS-2015-215) Jae Yeon (Claire) Baek
+Readout Circuits for Frequency-Modulated Gyroscopes  (EECS-2015-214) Igor Izyumin
+Modeling and Applications of Highly-Scaled Gravure Printing  (EECS-2015-213) Rungrot Kitsomboonloha
+Micromechanical Resonant Switches ("Resoswitches") and Resonant Power Converters  (EECS-2015-212) Yang Lin
+Coflow: A Networking Abstraction for Distributed Data-Parallel Applications  (EECS-2015-211) Mosharaf Chowdhury
+Abstract Semantics for Software Security Analysis  (EECS-2015-210) Kevin Zhijie Chen
+The RISC-V Compressed Instruction Set Manual, Version 1.9  (EECS-2015-209) Andrew Waterman, Yunsup Lee, David A. Patterson and Krste Asanović
+Rethinking the First Look at Data by Framing It  (EECS-2015-208) Sara Alspaugh, Anna Swigart, Ian MacFarland, Randy H. Katz and Marti Hearst
+Deconstructing and Restyling D3 Visualizations  (EECS-2015-207) Jonathan Harper
+Coordination Avoidance in Distributed Databases  (EECS-2015-206) Peter Bailis
+A Fast Parameterized SHA3 Accelerator  (EECS-2015-204) Colin Schmidt and Adam Izraelevitz
+Improving the HLA-CERTI framework  (EECS-2015-202) David Come
+Games with vector payoffs : a dynamic programming approach  (EECS-2015-201) Vijay Kamble
+Intuitive Appliance Identification using Image Matching in Smart Buildings  (EECS-2015-200) Kaifei Chen, John Kolb, Jonathan Fürst, Dezhi Hong, David E. Culler and Randy H. Katz
+Leveraging Similar Regions to Improve Genome Data Processing  (EECS-2015-199) Kristal Curtis
+Building Reliable Distributed Systems With P  (EECS-2015-198) Ankush Desai, Ethan Jackson, Amar Phanishayee, Shaz Qadeer and Sanjit A. Seshia
+XBOS: An Extensible Building Operating System  (EECS-2015-197) Gabriel Fierro and David E. Culler
+Design Considerations for Nano-Electromechanical Relay Circuits  (EECS-2015-195) Matthew Spencer
+Scalable Platform for Malicious Content Detection Integrating Machine Learning and Manual Review  (EECS-2015-194) Bradley Miller
+Beyond Bounding Boxes: Precise Localization of Objects in Images  (EECS-2015-193) Bharath Hariharan
+Convex geometric tools in information theory  (EECS-2015-192) Varun Jog
+Monte Carlo Methods for SLAM with Data Association Uncertainty  (EECS-2015-191) Constantin Berzan and Stuart J. Russell
+Reachability-based Safe Learning with Gaussian Processes  (EECS-2015-190) Anayo Akametalu
+Compositional Design of Cyber-Physical Systems Using Contracts  (EECS-2015-189) Pierluigi Nuzzo
+OS and Runtime Support for Efficiently Managing Cores in Parallel Applications  (EECS-2015-188) Kevin Klues
+Statistical Models for Genome Assembly and Analysis  (EECS-2015-186) Atif Rahman
+Communication-Optimal Loop Nests  (EECS-2015-185) Nick Knight
+Refinements in Syntactic Parsing  (EECS-2015-184) David Hall
+Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems  (EECS-2015-183) Chung-Wei Lin
+Design of control algorithms for redundant neuroprosthetic brain-machine interfaces  (EECS-2015-182) Suraj Gowda
+Predictable Processors for Mixed-Criticality Systems and Precision-Timed I/O  (EECS-2015-181) Michael Zimmer
+Communication-Avoiding Krylov Subspace Methods in Theory and Practice  (EECS-2015-179) Erin Carson
+Incentivizing Efficiency in Societal-Scale Cyber-Physical Systems  (EECS-2015-178) Lillian Ratliff
+Exploring Privacy Preservation in Outsourced K-Nearest Neighbors with Multiple Data Owners  (EECS-2015-177) Frank Li, Richard Shin and Vern Paxson
+Risk Management and Combinatorial Optimization for Large-Scale Demand Response and Renewable Energy Integration  (EECS-2015-176) Insoon Yang
+Synthesis and Verification of Networked Systems with Applications to Transportation Networks  (EECS-2015-175) Samuel Coogan
+Unified Multi-Cue Depth Estimation from Light-Field Images: Correspondence, Defocus, Shading, and Specularity  (EECS-2015-174) Michael Tao
+A Compartmental Lateral Inhibition System to Generate Contrasting Patterns  (EECS-2015-173) Ana Sofia Rufino Ferreira, Justin Hsia and Murat Arcak
+Towards Digital Apprenticeship: Wearable Activity Recognition in the Workshop Setting  (EECS-2015-172) Timothy Campbell, Jonathan Harper, Björn Hartmann and Eric Paulos
+Negative Capacitance for Ultra-low Power Computing  (EECS-2015-171) Asif Islam Khan
+Formal Methods for Engineering Education  (EECS-2015-170)
+Rendering Issues in Pacioli’s Rhombicuboctahedron  (EECS-2015-169) Carlo H. Séquin and Raymond Shiau
+Scalable Transactions for Scalable Distributed Database Systems  (EECS-2015-168) Gene Pang
+The Berkeley Out-of-Order Machine (BOOM): An Industry-Competitive, Synthesizable, Parameterized RISC-V Processor  (EECS-2015-167) Christopher Celio, David A. Patterson and Krste Asanović
+Variability Modeling and Statistical Parameter Extraction for CMOS Devices  (EECS-2015-165) Kun Qian
+Filtering Environment Illumination for Interactive Physically-Based Rendering in Mixed Reality  (EECS-2015-164) Soham Uday Mehta, Kihwan Kim, Dawid Pajak, Kari Pulli, Jan Kautz and Ravi Ramamoorthi
+Write-Avoiding Algorithms  (EECS-2015-163) Erin Carson, James Demmel, Laura Grigori, Nick Knight, Penporn Koanantakool, Oded Schwartz and Harsha Vardhan Simhadri
+Verification of Confidentiality Properties of Enclave Programs  (EECS-2015-162) Rohit Sinha, Sriram Rajamani, Sanjit A. Seshia and Kapil Vaswani
+Design and Fabrication of cm-scale Tesla Turbines  (EECS-2015-161) Vedavalli Krishnan
+Ultra-low energy photoreceivers for optical interconnects  (EECS-2015-160) Ryan Going
+SiRen: Leveraging Similar Regions for Efficient & Accurate Variant Calling  (EECS-2015-159) Kristal Curtis, Ameet Talwalkar, Matei Zaharia, Armando Fox and David A. Patterson
+Approximate Synchrony: An Abstraction for Distributed Almost-Synchronous Systems  (EECS-2015-158) Ankush Desai, Sanjit A. Seshia, Shaz Qadeer, David Broman and John Eidson
+The RISC-V Compressed Instruction Set Manual, Version 1.7  (EECS-2015-157) Andrew Waterman, Yunsup Lee, David A. Patterson and Krste Asanović
+Building a User Interface for a Temporal Machine Learning System  (EECS-2015-156) George Yiu
+SoftNIC: A Software NIC to Augment Hardware  (EECS-2015-155) Sangjin Han, Keon Jang, Aurojit Panda, Shoumik Palkar, Dongsu Han and Sylvia Ratnasamy
+Design and Analysis of a PVDF Acoustic Transducer Towards an Imager for Mobile Underwater Sensor Networks  (EECS-2015-154) Benjamin T Eovino
+Transistor circuits for MEMS based transceiver  (EECS-2015-151) Soumya Mantha, Darryl Yu, Yuehan Xu, Kelvin Liang and Keli Hui
+Transistor circuits for MEMS based transceiver  (EECS-2015-150) Clark Nguyen and Soumya Mantha
+Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics  (EECS-2015-149) John Herr
+Room temperature approach to fully transparent, all-oxide thin-film transistors  (EECS-2015-148) Thomas Rembert and Ali Javey
+Room temperature approach to fully transparent, all-oxide thin-film transistors  (EECS-2015-147) Thomas Rembert
+Large Scale Text Analysis  (EECS-2015-145) Kevin Tee
+High Availability on a Distributed Real Time Processing System  (EECS-2015-144) Enrico Tanuwidjaja, Jian Neng Li and Ashkon Soroudi
+Petabit Switch Fabric Design  (EECS-2015-143) Surabhi Kumar
+A quantitative approach to wireless spectrum regulation  (EECS-2015-142) Kate Harrison
+A Low-noise Amplifier for Electrocardiogram Signals  (EECS-2015-141) Jonghun Kwak
+Remote Pair Programming in a Visual Programming Language  (EECS-2015-139) Jonathan McKinsey
+High Availability on a Distributed Real Time Processing System  (EECS-2015-137) Jian Neng Li, Ashkon Soroudi and Enrico Tanuwidjaja
+Large Scale Text Analysis  (EECS-2015-136) Xinchen Ye, Kevin Tee and Weijia Jin
+High Availability on a Distributed Real Time Processing System  (EECS-2015-135) Ashkon Soroudi, Enrico Tanuwidjaja and Jian Neng Li
+High Availability on a Distributed Real Time Processing System  (EECS-2015-134) Enrico Tanuwidjaja
+High Speed Analog Circuit for Solving Optimization Problems  (EECS-2015-133) Kristel Deems
+Large Scale Text Analysis  (EECS-2015-129) Kevin Tee, Xinchen Ye and Weijia Jin
+Big Data Analytics  (EECS-2015-128) Feiyang Xue
+Model-Based Embedded Software  (EECS-2015-127) Kevin Albers, Robert Bui, Jose Oyola Cabello and Naren Vasanad
+Two Optimal Path Problems in Synthetic Biology  (EECS-2015-126) Matthew Fong
+Digital Image Manipulation Forensics  (EECS-2015-125) Omar Ramadan, Anthony Sutardja and Yan Zhao
+Model-based Embedded Software  (EECS-2015-124) Naren Vasanad, Kevin Albers, Robert Bui and Jose Oyola Cabello
+Metal Optics Based nanoLEDs: In Search of a Fast, Efficient, Nanoscale Light Emitter  (EECS-2015-122) Michael Eggleston
+Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures  (EECS-2015-121) Phitchaya Phothilimthana
+Model-Based Embedded Software  (EECS-2015-120) Jose Oyola Cabello, Kevin Albers, Robert Bui and Naren Vasanad
+Optofluidic Devices for Droplet and Cell Manipulation  (EECS-2015-119) Shao Ning Pei
+Discover Insights from Data Analysis  (EECS-2015-118) Andrew Ho
+Model-Based Embedded Software  (EECS-2015-117) Robert Bui, Kevin Albers, Jose Oyola Cabello and Naren Vasanad
+Petabit Switch Fabric Design  (EECS-2015-116) Bhavana Chaurasia, Yale Chen, Ian Juch, Surabhi Kumar and Jay Mistry
+Next Generation Memory Interfaces  (EECS-2015-115) Kalika Saxena
+Low-Latency, High-Reliability Wireless Networks for Control Applications  (EECS-2015-114) Matthew Weiner
+Next Generation Memory Interfaces  (EECS-2015-113) Chenyang Xu
+Online Video Data Analytics  (EECS-2015-112) Yaohui Ye, Wenxuan Cai, Benjamin Le, Jefferson Lai and Pierce Vollucci
+Next Generation Memory Interfaces  (EECS-2015-111) Miron Veryanskiy, Kyle Dillon, Kalika Saxena, Sinan Liu and Chenyang Xu
+Expanded Tele-heatlh Platform for Android  (EECS-2015-110) Adarsh Mani, Phillip Azar, Jochem Van Gaalen and Quan Peng
+Interactive Device Design with Kinoma Create  (EECS-2015-109) Codanda Appachu, Steven Hong and Sean McQueen
+Heat-Assisted Magnetic Recording: Fundamental Limits to Inverse Electromagnetic Design  (EECS-2015-106) Samarth Bhargava
+3D Modeling of Interior Building Environments and Objects from Noisy Sensor Suites  (EECS-2015-105) Eric Turner
+Next Generation Memory Interfaces  (EECS-2015-104) Kyle Dillon
+Thin Body InAs on Insulator Transistors  (EECS-2015-103) Jared Carter
+Low-Noise Ring Amplifier with Thermal Noise Cancellation  (EECS-2015-102) Guanpeng Zhi, Jonghun Kwak and Zhiyang Song
+Interactive Device Design with Kinoma Create  (EECS-2015-101) Sean McQueen, Steven Hong and Codanda Appachu
+Online Video Data Analytics  (EECS-2015-100) Wenxuan Cai, Benjamin Le, Jefferson Lai, Pierce Vollucci and Yaohui Ye
+Applications of Bayesian Knowledge Tracing to the Curation of Educational Videos  (EECS-2015-98) Zachary MacHardy
+Interactive Device Design with Kinoma Create  (EECS-2015-97) Steven Hong, Codanda Appachu and Sean McQueen
+Next Generation Memory Interfaces  (EECS-2015-95) Sinan Liu
+Scalable Algorithms for Population Genomic Inference  (EECS-2015-94) Sara Sheehan
+Petabit Switch Fabric Design  (EECS-2015-93) Yale Chen, Bhavana Chaurasia, Ian Juch, Surabhi Kumar and Jay Mistry
+Interdigital Oil Droplets Sensor with Acoustic Enabled Pre-Positioning  (EECS-2015-92) Xiaoyue Jiang
+Petabit Switch Fabric Design  (EECS-2015-91) Jay Mistry, Yale Chen, Bhavana Chaurasia, Ian Juch and Surabhi Kumar
+Expanded Tele-Health Platform for Android  (EECS-2015-90) Quan Peng, Phillip Azar, Adarsh Mani and Jochem Van Gaalen
+Robotic Manipulation with a Human in the Loop – Accuracy Comparison and Analysis  (EECS-2015-89) James Su, Sebastian Schweigert, Sunil Srinivasan, Jiewen Sun and Mark Jouppi
+Petabit Switch-Fabric Design  (EECS-2015-88) Ian Juch, Bhavana Chaurasia, Yale Chen, Surabhi Kumar and Jay Mistry
+Robotic Manipulation with a Human in the Loop - The Pipeline for Learning by Demonstration  (EECS-2015-87) Sunil Srinivasan, Sebastian Schweigert, Jiewen Sun, James Su and Mark Jouppi
+Expanded Tele-Health Platform for Android  (EECS-2015-86) Jochem Van Gaalen, Phillip Azar, Adarsh Mani and Quan Peng
+Digital Image Manipulation Forensic  (EECS-2015-85) Yan Zhao, Anthony Sutardja and Omar Ramadan
+Forensic Methods for Detecting Image Manipulation - Copy Move  (EECS-2015-84) Anthony Sutardja, Omar Ramadan and Yan Zhao
+Expanded Telehealth Platform for Android  (EECS-2015-83) Phillip Azar, Adarsh Mani, Quan Peng and Jochem Van Gaalen
+Ring-Amplification Technique for Bio-Signal LNA Designs  (EECS-2015-82) Zhiyang Song
+Robotic Manipulation with a Human in the Loop  (EECS-2015-78) Mark Jouppi, Sebastian Schweigert, Jiewen Sun, James Su and Sunil Srinivasan
+Towards Secure and Privacy-Preserving Online Social Networking Services  (EECS-2015-76) Zhenqiang Gong
+Closed-loop decoder adaptation algorithms for brain-machine interface systems  (EECS-2015-75) Siddharth Dangi
+Electronic Properties of Low-Dimensional Materials Under Periodic Potential  (EECS-2015-73) Mehdi Jamei
+Online Video Data Analytics  (EECS-2015-72) Jefferson Lai, Benjamin Le, Pierce Vollucci, Wenxuan Cai and Yaohui Ye
+Online Video Data Analytics  (EECS-2015-71) Pierce Vollucci, Benjamin Le, Jefferson Lai, Wenxuan Cai and Yaohui Ye
+Online Video Data Analytics  (EECS-2015-70) Benjamin Le, Jefferson Lai, Pierce Vollucci, Wenxuan Cai and Yaohui Ye
+Robot Manipulation with a Human in the Loop - Trajectory Recording and Playback  (EECS-2015-68) Sebastian Schweigert, Jiewen Sun, James Su, Sunil Srinivasan and Mark Jouppi
+Robotic Manipulation with a Human in the Loop - Accuracy Estimation of the Baxter Robot  (EECS-2015-67) Jiewen Sun, Sebastian Schweigert, James Su, Sunil Srinivasan and Mark Jouppi
+Axis-aligned Filtering for Interactive Physically-based Rendering  (EECS-2015-66) Soham Uday Mehta
+Scalable Genome Resequencing with ADAM and avocado  (EECS-2015-65) Frank Nothaft
+Transistor Circuits for MEMS Based Transceiver  (EECS-2015-62) Yuehan Xu, Keli Hui, Darryl Yu, Soumya Mantha and Kelvin Liang
+Optical Design Considerations for High Conversion Efficiency in Photovoltaics  (EECS-2015-61) Vidya Ganapati
+Experimental Design for Human-in-the-Loop Driving Simulations  (EECS-2015-59) Katherine Driggs Campbell and Ruzena Bajcsy
+Robust Scheduling for Queueing Networks  (EECS-2015-58) Ramtin Pedarsani
+Piezoelectric Negative Capacitance  (EECS-2015-57) Justin Wong and Sayeef Salahuddin
+CALTRANSCENSE: A REAL-TIME SPEAKER IDENTIFICATION SYSTEM  (EECS-2015-55) Antonio De Lima Fernandes
+Computational 3D Microscope  (EECS-2015-54) Ying Ou
+Capstone Report Project NoScope  (EECS-2015-53) Longxiang Cui, Mark Hardiman, Zeyi Lee, Ying Ou and Ryan Frazier
+Capstone Report - Project NoScope  (EECS-2015-52) Zeyi Lee, Mark Hardiman, Ryan Frazier, Ying Ou and Longxiang Cui
+Project NoScope  (EECS-2015-51) Mark Hardiman, Ying Ou, Ryan Frazier, Zeyi Lee and Longxiang Cui
+Capstone Report Project NoScope  (EECS-2015-50) Ryan Frazier, Ying Ou, Mark Hardiman, Zeyi Lee and Longxiang Cui
+The RISC-V Instruction Set Manual Volume II: Privileged Architecture Version 1.7  (EECS-2015-49) Andrew Waterman, Yunsup Lee, Rimas Avizienis, David A. Patterson and Krste Asanović
+Transistor Circuits For A MEMS Based Transceiver  (EECS-2015-48) Kelvin Liang
+Transistor Circuits for MEMS Based Transceiver  (EECS-2015-47) Keli Hui, Kelvin Liang, Darryl Yu, Yuehan Xu and Soumya Mantha
+Transistor Circuits for MEMS-based Transceiver  (EECS-2015-46) Darryl Yu
+Finite Element Analysis of the Effects of Package Induced Stress on Micromechanical Resonator Temperature Stability  (EECS-2015-45) Divya Kashyap
+Active systems with uncertain parameters: an information-theoretic perspective  (EECS-2015-43) Gireeja Ranade
+Large-Scale Silicon Photonic MEMS Switch  (EECS-2015-42) Sangyoon Han
+Synthesis of Reliable and Cost-Effective Cyber-Physical System Architectures  (EECS-2015-41) Nikunj Bajaj
+Large Scale Silicon Photonic MEMS Switch  (EECS-2015-40) Sangyoon Han
+Bloom Cookies: Web Search Personalization without User Tracking  (EECS-2015-39) Nitesh Mor
+A Micromechanical RF Channelizer  (EECS-2015-38) Mehmet Akgul
+Study of Variability in Advanced Transistor Technologies  (EECS-2015-37) Nattapol Damrongplasit
+Probabilistically Modeling Semantic Change  (EECS-2015-36) Aleksandr Nisnevich, David Hall and Daniel Klein
+Parametric identification of concentration-dependent gene regulation networks  (EECS-2015-34) Qie Hu
+Development of an air-stable, high energy density printed silver oxide battery for printed electronics  (EECS-2015-33) Kyle Braam
+Model Predictive Control Approach to Electric Vehicle Charging in Smart Grids  (EECS-2015-31) Somil Bansal
+Distributed Control and Synchronization of Diffusively Coupled Systems  (EECS-2015-30) Yusef Shafi
+Matrix Multiplication Algorithm Selection with Support Vector Machines  (EECS-2015-29) Omer Spillinger, David Eliahu, Armando Fox and James Demmel
+FRPA: A Framework for Recursive Parallel Algorithms  (EECS-2015-28) David Eliahu, Omer Spillinger, Armando Fox and James Demmel
+Ultrasonic 3D Rangefinder on a Chip  (EECS-2015-27) Richard Przybyla
+Frequency Modulated Gyroscopes  (EECS-2015-26) Mitchell Kline
+A W-Band Phase-Locked Loop for Millimeter-Wave Applications  (EECS-2015-25) Shinwon Kang
+Shark: SQL and Rich Analytics at Scale  (EECS-2015-24) Reynold Shi Xin
+Semantics and Pragmatics of Spatial Reference  (EECS-2015-23) Dave Golland
+Aircraft Design Optimization as a Geometric Program  (EECS-2015-22) Warren Hoburg
+Design Techniques for Fully Integrated Switched-Capacitor Voltage Regulators  (EECS-2015-21) Hanh-Phuc Le
+Surface Web Semantics for Structured Natural Language Processing  (EECS-2015-20) Mohit Bansal
+Low Power, Scalable Platforms for Implantable Neural Recording  (EECS-2015-19) Rikky Muller
+Efficient Switching Power Amplifiers using the Distributed Switch Architecture  (EECS-2015-18) Siva Viswanathan Thyagarajan and Ali Niknejad
+Modularity Conserved during Evolution: Algorithms and Analysis  (EECS-2015-17) Luqman Hodgkinson
+Avoiding communication in the Lanczos bidiagonalization routine and associated Least Squares QR solver  (EECS-2015-15) Erin Carson
+Superoptimizer Construction Framework with Efficient Hybrid Search  (EECS-2015-14) Phitchaya Phothilimthana, Aditya Thakur, Ras Bodik and Dinakar Dhurjati
+SJS: a Typed Subset of JavaScript with Fixed Object Layout  (EECS-2015-13) Philip Wontae Choi, Satish Chandra, George Necula and Koushik Sen
+SWIFT: Compiled Inference for Probabilistic Programs  (EECS-2015-12) Lei Li, Yi Wu and Stuart J. Russell
+From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems  (EECS-2015-11) Liangpeng Guo
+CA-SVM: Communication-Avoiding Parallel Support Vector Machines on Distributed Systems  (EECS-2015-9) Yang You, James Demmel, Kenneth Czechowski, Le Song and Richard Vuduc
+Participatory Classification in a System for Assessing Multimodal Transportation Patterns  (EECS-2015-8) Kalyanaraman Shankari, Mogeng Yin, Randy H. Katz and David E. Culler
+Information Display for Societal Problems: Data, Game, or Choice?  (EECS-2015-7) Kalyanaraman Shankari, Janice Park, Tejomay Gadgil, Randy H. Katz and David E. Culler
+A Dynamic Analysis for Tuning Floating-point Precision  (EECS-2015-6) Cuong Nguyen
+DLint: Dynamically Checking Bad Coding Practices in JavaScript  (EECS-2015-5) Liang Gong, Michael Pradel, Manu Sridharan and Koushik Sen
+RAID-CUBE: The Modern Datacenter Case for RAID  (EECS-2015-4) Jayanta Basak and Randy H. Katz
+Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design  (EECS-2015-3) Ioannis Konstantakopoulos, Costas J. Spanos and S. Shankar Sastry
+High Quality Factor Lamb Wave Resonators  (EECS-2015-1) Jie Zou

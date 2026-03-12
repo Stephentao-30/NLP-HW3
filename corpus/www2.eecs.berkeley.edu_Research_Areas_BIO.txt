@@ -1,0 +1,147 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/BIO
+Biosystems & Computational Biology (BIO)
+Overview
+Modern biology is increasingly reliant on the algorithmic and
+conceptual tools of computer science and electrical engineering.
+A major factor is the unprecedented growth in the size and scope
+of biological data sets, including multi-species genomic data,
+databases of polymorphic variants, databases of protein structure and RNA structure, gene expression data, biochemical measurements from large-scale gene knockout experiments and biomedical data. Representing, manipulating and integrating such data requires an appreciation of ideas from diverse areas of EECS such as databases, algorithms, artificial intelligence, graphics, signal processing
+and image processing.  Reasoning about the underlying phenomena that give rise to such data require the systems-level thinking that is the underpinning of areas such as control theory, information theory and statistical machine learning.  Ideas from circuit design and nanotechnology play key roles in the design of new biological sensors and actuators.  Students in EECS who work on biological
+problems obtain a cross-disciplinary education in EECS and biology,
+and often play key roles in collaborative research projects involving biology faculty and students.
+It is also important to note that the research efforts in biosystems and
+computational biology in EECS are part of a larger, campus-wide initiative
+in computational biology. Indeed, many EECS faculty are members of the
+Center for Computational Biology (CCB). For information on the Center and
+additional course offerings, please visit http://qb3.berkeley.edu/ccb/.
+All courses listed on the CCB website are open to all interested students
+meeting the prerequisites regardless of departmental affiliations.
+Topics
+Neural systems
+Sensory motor control. Vision. Audition. Biomimetics. Brain-machine interfaces. Computational neuroscience.
+Biomedical systems
+Sensors. Healthcare systems. Physiological modeling. Medical imaging and bioimage analysis.
+Medical imaging and instrumentation
+Research Centers
+Berkeley Center for Computational Imaging
+Berkeley Laboratory for Information and System Sciences
+Center for Augmented Cognition
+Center for Computational Biology
+Center for Neural Engineering & Prostheses
+CITRIS Health
+CITRIS People and Robots
+Helen Wills Neuroscience Institute
+Hyperpolarized MRI Technology Resource Center
+Faculty
+Primary
+Gopala Krishna Anumanchipalli
+Jun-Chau Chien
+Steven Conolly
+Robert Full
+Jack Gallant
+Nilah Ioannidis
+Preeya Khanna
+Edwin R. Lewis
+Jennifer Listgarten
+Chunlei Liu
+Michael Lustig
+Guanghan Meng
+Bruno Olshausen
+Yun S. Song  (coordinator)
+Grigory Tikhomirov
+Allon Wagner
+Secondary
+Mekhail Anwar
+Murat Arcak
+Ruzena Bajcsy
+Brian A. Barsky
+Thomas F. Budinger
+Aydin Buluç
+Jennifer Chayes
+Irene Chen
+Leon O. Chua
+John Chuang
+Thomas Courtade
+Ronald S. Fearing
+Jerome A. Feldman
+Michael Jordan
+Richard M. Karp
+Luke Lee
+Michel Maharbiz
+Rikky Muller
+Narges Norouzi
+Christos Papadimitriou
+Satish Rao
+Jaijeet Roychowdhury
+Stuart J. Russell
+Bernd Sturmfels
+Claire Tomlin
+Laura Waller
+Katherine A. Yelick
+Faculty Awards
+National Medal of Science:
+Richard M. Karp, 1996.
+ACM A.M. Turing Award:
+Richard M. Karp, 1985.
+SIAM John von Neumann Lecture Prize:
+Jennifer Chayes, 2015.
+Bernd Sturmfels, 2010.
+Richard M. Karp, 1987.
+Harvey Prize:
+Richard M. Karp, 1998.
+Kyoto Prize:
+Richard M. Karp, 2008.
+MacArthur Fellow:
+Claire Tomlin, 2006.
+National Academy of Sciences (NAS) Member:
+Jennifer Chayes, 2019.
+Michael Jordan, 2010.
+Christos Papadimitriou, 2009.
+Richard M. Karp, 1980.
+National Academy of Engineering (NAE) Member:
+Stuart J. Russell, 2025.
+Claire Tomlin, 2019.
+Katherine A. Yelick, 2017.
+Michael Jordan, 2010.
+Christos Papadimitriou, 2002.
+Ruzena Bajcsy, 1997.
+Thomas F. Budinger, 1996.
+Richard M. Karp, 1992.
+American Academy of Arts and Sciences Member:
+Claire Tomlin, 2019.
+Katherine A. Yelick, 2017.
+Robert Full, 2016.
+Jennifer Chayes, 2014.
+Michael Jordan, 2010.
+Ruzena Bajcsy, 2007.
+Christos Papadimitriou, 1990.
+Richard M. Karp, 1980.
+Berkeley Citation:
+Ruzena Bajcsy, 2023.
+Jerome A. Feldman, 2009.
+Thomas F. Budinger, 2004.
+Edwin R. Lewis, 1997.
+UC Berkeley Distinguished Teaching Award:
+Robert Full, 1996.
+Richard M. Karp, 1986.
+Edwin R. Lewis, 1972.
+Sloan Research Fellow:
+Preeya Khanna, 2024.
+Michael Lustig, 2013.
+Yun S. Song, 2008.
+Jack Gallant, 1998.
+Bernd Sturmfels, 1991.
+Jennifer Chayes, 1989.
+Related Courses
+CS C280. Computer Vision
+CS C281A. Statistical Learning Theory
+EE 120. Signals and Systems
+EE 145L. Introductory Electronic Transducer Laboratory
+EE C145L. Introductory Electronic Transducers Laboratory
+EE 145M. Introductory Microcomputer Interfacing Laboratory
+EE C145M. Introductory Microcomputer Interfacing Laboratory
+EE 221A. Linear System Theory
+EE 229. Information Theory and Coding
+EE 229A. Information Theory and Coding
+EE 290N. Advanced Topics in Electrical Engineering: Advanced Topics in System Theory
+EE 290P. Advanced Topics in Electrical Engineering: Advanced Topics in Bioelectronics

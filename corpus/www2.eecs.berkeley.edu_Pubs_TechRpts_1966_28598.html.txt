@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28598.html
+Horn Antennas With Uniform Power Patterns Around their Axes
+V.H. Rumsey
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M164
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-164.pdf
+BibTeX citation:
+@techreport{Rumsey:M164,
+Author= {Rumsey, V.H.},
+Title= {Horn Antennas With Uniform Power Patterns Around their Axes},
+Year= {1966},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28598.html},
+Number= {UCB/ERL M164},
+}
+EndNote citation:
+%0 Report
+%A Rumsey, V.H.
+%T Horn Antennas With Uniform Power Patterns Around their Axes
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M164
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28598.html
+%F Rumsey:M164

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-70.html
+I’ve Got 99 Problems, But Vibration Ain’t One: A Survey of Smartphone Users’ Concerns
+Adrienne Porter Felt and Serge Egelman and David Wagner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-70
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-70.pdf
+Smartphone operating systems expose a wide range of functions and user data to third-party applications. However, past research on mobile privacy has focused exclusively on the risks pertaining to sharing location. To expand the scope of smartphone security and privacy research, we surveyed 3,115 smartphone users about 99 risks associated with 54 smartphone privileges. We asked participants to rate how upset they would be if a given risk occurred. Based on this data, we ranked risks by the number of users who stated that they would be "very upset" if the risks occurred. We then performed an open-ended survey of 41 smartphone users, which let respondents discuss the risks in their own words. The follow-up study confirmed that people find the lowest-ranked risks merely annoying but might seek legal or financial retribution for the highest-ranked risks. Our ranking could be used to guide the severity or selection of warnings on smartphone platforms. Notably, our results show that location is not a high-ranked user concern.
+BibTeX citation:
+@techreport{Felt:EECS-2012-70,
+Author= {Felt, Adrienne Porter and Egelman, Serge and Wagner, David},
+Title= {I’ve Got 99 Problems, But Vibration Ain’t One: A Survey of Smartphone Users’ Concerns},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-70.html},
+Number= {UCB/EECS-2012-70},
+Abstract= {Smartphone operating systems expose a wide range of functions and user data to third-party applications. However, past research on mobile privacy has focused exclusively on the risks pertaining to sharing location. To expand the scope of smartphone security and privacy research, we surveyed 3,115 smartphone users about 99 risks associated with 54 smartphone privileges. We asked participants to rate how upset they would be if a given risk occurred. Based on this data, we ranked risks by the number of users who stated that they would be "very upset" if the risks occurred. We then performed an open-ended survey of 41 smartphone users, which let respondents discuss the risks in their own words. The follow-up study confirmed that people find the lowest-ranked risks merely annoying but might seek legal or financial retribution for the highest-ranked risks. Our ranking could be used to guide the severity or selection of warnings on smartphone platforms. Notably, our results show that location is not a high-ranked user concern.},
+}
+EndNote citation:
+%0 Report
+%A Felt, Adrienne Porter
+%A Egelman, Serge
+%A Wagner, David
+%T I’ve Got 99 Problems, But Vibration Ain’t One: A Survey of Smartphone Users’ Concerns
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-70.html
+%F Felt:EECS-2012-70

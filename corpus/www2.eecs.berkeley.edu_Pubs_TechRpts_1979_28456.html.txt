@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28456.html
+An Improved Algorithm for Multi-Terminal Network Flow Synthesis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Improved Algorithm for Multi-Terminal Network Flow Synthesis
+An Improved Algorithm for Multi-Terminal Network Flow Synthesis
+Dan Gusfield
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/76
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-76.pdf
+BibTeX citation:
+@techreport{Gusfield:M79/76,
+Author = {Gusfield, Dan},
+Title = {An Improved Algorithm for Multi-Terminal Network Flow Synthesis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28456.html},
+Number = {UCB/ERL M79/76}
+}
+EndNote citation:
+%0 Report
+%A Gusfield, Dan
+%T An Improved Algorithm for Multi-Terminal Network Flow Synthesis
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28456.html
+%F Gusfield:M79/76

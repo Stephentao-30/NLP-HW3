@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28973.html
+Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections
+Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections
+D.P. Clancy, G. Gross and F.F. Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/11
+February 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-11.pdf
+BibTeX citation:
+@techreport{Clancy:M82/11,
+Author = {Clancy, D.P. and Gross, G. and Wu, F.F.},
+Title = {Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28973.html},
+Number = {UCB/ERL M82/11}
+}
+EndNote citation:
+%0 Report
+%A Clancy, D.P.
+%A Gross, G.
+%A Wu, F.F.
+%T Probabilistic Flows for the Reliability Evaluation of Multi-Area Power System Interconnections
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28973.html
+%F Clancy:M82/11

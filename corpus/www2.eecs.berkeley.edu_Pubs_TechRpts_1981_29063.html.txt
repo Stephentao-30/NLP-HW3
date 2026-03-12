@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29063.html
+Controller Design for Linear Multivariable Feedback Systems with Stable Plants, Using Optimization with Inequality Constraints
+C.L. Gustafson and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/51
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-51.pdf
+BibTeX citation:
+@techreport{Gustafson:M81/51,
+Author= {Gustafson, C.L. and Desoer, C.A.},
+Title= {Controller Design for Linear Multivariable Feedback Systems with Stable Plants, Using Optimization with Inequality Constraints},
+Year= {1981},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29063.html},
+Number= {UCB/ERL M81/51},
+}
+EndNote citation:
+%0 Report
+%A Gustafson, C.L.
+%A Desoer, C.A.
+%T Controller Design for Linear Multivariable Feedback Systems with Stable Plants, Using Optimization with Inequality Constraints
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29063.html
+%F Gustafson:M81/51

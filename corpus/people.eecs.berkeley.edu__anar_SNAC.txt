@@ -1,0 +1,65 @@
+URL: https://people.eecs.berkeley.edu/~anar/SNAC
+Natural Speech Interfaces for Environment and Device Control
+Illuminac: Natural Speech Interfaces for Environment and Device Control
+The number of electronic devices in our environment is ever increasing. While this brings greater flexibility and control,
+configuring each individual device becomes ever more tedious. For
+example, to prepare a workplace for a presentation, one might want to
+close the blinds, dim the lights near the projections screen, lower the projection screen and turn the projector on. Then to prepare the
+environmental state for a meeting, one might turn the intensity of the
+lights up, open the shades, ensure the projection screen is up to use
+the white board and ensure the projector is off. Controlling all of
+these devices---the lights, the projector, the projection screen, and the blinds---to achieve a desired environmental state is quite
+tedious. It is widespread best practice to use activity-specific
+``configurations'' (or scenes in the case of lights) of many devices rather than setting each device individually. The user can then invoke
+the configuration with a single action --- a keypress or in our case
+a speech command.
+As with any interface, an interface for controlling the environmental
+state in the workplace should match the user's mental model. That is,
+the user should only need to specify an intuitive  name  of the
+environmental state rather than the  configuration  of each
+individual device needed to achieve the desired state. In the
+workplace, the user should be able to say ``presentation lights
+please'' or ``I'd like lights for a talk now,'' or any similar
+variation, and have the system give a similar response. They should
+also be able to say ``meeting lights'' or ``whiteboard lights'' and
+get a different response. These terms are widely shared by people,
+and their repeated use during training allows a system to learn
+them as well.
+Note that this problem is more challenging than simply memorizing
+command strings and the appropriate device settings. In the latter
+case, the system will be extremely brittle, and will respond only when
+exact training strings are provided. By   simultaneously  learning
+commands and device settings, the system becomes both more robust and
+better able to generalize. For instance, there will be many training
+strings for presentations that include the word ``presentation'' and
+many other filler words, but which all specify a similar light and
+window shade pattern. Since the system looks for common patterns in
+names and configurations, the word ``presentation'' will be
+strongly present in a pattern that includes presentation light
+settings. Thus it is able to infer the ``presentation'' is a salient
+keyword for presentation lighting vs. ``please'' or ``now'' that may
+also occur in command strings. Similarly, ``talk'' and
+``presentation'' will typically occur with similar patterns of lights,
+and the system will be able to infer that they are aliases in this
+context. We called this the SNAC problem (Simultaneous Naming And
+Configuration).
+The SNAC problem also arises in home environment control
+(configurations for movie watching, dinner, music listening, slide
+shows, games, napping etc.). In our experiment below, configurations
+are settings of groups of lights. But in more general environments,
+settings could include connections, e.g. a connection from X to Y could be part of a configuration called ``music listening''.
+In addition to matching the user's mental model, we want the interface
+to be ``calm.'' That is, the interface in a ubicomp environment, like
+environment control, should be almost invisible except during direct
+(focal) interaction (as advocated by Weiser [1]). In
+this context, a speech-based interface seems like a good option. With
+distributed microphone technology, the physical interface all but
+disappears, but jumps fluidly to the foreground when the system
+responds to spoken input. Furthermore, speech is often considered the
+most natural form of human expression and has the potential to address
+certain accessibility concerns.
+We have designed and deployed a natural speech interface in an open-plan workspace. The system runs live and controls 79 devices (individually controllable lights) from 25 users who have both their own and shared environment names and configurations. We call this system Illuminac.
+[1] M. Weiser and J. S. Brown. The coming age of calm technolgy. In Beyond calculation: the next fifty years, pages 75–85. Copernicus, New York, NY, USA, 1997.
+Video showing the Illuminac system in action
+Publications
+Ana Ramírez Chang.   " Illuminac: Simultaneous Naming and Configuration for Workspace Lighting Control. " In Proceedings of  UbiWORK Workshop at the  ACM  International Conference on Ubiquitous Computing  (Ubicomp) , 2008.  paper

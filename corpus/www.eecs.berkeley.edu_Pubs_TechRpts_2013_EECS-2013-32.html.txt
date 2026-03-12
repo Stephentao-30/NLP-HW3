@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-32.html
+The Complexity of Entangled Games
+Thomas Vidick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-32
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-32.pdf
+Entanglement is at the heart of quantum mechanics. The nonlocal correlations that can be obtained from space-time separated measurements on an entangled state are a central feature which provably distinguish it from local theories. This dissertation studies entanglement through a computational viewpoint. We develop new insights into the complex nature of entanglement by studying its role in multiplayer games, in which cooperating, but non-communicating, players interact with a referee in an attempt to win a pre-specified game. On the one hand, the nonlocal correlations that entanglement allows may enable players using it to develop new colluding strategies, defeating previously secure protocols. On the other, the richness of this new resource may also be exploited in order to design new protocols, providing solutions to problems previously deemed impossible. We explore both aspects of this dual nature of entanglement, putting limits on its strength while at the same time showing how it can be put to profit to solve new computational problems.
+A major unresolved question on the computational complexity of multiplayer entangled games is the power of $\MIPstar$, the class of languages having entangled multi-prover interactive proofs: how does it relate to its purely classical analogue $\MIP$, which was completely characterized through the fundamental equation $\MIP=\NEXP$? Since the players may use entanglement to increase their odds at colluding against the verifier, $\MIPstar$ could potentially be a much \emph{weaker} class than $\MIP$. Indeed, for a long time it has been an open question whether two entangled provers are more useful than a single prover.
+In this thesis we resolve this question by showing that the class of languages having multiprover interactive proofs with entangled provers is at least as large as its classical counterpart: $\NEXP \subseteq \MIPstar$. At the heart of this result is an analysis of the multilinearity test of Babai, Fortnow, and Lund in the presence of entanglement. The fact that this test remains sound gives a systematic way for a verifier to impose strong limits on the ability of entangled provers to collude against the verifier.
+Gap amplification is a fundamental primitive in the study of classical multiplayer games. While sequential repetition of a game always decreases the prover's maximum success probability at an exponential rate, the fact that parallel repetition also achieves a gap amplification is a highly non-trivial fact. We show that gap amplification can be performed in parallel even in the presence of entanglement between the provers. We adapt a technique which was originally introduced by Feige and Kilian and results in a polynomial rate of amplification.
+The nonlocal correlations that can be created by entangled players provide a statistical means of differentiating them from classical, unentangled  players. This is the main idea behind Bell inequalities, the violation of which demonstrates the nonlocality of quantum mechanics. We show how this phenomenon may be exploited to design a protocol in which the bits produced by successful players necessarily contain a large quantity of fresh randomness. The presence of randomness is guaranteed irrespective of the provers' actual strategy, as long as the sole constraint of no signaling is respected. Hence a statistical certification for the presence of randomness, a feat easily seen to be impossible to achieve classically.
+Advisors:  Umesh Vazirani
+BibTeX citation:
+@phdthesis{Vidick:EECS-2013-32,
+Author= {Vidick, Thomas},
+Title= {The Complexity of Entangled Games},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-32.html},
+Number= {UCB/EECS-2013-32},
+Abstract= {Entanglement is at the heart of quantum mechanics. The nonlocal correlations that can be obtained from space-time separated measurements on an entangled state are a central feature which provably distinguish it from local theories. This dissertation studies entanglement through a computational viewpoint. We develop new insights into the complex nature of entanglement by studying its role in multiplayer games, in which cooperating, but non-communicating, players interact with a referee in an attempt to win a pre-specified game. On the one hand, the nonlocal correlations that entanglement allows may enable players using it to develop new colluding strategies, defeating previously secure protocols. On the other, the richness of this new resource may also be exploited in order to design new protocols, providing solutions to problems previously deemed impossible. We explore both aspects of this dual nature of entanglement, putting limits on its strength while at the same time showing how it can be put to profit to solve new computational problems.
+A major unresolved question on the computational complexity of multiplayer entangled games is the power of $\MIPstar$, the class of languages having entangled multi-prover interactive proofs: how does it relate to its purely classical analogue $\MIP$, which was completely characterized through the fundamental equation $\MIP=\NEXP$? Since the players may use entanglement to increase their odds at colluding against the verifier, $\MIPstar$ could potentially be a much \emph{weaker} class than $\MIP$. Indeed, for a long time it has been an open question whether two entangled provers are more useful than a single prover.
+In this thesis we resolve this question by showing that the class of languages having multiprover interactive proofs with entangled provers is at least as large as its classical counterpart: $\NEXP \subseteq \MIPstar$. At the heart of this result is an analysis of the multilinearity test of Babai, Fortnow, and Lund in the presence of entanglement. The fact that this test remains sound gives a systematic way for a verifier to impose strong limits on the ability of entangled provers to collude against the verifier.
+Gap amplification is a fundamental primitive in the study of classical multiplayer games. While sequential repetition of a game always decreases the prover's maximum success probability at an exponential rate, the fact that parallel repetition also achieves a gap amplification is a highly non-trivial fact. We show that gap amplification can be performed in parallel even in the presence of entanglement between the provers. We adapt a technique which was originally introduced by Feige and Kilian and results in a polynomial rate of amplification.
+The nonlocal correlations that can be created by entangled players provide a statistical means of differentiating them from classical, unentangled  players. This is the main idea behind Bell inequalities, the violation of which demonstrates the nonlocality of quantum mechanics. We show how this phenomenon may be exploited to design a protocol in which the bits produced by successful players necessarily contain a large quantity of fresh randomness. The presence of randomness is guaranteed irrespective of the provers' actual strategy, as long as the sole constraint of no signaling is respected. Hence a statistical certification for the presence of randomness, a feat easily seen to be impossible to achieve classically.},
+}
+EndNote citation:
+%0 Thesis
+%A Vidick, Thomas
+%T The Complexity of Entangled Games
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-32.html
+%F Vidick:EECS-2013-32

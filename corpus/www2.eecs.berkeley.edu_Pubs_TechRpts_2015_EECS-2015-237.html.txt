@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-237.html
+Tools for Creating Audio Stories | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Tools for Creating Audio Stories
+Tools for Creating Audio Stories
+Steven Rubin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-237
+December 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-237.pdf
+Audio stories are an engaging form of communication that combine speech and music into compelling narratives. One common production pipeline for creating audio stories involves three main steps: recording speech, editing speech, and editing music. Existing audio recording and editing tools force the story producer to manipulate speech and music tracks via tedious, low-level waveform editing. In contrast, we present tools for each phase of the production pipeline that analyze the audio content of speech and music and thereby allow the producer to work a higher semantic level.
+We present Narration Coach, an interface that assists novice users in recording scripted narrations. As a user records her narration, our system synchronizes the takes to her script, provides text feedback about how well she is meeting the expert voiceover guidelines, and resynthesizes her recordings to help her hear how she can speak better. Next, we present a speech editing interface that addresses the challenges of logging, navigating, and editing recorded speech. Key features include a transcript-based speech editing tool that automatically propagates edits in the transcript text to the corresponding speech track, and tools that help the producer maintain natural speech cadences by manipulating breaths and pauses. Finally, we present an algorithmic framework based on music analysis and dynamic programming optimization that enables several methods for adding music to audio stories: looping, musical underlays, and emotionally relevant scores. Combined, our tools augment the traditional audio story production pipeline by allowing the producer to create stories using high-level rather than low-level operations on audio clips. Ultimately, we hope that our tools enable the producer to devote more time to storytelling and less time to tedious audio recording and editing.
+Advisor:  Maneesh Agrawala
+BibTeX citation:
+@phdthesis{Rubin:EECS-2015-237,
+Author = {Rubin, Steven},
+Title = {Tools for Creating Audio Stories},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-237.html},
+Number = {UCB/EECS-2015-237},
+Abstract = {Audio stories are an engaging form of communication that combine speech and music into compelling narratives. One common production pipeline for creating audio stories involves three main steps: recording speech, editing speech, and editing music. Existing audio recording and editing tools force the story producer to manipulate speech and music tracks via tedious, low-level waveform editing. In contrast, we present tools for each phase of the production pipeline that analyze the audio content of speech and music and thereby allow the producer to work a higher semantic level.
+We present Narration Coach, an interface that assists novice users in recording scripted narrations. As a user records her narration, our system synchronizes the takes to her script, provides text feedback about how well she is meeting the expert voiceover guidelines, and resynthesizes her recordings to help her hear how she can speak better. Next, we present a speech editing interface that addresses the challenges of logging, navigating, and editing recorded speech. Key features include a transcript-based speech editing tool that automatically propagates edits in the transcript text to the corresponding speech track, and tools that help the producer maintain natural speech cadences by manipulating breaths and pauses. Finally, we present an algorithmic framework based on music analysis and dynamic programming optimization that enables several methods for adding music to audio stories: looping, musical underlays, and emotionally relevant scores. Combined, our tools augment the traditional audio story production pipeline by allowing the producer to create stories using high-level rather than low-level operations on audio clips. Ultimately, we hope that our tools enable the producer to devote more time to storytelling and less time to tedious audio recording and editing.}
+}
+EndNote citation:
+%0 Thesis
+%A Rubin, Steven
+%T Tools for Creating Audio Stories
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 15
+%@ UCB/EECS-2015-237
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-237.html
+%F Rubin:EECS-2015-237

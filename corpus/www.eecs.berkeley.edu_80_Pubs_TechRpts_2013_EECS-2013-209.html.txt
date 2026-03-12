@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-209.html
+Graph Structured Data Viewed Through a Fourier Lens
+Venkatesan Ekambaram
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-209
+December 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-209.pdf
+Graph-structured data appears in many modern applications like social networks, sensor networks, transportation networks and computer graphics. These applications are defined by an underlying graph (e.g. a social graph) with associated nodal attributes (e.g. number of ad-clicks by an individual). A simple model for such data is that of a graph signal—a function mapping every node to a scalar real value. Our aim is to develop signal processing tools for analysis of such signals de- fined over irregular graph-structured domains, analogous to classical Fourier and Wavelet analysis defined for regular structures like discrete-time sequences and two-dimensional grids.
+In this work, we start by reviewing the notion of a Graph Fourier Transform (GFT), which has been defined in the literature for graph signals. We examine the spatial and spectral features of circulant graphs, which accommodate linear shift-invariant operations. We describe fundamental operations such as shifting, sampling, graph-reconnection and linear filtering for signals on circulant graphs and derive associated sampling and graph-reconnection theorems. We also develop wavelet filter bank structures for multi resolution analysis of large-scale graphs.
+We present a method to decompose an arbitrary graph into a linear combination of circulant graphs. This helps extend fundamental operations such as sampling, filtering and multi resolution filter banks to general graphs. We present an application in the area of graph semi-supervised learning where some of the existing algorithms can be viewed as suitably designed filters defined in the GFT domain. We propose a wavelet regularized learning algorithm and evaluate the performance on some real-world datasets.
+Advisors:  Kannan Ramchandran
+BibTeX citation:
+@phdthesis{Ekambaram:EECS-2013-209,
+Author= {Ekambaram, Venkatesan},
+Title= {Graph Structured Data Viewed Through a Fourier Lens},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-209.html},
+Number= {UCB/EECS-2013-209},
+Abstract= {Graph-structured data appears in many modern applications like social networks, sensor networks, transportation networks and computer graphics. These applications are defined by an underlying graph (e.g. a social graph) with associated nodal attributes (e.g. number of ad-clicks by an individual). A simple model for such data is that of a graph signal—a function mapping every node to a scalar real value. Our aim is to develop signal processing tools for analysis of such signals de- fined over irregular graph-structured domains, analogous to classical Fourier and Wavelet analysis defined for regular structures like discrete-time sequences and two-dimensional grids.
+In this work, we start by reviewing the notion of a Graph Fourier Transform (GFT), which has been defined in the literature for graph signals. We examine the spatial and spectral features of circulant graphs, which accommodate linear shift-invariant operations. We describe fundamental operations such as shifting, sampling, graph-reconnection and linear filtering for signals on circulant graphs and derive associated sampling and graph-reconnection theorems. We also develop wavelet filter bank structures for multi resolution analysis of large-scale graphs.
+We present a method to decompose an arbitrary graph into a linear combination of circulant graphs. This helps extend fundamental operations such as sampling, filtering and multi resolution filter banks to general graphs. We present an application in the area of graph semi-supervised learning where some of the existing algorithms can be viewed as suitably designed filters defined in the GFT domain. We propose a wavelet regularized learning algorithm and evaluate the performance on some real-world datasets.},
+}
+EndNote citation:
+%0 Thesis
+%A Ekambaram, Venkatesan
+%T Graph Structured Data Viewed Through a Fourier Lens
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 16
+%@ UCB/EECS-2013-209
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-209.html
+%F Ekambaram:EECS-2013-209

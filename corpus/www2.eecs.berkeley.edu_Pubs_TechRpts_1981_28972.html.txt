@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28972.html
+Interoptdyn-siso: A Tutorial | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Interoptdyn-siso: A Tutorial
+Interoptdyn-siso: A Tutorial
+E. Polak, K.J. Astrom and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/99
+December 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-99.pdf
+BibTeX citation:
+@techreport{Polak:M81/99,
+Author = {Polak, E. and Astrom, K.J. and Mayne, D.Q.},
+Title = {Interoptdyn-siso: A Tutorial},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28972.html},
+Number = {UCB/ERL M81/99}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Astrom, K.J.
+%A Mayne, D.Q.
+%T Interoptdyn-siso: A Tutorial
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/99
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28972.html
+%F Polak:M81/99

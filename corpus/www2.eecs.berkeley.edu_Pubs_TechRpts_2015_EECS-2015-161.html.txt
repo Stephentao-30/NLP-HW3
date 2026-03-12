@@ -1,0 +1,45 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-161.html
+Design and Fabrication of cm-scale Tesla Turbines | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design and Fabrication of cm-scale Tesla Turbines
+Design and Fabrication of cm-scale Tesla Turbines
+Vedavalli Krishnan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-161
+June 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-161.pdf
+This dissertation discusses the design and scaling characteristics of Tesla – or so-called “friction” – turbines, and offers design solutions for achieving optimum performance given the input specifications. The research covers turbines ranging from sub-watt power scavenging designs to watt-range mobile applications to kilowatt-range renewable energy applications. The characteristics of the turbine are demonstrated using micro fabrication, theoretical analysis, and ANSYS, COMSOL, and MATLAB simulations. A MATLAB GUI is provided for generating design specifications and turbine performance sensitivity.
+In Tesla turbines, the fluid profile and the length of the fluid path inside the rotor control the pressure drop and momentum transfer. In this research, analyses of rotor performance for incompressible flow are developed for different fluid profiles and fluid-path lengths. First, frictional losses in the nozzle and at the rotor-turbine interface are investigated, along with other turbine losses. These losses are then classified and modeled in terms of their relationship to head loss and shaft power loss, and investigated using MATLAB and COMSOL. As the turbine scales down, this scaled performance is evaluated and a constraint list for turbine hardware and operating parameters is derived. These results are used to optimize performance for the full range of millimeter to meter sized turbines.
+Tesla turbines at the scales covered in this dissertation (mm – m) are relatively easy to manufacture. The experimental mini-turbines presented in this research have two primary components, fabricated using commercially available technologies: 1) four 1 cm-diameter rotors with variation in number of disks, interdisk spacing, and effective area, and 2) a turbine enclosure with eight nozzles of varying area, angle, and shape. Test results from different configurations of nozzles and rotors are presented, and observations made on the performance trends of the turbine. Flow through the 1 cm rotors is also simulated in ANSYS to verify the momentum equations. The performance difference between analytical solutions, simulation, and experimental results is then studied, and a mapping of experimental results onto analytical results is proposed.
+In addition, various scaling-down methodologies are investigated. Disk spacing is varied as a power function of radius, and turbine performance is analyzed across the turbine range of 1 mm to 400 mm diameter. Using this approach, constant power density designs are specified that perform at better than 35% mechanical efficiency for the entire range. As the turbine is scaled down, the roughening of the disks must be increased to control the fluid profile. Power density is very sensitive to the rotor spacing and the input head, and efficiency is very sensitive to the operating parameters and turbine design. This dissertation argues that these sensitivities explain the wide discrepancies in published turbine performances.
+A practical design tool is also offered, which inputs user specifications on head, flow, particulate size, and medium to generate a list of possible turbine designs along with a recommendation for four candidate designs. The sensitivities of turbine performance to the input head and input flow variations are also reported. The tool is designed to cover 20 mW to 20 kW power range and 2 mm to 500 mm rotor radius range. Current applications and potential extensions to the research are discussed in the conclusion.
+Advisor:  Michel Maharbiz
+BibTeX citation:
+@phdthesis{Krishnan:EECS-2015-161,
+Author = {Krishnan, Vedavalli},
+Title = {Design and Fabrication of cm-scale Tesla Turbines},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-161.html},
+Number = {UCB/EECS-2015-161},
+Abstract = {This dissertation discusses the design and scaling characteristics of Tesla – or so-called “friction” – turbines, and offers design solutions for achieving optimum performance given the input specifications.  The research covers turbines ranging from sub-watt power scavenging designs to watt-range mobile applications to kilowatt-range renewable energy applications.  The characteristics of the turbine are demonstrated using micro fabrication, theoretical analysis, and ANSYS, COMSOL, and MATLAB simulations.  A MATLAB GUI is provided for generating design specifications and turbine performance sensitivity.
+In Tesla turbines, the fluid profile and the length of the fluid path inside the rotor control the pressure drop and momentum transfer.  In this research, analyses of rotor performance for incompressible flow are developed for different fluid profiles and fluid-path lengths.  First, frictional losses in the nozzle and at the rotor-turbine interface are investigated, along with other turbine losses.  These losses are then classified and modeled in terms of their relationship to head loss and shaft power loss, and investigated using MATLAB and COMSOL.  As the turbine scales down, this scaled performance is evaluated and a constraint list for turbine hardware and operating parameters is derived.  These results are used to optimize performance for the full range of millimeter to meter sized turbines.
+Tesla turbines at the scales covered in this dissertation (mm – m) are relatively easy to manufacture.  The experimental mini-turbines presented in this research have two primary components, fabricated using commercially available technologies: 1) four 1 cm-diameter rotors with variation in number of disks, interdisk spacing, and effective area, and 2) a turbine enclosure with eight nozzles of varying area, angle, and shape.  Test results from different configurations of nozzles and rotors are presented, and observations made on the performance trends of the turbine.  Flow through the 1 cm rotors is also simulated in ANSYS to verify the momentum equations.  The performance difference between analytical solutions, simulation, and experimental results is then studied, and a mapping of experimental results onto analytical results is proposed.
+In addition, various scaling-down methodologies are investigated.  Disk spacing is varied as a power function of radius, and turbine performance is analyzed across the turbine range of 1 mm to 400 mm diameter.  Using this approach, constant power density designs are specified that perform at better than 35% mechanical efficiency for the entire range.  As the turbine is scaled down, the roughening of the disks must be increased to control the fluid profile.  Power density is very sensitive to the rotor spacing and the input head, and efficiency is very sensitive to the operating parameters and turbine design.  This dissertation argues that these sensitivities explain the wide discrepancies in published turbine performances.
+A practical design tool is also offered, which inputs user specifications on head, flow, particulate size, and medium to generate a list of possible turbine designs along with a recommendation for four candidate designs.  The sensitivities of turbine performance to the input head and input flow variations are also reported. The tool is designed to cover 20 mW to 20 kW power range and 2 mm to 500 mm rotor radius range. Current applications and potential extensions to the research are discussed in the conclusion.}
+}
+EndNote citation:
+%0 Thesis
+%A Krishnan, Vedavalli
+%T Design and Fabrication of cm-scale Tesla Turbines
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 June 1
+%@ UCB/EECS-2015-161
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-161.html
+%F Krishnan:EECS-2015-161

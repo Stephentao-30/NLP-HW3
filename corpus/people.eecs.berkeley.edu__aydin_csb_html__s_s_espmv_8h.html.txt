@@ -1,0 +1,106 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/_s_s_espmv_8h.html
+Compressed Sparse Blocks: SSEspmv.h File Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Classes  |
+Typedefs  |
+Functions
+SSEspmv.h File Reference
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+#include <mmintrin.h>
+#include <xmmintrin.h>
+#include <emmintrin.h>
+#include <pmmintrin.h>
+#include <tmmintrin.h>
+#include <smmintrin.h>
+#include <nmmintrin.h>
+#include <wmmintrin.h>
+#include "timer.clock_gettime.c"
+Go to the source code of this file.
+Classes
+union     ssp_m128
+Typedefs
+typedef signed char    ssp_s8
+typedef unsigned char    ssp_u8
+typedef signed short    ssp_s16
+typedef unsigned short    ssp_u16
+typedef signed int    ssp_s32
+typedef unsigned int    ssp_u32
+typedef float    ssp_f32
+typedef double    ssp_f64
+typedef signed long long    ssp_s64
+typedef unsigned long long    ssp_u64
+Functions
+__m128d    ssp_blendv_pd_SSE2  (__m128d a, __m128d b, __m128d mask)
+template<typename IT >
+void    SSEspmv  (const double *V, const uint64_t *M, const IT *bot, const IT nrb, const double *X, double *Y)
+int    main  ()
+Typedef Documentation
+typedef float  ssp_f32
+Definition at line  35  of file  SSEspmv.h .
+typedef double  ssp_f64
+Definition at line  36  of file  SSEspmv.h .
+typedef signed short  ssp_s16
+Definition at line  29  of file  SSEspmv.h .
+typedef signed int  ssp_s32
+Definition at line  32  of file  SSEspmv.h .
+typedef signed long long  ssp_s64
+Definition at line  38  of file  SSEspmv.h .
+typedef signed char  ssp_s8
+Definition at line  26  of file  SSEspmv.h .
+typedef unsigned short  ssp_u16
+Definition at line  30  of file  SSEspmv.h .
+typedef unsigned int  ssp_u32
+Definition at line  33  of file  SSEspmv.h .
+typedef unsigned long long  ssp_u64
+Definition at line  39  of file  SSEspmv.h .
+typedef unsigned char  ssp_u8
+Definition at line  27  of file  SSEspmv.h .
+Function Documentation
+int main
+(
+)
+Definition at line  171  of file  SSEspmv.h .
+template<typename IT >
+void SSEspmv
+(
+const double *
+V ,
+const uint64_t *
+M ,
+const IT *
+bot ,
+const IT
+nrb ,
+const double *
+X ,
+double *
+Y
+)
+SpMV (usually used as a subroutine) using bitmasked register blocks This version works only with doubles and 8x8 register blocks
+Parameters
+[in]   nbr   number of register blocks
+[in]   bot   the local part of the bottom array, i.e. {lower row bits}.{higher row bits}
+Definition at line  92  of file  SSEspmv.h .
+__m128d ssp_blendv_pd_SSE2
+(
+__m128d
+a ,
+__m128d
+b ,
+__m128d
+mask
+)
+inline
+{SSE2,_mm_blendv_pd}
+Definition at line  61  of file  SSEspmv.h .
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

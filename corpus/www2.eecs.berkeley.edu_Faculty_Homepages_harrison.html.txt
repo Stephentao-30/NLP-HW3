@@ -1,0 +1,28 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/harrison.html
+Michael A. Harrison: Faculty Home Page
+Larger Photo
+Michael A. Harrison
+Professor Emeritus
+Biography
+Michael A. Harrison was born in Philadelphia, PA.  He earned his BS and MS in electrical engineering and computing at Case Western Reserve University in Ohio, and his PhD in communication sciences from the University of Michigan. He joined the UC Berkeley faculty as an assistant professor in 1963. He was promoted to associate professor in 1966 and became a full professor in 1971. He retired in 1994. He has authored seven books and over 200 technical publications in a variety of areas. He was initially interested in switching and automata theory, which shifted towards automata theory and discrete systems while at Berkeley. This led to work in the 1960s on formal language theory and ultimately its application to fast parsing methods for compilers as well as getting the fastest practical algorithm for general context free recognition. He became interested in software research and developed the HRU security model in 1975 (named after its authors Harrison, Ruzzo, Ullman),  a simple abstract model of protection in operating systems which had far-reaching consequences.  He co-founded Gain Technology with his graduate student, Pehong Chen, to build multimedia software for UNIX workstations in 1989. It was acquired by Sybase in 1992. Michael Harrison passed away on June 7, 2025.
+Education
+1963, Ph.D., Communication Sciences, University of Michigan
+1959, M.S., Electrical Engineering and Computing, Case Western Reserve University
+1958, B.S., Electrical Engineering, Case Western Reserve University
+Research Areas
+Programming Systems (PS)
+Theory (THY)
+Multimedia; User interfaces; Software environments
+S. L. Graham, M. A. Harrison, and W. L. Ruzzo, " An improved context-free recognizer ,"  ACM Trans. Programming Languages and Systems , vol. 2, no. 3, pp. 415-462, July 1980.
+M. A. Harrison,  Introduction to Formal Language Theory , 1 ed., Addison-Wesley Series in Computer Science, Reading, MA: Addison-Wesley Publishing Company, 1978.
+M. A. Harrison, W. L. Ruzzo, and J. D. Ullman, " Protection in operating systems ,"  Communications of the ACM , vol. 19, no. 8, pp. 461-471, Aug. 1976.
+J. N. Gray and M. A. Harrison, " Canonical precedence schemes ,"  J. Assoc. for Computing Machinery , vol. 20, no. 2, pp. 214-234, April 1973.
+H. Gallaire and M. A. Harrison, " Decomposition of linear sequential machines ,"  Theory of Computing Systems , vol. 3, no. 3, pp. 246-287, Sep. 1969.
+American Association for the Advancement of Science (AAAS) Fellow ,
+1996
+Association for Computing Machinery (ACM) Fellow ,
+1996
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1993
+Guggenheim Fellow ,
+1969

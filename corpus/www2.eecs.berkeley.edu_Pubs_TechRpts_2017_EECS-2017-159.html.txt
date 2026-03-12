@@ -1,0 +1,44 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html
+A Berkeley View of Systems Challenges for AI
+Ion Stoica and Dawn Song and Raluca Ada Popa and David A. Patterson and Michael W. Mahoney and Randy H. Katz and Anthony D. Joseph and Michael Jordan and Joseph M. Hellerstein and Joseph Gonzalez and Ken Goldberg and Ali Ghodsi and David E. Culler and Pieter Abbeel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2017-159
+October 16,
+2017
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.pdf
+With the increasing commoditization of computer vision, speech recognition and machine translation systems and the widespread deployment of learning-based back-end technologies such as digital advertising and intelligent infrastructures, AI (Artificial Intelligence) has moved from research labs to production. These changes have been made possible by unprecedented levels of data and computation, by methodological advances in machine learning, by innovations in systems software and architectures, and by the broad accessibility of these technologies.
+The next generation of AI systems promises to accelerate these developments and increasingly impact our lives via frequent interactions and making (often mission-critical) decisions on our behalf, often in highly personalized contexts. Realizing this promise, however, raises daunting challenges. In particular, we need AI systems that make timely and safe decisions in unpredictable environments, that are robust against sophisticated adversaries, and that can process ever increasing amounts of data across organizations and individuals without compromising confidentiality. These challenges will be exacerbated by the end of the Moore’s Law, which will constrain the amount of data these technologies can store and process. In this paper, we propose several open research directions in systems, architectures, and security that can address these challenges and help unlock AI’s potential to improve lives and society.
+BibTeX citation:
+@techreport{Stoica:EECS-2017-159,
+Author= {Stoica, Ion and Song, Dawn and Popa, Raluca Ada and Patterson, David A. and Mahoney, Michael W. and Katz, Randy H. and Joseph, Anthony D. and Jordan, Michael and Hellerstein, Joseph M. and Gonzalez, Joseph and Goldberg, Ken and Ghodsi, Ali and Culler, David E. and Abbeel, Pieter},
+Title= {A Berkeley View of Systems Challenges for AI},
+Year= {2017},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html},
+Number= {UCB/EECS-2017-159},
+Abstract= {With the increasing commoditization of computer vision, speech recognition and machine translation systems and the widespread deployment of learning-based back-end technologies such as digital advertising and intelligent infrastructures, AI (Artificial Intelligence) has moved from research labs to production. These changes have been made possible by unprecedented levels of data and computation, by methodological advances in machine learning, by innovations in systems software and architectures, and by the broad accessibility of these technologies.
+The next generation of AI systems promises to accelerate these developments and increasingly impact our lives via frequent interactions and making (often mission-critical) decisions on our behalf, often in highly personalized contexts. Realizing this promise, however, raises daunting challenges. In particular, we need AI systems that make timely and safe decisions in unpredictable environments, that are robust against sophisticated adversaries, and that can process ever increasing amounts of data across organizations and individuals without compromising confidentiality. These challenges will be exacerbated by the end of the Moore’s Law, which will constrain the amount of data these technologies can store and process. In this paper, we propose several open research directions in systems, architectures, and security that can address these challenges and help unlock AI’s potential to improve lives and society.},
+}
+EndNote citation:
+%0 Report
+%A Stoica, Ion
+%A Song, Dawn
+%A Popa, Raluca Ada
+%A Patterson, David A.
+%A Mahoney, Michael W.
+%A Katz, Randy H.
+%A Joseph, Anthony D.
+%A Jordan, Michael
+%A Hellerstein, Joseph M.
+%A Gonzalez, Joseph
+%A Goldberg, Ken
+%A Ghodsi, Ali
+%A Culler, David E.
+%A Abbeel, Pieter
+%T A Berkeley View of Systems Challenges for AI
+%I EECS Department, University of California, Berkeley
+%D 2017
+%8 October 16
+%@ UCB/EECS-2017-159
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html
+%F Stoica:EECS-2017-159

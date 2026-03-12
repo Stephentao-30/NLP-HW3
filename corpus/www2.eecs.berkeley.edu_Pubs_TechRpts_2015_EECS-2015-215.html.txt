@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-215.html
+Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications
+Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications
+Jae Yeon (Claire) Baek
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-215
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-215.pdf
+Advisor:  Costas J. Spanos
+BibTeX citation:
+@phdthesis{Baek:EECS-2015-215,
+Author = {Baek, Jae Yeon (Claire)},
+Title = {Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-215.html},
+Number = {UCB/EECS-2015-215}
+}
+EndNote citation:
+%0 Thesis
+%A Baek, Jae Yeon (Claire)
+%T Modeling and Selection for Real-time Wafer-to-Wafer Fault Detection Applications
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-215
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-215.html
+%F Baek:EECS-2015-215

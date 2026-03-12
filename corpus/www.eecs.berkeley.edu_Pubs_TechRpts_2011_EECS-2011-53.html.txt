@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-53.html
+From Ptides to PtidyOS, Designing Distributed Real-Time Embedded Systems
+Jia Zou
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-53
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-53.pdf
+Real-time systems are those whose correctness depend not only on logical operations but also on timing delays in response to environment triggers. Thus programs that implement these systems must satisfy constraints on response time. However, most of these systems today are designed using abstractions that do not capture timing properties. For example, a programming language such as C does not provide constructs that specify how long computation takes. Instead, system timing properties are inferred from low-level hardware details. This effectively means conventional programming languages fail as a proper abstraction for real-time systems.
+To tackle this problem, a programming model called "Ptides" was first introduced by Yang Zhao. Ptides builds on a solid foundation in discrete-event (DE) model of computation. By leveraging the temporal semantics of DE, Ptides captures both the functional and timing aspects of the system. This thesis extends prior work by providing a set of execution strategies that make efficient use of computation resources and guarantees deterministic functional and timing behaviors. A complete design flow based on these strategies is then presented.
+Our workflow starts with a programming environment where a distributed real-time application is expressed as a Ptides model. The model captures both the logical operations of the system and the desired timing of interactions with the environment. The Ptides simulator supports simulation of both of these aspects. If execution times are available, this information can be annotated as a part of the model to show whether desired timing can be achieved in that implementation. Once satisfied with the design, a code generator can be used to glue together the application code with a real-time operating system called PtidyOS. To ensure the responsiveness of the real-time program, PtidyOS's scheduler combines Ptides semantics with earliest-deadline-first (EDF). To minimize scheduling overhead associated with context switching, PtidyOS uses a single stack for event execution, while still enables event preemptions. The first prototype for PtidyOS is implemented on a Luminary microcontroller. We demonstrate the Ptides workflow through a motion control application.
+Advisors:  Edward A. Lee
+BibTeX citation:
+@phdthesis{Zou:EECS-2011-53,
+Author= {Zou, Jia},
+Title= {From Ptides to PtidyOS, Designing Distributed Real-Time Embedded Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-53.html},
+Number= {UCB/EECS-2011-53},
+Abstract= {Real-time systems are those whose correctness depend not only on logical operations but also on timing delays in response to environment triggers. Thus programs that implement these systems must satisfy constraints on response time. However, most of these systems today are designed using abstractions that do not capture timing properties. For example, a programming language such as C does not provide constructs that specify how long computation takes. Instead, system timing properties are inferred from low-level hardware details. This effectively means conventional programming languages fail as a proper abstraction for real-time systems.
+To tackle this problem, a programming model called "Ptides" was first introduced by Yang Zhao. Ptides builds on a solid foundation in discrete-event (DE) model of computation. By leveraging the temporal semantics of DE, Ptides captures both the functional and timing aspects of the system. This thesis extends prior work by providing a set of execution strategies that make efficient use of computation resources and guarantees deterministic functional and timing behaviors. A complete design flow based on these strategies is then presented.
+Our workflow starts with a programming environment where a distributed real-time application is expressed as a Ptides model. The model captures both the logical operations of the system and the desired timing of interactions with the environment. The Ptides simulator supports simulation of both of these aspects. If execution times are available, this information can be annotated as a part of the model to show whether desired timing can be achieved in that implementation. Once satisfied with the design, a code generator can be used to glue together the application code with a real-time operating system called PtidyOS. To ensure the responsiveness of the real-time program, PtidyOS's scheduler combines Ptides semantics with earliest-deadline-first (EDF). To minimize scheduling overhead associated with context switching, PtidyOS uses a single stack for event execution, while still enables event preemptions. The first prototype for PtidyOS is implemented on a Luminary microcontroller. We demonstrate the Ptides workflow through a motion control application.},
+}
+EndNote citation:
+%0 Thesis
+%A Zou, Jia
+%T From Ptides to PtidyOS, Designing Distributed Real-Time Embedded Systems
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-53.html
+%F Zou:EECS-2011-53

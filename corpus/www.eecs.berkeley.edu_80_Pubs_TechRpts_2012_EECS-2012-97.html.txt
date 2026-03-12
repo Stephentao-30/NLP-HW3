@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-97.html
+Reinventing the PN junction: Dimensionality Effects on Tunneling Switches
+Sapan Agarwal
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-97
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-97.pdf
+Tunneling based field effect transistors (TFETs) have the potential for very sharp On/Off transitions.  This can drastically reduce the power consumption of modern electronics.  They can operate by either electrostatically controlling the thickness of the tunneling barrier or by exploiting a sharp step in the density of states for switching.  We show that current TFETs rely on controlling the thickness of the tunneling barrier but they do not achieve the desired performance.  In order to get better performance we need to also exploit a sharp step in the density of states.
+In order to have a sharp density of states turn on, a variety of non-idealities need to be accounted for.  A number of effects such as thermal vibrations, heavy doping, and trap assisted tunneling are analyzed and engineered.
+After accounting for the various non-idealities, the ideal density of states will determine the on state characteristics.  The nature of the quantum density of states is strongly dependent on dimensionality. Hence we need to specify both the n-side and the p-side dimensionality of pn junctions. For instance, we find that a typical bulk 3d-3d tunneling pn junction has only a quadratic turn-on function, while a pn junction consisting of two overlapping quantum wells (2d-2d) would have the preferred step function response. Quantum confinement on each side of a pn junction has the added benefit of significantly increasing the on-state tunnel conductance at the turn-on threshold.  We analytically demonstrate these effects and then give a numerical non-equilibrium greens function (NEGF) model to verify the key results.  Finally we introduce some new device designs that will take advantage of the benefits of 2d-2d tunneling.
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@phdthesis{Agarwal:EECS-2012-97,
+Author= {Agarwal, Sapan},
+Title= {Reinventing the PN junction: Dimensionality Effects on Tunneling Switches},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-97.html},
+Number= {UCB/EECS-2012-97},
+Abstract= {Tunneling based field effect transistors (TFETs) have the potential for very sharp On/Off transitions.  This can drastically reduce the power consumption of modern electronics.  They can operate by either electrostatically controlling the thickness of the tunneling barrier or by exploiting a sharp step in the density of states for switching.  We show that current TFETs rely on controlling the thickness of the tunneling barrier but they do not achieve the desired performance.  In order to get better performance we need to also exploit a sharp step in the density of states.
+In order to have a sharp density of states turn on, a variety of non-idealities need to be accounted for.  A number of effects such as thermal vibrations, heavy doping, and trap assisted tunneling are analyzed and engineered.
+After accounting for the various non-idealities, the ideal density of states will determine the on state characteristics.  The nature of the quantum density of states is strongly dependent on dimensionality. Hence we need to specify both the n-side and the p-side dimensionality of pn junctions. For instance, we find that a typical bulk 3d-3d tunneling pn junction has only a quadratic turn-on function, while a pn junction consisting of two overlapping quantum wells (2d-2d) would have the preferred step function response. Quantum confinement on each side of a pn junction has the added benefit of significantly increasing the on-state tunnel conductance at the turn-on threshold.  We analytically demonstrate these effects and then give a numerical non-equilibrium greens function (NEGF) model to verify the key results.  Finally we introduce some new device designs that will take advantage of the benefits of 2d-2d tunneling.},
+}
+EndNote citation:
+%0 Thesis
+%A Agarwal, Sapan
+%T Reinventing the PN junction: Dimensionality Effects on Tunneling Switches
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-97
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-97.html
+%F Agarwal:EECS-2012-97

@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-167.html
+Browsing and Analyzing the Command-Level Structure of Large Collections of Image Manipulation Tutorials
+Amy Pavel and Floraine Berthouzoz and Björn Hartmann and Maneesh Agrawala
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-167
+October 9,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-167.pdf
+We present Sifter, an interface for browsing, comparing and analyzing large collections of image manipulation tutorials based on their command-level structure. Sifter first applies supervised machine learning to identify the commands contained in a collection of 2500 Photoshop tutorials obtained from the Web. It then provides three different views of the tutorial collection based on the extracted command-level structure: (1) A Faceted Browser View allows users to organize, sort and filter the collection based on tutorial category, command names or on frequently used command subsequences, (2) a Tutorial View summarizes and indexes tutorials by the commands they contain, and (3) an Alignment View visualizes the command-level similarities and differences between a subset of tutorials. An informal evaluation (n=9) suggests that Sifter enables users to successfully perform a variety of browsing and analysis tasks that are difficult to complete with standard keyword search. We conclude with a meta-analysis of our Photoshop tutorial collection and present several implications for the design of image manipulation software.
+BibTeX citation:
+@techreport{Pavel:EECS-2013-167,
+Author= {Pavel, Amy and Berthouzoz, Floraine and Hartmann, Björn and Agrawala, Maneesh},
+Title= {Browsing and Analyzing the Command-Level Structure of Large Collections of Image Manipulation Tutorials},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-167.html},
+Number= {UCB/EECS-2013-167},
+Abstract= {We present Sifter, an interface for browsing, comparing and analyzing large collections of image manipulation tutorials based on their command-level structure. Sifter first applies supervised machine learning to identify the commands contained in a collection of 2500 Photoshop tutorials obtained from the Web. It then provides three different views of the tutorial collection based on the extracted command-level structure: (1) A Faceted Browser View allows users to organize, sort and filter the collection based on tutorial category, command names or on frequently used command subsequences, (2) a Tutorial View summarizes and indexes tutorials by the commands they contain, and (3) an Alignment View visualizes the command-level similarities and differences between a subset of tutorials. An informal evaluation (n=9) suggests that Sifter enables users to successfully perform a variety of browsing and analysis tasks that are difficult to complete with standard keyword search. We conclude with a meta-analysis of our Photoshop tutorial collection and present several implications for the design of image manipulation software.},
+}
+EndNote citation:
+%0 Report
+%A Pavel, Amy
+%A Berthouzoz, Floraine
+%A Hartmann, Björn
+%A Agrawala, Maneesh
+%T Browsing and Analyzing the Command-Level Structure of Large Collections of Image Manipulation Tutorials
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 9
+%@ UCB/EECS-2013-167
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-167.html
+%F Pavel:EECS-2013-167

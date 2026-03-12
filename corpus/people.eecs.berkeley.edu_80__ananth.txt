@@ -1,0 +1,1338 @@
+URL: http://people.eecs.berkeley.edu:80/~ananth
+Venkat Anantharam's Home Page
+Venkat Anantharam's Home Page
+Professor
+Office: 271 Cory Hall
+Phone: (510) 643-8435
+Email: ananth@eecs.berkeley.edu
+Research Interests
+Under construction
+Message for prospective interns/graduate students/postdoctoral fellows
+Like many others, I receive
+hundreds of inquiries every semester from prospective interns,
+graduate students, and postdoctoral fellows.
+It is in general not possible for me
+to read through the CV and/or reply to such messages because of
+their sheer volume.
+If you send me such a message, please do not be offended if I do not reply.
+Current graduate students
+Soham Phade
+Postdoctoral fellows hosted
+Lei Yu
+Abishek Sankararaman
+Cheuk Ting Li
+Omur Ozel
+Justin Salez
+Parv Venkitasubramaniam
+Charles Bordenave
+Doctoral degrees supervised
+Payam Delgosha
+Varun Jog
+Sudeep Kamath
+Barlas Oguz
+Amin Aminzadeh Gohari
+Libin Jiang
+Lara Dolecek
+Aaron Wagner
+Payam Pakzad
+Pramod Viswanath
+Richard J. La
+Sivarama Venkatesan
+Reza Gharavi
+Ayalvadi Ganesh
+Mohammed Benchekroun
+Masters degrees supervised
+Pablo Anigstein
+Richard Wheeler
+Alex Leung
+Said Mokbel
+Publications
+Copyright notice
+Copyright belongs to the publisher in most cases.
+The author/authors assert copyright in all other cases.
+Current Preprints
+Graphs of joint types, noninteractive simulation, and stronger hypercontractivity.
+Lei Yu, Venkat Anantharam and Jun Chen.
+Preprint (2021).
+Mechanism design for cumulative prospect theoretic agents: A general framework and the revelation principle.
+Soham R. Phade and Venkat Anantharam.
+Preprint (2021).
+Data-derived weak universal consistency.
+Narayana Santhanam, Venkat Anantharam and Wojciech Szpankowski.
+Preprint (2021).
+Nash equilibrium structure of Cox process Hotelling games.
+Venkat Anantharam and Francois Baccelli.
+Preprint (2020).
+Black box strategies and equilibrium for games with cumulative prospect theoretic players.
+Soham R. Phade and Venkat Anantharam.
+Preprint (2020).
+Pairwise near-maximal grand coupling of Brownian motions.
+Cheuk Ting Li and Venkat Anantharam.
+Preprint (2019).
+Pairwise multi-marginal optimal transport and embedding for earth mover's distance.
+Cheuk Ting Li and Venkat Anantharam.
+Preprint (2019).
+A notion of entropy for stochastic processes on marked rooted graphs.
+Payam Delgosha and Venkat Anantharam.
+Preprint (2019).
+Optimal Chernoff and Hoeffding bounds for finite state Markov chains.
+Vrettos Moulos and Venkat Anantharam.
+Preprint (2019).
+Unifying the Brascamp-Lieb inequality and the entropy power inequality.
+Venkat Anantharam, Varun Jog and Chandra Nair.
+Preprint (2019).
+A deterministic algorithm for the capacity of finite state channels.
+Chengyu Wu, Guangyue Han, Venkat Anantharam and Brian Marcus.
+Preprint (2019).
+One-shot variable-length secret key agreement approaching mutual information.
+Cheuk Ting Li and Venkat Anantharam.
+Preprint (2018).
+Learning in games with cumulative prospect theoretic preferences.
+Soham R. Phade and Venkat Anantharam.
+Preprint (2018/2020).
+Distributed compression of graphical data.
+Payam Delgosha and Venkat Anantharam.
+Preprint (2018/2020).
+On maximal correlation, hypercontractivity, and the data processing inequality studied by Erkip and Cover.
+Venkat Anantharam, Amin Gohari, Sudeep Kamath, and Chandra Nair.
+Preprint (2013).
+2020 +
+Journal Papers
+A unified framework for one-shot achievability via the Poisson matching lemma.
+Cheuk Ting Li and Venkat Anantharam
+``IEEE Transactions on Information Theory",
+Vol. 67, No. 5, pp. 2624 -2651, May 2021.
+ArXiv version
+Universal lossless compression of graphical data.
+Payam Delgosha and Venkat Anantharam
+``IEEE Transactions on Information Theory",
+Vol. 66, No. 11, pp. 6962 -6976, November 2020.
+ArXiv version
+Conference Proceeding Papers
+A universal low complexity compression algorithm for sparse marked graphs.
+Payam Delgosha and Venkat Anantharam
+IEEE International Symposium on Information Theory, Los Angeles, California, U.S.A., 21 -26 June 2020, pp. 2349-2354.
+Book articles and other articles
+Unpublished documents and miscellania
+2017-2019
+Journal Papers
+On the geometry of Nash and correlated equilibria with cumulative prospect theoretic preferences.
+Soham R. Phade and Venkat Anantharam
+Decision Analysis, Vol. 16, No. 2, pp. 142-156, June 2019.
+Error exponents for dimension-matched vector multiple access channels with additive noise.
+Venkat Anantharam and Francois Baccelli
+IEEE Transactions on Information Theory, Vol. 65, No. 5, pp. 2808-2823, May 2019.
+On the evaluation of Marton's inner bound for two receiver broadcast channels.
+Venkat Anantharam, Amin Gohari and Chandra Nair
+IEEE Transactions on Information Theory, Vol. 65, No. 3, pp. 1361-1371, March 2019.
+A variational characterization of Renyi divergences.
+Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 64, No. 11, pp. 6979-6989, November 2018.
+The two-unicast problem.
+Sudeep Kamath, Venkat Anantharam, David Tse and Chih-Chun Wang
+IEEE Transactions on Information Theory, Vol. 64, No. 5, pp. 3865-3882, May 2018.
+Load balancing in hypergraphs.
+Payam Delgosha and Venkat Anantharam
+Journal of Statistical Physics, Vol. 173, Nos. 3-4, pp. 546-625,
+March 2018.
+A combinatorial proof of a formula of Biane and Chapuy.
+Sinho Chewi and Venkat Anantharam
+Electronic Journal of Combinatorics, Vol. 25, No. 1, pp. 1-12,
+Paper No. #P1.58, 20 March 16, 2018.
+Gaussian extremality for derivatives of differential entropy using linear matrix inequalities.
+Xiaobing Zhang, Venkat Anantharam and Yanlin Geng
+Entropy, Vol. 20, No. 3, Paper No. 182, 20 pages, March 2018.
+Intrinsic entropies of log-concave distributions.
+Varun Jog and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 64, No. 1, pp. 93-108, January 2018.
+Comments on "Information theoretic key agreement of multiple terminal -- Part I"
+Amin Gohari and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 63, No. 8, pp. 5440-5442, August 2017.
+A variational formula for risk-sensitive reward.
+Venkat Anantharam and Vivek Borkar
+SIAM Journal on Control and Optimization, Vol. 55, No. 2, pp. 961-988, March 2017.
+Conference Proceeding Papers
+Unifying the Brascamp-Lieb inequality and the entropy power inequality.
+Venkat Anantharam, Varun Jog and Chandra Nair.
+IEEE International Symposium on Information Theory, Paris, France, 07 -12 July 2019, pp. 1847-1851.
+A unified framework for one-shot achievability via the Poisson matching lemma.
+Cheuk Ting Li and Venkat Anantharam
+IEEE International Symposium on Information Theory, Paris, France, 07 -12 July 2019, pp. 942-946.
+Optimal resource allocation over networks via lottery-based mechanisms.
+Soham R. Phade and Venkat Anantharam
+International conference on game theory for networks, Gamenets-2019, Paris, France, 25 -26 April 2019, pp. 51-70.
+One-shot variable-length secret key agreement approaching mutual information.
+Cheuk Ting Li and Venkat Anantharam
+Proceedings of the 56th Annual Allerton Conference on Communication, Control and Computing, Urbana-Champaign, Ilinois, U.S.A., 02 -05 October 2018, pp. 259-266.
+Gaussian extremality for derivatives of differential entropy under the additive Gaussian noise flow.
+Xiaobing Zhang, Venkat Anantharam and Yanlin Geng
+IEEE International Symposium on Information Theory, Vail, Colorado, U.S.A., 17 -23 June 2018, pp. 1605-1609.
+Distributed compression of graphical data.
+Payam Delgosha and Venkat Anantharam
+IEEE International Symposium on Information Theory, Vail, Colorado, U.S.A., 17 -23 June 2018, pp. 2216-2220.
+Load balancing in hypergraphs.
+Payam Delgosha and Venkat Anantharam
+Proceedings of the 55th Annual Allerton Conference on Communication, Control and Computing, Urbana-Champaign, Ilinois, U.S.A., 03 -06 October 2017, pp. 45-52.
+On the geometry of Nash and correlated equilibria with cumulative prospect theoretic preferences.
+Soham R. Phade and Venkat Anantharam
+Proceedings of the 55th Annual Allerton Conference on Communication, Control and Computing, Urbana-Champaign, Ilinois, U.S.A., 03 -06 October 2017, pp. 724-731.
+A variational characterization of Renyi divergences.
+Venkat Anantharam
+IEEE International Symposium on Information Theory, Aachen, Germany, 25 -30 June 2017, pp. 893-897.
+Universal lossless compression of graphical data
+Payam Delgosha and Venkat Anantharam
+IEEE International Symposium on Information Theory, Aachen, Germany, 25 -30 June 2017, pp. 1578-1582.
+A conjecture regarding optimality of the dictator function under Hellinger distance.
+Venkat Anantharam, Andrej Bogdanov, Amit Chakrabarti, T. S. Jayram and Chandra Nair
+Information Theory and its Applications Workshop, ITA-2017, San Diego, February 2017, Paper No. 688, 9 pages.
+Book articles and other articles
+Unpublished documents and miscellania
+A notion of entropy for sparse random graphs and its applications in graphical data compression.
+Payam Delgosha and Venkat Anantharam
+Information Theory and its Applications Workshop, ITA-2019, San Diego, California, U.S.A., 10 -15 February, 2019. Poster presentation.
+A notion of entropy for sparse random graphs and its applications in graphical data compression.
+Payam Delgosha and Venkat Anantharam
+Stanford Compression Workshop, Stanford University, Palo Alto, California, U.S.A., 15 February 2019. Poster presentation.
+2014-2016
+Journal Papers
+The Boolean model in the Shannon regime: Three thresholds and related asymptotics.
+Venkat Anantharam and Francois Baccelli
+Journal of Applied Probability, Vol. 53, pp. 1001-1018, December 2016.
+A geometric analysis of the AWGN channel with a sigma-rho constraint.
+Varun Jog and Venkat Anantharam
+IEEE Transactions on Information Theory,
+Vol. 62, No. 8, pp. 4413-4438, August 2016.
+On non-interactive simulation of joint distributions.
+Sudeep Kamath and Venkat Anantharam
+IEEE Transactions on Information Theory,
+Vol. 62, No. 6, pp. 3419-3435, June 2016.
+The densest subgraph problem in sparse random graphs.
+Venkat Anantharam and Justin Salez
+Annals of Applied Probability, Vol. 26, No. 1, pp. 305-327, January 2016.
+Stable distributed P2P protocols based on random peer sampling.
+Barlas Oguz, Venkat Anantharam and Ilkka Norros
+IEEE/ACM Transactions on Networking, Vol. 23, No. 5, pp. 1444-1456, October 2015.
+Agnostic Insurability of Model Classes.
+Narayana Prasad Santhanam and Venkat Anantharam
+Journal of Machine Learning Research, Vol. 16, pp. 2329-2355, November 2015.
+Capacity and Error Exponents of Stationary Point Processes under Random Additive Displacements.
+Venkat Anantharam and Francois Baccelli
+Advances in Applied Probability, Vol. 47, pp. 1-26, March 2015.
+Infeasibility proof and information state in network information theory.
+Amin Aminzadeh Gohari and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 60, No. 10, pp. 5992-6004, October 2014.
+The entropy power inequality and Mrs. Gerber's lemma for groups of size 2^n.
+Varun Jog and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 60, No. 7, pp. 3773-3786, July 2014.
+On Marton's Inner Bound for the General Broadcast Channel.
+Amin Gohari, Abbas El Gamal, and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 60, No. 7, pp. 3748-3762, July 2014.
+Conference Proceeding Papers
+State estimation in energy harvesting systems.
+Omur Ozel and Venkat Anantharam
+Information Theory and its Applications Workshop, ITA-2016, San Diego, 31 January - 05 February 2016, pp. 1-9.
+On the geometry of convex typical sets.
+Varun Jog and Venkat Anantharam
+IEEE International Symposium on Information Theory, Hong Kong, China, 14 -19 June 2015, pp. 829-833.
+A geometric analysis of the AWGN channel with a sigma-rho power constraint.
+Varun Jog and Venkat Anantharam
+IEEE International Symposium on Information Theory, Hong Kong, China, 14 -19 June 2015, pp. 121-125.
+On error exponents for a dimension-matched MAC with additive noise.
+Venkat Anantharam and Francois Baccelli
+IEEE International Symposium on Information Theory, Hong Kong, China, 14 -19 June 2015, pp. 934-938.
+Rocking in two by two: From Collatz-Wielandt to Donsker-Varadhan (extended abstract).
+Venkat Anantharam and Vivek S. Borkar
+Information Theory and its Applications Workshop, ITA-2015, San Diego, 01 -06 February 2015, pp. 252-254.
+On hypercontractivity and a data processing inequality.
+Venkat Anantharam, Amin Gohari, Sudeep Kamath and Chandra Nair
+IEEE International Symposium on Information Theory, Honolulu, Hawaii, 29 June -04 July 2014, pp. 3022-3026.
+An energy harvesting AWGN channel with a finite battery.
+Varun Jog and Venkat Anantharam
+IEEE International Symposium on Information Theory, Honolulu, Hawaii, 29 June -04 July 2014, pp. 806-810.
+Data-driven weak universal redundancy.
+Narayana Prasad Santhanam, Venkat Anantharam, Aleksandar Kavcic and Wojciech Szpankowski
+IEEE International Symposium on Information Theory, Honolulu, Hawaii, 29 June -04 July 2014, pp. 1877-1881.
+Convex Relative Entropy Decay in Markov Chains.
+Varun Jog and Venkat Anantharam
+Proceedings of the 48th Annual Conference on
+Information Sciences and Systems, CISS-2014, Princeton University, Princeton, NJ, 19 -21 March 2014, pp. 1-6.
+Book articles and other articles
+Unpublished documents and miscellania
+Henri ponders Boolean functions
+Sudeep Kamath and Venkat Anantharam
+Youtube video, February 17, 2014.
+2011-2013
+Journal Papers
+Hurst Index of Functions of Long Range Dependent
+Markov Chains.
+Barlas Oguz and Venkat Anantharam
+``Journal of Applied Probability",
+Vol. 49, No.2, pp. 451 -471, June 2012.
+Stochastic Approximation with Long Range Dependent and Heavy Tailed Noise.
+Venkat Anantharam and Vivek Borkar
+``Queueing Systems: Theory and Applications",
+Vol. 71. Nos. 1-2, pp. 221 -242, June 2012.
+Evaluation of Marton's Inner Bound for the General Broadcast Channel.
+Amin Aminzadeh Gohari and Venkat Anantharam
+``IEEE Transactions on Information Theory", Vol. 58, No. 2,
+pp. 608 -619, February 2012.
+Integral representation of Skorokhod reflection.
+Venkat Anantharam and Takis Konstantopoulos
+``Proceedings of the American Mathematical Society, Vol. 139, No. 6, pp. 2227 -2237,
+June 2011.
+How Bad Are Selfish Investments In Network Security?
+Libin Jiang, Venkat Anantharam and Jean Walrand.
+``IEEE/ACM Transactions on Networking", Vol. 19, No. 2, pp. 549 -560,
+April 2011.
+Conference Proceeding Papers
+On Hypercontractivity and the Mutual Information Between Boolean Functions.
+Venkat Anantharam, Amin Gohari, Sudeep Kamath, and Chandra Nair.
+Proceedings of the 51st Annual Allerton Conference on Communication, Control, and Computing, Urbana, Illinois, 02 -04 October 2013, pp. 13 -19.
+Improved cardinality bounds on the auxiliary random variables in Marton's inner bound.
+Venkat Anantharam, Amin Gohari, and Chandra Nair.
+Proceedings of the IEEE International Symposium on Information Theory, Istanbul, Turkey, 07 -12 July 2013, pp. 1272 -1276.
+The entropy power inequality and Mrs. Gerber's lemma for groups of order 2^n.
+Varun Jog and Venkat Anantharam.
+Proceedings of the IEEE International Symposium on Information Theory, Istanbul, Turkey, 07 -12 July 2013, pp. 594 -598.
+Universal algorithms: building a case for pointwise convergence.
+Narayana Prasad Santhanam and Venkat Anantharam.
+Proceedings of the 50th Annual Allerton Conference on Communications, Control, and
+Computing, Urbana, Illinois, 01 -05 October, 2012, pp. 489 -493.
+Non-interactive simulation of joint distributions: the Hirschfeld-Gebelein-Renyi correlation
+and the hypercontractivity ribbon.
+Sudeep Kamath and Venkat Anantharam.
+Proceedings of the 50th Annual Allerton Conference on Communications, Control, and
+Computing, Urbana, Illinois, 01 -05 October, 2012, pp. 1057 -1064.
+Stable, distributed P2P protocols based on random peer sampling.
+Barlas Oguz, Venkat Anantharam, and Ilkka Norros.
+Proceedings of the 50th Annual Allerton Conference on Communications, Control, and
+Computing, Urbana, Illinois, 01 -05 October, 2012, pp. 915 -919.
+Agnostic insurance tasks and their relation to compression.
+Narayana Santhanam and Venkat Anantharam.
+International Conference on Signal Processing and Communications, SPCOM-12,
+Indian Institute of Science, Bangalore, India, 22 -25 July 2012, pp. 1 -5.
+Pointwise lossy source coding theorem for sources with memory.
+Barlas Oguz and Venkat Anantharam.
+IEEE International Symposium on Information Theory,
+Cambridge, Massachusetts, July 1 -6, 2012, pp. 363 -367.
+On Marton's inner bound for broadcast channels.
+Amin Gohari, Chandra Nair, and Venkat Anantharam.
+IEEE International Symposium on Information Theory,
+Cambridge, Massachusetts, July 1 -6, 2012, pp. 581 -585.
+Prediction Over Countable Alphabets.
+Narayana Santhanam and Venkat Anantharam.
+Proceedings of the 46th Annual Conference on Information Sciences
+and Systems, Princeton University, Princeton, NJ, 21 -23 March, 2012, pp. 1 -6.
+Long range dependent Markov chains with applications.
+Barlas Oguz and Venkat Anantharam.
+Workshop on Information Theory and Applications, San Diego, 2012,
+pp. 274 -280.
+Generalized Network Sharing Outer Bound and the Two-Unicast Problem.
+Sudeep Kamath, David N. C. Tse, and Venkat Anantharam.
+``Proceedings of NetCod2011, the 2011 International Symposium on Network Coding",
+Beijing, China, July 25 -27, 2011, pp. 1-6.
+Generating Dependent Random Variables over Networks.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+Proceedings of the 2011 IEEE Information Theory Workshop,
+Paraty, Brazil, 16 -20 October, 2011, pp. 698 -702.
+How To Choose Communication Links in an Adversarial
+Environment?
+Assane Gueye, Jean Walrand, and Venkat Anantharam.
+``Proceedings of GameNets 2011, the 2nd International ICST Conference on
+Game Theory for Networks",
+Shanghai, China, Apr. 16 -18, 2011, pp. 233 -248.
+Stochastic Approximation with 'Bad' Noise.
+Venkat Anantharam and Vivek S. Borkar.
+Proceedings of the 2011 Workshop on Information Theory and
+Applications, San Diego, CA, 06 -11 February 2011, pp. 1-3
+Book articles and other articles
+Unpublished documents and miscellania
+Stable, scalable, decentralized P2P file sharing with non-altruistic peers.
+Barlas Oguz, Venkat Anantharam and Ilkka Norros.
+www.arxiv.org, 15 Jul. 2011.
+2008-2010
+Journal Papers
+Information-Theoretic Key Agreement of Multiple Terminals - Part II: Channel
+Model.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``IEEE Transactions on Information Theory", Vol. 56, No. 8,
+pp. 3997 -4010, August 2010.
+Information-Theoretic Key Agreement of Multiple Terminals - Part I.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``IEEE Transactions on Information Theory", Vol. 56, No. 8, pp. 3973 -3996,
+August 2010.
+An Efficient 10GBASE-T Ethernet LDPC Decoder Design with Low Error Floors.
+Zhengya Zhang, Venkat Anantharam, Martin J. Wainwright and
+Borivoje Nikolic.
+``IEEE Journal on Solid-State Circuits", Special Issue on
+the 2009 Symposium on VLSI Circuits, Vol. 45, No. 4, pp. 843 -855,
+April 2010.
+Counterexamples to a proposed Stam inequality on finite groups.
+Venkat Anantharam.
+``IEEE Transactions on Information Theory", Vol. 56, No. 4, pp. 1825 -1827,
+April 2010.
+Repetition Error Correcting Sets: Explicit Constructions and Prefixing
+Methods.
+Lara Dolecek and Venkat Anantharam.
+``SIAM Journal on Discrete Mathematics", Vol. 23, No. 4, pp. 2120 -2146,
+April 2010.
+Analysis of Absorbing Sets and Fully Absorbing Sets of Array-Based LDPC
+Codes.
+Lara Dolecek, Zhengya Zhang, Venkat Anantharam, Martin J. Wainwright and
+Borivoje Nikolic.
+``IEEE Transactions on Information Theory", Vol. 56, No. 1, pp. 181 -201,
+January 2010.
+Design of LDPC Decoders for Improved Low Error Rate Performance: Quantization
+and Algorithm Choices.
+Zhengya Zhang, Lara Dolecek, Borivoje Nikolic, Venkat Anantharam and Martin J. Wainwright.
+``IEEE Transactions on Wireless Communications",
+Vol. 57, No. 11, pp. 3258 -3268,
+November 2009.
+Predicting Error Floors of Structured LDPC Codes: Deterministic Bounds and
+Estimates.
+Lara Dolecek, Pamela Lee, Zhengya Zhang, Venkat Anantharam, Borivoje Nikolic
+and Martin J. Wainwright.
+``IEEE Journal on Selected Areas in Communications", Vol. 27, No. 6,
+pp. 908 -917, August 2009.
+A technique to study the correlation measures of binary sequences.
+Venkat Anantharam.
+``Discrete Mathematics", Vol. 308, Issue 24, pp. 6203 -6209, December 2008.
+An Improved Outer Bound For Multiterminal Source Coding.
+Aaron B. Wagner and Venkat Anantharam.
+``IEEE Transactions on Information Theory", Vol. 54, pp. 1919 -1937, May 2008.
+Conference Proceeding Papers
+Design of Network Topology in an Adversarial Environment.
+Assane Gueye, Jean Walrand, and Venkat Anantharam.
+``Proceedings of the 2010 Conference on Decision and Game Theory
+for Security",
+Berlin, Germany, Nov. 22 -23, 2010, pp. 1-20.
+What risks lead to ruin.
+Narayana Santhanam and Venkat Anantharam.
+``Proceedings of the 2010 Allerton Conference on Communications, Control
+and Computing,
+Urbana, Illinois, Sep. 29 -Oct. 1, 2010, pp. 844 -850.
+A new dual to the Gacs-Korner common information defined via the
+Gray-Wyner system.
+Sudeep Kamath and Venkat Anantharam.
+``Proceedings of the 2010 Allerton Conference on Communications,
+Control and Computing,
+Urbana, Illinois, Sep. 29 -Oct. 1, 2010, pp. 1340 -1346.
+Compressing a long range dependent renewal process.
+Barlas Oguz and Venkat Anantharam.
+``Proceedings of the 2010 IEEE International Symposium on
+Information Theory", Austin, Texas, Jun. 13 -18, 2010, pp. 1443 -447.
+On an Outer Bound and an Inner Bound for the General Broadcast Channel.
+Amin Aminzadeh Gohari, Abbas El Gamal and Venkat Anantharam.
+``Proceedings of the 2010 IEEE International Symposium on
+Information Theory", Austin, Texas, Jun. 13 -18, 2010. pp. 540 -544.
+Low Error Rate LDPC Decoders.
+Zhengya Zhang, Lara Dolecek, Pamela Lee, Venkat Anantharam,
+Martin J. Wainwright, Brian Richards and Borivoje Nikolic.
+``Proceedings of the 43rd
+Asilomar Conference on Signals, Systems and Computers",
+Asilomar Conference Grounds,
+Pacific Grove, CA, Nov. 1 -4, 2009, paper No. TP7-4 (5 pages).
+Evaluation of Marton's
+Inner Bound for the General Broadcast Channel.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``Proceedings of the 2009
+IEEE Symposium on Information Theory", COEX, Seoul, Korea, June 28 -July
+3, 2009, pp. 2462 -2466.
+Bounds on the Mutual Informations of the Binary Sums of Bernoulli
+Random Variables.
+Payam Pakzad, Venkat Anantharam and Amin Shokrollahi.
+``Proceedings of the 2009
+IEEE Symposium on Information Theory", COEX, Seoul, Korea, June 28 -July
+3, 2009, pp. 304 -308.
+A Generalized Cut-Set Bound.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``Proceedings of the 2009
+IEEE Symposium on Information Theory", COEX, Seoul, Korea, June 28 -July
+3, 2009, pp. 99-103.
+A 47 Gb/s LDPC Decoder with Improved Low Error Rate Performance.
+Zhengya Zhang, Venkat Anantharam, Martin J. Wainwright and Borivoje
+Nikolic.
+``Proceedings of the 2009 Symposia on VLSI Technology and Circuits"
+Kyoto, Japan, June 15 -18, 2009, pp. 286 -287.
+An Outer Bound to the Admissible Source Region of Broadcast Channels
+with Arbitrarily Correlated Sources and Channel Variations.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``Proceedings of the 46th Annual Allerton Conference on
+Communications, Control and Computing",
+Urbana, Illinois, September 23 -26, 2008, pp. 301 -308 .
+Anonymity under Light Traffic Conditions using a Network of Mixes.
+Parvathinathan Venkitasubramaniam and Venkat Anantharam.
+``Proceedings of the 46th Annual Allerton Conference on
+Communications, Control and Computing",
+Urbana, Illinois, September 23 -26, 2008, pp. 1373 -1380.
+Lowering LDPC Error Floors by Postprocessing.
+Zhengya Zhang, Lara Dolecek, Borivoje Nikolic, Venkat Anantharam and
+Martin Wainwright.
+``Proceedings of the 2008 IEEE Globecom", 30 Nov. -04 Dec. 2008,
+New Orleans, U.S.A, pp. 1 -6.
+Efficiency of Selfish Investments in Network Security.
+Libin Jiang, Venkat Anantharam and Jean Walrand.
+``Proceedings of the ACM NetEcon 2008 Workshop",
+August 22, 2008, Seattle, Washington, U.S.A., pp. 31 -36.
+Error Floors in LDPC Codes: Fast Simulation, Bounds and Hardware Emulation.
+Pamela Lee, Lara Dolecek, Zhengya Zhang, Venkat Anantharam, Borivoje Nikolic
+and Martin J. Wainwright.
+``Proceedings of the IEEE International Symposium on Information
+Theory", Toronto, Canada, July 6 -11, 2008, pp. 444 -448.
+Prefixing Method for Correcting Repetition Errors.
+Lara Dolecek and Venkat Anantharam.
+``Proceedings of the IEEE International Symposium on Information
+Theory", Toronto, Canada, July 6 -11, 2008, pp. 965 -969.
+On the Anonymity of Chaum Mixes.
+Parvathinathan Venkitasubramaniam and Venkat Anantharam.
+``Proceedings of the IEEE International Symposium on Information
+Theory", Toronto, Canada, July 6 -11, 2008, pp. 534 -538.
+A Palm theory approach to error exponents.
+Venkat Anantharam and Francois Baccelli.
+``Proceedings of the IEEE International Symposium on Information
+Theory", Toronto, Canada, July 6 -11 2008, pp. 1768 -1772.
+New Bounds on the Information-Theoretic Key Agreement of Multiple Terminals.
+Amin Aminzadeh Gohari and Venkat Anantharam.
+``Proceedings of the IEEE International Symposium on Information
+Theory", Toronto, Canada, July 6 -11 2008, pp. 742 -746.
+Book articles and other articles
+Information theory of covert timing channels.
+Aaron B. Wagner and Venkat Anantharam.
+Proceedings of the 2005 NATO/ASI Workshop on
+Network Security and Intrusion Detection, in
+``Aspects of Network and Information Security",
+Evangelos Kranakis, Evgueni Haroutunian and Elisa Shahbazian (eds.),
+IOS Press, pp. 292 -296, 2008.
+Unpublished documents and miscellania
+Optimal control of interacting particle systems.
+Charles Bordenave and Venkat Anantharam.
+Document No. hal-00397327. Posted at the French academic
+report database HAL:
+http://hal.archives-ouvertes.fr
+(Document completed in October 2007, posted June 20 2009).
+2005-2007
+Journal Papers
+Common randomness and distributed control : a counterexample.
+Venkat Anantharam and Vivek Borkar.
+``Systems and Control Letters", Vol. 56, No. 7-8, July 2007, pp. 568 -572.
+Using Reed-Muller RM(1,m) codes over channels with synchronization and
+substitution errors.
+Lara Dolecek and Venkat Anantharam.
+``IEEE Transactions on Information Theory", Vol. 53, No. 4, pp. 1430 -1443,
+April 2007.
+Kikuchi Approximation Method for Joint Decoding of LDPC Codes and
+Partial-Response Channels.
+Payam Pakzad and Venkat Anantharam.
+IEEE Transactions on Communications. Vol. 54, No. 7, pp. 1149 -1153,
+July 2006.
+Exact emulation of a priority queue with a switch and delay lines.
+Anand Sarwate and Venkat Anantharam.
+Queueing Systems : Theory and Applications, Vol. 53, No. 3,
+pp. 115 -125, July 2006.
+On the rod placement theorem of Rybko and Shlosman.
+Venkat Anantharam.
+Queueing Systems : Theory and Applications, Vol. 52, No. 3, pp. 185 -188,
+March 2006.
+Bufferless all-optical networking with erasure codes.
+Sagnik Ghosh and Venkat Anantharam.
+Berkeley Scientific Journal, Vol. 9, No. 2, pp. 115 -118, Fall 2005.
+Estimation and Marginalization using the Kikuchi Approximation Methods.
+Payam Pakzad and Venkat Anantharam.
+Neural Computation, Vol. 17, No. 8, pp. 1836 -1873, August 2005.
+Regulating functions on partially ordered sets.
+Venkat Anantharam and Takis Konstantopoulos.
+Order, Vol. 22, No. 2, pp. 145 -183, May 2005.
+An upper bound for the largest Lyapunov exponent of a Markovian
+product of nonnegative matrices.
+Reza Gharavi and Venkat Anantharam.
+Theoretical Computer Science, Vol. 332, Nos. 1-3,
+pp. 543 -557, February 2005.
+Zero-Rate Reliability of the Exponential-Server Timing Channel.
+Aaron Wagner and Venkat Anantharam.
+IEEE Transactions on Information Theory, Vol. 51, No. 2,  pp. 447 -466,
+February 2005.
+Designing a Contact Process : The Piecewise-Homogeneous Process on a Finite Set with
+Applications.
+Aaron Wagner and Venkat Anantharam.
+Stochastic Processes and their Applications, Vol. 115, No. 1, pp.
+117 -153, January 2005.
+Conference Proceedings Papers
+Evaluation of the Low Frame Error Rate Performance of LDPC Codes Using
+Importance Sampling.
+Lara Dolecek, Zhengya Zhang, Martin Wainwright, Venkat Anantharam and
+Borivoje Nikolic.
+``Proceedings of the IEEE ITW 2007, Lake Tahoe, California,
+pp. 202 -207.
+Quantization Effects in Low-Density Parity-Check Decoders.
+Zhengya Zhang, Lara Dolecek, Martin Wainwright, Venkat Anantharam and
+Borivoje Nikolic.
+``Proceedings of the IEEE ICC 2007, Glasgow, Scotland,
+pp. 6231 -6237.
+Analysis of Absorbing Sets for Array-Based LDPC Codes.
+Lara Dolecek, Zhengya Zhang, Venkat Anantharam, Martin Wainwright and
+Borivoje Nikolic.
+``Proceedings of the IEEE ICC 2007, Glasgow, Scotland,
+pp. 6261 -6268.
+Communication for Omniscience by a Neutral Observer and Information-Theoretic
+Key Agreement by Multiple Terminals.
+Amin Aminzadeh Gohari and Venkat Anantharam
+``Proceedings of the IEEE International Symposium on Information Theory,
+Nice, France, June 24 -29 2007, pp. 2056 -2060.
+On Subsets of Binary Strings Immune to Multiple Repetition Errors.
+Lara Dolecek and Venkat Anantharam
+``Proceedings of the IEEE International Symposium on Information Theory,
+Nice, France, June 24 -29, 2007, pp. 1691 -1695.
+An Information Theoretic View of Stochastic Resonance.
+Venkat Anantharam and Vivek Borkar
+``Proceedings of the IEEE International Symposium on Information Theory,
+Nice, France, June 24 -29, 2007, pp. 966 -970.
+Investigation of error floors of structured low-density parity-check codes
+by hardware emulation.
+Zhengya Zhang, Lara Dolecek, Borivoje Nikolic, Venkat Anantharam, and
+Martin Wainwright.
+``Proceedings of the IEEE Globecom 2006,
+San Francisco, CA, U.S.A., 27 Nov. -01 Dec. 2006", paper GEN03-6, pp. 1 -6
+A synchronization technique for array-based LDPC codes in channels with varying sampling rate.
+Lara Dolecek and Venkat Anantharam.
+``Proceedings of the IEEE Internation
+Symposium on Information Theory, Seattle, WA, 09 July -14 July, 2006",
+pp. 2057 -2061.
+An Improved Outer Bound for the Multiterminal Source-coding Problem.
+Aaron Wagner and Venkat Anantharam.
+Proceedings of the 2005 IEEE International Symposium on Information Theory,
+Adelaide, Australia 4 -9 September 2005, pp. 1406 -1410.
+2002-2004
+Journal Papers
+Queuing Analysis with Traffic Models Based on
+Deterministic Dynamical Systems.
+Venkat Anantharam.
+Computer Science Journal of Moldova, Vol. 12, No. 2, pp. 154 -170, 2004.
+A New Look at the Generalized Distributive Law.
+Payam Pakzad and Venkat Anantharam.
+IEEE Transactions on Information Theory, Vol. 50, No. 6,
+pp. 1132 -1155, June 2004.
+Iterative decoder architectures.
+Engling Yeo, Borivoje Nikolic, and Venkat Anantharam.
+IEEE Communications Magazine, Vol. 41, No. 8, pp. 132 -140,
+August 2003.
+Ensuring convergence of the MMSE iteration for interference avoidance
+to the global optimum.
+Pablo Anigstein and Venkat Anantharam
+IEEE Transactions on Information Theory, Vol. 49, No. 4, pp. 873 -885, April
+2003.
+Optimal Sequences for CDMA Under Colored Noise : A Schur-Saddle Function Property.
+Pramod Viswanath and Venkat Anantharam.
+IEEE Transactions on Information Theory, Vol. 48, No. 6, pp. 1295 -1318, June 2002.
+Utility Based Rate Control in the Internet for Elastic Traffic.
+Richard La and Venkat Anantharam.
+IEEE/ACM Transactions on Networking, Vol 10, No. 2, pp. 272 -286, April 2002.
+Optimal Routing Control : Repeated Game Approach.
+Richard La and Venkat Anantharam.
+IEEE Transactions on Automatic Control, Vol. 47, No. 3, pp. 437 -450,
+March 2002.
+Conference Proceedings Papers
+On the Nash dynamics of congestion games with player-specific utility.
+Venkat Anantharam.
+Proceedings of the 43rd IEEE Conference on Decision and Control,
+Atlantis, Paradise Island, Bahamas, December 14 -17, 2004, pp. 4673 -4678.
+Run-length properties of a Reed-Muller RM(1,m) code with
+applications in channels with at most one synchronization error.
+Lara Dolecek and Venkat Anantharam.
+Proceedings of the 42nd Allerton Conference on Communications,
+Control, and Computing, Champaign, Illinois, 29 Sep - 01 Oct. 2004,
+pp. 270 -279.
+Feedback, Queueing, and the Reliability of the Ideal Poisson Chanel
+above Capacity.
+Aaron Wagner and Venkat Anantharam.
+Proceedings of the 2004 International Symposium on Information Theory,
+ISIT 2004, Jun. 27 - Jul. 2, 2004, pg. 445.
+A pairwise error probability bound for the exponential-server timing
+channel.
+Aaron Wagner and Venkat Anantharam.
+Proceedings of the 2003 IEEE International Conference on Communications,
+ICC '03, Vol. 5, pp. 3472 -3476.
+Bufferless all-optical networking with erasure codes.
+Venkat Anantharam.
+Proceedings of the 2002 IEEE Workshop on Information Theory,
+pg. 19.
+Minimal graphical representation of Kikuchi regions.
+Payam Pakzad and Venkat Anantharam.
+Proceedings of the 40th Annual Allerton Conference on Communication,
+Control, and Computing, Urbana, Illionis, October 2 -4 2002,
+pp. 1585 -1594.
+Wireless sensor network design via interacting particles.
+Aaron Wagner and Venkat Anantharam.
+Proceedings of the 40th Annual Allerton Conference on Communication,
+Control, and Computing, Urbana, Illionis, October 2 -4 2002,
+pp. 1554 -1563.
+On the zero-rate error exponent of the exponential server timing channel.
+Aaron Wagner and Venkat Anantharam.
+Proceedings of the 40th Annual Allerton Conference on Communication,
+Control, and Computing, Urbana, Illionis, October 2 -4 2002,
+pp. 1279 -1287.
+Architectures and Implementations of Low-Density Parity Check Decoding
+Algorithms.
+Engling Yeo, Borivoje Nikolic, and Venkat Anantharam.
+Proceedings of the 45th IEEE Midwest Symposium on Circuits and Systems,
+MWSCAS 2002, Tulsa, Oklahoma, August 4 -7, 2002, Vol. III, pp. 437 -440.
+Designing an Interacting Particle System : Optimization of the
+Piecewise-Homogeneous Contact Process.
+Aaron B. Wagner and Venkat Anantharam.
+Proceedings of the Conference on Information
+Sciences and Systems, Princeton University, March 20 -22, 2002.
+Paper No. 153. 6 pages.
+A New Look at the Generalized Distributive Law.
+Payam Pakzad and Venkat Anantharam.
+Proceedings of the Conference on Information
+Sciences and Systems, Princeton University, March 20 -22, 2002.
+Paper No. 30. 5 pages.
+Belief Propagation and Statistical Physics.
+Payam Pakzad and Venkat Anantharam.
+Proceedings of the Conference on Information
+Sciences and Systems, Princeton University, March 20 -22, 2002.
+Paper No. 225. 3 pages.
+Book articles and other articles
+A game-theoretic look at the Gaussian multiaccess channel.
+Richard J. La and Venkat Anantharam.
+Advances in Network Information Theory, P. Gupta, G. Kramer,
+and A. J. van Wijngaarden, eds.,
+Proceedings of the March 2003 DIMACS
+workshop on Network Information Theory, DIMACS series in
+Discrete Mathematics and Theoretical Computer Science, Vol. 66,
+pp. 87 -106, 2004.
+1999-2001
+Journal Papers
+Structure Theorems for Partially Asynchronous Iterations
+of a Nonnegative Matrix with Random Delays.
+Reza Gharavi and V. Anantharam.
+SADHANA, Proceedings of the Indian Academy of Sciences,
+Vol. 24, Parts 4 and 5, pp. 369 -424,
+August and October 1999.
+VLSI Architectures for Iterative Decoders in Magnetic Recording
+Channels.
+Engling Yeo, Payam Pakzad, Borivoje Nikolic, and Venkat Anantharam.
+IEEE Transactions on Magnetics, Vol. 37, No. 2, March 2001, pp. 748 -55.
+Asymptotically Optimal Waterfilling in Vector Multiple Access
+Channels.
+Pramod Viswanath, David N.C. Tse, and Venkat Anantharam,
+IEEE Transactions on Information Theory,
+Vol. 47, No. 1, pp. 241 -267, January 2001.
+Optimal Sequences, Power Control, and User Capacity of
+Synchronous CDMA Systems with Linear MMSE Multiuser Receivers
+P. Viswanath, V. Anantharam, and D. Tse.
+IEEE Transactions on Information Theory, Vol. 45, No. 6,
+pp. 1968 -1983, Sep. 1999.
+Optimal Sequences and the Sum Capacity of Synchronous CDMA
+Systems.
+P. Viswanath and V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 45, No. 6, pp.
+1984 -1991, Sep. 1999.
+A correction and some additional remarks on
+`Stationary Solutions of Stochastic Recursions describing Discrete
+Event Systems'.
+V. Anantharam and T. Konstantopoulos.
+Stochastic Processes and Their Applications,
+Vol. 80, No. 2, pp. 271-278, April 1999.
+The Common Randomness Capacity of a Network of Discrete Memoryless
+Channels.
+S. Venkatesan and V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 46, No. 2,
+March 2000, pp. 367 -387.
+Scheduling Strategies and Long-range Dependence.
+V. Anantharam.
+Queueing Systems : Theory and Applications, Vol. 33, Nos. 1-3,
+pp. 73 -89, December 1999.
+A methodology for the Design of Optimal Traffic Shapers in ATM Networks.
+V. Anantharam and T. Konstantopoulos.
+IEEE Transactions on Automatic Control,
+Vol. 44, No. 3, pp. 583 -586, March 1999.
+Achieving 100 % Throughput in an Input-Queued
+Switch
+N. Mckeown, A. Mekkittikul,
+V. Anantharam, and J. Walrand.
+IEEE Transactions on Communications, Vol. 47, No. 8,
+pp. 1260 -1267, August 1999.
+Conference Proceedings Papers
+A Schur-Saddle Function Property in CDMA.
+Pramod Viswanath and Venkat Anantharam.
+Proceedings of the 2001 International Symposium on
+Information Theory, Washington DC, June 24 -June 29, 2001, pg. 128.
+High Throughput Low-Density Parity-Check Decoder Architectures.
+Engling Yeo, Payam Pakzad, Borivoje Nikolic, and Venkat Anantharam.
+Proceedings of the IEEE GLOBECOM 2001, IEEE Press, pp. 3019 -3024.
+Window-Based Congestion Control with Heterogeneous Users.
+Richard J. La and Venkat Anantharam.
+Proceedings of the IEEE INFOCOM 2001, Anchorage, Alaska,
+April 22 -26, 2001, IEEE Press, Piscataway, NJ, pp. 1320 -1329.
+Ensuring convergence of the MMSE iteration for interference
+avoidance to the global optimum.
+Pablo Anigstein and Venkat Anantharam.
+Proceedings of the 38th Annual Allerton Conference on Communications,
+Control, and Computing,
+University of Illinois, Urbana -Champaign,
+Oct. 4 -6, 2000, pp. 307 -317.
+VLSI Architectures for Iterative Decoders in Magnetic Recording
+Channels.
+Engling Yeo, Payam Pakzad, Borivoje Nikolic, and Venkat Anantharam.
+Digest of the Eleventh Annual Magnetic Recording Conference, August
+14 -16, 2000, Santa Clara University, page E6.
+Optimal Power Control and Spectral Efficiency of Multiaccess
+Vector Channels.
+P. Viswanath, D. Tse, and V. Anantharam.
+Proceedings of the
+International Conference on Stochastic Processes and
+their Applications, Department of Mathematics,
+Cochin University of Science and Technology, Dec 17 -20, 1999, (to appear).
+Charge-Sensitive TCP and Rate Control in the Internet.
+Richard J. La and Venkat Anantharam.
+Proceedings of the IEEE INFOCOM 2000, Tel Aviv, Israel,
+March 26 -30, 2000, IEEE Press, pp. 1166 -1175.
+Sum Capacity of DS-CDMA with Colored Noise.
+Pramod Viswanath and Venkat Anantharam.
+Proceedings of the 2000
+IEEE International Symposium on Information Theory, Sorrento, Italy,
+25 -30 June 2000, IEEE Press, pg. 130.
+Asymptotically Optimal Waterfilling in Multiple Antenna Multiple
+Access Channels
+P. Viswanath, D. Tse, and V. Anantharam.
+Proceedings of the 2000
+IEEE International Symposium on Information Theory, Sorrento, Italy,
+25 -30 June 2000, IEEE Press, pg. 466.
+User Capacity of a Power Controlled CDMA System with Multiple
+Base Stations.
+P. Viswanath and Venkat Anantharam.
+Proceedings of the 1999
+IEEE Workshop on Information Theory, Kruger National Park,
+South Africa, June 20 -25, 1999, pp. 21 -23.
+Network Pricing Using a Game Theoretic Approach.
+Richard J. La and V. Anantharam,
+Proceedings of the 38rd IEEE Conference on Decision and Control,
+Phoenix, AZ, Dec. 1999, IEEE Press, Piscataway, NJ, pp. 4008 -4013.
+Analysis and Comparison of TCP Reno and TCP Vegas.
+Jeonghoon Mo, Richard J. La, V. Anantharam, and J. Walrand.
+IEEE INFOCOM 1999,
+Conference on Computer Communications,
+March 1999, New York, pp. 1556 -63.
+Book articles and other articles
+Reflections on the 1998 Information Theory Society Paper
+Award : Bits through Queues.
+V. Anantharam and S. Verdu.
+IEEE Information Theory Society Newsletter,
+December 1999.
+Unpublished documents and miscellania
+The WebTP Architecture and Algorithms.
+Y. Xia, H-S. W. So, R. La, V. Anantharam, S. McCanne, D. Tse,
+J. Walrand, and P. Varaiya.
+Memorandum No. UCB/ERL M 00/53, Electronics Research Laboratory,
+University of California, Berkeley, January 15, 2000.
+The Framework of User-Centric Optimization in Web-Based Applications.
+Y. Xia, H-S. W. So, R. La, V. Anantharam, S. McCanne, D. Tse,
+J. Walrand, and P. Varaiya.
+Memorandum No. UCB/ERL M 00/52, Electronics Research Laboratory,
+University of California, Berkeley, January 15, 2000.
+Issues in TCP Vegas.
+Richard J. La, J. Walrand, and V. Anantharam.
+UCB/ERL Memorandum, No. M99/3, Electronics Research Laboratory,
+University of California, Berkeley, January 1999.
+Introduction to the special issue on control methods for
+communication networks.
+V. Anantharam and J. Walrand.
+AUTOMATICA, Vol. 35, No. 12, Dec. 1999, pg. 1891.
+1996-1998
+Journal Papers
+Stationary Solutions of Stochastic Recursions describing Discrete
+Event Systems.
+V. Anantharam and T. Konstantopoulos.
+Stochastic Processes and Their Applications,
+Vol. 68, pp. 181 -194, 1997.
+See also the correction published in
+Vol. 80, No. 2, pp. 271-278, April 1999.
+Identification plus Transmission over Channels with Perfect
+Feedback.
+S. Venkatesan and V. Anantharam.
+IEEE Transactions on Information Theory,
+Vol. 44, No. 1, pp. 284 -290, 1998.
+The Common Randomness Capacity of a Pair of Independent Discrete
+Memoryless Channels.
+S. Venkatesan and V. Anantharam.
+IEEE Transactions on Information Theory,
+Vol. 44, No. 1, pp. 215 -224, 1998.
+On the Departure Process of a Leaky Bucket System with
+Long-Range Dependent Input Traffic.
+S. Vamvakos and V. Anantharam.
+Queueing Systems : Theory and Applications,
+Vol. 28, Nos. 1-3, pp. 191 -214, May 1998.
+Stationary Tail Probabilities in Exponential Server Tandems with
+Renewal Arrivals.
+A. Ganesh and V. Anantharam.
+Queuing Systems : Theory and Applications,
+Vol. 22, Nos. 3-4, pp. 203 -248, October 1996.
+Bits through queues.
+V. Anantharam and S. Verdu.
+IEEE Transactions on Information Theory, Vol. 42, No. 1,
+pp. 4 -18, January 1996.
+Conference Proceedings Papers
+Optimal Sequences, Power Control, and the Capacity of
+Spread-Spectrum Systems with Multiuser Linear Receivers
+P. Viswanath, D. Tse, and V. Anantharam.
+Proccedings of the IEEE Information Theory Workshop,
+Killarney, Ireland, June 22 -26, 1998, pp. 134 -135.
+Capacity for a Power Controlled Cellular System with Linear Receivers.
+P. Viswanath, D. Tse, and V. Anantharam.
+1998 IEEE International Symposium on Information Theory,
+MIT, August 16 -21, 1998, pg. 121.
+The Common Randomness Capacity of a Finite Network of Channels.
+S. Venkatesan and V. Anantharam.
+Proceedings of the 31st Asilomar Conference on Signals, Systems and
+Computers, November 2 -5 1997, Asilomar, California, pp. 1359 -1363.
+On the Departure Process of a Leaky Bucket System with
+Long-Range Dependent Input Traffic.
+S. Vamvakos and V. Anantharam.
+Proceedings of the
+IEEE ATM '97 Workshop, Lisboa, Portugal, May 26 -28, 1997, pp. 223 - 232.
+Achieving 100 % Throughput in an Input-Queued switch.
+N. Mckeown, V. Anantharam, and J. Walrand.
+Proceedings of the IEEE INFOCOM, San Francisco,
+March 24 -28, 1996,
+Volume 1, pp. 296 -302.
+Optimal Routing Control: Game Theoretic Approach.
+Richard J. La and V. Anantharam.
+Proceedings of the 36rd IEEE Conference on Decision and Control,
+San Diego, CA, Dec. 1997, pp. 2910 -2915.
+Queueing Analysis with Traffic Models based on Deterministic Dynamical
+Systems.
+V. Anantharam.
+Proceedings of the
+35th Allerton Conference on Communications, Control, and
+Computing, Champaign, Illinois, Sep 29 - Oct 1, 1997
+pp. 233 -241.
+The Common Randomness Capacity of a Finite Network of Processors.
+S. Venkatesan and V. Anantharam.
+Proccedings of the 36th Annual Allerton Conference on Communication,
+Control, and Computing, University of Illinois, Urbana -Champaign,
+Sep. 23 - 25, 1998, pp. 10 -14.
+Optimal Sequences and the Sum Capacity of Synchronous CDMA Systems.
+P. Viswanath and V. Anantharam.
+Proceedings of the 36th Annual Allerton Conference on Communication,
+Control, and Computing, University of Illinois, Urbana -Champaign,
+Sep. 23 - 25, 1998, pp. 272 -281.
+Identification plus Transmission over Channels with Perfect Feedback.
+S. Venkatesan and V. Anantharam.
+Proceedings of the 34th Allerton Conference on Communications, Control,
+and Computing, Champaign, Illinois, Oct. 2 -4, 1996, pp. 66 -73.
+The Common Randomness Capacity of a Pair of Independent Discrete
+Memoryless Channels.
+S. Venkatesan and V. Anantharam.
+Proceedings of the 34th Allerton Conference on Communications, Control,
+and Computing, Champaign, Illinois, Oct. 2 -4, 1996, pp. 84 -91.
+Book articles and other articles
+Networks of Queues with Long-Range Dependent Traffic Streams.
+V. Anantharam.
+Stochastic Networks: Stability and
+Rare Events, edited by Paul Glasserman, Karl Sigman, and David Yao,
+Lecture Notes in Statistics, Vol. 117, pp. 237 - 256,
+Springer Verlag, 1996.
+Mathematical Theory of Communication Networks.
+V. Anantharam.
+Stochastic Analysis and Related Topics V : The Silivri Workshop, 1994.,
+H. Korezlioglu, B. Oksendal, and A. S. Ustunel, eds.,
+Birkhauser, 1996,  pp. 1 -39.
+Unpublished documents and miscellania
+Adaptive Modification of Generalized Processor Sharing
+Richard La and V. Anantharam.
+August 1998.
+Estimation of Travel Time Distribution and Detection of Incidents
+based on Automatic Vehicle Classification.
+V. Anantharam.
+California PATH Working Paper UCB-ITS-PWP-98-12,  June 1998.
+Deterministic Simulation of Randomized protocols over Arbitrary
+Networks of Noisy Channels.
+S. Venkatesan and V. Anantharam.
+UCB/ERL Memorandum, No. M96/65,
+Electronics Research Laboratory, University of California, Berkeley,
+30 August 1996.
+1993-1995
+Journal Papers
+Optimal Flow Control Schemes that Regulate the Burstiness of Traffic.
+T. Konstantopoulos and V. Anantharam.
+IEEE/ACM Transactions on Networking,
+Vol. 3, No. 4, pp. 423 -432, August 1995.
+Optimization of a Database Hierarchy for Mobility Tracking in
+a Personal Communications Network.
+V. Anantharam, M. Honig, U. Madhow, and V. Wei.
+Performance Evaluation, Vol. 20, pp. 287 -300, 1994.
+A Technique for Computing Sojourn Times in Large
+Networks of Interacting Queues.
+V. Anantharam and M. Benchekroun.
+Probability in the Engineering and Informational Sciences,
+Vol. 7, pp. 441 -464, 1993.
+Burst reduction properties of the leaky bucket flow control
+scheme in ATM networks.
+V. Anantharam and T. Konstantopoulos.
+IEEE Transactions on Communications,
+Vol. 42, No. 12, pp. 3085 -3089, December 1994.
+Error Exponents in a Source Coding Problem of Korner.
+V. Anantharam.
+Journal of
+Combinatorics, Information and Systems Science,
+Vol. 20, Nos. 1-4, pp. 141 -152, 1995.
+Optimal Buffer Allocation in Tandems of Last Come First Served Queues.
+V. Anantharam and A. Ganesh.
+Queueing Systems : Theory and Applications,
+Vol. 20, Nos. 3-4, pp. 395 -408, October 1995.
+A functional central limit theorem for the jump counts of Markov
+processes with an application to Jackson networks.
+V. Anantharam and T. Konstantopoulos.
+Advances in Applied Probability.
+Vol. 27, No. 2, pp. 476 -509, June 1995.
+Correctness Within a Constant of an Optimal Buffer Allocation Rule of
+Thumb.
+V. Anantharam and A. Ganesh.
+IEEE Transactions on Information Theory,
+Vol. 40, No. 3, pp. 871 -882, 1994.
+The Input-Output Map of a Monotone Discrete time Quasireversible Node.
+V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 39, No. 2, pp. 543 -552,
+1993.
+See also the correction published in
+IEEE Transactions on Information Theory, Vol. 39, No. 4,
+pg. 1466, 1993.
+Correction to
+``The Input-Output Map of a Monotone Discrete time Quasireversible Node".
+V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 39, No. 4,
+pg. 1466, 1993.
+Uniqueness of stationary ergodic fixed point for a ./M/K
+node.
+V. Anantharam.
+Annals of Applied Probability, Vol. 3, No. 1, pp. 154 -172, 1993.
+See also the correction published in
+Vol. 4, No. 2, pg. 607, 1994.
+Correction to ``Uniqueness of stationary ergodic fixed point for a ./M/K
+node".
+V. Anantharam.
+Annals of Applied Probability, Vol. 4, No. 2, pg. 607, 1994.
+Conference Proceedings Papers
+On the Sojourn time of Sessions at an ATM Buffer with Long-range
+Dependent Input Traffic.
+V. Anantharam.
+Proceedings of the
+34rd IEEE Conference on Decision and Control,
+New Orleans, Louisiana, December 13 -15, 1995, Volume 1,
+pp. 859 -864.
+Bits through Queues.
+V. Anantharam and S. Verdu.
+Proceedings of the 1994 IEEE International Symposium on
+Information Theory, Trondheim, Norway, June 27 - July 1, 1994, pg. 371.
+Optimal Flow Control schemes for ATM Networks.
+T. Konstantopoulos and V. Anantharam.
+Proceeding of GLOBECOM '94, San Francisco, Nov. 27 - Dec. 1, 1994,
+pp. 1763 -1767.
+Stationary Solutions of Stochastic Recursions describing Discrete Event
+Sytems.
+V. Anantharam and T. Konstantopoulos.
+Proceedings of the
+33rd IEEE Conference on Decision and Control,
+Lake Buena Vista, Florida, December 14 -16, 1994, pp. 1481 -1486.
+See also the correction to journal paper published in
+Stochastic Processes and Their Applications,
+Vol. 80, No. 2, pp. 271-278, April 1999.
+An optimal flow control scheme that regulates the burstiness of traffic
+subject to delay constraints.
+V. Anantharam and T. Konstantopoulos.
+Proceedings of the
+32nd IEEE Conference on Decision and Control,
+San Antonio, Texas, December 15 -17, 1993, pp. 3606 -3610.
+An approach to the Design of High-Speed Networks for Bursty Traffic.
+V. Anantharam.
+Proceedings of the
+32nd IEEE Conference on Decision and Control},
+San Antonio, Texas, December 15 -17, 1993, pp. 1678 -1679.
+Optimality and Interchangeability of Leaky Bucket Regulators in Tandem.
+V. Anantharam and T. Konstantopoulos.
+Proceedings of the
+32nd Allerton Conference on Communication, Control and Computing,
+University of Illinois, Urbana, September 28 -30, 1994, pp. 235 -244.
+Optimization of a signalling hierarchy for mobility tracking in
+personal communications.
+V. Anantharam, M. Honig, U. Madhow, and V. Wei.
+Proceedings of the International Teletraffic Congress sponsored seminar on
+Teletraffic Methods for Current and Future Telecom Networks, Indian
+Institute of Science, Bangalore, India, Nov. 15 -19, 1993, pp. 45 -52.
+An approach to the design of high speed networks for
+bursty traffic.
+V. Anantharam.
+Proceedings of the International Teletraffic Congress sponsored seminar on
+Teletraffic Methods for Current and Future Telecom Networks, Indian
+Institute of Science, Bangalore, India, Nov. 15 -19, 1993, pp. 163 -168.
+Book articles and other articles
+Stationary Tail Probabilities in Exponential Server Tandems with
+Renewal Arrivals.
+A. Ganesh and V. Anantharam.
+Stochastic Networks, Frank P. Kelly and Ruth J. Williams, eds.,
+Springer Verlag, 1995,
+(Proceedings of the Workshop on Stochastic Networks,
+Institute for Mathematics and its Applications, Minnesota,
+February 28 - March 4, 1994), pp. 367 -385.
+Introduction to the special issue on queueing networks.
+Venkat Anantharam, Ralph L. Disney and Jean Walrand.
+Queueing System: Theory and Applications, Vol. 13, Nos. 1-3, Mar. 1993,
+pp. 1 -3.
+Unpublished documents and miscellania
+Deterministic Simulation of Randomized protocols over noisy channels.
+S. Venkatesan and V. Anantharam.
+UCB/ERL Memorandum, No. M94/102,
+Electronics Research Laboratory, University of California, Berkeley,
+December 1994.
+Communication Complexity in a Multi-Processor Broadcast Network.
+S. Venkatesan and V. Anantharam.
+Unpublished document. (1993).
+1990-1992
+Journal Papers
+Effect of Noise on Long Term Memory in Cellular Automata with Asynchronous
+Communication Delays between the Processors.
+R. Gharavi and V. Anantharam.
+Complex Systems, Vol. 6, No. 3, pp. 287 -300, 1992.
+On Fast Simulation of the time to saturation of slotted ALOHA.
+V. Anantharam.
+Journal of Applied Probability, Vol. 29, pp. 682 -690, 1992.
+Stochastic Concavity of Throughput in Series of Queues with Finite Buffers.
+V. Anantharam and P. Tsoucas.
+Advances in Applied Probability, Vol. 22, pp. 761 -763, Sep. 1990.
+A Large Deviations Approach to Error Exponents in Source Coding and
+Hypothesis Testing.
+V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 36, No. 4, pp. 938 -943,
+1990.
+The Stability Region of the Finite User Slotted ALOHA Protocol.
+V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 37, No. 3,
+pp. 535 -540, May 1991.
+A Mean Field Limit for a Lattice Caricature of Dynamic Routing in
+Circuit Switched Networks.
+V. Anantharam,
+Annals of Applied Probability Vol. 1, No. 4, pp. 481 -503, 1991.
+Conference Proceedings Papers
+A Structure Theorem for Partially Asynchronous Relaxations.
+R. Gharavi and V. Anantharam.
+Proceedings of the 1992 Conference on
+Information Sciences and Systems,
+Princeton University, Mar. 18 -20, 1992, pp. 433 -435.
+A functional central limit theorem for Markov
+chain jumps with applications.
+V. Anantharam and P. Konstantopoulos.
+Proceedings of the 1992 Conference on
+Information Sciences and Systems,
+Princeton University, Mar. 18 -20, 1992, pp. 108 -113.
+Burst reduction properties of leaky bucket strategies in ATM networks.
+V. Anantharam and P. Konstantopoulos.
+Proceedings of the
+29th Allerton Conference on Communication, Control and Computing,
+University of Illinois, Urbana, October 2 -4, 1991, pp. 302 -309.
+Effect of Noise on Long Term Memory
+in Cellular Automata with Asynchronous
+Communication Delays between the Processors.
+R. Gharavi and V. Anantharam.
+Proceedings of the 1991 IEEE International Symposium
+on Information Theory, Budapest, Hungary,
+June 23 -27, 1991, pg. 332.
+Controlled Hydrodynamics for Distributed
+Trunk Reservation Control of Circuit-Switched Networks with
+Dynamic Routing.
+V. Anantharam.
+Proceedings of the 1990 Bilkent Conference
+on Communication, Control, and Signal Processing, Bilkent University,
+Ankara, Turkey, July 1990, pp. 128 -134.
+A Technique for Computing the Sojourn Time of Typical Customers in
+Large Networks of Interacting Queues.
+V. Anantharam and M. Benchekroun.
+Proceedings of the 24th Annual
+Conference on Information Sciences and Systems, Princeton University,
+March 21 -23 1990, pp. 491 -496.
+A Hydrodynamic Limit for a Lattice Caricature of Dynamic Routing in
+Circuit Switched Networks.
+V. Anantharam.
+Proceedings of the
+9th International Conference on Analysis and
+Optimization of Systems,
+Antibes, France, June 12 -15, 1990, pp. 937 -946.
+Trunk Reservation Control of Circuit-Switched Networks with
+Dynamic Routing.
+V. Anantharam and M. Benchekroun.
+Proceedings of the 29th IEEE Conference on Decision and Control,
+Honolulu, Hawaii, Dec. 5-7, 1990, pp. 2102 -2105.
+The Input-Output Map of a Monotone Discrete Time Quasireversible Node.
+V. Anantharam.
+Proceedings of the
+30th IEEE Conference on Decision and Control,
+Brighton, United Kingdom, Dec. 11-13, 1991, pp. 803 -808.
+Book articles and other articles
+Asymptotically Efficient Adaptive Allocation Rules for Controlled Markov
+Chains : Finite Parameter Space.
+R. Agrawal, D. Teneketzis, and V. Anantharam.
+Advances in Adaptive Control, K. S. Narendra, R. Ortega,
+and P. Dorato, eds.,  paper 4.7, pp. 226 -236, IEEE Press, 1991.
+Unpublished documents and miscellania
+Analysis of Rare Events in Continuous Time Markov Chains via Time
+Reversal and Fluid Approximation.
+V. Anantharam, P. Heidelberger, and P. Tsoucas.
+Research Report, RC 16280, Computer Science Division, IBM T. J. Watson
+Center, Yorktown Heights, New York, Nov. 1990.
+1987-1989
+Journal Papers
+A Proof of the Markov Chain Tree Theorem.
+V. Anantharam and P. Tsoucas.
+Statistics and Probability Letters, Vol. 8, pp. 189 -192, 1989.
+Threshold phenomena in the transient behaviour of Markovian models of
+communication networks and databases.
+V. Anantharam.
+Queueing Systems : Theory and Applications, Vol. 5, pp. 77 -98,
+1989.
+How large delays build up in a GI/G/1 queue.
+V. Anantharam.
+Queueing Systems - Theory and Applications, Vol. 5, pp. 345 -368, 1989.
+Modelling the flow of coalescing data streams through a processor.
+V. Anantharam.
+Journal of Applied Probability, Vol. 25, No. 1,
+Mar 1988. pp. 184 -193.
+Probabilistic proof of the interchangeability of ./M/1 queues in
+series.
+V. Anantharam.
+Queueing Systems - Theory and Applications,
+Vol. 2, No.4, Dec. 1987, pp. 387 -392.
+A generalization of the Erlang formula of Traffic engineering.
+V. Anantharam, B. Gopinath, and D. J. Hajela.
+Queueing Systems - Theory and Applications, Vol. 3, 1988,
+pp. 277 -288.
+Asymptotically efficient adaptive allocation rules for the multi-armed
+bandit problem with multiple plays, Part I : I.I.D. rewards.
+V. Anantharam, P. Varaiya, and J. Walrand.
+IEEE Transactions on Automatic Control,
+Vol. AC-32, No. 11, Nov. 1987, pp. 968 -976.
+Asymptotically efficient adaptive allocation rules for the multi-armed
+bandit problem with multiple plays, Part II : Markovian rewards.
+V. Anantharam, P. Varaiya, and J. Walrand.
+IEEE Transactions on Automatic Control,
+Vol. AC-32, No. 11, Nov. 1987, pp. 977 -982.
+Asymptotically Efficient Adaptive Allocation Rules for Controlled Markov
+Chains : Finite Parameter Space.
+R. Agrawal, D. Teneketzis, and V. Anantharam.
+IEEE Transactions on Automatic Control, Vol. 34, No. 12, pp. 1249 -1259,
+Dec. 1989.
+Asymptotically Efficient Adaptive Allocation Schemes for Controlled IID
+Processes : Finite parameter space.
+R. Agrawal, D. Teneketzis, and V. Anantharam.
+IEEE Transactions on Automatic Control, Vol. 34, No 3, pp 258 -267,
+March 1989.
+The Optimal Buffer Allocation Problem.
+V. Anantharam.
+IEEE Transactions on Information Theory, Vol. 35, No. 4,
+pp. 721 -725, 1989.
+Conference Proceedings Papers
+Adaptive Control of I.I.D. Processes : Finite Parameter Space.
+R. Agrawal, D. Teneketzis, and V. Anantharam.
+Proceedings of the 22nd Annual Conference on
+Information Sciences and Systems,
+Princeton University, Mar. 16 -18, 1988, pp. 405 -409.
+The optimal buffer allocation problem.
+V. Anantharam.
+Proceedings of the 22nd Annual Conference on
+Information Sciences and Systems,
+Princeton University, Mar. 16 -18, 1988, pp. 629 -632.
+How large delays build up in a GI/G/1 queue.
+V. Anantharam.
+Proceedings of the 26th IEEE Conference on Decision and Control,
+Los Angeles, Dec. 9 -11, 1987, pp. 1871 -1872.
+Asymptotically Efficient Adaptive Allocation Schemes for Controlled
+Markov Chains : Finite Parameter Space.
+R. Agrawal, D. Teneketzis, and V. Anantharam.
+Proceedings of the 27th IEEE Conference on Decision and Control,
+University of Texas, Austin, Dec. 6 -9, 1988, pp. 1198 -1203.
+The Stability Region of the Finite User Slotted ALOHA Protocol.
+V. Anantharam.
+Proceedings of the 28th IEEE Conference on Decision and Control,
+Tampa, Florida, Dec 13 -15, 1989, pp. 579 -584.
+Metastability and Phase Transitions Associated to Dynamic Routing in
+Networks.
+V. Anantharam.
+Proceedings of the 28th IEEE Conference on Decision and Control,
+Tampa, Florida, Dec 13 -15, 1989, pp. 2549 -2553.
+The Settling Time of a Closed Jackson Network.
+V. Anantharam.
+Proceedings of the 25th Allerton Conference on Communication,
+Control and Computing,
+University of Illinois, Urbana, Illinois, Sep. 30 -Oct. 2 1987, pp. 684 -693.
+Book articles and other articles
+Asymptotically efficient rules in multiarmed bandit problems.
+V. Anantharam and P. Varaiya.
+Modelling and adaptive control (Sopron, 1986), Lecture Notes
+in Control and Information Science, Vol. 105, Springer, Berlin, 1988,
+pp. 1 -9.
+An optimal strategy for a conflict resolution problem.
+V. Anantharam and P. Varaiya.
+Specific Problems on Communication and Computation,
+T. Cover and B. Gopinath, eds., Springer Verlag, 1987, pp. 210 -216.
+Unpublished documents and miscellania
+Distributed detection with a large Number of Sensors.
+V. Anantharam.
+Unpublished document (1988).
+The Settling Time of a Closed Jackson Network.
+V. Anantharam.
+Unpublished document (1987).
+1981-1986
+Journal Papers
+An optimal strategy for a conflict resolution problem.
+V. Anantharam and P. Varaiya.
+Systems and Control Letters,
+7, July 1986, pp. 329 -332.
+On stabilization and the existence of Coprime factorizations.
+V. Anantharam.
+IEEE Trans. on Automatic Control,
+Vol AC-30, No. 10, Oct. '85, pp. 1030 -1031.
+On the stabilization of Nonlinear systems.
+V. Anantharam and C. A. Desoer.
+IEEE Trans. on Automatic Control,
+Vol AC-29, No. 6, June '84, pp. 569 -572.
+A Note on the Shaping of Dual Reflector Antennas.
+M.S. Narasimhan, V. Anantharam, and K.M. Prasad.
+IEEE Trans. on Antennas and Propagation,
+Vol AP-29, No. 3, May '81, pp. 551 -552.
+Conference Proceedings Papers
+Asymptotically Efficient Rules in Multiarmed Bandit Problems.
+V. Anantharam and P. Varaiya.
+Proceedings of the 25th Conference on Decision and Control,
+Athens, Greece, Dec. 1986, pp. 251 -252.
+Unstable queues with arrival rate less than the rate of service.
+V. Anantharam, S. Parekh, and P. Varaiya.
+Proceedings of the 24th Conference on Decision and Control,
+Florida, Dec. 1985, pp. 1347 -1348.
+An optimal strategy for a conflict resolution problem.
+V. Anantharam and P. Varaiya.
+Proceedings of the 24th Conference on Decision and Control,
+Florida, Dec. 1985, pp. 1113 -1114.
+A generalization of the Erlang formula of Traffic engineering.
+V. Anantharam and B. Gopinath.
+Proceedings of the 24th Conference on Decision and Control,
+Florida, Dec. 1985. pp. 2041 -2044.
+Tracking and Disturbance Rejection of MIMO Nonlinear Systems
+with a PI or PS controller.
+V. Anantharam and C.A. Desoer.
+Proceedings of the 24th Conference on Decision and Control,
+Florida, Dec. 1985, pp. 1367 -1368.
+Modelling the flow of coalescing data streams through a processor.
+V. Anantharam.
+Proceedings of the 23rd Allerton Conference on Communication, Control
+and Computing,
+Univ. of Illinois, Urbana, Oct. 1985, pp. 693 -702.
+up to 1980
+Journal Papers
+Analytical Solutions for the Breakdown Voltages of Punched Through
+Diodes having Curved Junction Boundaries at the Edges.
+V. Anantharam and K. N. Bhat.
+IEEE Trans. on Electron Devices,
+Vol. ED-27, No. 5, May 1980, pp. 939 -945.
+Current Gain in Bipolar Transistors with a Field Plate over
+the Base Surface.
+V. Anantharam and K. N. Bhat.
+IEE Proceedings -I, Solid state and Electron devices,
+Vol 127, Part 1, No. 1, Feb 1980, pp. 15 -20.

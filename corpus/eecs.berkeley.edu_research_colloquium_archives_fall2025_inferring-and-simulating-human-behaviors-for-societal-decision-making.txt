@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/inferring-and-simulating-human-behaviors-for-societal-decision-making
+Inferring and simulating human behaviors for societal decision-making - EECS at Berkeley
+Inferring and simulating human behaviors for societal decision-making
+Serina Chang gives her talk, “Inferring and simulating human behaviors for societal decision-making” on Sep. 24, 2025.
+EECS Colloquium
+Wednesday, September 24, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Youtube Webinar
+Serina Chang
+Assistant Professor at UC Berkeley, jointly appointed in EECS and Computational Precision Health and part of the Berkeley AI Research Lab (BAIR)
+Bio
+Serina Chang  previously, completed her PhD in CS at Stanford University. Her research falls at the intersection of AI and human behavior, including modeling human behaviors with AI, improving and evaluating human-AI interaction, and developing AI tools for societal decision-making, with a focus on public health. Her work is recognized by the KDD Dissertation Award, KDD Best Paper Award, Google Research Scholar Award, NSF Graduate Research Fellowship, Meta PhD Fellowship, EECS Rising Stars, and Rising Stars in Data Science, and has received coverage from over 650 news outlets, including The New York Times and The Washington Post.
+Abstract
+Understanding human behaviors is crucial for high-stakes societal decisions: for example, effective pandemic response relies on understanding how infectious diseases spread through contact between individuals and how individuals change their behaviors in response to policies and disease. However, fine-grained behaviors are often difficult to observe (e.g., for cost or privacy reasons) or cannot be observed (e.g., future or counterfactual behaviors). In this talk, I’ll discuss two approaches to addressing this challenge: (1) inferring behaviors from novel data sources and (2) simulating behaviors with generative AI. In the first part, I will describe our work on inferring hourly mobility networks from aggregated location data and modeling the spread of COVID-19 over these networks to inform pandemic policies. In the second part, I will describe our recent work on simulating diverse human behaviors with generative AI models, from public opinions to social networks to mobility trajectories.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2024/one-in-a-billion-how-to-make-sure-autonomous-systems-are-safe-enough
+One in a Billion: How to Make Sure Autonomous Systems Are Safe (Enough) - EECS at Berkeley
+One in a Billion: How to Make Sure Autonomous Systems Are Safe (Enough)
+Dr. Richard Murray gives his talk “One in a Billion: How to Make Sure Autonomous Systems Are Safe (Enough)” on Sept. 18, 2024.
+EECS Colloquium
+Wednesday, September 18, 2024
+306 Soda Hall (HP Auditorium) 4:00 – 5:15 pm
+Youtube Webinar
+Richard Murray
+Thomas E. and Doris Everhart Professor of Control and Dynamical Systems and Bioengineering
+California Institute of Technology
+As a  2024 EECS Distinguished Alumni Award recipient , Dr. Richard Murray will be presented with his award at this session.
+Abstract
+Autonomous systems, such as self-driving cars, are starting to pop up in the world around us. These systems use complex combinations of model-based and data-driven algorithms to make real-time, safety-critical decisions. In this talk, I will provide some thoughts (and hopefully insights) into what engineers need to do to convince ourselves that these systems are safe enough to release in to the real-world, where society expects that critical failures (those resulting in potential loss of life) will happen at rates of less than 1 in a billion. In particular, how do we make use of combinations of model-based simulations (even when we know the models are missing details that sometimes matter), log-based regression (even when the updated software won’t do exactly what was done in the logs), real-world operations (where you drive lots of boring miles and a few interesting ones), and structured testing (going beyond the 30 minute driving test, by which we decide 16 year-olds are allowed to drive any non-commercial vehicle, any place in the world, for the rest of their lives)? More specifically, I’ll talk about the role that formal specifications, assume/guarantee contracts, and test synthesis can play in helping address this challenge.
+Biography
+Richard M. Murray received the B.S. degree in Electrical Engineering from California Institute of Technology in 1985 and the M.S. and Ph.D. degrees in Electrical Engineering and Computer Sciences from the University of California, Berkeley, in 1988 and 1991, respectively. He is currently the Thomas E. and Doris Everhart Professor of Control & Dynamical Systems and Bioengineering at Caltech. Murray’s research is in the application of feedback and control to networked systems, with applications in synthetic biology and autonomy. Current projects include design and implementation of synthetic cells and design, verification, and test synthesis for discrete decision-making protocols for safety-critical, reactive control systems.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

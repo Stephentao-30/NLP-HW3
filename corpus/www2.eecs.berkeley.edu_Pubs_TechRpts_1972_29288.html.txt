@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29288.html
+Zeros and Poles of Matrix Transfer Functions and Their Dynamical Interpretation
+C.A. Desoer and J.D. Schulman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M366
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-366.pdf
+BibTeX citation:
+@techreport{Desoer:M366,
+Author= {Desoer, C.A. and Schulman, J.D.},
+Title= {Zeros and Poles of Matrix Transfer Functions and Their Dynamical Interpretation},
+Year= {1972},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29288.html},
+Number= {UCB/ERL M366},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Schulman, J.D.
+%T Zeros and Poles of Matrix Transfer Functions and Their Dynamical Interpretation
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M366
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29288.html
+%F Desoer:M366

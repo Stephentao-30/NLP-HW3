@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28633.html
+Third Order, Tunnel-Diode Oscillators | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Third Order, Tunnel-Diode Oscillators
+Third Order, Tunnel-Diode Oscillators
+D.K. Lynn
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M22
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-22.pdf
+BibTeX citation:
+@techreport{Lynn:M22,
+Author = {Lynn, D.K.},
+Title = {Third Order, Tunnel-Diode Oscillators},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28633.html},
+Number = {UCB/ERL M22}
+}
+EndNote citation:
+%0 Report
+%A Lynn, D.K.
+%T Third Order, Tunnel-Diode Oscillators
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28633.html
+%F Lynn:M22

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28808.html
+Efficient Evaluation of Expressions in a Relational Algebra | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficient Evaluation of Expressions in a Relational Algebra
+Efficient Evaluation of Expressions in a Relational Algebra
+Robert M. Pecherer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M510
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-510.pdf
+BibTeX citation:
+@techreport{Pecherer:M510,
+Author = {Pecherer, Robert M.},
+Title = {Efficient Evaluation of Expressions in a Relational Algebra},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28808.html},
+Number = {UCB/ERL M510}
+}
+EndNote citation:
+%0 Report
+%A Pecherer, Robert M.
+%T Efficient Evaluation of Expressions in a Relational Algebra
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M510
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28808.html
+%F Pecherer:M510

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29172.html
+Liar's Paradox and Truth-Qualification Principle | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Liar's Paradox and Truth-Qualification Principle
+Liar's Paradox and Truth-Qualification Principle
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/34
+May 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-34.pdf
+BibTeX citation:
+@techreport{Zadeh:M79/34,
+Author = {Zadeh, L.A.},
+Title = {Liar's Paradox and Truth-Qualification Principle},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29172.html},
+Number = {UCB/ERL M79/34}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Liar's Paradox and Truth-Qualification Principle
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29172.html
+%F Zadeh:M79/34

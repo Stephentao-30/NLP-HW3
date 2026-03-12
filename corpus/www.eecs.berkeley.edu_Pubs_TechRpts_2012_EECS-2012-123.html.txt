@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-123.html
+Ultra-sensitive SiGe Bipolar Phototransistors for Optical Interconnects
+Michael Roe
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-123
+May 27,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-123.pdf
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@mastersthesis{Roe:EECS-2012-123,
+Author= {Roe, Michael},
+Title= {Ultra-sensitive SiGe Bipolar Phototransistors for Optical Interconnects},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-123.html},
+Number= {UCB/EECS-2012-123},
+}
+EndNote citation:
+%0 Thesis
+%A Roe, Michael
+%T Ultra-sensitive SiGe Bipolar Phototransistors for Optical Interconnects
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 27
+%@ UCB/EECS-2012-123
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-123.html
+%F Roe:EECS-2012-123

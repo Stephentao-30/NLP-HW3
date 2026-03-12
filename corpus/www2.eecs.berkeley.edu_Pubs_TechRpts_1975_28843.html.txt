@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28843.html
+Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes
+Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes
+Eugene Wong and Moshe Zakai
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M571
+December 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-571.pdf
+BibTeX citation:
+@techreport{Wong:M571,
+Author = {Wong, Eugene and Zakai, Moshe},
+Title = {Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28843.html},
+Number = {UCB/ERL M571}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%A Zakai, Moshe
+%T Likelihood Ratios and Transformation of Probability Associated with Two-Parameter Wiener Processes
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M571
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28843.html
+%F Wong:M571

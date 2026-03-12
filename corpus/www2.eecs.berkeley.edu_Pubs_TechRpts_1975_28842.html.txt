@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28842.html
+Analysis of Multicommodity Communication Nets | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analysis of Multicommodity Communication Nets
+Analysis of Multicommodity Communication Nets
+I. Cederbaum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M570
+December 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-570.pdf
+BibTeX citation:
+@techreport{Cederbaum:M570,
+Author = {Cederbaum, I.},
+Title = {Analysis of Multicommodity Communication Nets},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28842.html},
+Number = {UCB/ERL M570}
+}
+EndNote citation:
+%0 Report
+%A Cederbaum, I.
+%T Analysis of Multicommodity Communication Nets
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M570
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28842.html
+%F Cederbaum:M570

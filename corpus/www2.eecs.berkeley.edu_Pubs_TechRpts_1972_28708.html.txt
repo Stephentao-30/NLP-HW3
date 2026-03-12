@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28708.html
+Trends in the Theory of Decision-Making in Large Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Trends in the Theory of Decision-Making in Large Systems
+Trends in the Theory of Decision-Making in Large Systems
+Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M341
+April 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-341.pdf
+BibTeX citation:
+@techreport{Varaiya:M341,
+Author = {Varaiya, Pravin},
+Title = {Trends in the Theory of Decision-Making in Large Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28708.html},
+Number = {UCB/ERL M341}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, Pravin
+%T Trends in the Theory of Decision-Making in Large Systems
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M341
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28708.html
+%F Varaiya:M341

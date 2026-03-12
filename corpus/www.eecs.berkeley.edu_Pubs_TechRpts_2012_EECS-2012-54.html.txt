@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-54.html
+Efficient Parallelization of Natural Language Applications using GPUs
+Chao-Yue Lai
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-54
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-54.pdf
+As we enter the era of mobile computing, high-quality and efficient natural language applications become more and more important, which greatly facilitate intelligent human-computer interaction. Unfortunately, most high-quality natural language applications employ large statistical models, which render them impractical for real-time use. Meanwhile, Graphics Processor Units (GPUs) have become widely available, offering the opportunity to alleviate this bottleneck by exploiting the fine-grained data parallelism found in the natural language processing algorithms. In this report, we examine the possibility of parallelizing two major natural language applications, natural language parsing and machine translation on GPUs. In natural language parsing, we explore the design space of parallelizing the dynamic programming computations carried out by the CKY parsing algorithm. We use the Compute Unified Device Architecture (CUDA) programming model to re-implement a state-of-the-art parser, and compare its performance on two recent GPUs with different architectural features. Our best results show a 26-fold speedup compared against an optimized sequential C implementation. In machine translation, we focus on parallelizing the CKY-based machine translation decoding algorithm using a phrase-based translation model and a trigram language model. Various optimization approaches exposing the inherent massive parallelism and reducing memory accesses have been investigated. Experimental results show that our best parallel implementation runs twice as fast as the optimized sequential implementation, without loss of accuracy. A runtime analysis shows that this suboptimal performance is caused by the memory-intensive nature and excessive amount of irregular memory accesses inherent in CKY-based machine translation decoding.
+Advisors:  Kurt Keutzer
+BibTeX citation:
+@mastersthesis{Lai:EECS-2012-54,
+Author= {Lai, Chao-Yue},
+Title= {Efficient Parallelization of Natural Language Applications using GPUs},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-54.html},
+Number= {UCB/EECS-2012-54},
+Abstract= {As we enter the era of mobile computing, high-quality and efficient natural language applications become more and more important, which greatly facilitate intelligent human-computer interaction. Unfortunately, most high-quality natural language applications employ large statistical models, which render them impractical for real-time use. Meanwhile, Graphics Processor Units (GPUs) have become widely available, offering the opportunity to alleviate this bottleneck by exploiting the fine-grained data parallelism found in the natural language processing algorithms. In this report, we examine the possibility of parallelizing two major natural language applications, natural language parsing and machine translation on GPUs. In natural language parsing, we explore the design space of parallelizing the dynamic programming computations carried out by the CKY parsing algorithm. We use the Compute Unified Device Architecture (CUDA) programming model to re-implement a state-of-the-art parser, and compare its performance on two recent GPUs with different architectural features. Our best results show a 26-fold speedup compared against an optimized sequential C implementation. In machine translation, we focus on parallelizing the CKY-based machine translation decoding algorithm using a phrase-based translation model and a trigram language model. Various optimization approaches exposing the inherent massive parallelism and reducing memory accesses have been investigated. Experimental results show that our best parallel implementation runs twice as fast as the optimized sequential implementation, without loss of accuracy. A runtime analysis shows that this suboptimal performance is caused by the memory-intensive nature and excessive amount of irregular memory accesses inherent in CKY-based machine translation decoding.},
+}
+EndNote citation:
+%0 Thesis
+%A Lai, Chao-Yue
+%T Efficient Parallelization of Natural Language Applications using GPUs
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-54
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-54.html
+%F Lai:EECS-2012-54

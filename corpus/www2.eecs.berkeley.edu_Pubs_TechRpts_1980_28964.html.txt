@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28964.html
+Design of Nonlinear Feedback Controllers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design of Nonlinear Feedback Controllers
+Design of Nonlinear Feedback Controllers
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/12
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-12.pdf
+BibTeX citation:
+@techreport{Polak:M80/12,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {Design of Nonlinear Feedback Controllers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28964.html},
+Number = {UCB/ERL M80/12}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T Design of Nonlinear Feedback Controllers
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28964.html
+%F Polak:M80/12

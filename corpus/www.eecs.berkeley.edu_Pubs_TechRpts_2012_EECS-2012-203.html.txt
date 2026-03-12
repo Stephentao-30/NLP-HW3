@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-203.html
+Automatic Generation Of Application-Specific Accelerators for FPGAs from Python Loop Nests
+David Sheffield and Michael Anderson and Kurt Keutzer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-203
+October 23,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-203.pdf
+We present Three Fingered Jack, a highly productive approach to mapping vectorizable applications to the FPGA. Our system applies traditional dependence analysis and reordering transformations to a restricted set of Python loop nests. It does this to uncover parallelism and divide computation between multiple parallel processing elements (PEs) that are automatically generated through high-level synthesis of the optimized loop body. Design space exploration on the FPGA proceeds by varying the number of PEs in the system. Over four benchmark kernels, our system achieves 3× to 6× relative to soft-core C performance.
+BibTeX citation:
+@techreport{Sheffield:EECS-2012-203,
+Author= {Sheffield, David and Anderson, Michael and Keutzer, Kurt},
+Title= {Automatic Generation Of Application-Specific Accelerators for FPGAs from Python Loop Nests},
+Year= {2012},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-203.html},
+Number= {UCB/EECS-2012-203},
+Abstract= {We present Three Fingered Jack, a highly productive approach to mapping vectorizable applications to the FPGA. Our system applies traditional dependence analysis and reordering transformations to a restricted set of Python loop nests. It does this to uncover parallelism and divide computation between multiple parallel processing elements (PEs) that are automatically generated through high-level synthesis of the optimized loop body. Design space exploration on the FPGA proceeds by varying the number of PEs in the system. Over four benchmark kernels, our system achieves 3× to 6× relative to soft-core C performance.},
+}
+EndNote citation:
+%0 Report
+%A Sheffield, David
+%A Anderson, Michael
+%A Keutzer, Kurt
+%T Automatic Generation Of Application-Specific Accelerators for FPGAs from Python Loop Nests
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 October 23
+%@ UCB/EECS-2012-203
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-203.html
+%F Sheffield:EECS-2012-203

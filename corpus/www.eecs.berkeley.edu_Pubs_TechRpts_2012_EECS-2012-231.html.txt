@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-231.html
+Measuring User Confidence in Smartphone Security and Privacy
+Erika Chin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-231
+December 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-231.pdf
+In order to direct and build an effective, secure mobile ecosystem, we must first understand user attitudes toward security and privacy for smartphones and how they may differ from attitudes toward more traditional computing systems. What are users' comfort levels in performing different tasks? How do users select applications? What are their overall perceptions of the platform? This understanding will help inform the design of more secure smartphones that will enable users to safely and confidently benefit from the potential and convenience offered by mobile platforms.
+To gain insight into user perceptions of smartphone security and installation habits, we conduct a user study involving 60 smartphone users. First, we interview users about their willingness to perform certain tasks on their smartphones to test the hypothesis that people currently avoid using their phones due to privacy and security concerns. Second, we analyze why and how they select applications, which provides information about how users decide to trust applications. Based on our findings, we present recommendations and opportunities for services that will help users safely and confidently use mobile applications and platforms.
+Advisors:  David Wagner
+BibTeX citation:
+@mastersthesis{Chin:EECS-2012-231,
+Author= {Chin, Erika},
+Title= {Measuring User Confidence in Smartphone Security and Privacy},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-231.html},
+Number= {UCB/EECS-2012-231},
+Abstract= {In order to direct and build an effective, secure mobile ecosystem, we must first understand user attitudes toward security and privacy for smartphones and how they may differ from attitudes toward more traditional computing systems. What are users' comfort levels in performing different tasks? How do users select applications? What are their overall perceptions of the platform? This understanding will help inform the design of more secure smartphones that will enable users to safely and confidently benefit from the potential and convenience offered by mobile platforms.
+To gain insight into user perceptions of smartphone security and installation habits, we conduct a user study involving 60 smartphone users. First, we interview users about their willingness to perform certain tasks on their smartphones to test the hypothesis that people currently avoid using their phones due to privacy and security concerns. Second, we analyze why and how they select applications, which provides information about how users decide to trust applications. Based on our findings, we present recommendations and opportunities for services that will help users safely and confidently use mobile applications and platforms.},
+}
+EndNote citation:
+%0 Thesis
+%A Chin, Erika
+%T Measuring User Confidence in Smartphone Security and Privacy
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 10
+%@ UCB/EECS-2012-231
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-231.html
+%F Chin:EECS-2012-231

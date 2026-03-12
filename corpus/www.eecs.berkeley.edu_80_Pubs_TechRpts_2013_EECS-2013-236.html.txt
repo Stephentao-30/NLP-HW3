@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-236.html
+Building trust into light-handed regulations for cognitive radio
+Kristen Ann Woyach
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-236
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-236.pdf
+Advisors:  Anant Sahai
+BibTeX citation:
+@phdthesis{Woyach:EECS-2013-236,
+Author= {Woyach, Kristen Ann},
+Title= {Building trust into light-handed regulations for cognitive radio},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-236.html},
+Number= {UCB/EECS-2013-236},
+}
+EndNote citation:
+%0 Thesis
+%A Woyach, Kristen Ann
+%T Building trust into light-handed regulations for cognitive radio
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-236
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-236.html
+%F Woyach:EECS-2013-236

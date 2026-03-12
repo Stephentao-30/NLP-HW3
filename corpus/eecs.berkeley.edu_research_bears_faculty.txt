@@ -1,0 +1,49 @@
+URL: https://eecs.berkeley.edu/research/bears/faculty
+BEARS 2017 Faculty - EECS at Berkeley
+BEARS 2017 Faculty
+Brains and Machines: AI, Robotics and Neural Computation at Berkeley
+On this Page
+Leaders
+Speakers
+Panel 1
+Panel 2
+Leaders
+Jitendra Malik  – EECS Department Chair
+Prof. Malik is Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Science at the University of California at Berkeley, where he also holds appointments in vision science, cognitive science and Bioengineering. He received the PhD degree in Computer Science from Stanford University in 1985 following which he joined UC Berkeley as a faculty member. He served as Chair of the Computer Science Division during 2002-2006, and of the Department of EECS during 2004-2006.
+Jan Rabaey  – EE Division Chair
+Prof. Rabaey received the EE and Ph.D. degrees in Applied Sciences from the Katholieke Universiteit Leuven, Belgium, in 1978 and 1983 respectively. From 1983-1985, he was a Visiting Research Engineer at UC Berkeley. From 1985-1987, he was a research manager at IMEC, Belgium, and in 1987, joined the faculty of the Electrical Engineering and Computer Science department at UC Berkeley, where he is now holds the Donald O. Pederson Distinguished Professorship. He has been a visiting professor at the University of Pavia (Italy), Waseda University (Japan), the Technical University Delft (Netherlands), Victoria Technical University and the University of New South Wales (Australia). He was the Associate Chair (EE) of the EECS Dept. at Berkeley from 1999 until 2002 and is currently the Scientific co-director of the Berkeley Wireless Research Center (BWRC), as well as the director of the Multiscale Systems Research Center (MuSyC)
+James Demmel  – CS Division Chair
+Prof. Demmel received his B.S. in Mathematics from Caltech in 1975 and his Ph.D. in Computer Science from UC Berkeley in 1983. After spending six years on the faculty of the Courant Institute, New York University; he joined the Computer Science Division and Mathematics Departments at Berkeley in 1990, where he holds joint appointments.
+Joseph Hellerstein  – Vice Chair, External Relations
+Prof. Hellerstein’s work focuses on data-centric systems and the way they drive computing. He is an ACM Fellow, an Alfred P. Sloan Research Fellow and the recipient of two ACM-SIGMOD “Test of Time” awards for his research. In 2010, Fortune Magazine included him in their list of 50 smartest people in technology , and MIT’s Technology Review magazine included his work on Distributed Programming on their 2010 TR10 list of the 10 technologies “most likely to change our world”. Key ideas from his research have been incorporated into commercial and open- source software from IBM, Oracle, and PostgreSQL. He is a past director of Intel Research Berkeley, and currently serves on the technical advisory boards of a number of computing and Internet companies.
+Speakers
+Claire Tomlin  – “Safe Learning in Robotics”
+Prof. Tomlin received her B.A.Sc. in Electrical Engineering from the University of Waterloo, 1992, a M.Sc. in Electrical Engineering, Imperial College, London, 1993, and a Ph.D. in EECS, U.C.  Berkeley, 1998. Holder of the Charles A. Desoer Chair in Engineering.
+Pieter Abbeel  – “Deep Learning for Robotics”
+Associate Prof. Abbeel received a BS/MS in Electrical Engineering from KU Leuven (Belgium) and received his Ph.D. degree in Computer Science from Stanford University in 2008. He joined the faculty at UC Berkeley in Fall 2008, with an appointment in the Department of Electrical Engineering and Computer Sciences. His research focuses on robotics, machine learning and control.
+Daniel Klein  – “Conversational AI”
+Prof. Klein’s research focuses on statistical natural language processing, including unsupervised learning methods, syntactic parsing, information extraction, and machine translation. For specific projects and publications, see his group’s webpage. He received his BA in Math, CS, Linguistics (summa cum laude) from Cornell University (1994-1998); an M.St. in Linguistics from Oxford University (1998-1999); and an M.S. and Ph.D. in Computer Science from Stanford University (1999-2004).
+Michel Maharbiz  – “Recent Advances in Neural Dust, a platform for peripheral and central nervous system recording”
+Prof. Maharbiz’ current research centers on building micro/nano interfaces to cells and organisms and exploring bio-derived fabrication methods. His research group is also known for developing the world’s first remotely radio-controlled cyborg beetles; this was named one of the top 10 emerging technologies of 2009 by MIT’s Technology Review (TR10) and was among Time magazine’s Top 50 Inventions of 2009. His long-term goal is understanding developmental mechanisms as a way to engineer and fabricate machines. He received his Ph.D. in 2003 from UC Berkeley for his work on microbioreactor systems, which led to the foundation of Microreactor Technologies Inc., which was recently acquired by Pall Corporation. He has been a GE Scholar and an Intel IMAP Fellow.
+Panel 1
+Self Driving Cars: Is Autonomous Driving AI-Complete?
+Trevor Darrell
+Residence Prof. Darrell’s group develops algorithms to enable visual recognition across a variety of platforms and applications. His interests include computer vision, machine learning, computer graphics, and perception-based human computer interfaces. Prof. Darrell was on the faculty of the MIT EECS department from 1999-2008. He received the S.M. and Ph.D. degrees from MIT in 1992 and 1996, respectively. He obtained the B.S.E. degree from the University of Pennsylvania in 1988.
+Anca Dragan
+Assistant Prof. Dragan runs the InterACT lab, focusing on enabling robots to work with, around, and in support of people. Her goal is for robots to autonomously generate their behavior in a way that moves beyond functionality and formally accounts for interaction with humans. This combines optimal control, machine learning, and cognitive science, with applications in collaborative manipulation and autonomous driving. Anca got her PhD in the Robotics Institute at Carnegie Mellon University on planning intent-expressive robot motion.
+Jitendra Malik
+Prof. Malik is Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Science at the University of California at Berkeley, where he also holds appointments in vision science, cognitive science and Bioengineering. He received the PhD degree in Computer Science from Stanford University in 1985 following which he joined UC Berkeley as a faculty member. He served as Chair of the Computer Science Division during 2002-2006, and of the Department of EECS during 2004-2006.
+Panel 2
+Long-Term Future of (Artificial) Intelligence
+Tom Simonite  – Moderator
+He is the San Francisco Bureau Chief of MIT Technology Review leading coverage of new ideas from Silicon Valley, whether they spring from tech giants, new startups, or academic labs.
+Alexei Efros
+[[{“fid”:”811″,”view_mode”:”default”,”fields”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:false,”field_file_image_title_text[und][0][value]”:”Associate Prof. Alexei Efros”},”type”:”media”,”attributes”:{“title”:”Associate Prof. Alexei Efros”,”height”:”210″,”width”:”150″,”class”:”media-element file-preview file-default”}}]]
+Associate Prof. Alexei (Alyosha) Efros joined UC Berkeley in 2013. Prior to that, he spent nine years on the faculty of Carnegie Mellon University, and has also been affiliated with École Normale Supérieure/INRIA and University of Oxford. His research is in the area of computer vision and computer graphics, especially at the intersection of the two. He is particularly interested in using data-driven techniques to tackle problems where large quantities of unlabeled visual data are readily available. Alyosha received his PhD in 2003 from UC Berkeley.  He is a recipient of CVPR Best Paper Award (2006), NSF CAREER award (2006), Sloan Fellowship (2008), Guggenheim Fellowship (2008), Okawa Grant (2008), Finmeccanica Career Development Chair (2010), SIGGRAPH Significant New Researcher Award (2010), ECCV Best Paper Honorable Mention (2010), and the Helmholtz Test-of-Time Prize (2013).
+Benjamin Recht
+Associate Prof. Recht was previously an Assistant Professor in the Department of Computer Sciences at the University of Wisconsin-Madison. Ben received his B.S. in Mathematics from the University of Chicago, and received a M.S. and PhD from the MIT Media Laboratory. After completing his doctoral work, he was a postdoctoral fellow in the Center for the Mathematics of Information at Caltech.
+Stuart Russell
+Prof. Russell received his B.A. with first-class honours in physics from Oxford University in 1982 and his Ph.D. in computer science from Stanford in 1986. He then joined the faculty of the University of California at Berkeley, where he is Professor (and formerly Chair) of Electrical Engineering and Computer Sciences and holder of the Smith-Zadeh Chair in Engineering. He is also an Adjunct Professor of Neurological Surgery at UC San Francisco and Vice-Chair of the World Economic Forum’s Council on AI and Robotics. His books include “The Use of Knowledge in Analogy and Induction”, “Do the Right Thing: Studies in Limited Rationality” (with Eric Wefald), and “Artificial Intelligence: A Modern Approach” (with Peter Norvig). His current concerns include the threat of autonomous weapons and the long-term future of artificial intelligence and its relation to humanity.
+Printable pdf of participating faculty
+View
+Open Faculty Positions

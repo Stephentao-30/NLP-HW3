@@ -1,0 +1,10 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-27.html
+On Fixed Points of Strictly Causal Functions
+THIS REPORT HAS BEEN WITHDRAWN
+Eleftherios Matsikoudis and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-27
+April 8, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2013-27.pdf
+We ask whether strictly causal components form well defined systems when arranged in feedback configurations. The standard interpretation for such configurations induces a fixed-point constraint on the function modelling the component involved. We define strictly causal functions formally, and show that the corresponding fixed-point problem does not always have a well defined solution. We examine the relationship between these functions and the functions that are strictly contracting with respect to a generalized distance function on tagged signals, and argue that these strictly contracting functions are actually the functions that one ought to be interested in. We prove a constructive fixed-point theorem for these functions, introduce a corresponding induction principle, and study the related convergence process.
+Author Comments:

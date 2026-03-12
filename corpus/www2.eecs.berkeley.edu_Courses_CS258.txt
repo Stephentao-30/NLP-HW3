@@ -1,0 +1,11 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS258
+CS 258. Parallel Processors
+Catalog Description:  In-depth study of the design, engineering, and evaluation of modern parallel computers. Fundamental design: naming, synchronization, latency, and bandwidth. Architectural evolution and technological driving forces. Parallel programming models, communication primitives, programming and compilation techniques, multiprogramming workloads and methodology for quantitative evaluation. Latency avoidance through replication in small-scale and large-scale shared memory designs; cache-coherency, protocols, directories, and memory consistency models. Message passing: protocols, storage management, and deadlock. Efficient network interface, protection, events, active messages, and coprocessors in large-scale designs. Latency tolerance through prefetching, multithreading, dynamic instruction scheduling, and software techniques. Network design: topology, packaging, k-ary n-cubes, performance under contention. Synchronization: global operations, mutual exclusion, and events. Alternative architectures: dataflow, SIMD, systoltic arrays.
+Units:  3
+Prerequisites:  252.
+Formats:  Spring: 3 hours of lecture per week
+Fall: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class homepage
+on inst.eecs

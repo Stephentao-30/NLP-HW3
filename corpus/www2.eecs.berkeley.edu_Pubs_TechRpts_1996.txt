@@ -1,0 +1,131 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1996
+Technical Reports - 1996
+Scalable Compression and Transmission of Internet Multicast Video  (CSD-96-928) Steven Ray McCanne
+Dynamic Bayesian Networks and the Concatenation Problem in Speech Recognition  (CSD-96-927) Geoffrey Zweig
+Multimedia SPECmarks:  A Performance Comparison of Multimedia Programs on Different Architectures  (CSD-96-926) Hari Balakrishnan and Rahul Garg
+Effect of Communication Latency, Overhead, and Bandwidth on a Cluster Architecture  (CSD-96-925) Richard Martin, Amin Vahdat, David Culler and Thomas Anderson
+Helical Scan Reliability: Lessons Learned from the Exabyte 8500  (CSD-96-924) Angela Schuett
+Efficient Resource Scheduling in Multiprocessors  (CSD-96-923) Soumen Chakrabarti
+A Parallel Workload Model and its Implications for Processor Allocation  (CSD-96-922) Allen B. Downey
+Predictive State Restoration in Desktop Workstation Clusters  (CSD-96-921) David Petrou, Douglas P. Ghormley and Thomas E. Anderson
+Interposition as an Operating System Extension Mechanism  (CSD-96-920) Douglas P. Ghormley, Steven H. Rodrigues, David Petrou and Thomas E. Anderson
+Sparse Gaussian Elimination on High Performance Computers  (CSD-96-919) Xiaoye S. Li
+Active Message Applications Programming Interface and Communication Subsystem Organization  (CSD-96-918) Alan M. Mainwaring and David E. Culler
+Making Set-Constraint Program Analyses Scale  (CSD-96-917) Manuel Fahndrich and Alex Aiken
+Descriptional Composition of Compiler Components  (CSD-96-916) John Tang Boyland
+Probabilistic Proof Systems - Lecture Notes  (CSD-96-915) Oded Goldreich
+Reducing Processor Power Consumption by Improving Processor Time Management in a Single-User Operating System  (CSD-96-914) Jacob R. Lorch and Alan Jay Smith
+Disk Caching in Large Databases and Timeshared Systems  (CSD-96-913) Barbara Tockey Zivkov and Alan Jay Smith
+Hidden Cliques as Cryptographic Keys  (CSD-96-912) Ari Juels and Marcus Peinado
+Simulation of Network Delays  (CSD-96-911) Larisa Dvorkina
+Approximately Counting Cliques  (CSD-96-910) Lars Eilstrup Rasmussen
+Optimal Representations of Polymorphic Types with Subtyping  (CSD-96-909) Alexander Aiken, Edward L. Wimmers and Jens Palsberg
+Predicting Queue Times on Space-Sharing Parallel Computers  (CSD-96-906) Allen B. Downey
+Finding Pictures of Objects in Large Collections of Images  (CSD-96-905) David A. Forsyth, Jitendra Malik, Margaret M. Fleck, Hayit Greenspan, Thomas Leung, Serge Belongie, Chad Carson and Christoph Bregler
+On the Error Analysis and Implementation of Some Eigenvalue Decomposition and Singular Value Decomposition Algorithms  (CSD-96-904) Huan Ren
+Vertical Handoffs in Wireless Overlay Networks  (CSD-96-903) Mark Stemm
+Generating Three-Dimensional Building Models from Two-Dimensional Architectural Plan  (CSD-96-902) Rick Lewis
+High-Performance Image Processing Using Special-Purpose CPU Instructions:  The UltraSPARC Visual Instruction Set  (CSD-96-901) Daniel S. Rice
+Serverless Network File Systems  (CSD-96-900) Michael Donald Dahlin
+Low-Latency Handoff for Cellular Data Networks  (CSD-96-899) Srinivasan Seshan
+Spectral Partitioning Works: Planar Graphs and Finite Element Meshes  (CSD-96-898) Daniel A. Spielman and Shang-Hua Teng
+Learning Appearance Based Models: Hierarchical Mixtures of Experts Approach Based on Generalized Second Moments  (CSD-96-897) Christoph Bregler and Jitendra Malik
+Multi-Party Real-time Communication in Computer Networks  (CSD-96-896) Amit Gupta
+Efficient Generation of Local Index Sets for Distributed Arrays  (CSD-96-895) Deborah K. Weisser
+Portable Library Support for Irregular Applications  (CSD-96-894) Chih-Po Wen
+Modeling and Rendering Architecture from Photographs: A Hybrid Geometry- and Image-Based Approach  (CSD-96-893) Paul E. Debevec, Camillo J. Taylor and Jitendra Malik
+Rapid Prototyping of Solid Three-Dimensional Parts  (CSD-96-892) Sara Anne McMains
+HPAM: An Active Message Layer for a Network of HP Workstations  (CSD-96-891) Richard P. Martin
+Joint Services Electronics Programs  (M96/137) Jeffrey Bokor and Diogenes Angelakos
+Application of the Plasma Immersion Ion Implantation Coupled Plasma Model for Energy Spread and Oxide Charging  (M96/98) B.P. Linder
+A Hardware Mapper for the Hyper High Level Synthesis System  (M96/97) O. Bentz
+A Study of Speech/Audio Coding on Packet Switched Networks  (M96/96) M.G. Podolsky
+Rapid Prototyping and Deployment of User-to-User Networked Applications  (M96/95) Wan-T. Chang
+Incremental Methods for Formal Verification and Logic Synthesis  (M96/94) Gitanjali M. Swamy
+Dispersion of Electromagnetic Damping  (M96/88) N. Matsumoto, J.P. Verboncoeur and K.L. Cartwright
+Simulation of a (Surface Wave Coupled Plasma) Using OOPIC  (M96/87) N. Matsumoto
+Plasma Computer Experiments Laboratory  (M96/86) Charles K. (Ned) Birdsall, V.P. Gopinath and J.P. Verboncoeur
+Bounded Plasma Edge Physics as Observed from Simulations in 1D and 2D  (M96/85) D. Cooperberg, K. Cartwright and Charles K. (Ned) Birdsall
+Charge Conservation in Electromagnetic PIC Codes; Spectral Comparison of Boris and Marder Methods  (M96/83) P.J. Mardahl and J.P. Verboncoeur
+Digital Circuit and Board Design for a Low Power, Wideband CDMA Receiver  (M96/82) I.D. O'Donnell
+Wideband Spread-Spectrum Digital Communications for Portable Applications  (M96/81) Samuel W. Sheng
+The Design and Implementation of a Semi-Custom Transmitter for a CDMA Direct Sequence Spread-Spectrum Transceiver  (M96/80) D.G. Yee
+Scheduling Techniques for Synchronous and Multidimensional Synchronous Dataflow  (M96/79) Praveen K. Murthy
+On the Implementation of the Spatial Prisoner's Dilemma Game on the CNN Universal Machine  (M96/78) L. Nemes and Leon O. Chua
+Channel-Independent Chaotic Secure Communication  (M96/77) T. Yang and Leon O. Chua
+Formal Analysis of Synchronous Circuits  (M96/76) Thomas R. Shiple
+Multi-Valued Decision Diagrams for Logic Synthesis and Verification  (M96/75) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Theory and Algorithms for Face Hypercube Embedding  (M96/74) E. Goldberg, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Learning Controllers for Complex Behavioral Systems  (M96/73) L.S. Crawford and S. Shankar Sastry
+Explorer Version 1.0 Users Guide  (M96/72) H. Esbensen
+Adaptive and Predictive Modeling for Real-Time Statistical Process Control  (M96/71) H.W. Huang
+On the Departure Process of a Leaky Bucket System with Long-Range Dependent Input Traffic: The Finite Cell Buffer Case  (M96/70) S. Vamvakos and Venkat Anantharam
+Multi-access Fading Channels: Part I: Polymatroidal Structures, Optimal Resource Allocation and Throughput Capacities  (M96/69) David Tse and S.V. Hanly
+Testing and Characterization of Analog Systems Using Behavioral Models and Optimal Experimental Design  (M96/68) Eric J. Felt
+Xdistribute: A Process Distribution System  (M96/67) K. Petty and N. McKeown
+Solving Poisson's Equation Using Adaptive Mesh Refinement  (M96/66) D.F. Martin and K.L. Cartwright
+Deterministic Simulation of Randomized Protocols Over Arbitrary Networks of Noisy Channels  (M96/65) S. Venkatesan and Venkat Anantharam
+Low Power Synthesis via Transparent Latches and Observability Don't Cares  (M96/64) T. Kitahara and Robert K. Brayton
+Modeling of Cl_2-He Polysilicon Etching with a Global Model for High Pressure Electronegative Radio-Frequency Discharges  (M96/63) Y.T. Lee
+Trace Driven Logic Synthesis - Application to Power Minimization  (M96/62) L.P. Carloni, P.C. McGeer, A. Saldanha and Alberto L. Sangiovanni-Vincentelli
+Using HyTech to Synthesize Control Parameters for a Steam Boiler  (M96/61) Thomas A. Henzinger and Howard Wong-Toi
+Algorithmic Analysis of Nonlinear Hybrid Systems  (M96/60) Thomas A. Henzinger, P-H. Ho and H. Wong-Toi
+Engineering Change for Power Optimization Using Global Sensitivity and Synthesis Flexibility  (M96/59) P. Buch, C.K. Lennard and A. Richard Newton
+New Results and Measurements Related to Dynamic Image Coding Using CNN Universal Chips  (M96/58) T. Kozek, C.W. Wu, A. Zarandy, H. Chen, T. Roska, M. Kunt and Leon O. Chua
+A High-Voltage Charge Pump in Bulk CMOS  (M96/57) E.L. Cheung
+Resynchronization of Multiprocessor Schedules: Part 2 -- Latency Constrained Resynchronization  (M96/56) S.S. Bhattacharyya, S. Sriram and Edward A. Lee
+Resynchronization of Multiprocessor Schedules: Part 1 -- Fundamental Concepts and Unbounded-Latency Analysis  (M96/55) S.S. Bhattacharyya, S. Sriram and Edward A. Lee
+Switching Through Singularities  (M96/54) J. Tomlin and S. Shankar Sastry
+Towards Continuous Abstractions of Dynamical and Control Systems  (M96/53) G. Pappas and S. Shankar Sastry
+A Transmission-Constrained Unit Commitment Method  (M96/52) C-L. Tseng, S.S. Oren, C.S. Cheng, C-A. Li, A.J. Svoboda and R.B. Johnson
+On the Departure Process of a Leaky Bucket System with Long-Range Dependent Input Traffic  (M96/51) S. Vamvakos and Venkat Anantharam
+Visualizing Architecture and Algorithm Interaction in Embedded Systems  (M96/50) F. Sheikh
+The Effect of Plasma Loading on Impedance as Observed in an Inductively Coupled Plasma Source  (M96/49) M. Wessels
+Low Power Audio Codec  (M96/48) E.W. Chan
+Integrated Circuit Process Design for Manufacturability Using Statistical Metrology  (M96/47) Crid Yu
+Bounded Tracking for Nonminimum Phase Nonlinear Systems with Fast Zero Dynamics  (M96/46) C.J. Tomlin and S. Shankar Sastry
+Synthesizing Arbitrary Driving-Point and Transfer Characteristics  (M96/45) Leon O. Chua, C.W. Wu, G-Q. Zhong and L.F. Liu
+A BDD-Based Environment for Formal Verification of Hardware Systems  (M96/44) Ramin Hojati
+RCBR: A Simple and Efficient Service for Multiple Time-Scale Traffic [Extended Version]  (M96/43) M. Grossglauser, S. Keshav and David Tse
+New Geometric and Topological Methods of Analysis of the Global Nonlinear Control Problem  (M96/42) E. Kappos
+A Comparison of Continuous-Time and Discrete-Time Sigma-Delta Modulators  (M96/41) N. Wongkomet
+Generation of a Minimal STG from an Implicit Cover  (M96/40) L. Carloni, T. Villa, T. Kam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Detector and Electronics Design Considerations for an Emission-Transmission Medical Imaging System  (M96/39) Joseph A. Heanue
+Conflict Resolution for Air Traffic Management: A Case Study in Multi-Agent Hybrid Systems  (M96/38) C. Tomlin, G.J. Pappas and S. Shankar Sastry
+Etching for Micromachining Processing  (M96/37) K.R. Williams and Richard S. Muller
+Ultra-Shallow Junction Fabrication Using Plasma Immersion Ion Implantation and Epitaxial Cobalt Disilicide as a Dopant Source  (M96/36) Erin C. Jones
+Oxide Charging Damage in Integrated Circuit Processing Investigated with a Coupled Plasma/IC Device Model  (M96/35) William G. En
+Identification Plus Transmission over Channels with Perfect Feedback  (M96/34) S. Venkatesan and Venkat Anantharam
+The Tagged Signal Model A Preliminary Version of a Denotational Framework for Comparing Models of Computation  (M96/33) Edward A. Lee and Alberto L. Sangiovanni-Vincentelli
+Price-Based Adaptive Spinning Reserve Requirements in Power System Scheduling  (M96/32) C-L. Tseng, S.S. Oren, A.J. Svoboda and R.B. Johnson
+A Unit Decommitment Method in Power System Scheduling (IGCT)  (M96/31) C-L. Tseng, S.S. Oren, A.J. Svoboda and R.B. Johnson
+Photoresist Dissolution Mechanism Studies  (M96/30) A.M. Zenk
+Process Variability and Device Mismatch  (M96/29) M. Terrovitis
+The Theory of Hybrid Automata  (M96/28) Thomas A. Henzinger
+High Speed, Low Power, Low Voltage Pipelined Analog-to-Digital Converter  (M96/27) G. Chien
+Interfacing System Description Languages to Formal Verification  (M96/26) Wendell C. Baker
+Study of Simulator Sickness and the VOR with Respect to VR  (M96/25) S. Szollar and A. Richard Newton
+Networks of Queues with Long-Range Dependent Traffic Streams  (M96/24) Venkat Anantharam
+Global Model for High Pressure Electronegative Radio-Frequency Discharges  (M96/23) Y.T. Lee, Michael A. Lieberman, Allan J. Lichtenberg, F. Bose, H. Baltes and R. Patrick
+Minimal Logic Re-Synthesis  (M96/22) G.M. Swamy, S. Rajamani, C. Lennard and Robert K. Brayton
+Identifying Common Substructure for Incremental Methods  (M96/21) S.A. Edwards, G.M. Swamy and Robert K. Brayton
+Fusing Dataflow with Finite State Machines  (M96/20) B. Lee
+Implementation of Binary and Gray-Scale Mathematical Morphology on the CNN Universal Machine  (M96/19) A. Zarandy, A. Stoffels, T. Roska and Leon O. Chua
+Theory and Implementation of Numerical Methods Based on Runge-Kutta Integration for Solving Optimal Control Problems  (M96/18) Adam L. Schwartz
+State Minimization of FSM's with Implicit Techniques  (M96/17) T. Villa, T. Kam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Exact Minimization of Binary Decision Diagrams Using Implicit Techniques  (M96/16) A.L. Oliveira, L. Carloni, T. Villa and Alberto L. Sangiovanni-Vincentelli
+Low Power Design Using PLAs and Standard Cells  (M96/15) P. Buch and T. Xue
+RF Plasma Potential and Surface Temperature Measurements in an Inductively Coupled Plasma Source  (M96/14) G. Gregori and Michael A. Lieberman
+Post Global Routing Crosstalk Risk Estimation and Reduction  (M96/13) T. Xue, Ernest S. Kuh and D. Wang
+Evaluation of Trade-Offs in the Design of Embedded Systems Via Co-Simulation  (M96/12) C. Passerone, M. Chiodo, W. Gosti, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Pen and Speech Recognition in the User Interface for Mobile Multimedia Terminals  (M96/11) Shankar Narayanaswamy
+Design Replacements for Sequential Circuits  (M96/10) Vigyan Singhal
+Binary Decision Diagrams on Network of Workstations  (M96/9) J.V. Sanghavi, R.K. Ranjan, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Logic Synthesis Using Power-Sensitive Don't Care Sets  (M96/8) C.K. Lennard, P. Buch and A. Richard Newton
+A Statistical Approach to Transistor Level Power Estimation  (M96/7) P. Buch
+Software Implementation of Asynchronous Video Coding for Wireless Communication  (M96/6) J. Yan
+Arbitrary Spatial Convolution via CNN Universal Machine with 3 X 3 Templates: Methods and Issues  (M96/5) K.R. Crounse and Leon O. Chua
+An Interactive Floorplanner for Design Space Exploration  (M96/4) H. Esbensen and Ernest S. Kuh
+A Simple Transformer Model Applied to a Planar Inductive Plasma Discharge  (M96/3) J.T. Gudmundsson and Michael A. Lieberman
+Shape Synthesis From Sparse, Feature-Based Input  (M96/2) S.R. Burgett, R.T. Bush, S. Shankar Sastry and C.H. Séquin
+Defining Solution Set Quality  (M96/1) H. Esbensen

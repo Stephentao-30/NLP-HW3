@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-62.html
+The RISC-V Instruction Set Manual, Volume I: Base User-Level ISA
+Andrew Waterman and Yunsup Lee and David A. Patterson and Krste Asanović
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-62
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-62.pdf
+BibTeX citation:
+@techreport{Waterman:EECS-2011-62,
+Author= {Waterman, Andrew and Lee, Yunsup and Patterson, David A. and Asanović, Krste},
+Title= {The RISC-V Instruction Set Manual, Volume I: Base User-Level ISA},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-62.html},
+Number= {UCB/EECS-2011-62},
+}
+EndNote citation:
+%0 Report
+%A Waterman, Andrew
+%A Lee, Yunsup
+%A Patterson, David A.
+%A Asanović, Krste
+%T The RISC-V Instruction Set Manual, Volume I: Base User-Level ISA
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-62
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-62.html
+%F Waterman:EECS-2011-62

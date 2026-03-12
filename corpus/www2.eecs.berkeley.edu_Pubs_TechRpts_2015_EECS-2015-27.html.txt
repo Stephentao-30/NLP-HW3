@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-27.html
+Ultrasonic 3D Rangefinder on a Chip | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Ultrasonic 3D Rangefinder on a Chip
+Ultrasonic 3D Rangefinder on a Chip
+Richard Przybyla
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-27
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-27.pdf
+Optical 3D imagers for gesture recognition, such as Microsoft Kinect, suffer from large size and high power consumption. Their performance depends on ambient illumination and they generally cannot operate in sunlight. These factors have prevented widespread adoption of gesture interfaces in energy- and volume-limited environments such as tablets and smartphones. Gesture recognition using sound is an attractive candidate to overcome these difficulties because of the potential for chip-scale solution size, low power consumption, and ambient light insensitivity.
+Our research focuses on building a 3D ultrasonic rangefinder system using batch-fabricated micromachined aluminum nitride (AlN) ultrasonic transducer arrays and custom CMOS electronics. The system uses pulse--echo time--of--flight to localize targets from their echoes. We use millimeter--wave ultrasound, which enables compact ultrasonic arrays which can measure range and direction to a target. The relatively slow speed of sound allows the use of low--speed, low--power readout electronics.
+In this dissertation, we will present the design methodology for a prototype ultrasonic rangefinder system. We will show how the choice of basic system specifications affects the mechanical transducer design and the interface circuit design. We will present a physics-based model of an ultrasound transducer which accurately predicts device operation. We will present measured results from an ultrasonic 3D gesture recognition system which uses an array of AlN MEMS transducers and custom readout electronics to localize targets over a +/-45 degree field of view up to 1m away. The 0.18um CMOS readout ASIC comprises 10 independent channels with separate high voltage transmitters, readout amplifiers, and ADCs. Power dissipation is 400uW at 30fps, and scales to 5uW/ch at 10fps.
+Advisor:  Bernhard Boser
+BibTeX citation:
+@phdthesis{Przybyla:EECS-2015-27,
+Author = {Przybyla, Richard},
+Title = {Ultrasonic 3D Rangefinder on a Chip},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-27.html},
+Number = {UCB/EECS-2015-27},
+Abstract = {Optical 3D imagers for gesture recognition, such as Microsoft Kinect, suffer from large size and high power consumption. Their performance depends on ambient illumination and they generally cannot operate in sunlight. These factors have prevented widespread adoption of gesture interfaces in energy- and volume-limited environments such as tablets and smartphones. Gesture recognition using sound is an attractive candidate to overcome these difficulties because of the potential for chip-scale solution size, low power consumption, and ambient light insensitivity.
+Our research focuses on building a 3D ultrasonic rangefinder system using batch-fabricated micromachined aluminum nitride (AlN) ultrasonic transducer arrays and custom CMOS electronics. The system uses pulse--echo time--of--flight to localize targets from their echoes. We use millimeter--wave ultrasound, which enables compact ultrasonic arrays which can measure range and direction to a target. The relatively slow speed of sound allows the use of low--speed, low--power readout electronics.
+In this dissertation, we will present the design methodology for a prototype ultrasonic rangefinder system. We will show how the choice of basic system specifications affects the mechanical transducer design and the interface circuit design. We will present a physics-based model of an ultrasound transducer which accurately predicts device operation. We will present measured results from an ultrasonic 3D gesture recognition system which uses an array of AlN MEMS transducers and custom readout electronics to localize targets over a +/-45 degree field of view up to 1m away. The 0.18um CMOS readout ASIC comprises 10 independent channels with separate high voltage transmitters, readout amplifiers, and ADCs. Power dissipation is 400uW at 30fps, and scales to 5uW/ch at 10fps.}
+}
+EndNote citation:
+%0 Thesis
+%A Przybyla, Richard
+%T Ultrasonic 3D Rangefinder on a Chip
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-27
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-27.html
+%F Przybyla:EECS-2015-27

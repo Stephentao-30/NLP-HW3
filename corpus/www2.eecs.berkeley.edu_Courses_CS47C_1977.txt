@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS47C_1977
+Course: CS47C_1977 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS47C_1977
+CS 47C-001. Self-paced courses
+Catalog Description:  MIPS instruction set simulation. The assembly and linking process. Caches and virtual memory. Pipelined computer organization. Students with sufficient partial credit in 61C may, with consent of instructor, complete the credit in this self-paced course.
+Units:  1.0
+Prerequisites:  Experience with assembly language including writing an interrupt handler, COMPSCI 9C, and consent of instructor.
+Credit Restrictions:  Students will receive no credit for COMPSCI 47C after completing COMPSCI 61C, or COMPSCI 61CL.
+Formats:  Fall: 0 hours of self-paced per week
+Spring: 0 hours of self-paced per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Fall 2020):
+Borivoje NIKOLIC ,  Dan Garcia Class Schedule (Spring 2021):
+Nicholas Weaver
+Class homepage on inst.eecs
+General Catalog listing

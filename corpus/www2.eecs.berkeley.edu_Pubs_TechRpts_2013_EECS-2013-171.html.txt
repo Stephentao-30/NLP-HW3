@@ -1,0 +1,73 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-171.html
+A New Derivation and Dataset for Fitts' Law of Human Motion
+Ken Goldberg and Siamak Faridani and Ron Alterovitz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-171
+October 22,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-171.pdf
+Human motion models for reaching tasks facilitate the design of many
+systems such as computer and cellphone interfaces, cockpits, and assembly
+lines. Fitts' Law species a logarithmic two-parameter relationship between
+motion duration and the ratio of target distance over target size, and
+more recent models consider square root and modied logarithmic
+relationships. This paper contributes new theory and new experiments. For
+the former, we provide a succinct derivation of the square-root model
+based on optimal control theory. Our derivation is intuitive, exact, makes
+fewer assumptions, and requires fewer steps than prior derivations. We
+present data from two experimental user studies, one a controlled (in-lab)
+study and the second an uncontrolled (online) study with a total of 94,580
+timing measurements. We consider three two-parameter models that relate
+motion duration to the ratio of target distance over target size: LOG (the
+classic logarithmic function), SQR (square-root), and LOG' (logarithmic
+plus 1.0). We find that: (1) the data from the controlled and uncontrolled
+studies are remarkably consistent; (2) for homogeneous targets, the SQR
+model yields a significantly better fit than LOG or LOG', except with the
+most difficult targets (i.e., the ratio of target distance over target
+size is large) where the models are not significantly different; (3) for
+heterogenous targets, SQR yields a significantly better fit than LOG for
+easier targets and LOG yields a significantly better fit than both LOG and
+SQR on more difficult targets.
+BibTeX citation:
+@techreport{Goldberg:EECS-2013-171,
+Author= {Goldberg, Ken and Faridani, Siamak and Alterovitz, Ron},
+Title= {A New Derivation and Dataset for Fitts' Law of Human Motion},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-171.html},
+Number= {UCB/EECS-2013-171},
+Abstract= {Human motion models for reaching tasks facilitate the design of many
+systems such as computer and cellphone interfaces, cockpits, and assembly
+lines. Fitts' Law species a logarithmic two-parameter relationship between
+motion duration and the ratio of target distance over target size, and
+more recent models consider square root and modied logarithmic
+relationships. This paper contributes new theory and new experiments. For
+the former, we provide a succinct derivation of the square-root model
+based on optimal control theory. Our derivation is intuitive, exact, makes
+fewer assumptions, and requires fewer steps than prior derivations. We
+present data from two experimental user studies, one a controlled (in-lab)
+study and the second an uncontrolled (online) study with a total of 94,580
+timing measurements. We consider three two-parameter models that relate
+motion duration to the ratio of target distance over target size: LOG (the
+classic logarithmic function), SQR (square-root), and LOG' (logarithmic
+plus 1.0). We find that: (1) the data from the controlled and uncontrolled
+studies are remarkably consistent; (2) for homogeneous targets, the SQR
+model yields a significantly better fit than LOG or LOG', except with the
+most difficult targets (i.e., the ratio of target distance over target
+size is large) where the models are not significantly different; (3) for
+heterogenous targets, SQR yields a significantly better fit than LOG for
+easier targets and LOG yields a significantly better fit than both LOG and
+SQR on more difficult targets.},
+}
+EndNote citation:
+%0 Report
+%A Goldberg, Ken
+%A Faridani, Siamak
+%A Alterovitz, Ron
+%T A New Derivation and Dataset for Fitts' Law of Human Motion
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 22
+%@ UCB/EECS-2013-171
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-171.html
+%F Goldberg:EECS-2013-171

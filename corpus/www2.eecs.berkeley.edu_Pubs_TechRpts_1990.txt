@@ -1,0 +1,175 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990
+Technical Reports - 1990
+Pattern-Based Languages for Prototyping of Compiler Optimizers  (CSD-90-608) Charles Donald Farnum
+Performance Prediction by Benchmark and Machine Analysis  (CSD-90-607) Rafael H. Saavedra-Barrera and Alan Jay Smith
+Introduction to the Berkeley Unigrafix Tools, Version 3.0  (CSD-90-606) Carlo H. Séquin and Kevin P. Smith
+BiblioText Version 5.0: A Hypertext Browser for Bibliographic Data and Notes  (CSD-90-603) Michael L. Van De Vanter
+Construction of Smooth Curves and Surfaces from Polyhedral Models  (CSD-90-602) Leon A. Shirman
+Constraint-based Document Presentation  (CSD-90-601) Wayne A. Christopher
+Can Logic Programming Execute as Fast as Imperative Programming?  (CSD-90-600) Peter Lodewijk Van Roy
+Meta-Scheduling For Distributed Continuous Media  (CSD-90-599) David P. Anderson
+Transparent Process Migration in the Sprite Operating System  (CSD-90-598) Frederick Douglis
+Implementation Issues For a Network Continuous-Media I/O Server  (CSD-90-597) George Homsy, Ramesh Govindan and David P. Anderson
+Abstractions for Continuous Media in a Network Window System  (CSD-90-596) David P. Anderson, Ramesh Govindan and George Homsy
+Simulation of Anisotropic Crystal Etching  (CSD-90-595) Bill Foote
+Fine-grain Parallelism with Minimal Hardware Support: A Compiler-Controlled Threaded Abstract Machine  (CSD-90-594) David E. Culler, Anurug Soh, Klaus Erik Schauser, Thorsten von Eicken and John Wawrzynek
+The Pan Language-Based Editing System For Integrated Development Environments  (CSD-90-593) Robert A. Ballance, Susan L. Graham and Michael L. Van De Vanter
+Implicitizing Rational Parametric Surfaces  (CSD-90-592) Dinesh Manocha and John F. Canny
+Coherent User Interfaces for Language-Based Editing Systems  (CSD-90-591) Michael L. Van De Vanter, Robert A. Ballance and Susan L. Graham
+Detecting and localizing edges composed of steps, peaks and roofs  (CSD-90-590) Pietro Perona and Jitendra Malik
+PPP: The Pan Program Presenter  (CSD-90-589) Christina L. Black
+Exploiting Fine Grain Parallelism in Prolog  (CSD-90-588) Ashok Singhal
+Improved Error Bounds for Underdetermined System Solvers  (CSD-90-587) James W. Demmel and Nicholas J. Higham
+A Simpler Analysis of the Karp-Zhang Parallel Branch-and-Bound Method  (CSD-90-586) Abhiram Ranade
+Sentences, Situations and Propositions  (CSD-90-585) Robert Wilensky
+Stability of Block Algorithms with Fast Level 3 BLAS  (CSD-90-584) James W. Demmel and Nicholas J. Higham
+Extended DCG Notation: A Tool for Applicative Programming in Prolog  (CSD-90-583) Peter Lodewijk Van Roy
+Implementing Ada Fixed-point Types having Arbitrary Scales  (CSD-90-582) Paul N. Hilfinger
+An Interactive Multimedia Tutoring System For Digital Signal Processing  (CSD-90-581) Sam Pointer
+Summary Information for LANs at Level 1 in IS-IS  (CSD-90-580) Keith Sklower
+Pythia: A Parallel Compiler for Delirium  (CSD-90-579) Oliver Sharp
+MIMIC, A Custom VLSI Parallel Processor for Musical Sound Synthesis  (CSD-90-578) John Wawrzynek and Thorsten von Eicken
+Modeling Implicit Quadrics and Free-form Surfaces With Trimmed Rational Quadratic Bezier Patches  (CSD-90-577) Seth J. Teller and Carlo H. Séquin
+Corner-Stitched Tiles with Curved Boundaries  (CSD-90-576) Carlo H. Séquin
+Hybrid Memory Management for Parallel Execution of Prolog on Shared Memory Multiprocessors  (CSD-90-575) Tam Minh Nguyen
+Performance Measurements of the First RAID Prototype  (CSD-90-574) Ann L. Chervenak
+Software and Performance Issues in the Implementation of a RAID Prototype  (CSD-90-573) Edward K. Lee
+REDER: REtrieval of Documents based on Evidential Reasoning  (CSD-90-572) Lung Albert Chen
+Parametric Bernstein/Bezier Curves and Tensor Product Surfaces  (CSD-90-571) Brian A. Barsky
+Interactive Type Synthesis of Mechanisms  (CSD-90-570) Eric Enderton
+Analysis of Multithreaded Architectures for Parallel Computing  (CSD-90-569) Rafael H. Saavedra-Barrera, David E. Culler and Thorsten von Eicken
+Numbering Document Components  (CSD-90-568) Michael A. Harrison and Ethan V. Munson
+Naming, State Management, and User-Level Extensions in the Sprite Distributed File System  (CSD-90-567) Brent Ballinger Welch
+Integrated Digital Continuous Media:  A Framework Based on Mach, X11, and TCP/IP  (CSD-90-566) David P. Anderson, Ramesh Govindan, George Homsy and Robert Wahbe
+The Design and Evaluation of In-Cache Address Translation  (CSD-90-565) David A. Wood
+Design and Simulation of the Key Components of the Aquarius IIU System  (CSD-90-564) Darren R. Busing
+Input/Output Buffers for ASP  (CSD-90-563) Angela Cheng
+SRP: A Resource Reservation Protocol for Guaranteed-Performance Communication in the Internet  (CSD-90-562) David P. Anderson, Ralf Guido Herriwich and Carl Schaefer
+New Pseudo-Random Generators for Weak Random Sources  (CSD-90-561) David Zuckerman
+Rational Curves with Polynomial Parameterization  (CSD-90-560) Dinesh Manocha and John F. Canny
+Maximizing Performance in a Striped Disk Array  (CSD-90-559) Peter M. Chen and David A. Patterson
+Programming Language Support for Geometric Computations  (CSD-90-557) Mark Gordon Segal
+A Compiler for Application-Specific Signal Processors  (CSD-90-556) Kenneth Edward Rimey
+Multi-Valued Decision Diagrams  (M90/125) T.Y.K. Kam and Robert K. Brayton
+Algorithms for Three-Dimensional Simulation of Photoresist Development  (M90/123) Kenny K. H. Toh
+Hot-Wall Silicon Epitaxy  (M90/122) Carl J. Galewski
+HIP: A Hypermedia Extension of the Picasso Application Framework  (M90/121) B.S. Becker and Lawrence A. Rowe
+Cache Consistency and Concurrency Control in a Client/Server DMBS Architecture  (M90/120) Y. Wang and Lawrence A. Rowe
+A Multiprocessor Scheduling Strategy  (M90/119) G.C. Sih and Edward A. Lee
+BEAR-FP Manual Distribution 1.0  (M90/118) M. Pedram, W-M. Dai, M. Marek-Sadowska, G. Carvalho, Jr., D. Wang and B. Chen
+Robotic Control and Nonholonomic Motion Planning  (M90/117) Richard M. Murray
+The Effect of Integrator Leak in Sigma-Delta Modulation  (M90/116) O. Feely and Leon O. Chua
+Combinational Logic Optimization Techniques in Sequential Logic Analysis  (M90/115) Sharad Malik
+Phase-Locked Loop Macromodels  (M90/114) E. Tan
+Multiple Layer Cellular Neural Networks: A Tutorial  (M90/113) Leon O. Chua and B.E. Shi
+NECTAR: A Knowledge-Based Framework for Analog Circuit Verification  (M90/112) Theologos M. Kelessoglou
+Vector Quantization Code Book Design Using Neural Networks  (M90/111) T.M. Parks
+A Framework for Satisfying Input and Output Encoding Constraints  (M90/110) A. Saldanha, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Performance-Oriented Technology Mapping  (M90/109) Herve J. Touati
+Interruptible Electric Power Service Contracts  (M90/108) C-W. Tan and Pravin Varaiya
+A Dual Quadratic Programming Algorithm for Performance-Driven Placement  (M90/107) A. Srinivasan
+An Application-Specific Ad Hoc Query Interface  (M90/106) B. Smith and Lawrence A. Rowe
+Indexing Techniques for Multidimensional Spatial Data and Historical Data in Database Management Systems  (M90/105) Curtis P. Kolovson
+The Identification of General Pseudo- Reciprocal Vector Fields  (M90/104) R. Lum and Leon O. Chua
+Techniques for IC Symbolic Layout and Compaction  (M90/103) Jeffrey L. Burns
+Novel Routing Schemes for IC Layout Part II: Three-Layer Channel Routing  (M90/102) D. Wang and Ernest S. Kuh
+Novel Routing Schemes for IC Layout Part I: Two-Layer Channel Routing  (M90/101) D. Wang and Ernest S. Kuh
+Characterization of the Processing Plasma in an Engineering Prototype Reactor for Plasma Immersion Ion Implantation  (M90/100) R.A. Stewart, X.Y. Qian, D.A. Carl, B. Lake, Jr., J. Benasso, R. Lynch, C.A. Pico, Michael A. Lieberman and Nathan W. Cheung
+Synthesis of Verifiably Hazard-Free Asynchronous Control Circuits  (M90/99) L. Lavagno, Kurt Keutzer and Alberto L. Sangiovanni-Vincentelli
+Bifurcation and Chaos in Power Systems: A Survey  (M90/98) Pravin Varaiya, Felix F. Wu and H-D. Chiang
+Layout-Oriented Technology Mapping and IO Pad Assignment  (M90/97) M.P. Pedram, N. Bhat and K. Chaudhary
+An Inversion-Layer Mobility Model for CODECS  (M90/96) D.A. Gates
+FAULTS: An Equipment Maintenance and Repair System Using a Relational Database  (M90/95) D.C. Mudie and N.H. Chang
+Convergence Rate Analyses of Optimization Algorithms for Computer-Aided Design  (M90/94) Edward J. Wiest
+Developing a Guide Using Object-Oriented Programming  (M90/93) J. Konstan and Lawrence A. Rowe
+A Standard Software Platform for Shared Memory Multiprocessor Signal Processing Systems  (M90/92) M. Arya
+Stochastic Cycle Time Optimization of Sequential Systems  (M90/91) A. Srinivasan, S. Seshadri and J.G. Shanthikumar
+Design and Modeling of Deep-Submicrometer MOSFETs  (M90/90) Min-Chie Jeng
+Investigation of a Focused-Image Lens-Hologram Projection System for Microlithography  (M90/89) Ginetto Addiego
+Horseshoes in the Twist and Flip Map  (M90/88) R. Brown and Leon O. Chua
+The Identification of Pseudo-Reciprocal Piecewise-Linear Vector Fields  (M90/87) R. Lum and Leon O. Chua
+The Identification of General Pseudo- Gradient Vector Fields  (M90/86) R. Lum and Leon O. Chua
+The Identification of Pseudo-Gradient Vector Fields  (M90/85) R. Lum and Leon O. Chua
+Plasma Immersion Ion Implantation for VLSI Fabrication  (M90/84) X.Y. Qian, Nathan W. Cheung and Michael A. Lieberman
+Sheath Motion in a Capacitively Coupled Radio Frequency Discharges  (M90/83) B.P. Wood, Michael A. Lieberman and Allan J. Lichtenberg
+Metal Vapor Vacuum Arc Ion Implantation for Seeding of Electroless Cu Plating  (M90/82) X.Y. Qian, M.H. Kiang, Nathan W. Cheung, I.G. Brown, X. Godechot, J.E. Galvin, R.A. MacGill and K.M. Yu
+Axial RF Electric Field Intensity and Ion Density During Low to High Mode Transition in Argon Electron Cyclotron Resonance Discharges  (M90/81) D.A. Carl, M.C. Williamson, Michael A. Lieberman and Allan J. Lichtenberg
+Picasso Widget Writer's Guide  (M90/80) S. Seitz and P. Schank
+Picasso Reference Manual  (M90/79) P. Schank, J. Konstan, C. Liu, Lawrence A. Rowe, S. Seitz and B. Smith
+A Case Study of Ad Hoc Query Languages to Databases  (M90/78) J.E. Bell and Lawrence A. Rowe
+The Berkeley Process-Flow Language WIP System  (M90/77) C.J. Hegarty, Lawrence A. Rowe and C.B. Williams
+Incremental Synthesis for ``Engineering Changes''  (M90/76) Y. Watanabe and Robert K. Brayton
+On the Interpretation of Grades of Membership in Fuzzy Data from Random Experiments  (M90/75) M.A. Gil
+A Connection Between Fuzzy Numbers and Random Intervals  (M90/74) M.A. Gil
+Calculation of the Emission Spectrum of DFB and DBR Lasers  (M90/73) J-P. Weber and S. Wang
+A Comprehensive Analysis of Distribution Automation Systems  (M90/72) L. Murphy and Felix F. Wu
+Generic Properties of Continuous Piecewise-Linear Vector Fields in R^2  (M90/71) R. Lum and Leon O. Chua
+Device Modelling by Radial Basis Functions  (M90/70) A.I. Mees, M.F. Jackson and Leon O. Chua
+A 1-Bit/Cycle Algorithmic Analog-to- Digital Converter Without High-Precision Comparators  (M90/69) G. Jusuf and Paul R. Gray
+MIS-MV: Optimization of Multi-Level Logic with Multiple-Valued Inputs  (M90/68) L. Lavagno, S. Malik, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Simultaneous Potential and Circuit Solution for Bounded Plasma Particle Simulation Codes  (M90/67) J.P. Verboncoeur, M.V. Alves and V. Vahedi
+Multi-Folding: A New Chaotic Attractor Formation Mechanism in a Drive R-L-Diode Circuit  (M90/66) S. Tanaka, T. Matsumoto, J. Noguchi and Leon O. Chua
+Design and Management of Curtailable Electricity Service to Reduce Annual Peaks  (M90/65) S.S. Oren and S.A. Smith
+Pricing Delivery Priority and Spec. Level of Semiconductor Products  (M90/64) K.J. Min and S.S. Oren
+Optimal Architectures for an Integrated NTSC Decoder  (M90/63) K. Nishimura
+The Design of the Berkeley Process-Flow Language  (M90/62) Lawrence A. Rowe, C. Williams and C. Hegarty
+Monitoring, Maintenance and Diagnosis in a Computer-Integrated Environment for Semiconductor Manufacturing  (M90/61) Norman H. Chang
+A One Dimensional Collisional Model for Plasma Immersion Ion Implantation  (M90/60) V. Vahedi, Michael A. Lieberman, M.V. Alves, J.P. Verboncoeur and Charles K. (Ned) Birdsall
+Power Absorption Corresponding to Ion Losses in Parallel Plate RF Discharges  (M90/59) A.H. Sato
+Model of Magnetically Enhanced Capacitive RF Discharges  (M90/58) Michael A. Lieberman, Allan J. Lichtenberg and S.E. Savas
+Control of Interconnected Nonlinear Dynamical Systems: The Platoon Problem  (M90/57) S. Sheikholeslam and Charles A. Desoer
+Sheath Voltage Ratio for Asymmetric RF Discharges  (M90/56) M.V. Alves, Michael A. Lieberman, V. Vahedi and Charles K. (Ned) Birdsall
+Performance Limitations on High-Resolution Video-Rate Analog-Digital Interfaces  (M90/55) Yuh-Min R. Lin
+Multistart Method with Estimation Scheme for Global Satisfycing Problems  (M90/54) L. He and Elijah Polak
+A Reconfigurable Multiprocessor System for DSP Behavioral Simulation  (M90/53) Wook Koh
+Cell Generation and Two-Dimensional Folding for VLSI Layout  (M90/52) D-M. Xu
+Optimal Decoding for Sigma Delta Modulators  (M90/51) S. Hein and Avideh Zakhor
+High-Speed Clock Recovery in VLSI Using Hybrid Analog/Digital Techniques  (M90/50) Beomsup Kim
+Electron Beam Probe Measurements of Electric Fields in RF Discharges  (M90/49) A.H. Sato and Michael A. Lieberman
+A Structured Editor for Process Specification  (M90/48) J.C. Sedayao and Lawrence A. Rowe
+Parallel Query Processing in XPRS  (M90/47) W. Hong and Michael Stonebraker
+A Generalized Quadratic Progamming-Based Phase I-Phase II Method for Inequality- Constrained Optimization  (M90/46) E.J. Wiest and Elijah Polak
+Don't Care Minimization of Multi-Level Sequential Logic Networks  (M90/45) B. Lin and A. Richard Newton
+Modeling and Characterization of Semiconductor Manufacturing Equipment: An Application to LPCVD Reactors  (M90/44) Kuang-Kuo Lin
+Variational Edge Detection  (M90/43) Niklas K. Nordstrom
+Arnold Diffusion in Weakly Coupled Standard Maps  (M90/42) B.P. Wood, Allan J. Lichtenberg and Michael A. Lieberman
+Mechanisms of Silicon Etching in Fluorine- and Chlorine-Containing Plasmas  (M90/41) D.L. Flamm
+CLING/SQL - Common LISP to INGRES/SQL Interface  (M90/40) D. Charness and Lawrence A. Rowe
+Control Primitives for Robot Systems  (M90/39) D.C. Deno, R.M. Murray, Kristofer Pister and S. Shankar Sastry
+Invariance Properties of Continuous Piecewise-Linear Vector Fields  (M90/38) R. Lum and Leon O. Chua
+Transaction Support In Read Optimized and Write Optimized File Systems  (M90/37) M. Seltzer and Michael Stonebraker
+On Rules, Procedures, Caching and Views In Database Systems  (M90/36) Michael Stonebraker, A. Jhingran, J. Goh and S. Potamianos
+S-TREES: Database Indexing Techniques for Multi-Dimensional Interval Data  (M90/35) C.P. Kolovson and Michael Stonebraker
+The Implementation of POSTGRES  (M90/34) Michael Stonebraker, Lawrence A. Rowe and M. Hirohama
+A Unified Framework for Version Modeling Using Production Rules in a Database System  (M90/33) L-P. Ong and J.K.S. Goh
+A Comparison of Two Representations for Complex Objects  (M90/32) A. Jhingran and Michael Stonebraker
+A Method of Centers Based on Barrier Functions for Solving Optimal Control Problems with Continuum State and Control Constraints  (M90/31) Elijah Polak, T.H. Yang and D.Q. Mayne
+Modeling and Simulation of Hot-Carrier Effects in MOS Devices and Circuits  (M90/30) Peter M. Lee
+Global Properties of Continuous Piecewise-Linear Vector Fields Part II: Simplest Symmetric Case in R^2  (M90/29) R. Lum and Leon O. Chua
+Third-Generation Data Base System Manifesto  (M90/28)  The Committee for Advanced DBMS Function
+A Novel Approach to IC Performance Optimization by Clock Routing  (M90/27) M.A.B. Jackson, A. Srinivasan and Ernest S. Kuh
+The Complete Canonical Piecewise-Linear Representation I. The Geometry of the Domain Space  (M90/26) C. Kahlert and Leon O. Chua
+Kinetics of Photoresist Etching in an Electron Cyclotron Resonance Plasma  (M90/25) D.A. Carl, D.W. Hess and Michael A. Lieberman
+Grasping and Manipulation Using Multifingered Robot Hands  (M90/24) R.M. Murray and S. Shankar Sastry
+Plasma Immersion Ion Implantation for Impurity Gettering in Silicon Plasma Immersion Ion Implantation and Dose Loss in Impurity Gettering Experiment  (M90/23) H. Wong, X.Y. Qian, D. Carl, Nathan W. Cheung, Michael A. Lieberman, I.G. Brown and K.M. Yu
+Global Properties of Continuous Piecewise-Linear Vector Fields Part I: Simplest Case in R^2  (M90/22) R. Lum and Leon O. Chua
+Multiple-Output Shared Transistor Logic (MOSTL) Family Synthesized Using Binary Decision Diagram  (M90/21) T. Sakurai, B. Lin and A. Richard Newton
+MOSFET Model Parameter Extraction Based on Fast Simulated Diffusion  (M90/20) T. Sakurai and A. Richard Newton
+A Simple MOSFET Model for Circuit Analysis and Its Application to CMOS Gate Delay Analysis and Series-Connected MOSFET Structure  (M90/19) T. Sakurai and A. Richard Newton
+The Picasso Application Framework  (M90/18) Lawrence A. Rowe, J. Konstan, B. Smith, S. Seitz and C. Liu
+Experiments in Hierarchical Routing of General Areas  (M90/17) B.D.N. Lee
+Intermittency in a Piecewise-Linear Circuit  (M90/16) Leon O. Chua and G. Lin
+VLSI Implementation of a Configurable Multiprocessor System for DSP Behavioral Simulation  (M90/15) A.K.W. Yeung
+CNN Cloning Template: Shadow Detector  (M90/14) T. Matsumoto, Leon O. Chua and H. Suzuki
+Finite-Termination Schemes for Solving Semi-Infinite Satisfying Problems  (M90/13) Elijah Polak and L. He
+Human Factors Evaluation of a Textual, Graphical, and Natural Language Query Interfaces  (M90/12) J.E. Bell and Lawrence A. Rowe
+Improving Software Fault Tolerance in Highly Available Database Systems  (M90/11) M. Sullivan and Michael Stonebraker
+Theory of a Helical Resonator Plasma Source  (M90/10) Michael A. Lieberman, Allan J. Lichtenberg and D.L. Flamm
+An Elementary Proof of the Routh-Hurwitz Stability Criterion  (M90/9) J.J. Anagnost and Charles A. Desoer
+Special Issues in Semiconductor Manufacturing  (M90/8) Costas J. Spanos, E.D. Boskin, Y.K. Fong, T. Garfinkel, H. Guo, C.J. Hegarty, T.H. Hu, S.F. Lee, T.L. Luan, G.S. May, J. Ramirez and E. Rosenbaum
+A Tool for Collection of I-V Statistics Using the HP-4062 Semiconductor Parametric Test System  (M90/7) C-R. Ni
+Bivariate Time Series Analysis of Simulated Annealing Data  (M90/6) B.B. Sorkin
+Univariate Time Series Analysis of Simulated Annealing Data  (M90/5) G.B. Sorkin
+BERT - Circuit Oxide Reliability Simulator (CORS)  (M90/4) E. Rosenbaum, P.M. Lee, R. Moazzami, P.K. Ko and Chenming Hu
+BERT - Circuit Electromigration Simulator  (M90/3) B.K. Liew, P. Fang, Nathan W. Cheung and Chenming Hu
+BERT - Circuit Aging Simulator (CAS)  (M90/2) P.M. Lee, M.M. Kuo, P.K. Ko and Chenming Hu

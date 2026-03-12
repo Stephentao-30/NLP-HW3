@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-135.html
+HYDRASCOPE: ADAPTING EXISTING WEB APPLICATIONS FOR MULTI-­DISPLAY WALLS
+Viraj Kulkarni and Björn Hartmann
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-135
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-135.pdf
+Although large wall-sized displays are becoming increasingly available, their rate of adoption in research and business environments has been limited due to (1) the high cost of developing applications that scale to cluster-driven displays and (2) lack of interaction techniques for multi-user input on such shared displays. In this report, we introduce Hydrascope, a framework for creating multi-view meta-applications for cluster-driven displays by adapting existing web applications without modifying their source code. Hydrascope meta-applications work by running multiple instances of an application in parallel and synchronizing their views. We demonstrate the capabilities of our framework with five example applications. We also report on informal evaluations of a developer writing a Hydrascope meta-application, and five pairs of users interacting with our example meta-applications.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Kulkarni:EECS-2012-135,
+Author= {Kulkarni, Viraj and Hartmann, Björn},
+Title= {HYDRASCOPE: ADAPTING EXISTING WEB APPLICATIONS FOR MULTI-­DISPLAY WALLS},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-135.html},
+Number= {UCB/EECS-2012-135},
+Abstract= {Although large wall-sized displays are becoming increasingly available, their rate of adoption in research and business environments has been limited due to (1) the high cost of developing applications that scale to cluster-driven displays and (2) lack of interaction techniques for multi-user input on such shared displays. In this report, we introduce Hydrascope, a framework for creating multi-view meta-applications for cluster-driven displays by adapting existing web applications without modifying their source code. Hydrascope meta-applications work by running multiple instances of an application in parallel and synchronizing their views. We demonstrate the capabilities of our framework with five example applications. We also report on informal evaluations of a developer writing a Hydrascope meta-application, and five pairs of users interacting with our example meta-applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Kulkarni, Viraj
+%A Hartmann, Björn
+%T HYDRASCOPE: ADAPTING EXISTING WEB APPLICATIONS FOR MULTI-­DISPLAY WALLS
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-135
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-135.html
+%F Kulkarni:EECS-2012-135

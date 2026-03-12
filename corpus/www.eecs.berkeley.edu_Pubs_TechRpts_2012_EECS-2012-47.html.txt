@@ -1,0 +1,81 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-47.html
+An Automatic Speech Recognition Application Framework for Highly Parallel Implementations on the GPU
+Jike Chong and Ekaterina Gonina and Dorothea Kolossa and Steffen Zeiler and Kurt Keutzer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-47
+April 26,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-47.pdf
+Data layout, data placement, and synchronization processes are not
+usually part of a speech application expert's daily concerns. Yet
+failure to carefully take these concerns into account in a highly
+parallel implementation on the graphics processing units (GPUs) could
+mean an order of magnitude of loss in application performance. In
+this paper we present an application framework for parallel
+programming of automatic speech recognition (ASR) applications that
+allows a speech application expert to effectively implement speech
+applications on the GPU. It is an approach for
+crystallizing and transferring the often tacit knowledge of effective
+parallel programming techniques while allowing for flexible
+adaptation to various application usage scenarios.
+The application framework for parallel programming includes an application context description, a software
+architecture, a reference implementation, and a set of extension points for flexible customization. We describe how
+a speech expert can use the application framework in a parallel
+application design flow as well as present two case studies that
+illustrate the flexibility of the framework to adapt to different
+usage scenarios. The case studies show two examples in extending the
+framework to an advanced audio-only speech recognition application
+and an audio-visual recognition application that enables lip-reading
+in high noise recognition environments. The adaptation to the latter
+scenario also demonstrates how the ASR application framework has
+enabled a Matlab/Java programmer to effectively utilize a GPU to
+produce an implementation that achieves a 20x speedup in recognition
+throughput as compared to a sequential CPU implementation.
+BibTeX citation:
+@techreport{Chong:EECS-2012-47,
+Author= {Chong, Jike and Gonina, Ekaterina and Kolossa, Dorothea and Zeiler, Steffen and Keutzer, Kurt},
+Title= {An Automatic Speech Recognition Application Framework for Highly Parallel Implementations on the GPU},
+Year= {2012},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-47.html},
+Number= {UCB/EECS-2012-47},
+Abstract= {  Data layout, data placement, and synchronization processes are not
+usually part of a speech application expert's daily concerns. Yet
+failure to carefully take these concerns into account in a highly
+parallel implementation on the graphics processing units (GPUs) could
+mean an order of magnitude of loss in application performance. In
+this paper we present an application framework for parallel
+programming of automatic speech recognition (ASR) applications that
+allows a speech application expert to effectively implement speech
+applications on the GPU. It is an approach for
+crystallizing and transferring the often tacit knowledge of effective
+parallel programming techniques while allowing for flexible
+adaptation to various application usage scenarios.
+The application framework for parallel programming includes an application context description, a software
+architecture, a reference implementation, and a set of extension points for flexible customization. We describe how
+a speech expert can use the application framework in a parallel
+application design flow as well as present two case studies that
+illustrate the flexibility of the framework to adapt to different
+usage scenarios. The case studies show two examples in extending the
+framework to an advanced audio-only speech recognition application
+and an audio-visual recognition application that enables lip-reading
+in high noise recognition environments. The adaptation to the latter
+scenario also demonstrates how the ASR application framework has
+enabled a Matlab/Java programmer to effectively utilize a GPU to
+produce an implementation that achieves a 20x speedup in recognition
+throughput as compared to a sequential CPU implementation.},
+}
+EndNote citation:
+%0 Report
+%A Chong, Jike
+%A Gonina, Ekaterina
+%A Kolossa, Dorothea
+%A Zeiler, Steffen
+%A Keutzer, Kurt
+%T An Automatic Speech Recognition Application Framework for Highly Parallel Implementations on the GPU
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 April 26
+%@ UCB/EECS-2012-47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-47.html
+%F Chong:EECS-2012-47

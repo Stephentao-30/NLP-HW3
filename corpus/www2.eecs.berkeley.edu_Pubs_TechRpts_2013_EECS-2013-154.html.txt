@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-154.html
+Towards Adapting ImageNet to Reality: Scalable Domain Adaptation with Implicit Low-rank Transformations
+Erik Rodner and Judith Hoffman and Jeffrey Donahue and Trevor Darrell and Kate Saenko
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-154
+August 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-154.pdf
+Images seen during test time are often not from the same distribution as images used for learning. This problem, known as domain shift, occurs when training classifiers from object-centric internet image databases and trying to apply them directly to scene understanding tasks. The con- sequence is often severe performance degradation and is one of the major barriers for the application of classifiers in real-world systems. In this paper, we show how to learn transform-based domain adaptation classifiers in a scalable manner. The key idea is to exploit an implicit rank constraint, originated from a max-margin domain adaptation formulation, to make optimization tractable. Experiments show that the transformation between domains can be very efficiently learned from data and easily applied to new categories. This begins to bridge the gap between large-scale internet image collections and object images captured in everyday life environments.
+BibTeX citation:
+@techreport{Rodner:EECS-2013-154,
+Author= {Rodner, Erik and Hoffman, Judith and Donahue, Jeffrey and Darrell, Trevor and Saenko, Kate},
+Title= {Towards Adapting ImageNet to Reality: Scalable Domain Adaptation with Implicit Low-rank Transformations},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-154.html},
+Number= {UCB/EECS-2013-154},
+Abstract= {Images seen during test time are often not from the same distribution as images used for learning. This problem, known as domain shift, occurs when training classifiers from object-centric internet image databases and trying to apply them directly to scene understanding tasks. The con- sequence is often severe performance degradation and is one of the major barriers for the application of classifiers in real-world systems. In this paper, we show how to learn transform-based domain adaptation classifiers in a scalable manner. The key idea is to exploit an implicit rank constraint, originated from a max-margin domain adaptation formulation, to make optimization tractable. Experiments show that the transformation between domains can be very efficiently learned from data and easily applied to new categories. This begins to bridge the gap between large-scale internet image collections and object images captured in everyday life environments.},
+}
+EndNote citation:
+%0 Report
+%A Rodner, Erik
+%A Hoffman, Judith
+%A Donahue, Jeffrey
+%A Darrell, Trevor
+%A Saenko, Kate
+%T Towards Adapting ImageNet to Reality: Scalable Domain Adaptation with Implicit Low-rank Transformations
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 20
+%@ UCB/EECS-2013-154
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-154.html
+%F Rodner:EECS-2013-154

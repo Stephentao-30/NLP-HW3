@@ -1,0 +1,36 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-15.html
+LU Factorization with Panel Rank Revealing Pivoting and Its Communication Avoiding Version
+Amal Khabou and James Demmel and Laura Grigori and Ming Gu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-15
+January 24,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-15.pdf
+We present the LU decomposition with panel rank revealing pivoting (LU_PRRP), an LU factorization algorithm based on strong rank revealing QR panel factorization. LU_PRRP is
+more stable than Gaussian elimination with partial pivoting (GEPP), with a theoretical upper bound of the growth factor of $(1 + \tau b)^{n/b}$ , where b is the size of the panel used during the block factorization, $\tau$ is a parameter of the strong rank revealing QR factorization, and $n$ is the number of columns of the matrix. For example, if the size of the panel is $b = 64$, and $\tau = 2$, then $(1+2b)^{n/b} = (1.079)^n \ll 2^{n−1}$, where $2^{n−1}$ is the upper bound of the growth factor of GEPP. Our extensive numerical experiments show that the new factorization scheme is as numerically stable as GEPP in practice, but it is more resistant to pathological cases and easily solves the Wilkinson matrix and the Foster matrix. The LU_PRRP factorization does only $O(n^2b)$ additional floating point operations compared to GEPP.
+We also present CALU_PRRP, a communication avoiding version of LU_PRRP that minimizes communication. CALU_PRRP is based on tournament pivoting, with the selection of the pivots at each step of the tournament being performed via strong rank revealing QR factorization. CALU_PRRP is more stable than CALU, the communication avoiding version of GEPP, with a theoretical upper bound of the growth factor of $(1 + \tau b)^{\frac nb(H+1)-1}$ , where $b$ is the size of the panel used during the factorization, $\tau$ is a parameter of the strong rank revealing QR factorization, $n$ is the number of columns of the matrix, and $H$ is the height of the reduction tree used during tournament pivoting. The upper bound of the growth factor of CALU is $2^{n(H+1)−1}$. CALU_PRRP is also more stable in practice and is resistant to pathological cases on which GEPP and CALU fail.
+BibTeX citation:
+@techreport{Khabou:EECS-2012-15,
+Author= {Khabou, Amal and Demmel, James and Grigori, Laura and Gu, Ming},
+Title= {LU Factorization with Panel Rank Revealing Pivoting and Its Communication Avoiding Version},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-15.html},
+Number= {UCB/EECS-2012-15},
+Abstract= {We present the LU decomposition with panel rank revealing pivoting (LU_PRRP), an LU factorization algorithm based on strong rank revealing QR panel factorization. LU_PRRP is
+more stable than Gaussian elimination with partial pivoting (GEPP), with a theoretical upper bound of the growth factor of $(1 + \tau b)^{n/b}$ , where b is the size of the panel used during the block factorization, $\tau$ is a parameter of the strong rank revealing QR factorization, and $n$ is the number of columns of the matrix. For example, if the size of the panel is $b = 64$, and $\tau = 2$, then $(1+2b)^{n/b} = (1.079)^n \ll 2^{n−1}$, where $2^{n−1}$ is the upper bound of the growth factor of GEPP. Our extensive numerical experiments show that the new factorization scheme is as numerically stable as GEPP in practice, but it is more resistant to pathological cases and easily solves the Wilkinson matrix and the Foster matrix. The LU_PRRP factorization does only $O(n^2b)$ additional floating point operations compared to GEPP.
+We also present CALU_PRRP, a communication avoiding version of LU_PRRP that minimizes communication. CALU_PRRP is based on tournament pivoting, with the selection of the pivots at each step of the tournament being performed via strong rank revealing QR factorization. CALU_PRRP is more stable than CALU, the communication avoiding version of GEPP, with a theoretical upper bound of the growth factor of $(1 + \tau b)^{\frac nb(H+1)-1}$ , where $b$ is the size of the panel used during the factorization, $\tau$ is a parameter of the strong rank revealing QR factorization, $n$ is the number of columns of the matrix, and $H$ is the height of the reduction tree used during tournament pivoting. The upper bound of the growth factor of CALU is $2^{n(H+1)−1}$. CALU_PRRP is also more stable in practice and is resistant to pathological cases on which GEPP and CALU fail.},
+}
+EndNote citation:
+%0 Report
+%A Khabou, Amal
+%A Demmel, James
+%A Grigori, Laura
+%A Gu, Ming
+%T LU Factorization with Panel Rank Revealing Pivoting and Its Communication Avoiding Version
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 24
+%@ UCB/EECS-2012-15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-15.html
+%F Khabou:EECS-2012-15

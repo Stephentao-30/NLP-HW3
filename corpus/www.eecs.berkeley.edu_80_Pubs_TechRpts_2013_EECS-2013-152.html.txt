@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-152.html
+A Warping Framework for Wide-Angle Imaging and Perspective Manipulation
+Robert Carroll
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-152
+August 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-152.pdf
+Nearly all photographs are created with lenses that approximate an ideal pinhole camera--that is, a perspective projection. This projection has proven useful not only for creating realistic depictions, but also for its expressive flexibility. Beginning in the Renaissance, the notion of perspective gave artists a systematic way to represent three-dimensional space on a two-dimensional canvas. However, unlike photographers--who have traditionally been tied to the optical designs of their cameras--other artists have been able modify the perspective projection relatively easily. They can locally adapt the projection in places where it makes objects look distorted, and they can more easily control the projection via two-dimensional image space features.
+In this thesis we describe two projects based on image warping that give photographers some of the same control over spatial layout that painters have always had. The first is a technique to minimize distortion in a wide-angle image. Any projection of a 3D scene onto a plane unavoidably results in distortion; current methods either bend straight lines in the scene or locally distort the shapes of scene objects. Here, we present a method that minimizes this distortion by adapting the projection to content in the scene, such as salient scene regions and lines, in order to preserve their shapes. Our optimization technique computes a spatially-varying projection that respects user-specified constraints while minimizing a set of energy terms that measure wide-angle image distortion. We demonstrate the effectiveness of our approach by showing results on a variety of wide-angle photographs, as well as comparisons to standard projections.
+Inspired by the way painters sketch vanishing points and lines to guide the construction of perspective images, the second project is a tool that gives users the ability to manipulate perspective in photographs using similar controls. This approach computes a 2D warp guided by constraints based on projective geometry. A user annotates an image by marking a number of image space constraints, including planar regions of the scene, straight lines, and associated vanishing points. The user can then use these constraints as handles to control the warp. Our system optimizes the warp such that straight lines remain straight, planar regions transform according to a homography, and the entire mapping is as shape-preserving as possible. We demonstrate how this approach can be used to produce a variety of effects, such as changing the perspective composition of a scene, exploring artistic perspectives not realizable with a camera, and matching perspectives of objects from different images so that they appear consistent for compositing.
+While the results of these techniques are not true perspective projections of a scene, they resemble perspective images and better satisfy a photographer's artistic vision.
+Advisors:  Maneesh Agrawala
+BibTeX citation:
+@phdthesis{Carroll:EECS-2013-152,
+Author= {Carroll, Robert},
+Title= {A Warping Framework for Wide-Angle Imaging and Perspective Manipulation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-152.html},
+Number= {UCB/EECS-2013-152},
+Abstract= {Nearly all photographs are created with lenses that approximate an ideal pinhole camera--that is, a perspective projection. This projection has proven useful not only for creating realistic depictions, but also for its expressive flexibility. Beginning in the Renaissance, the notion of perspective gave artists a systematic way to represent three-dimensional space on a two-dimensional canvas. However, unlike photographers--who have traditionally been tied to the optical designs of their cameras--other artists have been able modify the perspective projection relatively easily. They can locally adapt the projection in places where it makes objects look distorted, and they can more easily control the projection via two-dimensional image space features.
+In this thesis we describe two projects based on image warping that give photographers some of the same control over spatial layout that painters have always had. The first is a technique to minimize distortion in a wide-angle image. Any projection of a 3D scene onto a plane unavoidably results in distortion; current methods either bend straight lines in the scene or locally distort the shapes of scene objects. Here, we present a method that minimizes this distortion by adapting the projection to content in the scene, such as salient scene regions and lines, in order to preserve their shapes. Our optimization technique computes a spatially-varying projection that respects user-specified constraints while minimizing a set of energy terms that measure wide-angle image distortion. We demonstrate the effectiveness of our approach by showing results on a variety of wide-angle photographs, as well as comparisons to standard projections.
+Inspired by the way painters sketch vanishing points and lines to guide the construction of perspective images, the second project is a tool that gives users the ability to manipulate perspective in photographs using similar controls. This approach computes a 2D warp guided by constraints based on projective geometry. A user annotates an image by marking a number of image space constraints, including planar regions of the scene, straight lines, and associated vanishing points. The user can then use these constraints as handles to control the warp. Our system optimizes the warp such that straight lines remain straight, planar regions transform according to a homography, and the entire mapping is as shape-preserving as possible. We demonstrate how this approach can be used to produce a variety of effects, such as changing the perspective composition of a scene, exploring artistic perspectives not realizable with a camera, and matching perspectives of objects from different images so that they appear consistent for compositing.
+While the results of these techniques are not true perspective projections of a scene, they resemble perspective images and better satisfy a photographer's artistic vision.},
+}
+EndNote citation:
+%0 Thesis
+%A Carroll, Robert
+%T A Warping Framework for Wide-Angle Imaging and Perspective Manipulation
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 16
+%@ UCB/EECS-2013-152
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-152.html
+%F Carroll:EECS-2013-152

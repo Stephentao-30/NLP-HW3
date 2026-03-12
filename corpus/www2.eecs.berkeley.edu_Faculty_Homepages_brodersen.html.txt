@@ -1,0 +1,61 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/brodersen.html
+Robert W. Brodersen: Faculty Home Page
+Larger Photo
+Robert W. Brodersen
+Professor Emeritus
+Biography
+Robert W. Brodersen received a B.S. in both Electrical Engineering and Mathematics from California State Polytechnic University, Pomona, in 1966, and his M. S. and Ph.D. degrees in Electrical Engineering from MIT in 1968 and 1972, respectively. After spending three years with Texas Instruments in Dallas, he joined the faculty of the EECS Department at UC Berkeley in 1976; where he pursued research in the areas of RF and digital wireless communications design, signal processing applications, and design methodologies. In 1994, he was the first holder of the John R. Whinnery Chair in Electrical Engineering and Computer Sciences. In 1998, he was instrumental in founding the Berkeley Wireless Research Center (BWRC), a consortium involving university researchers, industrial partners, and governmental agencies that is involved in all aspects of the design of highly integrated CMOS wireless systems. He retired in 2006 as Professor Emeritus but remained active at BWRC, where he was Co-Scientific Director, and at the Donald O. Pederson Center for Electronics Systems Design. His career included significant contributions to the areas of low power design and wireless communications, including system-level, real-time prototyping, ultra-wideband radio systems, multiple-carrier multiple-antenna algorithms, microwave CMOS radio design, and the CAD tools necessary to support these activities. He authored or co-authored over 200 journal articles and conference papers in these areas, published 11 books, supervised over 50 dissertations, and held three patents. He was a leading contributor (with J. Rabaey, R. Katz, E. Brewer, and P. Wright) to the InfoPad Project (1992-1997), which created the first wireless web terminal, even before the Web came into being. He was also a principal developer (with J. Wawrzynek and J. Rabaey) of the BEE2 (Berkeley Emulation Engine 2), a field-programmable gate array-based platform used for prototyping and testing advanced wireless systems. It is currently being used by the RAMP Project to emulate large-scale multicore systems, and is also in use for high-performance radio telescope projects. Professor Brodersen received many awards during the course of his career. He was co-recipient, with P. Gray and D. Hodges, of the 1983 IEEE Morris N. Liebmann Memorial Award for "pioneering contributions and leadership in research on switched-capacitor circuits for analog-digital conversion and filtering." He received two major IEEE Technical Achievement Awards, the first in 1987 from the Circuits and Systems Society in recognition of the originality and continuity of his technical contributions, and the second in 1990 from the Signal Processing Society  in recognition of his impact on the field.  In 1997, he was the recipient of the IEEE Solid-State Circuits Society Award for "contributions to the design of integrated circuits for signal processing systems," and in 1998, received the ACM SIGMOBILE Computing Award for his work on the InfoPad.  In 2000, he was a recipient of an IEEE Millennium Medal, as well as the Circuits and Systems Society's Golden Jubilee Award. In 2003, he was honored as one of the top ten contributors over the last 50 years to the IEEE International Solid-State Circuits Conference.  Prof. Brodersen was a Fellow of the IEEE and a Member of the National Academy of Engineering. Prof. Brodersen passed away in 2024.
+Education
+1972, Ph.D., Electrical Engineering, Massachusetts Institute of Technology
+1968, M.S., Electrical Engineering, Massachusetts Institute of Technology
+1966, B.S., Electrical Engineering and Mathematics, California State Polytechnic University, Pomona
+Research Areas
+Design, Modeling and Analysis (DMA)
+Integrated Circuits (INC)
+Signal Processing (SP)
+Research Centers
+Berkeley Wireless Research Center (BWRC)
+D. Markovic, B. Nikolic, and R. W. Brodersen, " Power and area minimization for multidimensional signal processing ,"  IEEE J. Solid-State Circuits , vol. 42, no. 4, pp. 922-934, April 2007.
+H. K. So and R. W. Brodersen, " Improving usability of FPGA-based reconfigurable computers through operating system support ," in  Proc. 2006 Intl. Conf. on Field Programmable Logic and Applications (FPL '06) , Piscataway, NJ: IEEE Press, 2006, pp. 1-6.
+S. M. Mishra, A. Sahai, and R. W. Brodersen, " Cooperative sensing among cognitive radios ," in  Proc. IEEE 2006 Intl. Conf. on Communications (ICC '06) , Vol. 4, Piscataway, NJ: IEEE Press, 2006, pp. 1658-1663.
+A. Niknejad, C. Doan, S. Emami Neyestanak, M. V. Dunga, X. Xi, J. He, R. W. Brodersen, and C. Hu, "Next generation CMOS compact mofels for RF and microwave applications (Invited)," in  RFIC Digest of Papers , 2005, pp. 141-144.
+S. Wang, A. Niknejad, and R. W. Brodersen, "A sub-mW 960-MHz ultra-wideband CMOS LNA," in  RFIC Digest of Papers , 2005, pp. 35-38.
+S. Emami, C. H. Doan, A. Niknejad, and R. W. Brodersen, " A 60-GHz down-converting CMOS single-gate mixer ," in  RFIC Digest of Papers , A. Jerng, Ed., Piscataway, NJ: IEEE, 2005, pp. 163-166.
+C. Chang, J. Wawrzynek, and R. W. Brodersen, " BEE2: A high-end reconfigurable computing system ,"  IEEE Design and Test of Computers , vol. 22, no. 2, pp. 114-125, March 2005.
+C. H. Doan, S. Emani, A. Niknejad, and R. W. Brodersen, " Millimeter-wave CMOS design ,"  IEEE J. Solid-State Circuits , vol. 40, no. 1, pp. 144-155, Jan. 2005.
+S. Wang, A. Niknejad, and R. W. Brodersen, "Modeling omnidirectional small antennas for UWB applications," in  Antennas and Propagation Society Symposium , 2004, pp. 1295-1298.
+A. Niknejad, C. Doan, S. Emami Neyestanak, D. A. Sobel, and R. W. Brodersen, "60 GHz CMOS radio for Gb/s wireless LAN," in  RFIC Digest of Papers , 2004, pp. 2004.
+C. Doan, S. Emami Neyestanak, A. Niknejad, and R. W. Brodersen, "Design of CMOS for 60GHz applications," in  ISSCC Digest of Technical Papers , 2004, pp. 440-538.
+C. Doan, S. Emami Neyestanak, A. Niknejad, and R. W. Brodersen, "Millimeter-wave CMOS device modeling and simulation," in  Proceedings of ISCAS , 2004, pp. V524-V527.
+T. D. Burd and R. W. Brodersen,  Energy Efficient Microprocessor Design , Boston, MA: Kluwer Academic Publishers, 2002.
+T. Burd, T. Pering, A. Stratakos, and R. W. Brodersen, " Lewis Winner Award: A dynamic voltage scaled microprocessor system ," in  2000 IEEE Intl. Solid-State Circuits Conf. (ISSCC 2000). Digest of Technical Papers , Vol. 43, Piscataway, NJ: IEEE Press, 2001, pp. 294-295.
+A. P. Chandrakasan and R. W. Brodersen, Eds.,  Low-Power CMOS Design , New York, NY: Wiley-IEEE Press, 1998.
+S. Sheng and R. W. Brodersen,  Low-Power CMOS Wireless Communications: A Wideband CDMA System Design , Boston, MA: Kluwer Academic Publishers, 1998.
+A. P. Chandrakasan and R. W. Brodersen,  Low Power Digital CMOS Design , Boston, MA: Kluwer Academic Publishers, 1995.
+S. Sheng, A. Chandrakasan, and R. W. Brodersen, " A portable multimedia terminal (Best Paper Award) ,"  IEEE Communications Magazine , vol. 30, no. 12, pp. 64-75, Dec. 1992.
+A. P. Chandrakasan, M. Potkonjak, J. M. Rabaey, and R. W. Brodersen, " HYPER-LP: A system for power minimization using architectural transformations ," in  IEEE/ACM Intl. Conf. on Computer-Aided Design (ICCAD '92). Digest of Technical Papers , Los Alamitos, CA: IEEE Computer Society Press, 1992, pp. 300-303.
+R. W. Brodersen, Ed.,  Anatomy of a Silicon Compiler , The Kluwer International Series in Engineering and Computer Science: VLSI, Computer Architecture, and Digital Signal Processing, Vol. 181, Boston, MA: Kluwer Academic Publishers, 1992.
+IEEE Edison Medal ,
+2016
+Berkeley Citation ,
+2015
+IEEE CASS 2000 Millennium Medal ,
+2000
+IEEE CASS Golden Jubilee Medal ,
+2000
+ACM SIGMOBILE Outstanding Contribution Award ,
+1998
+IEEE Donald O. Pederson Award in Solid-State Circuits ,
+1997
+SPS Technical Achievement Award ,
+1991
+National Academy of Engineering (NAE) Member ,
+1988
+IEEE CASS Charles A. Desoer Technical Achievement Award ,
+1987
+IEEE Morris N. Liebmann Memorial Award ,
+1983
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1982
+IEEE W. R. G. Baker Prize Paper Award ,
+1980

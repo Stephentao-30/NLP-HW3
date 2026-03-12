@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28965.html
+Polynomial-Time Aggregation of Integer Programming Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Polynomial-Time Aggregation of Integer Programming Problems
+Polynomial-Time Aggregation of Integer Programming Problems
+R. Kannan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/2
+January 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-2.pdf
+BibTeX citation:
+@techreport{Kannan:M80/2,
+Author = {Kannan, R.},
+Title = {Polynomial-Time Aggregation of Integer Programming Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28965.html},
+Number = {UCB/ERL M80/2}
+}
+EndNote citation:
+%0 Report
+%A Kannan, R.
+%T Polynomial-Time Aggregation of Integer Programming Problems
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28965.html
+%F Kannan:M80/2

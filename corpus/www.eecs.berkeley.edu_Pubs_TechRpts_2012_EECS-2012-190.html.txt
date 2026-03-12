@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-190.html
+Decision Feedback Equalizer Design for 60GHz Mobile Transceivers
+Chintan Thakkar
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-190
+August 20,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-190.pdf
+This report presents a mixed-signal approach to the design of a multi-Gb/s 60GHz transceiver baseband. Inspired by high-speed chip-to-chip serial links using analog/mixed-signal processing and simple modulation schemes like QPSK, this work offers a compelling lower power alternative to multi-bit OFDM-based wireless baseband solutions that tend to dissipate multiple Watts of power at GS/s rates. The techniques discussed in this work are an integral part of the effort to ease the power bottleneck for incorporating 60GHz transceivers into mobile hand-held devices.
+A decision feedback equalizer (DFE), which is one of the key constituent blocks of the baseband, is presented as a representative design using mixed-signal processing. A design methodology was first developed to achieve the power-optimal DFE design for a given data-rate and expected interference profile. Using this design framework, we also derived the fundamental limits on a conventional current-summing DFE structure due to self-loading. The constraints due to self-loading are found to significantly limit the time-span of post-cursor ISI that can be canceled by such a
+structure, making the topology unsuitable for a 60GHz channel. A cascode current-summing structure then was proposed to relax these self-loading constraints. By making key observations about the channel and summing the ISI cancellation currents through a cascode transistor, this proposed structure can equalize a significantly longer ISI profile that is typical of a 60GHz channel response.
+An important conclusion of this work is that at GS/s rates, it is much more efficient to use analog processing techniques with moderate resolution (5-6 bits) and simple modulation schemes, as compared to multi-bit digital processing and modulation schemes with high complexity. This
+conclusion is validated by a prototype cascode current-summing DFE in 65nm CMOS with 20 complex post-cursor ISI taps that was shown to operate up to data-rates of 10Gb/s for BER less than 1E-12 while consuming only 14mW of power. The energy efficiency of this prototype compares very favorably with OFDM-based solutions which consume 1W of power at lower data-rates.
+Advisors:  Elad Alon
+BibTeX citation:
+@mastersthesis{Thakkar:EECS-2012-190,
+Author= {Thakkar, Chintan},
+Title= {Decision Feedback Equalizer Design for 60GHz Mobile Transceivers},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-190.html},
+Number= {UCB/EECS-2012-190},
+Abstract= {This report presents a mixed-signal approach to the design of a multi-Gb/s 60GHz transceiver baseband. Inspired by high-speed chip-to-chip serial links using analog/mixed-signal processing and simple modulation schemes like QPSK, this work offers a compelling lower power alternative to multi-bit OFDM-based wireless baseband solutions that tend to dissipate multiple Watts of power at GS/s rates. The techniques discussed in this work are an integral part of the effort to ease the power bottleneck for incorporating 60GHz transceivers into mobile hand-held devices.
+A decision feedback equalizer (DFE), which is one of the key constituent blocks of the baseband, is presented as a representative design using mixed-signal processing. A design methodology was first developed to achieve the power-optimal DFE design for a given data-rate and expected interference profile. Using this design framework, we also derived the fundamental limits on a conventional current-summing DFE structure due to self-loading. The constraints due to self-loading are found to significantly limit the time-span of post-cursor ISI that can be canceled by such a
+structure, making the topology unsuitable for a 60GHz channel. A cascode current-summing structure then was proposed to relax these self-loading constraints. By making key observations about the channel and summing the ISI cancellation currents through a cascode transistor, this proposed structure can equalize a significantly longer ISI profile that is typical of a 60GHz channel response.
+An important conclusion of this work is that at GS/s rates, it is much more efficient to use analog processing techniques with moderate resolution (5-6 bits) and simple modulation schemes, as compared to multi-bit digital processing and modulation schemes with high complexity. This
+conclusion is validated by a prototype cascode current-summing DFE in 65nm CMOS with 20 complex post-cursor ISI taps that was shown to operate up to data-rates of 10Gb/s for BER less than 1E-12 while consuming only 14mW of power. The energy efficiency of this prototype compares very favorably with OFDM-based solutions which consume 1W of power at lower data-rates.},
+}
+EndNote citation:
+%0 Thesis
+%A Thakkar, Chintan
+%T Decision Feedback Equalizer Design for 60GHz Mobile Transceivers
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 20
+%@ UCB/EECS-2012-190
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-190.html
+%F Thakkar:EECS-2012-190

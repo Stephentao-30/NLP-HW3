@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28618.html
+A Nonlinear Discrete System Equivalence of Integral Pulse Frequency Modulation Systems
+E.I. Jury and J. Blanchard
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M193
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-193.pdf
+BibTeX citation:
+@techreport{Jury:M193,
+Author= {Jury, E.I. and Blanchard, J.},
+Title= {A Nonlinear Discrete System Equivalence of Integral Pulse Frequency Modulation Systems},
+Year= {1966},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28618.html},
+Number= {UCB/ERL M193},
+}
+EndNote citation:
+%0 Report
+%A Jury, E.I.
+%A Blanchard, J.
+%T A Nonlinear Discrete System Equivalence of Integral Pulse Frequency Modulation Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M193
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28618.html
+%F Jury:M193

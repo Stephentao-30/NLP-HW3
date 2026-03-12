@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/paper-vasily-volkov-and-james-demmel-wins-sc19-test-time-award
+Paper by Vasily Volkov and James Demmel wins SC19 Test of Time Award - EECS at Berkeley
+A paper by alumnus Vasily Volkov (Ph.D. ’16), now at Nvidia, and his advisor Prof. James Demmel has won the 2019 ACM/IEEE Supercomputing Conference (SC19) Test of Time Award.   The paper, “Benchmarking GPUs to Tune Dense Linear Algebra,” which won the SC08 Best Student Paper Award when it was published, describes a first-of-its-kind vision of GPU architectures as a vector machine. The authors defined techniques to achieve greater efficiency and performance, detailing an optimization pattern that is found today in many high-performance GPU codes.  The paper has been cited almost a thousand times and has had a tremendous impact on the field.  The award, which recognizes an outstanding paper that has deeply influenced the HPC discipline, is one of the most prestigious in the SC conference series and will be presented at the  2019 International Conference for High Performance Computing, Networking, Storage, and Analysis  in Colorado in November.
+Categories
+Alumni
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

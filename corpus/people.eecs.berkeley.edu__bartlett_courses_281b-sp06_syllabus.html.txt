@@ -1,0 +1,38 @@
+URL: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp06/syllabus.html
+CS 281B / Stat 241B Spring 2006 Syllabus
+CS 281B / Stat 241B, Spring 2006:
+Statistical Learning Theory
+Syllabus
+Course description
+This course will provide an introduction to the analysis
+of advanced statistical and computational methods for the
+modeling of complex, multivariate data. It will concentrate
+on the development of theoretical concepts to support
+such methods, and in particular the analysis of the
+statistical properties of prediction methods.
+Prerequisites: CS281A/Stat241A, or advanced training in
+probability or statistics, at the level of Stat 205A or
+Stat 210A.
+Outline:
+Prediction problems
+Kernel methods
+Reproducing kernel Hilbert spaces
+Representer theorem
+Cost functions and optimization
+Support vector machines
+Kernels
+Ensemble methods
+Bagging
+Boosting
+Cost functions
+Optimization
+Classification versus regression
+Model selection, regularization
+Error estimates
+Concentration of measure
+Empirical processes
+Uniform convergence
+Complexity measures
+Empirical minimization
+Implications for linear methods
+Back to course home page

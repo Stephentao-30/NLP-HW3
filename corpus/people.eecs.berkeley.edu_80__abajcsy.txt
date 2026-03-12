@@ -1,0 +1,85 @@
+URL: http://people.eecs.berkeley.edu:80/~abajcsy
+Andrea Bajcsy
+Andrea Bajcsy
+Intent Lab
+Publications
+Teaching
+Contact
+I am an Assistant Professor in the  Robotics Institute  and  School of Computer Science  at  Carnegie Mellon University .
+I lead the  Interactive and Trustworthy Robotics Lab (Intent Lab) . My research interests lie in the intersection of robotics, machine learning, and AI safety.
+I obtained my Ph.D. in Electrical Engineering and Computer Sciences (EECS) from  University of California Berkeley  in 2022. I received a B.S. in Computer Science from the  University of Maryland College Park  in 2016. Before joining CMU in Sept. 2023, I was a postdoctoral scholar at UC Berkeley and spent spring 2021 working at NVIDIA in the  Autonomous Vehicle Research Group .
+I am recruiting PhD students for Fall 2026! Please apply  here .
+Prospective students:  please see  here .
+email    |
+cv    |
+google scholar    |
+github   |
+bio
+Unsure how to pronounce my last name?  Bajcsy  sounds like  BYE-chee .
+News
+[March 2026]  New  arXiv paper  on uncertainty-aware policy steering.
+[Jan 2026]  Three papers accepted to ICRA! Check out the  publications  on the lab website.
+[Jan 2026]  One paper on  latent CBFs  accepted to L4DC as an oral talk!
+[Dec 2025]  One paper on  control-theoretic LLM guardrails  accepted to the International Association for Safe and Ethical AI!
+[Nov 2025]  New arXiv paper on  latent-space control barrier functions  for visuomotor policy safety.
+[Nov 2025]  Honored to receive the  Amazon Research Award !
+[Oct 2025]  I gave a talk at  IVADO  Workshop on Assessing & Improving Agent Capabilities & Safety. Titled  From Refusal to Recovery: Control-Theoretic Approach to Agent Guardrails  and you can check it out on  YouTube !
+[Oct 2025]   Four new arXiv papers! We studied how  latent-space safe control can go wrong under partially observable constraints  but  multimodal data  is a promising remedy, how to  adapt latent safety filters at runtime  with images of constraints, how we can automatically  compute agentic AI guardrails  by performing control-theoretic optimization directly on LLM agent models, and how we can  steer VLAs at runtime  by verifying that their intermediate reasoning steps actually align with the outcomes of their actions.
+[Sept 2025]   I'm honored to receive the  DARPA Young Faculty Award (YFA) !
+[Aug 2025]   Two papers accepted to CoRL! One on  controlling away from known and out-of-distribution failures  and one on  out-of-distribution adaptation at runtime via "analogy" .
+[May 2025]   Check out the Robotics Institute's  article  about my CAREER award and our initial results.
+[May 2025]   New paper on arXiv on  uncertainty-aware latent safety filters  which proactively steer robots away from both known and out-of-distribution failures.
+[May 2025]   We ran a successful 2nd edition of the  Northeast Systems and Control Workshop !
+[April 2025]   Honored to receive the  NSF CAREER Award !
+[April 2025]   Two papers accepted at RSS! Check them out  here  and  here .
+[March 2025]   Check out my  talk  titled "Towards Open World Robot Safety" at the RI Seminar!
+[Feb 2025]   Two new arXiv papers:  latent-space reachability  for generalizing safety beyond collision-avoidance and  VLM-in-the-loop policy steering !
+[Jan 2025]   Two accepted papers ( updating safety via language  and  safely influencing ) at ICRA 2025!
+[Jan 2025]   One  accepted paper  on conformalized IL at ICLR 2025!
+[Jan 2025]   We are running two workshops at ICRA! One on  Safely Leveraging VLMs in Robotics  and the other on  Public Trust in Autonomy
+[Oct 2024]   New  arXiv paper  on conformal prediction + interactive imitation learning.
+[Sept 2024]    Three new arXiv papers! Check out our work on  robots that suggest safe alternatives ,  updating robot safety representations online from natural language , and  robots that learn to safely influence .
+[Sept 2024]    New  paper  accepted to CoRL on how not all prediction errors are made equal from the perspective of closed-loop robot performance.
+[Aug 2024]    New  paper  at ECCV on adapting human trajectory predictors to scene-specific behaviors.
+[June 2024]    New  arXiv paper  on human--AI safety through the lens of generative AI and control systems.
+[Apr 2024]    New  paper  at RSS on using conformal prediction to calibrated shared controllers.
+[Apr 2024]    I'm thrilled to receive the  Google Research Scholar Award !
+[Mar 2024]    New  arXiv paper  on a general calibrated regret metric for detecting and mitigating human-robot interaction failures; check out the applicability to anomaly detection in interactive generative planners too!
+[Feb 2024]    New  arXiv paper  on intent demonstration in general-sum dynamic games.
+[Jan 2024]    Our work on  visual representation alignment for robot learning  was accepted to ICLR 2024! Check out the new results in the arXiv version.
+[Jan 2024]    Our work on  contingency games  was accepted to RA-L 2024!
+[Jan 2024]    Our work on  stabilized and robust online learning from humans  was accepted to RA-L 2024!
+[Dec 2023]    New  pre-print  on Adaptive Human Trajectory Prediction via Latent Corridors.
+[Oct 2023]    Submitted a  paper  to ICLR! We propose  Representation-Aligned Preference-based Learning (RAPL) , a tractable video-only method for solving the visual representation alignment problem and learning visual robot rewards via optimal transport.
+[Sep 2023]    Submitted a  paper  to ICRA! We present Conformal Decision Theory, a new theoretical and algorithmic framework for online calibration of decision risk.
+[Aug 2023]    ArXiv  paper  on learning vision-based pursuit-evasion robot policies. Check out our  project website  for videos of human-robot and robot-robot interaction ``in the wild''.
+[Aug 2023]    1 paper accepted to CoRL!  This work  synthesizes safe control policies that explicitly account a robot's ability to learn and adapt at runtime.
+[Aug 2023]  Submitted a  paper  to RA-L on stabilized and robust online learning from humans.
+[Aug 2023]  Extended results on contingency games now on  arXiv .
+[Aug 2023]  I gave a talk at   Bosch  research.
+[Apr 2023]  New  paper  on  contingency games : a model for strategic interactions which allows a robot to consider the full distribution of other agents’ intents while anticipating intent certainty in the near future.
+[Feb 2023]  I gave a talk at the  Illinois Robotics Seminar  at UIUC.
+[Feb 2023]  I gave a talk at the  Wisconsin Robotics Seminar Series  at the University of Wisconsin-Madison.
+[Jan 2023]  Our  paper  on long-term robot influence on humans got accepted to ICRA 2023!
+[Jan 2023]  Our paper on  modeling & influencing the dynamics of human learning  was accepted to HRI 2023!
+[Dec 2022]  I am on the organizing committee of  RSS 2023 .
+[Dec 2022]  I gave a guest lecture at Princeton's  Safety-Critical Robotic Systems  class.
+[Nov 2022]  I am serving as an Area Chair for  L4DC .
+[Oct 2022]  I gave an invited talk at  Nuro  on practical safety for human-robot interaction.
+[Sept 2022]   Paper  submitted to ICRA on robots that influence humans over long-term interaction.
+[Sept 2022]  I'm serving as Associate Editor for ICRA 2023.
+[Aug 2022]  I completed my PhD and started my postdoc! My thesis entitled  "Bridging Safety and Learning in Human-Robot Interaction"  can be found  here .
+[July 2022]  I gave an invited talk at the ICML Workshop on  Safe Learning for Autonomous Driving (SL4AD) .
+[June 2022]  I gave an invited talk at the RSS Workshop on  Close Proximity Human-Robot Collaboration .
+[May 2022]  I accepted an offer to join the  Robotics Institute  in the  School of Computer Science  at  Carnegie Mellon University (CMU)  starting Fall 2023!
+[Mar 2022]  Our paper  Safety Assurances for Human-Robot Interaction via Confidence-aware Game-theoretic Human Models  was accepted to ICRA 2022!
+[Nov 2021]  I gave a talk at the University of Washington's  Robotics Colloqium .
+[Oct 2021]   Paper  published in IJRR! In this work we formalize how physical human interaction with a robot can be treated as a form of communication, enabling robots to learn objectives from human corrections.
+[Oct 2021]  New  paper  on arXiv! In this work we propose that robots use confidence-aware game-theoretic models of human behavior when assessing the safety of a human-robot interaction.
+[Aug 2021]  I am grateful to have been selected for the  Rising Stars Academic Career Workshop in EECS .
+[Aug 2021]  New  paper  on arXiv! In this work we advocate for the use of Hamilton Jacobi (HJ) reachability as a unifying mathematical framework for comparing existing safety concepts used throughout industry and academia, and propose ways to expand its modeling premises in a data-driven fashion.
+[April 2021]  I'm excited to join NVIDIA for an internship in the Autonomous Driving Research group led by  Marco Pavone .
+[Mar 2021]  Our paper on  analyzing human models that adapt online  was accepted to ICRA 2021!
+[Feb 2021]  I gave a talk at University of Pennsylvania on analyzing human models that adapt online.
+[Dec 2020]  I gave a talk on safe robots which learn from (and about) humans at the  University of Chicago Laboratory School  for the middle and high-school robotics club.
+[Dec 2020]  I gave a  talk  at  ETH Zurich  on introspective human motion prediction for safe robot autonomy.

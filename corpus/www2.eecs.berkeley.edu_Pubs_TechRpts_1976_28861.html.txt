@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28861.html
+Sur Un Estimateur Non Parametrique De La Densite De Probabilite
+G. Banon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M606
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-606.pdf
+BibTeX citation:
+@techreport{Banon:M606,
+Author= {Banon, G.},
+Title= {Sur Un Estimateur Non Parametrique De La Densite De Probabilite},
+Year= {1976},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28861.html},
+Number= {UCB/ERL M606},
+}
+EndNote citation:
+%0 Report
+%A Banon, G.
+%T Sur Un Estimateur Non Parametrique De La Densite De Probabilite
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M606
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28861.html
+%F Banon:M606

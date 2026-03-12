@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28452.html
+Identification and Adaptive Control of Markov Chains | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Identification and Adaptive Control of Markov Chains
+Identification and Adaptive Control of Markov Chains
+Vivek Borkar and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/69
+October 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-69.pdf
+BibTeX citation:
+@techreport{Borkar:M79/69,
+Author = {Borkar, Vivek and Varaiya, Pravin},
+Title = {Identification and Adaptive Control of Markov Chains},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28452.html},
+Number = {UCB/ERL M79/69}
+}
+EndNote citation:
+%0 Report
+%A Borkar, Vivek
+%A Varaiya, Pravin
+%T Identification and Adaptive Control of Markov Chains
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28452.html
+%F Borkar:M79/69

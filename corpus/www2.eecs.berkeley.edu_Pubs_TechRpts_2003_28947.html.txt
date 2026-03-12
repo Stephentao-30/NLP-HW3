@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/28947.html
+Tomography as a Metrology Technique for Semiconductor Manufacturing
+Michiel Victor Paul Kruger
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M03/11
+, 2003
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/ERL-03-11.pdf
+BibTeX citation:
+@techreport{Kruger:M03/11,
+Author= {Kruger, Michiel Victor Paul},
+Title= {Tomography as a Metrology Technique for Semiconductor Manufacturing},
+Year= {2003},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/28947.html},
+Number= {UCB/ERL M03/11},
+}
+EndNote citation:
+%0 Report
+%A Kruger, Michiel Victor Paul
+%T Tomography as a Metrology Technique for Semiconductor Manufacturing
+%I EECS Department, University of California, Berkeley
+%D 2003
+%@ UCB/ERL M03/11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/28947.html
+%F Kruger:M03/11

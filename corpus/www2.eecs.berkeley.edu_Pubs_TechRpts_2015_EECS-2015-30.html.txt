@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-30.html
+Distributed Control and Synchronization of Diffusively Coupled Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Distributed Control and Synchronization of Diffusively Coupled Systems
+Distributed Control and Synchronization of Diffusively Coupled Systems
+Yusef Shafi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-30
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-30.pdf
+Diffusively coupled networks, in which different components of a network adjust their behavior according to the local sum of differences between their own and neighbors' states, are a ubiquitous class of spatially-distributed models appearing in engineered and biological systems, and produce surprisingly rich dynamics. In this dissertation, we develop analysis methods and distributed algorithms that exploit the local structure of the network as well as individual component dynamics in order to guarantee the desirable operation of the aggregate network system in the absence of centralized coordination.
+We begin by formulating network design problems to guarantee coordination of multi-agent systems by imposing constraints on the underlying structure of the diffusive coupling graph linking agents. The resulting constraint-derived linear matrix inequalities may then be iteratively solved using convex semidefinite programming, resulting in significant performance gains in several multi-agent systems problems. Our approach furthermore identifies critical nodes and edges in a network, and aids in developing strategies to enhance connectivity and robustness.
+Next considering the case where desired steady-state trajectories may be time-varying, we derive conditions to determine whether limit cycle oscillations synchronize in diffusively coupled systems. Conversely, we highlight cases of diffusion-driven instability, a phenomenon widely hypothesized as a mechanism behind pattern formation in biological systems, in which sufficiently large diffusive coupling may destabilize a spatially homogeneous periodic orbit. The analytical and numerical conditions we derive lend insight to designing distributed laws where the local behavior about a specific attractor is of interest.
+We then turn to the problem of developing distributed laws that guarantee spatially uniform behavior globally in diffusively coupled systems. We first study systems with spatially-dependent diffusive coupling, and subsequently examine the case where the network itself has dynamics and adapts according to the agents' states. We develop adaptive laws to guarantee synchronization in systems with spatially-dependent coupling, and apply these results to a number of problems of interest arising from multi-agent systems and cooperative control. We finally address the case where the dynamics of the agents may be subject to spatially-varying input disturbances, and derive distributed laws to guarantee synchronization in the presence of such heterogeneities.
+Advisor:  Murat Arcak
+BibTeX citation:
+@phdthesis{Shafi:EECS-2015-30,
+Author = {Shafi, Yusef},
+Title = {Distributed Control and Synchronization of Diffusively Coupled Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-30.html},
+Number = {UCB/EECS-2015-30},
+Abstract = {Diffusively coupled networks, in which different components of a network adjust their behavior according to the local sum of differences between their own and neighbors' states, are a ubiquitous class of spatially-distributed models appearing in engineered and biological systems, and produce surprisingly rich dynamics. In this dissertation, we develop analysis methods and distributed algorithms that exploit the local structure of the network as well as individual component dynamics in order to guarantee the desirable operation of the aggregate network system in the absence of centralized coordination.
+We begin by formulating network design problems to guarantee coordination of multi-agent systems by imposing constraints on the underlying structure of the diffusive coupling graph linking agents. The resulting constraint-derived linear matrix inequalities may then be iteratively solved using convex semidefinite programming, resulting in significant performance gains in several multi-agent systems problems. Our approach furthermore identifies critical nodes and edges in a network, and aids in developing strategies to enhance connectivity and robustness.
+Next considering the case where desired steady-state trajectories may be time-varying, we derive conditions to determine whether limit cycle oscillations synchronize in diffusively coupled systems. Conversely, we highlight cases of diffusion-driven instability, a phenomenon widely hypothesized as a mechanism behind pattern formation in biological systems, in which sufficiently large diffusive coupling may destabilize a spatially homogeneous periodic orbit. The analytical and numerical conditions we derive lend insight to designing distributed laws where the local behavior about a specific attractor is of interest.
+We then turn to the problem of developing distributed laws that guarantee spatially uniform behavior globally in diffusively coupled systems. We first study systems with spatially-dependent diffusive coupling, and subsequently examine the case where the network itself has dynamics and adapts according to the agents' states. We develop adaptive laws to guarantee synchronization in systems with spatially-dependent coupling, and apply these results to a number of problems of interest arising from multi-agent systems and cooperative control. We finally address the case where the dynamics of the agents may be subject to spatially-varying input disturbances, and derive distributed laws to guarantee synchronization in the presence of such heterogeneities.}
+}
+EndNote citation:
+%0 Thesis
+%A Shafi, Yusef
+%T Distributed Control and Synchronization of Diffusively Coupled Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-30.html
+%F Shafi:EECS-2015-30

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-223.html
+Effectiveness of Strain Solutions for Next-Generation MOSFETs
+Nuo Xu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-223
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-223.pdf
+The conventional planar bulk MOSFET is difficult to scale down to sub-20nm gate length, due to the worsening performance variability and short channel effects.  Thin body transistors, including Multiple-Gate (FinFET & Tri-Gate FET) and Fully Depleted SOI (FD-SOI) MOSFETs are anticipated to replace the current transistor architecture, and will be used in future CMOS technology nodes.  Strained Silicon technology is widely used today to boost planar bulk transistor performance.  Thus it's technically important to examine the strain-induced performance enhancement in these thin body transistors, for nanometer scale channel length.  A comprehensive study on impact of channel stress on ultra-thin-body FD-SOI MOSFETs is presented.  It's found that strain-induced mobility enhancement diminishes with Silicon body thickness scaling below 5nm for electrons, but not for holes.  Strain-induced carrier transport enhancement is maintained with gate-length scaling. By applying forward back biasing (FBB) through the ultra-thin Buried Oxide layer, both carrier mobilities and their responses to strain get enhanced.  For Multiple-gate FETs, the impact of performance enhancement through various types of stressors (including CESL, SiGe Source/Drain, Strained SOI and Metal Gate Last process) is studied, for different fin crystalline orientations and aspect ratios, to provide guidance for 3-D transistor design optimization.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Xu:EECS-2012-223,
+Author= {Xu, Nuo},
+Title= {Effectiveness of Strain Solutions for Next-Generation MOSFETs},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-223.html},
+Number= {UCB/EECS-2012-223},
+Abstract= {The conventional planar bulk MOSFET is difficult to scale down to sub-20nm gate length, due to the worsening performance variability and short channel effects.  Thin body transistors, including Multiple-Gate (FinFET & Tri-Gate FET) and Fully Depleted SOI (FD-SOI) MOSFETs are anticipated to replace the current transistor architecture, and will be used in future CMOS technology nodes.  Strained Silicon technology is widely used today to boost planar bulk transistor performance.  Thus it's technically important to examine the strain-induced performance enhancement in these thin body transistors, for nanometer scale channel length.  A comprehensive study on impact of channel stress on ultra-thin-body FD-SOI MOSFETs is presented.  It's found that strain-induced mobility enhancement diminishes with Silicon body thickness scaling below 5nm for electrons, but not for holes.  Strain-induced carrier transport enhancement is maintained with gate-length scaling. By applying forward back biasing (FBB) through the ultra-thin Buried Oxide layer, both carrier mobilities and their responses to strain get enhanced.  For Multiple-gate FETs, the impact of performance enhancement through various types of stressors (including CESL, SiGe Source/Drain, Strained SOI and Metal Gate Last process) is studied, for different fin crystalline orientations and aspect ratios, to provide guidance for 3-D transistor design optimization.},
+}
+EndNote citation:
+%0 Thesis
+%A Xu, Nuo
+%T Effectiveness of Strain Solutions for Next-Generation MOSFETs
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-223
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-223.html
+%F Xu:EECS-2012-223

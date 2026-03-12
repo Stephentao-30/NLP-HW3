@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-41.html
+Multivariate pattern analysis of anatomic, physiologic, and metabolic imaging data for improved management of patients with gliomas
+Alexandra Constantin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-41
+April 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-41.pdf
+The characterization of brain tumors involves the analysis of multiple heterogeneous data sets that include various types of medical images and spectroscopy, clinical and histopathology data, treatment history, and patient outcome. Of particular interest for such analyses is the utilization of recent advances in brain tumor imaging research, which have given rise to novel techniques for exploiting a number of different biological properties of normal and tumor tissue. The systematic analysis of these data could lead to better disease understanding, diagnosis, prognosis, and treatment.
+The main focus of this thesis was the development of computer-assisted support for glioma understanding, diagnosis, and prognosis in clinical environments. This was achieved by analyzing heterogeneous biomedical data using multivariate pattern recognition methods. The tools developed in this thesis were used to characterize biological changes predictive of malignant transformations and treatment effects in gliomas, and for the early detection of disease progression. They were crucial in finding links between in vivo and ex vivo data that could give insight into the biology of brain cancer and help determine the right course of treatment for individual patients. The methods that are described in this thesis can contribute to clinical practice by improving the selection of biopsy sites and the targeting of treatment. The models that were learned in this thesis produced results with high classification accuracy, interpretability by means of clinical knowledge, and capacity to generalize the performance to new samples. The technical aspects covered in this thesis included the feature selection and modeling of biomedical data, the inference and evaluation of predictive models, and the use of models for clinical applications.
+Advisors:  Ruzena Bajcsy
+BibTeX citation:
+@phdthesis{Constantin:EECS-2012-41,
+Author= {Constantin, Alexandra},
+Title= {Multivariate pattern analysis of anatomic, physiologic, and metabolic imaging data for improved management of patients with gliomas},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-41.html},
+Number= {UCB/EECS-2012-41},
+Abstract= {The characterization of brain tumors involves the analysis of multiple heterogeneous data sets that include various types of medical images and spectroscopy, clinical and histopathology data, treatment history, and patient outcome. Of particular interest for such analyses is the utilization of recent advances in brain tumor imaging research, which have given rise to novel techniques for exploiting a number of different biological properties of normal and tumor tissue. The systematic analysis of these data could lead to better disease understanding, diagnosis, prognosis, and treatment.
+The main focus of this thesis was the development of computer-assisted support for glioma understanding, diagnosis, and prognosis in clinical environments. This was achieved by analyzing heterogeneous biomedical data using multivariate pattern recognition methods. The tools developed in this thesis were used to characterize biological changes predictive of malignant transformations and treatment effects in gliomas, and for the early detection of disease progression. They were crucial in finding links between in vivo and ex vivo data that could give insight into the biology of brain cancer and help determine the right course of treatment for individual patients. The methods that are described in this thesis can contribute to clinical practice by improving the selection of biopsy sites and the targeting of treatment. The models that were learned in this thesis produced results with high classification accuracy, interpretability by means of clinical knowledge, and capacity to generalize the performance to new samples. The technical aspects covered in this thesis included the feature selection and modeling of biomedical data, the inference and evaluation of predictive models, and the use of models for clinical applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Constantin, Alexandra
+%T Multivariate pattern analysis of anatomic, physiologic, and metabolic imaging data for improved management of patients with gliomas
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 April 6
+%@ UCB/EECS-2012-41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-41.html
+%F Constantin:EECS-2012-41

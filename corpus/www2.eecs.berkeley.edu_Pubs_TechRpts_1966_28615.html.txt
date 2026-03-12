@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28615.html
+Constrained Minimization Under Vector-Valued Criteria in Finite Dimensional Spaces | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Constrained Minimization Under Vector-Valued Criteria in Finite Dimensional Spaces
+Constrained Minimization Under Vector-Valued Criteria in Finite Dimensional Spaces
+N.O. Da Cunha and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M188
+October 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-188.pdf
+BibTeX citation:
+@techreport{Da Cunha:M188,
+Author = {Da Cunha, N.O. and Polak, E.},
+Title = {Constrained Minimization Under Vector-Valued Criteria in Finite Dimensional Spaces},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28615.html},
+Number = {UCB/ERL M188}
+}
+EndNote citation:
+%0 Report
+%A Da Cunha, N.O.
+%A Polak, E.
+%T Constrained Minimization Under Vector-Valued Criteria in Finite Dimensional Spaces
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M188
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28615.html
+%F Da Cunha:M188

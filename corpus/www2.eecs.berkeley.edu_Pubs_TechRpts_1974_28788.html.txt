@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28788.html
+Computation of Functions of Triangular Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computation of Functions of Triangular Matrices
+Computation of Functions of Triangular Matrices
+B.N. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M481
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-481.pdf
+BibTeX citation:
+@techreport{Parlett:M481,
+Author = {Parlett, B.N.},
+Title = {Computation of Functions of Triangular Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28788.html},
+Number = {UCB/ERL M481}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.N.
+%T Computation of Functions of Triangular Matrices
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M481
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28788.html
+%F Parlett:M481

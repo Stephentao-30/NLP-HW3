@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-86.html
+Band-to-Band Tunnel Transistor Design and Modeling for Low Power Applications
+Kanghoon Jeon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-86
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-86.pdf
+As the physical dimensions of the MOSFET have been scaling, the supply voltage has not scaled accordingly and thus the power density has been continuously increasing. This is mainly due to the fact that transistor operation requires carriers to go over the source side potential barrier which limits the subthreshold swing of a MOSFET to 60mV/dec at room temperature and thus inhibits the scaling of the threshold voltage. Tunneling devices utilizing the band-to-band tunneling mechanism have been known to overcome this fundamental limit.
+In this thesis, the tunneling field-effect-transistor (TFET) is explored to replace conventional MOSFETs for low power applications. The band-to-band tunneling mechanism is looked into in order to develop a more accurate tunneling model that considers the change in effective mass during the transition between the conduction and valence band. Device simulator parameters are modified with this model and are used in designing the TFET. The silicon P-I-N structure TFET is studied through simulation and various experimental splits as a baseline for the TFET development. High tunneling currents are measured from a short channel device with a flash and spike anneal combination and a novel silicided source TFET using silicide induced dopant segregation is shown to achieve sub-60mV/dec subthreshold swing. Measurement and analysis methods of the transistor current and subthreshold swing to verify the TFET are discussed. Lower band gap Ge devices and Strained Si/Ge hetero-structure devices utilizing a lower effective bandgap are also explored to improve the performance of the TFET.
+Advisors:  Chenming Hu
+BibTeX citation:
+@phdthesis{Jeon:EECS-2012-86,
+Author= {Jeon, Kanghoon},
+Title= {Band-to-Band Tunnel Transistor Design and Modeling for Low Power Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-86.html},
+Number= {UCB/EECS-2012-86},
+Abstract= {  As the physical dimensions of the MOSFET have been scaling, the supply voltage has not scaled accordingly and thus the power density has been continuously increasing. This is mainly due to the fact that transistor operation requires carriers to go over the source side potential barrier which limits the subthreshold swing of a MOSFET to 60mV/dec at room temperature and thus inhibits the scaling of the threshold voltage. Tunneling devices utilizing the band-to-band tunneling mechanism have been known to overcome this fundamental limit.
+In this thesis, the tunneling field-effect-transistor (TFET) is explored to replace conventional MOSFETs for low power applications. The band-to-band tunneling mechanism is looked into in order to develop a more accurate tunneling model that considers the change in effective mass during the transition between the conduction and valence band. Device simulator parameters are modified with this model and are used in designing the TFET. The silicon P-I-N structure TFET is studied through simulation and various experimental splits as a baseline for the TFET development. High tunneling currents are measured from a short channel device with a flash and spike anneal combination and a novel silicided source TFET using silicide induced dopant segregation is shown to achieve sub-60mV/dec subthreshold swing. Measurement and analysis methods of the transistor current and subthreshold swing to verify the TFET are discussed. Lower band gap Ge devices and Strained Si/Ge hetero-structure devices utilizing a lower effective bandgap are also explored to improve the performance of the TFET.},
+}
+EndNote citation:
+%0 Thesis
+%A Jeon, Kanghoon
+%T Band-to-Band Tunnel Transistor Design and Modeling for Low Power Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-86
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-86.html
+%F Jeon:EECS-2012-86

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7182.html
+The Estimation of Modes and Its Application to Pattern Classification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Estimation of Modes and Its Application to Pattern Classification
+The Estimation of Modes and Its Application to Pattern Classification
+Michael W. Blasgen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M254
+October 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-254.pdf
+Advisor:  Eugene Wong
+BibTeX citation:
+@phdthesis{Blasgen:M254,
+Author = {Blasgen, Michael W.},
+Title = {The Estimation of Modes and Its Application to Pattern Classification},
+School = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7182.html},
+Number = {UCB/ERL M254}
+}
+EndNote citation:
+%0 Thesis
+%A Blasgen, Michael W.
+%T The Estimation of Modes and Its Application to Pattern Classification
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M254
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7182.html
+%F Blasgen:M254

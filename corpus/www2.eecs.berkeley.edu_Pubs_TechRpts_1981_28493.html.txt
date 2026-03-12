@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28493.html
+HOPF Bifurcation Via Volterra Series | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+HOPF Bifurcation Via Volterra Series
+HOPF Bifurcation Via Volterra Series
+Y.S. Tang, A.I. Mees and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/76
+July 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-76.pdf
+BibTeX citation:
+@techreport{Tang:M81/76,
+Author = {Tang, Y.S. and Mees, A.I. and Chua, L.O.},
+Title = {HOPF Bifurcation Via Volterra Series},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28493.html},
+Number = {UCB/ERL M81/76}
+}
+EndNote citation:
+%0 Report
+%A Tang, Y.S.
+%A Mees, A.I.
+%A Chua, L.O.
+%T HOPF Bifurcation Via Volterra Series
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28493.html
+%F Tang:M81/76

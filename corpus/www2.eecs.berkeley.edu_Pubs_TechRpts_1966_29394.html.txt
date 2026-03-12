@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29394.html
+Field Emission Sources for Scanning Electron Mircoscopy
+P.J. Le May
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M200
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-200.pdf
+BibTeX citation:
+@techreport{Le May:M200,
+Author= {Le May, P.J.},
+Title= {Field Emission Sources for Scanning Electron Mircoscopy},
+Year= {1966},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29394.html},
+Number= {UCB/ERL M200},
+}
+EndNote citation:
+%0 Report
+%A Le May, P.J.
+%T Field Emission Sources for Scanning Electron Mircoscopy
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M200
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29394.html
+%F Le May:M200

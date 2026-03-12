@@ -1,0 +1,36 @@
+URL: https://people.eecs.berkeley.edu/~aydin/software.html
+Aydın Buluç
+Aydın Buluç
+Github organization
+Some (but certainly not all) of the research software listed on this website and more can be found under the github organization of my research group:  https://github.com/PASSIONLab/
+Research Software
+The Combinatorial BLAS:    Distributed memory implementation of sparse linear algebra routines that
+can be used as building blocks
+for  large scale graph and data analysis.
+HipMCL    clusters protein similarity networks with 70 billion edges in a couple of hours. It is a highly-scalable distributed-memory implementation of the Markov Cluster algorithm.
+PASTIS  is a distributed-memory parallel many-to-many protein sequence aligner that uses sparse matrices.
+CAGNET
+is a family of parallel algorithms for training GNNs that can asymptotically reduce communication compared to previous parallel GNN training methods. CAGNET algorithms are based on 1D, 1.5D, 2D, and 3D sparse-dense matrix multiplication, and are implemented with torch.distributed on GPU-equipped clusters.
+merge-SpMM:  Sparse matrix multi-vector (aka tall-skinny dense matrix) products on the GPU, also used in  PyTorch Geometric
+BELLA  is a computationally-efficient and highly-accurate long-read to long-read aligner and overlapper for DNA sequences.
+LOGAN  does X-drop based pairwise alignment on NVIDIA GPUs.
+GraphBLAST  is a high-performance linear algebra-based graph framework on the GPU, which closely approximates the  GraphBLAS API .
+HipMer and MetaHipMer:  Extreme-scale de novo genome assembler for large complex (meta)genomes. Primarily
+written in UPC with some MPI/C++ pieces.
+Compressed Sparse Blocks :  A small Cilk Plus library that performs sparse matrix times dense vector
+and sparse matrix transpose times dense vector using compressed sparse blocks.
+mtSpGEMM:  High-performance sparse-sparse matrix products on multicores processors.
+SpDM^3 and HP-CONCORD:  SpDM^3 does communication-avoiding Sparse-Dense Matrix-Matrix Multiplication on distributed-memory parallel computers and HP-CONCORD is high-performance inverse covariance matrix estimation using the CONCORD-ISTA algorithm.
+Implementing Push-Pull Efficiently in GraphBLAS:   Mapping direction-optimization to the language of linear algebra.
+MS-BFS-Graft:  Multithreaded OpenMP code for computing maximum cardinality matching
+on bipartite graphs.
+Performs multi-source breadth-first search with tree-grafting for exploiting parallelism.
+Older Software that is no longer maintained
+Genetic Mapping:
+MarkerReduce (based on the  BCB paper ) and
+BubbleCluster (based on the  BIBM paper ) are
+available from the  CSC@UCSB Website .
+The Knowledge Discovery Toolbox (KDT):    High-performance parallel
+graph analysis and mining in a very-high-level language (Python).
+GPU-APSP:  A CUDA program that computes the distances for all pairs shortest paths in a dense
+directed graph (represented in adjacency matrix form).

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28414.html
+Synthesis of Reciprocal Piecewise-Linear N-Port Resistors | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Synthesis of Reciprocal Piecewise-Linear N-Port Resistors
+Synthesis of Reciprocal Piecewise-Linear N-Port Resistors
+Leon O. Chua and David J. Curtin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/84
+December 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-84.pdf
+BibTeX citation:
+@techreport{Chua:M78/84,
+Author = {Chua, Leon O. and Curtin, David J.},
+Title = {Synthesis of Reciprocal Piecewise-Linear N-Port Resistors},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28414.html},
+Number = {UCB/ERL M78/84}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Curtin, David J.
+%T Synthesis of Reciprocal Piecewise-Linear N-Port Resistors
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/84
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28414.html
+%F Chua:M78/84

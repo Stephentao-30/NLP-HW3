@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29078.html
+Algorithmic Design of Single-Input Single-Output Systems With a Two-Input One-Output Controller
+M.J. Chen and C.A. Desoer and G.F. Franklin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/12
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-12.pdf
+BibTeX citation:
+@techreport{Chen:M81/12,
+Author= {Chen, M.J. and Desoer, C.A. and Franklin, G.F.},
+Title= {Algorithmic Design of Single-Input Single-Output Systems With a Two-Input One-Output Controller},
+Year= {1981},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29078.html},
+Number= {UCB/ERL M81/12},
+}
+EndNote citation:
+%0 Report
+%A Chen, M.J.
+%A Desoer, C.A.
+%A Franklin, G.F.
+%T Algorithmic Design of Single-Input Single-Output Systems With a Two-Input One-Output Controller
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29078.html
+%F Chen:M81/12

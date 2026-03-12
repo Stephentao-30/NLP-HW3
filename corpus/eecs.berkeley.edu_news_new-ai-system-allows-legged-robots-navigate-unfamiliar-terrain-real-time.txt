@@ -1,0 +1,12 @@
+URL: https://eecs.berkeley.edu/news/new-ai-system-allows-legged-robots-navigate-unfamiliar-terrain-real-time
+New AI system allows legged robots to navigate unfamiliar terrain in real time - EECS at Berkeley
+A new AI system, Rapid Motor Adaptation (RMA), enhances the ability of legged robots, without prior experience or calibration, to adapt to, and traverse, unfamiliar terrain in real time.  A test robot figured out how to walk on sand, mud, and tall grass, as well as piles of dirt, pebbles, and cement, in fractions of a second.  The project is part of an industry-academic collaboration with the Facebook AI Research (FAIR) group and the Berkeley AI Research (BAIR) lab that includes CS Prof. Jitendra Malik as Principal Investigator, his grad student Ashish Kumar as lead author, and alumnus Deepak Pathak (Ph.D. 2019, advisors: Trevor Darrell and Alexei Efros), now an assistant professor at Carnegie Mellon, among others.  RMA combines a base policy algorithm that uses reinforcement learning to teach the robot how to control its body, with an adaptation module that teaches the robot how to react based on how its body moves when it interacts with a new environment.  “Computer simulations are unlikely to capture everything,” said Kumar. “Our RMA-enabled robot shows strong adaptation performance to previously unseen environments and learns this adaptation entirely by interacting with its surroundings and learning from experience. That is new.”  RMA’s base policy and adaptation module run asynchronously and at different frequencies so that it can operate reliably on a small onboard computer.
+Categories
+Alumni
+Faculty
+Industry
+publications
+Research
+Students
+View
+Open Faculty Positions

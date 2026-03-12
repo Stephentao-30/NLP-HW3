@@ -1,0 +1,36 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-132.html
+Geometric Image Segmentation via Multiscale TILT Clustering
+Chi Pang Lam and Allen Yang and Ehsan Elhamifar and S. Shankar Sastry
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-132
+July 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-132.pdf
+We present a novel algorithm to acquire and analyze rich 3D geometric features in single urban images. Traditional representation of 3D structures via local image features lack global geometric information to provide high quality image correspondence and 3D models. The new approach utilizes the low-rank representation technique to seek a new class of invariant features based on minimizing the matrix rank of image textures, which are more holistic with respect to global geometric information, invariant to camera distortion, and robust to pixel corruption. Based on the transform-invariant low-rank texture (TILT) representation, we first propose an efficient algorithm to detect TILT
+features in urban images where man-made, symmetric patterns are abundant. Second, we introduce a multiscale, top-down representation of TILT clusters as TILT complexes, each of which represents a dominant planar structure (e.g.,
+building facades) in 3D space. Extensive experiments are conducted on the Pankrac building database to demonstrate the efficacy of the algorithm. The source code of the algorithm will be available for peer evaluation.
+BibTeX citation:
+@techreport{Lam:EECS-2013-132,
+Author= {Lam, Chi Pang and Yang, Allen and Elhamifar, Ehsan and Sastry, S. Shankar},
+Title= {Geometric Image Segmentation via Multiscale TILT Clustering},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-132.html},
+Number= {UCB/EECS-2013-132},
+Abstract= {We present a novel algorithm to acquire and analyze rich 3D geometric features in single urban images. Traditional representation of 3D structures via local image features lack global geometric information to provide high quality image correspondence and 3D models. The new approach utilizes the low-rank representation technique to seek a new class of invariant features based on minimizing the matrix rank of image textures, which are more holistic with respect to global geometric information, invariant to camera distortion, and robust to pixel corruption. Based on the transform-invariant low-rank texture (TILT) representation, we first propose an efficient algorithm to detect TILT
+features in urban images where man-made, symmetric patterns are abundant. Second, we introduce a multiscale, top-down representation of TILT clusters as TILT complexes, each of which represents a dominant planar structure (e.g.,
+building facades) in 3D space. Extensive experiments are conducted on the Pankrac building database to demonstrate the efficacy of the algorithm. The source code of the algorithm will be available for peer evaluation.},
+}
+EndNote citation:
+%0 Report
+%A Lam, Chi Pang
+%A Yang, Allen
+%A Elhamifar, Ehsan
+%A Sastry, S. Shankar
+%T Geometric Image Segmentation via Multiscale TILT Clustering
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 16
+%@ UCB/EECS-2013-132
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-132.html
+%F Lam:EECS-2013-132

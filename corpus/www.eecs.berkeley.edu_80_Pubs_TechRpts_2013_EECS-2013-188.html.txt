@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-188.html
+Time-Domain Ultra-Wideband Synthetic Imager in Silicon
+Amin Arbabian
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-188
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-188.pdf
+Low-cost and portable medical devices will play a more significant role in wellness, healthcare and medicine. While consumer electronics have become ubiquitous and inexpensive, medical devices, by contrast, are still primarily found only in hospitals. There is a great potential benefit in using techniques developed in the consumer electronic industry and applying them to the healthcare market. To do this, substantial innovation is required to develop new sensors and devices that are fundamentally less invasive and use profoundly different physical phenomena to address medical applications.
+This research aims at designing a non-invasive, low-cost, and portable imaging device for cancer screening. Detection in early stages has proven to be essential for reducing the mortality rate in cancer. This requires pursuit of modalities that could be widespread and are safe to be used for more frequent screening. This research uses the available contrast in microwave frequencies to detect abnormalities.
+Conceptualization, architectural and system-level design, and finally implementation of the system called TUSI, Time-Domain Ultra-Wideband Synthetic Imager, are addressed. Using an array of closely controlled radiating silicon chips, acting as transceivers in microwave /mm-wave frequencies, this device transmits short “beam-steered” pulses and picks up reflections from tissue abnormalities (e.g. cancerous tissue). By processing the data from multiple transceivers, a larger aperture is synthesized. In essence, this imager probes the “electrical” properties of the tissue. Various challenges related to generating, controlling, transmitting, and detecting these coherent ultra-short pulses are examined and new solutions proposed. A pixel-scalable integrated transceiver consisting of elements from antenna-to-antenna is designed and implemented in a SiGe BiCMOS process.
+Advisors:  Ali Niknejad
+BibTeX citation:
+@phdthesis{Arbabian:EECS-2013-188,
+Author= {Arbabian, Amin},
+Title= {Time-Domain Ultra-Wideband Synthetic Imager in Silicon},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-188.html},
+Number= {UCB/EECS-2013-188},
+Abstract= {Low-cost and portable medical devices will play a more significant role in wellness, healthcare and medicine. While consumer electronics have become ubiquitous and inexpensive, medical devices, by contrast, are still primarily found only in hospitals. There is a great potential benefit in using techniques developed in the consumer electronic industry and applying them to the healthcare market. To do this, substantial innovation is required to develop new sensors and devices that are fundamentally less invasive and use profoundly different physical phenomena to address medical applications.
+This research aims at designing a non-invasive, low-cost, and portable imaging device for cancer screening. Detection in early stages has proven to be essential for reducing the mortality rate in cancer. This requires pursuit of modalities that could be widespread and are safe to be used for more frequent screening. This research uses the available contrast in microwave frequencies to detect abnormalities.
+Conceptualization, architectural and system-level design, and finally implementation of the system called TUSI, Time-Domain Ultra-Wideband Synthetic Imager, are addressed. Using an array of closely controlled radiating silicon chips, acting as transceivers in microwave /mm-wave frequencies, this device transmits short “beam-steered” pulses and picks up reflections from tissue abnormalities (e.g. cancerous tissue). By processing the data from multiple transceivers, a larger aperture is synthesized. In essence, this imager probes the “electrical” properties of the tissue. Various challenges related to generating, controlling, transmitting, and detecting these coherent ultra-short pulses are examined and new solutions proposed. A pixel-scalable integrated transceiver consisting of elements from antenna-to-antenna is designed and implemented in a SiGe BiCMOS process.},
+}
+EndNote citation:
+%0 Thesis
+%A Arbabian, Amin
+%T Time-Domain Ultra-Wideband Synthetic Imager in Silicon
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-188
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-188.html
+%F Arbabian:EECS-2013-188

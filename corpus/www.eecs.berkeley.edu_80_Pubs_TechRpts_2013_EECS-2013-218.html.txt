@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-218.html
+Data Exchange Problems: Algorithms and Complexity
+Nebojsa Milosavljevic
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-218
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-218.pdf
+In this thesis we study the data exchange problem where a set of users is interested in gaining access to a common file, but where each has only partial knowledge about it as side- information. Assuming that the file is broken into packets, the side-information considered is in the form of linear combinations of the file packets. Given that the collective information of all the users is sufficient to allow recovery of the entire file, the goal is for each user to gain access to the file while minimizing some communication cost. We assume that users can communicate over a noiseless broadcast channel, and that the communication cost is a sum of each user’s cost function over the number of bits it transmits. For instance, the communication cost could simply be the total number of bits that needs to be transmitted. In the most general case studied in this thesis, each user can have any arbitrary convex cost function. We provide a polynomial time deterministic algorithm (in the number of users and packets) that finds an optimal communication scheme that minimizes the communication cost. To further lower the complexity, we also propose a simple randomized algorithm inspired by our deterministic algorithm which is based on a random linear network coding scheme. In the later chapters we consider a general form of side-information, where each user observes independent realizations of some joint random process. For such scenario, we provide a polynomial-time algorithm (in the number of users and packets) that finds an optimal communication rate allocations for all the users. Next, we study two extensions to the original data exchange problem. First, we consider the problem where not all users in the system are interested in obtaining the file, but they are willing to help users who are. Also, we explore the problem where each user can communicate only to its immediate neighbors through a wireline network. For both the problems, we provide a polynomial time algorithm that is inspired by the original data exchange problem.
+Advisors:  Kannan Ramchandran and Michael Gastpar
+BibTeX citation:
+@phdthesis{Milosavljevic:EECS-2013-218,
+Author= {Milosavljevic, Nebojsa},
+Title= {Data Exchange Problems: Algorithms and Complexity},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-218.html},
+Number= {UCB/EECS-2013-218},
+Abstract= {In this thesis we study the data exchange problem where a set of users is interested in gaining access to a common file, but where each has only partial knowledge about it as side- information. Assuming that the file is broken into packets, the side-information considered is in the form of linear combinations of the file packets. Given that the collective information of all the users is sufficient to allow recovery of the entire file, the goal is for each user to gain access to the file while minimizing some communication cost. We assume that users can communicate over a noiseless broadcast channel, and that the communication cost is a sum of each user’s cost function over the number of bits it transmits. For instance, the communication cost could simply be the total number of bits that needs to be transmitted. In the most general case studied in this thesis, each user can have any arbitrary convex cost function. We provide a polynomial time deterministic algorithm (in the number of users and packets) that finds an optimal communication scheme that minimizes the communication cost. To further lower the complexity, we also propose a simple randomized algorithm inspired by our deterministic algorithm which is based on a random linear network coding scheme. In the later chapters we consider a general form of side-information, where each user observes independent realizations of some joint random process. For such scenario, we provide a polynomial-time algorithm (in the number of users and packets) that finds an optimal communication rate allocations for all the users. Next, we study two extensions to the original data exchange problem. First, we consider the problem where not all users in the system are interested in obtaining the file, but they are willing to help users who are. Also, we explore the problem where each user can communicate only to its immediate neighbors through a wireline network. For both the problems, we provide a polynomial time algorithm that is inspired by the original data exchange problem.},
+}
+EndNote citation:
+%0 Thesis
+%A Milosavljevic, Nebojsa
+%T Data Exchange Problems: Algorithms and Complexity
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-218
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-218.html
+%F Milosavljevic:EECS-2013-218

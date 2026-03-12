@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29089.html
+On the Perturbational Sensitivity of Solutions to Nonlinear Differential Equations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Perturbational Sensitivity of Solutions to Nonlinear Differential Equations
+On the Perturbational Sensitivity of Solutions to Nonlinear Differential Equations
+M.K. Inan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M270
+February 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-270.pdf
+BibTeX citation:
+@techreport{Inan:M270,
+Author = {Inan, M.K.},
+Title = {On the Perturbational Sensitivity of Solutions to Nonlinear Differential Equations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29089.html},
+Number = {UCB/ERL M270}
+}
+EndNote citation:
+%0 Report
+%A Inan, M.K.
+%T On the Perturbational Sensitivity of Solutions to Nonlinear Differential Equations
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M270
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29089.html
+%F Inan:M270

@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/sanjit-seshia-wins-computer-aided-verification-award
+Sanjit Seshia wins Computer-Aided Verification Award - EECS at Berkeley
+EECS Prof. Sanjit Seshia was a recipient of the CAV Award at the 2021 International Conference on Computer-Aided Verification (CAV) earlier this month.  This award is presented annually “for fundamental contributions to the field of Computer-Aided Verification,” and comes with a cash prize of $10K that is shared equally among recipients.  This year’s award specifically recognizes  “ pioneering contributions to the foundations of the theory and practice of satisfiability modulo theories (SMT).”  Seshia’s Ph.D. thesis work on the UCLID verifier and decision procedure helped lay the groundwork for this field.  SMT solvers are critical to verification of software and hardware model checking, symbolic execution, program verification, compiler verification, verifying cyber-physical systems, and program synthesis. Other applications include planning, biological modeling, database integrity, network security, scheduling, and automatic exploit generation.  CAV is the premier international conference on computer-aided verification and  provides a forum for a broad range of advanced research in areas ranging from model checking and automated theorem proving to testing, synthesis and related fields.
+Categories
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-61.html
+Communication Lower Bounds and Optimal Algorithms for Programs That Reference Arrays - Part 1
+Michael Christ and James Demmel and Nicholas Knight and Thomas Scanlon and Katherine A. Yelick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-61
+May 14,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-61.pdf
+Communication, i.e., moving data, between levels of a memory hierarchy or between parallel processors on a network, can greatly dominate the cost of computation, so algorithms that minimize communication can run much faster (and use less energy) than algorithms that do not. Motivated by this, attainable communication lower bounds were established in [12, 13, 4] for a variety of algorithms including matrix computations. The lower bound approach used initially in [13] for Θ( N 3 ) matrix multiplication, and later in [4] for many other linear algebra algorithms, depended on a geometric result by Loomis and Whitney [16]: this result bounded the volume of a 3D set (representing multiply-adds done in the inner loop of the algorithm) using the product of the areas of certain 2D projections of this set (representing the matrix entries available locally, i.e., without communication). Using a recent generalization of Loomis’ and Whitney’s result, we generalize this lower bound approach to a much larger class of algorithms, that may have arbitrary numbers of loops and arrays with arbitrary dimensions, as long as the index expressions are affine combinations of loop variables. In other words, the algorithm can do arbitrary operations on any number of variables like  A ( i 1 ,  i 2 ,  i 2  − 2 i 1 , 3 − 4 i 3  + 7 i 4 , . . .). Moreover, the result applies to recursive programs, irregular iteration spaces, sparse matrices, and other data structures as long as the computation can be logically mapped to loops and indexed data structure accesses. We also discuss when optimal algorithms exist that attain the lower bounds; this leads to new asymptotically faster algorithms for several problems.
+BibTeX citation:
+@techreport{Christ:EECS-2013-61,
+Author= {Christ, Michael and Demmel, James and Knight, Nicholas and Scanlon, Thomas and Yelick, Katherine A.},
+Title= {Communication Lower Bounds and Optimal Algorithms for Programs That Reference Arrays - Part 1},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-61.html},
+Number= {UCB/EECS-2013-61},
+Abstract= {Communication, i.e., moving data, between levels of a memory hierarchy or between parallel processors on a network, can greatly dominate the cost of computation, so algorithms that minimize communication can run much faster (and use less energy) than algorithms that do not. Motivated by this, attainable communication lower bounds were established in [12, 13, 4] for a variety of algorithms including matrix computations. The lower bound approach used initially in [13] for Θ(<i>N</i><sup>3</sup>) matrix multiplication, and later in [4] for many other linear algebra algorithms, depended on a geometric result by Loomis and Whitney [16]: this result bounded the volume of a 3D set (representing multiply-adds done in the inner loop of the algorithm) using the product of the areas of certain 2D projections of this set (representing the matrix entries available locally, i.e., without communication). Using a recent generalization of Loomis’ and Whitney’s result, we generalize this lower bound approach to a much larger class of algorithms, that may have arbitrary numbers of loops and arrays with arbitrary dimensions, as long as the index expressions are affine combinations of loop variables. In other words, the algorithm can do arbitrary operations on any number of variables like <i>A</i>(<i>i</i><sub>1</sub>, <i>i</i><sub>2</sub>, <i>i</i><sub>2</sub> − 2<i>i</i><sub>1</sub>, 3 − 4<i>i</i><sub>3</sub> + 7<i>i</i><sub>4</sub>, . . .). Moreover, the result applies to recursive programs, irregular iteration spaces, sparse matrices, and other data structures as long as the computation can be logically mapped to loops and indexed data structure accesses. We also discuss when optimal algorithms exist that attain the lower bounds; this leads to new asymptotically faster algorithms for several problems.},
+}
+EndNote citation:
+%0 Report
+%A Christ, Michael
+%A Demmel, James
+%A Knight, Nicholas
+%A Scanlon, Thomas
+%A Yelick, Katherine A.
+%T Communication Lower Bounds and Optimal Algorithms for Programs That Reference Arrays - Part 1
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 14
+%@ UCB/EECS-2013-61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-61.html
+%F Christ:EECS-2013-61

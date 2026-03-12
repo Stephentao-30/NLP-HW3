@@ -1,0 +1,95 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981
+Technical Reports - 1981
+Multiple Stochastic Integrals: Projection and Iteration  (M81/100) Bruce Hajek, Eugene Wong and Ellen W. Szeto
+Interoptdyn-siso: A Tutorial  (M81/99) E. Polak, K.J. Astrom and D.Q. Mayne
+Lower Bounds on the Size of Deterministic Parsers  (M81/98) Esko Ukkonen
+Interoptdyn-siso: A Tutorial  (M81/97) E. Polak and K.J. Astrom
+Cifplot: Plotting Software for IC Layouts  (M81/96) Daniel T. Fitzpatrick
+A New Approach to Channel Routing  (M81/95) M. Marek-Sadowska and E.S. Kuh
+Extending Ingres with a Rules System  (M81/93) Michael Stonebraker, Rowland Johnson and Steven Rosenberg
+Virtual Storage Management in the Absence of Reference Bits  (M81/92) Ozalp Babaoglu
+On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems  (M81/91) E. Polak and A.L. Tits
+How to Exchange (Secret) Keys  (M81/90) Manuel Blum
+Algebraic Theory for Robust Stability of Interconnected Systems: Necessary and Sufficient Conditions  (M81/89) M.J. Chen and C.A. Desoer
+A Bit by Bit Secure Public-Key Cryptosystem  (M81/88) Shafi Goldwasser
+Two-Frequency Fermi Mapping  (M81/86) J.E. Howard, M.A. Lieberman and A.J. Lichtenberg
+Dynamic Security Regions of Power System  (M81/85) R. John Kaye and Felix F. Wu
+Three-Layer channel Routing  (M81/84) Y.K. Chen and M.L. Liu
+An Approach to Two-Dimensional Channel Routing  (M81/83) Y.K. Chen
+An Algorithm for Two-Layer Channel Routing with Cyclic Constraints  (M81/82) M.L. Liu
+On Fuzzy Binary Relations  (M81/81) S.V. Ovchinnikov and T. Riera
+Effects of Random and Periodic Excitations on Relaxation Oscillators  (M81/80) Asad A. Abidi
+Double-Layer Channel Routing with Irregular Boundaries  (M81/79) M.L. Liu and Y.K. Chen
+On the Extension of Constrained Optimization Algorithms From Differentiable to Nondifferentiable Problems  (M81/78) E. Polak, D.Q. Mayne and Y. Wardi
+The Behavior of Three Node Power Networks  (M81/77) A. Arapostathis and P. Varaiya
+HOPF Bifurcation Via Volterra Series  (M81/76) Y.S. Tang, A.I. Mees and L.O. Chua
+The Waveform Relaxation Method for the Domain Analysis of Large Scale Integrated Circuits  (M81/75) Ekachai Lelarasmee, A.E. Ruehli and A.L. Sangiovanni-Vincentelli
+Fast Algorithms for VLSI Layout Rule Checking  (M81/74) Dale Skeen
+Kink Instabilities in Long Ion Layers  (M81/73) Douglas S. Harned
+Stabilization of the Lower Hybrid Drift Instability by Resonant Electrons  (M81/72) Yu-Jiuan Chen, William M. Nevins and Charles K. Birdsall
+Quasineutral Hybrid Simultation of Macroscopic Plasma  (M81/71) Douglas S. Harned
+Rotational Instabilities in the Field-Reversed Theta Pinch: Results of Hybrid Simultations  (M81/70) Douglas S. Harned
+The Design of Digital Filters Using Interactive Optimization  (M81/69) T.P. Lee, W.T. Nye and A.L. Tits
+Two Results on Polynomial Time Turning Reductions to Sparse Sets  (M81/68) Esko Ukkonen
+One Analyzer for Three Languages  (M81/67) Robert Wilensky and Michael Morgan
+Effects of Ambipolar Potential on Multiple Mirror Confinement  (M81/66) F. Najmabadi, A.J. Lichtenberg and M.A. Lieberman
+Modal Analysis of Synchronous Machine Dynamics  (M81/65) M.K. Inan
+On Synonymy, Antonymy, and Negotiations  (M81/63) S.V. Ovchinnikov
+Performance Enhancements to a Relational Data Base System  (M81/62) Michael Stonebraker, John Woodfill, Jeff Ranstrom, Marguerite Murphy, Marc Meyer and Eric Allman
+Ingres Version 7 Reference Manual  (M81/61) John Woodfill, Polly Siegal, Jeff Ranstrom, Marc Meyer and Eric Allman
+Review of the Lower Hybrid Drift Instability and its Saturation Mechanisms  (M81/60) Yu-Jiuan Chen
+Design and Analysis of Program Behavior Models for the Reproduction of Working-Set Characteristics  (M81/59) Newton Faller
+Necessary and Sufficient Condition for Robust Stability of Linear Distributed Feedback Systems  (M81/58) M.J. Chen and C.A. Desoer
+Global Parametrization of Feedback Systems  (M81/57) C.A. Desoer and R-W Liu
+Bifurcations of the Two-Frequency Fermi Mapping  (M81/56) J.E. Howard, M.A. Lieberman and A.J. Lichtenberg
+Error Bounds for General Describing Function Problems  (M81/55) A.R. Bergen, L.O. Chua, A.I. Mees and E.W. Szeto
+Finding all Solutions of Piecewise-Linear Equations  (M81/54) Leon O. Chua and Robin L.P. Ying
+Design of a Multi-Language Editor with Static Error Detection Capabilities  (M81/53) Mark R. Horton
+Noise Reduction Techniques for Switched Capacitor Filters  (M81/52) K.-C. Hsieh, P.R. Gray and D. Senderowicz
+Controller Design for Linear Multivariable Feedback Systems with Stable Plants, Using Optimization with Inequality Constraints  (M81/51) C.L. Gustafson and C.A. Desoer
+A Decentralized Termination Protocol  (M81/50) Dale Skeen
+A Model for Planning in Complex Situations  (M81/49) Robert Wilensky
+First Order Logic Syntax and the Dynamic Behavior of Programs  (M81/48) Luis Felipe Cabrera
+The Code Generator Generators' Work Station: Reimplementation and Experimentation with the Graham-Glanville Machine Independent Algorithms for Code Generation  (M81/47) Robert R. Henry
+The Partial Order Dimension Problem is NP-Complete  (M81/46) E.L. Lawler and O. Vornberger
+Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case  (M81/45) V. Visvanathan and A. Sangiovanni-Vincentelli
+Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems  (M81/44) Jehan-Francois L. J. Paris
+On the Convergence of Fuzzy Control Processes  (M81/43) Jerzy Kiszka
+Test Score Semantics for Natural Languages and Meaning Representation Via Pruf  (M81/42) L.A. Zadeh
+The (p+q)- Port Transfer  (M81/41) L.O. Chua, G.N. Lin and J.J. Lum
+Simulation of Developed Resist Profiles for Electron-Beam Lithography  (M81/40) Michael G. Rosenfield
+Comparing User Response Times on Paged and Swapped Unix  (M81/39) Luis Felipe Cabrera and Jehan-Francois Paris
+On the Efficient Generation of Dynamic Program Profiles  (M81/38) Luis Felipe Cabrera
+The Reproducibility of Fuzzy Control Systems  (M81/37) K. Burdzy and J.B. Kiszka
+Dealing With Errors in the Motion of a Vehicular Robot in 2-D  (M81/35) Gordon C. Fossum
+When is a Device Passive?  (M81/34) P.J. Moylan, L.O. Chua and E.W. Szeto
+An Investigation of Multiprocessor Structures and Algorithms for Data Base Management  (M81/33) James Richard Goodman
+Passivity Criterion for LTI N-Ports  (M81/32) S. Boyd and L.O. Chua
+A Unified CAD Model for MOSFETs  (M81/31) Sally Liu
+Syntax Oriented Analysis of the Run Time Performance of Programs  (M81/30) Luis Felipe Cabrera
+Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System  (M81/29) Ellis Cohen
+Dynamic Model for the Analog Multiplier  (M81/28) A. Baranyi and L.O. Chua
+Hypothetical Data Bases as Views  (M81/27) Michael Stonebraker
+Program Restructuring in a Multilevel Virtual Memory  (M81/26) Edwin J. Lau and Domenico Ferrari
+Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits  (M81/25) Giovami De Micheli and Alberto Sangiovanni-Vincentelli
+Charge Circuits for Analog LSI  (M81/24) Robert H. McCharles
+Structure- Preserving Model Reduction with Applications to Power System Dynamic Equivalents  (M81/23) Yu-Kun Tsai, N. Narasimhamurthi and Felix F. Wu
+Recursive Linear Smoothing of Two-Dimensional Random Fields  (M79/22) Richard G. Ogier and Eugene Wong
+Characterization and Reproduction of the Referencing Dynamics of Programs  (M81/22) Domenico Ferrari
+Nonlinear Oscillation Via Volterra Series  (M81/21) L.O. Chua and Y.S. Tang
+Reliability Systems Modeled as Continuous-Time Markov Chains with Periodic Transition Rates  (M81/20) Yu-Kun Tsai and Felix F. Wu
+Delight: An Optimization-Based Computer-Aided Design System  (M81/19) W. Nye, E. Polak, A. Sangiovanni-Vincentelli and A. Tits
+Choice Theory for Cardinal Scales I: Ratio-Scales  (M81/18) S.V. Ovchinnikov
+Simulation and Performance Evaluation of the Risc Architecture  (M81/17) Yuval Temir
+Chaotic Motion Along Resonance Layers in Near-Integrable Hamiltonian Systems With Three or More Freedoms  (M81/16) M.A. Lieberman and J.L. Tennyson
+Probabilistic Dynamic Security Assessment of Power Systems Part I: Basic Model  (M81/15) Felix F. Wu and Yu-Kun Tsai
+Strong Structural Stability of Resistive Nonlinear n-Ports  (M81/14) T. Matsumoto, G. Ikegami and L.O. Chua
+An Error Analysis of the Motion of a Vehicular Robot in 2-D  (M81/13) Gordon C. Fossum
+Algorithmic Design of Single-Input Single-Output Systems With a Two-Input One-Output Controller  (M81/12) M.J. Chen, C.A. Desoer and G.F. Franklin
+The Design and Implementation of Query Modification in the Data Base Management System Ingres  (M81/11) Eric Allman
+Simulation and Modeling of Evaporated Deposition Profiles  (M81/8) Chiakang Sung
+Enhancement of Classical Transport Processes Along Resonances in Near Integrable Systems with Many Degrees of Freedom  (M81/7) Jeffrey Tennyson
+Fuzzy Rational Choice Functions  (M81/4) S.V. Ovchinnikov
+Global Behavior of Interconnected Power Systems: Part I  (M81/3) A. Arapostathis, S. Sastry and P. Varaiya
+Simulation of Dry Etched Line-Edge Profiles  (M81/2) John L. Reynolds
+Traffic Modelling in Large Scale Telephone Networks  (M81/1) J.M. Garcia

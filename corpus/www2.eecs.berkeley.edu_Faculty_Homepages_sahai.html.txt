@@ -1,0 +1,63 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/sahai.html
+Anant Sahai: Faculty Home Page
+Larger Photo
+Anant Sahai
+Professor
+Contact Information
+267 Cory Hall
+sahai@eecs.berkeley.edu
+Office Hours
+TuTh 11-12, 258 Cory
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Rachel Zhang
+zhany21@berkeley.edu
+Biography
+Anant Sahai is currently the Qualcomm Chair Professor in Electrical Engineering and Computer Sciences. He did his undergraduate work in EECS at UC Berkeley, and then went to MIT as a graduate student studying Electrical Engineering and Computer Science (Course 6 in MIT-speak). After graduating with his PhD, and before joining the Berkeley faculty, he was on the theoretical/algorithmic side of a team at the startup Enuvis, Inc. developing new adaptive software radio techniques for GPS in very low SNR environments (such as those encountered indoors in urban areas).  He currently serves also as faculty adviser to UC Berkeley's chapter of Eta Kappa Nu. He has previously served as the Treasurer for the IEEE Information Theory Society. He has coordinated machine learning efforts for SpectrumX, the NSF's Center for Spectrum Innovation, and is was very involved with the data engineering efforts there. His research interests span machine learning, wireless communication, information theory, signal processing, and decentralized control --- with a particular interest at the intersections of these fields. Within wireless communication, he is particularly interested in Spectrum Sharing and Cognitive Radio, very-low-latency ultra-reliable wireless communication protocols for the Internet Of Things, and how agents could learn how to communicate with each other without the need for heavy-handed standards. Within control, he is interested in decentralized control and how agents could learn how to cooperate and interact with unknown environments. He is also interested in the foundations of machine learning, particularly as it pertains to why overparameterized models do or do not work. He is also quite interested in in-context learning in modern ML models.
+Education
+2001, PhD, EECS, Massachusetts Institute of Technology
+1996, SM, EECS, Massachusetts Institute of Technology
+1994, BS, EECS, University of California, Berkeley
+Research Areas
+Information, Data, Network, and Communication Sciences (IDNCS) , Information Theory, Cognitive Radio and Spectrum Sharing, Wireless Protocols
+Artificial Intelligence (AI) , Learning for collaboration and coordination; machine learning
+Control, Intelligent Systems, and Robotics (CIR) , Distributed and Networked Control
+Theory (THY) , Information Theory
+Signal Processing (SP)
+Research Centers
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Laboratory for Information and System Sciences (BLISS)
+Berkeley Wireless Research Center (BWRC)
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)
+Teaching Schedule
+EE 194-16. Scalable AI: Bridging Theory, Understanding, and Practice , TuTh 09:30-10:59, Cory 521
+EE 290-16. Scalable AI: Bridging Theory, Understanding, and Practice , TuTh 09:30-10:59, Cory 521
+V. Muthukumar, S. Phade, and A. Sahai, "On the Impossibility of Convergence of Mixed Strategies with Optimal No-Regret Learning,"  Mathematics of Operations Research , Nov. 2024.
+D. Wu and A. Sahai, " Precise asymptotic generalization for multiclass classification with overparameterized linear models ,"  Advances in Neural Information Processing Systems , vol. 36, Dec. 2023.
+A. Abedi, J. Sanz, and A. Sahai, " Automatic Calibration in Crowd-sourced Network of Spectrum Sensors ," in  HotNets '23: Proceedings of the 22nd ACM Workshop on Hot Topics in Networks , 2023.
+V. Subramanian, R. Arya, and A. Sahai, " Generalization for multiclass classification with overparameterized linear models ," in  Advances in Neural Information Processing Systems , 2022.
+V. Muthukumar, A. Narang, V. Subramanian, M. Belkin, D. Hsu, and A. Sahai, " Classification vs regression in overparameterized regimes: Does the loss function matter? ,"  Journal of Machine Learning Research , vol. 22, no. 222, pp. 1-69, Oct. 2021.
+V. Muthukumar, K. {Vodrahalli}, V. {Subramanian}, and A. Sahai, " Harmless Interpolation of Noisy Data in Regression ,"  IEEE Journal on Selected Areas in Information Theory , vol. 1, no. 1, pp. 67-83, May 2020.
+A. Sahai, J. {Sanz}, V. {Subramanian}, C. {Tran}, and K. {Vodrahalli}, " Blind Interactive Learning of Modulation Schemes: Multi-Agent Cooperation Without Co-Design ,"  IEEE Access , vol. 8, pp. 63790-63820, March 2020.
+V. Muthukumar and A. Sahai, " Robust Commitments and Partial Reputation ," in  Proceedings of the 2019 ACM Conference on Economics and Computation , 2019, pp. 637--638.
+V. Muthukumar, M. Ray, A. Sahai, and P. Bartlett, " Best of many worlds: Robust model selection for online supervised learning ," in  The 22nd International Conference on Artificial Intelligence and Statistics , 2019, pp. 3177--3186.
+V. Narasimha Swamy, P. {Rigge}, G. Ranade, B. Nikolic, and A. Sahai, " Wireless Channel Dynamics and Robustness for Ultra-Reliable Low-Latency Communications ,"  IEEE Journal on Selected Areas in Communications , vol. 37, no. 4, pp. 705-720, Feb. 2019.
+C. de Vrieze, S. Barratt, D. Tsai, and A. Sahai, " Cooperative multi-agent reinforcement learning for low-level wireless communication ," arXiv.org, Tech. Rep. 1801.04541, Jan. 2018.
+V. Narasimha Swamy, S. {Suri}, P. {Rigge}, M. {Weiner}, G. Ranade, A. Sahai, and B. Nikolic, " Real-Time Cooperative Communication for Automation Over Wireless ,"  IEEE Transactions on Wireless Communications , vol. 16, no. 11, pp. 7168-7183, Aug. 2017.
+V. Muthukumar and A. Sahai, " Fundamental Limits on Ex-Post Enforcement and Implications for Spectrum Rights ,"  IEEE Transactions on Cognitive Communications and Networking , vol. 3, no. 3, pp. 491-504, Aug. 2017.
+V. Narasimha Swamy, S. Suri, P. Rigge, M. Weiner, G. Ranade, A. Sahai, and B. Nikolic, " Cooperative communication for high-reliability low-latency wireless control ," in  Proceedings of the IEEE International Conference on Communications , 2015, pp. 4380-4386.
+V. Muthukumar, A. Daruna, V. Kamble, K. Harrison, and A. Sahai, " Whitespaces after the USA's TV incentive auction: A spectrum reallocation case study ," in  Communications (ICC), 2015 IEEE International Conference on , 2015, pp. 7582-7588.
+K. Harrison and A. Sahai, " A more general whitespace architecture: refactoring the master-client paradigm ," in  Communications (ICC), 2015 IEEE International Conference on , 2015, pp. 7589-7595.
+P. Grover, A. Wagner, and A. Sahai, " Information Embedding and the Triple Role of Control ,"  IEEE Transactions on Information Theory , vol. 61, no. 4, pp. 1539 - 1549, April 2015.
+H. Palaiyanur and A. Sahai, " On Haroutunian's Exponent for Parallel Channels and an Application to Fixed-Delay Codes Without Feedback ,"  Information Theory, IEEE Transactions on , vol. 61, no. 3, pp. 1298-1308, March 2015.
+S. Hasan, K. Heimerl, K. Harrison, K. Ali, A. Sahai, and E. Brewer, " GSM whitespaces: An opportunity for rural cellular service ," in  Proceedings of the 2014 IEEE International Symposium on Dynamic Spectrum Access Networks (DYSPAN) , 2014.
+S. Y. Park and A. Sahai, " A geometric slicing lower bound for average-cost dynamic programming ," in  Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on , 2013, pp. 5216-5221.
+Electrical Engineering Award for Outstanding Teaching ,
+2017
+The Faculty Award for Outstanding Mentorship of GSIs ,
+2015
+IEEE ComSoc Leonard G. Abraham Prize ,
+2012

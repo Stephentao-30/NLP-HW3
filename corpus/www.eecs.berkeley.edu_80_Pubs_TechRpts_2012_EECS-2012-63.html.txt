@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-63.html
+Cooperative Multiplexing in Wireless Relay Networks
+Vinayak Nagpal
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-63
+May 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-63.pdf
+Wireless networks are experiencing an explosive growth in the number of users and the demand for data capacity. One of the methods to improve capacity is to use tighter cooperation between terminals. In order to design a cooperative wireless link, several theoretical as well as practical challenges need to be addressed. In this dissertation we develop tools for the design of practical cooperative links that perform very close to fundamental limits.
+Using the tools of information theory, we begin by showing that cooperative relaying provides additional degrees-of-freedom for communication. For a simple network with a single-antenna source, single-antenna half-duplex relay and a two antenna destination, we show that cooperation allows the link throughput to increase approximately by a factor of 2.
+This gain is achievable using the recently introduced quantize-map-and-forward (QMF) cooperation scheme. However, QMF requires joint decoding of multiple information streams at the destination. The computational complexity of joint decoding is prohibitive for practical implementation. We address this problem by developing a low-complexity practical coding and system design framework for QMF relaying. The framework presents several pragmatic design choices to achieve cooperative degree-of-freedom gains in practice. The framework uses a combination of LDPC and LDGM codes decoded jointly over a low complexity factor graph. Signal processing requirements at all terminals are shown to have linear time complexity. Density evolution tools are developed for the design of specialized linear codes and mapping functions. Based on these tools, we demonstrate the design of cooperative links that perform within 0.5-1.0dB of information-theoretic limits.
+Advisors:  Borivoje Nikolic
+BibTeX citation:
+@phdthesis{Nagpal:EECS-2012-63,
+Author= {Nagpal, Vinayak},
+Title= {Cooperative Multiplexing in Wireless Relay Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-63.html},
+Number= {UCB/EECS-2012-63},
+Abstract= {Wireless networks are experiencing an explosive growth in the number of users and the demand for data capacity. One of the methods to improve capacity is to use tighter cooperation between terminals. In order to design a cooperative wireless link, several theoretical as well as practical challenges need to be addressed. In this dissertation we develop tools for the design of practical cooperative links that perform very close to fundamental limits.
+Using the tools of information theory, we begin by showing that cooperative relaying provides additional degrees-of-freedom for communication. For a simple network with a single-antenna source, single-antenna half-duplex relay and a two antenna destination, we show that cooperation allows the link throughput to increase approximately by a factor of 2.
+This gain is achievable using the recently introduced quantize-map-and-forward (QMF) cooperation scheme. However, QMF requires joint decoding of multiple information streams at the destination. The computational complexity of joint decoding is prohibitive for practical implementation. We address this problem by developing a low-complexity practical coding and system design framework for QMF relaying. The framework presents several pragmatic design choices to achieve cooperative degree-of-freedom gains in practice. The framework uses a combination of LDPC and LDGM codes decoded jointly over a low complexity factor graph. Signal processing requirements at all terminals are shown to have linear time complexity. Density evolution tools are developed for the design of specialized linear codes and mapping functions. Based on these tools, we demonstrate the design of cooperative links that perform within 0.5-1.0dB of information-theoretic limits.},
+}
+EndNote citation:
+%0 Thesis
+%A Nagpal, Vinayak
+%T Cooperative Multiplexing in Wireless Relay Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 7
+%@ UCB/EECS-2012-63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-63.html
+%F Nagpal:EECS-2012-63

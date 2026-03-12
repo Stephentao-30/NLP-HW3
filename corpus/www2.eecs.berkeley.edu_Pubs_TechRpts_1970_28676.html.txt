@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28676.html
+Tellegen's Theorem and Thermodynamic Inequalities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Tellegen's Theorem and Thermodynamic Inequalities
+Tellegen's Theorem and Thermodynamic Inequalities
+G.F. Oster and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M289
+December 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-289.pdf
+BibTeX citation:
+@techreport{Oster:M289,
+Author = {Oster, G.F. and Desoer, C.A.},
+Title = {Tellegen's Theorem and Thermodynamic Inequalities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28676.html},
+Number = {UCB/ERL M289}
+}
+EndNote citation:
+%0 Report
+%A Oster, G.F.
+%A Desoer, C.A.
+%T Tellegen's Theorem and Thermodynamic Inequalities
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M289
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28676.html
+%F Oster:M289

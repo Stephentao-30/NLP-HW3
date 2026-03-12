@@ -1,0 +1,78 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977
+Technical Reports - 1977
+Ingres Reference Manual- Version 6.1  (M579) K. Youssefi, N. Whyte, M. Ubell, D. Ries, P. Hawthorn, B. Epstein, R. Berman and E. Allman
+A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps  (M77/78) S. Tishyadhigama, E. Polak and R. Klessig
+A Thermodynamic Approach to Dissipative Drift Instabilities  (M77/77) W.M. Nevins
+Pseudoclassical Transport in a Sheared Magnetic Field: Theory and Simulation  (M77/76) W.M. Nevins and M. Harte
+Coherent Microwave Backscatter of Natural Snowpacks  (M77/75) W.I. Linlor, D.J. Angelakos, F.D. Clapp and J.L. Smith
+Pseudoclassical Transport II: A Nonlinear Theory of the "Collisionless" Drift Instability  (M77/74) W.M. Nevins
+Pseudoclassical Transport I: The Particle and Energy Flux  (M77/73) W.M. Nevins
+The Theory of All Substructures of a Structure: Characterisation and Decision Problems  (M77/72) K.L. Manders
+Creating and Maintaining a Database Using Ingres  (M77/71) Robert Epstein
+The Lanczos Algorithm with Implicit Deflation  (M77/70) B.N. Parlett and D.S. Scott
+Practical Design Considerations for MOS Switched Capacitor Ladder Filters  (M77/69) G.M. Jacobs
+On Constraint Dropping Schemes and Optimality Functions For a Class of Outer Approximations Algorithms  (M77/68) C. Gonzaga and E. Polak
+NMOS Phase Lock Loop  (M77/67) H. Khorramabadi
+A Program to Swap Diagonal Blocks  (M77/66) B.N. Parlett
+MOS Sampled Data Recursive Filters Using State Variable Techniques  (M77/65) Bedrich J. Hosticka
+On the Implications of Capacitor-Only Cut Sets and Inductor-Only Loops in Nonlinear Networks  (M77/64) T. Matsumoto, L.O. Chua and A. Makino
+The HOPF Bifurcation Theorem and it's Application to Nonlinear Oscillations in Circuits and Systems  (M77/63) A.I. Mees
+Nonlinear Networks Synthesis and the Hodge Decomposition  (M77/62) J.L. Wyatt Jr., L.O. Chua and G.F. Oster
+PRUF- A Meaning Representation Language for Natural Languages  (M77/61) L.A. Zadeh
+A Uniform Notation for Expressing Queries  (M77/60) C.J. Prenner
+A Nonlinear Circuit Model for Impatt Diodes  (M77/59) J.W. Gannett and L.O. Chua
+A Theory of Approximate Reasoning (AR)  (M77/58) L.A. Zadeh
+Coherency Identification for Power System Dynamic Equivalents  (M77/57) F.F. Wu and N. Narasimhamurthi
+An Improved Algorithm for Optimization Problems with Functional Inequality Constraints  (M78/56) C. Gonzaga, E. Polak and R. Trahan
+Adiabatic and Stochastic Motion of Charged Particles in the Field of a Single Wave  (M77/56) A.J. Lichtenberg
+Life Cycle Consumption and Homeownership  (M77/55) R. Artle and P. Varaiya
+A Multiplier Method with Automatic Limitation of Penalty Growth  (M77/54) T. Glad and E. Polak
+Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages  (M77/53) M. Stonebraker and L.A. Rowe
+On Conditional Possibility Distributions  (M77/52) H.T. Nguyen
+A Global Representation of Multi-dimensional Piecewise-Linear Functions  (M77/51) S.M. Kang and L.O. Chua
+Linear Time-Invariant Robust Sevomechanism Problem: A Self-Containted Exposition  (M77/50) C.A. Desoer and Y.T. Wang
+SECURATE User's Manual  (M77/49) L.J. Hoffman, E.H. Michelman and D. Clements
+A New Proof of Global Convergence for the Tridiagonal QL Algorithm  (M77/48) W. Hoffman and B.N. Parlett
+A Characterization of the Minimum Cycle Mean in a Digraph  (M77/47) R.M. Karp
+Preemptive Scheduling of Unrelated Parallel Processors  (M77/46) E.L. Lawler and J. Labetoulle
+Fast Approximation Algorithms for Knapsack Problems  (M77/45) E.L. Lawler
+Multilayer Control of Large Markov Chains  (M77/44) J.P. Forestier and P. Varaiya
+Simulation of X-Ray Resist Line Edge Profiles  (M77/43) A.R. Neureuther
+Evaluation of Computer Security Systems Using a Fuzzy Rating Language  (M77/41) Don Clements
+A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects  (M77/40) L.O. Chua and Y.W. Sing
+Combined Phase I, Phase II Methods of Feasible Directions  (M77/39) E. Polak, R. Trahan and D.Q. Mayne
+On Delayed Sharing Patterns  (M77/38) P. Varaiya and J. Walrand
+A Critique of Urban Economics  (M77/37) D.A. Ribeiro
+SECURATE: A Security Evaluation and Analysis System Using Fuzzy Metrics  (M77/36) E.H. Michelman and L.J. Hoffman
+A Routing Program for Multilayer Printed Circuit Board  (M77/35) C.S. Horng and B.S. Ting
+A Study of the Effects of Locking Granularity in a Data Base Management System  (M77/34) Daniel R. Ries and M. Stonebraker
+Stochastic Control of Large Markov Chains  (M77/33) J.P. Forestier and P. Varaiya
+Decentralized Stochastic Control  (M77/32) P. Varaiya and J. Walrand
+Probabilistic Analysis of Partitioning Algorithms For the Traveling-Salesman Problem in the Plane  (M77/31) Richard M. Karp
+Explaining and Ameliorating the Ill Condition of Zeros of Polynomials  (M77/30) David G. Hough
+Input-Output Stability of Interconnected Systems Using Decompositions: An Improved Formulation  (M77/29) F.M. Callier, W.S. Chan and C.A. Desoer
+On Possibility-Qualification in Natural Languages  (M77/28) Elie Sanchez
+Roots, A Dispersion Equation Solver  (M77/27) Michael J. Gerver
+Progress in Numerical Analysis  (M77/26) B. Parlett
+A Tutorial on Ingres  (M77/25) Robert Epstein
+Linguistic Characterization of Preference Relations as a Basis for Choice in Social Systems  (M77/24) L.A. Zadeh
+And Now for Something Completely Different: The Texas Instruments SR-52  (M77/23) W. Kahan
+Can You Count on Your Calculator  (M77/21) W. Kahan and B.N. Parlett
+Eigen Fuzzy Sets and Fuzzy Relations  (M77/20) Elie Sanchez
+Bibliography of Numerical Software  (M77/19) B. Einarsson
+Computer Simulation of Monolithic Circuit Performance in the Presence of Electro-Thermal Interactions  (M77/18) K. Fukahori
+Optimal and Suboptimal Stationary Controls for Markov Chains  (M77/17) P. Varaiya
+An Approach to The Two-dimensional Placement Problem in Circuit Layout  (M77/16) S. Goto and E.S. Kuh
+On Random Sets and Belief Functions  (M77/14) H.T. Nguyen
+Vias Assignment Problem in Multilayer Printed Circuit Board  (M77/13) B.S. Ting, E. S. Kuh and A. Sangiovanni-Vincentelli
+Fuzzy Sets as a Basis for a Theory of Possibility  (M77/12) L.A. Zadeh
+Privacy Laws Affecting System Design  (M77/11) L.J. Hoffman
+An Outer Approximations Algorithm for Computer Aided Design Problems  (M77/10) D.Q. Mayne, E. Polak and R. Trahan
+Recursive Causal Linear Filtering for Two-Dimensional Random Fields  (M77/8) Eugene Wong
+An Approach to the Routing of Multilayer Printed Circuit Boards  (M77/7) B.S. Ting and E.S. Kuh
+Fuzzy Compter Security Metrics: A Preliminary Report  (M77/6) L.J. Hoffman and D. Clements
+A Set of Strategy-Independent Restructuring Algorithms  (M77/5) M. Kobayashi
+A Practical Framework for Computer Installation Security  (M77/4) Eric Michelman
+Necessary Conditions for Representability  (M77/3) Kenneth Manders
+A Low Noise Output Stage for a CCD Transversal Filter  (M77/2) Cynthia Ott
+Theory of Fuzzy Sets  (M77/1) L.A. Zadeh

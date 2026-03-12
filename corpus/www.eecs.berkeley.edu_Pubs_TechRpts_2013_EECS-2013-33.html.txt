@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-33.html
+Formation Control with Size Scaling using Relative Position Feedback
+Samuel Coogan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-33
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-33.pdf
+We consider a multiagent coordination problem where the objective is to steer a team of mobile agents into a formation of variable size. We assume the shape description of the formation is known to all agents, but the desired size scaling of the formation is known only to a subset of leader agents. We present a strategy in which each agent communicates a scalar value to its neighbors and  two strategies that allow the agents to maneuver to the desired scaled formation using only local relative position information. The first strategy does not require global knowledge of which agents are leaders, and the latter two strategies can be implemented using information gathered via local sensors with no interagent communication. We compare the methods through several examples with simulations.
+Advisors:  Murat Arcak
+BibTeX citation:
+@mastersthesis{Coogan:EECS-2013-33,
+Author= {Coogan, Samuel},
+Title= {Formation Control with Size Scaling using Relative Position Feedback},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-33.html},
+Number= {UCB/EECS-2013-33},
+Abstract= {We consider a multiagent coordination problem where the objective is to steer a team of mobile agents into a formation of variable size. We assume the shape description of the formation is known to all agents, but the desired size scaling of the formation is known only to a subset of leader agents. We present a strategy in which each agent communicates a scalar value to its neighbors and  two strategies that allow the agents to maneuver to the desired scaled formation using only local relative position information. The first strategy does not require global knowledge of which agents are leaders, and the latter two strategies can be implemented using information gathered via local sensors with no interagent communication. We compare the methods through several examples with simulations.},
+}
+EndNote citation:
+%0 Thesis
+%A Coogan, Samuel
+%T Formation Control with Size Scaling using Relative Position Feedback
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-33.html
+%F Coogan:EECS-2013-33

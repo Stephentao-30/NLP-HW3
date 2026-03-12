@@ -1,0 +1,38 @@
+URL: https://people.eecs.berkeley.edu/~benzh/glass
+HOBS
+Home
+Motivation
+Prototype
+Researchers
+Publications
+HOBS
+What is HOBS?
+HOBS enables a wide variety of applications that harness the users' head orientation.
+Motivation
+Increasingly, swarm devices in our built environment are networked and can be controlled remotely (visit  SwarmLab  and  TerraSwarm  for more on swarm vision). Their proliferation has raised the question of how to best interact with them, especially how to select the intended target. Existing list-browsing solutions have problems in scaling, and there is no consensus naming for physical appliances (use "Light 4 in area E"?).
+There are various approaches, and we take the perspective of interacting with the swarm throught visual attention -- "what you see is what you can control". We illustrate an initial approach in the following figure, where a wearable device is employed to assist such interaction.
+Prototype
+To explore and evaluate on this interaction technique, we have augmented Google Glass with a narrow-beam IR emitter for this purpose. This configuration yields a usable beam width of 2 to 4 feet (60 to 120cm) for targeting at room scale. And we instruments clients with IR receivers and LEDs for direct visual feedback.
+A user initiates interaction by looking at the appliance he wants to control. Tapping on the Glass touchpad then pulls up a user interface for that device on the display. This technique can be used to control lighting, HVAC or Smart TVs.
+Researchers
+Yu-Hsiang Chen ,
+Ben Zhang ,
+Claire Tuna ,
+Achal Dave ,
+Yang Li ,
+Edward Lee ,
+Björn Hartmann
+This project was made possible by:  CITRIS Invention Lab ,  Swarm Lab ,  TerraSwarm Research Center ,  Berkeley Institute of Design .
+Publications
+A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting
+[ paper ]
+Yu-Hsiang Chen, Ben Zhang, Claire Tuna, Yang Li, Edward A. Lee and Björn Hartmann
+EECS Department, University of California, Berkeley, Technical Report, 2013
+HOBS: Head Orientation-Based Selection in Physical Spaces
+[ paper ,
+slides ,
+doi ,
+code ]
+Ben Zhang, Yu-Hsiang Chen, Claire Tuna, Achal Dave, Yang Li, Edward A. Lee and Björn Hartmann
+ACM Symposium on Spatial User Interaction (SUI2014)
+©  Ben Zhang , Electrical Engineering & Computer Science, University of California, Berkeley. Powered by  Bootstrap .

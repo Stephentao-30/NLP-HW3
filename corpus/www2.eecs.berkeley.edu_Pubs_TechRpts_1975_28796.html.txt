@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28796.html
+Nonlinear Diakoptics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Diakoptics
+Nonlinear Diakoptics
+L.O. Chua and L.K. Chen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M495
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-495.pdf
+BibTeX citation:
+@techreport{Chua:M495,
+Author = {Chua, L.O. and Chen, L.K.},
+Title = {Nonlinear Diakoptics},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28796.html},
+Number = {UCB/ERL M495}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Chen, L.K.
+%T Nonlinear Diakoptics
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M495
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28796.html
+%F Chua:M495

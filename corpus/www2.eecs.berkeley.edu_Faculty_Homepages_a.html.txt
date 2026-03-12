@@ -1,0 +1,82 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/a.html
+Pieter Abbeel: Faculty Home Page
+Larger
+Photo
+Contact Information
+746 Sutardja Dai Hall
+tel:  (510) 642-7034
+fax:  (510) 643-1534
+pabbeel@cs.berkeley.edu
+Office Hours
+arrange via email
+Links
+Personal Homepage
+Publications
+Research Support
+Yu-Tin Kuo
+yutin@berkeley.edu
+Anne Krysiak
+annekrysiak@berkeley.edu
+Pieter Abbeel
+Professor Pieter Abbeel is Director of the Berkeley Robot Learning Lab and Co-Director of the Berkeley Artificial Intelligence (BAIR) Lab.
+Biography
+Professor Pieter Abbeel is Director of the Berkeley Robot Learning Lab and Co-Director of the Berkeley Artificial Intelligence (BAIR) Lab. Abbeel’s research strives to build ever more intelligent systems, which has his lab push the frontiers of deep reinforcement learning, deep imitation learning, deep unsupervised learning, transfer learning, meta-learning, and learning to learn, as well as study the influence of AI on society.  His lab also investigates how AI could advance other science and engineering disciplines.  Abbeel's Intro to AI class has been taken by over 100K students through edX, and his Deep RL and Deep Unsupervised Learning materials are standard references for AI researchers.  Abbeel has founded three companies: Gradescope (AI to help teachers with grading homework and exams), Covariant (AI for robotic automation of warehouses and factories), and Berkeley Open Arms (low-cost, highly capable 7-dof robot arms), advises many AI and robotics start-ups, and is a frequently sought after speaker worldwide for C-suite sessions on AI future and strategy.  Abbeel has received many awards and honors, including the PECASE, NSF-CAREER, ONR-YIP, Darpa-YFA, TR35.  His work is frequently featured in the press, including the New York Times, Wall Street Journal, BBC, Rolling Stone, Wired, and Tech Review.
+Education
+2008, Ph.D., Computer Science, Stanford University
+2000, M.S., Electrical Engineering, KU Leuven, Belgium
+Research Areas
+Artificial Intelligence (AI)
+Control, Intelligent Systems, and Robotics (CIR)
+Machine Learning
+Research Centers
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Deep Drive (BDD)
+Center for Automation and Learning for Medical Robotics (Cal-MR)
+Center for Human Compatible Artificial Intelligence (CHAI)
+CITRIS People and Robots (CPAR)
+P. Abbeel and R. Abebe, " acp1 ," test ed., test, Vol. 1, test: acp1, 2025, pp. 1.
+J. Luo, " Reinforcement Learning for Robotic Assembly with Force Control ," P. Abbeel, Ed., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2020-20, Feb. 2020.
+S. Krishnan, A. Garg, S. Patil, C. Lea, G. Hager, P. Abbeel, and K. Goldberg, " Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning ," in  International Symposium on Robotics Research (ISRR) , 2015.
+S. McKinley, A. Garg, S. Sen, R. Kapadia, A. Murali, K. Nichols, S. Lim, S. Patil, P. Abbeel, A. M. Okamura, and K. Goldberg, " A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery ," in   IEEE International Conference on Automation Science and Engineering (CASE) , 2015.
+M. Laskey, J. Mahler, Z. McCarthy, F. T. Pokorny, S. Patil, J. Van Den Berg, D. Kragic, P. Abbeel, and K. Goldberg, " Multi-Arm Bandit Models for 2D Sample Based Grasp Planning with Uncertainty ," in  IEEE International Conference on Automation Science and Engineering (CASE) , 2015.
+B. Charrow, G. Kahn, S. Patil, S. Liu, K. Goldberg, P. Abbeel, N. Michael, and V. Kumar, " Information-Theoretic Planning with Trajectory Optimization for Dense 3D Mapping ," in  Robotics: Science and Systems (RSS) Conference , 2015.
+A. Murali, S. Sen, B. Kehoe, A. Garg, S. McFarland, S. Patil, W. D. Boyd, S. Lim, P. Abbeel, and K. Goldberg, " Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms ," 2015.
+J. Mahler, S. Patil, B. Kehoe, J. Van Den Berg, M. Ciocarlie, P. Abbeel, and K. Goldberg, " GP-GPIS-OPT: Grasp Planning Under Shape Uncertainty Using Gaussian Process Implicit Surfaces and Sequential Convex Programming ," in  IEEE International Conference on Robotics and Automation , 2015.
+B. Kehoe, S. Patil, P. Abbeel, and K. Goldberg, " A Survey of Research on Cloud Robotics and Automation ,"  IEEE Trans. on Automation Science and Engineering: Special Issue on Cloud Robotics and Automation , vol. 12, no. 2, April 2015.
+J. van den Berg, P. Abbeel, and K. Goldberg, " LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information ," in  Proceedings of Robotics: Science and Systems (RSS) , 2010.
+P. Abbeel, A. Coates, and A. Y. Ng, " Autonomous Helicopter Aerobatics through Apprenticeship Learning ,"  International Journal of Robotics Research (IJRR) , June 2010.
+J. Maitin-Shepard, M. Cusumano-Towner, J. Lei, and P. Abbeel, " Cloth Grasp Point Detection based on Multiple-View Geometric Cues with Application to Robotic Towel Folding ," in  Proceedings 2010 Conference on Robotics and Automation (ICRA) , 2010.
+J. Tang, A. Singh, N. Goehausen, and P. Abbeel, " Learning Parameterized Maneuvers for Autonomous Helicopter Flight ," in  Proceedings 2010 Conference on Robotics and Automation (ICRA) , 2010.
+J. van den Berg, S. Miller, D. Duckworth, H. Hu, X. Fu, K. Goldberg, and P. Abbeel, " Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from Human-Guided Demonstrations (Best Medical Robotics Paper Award) ," in  Proceedings 2010 Conference on Robotics and Automation (ICRA) , 2010.
+P. J. From, J. T. Gravdahl, and P. Abbeel, " On the Influence of Ship Motion Prediction Accuracy on Motion Planning and Control of Robotic Manipulators on Seaborne Platforms ," in  Proceedings 2010 Conference on Robotics and Automation (ICRA) , 2010.
+S. Gleason, M. Quigley, and P. Abbeel, "An Open Source AGPS/DGPS Capable C-coded Software Receiver," in  Proceedings of the 22nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS 2009) , 2009, pp. 1926 - 1931.
+S. Gleason, M. Quigley, and P. Abbeel, "A GPS Software Receiver," in  GNSS: Applications and Methods , GNSS Technology and Applications Series, Artech House, 2009, pp. 121-148.
+A. Coates, P. Abbeel, and A. Y. Ng, " Apprenticeship Learning for Helicopter Control ,"  Communications of the ACM , July 2009.
+IEEE Kiyo Tomiyasu Award ,
+2022
+ACM Prize in Computing ,
+2021
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2018
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2018
+Google Faculty Research Award ,
+2018
+CRA-E Undergraduate Research Faculty Mentoring Award ,
+2016
+Bakar Fellows Spark Award ,
+2015
+DOD Presidential Early Career Award for Scientists and Engineers ,
+2013
+DARPA Young Faculty Award ,
+2013
+RAS Early Career Award ,
+2012
+Hellman Fellow ,
+2011
+Sloan Research Fellow ,
+2011
+MIT Tech Review Top 35 Innovators Under 35 (TR35) ,
+2011
+Okawa Research Grant ,
+2010

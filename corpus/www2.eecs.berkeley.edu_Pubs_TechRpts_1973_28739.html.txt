@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28739.html
+Realization of High Security Shared-Resource Computer Systems Based on Execute-Only Segments | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Realization of High Security Shared-Resource Computer Systems Based on Execute-Only Segments
+Realization of High Security Shared-Resource Computer Systems Based on Execute-Only Segments
+David Rabinowitz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M389
+June 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-389.pdf
+BibTeX citation:
+@techreport{Rabinowitz:M389,
+Author = {Rabinowitz, David},
+Title = {Realization of High Security Shared-Resource Computer Systems Based on Execute-Only Segments},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28739.html},
+Number = {UCB/ERL M389}
+}
+EndNote citation:
+%0 Report
+%A Rabinowitz, David
+%T Realization of High Security Shared-Resource Computer Systems Based on Execute-Only Segments
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M389
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28739.html
+%F Rabinowitz:M389

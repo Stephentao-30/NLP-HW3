@@ -1,0 +1,92 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/research/timing
+Papers on Statistical Timing
+Papers on
+Statistical Timing
+J. Le, X. Li, L. T. Pileggi,  STAC:
+Statistical timing analysis with correlation , Proc. DAC �04, pp.
+343-348.
+F. N. Najm,  N. Menezes ,  Statistical timing analysis based on a timing
+yield model , Proc. DAC �04, pp. 460-465.
+C. Visweswariah, K. Ravindran, K. Kalafala, S. G. Walker, S.
+Narayan,  First-order incremental block-based
+statistical timing analysis , Proc. DAC �04, pp. 331-336.
+P. Gupta, F.-L. Heng,  Toward a
+systematic-variation aware timing methodology . Proc. DAC �04, pp.
+321-326.
+J. Slezak, A. Litschmann, S. Banas, R. Mlcousek, M. Kejhar,  On the correlations between model process
+parameters in statistical modeling . Presentation. Proc. Nanotech �04,  Boston .
+B. Choi, D. M. H. Walker,  Timing
+analysis of combinational circuits including capacitive coupling and
+statistical process variation . 2001.
+A.  Devgan ,  Ch.  Kashyap,  Block-based static timing analysis with
+uncertainty , Proc. ICCAD �03, pp. 607-614.
+J.-J. Liou, K.-T. Cheng, S. Kundu, A. Krstic,  Fast statistical timing analysis by
+probabilistic event propagation . Proc. DAC �03, pp. 661-666.
+J.-J. Liou, A. Krstic, K.-T. Cheng, D. A. Mukherjee,  S. Kundu ,  Performance
+sensitivity analysis using statistical methods and its applications to
+delay testing . Proc. ???, 2000, pp. 587-592.
+W. Dai, H. Ji,  Timing analysis
+taking into account interconnect process variation , Proc. ???, 2001,
+pp. 51-53.
+C. Ababei, K. Bazargan,  Statistical
+timing driven partitioning for VLSI circuits .
+M. Keramat, R. Kielbasa,  A study
+of stratified sampling in variance reduction techniques for parametric
+yield estimation , IEEE Trans. Circuits and Systems � II, 45(5), May
+1998.
+C. Ababei, K. Bazargan,  Timing
+minimization by statistical timing hMetis-based partitioning .
+S. Tsukiyama, M. Tanaka, M. Fukui,  A statistical static timing analysis
+considering correlations between delays . Proc. ???, 2001, pp. 353-358.
+M. Hashimoto, H. Onodera,  A
+performance optimization method by gate resizing based on statistical
+static timing analysis . IEICE Trans. Fund. Vol. E83-A. No. 12,
+December 2000, pp. 2558-2568.
+A. Agarwal, D. Blaauw, V. Zolotov, S. Vrudhula,  Statistical timing analysis using bounds
+and selective enumeration , Proc. TAU �02.
+A. Agarwal, D. Blaauw, V. Zolotov,  S.
+Sundareswaran , M. Zhao, K. Gala, R. Panda,  Path-based statistical timing analysis
+considering inter- and intra-die correlations , Proc. TAU �02.
+S. S. Sapatnekar, P. M. Vaidya, S.-M. Kang,  Convexity-based algorithms for design
+centering .
+A.-K. S. O. Hassan,  Normed
+distances and their applications in optimal circuit design . Kluwer, Optimization
+and Engineering, 4, 2003, pp. 197-213.
+M. Keramat, R. Kielbasa,  Latin
+hypercube sampling Monte Carlo estimation of average quality index for
+integrated circuits .  Analog Integrated Circuits and Signal
+Processing, Vol. 14, no. 1/2, pp. 131-142, 1997 .
+M. Keramat, R. Kielbasa,  Modified
+Latin hypercube sampling Monte Carlo (MLHSMC) estimation for average
+quality index . Analog Integrated Circuits and Signal Processing, Vol.
+19, no. 1, 1999.
+J. A. G. Jess, K. Kalafala, S. R. Naidu, R. H. J. M. Otten, C.
+Visweswariah.  Statistical timing for parametric
+yield prediction of digital integrated circuits . Proc. DAC �03, pp.
+932-937.
+A. Dharchoudhury, S. M. Kang,  Performance-constrained
+worst-case variability minimization of VLSI circuits . Proc. DAC �03.
+A. N ardi.
+Design for manufacturability and power
+estimation , Lecture 25. Presentation.
+Ch. Visweswariah,  Death, taxes, and failing
+chips , PowerPoint  presentation .
+V. Stojanovic, D. Markovic, B. Nikolic, M. A. Horowitz, R. W.
+Brodersen,  Energy-delay tradeoffs in
+combinational logic using gate sizing and supply voltage optimization .
+Proc. European Solid-State Circuits Conf.,  Florence ,  Italy ,
+September 2002.
+J. Garrett, B. Nikolic,  Compact
+DSM MOS modeling for energy/delay estimation . Presentation at 2003
+BWRC Retreat.
+R. K. Brayton,  Statistical timing
+and synthesis . Discussion of a paper by Chandu Visweswariah (paper #3
+in the present list). November 2004.
+R. K. Brayton,  Reconvergence.
+Discussion continued. November 2004.
+Ch. E. Clark,  The greatest of a
+finite set of random variables . Operations research. Vol. 9(2),
+(Mar.-Apr, 1961), pp. 145-162.
+J.-J. Liou, A. Krstic, L.-C. Wang, K.-T. Cheng,  False-path-aware statistical timing analysis
+and efficient path selection for delay testing and timing validations .
+Proc. DAC 2003, pp. 566-569.

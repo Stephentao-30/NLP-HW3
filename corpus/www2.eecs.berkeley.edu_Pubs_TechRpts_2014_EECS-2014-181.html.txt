@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-181.html
+Synthesis of Layout Engines from Relational Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Synthesis of Layout Engines from Relational Constraints
+Synthesis of Layout Engines from Relational Constraints
+Thibaud Hottelier and Ras Bodik
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-181
+November 19, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-181.pdf
+We present an algorithm for synthesizing efficient document layout engines from relational specifications. These specifications are high level in that a single specification can produce engines for distinct layout situations. Specifically, our engines are functional attribute grammars, while the specifications are relational attribute grammars. By synthesizing functions from relations (constraints), we obviate the need for constraint solving at runtime, shifting this cost to compilation time. Intuitively, the synthesized functions execute only value propagations and bypass the backtracking search performed by constraint solvers. By working on hierarchical, grammar-induced specifications, we make synthesis applicable to previously intractable relational specifications. We decompose them into smaller subproblems which are tackled in isolation by off-the-shelf synthesis procedures. The functions thus generated are subsequently composed into an attribute grammar which satisfies the relational specification. Our experiments show that we can generate layout engines for non-trivial data visualizations, and that our synthesized engines are between 39- to 200-times faster than general-purpose constraint solvers.
+BibTeX citation:
+@techreport{Hottelier:EECS-2014-181,
+Author = {Hottelier, Thibaud and Bodik, Ras},
+Title = {Synthesis of Layout Engines from Relational Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-181.html},
+Number = {UCB/EECS-2014-181},
+Abstract = {We present an algorithm for synthesizing efficient document layout engines from relational specifications.
+These specifications are high level in that a single specification can produce engines for distinct layout situations. Specifically, our engines are functional attribute grammars, while the specifications are relational attribute grammars. By synthesizing functions from relations (constraints), we obviate the need for constraint solving at runtime, shifting this cost to compilation time. Intuitively, the synthesized functions execute only value propagations and bypass the backtracking search performed by constraint solvers. By working on hierarchical, grammar-induced specifications, we make synthesis applicable to previously intractable relational specifications. We decompose them into smaller subproblems which are tackled in isolation by off-the-shelf synthesis procedures. The functions thus generated are subsequently composed into an attribute grammar which satisfies the relational specification. Our experiments show that we can generate layout engines for non-trivial data visualizations, and that our synthesized engines are between 39- to 200-times faster than general-purpose constraint solvers.}
+}
+EndNote citation:
+%0 Report
+%A Hottelier, Thibaud
+%A Bodik, Ras
+%T Synthesis of Layout Engines from Relational Constraints
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 November 19
+%@ UCB/EECS-2014-181
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-181.html
+%F Hottelier:EECS-2014-181

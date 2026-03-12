@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28680.html
+Recent Results Concerning the Input-Output Properties of Linear Time-Invariant Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Recent Results Concerning the Input-Output Properties of Linear Time-Invariant Systems
+Recent Results Concerning the Input-Output Properties of Linear Time-Invariant Systems
+C.A. Desoer and F.L. Lam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M295
+January 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-295.pdf
+BibTeX citation:
+@techreport{Desoer:M295,
+Author = {Desoer, C.A. and Lam, F.L.},
+Title = {Recent Results Concerning the Input-Output Properties of Linear Time-Invariant Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28680.html},
+Number = {UCB/ERL M295}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Lam, F.L.
+%T Recent Results Concerning the Input-Output Properties of Linear Time-Invariant Systems
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M295
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28680.html
+%F Desoer:M295

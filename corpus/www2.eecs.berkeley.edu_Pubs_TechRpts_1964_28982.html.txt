@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28982.html
+Analog Circuits for Energy and Fuel Optimal Control of Linear Discrete Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analog Circuits for Energy and Fuel Optimal Control of Linear Discrete Systems
+Analog Circuits for Energy and Fuel Optimal Control of Linear Discrete Systems
+M.D. Canon and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M95
+August 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-95.pdf
+BibTeX citation:
+@techreport{Canon:M95,
+Author = {Canon, M.D. and Polak, E.},
+Title = {Analog Circuits for Energy and Fuel Optimal Control of Linear Discrete Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28982.html},
+Number = {UCB/ERL M95}
+}
+EndNote citation:
+%0 Report
+%A Canon, M.D.
+%A Polak, E.
+%T Analog Circuits for Energy and Fuel Optimal Control of Linear Discrete Systems
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M95
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28982.html
+%F Canon:M95

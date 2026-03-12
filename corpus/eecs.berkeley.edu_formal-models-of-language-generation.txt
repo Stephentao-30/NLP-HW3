@@ -1,0 +1,15 @@
+URL: https://eecs.berkeley.edu/formal-models-of-language-generation
+Formal Models of Language Generation - EECS at Berkeley
+Formal Models of Language Generation
+Jon Kleinberg gives his talk, “ Formal Models of Language Generation ” on April 22, 2026.
+EECS Colloquium
+Wednesday, April 22, 2026
+Banatao Auditorium – 310 Sutardja Dai Hall 4:00 – 5:00 pm
+Jon Kleinberg
+Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University
+Bio
+Jon Kleinberg is the Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University. His research focuses on the interaction of algorithms and networks, the roles they play in large-scale social and information systems, and their broader societal implications. He is a member of the National Academy of Sciences, the National Academy of Engineering, the American Academy of Arts and Sciences, and the American Philosophical Society, and he has served on advisory groups including the National AI Advisory Committee (NAIAC) and the National Research Council’s Computer Science and Telecommunications Board (CSTB) and Committee on Science, Technology, and Law (CSTL). He has received MacArthur, Packard, Simons, Sloan, and Vannevar Bush research fellowships, as well as awards including the the Nevanlinna Prize, the World Laureates Association Prize, the ACM/AAAI Allen Newell Award, and the ACM Prize in Computing.
+Abstract
+The emergence of large language models has prompted a surge of interest into theoretical models that might give us insight into both their successes and their shortcomings. We’ll give an overview of recent work in this direction, focusing on a surprising line of positive results that shows it is possible to give guarantees for language-generation algorithms even in the absence of any probabilistic assumptions, in a framework known as “language generation in the limit”. These results suggest interesting notions of “breadth” in language generation, attempting to formalize the idea that different algorithms for this problem might all meet the specification but differ significantly in their expressiveness — in how “richly” they can generate from the underlying language. We also discuss strong contrasts with classical results on language identification, showing a strong sense in which language generation and language learning are fundamentally different as computational problems. The talk will be based on joint work with Sendhil Mullainathan and Fan Wei.
+View
+Open Faculty Positions

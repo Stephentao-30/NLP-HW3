@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28729.html
+A Modified Secant Method for Unconstrained Minimization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Modified Secant Method for Unconstrained Minimization
+A Modified Secant Method for Unconstrained Minimization
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M373
+January 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-373.pdf
+BibTeX citation:
+@techreport{Polak:M373,
+Author = {Polak, E.},
+Title = {A Modified Secant Method for Unconstrained Minimization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28729.html},
+Number = {UCB/ERL M373}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T A Modified Secant Method for Unconstrained Minimization
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M373
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28729.html
+%F Polak:M373

@@ -1,0 +1,49 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-124.html
+Recognition Using Regions
+Chunhui Gu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-124
+May 29,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-124.pdf
+Multi-scale window scanning has been popular in object detection but it generalizes poorly to complex features (e.g. nonlinear SVM kernel), deformable objects (e.g. animals), and finer-grained tasks (e.g. segmentation). In contrast to that, regions are appealing as image primitives for recognition because: (1) they encode object shape and scale naturally; (2) they are only mildly affected by background clutter; and (3) they significantly reduce the set of possible object locations in images.
+In this dissertation, we propose three novel region-based frameworks to detect and segment target objects jointly, using the region detector of Arbelaez et al TPAMI2010 as input. This detector produces a hierarchical region tree for each image, where each region is represented by a rich set of image cues (shape, color and texture). Our first framework introduces a generalized Hough voting scheme to generate hypotheses of object locations and scales directly from region matching. Each hypothesis is followed by a verification classifier and a constrained segmenter. This simple yet effective framework performs highly competitively
+in both detection and segmentation tasks in the ETHZ shape and Caltech 101 databases.
+Our second framework encodes image context through the region tree configuration. We describe each leaf of the tree by features of its ancestral set, the set of regions on the path linking the leaf to the root. This ancestral set consists of all regions containing the leaf and thus provides context as inclusion relation. This property distinguishes our work from all others that encode context either by a global descriptor (e.g. "gist") or by pairwise
+neighboring relation (e.g. Conditional Random Field).
+Intra-class variation has been one of the hardest barriers in the category-level recognition, and we approach this problem in two steps. The first step studies one prominent
+type of intra-class variation, viewpoint variation, explicitly. We propose to use a mixture of holistic templates and discriminative learning for joint viewpoint classification and category detection. A number of components are learned in the mixture and they are associated with canonical viewpoints of the object through different levels of supervision. In addition, this approach has a natural extension to the continuous 3D viewpoint prediction by discriminatively learning a linear appearance model locally at each discrete view. Our systems significantly outperform the state of the arts on two 3D databases in the discrete case, and an everyday-object database that we collected on our own in the continuous case.
+The success of modeling object viewpoints motivates us to tackle the generic variation problem through component models, where each component characterizes not only a particular viewpoint of objects, but also a particular subcategory or pose. Interestingly, this approach combines naturally with our region-based object proposals. In our third framework, we form visual clusters from training data that are tight in appearance and configuration spaces. We train individual classifiers for each component and then learn to aggregate them at the category level. Our multi-component approach obtains highly competitive results on
+the challenging VOC PASCAL 2010 database. Furthermore, our approach allows the transfer of finer-grained semantic information from the components, such as keypoint locations
+and segmentation masks.
+Advisors:  Jitendra Malik
+BibTeX citation:
+@phdthesis{Gu:EECS-2012-124,
+Author= {Gu, Chunhui},
+Title= {Recognition Using Regions},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-124.html},
+Number= {UCB/EECS-2012-124},
+Abstract= {Multi-scale window scanning has been popular in object detection but it generalizes poorly to complex features (e.g. nonlinear SVM kernel), deformable objects (e.g. animals), and finer-grained tasks (e.g. segmentation). In contrast to that, regions are appealing as image primitives for recognition because: (1) they encode object shape and scale naturally; (2) they are only mildly affected by background clutter; and (3) they significantly reduce the set of possible object locations in images.
+In this dissertation, we propose three novel region-based frameworks to detect and segment target objects jointly, using the region detector of Arbelaez et al TPAMI2010 as input. This detector produces a hierarchical region tree for each image, where each region is represented by a rich set of image cues (shape, color and texture). Our first framework introduces a generalized Hough voting scheme to generate hypotheses of object locations and scales directly from region matching. Each hypothesis is followed by a verification classifier and a constrained segmenter. This simple yet effective framework performs highly competitively
+in both detection and segmentation tasks in the ETHZ shape and Caltech 101 databases.
+Our second framework encodes image context through the region tree configuration. We describe each leaf of the tree by features of its ancestral set, the set of regions on the path linking the leaf to the root. This ancestral set consists of all regions containing the leaf and thus provides context as inclusion relation. This property distinguishes our work from all others that encode context either by a global descriptor (e.g. "gist") or by pairwise
+neighboring relation (e.g. Conditional Random Field).
+Intra-class variation has been one of the hardest barriers in the category-level recognition, and we approach this problem in two steps. The first step studies one prominent
+type of intra-class variation, viewpoint variation, explicitly. We propose to use a mixture of holistic templates and discriminative learning for joint viewpoint classification and category detection. A number of components are learned in the mixture and they are associated with canonical viewpoints of the object through different levels of supervision. In addition, this approach has a natural extension to the continuous 3D viewpoint prediction by discriminatively learning a linear appearance model locally at each discrete view. Our systems significantly outperform the state of the arts on two 3D databases in the discrete case, and an everyday-object database that we collected on our own in the continuous case.
+The success of modeling object viewpoints motivates us to tackle the generic variation problem through component models, where each component characterizes not only a particular viewpoint of objects, but also a particular subcategory or pose. Interestingly, this approach combines naturally with our region-based object proposals. In our third framework, we form visual clusters from training data that are tight in appearance and configuration spaces. We train individual classifiers for each component and then learn to aggregate them at the category level. Our multi-component approach obtains highly competitive results on
+the challenging VOC PASCAL 2010 database. Furthermore, our approach allows the transfer of finer-grained semantic information from the components, such as keypoint locations
+and segmentation masks.},
+}
+EndNote citation:
+%0 Thesis
+%A Gu, Chunhui
+%T Recognition Using Regions
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 29
+%@ UCB/EECS-2012-124
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-124.html
+%F Gu:EECS-2012-124

@@ -1,0 +1,50 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/wawrzynek.html
+John Wawrzynek: Faculty Home Page
+Larger Photo
+John Wawrzynek
+Professor, CS Division Chair
+Contact Information
+631 Soda Hall
+tel:  510-643-9434
+johnw@cs.berkeley.edu
+Office Hours
+By Appointment Only, 631 Soda
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Janet Vela
+j.vela@berkeley.edu
+Biography
+He received a B.S. in Electrical Engineering from SUNY, Buffalo, 1977, a M.S. in EE from the University of Illinois, Urbana/Champaign, 1979, and a Ph.D. in Computer Science from the California Institute of Technology, 1987.  Prior to joining the EECS faculty in 1988 he was a consultant at Schlumberger Palo Alto Research.  Honors and awards include the Charles Lee Powell Fellowship, 1985; the NASA Certificate of Recognition, 1983; and the Rensselaer Engineering and Science Medal, 1975.
+Research Areas
+Computer Architecture & Engineering (ARC)
+Research Centers
+Berkeley Wireless Research Center (BWRC)
+Please see Google Scholar for a complete list of publications.
+N. Goyal, J. Wawrzynek, and J. D. Kubiatowicz, " Global Data Plane Router on Click ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2015-234, Dec. 2015.
+Z. Hyder and J. Wawrzynek, " Best Paper Award: Defect tolerance in multiple-FPGA systems ," in  Proc. IEEE 15th Intl. Conf. on Field Programmable Logic and Applications (FPL2005) , T. Rissa, S. Wilton, and P. Leong, Eds., Piscataway, NJ: IEEE Press, 2005, pp. 247-254.
+C. Chang, J. Wawrzynek, and R. W. Brodersen, " BEE2: A high-end reconfigurable computing system ,"  IEEE Design and Test of Computers , vol. 22, no. 2, pp. 114-125, March 2005.
+N. Weaver, J. Hauser, and J. Wawrzynek, " The SFRA: A corner-turn FPGA architecture ," in  Proc. 2004 ACM/SIGDA 12th Intl. Symp. on Field Programmable Gate Arrays , New York, NY: ACM Press, 2004, pp. 3-12.
+J. Yeh and J. Wawrzynek, " Compute-resource allocation for motion estimation in real-time video compression ," in  Conf. Record of the 37th Asilomar Conf. on Signals, Systems & Computers , M. B. Matthews, Ed., Vol. 2, Piscataway, NJ: IEEE Press, 2003, pp. 1558-1561.
+Y. Markovskiy, E. Caspi, R. Huang, J. Yeh, M. Chu, J. Wawrzynek, and A. DeHon, " Analysis of quasi-static scheduling techniques in a virtualized reconfigurable machine ," in  Proc. 2002 ACM/SIGDA 10th Intl. Symp. on Field-Programmable Gate Arrays , New York, NY: ACM Press, 2002, pp. 196-205.
+J. Lazzaro and J. Wawrzynek, " Compiling MPEG 4 structured audio into C ," in  2001 Proc. of Workshop and Exhibition on MPEG-4 , Piscataway, NJ: IEEE Press, 2001, pp. 5-8.
+T. J. Callahan and J. Wawrzynek, " Adapting software pipelining for reconfigurable computing ," in  Proc. 2000 Intl. Conf. on Compilers, Architecture, and Synthesis for Embedded Systems , New York, NY: ACM Press, 2000, pp. 57-64.
+E. Caspi, M. Chu, R. Huang, J. Yeh, J. Wawrzynek, and A. DeHon, " Stream computations organized for reconfigurable execution (SCORE) ," in  The Roadmap to Reconfigurable Computing: Proc. 10th Intl. Workshop on Field-Programmable Logic and Applications , R. W. Hartenstein and H. Grunbacher, Eds., Lecture Notes in Computer Science, Vol. 1896, London, UK: Springer-Verlag, 2000, pp. 605-614.
+T. J. Callahan, J. R. Hauser, and J. Wawrzynek, " The Garp architecture and C compiler ,"  Computer , vol. 33, no. 4, pp. 62-69, April 2000.
+A. DeHon and J. Wawrzynek, " Reconfigurable computing: What, why, and implications for design automation ," in  Proc. 36th Annual ACM/IEEE Conf. on Design Automation , M. J. Irwin, Ed., New York, NY: ACM Press, 1999, pp. 610-615.
+W. Tsu, K. Macy, A. Joshi, R. Huang, N. Walker, T. Tung, O. Rowhani, V. George, J. Wawrzynek, and A. DeHon, " HSRA: High-speed, hierarchical synchronous reconfigurable array ," in  Proc. 1999 ACM/SIGDA 7th Intl. Symp. on Field Programmable Gate Arrays , New York, NY: ACM Press, 1999, pp. 125-134.
+T. J. Callahan and J. Wawrzynek, " Instruction-level parallelism for reconfigurable computing ," in  Proc. 8th Intl. Workshop on Field-Programmable Logic and Applications: From FPGAs to Computing Paradigm , R. W. Hartenstein and A. Keevallik, Eds., Lecture Notes in Computer Science, Vol. 1482, London, UK: Springer-Verlag, 1998, pp. 248-257.
+M. Chu, N. Weaver, K. Sulimma, A. DeHon, and J. Wawrzynek, " Object oriented circuit-generators in Java ," in  Proc. 1998 IEEE Symp. on FPGAs for Custom Computing Machines , K. L. Pocek and J. M. Arnold, Eds., Los Alamitos, CA: IEEE Computer Society, 1998, pp. 158-166.
+T. J. Callahan, P. Chong, A. DeHon, and J. Wawrzynek, " Fast module mapping and placement for datapaths in FPGAs ," in  Proc. 1998 ACM/SIGDA 6th Intl. Symp. on Field Programmable Gate Arrays , New York, NY: ACM Press, 1998, pp. 123-132.
+J. R. Hauser and J. Wawrzynek, " Garp: A MIPS processor with a reconfigurable coprocessor ," in  Proc. 5th Annual IEEE Symp. on FPGAs for Custom Computing Machines , Los Alamitos, CA: IEEE Computer Society, 1997, pp. 12-21.
+J. Wawrzynek, K. Asanovic, B. Kingsbury, D. Johnson, J. Beck, and N. Morgan, " Spert-II: A vector microprocessor system ,"  Computer , vol. 29, no. 3, pp. 79-86, March 1996.
+D. E. Culler, A. Sah, K. E. Schauser, T. von Eicken, and J. Wawrzynek, " Fine-grain parallelism with minimal hardware support: A compiler-controlled threaded abstract machine ," in  Proc. 4th Intl. Conf. on Architectural Support for Programming Languages and Operating Systems , New York, NY: ACM Press, 1991, pp. 164-175.
+J. Wawrzynek, "VLSI models for sound synthesis," in  Current Directions in Computer Music Research , M. V. Mathews and J. R. Pierce, Eds., MIT Press Series in System Development Foundation Benchmark, Cambridge, MA: MIT Press, 1989, pp. 113-148.
+DAC's Most Influential Paper Award ,
+2025
+NSF Presidential Young Investigator (PYI) ,
+1989
+Charles Lee Powell Fellowship ,
+1985

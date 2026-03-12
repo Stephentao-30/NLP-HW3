@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-47.html
+Differential Disclosure of Information | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Differential Disclosure of Information
+Differential Disclosure of Information
+Daniel Aranki and Ruzena Bajcsy
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-47
+May 2, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-47.pdf
+Information disclosure is the process of transactions for delivering or revealing information from one party to other parties. The transaction happens between two ends, the first being the disclosing party, usually considered the owner of the information (or owner of the rights of the information). The second end of the transaction is the receiving party. In many cases, the receiving party of the transaction may include entities that are untrusted by the disclosing party (adversaries). In many cases, there is asymmetry in the knowledge between the intended recipient of the information and the adversarial entities, where the intended recipient of the information has more certain knowledge than the adversary about the sender of the information. This asymmetry can be exploited by the disclosing party to protect its privacy. In this report we present a framework of information disclosure under the assumption that adversaries exist in the receiving party such that asymmetry in knowledge between the intended recipient and the adversarial entities exist giving advantage to the intended recipient. We propose a way to disclose the information such that it can have as little utility as possible to these adversarial entities in a classification and inference settings.
+BibTeX citation:
+@techreport{Aranki:EECS-2014-47,
+Author = {Aranki, Daniel and Bajcsy, Ruzena},
+Title = {Differential Disclosure of Information},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-47.html},
+Number = {UCB/EECS-2014-47},
+Abstract = {Information disclosure is the process of transactions for delivering or revealing information from one party to other parties. The transaction happens between two ends, the first being the disclosing party, usually considered the owner of the information (or owner of the rights of the information). The second end of the transaction is the receiving party. In many cases, the receiving party of the transaction may include entities that are untrusted by the disclosing party (adversaries). In many cases, there is asymmetry in the knowledge between the intended recipient of the information and the adversarial entities, where the intended recipient of the information has more certain knowledge than the adversary about the sender of the information. This asymmetry can be exploited by the disclosing party to protect its privacy. In this report we present a framework of information disclosure under the assumption that adversaries exist in the receiving party such that asymmetry in knowledge between the intended recipient and the adversarial entities exist giving advantage to the intended recipient. We propose a way to disclose the information such that it can have as little utility as possible to these adversarial entities in a classification and inference settings.}
+}
+EndNote citation:
+%0 Report
+%A Aranki, Daniel
+%A Bajcsy, Ruzena
+%T Differential Disclosure of Information
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 2
+%@ UCB/EECS-2014-47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-47.html
+%F Aranki:EECS-2014-47

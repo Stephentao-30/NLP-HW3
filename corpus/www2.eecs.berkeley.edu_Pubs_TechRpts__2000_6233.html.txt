@@ -1,0 +1,46 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts//2000/6233.html
+%s ",$title,$link,$text);
+return $button;
+}
+?>
+Type Systems for Distributed Data Structures | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Type Systems for Distributed Data Structures
+Ben Liblit and Alexander Aiken
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-99-1072
+2000
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1999/CSD-99-1072.pdf
+Distributed-memory programs are often written using a global address space: any process can name any memory location on any processor. Some languages completely hide the distinction between local and remote memory, simplifying the programming model at some performance cost. Other languages give the programmer more explicit control, offering better potential performance but sacrificing both soundness and ease of use.  Through a series of progressively richer type systems, we formalize the complex issues surrounding sound computation with explicitly distributed data structures. We then illustrate how type inference can subsume much of this complexity, letting programmers work at whatever level of detail is needed. Experiments conducted with the Titanium programming language show that this can result in easier development and significant performance improvements over manual optimization of local and global memory.
+";
+?>
+BibTeX citation:
+@techreport{Liblit:CSD-99-1072,
+Author = {Liblit, Ben and Aiken, Alexander},
+Title = {Type Systems for Distributed Data Structures},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2000},
+Month = {Jan},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/2000/6233.html},
+Number = {UCB/CSD-99-1072}
+}
+EndNote citation:
+%0 Report
+%A Liblit, Ben
+%A Aiken, Alexander
+%T Type Systems for Distributed Data Structures
+%I EECS Department, University of California, Berkeley
+%D 2000
+%@ UCB/CSD-99-1072
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/2000/6233.html
+%F Liblit:CSD-99-1072
+Home
+|
+©
+UC Berkeley EECS
+|
+|
+Contact Webteam

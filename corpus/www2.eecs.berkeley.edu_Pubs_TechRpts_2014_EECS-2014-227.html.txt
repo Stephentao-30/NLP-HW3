@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-227.html
+Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology
+Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology
+I-Ru Chen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-227
+December 19, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-227.pdf
+Energy-efficient switching devices have become ever more important with the emergence of ubiquitous computing. NEM relays are promising to complement CMOS transistors as circuit building blocks for future ultra-low-power information processing, and as such have recently attracted significant attention from the semiconductor industry and researchers. Relay technology potentially can overcome the energy efficiency limit for conventional CMOS technology due to several key characteristics, including zero OFF-state leakage, abrupt switching behavior, and potentially very low active energy consumption. However, two key issues must be addressed for relay technology to reach its full potential: surface oxide formation at the contacting surfaces leading to increased ON-state resistance after switching, and high switching voltages due to strain gradient present within the relay structure.
+This dissertation advances NEM relay technology by investigating solutions to both of these pressing issues. Ruthenium, whose native oxide is conductive, is proposed as the contacting material to improve relay ON-state resistance stability. Ruthenium-contact relays are fabricated after overcoming several process integration challenges, and show superior ON-state resistance stability in electrical measurements and extended device lifetime. The relay structural film is optimized via stress matching among all layers within the structure, to provide lower strain gradient (below 10 -3  µm -1 ) and hence lower switching voltage. These advancements in relay technology, along with the integration of a metallic interconnect layer, enable complex relay-based circuit demonstration. In addition to the experimental efforts, this dissertation theoretically analyzes the energy efficiency limit of a NEM switch, which is generally believed to be limited by the surface adhesion energy. New compact (less than 1 µm 2  footprint), low-voltage (less than 0.1 V) switch designs are proposed to overcome this limit. The results pave a pathway to scaled energy-efficient electronic device technology.
+Advisor:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Chen:EECS-2014-227,
+Author = {Chen, I-Ru},
+Title = {Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-227.html},
+Number = {UCB/EECS-2014-227},
+Abstract = {Energy-efficient switching devices have become ever more important with the emergence of ubiquitous computing. NEM relays are promising to complement CMOS transistors as circuit building blocks for future ultra-low-power information processing, and as such have recently attracted significant attention from the semiconductor industry and researchers. Relay technology potentially can overcome the energy efficiency limit for conventional CMOS technology due to several key characteristics, including zero OFF-state leakage, abrupt switching behavior, and potentially very low active energy consumption. However, two key issues must be addressed for relay technology to reach its full potential: surface oxide formation at the contacting surfaces leading to increased ON-state resistance after switching, and high switching voltages due to strain gradient present within the relay structure.
+This dissertation advances NEM relay technology by investigating solutions to both of these pressing issues. Ruthenium, whose native oxide is conductive, is proposed as the contacting material to improve relay ON-state resistance stability. Ruthenium-contact relays are fabricated after overcoming several process integration challenges, and show superior ON-state resistance stability in electrical measurements and extended device lifetime. The relay structural film is optimized via stress matching among all layers within the structure, to provide lower strain gradient (below 10<sup>-3</sup> µm<sup>-1</sup>) and hence lower switching voltage. These advancements in relay technology, along with the integration of a metallic interconnect layer, enable complex relay-based circuit demonstration. In addition to the experimental efforts, this dissertation theoretically analyzes the energy efficiency limit of a NEM switch, which is generally believed to be limited by the surface adhesion energy. New compact (less than 1 µm<sup>2</sup> footprint), low-voltage (less than 0.1 V) switch designs are proposed to overcome this limit. The results pave a pathway to scaled energy-efficient electronic device technology.}
+}
+EndNote citation:
+%0 Thesis
+%A Chen, I-Ru
+%T Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 19
+%@ UCB/EECS-2014-227
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-227.html
+%F Chen:EECS-2014-227

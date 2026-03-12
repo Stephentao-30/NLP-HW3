@@ -1,0 +1,175 @@
+URL: https://eecs.berkeley.edu/book/online-specializations-programs/ic/courses/eew240a
+EE W240A Course Overview: Analog Integrated Circuits - EECS at Berkeley
+EE W240A Course Overview: Analog Integrated Circuits
+In This Page
+Course Description
+Learning Objectives
+Intended Audience
+Prerequisites
+Course Outline
+Module by Module Summary
+Instructional Methodology
+Grading
+Required Readings, Supplements, and Materials
+Purpose of the Course/Course Description
+Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators.
+The first part of the course reviews the small-signal models of both Bipolar Junction Transistor (BJT) and Metal-Oxide-Semiconductor (MOS) transistors. BJT and MOS multi-transistor amplifiers are reviewed next with an emphasis on inspection analysis of multi-transistor circuits. We will review the application of transistors in the design of various basic analog circuit blocks that are utilized in the implementation of a complete integrated operational amplifier circuit. current sources and current mirrors, level shifters, active loads, and differential amplifier stages. We will study the feedback and its use to stabilize the response and performance of amplifier circuits. A design project will involve the design and simulation of a CMOS op amp using available CAD tools.
+Learning Objectives (Goals/Takeaways)
+When students have completed this course, they will:
+Explain bias points, gain, impedance, and frequency response for multiple transistor amplifier circuits, for both BJT and MOS transistors, including cascodes and cascades, either actively or passively loaded.
+Analyze and design differential pair amplifiers, either actively or passively loaded, including such concepts as biasing, differential-mode gain, common-mode gain, CMRR, half-circuits, and various impedances.
+Determine output current, output resistance, and output swing for a circuit using a given (possibly unfamiliar) current source.
+Analyze and design output stages, including Class A and Class B designs.
+Derive input offset voltages and currents for unfamiliar circuits.
+Explain and apply compensation design and techniques, including an understanding of feedback concepts (e.g., closed-loop gain, loop transmission, etc. …), phase margin, narrow-banding, and pole splitting.
+Explain and apply techniques for maximizing slew rate in amplifiers.
+Determine common-mode input range, power supply rejection ratio, common-mode rejection ratio, slew rate, phase margin, input offset voltage, as well as gain, frequency, and impedances for operational amplifier circuits, in either bipolar or MOS technology (or both), including biasing and all aspects of small-signal and large-signal performance.
+Design an op amp given a constraining set of specifications.
+Analyze general feedback circuits, including an understanding of feedback connection types, feedback loading, the four general amplifier types and their ideal characteristics, and biasing via feedback.
+Intended Audience
+This program seeks to fill the educational gaps within the field of integrated circuit design and semiconductor devices using a fully online and interactive method. This is a base graduate-level course in analog IC design to provide an entry point for the aspiring analog and mixed-signal IC designers.
+Students taking this graduate-level course will be mastering, in both breadth and depth, the domain of analog IC design, as taught by some of the most accomplished leaders and innovators in the field. Upon taking the class, they will have acquired the basic skills in analysis and design in the area of analog ICs and laid the foundation to take-on an advanced analog and mixed-signal IC design courses – EE W240B as well as EE W242A, EE 242B upon which they will be ready to tackle the state-of-the-art analog, RF and mixed-signal IC design challenges.
+Prerequisites
+There are no prior graduate-level course requirements.
+Course Content Outline
+1. Op-Amps Review:
+Topic 1: Op Amp Review
+Topic 2: Device Operations/Models – BJT
+Topic 3: Device Operations/Models – MOS
+2. Inspection Analysis:
+Topic 4: Bipolar Inspection Analysis
+Topic 5: MOS Inspection Analysis – BJT
+3. Frequency Response:
+Topic 6: Frequency Response Inspection Analysis
+4. Active Loads & Current Sources:
+Topic 7: Active Loads & Current Sources
+Topic 8: Supply and Temperature Independent Biasing
+Topic 9: High Swing Current Sources
+Topic 10: Current Source Matching
+5. Ideal Op Amps & Emitter-Coupled Pairs:
+Topic 11: Ideal Op Amps
+Topic 12: Emitter-Coupled Pairs (BJT)
+6. Source-Coupled Pairs (MOS):
+Topic 13: Source-Coupled Pairs & Current Mirror Loads
+7. Op Amp Non-Idealities Part I:
+Topic 14: Input Offset Voltage & Finite Gain Bandwidth
+Topic 15 – High Gain Op Amps
+Topic 16 – Slew Rate
+8. Output Stages:
+Topic 17 – Output Stages
+9. Stability and Compensation:
+Topic 18 – Stability
+Topic 19 – Compensation
+Topic 20 – Choosing Cc
+10. Practical Stability and Compensation:
+Topic 21 – CMOS Op Amp Compensation
+Topic 22 – Pole/Zero Plots
+Topic 23 – Right Half Plane (RHP) Zero
+11. Op Amp Non-Idealities Part II:
+Topic 24 – Slew Rate Revisited
+Topic 25 – Settling Time & Power Supply Rejection Ratio
+12. Feedback:
+Topic 26 – Feedback
+Topic 27 – Loading
+Topic 28 – Feedback by Inspection
+Module by Module Summary
+Each module has an associated problem set. There are three labs including a design project.
+Module
+Topic
+Module 1
+Op-Amps Review
+Module 2
+Inspection Analysis
+Module 3
+Frequency Response
+Module 4
+Active Loads & Current Sources
+Module 5
+Ideal Op Amps & Emitter-Coupled Pairs
+Module 6
+Source-Coupled Pairs (MOS)
+Module 7
+Op Amp Non-Idealities Part I
+Module 8
+Output Stages
+Module 9
+Stability and Compensation
+Module 10
+Practical Stability and Compensation
+Module 11
+Op Amp Non-Idealities Part II
+Module 12
+Feedback
+Lab 1: MOS Amplifier Analysis and Design Part I & Part II
+Lab 2: Discrete BJT Op Amp Analysis and Design
+Lab 3: CMOS Op Amp Design Project
+Instructional Methodology (Modes of Instruction)
+Modules
+A module is a grouping of topics related to one area of study, typically with readings, lectures and various kinds of assignments. Each module contains a list of Learning Outcomes for the module. Your assignments reflect the learning activities to perform to reach those outcomes.
+Multimedia Lectures
+Recorded lectures support your readings and assignments but also contain additional material that may be included in the exams. Each lecture has been broken into sections. You are expected to take notes while viewing the lectures as you would in a regular classroom.
+Reading Assignments
+Reading assignments include sections of the required textbook, distributed readings, and supplementary notes. Reading assignments are indicated on Module Overview pages, and will also be included in homework assignments where appropriate. Supplementary notes will be provided for topics where lecture coverage is substantially different from the textbook. Students are responsible for all material in the reading. In particular, the scope of coverage for problem sets, quizzes, the design project, and the final examination includes the reading assignments as well as lecture material.
+Software
+You will be using HSpice for all of the software simulation homework and lab assignments. We will provide accounts so that you can access all of the necessary software for your course work. You will receive an email containing your remote access instructions during the first week of the course.
+Office Hours & Discussion Sessions
+We will use the web conferencing tool Zoom to hold live instructional sessions online. You will be able to ask questions via webcam, microphone, and text chat. You can enter the online classroom through the classroom home page.
+Office hours will be held once a week by both the instructor and graduate course facilitators.
+Discussion sessions are weekly supplementary 1hr live sessions, and will be led by the designated graduate course facilitators. They typically take a more in-depth look at topics covered in the lecture videos.
+Course Grade Weighting (Grading)
+Grading Policies
+Course grades will be assigned according to the following tentative grading formula:
+Participation (5%)
+The grade for participation will be assigned according to your overall engagement with the course material, and your communication with the course instructor and the graduate course facilitator via email and in office hours.
+Problem Sets (25%)
+There will be a number of problem sets assigned over the course of the semester, approximately one per week. Electronic versions of your completed problem sets should be turned in online by the suggested due date assigned. Solutions will be posted on the next Modules page the Thursday following the week the Problem Set is due at 2 p.m. PST. Work submitted late will lose 5% per day. If the work is submitted after the solutions are released then it is a 10% loss per day. For example, a problem set due on a Sunday and submitted on the following Thursday after the solutions are released will lose 40%.
+You are encouraged to discuss problems with other students in the class and the course facilitator. However, the work which you submit must be your own.
+Lab Projects (20%)
+The laboratory exercises are intended to reinforce the material covered in modules and in problem sets. All labs will be completed online, using hand calculations and HSpice simulations. The topics covered in the labs are coordinated with the modules, but may lag somewhat later on in the semester.
+Lab 1: MOSFET Amplifier Analysis & Design Parts I & II – 200 points
+Lab 2: Discrete BJT Op Amp Analysis & Design – 300 points
+Lab 3: CMOS Op Amp Design Project – 900 points
+Total – 1400 points
+Midterm (25%)
+There will be a midterm exam in this course to be held on the date shown in your course schedule. The midterm will be given online, made available for a specific window of time. We will try to adhere to this date so much as possible. The midterm will be a 2.5-hour exam and will be closed book. You may use a calculator and one 8.5″ x 11″ sheet of notes. More information on the exam will be provided later.
+Final Exam (25%)
+The final exam will be comprehensive, covering all of the material in the course. The exam will be closed book, though notes will be allowed. Students will not be allowed to use a calculator.
+The final exam must be a live, proctored exam. We will provide information by email on how to arrange for your proctored exam session remotely.
+Letter grades will be assigned based approximately on the following scale:
+UC Berkeley Grading System
+Letter Grade
+A
+A-
+B+
+B
+B-
+C+
+C
+C-
+D+
+D
+D-
+F
+Percentage
+100-94
+93-90
+89-86
+85-83
+82-80
+79-76
+75-73
+72-70
+69-66
+65-63
+62-60
+<60
+Required Readings, Supplements, and Materials
+Textbooks
+Required Materials
+Analysis and Design of Analog Integrated Circuits , Gray, Hurst, Lewis, Meyer, 5th Edition, John Wiley & Sons, 2009.
+Recommended References
+Design of Analog CMOS Integrated Circuits , B. Razavi, 1st Edition, McGraw Hill, 2001.
+< EECS Online Graduate Specialization Programs
+EECS Online Graduate Specialization Programs >
+View
+Open Faculty Positions

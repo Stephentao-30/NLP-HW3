@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29414.html
+A New Analytical Representation for Section-Wise Piecewise-Linear Functions and its Applications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A New Analytical Representation for Section-Wise Piecewise-Linear Functions and its Applications
+A New Analytical Representation for Section-Wise Piecewise-Linear Functions and its Applications
+Leon O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M585
+March 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-585.pdf
+BibTeX citation:
+@techreport{Chua:M585,
+Author = {Chua, Leon O.},
+Title = {A New Analytical Representation for Section-Wise Piecewise-Linear Functions and its Applications},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29414.html},
+Number = {UCB/ERL M585}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%T A New Analytical Representation for Section-Wise Piecewise-Linear Functions and its Applications
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M585
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29414.html
+%F Chua:M585

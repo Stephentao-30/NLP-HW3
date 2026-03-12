@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-204.html
+Delay Comparison of Different Switch Architectures
+Stephan Adams and Longbo Huang and Abhay Parekh and Jean Walrand
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-204
+December 13,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-204.pdf
+We compare the delays experienced by packet flows when transmitted using different scheduling algorithms across a crossbar switch.  The two scheduling algorithms we consider are iterative SLIP [McKeown 1999] and QCSMA [Jiang & Walrand 2010].  We first compare them under the assumptions that all packets have the same length, and then under the assumption that the half the packets have the maximum allowable length and half have the minimum allowable length.  Our findings suggest that the variation in packet length has a non-negligible effect on throughput vs delay results.  For long-lived TCP connections with varying packet lengths, QCSMA derived schedulers seem to do only marginally better than SLIP.  In highly loaded core switches with many short-lived TCP connections, we expect to see a large improvement in delay performance of QCSMA over SLIP.
+Advisors:  Jean Walrand
+BibTeX citation:
+@mastersthesis{Adams:EECS-2013-204,
+Author= {Adams, Stephan and Huang, Longbo and Parekh, Abhay and Walrand, Jean},
+Title= {Delay Comparison of Different Switch Architectures},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-204.html},
+Number= {UCB/EECS-2013-204},
+Abstract= { We compare the delays experienced by packet flows when transmitted using different scheduling algorithms across a crossbar switch.  The two scheduling algorithms we consider are iterative SLIP [McKeown 1999] and QCSMA [Jiang & Walrand 2010].  We first compare them under the assumptions that all packets have the same length, and then under the assumption that the half the packets have the maximum allowable length and half have the minimum allowable length.  Our findings suggest that the variation in packet length has a non-negligible effect on throughput vs delay results.  For long-lived TCP connections with varying packet lengths, QCSMA derived schedulers seem to do only marginally better than SLIP.  In highly loaded core switches with many short-lived TCP connections, we expect to see a large improvement in delay performance of QCSMA over SLIP.},
+}
+EndNote citation:
+%0 Thesis
+%A Adams, Stephan
+%A Huang, Longbo
+%A Parekh, Abhay
+%A Walrand, Jean
+%T Delay Comparison of Different Switch Architectures
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 13
+%@ UCB/EECS-2013-204
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-204.html
+%F Adams:EECS-2013-204

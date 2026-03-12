@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28753.html
+On the Analysis of Large-Scale Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Analysis of Large-Scale Systems
+On the Analysis of Large-Scale Systems
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M418
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-418.pdf
+BibTeX citation:
+@techreport{Zadeh:M418,
+Author = {Zadeh, L.A.},
+Title = {On the Analysis of Large-Scale Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28753.html},
+Number = {UCB/ERL M418}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T On the Analysis of Large-Scale Systems
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M418
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28753.html
+%F Zadeh:M418

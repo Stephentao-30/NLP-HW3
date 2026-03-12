@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-243.html
+Active Testing: Predicting and Confirming Concurrency Bugs for Concurrent and Distributed Memory Parallel Systems
+Chang Seo Park
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-243
+December 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-243.pdf
+Parallel and concurrent software sometimes exhibit incorrect behavior because of unintended interference between different threads of execution. Common classes of concurrency bugs include data races, deadlocks, and atomicity violations. These bugs are often non-deterministic and hard to find without sophisticated tools. We present Active Testing, a methodology to effectively find concurrency bugs that scales to large distributed memory parallel systems.
+Active Testing combines the coverage and predictive power of program analysis with the familiarity of testing. It works in two phases: in the predictive analysis phase, a program is executed and monitored for potential concurrency bugs and in the testing phase, Active Testing re-executes the program while controlling the thread schedules in an attempt to reproduce the bug predicted in the first phase.
+We have implemented Active Testing for multi-threaded Java programs in the
+CalFuzzer framework. We have also developed UPC-Thrille, an Active Testing framework for Unified Parallel C (UPC) programs written in the Single Program Multiple Data (SPMD) programming model combined with the Partitioned Global Address Space (PGAS) memory model. We explain in detail the design decisions and optimizations that were necessary to scale Active Testing to thousands of cores. We present extensions to UPC-Thrille that support hybrid memory models as well.
+We evaluate the effectiveness of Active Testing by running our tools on several Java and UPC benchmarks, showing that it can predict and confirm real concurrency bugs with low overhead. We demonstrate the scalability of Active Testing by running benchmarks with UPC-Thrille on large clusters with thousands of cores.
+Advisors:  Koushik Sen
+BibTeX citation:
+@phdthesis{Park:EECS-2012-243,
+Author= {Park, Chang Seo},
+Title= {Active Testing: Predicting and Confirming Concurrency Bugs for Concurrent and Distributed Memory Parallel Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-243.html},
+Number= {UCB/EECS-2012-243},
+Abstract= {Parallel and concurrent software sometimes exhibit incorrect behavior because of unintended interference between different threads of execution. Common classes of concurrency bugs include data races, deadlocks, and atomicity violations. These bugs are often non-deterministic and hard to find without sophisticated tools. We present Active Testing, a methodology to effectively find concurrency bugs that scales to large distributed memory parallel systems.
+Active Testing combines the coverage and predictive power of program analysis with the familiarity of testing. It works in two phases: in the predictive analysis phase, a program is executed and monitored for potential concurrency bugs and in the testing phase, Active Testing re-executes the program while controlling the thread schedules in an attempt to reproduce the bug predicted in the first phase.
+We have implemented Active Testing for multi-threaded Java programs in the
+CalFuzzer framework. We have also developed UPC-Thrille, an Active Testing framework for Unified Parallel C (UPC) programs written in the Single Program Multiple Data (SPMD) programming model combined with the Partitioned Global Address Space (PGAS) memory model. We explain in detail the design decisions and optimizations that were necessary to scale Active Testing to thousands of cores. We present extensions to UPC-Thrille that support hybrid memory models as well.
+We evaluate the effectiveness of Active Testing by running our tools on several Java and UPC benchmarks, showing that it can predict and confirm real concurrency bugs with low overhead. We demonstrate the scalability of Active Testing by running benchmarks with UPC-Thrille on large clusters with thousands of cores.},
+}
+EndNote citation:
+%0 Thesis
+%A Park, Chang Seo
+%T Active Testing: Predicting and Confirming Concurrency Bugs for Concurrent and Distributed Memory Parallel Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 13
+%@ UCB/EECS-2012-243
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-243.html
+%F Park:EECS-2012-243

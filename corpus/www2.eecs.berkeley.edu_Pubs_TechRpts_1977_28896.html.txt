@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28896.html
+Simulation of X-Ray Resist Line Edge Profiles | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Simulation of X-Ray Resist Line Edge Profiles
+Simulation of X-Ray Resist Line Edge Profiles
+A.R. Neureuther
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/43
+June 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-43.pdf
+BibTeX citation:
+@techreport{Neureuther:M77/43,
+Author = {Neureuther, A.R.},
+Title = {Simulation of X-Ray Resist Line Edge Profiles},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28896.html},
+Number = {UCB/ERL M77/43}
+}
+EndNote citation:
+%0 Report
+%A Neureuther, A.R.
+%T Simulation of X-Ray Resist Line Edge Profiles
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28896.html
+%F Neureuther:M77/43

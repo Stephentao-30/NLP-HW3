@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-217.html
+Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings
+Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings
+Costas J. Spanos and Zhaoyi Kang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-217
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-217.pdf
+In this work, modeling and monitoring of end-use power consumption in commercial buildings are investigated through both Top-Down and Bottom-Up approaches. In the Top-Down approach, an adaptive support vector regression (ASVR) model is developed to accommodate the nonlinearity and nonstationarity of the macro-level time series, thus providing a framework for the modeling and diagnosis of end-use power consumption. In the Bottom-Up approach, an appliance-data-driven stochastic model is built to predict each end-use sector of a commercial building. Power disaggregation is studied as a technique to facilitate Bottom-Up prediction. In Bottom-Up monitoring and diagnostic detection, a new dimensionality reduction technique is explored to facilitate the analysis of multivariate binary behavioral signals in building end-uses.
+Advisor:  Costas J. Spanos
+BibTeX citation:
+@phdthesis{Spanos:EECS-2015-217,
+Author = {Spanos, Costas J. and Kang, Zhaoyi},
+Title = {Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-217.html},
+Number = {UCB/EECS-2015-217},
+Abstract = {In this work, modeling and monitoring of end-use power consumption in commercial buildings are investigated through both Top-Down and Bottom-Up approaches. In the Top-Down approach, an adaptive support vector regression (ASVR) model is developed to accommodate the nonlinearity and nonstationarity of the macro-level time series, thus providing a framework for the modeling and diagnosis of end-use power consumption. In the Bottom-Up approach, an appliance-data-driven stochastic model is built to predict each end-use sector of a commercial building. Power disaggregation is studied as a technique to facilitate Bottom-Up prediction. In Bottom-Up monitoring and diagnostic detection, a new dimensionality reduction technique is explored to facilitate the analysis of multivariate binary behavioral signals in building end-uses.}
+}
+EndNote citation:
+%0 Thesis
+%A Spanos, Costas J.
+%A Kang, Zhaoyi
+%T Efficient Multi-Level Modeling and Monitoring of End-use Energy Profile in Commercial Buildings
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-217
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-217.html
+%F Spanos:EECS-2015-217

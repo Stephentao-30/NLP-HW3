@@ -1,0 +1,22 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-102.html
+Pay-as-you-go Data Cleaning and Integration | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Pay-as-you-go Data Cleaning and Integration
+Pay-as-you-go Data Cleaning and Integration
+THIS REPORT HAS BEEN WITHDRAWN
+Shawn Jeffery
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2008-102
+August 20, 2008
+Many emerging applications such as Web mash-ups and large-scale sensor deployments seek to make use of large collections of heterogeneous data sources to enable powerful new services. These sources range from traditional sources such as relational databases to emerging sources such as structured data on the Web and streaming sensor data.
+In order to realize the potential of these applications, however, the data from these disparate sources must be cleaned and integrated. In emerging data sources such as the Web and sensors, traditional cleaning and integration techniques are necessary, but not sufficient to deal with the unique challenges presented by this data. I argue that new techniques, based on the concept of pay-as-you-go are crucial for incorporating such data sources into applications. This concept provides a framework for building cleaning and integration solutions that are easy to deploy and maintain, efficiently leverage human feedback where possible, and automatically adapt their processing to the underlying data.
+In this thesis, I contribute key building blocks designed to provide pay-as-you-go data cleaning and integration. Specifically, I develop the following techniques: Roomba, a technique for effectively involving user feedback to augment data cleaning mechanisms; Metaphysical Data Independence (MDI), a means of hiding all details of sensor data cleaning and integration under a single interface; SMURF an adaptive cleaning tool for providing MDI for RFID data; and ESP, a declarative-query based cleaning framework for sensor data streams. These techniques all embody key principles that underly the pay-as-you-go philosophy: ease of setup and deployment, adaptability, and incremental integration.
+Additionally, I show that a focus on the pay-as-you-go philosophy does not preclude effective data cleaning and integration mechanisms. Indeed, in many cases the techniques developed in this thesis are capable of producing higher-quality data than current cleaning and integration techniques. For instance, effective use of human feedback is able to integrate data in a large-scale data integration scenario with half the human cost of current approaches. Similarly, an adaptive approach to cleaning RFID data is able to produce a three-fold reduction in data error rate in certain scenarios compared to the state-of-the-art RFID middleware solutions.
+In summary, this thesis makes two broad contributions. First, it demonstrates that a pay-as-you-go approach to data cleaning and integration enables an emerging class of applications dependent on data derived from many heterogeneous data sources. Second, it proposes a suite of pay-as-you-go based data cleaning and integration techniques that provide a solid foundation on which to build the systems to support these applications.
+Advisor:  Michael Franklin
+Author Comments:  This technical report has been replaced by
+EECS-2008-169.html .

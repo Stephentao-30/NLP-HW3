@@ -1,0 +1,71 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/seshia.html
+Sanjit A. Seshia: Faculty Home Page
+Sanjit A. Seshia
+Professor
+Cadence Founders Chair Professor in the Department of Electrical Engineering and Computer Sciences
+Contact Information
+566 Cory Hall
+tel:  510-643-6968
+sseshia@eecs.berkeley.edu
+Office Hours
+MW 2:30-3 PM and by appointment, 566 Cory
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+John Li
+johnli@berkeley.edu
+Biography
+Sanjit A. Seshia is the Cadence Founders Chair Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. He received an M.S. and Ph.D. in Computer Science from Carnegie Mellon University, and a B.Tech. in Computer Science and Engineering from the Indian Institute of Technology, Bombay. His research interests are in formal methods for dependable and secure computing, with a current focus on the areas of cyber-physical systems, computer security, machine learning, and robotics. He has made pioneering contributions to the areas of satisfiability modulo theories (SMT), SMT-based verification, and inductive program synthesis. He is co-author of a widely-used textbook on embedded, cyber-physical systems and has led the development of technologies for cyber-physical systems education based on formal methods. His awards and honors include a Presidential Early Career Award for Scientists and Engineers (PECASE), an Alfred P. Sloan Research Fellowship, the Frederick Emmons Terman Award for contributions to electrical engineering and computer science education, the Donald O. Pederson Best Paper Award for the IEEE Transactions on CAD, the IEEE Technical Committee on Cyber-Physical Systems (TCCPS) Mid-Career Award, the Computer-Aided Verification (CAV) Award, and the Distinguished Alumnus Award from IIT Bombay. He is a Fellow of the ACM and the IEEE.
+Education
+2005, Ph.D., Computer Science, Carnegie Mellon University
+2000, M.S., Computer Science, Carnegie Mellon University
+1998, B.Tech., Computer Science and Engineering, Indian Institute of Technology, Bombay
+Research Areas
+Cyber-Physical Systems and Design Automation (CPSDA)
+Programming Systems (PS)
+Artificial Intelligence (AI)
+Control, Intelligent Systems, and Robotics (CIR)
+Security (SEC)
+Theory (THY)
+Dependable Computing; Computational Logic; Formal Methods
+Research Centers
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Center for Responsible, Decentralized Intelligence (RDI) (RDI)
+Berkeley Deep Drive (BDD)
+Industrial Cyber-Physical Systems Center (iCyPhy)
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems (VeHICaL)
+Teaching Schedule
+EECS 219C. Formal Methods: Specification, Verification, and Synthesis , MoWe 13:00-14:29, Cory 299
+A. Cheung and S. A. Seshia, " LLM-Based Code Translation Needs Formal Compositional Reasoning ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2025-174, Oct. 2025.
+C. Sturton, R. Sinha, T. Dang, S. Jain, M. McCoyd, W. Y. Tan, P. Maniatis, S. A. Seshia, and D. Wagner, "Symbolic Software Model Validation," in  Proceedings of the 10th ACM/IEEE International Conference on Formal Methods and Models for Codesign (MEMOCODE) , M. Roncken and J. Talpin, Eds., 2013.
+O. Kupferman, W. Li, and S. A. Seshia, " A theory of mutations with applications to vacuity, coverage, and fault tolerance ," in  Proc. 2008 Formal Methods in Computer Aided Design Conf. (FMCAD '08) , A. Cimatti and R. Jones, Eds., Los Alamitos, CA: IEEE Computer Society, 2008, pp. 9 pg.
+S. A. Seshia, " Autonomic reactive systems via online learning ," in  Proc. 4th Intl. Conf. on Autonomic Computing (ICAC 2007) , Piscataway, NJ: IEEE Press, 2007, pp. 162-171.
+A. Solar Lezama, G. Arnold, L. Tancau, R. Bodik, V. Saraswat, and S. A. Seshia, " Sketching stencils ," in  Proc. 2007 ACM SIGPLAN Conf. on Programming Language Design and Implementation (PLDI '07) , New York, NY: The Association for Computing Machinery, Inc., 2007, pp. 167-178.
+S. A. Seshia, W. Li, and S. Mitra, " Verification-guided soft error resilience ," in  Proc.10th Design, Automation and Test in Europe Conference and Exhibition (DATE '07) , San Jose, CA: EDA Consortium, 2007, pp. 1442-1447.
+S. A. Seshia and R. E. Bryant, " Deciding quantifier-free Presburger formulas using parameterized solution bounds ,"  Logical Methods in Computer Science , vol. 1, no. 2, pp. 1-26, Dec. 2005.
+V. Ganapathy, S. A. Seshia, S. Jha, T. W. Reps, and R. E. Bryant, " Automatic discovery of API-level exploits ," in  Proc. 27th Intl. Conf. on Software Engineering (ICSE '05) , New York, NY: ACM Press, 2005, pp. 312-321.
+S. A. Seshia, R. E. Bryant, and K. S. Stevens, " Modeling and verifying circuits using generalized relative timing ," in  Proc. 11th IEEE Intl. Symp. on Asynchronous Circuits and Systems (ASYNC 2005) , Los Alamitos, CA: IEEE Computer Society, 2005, pp. 98-108.
+S. A. Seshia, S. K. Lahiri, and R. E. Bryant, " A hybrid SAT-based decision procedure for separation logic with uninterpreted functions ," in  Proc. 40th IEEE/ACM Design Automation Conf. (DAC 2003) , New York, NY: The Association for Computing Machinery, Inc., 2003, pp. 425-430.
+R. E. Bryant, S. K. Lahiri, and S. A. Seshia, " Modeling and verifying systems using a logic of counter arithmetic with lambda expressions and uninterpreted functions ," in  Computer Aided Verification: Proc. 14th Intl. Conf. (CAV 2002) , E. Brinksma and K. Guldstrand Larsen, Eds., Lecture Notes in Computer Science, Vol. 2404, Berlin, Germany: Springer-Verlag, 2002, pp. 79-82.
+CAV Award ,
+2021
+Association for Computing Machinery (ACM) Fellow ,
+2020
+ACM SIGSOFT ICSE Most Influential Paper Award ,
+2020
+IEEE TCCPS Mid-Career Award ,
+2019
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2018
+CEDA TCAD ICS Donald O. Pederson Best Paper Award ,
+2017
+Frederick Emmons Terman Award of the Electrical and Computer Engineering Division ,
+2016
+Hellman Fellow ,
+2008
+Sloan Research Fellow ,
+2008
+NSF Presidential Early Career Award for Scientists & Engineers (PECASE) ,
+2007

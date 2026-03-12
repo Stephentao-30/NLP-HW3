@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-147.html
+Automatic Mapping of Real Time Radio Astronomy Signal Processing Pipelines onto Heterogeneous Clusters
+Terry Esther Filiba
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-147
+August 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-147.pdf
+Traditional radio astronomy instrumentation relies on custom built designs, specialized for each science application. Traditional high performance computing (HPC) uses general purpose clusters and tools to parallelize the each algorithm across a cluster. In real time radio astronomy processing, a simple CPU/GPU cluster alone is insufficient to process the data. Instead, digitizing and initial processing of high bandwidth data received from a single antenna is often done in FPGA as it is infeasible to get the data into a single server.
+Choosing which platform to use for different parts of an instrument is a growing challenge. With instrument specifications and platforms constantly changing as technology progresses, the design space for these instruments is unstable and often unpredictable. Furthermore, the astronomers designing these instruments may not be technology experts, and assessing tradeoffs between different computing architectures, such as FPGAs, GPUs, and ASICs and determining how to partition an instrument can prove difficult. In this work, I present a tool called Optimal Rearrangement of Cluster-based Astronomy Signal Processing, or ORCAS, that automatically determines how to optimally partition an instrument across different types of hardware for radio astronomy based on a high level description of the instrument and a set of benchmarks.
+In ORCAS, each function in a high level instrument gets profiled on different architectures. The architectural mapping is then done by an optimization technique called integer linear programming (ILP). The ILP takes the function models as well as the cost model as input and uses them to determine what architecture is best for every function in the instrument. ORCAS judges optimality based on a cost function and generates an instrument design that minimizes the total monetary cost, power utilization, or another user-defined cost.
+Advisors:  John Wawrzynek
+BibTeX citation:
+@phdthesis{Filiba:EECS-2013-147,
+Author= {Filiba, Terry Esther},
+Title= {Automatic Mapping of Real Time Radio Astronomy Signal Processing Pipelines onto Heterogeneous Clusters},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-147.html},
+Number= {UCB/EECS-2013-147},
+Abstract= {Traditional radio astronomy instrumentation relies on custom built designs, specialized for each science application. Traditional high performance computing (HPC) uses general purpose clusters and tools to parallelize the each algorithm across a cluster. In real time radio astronomy processing, a simple CPU/GPU cluster alone is insufficient to process the data. Instead, digitizing and initial processing of high bandwidth data received from a single antenna is often done in FPGA as it is infeasible to get the data into a single server.
+Choosing which platform to use for different parts of an instrument is a growing challenge. With instrument specifications and platforms constantly changing as technology progresses, the design space for these instruments is unstable and often unpredictable. Furthermore, the astronomers designing these instruments may not be technology experts, and assessing tradeoffs between different computing architectures, such as FPGAs, GPUs, and ASICs and determining how to partition an instrument can prove difficult. In this work, I present a tool called Optimal Rearrangement of Cluster-based Astronomy Signal Processing, or ORCAS, that automatically determines how to optimally partition an instrument across different types of hardware for radio astronomy based on a high level description of the instrument and a set of benchmarks.
+In ORCAS, each function in a high level instrument gets profiled on different architectures. The architectural mapping is then done by an optimization technique called integer linear programming (ILP). The ILP takes the function models as well as the cost model as input and uses them to determine what architecture is best for every function in the instrument. ORCAS judges optimality based on a cost function and generates an instrument design that minimizes the total monetary cost, power utilization, or another user-defined cost.},
+}
+EndNote citation:
+%0 Thesis
+%A Filiba, Terry Esther
+%T Automatic Mapping of Real Time Radio Astronomy Signal Processing Pipelines onto Heterogeneous Clusters
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 15
+%@ UCB/EECS-2013-147
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-147.html
+%F Filiba:EECS-2013-147

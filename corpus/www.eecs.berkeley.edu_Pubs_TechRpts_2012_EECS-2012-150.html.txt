@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-150.html
+Pulse Reading Mobile Application: Dr. Chi
+Tianyu Fu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-150
+June 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-150.pdf
+Developing applications on smartphone platform to perform medical and diagnostic functions has challenges of measurement precision, user interface design and the validity of diagnostic basis. The Dr. Chi capstone project team created the mobile application Dr. Chi. This application contains a program on the iOS platform and a sensor gadget which implements pulse reading as in Chinese medicine. Through measuring, storing and analyzing the heart pulse data, this application can give users instructive suggestions on stress management. We selected and optimized the sensor component for the sensor gadget by studying numbers of different kinds of sensors to improve the sensor precision. We designed the monitoring and diagnostic application by interviewing Chinese medicine experts and potential users to deliver an easy-to-use and instructive interface. The cost of this Dr. Chi application is under 30 dollars, which is much cheaper than the medical devices with similar functions on the market which cost thousands of dollars. The measurement accuracy is 50% better than the embedded sensors on the iPhone. Through measuring, storing and analyzing the heart pulse data, this application can give users information based suggestions on stress management.
+Advisors:  Pieter Abbeel and Lee Fleming
+BibTeX citation:
+@mastersthesis{Fu:EECS-2012-150,
+Author= {Fu, Tianyu},
+Title= {Pulse Reading Mobile Application: Dr. Chi},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-150.html},
+Number= {UCB/EECS-2012-150},
+Abstract= {Developing applications on smartphone platform to perform medical and diagnostic functions has challenges of measurement precision, user interface design and the validity of diagnostic basis. The Dr. Chi capstone project team created the mobile application Dr. Chi. This application contains a program on the iOS platform and a sensor gadget which implements pulse reading as in Chinese medicine. Through measuring, storing and analyzing the heart pulse data, this application can give users instructive suggestions on stress management. We selected and optimized the sensor component for the sensor gadget by studying numbers of different kinds of sensors to improve the sensor precision. We designed the monitoring and diagnostic application by interviewing Chinese medicine experts and potential users to deliver an easy-to-use and instructive interface. The cost of this Dr. Chi application is under 30 dollars, which is much cheaper than the medical devices with similar functions on the market which cost thousands of dollars. The measurement accuracy is 50% better than the embedded sensors on the iPhone. Through measuring, storing and analyzing the heart pulse data, this application can give users information based suggestions on stress management.},
+}
+EndNote citation:
+%0 Thesis
+%A Fu, Tianyu
+%T Pulse Reading Mobile Application: Dr. Chi
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 1
+%@ UCB/EECS-2012-150
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-150.html
+%F Fu:EECS-2012-150

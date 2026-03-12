@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28570.html
+Traffic Modelling in Large Scale Telephone Networks
+J.M. Garcia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/1
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-1.pdf
+BibTeX citation:
+@techreport{Garcia:M81/1,
+Author= {Garcia, J.M.},
+Title= {Traffic Modelling in Large Scale Telephone Networks},
+Year= {1981},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28570.html},
+Number= {UCB/ERL M81/1},
+}
+EndNote citation:
+%0 Report
+%A Garcia, J.M.
+%T Traffic Modelling in Large Scale Telephone Networks
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/1
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28570.html
+%F Garcia:M81/1

@@ -1,0 +1,709 @@
+URL: https://people.eecs.berkeley.edu/~bartlett/publications/pubs-93-abstracts.html
+Peter Bartlett's Publications (1993-2003)
+Peter Bartlett's Publications (1993-2003)
+[1]
+P. L. Bartlett.
+Lower bounds on the Vapnik-Chervonenkis dimension of multi-layer
+threshold networks.
+In  Proceedings of the Sixth Annual ACM Conference on
+Computational Learning Theory , pages 144-150. ACM Press, 1993.
+[  bib  ]
+[2]
+P. L. Bartlett.
+The sample size necessary for learning in multi-layer networks.
+In  Proceedings of the Fourth Australian Conference on Neural
+Networks , pages 14-17, 1993.
+[  bib  ]
+[3]
+D. R. Lovell and P. L. Bartlett.
+Error and variance bounds in multi-layer neural networks.
+In  Proceedings of the Fourth Australian Conference on Neural
+Networks , pages 161-164, 1993.
+[  bib  ]
+[4]
+P. L. Bartlett.
+Vapnik-Chervonenkis dimension bounds for two- and three-layer
+networks.
+Neural Computation , 5(3):371-373, 1993.
+[  bib  ]
+[5]
+P. L Bartlett and R. C. Williamson.
+Sample complexity versus approximation error.
+(unpublished), 1994.
+[  bib  ]
+[6]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+The Vapnik-Chervonenkis dimension of neural networks with
+restricted parameter ranges.
+In  Proceedings of the Fifth Australian Conference on Neural
+Networks , pages 198-201, 1994.
+[  bib  ]
+[7]
+P. L. Bartlett.
+Learning quantized real-valued functions.
+In  Proceedings of Computing: the Australian Theory Seminar ,
+pages 24-35. University of Technology Sydney, 1994.
+[  bib  ]
+[8]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+Lower bounds on the VC-dimension of smoothly parametrized function
+classes.
+In  Proceedings of the Seventh Annual ACM Conference on
+Computational Learning Theory , pages 362-367. ACM Press, 1994.
+[  bib  ]
+[9]
+P. L. Bartlett, P. M. Long, and R. C. Williamson.
+Fat-shattering and the learnability of real-valued functions.
+In  Proceedings of the Seventh Annual ACM Conference on
+Computational Learning Theory , pages 299-310. ACM Press, 1994.
+[  bib  ]
+[10]
+P. L. Bartlett, P. Fischer, and K.-U. H�ffgen.
+Exploiting random walks for learning.
+In  Proceedings of the Seventh Annual ACM Conference on
+Computational Learning Theory , pages 318-327. ACM Press, 1994.
+[  bib  ]
+[11]
+P. L. Bartlett.
+Computational learning theory.
+In A. Kent and J. G. Williams, editors,  Encyclopedia of Computer
+Science and Technology , volume 31, pages 83-99. Marcel Dekker, 1994.
+[  bib  ]
+[12]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+Efficient agnostic learning of neural networks with bounded fan-in.
+In  Proceedings of the Sixth Australian Conference on Neural
+Networks , pages 201-204, 1995.
+[  bib  ]
+[13]
+P. L. Bartlett and R. C. Williamson.
+The sample complexity of neural network learning with discrete
+inputs.
+In  Proceedings of the Sixth Australian Conference on Neural
+Networks , pages 189-192, 1995.
+[  bib  ]
+[14]
+M. Anthony and P. L. Bartlett.
+Approximation from interpolated examples.
+In  EUROCOLT 95: Proceedings of the Second European Conference on
+Computational Learning Theory , pages 211-221, 1995.
+[  bib  ]
+[15]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+On efficient agnostic learning of linear combinations of basis
+functions.
+In  Proceedings of the Eighth Annual ACM Conference on
+Computational Learning Theory , pages 369-376. ACM Press, 1995.
+[  bib  ]
+[16]
+P. L. Bartlett and P. M. Long.
+More theorems about scale sensitive dimensions and learning.
+In  Proceedings of the Eighth Annual ACM Conference on
+Computational Learning Theory , pages 392-401. ACM Press, 1995.
+[  bib  ]
+[17]
+P. L. Bartlett and S. Dasgupta.
+Exponential convergence of a gradient descent algorithm for a class
+of recurrent neural networks.
+In  Proceedings of the 38th Midwest Symposium on Circuits and
+Systems , 1995.
+[  bib  ]
+[18]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+Lower bounds on the VC-dimension of smoothly parametrized function
+classes.
+Neural Computation , 7:990-1002, 1995.
+(See also correction, Neural Computation, 9: 765-769, 1997).
+[  bib  ]
+[19]
+P. L. Bartlett and D. P. Helmbold.
+Learning changing problems.
+(unpublished), 1996.
+[  bib  ]
+[20]
+L. C. Kammer, R. R. Bitmead, and P. L. Bartlett.
+Adaptive tracking identification: the art of defalsification.
+In  Proceedings of the 1996 IFAC World Congress , 1996.
+[  bib  ]
+[21]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+The importance of convexity in learning with squared loss.
+In  Proceedings of the Ninth Annual Conference on Computational
+Learning Theory , pages 140-146. ACM Press, 1996.
+[  bib  ]
+[22]
+J. Shawe-Taylor, P. L. Bartlett, R. C. Williamson, and M. Anthony.
+A framework for structural risk minimization.
+In  Proceedings of the Ninth Annual Conference on Computational
+Learning Theory , pages 68-76. ACM Press, 1996.
+[  bib  ]
+[23]
+P. L. Bartlett, S. Ben-David, and S. R. Kulkarni.
+Learning changing concepts by exploiting the structure of change.
+In  Proceedings of the Ninth Annual Conference on Computational
+Learning Theory , pages 131-139. ACM Press, 1996.
+[  bib  ]
+[24]
+L. Kammer, R. R. Bitmead, and P. L. Bartlett.
+Signal-based testing of lq-optimality of controllers.
+In  Proceedings of the 35th IEEE Conference on Decision and
+Control , pages FA17-2, 3620-3623. IEEE, 1996.
+[  bib  ]
+[25]
+P. L. Bartlett and S. R. Kulkarni.
+The complexity of model classes, and smoothing noisy data (invited).
+In  Proceedings of the 35th IEEE Conference on Decision and
+Control , pages TM09-4, 2312-2317. IEEE, 1996.
+[  bib  ]
+[26]
+A. Kowalczyk, J. Szymanski, P. L. Bartlett, and R. C. Williamson.
+Examples of learning curves from a modified vc-formalism.
+In  Advances in Neural Information Processing Systems 8 , 1996.
+[  bib  ]
+[27]
+P. L. Bartlett and R. C. Williamson.
+The Vapnik-Chervonenkis dimension and pseudodimension of
+two-layer neural networks with discrete inputs.
+Neural Computation , 8:653-656, 1996.
+[  bib  ]
+[28]
+P. L. Bartlett, P. M. Long, and R. C. Williamson.
+Fat-shattering and the learnability of real-valued functions.
+Journal of Computer and System Sciences , 52(3):434-452, 1996.
+(special issue on COLT`94).
+[  bib  ]
+[29]
+M. Anthony, P. L. Bartlett, Y. Ishai, and J. Shawe-Taylor.
+Valid generalisation from approximate interpolation.
+Combinatorics, Probability, and Computing , 5:191-214, 1996.
+[  bib  ]
+[30]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+Efficient agnostic learning of neural networks with bounded fan-in.
+IEEE Transactions on Information Theory , 42(6):2118-2132,
+1996.
+[  bib  ]
+[31]
+Peter L. Bartlett, Anthony Burkitt, and Robert C. Williamson.
+Proceedings of the Seventh Australian Conference on Neural
+Networks .
+Australian National University, 1996.
+[  bib  ]
+[32]
+G. Loy and P. L. Bartlett.
+Generalization and the size of the weights: an experimental study.
+In  Proceedings of the Eighth Australian Conference on Neural
+Networks , pages 60-64, 1997.
+[  bib  ]
+[33]
+P. L. Bartlett.
+Neural network learning. (abstract of invited talk.).
+In  CONTROL 97 Conference Proceedings, Institution of Engineers
+Australia , page 543, 1997.
+[  bib  ]
+[34]
+J. Baxter and P. L. Bartlett.
+A result relating convex  n -widths to covering numbers with some
+applications to neural networks.
+In S. Ben-David, editor,  Proceedings of the Third European
+Conference on Computational Learning Theory (EuroCOLT'97) , pages 251-259.
+Springer, 1997.
+[  bib  ]
+[35]
+P. L. Bartlett, T. Linder, and G. Lugosi.
+A minimax lower bound for empirical quantizer design.
+In S. Ben-David, editor,  Proceedings of the Third European
+Conference on Computational Learning Theory (EuroCOLT'97) , pages 220-222.
+Springer, 1997.
+[  bib  ]
+[36]
+P. L. Bartlett, T. Linder, and G. Lugosi.
+The minimax distortion redundancy in empirical quantizer design
+(abstract).
+In  Proceedings of the 1997 IEEE International Symposium on
+Information Theory , page 511, 1997.
+[  bib  ]
+[37]
+R. E. Schapire, Y. Freund, P. L. Bartlett, and W. S. Lee.
+Boosting the margin: A new explanation for the effectiveness of
+voting methods.
+In  Machine Learning: Proceedings of the Fourteenth International
+Conference , pages 322-330, 1997.
+[  bib  ]
+[38]
+P. L. Bartlett.
+For valid generalization, the size of the weights is more important
+than the size of the network.
+In  Advances in Neural Information Processing Systems 9 , pages
+134-140, 1997.
+[  bib  ]
+[39]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+Correction to `lower bounds on the VC-dimension of smoothly
+parametrized function classes'.
+Neural Computation , 9:765-769, 1997.
+[  bib  ]
+[40]
+P. L. Bartlett.
+Book review: `neural networks for pattern recognition,' christopher
+m. bishop.
+Statistics in Medicine , 16(20):2385-2386, 1997.
+[  bib  ]
+[41]
+P. L. Bartlett, S. R. Kulkarni, and S. E. Posner.
+Covering numbers for real-valued function classes.
+IEEE Transactions on Information Theory , 43(5):1721-1724,
+1997.
+[  bib  ]
+[42]
+L. Mason, P. L. Bartlett, and M. Golea.
+Generalization in threshold networks, combined decision trees and
+combined mask perceptrons.
+In T. Downs, M. Frean, and M. Gallagher, editors,  Proceedings of
+the Ninth Australian Conference on Neural Networks (ACNN'98) , pages 84-88.
+University of Queensland, 1998.
+[  bib  ]
+[43]
+B. Sch�lkopf, P. L. Bartlett, A. Smola, and R. Williamson.
+Support vector regression with automatic accuracy control.
+In L. Niklasson, M. Boden, and T. Ziemke, editors,  Perspectives
+in Neural Computing: Proceedings of the 8th International Conference on
+Artificial Neural Networks (ICANN'98) , pages 111-116. Springer-Verlag,
+1998.
+[  bib  ]
+[44]
+L. C. Kammer, R. R. Bitmead, and P. L. Bartlett.
+Direct iterative tuning via spectral analysis.
+In  Proceedings of the IEEE Conference on Decision and Control ,
+1998.
+[  bib  ]
+[45]
+M. Golea, P. L. Bartlett, and W. S. Lee.
+Generalization in decision trees and DNF: Does size matter?
+In  Advances in Neural Information Processing Systems 10 , pages
+259-265, 1998.
+[  bib  ]
+[46]
+J. Baxter and P. L. Bartlett.
+The canonical distortion measure in feature space and 1-nn
+classification.
+In  Advances in Neural Information Processing Systems 10 , pages
+245-251, 1998.
+[  bib  ]
+[47]
+P. L. Bartlett.
+The sample complexity of pattern classification with neural networks:
+the size of the weights is more important than the size of the network.
+IEEE Transactions on Information Theory , 44(2):525-536, 1998.
+[  bib  ]
+[48]
+P. L. Bartlett and P. M. Long.
+Prediction, learning, uniform convergence, and scale-sensitive
+dimensions.
+Journal of Computer and System Sciences , 56(2):174-190, 1998.
+(special issue on COLT`95).
+[  bib  ]
+[49]
+L. C. Kammer, R. R. Bitmead, and P. L. Bartlett.
+Optimal controller properties from closed-loop experiments.
+Automatica , 34(1):83-91, 1998.
+[  bib  ]
+[50]
+P. L. Bartlett and M. Vidyasagar.
+Introduction to the special issue on learning theory.
+Systems and Control Letters , 34:113-114, 1998.
+[  bib  ]
+[51]
+P. L. Bartlett and S. Kulkarni.
+The complexity of model classes, and smoothing noisy data.
+Systems and Control Letters , 34:133-140, 1998.
+[  bib  ]
+[52]
+P. L. Bartlett, T. Linder, and G. Lugosi.
+The minimax distortion redundancy in empirical quantizer design.
+IEEE Transactions on Information Theory , 44(5):1802-1813,
+1998.
+[  bib  ]
+[53]
+J. Shawe-Taylor, P. L. Bartlett, R. C. Williamson, and M. Anthony.
+Structural risk minimization over data-dependent hierarchies.
+IEEE Transactions on Information Theory , 44(5):1926-1940,
+1998.
+[  bib  ]
+[54]
+W. S. Lee, P. L. Bartlett, and R. C. Williamson.
+The importance of convexity in learning with squared loss.
+IEEE Transactions on Information Theory , 44(5):1974-1980,
+1998.
+[  bib  ]
+[55]
+P. L. Bartlett, V. Maiorov, and R. Meir.
+Almost linear vc-dimension bounds for piecewise polynomial networks.
+Neural Computation , 10:2159-2173, 1998.
+[  bib  ]
+[56]
+R. E. Schapire, Y. Freund, P. L. Bartlett, and W. S. Lee.
+Boosting the margin: a new explanation for the effectiveness of
+voting methods.
+Annals of Statistics , 26(5):1651-1686, 1998.
+[  bib  ]
+[57]
+Peter L. Bartlett and Yishay Mansour, editors.
+Proceedings of the Eleventh Annual Conference on Computational
+Learning Theory .
+ACM Press, 1998.
+[  bib  ]
+[58]
+P. L. Bartlett and J. Baxter.
+Voting methods for data segmentation.
+In  Proceedings of the Advanced Investment Technology
+Conference , pages 35-40. Bond University, 1999.
+[  bib  ]
+[59]
+L. Mason, P. L. Bartlett, and J. Baxter.
+Error bounds for voting classifiers using margin cost functions
+(invited abstract).
+In  Proceedings of the IEEE Information Theory Workshop on
+Detection, Estimation, Classification and Imaging , page 36, 1999.
+[  bib  ]
+[60]
+P. L. Bartlett and S. Ben-David.
+Hardness results for neural network approximation problems.
+In  Proceedings of the Fourth European Conference on
+Computational Learning Theory , pages 50-62, 1999.
+[  bib  ]
+[61]
+Y. Guo, P. L. Bartlett, J. Shawe-Taylor, and R. C. Williamson.
+Covering numbers for support vector machines.
+In  Proceedings of the Twelfth Annual Conference on Computational
+Learning Theory , pages 267-277, 1999.
+[  bib  ]
+[62]
+T. Koshizen, P. L. Bartlett, and A. Zelinsky.
+Sensor fusion of odometry and sonar sensors by the Gaussian mixture
+bayes' technique in mobile robot position estimation.
+In  Proceedings of the 1999 IEEE International Conference on
+Systems, Man and Cybernetics , pages 77-89, 1999.
+[  bib  ]
+[63]
+B. Sch�lkopf, P. L. Bartlett, A. Smola, and R. Williamson.
+Shrinking the tube: a new support vector regression algorithm.
+In  Advances in Neural Information Processing Systems 11 , pages
+330-336, 1999.
+[  bib  ]
+[64]
+L. Mason, P. L. Bartlett, and J. Baxter.
+Direct optimization of margins improves generalization in combined
+classifiers.
+In  Advances in Neural Information Processing Systems 11 , pages
+288-294, 1999.
+[  bib  ]
+[65]
+P. L. Bartlett, V. Maiorov, and R. Meir.
+Almost linear vc-dimension bounds for piecewise polynomial networks.
+In  Advances in Neural Information Processing Systems 11 , pages
+190-196, 1999.
+[  bib  ]
+[66]
+P. L. Bartlett and J. Shawe-Taylor.
+Generalization performance of support vector machines and other
+pattern classifiers.
+In B. Sch�lkopf, C. J. C. Burges, and A. J. Smola, editors,
+Advances in Kernel Methods - Support Vector Learning , pages 43-54. MIT
+Press, 1999.
+[  bib  ]
+[67]
+P. L. Bartlett.
+Efficient neural network learning.
+In V. D. Blondel, E. D. Sontag, M. Vidyasagar, and J. C. Willems,
+editors,  Open Problems in Mathematical Systems Theory and Control ,
+pages 35-38. Springer Verlag, 1999.
+[  bib  ]
+[68]
+P. L. Bartlett and G. Lugosi.
+An inequality for uniform deviations of sample averages from their
+means.
+Statistics and Probability Letters , 44:55-62, 1999.
+[  bib  ]
+[69]
+Martin Anthony and Peter L. Bartlett.
+Neural Network Learning: Theoretical Foundations .
+Cambridge University Press, 1999.
+[  bib  |
+.html  ]
+[70]
+P. L. Bartlett and J. Baxter.
+Estimation and approximation bounds for gradient-based reinforcement
+learning.
+In  Proceedings of the Thirteenth Annual Conference on
+Computational Learning Theory , pages 133-141, 2000.
+[  bib  ]
+[71]
+P. L. Bartlett, S. Boucheron, and G. Lugosi.
+Model selection and error estimation.
+In  Proceedings of the Thirteenth Annual Conference on
+Computational Learning Theory , pages 286-297, 2000.
+[  bib  ]
+[72]
+J. Baxter and P. L. Bartlett.
+Gpomdp: An on-line algorithm for estimating performance gradients in
+pomdp's, with applications.
+In  Proceedings of the 2000 International Conference on Machine
+Learning , pages 41-48, 2000.
+[  bib  ]
+[73]
+L. Mason, J. Baxter, P. L. Bartlett, and M. Frean.
+Boosting algorithms as gradient descent.
+In  Advances in Neural Information Processing Systems 12 , pages
+512-518, 2000.
+[  bib  ]
+[74]
+J. Baxter and P. L. Bartlett.
+Direct gradient-based reinforcement learning (invited).
+In  Proceedings of the International Symposium on Circuits and
+Systems , pages III-271-274, 2000.
+[  bib  ]
+[75]
+P. L. Bartlett and J. Baxter.
+Stochastic optimization of controlled partially observable markov
+decision processes.
+In  Proceedings of the IEEE Conference on Decision and Control ,
+pages 124-129, 2000.
+[  bib  ]
+[76]
+L. Mason, P. L. Bartlett, and J. Baxter.
+Improved generalization through explicit optimization of margins.
+Machine Learning , 38(3):243-255, 2000.
+[  bib  ]
+[77]
+L. C. Kammer, R. R. Bitmead, and P. L. Bartlett.
+Direct iterative tuning via spectral analysis.
+Automatica , 36(9):1301-1307, 2000.
+[  bib  ]
+[78]
+B. Sch�lkopf, A. Smola, R. C. Williamson, and P. L. Bartlett.
+New support vector algorithms.
+Neural Computation , 12(5):1207-1245, 2000.
+[  bib  ]
+[79]
+P. L. Bartlett, S. Ben-David, and S. R. Kulkarni.
+Learning changing concepts by exploiting the structure of change.
+Machine Learning , 41:153-174, 2000.
+[  bib  ]
+[80]
+A. J. Smola, P. L. Bartlett, B. Sch�lkopf, and D. Schuurmans.
+Introduction to large margin classifiers.
+In  Advances in Large Margin Classifiers , pages 1-29. MIT
+Press, 2000.
+[  bib  ]
+[81]
+L. Mason, J. Baxter, P. L. Bartlett, and M. Frean.
+Functional gradient techniques for combining hypotheses.
+In A. J. Smola, P. L. Bartlett, B. Sch�lkopf, and D. Schuurmans,
+editors,  Advances in Large Margin Classifiers , pages 221-246. MIT
+Press, 2000.
+[  bib  ]
+[82]
+M. Anthony and P. L. Bartlett.
+Function learning from interpolation.
+Combinatorics, Probability, and Computing , 9:213-225, 2000.
+[  bib  ]
+[83]
+S. Parameswaran, M. F. Parkinson, and P. L. Bartlett.
+Profiling in the asp codesign environment.
+Journal of Systems Architecture , 46:1263-1274, 2000.
+[  bib  ]
+[84]
+Alexander J. Smola, Peter L. Bartlett, Bernard Sch�lkopf, and Dale
+Schuurmans, editors.
+Advances in Large Margin Classifiers .
+MIT Press, 2000.
+[  bib  ]
+[85]
+A. J. Smola and P. L. Bartlett.
+Sparse greedy Gaussian process regression.
+In  Advances in Neural Information Processing Systems 13 , pages
+619-625, 2001.
+[  bib  ]
+[86]
+P. L. Bartlett and S. Mendelson.
+Rademacher and Gaussian complexities: Risk bounds and structural
+results.
+In  Proceedings of the Fourteenth Annual Conference on
+Computational Learning Theory and Fifth European Conference on Computational
+Learning Theory , pages 224-240, 2001.
+[  bib  ]
+[87]
+A. Ben-Hur, T. Barnes, P. L. Bartlett, O. Chapelle, A. Elisseeff, H. Fristche,
+I. Guyon, B. Sch�lkopf, J. Weston, E. Fung, C. Enderwick, E. A. Dalmasso,
+B.-L. Adam, J. W. Davis, A. Vlahou, L. Cazares, M. Ward, P. F. Schellhammer,
+J. Semmes, and G. L. Wright.
+Application of support vector machines to the classification of
+proteinchip system mass spectral data of prostate cancer serum samples
+(abstract).
+In  Second Annual National Cancer Institute Early Detection
+Research Network Scientific Workshop , 2001.
+[  bib  ]
+[88]
+Y. Guo, P. L. Bartlett, J. Shawe-Taylor, and R. C. Williamson.
+Covering numbers for support vector machines.
+IEEE Transactions on Information Theory , 48(1):239-250, 2001.
+[  bib  ]
+[89]
+J. Baxter, P. L. Bartlett, and L. Weaver.
+Infinite-horizon gradient-based policy search: Ii. gradient ascent
+algorithms and experiments.
+Journal of Artificial Intelligence Research , 15:351-381, 2001.
+[  bib  |
+.html  ]
+[90]
+J. Baxter and P. L. Bartlett.
+Infinite-horizon gradient-based policy search.
+Journal of Artificial Intelligence Research , 15:319-350, 2001.
+[  bib  |
+.html  ]
+[91]
+E. Greensmith, P. L. Bartlett, and J. Baxter.
+Variance reduction techniques for gradient estimates in reinforcement
+learning.
+In  Advances in Neural Information Processing Systems 14 , 2002.
+[  bib  |
+.ps.gz  ]
+[92]
+G. Lanckriet, N. Cristianini, P. L. Bartlett, L. El Ghaoui, and M. Jordan.
+Learning the kernel matrix with semi-definite programming.
+In  Proceedings of the International Conference on Machine
+Learning , 2002.
+[  bib  ]
+[93]
+P. L. Bartlett, O. Bousquet, and S. Mendelson.
+Localized rademacher complexity.
+In  Proceedings of the Conference on Computational Learning
+Theory , 2002.
+[  bib  ]
+[94]
+L. Mason, P. L. Bartlett, and M. Golea.
+Generalization error of combined classifiers.
+Journal of Computer and System Sciences , 65(2):415-438, 2002.
+[  bib  |
+http  ]
+[95]
+P. L. Bartlett, P. Fischer, and K.-U. H�ffgen.
+Exploiting random walks for learning.
+Information and Computation , 176(2):121-135, 2002.
+[  bib  |
+http  ]
+[96]
+P. L. Bartlett and S. Ben-David.
+Hardness results for neural network approximation problems.
+Theoretical Computer Science , 284(1):53-66, 2002.
+(special issue on Eurocolt'99).
+[  bib  |
+http  ]
+[97]
+P. L. Bartlett and J. Baxter.
+Estimation and approximation bounds for gradient-based reinforcement
+learning.
+Journal of Computer and System Sciences , 64:133-150, 2002.
+[  bib  ]
+[98]
+P. L. Bartlett, S. Boucheron, and G. Lugosi.
+Model selection and error estimation.
+Machine Learning , 48:85-113, 2002.
+[  bib  |
+.ps.gz  ]
+[99]
+P. L. Bartlett and S. Mendelson.
+Rademacher and Gaussian complexities: Risk bounds and structural
+results.
+Journal of Machine Learning Research , 3:463-482, 2002.
+[  bib  ]
+[100]
+Peter L. Bartlett and Evan Greensmith.
+Faster convergence rates for error probabilities of message passing
+decoders for low-density parity-check codes.
+(unpublished), 2002.
+[  bib  |
+.ps.Z  ]
+We consider the convergence of the error probability
+of low-density parity-check codes under message passing
+decoding, as a function of the length of the code. Suppose
+that the number of decoding iterations is fixed. We show
+that, for almost all bipartite graphs defining a LDPC code
+and almost all received messages, the error probability
+decreases to a constant times its asymptotic value at the
+rate log  n / n , where  n  is the length of the code.
+[101]
+Peter L. Bartlett and Wolfgang Maass.
+Vapnik-Chervonenkis dimension of neural nets.
+In Michael A. Arbib, editor,  The Handbook of Brain Theory and
+Neural Networks , pages 1188-1192. MIT Press, 2003.
+Second Edition.
+[  bib  ]
+[102]
+Peter L. Bartlett.
+Prediction algorithms: complexity, concentration and convexity.
+In  Proceedings of the 13th IFAC Symposium on System
+Identification , 2003.
+(To appear.).
+[  bib  |
+.ps.Z  ]
+In this paper, we review two families of algorithms used
+to estimate large-scale statistical models for prediction
+problems, kernel methods and boosting algorithms. We
+focus on the computational and statistical properties of
+prediction algorithms of this kind.  Convexity plays an
+important role for these algorithms, since they exploit
+the computational advantages of convex optimization
+procedures. However, in addition to its computational
+advantages, the use of convexity in these methods
+also confers some attractive statistical properties.
+We present some recent results that show the advantages
+of convexity for estimation rates, the rates at which
+the prediction accuracies approach their optimal values.
+In addition, we present results that quantify the cost
+of using a convex loss function in place of the real
+loss function of interest.
+[103]
+Peter L. Bartlett, Michael I. Jordan, and Jon D. McAuliffe.
+Convexity, classification, and risk bounds.
+Technical Report 638, Department of Statistics, U.C. Berkeley, 2003.
+[  bib  |
+.ps.Z  |
+.pdf  ]
+Many of the classification algorithms developed in the
+machine learning literature, including the support
+vector machine and boosting, can be viewed as minimum
+contrast methods that minimize a convex surrogate of the
+0-1 loss function.  The convexity makes these algorithms
+computationally efficient.  The use of a surrogate, however,
+has statistical consequences that must be balanced against
+the computational virtues of convexity.  To study these
+issues, we provide a general quantitative relationship between
+the risk as assessed using the 0-1 loss and the risk as assessed
+using any nonnegative surrogate loss function. We show that this
+relationship gives nontrivial upper bounds on excess risk
+under the weakest possible condition on the loss
+function: that it satisfy a pointwise form of Fisher
+consistency for classification.  The relationship is
+based on a simple variational transformation of the loss
+function that is easy to compute in many applications.
+We also present a refined version of this result in the
+case of low noise.  Finally, we present applications of
+our results to the estimation of convergence rates in the
+general setting of function classes that are scaled
+convex hulls of a finite-dimensional base class,
+with a variety of commonly used loss functions.
+[104]
+Peter L. Bartlett, Michael I. Jordan, and Jon D. McAuliffe.
+Discussion of `Statistical behavior and consistency of
+classification methods based on convex risk minimization' by T. Zhang,
+`On the Bayes-risk consistency of regularized boosting methods' by
+G. Lugosi and N. Vayatis, and `Process consistency for Adaboost'
+by W. Jiang.
+(submitted), 2003.
+[  bib  |
+.ps.Z  |
+.pdf  ]
+This file has been generated by
+bibtex2html  1.54

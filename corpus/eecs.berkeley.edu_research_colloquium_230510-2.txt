@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/230510-2
+How Does the Brain Create Language? - EECS at Berkeley
+How Does the Brain Create Language?
+EECS Colloquium
+Wednesday, May 10, 2023
+310 Sutardja Dai Hall (Banatao Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Christos Papadimitriou
+Professor, Columbia University
+Professor Emeritus, UC Berkeley
+Christos Papadimitriou speaks on "How does the brain create language?" on 5/10/23
+Abstract
+There is little doubt that cognitive phenomena are the result of neural activity.  However, there has been slow progress toward articulating an overarching computational theory of how exactly this happens.  I will discuss a simplified mathematical model of the brain, which we call NEMO, involving brain areas, spiking neurons, random synapses, local inhibition, Hebbian plasticity, and long-range interneurons. Emergent behaviors of the resulting dynamical system — established both analytically and through simulations — include assemblies of neurons, sequence memorization, one-shot learning, and universal computation.  NEMO can also be seen as a software-based neuromorphic system that can be simulated efficiently at the scale of tens of millions of neurons, emulating certain high-level cognitive phenomena such as planning and parsing of natural language.  I will describe current work aiming at creating through NEMO a  neuromorphic language organ:  a neural tabula rasa which, on input consisting of a modest amount of grounded language, is capable of language acquisition: lexicon, syntax, semantics, comprehension, and generation.  Finally, and on the plane of scientific methodology, I will argue that experimenting with such brain-like devices, devoid of backpropagation, can reveal novel avenues to learning, and may end up advancing AI.
+Biography
+Christos Papadimitriou is best known for his work in computational complexity, helping to expand its methodology and reach. He has also explored other fields through what he calls the “algorithmic lens,” having contributed to biology and the theory of evolution, economics, and game theory (where he helped found the field of algorithmic game theory), artificial intelligence, robotics, networks and the Internet, and more recently the study of the brain. He authored the widely used textbook Computational Complexity, as well as four others, and has written three novels, including the best-selling Logicomix and his latest, Independence. He considers himself fundamentally a teacher, having taught at UC Berkeley for the past 20 years, and before that at Harvard, MIT, the National Technical University of Athens, Stanford, and UC San Diego. Papadimitriou has been awarded the Knuth Prize, IEEE’s John von Neumann Medal, the EATCS Award, the IEEE Computer Society Charles Babbage Award, and the Gödel Prize. He is a fellow of the Association for Computer Machinery and the National Academy of Engineering, and a member of the National Academy of Sciences. He received his B.S. in Electrical Engineering from Athens Polytechnic in 1972. He has an M.S. in Electrical Engineering and a Ph.D. in Electrical Engineering/Computer Science from Princeton, received in 1974 and 1976, respectively.
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

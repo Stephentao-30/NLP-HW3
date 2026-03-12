@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-144.html
+JITProf: Pinpointing JIT-unfriendly JavaScript Code | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+JITProf: Pinpointing JIT-unfriendly JavaScript Code
+JITProf: Pinpointing JIT-unfriendly JavaScript Code
+Liang Gong, Michael Pradel and Koushik Sen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-144
+August 3, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-144.pdf
+BibTeX citation:
+@techreport{Gong:EECS-2014-144,
+Author = {Gong, Liang and Pradel, Michael and Sen, Koushik},
+Title = {JITProf: Pinpointing JIT-unfriendly JavaScript Code},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-144.html},
+Number = {UCB/EECS-2014-144}
+}
+EndNote citation:
+%0 Report
+%A Gong, Liang
+%A Pradel, Michael
+%A Sen, Koushik
+%T JITProf: Pinpointing JIT-unfriendly JavaScript Code
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 August 3
+%@ UCB/EECS-2014-144
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-144.html
+%F Gong:EECS-2014-144

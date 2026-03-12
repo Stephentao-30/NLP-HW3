@@ -1,0 +1,50 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-87.html
+Failure as a Service (FaaS): A Cloud Service for Large-Scale, Online Failure Drills
+Haryadi S. Gunawi and Thanh Do and Joseph M. Hellerstein and Ion Stoica and Dhruba Borthakur and Jesse Robbins
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-87
+July 28,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-87.pdf
+Cloud computing is pervasive, but cloud service outages
+still take place.  One might say that the computing forecast
+for tomorrow is "cloudy with a chance of failure."  One main
+reason why major outages still occur is that there are many
+unknown large-scale failure scenarios in which recovery
+might fail.  We propose a new type of cloud service, Failure
+as a Service (FaaS), which allows cloud services to
+routinely perform large-scale failure drills in real
+deployments.
+BibTeX citation:
+@techreport{Gunawi:EECS-2011-87,
+Author= {Gunawi, Haryadi S. and Do, Thanh and Hellerstein, Joseph M. and Stoica, Ion and Borthakur, Dhruba and Robbins, Jesse},
+Title= {Failure as a Service (FaaS): A Cloud Service for Large-Scale, Online Failure Drills},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-87.html},
+Number= {UCB/EECS-2011-87},
+Abstract= {Cloud computing is pervasive, but cloud service outages
+still take place.  One might say that the computing forecast
+for tomorrow is "cloudy with a chance of failure."  One main
+reason why major outages still occur is that there are many
+unknown large-scale failure scenarios in which recovery
+might fail.  We propose a new type of cloud service, Failure
+as a Service (FaaS), which allows cloud services to
+routinely perform large-scale failure drills in real
+deployments.},
+}
+EndNote citation:
+%0 Report
+%A Gunawi, Haryadi S.
+%A Do, Thanh
+%A Hellerstein, Joseph M.
+%A Stoica, Ion
+%A Borthakur, Dhruba
+%A Robbins, Jesse
+%T Failure as a Service (FaaS): A Cloud Service for Large-Scale, Online Failure Drills
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 28
+%@ UCB/EECS-2011-87
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-87.html
+%F Gunawi:EECS-2011-87

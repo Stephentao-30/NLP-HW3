@@ -1,0 +1,51 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-38.html
+A Micromechanical RF Channelizer | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Micromechanical RF Channelizer
+A Micromechanical RF Channelizer
+Mehmet Akgul
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-38
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-38.pdf
+The power consumption of a radio generally goes as the number and strength of the RF signals it must process. In particular, a radio receiver would consume much less power if the signal presented to its electronics contained only the desired signal in a tiny percent bandwidth frequency channel, rather than the typical mix of signals containing unwanted energy outside the desired channel. Unfortunately, a lack of filters capable of selecting single channel bandwidths at RF forces the front-ends of contemporary receivers to accept unwanted signals, and thus, to operate with sub-optimal efficiency.
+This dissertation focuses on the degree to which capacitive-gap transduced micromechanical resonators can achieve the aforementioned RF channel-selecting filters. It aims to first show theoretically that with appropriate scaling capacitive-gap transducers are strong enough to meet the needed coupling requirements; and second, to fully detail an architecture and design procedure needed to realize said filters. Finally, this dissertation provides an actual experimentally demonstrated RF channel-select filter.
+Specifically, this dissertation introduces four methods that make possible the design and fabrication of RF channel-select filters. The first of these introduces a small-signal equivalent circuit for parallel-plate capacitive-gap transduced micromechanical resonators that employs negative capacitance to model the dependence of resonance frequency on electrical stiffness in a way that facilitates the analysis of micromechanical circuits loaded with arbitrary electrical impedances.
+The second method enables simultaneous low motional resistance (Rx < 130 Ω) and high Q (>70,000) at 61 MHz using an improved ALD-partial electrode-to-resonator gap filling technique that reduces the Q-limiting surface losses of previous renditions by adding an alumina pre-coating before ALD of the gap-filling high-k dielectric. This effort demonstrates the first VHF micromechanical resonators in any material, piezoelectric or not, to meet the simultaneous high Q (>50,000) and low motional resistance Rx (< 200Ω) specs.
+The third method introduces a capacitively transduced micromechanical resonator constructed in hot filament CVD boron-doped microcrystalline diamond (MCD) structural material that posts a measured Q of 146,580 at 232.441 kHz, which is 3× higher than the previous high for conductive polydiamond. Moreover, radial-contour mode disk resonators fabricated in the same MCD film and using material mismatched stems exhibit a Q of 71,400 at 299.86 MHz.
+The last method presents a design hierarchy that achieves the desired filter response with a specific center frequency, bandwidth, and filter termination resistance. The design procedure culminates in specific values for all mechanical geometry variables necessary for the filter layout, such as disk radii, and beam widths; and process design variables such as resonator material thickness and capacitive actuation gap spacing.
+Finally, the experimental results introduce a 39nm-gap capacitive transducer, voltage-controlled frequency tuning, and a stress relieving coupled array design that enable a 0.09% bandwidth 223.4 MHz channel-select filter with only 2.7dB of in-band insertion loss and 50dB rejection of out-of-band interferers. The key to such low insertion loss for this tiny percent bandwidth is Q’s>8,800 supplied by polysilicon disk resonators employing for the first time capacitive transducer gaps small enough to generate coupling strengths of Cx/Co ~0.1%, which is a 6.1× improvement over previous efforts.
+Perhaps most encouraging is that the models presented in dissertation used to design the filter and predict its behavior seem to be all be spot on. This means that predictions using these models foretelling 1-GHz filters with sub-200Ω impedances enabled by 20nm-gaps might soon come true.
+Advisor:  Clark Nguyen
+BibTeX citation:
+@phdthesis{Akgul:EECS-2015-38,
+Author = {Akgul, Mehmet},
+Title = {A Micromechanical RF Channelizer},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-38.html},
+Number = {UCB/EECS-2015-38},
+Abstract = {The power consumption of a radio generally goes as the number and strength of the RF signals it must process. In particular, a radio receiver would consume much less power if the signal presented to its electronics contained only the desired signal in a tiny percent bandwidth frequency channel, rather than the typical mix of signals containing unwanted energy outside the desired channel. Unfortunately, a lack of filters capable of selecting single channel bandwidths at RF forces the front-ends of contemporary receivers to accept unwanted signals, and thus, to operate with sub-optimal efficiency.
+This dissertation focuses on the degree to which capacitive-gap transduced micromechanical resonators can achieve the aforementioned RF channel-selecting filters. It aims to first show theoretically that with appropriate scaling capacitive-gap transducers are strong enough to meet the needed coupling requirements; and second, to fully detail an architecture and design procedure needed to realize said filters. Finally, this dissertation provides an actual experimentally demonstrated RF channel-select filter.
+Specifically, this dissertation introduces four methods that make possible the design and fabrication of RF channel-select filters. The first of these introduces a small-signal equivalent circuit for parallel-plate capacitive-gap transduced micromechanical resonators that employs negative capacitance to model the dependence of resonance frequency on electrical stiffness in a way that facilitates the analysis of micromechanical circuits loaded with arbitrary electrical impedances.
+The second method enables simultaneous low motional resistance (Rx < 130 Ω) and high Q (>70,000) at 61 MHz using an improved ALD-partial electrode-to-resonator gap filling technique that reduces the Q-limiting surface losses of previous renditions by adding an alumina pre-coating before ALD of the gap-filling high-k dielectric. This effort demonstrates the first VHF micromechanical resonators in any material, piezoelectric or not, to meet the simultaneous high Q (>50,000) and low motional resistance Rx (< 200Ω) specs.
+The third method introduces a capacitively transduced micromechanical resonator constructed in hot filament CVD boron-doped microcrystalline diamond (MCD) structural material that posts a measured Q of 146,580 at 232.441 kHz, which is 3× higher than the previous high for conductive polydiamond. Moreover, radial-contour mode disk resonators fabricated in the same MCD film and using material mismatched stems exhibit a Q of 71,400 at 299.86 MHz.
+The last method presents a design hierarchy that achieves the desired filter response with a specific center frequency, bandwidth, and filter termination resistance. The design procedure culminates in specific values for all mechanical geometry variables necessary for the filter layout, such as disk radii, and beam widths; and process design variables such as resonator material thickness and capacitive actuation gap spacing.
+Finally, the experimental results introduce a 39nm-gap capacitive transducer, voltage-controlled frequency tuning, and a stress relieving coupled array design that enable a 0.09% bandwidth 223.4 MHz channel-select filter with only 2.7dB of in-band insertion loss and 50dB rejection of out-of-band interferers. The key to such low insertion loss for this tiny percent bandwidth is Q’s>8,800 supplied by polysilicon disk resonators employing for the first time capacitive transducer gaps small enough to generate coupling strengths of Cx/Co ~0.1%, which is a 6.1× improvement over previous efforts.
+Perhaps most encouraging is that the models presented in dissertation used to design the filter and predict its behavior seem to be all be spot on. This means that predictions using these models foretelling 1-GHz filters with sub-200Ω impedances enabled by 20nm-gaps might soon come true.}
+}
+EndNote citation:
+%0 Thesis
+%A Akgul, Mehmet
+%T A Micromechanical RF Channelizer
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-38
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-38.html
+%F Akgul:EECS-2015-38

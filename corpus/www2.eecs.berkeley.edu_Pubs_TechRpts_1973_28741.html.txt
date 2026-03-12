@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28741.html
+Introduction to Programming Science, Part II: Proofs of Assertions About Programs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Introduction to Programming Science, Part II: Proofs of Assertions About Programs
+Introduction to Programming Science, Part II: Proofs of Assertions About Programs
+W.D. Maurer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M394
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-394.pdf
+BibTeX citation:
+@techreport{Maurer:M394,
+Author = {Maurer, W.D.},
+Title = {Introduction to Programming Science, Part II: Proofs of Assertions About Programs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28741.html},
+Number = {UCB/ERL M394}
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T Introduction to Programming Science, Part II: Proofs of Assertions About Programs
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M394
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28741.html
+%F Maurer:M394

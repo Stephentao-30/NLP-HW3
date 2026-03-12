@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-13.html
+Design and Evaluation of an Energy Agile Computing Cluster
+Andrew Krioukov and Sara Alspaugh and Prashanth Mohan and Stephen Dawson-Haggerty and David E. Culler and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-13
+January 17,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-13.pdf
+Variable, intermittent renewable sources of energy are being introduced into the national electric grid at scale. However, the current grid paradigm of load-following supplies is unable to utilize these sources without impractical deployments of backup generation and grid-scale energy storage. Thus, it will be crucial to have energy agile loads: electric loads that can dynamically adapt their energy consumption. Data centers are prime candidates for becoming energy agile because they are large energy consumers and often have workloads that can be shaped to vary their power consumption. In this paper we present an energy agile cluster that is power proportional (uses power proportional to its workload) and exposes slack (the ability to temporarily delay or degrade service to reduce power consumption). We describe a prototype cluster that consumes 60% less energy on typical workloads by being power proportional. Then, using month-long traces from a 9572 node computing cluster and a California wind farm, we show how a grid-aware scheduler can use workload slack to reduces dependence on non-renewable energy sources to 40% of its original level. Our results show that achieving the same wind penetration with energy storage alone would require sufficient battery capacity to run a cluster for five hours.
+BibTeX citation:
+@techreport{Krioukov:EECS-2012-13,
+Author= {Krioukov, Andrew and Alspaugh, Sara and Mohan, Prashanth and Dawson-Haggerty, Stephen and Culler, David E. and Katz, Randy H.},
+Title= {Design and Evaluation of an Energy Agile Computing Cluster},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-13.html},
+Number= {UCB/EECS-2012-13},
+Abstract= {Variable, intermittent renewable sources of energy are being introduced into the national electric grid at scale. However, the current grid paradigm of load-following supplies is unable to utilize these sources without impractical deployments of backup generation and grid-scale energy storage. Thus, it will be crucial to have energy agile loads: electric loads that can dynamically adapt their energy consumption. Data centers are prime candidates for becoming energy agile because they are large energy consumers and often have workloads that can be shaped to vary their power consumption. In this paper we present an energy agile cluster that is power proportional (uses power proportional to its workload) and exposes slack (the ability to temporarily delay or degrade service to reduce power consumption). We describe a prototype cluster that consumes 60% less energy on typical workloads by being power proportional. Then, using month-long traces from a 9572 node computing cluster and a California wind farm, we show how a grid-aware scheduler can use workload slack to reduces dependence on non-renewable energy sources to 40% of its original level. Our results show that achieving the same wind penetration with energy storage alone would require sufficient battery capacity to run a cluster for five hours.},
+}
+EndNote citation:
+%0 Report
+%A Krioukov, Andrew
+%A Alspaugh, Sara
+%A Mohan, Prashanth
+%A Dawson-Haggerty, Stephen
+%A Culler, David E.
+%A Katz, Randy H.
+%T Design and Evaluation of an Energy Agile Computing Cluster
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 17
+%@ UCB/EECS-2012-13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-13.html
+%F Krioukov:EECS-2012-13

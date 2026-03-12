@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-49.html
+Cortical Microstimulation for Neural Prostheses
+Subramaniam Venkatraman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-49
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-49.pdf
+Advisors:  Kristofer Pister and Jose M. Carmena
+BibTeX citation:
+@phdthesis{Venkatraman:EECS-2012-49,
+Author= {Venkatraman, Subramaniam},
+Title= {Cortical Microstimulation for Neural Prostheses},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-49.html},
+Number= {UCB/EECS-2012-49},
+}
+EndNote citation:
+%0 Thesis
+%A Venkatraman, Subramaniam
+%T Cortical Microstimulation for Neural Prostheses
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-49
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-49.html
+%F Venkatraman:EECS-2012-49

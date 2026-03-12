@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28419.html
+Computer Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Systems
+Computer Systems
+D.L. Chaum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/10
+February 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-10.pdf
+BibTeX citation:
+@techreport{Chaum:M79/10,
+Author = {Chaum, D.L.},
+Title = {Computer Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28419.html},
+Number = {UCB/ERL M79/10}
+}
+EndNote citation:
+%0 Report
+%A Chaum, D.L.
+%T Computer Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/10
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28419.html
+%F Chaum:M79/10

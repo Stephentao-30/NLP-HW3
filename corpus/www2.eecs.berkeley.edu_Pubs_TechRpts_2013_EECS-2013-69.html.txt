@@ -1,0 +1,31 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-69.html
+Watertight Floor Plans Generated from Laser Range Data
+Eric Turner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-69
+May 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-69.pdf
+We describe an approach to automatically generate a floor plan for the interior environment of a building using laser scan data.  This floor plan is meant to accurately indicate the positions of walls within an area of interest in the building.  The proposed algorithm separates the floors of a building scan, selects a representative sampling of wall scans for each floor, and triangulates these samples to develop a watertight representation of the walls for each of the scanned areas. Curves and straight line segments are fit to these walls, in order to mitigate any registration errors from the original scans.  This method is not dependent on the scanning system and can successfully process noisy scans with non-zero registration error.  Most of the processing is performed after a dramatic dimensionality reduction, yielding a scalable approach.  We demonstrate the effectiveness of our approach on a three-story point cloud from a commercial building as well as on the lobby and hallways of a hotel.
+Advisors:  Avideh Zakhor
+BibTeX citation:
+@mastersthesis{Turner:EECS-2013-69,
+Author= {Turner, Eric},
+Title= {Watertight Floor Plans Generated from Laser Range Data},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-69.html},
+Number= {UCB/EECS-2013-69},
+Abstract= {We describe an approach to automatically generate a floor plan for the interior environment of a building using laser scan data.  This floor plan is meant to accurately indicate the positions of walls within an area of interest in the building.  The proposed algorithm separates the floors of a building scan, selects a representative sampling of wall scans for each floor, and triangulates these samples to develop a watertight representation of the walls for each of the scanned areas. Curves and straight line segments are fit to these walls, in order to mitigate any registration errors from the original scans.  This method is not dependent on the scanning system and can successfully process noisy scans with non-zero registration error.  Most of the processing is performed after a dramatic dimensionality reduction, yielding a scalable approach.  We demonstrate the effectiveness of our approach on a three-story point cloud from a commercial building as well as on the lobby and hallways of a hotel.},
+}
+EndNote citation:
+%0 Thesis
+%A Turner, Eric
+%T Watertight Floor Plans Generated from Laser Range Data
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 15
+%@ UCB/EECS-2013-69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-69.html
+%F Turner:EECS-2013-69

@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-3.html
+Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design
+Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design
+Ioannis Konstantakopoulos, Costas J. Spanos and S. Shankar Sastry
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-3
+February 2, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-3.pdf
+We describe a social game that we designed for encouraging energy efficient behavior among building occupants with the aim of reducing overall energy consumption in the building. Occu- pants vote for their desired lighting and HVAC level and win points which are used in a lottery based on how far their vote is from the maximum setting. We assume that the occupants are util- ity maximizers and that their utility functions capture the trade-off between winning points and their comfort level. We model the occupants as non-cooperative agents in a continuous game and we characterize their play using the Nash equilibrium concept. Using occupant voting data, we parameterize their utility functions and use a convex optimization problem to estimate the parameters. We simulate the game defined by the estimated utility functions and show that the estimated model for occupant behavior is a good predictor of their actual behavior. In addition, we show that due to the social game, there is a significant reduction in energy consumption.
+Moreover, we formulate the interaction between the building manager and the occupants as a reversed Stackelberg game in which there are multiple followers that play in a non-cooperative game. The estimated utilities are used for determining the occupant behavior in the non-cooperative game. Due to nonconvexities and complexity of the problem, in particular the size of the joint distribution across the states of the occupants, we solve the resulting the bi- level optimization problem using a particle swarm optimization method. Drawing from the distribution across player states, we compute the Nash equilibrium of the game using the resulting leader choice. We show that the behavior of the agents under the leader choice results in greater utility for the leader.
+BibTeX citation:
+@techreport{Konstantakopoulos:EECS-2015-3,
+Author = {Konstantakopoulos, Ioannis and Spanos, Costas J. and Sastry, S. Shankar},
+Title = {Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-3.html},
+Number = {UCB/EECS-2015-3},
+Abstract = {We describe a social game that we designed for encouraging energy efficient behavior among building occupants with the aim of reducing overall energy consumption in the building. Occu- pants vote for their desired lighting and HVAC level and win points which are used in a lottery based on how far their vote is from the maximum setting. We assume that the occupants are util- ity maximizers and that their utility functions capture the trade-off between winning points and their comfort level. We model the occupants as non-cooperative agents in a continuous game and we characterize their play using the Nash equilibrium concept. Using occupant voting data, we parameterize their utility functions and use a convex optimization problem to estimate the parameters. We simulate the game defined by the estimated utility functions and show that the estimated model for occupant behavior is a good predictor of their actual behavior. In addition, we show that due to the social game, there is a significant reduction in energy consumption.
+Moreover, we formulate the interaction between the building manager and the occupants as a reversed Stackelberg game in which there are multiple followers that play in a non-cooperative game. The estimated utilities are used for determining the occupant behavior in the non-cooperative game. Due to nonconvexities and complexity of the problem, in particular the size of the joint distribution across the states of the occupants, we solve the resulting the bi- level optimization problem using a particle swarm optimization method. Drawing from the distribution across player states, we compute the Nash equilibrium of the game using the resulting leader choice.
+We show that the behavior of the agents under the leader choice results in greater utility for the leader.}
+}
+EndNote citation:
+%0 Report
+%A Konstantakopoulos, Ioannis
+%A Spanos, Costas J.
+%A Sastry, S. Shankar
+%T Social Game for Building Energy Efficiency: Utility Learning, Simulation, Analysis and Incentive Design
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 February 2
+%@ UCB/EECS-2015-3
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-3.html
+%F Konstantakopoulos:EECS-2015-3

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28387.html
+Some Results Concerning the Zero-Crossings of Gaussian Noise | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Some Results Concerning the Zero-Crossings of Gaussian Noise
+Some Results Concerning the Zero-Crossings of Gaussian Noise
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M135
+November 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-135.pdf
+BibTeX citation:
+@techreport{Wong:M135,
+Author = {Wong, E.},
+Title = {Some Results Concerning the Zero-Crossings of Gaussian Noise},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28387.html},
+Number = {UCB/ERL M135}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T Some Results Concerning the Zero-Crossings of Gaussian Noise
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M135
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28387.html
+%F Wong:M135

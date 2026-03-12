@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/8556.html
+Functional Semantics of Programming Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Functional Semantics of Programming Languages
+Functional Semantics of Programming Languages
+William D. Flannery
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M395
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-395.pdf
+Advisor:  Ward D. Maurer
+BibTeX citation:
+@phdthesis{Flannery:M395,
+Author = {Flannery, William D.},
+Title = {Functional Semantics of Programming Languages},
+School = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/8556.html},
+Number = {UCB/ERL M395}
+}
+EndNote citation:
+%0 Thesis
+%A Flannery, William D.
+%T Functional Semantics of Programming Languages
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M395
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/8556.html
+%F Flannery:M395

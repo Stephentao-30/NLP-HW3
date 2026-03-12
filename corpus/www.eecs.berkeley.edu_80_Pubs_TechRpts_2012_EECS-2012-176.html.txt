@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-176.html
+Thin-Body SOI Capacitorless DRAM Cell Design Optimization and Scaling
+MIN CHO
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-176
+July 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-176.pdf
+Capacitorless dynamic random access memory (DRAM) is a promising solution to cell-area scalability and complex fabrication process issues for conventional DRAM. The thin body SOI transistor, which suppresses the short channel effect and also minimizes variability, is selected for the capacitorless DRAM cell structure. The impact of substrate doping concentration on capacitorless DRAM cell performance is studied and a novel selective well structure is proposed.
+A capacitorless DRAM cell design with BJT-based operation (BJT mode) is known to have larger sensing margins and longer retention times. Controlling band-to-band tunneling leakage (BTBT) related to the electric field plays a key role in limiting retention time. In the BJT mode, BTBT in the Hold 0 state limits data retention time (D0 failure). By optimizing the underlap between the front gate and the source/drain regions as well as the operating voltages, retention time exceeding 1 second should be attainable for a cell with 25 nm gate length. The scaling limits of optimized capacitorless DRAM cells are also investigated through the analysis of variations. Signal sense margin analysis indicates that the ultimate scaling limit is 13 nm (gate length) for embedded DRAM applications and 16.5 nm for stand-alone DRAM applications.
+The positive feedback MOSFET (PF-FET) was fabricated on thin body (10 nm) and UTBOX (10 nm) SOI structure. Positive feedback occurs as a result of both the BJT operation and the floating body effect from weak impact ionization. It exhibits very steep subthreshold slope of 0.03 mV/dec. Wide hysteresis enables the PF-FET to be utilized for memory application. The sensing margin is 62 µA/µm and retention time is greater than 4 seconds.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{CHO:EECS-2012-176,
+Author= {CHO, MIN},
+Title= {Thin-Body SOI Capacitorless DRAM Cell Design Optimization and Scaling},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-176.html},
+Number= {UCB/EECS-2012-176},
+Abstract= {  Capacitorless dynamic random access memory (DRAM) is a promising solution to cell-area scalability and complex fabrication process issues for conventional DRAM. The thin body SOI transistor, which suppresses the short channel effect and also minimizes variability, is selected for the capacitorless DRAM cell structure. The impact of substrate doping concentration on capacitorless DRAM cell performance is studied and a novel selective well structure is proposed.
+A capacitorless DRAM cell design with BJT-based operation (BJT mode) is known to have larger sensing margins and longer retention times. Controlling band-to-band tunneling leakage (BTBT) related to the electric field plays a key role in limiting retention time. In the BJT mode, BTBT in the Hold 0 state limits data retention time (D0 failure). By optimizing the underlap between the front gate and the source/drain regions as well as the operating voltages, retention time exceeding 1 second should be attainable for a cell with 25 nm gate length. The scaling limits of optimized capacitorless DRAM cells are also investigated through the analysis of variations. Signal sense margin analysis indicates that the ultimate scaling limit is 13 nm (gate length) for embedded DRAM applications and 16.5 nm for stand-alone DRAM applications.
+The positive feedback MOSFET (PF-FET) was fabricated on thin body (10 nm) and UTBOX (10 nm) SOI structure. Positive feedback occurs as a result of both the BJT operation and the floating body effect from weak impact ionization. It exhibits very steep subthreshold slope of 0.03 mV/dec. Wide hysteresis enables the PF-FET to be utilized for memory application. The sensing margin is 62 µA/µm and retention time is greater than 4 seconds.},
+}
+EndNote citation:
+%0 Thesis
+%A CHO, MIN
+%T Thin-Body SOI Capacitorless DRAM Cell Design Optimization and Scaling
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 13
+%@ UCB/EECS-2012-176
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-176.html
+%F CHO:EECS-2012-176

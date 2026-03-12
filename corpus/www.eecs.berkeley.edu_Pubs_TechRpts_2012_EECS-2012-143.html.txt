@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-143.html
+Dr. Chi
+Xi Peng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-143
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-143.pdf
+Advisors:  Sayeef Salahuddin and Lee Fleming
+BibTeX citation:
+@mastersthesis{Peng:EECS-2012-143,
+Author= {Peng, Xi},
+Title= {Dr. Chi},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-143.html},
+Number= {UCB/EECS-2012-143},
+}
+EndNote citation:
+%0 Thesis
+%A Peng, Xi
+%T Dr. Chi
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-143
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-143.html
+%F Peng:EECS-2012-143

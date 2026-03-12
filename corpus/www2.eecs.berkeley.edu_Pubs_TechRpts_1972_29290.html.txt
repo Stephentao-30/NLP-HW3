@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29290.html
+Necessary and Sufficient Conditions for Stability for N-Input N-Output Convolution Feedback Systems With a Finite Number of Unstable Poles
+Frank M. Callier and Charles A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M371
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-371.pdf
+BibTeX citation:
+@techreport{Callier:M371,
+Author= {Callier, Frank M. and Desoer, Charles A.},
+Title= {Necessary and Sufficient Conditions for Stability for N-Input N-Output Convolution Feedback Systems With a Finite Number of Unstable Poles},
+Year= {1972},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29290.html},
+Number= {UCB/ERL M371},
+}
+EndNote citation:
+%0 Report
+%A Callier, Frank M.
+%A Desoer, Charles A.
+%T Necessary and Sufficient Conditions for Stability for N-Input N-Output Convolution Feedback Systems With a Finite Number of Unstable Poles
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M371
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29290.html
+%F Callier:M371

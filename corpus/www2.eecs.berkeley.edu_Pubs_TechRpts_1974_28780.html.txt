@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28780.html
+An Analysis of Lanczos Algorithms for Symmetric Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Analysis of Lanczos Algorithms for Symmetric Matrices
+An Analysis of Lanczos Algorithms for Symmetric Matrices
+W. Kahan and B. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M467
+September 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-467.pdf
+BibTeX citation:
+@techreport{Kahan:M467,
+Author = {Kahan, W. and Parlett, B.},
+Title = {An Analysis of Lanczos Algorithms for Symmetric Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28780.html},
+Number = {UCB/ERL M467}
+}
+EndNote citation:
+%0 Report
+%A Kahan, W.
+%A Parlett, B.
+%T An Analysis of Lanczos Algorithms for Symmetric Matrices
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M467
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28780.html
+%F Kahan:M467

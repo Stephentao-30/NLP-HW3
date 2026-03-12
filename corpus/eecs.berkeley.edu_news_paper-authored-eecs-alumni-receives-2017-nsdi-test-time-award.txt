@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/paper-authored-eecs-alumni-receives-2017-nsdi-test-time-award
+Paper authored by EECS alumni receives 2017 NSDI Test-of-Time Award. - EECS at Berkeley
+The paper “X-Trace: A Pervasive Network Tracing Framework”, authored by EECS alumi  Rodrigo Fonseca  (Ph.D. ’08) and  George Porter  (Ph.D. ’08) and Professors  Randy Katz ,  Scott Shenker , and  Ion Stoica , has received the  2017 Networked Systems Design and Implementation (NSDI) Test-of-Time Award . X-Trace was not the first tracing framework, but it was influential given that it was effectively the first framework for end-to-end tracing to focus on generality and pervasiveness. The researchers implemented X-Trace in protocols and software systems, and in their prize-winning paper, they set out to explain three different use scenarios: domain name system (DNS) resolution; a three-tiered photo-hosting website; and a service accessed through an overlay network.
+Categories
+Alumni
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

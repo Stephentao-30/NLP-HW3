@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28479.html
+Error Bounds for General Describing Function Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Error Bounds for General Describing Function Problems
+Error Bounds for General Describing Function Problems
+A.R. Bergen, L.O. Chua, A.I. Mees and E.W. Szeto
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/55
+July 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-55.pdf
+BibTeX citation:
+@techreport{Bergen:M81/55,
+Author = {Bergen, A.R. and Chua, L.O. and Mees, A.I. and Szeto, E.W.},
+Title = {Error Bounds for General Describing Function Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28479.html},
+Number = {UCB/ERL M81/55}
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Chua, L.O.
+%A Mees, A.I.
+%A Szeto, E.W.
+%T Error Bounds for General Describing Function Problems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/55
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28479.html
+%F Bergen:M81/55

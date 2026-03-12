@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28675.html
+A Method of Feasible Directions Using Function Approximations, With Applications to Min Max Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Method of Feasible Directions Using Function Approximations, With Applications to Min Max Problems
+A Method of Feasible Directions Using Function Approximations, With Applications to Min Max Problems
+R. Klessig and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M287
+October 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-287.pdf
+BibTeX citation:
+@techreport{Klessig:M287,
+Author = {Klessig, R. and Polak, E.},
+Title = {A Method of Feasible Directions Using Function Approximations, With Applications to Min Max Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28675.html},
+Number = {UCB/ERL M287}
+}
+EndNote citation:
+%0 Report
+%A Klessig, R.
+%A Polak, E.
+%T A Method of Feasible Directions Using Function Approximations, With Applications to Min Max Problems
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M287
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28675.html
+%F Klessig:M287

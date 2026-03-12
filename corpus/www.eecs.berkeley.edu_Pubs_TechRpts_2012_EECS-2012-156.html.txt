@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-156.html
+Analysis of LED Technologies for Solid State Lighting Markets
+Cheng-Chih Hsieh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-156
+June 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-156.pdf
+This report focuses on the analysis of light emitting diode (LED) technology in the solid state lighting (SSL) market, that is, whether or not LED lighting products will replace incandescent bulbs and compact fluorescent lamps (CFLs).  Today, the performance of LED bulbs is getting better and better, while the market share of LED bulbs in the SSL market is still much smaller than those of incandescent bulbs and CFLs. Hence, we analyze LEDs in terms of their fundamental technologies, such as color rendering, efficiency, and white light generation techniques, and in terms of social issues, policies, and market analysis. So far, our work has shown that for indoor lighting, the efficiency performance of LEDs is better than those of incandescent bulbs and CFLs. White light LED commercial products can surpass one hundred lumens per watt, which is much larger than the 60 lumens per watt of CFLs and the 12 lumens per watt of incandescent bulbs. The long-term costs of LED lighting are also competitive as compared with those of other products. Therefore, LED technology will probably replace incandescent bulbs in the foreseeable future.
+BibTeX citation:
+@techreport{Hsieh:EECS-2012-156,
+Author= {Hsieh, Cheng-Chih},
+Title= {Analysis of LED Technologies for Solid State Lighting Markets},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-156.html},
+Number= {UCB/EECS-2012-156},
+Abstract= {This report focuses on the analysis of light emitting diode (LED) technology in the solid state lighting (SSL) market, that is, whether or not LED lighting products will replace incandescent bulbs and compact fluorescent lamps (CFLs).  Today, the performance of LED bulbs is getting better and better, while the market share of LED bulbs in the SSL market is still much smaller than those of incandescent bulbs and CFLs. Hence, we analyze LEDs in terms of their fundamental technologies, such as color rendering, efficiency, and white light generation techniques, and in terms of social issues, policies, and market analysis. So far, our work has shown that for indoor lighting, the efficiency performance of LEDs is better than those of incandescent bulbs and CFLs. White light LED commercial products can surpass one hundred lumens per watt, which is much larger than the 60 lumens per watt of CFLs and the 12 lumens per watt of incandescent bulbs. The long-term costs of LED lighting are also competitive as compared with those of other products. Therefore, LED technology will probably replace incandescent bulbs in the foreseeable future.},
+}
+EndNote citation:
+%0 Report
+%A Hsieh, Cheng-Chih
+%T Analysis of LED Technologies for Solid State Lighting Markets
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 2
+%@ UCB/EECS-2012-156
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-156.html
+%F Hsieh:EECS-2012-156

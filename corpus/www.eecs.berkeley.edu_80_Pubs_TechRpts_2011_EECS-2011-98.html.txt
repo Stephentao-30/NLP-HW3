@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-98.html
+How Open Should Open Source Be?
+Adam Barth and Saung Li and Benjamin I. P. Rubinstein and Dawn Song
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-98
+August 31,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-98.pdf
+Many open-source projects land security fixes in public repositories before shipping these patches to users. This paper presents attacks on such projects-taking Firefox as a case-study—that exploit patch metadata to efficiently search for security patches prior to shipping. Using access-restricted bug reports linked from patch descriptions, security patches can be immediately identified for 260 out of 300 days of Firefox 3 development. In response to Mozilla obfuscating descriptions, we show that machine learning can exploit metadata such as patch author to search for security patches, extending the total window of vulnerability by 5 months in an 8 month period when examining up to two patches daily. Finally we present strong evidence that further metadata obfuscation is unlikely to prevent information leaks, and we argue that open-source projects instead ought to keep security patches secret until they are ready to be released.
+BibTeX citation:
+@techreport{Barth:EECS-2011-98,
+Author= {Barth, Adam and Li, Saung and Rubinstein, Benjamin I. P. and Song, Dawn},
+Title= {How Open Should Open Source Be?},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-98.html},
+Number= {UCB/EECS-2011-98},
+Abstract= {Many open-source projects land security fixes in public repositories before shipping these patches to users. This paper presents attacks on such projects-taking Firefox as a case-study—that exploit patch metadata to efficiently search for security patches prior to shipping. Using access-restricted bug reports linked from patch descriptions, security patches can be immediately identified for 260 out of 300 days of Firefox 3 development. In response to Mozilla obfuscating descriptions, we show that machine learning can exploit metadata such as patch author to search for security patches, extending the total window of vulnerability by 5 months in an 8 month period when examining up to two patches daily. Finally we present strong evidence that further metadata obfuscation is unlikely to prevent information leaks, and we argue that open-source projects instead ought to keep security patches secret until they are ready to be released.},
+}
+EndNote citation:
+%0 Report
+%A Barth, Adam
+%A Li, Saung
+%A Rubinstein, Benjamin I. P.
+%A Song, Dawn
+%T How Open Should Open Source Be?
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 31
+%@ UCB/EECS-2011-98
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-98.html
+%F Barth:EECS-2011-98

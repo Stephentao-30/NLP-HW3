@@ -1,0 +1,19 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-117.html
+To Be Certain about Uncertainties: Probabilistic Model Checking with Uncertainties
+THIS REPORT HAS BEEN WITHDRAWN
+Alberto Alessandro Angelo Puggelli and Wenchao Li and John Finn and Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-117
+May 24, 2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2012-117.pdf
+We address the problem of verifying PCTL properties of
+Markov Decision Processes whose state transition
+probabilities are only known to lie within uncertainty
+sets. Using results from convex theory and duality, we propose
+a suite of veriﬁcation algorithms and prove their soundness,
+completeness and termination when arbitrary convex
+models of uncertainty are considered. Furthermore, soundness and termination can
+also be guaranteed when non-convex models of uncertainty are adopted. We
+validate the proposed approach on two case studies: the verification of a
+consensus protocol when one of the processes behaves erroneously and the dining philosopher problem.
+Author Comments:

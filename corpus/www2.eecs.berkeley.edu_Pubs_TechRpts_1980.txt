@@ -1,0 +1,59 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980
+Technical Reports - 1980
+Arnold Diffusion in Hamiltonian Systems with Three Degrees of Freedom  (M79/83) M.A. Lieberman
+Viscous Plasma Flow in a Multiple-Mirror Configuration  (M80/56) R.V. Bravenec, A.J. Lichtenberg, M.A. Lieberman and H.L. Berk
+Algorithms for Computing Almost-Periodic Steady-State Response of Nonlinear Systems to Multiple Input Frequencies  (M80/55) L.O. Chua and A. Ushida
+High Speed CMOS A/D Conversion Techniques  (M80/54) William C. Black, Jr.
+Convex Geometry and Group Choice  (M80/53) S.V. Ovchinnikov
+Computing Maximal "Polymatroidal" Network Flows  (M80/52) E.L. Lawler and C.U. Martel
+Fourier Transforms in VLSI  (M80/51) C.D. Thompson
+A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems  (M80/50) E. Polak and A.L. Tits
+General Study of Discrete-Time Convolution Control Systems  (M80/49) V.H.L. Cheng and C.A. Desoer
+A Formal Model of Crash Recovery in a Distributed System  (M80/48) Dale Skeen and Michael Stonebraker
+Operating System Support for Data Base Management  (M80/47) Michael Stonebraker
+Double-Row Planar Routing and Permutation Layout  (M80/46) S. Tsukiyama and E.S. Kuh
+Asymptotic Agreement in Distributed Estimation  (M80/45) V. Borkar and P. Varaiya
+Jump Behavior of Circuits and Systems  (M80/44) S.S. Sastry, C.A. Desoer and P.P. Varaiya
+Efficient Algorithms for Channel Routing  (M80/43) T. Yoshimura and E.S. Kuh
+Optimal Control of Service in Tandem Queues  (M80/42) Z. Rosberg, P. Veraiya and J. Walrand
+A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range  (M80/41) E. Polak and Y. Wardi
+Lower-Hybrid Drift Instability Saturation Mechanisms in One-Dimensional Simulations  (M80/40) Y.-J. Chen and C.K. Birdsall
+Residual Bounds on Approximate Eigensystems of Nonnormal Matrices  (M80/39) B.N. Parlett and E. Jiang
+The Choice Coordination Problem  (M80/38) Michael O. Rabin
+The Discrete Fourier Transform Via Circulants  (M80/37) B.N. Parlett
+Fermi Acceleration Revisited  (M80/36) A.J. Lichtenberg, M.A. Lieberman and R.H. Cohen
+Analysis of the Power Flow Equation  (M80/35) A. Arapostathis, S. Sastry and P. Varaiya
+PHRAN: A Knowledge-Based Approach to Natural Language Analysis  (M80/34) Robert Wilensky and Yigal Arens
+Meta-planning: Representing and Using Knowledge about Planning in Problem Solving and Natural Language Understanding  (M80/33) Robert Wilensky
+An Implementable Algorithm for the Optimal Design Centering, Tolerancing and Tuning Problem  (M79/33) E. Polak
+Final Report- Interchange No. NCA2-ORO50-704  (M80/31) D.J. Angelakos
+A New Approach to Routing of Two-Layer Printed Circuit Board  (M80/30) M. Marek-Kadowska and E.S. Kuh
+Energy Related Concepts for Nonlinear Time-Varying N-Ports: Passivity and Losslessness  (M80/29) J.W. Gannett and L.O. Chua
+Accurate Computation of Divided Differences  (M80/28) Allan Charles McCurdy
+Modularization of Large Comuting Systems  (M80/27) Sin-Kin Edwin Law
+Dynamic Re-Materialization: Processing Distributed Queries Using Redundant Data  (M80/26) Eugene Wong
+Analysis of Distributed Data Base Processing Strategies  (M80/25) Robert Epstein
+Database Design and Translation for Mutliple Data Models  (M80/24) Randy Howard Katz
+Dynamic Arrays Via a Modified Ratfor Preprocessor  (M80/23) W.T. Nye
+Sensitivity Analysis for Combinatorial Optimization  (M80/22) Daniel Mier Gusfield
+Identification of Groups of E-Coherent Generators  (M80/21) Yu-Kun Tsai and Felix F. Wu
+Nonlinear Frequency Shift Induced by the Lower-Hybrid Drift Instability  (M80/20) Yu-Jiuan Chen and Bruce I. Cohen
+Limits on Power Injections for Power Flow Equations to Have Secure Solutions  (M80/19) F.F. Wu and S. Kumagai
+Algorithms for Optimal Design  (M80/18) E. Polak
+Points: A Theory of Story Content  (M80/17) Robert Wilensky
+Explicit Solutions to a Class of Nonlinear Filtering Problems  (M80/16) Eugene Wong
+Embedding Expert Knowledge and Hypothetical Databases into a Data Base System  (M80/15) M. Stonebraker and K. Keller
+A Software System for Optimization Based Interactive Computer-Aided Design  (M80/14) M.A. Bhatti, T. Essebo, W. Nye, K.S. Pister, E. Polak, A. Sangiovanni-Vincentelli and A. Tits
+Design of Multivariable Feedback Systems with Stable Plant  (M80/13) C.A. Desoer and M.J. Chen
+Design of Nonlinear Feedback Controllers  (M80/12) E. Polak and D.Q. Mayne
+A Quadratically Convergent Algorithm for Solving Infinite Dimensional Inequalities  (M80/11) D.Q. Mayne and E. Polak
+L-Fuzzy- An AI Language with Linguistic Modification of Patterns  (M80/10) Christian Freksa
+Query Processing Techniques for Distributed, Relational Data Base Systems  (M80/9) Robert S. Epstein
+On the Solution of Singular Value Inequalities Over a Continuum of Frequencies  (M80/8) E. Polak and D.Q. Mayne
+The Simulation of MOS Integrated Circuits Using SPICE2  (M80/7) Andrei Vladimirescu and Sally Liu
+On a Class of Acyclic Directed Graphs  (M80/6) J.L. Szwarcfiter
+Asymptotic Unbounded Root Loci-Formulae and Computation  (M81/6) S.S. Sastry and C.A. Desoer
+Stability Analysis of Multimachine Power Networks with Linear Frequency Dependent Loads  (M81/5) David J. Hill and Arthur R. Bergen
+Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata  (M80/4) Silvio Micali
+Foundations of Nonlinear Network Theory: Part II Losslessness  (M80/3) J.L. Wyatt Jr., L.O. Chua, J.W. Gannett, I.C. Goknar and D.N. Green
+Polynomial-Time Aggregation of Integer Programming Problems  (M80/2) R. Kannan

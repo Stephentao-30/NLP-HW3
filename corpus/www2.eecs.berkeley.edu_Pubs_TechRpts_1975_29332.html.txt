@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29332.html
+On the Approximation of Solutions to Multiple Criteria Decision Making Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Approximation of Solutions to Multiple Criteria Decision Making Problems
+On the Approximation of Solutions to Multiple Criteria Decision Making Problems
+Elijah Park
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M556
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-556.pdf
+BibTeX citation:
+@techreport{Park:M556,
+Author = {Park, Elijah},
+Title = {On the Approximation of Solutions to Multiple Criteria Decision Making Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29332.html},
+Number = {UCB/ERL M556}
+}
+EndNote citation:
+%0 Report
+%A Park, Elijah
+%T On the Approximation of Solutions to Multiple Criteria Decision Making Problems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M556
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29332.html
+%F Park:M556

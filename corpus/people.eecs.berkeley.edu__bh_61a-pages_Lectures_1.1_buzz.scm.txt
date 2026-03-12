@@ -1,0 +1,5 @@
+URL: https://people.eecs.berkeley.edu/~bh/61a-pages/Lectures/1.1/buzz.scm
+(define (buzz n)
+(cond ((equal? (remainder n 7) 0) 'buzz)
+((member? 7 n) 'buzz)
+(else n)))

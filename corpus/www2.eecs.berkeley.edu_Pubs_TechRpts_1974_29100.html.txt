@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29100.html
+High Level Iterators and a Method for Automatically Designing Data Structure Representation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+High Level Iterators and a Method for Automatically Designing Data Structure Representation
+High Level Iterators and a Method for Automatically Designing Data Structure Representation
+Jay Earley
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M425
+February 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-425.pdf
+BibTeX citation:
+@techreport{Earley:M425,
+Author = {Earley, Jay},
+Title = {High Level Iterators and a Method for Automatically Designing Data Structure Representation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29100.html},
+Number = {UCB/ERL M425}
+}
+EndNote citation:
+%0 Report
+%A Earley, Jay
+%T High Level Iterators and a Method for Automatically Designing Data Structure Representation
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M425
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29100.html
+%F Earley:M425

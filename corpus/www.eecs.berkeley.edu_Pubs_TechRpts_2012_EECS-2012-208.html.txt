@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-208.html
+Cake: Enabling High-level SLOs on Shared Storage Systems
+Andrew Wang and Shivaram Venkataraman and Sara Alspaugh and Randy H. Katz and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-208
+November 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-208.pdf
+Cake is a coordinated, multi-resource scheduler for shared distributed storage environments with the goal of achieving both high throughput and bounded latency. Cake uses a two-level scheduling scheme to enforce high-level service-level objectives (SLOs). First-level schedulers control consumption of resources such as disk and CPU. These schedulers (1) provide mechanisms for differentiated scheduling, (2) split large requests into smaller chunks, and (3) limit the number of outstanding device requests, which together allow for effective control over multi-resource consumption within the storage system. Cake’s second-level scheduler coordinates the first-level schedulers to map high-level SLO requirements into actual scheduling parameters. These parameters are dynamically adjusted over time to enforce high-level performance specifications for changing workloads. We evaluate Cake using multiple workloads derived from real-world traces. Our results show that Cake allows application programmers to explore the latency vs. throughput trade-off by setting different high-level performance requirements on their workloads. Furthermore, we show that using Cake has concrete economic and business advantages, reducing provisioning costs by up to 50% for a consolidated workload and reducing the completion time of an analytics cycle by up to 40%.
+Advisors:  Ion Stoica
+BibTeX citation:
+@mastersthesis{Wang:EECS-2012-208,
+Author= {Wang, Andrew and Venkataraman, Shivaram and Alspaugh, Sara and Katz, Randy H. and Stoica, Ion},
+Title= {Cake: Enabling High-level SLOs on Shared Storage Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-208.html},
+Number= {UCB/EECS-2012-208},
+Abstract= {Cake is a coordinated, multi-resource scheduler for shared distributed storage environments with the goal of achieving both high throughput and bounded latency. Cake uses a two-level scheduling scheme to enforce high-level service-level objectives (SLOs). First-level schedulers control consumption of resources such as disk and CPU. These schedulers (1) provide mechanisms for differentiated scheduling, (2) split large requests into smaller chunks, and (3) limit the number of outstanding device requests, which together allow for effective control over multi-resource consumption within the storage system. Cake’s second-level scheduler coordinates the first-level schedulers to map high-level SLO requirements into actual scheduling parameters. These parameters are dynamically adjusted over time to enforce high-level performance specifications for changing workloads. We evaluate Cake using multiple workloads derived from real-world traces. Our results show that Cake allows application programmers to explore the latency vs. throughput trade-off by setting different high-level performance requirements on their workloads. Furthermore, we show that using Cake has concrete economic and business advantages, reducing provisioning costs by up to 50% for a consolidated workload and reducing the completion time of an analytics cycle by up to 40%.},
+}
+EndNote citation:
+%0 Thesis
+%A Wang, Andrew
+%A Venkataraman, Shivaram
+%A Alspaugh, Sara
+%A Katz, Randy H.
+%A Stoica, Ion
+%T Cake: Enabling High-level SLOs on Shared Storage Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 7
+%@ UCB/EECS-2012-208
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-208.html
+%F Wang:EECS-2012-208

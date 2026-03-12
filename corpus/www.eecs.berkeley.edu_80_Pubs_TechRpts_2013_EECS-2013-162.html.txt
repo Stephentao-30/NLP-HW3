@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-162.html
+Reactive Synthesis vs. Supervisory Control: Bridging the Gap
+Ruediger Ehlers and Stephane Lafortune and Stavros Tripakis and Moshe Vardi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-162
+September 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-162.pdf
+BibTeX citation:
+@techreport{Ehlers:EECS-2013-162,
+Author= {Ehlers, Ruediger and Lafortune, Stephane and Tripakis, Stavros and Vardi, Moshe},
+Title= {Reactive Synthesis vs. Supervisory Control: Bridging the Gap},
+Year= {2013},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-162.html},
+Number= {UCB/EECS-2013-162},
+}
+EndNote citation:
+%0 Report
+%A Ehlers, Ruediger
+%A Lafortune, Stephane
+%A Tripakis, Stavros
+%A Vardi, Moshe
+%T Reactive Synthesis vs. Supervisory Control: Bridging the Gap
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 September 25
+%@ UCB/EECS-2013-162
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-162.html
+%F Ehlers:EECS-2013-162

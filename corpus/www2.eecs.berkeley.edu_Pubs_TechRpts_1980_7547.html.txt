@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/7547.html
+An Integrated, Interactive, User-Oriented Biomedical Data Acquisition, Processing, and Display System
+Steven L. Horowitz
+EECS Department, University of California, Berkeley
+1980
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Horowitz:7547,
+Author= {Horowitz, Steven L.},
+Title= {An Integrated, Interactive, User-Oriented Biomedical Data Acquisition, Processing, and Display System},
+School= {EECS Department, University of California, Berkeley},
+Year= {1980},
+}
+EndNote citation:
+%0 Thesis
+%A Horowitz, Steven L.
+%T An Integrated, Interactive, User-Oriented Biomedical Data Acquisition, Processing, and Display System
+%I EECS Department, University of California, Berkeley
+%D 1980
+%F Horowitz:7547

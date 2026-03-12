@@ -1,0 +1,15 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS273
+Course: CS273 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS273
+CS 273. Foundations of Parallel Computation
+Catalog Description:  <Formerly 292K>. Fundamental theoretical issues in designing parallel algorithms and architectures. Shared memory models of parallel computation. Parallel algorithms for linear algegra, sorting, Fourier Transform, recurrence evaluation, and graph problems. Interconnection network based models. Algorithm design techniques for networks like hypercubes, shuffle-exchanges, threes, meshes and butterfly networks. Systolic arrays and techniques for generating them. Message routing.
+Units:  3.0
+Prerequisites:  170, or consent of instructor.
+Class homepage on inst.eecs
+General Catalog listing
+Related Areas:
+Theory (THY)

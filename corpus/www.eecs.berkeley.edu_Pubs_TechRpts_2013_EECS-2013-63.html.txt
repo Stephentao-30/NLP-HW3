@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-63.html
+Fully Printed, Flexible, High Performance Carbon Nanotube Top-gated Thin-film Transistors
+Pak Heng Lau
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-63
+May 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-63.pdf
+Advisors:  Ali Javey
+BibTeX citation:
+@mastersthesis{Lau:EECS-2013-63,
+Author= {Lau, Pak Heng},
+Title= {Fully Printed, Flexible, High Performance Carbon Nanotube Top-gated Thin-film Transistors},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-63.html},
+Number= {UCB/EECS-2013-63},
+}
+EndNote citation:
+%0 Thesis
+%A Lau, Pak Heng
+%T Fully Printed, Flexible, High Performance Carbon Nanotube Top-gated Thin-film Transistors
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 15
+%@ UCB/EECS-2013-63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-63.html
+%F Lau:EECS-2013-63

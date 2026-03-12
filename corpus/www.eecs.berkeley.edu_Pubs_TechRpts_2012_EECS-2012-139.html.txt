@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-139.html
+Diabeats: Empowering Diabetics to Live Smartly
+Rohan Nagesh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-139
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-139.pdf
+Advisors:  Björn Hartmann and Ikhlaq Sidhu
+BibTeX citation:
+@mastersthesis{Nagesh:EECS-2012-139,
+Author= {Nagesh, Rohan},
+Title= {Diabeats: Empowering Diabetics to Live Smartly},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-139.html},
+Number= {UCB/EECS-2012-139},
+}
+EndNote citation:
+%0 Thesis
+%A Nagesh, Rohan
+%T Diabeats: Empowering Diabetics to Live Smartly
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-139
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-139.html
+%F Nagesh:EECS-2012-139

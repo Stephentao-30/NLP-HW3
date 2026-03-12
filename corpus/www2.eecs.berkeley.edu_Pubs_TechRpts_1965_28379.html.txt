@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28379.html
+Theory of Optimum Discrete Time Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theory of Optimum Discrete Time Systems
+Theory of Optimum Discrete Time Systems
+H. Halkin, B.W. Jordan, E. Polak and J.B. Rosen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M119
+February 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-119.pdf
+BibTeX citation:
+@techreport{Halkin:M119,
+Author = {Halkin, H. and Jordan, B.W. and Polak, E. and Rosen, J.B.},
+Title = {Theory of Optimum Discrete Time Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28379.html},
+Number = {UCB/ERL M119}
+}
+EndNote citation:
+%0 Report
+%A Halkin, H.
+%A Jordan, B.W.
+%A Polak, E.
+%A Rosen, J.B.
+%T Theory of Optimum Discrete Time Systems
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M119
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28379.html
+%F Halkin:M119

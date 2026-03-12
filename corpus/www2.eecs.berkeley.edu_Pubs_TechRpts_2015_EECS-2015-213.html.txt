@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-213.html
+Modeling and Applications of Highly-Scaled Gravure Printing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modeling and Applications of Highly-Scaled Gravure Printing
+Modeling and Applications of Highly-Scaled Gravure Printing
+Rungrot Kitsomboonloha
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-213
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-213.pdf
+Pattern printing techniques have advanced rapidly in the last decade, driven by their potential applications in printed electronics. Several printing techniques have realized printed features ≤10 µm, but unfortunately they suffer from disadvantages that prevent their deployment in real applications; in particular, process throughput is a significant concern. Direct gravure printing delivers high throughput and has a proven history of being manufacturing worthy. Unfortunately, it suffers from scalability challenges due to limitations in roll manufacturing and lack of understanding of the relevant printing mechanisms. Gravure printing relies on individual processes namely filling, wiping, transferring and spreading to achieve high quality printing. As gravure printed features are scaled, the associated complexities are increased, and a detailed study of the various processes involved is needed.
+In this thesis, the various gravure-related fluidic mechanisms are studied using a novel inverse direct gravure printer. The underlying mechanisms of gravure printing are presented. A simple model of gravure printing is proposed. This model demonstrates that individual fluidic processes can be studied separately and a comprehensive understanding of the wiping process in gravure printing is analyzed carefully due to the importance of this process in producing high-fidelity patterns. We report two critical wiping mechanisms that generate drag-out and lubrication residues, which are fundamental scaling limitations for highly-scaled gravure printing. Third, the filling process is investigated, leaded to explanations of air entrapment in gravure cells. In addition, we provide designs and operation conditions for the ultimate reduction of the residues, leading significant scaling of printed features. Printed lines as small as 2 µm are realized at printing speeds as high as ~1 m/s, attesting to the potential of highly-scaled gravure printing.
+In addition to comprehensive printing mechanism studies, we demonstrate a fabrication process for a high-resolution roll based on advanced microfabrication techniques. The fabrication process incorporates the design guidelines developed previously to deliver the optimized cell geometry and pattern arrangement. Furthermore, electrically functional high-resolution lines are integrated in a fabrication process for fully printed high performance thin film transistors (TFTs). Highly-scaled TFTs demonstrated with channel lengths as small as 3 µm, leading to devices with transition frequency above 1 MHz; this represents a significant advancement over the state of the art.
+Advisor:  Vivek Subramanian and Stephen J. Morris
+BibTeX citation:
+@phdthesis{Kitsomboonloha:EECS-2015-213,
+Author = {Kitsomboonloha, Rungrot},
+Title = {Modeling and Applications of Highly-Scaled Gravure Printing},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-213.html},
+Number = {UCB/EECS-2015-213},
+Abstract = {Pattern printing techniques have advanced rapidly in the last decade, driven by their potential applications in printed electronics.  Several printing techniques have realized printed features ≤10 µm, but unfortunately they suffer from disadvantages that prevent their deployment in real applications; in particular, process throughput is a significant concern. Direct gravure printing delivers high throughput and has a proven history of being manufacturing worthy.  Unfortunately, it suffers from scalability challenges due to limitations in roll manufacturing and lack of understanding of the relevant printing mechanisms.  Gravure printing relies on individual processes namely filling, wiping, transferring and spreading to achieve high quality printing.  As gravure printed features are scaled, the associated complexities are increased, and a detailed study of the various processes involved is needed.
+In this thesis, the various gravure-related fluidic mechanisms are studied using a novel inverse direct gravure printer. The underlying mechanisms of gravure printing are presented. A simple model of gravure printing is proposed. This model demonstrates that individual fluidic processes can be studied separately and a comprehensive understanding of the wiping process in gravure printing is analyzed carefully due to the importance of this process in producing high-fidelity patterns. We report two critical wiping mechanisms that generate drag-out and lubrication residues, which are fundamental scaling limitations for highly-scaled gravure printing. Third, the filling process is investigated, leaded to explanations of air entrapment in gravure cells. In addition, we provide designs and operation conditions for the ultimate reduction of the residues, leading significant scaling of printed features.  Printed lines as small as 2 µm are realized at printing speeds as high as ~1 m/s, attesting to the potential of highly-scaled gravure printing.
+In addition to comprehensive printing mechanism studies, we demonstrate a fabrication process for a high-resolution roll based on advanced microfabrication techniques. The fabrication process incorporates the design guidelines developed previously to deliver the optimized cell geometry and pattern arrangement. Furthermore, electrically functional high-resolution lines are integrated in a fabrication process for fully printed high performance thin film transistors (TFTs). Highly-scaled TFTs demonstrated with channel lengths as small as 3 µm, leading to devices with transition frequency above 1 MHz; this represents a significant advancement over the state of the art.}
+}
+EndNote citation:
+%0 Thesis
+%A Kitsomboonloha, Rungrot
+%T Modeling and Applications of Highly-Scaled Gravure Printing
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-213
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-213.html
+%F Kitsomboonloha:EECS-2015-213

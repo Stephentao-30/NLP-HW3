@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/160914-2
+Decision Making and Manifolds in Intelligent Systems - EECS at Berkeley
+Decision Making and Manifolds in Intelligent Systems
+EECS Colloquium
+Wednesday, September 14, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Daniel Lee
+Professor, School of Engineering and Applied Science
+Director, GRASP (General Robotics Automation, Sensing, Perception) Lab
+UPS Foundation Chair
+University of Pennsylvania
+Daniel Lee speaks on Decision Making and Manifolds in Intelligent Systems, 9/14/16 (photo: UPenn)
+Abstract
+Current AI systems for perception and action incorporate a number of techniques: Bayesian state estimation, probabilistic mapping, trajectory planning, and feedback control.  I will describe and demonstrate some of these methods on several autonomous systems including wheeled, legged, and flying robots.  In order to model data variability due to pose, illumination, and background changes, low-dimensional manifold representations have long been used in machine learning.  But how well can such manifolds be processed by neural networks?  I will show how traditional notions of linear separability and VC dimension can be generalized from input points to manifolds.  This analysis provides theoretical predictions for the capacity and generalization ability of invariant classifiers, and better understanding of the performance of deep neural networks.
+Biography
+Daniel Lee is the UPS Foundation Chair Professor in the  School of Engineering and Applied Science  at the  University of Pennsylvania . He received his B.A. summa cum laude in Physics from Harvard University and his Ph.D. in Condensed Matter Physics from the Massachusetts Institute of Technology in 1995.  Before coming to Penn, he was a researcher at AT&T and Lucent Bell Laboratories in the Theoretical Physics and Biological Computation departments.  He is a Fellow of the IEEE and AAAI and has received the National Science Foundation CAREER award and the University of Pennsylvania Lindback award for distinguished teaching.   He was also a fellow of the Hebrew University Institute of Advanced Studies in Jerusalem, an affiliate of the Korea Advanced Institute of Science and Technology, and organized the US-Japan National Academy of Engineering Frontiers of Engineering symposium.  As director of the  GRASP Laboratory  and co-director of the  CMU-Penn University Transportation Center , his group focuses on understanding general computational principles in biological systems, and on applying that knowledge to build autonomous systems.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

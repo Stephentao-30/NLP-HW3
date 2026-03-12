@@ -1,0 +1,99 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-19.html
+Maximally Permissive Composition of Actors in Ptolemy II
+Marten Lohstroh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-19
+March 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-19.pdf
+The "Cyber" and "Physical" worlds are merging. Cyber-Physical Systems
+(CPS) are no longer isolated, but start to reach into the Cloud,
+thereby composing a network which realizes the concept that became
+known as The Internet of Things. The dynamic nature of the
+applications in this domain poses significant technical challenges
+concerning the assurance of important system properties like
+reliability, robustness, adaptability, and security. Modeling has
+proven itself to be a valuable tool in gaining better understanding of
+complex systems, but existing modeling platforms may lack the
+expressivity to model these new, much more dynamic, and
+opportunistically composed systems in which the data they handle
+typically does not conform to a rigid structure.
+This thesis addresses the problem of handling dynamic data, in the
+statically typed, actor-oriented modeling environment called Ptolemy
+II. It explores the possibilities of using type inference to
+statically type dynamic data and leverage dynamic type checking to
+invoke error handling strategies that enhance robustness. The goal is
+to achieve maximally permissive composition, and the presented
+solution comes in the form of backward type inference. Backward
+inferred types are specific enough not to limit composability and
+general enough not to impose unnecessary constraints on the data. The
+type constraints imposed by downstream actors determine the type of
+the otherwise underdetermined output ports of actors that mediate
+access to untyped resources. This is achieved using additional type
+constraints, without changing Ptolemy II's original type resolution
+algorithm, and with no significant impact on the run-time of type
+resolution. The proposed solution was implemented successfully and has
+been adopted as an extension of the Ptolemy II type system.
+As a byproduct, this thesis gives a thorough case study of the Ptolemy
+II type system. It uncovers two (independent) obscurities:
+interference between automatic type conversion and dynamic dispatch;
+and unsafe access to record elements. Both issues are discussed
+extensively and possible improvements are suggested.
+BibTeX citation:
+@techreport{Lohstroh:EECS-2013-19,
+Author= {Lohstroh, Marten},
+Title= {Maximally Permissive Composition of Actors in Ptolemy II},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-19.html},
+Number= {UCB/EECS-2013-19},
+Abstract= {<p>
+The "Cyber" and "Physical" worlds are merging. Cyber-Physical Systems
+(CPS) are no longer isolated, but start to reach into the Cloud,
+thereby composing a network which realizes the concept that became
+known as The Internet of Things. The dynamic nature of the
+applications in this domain poses significant technical challenges
+concerning the assurance of important system properties like
+reliability, robustness, adaptability, and security. Modeling has
+proven itself to be a valuable tool in gaining better understanding of
+complex systems, but existing modeling platforms may lack the
+expressivity to model these new, much more dynamic, and
+opportunistically composed systems in which the data they handle
+typically does not conform to a rigid structure.
+</p>
+<p>
+This thesis addresses the problem of handling dynamic data, in the
+statically typed, actor-oriented modeling environment called Ptolemy
+II. It explores the possibilities of using type inference to
+statically type dynamic data and leverage dynamic type checking to
+invoke error handling strategies that enhance robustness. The goal is
+to achieve maximally permissive composition, and the presented
+solution comes in the form of backward type inference. Backward
+inferred types are specific enough not to limit composability and
+general enough not to impose unnecessary constraints on the data. The
+type constraints imposed by downstream actors determine the type of
+the otherwise underdetermined output ports of actors that mediate
+access to untyped resources. This is achieved using additional type
+constraints, without changing Ptolemy II's original type resolution
+algorithm, and with no significant impact on the run-time of type
+resolution. The proposed solution was implemented successfully and has
+been adopted as an extension of the Ptolemy II type system.
+</p>
+<p>
+As a byproduct, this thesis gives a thorough case study of the Ptolemy
+II type system. It uncovers two (independent) obscurities:
+interference between automatic type conversion and dynamic dispatch;
+and unsafe access to record elements. Both issues are discussed
+extensively and possible improvements are suggested.
+</p>},
+}
+EndNote citation:
+%0 Report
+%A Lohstroh, Marten
+%T Maximally Permissive Composition of Actors in Ptolemy II
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 20
+%@ UCB/EECS-2013-19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-19.html
+%F Lohstroh:EECS-2013-19

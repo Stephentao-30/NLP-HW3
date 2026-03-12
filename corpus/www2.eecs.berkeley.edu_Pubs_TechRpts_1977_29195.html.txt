@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29195.html
+The Theory of All Substructures of a Structure: Characterisation and Decision Problems
+K.L. Manders
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M77/72
+, 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-72.pdf
+BibTeX citation:
+@techreport{Manders:M77/72,
+Author= {Manders, K.L.},
+Title= {The Theory of All Substructures of a Structure: Characterisation and Decision Problems},
+Year= {1977},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29195.html},
+Number= {UCB/ERL M77/72},
+}
+EndNote citation:
+%0 Report
+%A Manders, K.L.
+%T The Theory of All Substructures of a Structure: Characterisation and Decision Problems
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/72
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29195.html
+%F Manders:M77/72

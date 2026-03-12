@@ -1,0 +1,184 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1988
+Technical Reports - 1988
+Finite Buffers and Fast Multicast  (CSD-88-489) Peter B. Danzig
+Calculating Timeouts for Minimum Cost RPC  (CSD-88-488) Peter B. Danzig
+AI in Operating Systems: An Expert Scheduler  (CSD-88-487) Dale Tonogai
+Using Hard Problems to Create Pseudorandom Generators  (CSD-88-486) Noam Nisan
+Guaranteeing Performance for Real-Time Communication in Wide-Area Networks  (CSD-88-485) Domenico Ferrari
+Towards A Unified Framework for Version Modeling  (CSD-88-484) Randy H. Katz
+Scale-space and edge detection using anisotropic diffusion  (CSD-88-483) Pietro Perona and Jitendra Malik
+Analysis of Simple Neural Networks  (CSD-88-482) Chedsada Chinrungrueng
+Implementation of Two Relativistic Renderers  (CSD-88-481) Huu Phu Nguyen
+SpurBus Specification: SPUR, Symbolic Processing Using RISC, Project  (CSD-88-480) Garth A Gibson
+Two Papers on RAIDs  (CSD-88-479) Peter Ming-Chien Chen, Garth A. Gibson, Randy H. Katz, David A. Patterson and Martin Schulze
+Evaluating the Performance of Four Snooping Cache Coherency Protocols  (CSD-88-478) Susan J. Eggers and Randy H. Katz
+Coding Techniques for Handling Failures in Large Disk Arrays  (CSD-88-477) Garth A. Gibson, Lisa Hellerstein, Richard M. Karp, Randy H. Katz and David A. Patterson
+A Prototype Silicon Compiler in Prolog  (CSD-88-476) William R. Bush, Gino Cheng, Patrick C. McGeer and Alvin M. Despain
+The Effect of Sharing on the Cache and Bus Performance of Parallel Programs  (CSD-88-475) Susan J. Eggers and Randy H. Katz
+Delay and Throughput Measurements of the XUNET Datakit Network  (CSD-88-474) Thomas VandeWater
+Exploiting Inheritance and Structure Semantics for Effective Clustering and Buffering in an Object-Oriented DBMS  (CSD-88-473) Ellis E. Chang and Randy H. Katz
+REAL: A Network Simulator  (CSD-88-472) Srinivasan Keshav
+Physical Memory Management in a Network Operating System  (CSD-88-471) Michael Newell Nelson
+Trap Architectures for Lisp Systems  (CSD-88-470) Douglas Johnson
+VLSI Design Techniques for Floating-Point Computation  (CSD-88-469) Bidyut Kumar Bose
+Limits on the Provable Consequences of One-way Functions  (CSD-88-468) Steven Rudich
+Beating the I/O Bottleneck: A Case for Log-Structured File Systems  (CSD-88-467) John K. Ousterhout and Frederick Douglis
+Coprocessor Architectures for VLSI  (CSD-88-466) Paul Mark Hansen
+A Computational Theory of Metaphor  (CSD-88-465) James H. Martin
+A Performance Study of Remote Executions in a Wide-Area Datakit Network  (CSD-88-464) Ronald S. Arbo
+The DASH Local Kernel Structure  (CSD-88-463) David P. Anderson and Shin-Yuan Tzou
+The DASH Network Communication Architecture  (CSD-88-462) David P. Anderson and Robert Wahbe
+The DASH Virtual Memory System  (CSD-88-461) David P. Anderson, Shin-Yuan Tzou and G. Scott Graham
+Marionette: a System for Parallel Distributed Programming Using a Master/Slave Model  (CSD-88-460) Mark Paul Sullivan and David P. Anderson
+Implementation of Multiprocessing SPUR Lisp  (CSD-88-459) Kinson Ho and Paul N. Hilfinger
+The PPM Environment Manager  (CSD-88-458) Stuart Sechrest
+A Client-Server Shell Architecture for Distributed Programming  (CSD-88-457) Stuart Sechrest
+Trust Relationships, Naming, and Secure Communication In Large Distributed Computer Systems  (CSD-88-456) P. Venkata Rangan
+BiblioText: A Hypertext Browser for Bibliographic Data and Notes  (CSD-88-455) Michael L. Van De Vanter
+Designing BiblioText: An Experiment in User Interface Design  (CSD-88-454) Michael L. Van De Vanter
+Porting Pan I to Allegro COMMON LISP  (CSD-88-453) Darrin J. Lane
+A Performance Evaluation of the Dash Message-Passing System  (CSD-88-452) Shin-Yuan Tzou and David P. Anderson
+Internals of VORTEX: The Source Editor  (CSD-88-451) John Coker
+Maintaining Topology in Geometric Descriptions with Numerical Uncertainty  (CSD-88-450) Mark G. Segal and Carlo H. Séquin
+Considerations in the Design of a RAID Prototype  (CSD-88-448) Martin E. Schulze
+Code Reorganization for Instruction Caches  (CSD-88-447) A. Dain Samples and Paul N. Hilfinger
+Mache: No-Loss Trace Compaction  (CSD-88-446) A. Dain Samples
+An Extended Prolog Architecture for Integrated Symbolic and Numerical Executions  (CSD-88-445) Robert Yung, Alvin M. Despain and Yale N. Paul
+High Performance Numerical Calculation in Prolog Execution  (CSD-88-444) Robert Yung, Alvin M. Despain, Peter Van Roy and Bruce K. Holmer
+A Prolog Garbage Collector for Aquarius  (CSD-88-443) Herve Touati
+Beta Continuity and Its Application to Rational Beta-splines  (CSD-88-442) Ronald N. Goldman and Brian A. Barsky
+Dynamically Reconfigurable Systems Research  (CSD-88-441) Vason P. Srini
+Generalized Characteristic Polynomials  (CSD-88-440) John F. Canny
+Some Algebraic and Geometric Computations in PSPACE  (CSD-88-439) John F. Canny
+Evaluation of "Performance Enhancements" in Algebraic Manipulation Systems  (CSD-88-438) Carl Glen Ponder
+Machine Characterization and Benchmark Performance Prediction  (CSD-88-437) Rafael H. Saavedra-Barrera
+A Multiple-Representation Paradigm for Document Development  (CSD-88-436) Pehong Chen
+Decision-Theoretic Control of Reasoning: General Theory and an Application to Game-Playing  (CSD-88-435) Stuart Russell and Eric Wefald
+On the Time and Space Complexity of Computation Using Write-Once Memory - OR - Is Pen Really Much Worse Than Pencil?  (CSD-88-434) Sandy Irani, Moni Naor and Ronitt Rubinfeld
+Knowledge Intensive Planning  (CSD-88-433) Marc A. Luria
+Efficiently Computing and Representing Aspect Graphs of Polyhedral Objects  (CSD-88-432) Ziv Gigus, John F. Canny and Raimund Seidel
+A tree transformation facility using typed rewrite systems  (CSD-88-431) Charles Farnum
+A New Interface Specification Methodology and its Application to Transducer Synthesis  (CSD-88-430) Gaetano Borriello
+On Information Retrieval and Evidential Reasoning  (CSD-88-429) Lung Albert Chen
+Barking Up The Wrong Tree: Why Optimizing Compilers Are Still Unable To Match Assembly Language  (CSD-88-428) Marc Sabatella
+Improving the Efficiency of the ISO Checksum Calculation  (CSD-88-427) Keith Sklower
+User's Guide to ATV, an Abstract Timing Verifier  (CSD-88-426) David E. Wallace
+Abstract Timing Verification for Synchronous Digital Systems  (CSD-88-425) David E. Wallace
+Pseudo Devices: User-Level Extensions to the Sprite File System  (CSD-88-424) Brent B. Welch and John K. Ousterhout
+Rewrite Systems, Pattern Matching, and Code Generation  (CSD-88-423) Eduardo Pelegri-Llopart
+Intelligent Decentralized Control In Large Distributed Computer Systems  (CSD-88-422) Joseph Carlo Pasquale
+Approximate Algorithms for Solving Queuing Network Models of Large Distributed Systems  (CSD-88-421) Hamid Reza Bahadori
+Wish -- A Window-Based Shell for X  (CSD-88-420) Mary Gray
+DUES (Display Utilities and Environments for Simulation)  (CSD-88-419) Allen Jiajuin Wei
+The Aquarius Numeric Processor  (CSD-88-418) Robert Yung
+Three Characterizations of Geometric Continuity for Parametric Curves  (CSD-88-417) Brian A. Barsky and Anthony D. DeRose
+Snap-Dragging: Interactive Geometric Design in Two and Three Dimensions  (CSD-88-416) Eric A. Bier
+Parallel Unification Scheduling in Prolog  (CSD-88-415) Wayne Victor Citrin
+PUP: An Architecture to Exploit Parallel Unification in Prolog  (CSD-88-414) Chien Chen, Ashok Singhal and Yale N. Patt
+Optimization of File Migration In Distributed Systems  (CSD-88-413) Qivind Kure
+Design and Implementation of A CMOS Chip for Prolog  (CSD-88-412) Vason P. Srini, Jerric V. Tam, Tam M. Nguyen, Bruce K. Holmer, Yale N. Patt and Alvin M. Despain
+OPD: A Toolset for Optimized Pipeline Design  (CSD-88-411) Suresh Krishna
+Pan I: An Introduction For Users  (CSD-88-410) Robert A. Ballance and Michael L. Van De Vanter
+The Architecture of Pan I  (CSD-88-409) Robert A. Ballance, Michael L. Van De Vanter and Susan L. Graham
+A Survey of Parallel Algorithms for Shared-Memory Machines  (CSD-88-408) Richard M. Karp and Vijaya Ramachandran
+An Address Trace Generator for Trace-Driven Simulation of Shared Memory Multiprocessors  (CSD-88-407) Frank Lacy
+Features for Multiprocessing in SPUR Lisp  (CSD-88-406) Benjamin Zorn, Paul N. Hilfinger, Kinson Ho, James Richard Larus and Luigi Semenzato
+The DASH Project: An Overview  (CSD-88-405) David P. Anderson and Domenico Ferrari
+A Memory Allocation Profiler for C and Lisp Programs  (CSD-88-404) Benjamin Zorn and Paul N. Hilfinger
+Direct Function Calls in Lisp  (CSD-88-403) Benjamin Zorn and Paul N. Hilfinger
+Computing The Aspect Graph for Line Drawings of Polyhedral Objects  (CSD-88-402) Ziv Gigus and Jitendra Malik
+Persistent LISP: Storing Interobject References in a Database  (CSD-88-401) Margaret Helen Butler
+Modeling and Implementation of Visibility in Programming Languages  (CSD-88-400) Phillip Edward Garrison
+Implementing Prolog via Microprogramming a General Purpose Host Computer  (CSD-88-399) Jeff Gee
+Exploiting Concurrency to Achieve High Performance in a Single-chip Microarchitecture  (CSD-88-398) Wen-mei William Hwu
+A Comparison Between the PLM and the MC68020 as Prolog Processors  (CSD-88-397) Yale N. Patt and Chien Chen
+Intelligent Agents as a Basis for Natural Language Interfaces  (CSD-88-396) David Ngi Chin
+Perfect Graphs and Orthogonally Convex Covers  (CSD-88-395) Rajeev Motwani, Arvind Raghunathan and Huzur Saran
+SPUR Memory System Architecture  (CSD-88-394) David A. Wood, Susan J. Eggers and Garth A. Gibson
+Mocha Chip: A Graphical Programming System for IC Module Assembly  (CSD-88-393) Robert Nelson Mayo
+Probabilistic Analysis of Network Flow Algorithms  (CSD-88-392) Richard M. Karp, Rajeev Motwani and Noam Nisan
+Macroscopic Modelling of R.F. Plasma Discharges  (M88/86) G.R. Misium, Allan J. Lichtenberg and Michael A. Lieberman
+On the Dynamics of Artificial Neural Networks  (M88/85) S. Venkatraman
+An Experimental Characterization System for Deep Ultra-Violet (UV) Photoresists  (M88/84) D.M. Drako
+Multiport Memory Design Considerations for Parallel Execution CPU Architectures  (M88/83) Y. Nakagome, G.A. Uvieghara and David A. Hodges
+Tuning a Statistical Process Simulator to a Berkeley CMOS Process  (M88/82) P.M. Krueger
+Cavity Perturbation Measurement of Plasma Density in Complex Geometry R.F. Discharges  (M88/81) R.M. Moroney, Allan J. Lichtenberg and Michael A. Lieberman
+Robust Stabilization and Tracking for Nonlinear Systems  (M88/80) Saman Behtash
+An Alternative Approach to the Problem of the Asymptotic Makespan of Serially Multi-Tasked Jobs  (M88/79) N. Bambos and Jean Walrand
+Recent Results on the Asymptotic Behavior of Concurrent Processing Systems Under Stationary and Ergodic Inputs  (M88/78) N. Bambos and Jean Walrand
+Models for a Comprehensive Methodology for Parameter Selection and Discrete Decision-Making in the Design of Integrated Circuits  (M88/77) David C. Riley
+Nonlinear Controller Design for Flight Control Systems  (M88/76) J. Hauser, S. Shankar Sastry and G. Meyer
+Kharitonov's Theorem and a Graphical Stability Test for Linear Time-Invariant Systems  (M88/75) J.J. Anagnost, Charles A. Desoer and R.J. Minnichelli
+Performance Optimization of Integrated Circuits  (M88/74) Jyuo-Min Shyu
+High-Speed Analog-to-Digital Conversion Using 2-Step Flash Architectures  (M88/73) Joey Doernberg
+The Design and Implementation of the Berkeley Process-Flow Language Interpreter  (M88/72) C.B. Williams
+CODECS: A Mixed-Level Circuit and Device Simulator  (M88/71) Kartikeya Mayaram
+Spin Coating Simulation Using Finite Element Method  (M88/70) R. Sutardja
+Encoding Symbolic Inputs for Multi-Level Logic Implementation  (M88/69) S. Malik, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Acoustic Echo Cancellation for Loudspeaker Telephones  (M88/67) Wen-Bin Hsu
+Dynamic Regrasping by Coordinated Control of Sliding for a Multifingered Hand  (M88/66) A. Cole, Ping Hsu and S. Shankar Sastry
+Spherical Shell Model of an Asymmetric R.F. Discharge  (M88/65) Michael A. Lieberman
+Basic RF Discharge Model  (M87/65) Michael A. Lieberman
+A Barrier Function Method for Minimax Problems  (M88/64) Elijah Polak, J.E. Higgins and D.Q. Mayne
+Propagation of Light in Periodic Structures with Material Dispersion: General Theory and Application to the DFB Surface - Emitting Laser Diode  (M88/63) J.P. Weber, M. Ogura, W. Hsin, S.C. Wang and S. Wang
+Dynamics of a Collisional Capacitive R.F. Sheath  (M88/62) Michael A. Lieberman
+Algorithm and Architecture Designs for High-Speed Digital Signal Processing  (M88/61) Keshab K. Parhi
+Electrical Probing of Test Structures for Optical Lithography  (M88/60) J. Fleischman
+Rays and Waves in a Periodically Perturbed Parallel Plate Waveguide  (M88/59) R.P. Ratowsky and Michael A. Lieberman
+Proportional-Plus-Integral Stabilizing Compensators for a Class of MIMO Feedback Systems with Infinite-Dimensional Plants  (M88/57) Y-P. Harn and Elijah Polak
+Automatic Synthesis and Layout of Switched-Capacitor Filters  (M88/56) Hormoz Yaghutiel
+Macromodelling for the Simulation of Large Scale Analog Integrated Circuits  (M88/55) Giorgio Casinovi
+Techniques for Optimization-Based Synthesis of Digital Systems  (M88/54) Srinivas Devadas
+Vortex Formation and Particle Transport in a Cross-Field Plasma Sheet  (M88/53) K. Theilhaber and Charles K. (Ned) Birdsall
+Irredundant Sequential Machines Via Optimal Logic Synthesis  (M88/52) S. Devadas, H.K.T. Ma, A. Richard Newton and Alberto L. Sangiovanni-Vincentelli
+Coordinated Control of Multi-Manipulator Systems  (M88/51) Ping Hsu
+EECS 143 Processing and Design of Integrated Circuits Laboratory Project  (M88/50) P.K. Ko, R.R. Rudell and K. Voros
+Hierarchical Placement for Macrocells with Simultaneous Routing Area Allocation  (M88/49) B. Eschermann
+Diffusion Through a Stochastic Web  (M88/48) Allan J. Lichtenberg and B. Wood
+Easily Testable PLA-Based Finite State Machines  (M88/47) S. Devadas and A. Richard Newton
+A Generalized Control Strategy for Rule-Based Systems  (M88/46) G.S. Whitcomb
+Algorithms for Optimal Control of Systems Described by Partial and Ordinary Differential Equations  (M88/45) Theodore E. Baker
+An Integrated CAD System for Algorithm-Specific IC Design  (M88/44) Chuen-Shen B. Shung
+Design and Implementation of Integrated Circuits for a Real-Time Flexible Channel Emulator Applying Silicon Assembly  (M88/43) J.S. Sun
+A Variable Metric Technique for the Solution of Affinely Parametrized Nondifferentiable Optimal Design Problems  (M88/42) Elijah Polak and E.J. Wiest
+An Optimal Diagonalization Strategy for the solution of a Class of Optimal Design Problems  (M88/41) L. He and Elijah Polak
+Automatic Generation of CMOS Data Paths in Lager Framework  (M88/40) M.B. Srivastava
+Test Structures for the Electrical Characterization of Optical Lithography  (M88/39) Andrew R. Neureuther, William G. Oldham, R.C. Anderson, D.M. Drako, W.E. Haller, B. Huynh, D.E. Lyons, G.R. Misium, D.P. Sutija, K.K.H. Toh and B. Uathavikul
+Test Structures for the Visual Characterization of Optical Lithography  (M88/38) Andrew R. Neureuther, William G. Oldham, R.C. Anderson, D.M. Drako, W.E. Haller, B. Huynh, D.E. Lyons, G.R. Misium, D.P. Sutija, K.K.H. Toh and B. Uathavikul
+Measurement of Optical Diffraction by Wavelength-Sized Slits  (M88/37) W.E. Haller
+Calibrated Exposure, Focus and Defect Test Patterns for Optical Lithography  (M88/36) B. Huynh
+Application of Silicon Compilation Techniques to a Robot Controller Design  (M88/35) Syed K. Azim
+Proportional-Plus-Integral Stabilizing Compensators for a Class of MIMO Feedback Systems with Infinite-Dimensional Plants  (M88/34) Y-P. Harn and E. Polak
+High Frequency, Temperature-Compensated Monolithic Voltage-Controlled Oscillator Design Techniques  (M88/33) Ting-Ping Liu
+Characterization of Electron-Beam-Exposed Negative Resists  (M88/32) N.N.S. Tam
+High Performance Programmable DSP Architectures  (M88/31) Mordechay T. Ilovich
+Two-Dimensional Images with Effects of Lens Aberrations in Optical Lithography  (M88/30) K.K.H. Toh
+Self-Consistent Stochastic Electron Heating in Radio Frequency Discharges  (M88/29) C.G. Goedde, Allan J. Lichtenberg and Michael A. Lieberman
+CMOS Charge Demultiplexing Optical Receiver Progress Report 1.0  (M88/28) T. Hu and Paul R. Gray
+High-Resolution Pipelined Analog-to-Digital Conversion  (M88/27) Sehat Sutarja
+Finite Element Methods for Process Simulation Application to Silicon Oxidation  (M88/26) Pantas Sutardja
+Effects of Ion Reflection on the Collector and Source Sheaths of a Finite Ion Temperature Plasma  (M88/25) L.A. Schwager
+Effects of Secondary Electron Emission on the Collector and Source Sheaths of a Finite Ion Temperature Plasma  (M88/24) L.A. Schwager
+Collector and Source Sheaths of a Finite Ion Temperature Plasma  (M88/23) L.A. Schwager and Charles K. (Ned) Birdsall
+Minimizing Pseudo-Convex Functions on Convex Compact Sets  (M88/22) J.E. Higgins and Elijah Polak
+Vortex Formation and Particle Transport in a Cross-Field Plasma Sheath  (M88/21) K. Theilhaber
+POSTGRES Reference Manual  (M88/20)
+The Design of XPRS  (M88/19) Michael Stonebraker, Randy H. Katz, David A. Patterson and J. Ousterhout
+Extended User-Defined Indexing with Application to Textual Databases  (M88/18) C.A. Lynch and Michael Stonebraker
+On the Design of Finite Dimensional Stabilizing Compensators for Infinite Dimensional Feedback-Systems Via Semi-Infinite Optimization  (M88/17) Y-P. Harn and Elijah Polak
+Performance of Coherent Optical Receivers  (M88/16) J.R. Barry
+Electronic Switching Techniques for Fiber Optic Networks  (M88/15) Hyun J. Shin
+A Synthesis and Optimization Procedure for Fully Testable Sequential Machines  (M88/14) S. Devadas, Hi Keung Tony Ma, A. Richard Newton and Alberto L. Sangiovanni-Vincentelli
+SIMPL-DIX (Simulated Profiles from the Layout-Design Interface in X)  (M88/13) H-C. Wu
+Single-Step Processes for Etching TaSi_2/ Polysilicon Gate Structures in SF_6/CCl_xF_y Plasmas  (M88/12) I.L. Wemple
+Characterization and Modeling of Resist Development with Surfactants  (M88/11) C. Zee
+High Frequency Monolithic Phase-Locked Loops  (M88/10) Mehmet Soyuer
+Module Generation Systems for Programmable Logic Arrays and Data Paths  (M88/9) S-L. Chow
+Analysis of Sea-of-Gates Template and Cell Library Design Issues  (M88/8) L.S. Layer
+Future Trends in Data Base Systems  (M88/7) Michael Stonebraker
+Axial Distribution of Optical Emission in a Planar Magnetron  (M88/6) L. Gu and Michael A. Lieberman
+Diffusion in Two Dimensional Mappings  (M88/5) Allan J. Lichtenberg and Michael A. Lieberman
+Minimax Algorithms for Structural Optimization  (M88/4) Elijah Polak
+Detection of Catastrophic Faults in Analog Integrated Circuits  (M88/3) L. Milor and V. Visvanathan
+A Method for Obtaining a Canonical Hamiltonian for Nonlinear LC Circuits  (M88/2) G.M. Bernstein and Michael A. Lieberman
+Algebraic Theory of Linear Feedback Systems With Full and Decentralized Compensators  (M88/1) Charles A. Desoer and A.N. Gündeş

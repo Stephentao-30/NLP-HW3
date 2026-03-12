@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29133.html
+Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem
+Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem
+E. Polak and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/6
+January 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-6.pdf
+BibTeX citation:
+@techreport{Polak:M79/6,
+Author = {Polak, E. and Sangiovanni-Vincentelli, A.},
+Title = {Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29133.html},
+Number = {UCB/ERL M79/6}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Sangiovanni-Vincentelli, A.
+%T Theoretical and Computational Aspects of the Optimal Design Centering, Tolerancing and Tuning Problem
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/6
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29133.html
+%F Polak:M79/6

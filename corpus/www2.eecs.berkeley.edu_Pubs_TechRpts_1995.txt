@@ -1,0 +1,147 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1995
+Technical Reports - 1995
+Type-Safe Compilation of Covariant Specialization: A Practical Case  (CSD-95-890) John Boyland and Giuseppe Castagna
+The Evaluation of Video Layout Strategies for a High-Performance Storage Server  (CSD-95-889) Kimberly Keeton
+A note on "The Limited Performance Benefits of Migrating Active Processes for Load Sharing"  (CSD-95-888) Allen B. Downey and Mor Harchol-Balter
+Exploiting Process Lifetime Distributions for Dynamic Load Balancing  (CSD-95-887) Mor Harchol-Balter and Allen B. Downey
+The WALKTHRU Editor: Towards Realistic and Effective Interaction with Virtual Building Environments  (CSD-95-886) Richard Bukowski
+Bounding Delays in Packet-Routing Networks with Light Traffic  (CSD-95-885) Mor Harchol-Balter
+On the Use of Quality of Service in IP over ATM  (CSD-95-884) Bruce A. Mah
+A Supernodal Approach to Sparse Partial Pivoting  (CSD-95-883) James W. Demmel, Stanley C. Eisenstat, John R. Gilbert, Xiaoye S. Li and Joseph W.H. Liu
+Transforming for Parallelism Using Symbolic Summarization  (CSD-95-882) Oliver Joseph Sharp
+Re-examining Scheduling and Communication in Parallel Programs  (CSD-95-881) Andrea C. Dusseau, Remzi H. Arpaci and David E. Culler
+Pairwise Independence and Derandomization  (CSD-95-880) Michael Luby and Avi Wigderson
+Multipol: A Distributed Data Structure Library  (CSD-95-879) Soumen Chakrabarti, Etienne Deprit, Eun-Jin Im, Jeff Jones, Arvind Krishnamurthy, Chi-Po Wen and Katherine Yelick
+Parallelizing a Cell Simulation: Analysis, Abstraction, and Portability  (CSD-95-878) Stephen Steinberg
+Performance Evaluation of Cache Prefetch Implementation  (CSD-95-877) John Tse and Alan Jay Smith
+Sub-element Indexing and Probabilistic Retrieval in the POSTGRES Database System  (CSD-95-876) Anne M. Fontaine
+Improving World Wide Web Latency  (CSD-95-875) Venkata N. Padmanabhan
+Application Specific, Multiprocessor Network Design  (CSD-95-874) A. Nathan McNamara
+Microbenchmarking and Performance Prediction for Parallel Computers  (CSD-95-873) Stephen J. Von Worley and Alan Jay Smith
+Storage Hierarchy Management for Scientific Computing  (CSD-95-872) Ethan Leo Miller
+Rational Krylov, A Practical Algorithm for Large Sparse Nonsymmetric Matrix Pencils  (CSD-95-871) Axel Ruhe
+Handling Floating-point Exceptions in Numeric Programs  (CSD-95-870) John R. Hauser
+Parallelizing the Phylogeny Problem  (CSD-95-869) Jeff A. Jones
+Non-Sequential Tool Interaction Strategies for Sea-of-Gates Layout Synthesis  (CSD-95-868) Glenn David Adams
+The Zebra Striped Network File System  (CSD-95-867) John Henry Hartman
+Better Static Memory Management: Improving Region-Based Analysis of Higher-Order Languages  (CSD-95-866) Alexander Aiken, Manuel Fahndrich and Raph Levien
+Mantis: A Debugger for the Split-C Language  (CSD-95-865) Steve S. Lumetta
+Adaptive Parallel Programs  (CSD-95-864) Steven Lucco
+Belief Network Induction  (CSD-95-863) Charles Ronald Musick, Jr.
+Sawmill: A Logging File System for a High-Performance RAID Disk Array  (CSD-95-862) Kenneth William Shirriff
+Fault Management for Realtime Networks  (CSD-95-861) Anindo Banerjea
+Constraint-Driven Analysis and Synthesis of High-Performance Analog IC Layout  (M95/115) Edoardo Charbon
+Overcomplete Expansions for Digital Signal Processing  (M95/114) Zoran D. Cvetkovic
+Theory of Hybrid Systems and Discrete Event Systems  (M95/113) Anuj Puri
+Validity of the Classical Theory of Spontaneous Emission and the Fast Multipole Method for Electromagnetic Scattering  (M95/112) Si Chuen Michael Yeung
+Hardware Implementation of Cellular Automata via the Cellular Neural Network Universal Machine  (M95/111) K.R. Crounse, E.L. Fung and Leon O. Chua
+Experimental Poincare Maps from the Twist-and-Flip Circuit  (M95/110) G-Q. Zhong, Leon O. Chua and R. Brown
+Symbolic Two-Level Minimization  (M95/109) T. Villa, A. Saldanha, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Explicit and Implicit Algorithms for Binate Covering Problems  (M95/108) T. Villa, T. Kam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Theory and Algorithms for State Minimization of Non-Deterministic FSM's  (M95/107) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Implicit Computation of Compatible Sets for State Minimization of ISFSM's  (M95/106) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Bounded Scheduling of Process Networks  (M95/105) Thomas M. Parks
+VIS: A System for Verification and Synthesis  (M95/104)  The VIS Group, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Measurement of Synchronization in Noisy and Chaotic Dynamical Systems  (M95/103) P. Khoury, Michael A. Lieberman and Allan J. Lichtenberg
+Centralizing Geometry Services for Three-Dimensional Integrated Circuits Topography Simulation  (M95/102) Robert H.-F. Wang
+Real-Time Task Level Scheduling in the Polis Co-Design Environment  (M95/101) D.W. Engels
+Image Interpolation Using Wavelet-Based Edge Enhancement and Texture Analysis  (M95/100) S-H.G. Chang
+Automated Low-Power ASIC Design for Speech Processing  (M95/99) E. Yeo
+CMOS Baseline Process in the UC Berkeley Microfabrication Laboratory  (M95/98) S. Fang
+Modeling Electronegative Discharges at Low Pressure  (M95/97) I. Kouznetsov, Allan J. Lichtenberg and Michael A. Lieberman
+2D Electromagnetic and TIC on a Quadrilateral Mesh  (M95/96) A.B. Langdon
+Simultaneous Potential and Circuit Solution for Two-Dimensional Bounded Plasma Simulation Codes  (M95/95) V. Vahedi and G. DiPeso
+Noise, Speed, and Power Tradeoffs in Pipelined Analog-to-Digital Converters  (M95/94) David W. Cline
+On Adaptive Synchronization and Control of Nonlinear Dynamical Systems  (M95/93) C.W. Wu, T. Yang and Leon O. Chua
+3D Surface Modeling Utilities for Use in TCAD  (M95/92) John F. Sefler
+Overcoming Memory Constraints in ROBDD Construction by Functional Decomposition and Partitioning  (M95/91) A. Narayan, S.P. Khatri, J. Jain, M. Fujita, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Minimizing Communication and Synchronization Overhead in Multiprocessors for Digital Signal Processing  (M95/90) Sundararajan Sriram
+TAO: A Transformation Framework for DSP Algorithm Optimization  (M95/89) S-H Huang and Jan M. Rabaey
+System-Level Codesign of Mixed Hardware-Software Systems  (M95/88) Asawaree P. Kalavade
+Connecting Infinity: Complex Encirclement for Finding All Circuit Solutions  (M95/87) D.M. Wolf and Seth R. Sanders
+Multi-Parameter Homotopy Methods for Finding DC Operating Points of Nonlinear Circuits  (M95/86) D.M. Wolf and Seth R. Sanders
+The Common Randomness Capacity of a Pair of Independent Discrete Memoryless Channels  (M95/85) S. Venkatesan and Venkat Anantharam
+Design Space Exploration for Building- Block Placements  (M95/84) H. Esbensen and Ernest S. Kuh
+Global Models of Pulse-Power Modulated High Density, Low Pressure Discharges  (M95/83) Michael A. Lieberman and S. Ashida
+Hybrid Control in Air Traffic Management Systems  (M95/82) S. Shankar Sastry, G. Meyer, C. Tomlin, J. Lygeros, D. Godbole and G. Pappas
+High Performance BDD Package Based on Exploiting Memory Hierarchy  (M95/81) R.K. Ranjan, J.V. Sanghavi, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Circuit Simulation for VLSI and Electronic Packaging Design  (M95/80) S. Lin
+Object Oriented Image Analysis for Very Low Bitrate Video Coding Systems Using the CNN Universal Machine  (M95/79) A. Stoffels, T. Roska and Leon O. Chua
+Circuit Simulation for Mixed-Signal Analog/Digital Circuits  (M95/78) Premal Buch
+A Game Theoretic Approach to Hybrid System Design  (M95/77) J. Lygeros, D.N. Godbole and S. Shankar Sastry
+Synchronization of Chua's Circuits with Time-Varying Channels and Parameters  (M95/76) Leon O. Chua, T. Yang, G-Q. Zhong and C.W. Wu
+Estimation Techniques to Guide Low-Power Resynthesis Algorithms for Combinatorial Random CMOS Logic  (M95/75) Christopher K. Lennard
+Measurement of Stray Current in Cows  (M95/74) Martin H. Graham
+Low Power Analog Circuits for An All CMOS Integrated CDMA Receiver  (M95/73) L.E. Lynn
+Resist Studies for TCAD Modeling 1. Negative Resist Corner Rounding  (M95/72) P.I. Hagouel
+Low Power Spread Spectrum Demodulator for Wideband Wireless Communications  (M95/71) K.M. Stone
+Resynchronization for Embedded Multiprocessors  (M95/70) S.S. Bhattacharyya, S. Sriram and Edward A. Lee
+A Control and Diagnostic System for the Photolithography Process Sequence  (M95/69) Sovarong Leang
+The Common Randomness Capacity of a Pair of Independent Binary Symmetric Channels  (M95/68) S. Venkatesan and Venkat Anantharam
+Decomposition of Multi-Phase Timed Finite State Machines  (M95/67) S-T. Cheng and Robert K. Brayton
+Multi-Level Optimization of FSM Networks  (M95/66) H.Y. Wang and Robert K. Brayton
+Simulation and Analysis of a Large Area Plasma Source  (M95/65) V.P. Gopinath and Michael A. Lieberman
+Special Issues in Semiconductor Manufacturing  (M95/64) Costas J. Spanos, J. Chen, R. Chen, C. Fields, H. Huang, A. Ison, X. Niu, D. Park, J. Tao, M. Terrovitis and A. Wang
+Special Issues in Semiconductor Manufacturing  (M95/63) Costas J. Spanos, J. Chen, M. Cohn, M. Hatzilambrou, A. Miranda and R. Schenker
+On the Generality of the Unfolded Chua's Circuit  (M95/62) C.W. Wu and Leon O. Chua
+An RF Voltage Divider for an Inductively Powered Plasma Source  (M95/61) D. Whiteson
+Experimental Modeling of a Traveling-Wave- Excited Inductively Driven Coil for a Large Area Plasma Source for Flat Panel Processing  (M95/60) Y. Wu and Michael A. Lieberman
+A Generalization of Multidimensional Synchronous Dataflow to Arbitrary Sampling Lattices  (M95/59) P.K. Murthy and Edward A. Lee
+Lossy Compression of Individual Signals Based on One Pass Codebook Adaptation  (M95/58) C. Chan
+Quantized Overcomplete Expansions: Analysis, Synthesis and Algorithms  (M95/57) V.K. Goyal
+Similarity of Limiting Currents in Planar and Cylindrical Crossed-Field Diodes  (M95/56) V.P. Gopinath, J.P. Verboncoeur and Charles K. (Ned) Birdsall
+Rapid Current Transition in a Crossed-Field Diode  (M95/55) J.P. Verboncoeur and Charles K. (Ned) Birdsall
+A Data-Driven Multiprocessor Architecture for High Throughput Digital Signal Processing  (M95/54) Alfred K.-W. Yeung
+Three-Dimensional Monte Carlo Device Simulation for Massively Parallel Architectures  (M95/53) H. Sheng, R. Guerrieri and Alberto L. Sangiovanni-Vincentelli
+Parallel and Distributed Three-Dimensional Monte Carlo Semiconductor Device Simulation  (M95/52) H. Sheng, R. Guerrieri and Alberto L. Sangiovanni-Vincentelli
+Compositional Techniques for Mixed Bottom-Up/Top-Down Constructions of ROBDDs  (M95/51) A. Narayan, S.P. Khatri, J. Jain, M. Fujita, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+An Engineering Change Methodology Using Simulation Relations  (M95/50) S.P. Khatri, A. Narayan, S.C. Krishnan, K.L. McMillan, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+Review of Ion Energy Distributions in Capacitively Coupled RF Plasma Reactors  (M95/49) E. Kawamura, V. Vahedi, Michael A. Lieberman and Charles K. (Ned) Birdsall
+Error Analysis in Oversampled A/D Conversion and Quantization of Weyl-Heisenberg Frame Expansions  (M95/48) Z. Cvetkovic and Martin Vetterli
+Modeling and Analysis of Substrate Coupling in Integrated Circuits  (M95/47) Ranjit Gharpurey
+The Berkeley Computer Integrated Manufacturing Systems BCIMS  (M95/46) L.J. Massa-Lochridge
+Methods for Image Processing and Pattern Formation in Cellular Neural Networks: A Tutorial  (M95/45) K.R. Crounse and Leon O. Chua
+A Family of Projected Descent Methods for Optimization Problems with Simple Bounds  (M95/44) A. Schwartz and Elijah Polak
+Renesting Single Appearance Schedules to Minimize Buffer Memory  (M95/43) S.S. Bhattacharyya, P.K. Murthy and Edward A. Lee
+Logic Optimization of FSM Networks Using Input Don't Care Sequences  (M95/42) H-Y Wang and Robert K. Brayton
+Encoding Problems in Logic Synthesis  (M95/41) Tiziano Villa
+The Implementation of a High Speed Experimental Transceiver Module with an Emphasis on CDMA Applications  (M95/40) A.R. Behzad
+A Computational Theory of Laurent Polynomial Rings and Multidimensional FIR Systems  (M95/39) H-J. Park
+Applying TCAD to Emerging Technologies  (M95/38) Derek C. Lee
+State Minimization of Finite State Machines Using Implicit Techniques  (M95/37) Timothy Y.-K. Kam
+A Hierarchical Multiprocessor Scheduling Framework for Synchronous Dataflow Graphs  (M95/36) J.L. Pino, S.S. Bhattacharyya and Edward A. Lee
+Not Ready  (M95/35) K. Toh
+A Radio Frequency Variable-Gain Amplifier  (M95/34) P. Piriyapoksombut
+Integrated Radio Frequency LC Voltage-Controlled Oscillators  (M95/33) J.L. Tham
+A Methodology to Apply Optimizing Transformations  (M95/32) S-H. Huang and Jan M. Rabaey
+Impedance Modeling of Cl_2/He Plasma Discharges  (M95/31) A.J. Miranda
+Combining Top-Down and Bottom-Up Approaches for ROBDD Construction  (M95/30) J. Jain, A. Narayan, C. Coelho, S.P. Khatri, Alberto L. Sangiovanni-Vincentelli, Robert K. Brayton and M. Fujita
+The CNN Universal Machine is as Universal as a Turing Machine  (M95/29) K.R. Crounse and Leon O. Chua
+Automatic Synthesis of CMOS Digital/Analog Converters  (M95/28) Robert McKinstry Neff and Robinson Neff
+Automatic Synthesis of CMOS Algorithmic Analog-to-Digital Converter  (M95/27) G. Jusuf
+A Methodology for Modeling the Manufacturability of Integrated Circuits  (M95/26) Eric D. Boskin
+A Comparison of Three Dimensional Photolithography Simulators  (M95/25) John J. Helmsen
+SYMPHONY: An Efficient Mixed Signal Circuit Simulator  (M95/24) P. Buch and Ernest S. Kuh
+Low-Power Low-Voltage Analog-to-Digital Conversion Techniques Using Pipelined Architectures  (M95/23) Thomas B. Cho
+Mathematical Theory of Communication Networks  (M95/22) Venkat Anantharam
+A Top-Down Constraint-Driven Design Methodology for Analog Integrated Circuits  (M95/21) C-H. Chang
+An IC/MCM Timing-Driven Placement Algorithm Featuring Explicit Design Space Exploration  (M95/20) H. Esbensen and Ernest S. Kuh
+Advances in Encoding for Logic Synthesis  (M95/19) T. Villa, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Implicit State Minimization of Non-Deterministic FSM's  (M95/18) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Surgical Applications of Milli-Robots  (M95/17) M.B. Cohn, L.S. Crawford, J.M. Wendlandt and S. Shankar Sastry
+Software Simulation of the INFOPAD Wireless Downlink  (M95/16) C.M. Teuscher
+A Formal Approach to Fuzzy Modeling  (M95/15) J. Lygeros
+TEMPEST Users' Guide Version 4.0  (M95/14) A. Wong
+SPLAT v5.0 User's Guide  (M95/13) D. Lee, D. Newmark, K. Toh, P. Flanner and Andrew R. Neureuther
+Inference of State Machines from Examples of Behavior  (M95/12) A. Oliveira and S. Edwards
+A Methodology for Formal Verification of Real-Time Systems  (M95/11) F. Balarin, Robert K. Brayton, S-T. Cheng, D.A. Kirkpatrick, Alberto L. Sangiovanni-Vincentelli and E.C. Wu
+An Accurate Time Domain Interconnect Model of Transmission Line Networks  (M95/10) Q. Yu and Ernest S. Kuh
+Role of Etch Products in Polysilicon Etching in a High Density Chlorine Discharge  (M95/9) C. Lee, D.B. Graves and Michael A. Lieberman
+Advanced Topics in Adaptive and Nonlinear Control: Final Projects EECS 290B  (M95/8) S. Shankar Sastry
+VideoStation: A Composition Platform for Advanced Video Services  (M95/7) Wen-Lung Chen
+A Qualitative Modeling Framework of Semiconductor Manufacturing Processes: Self-Learning Fuzzy Inference System and the Statistical Analysis of Categorical Data  (M95/6) Raymond L. Chen
+Delaying Safeness for More Flexibility  (M95/5) V. Singhal, C. Pixley, A. Aziz and Robert K. Brayton
+DC Power Supply Design in Portable Systems  (M95/4) Anthony J. Stratakos, Charles R. Sullivan, Seth R. Sanders and Robert W. Brodersen
+Two Complementary Heuristics for Translating Graphical DSP Programs into Minimum Memory Implementations  (M95/3) S.S. Bhattacharyya, P.K. Murthy and Edward A. Lee
+Optimizing Synchronization in Multiprocessor Implementations of Iterative Dataflow Programs  (M95/2) S.S. Bhattacharyya, S. Sriram and Edward A. Lee
+Iterative Methods for Formal Verification of Digital Systems  (M95/1) Felice Balarin

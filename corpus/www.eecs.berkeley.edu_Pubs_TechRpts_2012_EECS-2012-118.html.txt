@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-118.html
+0.35 μm CMOS Process on Six-Inch Wafers: The First Baseline Run in the New Marvell NanoLab,  Baseline Report VIII.
+A. Szűcs
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-118
+May 24,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-118.pdf
+This report presents details of the eighth six-inch baseline run, CMOS200, where a moderately complex 0.35 µm twin-well, silicided, LOCOS process was implemented. This process was based on the previous 0.35 µm six-inch run, CMOS192. CMOS200 was the start-up run in the new Marvell NanoLab, showing the ability to fabricate operational MOSFETs, after the move from the Microlab.
+BibTeX citation:
+@techreport{Szűcs:EECS-2012-118,
+Author= {Szűcs, A.},
+Title= {0.35 μm CMOS Process on Six-Inch Wafers: The First Baseline Run in the New Marvell NanoLab,  Baseline Report VIII.},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-118.html},
+Number= {UCB/EECS-2012-118},
+Abstract= {This report presents details of the eighth six-inch baseline run, CMOS200, where a moderately complex 0.35 µm twin-well, silicided, LOCOS process was implemented. This process was based on the previous 0.35 µm six-inch run, CMOS192. CMOS200 was the start-up run in the new Marvell NanoLab, showing the ability to fabricate operational MOSFETs, after the move from the Microlab.},
+}
+EndNote citation:
+%0 Report
+%A Szűcs, A.
+%T 0.35 μm CMOS Process on Six-Inch Wafers: The First Baseline Run in the New Marvell NanoLab,  Baseline Report VIII.
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 24
+%@ UCB/EECS-2012-118
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-118.html
+%F Szűcs:EECS-2012-118

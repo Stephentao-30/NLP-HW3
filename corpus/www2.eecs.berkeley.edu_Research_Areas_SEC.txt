@@ -1,0 +1,127 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/SEC
+Security (SEC)
+Overview
+UC Berkeley has the world's leading research group in Computer Security.  Seven faculty members have computer security as a major focus of their work (Alessandro Chiesa, Anthony Joseph, Vern Paxson, Raluca Ada Popa, Dawn Song, Doug Tygar, and David Wagner) and a large number contribute to security in the course of other research -- we actively collaborate with faculty from the School of Information, Boalt Law School, Goldman School of Public Policy, the Department of Mathematics, and faculty from throughout the College of Engineering.  UC Berkeley was chosen for the headquarters for its Science and Technology Center called TRUST, the Team for Research in Ubiquitous Security Technologies.  We welcome involvement from others -- academia, industry, and government, and we are always looking for outstanding students to join our program.
+For more information, we encourage you to visit  our web site describing some of our recent work .
+Topics
+Cryptography
+Research in our group spans topics in cryptography from theory to applications, including significant research efforts in complexity-theoretic approaches to cryptography, development of new cryptographic systems, cryptanalysis, protocol development, applied cryptography, quantum computation, and applications that include electronic commerce, electronic voting, wireless communications, and protocols for sensor webs. See  here  for more information.
+Privacy
+Among various topics that we consider are privacy in wireless sensor webs (a difficulty balancing problem -- consider the role of privacy in medical monitoring systems, for example), privacy in RFID systems, privacy issues in databases, privacy in web based applications (look below for the discussion of anti-phishing technologies, for example).
+Social implications of security
+Our work is guided by a strong sense of social needs -- for example, we are actively involved in research in bringing advanced computing and communication technologies to those in the developing world.  The role of security takes a crucial role here.
+Sensor web security
+Berkeley is a pioneer in development of the sensor web model -- based around wireless "motes" with limited computing power and sensing devices.  Because of the limited power requirements, making these motes security presents fascinating technical challenges.
+Testbeds for security
+We are building large-scale testbeds for our ideas including:
+*  DETER -- a virtual Internet for testing prorogation of worms and attacks
+*  OceanStore -- a system for storing data in global scale distributed systems
+*  Wireless City Taipei -- the world largest wireless network experiment -- built in Taipei.
+Security, programming languages, and software engineering
+We are active in exploring the interaction between programming languages and computer security -- an area often called "software security."
+Human interfaces and security
+We are major innovators  in the field of Human-centric security; the paper that helped launch that field ("Why Johnny can't encrypt") was written here at UC Berkeley.  We continue to be active in this area.
+Identity and integrity
+Preventing "phishing" and attacks is a central focus of our research.
+Network security
+We have an active research group (much of it joint with Berkeley's International Computer Science Institute) working on high-performance network security monitoring and intrusion prevention.  Much of the research is grounded in operational deployment at a number of sites.
+Electronic voting
+We are known for our work on the security of electronic voting.  Berkeley faculty helped found the ACCURATE center, which studies voting technology and its policy implications; other institutions involved in the ACCURATE project include Johns Hopkins, Rice, SRI, Stanford, and U. Iowa.  In 2008, Berkeley helped lead a groundbreaking study commissioned by the California Secretary of State to perform a top-to-bottom evaluation of California's voting systems.
+Beyond Technical Security
+We participate in an interdisciplinary effort to understand the factors that drive threats to security.  This work takes the view that, while security is a
+phenomenon mediated by the technical workings of computers and networks,
+it is ultimately a conflict driven by economic and social issues that merit
+a commensurate level of scrutiny. As a result, our goal is to tackle key
+social and economic elements of security: how the motivations and interactions of attackers, defenders, and users shape the threats we face, how they evolve over time, and how they can best be addressed.
+Research Centers
+Berkeley Center for New Media
+Berkeley Center for Responsible, Decentralized Intelligence (RDI)
+Berkeley Institute of Design
+Berkeley Laboratory for Usable and Experimental Security
+Berkeley Quantum Information and Computation Center
+Berkeley Sensor & Actuator Center
+Berkeley Wireless Research Center
+Center for Information Technology Research in the Interest of Society - The Banatao Institute
+Foundations Of Resilient CybEr-physical Systems
+International Computer Science Institute
+Sky Computing Lab
+Tele-Immersion
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+Faculty
+Primary
+Henry Corrigan-Gibbs
+Jiantao Jiao
+Anthony D. Joseph
+Vern Paxson
+Raluca Ada Popa
+Dawn Song
+David Wagner  (coordinator)
+Secondary
+Venkat Anantharam
+Ruzena Bajcsy
+Eric Brewer
+John F. Canny
+John Chuang
+David E. Culler
+Jerome A. Feldman
+Sanjam Garg
+John D. Kubiatowicz
+Michael Lustig
+Pierluigi Nuzzo
+S. Shankar Sastry
+Koushik Sen
+Sanjit A. Seshia
+Ion Stoica
+Umesh Vazirani
+Faculty Awards
+ACM Prize in Computing:
+Eric Brewer, 2009.
+MacArthur Fellow:
+Dawn Song, 2010.
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Sciences (NAS) Member:
+Umesh Vazirani, 2018.
+National Academy of Engineering (NAE) Member:
+Ion Stoica, 2024.
+Eric Brewer, 2007.
+David E. Culler, 2005.
+S. Shankar Sastry, 2001.
+Ruzena Bajcsy, 1997.
+American Academy of Arts and Sciences Member:
+Dawn Song, 2025.
+Eric Brewer, 2018.
+Ruzena Bajcsy, 2007.
+S. Shankar Sastry, 2003.
+Berkeley Citation:
+Ruzena Bajcsy, 2023.
+David E. Culler, 2021.
+S. Shankar Sastry, 2018.
+Jerome A. Feldman, 2009.
+UC Berkeley Distinguished Teaching Award:
+David Wagner, 2006.
+Sloan Research Fellow:
+Sanjam Garg, 2020.
+Raluca Ada Popa, 2018.
+Michael Lustig, 2013.
+Koushik Sen, 2011.
+Sanjit A. Seshia, 2008.
+Dawn Song, 2007.
+Ion Stoica, 2003.
+David Wagner, 2003.
+Eric Brewer, 1997.
+Related Courses
+CS 161. Computer Security
+CS 162. Operating Systems and System Programming
+CS 170. Efficient Algorithms and Intractable Problems
+CS 172. Computability and Complexity
+CS 174. Combinatorics and Discrete Probability
+CS 194. Special Topics
+CS 195. Social Implications of Computer Technology
+CS H196. Honors Seminar for Computer Science Majors
+CS 261. Security in Computer Systems
+CS 262A. Advanced Topics in Computer Systems
+CS 271. Randomness and Computation
+CS 276. Cryptography
+CS 278. Machine-Based Complexity Theory
+CS 282. Algebraic Algorithms

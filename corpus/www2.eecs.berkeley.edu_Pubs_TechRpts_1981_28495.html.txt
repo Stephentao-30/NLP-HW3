@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28495.html
+Double-Layer Channel Routing with Irregular Boundaries
+M.L. Liu and Y.K. Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/79
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-79.pdf
+BibTeX citation:
+@techreport{Liu:M81/79,
+Author= {Liu, M.L. and Chen, Y.K.},
+Title= {Double-Layer Channel Routing with Irregular Boundaries},
+Year= {1981},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28495.html},
+Number= {UCB/ERL M81/79},
+}
+EndNote citation:
+%0 Report
+%A Liu, M.L.
+%A Chen, Y.K.
+%T Double-Layer Channel Routing with Irregular Boundaries
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/79
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28495.html
+%F Liu:M81/79

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29016.html
+Matroid with Parity Conditions: A New Class of Combinatorial Optimization Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Matroid with Parity Conditions: A New Class of Combinatorial Optimization Problems
+Matroid with Parity Conditions: A New Class of Combinatorial Optimization Problems
+Eugene L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M334
+November 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-334.pdf
+BibTeX citation:
+@techreport{Lawler:M334,
+Author = {Lawler, Eugene L.},
+Title = {Matroid with Parity Conditions: A New Class of Combinatorial Optimization Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29016.html},
+Number = {UCB/ERL M334}
+}
+EndNote citation:
+%0 Report
+%A Lawler, Eugene L.
+%T Matroid with Parity Conditions: A New Class of Combinatorial Optimization Problems
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M334
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29016.html
+%F Lawler:M334

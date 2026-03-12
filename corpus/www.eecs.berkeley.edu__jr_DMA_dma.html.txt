@@ -1,0 +1,63 @@
+URL: http://www.eecs.berkeley.edu/~jr/DMA/dma.html
+About DMA
+home
+Core Faculty
+Robert Brayton
+Kurt Keutzer
+Andreas Kühlmann
+Edward Lee
+Jaijeet Roychowdhury
+Alberto Sangiovanni-Vincentelli
+Sanjit Seshia
+People
+past faculty
+all affiliated faculty
+research scientists
+alumni
+Misc
+DMA prelim syllabus
+Design, Modeling & Analysis (DMA)
+Design, Modeling and Analysis Research Area ,
+EECS Department ,  University of California, Berkeley
+The DMA research area at UC Berkeley focusses on the development of mathematical and algorithmic techniques for modeling,
+analysis and design, and their application to complex systems in diverse domains (including automotive, avionic,
+electronic, energy, biological, cyber-physical, embedded and software systems).
+Previously known as CAD and DES, our area has a record of contributions to  design automation  over a  span of five decades .  Notable DMA
+contributions include the circuit simulation program  SPICE , the Berkeley logic synthesis and verification tools
+( Espresso , SIS, VIS,  ABC , etc.) and  Ptolemy , a framework for
+research in models of computation.
+We are located in the  DOP Center , 545 Cory Hall.
+Current Research Thrusts
+Embedded and Cyberphysical Systems : Models of computation, specification languages, real-time systems,
+hardware and software synthesis and compilation for electronic systems.
+Modeling : Modeling and model-order reduction of biological, electronic and software systems, together with analysis
+techniques that identify design flaws, performance problems, and vulnerabilities.
+Simulation : Algorithms, models and tools for continuous, discrete and stochastic simulation.
+Synthesis and Verification : Algorithms and techniques for automated synthesis, formal verification, model checking and
+optimization of complex electronic, biological and software systems.
+For further information, see the webpages of individual DMA faculty.
+Classes
+EECS 144/244.  Fundamental Algorithms for System Modeling, Analysis and Optimization .
+EECS 145M.  Introductory Microcomputer Interfacing Laboratory .
+EECS C149.  Introduction to Embedded Systems .
+EECS 219A.  Numerical Simulation and Modelling .
+[ f11
+f10
+f09
+s09
+s06 ]
+EECS 219B.  Logic Synthesis for Hardware Systems .
+EECS 219C.  Computer-Aided Verification .
+EECS C219D.  Concurrent Models of Computation .
+EECS 249.  Embedded System Design: Models, Validation, and Synthesis .
+EECS 290A.  Numerical Simulation and Modelling II .
+[ s10 ]
+Research Centers and Collaborations
+Donald O. Pederson Center for System Design (DOP)
+Berkeley Verification and Synthesis Research Center (BVSRC)
+Center for Hybrid and Embedded Software Systems (CHESS)
+Berkeley Wireless Research Center (BWRC)
+Team for Research in Ubiquitous Secure Technology (TRUST)
+Gigascale Systems Research Center (GSRC)
+Multiscale System Center (MuSyC)
+Page generated 2011-12-12 16:38:54 PST, by  jemdoc .

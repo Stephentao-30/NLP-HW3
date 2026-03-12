@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28475.html
+A Model for Planning in Complex Situations
+Robert Wilensky
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/49
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-49.pdf
+BibTeX citation:
+@techreport{Wilensky:M81/49,
+Author= {Wilensky, Robert},
+Title= {A Model for Planning in Complex Situations},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28475.html},
+Number= {UCB/ERL M81/49},
+}
+EndNote citation:
+%0 Report
+%A Wilensky, Robert
+%T A Model for Planning in Complex Situations
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/49
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28475.html
+%F Wilensky:M81/49

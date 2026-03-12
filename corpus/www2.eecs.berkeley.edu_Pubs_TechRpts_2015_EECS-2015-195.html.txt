@@ -1,0 +1,44 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-195.html
+Design Considerations for Nano-Electromechanical Relay Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design Considerations for Nano-Electromechanical Relay Circuits
+Design Considerations for Nano-Electromechanical Relay Circuits
+Matthew Spencer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-195
+August 14, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-195.pdf
+Complementary metal oxide semiconductor (CMOS) technology has a minimum energy per operation, and that limitation is one of the myriad hurdles CMOS faces as it reaches small scales. This minimum energy is set by the balance between leakage energy and dynamic energy in subthreshold CMOS circuits, and sets floors on the achievable energy of digital units. A new, post-CMOS device with a sharper subthreshold slope than CMOS would be able to sidestep this minimum energy constraint.
+A candidate device called a nano-electromechancial (NEM) relay has recently emerged. NEM relays are small, integrated, capacitively-actuated, mechanical switches. The devices have demonstrated extremely high subthreshold slopes: ten orders of magnitude over a millivolt of swing. However, in the same lithographic process they are twenty times larger than a minimum sized CMOS device, their gate capacitance is ten times that of a minimum sized CMOS device, and their mechanical motion is an order of magnitude slower than a CMOS inverter. Can NEM relays improve digital systems even with these drawbacks?
+With proper circuit design, simulations say "yes". This dissertation examines three of the critical components of digital systems -- logic, timing, and memory -- and proposes NEM circuits which mitigate the weaknesses of the technology while achieving design goals. Simulations show that optimized relay logic, which arranges for all of the slow movement of relays to happen at the same time, can achieve an improvement of 10x in energy-peroperation below the CMOS minimum energy point at a penalty of 10x in delay and 3x in area. This logic style is experimentally demonstrated. In addition, relay latch based timing with staticization in the feedback path is simulated, which results in a working relay pipeline with zero mechanical delays of timing overhead. Finally, a new device called NEMory is proposed to build dense, non-volatile, mechanical memory. A hybrid NEMory/CMOS array is simulated, and its performance is compared to other memory solutions. The NEMory density is higher than any non-volatile memory except for multi-level cell, onulln-chip Flash, and its read and write energy are lower than any other non-volatile technology. Finally, the scaling and process limits of realizing mechanical devices are discussed in the context of future work.
+Advisor:  Elad Alon
+BibTeX citation:
+@phdthesis{Spencer:EECS-2015-195,
+Author = {Spencer, Matthew},
+Title = {Design Considerations for Nano-Electromechanical Relay Circuits},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-195.html},
+Number = {UCB/EECS-2015-195},
+Abstract = {Complementary metal oxide semiconductor (CMOS) technology has a minimum energy per operation, and that limitation is one of the myriad hurdles CMOS faces as it reaches small scales. This minimum energy is set by the balance between leakage energy and dynamic energy in subthreshold CMOS circuits, and sets floors on the achievable energy of digital units. A new, post-CMOS device with a sharper subthreshold slope than CMOS would be able to sidestep this minimum energy constraint.
+A candidate device called a nano-electromechancial (NEM) relay has recently emerged. NEM relays are small, integrated, capacitively-actuated, mechanical switches. The devices have demonstrated extremely high subthreshold slopes: ten orders of magnitude over a millivolt of swing. However, in the same lithographic process they are twenty times larger than a minimum sized CMOS device, their gate capacitance is ten times that of a minimum
+sized CMOS device, and their mechanical motion is an order of magnitude slower than a CMOS inverter. Can NEM relays improve digital systems even with these drawbacks?
+With proper circuit design, simulations say "yes". This dissertation examines three of the critical components of digital systems -- logic, timing, and memory -- and proposes NEM circuits which mitigate the weaknesses of the technology while achieving design goals. Simulations show that optimized relay logic, which arranges for all of the slow movement of relays to happen at the same time, can achieve an improvement of 10x in energy-peroperation below the CMOS minimum energy point at a penalty of 10x in delay and 3x in area. This logic style is experimentally demonstrated. In addition, relay latch based timing with staticization in the feedback path is simulated, which results in a working relay pipeline
+with zero mechanical delays of timing overhead. Finally, a new device called NEMory is proposed to build dense, non-volatile, mechanical memory. A hybrid NEMory/CMOS array is simulated, and its performance is compared to other memory solutions. The NEMory density is higher than any non-volatile memory except for multi-level cell, o
+n-chip Flash, and its read and write energy are lower than any other non-volatile technology. Finally, the scaling and process limits of realizing mechanical devices are discussed in the context of future work.}
+}
+EndNote citation:
+%0 Thesis
+%A Spencer, Matthew
+%T Design Considerations for Nano-Electromechanical Relay Circuits
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 14
+%@ UCB/EECS-2015-195
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-195.html
+%F Spencer:EECS-2015-195

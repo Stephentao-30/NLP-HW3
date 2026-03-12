@@ -1,0 +1,18 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-177.html
+A Framework for Composing High-Performance OpenCL from Python Descriptions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Framework for Composing High-Performance OpenCL from Python Descriptions
+A Framework for Composing High-Performance OpenCL from Python Descriptions
+THIS REPORT HAS BEEN WITHDRAWN
+Michael Anderson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-177
+November 14, 2014
+Parallel processors have become ubiquitous; most programmers today have access to parallel hardware such as multi-core processors and graphics processors. This has created an implementation gap, where efficiency programmers with knowledge of hardware details can attain high performance by exploiting parallel hardware, while productivity programmers with application-level knowledge may not understand low-level performance trade-offs. Ideally, we would like to be able to write programs in productivity languages such as Python or MATLAB, and achieve performance comparable to the best hand-tuned code.
+One approach toward achieving this ideal is to write libraries that get high efficiency on certain operations, and call these libraries from the productivity environment. We propose a framework that addresses two problems with this approach: that it fails to fuse operations for efficiency, and that it may not consider runtime information such as shapes and sizes of data structures. With our framework, efficiency programmers write and/or generate customized OpenCL snippets at runtime and the framework automatically fuses, compiles, and executes these operations based on a Python description.
+We evaluate the framework with case studies of two very different applications: space-time adaptive radar processing and optical flow. For a space-time adaptive radar processing application, our framework's implementation is competitive with a hand-coded implementation that uses a vendor-optimized library. For optical flow, a computer vision application, the framework achieves frame rates that are between 0.5x and 0.97x hand-coded OpenCL performance.
+Advisor:  Kurt Keutzer

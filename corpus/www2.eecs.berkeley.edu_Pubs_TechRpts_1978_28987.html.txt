@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28987.html
+Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems
+Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems
+J. Bernussou
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/58
+August 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-58.pdf
+BibTeX citation:
+@techreport{Bernussou:M78/58,
+Author = {Bernussou, J.},
+Title = {Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28987.html},
+Number = {UCB/ERL M78/58}
+}
+EndNote citation:
+%0 Report
+%A Bernussou, J.
+%T Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28987.html
+%F Bernussou:M78/58

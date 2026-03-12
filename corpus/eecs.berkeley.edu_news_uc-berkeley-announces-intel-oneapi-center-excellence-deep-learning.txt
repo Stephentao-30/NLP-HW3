@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/uc-berkeley-announces-intel-oneapi-center-excellence-deep-learning
+UC Berkeley Announces Intel oneAPI Center of Excellence for Deep Learning - EECS at Berkeley
+Berkeley EECS is happy to announce the launch of the Center for Energy Efficient Deep Learning (CEEDL), a new Intel oneAPI Center of Excellence (CoE) with Prof. Kurt Keutzer as Principal Investigator and Prof. Joey Gonzalez as co-PI. This center will focus on producing energy-efficient algorithms and implementations for deep learning’s most computationally-intensive workloads. As computing grows to become an increasingly significant portion of an organization’s energy budget, deep-learning workload compute demands are also becoming insatiable. The CEEDL’s charter includes developing energy-efficient algorithms for challenging workloads such as training recommendation systems and natural language understanding systems. The center will use the oneAPI Deep Neural Network Library (oneDNN) and the oneAPI Collective Communications Library (oneCCL) to optimize this work. While high-level algorithms are useful, these algorithms must be implemented on an ever-increasing variety of computational platforms to be impactful. oneAPI’s open, unified heterogeneous programming will significantly ease the development of portable implementations across multiple types of architectures: CPUs, GPUs, FPGAs, and other accelerators.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

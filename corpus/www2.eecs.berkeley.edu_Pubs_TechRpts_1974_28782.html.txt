@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28782.html
+A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits
+A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits
+Leon O. Chua and Niantsu N. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M470
+September 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-470.pdf
+BibTeX citation:
+@techreport{Chua:M470,
+Author = {Chua, Leon O. and Wang, Niantsu N.},
+Title = {A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28782.html},
+Number = {UCB/ERL M470}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Wang, Niantsu N.
+%T A New Approach to Overcome the Overflow Problem in Computer-Aided Analysis of Nonlinear Resistive Circuits
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M470
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28782.html
+%F Chua:M470

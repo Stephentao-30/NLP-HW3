@@ -1,0 +1,19 @@
+URL: https://eecs.berkeley.edu/2025/08/eecs-researchers-develop-a-scalable-quantum-platform-for-high-speed-communications
+EECS researchers develop a scalable quantum platform for high-speed communications - EECS at Berkeley
+Top from left to right: Lukasz Komza, Xueyue Zhang, Hanbin Song. Bottom ffrom left to right: Yu-Lung Tang, Xin Wei, Alp Sipahigil
+A team of researchers from UC Berkeley’s Department of Electrical Engineering and Computer Sciences (EECS) and Lawrence Berkeley National Laboratory’s Materials Sciences Division has made a significant leap toward building compact and scalable quantum networks. The work, published in Optica, details a new chip-based system that can control multiple quantum light sources simultaneously using a single optical bus. This innovation, based on a novel silicon photonics platform, paves the way for efficient, long-distance distribution of quantum information.
+A Novel Architecture for On-Chip Quantum Control
+The paper, titled “ Multiplexed Color Centers in a Silicon Photonic Cavity Array ,” was authored by Lukasz Komza, Xueyue Zhang, Hanbin Song, Yu-Lung Tang, Xin Wei, and Professor Alp Sipahigil from UC Berkeley EECS and Berkeley Lab’s Materials Sciences Division. The team’s innovation lies in its unique architecture: a silicon-based photonic platform that combines arrays of microscopic cavities with embedded “T centers”—light-emitting defects that are ideal for quantum communication because they emit photons at a wavelength compatible with standard fiber-optic cables.
+Multiplexing: A Key to Parallel Operations
+This architecture allows for simultaneous access to multiple, individually addressable color centers. Light and quantum information can travel along the bus waveguide, allowing researchers to control and operate more than one light source in parallel, a process known as wavelength multiplexing. “Controlling multiple quantum light sources in parallel is like upgrading from a single-lane road to a multi-lane highway for quantum information,” said Lukasz Komza, the paper’s lead author. “It’s a key step toward making large-scale quantum networks practical.” The team demonstrated this by controlling two different T centers in separate cavities at different frequencies. They also explored how hybridized modes—where light spreads over remote cavities on the same chip—can enhance light-matter interaction and photon emission.
+Why It Matters
+This breakthrough provides a pathway for a new generation of scalable quantum networks and processors. By enabling efficient on-chip and long-haul distribution of quantum entanglement, the technology could one day form the backbone of a high-speed quantum internet. Unlike other systems that require complex setups for each quantum light source, this design offers a streamlined, compact solution using standard silicon photonics technology.
+Looking forward, the researchers believe that with refined cavity designs and improved fabrication, their technology could eventually support a much higher density of T centers, allowing for many parallel operations per waveguide. This would represent a significant leap forward for quantum communications, moving the field closer to a future where quantum information can be transmitted reliably and at scale.
+This project is primarily supported by the Office of Advanced Scientific Computing Research (ASCR), Office of Science, U.S. Department of Energy, under Contract No. DE-AC02-05CH11231. The research is executed under the Quantum Internet to Accelerate Scientific Discovery ASCR Research Program, funded through Berkeley Lab FWP FP00013429.
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,52 @@
+URL: https://eecs.berkeley.edu/book/requirements-2/res-2
+Current: Robotics and Embedded Software - EECS at Berkeley
+Current: Robotics and Embedded Software
+Program Requirements
+All EECS MEng students should expect to complete four (4) technical courses within the EECS department at the graduate level, the Fung Institute’s engineering leadership curriculum, as well as a capstone project that will be hosted by the EECS department. You must select a project from the list below.
+2019-2020 Capstone Projects
+For the capstone projects for Master of Engineering in Electrical Engineering and Computer Science (EECS) our department believes that the students are going to have a significantly better experience if the projects are followed closely by an EECS professor throughout the academic year. To ensure this, we have asked the faculty in each area for which the Master of Engineering is offered in our department to formulate one or more project ideas that the incoming students will have to choose from.
+Project 1
+Title  -Development and implementation of Advanced Energy Storage Dispatch Algorithm (advisor Prof. Alberto Sangiovanni Vincentelli)
+Description  – This is a project that will be carried out in collaboration with ENEL, the leading world-wide company in green energy. Storage systems (BESS) are becoming increasingly strategic asset for renewable energy companies. An Energy Management System (EMS) manages Stand Alone Storage Systems. The project is about developing advanced modeling to identify the best techniques where the BESS can achieve max value from the market services. Mechanical storage devices (flywheels) are highly innovative and promising technologies in terms of price position, and technical capabilities, Amber Kinetics developed the first flywheel with a discharge duration of 4 hours that has a positive impact on system operating costs and reliability.
+To improve energy and power at the utility scale, Amber Kinetics is considering the connection of many flywheels units in array configuration. However, to consider a realistic scenario, all other energy storage devices, and in particular, batteries, should be considered as part of the project. In order to maximize the economic and technical performance a Stand Alone Storage System (SASS), an Energy Management System (EMS) plays a fundamental role. In this case the EMS should take into account also the characteristics of the array configuration and optimize the coordination among the different strings, units and Flywheel Management System (FMS) and electrical storage systems to achieve the economic and performance targets.
+The scope of the project is to develop an Advanced Energy Storage Dispatch Algorithm (AESDA) to be implemented as part of the EMS and to test and validate it in a real site. The Energy Management System (EMS) through the Advanced Energy Storage Dispatch Algorithm should be able to: 1) optimize the use of storage capabilities considering its technical nature (mechanical flywheels in array configuration, batteries, combination of storage devices) 2) define strategies to optimize the energy storage operation in terms of State of Charge (SoC) restoration, and unavailability reduction among others. 3) estimate the latent costs of flexibility in terms of reduced life-time and useful cycles. An EMS, with these capabilities, will allow maximizing asset value and exploring novel business opportunities with a significant increase in revenues and in storage working life.
+EE249B (Spring 2019, Alberto Sangiovanni Vincentelli Instructor) should be taken by interested students. The course grading will be based on a project. The students who will sign up for this project can use it to fulfill the course requirement.
+Projects 2 & 3
+Title  – Pixel learning with deep-RL for mixed automomy traffic (advisor Prof. Alex Bayen)
+Description  – The goal of this project is to extend the capabilities of FLOW ( https://flow-project.github.io/ ), an open source architecture integrating deep-RL with microsimulation tools for traffic on AWS EC2. FLOW’s current capabilities include the ability to perform distributed multi-agent control on self driving vehicles in manned traffic, based on the microsimulation software SUMO. Over the AY ’19-’20, we will expand the capabilities of the framework to include pixel learning, so deep-RL can be used to learn traffic control directly from images of traffic (as opposed to simulations of traffic flow). The ultimate goal is to integrate the architecture with video data collected from dash-cams. Pre-requisite for enrolling in this project is some experience with deep RL (or deep learning as a minimum), some desire to program and interest in self driving vehicles.
+***
+Title  – Evaluating the Impacts of Selfish Routing on Congestion in Urban Networks (advisor Prof. Alex Bayen)
+Description  – The rise of congestion across the United States and the increasing adoption of mobile routing services have enabled drivers with the ability to find the fastest routes available in urban road networks. Arterial roads and side streets originally designed for local traffic are impacted by the influx of selfishly routed drivers, garnering much recent media attention and civic debate. This project will use flow-based game theoretic models as a framework for simulating the behavior of routed and non-routed drivers on a road network. Students will use state-of-the-art traffic modeling tools to identify structural and spatiotemporal factors of transportation networks that lead to the adverse impacts of selfish routing. In addition, students will continue development of an interactive dashboard that displays the results of their experiments. The dashboard is envisioned as a tool to demonstrate the impacts of routing apps under varying scenarios so that policymakers and practitioners can hone in on areas most impacted by selfish routing and assess potential actions to mitigate the effects of cut-through traffic at the local and regional scales.
+Project 4
+Title  – Vision Correcting Displays (advisor Prof. Brian A. Barsky)
+Description  – Vision problems such as near-sightedness, far-sightedness, as well as others, are due to optical aberrations in the human eye. These conditions are prevalent, and the number of people who have these hardships is growing rapidly. Correcting optical aberrations in the human eye is traditionally done optically using eyeglasses, contact lenses, or refractive surgeries; these are sometime not convenient or not always available to everyone. Furthermore, higher order aberrations are not correctable with eyeglasses. This research is investigating a novel approach which involves a new computation based aberration-correcting light field display: by incorporating the person’s own optical aberrations into the computation, content shown on the display is modified such that the viewer will be able to see the display in sharp focus without using corrective eyewear.
+Our research involves the analysis of image formation models; through the retinal light field projection, it is possible to compensate for the optical blurring on the target image by a process of prefiltering with the inverse blur. As part of this project, we are building a light field display prototype that supports our desired inverse light field prefiltering. We are working towards extending the capability to correct for higher order aberrations. This latter aspect is particularly exciting since it would enable people for whom it is not possible to see displays in sharp focus using eyeglasses to be able to do so using no corrective eyewear. This is a broad project that incorporates many different aspects. A variety of different backgrounds for students is welcome. Students are free to choose what is the most interesting part for them.
+Project 5
+Title  -Systematic Quantization of Neural Networks (advisors Profs. Kurt Keutzer)
+Description  – Model size and inference speed/power have become a major challenge in the deployment of Neural Networks for many applications. A promising approach to address this problem is quantization. This project will explore a new systematic quantization method using second-order methods. The project will include exploring quantization for challenging tasks such as object detection, segmentation, face recognition, and style transfer.
+Technical Courses
+At least THREE of your four technical courses should be chosen from the list below. The remaining technical courses should be chosen from your own or another MEng area of concentration within the EECS Department.
+Fall 2019 (Updated: 7/10/19)
+EECS 206A,  Introduction to Robotics
+EE 213A, Power Electronics
+EE C220A, Advanced Control Systems
+EE C220B, Experiential Advanced Control Design
+EE 221A, Linear System Theory
+EE C249A, Introduction to Embedded Systems
+CS 289A, Introduction to Machine Learning
+Spring 2020 (Updated: 10/7/2019)
+CS 280, Computer Vision
+CS 289A, Introduction to Machine Learning
+CS 287H, Algorithmic Human-Robot Interaction
+EECS 206B, Robotic Manipulation and Interaction
+EE C220C, Experiential Advanced Control Design
+EE C222, Nonlinear Systems – Analysis, Stability, and Control
+EE 223, Stochastic Systems: Estimation and Control
+EECS 227AT, Optimization Models in Engineering
+EE C227C, Convex Optimization and Approximiation
+EE C249B, Design of Embedded Systems: Models, Validation, Synthesis
+Note: The courses listed here are not guaranteed to be offered, and the course schedule may change without notice. Refer to the  UC Berkeley Course Schedule  for further enrollment information.
+< Current: Physical Electronics and Integrated Circuits
+Current: Signal Processing and Communications >
+View
+Open Faculty Positions

@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-236.html
+On the Power of Lasserre SDP Hierarchy | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Power of Lasserre SDP Hierarchy
+On the Power of Lasserre SDP Hierarchy
+Ning Tan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-236
+December 15, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-236.pdf
+Constraint Satisfaction Problems (CSPs) are a class of fundamental combinatorial optimization problems that have been extensively studied in the field of approximation algorithms and hardness of approximation. In a ground breaking result, Raghavendra showed that assuming Unique Games Conjecture, the best polynomial time approximation algorithm for all Max CSPs are given by a family of basic standard SDP relaxations. With Unique Games Conjecture remains as one of the most important open question in the field of Theoretical Computer Science, it is natural to ask whether hypothetically stronger SDP relaxations would be able to achieve better approximation ratio for Max CSPs and their variants.
+In this work, we study the power of Lasserre/Sum-of-Squares SDP Hierarchy. First part of this work focuses on using Lasserre/Sum-of-Squares SDP Hierarchy to achieve better approximation ratio for certain CSPs with global cardinality constraints. We present a general framework to obtain Sum-of-Squares SDP relaxation, round SDP solution and analyze the rounding algorithm for CSPs with global cardinality constraints. To demonstrate the approach, we show that one could use Sum-of-Squares SDP to achieve a 0.85-approximation algorithm for Max Bisection problem, improving on the previously best known 0.70 ratio.
+In the second part of this work, we study the computational power of general symmetric relaxations. Specifically, we show that Lasserre/Sum-of-Squares SDP solution achieves the best possible approximation ratio for all Max CSPs among all symmetric SDP relaxations of similar size. This result gives the first lower bounds for symmetric SDP relaxations of Max CSPs, and indicates that the Sum-of-Squares SDP is indeed the "right" SDP relaxation for this class of problems.
+Advisor:  Prasad Raghavendra
+BibTeX citation:
+@phdthesis{Tan:EECS-2015-236,
+Author = {Tan, Ning},
+Title = {On the Power of Lasserre SDP Hierarchy},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-236.html},
+Number = {UCB/EECS-2015-236},
+Abstract = {
+Constraint Satisfaction Problems (CSPs) are a class of fundamental combinatorial optimization problems that have been extensively studied in the field of approximation algorithms and hardness of approximation. In a ground breaking result, Raghavendra showed that assuming Unique Games Conjecture, the best polynomial time approximation algorithm for all Max CSPs are given by a family of basic standard SDP relaxations. With Unique Games Conjecture remains as one of the most important open question in the field of Theoretical Computer Science, it is natural to ask whether hypothetically stronger SDP relaxations would be able to achieve better approximation ratio for Max CSPs and their variants.
+In this work, we study the power of Lasserre/Sum-of-Squares SDP Hierarchy. First part of this work focuses on using Lasserre/Sum-of-Squares SDP Hierarchy to achieve better approximation ratio for certain CSPs with global cardinality constraints. We present a general framework to obtain Sum-of-Squares SDP relaxation, round SDP solution and analyze the rounding algorithm for CSPs with global cardinality constraints. To demonstrate the approach, we show that one could use Sum-of-Squares SDP to achieve a 0.85-approximation algorithm for Max Bisection problem, improving on the previously best known 0.70 ratio.
+In the second part of this work, we study the computational power of general symmetric relaxations. Specifically, we show that Lasserre/Sum-of-Squares SDP solution achieves the best possible approximation ratio for all Max CSPs among all symmetric SDP relaxations of similar size. This result gives the first lower bounds for symmetric SDP relaxations of Max CSPs, and
+indicates that the Sum-of-Squares SDP is indeed the "right" SDP relaxation for this class of problems.}
+}
+EndNote citation:
+%0 Thesis
+%A Tan, Ning
+%T On the Power of Lasserre SDP Hierarchy
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 15
+%@ UCB/EECS-2015-236
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-236.html
+%F Tan:EECS-2015-236

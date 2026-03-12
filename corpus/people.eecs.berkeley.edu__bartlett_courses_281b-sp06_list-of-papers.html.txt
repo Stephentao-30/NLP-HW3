@@ -1,0 +1,100 @@
+URL: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp06/list-of-papers.html
+CS 281B / Stat 241B Spring 2006 Presentation Topics
+CS 281B / Stat 241B, Spring 2006:
+Statistical Learning Theory
+Presentation Topics
+Please sign up for a date and topic by emailing Ambuj.
+Presentations will be in groups of 2, and for a total of 25 minutes.
+[*] indicates we do not need any more volunteers to present the paper.
+Pattern Classification
+Tuesday, February 14.
+[*]
+`A classification framework for anomaly detection.'
+Steinwart, D. Hush, and C. Scovel.
+Thursday, February 16.
+[*]
+`A Polynomial-time Algorithm for Learning Noisy Linear Threshold
+Functions'
+A. Blum, A. Frieze, R. Kannan and S. Vempala.
+Kernel Methods, Support Vector Machines
+Tuesday, February 21.
+[*]
+`A tutorial on support vector regression.'
+A. Smola and B. Schoelkopf.
+(Sections 1.2-1.4, 3.2-3.4, 6.4)
+[*]
+`Nonlinear component analysis as a kernel eigenvalue problem.'
+B. Schoelkopf, A. Smola, K.-R. Mueller.
+Tuesday, February 28.
+`Kernel Methods for Pattern Analysis,'
+Chapter 12.1: Kernels from generative models.'
+J. Shawe-Taylor and N. Christianini.
+Thursday, March 2.
+[*]
+`Prediction with Gaussian Processes: From Linear Regression to Linear
+Prediction and Beyond.'
+C. K. I. Williams.
+Ensemble Methods
+Tuesday, March 7.
+[*]
+`Improved boosting algorithms using confidence-rated predictions'
+(Sections 1-5).
+R. E. Schapire and Y. Singer.
+Thursday, March 9.
+[*]
+`Statistical behavior and consistency of classification
+methods based on convex risk minimization.'
+(Sections 1 and 2, especially Theorem 2.2.)
+Tong Zhang.
+Tuesday, March 14.
+[*]
+` Boosting with early stopping: Convergence and Consistency.'
+(Up to Section 4.1, especially Theorem 3.2.)
+T. Zhang and B. Yu.
+Universal prediction
+Tuesday, March 21.
+[*]
+`How to use expert advice.'
+N. Cesa-Bianchi, Y. Freund, D.P. Helmbold, D. Haussler, R. Schapire,
+and M.K. Warmuth.
+Thursday, March 23.
+`On the generalization ability of on-line learning algorithms.'
+N. Cesa-Bianchi, A. Conconi, and C. Gentile.
+Tuesday, April 4.
+[*]
+` Worst-Case Bounds for Gaussian Process Models'
+S. M. Kakade, M. W. Seeger, and D. P. Foster.
+Thursday, April 6.
+[*]
+`On prediction of individual sequences'
+N. Cesa-Bianchi and G. Lugosi
+Risk Bounds
+Tuesday, April 11.
+`Process consistency for AdaBoost.'
+W. Jiang.
+Thursday, April 13.
+[*]
+`Predicting {0, 1}-Functions on Randomly Drawn Points'
+D. Haussler, N. Littlestone and M. K. Warmuth.
+Tuesday, April 18.
+[*]
+`PAC generalization bounds for co-training.'
+S. Dasgupta, M.L. Littman, and D. McAllester.
+Thursday, April 20.
+[*]
+`The sample complexity of learning fixed-structure
+Bayesian nets.'
+S. Dasgupta.
+Thursday, April 25.
+[*]
+`On the rate of convergence of regularized boosting methods.'
+G. Blanchard, G. Lugosi and N. Vayatis.
+Thursday, April 27.
+`Fast Rates for Support Vector Machines using Gaussian Kernels.'
+I. Steinwart and C. Scovel.
+Tuesday, May 2.
+[*]
+`Consistency and convergence rates of one-class SVM and related
+algorithms.'  (See Section 3.)
+R. Vert and J.-P. Vert.
+Back to course home page

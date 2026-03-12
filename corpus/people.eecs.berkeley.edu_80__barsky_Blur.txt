@@ -1,0 +1,52 @@
+URL: http://people.eecs.berkeley.edu:80/~barsky/Blur
+The Berkeley Blur Project || UC Berkeley Computer Science
+The Berkeley BLUR Project
+University of California, Berkeley
+Computer Science Division
+Berkeley, CA 94720-1776
+USA
+- Goals -
+This project aims to discover methods for high quality real time image
+filters. Our filters are primarily intended for depth of field
+postprocessing. Our goal is to increase the realism of depth of field
+postprocess methods until they approach the quality of ray tracing
+based approaches.
+Specific goals include distinct kernel size per pixel (true spatially
+varying blur), high quality kernels, and freedom from artifacts, even
+at troublesome depth discontinuities.
+- Movie -
+Click here for real-time depth of field movie
+- Publications -
+Click here for list of papers
+Depth of Field Postprocessing for Layered Scenes
+Using Constant-Time Rectangle Spreading
+Graphics Interface 2009
+Todd Kosloff
+Michael Tao
+Brian A. Barsky
+koslofto[at]cs.berkeley.edu
+mtao[at]berkeley.edu
+barsky[at]cs.berkeley.edu
+Abstract:
+The range of depth in a 3D scene that is imaged in sufficient focus through an optics system, such as a camera lens, is called depth of field. Current techniques for rendering depth of field in computer graphics are either slow or suffer from artifacts, or restrict the choice of point spread function (PSF). In this paper, we present a new image filter based on rectangle spreading which is constant time per pixel.  When used in a layered depth of field framework, our filter eliminates the intensity leakage and depth discontinuity artifacts that occur in previous methods. 	We also present several extensions to our rectangle spreading method to allow flexibility in the appearance of the blur through control over the PSF.
+download PDF file of Graphics Interface 2009 Rectangle Spreading paper
+Algorithms for Rendering Depth of Field Effects in Computer Graphics
+Proceedings of the 12th WSEAS international conference on Computers 2008
+Brian A. Barsky
+Todd Kosloff
+barsky[at]cs.berkeley.edu
+koslofto[at]cs.berkeley.edu
+Abstract:
+Computer generated images by default render the entire scene in perfect focus. Both camera optics and the human visual system have limited depth of field, due to the finite aperture or pupil of the optical system. For more realistic computer graphics as well as to enable artistic control over what is and what is not in focus, it is desirable to add depth of field blurring. Starting with the work of Potmesil and Chakravarty[33][34], there have been numerous approaches to adding depth of field effects to computer graphics. Published work in depth of field for computer graphics has been previously surveyed by Barsky [2][3]. Later, interactive depth of field techniques were surveyed by Demers [12]. Subsequent to these surveys, however, there have been important developments. This paper surveys depth of field approaches in computer graphics, from its introduction to the current state of the art.
+download PDF file of WSEAS 2008 paper
+An Algorithm for Rendering Generalized Depth of Field Effects Based on Simulated Heat Diffusion
+Computational Science and Its Applications – ICCSA 2007
+Todd Kosloff
+Brian A. Barsky
+koslofto[at]cs.berkeley.edu
+barsky[at]cs.berkeley.edu
+Abstract:
+Depth of field refers to the swath through a 3D scene that is imaged in acceptable focus through an optics system, such as a camera lens. Control over depth of field is an important artistic tool that can be used to emphasize the subject of a photograph. In a real camera, the control over depth of field is limited by the nature of the image formation process and by physical constraints. The depth of field effect has been simulated in computer graphics, but with the same limited control as found in real camera lenses. In this paper, we use diffusion in a non-homogeneous medium to generalize depth of field in computer graphics by enabling the user to independently specify the degree of blur at each point in three-dimensional space. Generalized depth of field provides a novel tool to emphasize an area of interest within a 3D scene, to pick objects out of a crowd, and to render a busy, complex picture more understandable by focusing only on relevant details that may be scattered throughout the scene. Our algorithm operates by blurring a sequence of nonplanar layers that form the scene. Choosing a suitable blur algorithm for the layers is critical; thus, we develop appropriate blur semantics such that the blur algorithm will properly generalize depth of field. We found that diffusion in a non-homogeneous medium is the process that best suits these semantics.
+download PDF file of Generalized Depth of Field Tech. Report EECS-2007-19
+download PDF file of ICCSA 2007 Generalized Depth of Field paper
+Copyright ©2009-2010 U.C. Berkeley

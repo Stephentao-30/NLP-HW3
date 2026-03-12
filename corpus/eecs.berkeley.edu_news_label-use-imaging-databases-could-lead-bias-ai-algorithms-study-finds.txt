@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/label-use-imaging-databases-could-lead-bias-ai-algorithms-study-finds
+‘Off label’ use of imaging databases could lead to bias in AI algorithms, study finds - EECS at Berkeley
+A paper with lead author EECS postdoc Efrat Shimron and co-authors EECS graduate student Ke Wang, UT Austin professor Jonathan Tamir (EECS PhD ’18), and EECS Prof. Michael Lustig shows that algorithms trained using “off-label” or misapplied massive, open-source datasets are subject to integrity-compromising biases.  The study, which was published in the Proceedings of the National Academy of Sciences (PNAS), highlight some of the problems that can arise when data published for one task are used to train algorithms for a different one.  For example, medical imaging studies which use preprocessed images may result in skewed findings that cannot be replicated by others working with the raw data.  The researchers coined the term “implicit data crimes” to describe research results that are biased because algorithms are developed using faulty methodology. “It’s an easy mistake to make because data processing pipelines are applied by the data curators before the data is stored online, and these pipelines are not always described. So, it’s not always clear which images are processed, and which are raw,” said Shimron. “That leads to a problematic mix-and-match approach when developing AI algorithms.”
+Categories
+Alumni
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

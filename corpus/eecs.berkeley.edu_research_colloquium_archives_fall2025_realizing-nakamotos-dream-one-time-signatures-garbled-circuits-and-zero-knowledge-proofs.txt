@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/realizing-nakamotos-dream-one-time-signatures-garbled-circuits-and-zero-knowledge-proofs
+Realizing Nakamoto's Dream: One-Time Signatures, Garbled Circuits and Zero-Knowledge Proofs - EECS at Berkeley
+Realizing Nakamoto’s Dream: One-Time Signatures, Garbled Circuits and Zero-Knowledge Proofs
+David Tse gives his talk, “Realizing Nakamoto’s Dream: One-Time Signatures, Garbled Circuits and Zero-Knowledge Proofs” on Sept. 17, 2025.
+EECS Colloquium
+Wednesday, September 17, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+David Tse
+Thomas Kailath and Guanghan Xu Professor of Engineering in Electrical Engineering at Stanford University and Co-Founder of Babylon Protocol
+Bio
+David Tse  is the Thomas Kailath and Guanghan Xu Professor at Stanford University. Prior to joining Stanford, he was on the faculty of the University of California at Berkeley. He was elected member of the U.S. National Academy of Engineering in 2018, and was the recipient of the IEEE Claude E. Shannon Award in 2017 and the IEEE Richard W. Hamming Medal in 2019. He is a coauthor, with Pramod Viswanath, of the text Fundamentals of Wireless Communication, which has been used in many institutions around the world. His invention of proportional fair scheduling is used in all wireless cellular networks. His current research interests are in blockchains and consensus protocols.
+Abstract
+In 2008, Satoshi Nakamoto created Bitcoin, a peer-to-peer payment system that enables users to transact trustlessly without third-party intermediaries. Since then, Bitcoin has become primarily a store-of-value asset, growing to a market cap of over 2 Trillion dollars. Meanwhile, most new financial applications such as decentralized lending, staking and stablecoins have arisen on smart-contract blockchains like Ethereum. Historically, the Bitcoin asset cannot participate in this smart-contract economy trustlessly. A key challenge is that Bitcoin’s limited scripting language cannot directly verify or act on the state of contracts running elsewhere.
+I will show how cryptographic tools such as one-time signatures, garbled circuits, and succinct zero-knowledge proofs can overcome this barrier by compressing external state verification into a minimal check that Bitcoin can perform. As a concrete case study, I will discuss  Bitcoin staking , a live protocol with several billion dollars worth in BTC  securing proof-of-stake networks without leaving its own chain. This points toward a future where Bitcoin is not only digital gold, but also an active foundation for the broader smart-contract economy.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

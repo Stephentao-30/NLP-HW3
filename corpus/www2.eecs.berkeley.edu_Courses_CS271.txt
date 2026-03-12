@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS271
+CS 271. Randomness and Computation
+Catalog Description:  Computational applications of randomness and computational theories of randomness. Approximate counting and uniform generation of combinatorial objects, rapid convergence of random walks on expander graphs, explicit construction of expander graphs, randomized reductions, Kolmogorov complexity, pseudo-random number generation, semi-random sources.
+Units:  3
+Related Areas:
+Security (SEC)   Theory (THY)
+Prerequisites:  COMPSCI 170 and at least one course from the following: COMPSCI 270 - COMPSCI 279.
+Formats:  Fall: 3.0 hours of lecture per week
+Spring: 3.0 hours of lecture per week
+Grading Basis:  letter
+Final Exam Status:  No final exam
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

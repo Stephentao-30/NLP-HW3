@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-89.html
+Linear, Low Noise Microwave Photonic Systems using Phase and Frequency Modulation
+John Wyrwas
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-89
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-89.pdf
+Photonic systems that transmit and process microwave-frequency analog signals have traditionally been encumbered by relatively large signal distortion and noise. Optical phase modulation (PM) and frequency modulation (FM) are promising techniques that can improve system performance. In this dissertation, I discuss an optical filtering approach to demodulation of PM and FM signals, which does not rely on high frequency electronics, and which scales in linearity with increasing photonic integration. I present an analytical model, filter designs and simulations, and experimental results using planar lightwave circuit (PLC) filters and FM distributed Bragg reflector (DBR) lasers. The linearity of the PM and FM photonic links exceed that of the current state-of-the-art.
+Advisors:  Ming C. Wu
+BibTeX citation:
+@phdthesis{Wyrwas:EECS-2012-89,
+Author= {Wyrwas, John},
+Title= {Linear, Low Noise Microwave Photonic Systems using Phase and Frequency Modulation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-89.html},
+Number= {UCB/EECS-2012-89},
+Abstract= {Photonic systems that transmit and process microwave-frequency analog signals have traditionally been encumbered by relatively large signal distortion and noise. Optical phase modulation (PM) and frequency modulation (FM) are promising techniques that can improve system performance. In this dissertation, I discuss an optical filtering approach to demodulation of PM and FM signals, which does not rely on high frequency electronics, and which scales in linearity with increasing photonic integration. I present an analytical model, filter designs and simulations, and experimental results using planar lightwave circuit (PLC) filters and FM distributed Bragg reflector (DBR) lasers. The linearity of the PM and FM photonic links exceed that of the current state-of-the-art.},
+}
+EndNote citation:
+%0 Thesis
+%A Wyrwas, John
+%T Linear, Low Noise Microwave Photonic Systems using Phase and Frequency Modulation
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-89
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-89.html
+%F Wyrwas:EECS-2012-89

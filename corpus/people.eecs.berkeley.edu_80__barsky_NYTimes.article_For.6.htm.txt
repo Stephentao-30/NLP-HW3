@@ -1,0 +1,204 @@
+URL: http://people.eecs.berkeley.edu:80/~barsky/NYTimes.article/For.6.htm
+For an Irregular Lens, an Optical Blueprint
+September 12, 2002
+International
+National
+Politics
+Business
+Technology
+-
+Circuits
+-
+Columns
+Science
+Health
+Sports
+New York
+Region
+Nation
+Challenged
+Education
+Weather
+Obituaries
+NYT
+Front Page
+Corrections
+Editorials/Op-Ed
+Readers'
+Opinions
+Arts
+Books
+Movies
+Travel
+Dining &
+Wine
+Home
+& Garden
+Fashion &
+Style
+New
+York Today
+Crossword/Games
+Cartoons
+Magazine
+Week in
+Review
+Multimedia/Photos
+College
+Learning
+Network
+Archive
+Classifieds
+Personals
+Theater
+Tickets
+Premium
+Products
+NYT
+Store
+NYT
+Mobile
+E-Cards
+& More
+About
+NYTDigital
+Jobs at
+NYTDigital
+Online Media
+Kit
+Our
+Advertisers
+Your
+Profile
+E-Mail
+Preferences
+News
+Tracker
+Premium
+Account
+Site
+Help
+Privacy
+Policy
+Home
+Delivery
+Customer
+Service
+Electronic
+Edition
+Media
+Kit
+Community
+Affairs
+Text
+Version
+Discover
+New Topics in Depth FREE
+Streaming News from Dow Jones Newswires
+For an Irregular Lens, an Optical
+Blueprint By MARC
+WEINGARTEN
+S a computer graphics
+specialist, Brian A. Barsky has conjured up intricately
+rendered worlds on a PC screen. But in the real world, he has
+trouble seeing in the dark, and occasionally in broad
+daylight. For the last 27 years, Dr. Barsky, a professor of
+computer science and an affiliate professor of optometry at
+the University of California at Berkeley, has suffered from
+keratoconus, an abnormal thinning of the cornea that can wreak
+havoc with depth perception and night vision.
+Advertisement
+For years, Dr. Barsky sought a remedy for his vision
+problems. Then, while on sabbatical in 1992, he realized that
+a solution for keratoconus patients might be found in the
+complex algorithms of computer graphics.
+An early teacher of computer graphics imaging technology
+whose students have gone on to work for Pixar Animation
+Studios and for Lucas Digital's Industrial Light and Magic,
+Dr. Barsky has devoted much of his professional life to the
+study of splines, the algorithms that are used to render
+curved surfaces on computer screens. Spline mathematics
+subdivides complex computerized shapes into smaller component
+pieces, with each piece defined by its own equation. Dr.
+Barsky figured out how to use splines to create a highly
+detailed digital template of the human cornea. Using this
+optometric blueprint, he created custom-designed contact
+lenses.
+Conventional contact lenses have simple shapes and are
+usually symmetrical: they cannot account for irregularities in
+the cornea's shape. Dr. Barsky's custom-made contact lens fits
+precisely over an abnormally shaped cornea.
+By using a common eye measurement instrument called a
+corneal topography device with the same spline equations that
+are used to create cinematic special effects, doctors could
+one day measure the cornea's surface down to the tiniest
+micron. Maps based on the measurements could be used to create
+customized contact lenses for people suffering from
+keratoconus, eliminating the need for invasive surgery.
+"Normally with corneal topography, if I move my eye, the
+measurements will change, which is incorrect, since my eye did
+not really change shape," said Dr. Barsky, who is talking with
+contact lens companies that are interested in his invention.
+"If we take that same input and run it though our more
+sophisticated mathematical approach, we'll get a more accurate
+profile of the cornea. The measurements remain the same even
+for different gaze directions."
+Lens makers are optimistic. "Dr. Barsky is at the center of
+a turning point in our industry," said William E. Meyers, vice
+president for science and technology at Paragon Vision
+Sciences, a contact lens company in Mesa, Ariz. "For years, we
+have speculated about how to design contact lenses to manage
+the wide array of clinically observed corneal distortions. Not
+only does Dr. Barsky deliver the math, but he pursues the goal
+with the passion of a man whose own vision is challenged by
+just such an ocular complication."
+Dr. Barsky's spline-based model could also improve the
+accuracy of Lasik surgery, in which part of the cornea is cut
+and peeled back and the underlying tissue is reshaped by a
+laser. People whose eyes are unsuitable for Intacs, tiny
+crescent-shaped inserts that are implanted in the cornea to
+flatten the curvature and correct nearsightedness, could also
+benefit, as could those with eye ailments like
+astigmatism.
+Dr. Brian Boxer Wachler, director of the Laser Refractive
+Center at the Jules Stein Eye Institute at the University of
+California at Los Angeles, said the spline-based design could
+be useful to people who must wear contact lenses but cautioned
+that such specialized lenses could be too expensive to
+manufacture. "That could be the edge on the double-edged
+sword," Dr. Boxer Wachler said. "If you have to make a special
+lens for each eye, it's a lot more expensive, versus using a
+standard lathe that produces uniform lenses."
+But Dr. Barsky is convinced that the market is large enough
+� nearly one million Americans suffer from corneal
+abnormalities � to support a custom-made lens industry. "Most
+people buy contact lenses for cosmetic or convenience
+purposes," he said. "This is important for those who need
+lenses that are medically necessary as the only hope to
+provide good vision and avoid a corneal
+transplant."
+Click Here
+to Receive 50% Off Home
+Delivery of The New York Times Newspaper.
+Home  |  Back
+to Technology  |  Search  |  Corrections
+|  Help
+|  Back
+to Top
+Copyright
+2002 The New York Times Company  |  Permissions  |  Privacy
+Policy
+Peter DaSilva for The New York Times CUSTOMIZED -
+Brian A. Barsky, professor of computer science, with a device
+that maps his deteriorated cornea.
+Track news that interests you. Create
+Your Own  |  Manage
+Alerts Take
+a Tour
+Sign Up for Newsletters
+You can now
+track properties that interest you, with our Real Estate
+Tracker.  Click
+here  to sign up for the e-mail and
+start receiving information on the latest properties on
+the market.

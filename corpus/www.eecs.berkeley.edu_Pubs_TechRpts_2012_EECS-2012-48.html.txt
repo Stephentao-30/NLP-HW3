@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-48.html
+Fully Integrated Complementary Metal Oxide Semiconductor (CMOS) Bio-Assay Platform
+Octavian Florescu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-48
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-48.pdf
+Advisors:  Bernhard Boser
+BibTeX citation:
+@phdthesis{Florescu:EECS-2012-48,
+Author= {Florescu, Octavian},
+Title= {Fully Integrated Complementary Metal Oxide Semiconductor (CMOS) Bio-Assay Platform},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-48.html},
+Number= {UCB/EECS-2012-48},
+}
+EndNote citation:
+%0 Thesis
+%A Florescu, Octavian
+%T Fully Integrated Complementary Metal Oxide Semiconductor (CMOS) Bio-Assay Platform
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-48.html
+%F Florescu:EECS-2012-48

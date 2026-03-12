@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-197.html
+A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy of s-step Krylov Subspace Methods
+Erin Carson and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-197
+September 19,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-197.pdf
+Recent results have demonstrated the performance benefits of communication-avoiding Krylov subspace methods, variants which use blocking strategies to perform $O(s)$ computation steps of the algorithm for each communication step. This allows an $O(s)$ reduction in total communication cost, which can lead to significant speedups on modern computer architectures. Despite potential performance benefits, stability of these variants has been an obstacle to their use in practice.
+Following equivalent analyses for the classical Krylov methods, we bound the deviation of the true and computed residual in finite precision communication-avoiding Krylov methods, which leads to an implicit residual replacement strategy. We are the first, to our knowledge, to perform this analysis for $s$-step variants. We show that our strategy can be implemented without affecting the asymptotic communication or computation cost of the algorithm, for both the sequential and parallel case. Numerical experiments demonstrate the effectiveness of our residual replacement strategy for communication-avoiding variants of both the conjugate gradient and biconjugate gradient methods. Specifically, it is shown that for cases where the computed residual converges, accuracy of order $O(\epsilon)\left\Vert A\right\Vert \left\Vert x\right\Vert $ can be achieved with a small number of residual replacement steps, demonstrating the potential for practical use of communication-avoiding Krylov subspace methods.
+BibTeX citation:
+@techreport{Carson:EECS-2012-197,
+Author= {Carson, Erin and Demmel, James},
+Title= {A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy of s-step Krylov Subspace Methods},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-197.html},
+Number= {UCB/EECS-2012-197},
+Abstract= {Recent results have demonstrated the performance benefits of communication-avoiding Krylov subspace methods, variants which use blocking strategies to perform $O(s)$ computation steps of the algorithm for each communication step. This allows an $O(s)$ reduction in total communication cost, which can lead to significant speedups on modern computer architectures. Despite potential performance benefits, stability of these variants has been an obstacle to their use in practice.
+Following equivalent analyses for the classical Krylov methods, we bound the deviation of the true and computed residual in finite precision communication-avoiding Krylov methods, which leads to an implicit residual replacement strategy. We are the first, to our knowledge, to perform this analysis for $s$-step variants. We show that our strategy can be implemented without affecting the asymptotic communication or computation cost of the algorithm, for both the sequential and parallel case. Numerical experiments demonstrate the effectiveness of our residual replacement strategy for communication-avoiding variants of both the conjugate gradient and biconjugate gradient methods. Specifically, it is shown that for cases where the computed residual converges, accuracy of order $O(\epsilon)\left\Vert A\right\Vert \left\Vert x\right\Vert $ can be achieved with a small number of residual replacement steps, demonstrating the potential for practical use of communication-avoiding Krylov subspace methods.},
+}
+EndNote citation:
+%0 Report
+%A Carson, Erin
+%A Demmel, James
+%T A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy of s-step Krylov Subspace Methods
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 19
+%@ UCB/EECS-2012-197
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-197.html
+%F Carson:EECS-2012-197

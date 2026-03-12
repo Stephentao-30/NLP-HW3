@@ -1,0 +1,73 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/ENE
+Power and Energy (ENE)
+Overview
+Energy research in the EECS department at Berkeley spans the entire spectrum from microscopic to macroscopic aspects of energy and power generation, distribution, and management. Collaborations with faculty in related departments, such as Physics, Bioengineering, Mechanical Engineering, and the Energy Resources Group are active. Research is active in the creation of new devices for harvesting energy, in on-device energy management, in system wide algorithmics for energy management, and in large scale policy issues.
+Topics
+New devices and energy sources:
+Solar Thermal Electric Generation. Vibrational energy harvesters. Bio energy generation. Biofuels. Fusion energy simulations. Ultra low power delivery systems. Power electronics. Electrical machines.
+On-device energy related issues:
+On-chip power supply noise characterization and integrated power management for VLSI circuits. Power management for mobile electronics and related devices. Intermittent energy storage. Organic semiconductor photovoltaics. Nonconventional actuation.
+Sensor networks:
+Distributed power management in sensor networks. Ambient powered sensor networks. Energy management for microrobotics.
+System-wide issues:
+Advanced power metering.Stability of the power grid.Preventing catastrophic failures.Power grid security.Large scale power network energy management.Demand response.
+Policy issues:
+Energy infrastructure in developing countries for bridging the digital divide.Energy issues in scaling device technology to low cost devices.Demand response.
+Research Centers
+Berkeley Education Alliance for Research in Singapore
+Berkeley Power and Energy Center
+Berkeley Sensor & Actuator Center
+California Institute for Energy and Environment
+CITRIS Sustainable Infrastructure
+Electronic Materials Program at LBNL
+Video and Image Processing Lab
+Faculty
+Primary
+Jessica Boles
+Duncan Callaway
+David E. Culler
+Prabal Dutta
+Jiantao Jiao
+Robert Pilawa-Podgurski  (coordinator)
+Seth R. Sanders
+Somayeh Sojoudi
+Alexandra von Meier
+Secondary
+Murat Arcak
+Ana Claudia Arias
+Eric Brewer
+Ali Javey
+Boubacar Kanté
+Asir Intisar Khan
+Michael A. Lieberman
+Michael Lustig
+Eric Y. Ma
+Pierluigi Nuzzo
+Kristofer Pister
+Jan M. Rabaey
+Sayeef Salahuddin
+Costas J. Spanos
+Grigory Tikhomirov
+Avideh Zakhor
+Faculty Awards
+ACM Prize in Computing:
+Eric Brewer, 2009.
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Engineering (NAE) Member:
+Eric Brewer, 2007.
+David E. Culler, 2005.
+American Academy of Arts and Sciences Member:
+Eric Brewer, 2018.
+Berkeley Citation:
+David E. Culler, 2021.
+UC Berkeley Distinguished Teaching Award:
+Michael A. Lieberman, 1971.
+Sloan Research Fellow:
+Prabal Dutta, 2017.
+Michael Lustig, 2013.
+Ali Javey, 2010.
+Eric Brewer, 1997.
+Related Courses
+EE 290B. Advanced Topics in Electrical Engineering: Advanced Topics in Solid State Devices
+EE 290Q. Advanced Topics in Electrical Engineering: Advanced Topics in Communication Networks

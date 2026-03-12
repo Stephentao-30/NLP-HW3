@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-196.html
+Computational Tool for Cyber-Physical Systems
+Humberto Gonzalez
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-196
+September 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-196.pdf
+Cyber–Physical systems, which is the class of dynamical systems where physical and computational components interact in a tight coordination, are found in many applications, from large–scale distributed systems, such as the electric power grid, to micro–robotic platforms based on legged locomotion, among many others. Due to their mixed nature between physical and computational components, Cyber–Physical systems are well modeled using hybrid dynamical models, which incorporate both continuous and discrete valued state variables. Also, thanks to the flexibility and great variety of optimal control formulations, it is natural to apply optimal control algorithms to solve complex problems in the context of Cyber–Physical systems, such as the verification of a given specification, or the robust identification of parameters under state constraints.
+This thesis presents three new computational tools that bring the strength of hybrid dynamical models and optimal control to applications in Cyber-Physical systems. The first tool is an algorithm that finds the optimal control of a switched hybrid dynamical system under state constraints, the second tool is an algorithm that approximates the trajectories of autonomous hybrid dynamical systems, and the third tool is an algorithm that computes the optimal control of a nonlinear dynamical system using pseudospectral approximations.
+These results achieve several goals. They extend widely used algorithms to new classes of dynamical systems. They also present novel mathematical techniques that can be applied to develop new, computationally efficient, tools in the context of hybrid dynamical systems. More importantly, they enable the use of control theory in new exciting applications, that because of their number of variables or complexity of their models, cannot be addressed using existing tools.
+Advisors:  S. Shankar Sastry
+BibTeX citation:
+@phdthesis{Gonzalez:EECS-2012-196,
+Author= {Gonzalez, Humberto},
+Title= {Computational Tool for Cyber-Physical Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-196.html},
+Number= {UCB/EECS-2012-196},
+Abstract= {Cyber–Physical systems, which is the class of dynamical systems where physical and computational components interact in a tight coordination, are found in many applications, from large–scale distributed systems, such as the electric power grid, to micro–robotic platforms based on legged locomotion, among many others. Due to their mixed nature between physical and computational components, Cyber–Physical systems are well modeled using hybrid dynamical models, which incorporate both continuous and discrete valued state variables. Also, thanks to the flexibility and great variety of optimal control formulations, it is natural to apply optimal control algorithms to solve complex problems in the context of Cyber–Physical systems, such as the verification of a given specification, or the robust identification of parameters under state constraints.
+This thesis presents three new computational tools that bring the strength of hybrid dynamical models and optimal control to applications in Cyber-Physical systems. The first tool is an algorithm that finds the optimal control of a switched hybrid dynamical system under state constraints, the second tool is an algorithm that approximates the trajectories of autonomous hybrid dynamical systems, and the third tool is an algorithm that computes the optimal control of a nonlinear dynamical system using pseudospectral approximations.
+These results achieve several goals. They extend widely used algorithms to new classes of dynamical systems. They also present novel mathematical techniques that can be applied to develop new, computationally efficient, tools in the context of hybrid dynamical systems. More importantly, they enable the use of control theory in new exciting applications, that because of their number of variables or complexity of their models, cannot be addressed using existing tools.},
+}
+EndNote citation:
+%0 Thesis
+%A Gonzalez, Humberto
+%T Computational Tool for Cyber-Physical Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 13
+%@ UCB/EECS-2012-196
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-196.html
+%F Gonzalez:EECS-2012-196

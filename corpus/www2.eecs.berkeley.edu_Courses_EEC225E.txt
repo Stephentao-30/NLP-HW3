@@ -1,0 +1,22 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EEC225E
+Course: EEC225E | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EEC225E
+EE C225E. Principles of Magnetic Resonance Imaging
+Catalog Description:  Fundamentals of MRI including signal-to-noise ratio, resolution, and contrast as dictated by physics, pulse sequences, and instrumentation. Image reconstruction via 2D FFT methods. Fast imaging reconstruction via convolution-back projection and gridding methods and FFTs. Hardware for modern MRI scanners including main field, gradient fields, RF coils, and shim supplies. Software for MRI including imaging methods such as 2D FT, RARE, SSFP, spiral and echo planar imaging methods.
+Units:  4.0
+Course Objectives:  Graduate level understanding of physics, hardware, and systems engineering description of image formation, and image reconstruction in MRI. Experience in Imaging with different MR Imaging systems. This course should enable students to begin graduate level research at Berkeley (Neuroscience labs, EECS and Bioengineering), LBNL or at UCSF (Radiology and Bioengineering) at an advanced level and make research-level contribution
+Prerequisites:  Either Electrical Engineering 120 or Bioengineering C165/Electrical Engineering C145B or consent of instructor.
+Credit Restrictions:  Students will receive no credit for Bioengineering C265/El Engineering C225E after taking El Engineering 265.
+Formats:  Fall: 3.0 hours of lecture, 1.0 hours of discussion, and 3.0 hours of laboratory per week
+Spring: 3.0 hours of lecture, 1.0 hours of discussion, and 3.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  No final exam
+Also listed as:  BIO ENG C265, EL ENG C225E
+Class homepage on inst.eecs
+General Catalog listing
+Related Areas:
+Signal Processing (SP)

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29215.html
+Observations on the Evolution of a Software System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Observations on the Evolution of a Software System
+Observations on the Evolution of a Software System
+Eric Allman and Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/59
+June 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-59.pdf
+BibTeX citation:
+@techreport{Allman:M82/59,
+Author = {Allman, Eric and Stonebraker, Michael},
+Title = {Observations on the Evolution of a Software System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29215.html},
+Number = {UCB/ERL M82/59}
+}
+EndNote citation:
+%0 Report
+%A Allman, Eric
+%A Stonebraker, Michael
+%T Observations on the Evolution of a Software System
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/59
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29215.html
+%F Allman:M82/59

@@ -1,0 +1,120 @@
+URL: http://people.eecs.berkeley.edu:80/~alig
+Homepage of Ali Ghodsi
+Ali Ghodsi
+UC Berkeley
+Computer Science Division, EECS
+465 Soda Hall #481-1
+Berkeley, CA 94720
+Teaching
+I contributed to (spring 2013)  Distributed Computing (CS294-91)
+I co-taught  Big Data System research: Trends and Challenges (CS294-15)  with Ion Stoica in the Fall of 2015.
+I co-taught  Advanced Topics in Computer Systems (CS262A)  with Ion Stoica in the Spring of 2018.
+Recent publications
+Accelerating the Machine Learning Lifecycle with MLflow ,  M. Zaharia, A. Chen, A. Davidson, A. Ghodsi, S.A. Hong, A. Konwinski, S. Murching, T. Nykodym, P. Ogilvie, M. Parkhe, F. Xie, and C. Zumar
+IEEE Data Engineering Bulletin , 41(4), December 2018.
+[ pdf ]
+Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark ,  M. Armbrust, T. Das, J. Torres, B. Yavuz, S. Zhu, R. Xin, A. Ghodsi, I. Stoica and M. Zaharia
+SIGMOD'18 , Houston, TX, USA, 2018.
+[ pdf ]
+Drizzle: Fast and Adaptable Stream Processing at Scale ,  S. Venkataraman, A. Panda, K. Ousterhout, M. Armbrust, A. Ghodsi, M. J. Franklin, B. Recht, I. Stoica
+SOSP'17 , Shanghai, China, October 2017.
+[ pdf ]
+Apache Spark: A Unified Engine for Big Data Processing ,  M. Zaharia, R. Xin, P. Wendell, T. Das, M. Armbrust, A. Dave, X. Meng, J. Rosen, S. Venkataraman, M. Franklin, A. Ghodsi, J. Gonzalez, S. Shenker, I. Stoica
+CACM , 59(11):56-65, Nocember 2016.
+[ pdf ]
+SparkR: Scaling R Programs with Spark ,  S. Venkataraman, Z. Yang, D. Liu, E. Liang, X. Meng, R. Xin, A. Ghodsi, M. Franklin, I. Stoica, M. Zaharia
+SIGMOD'16 , CA, USA, 2016.
+[ pdf ]
+HUG: Multi-Resource Fairness for Correlated and Elastic Demands ,  M. Chowdhury, Z. Liu, A. Ghodsi, I. Stoica
+NSDI'16 , CA, USA, 2016.
+[ pdf ]
+FairRide: Near-Optimal, Fair Cache Sharing ,  Q. Pu, H. Li, M. Zaharia, A. Ghodsi, I. Stoica
+NSDI'16 , CA, USA, 2016.
+[ pdf ]
+Spark SQL: Relational Data Processing in Spark ,  M. Armbrust, R. Xin, C. Lian, Y. Huai, D. Liu, J. Bradley, X. Meng, T. Kaftan, M. Franklin, A. Ghodsi, M. Zaharia
+SIGMOD'15 , Melbourne, Australia, 2015.
+[ pdf ]
+Scaling Spark in the Real World: Performance and Usability ,  M. Armbrust, T. Das, A. Davidson, A. Ghodsi, A. Or, J. Rosen, I. Stoica, P. Wendell, R. Xin, M. Zaharia
+VLDB'15 , Big Island, Hawaii, 2015.
+[ pdf ]
+Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity ,  P. Bailis, A. Fekete, M. J. Franklin, A. Ghodsi, J. M. Hellerstein, I. Stoica,
+SIGMOD'15 , Melbourne, Australia, 2015.
+[ pdf ]
+Tachyon: Reliable, Memory Speed Storage
+for Cluster Computing Frameworks , H. Li, A. Ghodsi, M. Zaharia, S. Shenker, I. Stoica ,
+ACM SOCC'14 , Washington, USA, 2014.
+[ pdf ]
+Strategyproof Allocation of Discrete Jobs on Multiple Machines ,  E. Friedman, A. Ghodsi, C-A. Psomas,
+ACM EC'14 , California, USA, 2014.
+[ pdf ]
+Coordination Avoidance in Database Systems ,  P. Bailis, A. Fekete, M. J. Franklin, A. Ghodsi, J. M. Hellerstein, I. Stocia,  VLDB 2015 , Hawaii, USA, 2015.
+Scalable Atomic Visibility with RAMP Transactions ,  P. Bailis, A. Fekete, A. Ghodsi, J. M. Hellerstein, I. Stocia,  SIGMOD'14 & ACM TODS , Snowbird, USA, 2014.
+[ pdf ]
+Highly Available Transactions: Virtues and Limitations ,  P. Bailis, A. Davidson, A. Fekete, A. Ghodsi, J. M. Hellerstein, I. Stoia,  VLDB'14 , Hangzhou, China, 2014.
+[ pdf ]
+Tachyon: Memory Throughput I/O for Cluster Computing Frameworks ,  H. Li, A. Ghodsi, M. Zaharia, E. Baldeschwieler, S. Shenker, I. Stoica,  LADIS workshop , PA, USA 2014.
+[ pdf ]
+Hierarchical Scheduling for Diverse Datacenter Workloads ,  A. Bhattacharya, D. Culler, E. Friedman, A. Ghodsi, S. Shenker, I. Stoica,  SOCC 2014 , Santa Clara, CA, USA 2014.
+[ pdf ]
+Less Pain, Most of the Gain: Incrementally Deployable ICN ,  S. K. Fayazbakhsh, Y. Lin, A. Totoonchian, A. Ghodsi, T. Koponen, B. M. Maggs, K. C. Ng, V. Sekar, S. Shenker,  ACM SIGCOMM 2013 , Hong Kong, August 2013.
+[ pdf ]
+CAP for Networks ,  A. Panda, C. Scott, A. Ghodsi, T. Koponen, S. Shenker,  HotSDN'13 , Aug 2013.
+[ pdf ]
+Eventual Consistency Today: Limitations, Extensions, and Beyond ,  P. Bailis, A. Ghodsi,  Communications of the ACM (CACM), and ACM Queue , May 2013.
+[ pdf ]
+HAT, Not CAP: Highly Available Transactions ,  P. Bailis, A. Fekete, A. Ghodsi, J. M. Hellerstein, I. Stoica,  Usenix HotOS 2013 , New Mexico, USA, May 2013.
+[ pdf ]
+Bolt-on Causal Consistency ,  P. Bailis, A. Ghodsi, J. M. Hellerstein, I. Stoica,  ACM SIGMOD 2013 , New York, USA, June 2013.
+[ pdf ]
+Choosy: Proportional Sharing for Datacenter Jobs with Constraints ,  A. Ghodsi, M. Zaharia, S. Shenker, I. Stoica,  ACM EuroSys 2013 , Prague, Czech Republic, April 2013.
+[ pdf ]
+Effective Straggler Mitigation: Attack of the Clones ,  G. Ananthanarayanan, A. Ghodsi, S. Shenker, and I. Stoica,   Usenix NSDI 2013 , Lombard, IL, April 2013.
+[ pdf ]
+The Potential Dangers of Causal Consistency and an Explicit Solution ,  P. Bailis, A. Fekete, A. Ghodsi, J. M. Hellerstein, I. Stoica,  ACM Symposium on Cloud Computing (SOCC 2012) , San Jose, CA, October 2012.
+[ pdf ]
+Software-Defined Internet Architecture ,  B. Raghavan, T. Koponen, M. Casado, A. Ghodsi, S. Ratnasamy, S. Shenker,  ACM Workshop on Hot Topics in Networks (HotNets-XI) , Redmond, Seattle, October 2012.
+[ pdf ]
+Multi-resource Fair Queueing for Packet Processing ,  A. Ghodsi, V. Sekar, M. Zaharia, I. Stoica,  ACM SIGCOMM 2012 ,  Best Paper Award , Helsinki, Finland, August 2012.
+[ pdf ]
+PACMan: Coordinated Memory Caching for Parallel Jobs ,  G. Ananthanarayanan, A. Ghodsi, A. Wang, D. Borthakur, S. Kandula, S. Shenker, and I. Stoica,   Usenix NSDI 2012 , San Jose, CA, April 2012.
+[ pdf ]
+Information-Centric Networking: Seeing the Forest for the Trees ,  A. Ghodsi, T. Koponen, B. Raghavan, S. Shenker, A. Singla, J. Wilcox,  ACM Workshop
+on Hot Topics in Networks (HotNets-X) , Cambridge, MA, November 2011.
+[ pdf ]
+Intelligent Design Enables Architectural Evolution ,  A. Ghodsi, T. Koponen, B. Raghavan, S. Shenker, A. Singla, J. Wilcox,  ACM Workshop
+on Hot Topics in Networks (HotNets-X) , Cambridge, MA, November 2011.
+[ pdf ]
+Architecting for Innovation ,  T. Koponen, S.
+Shenker, H. Balakrishnan, N. Feamster, I. Ganichev, A. Ghodsi,
+B. Godfrey, N. McKeown, G. Parulkar, B. Raghavan,
+J. Rexford, S. Arianfar, D. Kuptsov,  ACM SIGCOMM
+Computer Communication Review (CCR) , , Vol. 41, No. 2, July 2011.
+[ pdf ]
+Naming in Content-oriented Architectures ,  A. Ghodsi,
+T. Koponen, J. Rajahalme, P. Sarolahti, S. Shenker,   ACM SIGCOMM
+Workshop on Information-Centric Networking (ICN 2011) , Toronto,
+OH, CANADA, August 2011.
+[ pdf ]
+The Datacenter Needs an Operating System ,  M. Zaharia, B. Hindman, A. Konwinski, A. Ghodsi, A.D. Joseph, R. Katz, S. Shenker, and I. Stoica,   Usenix HotCloud 2011 , Portland, OR, June 2011.
+[ pdf ]
+Disk-Locality in Datacenter Computing Considered Irrelevant ,  G. Ananthanarayanan, A. Ghodsi, S. Shenker, I. Stoica,  Usenix HotOS 2011 , Napa, CA, May 2011.
+[ pdf ]
+Dominant Resource Fairness: Fair Allocation of Multiple Resources Types ,  A. Ghodsi, M. Zaharia, B. Hindman, A. Konwinski, S. Shenker, and I. Stoica,   Usenix NSDI 2011 , Boston, MA, March 2011.
+[ pdf ]
+Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center ,  B. Hindman, A. Konwinski, M. Zaharia, A. Ghodsi, A.D. Joseph, R. Katz, S. Shenker, and I. Stoica,   Usenix NSDI 2011 , Boston, MA, March 2011.
+[ pdf ]
+HTTP as the Narrow Waist of the Future Internet ,  L. Popa, A. Ghodsi, I. Stoica,   ACM HotNets 2010 , Monterey, CA, October 2010.
+[ pdf ]
+Please see my old homepage for  older publications  before 2010.
+Recent Professional Activities
+ACM SoCC 2014 ,  TPC member
+ACM SIGCOMM 2014 ,  TPC member
+Usenix NSDI 2013 ,  TPC member
+OPODIS 2013 ,  TPC member
+IEEE Cloud Computing 2013 ,  Steering Committee
+Usenix HotCloud 2012 ,  TPC member
+IEEE Peer-to-Peer 2012 ,  TPC member
+Usenix HotCloud 2011 ,  TPC member
+IEEE Peer-to-Peer 2011 ,  Co-chair
+HotP2P 2010 ,  TPC member
+Berkeley Cloud Seminar , Organizer

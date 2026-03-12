@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28849.html
+The Geometry of Efficient Hashing Algorithms
+Azad Bolour
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M583
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-583.pdf
+BibTeX citation:
+@techreport{Bolour:M583,
+Author= {Bolour, Azad},
+Title= {The Geometry of Efficient Hashing Algorithms},
+Year= {1976},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28849.html},
+Number= {UCB/ERL M583},
+}
+EndNote citation:
+%0 Report
+%A Bolour, Azad
+%T The Geometry of Efficient Hashing Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M583
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28849.html
+%F Bolour:M583

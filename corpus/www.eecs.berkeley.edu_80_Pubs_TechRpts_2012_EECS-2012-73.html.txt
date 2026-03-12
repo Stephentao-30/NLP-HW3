@@ -1,0 +1,42 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-73.html
+Workload-Driven Design and Evaluation of Large-Scale Data-Centric Systems
+Yanpei Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-73
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-73.pdf
+Large-scale data-centric systems help organizations store, manipulate, and derive value from large volumes of data. They consist of distributed components spread across a scalable number of connected machines and involve complex software/hardware stacks with multiple semantic layers. These systems help organizations solve established problems involving large amounts of data, while catalyzing new, data-driven businesses such as search engines, social networks, and cloud computing and data storage service providers. The complexity, diversity, scale, and rapid evolution of large-scale data-centric systems make it challenging to develop intuition about these systems, gain operational experience, and improve performance. It is an important research problem to develop a method to design and evaluate such systems based on the empirical behavior of the targeted workloads. Using an unprecedented collection of nine industrial workload traces of business-critical large-scale data-centric systems, we develop a workload-driven design and evaluation method for these systems and apply the method to address previously unsolved design problems. Specifically, the dissertation contributes the following:
+1. A conceptual framework of breaking down workloads for large-scale data-centric systems into data access patterns, computation patterns, and load arrival patterns.
+2. A workload analysis and synthesis method that uses multi-dimensional, non-parametric statistics to extract insights and produce representative behavior.
+3. Case studies of workload analysis for industrial deployments of MapReduce and enterprise network storage systems, two examples of large-scale data-centric systems.
+4. Case studies of workload-driven design and evaluation of an energy-efficient MapReduce system and Internet datacenter network transport protocol pathologies, two research topics that require workload-specific insights to address.
+Overall, the dissertation develops a more objective and systematic understanding of an emerging and important class of computer systems. The work in this dissertation helps further accelerate the adoption of large-scale data-centric systems to solve real life problems relevant to business, science, and day-to-day consumers.
+Advisors:  Randy H. Katz
+BibTeX citation:
+@phdthesis{Chen:EECS-2012-73,
+Author= {Chen, Yanpei},
+Title= {Workload-Driven Design and Evaluation of Large-Scale Data-Centric Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-73.html},
+Number= {UCB/EECS-2012-73},
+Abstract= {
+Large-scale data-centric systems help organizations store, manipulate, and derive value from large volumes of data. They consist of distributed components spread across a scalable number of connected machines and involve complex software/hardware stacks with multiple semantic layers. These systems help organizations solve established problems involving large amounts of data, while catalyzing new, data-driven businesses such as search engines, social networks, and cloud computing and data storage service providers. The complexity, diversity, scale, and rapid evolution of large-scale data-centric systems make it challenging to develop intuition about these systems, gain operational experience, and improve performance. It is an important research problem to develop a method to design and evaluate such systems based on the empirical behavior of the targeted workloads. Using an unprecedented collection of nine industrial workload traces of business-critical large-scale data-centric systems, we develop a workload-driven design and evaluation method for these systems and apply the method to address previously unsolved design problems. Specifically, the dissertation contributes the following:
+1. A conceptual framework of breaking down workloads for large-scale data-centric systems into data access patterns, computation patterns, and load arrival patterns.
+2. A workload analysis and synthesis method that uses multi-dimensional, non-parametric statistics to extract insights and produce representative behavior.
+3. Case studies of workload analysis for industrial deployments of MapReduce and enterprise network storage systems, two examples of large-scale data-centric systems.
+4. Case studies of workload-driven design and evaluation of an energy-efficient MapReduce system and Internet datacenter network transport protocol pathologies, two research topics that require workload-specific insights to address.
+Overall, the dissertation develops a more objective and systematic understanding of an emerging and important class of computer systems. The work in this dissertation helps further accelerate the adoption of large-scale data-centric systems to solve real life problems relevant to business, science, and day-to-day consumers.},
+}
+EndNote citation:
+%0 Thesis
+%A Chen, Yanpei
+%T Workload-Driven Design and Evaluation of Large-Scale Data-Centric Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-73
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-73.html
+%F Chen:EECS-2012-73

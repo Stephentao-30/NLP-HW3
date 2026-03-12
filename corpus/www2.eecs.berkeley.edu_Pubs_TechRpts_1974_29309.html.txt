@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29309.html
+A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised)
+A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised)
+H. Mukai and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M455
+June 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-455.pdf
+BibTeX citation:
+@techreport{Mukai:M455,
+Author = {Mukai, H. and Polak, E.},
+Title = {A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29309.html},
+Number = {UCB/ERL M455}
+}
+EndNote citation:
+%0 Report
+%A Mukai, H.
+%A Polak, E.
+%T A Quadratically Convergent Primal-Dual Algorithm with Global Convergence Properties for Solving Optimization Problems with Equality Constraints (Revised)
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M455
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29309.html
+%F Mukai:M455

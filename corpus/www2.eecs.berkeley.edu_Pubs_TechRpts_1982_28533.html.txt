@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28533.html
+Delight for Beginners | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Delight for Beginners
+Delight for Beginners
+Bill Nye and Andre Tits
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/55
+July 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-55.pdf
+BibTeX citation:
+@techreport{Nye:M82/55,
+Author = {Nye, Bill and Tits, Andre},
+Title = {Delight for Beginners},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28533.html},
+Number = {UCB/ERL M82/55}
+}
+EndNote citation:
+%0 Report
+%A Nye, Bill
+%A Tits, Andre
+%T Delight for Beginners
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/55
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28533.html
+%F Nye:M82/55

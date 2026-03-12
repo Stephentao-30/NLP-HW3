@@ -1,0 +1,37 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/pcpip-stoc17.html
+STOC 17 Workshop
+Probabilistically checkable and interactive proofs (PCP/IP): between theory and practice
+This workshop will be held as part of the  STOC 2017 Theory Fest , in the morning of  Friday June 23 2017 .
+Topic
+The workshop focuses on theory of PCP/IP, motivated and inspired by the practical applications of these systems, with or without zero knowledge, especially to decentralized blockchain-based cryptocurrencies.
+Program
+Part 1
+09:00-09:30
+Rafael Pass
+Foundations of Blockchains
+09:30-10:00
+Justin Thaler
+Verifiable Computing: Between Theory and Practice   [pdf]
+Part 2
+10:00-10:30
+Ron Rothblum
+Doubly-Efficient Interactive Proofs   [pptx]
+10:30-11:00
+Eli Ben-Sasson
+Concretely Efficient Computational Integrity from PCPs   [pdf]
+Part 3
+11:00-11:30
+Yael Kalai
+A New Perspective on Delegating Computation   [pdf]
+11:30-12:00
+Alessandro Chiesa
+Succinct Arguments: Constructions and Open Problems   [pdf]
+Goals
+As PCP/IP systems are making their way into the real world, intriguing new mathematical questions arise.
+This workshop aims to (1) expose the STOC community to the rich variety of theoretical questions in this area, (2) describe the interactions between proof systems and decentralized blockchains, and (3) bring together interested theoreticians to exchange ideas/approaches for these research directions.
+Organizers
+Eli Ben-Sasson (Technion)
+Alessandro Chiesa (UC Berkeley)
+Yuval Ishai (Technion and UCLA)
+Related
+Aviv Zohar is running a  tutorial on decentralized cryptocurrencies  on  Monday June 19 2017 , also as part of the STOC 2017 Theory Fest.

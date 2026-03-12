@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-66.html
+Uncertainty Propagation in Transistor-level Statistical Circuit Analysis
+Qian Ying Tang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-66
+May 18,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-66.pdf
+Advisors:  Costas J. Spanos
+BibTeX citation:
+@phdthesis{Tang:EECS-2011-66,
+Author= {Tang, Qian Ying},
+Title= {Uncertainty Propagation in Transistor-level Statistical Circuit Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-66.html},
+Number= {UCB/EECS-2011-66},
+}
+EndNote citation:
+%0 Thesis
+%A Tang, Qian Ying
+%T Uncertainty Propagation in Transistor-level Statistical Circuit Analysis
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 18
+%@ UCB/EECS-2011-66
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-66.html
+%F Tang:EECS-2011-66

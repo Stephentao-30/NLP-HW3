@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-64.html
+Labelled Execution Systems
+Eleftherios Matsikoudis and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-64
+May 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-64.pdf
+Interleaving theories have traditionally failed to integrate a satisfactory treatment of the so-called ``finite delay property''. This is generally attributed to the expansion law of such theories, but actually, the problem is rooted in the concept of labelled transition system. We introduce a new type of system, in which, instead of labelled transitions, we have, essentially, sequences of labelled transitions. We call systems of this type labelled execution systems. We use a coalgebraic representation to obtain, in a canonical way, a suitable concept of bisimilarity among such systems, study the conditions under which that concept agrees with the intuitive understanding of equivalence of branching structure that one has for these systems, and examine their relationship with labelled transition systems, precisely characterizing the difference in expressive power and branching complexity between the two kinds of systems.
+BibTeX citation:
+@techreport{Matsikoudis:EECS-2012-64,
+Author= {Matsikoudis, Eleftherios and Lee, Edward A.},
+Title= {Labelled Execution Systems},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-64.html},
+Number= {UCB/EECS-2012-64},
+Abstract= {Interleaving theories have traditionally failed to integrate a satisfactory treatment of the so-called ``finite delay property''. This is generally attributed to the expansion law of such theories, but actually, the problem is rooted in the concept of labelled transition system. We introduce a new type of system, in which, instead of labelled transitions, we have, essentially, sequences of labelled transitions. We call systems of this type labelled execution systems. We use a coalgebraic representation to obtain, in a canonical way, a suitable concept of bisimilarity among such systems, study the conditions under which that concept agrees with the intuitive understanding of equivalence of branching structure that one has for these systems, and examine their relationship with labelled transition systems, precisely characterizing the difference in expressive power and branching complexity between the two kinds of systems.},
+}
+EndNote citation:
+%0 Report
+%A Matsikoudis, Eleftherios
+%A Lee, Edward A.
+%T Labelled Execution Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 7
+%@ UCB/EECS-2012-64
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-64.html
+%F Matsikoudis:EECS-2012-64

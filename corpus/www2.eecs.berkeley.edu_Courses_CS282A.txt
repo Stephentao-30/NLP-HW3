@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS282A
+CS 282A. Designing, Visualizing and Understanding Deep Neural Networks
+Catalog Description:  Deep Networks have revolutionized computer vision, language technology, robotics and control. They have growing impact in many other areas of science and engineering. They do not however, follow a closed or compact set of theoretical principles. In Yann Lecun's words they require "an interplay between intuitive insights, theoretical modeling, practical implementations, empirical studies, and scientific analyses." This course attempts to cover that ground.
+Units:  4
+Student Learning Outcomes:  Students will learn design principles and best practices: design motifs that work well in particular domains, structure optimization and parameter optimization.
+, Understanding deep networks. Methods with formal guarantees: generative and adversarial models, tensor factorization., Students will come to understand visualizing deep networks. Exploring the training and use of deep networks with visualization tools.
+Prerequisites:  MATH 53 and MATH 54 or equivalent; COMPSCI 70 or STAT 134; COMPSCI 61B or equivalent; COMPSCI 189 or COMPSCI 289A (recommended)
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  No final exam
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

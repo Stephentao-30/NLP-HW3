@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29181.html
+A Stability Inequality For a Class of Nonlinear Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Stability Inequality For a Class of Nonlinear Feedback Systems
+A Stability Inequality For a Class of Nonlinear Feedback Systems
+A.G. Dewey
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M114
+April 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-114.pdf
+BibTeX citation:
+@techreport{Dewey:M114,
+Author = {Dewey, A.G.},
+Title = {A Stability Inequality For a Class of Nonlinear Feedback Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29181.html},
+Number = {UCB/ERL M114}
+}
+EndNote citation:
+%0 Report
+%A Dewey, A.G.
+%T A Stability Inequality For a Class of Nonlinear Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M114
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29181.html
+%F Dewey:M114

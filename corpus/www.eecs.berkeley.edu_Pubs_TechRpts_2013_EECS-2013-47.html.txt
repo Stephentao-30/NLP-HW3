@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-47.html
+Exploiting Data Sparsity in Parallel Matrix Powers Computations
+Nicholas Knight and Erin Carson and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-47
+May 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-47.pdf
+The increasingly high relative cost of moving data on modern parallel machines has caused a paradigm shift in the design of high-performance algorithms: to achieve efficiency, one must focus on strategies which minimize data movement, rather than minimize arithmetic operations. We call this a communication-avoiding approach to algorithm design.
+In this work, we derive a new parallel communication-avoiding matrix powers algorithm for matrices of the form  A  =  D + USV H , where  D  is sparse and  USV H  has low rank but may be dense. Matrices of this form arise in many practical applications, including power-law graph analysis, circuit simulation, and algorithms involving hierarchical ( H ) matrices, such as multigrid methods, fast multipole methods, numerical partial differential equation solvers, and preconditioned iterative methods.
+If A has this form, our algorithm enables a communication-avoiding approach. We demonstrate that, with respect to the cost of computing  k  sparse matrix-vector multiplications, our algorithm asymptotically reduces the parallel latency by a factor of  O ( k ) for small additional bandwidth and computation costs. Using problems from real-world applications, our performance model predicts that this reduction in communication allows for up to 24x speedups on petascale machines.
+BibTeX citation:
+@techreport{Knight:EECS-2013-47,
+Author= {Knight, Nicholas and Carson, Erin and Demmel, James},
+Title= {Exploiting Data Sparsity in Parallel Matrix Powers Computations},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-47.html},
+Number= {UCB/EECS-2013-47},
+Abstract= {The increasingly high relative cost of moving data on modern parallel machines has caused a paradigm shift in the design of high-performance algorithms: to achieve efficiency, one must focus on strategies which minimize data movement, rather than minimize arithmetic operations. We call this a communication-avoiding approach to algorithm design.
+In this work, we derive a new parallel communication-avoiding matrix powers algorithm for matrices of the form <i>A</i> = <i>D</i>+<i>USV<sup>H</sup></i>, where <i>D</i> is sparse and <i>USV<sup>H</sup></i> has low rank but may be dense. Matrices of this form arise in many practical applications, including power-law graph analysis, circuit simulation, and algorithms involving hierarchical (<i>H</i>) matrices, such as multigrid methods, fast multipole methods, numerical partial differential equation solvers, and preconditioned iterative methods.
+If A has this form, our algorithm enables a communication-avoiding approach. We demonstrate that, with respect to the cost of computing <i>k</i> sparse matrix-vector multiplications, our algorithm asymptotically reduces the parallel latency by a factor of <i>O</i>(<i>k</i>) for small additional bandwidth and computation costs. Using problems from real-world applications, our performance model predicts that this reduction in communication allows for up to 24x speedups on petascale machines.},
+}
+EndNote citation:
+%0 Report
+%A Knight, Nicholas
+%A Carson, Erin
+%A Demmel, James
+%T Exploiting Data Sparsity in Parallel Matrix Powers Computations
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 3
+%@ UCB/EECS-2013-47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-47.html
+%F Knight:EECS-2013-47

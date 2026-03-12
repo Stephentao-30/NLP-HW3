@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-82.html
+Cooperative Non-Line-of-Sight Localization Using Low-rank + Sparse Matrix Decomposition
+Venkatesan Ekambaram and Kannan Ramchandran
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-82
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-82.pdf
+We consider the problem of estimating the locations of a set of points in a k-dimensional euclidean space given a subset of the pairwise distance measurements between the points. We focus on the case when some fraction of these measurements can be arbitrarily corrupted by large additive noise. This is motivated by applications like sensor networks, molecular conformation and manifold learning where the measurement process can induce large bias errors in some fraction of the distance measurements due to physical effects like multipath, spin-diffusion etc. Given the NP-completeness of the problem, we propose a convex relaxation that involves decomposing the partially observed matrix of distance measurements into low-rank and sparse components, wherein the low-rank component corresponds to the Euclidean Distance Matrix and the sparse component is a matrix of biases. Using recent results from the literature, we show that this convex relaxation yields the exact solution for the class of fixed radius random geometric graphs. We evaluate the performance of the algorithm on an experimental data set obtained from a network of 44 nodes in an indoor environment and show that the algorithm is robust to non-line-of-sight bias errors.
+BibTeX citation:
+@techreport{Ekambaram:EECS-2012-82,
+Author= {Ekambaram, Venkatesan and Ramchandran, Kannan},
+Title= {Cooperative Non-Line-of-Sight Localization Using Low-rank + Sparse Matrix Decomposition},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-82.html},
+Number= {UCB/EECS-2012-82},
+Abstract= {We consider the problem of estimating the locations of a set of points in a k-dimensional euclidean space given a subset of the pairwise distance measurements between the points. We focus on the case when some fraction of these measurements can be arbitrarily corrupted by large additive noise. This is motivated by applications like sensor networks, molecular conformation and manifold learning where the measurement process can induce large bias errors in some fraction of the distance measurements due to physical effects like multipath, spin-diffusion etc. Given the NP-completeness of the problem, we propose a convex relaxation that involves decomposing the partially observed matrix of distance measurements into low-rank and sparse components, wherein the low-rank component corresponds to the Euclidean Distance Matrix and the sparse component is a matrix of biases. Using recent results from the literature, we show that this convex relaxation yields the exact solution for the class of fixed radius random geometric graphs. We evaluate the performance of the algorithm on an experimental data set obtained from a network of 44 nodes in an indoor environment and show that the algorithm is robust to non-line-of-sight bias errors.},
+}
+EndNote citation:
+%0 Report
+%A Ekambaram, Venkatesan
+%A Ramchandran, Kannan
+%T Cooperative Non-Line-of-Sight Localization Using Low-rank + Sparse Matrix Decomposition
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-82
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-82.html
+%F Ekambaram:EECS-2012-82

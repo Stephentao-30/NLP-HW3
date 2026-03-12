@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28586.html
+On the Convergence of Fuzzy Control Processes
+Jerzy Kiszka
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/43
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-43.pdf
+BibTeX citation:
+@techreport{Kiszka:M81/43,
+Author= {Kiszka, Jerzy},
+Title= {On the Convergence of Fuzzy Control Processes},
+Year= {1981},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28586.html},
+Number= {UCB/ERL M81/43},
+}
+EndNote citation:
+%0 Report
+%A Kiszka, Jerzy
+%T On the Convergence of Fuzzy Control Processes
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28586.html
+%F Kiszka:M81/43

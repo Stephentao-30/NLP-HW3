@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/talk/adept-winter20
+Chipyard: An Integrated SoC Design, Simulation, and Implementation Environment | Alon Amid
+Search
+Chipyard: An Integrated SoC Design, Simulation, and Implementation Environment
+Abstract
+Continued improvement in computing efficiency requires functional specialization of hardware designs. Agile design methodologies have been proposed to alleviate the increased design costs of customized silicon architectures, but their practice has exposed challenges around complex system-on-chip integration and validation, and technology portability. This talk will present the Chipyard framework, an integrated SoC design, simulation, and implementation environment for specialized compute systems. Chipyard includes configurable, composable, open-source, generator-based IP blocks that can be used across multiple stages of the hardware development flow while maintaining design intent and integration consistency. Through cloud FPGA simulation and rapid ASIC implementation, this work allows for continuous validation of physically realizable customized systems.
+Date
+Jan 13, 2020 4:50 PM
+Event
+ADEPT 2020 Winter Retreat
+Location
+Monterey, CA, USA
+Alon Amid
+EECS Graduate Student
+Cite
+Copy
+Download

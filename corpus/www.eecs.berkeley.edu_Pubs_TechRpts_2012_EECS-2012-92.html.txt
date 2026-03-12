@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-92.html
+A Constraint-Aware Motion Planning Algorithm for Robotic Folding of Clothes
+Apoorva Sachdev
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-92
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-92.pdf
+Robotic manipulation of 2D deformable objects is a difficult problem largely because such objects typically have infinite-dimensional configuration spaces and are too computationally expensive to simulate in the inner-loop of a motion planner.The problem we address is as follows: Given a robot model, the shape of a piece of cloth in a spread-out configuration on a horizontal table, and a final folded configuration specified by a sequence of g-folds, output a sequence of robot motions that achieve the final folded configuration or report that none exists, taking into account the kinematics constraints. We make this optimal on execution time.
+Advisors:  John F. Canny and Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Sachdev:EECS-2012-92,
+Author= {Sachdev, Apoorva},
+Title= {A Constraint-Aware Motion Planning Algorithm for Robotic Folding of Clothes},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-92.html},
+Number= {UCB/EECS-2012-92},
+Abstract= {Robotic manipulation of 2D deformable objects is a difficult problem largely because such objects typically have infinite-dimensional configuration spaces and are too computationally expensive to simulate in the inner-loop of a motion planner.The problem we address is as follows: Given a robot model, the shape of a piece of cloth in a spread-out configuration on a horizontal table, and a final folded configuration specified by a sequence of g-folds, output a sequence of robot motions that achieve the final folded configuration or report that none exists, taking into account the kinematics constraints. We make this optimal on execution time.},
+}
+EndNote citation:
+%0 Thesis
+%A Sachdev, Apoorva
+%T A Constraint-Aware Motion Planning Algorithm for Robotic Folding of Clothes
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-92
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-92.html
+%F Sachdev:EECS-2012-92

@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-250.html
+Techniques for Machine Understanding of Live Drum Performances
+Eric Battenberg
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-250
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-250.pdf
+This dissertation covers machine listening techniques for the automated real-time analysis of live drum performances.  Onset detection, drum detection, beat tracking, and drum pattern analysis are combined into a system that provides rhythmic information useful in performance analysis, synchronization, and retrieval. The techniques are designed with real-time use in mind but can easily be adapted for offline batch use for large scale rhythm analysis.
+At the front end of the system, onset and drum detection provide the locations, types, and amplitudes of percussive events. The onset detector uses an adaptive, causal threshold in order to remain robust to large dynamic swings.
+For drum detection, a gamma mixture model is used to compute multiple spectral templates per drum onto which onset events can be decomposed using a technique based on non-negative matrix factorization. Unlike classification-based approaches to drum detection, this approach provides amplitude information which is invaluable in the analysis of rhythm. In addition, the decay of drum events are modeled using "tail" templates , which when used with multiple spectral templates per drum, reduce detection errors by 42%.
+The beat tracking component uses multiple period hypotheses and an ambiguity measure in order to choose a reliable pulse estimate. Results show that using multiple hypotheses significantly improves tracking accuracy compared to a single period model.
+The drum pattern analysis component uses the amplitudes of the detected drum onsets and the metric grid defined by the beat tracker as inputs to a generatively pre-trained deep neural network in order to estimate high-level rhythmic information. The network is tested with beat alignment tasks, including downbeat detection, and reduces alignment errors compared to a simple template correlation approach by up to 59%.
+Advisors:  Nelson Morgan and David L. Wessel
+BibTeX citation:
+@phdthesis{Battenberg:EECS-2012-250,
+Author= {Battenberg, Eric},
+Title= {Techniques for Machine Understanding of Live Drum Performances},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-250.html},
+Number= {UCB/EECS-2012-250},
+Abstract= {This dissertation covers machine listening techniques for the automated real-time analysis of live drum performances.  Onset detection, drum detection, beat tracking, and drum pattern analysis are combined into a system that provides rhythmic information useful in performance analysis, synchronization, and retrieval. The techniques are designed with real-time use in mind but can easily be adapted for offline batch use for large scale rhythm analysis.
+At the front end of the system, onset and drum detection provide the locations, types, and amplitudes of percussive events. The onset detector uses an adaptive, causal threshold in order to remain robust to large dynamic swings.
+For drum detection, a gamma mixture model is used to compute multiple spectral templates per drum onto which onset events can be decomposed using a technique based on non-negative matrix factorization. Unlike classification-based approaches to drum detection, this approach provides amplitude information which is invaluable in the analysis of rhythm. In addition, the decay of drum events are modeled using "tail" templates , which when used with multiple spectral templates per drum, reduce detection errors by 42%.
+The beat tracking component uses multiple period hypotheses and an ambiguity measure in order to choose a reliable pulse estimate. Results show that using multiple hypotheses significantly improves tracking accuracy compared to a single period model.
+The drum pattern analysis component uses the amplitudes of the detected drum onsets and the metric grid defined by the beat tracker as inputs to a generatively pre-trained deep neural network in order to estimate high-level rhythmic information. The network is tested with beat alignment tasks, including downbeat detection, and reduces alignment errors compared to a simple template correlation approach by up to 59%.},
+}
+EndNote citation:
+%0 Thesis
+%A Battenberg, Eric
+%T Techniques for Machine Understanding of Live Drum Performances
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-250
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-250.html
+%F Battenberg:EECS-2012-250

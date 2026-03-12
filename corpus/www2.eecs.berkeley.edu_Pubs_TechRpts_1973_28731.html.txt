@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28731.html
+The Boardered Triangular Matrix and Minimum Essential Sets of Digraph | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Boardered Triangular Matrix and Minimum Essential Sets of Digraph
+The Boardered Triangular Matrix and Minimum Essential Sets of Digraph
+L.K. Cheung and E.S. Kuh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M375
+February 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-375.pdf
+BibTeX citation:
+@techreport{Cheung:M375,
+Author = {Cheung, L.K. and Kuh, E.S.},
+Title = {The Boardered Triangular Matrix and Minimum Essential Sets of Digraph},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28731.html},
+Number = {UCB/ERL M375}
+}
+EndNote citation:
+%0 Report
+%A Cheung, L.K.
+%A Kuh, E.S.
+%T The Boardered Triangular Matrix and Minimum Essential Sets of Digraph
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M375
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28731.html
+%F Cheung:M375

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29307.html
+A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices
+A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices
+J.T. Panttaja
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M440
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-440.pdf
+BibTeX citation:
+@techreport{Panttaja:M440,
+Author = {Panttaja, J.T.},
+Title = {A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29307.html},
+Number = {UCB/ERL M440}
+}
+EndNote citation:
+%0 Report
+%A Panttaja, J.T.
+%T A Comparison of the PLU and QR Methods for Determining Eigenvalues of Real Hessenberg Matrices
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M440
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29307.html
+%F Panttaja:M440

@@ -1,0 +1,1365 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch
+Alessandro Chiesa
+Alessandro Chiesa
+Associate Professor School of Computer and Communication Sciences École Polytechnique Fédérale de Lausanne
+alessandro.chiesa [at] epfl [dot] ch
+About Me
+Research Group
+Teaching
+Publications
+Short Bio
+Contact
+About Me
+I am an associate professor in the  School of Computer and Communication Sciences  at  EPFL , where I lead the  Laboratory for Computation Security . Previously, I was an associate professor in the  EECS Department  at  UC Berkeley .
+I am an author of  several zkSNARK libraries  (such as  libsnark ) and  arkworks . I am a co-inventor of  Zerocash , co-founder of  Zcash , and co-founder of  StarkWare Industries . My work has been recognized by an IEEE SP Test-of-Time Award (2024), a  Sloan Research Fellowship  (2021), an  Okawa Foundation Research Grant  (2020), a nomination in  MIT's TR35  (2018), and Google Faculty Research Awards ( 2018  and  2017 ).
+Together with  Eylon Yogev , I wrote a book on hash-based SNARGs:  Building Cryptographic Proofs from Hash Functions .
+Please use this  bio  and  photo  for announcements. Here is my  CV .
+Research interests:  I am broadly interested in  Theoretical Computer Science  and  Computer Security . Specific interests include theoretical and applied  cryptography ,  complexity theory ,  privacy-enhancing technologies , and  quantum information .
+Research Group
+Current
+Zijing Di  (PhD Student)
+Giacomo Fenzi  (PhD Student)
+Ziyi Guan  (PhD Student)
+Zihan Hu  (PhD Student)
+Christian Knabenhans  (PhD Student)
+Ignacio Manzur  (PhD Student)
+Fabienne Ubezio  (Administrative Assistant)
+Guy Weissenberg  (PhD Student)
+Burcu Yıldız  (PhD Student)
+Yuxi Zheng  (PhD Student)
+Andrew Zitek  (Cryptography Engineer)
+Alumni
+Jonathan Bootle  (Postdoc → Researcher at IBM Research Zurich)
+Sarah Bordage  (Postdoc)
+Lynn Chua  (PhD student → Facebook)
+Tom Gur  (Postdoc → Professor at University of Cambridge)
+Yuncong Hu  (PhD Student → Professor at Shanghai Jiao Tong University)
+Siqi Liu  (PhD Student → Professor at Duke University)
+Fermi Ma  (Postdoc → Professor at NYU)
+Peter Manohar  (Undergraduate Student → IAS)
+Pratyush Mishra  (PhD Student → Professor at the University of Pennsylvania)
+Ngoc Khanh Nguyen  (Postdoc → Professor at King's College London)
+Dev Ojha  (Undergraduate Student → Sikka)
+Michele Orrù  (Postdoc → Professor at CNRS)
+Igor Shinkar  (Postdoc → Professor at Simon Fraser University)
+Katerina Sotiraki  (Postdoc → Professor at Yale University)
+Nick Spooner  (PhD student → Professor at Cornell University)
+Psi Vesely (Research Assistant → PhD Student at UCSD)
+Jiahao Wang  (MS Student → Google)
+Nicholas Ward  (MS Student → Mir)
+Howard Wu  (MS Student → Aleo)
+Teaching
+S2026,  CS251: Theory of Computation
+F2025,  CS459: Foundations of Probabilistic Proofs
+S2025,  CS250: Algorithms
+F2024,  CS459: Foundations of Probabilistic Proofs
+S2024, CS523: Advanced Topics on Privacy Enhancing Technologies
+F2023, CS459: Foundations of Probabilistic Proofs
+S2023,  CS450: Advanced Algorithms
+F2022,  CS459: Foundations of Probabilistic Proofs
+S2022,  CS602: Foundations of Probabilistic Proofs
+F2021, on teaching leave
+S2021,  CS170: Efficient Algorithms and Intractable Problems
+F2020,  CS294: Foundations of Probabilistic Proofs
+S2020,  CS170: Efficient Algorithms and Intractable Problems
+F2019, on teaching leave at the Simons Institute
+S2019,  CS294: Probabilistically Checkable and Interactive Proof Systems
+F2018,  CS170: Efficient Algorithms and Intractable Problems
+S2018,  CS170: Efficient Algorithms and Intractable Problems
+F2017,  CS276: Cryptography
+S2017,  CS294: Probabilistically Checkable and Interactive Proof Systems
+F2016,  CS294: Property Testing
+S2016,  CS170: Efficient Algorithms and Intractable Problems
+F2015,  CS276: Cryptography
+Activities
+MSRI Summer School on  Foundations and Frontiers of Probabilistic Proofs  (July 2023)
+Workshop on  Efficient Probabilistic Proofs
+@ Bertinoro, Italy (July 2022)
+MSRI Summer School on  Foundations and Frontiers of Probabilistic Proofs  (July 2021)
+Reunion Workshop on  Proofs, Consensus, and Decentralizing Society  @ the Simons Institute for the Theory of Computing (December 2020)
+Semester Program on  Proofs, Consensus, and Decentralizing Society  @ the Simons Institute for the Theory of Computing (Fall 2019)
+Workshop on  Decentralized Cryptocurrencies and Blockchains  @ CRYPTO 2018
+Workshop on  Probabilistically Checkable and Interactive Proofs  @ STOC 2017 Theory Fest
+ITCS 2017  (8th Innovations in Theoretical Computer Science Conference)
+Bay Area Crypto Day
+Program Committees
+EUROCRYPT 2024  (43rd IACR International Conference on the Theory and Applications of Cryptographic Techniques)
+CRYPTO 2019  (39th International Cryptology Conference)
+SP 2019  (40th IEEE Symposium on Security and Privacy)
+EUROCRYPT 2018  (37th IACR International Conference on the Theory and Applications of Cryptographic Techniques)
+TCC 2017  (15th IACR Theory of Cryptography Conference)
+ITCS 2017  (8th Innovations in Theoretical Computer Science Conference)
+TCC 2016-B  (14th IACR Theory of Cryptography Conference)
+CCS 2016  (23rd ACM Conference on Computer and Communications Security)
+Publications
+( DBLP ,  Scholar )
+Preprints
+[P5]
+Zero-Knowledge IOPPs for Constrained Interleaved Codes
+Alessandro Chiesa,
+Giacomo Fenzi ,
+Guy Weissenberg
+Cryptology ePrint Archive ,
+Report 2026/391
+Abstract
+Succinct arguments based on interactive oracle proofs (IOPs) have achieved remarkable efficiency improvements and are now widely adopted in applications. State-of-the-art IOPs involve protocols for testing proximity to constrained interleaved linear codes, and enjoy essentially optimal parameters. However, recent IOP constructions provide no privacy guarantees, which remain a must for many applications.
+We present an IOP of proximity for testing constrained interleaved linear codes that achieves (honest-verifier) zero-knowledge, while incurring a negligible overhead compared to the (non-zero-knowledge) state of the art. In line with recent constructions, our construction satisfies round-by-round knowledge soundness with a straightline extractor and negligible error.
+We propose a definition of (honest-verifier) zero-knowledge for interactive oracle reductions (IORs) that we prove is compatible with composition, and then obtain our result by constructing and modularly composing several lightweight zero-knowledge IORs. Our key technical contributions are a zero-knowledge sumcheck IOR and a zero-knowledge code-switching IOR that fit the strict efficiency requirements of our setting; these contributions and other technical complications entailed overcoming several challenges with new notions and protocols. Finally, along the way, we highlight the efficiency benefits of high-distance codes obtained from dispersers, which may be of independent interest.
+More Info
+Available on  ePrint .
+[P4]
+All Polynomial Generators Preserve Distance with Mutual Correlated Agreement
+Sarah Bordage,
+Alessandro Chiesa,
+Ziyi Guan ,
+Ignacio Manzur
+Cryptology ePrint Archive ,
+Report 2025/2051
+Abstract
+A generator is a function that maps a random seed to a list of coefficients. We study generators that preserve distance to a linear code: the linear combination of any list of vectors using coefficients sampled by the generator has distance to the code no smaller than that of the original vectors, except for a small error. Distance preservation plays a central role in modern probabilistic proofs, and has been formalized in several ways. We study  mutual correlated agreement , the strongest known form of distance preservation.
+We initiate the systematic study of mutual correlated agreement, aiming to characterize the class of generators with this property. Towards this, we study polynomial generators, a rich class that includes all examples of generators considered in the distance preservation literature. Our main result is that  all polynomial generators guarantee mutual correlated agreement for every linear code . This improves on prior work both in generality (the class of generators covered) and in parameters (the error bounds).
+We additionally provide new results for the case where the linear code is a Reed--Solomon code, which is of particular interest in applications. We prove that all polynomial generators satisfy mutual correlated agreement for Reed–Solomon codes up to the Johnson bound. In particular, we improve upon the state-of-the-art by Ben-Sasson, Carmon, Ishai, Kopparty, and Saraf (FOCS 2020) and answer a question posed by Arnon, Chiesa, Fenzi, and Yogev (Eurocrypt 2025).
+Along the way we develop a flexible and general toolbox for mutual correlated agreement, and are the first to establish distance preservation for generators that lie beyond polynomial generators.
+More Info
+Available on  ePrint .
+[P3]
+On the Fiat–Shamir Security of Succinct Arguments from Functional Commitments
+Alessandro Chiesa,
+Ziyi Guan ,
+Christian Knabenhans ,
+Zihan Yu
+Cryptology ePrint Archive ,
+Report 2025/902
+Abstract
+We study the security of a popular paradigm for constructing SNARGs, closing a key security gap left open by prior work. The paradigm consists of two steps: first, construct a public-coin succinct interactive argument by combining a functional interactive oracle proof (FIOP) and a functional commitment scheme (FC scheme); second, apply the Fiat–Shamir transformation in the random oracle model. Prior work did not consider this generalized setting nor prove the security of this second step (even in special cases).
+We prove that the succinct argument obtained in the first step satisfies state-restoration security, thereby ensuring that the second step does in fact yield a succinct non-interactive argument. This is provided the FIOP satisfies state-restoration security and the FC scheme satisfies a natural state-restoration variant of function binding (a generalization of position binding for vector commitment schemes).
+Moreover, we prove that notable FC schemes satisfy state-restoration function binding, allowing us to establish, via our main result, the security of several SNARGs of interest (in the random oracle model). This includes a security proof of Plonk, in the ROM, based on ARSDH (a falsifiable assumption).
+More Info
+Available on  ePrint .
+[P2]
+On the Security of Succinct Interactive Arguments from Vector Commitments
+Alessandro Chiesa,
+Marcel Dall'Agnol ,
+Ziyi Guan ,
+Nicholas Spooner
+Cryptology ePrint Archive ,
+Report 2023/1737
+Abstract
+We study the security of a fundamental family of succinct interactive arguments in the standard model, stemming from the works of Kilian (1992) and Ben-Sasson, Chiesa, and Spooner ("BCS", 2016). These constructions achieve succinctness by combining probabilistic proofs and vector commitments.
+Our first result concerns the succinct interactive argument of Kilian, realized with any probabilistically-checkable proof (PCP) and any vector commitment. We establish the tightest known bounds on the security of this protocol. Prior analyses incur large overheads, or assume restrictive properties of the underlying PCP.
+Our second result concerns an interactive variant of the BCS succinct non-interactive argument, which here we call IBCS, realized with any public-coin interactive oracle proof (IOP) and any vector commitment. We establish the first security bounds for the IBCS protocol. Prior works rely upon this protocol without proving its security; our result closes this gap.
+Finally, we study the capabilities and limitations of succinct arguments based on vector commitments. We show that a generalization of the IBCS protocol, which we call the  Finale protocol , is secure when realized with any  public-query  IOP (a notion that we introduce) that satisfies a natural "random continuation sampling" (RCS) property. We also show a partial converse: if the Finale protocol satisfies the RCS property (which in particular implies its security), then so does the underlying public-query IOP.
+More Info
+Available on  ePrint .
+[P1]
+Reducing Participation Costs via Incremental Verification for Ledger Systems
+Weikeng Chen ,
+Alessandro Chiesa,
+Emma Dauterman ,
+Nicholas P. Ward
+Cryptology ePrint Archive ,
+Report 2020/1522
+Abstract
+Ledger systems are applications run on peer-to-peer networks that provide strong integrity guarantees. However, these systems often have high participation costs. For a server to join this network, the bandwidth and computation costs grow linearly with the number of state transitions processed; for a client to interact with a ledger system, it must either maintain the entire ledger system state like a server or trust a server to correctly provide such information. In practice, these substantial costs centralize trust in the hands of the relatively few parties with the resources to maintain the entire ledger system state.
+The notion of  incrementally verifiable computation , introduced by Valiant (TCC '08), has the potential to significantly reduce such participation costs. While prior works have studied incremental verification for basic payment systems, the study of incremental verification for a general class of ledger systems remains in its infancy.
+In this paper we initiate a systematic study of incremental verification for ledger systems, including its foundations, implementation, and empirical evaluation. We formulate a cryptographic primitive providing the functionality and security for this setting, and then demonstrate how it captures applications with privacy and user-defined computations. We build a system that enables incremental verification, for applications such as privacy-preserving payments, with universal (application-independent) setup. Finally, we show that incremental verification can reduce participation costs by orders of magnitude, for a bare-bones version of Bitcoin.
+More Info
+Available on  ePrint .
+Conference Publications
+[C68]
+How to Prove Post-Quantum Security for Succinct Non-Interactive Reductions
+Alessandro Chiesa,
+Zijing Di ,
+Zihan Hu ,
+Yuxi Zheng
+EUROCRYPT 2026
+(45th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Hash-based succinct non-interactive arguments (SNARGs) are widely used in practice, owing to their ease of deployment, notable efficiency, and post-quantum properties. They are constructed via the BCS transformation, which combines an interactive oracle proof (IOP) and a hash-based vector commitment. This success has motivated the study of hash-based succinct non-interactive reductions (SNRDXs), used for recursively ensuring the correctness of distributed computations, by extending the BCS transformation to work with an interactive oracle reduction (IOR) rather than an IOP.
+We prove that hash-based SNRDXs constructed from IORs are secure in the quantum random oracle model (QROM), provided the IOR satisfies a natural post-quantum analogue of state-restoration security; moreover, we show that (classical) round-by-round security implies post-quantum state-restoration security. Our results thus achieve a post-quantum analogue of the classical security of SNRDXs in the ROM, and generalize a prior result about SNARGs in the QROM to cover recent SNRDXs constructions.
+Moreover, for SNRDXs we propose and achieve an adaptively-secure straightline quantum extraction property in the QROM, while prior work obtains non-adaptive security for SNARGs in the QROM. Along the way, we develop a modular framework for proving the security of the (extended) BCS transformation based on a new quantum extraction property for vector commitments (which we prove is achieved by Merkle commitments), mirroring classical security analyses and departing from prior ``monolithic'' post-quantum analyses. This demands a new commutator bound that shows the almost-commutativity between quantum extraction and quantum oracle queries, by bounding a natural classical extraction property.
+More Info
+Available on  ePrint .
+[C67]
+A Fiat–Shamir Transformation From Duplex Sponges
+Alessandro Chiesa,
+Michele Orrù
+TCC 2025
+(23rd Theory of Cryptography Conference)
+Abstract
+We analyze a variant of the Fiat--Shamir transformation based on an ideal permutation. The transformation relies on the popular duplex sponge paradigm, and minimizes the number of calls to the permutation (given the information to absorb/squeeze). This closely models deployed variants of the Fiat--Shamir transformation, and our analysis provides concrete security bounds to guide security parameters in practice. Our results contribute to the ongoing community-wide effort to achieve rigorous, and ultimately formally verified, security proofs for deployed cryptographic proofs. Along the way, we find that indifferentiability (a property proven for many modes of operation, including the duplex sponge) is ill-suited for establishing the knowledge soundness and zero knowledge of a non-interactive argument.
+We additionally contribute spongefish, an open-source Rust library implementing our Fiat--Shamir transformation. The library is interoperable across multiple cryptographic frameworks, and works with any choice of permutation. The library comes equipped with Keccak and Poseidon permutations, as well as several "codecs" for re-mapping prover and verifier messages to the permutation's domain.
+More Info
+Available on  ePrint .
+[C66]
+Time-Space Tradeoffs for Sumcheck
+Anubhav Baweja,
+Alessandro Chiesa,
+Elisabetta Fedele ,
+Giacomo Fenzi ,
+Pratyush Mishra ,
+Tushar Mopuri ,
+Andrew Zitek-Estrada
+TCC 2025
+(23rd Theory of Cryptography Conference)
+Abstract
+The sumcheck protocol is a fundamental building block in the design of probabilistic proof systems, and has become a key component of recent work on efficient succinct arguments.
+We study time-space tradeoffs for the prover of the sumcheck protocol in the streaming model, and provide upper and lower bounds that tightly characterize the efficiency achievable by the prover.
+For sumcheck claims about a single multilinear polynomial we demonstrate an algorithm that runs in time $O(kN)$ and uses space $O(N^{1/k})$ for any $k \geq 1$. For non-adaptive provers (a class which contains all known sumcheck prover algorithms) we show this tradeoff is optimal.
+For sumcheck claims about products of multilinear polynomials, we describe a prover algorithm that runs in time $O(N(\log \log N + k))$ and uses space $O(N^{1/k})$ for any $k \geq 1$. We show that, conditioned on the hardness of a natural problem about multiplication of multilinear polynomials, any "natural" prover algorithm that uses space $O(N^{1/2 - \varepsilon})$ for some $\varepsilon > 0$ must run in time $\Omega(N(\log \log N + \log \varepsilon))$.
+We implement and evaluate the prover algorithm for products of multilinear polynomials. We show that our algorithm consumes up to $120\times$ less memory compare to the linear-time prover algorithm, while incurring a time overhead of less than $2\times$.
+The foregoing algorithms and lowerbounds apply in the interactive proof model. We show that in the polynomial interactive oracle proof model one can in fact design a new protocol that achieves a better time-space tradeoff of $O(N^{1/k})$ space and $O(N(\log^* N + k))$ time for any $k \geq 1$.
+More Info
+Available on  ePrint . This paper subsumes  [CFFZ24]  (a prior note).
+[C65]
+Linear-Time Accumulation Schemes
+Benedikt Bünz ,
+Alessandro Chiesa,
+Giacomo Fenzi ,
+William Wang
+TCC 2025
+(23rd Theory of Cryptography Conference)
+Abstract
+Proof-carrying data (PCD) is a powerful cryptographic primitive for computational integrity in a distributed setting. State-of-the-art constructions of PCD are based on accumulation schemes (and, closely related, folding schemes).
+We present WARP, the first accumulation scheme with linear prover time and logarithmic verifier time. Our scheme is hash-based (secure in the random oracle model), plausibly post-quantum secure, and supports unbounded accumulation depth.
+We achieve our result by constructing an interactive oracle reduction of proximity that works with any linear code over a sufficiently large field. We take a novel approach by constructing a straightline extractor that relies on erasure correction, rather than error-tolerant decoding like prior extractors. Along the way, we introduce a variant of straightline round-by-round knowledge soundness that is compatible with our extraction strategy.
+More Info
+Available on  ePrint .
+[C64]
+Quantum Rewinding for IOP-Based Succinct Arguments
+Alessandro Chiesa,
+Marcel Dall'Agnol ,
+Zijing Di ,
+Ziyi Guan ,
+Nicholas Spooner
+TCC 2025
+(23rd Theory of Cryptography Conference)
+Abstract
+We analyze the post-quantum security of succinct interactive arguments constructed from interactive oracle proofs (IOPs) and vector commitment schemes. Specifically, we prove that an interactive variant of the  BCS transformation  is secure in the standard model against quantum adversaries when the vector commitment scheme is collapse binding.
+Prior work established the post-quantum security of Kilian's succinct interactive argument, a special case of the BCS transformation for one-message IOPs (i.e., PCPs). That analysis is inherently limited to one message because the reduction, like all prior quantum rewinding reductions, aims to extract classical information (a PCP string) from the quantum argument adversary. Our reduction overcomes this limitation by instead extracting a  quantum algorithm  that implements an IOP adversary; representing such an adversary classically may in general require exponential complexity.
+Along the way we define  collapse position binding , which we propose as the "correct" definition of collapse binding for vector commitment schemes, eliminating shortcomings of prior definitions.
+As an application of our results, we obtain post-quantum secure succinct arguments, in the standard model (no oracles), with the  best asymptotic complexity known .
+More Info
+Available on  ePrint .
+[C63]
+Relativized Succinct Arguments in the ROM Do Not Exist
+Annalisa Barbara,
+Alessandro Chiesa,
+Ziyi Guan
+TCC 2025
+(23rd Theory of Cryptography Conference)
+Abstract
+A relativized succinct argument in the random oracle model (ROM) is a succinct argument in the ROM that can prove/verify the correctness of computations that involve queries to the random oracle. We prove that relativized succinct arguments in the ROM do not exist. The impossibility holds even if the succinct argument is interactive, and even if soundness is computational (rather than statistical).
+This impossibility puts on a formal footing the commonly-held belief that succinct arguments require non-relativizing techniques. Moreover, our results stand in sharp contrast with other oracle models, for which a recent line of work has constructed relativized succinct non-interactive arguments (SNARGs). Indeed, relativized SNARGs are a powerful primitive that, e.g., can be used to obtain constructions of IVC (incrementally-verifiable computation) and PCD (proof-carrying data) based on falsifiable cryptographic assumptions. Our results rule out this approach for IVC and PCD in the ROM.
+More Info
+Available on  ePrint .
+[C62]
+WHIR: Reed–Solomon Proximity Testing with Super-Fast Verification
+Gal Arnon ,
+Alessandro Chiesa,
+Giacomo Fenzi ,
+Eylon Yogev
+EUROCRYPT 2025
+(44th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+We introduce WHIR, a new IOP of proximity that offers small query complexity and exceptionally fast verification time. The WHIR verifier typically runs in a few hundred microseconds, whereas other verifiers in the literature require several milliseconds (if not much more). This significantly improves the state of the art in verifier time for hash-based SNARGs (and beyond).
+Crucially, WHIR is an IOP of proximity for constrained Reed–Solomon codes, which can express a rich class of queries to multilinear polynomials and to univariate polynomials. In particular, WHIR serves as a direct replacement for protocols like FRI, STIR, BaseFold, and others. Leveraging the rich queries supported by WHIR and a new compiler for multilinear polynomial IOPs, we obtain a highly efficient SNARG for generalized R1CS.
+As a comparison point, our techniques also yield state-of-the-art constructions of hash-based (non-interactive) polynomial commitment schemes for both univariate and multivariate polynomials (since sumcheck queries naturally express polynomial evaluations). For example, if we use WHIR to construct a polynomial commitment scheme for degree 222, with 100 bits of security, then the time to commit and open is 1.2 seconds, the sender communicates 63 KiB to the receiver, and the opening verification time is 360 microseconds.
+More Info
+Available on  ePrint .
+[C61]
+zkSNARKs in the ROM with Unconditional UC-Security
+Alessandro Chiesa,
+Giacomo Fenzi
+TCC 2024
+(22nd Theory of Cryptography Conference)
+Abstract
+The universal composability (UC) framework is a  gold standard  for security in cryptography. UC-secure protocols achieve strong security guarantees against powerful adaptive adversaries, and retain these guarantees when used as part of larger protocols. Zero knowledge succinct non-interactive arguments of knowledge (zkSNARKs) are a popular cryptographic primitive that are often used within larger protocols deployed in dynamic environments, and so UC-security is a highly desirable, if not necessary, goal.
+In this paper we prove that there exist zkSNARKs in the random oracle model (ROM) that unconditionally achieve UC-security. Here, "unconditionally" means that security holds against adversaries that make a bounded number of queries to the random oracle, but are otherwise computationally unbounded.
+Prior work studying UC-security for zkSNARKs obtains transformations that rely on computational assumptions and, in many cases, lose most of the succinctness property of the zkSNARK. Moreover, these transformations make the resulting zkSNARK more expensive and complicated.
+In contrast, we prove that widely used zkSNARKs in the ROM are UC-secure without modifications. We prove that the Micali construction, which is the canonical construction of a zkSNARK, is UC-secure. Moreover, we prove that the BCS construction, which many zkSNARKs deployed in practice are based on, is UC-secure. Our results confirm the intuition that these natural zkSNARKs do not need to be augmented to achieve UC-security, and give confidence that their use in larger real-world systems is secure.
+More Info
+Available on  ePrint .
+[C60]
+Untangling the Security of Kilian's Protocol: Upper and Lower Bounds
+Alessandro Chiesa,
+Marcel Dall'Agnol ,
+Ziyi Guan ,
+Nicholas Spooner ,
+Eylon Yogev
+TCC 2024
+(22nd Theory of Cryptography Conference)
+Abstract
+Sigma protocols are elegant cryptographic proofs that have become a cornerstone of modern cryptography. A notable example is Schnorr's protocol, a zero-knowledge proof-of-knowledge of a discrete logarithm. Despite extensive research, the security of Schnorr's protocol in the standard model is not fully understood.
+In this paper we study  Kilian's protocol , an influential public-coin interactive protocol that, while not a sigma protocol, shares striking similarities with sigma protocols. The first example of a succinct argument, Kilian's protocol is proved secure via  rewinding , the same idea used to prove sigma protocols secure. In this paper we show how, similar to Schnorr's protocol, a precise understanding of the security of Kilian's protocol remains elusive. We contribute new insights via upper bounds and lower bounds.
+Upper bounds.  We establish the tightest known bounds on the security of Kilian's protocol in the standard model, via strict-time reductions and via expected-time reductions. Prior analyses are strict-time reductions that incur large overheads or assume restrictive properties of the PCP underlying Kilian's protocol.
+Lower bounds.  We prove that significantly improving on the bounds that we establish for Kilian's protocol would imply improving the security analysis of Schnorr's protocol beyond the current state-of-the-art (an open problem). This partly explains the difficulties in obtaining tight bounds for Kilian's protocol.
+More Info
+Available on  ePrint .
+[C59]
+Security Bounds for Proof-Carrying Data from Straightline Extractors
+Alessandro Chiesa,
+Ziyi Guan ,
+Shahar Samocha,
+Eylon Yogev
+TCC 2024
+(22nd Theory of Cryptography Conference)
+Abstract
+Proof-carrying data (PCD) is a powerful cryptographic primitive that allows mutually distrustful parties to perform distributed computation in an efficiently verifiable manner. Real-world deployments of PCD have sparked keen interest within the applied community and industry.
+Known constructions of PCD are obtained by recursively-composing SNARKs or related primitives. Unfortunately, known security analyses incur expensive blowups, which practitioners have disregarded as the analyses would lead to setting parameters that are prohibitively expensive.
+In this work we study the concrete security of recursive composition, with the goal of better understanding how to reasonably set parameters for certain PCD constructions of practical interest. Our main result is that PCD obtained from SNARKs with  straightline knowledge soundness  has essentially the same security as the underlying SNARK (i.e., recursive composition incurs essentially no security loss).
+We describe how straightline knowledge soundness is achieved by SNARKs in several oracle models, which results in a highly efficient security analysis of PCD that makes black-box use of the SNARK's oracle (there is no need to instantiated the oracle to carry out the security reduction).
+As a notable application, our work offers an idealized model that provides new, albeit heuristic, insights for the concrete security of  recursive STARKs  used in blockchain systems. Our work could be viewed as partial evidence justifying the parameter choices for recursive STARKs made by practitioners.
+More Info
+Available on  ePrint .
+[C58]
+STIR: Reed–Solomon Proximity Testing with Fewer Queries
+Gal Arnon ,
+Alessandro Chiesa,
+Giacomo Fenzi ,
+Eylon Yogev
+CRYPTO 2024
+(44th International Cryptology Conference)
+Best Paper Award
+(CRYPTO 2024)
+Abstract
+We present STIR (Shift To Improve Rate), an interactive oracle proof of proximity (IOPP) for Reed--Solomon codes that achieves the best known query complexity of any concretely efficient IOPP for this problem. For 𝜆 bits of security, STIR has query complexity O(log(d)+𝜆 loglog(d)), while FRI, a popular protocol, has query complexity O(𝜆 log(d)) (including variants of FRI based on conjectured security assumptions). STIR relies on a new technique for recursively improving the rate of the tested Reed--Solomon code.
+We provide an implementation of STIR compiled to a SNARK. Compared to a highly-optimized implementation of FRI, STIR achieves an improvement in argument size that ranges from 1.25x to 2.46x depending on the chosen parameters, with similar prover and verifier running times. For example, in order to achieve 128 bits of security for degree 2^{26} and rate 1/4, STIR has argument size 114 KiB, compared to 211 KiB for FRI.
+More Info
+Available on  ePrint .
+[C57]
+On Parallel Repetition of PCPs
+Alessandro Chiesa,
+Ziyi Guan ,
+Burcu Yıldız
+ITCS 2024
+(15th Conference on Innovations in Theoretical Computer Science)
+Abstract
+Parallel repetition refers to a set of valuable techniques used to reduce soundness error of probabilistic proofs while saving on certain efficiency measures. Parallel repetition has been studied for interactive proofs (IPs) and multi-prover interactive proofs (MIPs). In this paper we initiate the study of parallel repetition for probabilistically checkable proofs (PCPs).
+We show that, perhaps surprisingly, parallel repetition of a PCP can increase soundness error, in fact bringing the soundness error to one as the number of repetitions tends to infinity. This "failure" of parallel repetition is common: we find that it occurs for a wide class of natural PCPs for NP-complete languages. We explain this unexpected phenomenon by providing a characterization result: the parallel repetition of a PCP brings the soundness error to zero if and only if a certain "MIP projection" of the PCP has soundness error strictly less than one. We show that our characterization is tight via a suitable example. Moreover, for those cases where parallel repetition of a PCP does bring the soundness error to zero, the aforementioned connection to MIPs offers preliminary results on the rate of decay of the soundness error.
+Finally, we propose a simple variant of parallel repetition, called consistent parallel repetition (CPR), which has the same randomness complexity and query complexity as the plain variant of parallel repetition. We show that CPR brings the soundness error to zero for every PCP (with non-trivial soundness error). In fact, we show that CPR decreases the soundness error at an exponential rate in the repetition parameter.
+More Info
+Available on  ePrint .
+[C56]
+IOPs with Inverse Polynomial Soundness Error
+Gal Arnon ,
+Alessandro Chiesa,
+Eylon Yogev
+FOCS 2023
+(64th IEEE Symposium on Foundations of Computer Science)
+Abstract
+We show that every language in NP has an Interactive Oracle Proof (IOP) with inverse polynomial soundness error and small query complexity. This achieves parameters that surpass all previously known PCPs and IOPs. Specifically, we construct an IOP with perfect completeness, soundness error 1/n, round complexity O(loglog n), proof length poly(n) over an alphabet of size O(n), and query complexity O(loglog n). This is a step forward in the quest to establish the sliding-scale conjecture for IOPs (which would additionally require query complexity O(1)).
+Our main technical contribution is a high-soundness small-query proximity test for the Reed-Solomon code. We construct an IOP of proximity for Reed-Solomon codes, over a field 𝔽 with evaluation domain L and degree d, with perfect completeness, soundness error (roughly) max{1-𝛿 , O(𝜌^{1/4})} for 𝛿-far functions, round complexity O(loglog d), proof length O(|L|/𝜌) over 𝔽, and query complexity O(loglog d); here 𝜌 = (d+1)/|L| is the code rate. En route, we obtain a new high-soundness proximity test for bivariate Reed-Muller codes.
+The IOP for NP is then obtained via a high-soundness reduction from NP to Reed-Solomon proximity testing with rate 𝜌 = 1/poly(n) and distance 𝛿 = 1-1/poly(n) (and applying our proximity test). Our constructions are direct and efficient, and hold the potential for practical realizations that would improve the state-of-the-art in real-world applications of IOPs.
+More Info
+Available on  ePrint .
+[C55]
+Lattice-Based Succinct Arguments for NP with Polylogarithmic-Time Verification
+Jonathan Bootle ,
+Alessandro Chiesa,
+Katerina Sotiraki
+CRYPTO 2023
+(43rd International Cryptology Conference)
+Abstract
+Succinct arguments that rely on the Merkle-tree paradigm introduced by Kilian (STOC 92) suffer from larger proof sizes in practice due to the use of generic cryptographic primitives. In contrast, succinct arguments with the smallest proof sizes in practice exploit homomorphic commitments. However these latter are quantum insecure, unlike succinct arguments based on the Merkle-tree paradigm.
+A recent line of works seeks to address this limitation, by constructing quantum-safe succinct arguments that exploit lattice-based commitments. The eventual goal is smaller proof sizes than those achieved via the Merkle-tree paradigm. Alas, known constructions lack succinct verification.
+In this paper, we construct the first interactive argument system for NP with succinct verification that, departing from the Merkle-tree paradigm, exploits the homomorphic properties of lattice-based commitments. For an arithmetic circuit with N gates, our construction achieves verification time polylog(N) based on the hardness of the Ring Short-Integer-Solution (RSIS) problem.
+The core technique in our construction is a delegation protocol built from commitment schemes based on leveled bilinear modules, a new notion that we deem of independent interest. We show that leveled bilinear modules can be realized from pre-quantum and from post-quantum cryptographic assumptions.
+More Info
+Available on  ePrint .
+[C54]
+EOS: Efficient Private Delegation of zkSNARK Provers
+Alessandro Chiesa,
+Ryan Lehmkuhl ,
+Pratyush Mishra ,
+Yinuo Zhang
+USENIX Security 2023
+(32nd USENIX Security Symposium)
+Abstract
+Succinct zero knowledge proofs (i.e. zkSNARKs) are powerful cryptographic tools that enable a prover to convince a verifier that a given statement is true without revealing any additional information. Their attractive privacy properties have led to much academic and industrial interest.
+Unfortunately, existing systems for generating zkSNARKs are expensive, which limits the applications in which these proofs can be used. One approach is to take advantage of powerful cloud servers to generate the proof. However, existing techniques for this (e.g., DIZK) sacrifice privacy by revealing secret information to the cloud machines. This is problematic for many applications of zkSNARKs, such as decentralized private currency and computation systems.
+In this work we design and implement privacy-preserving delegation protocols for zkSNARKs with universal setup. Our protocols enable a prover to outsource proof generation to a set of workers, so that if at least one worker does not collude with other workers, no private information is revealed to any worker. Our protocols achieve security against malicious workers without relying on heavyweight cryptographic tools.
+We implement and evaluate our delegation protocols for a state-of-the-art zkSNARK in a variety of computational and bandwidth settings, and demonstrate that our protocols are concretely efficient. When compared to local proving, using our protocols to delegate proof generation from a recent smartphone (a) reduces end-to-end latency by up to 26×, (b) lowers the delegator's active computation time by up to 1447×, and (c) enables proving up to 256× larger instances.
+More Info
+Available on  USENIX .
+[C53]
+Proof-Carrying Data From Arithmetized Random Oracles
+Megan Chen ,
+Alessandro Chiesa,
+Tom Gur ,
+Jack O'Connor,
+Nicholas Spooner
+EUROCRYPT 2023
+(42nd International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Proof-carrying data (PCD) is a powerful cryptographic primitive that allows mutually distrustful parties to perform distributed computation in an efficiently verifiable manner. Known constructions of PCD are obtained by recursively-composing SNARKs or related primitives. SNARKs with desirable properties such as transparent setup are constructed in the random oracle model. However, using such SNARKs to construct PCD requires heuristically instantiating the oracle and using it in a non-black-box way. Chen, Chiesa and Spooner (EC'22) constructed SNARKs in the low-degree random oracle model, circumventing this issue, but instantiating their model in the real world appears difficult.
+In this paper, we introduce a new model: the  arithmetized random oracle model  (AROM). We provide a plausible standard-model (software-only) instantiation of the AROM, and we construct PCD in the AROM, given only a standard-model collision-resistant hash function. Furthermore, our PCD construction is for arbitrary-depth compliance predicates. We obtain our PCD construction by showing how to construct SNARKs in the AROM for computations that query the oracle, given an accumulation scheme for oracle queries in the AROM. We then construct such an accumulation scheme for the AROM.
+We give an efficient "lazy sampling" algorithm (an emulator) for the ARO up to some error. Our emulator enables us to prove the security of cryptographic constructs in the AROM and that zkSNARKs in the ROM also satisfy zero-knowledge in the AROM. The algorithm is non-trivial, and relies on results in algebraic query complexity and the combinatorial nullstellensatz.
+More Info
+Available on  ePrint .
+[C52]
+A Toolbox for Barriers on Interactive Oracle Proofs
+Gal Arnon ,
+Amey Bhangale ,
+Alessandro Chiesa,
+Eylon Yogev
+TCC 2022
+(20th Theory of Cryptography Conference)
+Abstract
+Interactive oracle proofs (IOPs) are a proof system model that combines features of interactive proofs (IPs) and probabilistically checkable proofs (PCPs). IOPs have prominent applications in complexity theory and cryptography, most notably to constructing succinct arguments.
+In this work, we study the limitations of IOPs, as well as their relation to those of PCPs. We present a versatile toolbox of IOP-to-IOP transformations containing tools for: (i) length and round reduction; (ii) improving completeness; and (iii) derandomization.
+We use this toolbox to establish several barriers for IOPs:
+-- Low-error IOPs can be transformed into low-error PCPs. In other words, interaction can be used to construct low-error PCPs; alternatively, low-error IOPs are as hard to construct as low-error PCPs. This relates IOPs to PCPs in the regime of the sliding scale conjecture for inverse-polynomial soundness error.
+-- Limitations of quasilinear-size IOPs for 3SAT with small soundness error.
+-- Limitations of IOPs where query complexity is much smaller than round complexity.
+-- Limitations of binary-alphabet constant-query IOPs.
+We believe that our toolbox will prove useful to establish additional barriers beyond our work.
+More Info
+Available on  ePrint .
+[C51]
+Hardness of Approximation for Stochastic Problems via Interactive Oracle Proofs
+Gal Arnon ,
+Alessandro Chiesa,
+Eylon Yogev
+CCC 2022
+(37th Computational Complexity Conference)
+Abstract
+Hardness of approximation aims to establish lower bounds on the approximability of optimization problems in NP and beyond. We continue the study of hardness of approximation for problems beyond NP, specifically for \emph{stochastic} constraint satisfaction problems (SCSPs). An SCSP with $k$ alternations is a list of constraints over variables grouped into $2k$ blocks, where each constraint has constant arity.
+An assignment to the SCSP is defined by two players who alternate in setting values to a designated block of variables, with one player choosing their assignments uniformly at random and the other player trying to maximize the number of satisfied constraints.
+In this paper, we establish hardness of approximation for SCSPs based on interactive proofs. For $k \leq O(\log n)$, we prove that it is $AM[k]$-hard to approximate, to within a constant, the value of SCSPs with $k$ alternations and constant arity. Before, this was known only for $k = O(1)$.
+Furthermore, we introduce a natural class of $k$-round interactive proofs, denoted $IR[k]$ (for \emph{interactive reducibility}), and show that several protocols (e.g., the sumcheck protocol) are in $IR[k]$. Using this notion, we extend our inapproximability to all values of $k$: we show that for every $k$, approximating an SCSP instance with $O(k)$ alternations and constant arity is $IR[k]$-hard.
+While hardness of approximation for CSPs is achieved by constructing suitable PCPs, our results for SCSPs are achieved by constructing suitable IOPs (interactive oracle proofs). We show that every language in $AM[k \leq O(\log n)]$ or in $IR[k]$ has an $O(k)$-round IOP whose verifier has \emph{constant} query complexity (\emph{regardless} of the number of rounds $k$). In particular, we derive a ``sumcheck protocol'' whose verifier reads $O(1)$ bits from the entire interaction transcript.
+More Info
+Available on  ePrint .
+[C50]
+On Succinct Non-Interactive Arguments in Relativized Worlds
+Megan Chen ,
+Alessandro Chiesa,
+Nicholas Spooner
+EUROCRYPT 2022
+(41st International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Succinct non-interactive arguments of knowledge (SNARKs) are cryptographic proofs with strong efficiency properties. Applications of SNARKs often involve proving computations that include the SNARK verifier, a technique called recursive composition. Unfortunately, SNARKs with desirable features such as a transparent (public-coin) setup are known only in the random oracle model (ROM). In applications this oracle must be heuristically instantiated and used in a non-black-box way.
+In this paper we identify a natural oracle model, the low-degree random oracle model, in which there exist transparent SNARKs for all NP computations  relative to this oracle . Informally, letting $O$ be a low-degree encoding of a random oracle, and assuming the existence of (standard-model) collision-resistant hash functions, there exist SNARKs relative to $O$ for all languages in $NP^{O}$. Such a SNARK can directly prove a computation about its own verifier. This capability leads to proof-carrying data (PCD) in the oracle model $O$ based solely on the existence of (standard-model) collision-resistant hash functions.
+To analyze this model, we introduce a more general framework, the  linear code random oracle model  (LCROM). We show how to obtain SNARKs in the LCROM for computations that query the oracle, given an  accumulation scheme  for oracle queries in the LCROM. Then we construct such an accumulation scheme for the special case of a low degree random oracle.
+More Info
+Available on  ePrint .
+[C49]
+Gemini: Elastic SNARKs for Diverse Environments
+Jonathan Bootle ,
+Alessandro Chiesa,
+Yuncong Hu ,
+Michele Orrù
+EUROCRYPT 2022
+(41st International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+We introduce and study  elastic SNARKs , a class of succinct arguments where the prover has multiple configurations with different time and memory tradeoffs, which can be selected depending on the execution environment and the proved statement. The output proof is independent of the chosen configuration.
+We construct an elastic SNARK for rank-1 constraint satisfiability (R1CS). In a time-efficient configuration, the prover uses a linear number of cryptographic operations and a linear amount of memory. In a space-efficient configuration, the prover uses a quasilinear number of cryptographic operations and a logarithmic amount of memory. A key component of our construction is an elastic probabilistic proof. Along the way, we also formulate a streaming framework for R1CS that we deem of independent interest.
+We additionally contribute Gemini, a Rust implementation of our protocol. Our benchmarks show that Gemini, on a single machine, supports R1CS instances with tens of billions of constraints.
+More Info
+Available on  ePrint .
+[C48]
+A PCP Theorem for Interactive Proofs and Applications
+Gal Arnon ,
+Alessandro Chiesa,
+Eylon Yogev
+EUROCRYPT 2022
+(41st International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+The celebrated PCP Theorem states that any language in NP can be decided via a verifier that reads O(1) bits from a polynomially long proof. Interactive oracle proofs (IOP), a generalization of PCPs, allow the verifier to interact with the prover for multiple rounds while reading a small number of bits from each prover message. While PCPs are relatively well understood, the power captured by IOPs (beyond NP) has yet to be fully explored.
+We present a generalization of the PCP theorem for interactive languages. We show that any language decidable by a k(n)-round IP has a k(n)-round public-coin IOP, where the verifier makes its decision by reading only O(1) bits from each (polynomially long) prover message and O(1) bits from each of its own (random) messages to the prover.
+Our result and the underlying techniques have several applications. We get a new hardness of approximation result for a stochastic satisfiability problem, we show IOP-to-IOP transformations that previously were known to hold only for IPs, and we formulate a new notion of PCPs (index-decodable PCPs) that enables us to obtain a commit-and-prove SNARK in the random oracle model for nondeterministic computations.
+More Info
+Available on  ePrint .
+[C47]
+Zero-Knowledge IOPs with Linear-Time Prover and Polylogarithmic-Time Verifier
+Jonathan Bootle ,
+Alessandro Chiesa,
+Siqi Liu
+EUROCRYPT 2022
+(41st International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Interactive oracle proofs (IOPs) are a multi-round generalization of probabilistically checkable proofs that play a fundamental role in the construction of efficient cryptographic proofs.
+We present an IOP that simultaneously achieves the properties of zero knowledge, linear-time proving, and polylogarithmic-time verification. We construct a zero-knowledge IOP where, for the satisfiability of an N-gate arithmetic circuit over any field of size \Omega(N), the prover uses O(N) field operations and the verifier uses polylog(N) field operations (with proof length O(N) and query complexity polylog(N)). Polylogarithmic verification is achieved in the holographic setting for every circuit (the verifier has oracle access to a linear-time-computable encoding of the circuit whose satisfiability is being proved).
+Our result implies progress on a basic goal in the area of efficient zero knowledge. Via a known transformation, we obtain a zero knowledge argument system where the prover runs in linear time and the verifier runs in polylogarithmic time; the construction is plausibly post-quantum and only makes a black-box use of lightweight cryptography (collision-resistant hash functions).
+More Info
+Available on  ePrint .
+[C46]
+Tight Security Bounds for Micali’s SNARGs
+Alessandro Chiesa,
+Eylon Yogev
+TCC 2021
+(19th Theory of Cryptography Conference)
+Abstract
+Succinct non-interactive arguments (SNARGs) in the random oracle model (ROM) have several attractive features: they are plausibly post-quantum; they can be heuristically instantiated via lightweight cryptography; and they have a transparent (public-coin) parameter setup.
+The canonical construction of a SNARG in the ROM is due to Micali (FOCS 1994), who showed how to use a random oracle to compile any probabilistically checkable proof (PCP) with sufficiently-small soundness error into a corresponding SNARG. Yet, while Micali's construction is a seminal result, it has received little attention in terms of analysis in the past 25 years.
+In this paper, we observe that prior analyses of the Micali construction are not tight and then present a new analysis that achieves tight security bounds. Our result enables reducing the random oracle's output size, and obtain corresponding savings in concrete argument size.
+Departing from prior work, our approach relies on precisely quantifying the cost for an attacker to find several collisions and inversions in the random oracle, and proving that any PCP with small soundness error withstands attackers that succeed in finding a small number of collisions and inversions in a certain tree-based information-theoretic game.
+More Info
+Available on  ePrint .
+[C45]
+Post-Quantum Succinct Arguments: Breaking the Quantum Rewinding Barrier
+Alessandro Chiesa,
+Fermi Ma ,
+Nicholas Spooner ,
+Mark Zhandry
+FOCS 2021
+(62nd IEEE Symposium on Foundations of Computer Science)
+QIP 2022
+(25th Conference on Quantum Information Processing)
+Abstract
+We prove that Kilian's four-message succinct argument system is post-quantum secure in the standard model when instantiated with any probabilistically checkable proof and any collapsing hash function (which in turn exist based on the post-quantum hardness of Learning with Errors). This yields the first post-quantum succinct argument system from any falsifiable assumption.
+At the heart of our proof is a new quantum rewinding procedure that enables a reduction to repeatedly query a quantum adversary for accepting transcripts as many times as desired. Prior techniques were limited to a constant number of accepting transcripts.
+More Info
+Available on  ePrint .
+[C44]
+Sumcheck Arguments and their Applications
+Jonathan Bootle ,
+Alessandro Chiesa,
+Katerina Sotiraki
+CRYPTO 2021
+(41st International Cryptology Conference)
+Abstract
+We introduce a class of interactive protocols, which we call  sumcheck arguments , that establishes a novel connection between the sumcheck protocol (Lund et al. JACM 1992) and folding techniques for Pedersen commitments (Bootle et al. EUROCRYPT 2016).
+We define a class of sumcheck-friendly commitment schemes over modules that captures many examples of interest, and show that the sumcheck protocol applied to a polynomial associated with the commitment scheme yields a succinct argument of knowledge for openings of the commitment. Building on this, we additionally obtain succinct arguments for the NP-complete language R1CS over certain rings.
+Sumcheck arguments enable us to recover as a special case numerous prior works in disparate cryptographic settings (discrete logarithms, pairings, groups of unknown order, lattices), providing one framework to understand them all. Further, we answer open questions raised in prior works, such as obtaining a lattice-based succinct argument from the SIS assumption for satisfiability problems over rings.
+More Info
+Available on  ePrint .
+[C43]
+Subquadratic SNARGs in the Random Oracle Model
+Alessandro Chiesa,
+Eylon Yogev
+CRYPTO 2021
+(41st International Cryptology Conference)
+Abstract
+In a seminal work, Micali (FOCS 1994) gave the first succinct non-interactive argument (SNARG) in the random oracle model (ROM). The construction combines a PCP and a cryptographic commitment, and has several attractive features: it is plausibly post-quantum; it can be heuristically instantiated via lightweight cryptography; and it has a transparent (public-coin) parameter setup. However, it also has a significant drawback: a large argument size.
+In this work, we provide a new construction that achieves a smaller argument size. This is the first progress on the Micali construction since it was introduced over 25 years ago.
+A SNARG in the ROM is  (t,ε)-secure  if every t-query malicious prover can convince the verifier of a false statement with probability at most ε. For (t,ε)-security, the argument size of all known SNARGs in the ROM (including Micali's) is Õ((log (t/ε))^2) bits,  even  if one were to rely on conjectured probabilistic proofs well beyond current techniques. In practice, these costs lead to SNARGs that are much larger than constructions based on other (pre-quantum and costly) tools. This has led many to believe that SNARGs in the ROM are inherently quadratic.
+We show that this is not the case. We present a SNARG in the ROM with a sub-quadratic argument size: Õ(log (t/ε) ∙ log t). Our construction relies on a strong soundness notion for PCPs and a weak binding notion for commitments. We hope that our work paves the way for understanding if a linear argument size, that is O(log (t/ε)), is achievable in the ROM.
+More Info
+Available on  ePrint .
+[C42]
+Proof-Carrying Data without Succinct Arguments
+Benedikt Bünz ,
+Alessandro Chiesa,
+William Lin,
+Pratyush Mishra ,
+Nicholas Spooner
+CRYPTO 2021
+(41st International Cryptology Conference)
+Abstract
+Proof-carrying data (PCD) is a powerful cryptographic primitive that enables mutually distrustful parties to perform distributed computations that run indefinitely. Known approaches to construct PCD are based on succinct non-interactive arguments of knowledge (SNARKs) that have a succinct verifier or a succinct accumulation scheme.
+In this paper we show how to obtain PCD without relying on SNARKs. We construct a PCD scheme given any non-interactive argument of knowledge (e.g., with linear-size arguments) that has a  split accumulation scheme , which is a weak form of accumulation that we introduce.
+Moreover, we construct a transparent non-interactive argument of knowledge for R1CS whose split accumulation is verifiable via a (small)  constant number of group and field operations . Our construction is proved secure in the random oracle model based on the hardness of discrete logarithms, and it leads, via the random oracle heuristic and our result above, to concrete efficiency improvements for PCD.
+Along the way, we construct a split accumulation scheme for Hadamard products under Pedersen commitments and for a simple polynomial commitment scheme based on Pedersen commitments.
+Our results are supported by a modular and efficient implementation.
+More Info
+Available on  ePrint .
+[C41]
+Proof-Carrying Data from Accumulation Schemes
+Benedikt Bünz ,
+Alessandro Chiesa,
+Pratyush Mishra ,
+Nicholas Spooner
+TCC 2020
+(18th Theory of Cryptography Conference)
+Abstract
+Recursive proof composition has been shown to lead to powerful primitives such as incrementally-verifiable computation (IVC) and proof-carrying data (PCD). All existing approaches to recursive composition take a succinct non-interactive argument of knowledge (SNARK) and use it to prove a statement about its own verifier. This technique requires that the verifier run in time sublinear in the size of the statement it is checking, a strong requirement that restricts the class of SNARKs from which PCD can be built. This in turn restricts the efficiency and security properties of the resulting scheme.
+Bowe, Grigg, and Hopwood (ePrint 2019/1021) outlined a novel approach to recursive composition, and applied it to a particular SNARK construction which does  not  have a sublinear-time verifier. However, they omit details about this approach and do not prove that it satisfies any security property. Nonetheless, schemes based on their ideas have already been implemented in software.
+In this work we present a collection of results that establish the theoretical foundations for a generalization of the above approach. We define an  accumulation scheme  for a non-interactive argument, and show that this suffices to construct PCD, even if the argument itself does not have a sublinear-time verifier. Moreover we give constructions of accumulation schemes for SNARKs, which yield PCD schemes with novel efficiency and security features.
+More Info
+Available on  ePrint .
+[C40]
+Barriers for Succinct Arguments in the Random Oracle Model
+Alessandro Chiesa,
+Eylon Yogev
+TCC 2020
+(18th Theory of Cryptography Conference)
+Abstract
+We establish barriers on the efficiency of succinct arguments in the random oracle model. We give evidence that, under standard complexity assumptions, there do not exist succinct arguments where the argument verifier makes a small number of queries to the random oracle.
+The new barriers follow from new insights into how probabilistic proofs play a fundamental role in constructing succinct arguments in the random oracle model.
+IOPs are necessary for succinctness.  We prove that any succinct argument in the random oracle model can be transformed into a corresponding interactive oracle proof (IOP). The query complexity of the IOP is related to the succinctness of the argument.
+Algorithms for IOPs.  We prove that if a language has an IOP with good soundness relative to query complexity, then it can be decided via a fast algorithm with small space complexity.
+By combining these results we obtain barriers for a large class of deterministic and non-deterministic languages. For example, a succinct argument for 3SAT with few verifier queries implies an IOP with good parameters, which in turn implies a fast algorithm for 3SAT that contradicts the Exponential-Time Hypothesis.
+We additionally present results that shed light on the necessity of several features of probabilistic proofs that are typically used to construct succinct arguments, such as holography and state restoration soundness. Our results collectively provide an explanation for "why" known constructions of succinct arguments have a certain structure.
+More Info
+Available on  ePrint .
+[C39]
+Linear-Time Arguments with Sublinear Verification from Tensor Codes
+Jonathan Bootle ,
+Alessandro Chiesa,
+Jens Groth
+TCC 2020
+(18th Theory of Cryptography Conference)
+Abstract
+Minimizing the computational cost of the prover is a central goal in the area of succinct arguments. In particular, it remains a challenging open problem to construct a succinct argument where the prover runs in linear time and the verifier runs in polylogarithmic time.
+We make progress towards this goal by presenting a new linear-time probabilistic proof. For any fixed ε > 0, we construct an interactive oracle proof (IOP) that, when used for the satisfiability of an N-gate arithmetic circuit, has a prover that uses O(N) field operations and a verifier that uses O(N ε ) field operations. The sublinear verifier time is achieved in the holographic setting for every circuit (the verifier has oracle access to a linear-size encoding of the circuit that is computable in linear time).
+When combined with a linear-time collision-resistant hash function, our IOP immediately leads to an argument system where the prover performs O(N) field operations and hash computations, and the verifier performs O(N ε ) field operations and hash computations (given a short digest of the N-gate~circuit).
+More Info
+Available on  ePrint .
+[C38]
+Fractal: Post-Quantum and Transparent Recursive Proofs from Holography
+Alessandro Chiesa,
+Dev Ojha,
+Nicholas Spooner
+EUROCRYPT 2020
+(39th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+We present a new methodology to efficiently realize recursive composition of succinct non-interactive arguments of knowledge (SNARKs). Prior to this work, the only known methodology relied on pairing-based SNARKs instantiated on cycles of pairing-friendly elliptic curves, an expensive algebraic object. Our methodology does not rely on any special algebraic objects and, moreover, achieves new desirable properties: it is  post-quantum  and it is  transparent  (the setup is public coin).
+We exploit the fact that recursive composition is simpler for SNARKs with  preprocessing , and the core of our work is obtaining a preprocessing zkSNARK for rank-1 constraint satisfiability (R1CS) that is post-quantum and transparent. We obtain this latter by establishing a connection between holography and preprocessing in the random oracle model, and then constructing a holographic proof for R1CS.
+We experimentally validate our methodology, demonstrating feasibility in practice.
+More Info
+Available on  ePrint . The source code is available  here .
+[C37]
+Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS
+Alessandro Chiesa,
+Yuncong Hu ,
+Mary Maller ,
+Pratyush Mishra ,
+Noah Vesely,
+Nicholas P. Ward
+EUROCRYPT 2020
+(39th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+We present a methodology to construct preprocessing zkSNARKs where the structured reference string (SRS) is universal and updatable. This exploits a novel use of  holography  [Babai et al., STOC 1991], where fast verification is achieved provided the statement being checked is given in encoded form.
+We use our methodology to obtain a preprocessing zkSNARK where the SRS has linear size and arguments have constant size. Our construction improves on Sonic [Maller et al., CCS 2019], the prior state of the art in this setting, in all efficiency parameters: proving is an order of magnitude faster and verification is thrice as fast, even with smaller SRS size and argument size. Our construction is most efficient when instantiated in the algebraic group model (also used by Sonic), but we also demonstrate how to realize it under concrete knowledge assumptions. We implement and evaluate our construction.
+The core of our preprocessing zkSNARK is an efficient  algebraic holographic proof  (AHP) for rank-1 constraint satisfiability (R1CS) that achieves linear proof length and constant query complexity.
+More Info
+Available on  ePrint . The source code is available  here .
+[C36]
+On the Impossibility of Probabilistic Proofs in Relativized Worlds
+Alessandro Chiesa,
+Siqi Liu
+ITCS 2020
+(11th Conference on Innovations in Theoretical Computer Science)
+Abstract
+We initiate the systematic study of probabilistic proofs in relativized worlds. The goal is to understand, for a given oracle, if there exist "non-trivial" probabilistic proofs for checking deterministic or nondeterministic computations that make queries to the oracle.
+This question is intimately related to a recent line of work that builds cryptographic primitives (e.g., hash functions) via constructions that are "friendly" to known probabilistic proofs. This improves the efficiency of probabilistic proofs for computations calling these primitives.
+We prove that "non-trivial" probabilistic proofs relative to several natural oracles do not exist. Our results provide strong complexity-theoretic evidence that certain functionalities cannot be treated as black boxes, and thus investing effort to instantiate these functionalities via constructions tailored to known probabilistic proofs may be inherent.
+More Info
+Available on  ePrint .
+[C35]
+On Local Testability in the Non-Signaling Setting
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+ITCS 2020
+(11th Conference on Innovations in Theoretical Computer Science)
+Abstract
+Non-signaling strategies are a generalization of quantum strategies that have been studied in physics for decades, and have recently found applications in theoretical computer science. These applications motivate the study of local-to-global phenomena for non-signaling functions.
+We present general results about the local testability of linear codes in the non-signaling setting. Our contributions include formulating natural definitions that capture the condition that a non-signaling function "belongs" to a given code, and characterizing the sets of local constraints that imply membership in the code. We prove these results by relating the Fourier spectrum of non-signaling functions to Cayley hypergraphs induced by local constraints.
+We apply the above results to show a separation between locally testable codes in the classical and non-signaling setting by proving that bivariate low-degree testing fails spectacularly in the non-signaling setting. Specifically, we show that there exist non-signaling functions that pass bivariate low-degree tests with probability 1, and yet are maximally far from low-degree.
+More Info
+Available on  ECCC .
+[C34]
+ZEXE: Enabling Decentralized Private Computation
+Sean Bowe ,
+Alessandro Chiesa,
+Matthew D. Green ,
+Ian Miers ,
+Pratyush Mishra ,
+Howard Wu
+SP 2020
+(41st IEEE Symposium on Security and Privacy)
+Abstract
+Ledger-based systems that support rich applications often suffer from two limitations. First, validating a transaction requires re-executing the state transition that it attests to. Second, transactions not only reveal which application had a state transition but also reveal the application's internal state.
+We design, implement, and evaluate ZEXE, a ledger-based system where users can execute offline computations and subsequently produce transactions, attesting to the correctness of these computations, that satisfy two main properties. First, transactions  hide all information  about the offline computations. Second, transactions can be  validated in constant time  by anyone, regardless of the offline computation.
+The core of ZEXE is a construction for a new cryptographic primitive that we introduce,  decentralized private computation  (DPC) schemes. In order to achieve an efficient implementation of our construction, we leverage tools in the area of cryptographic proofs, including succinct zero knowledge proofs and recursive proof composition. Overall, transactions in ZEXE are 968 bytes regardless of the offline computation, and generating them takes less than a minute plus a time that grows with the offline computation.
+We demonstrate how to use ZEXE to realize privacy-preserving analogues of popular applications: private decentralized exchanges for user-defined fungible assets and regulation-friendly private stablecoins.
+More Info
+Available on  ePrint . The source code is available  here .
+[C33]
+Relaxed Locally Correctable Codes with Nearly-Linear Block Length and Constant Query Complexity
+Alessandro Chiesa,
+Tom Gur ,
+Igor Shinkar
+SODA 2020
+(31st Symposium on Discrete Algorithms)
+Abstract
+Locally correctable codes (LCCs) are error correcting codes C: Σ k  → Σ n  which admit local algorithms that correct any individual symbol of a corrupted codeword via a minuscule number of queries. This notion is stronger than that of locally decodable codes (LDCs), where the goal is to only recover individual symbols of the message. One of the central problems in algorithmic coding theory is to construct O(1)-query LCCs and LDCs with minimal block length. Alas, state-of-the-art of such codes requires super-polynomial block length to admit O(1)-query algorithms for local correction and decoding, despite much attention during the last two decades.
+This lack of progress prompted the study of relaxed LCCs and LDCs, which allow the correction algorithm to abort (but not err) on a small fraction of the locations. This relaxation turned out to allow constant-query correcting and decoding algorithms for codes with polynomial block length. Focusing on local correction, Gur, Ramnarayan, and Rothblum (ITCS~2018) showed that there exist O(1)-query relaxed LCCs that achieve nearly-quartic block length n = k 4+α , for an arbitrarily small constant α>0.
+We construct an O(1)-query relaxed LCC with nearly-linear block length n = k 1+α , for an arbitrarily small constant α>0. This significantly narrows the gap between the lower bound which states that there are no O(1)-query relaxed LCCs with block length n = k 1+o(1) . In particular, our construction matches the parameters achieved by Ben-Sasson et al. (SIAM J. Comput. 2006), who constructed relaxed LDCs with the same parameters. This resolves an open problem raised by Gur, Ramnarayan, and Rothblum (ITCS 2018).
+More Info
+Available on  ECCC .
+[C32]
+Succinct Arguments in the Quantum Random Oracle Model
+Alessandro Chiesa,
+Peter Manohar ,
+Nicholas Spooner
+TCC 2019
+(17th Theory of Cryptography Conference)
+QIP 2020
+(23rd Conference on Quantum Information Processing)
+Abstract
+Succinct non-interactive arguments (SNARGs) are highly efficient certificates of membership in non-deterministic languages. Constructions of SNARGs in the random oracle model are widely believed to be post-quantum secure, provided the oracle is instantiated with a suitable post-quantum hash function. No formal evidence, however, supports this belief.
+In this work we provide the first such evidence by proving that the SNARG construction of Micali is unconditionally secure in the  quantum  random oracle model. We also prove that, analogously to the classical case, the SNARG inherits the zero knowledge and proof of knowledge properties of the PCP underlying the Micali construction. We thus obtain the first zero knowledge SNARG of knowledge (zkSNARK) that is secure in the quantum random oracle model.
+Our main tool is a new lifting lemma that shows how, for a rich class of oracle games, we can  generically  deduce security against quantum attackers by bounding a natural classical property of these games. This means that in order to prove our theorem we only need to establish  classical  properties about the Micali construction. This approach not only lets us prove post-quantum security but also enables us to prove explicit bounds that are tight up to small factors.
+We additionally use our techniques to prove that SNARGs based on interactive oracle proofs (IOPs) with round-by-round soundness are unconditionally secure in the quantum random oracle model. This result establishes the post-quantum security of many SNARGs of practical interest.
+More Info
+Available on  ePrint .
+[C31]
+Linear-Size Constant-Query IOPs for Delegating Computation
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Lior Goldberg,
+Tom Gur ,
+Michael Riabzev,
+Nicholas Spooner
+TCC 2019
+(17th Theory of Cryptography Conference)
+Abstract
+We study the problem of delegating computations via interactive proofs that can be probabilistically checked. Known as  interactive oracle proofs  (IOPs), these proofs extend probabilistically checkable proofs (PCPs) to multi-round protocols, and have received much attention due to their application to constructing cryptographic proofs (such as succinct non-interactive arguments).
+We prove that a rich class of NEXP-complete problems, which includes machine computations over large fields and succinctly-described arithmetic circuits, has constant-query IOPs with O(T)-size proofs and polylog(T)-time verification for T-size computations. This is the first construction that simultaneously achieves linear-size proofs and fast verification, regardless of query complexity.
+An important metric when using IOPs to delegate computations is the cost of producing the proof. The highly-optimized proof length in our construction enables a very efficient prover, with arithmetic complexity O(T log T). Hence this construction is also the first to simultaneously achieve prover complexity O(T log T) and verifier complexity polylog(T).
+More Info
+Available on  ePrint .
+[C30]
+Aurora: Transparent Succinct Arguments for R1CS
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Michael Riabzev,
+Nicholas Spooner ,
+Madars Virza ,
+Nicholas P. Ward
+EUROCRYPT 2019
+(38th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+We design, implement, and evaluate a zkSNARK for Rank-1 Constraint Satisfaction (R1CS), a widely-deployed NP-complete language that is undergoing standardization. Our construction uses a transparent setup, is plausibly post-quantum secure, and uses lightweight cryptography. A proof attesting to the satisfiability of n constraints has size $O(\log^2 n)$; it can be produced with $O(n \log n)$ field operations and verified with $O(n)$. At 128 bits of security, proofs are less than 130kB even for several million constraints, more than 20x shorter than prior zkSNARK with similar features.
+A key ingredient of our construction is a new Interactive Oracle Proof (IOP) for solving a  univariate  analogue of the classical sumcheck problem [LFKN92], originally studied for  multivariate  polynomials. Our protocol verifies the sum of entries of a Reed--Solomon codeword over any subgroup of a field.
+We also provide libiop, an open-source library for writing IOP-based arguments, in which a toolchain of transformations enables programmers to write new arguments by writing simple IOP sub-components. We have used this library to specify our construction and prior ones.
+More Info
+Available on  ePrint .
+[C29]
+Probabilistic Checking against Non-Signaling Strategies from Linearity Testing
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+ITCS 2019
+(10th Conference on Innovations in Theoretical Computer Science)
+Abstract
+Non-signaling strategies are a generalization of quantum strategies that have been studied in physics over the past three decades. Recently, they have found applications in theoretical computer science, including to proving inapproximability results for linear programming and to constructing protocols for delegating computation. A central tool for these applications is probabilistically checkable proofs (PCPs) that are  sound against non-signaling strategies .
+In this paper we prove that the exponential-length constant-query PCP construction due to Arora et al. (JACM 1998) is sound against non-signaling strategies.
+Our result offers a new length-vs-query tradeoff when compared to the non-signaling PCP of Kalai et al. (STOC 2013 and 2014) and, moreover, provides additional evidence to the conjecture that a non-signaling analogue of the PCP Theorem holds.
+More Info
+Available on  ECCC .
+[C28]
+Spatial Isolation Implies Zero Knowledge Even in a Quantum World
+Alessandro Chiesa,
+Michael A. Forbes ,
+Tom Gur ,
+Nicholas Spooner
+FOCS 2018
+(59th IEEE Symposium on Foundations of Computer Science)
+QIP 2019
+(22nd Conference on Quantum Information Processing)
+Abstract
+Zero knowledge plays a central role in cryptography and complexity. The seminal work of Ben-Or et al. (STOC 1988) shows that zero knowledge can be achieved unconditionally for any language in NEXP, as long as one is willing to make a suitable physical assumption: if the provers are spatially isolated, then they can be assumed to be playing independent strategies.
+Quantum mechanics, however, tells us that this assumption is unrealistic, because spatially-isolated provers could share a quantum entangled state and realize a non-local correlated strategy. The MIP* model captures this setting.
+In this work we study the following question: does spatial isolation still suffice to unconditionally achieve zero knowledge even in the presence of quantum entanglement?
+We answer this question in the affirmative: we prove that every language in NEXP has a 2-prover zero knowledge interactive proof that is sound against entangled provers; that is, NEXP is in ZK-MIP*.
+Our proof consists of constructing a zero knowledge interactive PCP with a strong algebraic structure, and then lifting it to the MIP* model. This lifting relies on a new framework that builds on recent advances in low-degree testing against entangled strategies, and clearly separates classical and quantum tools.
+Our main technical contribution consists of developing new algebraic techniques for obtaining unconditional zero knowledge; this includes a zero knowledge variant of the celebrated sumcheck protocol, a key building block in many probabilistic proof systems. A core component of our sumcheck protocol is a new algebraic commitment scheme, whose analysis relies on algebraic complexity theory.
+More Info
+Available on  ECCC .
+[C27]
+DIZK: A Distributed Zero Knowledge Proof System
+Howard Wu,
+Wenting Zheng ,
+Alessandro Chiesa,
+Raluca A. Popa ,
+Ion Stoica
+USENIX Security 2018
+(27th USENIX Security Symposium)
+Abstract
+Recently there has been much academic and industrial interest in practical implementations of  zero knowledge proofs . These techniques allow a party to  prove  to another party that a given statement is true without revealing any additional information. In a Bitcoin-like system, this allows a payer to prove validity of a payment without disclosing the payment's details.
+Unfortunately, the existing systems for generating such proofs are very expensive, especially in terms of memory overhead. Worse yet, these systems are "monolithic", so they are limited by the memory resources of a single machine. This severely limits their practical applicability.
+We describe DIZK, a system that  distributes  the generation of a zero knowledge proof across machines in a compute cluster. Using a set of new techniques, we show that DIZK scales to computations of up to billions of logical gates (100x larger than prior art) at a cost of 10μs per gate (100x faster than prior art). We then use DIZK to study various security applications.
+More Info
+Available on  ePrint . The corresponding source code is on  GitHub .
+[C26]
+Testing Linearity against Non-Signaling Strategies
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+CCC 2018
+(33rd Computational Complexity Conference)
+Abstract
+Non-signaling strategies are collections of distributions with certain non-local correlations. They have been studied in Physics as a strict generalization of quantum strategies to understand the power and limitations of Nature's apparent non-locality. Recently, they have received attention in Theoretical Computer Science due to connections to Complexity and Cryptography.
+We initiate the study of Property Testing against non-signaling strategies, focusing first on the classical problem of  linearity testing  (Blum, Luby, and Rubinfeld; JCSS 1993). We prove that any non-signaling strategy that passes the linearity test with high probability must be close to a  quasi-distribution  over linear functions.
+Quasi-distributions generalize the notion of probability distributions over global objects (such as functions) by allowing negative probabilities, while at the same time requiring that "local views" follow standard distributions (with non-negative probabilities). Quasi-distributions arise naturally in the study of Quantum Mechanics as a tool to describe various non-local phenomena.
+Our analysis of the linearity test relies on Fourier analytic techniques applied to quasi-distributions. Along the way, we also establish general equivalences between non-signaling strategies and quasi-distributions, which we believe will provide a useful perspective on the study of Property Testing against non-signaling strategies beyond linearity testing.
+More Info
+Available on  ECCC .
+[C25]
+Oblix: An Efficient Oblivious Search Index
+Pratyush Mishra ,
+Rishabh Poddar ,
+Jerry Chen,
+Alessandro Chiesa,
+Raluca A. Popa
+SP 2018
+(39th IEEE Symposium on Security and Privacy)
+Abstract
+Search indices are fundamental building blocks of many systems, and there is great interest in running them on encrypted data. Unfortunately, many known schemes that enable search queries on encrypted data achieve efficiency at the expense of security, as they reveal access patterns to the encrypted data.
+In this paper we present Oblix, a search index for encrypted data that is oblivious (provably hides access patterns), is dynamic (supports inserts and deletes), and has good efficiency.
+Oblix relies on a combination of novel oblivious-access techniques and recent hardware enclave platforms (e.g., Intel SGX). In particular, a key technical contribution is the design and implementation of doubly-oblivious data structures, in which the client's accesses to its internal memory are oblivious, in addition to accesses to its external memory at the server. These algorithms are motivated by hardware enclaves like SGX, which leak access patterns to both internal and external memory.
+We demonstrate the usefulness of Oblix in several applications: private contact discovery for Signal, private retrieval of public keys for Key Transparency, and searchable encryption that hides access patterns and result sizes.
+More Info
+The full version of the paper is forthcoming.
+[C24]
+Proofs of Proximity for Distribution Testing
+Alessandro Chiesa,
+Tom Gur
+ITCS 2018
+(9th Conference on Innovations in Theoretical Computer Science)
+Abstract
+Distribution testing is an area of property testing that studies algorithms that receive few samples from a probability distribution D and decide whether D has a certain property or is far (in total variation distance) from all distributions with that property. Most natural properties of distributions, however, require a large number of samples to test, which motivates the question of whether there are natural settings wherein fewer samples suffice.
+We initiate a study of proofs of proximity for properties of distributions. In their basic form, these proof systems consist of a tester that not only has sample access to a distribution but also explicit access to a proof string that depends on the distribution. We refer to these as NP distribution testers, or MA distribution testers if the tester is a probabilistic algorithm. We also study the more general notion of IP distribution testers, in which the tester interacts with an all-powerful untrusted prover.
+We investigate the power and limitations of proofs of proximity for distributions and chart a landscape that, surprisingly, is significantly different from that of proofs of proximity for functions. Our main results include showing that MA distribution testers can be quadratically stronger than standard distribution testers, but no stronger than that; in contrast, IP distribution testers can be exponentially stronger than standard distribution testers, but when restricted to public coins they can be at best quadratically stronger.
+More Info
+Available on  ECCC .
+[C23]
+Zero Knowledge Protocols from Succinct Constraint Detection
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Michael A. Forbes ,
+Ariel Gabizon ,
+Michael Riabzev,
+Nicholas Spooner
+TCC 2017
+(15th Theory of Cryptography Conference)
+Abstract
+We study the problem of constructing proof systems that achieve both soundness and zero knowledge unconditionally (without relying on intractability assumptions). Known techniques for this goal are primarily  combinatorial , despite the fact that constructions of interactive proofs (IPs) and probabilistically checkable proofs (PCPs) heavily rely on  algebraic  techniques to achieve their properties.
+We present simple and natural modifications of well-known "algebraic" IP and PCP protocols that achieve unconditional (perfect) zero knowledge in recently introduced models, overcoming limitations of known techniques.
+We modify the PCP of Ben-Sasson and Sudan [BS08] to obtain zero knowledge for NEXP in the model of Interactive Oracle Proofs [BCS16,RRR16], where the verifier, in each round, receives a PCP from the prover.
+We modify the IP of Lund, Fortnow, Karloff, and Nisan [LFKN92] to obtain zero knowledge for #P in the model of Interactive PCPs [KR08], where the verifier first receives a PCP from the prover and then interacts with him.
+The simulators in our zero knowledge protocols rely on solving a problem that lies at the intersection of coding theory, linear algebra, and computational complexity, which we call the  succinct constraint detection  problem, and consists of detecting dual constraints with polynomial support size for codes of exponential block length. Our two results rely on solutions to this problem for fundamental classes of linear codes:
+An algorithm to detect constraints for Reed--Muller codes of exponential length. This algorithm exploits the Raz--Shpilka [RS05] deterministic polynomial identity testing algorithm, and shows, to our knowledge, a first connection of algebraic complexity theory with zero knowledge.
+An algorithm to detect constraints for PCPs of Proximity of Reed--Solomon codes [BS08] of exponential degree. This algorithm exploits the recursive structure of the PCPs of Proximity to show that small-support constraints are ``locally'' spanned by a small number of small-support constraints.
+More Info
+Available on  ePrint .
+[C22]
+On Axis-Parallel Tests for Tensor Product Codes
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+RANDOM 2017
+(21st International Workshop on Randomization and Computation)
+Abstract
+Many low-degree tests examine the input function via its restrictions to random hyperplanes of a certain dimension. Examples include the line-vs-line (Arora, Sudan 2003), plane-vs-plane (Raz, Safra 1997), and cube-vs-cube (Bhangale, Dinur, Livni 2017) tests.
+In this paper we study a test introduced by Ben-Sasson and Sudan in 2006 that only considers restrictions along axis-parallel hyperplanes. While such a test is necessarily "weaker", it works for a more general class of codes, namely tensor product codes. Moreover, axis-parallel tests play a key role in constructing LTCs with inverse polylogarithmic rate and short PCPs (Ben-Sasson, Sudan 2008; Meir 2010). We present two results on axis-parallel tests.
+(1) Bivariate low-degree testing with low-agreement.
+We prove an analogue of the Bivariate Low-Degree Testing Theorem of Polishchuk and Spielman (1994) in the low-agreement regime, albeit with much larger field size. Namely, for the 2-wise tensor product of the Reed--Solomon code, we prove that for sufficiently large fields, the 2-query variant of the axis-parallel line test (row-vs-column test) works for arbitrarily small agreement. Prior analyses of axis-parallel tests assumed high agreement, and no results for such tests in the low-agreement regime were known.
+Our proof technique deviates significantly from that of Polishchuk and Spielman, which relies on algebraic methods such as Bézout's Theorem, and instead leverages a fundamental result in extremal graph theory by Kövári, Sós, and Turán. To our knowledge, this is the first time this result is used in the context of low-degree testing.
+(2) Improved robustness for tensor product codes.
+Robustness is a strengthening of local testability that underlies many applications. We prove that the axis-parallel hyperplane test for the m-wise tensor product of a linear code with block length n and distance d is Omega(d^m/n^m)-robust. This improves on a theorem of Viderman (2012) by a factor of 1/\poly(m). While the improvement is not large, we believe that our proof is a notable simplification compared to prior work.
+More Info
+Available on  ECCC .
+[C21]
+Interactive Oracle Proofs with Constant Rate and Query Complexity
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Ariel Gabizon ,
+Michael Riabzev,
+Nicholas Spooner
+ICALP 2017
+(44th International Colloquium on Automata, Languages, and Programming)
+Abstract
+We study  interactive oracle proofs  (IOPs) [BCS16,RRR16], which combine aspects of probabilistically checkable proofs (PCPs) and interactive proofs (IPs). We present IOP constructions and general techniques that enable us to obtain tradeoffs in proof length versus query complexity that are not known to be achievable via PCPs or IPs alone. Our main results are:
+Circuit satisfiability has 3-round IOPs with linear proof length (counted in bits) and constant query complexity.
+Reed--Solomon codes have 2-round IOPs of proximity with linear proof length and constant query complexity.
+Tensor product codes have 1-round IOPs of proximity with sublinear proof length and constant query complexity.
+For all of the above, known PCP constructions give  quasilinear  proof length and constant query complexity [BS08,Dinur07]. In addition, for circuit satisfiability, [BKKMS13] obtain PCPs with linear proof length but  sublinear  query complexity. As in [BKKMS13], we rely on algebraic-geometry codes to obtain our first result; but, unlike [BKKMS13], our use of such codes is much "lighter" because we do not rely on any automorphisms of the code.
+We obtain our results in a modular way by proving and combining "IOP-analogues" of two fundamental tools:
+Interactive proof composition:  Proof composition is used to reduce the query complexity of PCP verifiers, but the proof length of the composed proof system depends exponentially on the randomness complexity of the outer proof system. We prove a composition theorem for IOPs that does not suffer from this inefficiency.
+Sublinear sumcheck:  The sumcheck protocol is an IP that enables an IP verifier to check the sum of values of a low-degree polynomial on an exponentially-large hypercube, but the verifier running time depends linearly on the individual degree. We prove a sumcheck protocol for IOPs that does not suffer from this inefficiency.
+Overall, our work demonstrates that even constant-round IOPs are more efficient than known PCPs and IPs.
+More Info
+Available on  ePrint .
+[C20]
+Decentralized Anonymous Micropayments
+Alessandro Chiesa,
+Matthew D. Green ,
+Jingcheng Liu ,
+Ian Miers ,
+Peihan Miao ,
+Pratyush Mishra
+EUROCRYPT 2017
+(36th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Micropayments (payments worth a few pennies) have numerous potential applications. A challenge in achieving them is that payment networks charge fees that are high compared to "micro" sums of money.
+Wheeler (1996) and Rivest (1997) proposed probabilistic payments as a technique to achieve micropayments: a merchant receives a macro-value payment with a given probability so that, in expectation, he receives a micro-value payment. Despite much research and trial deployment, micropayment schemes have not seen adoption, partly because a trusted party is required to process payments and resolve disputes.
+The widespread adoption of decentralized currencies such as Bitcoin (2009) suggests that decentralized micropayment schemes are easier to deploy. Pass and Shelat (2015) proposed several micropayment schemes for Bitcoin, but their schemes provide no more privacy guarantees than Bitcoin itself, whose transactions are recorded in plaintext in a public ledger.
+We formulate and construct  decentralized anonymous micropayment  (DAM) schemes, which enable parties with access to a ledger to conduct offline probabilistic payments with one another, directly and privately. Our techniques extend those of Zerocash (2014) with a new privacy-preserving probabilistic payment protocol. One of the key ingredients of our construction is  fractional message transfer  (FMT), a primitive that enables probabilistic message transmission between two parties, and for which we give an efficient instantiation.
+Double spending in our setting cannot be prevented. Our second contribution is an economic analysis that bounds the additional utility gain of any cheating strategy, and applies to virtually any probabilistic payment scheme with offline validation. In our construction, this bound allows us to deter double spending by way of advance deposits that are revoked when cheating is detected.
+More Info
+Available on  ePrint .
+[C19]
+Computational Integrity with a Public Random String from Quasi-linear PCPs
+Eli Ben-Sasson ,
+Iddo Ben-Tov ,
+Alessandro Chiesa,
+Ariel Gabizon ,
+Daniel Genkin ,
+Matan Hamilis ,
+Evgenya Pergament ,
+Michael Riabzev,
+Mark Silberstein ,
+Eran Tromer ,
+Madars Virza
+EUROCRYPT 2017
+(36th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+A party running a computation remotely may benefit from misreporting its output, say, to lower its tax. Cryptographic protocols that detect and prevent such falsities hold the promise to enhance the security of decentralized systems with stringent computational integrity requirements, like Bitcoin [Nak09]. To gain public trust it is imperative to use publicly verifiable protocols that have no “backdoors” and which can be set up using only a short public random string. Probabilistically Checkable Proof (PCP) systems [BFL90,BFLS91,AS98,ALMSS98] can be used to construct astonishingly efficient protocols [Kil92, Mic00] of this nature but some of the main components of such systems — proof composition [AS98] and low-degree testing via PCPs of Proximity (PCPPs) [BGHSV05,DR06] — have been considered efficient only asymptotically, for unrealistically large computations; recent cryptographic alternatives [PGHR13, BCGCTV13a] suffer from a non-public setup phase.
+This work introduces SCI, the first implementation of a scalable PCP system (that uses both PCPPs and proof composition). We used SCI to prove correctness of executions of up to 2 20  cycles of a simple processor and calculated its break-even point [SVPBBW12, SMBW12]. The significance of our findings is two-fold: (i) it marks the transition of core PCP techniques (like proof composition and PCPs of Proximity) from mathematical theory to practical system engineering, and (ii) the thresholds obtained are nearly achievable and hence show that PCP-supported computational integrity is closer to reality than previously assumed.
+More Info
+Available on  ePrint .
+[C18]
+Interactive Oracle Proofs
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Nicholas Spooner
+TCC 2016-B
+(14th Theory of Cryptography Conference)
+Abstract
+We initiate the study of a proof system model that naturally combines two well-known models: interactive proofs (IPs) and probabilistically-checkable proofs (PCPs). An  interactive oracle proof  (IOP) is an interactive proof in which the verifier is not required to read the prover's messages in their entirety; rather, the verifier has oracle access to the prover's messages, and may probabilistically query them.
+IOPs simultaneously generalize IPs and PCPs. Thus, IOPs retain the expressiveness of PCPs, capturing NEXP rather than only PSPACE, and also the flexibility of IPs, allowing multiple rounds of communication with the prover. These degrees of freedom allow for more efficient "PCP-like" interactive protocols, because the prover does not have to compute the parts of a PCP that are not requested by the verifier.
+As a first investigation into IOPs, we offer two main technical contributions. First, we give a compiler that maps any public-coin IOP into a non-interactive proof in the random oracle model. We prove that the soundness of the resulting proof is tightly characterized by the soundness of the IOP against  state restoration attacks , a class of rewinding attacks on the IOP verifier. Our compiler preserves zero knowledge, proof of knowledge, and time complexity of the underlying IOP. As an application, we obtain blackbox unconditional ZK proofs in the random oracle model with quasilinear prover and polylogarithmic verifier, improving on the result of Ishai et al.\ (2015).
+Second, we study the notion of state-restoration soundness of an IOP: we prove tight upper and lower bounds in terms of the IOP's (standard) soundness and round complexity; and describe a simple adversarial strategy that is optimal across all state restoration attacks.
+Our compiler can be viewed as a generalization of the Fiat--Shamir paradigm for public-coin IPs (CRYPTO '86), and of the "CS proof" constructions of Micali (FOCS '94) and Valiant (TCC '08) for PCPs. Our analysis of the compiler gives, in particular, a unified understanding of all of these constructions, and also motivates the study of state restoration attacks, not only for IOPs, but also for IPs and PCPs.
+More Info
+Available on  ePrint .
+[C17]
+Quasilinear-Size Zero Knowledge from Linear-Algebraic PCPs
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Ariel Gabizon ,
+Madars Virza
+TCC 2016-A
+(13th Theory of Cryptography Conference)
+Abstract
+The seminal result that every language having an interactive proof also has a zero-knowledge interactive proof assumes the existence of one-way functions. Ostrovsky and Wigderson (ISTCS 1993) proved that this assumption is necessary: if one-way functions do not exist, then only languages in BPP have zero-knowledge interactive proofs.
+Ben-Or et al. (STOC 1988) proved that, nevertheless, every language having a multi-prover interactive proof also has a zero-knowledge multi-prover interactive proof, unconditionally. Their work led to, among many other things, a line of work studying zero knowledge without intractability assumptions. In this line of work, Kilian, Petrank, and Tardos (STOC 1997) defined and constructed zero-knowledge probabilistically checkable proofs (PCPs).
+While PCPs with quasilinear-size proof length, but without zero knowledge, are known, no such result is known for zero knowledge PCPs. In this work, we show how to construct ``2-round'' PCPs that are zero knowledge and of length \tilde{O}(K) where K is the number of queries made by a malicious polynomial time verifier. Previous solutions required PCPs of length at least K^6 to maintain zero knowledge. In this model, which we call  duplex PCP  (DPCP), the verifier first receives an oracle string from the prover, then replies with a message, and then receives another oracle string from the prover; a malicious verifier can make up to K queries in total to both oracles.
+Deviating from previous works, our constructions do not invoke the PCP Theorem as a blackbox but instead rely on certain algebraic properties of a specific family of PCPs. We show that if the PCP has a certain linear algebraic structure --- which many central constructions can be shown to possess, including [BFLS91,ALMSS98,BS08] --- we can add the zero knowledge property at virtually no cost (up to additive lower order terms) while introducing only minor modifications in the algorithms of the prover and verifier. We believe that our linear-algebraic characterization of PCPs may be of independent interest, as it gives a simplified way to view previous well-studied PCP constructions.
+More Info
+The full version of the paper is on  ePrint .
+[C16]
+Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Matthew D. Green ,
+Eran Tromer ,
+Madars Virza
+SP 2015
+(36th IEEE Symposium on Security and Privacy)
+Abstract
+Non-interactive zero-knowledge proofs (NIZKs) are a powerful cryptographic tool, with numerous potential applications. However, succinct NIZKs (e.g., zk-SNARK schemes) necessitate a trusted party to generate and publish some public parameters, to be used by all provers and verifiers. This party is trusted to correctly run a probabilistic algorithm (specified by the the proof system) that outputs the public parameters, and publish them, without leaking any other information (such as the internal randomness used by the algorithm); violating either requirement may allow malicious parties to produce convincing "proofs" of false statements. This trust requirement poses a serious impediment to deploying NIZKs in many applications, because a party that is trusted by all users of the envisioned system may simply not exist.
+In this work, we show how public parameters for a class of NIZKs can be generated by a multi-party protocol, such that if at least one of the parties is honest, then the result is secure (in both aforementioned senses) and can be subsequently used for generating and verifying numerous proofs without any further trust. We design and implement such a protocol, tailored to efficiently support the state-of-the-art NIZK constructions with short and easy-to-verify proofs (Parno et al., IEEE S&P '13; Ben-Sasson et al., USENIX Sec '14; Danezis et al., ASIACRYPT '14). Applications of our system include generating public parameters for systems such as Zerocash (Ben-Sasson et al., IEEE S&P '13) and the scalable zero-knowledge proof system of (Ben-Sasson et al., CRYPTO '14).
+More Info
+The full version of the paper is forthcoming.
+[C15]
+Cluster Computing in Zero Knowledge
+Alessandro Chiesa,
+Eran Tromer ,
+Madars Virza
+EUROCRYPT 2015
+(34th International Conference on the Theory and Applications of Cryptographic Techniques)
+Abstract
+Large computations, when amenable to distributed parallel execution, are often executed on computer clusters, for scalability and cost reasons. Such computations are used in many applications, including, to name but a few, machine learning, webgraph mining, and statistical machine translation. Oftentimes, though, the input data is private and only the result of the computation can be published. Zero-knowledge proofs would allow, in such settings, to verify correctness of the output without leaking (additional) information about the input.
+In this work, we investigate theoretical and practical aspects of  zero-knowledge proofs for cluster computations . We design, build, and evaluate zero-knowledge proof systems for which: (i) a proof attests to the correct execution of a cluster computation; and (ii) generating the proof is itself a cluster computation that is similar in structure and complexity to the original one. Concretely, we focus on MapReduce, an elegant and popular form of cluster computing.
+Previous zero-knowledge proof systems can in principle prove a MapReduce computation's correctness, via a monolithic NP statement that reasons about all mappers, all reducers, and shuffling. However, it is not clear how to generate the proof for such monolithic statements via parallel execution by a distributed system. Our work demonstrates, by theory and implementation, that proof generation can be similar in structure and complexity to the original cluster computation.
+Our main technique is a bootstrapping theorem for succinct non-interactive arguments of knowledge (SNARKs) that shows how, via recursive proof composition and Proof-Carrying Data, it is possible to transform any SNARK into a  distributed SNARK for MapReduce  which proves, piecewise and in a distributed way, the correctness of every step in the original MapReduce computation as well as their global consistency.
+More Info
+The full version of the paper is on  ePrint .
+[C14]
+Scalable Zero Knowledge via Cycles of Elliptic Curves
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Eran Tromer ,
+Madars Virza
+CRYPTO 2014
+(34th International Cryptology Conference)
+Abstract
+Non-interactive zero-knowledge proofs of knowledge for general NP statements are a powerful cryptographic primitive, both in theory and in practical applications. Recently, much research has focused on achieving an additional property, succinctness, requiring the proof to be very short and easy to verify. Such proof systems are known as zero-knowledge succinct non-interactive arguments of knowledge (zk-SNARKs), and are desired when communication is expensive, or the verifier is computationally weak.
+Existing zk-SNARK implementations have severe scalability limitations, in terms of space complexity as a function of the size of the computation being proved (e.g., running time of the NP statement's decision program). First, the size of the proving key is quasilinear in the upper bound on the computation size. Second, producing a proof requires "writing down" all intermediate values of the entire computation, and then conducting global operations such as FFTs.
+The bootstrapping technique of Bitansky et al. (STOC '13), following Valiant (TCC '08), offers an approach to scalability, by recursively composing proofs: proving statements about acceptance of the proof system's own verifier (and correctness of the program's latest step). Alas, recursive composition of known zk-SNARKs has never been realized in practice, due to enormous computational cost.
+Using new elliptic-curve cryptographic techniques, and methods for exploiting the proof systems' field structure and nondeterminism, we achieve the first zk-SNARK implementation that practically achieves recursive proof composition. Our zk-SNARK implementation runs random-access machine programs and produces proofs of their correct execution, on today's hardware, for any program running time. It takes constant time to generate the keys that support all computation sizes. Subsequently, the proving process only incurs a constant multiplicative overhead compared to the original computation's time, and an essentially-constant additive overhead in memory. Thus, our zk-SNARK implementation is the first to have a well-defined, albeit low, clock rate of "verified instructions per second".
+More Info
+The full version of the paper is on  ePrint .
+[C13]
+Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Eran Tromer ,
+Madars Virza
+USENIX Security 2014
+(23rd USENIX Security Symposium)
+Abstract
+We build a system that provides succinct non-interactive zero-knowledge proofs (zk-SNARKs) for program executions on a von Neumann RISC architecture. The system has two components: a cryptographic proof system for verifying satisfiability of arithmetic circuits, and a circuit generator to translate program executions to such circuits. Our design of both components improves in functionality and efficiency over prior work, as follows.
+Our circuit generator is the first to be universal: it does not need to know the program, but only a bound on its running time. Moreover, the size of the output circuit depends additively (rather than multiplicatively) on program size, allowing verification of larger programs.
+The cryptographic proof system improves proving and verification times, by leveraging new algorithms and a pairing library tailored to the protocol.
+We evaluated our system for programs with up to 10,000 instructions, running for up to 32,000 machine steps, each of which can arbitrarily access random-access memory; and also demonstrated it executing programs that use just-in-time compilation. Our proofs are 230 bytes long at 80 bits of security, or 288 bytes long at 128 bits of security. Typical verification time is 5 milliseconds, regardless of the original program's running time.
+More Info
+The full version of the paper is on  ePrint .
+[C12]
+Knightian Self Uncertainty in the VCG Mechanism for Unrestricted Combinatorial Auctions
+Alessandro Chiesa,
+Silvio Micali ,
+Zeyuan Allen Zhu
+EC 2014
+(15th ACM Conference on Economics and Computation)
+Abstract
+We study the social welfare performance of the VCG mechanism in the well-known and challenging model of self uncertainty initially put forward by Frank H. Knight and later formalized by Truman F. Bewley. Namely, the only information that each player i has about his own true valuation consists of a set of distributions, from one of which i's valuation has been drawn.
+We assume that each player knows his true valuation up to an additive inaccuracy d, and study the social welfare performance of the VCG mechanism relative to d > 0. In this paper, we focus on the social welfare performance of the VCG mechanism in  unrestricted combinatorial auctions , both in undominated strategies and regret-minimizing strategies. Denote by MSW the maximum social welfare.
+Our first theorem proves that, in an n-player m-good combinatorial auction, the VCG mechanism may produce outcomes whose social welfare is <= MSW - Ω(2^m d), even when n=2 and each player chooses an  undominated strategy . We also geometrically characterize the set of undominated strategies in this setting.
+Our second theorem shows that the VCG mechanism performs well in  regret-minimizing strategies : the guaranteed social welfare is >= MSW - 2min{m,n}d if each player chooses a pure regret-minimizing strategy, and >= MSW - O(n^2 d) if mixed strategies are allowed.
+Finally, we prove a lemma bridging two standard models of rationality: utility maximization and regret minimization. A special case of our lemma implies that, in any game (Knightian or not), every implementation for regret-minimizing players also applies to utility-maximizing players who use regret  only  to break ties among their undominated strategies. This bridging lemma thus implies that the VCG mechanism continues to perform very well also for the latter players.
+More Info
+The full version of this paper is  here .
+[C11]
+Zerocash: Decentralized Anonymous Payments from Bitcoin
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Christina L. Garman ,
+Matthew D. Green ,
+Ian Miers ,
+Eran Tromer ,
+Madars Virza
+SP 2014
+(35th IEEE Symposium on Security and Privacy)
+IEEE SP Test-of-Time Award in 2024
+(papers from 10 years prior that had a substantial impact on the field of security and privacy)
+Abstract
+Bitcoin is the first digital currency to see widespread adoption. While payments are conducted between pseudonyms, Bitcoin cannot offer strong privacy guarantees: payment transactions are recorded in a public decentralized ledger, from which much information can be deduced. Zerocoin (Miers et al., IEEE S&P 2013) tackles some of these privacy issues by unlinking transactions from the payment's origin. Yet, it still reveals payments' destinations and amounts, and is limited in functionality.
+In this paper, we construct a full-fledged ledger-based digital currency with strong privacy guarantees. Our results leverage recent advances in zero-knowledge Succinct Non-interactive ARguments of Knowledge (zk-SNARKs).
+First, we formulate and construct decentralized anonymous payment schemes (DAP schemes). A DAP scheme enables users to directly pay each other privately: the corresponding transaction hides the payment's origin, destination, and transferred amount. We provide formal definitions and proofs of the construction's security.
+Second, we build Zerocash, a practical instantiation of our DAP scheme construction. In Zerocash, transactions are less than 1 kB and take under 6 ms to verify --- orders of magnitude more efficient than the less-anonymous Zerocoin and competitive with plain Bitcoin.
+More Info
+The full version of the paper is on  ePrint .
+See the Zerocash project  website .
+[C10]
+SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Daniel Genkin ,
+Eran Tromer ,
+Madars Virza
+CRYPTO 2013
+(33rd International Cryptology Conference)
+Abstract
+An argument system for NP is a proof system that allows efficient verification of NP statements, given proofs produced by an untrusted yet computationally-bounded prover. Such a system is non-interactive and publicly-verifiable if, after a trusted party publishes a proving key and a verification key, anyone can use the proving key to generate non-interactive proofs for adaptively-chosen NP statements, and proofs can be verified by anyone by using the verification key.
+We present an implementation of a publicly-verifiable non-interactive argument system for NP. The system, moreover, is a zero-knowledge proof-of-knowledge. It directly proves correct executions of programs on TinyRAM, a random-access machine tailored for efficient verification of nondeterministic computations. Given a program $P$ and time bound T, the system allows for proving correct execution of $P$, on any input $x$, for up to T steps, after a one-time setup requiring $\tilde{O}(|P| T)$ cryptographic operations. An honest prover requires $\tilde{O}(|P| T)$ cryptographic operations to generate such a proof, while proof verification can be performed with only $O(|x|)$ cryptographic operations. This system can be used to prove the correct execution of C programs, using our TinyRAM port of the GCC compiler.
+This yields a zero-knowledge Succinct Non-interactive ARgument of Knowledge (zk-SNARK) for program executions in the preprocessing model -- a powerful solution for delegating NP computations, with several features not achieved by previously-implemented primitives.
+Our approach builds on recent theoretical progress in the area. We present efficiency improvements and implementations of two main ingredients:
+Given a C program, we produce a circuit whose satisfiability encodes the correctness of execution of the program. Leveraging nondeterminism, the generated circuit's size is merely quasilinear in the size of the computation. In particular, we efficiently handle arbitrary and data-dependent loops, control flow, and memory accesses. This is in contrast with existing "circuit generators", which in the general case produce circuits of quadratic size.
+Given a linear PCP for verifying satisfiability of circuits, we produce a corresponding SNARK. We construct such a linear PCP (which, moreover, is zero-knowledge and very efficient) by building on and improving on recent work on quadratic arithmetic programs.
+More Info
+The full version of the paper is on  ePrint .
+An MIT News article about this paper can be found  here .
+[C09]
+On the Concrete Efficiency of Probabilistically-Checkable Proofs
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Daniel Genkin ,
+Eran Tromer
+STOC 2013
+(45th ACM Symposium on the Theory of Computing)
+Abstract
+Probabilistically-Checkable Proofs (PCPs) form the algorithmic core that enables fast verification of long computations in many cryptographic constructions. Yet, despite the wonderful asymptotic savings they bring, PCPs are also the infamous computational bottleneck preventing these powerful cryptographic constructions from being used in practice. To address this problem, we present several results about the computational efficiency of PCPs.
+We construct the first PCP where the prover and verifier time complexities are quasi-optimal (i.e., optimal up to poly-logarithmic factors). The prover and verifier are also higly-parallelizable, and these computational guarantees hold even when proving and verifying the correctness of random-access machine computations. Our construction is explicit and has the requisite properties for being used in the cryptographic applications mentioned above.
+Next, to better understand the efficiency of our PCP, we propose a new efficiency measure for PCPs (and their major components, locally-testable codes and PCPs of proximity). We define a concrete-efficiency threshold that indicates the smallest problem size beyond which the PCP becomes “useful”, in the sense that using it is cheaper than performing naive verification (i.e., rerunning the computation); our definition accounts for both the prover and verifier complexity.
+We then show that our PCP has a finite concrete-efficiency threshold. That such a PCP exists does not follow from existing works on PCPs with polylogarithmic-time verifiers.
+As in [Ben-Sasson and Sudan, STOC '05], PCPs of proximity for Reed–Solomon (RS) codes are the main component of our PCP. We construct a PCP of proximity that reduces the concrete-efficiency threshold for testing proximity to RS codes from 2^{683} in their work to 2^{43}, which is tantalizingly close to practicality.
+More Info
+The full version of the paper is on  ECCC .
+The Mathematica file with concrete-efficiency threshold computations is  here .
+[C08]
+Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data
+Nir Bitansky ,
+Ran Canetti ,
+Alessandro Chiesa,
+Eran Tromer
+STOC 2013
+(45th ACM Symposium on the Theory of Computing)
+Abstract
+Succinct non-interactive arguments  (SNARGs) enable verifying NP statements with much lower complexity than required for classical NP verification (in fact, with complexity that is  independent  of the NP language at hand). In particular, SNARGs provide strong solutions to the problem of verifiably delegating computation.
+Despite recent  progress in the understanding and construction of SNARGs, there remain unattained goals. First,  publicly-verifiable SNARGs  are only known either in the random oracle model, or in a model that allows expensive offline preprocessing. Second, known SNARGs require from the prover significantly more time or space than required for classical NP verification.
+We show that, assuming collision-resistant hashing,  any  SNARG having a natural  proof of knowledge  property (i.e., a SNARK) can be "bootstrapped" to obtain a  complexity-preserving  SNARK, i.e., one without expensive preprocessing and where the prover's time and space complexity is essentially the same as that required for classical NP verification. By applying our transformation to known publicly-verifiable SNARKs with expensive preprocessing, we obtain the first publicly-verifiable complexity-preserving SNARK in the plain model (and in particular, eliminate the expensive preprocessing), thereby attaining the aforementioned goals. We also show an analogous transformation for privately-verifiable SNARKs, assuming fully-homomorphic encryption. Curiously, our transformations do not rely on PCPs.
+At the heart of our transformations is  recursive composition  of SNARKs  and, more generally, new techniques for constructing and using  proof-carrying data  (PCD) systems, which extend the notion of a SNARK to the distributed setting. Concretely, to bootstrap a given SNARK, we recursively compose the SNARK to obtain a "weak" PCD system for shallow distributed computations, and then use the PCD framework to attain stronger, complexity-preserving SNARKs and PCD systems.
+More Info
+The full version of the paper is on  ePrint .
+[C07]
+Succinct Non-Interactive Arguments via Linear Interactive Proofs
+Nir Bitansky ,
+Alessandro Chiesa,
+Yuval Ishai ,
+Rafail Ostrovsky ,
+Omer Paneth
+TCC 2013
+(10th Theory of Cryptography Conference)
+Abstract
+Succinct non-interactive arguments (SNARGs) enable verifying NP statements with lower complexity than required for classical NP verification. Traditionally, the focus has been on minimizing the length of such arguments; nowadays researchers have focused also on minimizing verification time, by drawing motivation from the problem of delegating computation.
+A common relaxation is a preprocessing SNARG, which allows the verifier to conduct an expensive offline phase that is independent of the statement to be proven later. Recent constructions of preprocessing SNARGs have achieved attractive features: they are publicly-verifiable, proofs consist of only O(1) encrypted (or encoded) field elements, and verification is via arithmetic circuits of size linear in the NP statement. Additionally, these constructions seem to have "escaped the hegemony" of probabilistically-checkable proofs (PCPs) as a basic building block of succinct arguments.
+We present a general methodology for the construction of preprocessing SNARGs, as well as resulting concrete efficiency improvements. Our contribution is three-fold:
+We introduce and study a natural extension of the interactive proof model that considers algebraically-bounded provers; this new setting is analogous to the common study of algebraically-bounded "adversaries" in other fields, such as pseudorandomness and randomness extraction. More concretely, in this work we focus on linear (or affine) provers, and provide several constructions of (succinct two-message) linear-interactive proofs (LIPs) for NP. Our constructions are based on general transformations applied to both linear PCPs (LPCPs) and traditional "unstructured" PCPs.
+We give conceptually simple cryptographic transformations from LIPs to preprocessing SNARGs, whose security can be based on different forms of linear targeted malleability (implied by previous knowledge assumptions). Our transformations convert arbitrary (two-message) LIPs into designated-verifier SNARGs, and LIPs with degree-bounded verifiers into publicly-verifiable SNARGs. We also extend our methodology to obtain zero-knowledge LIPs and SNARGs. Our techniques yield SNARGs of knowledge and thus can benefit from known recursive composition and bootstrapping techniques.
+Following this methodology, we exhibit several constructions achieving new efficiency features, such as "single-ciphertext preprocessing SNARGs" and improved succinctness-soundness tradeoffs. We also offer a new perspective on existing constructions of preprocessing SNARGs, revealing a direct connection of these to LPCPs and LIPs.
+More Info
+The full version of the paper is on  ePrint .
+[C06]
+Fast Reductions from RAMs to Delegatable Succinct Constraint Satisfaction Problems
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Daniel Genkin ,
+Eran Tromer
+ITCS 2013
+(4th Conference on Innovations in Theoretical Computer Science)
+Abstract
+Succinct arguments for NP are proof systems that allow a weak verifier to retroactively check computation done by a powerful prover. Constructions of such protocols prove membership in languages consisting of  very large yet succinctly-represented constraint satisfaction problems  that, alas, are unnatural in the sense that the problems that arise in practice are not in such form.
+For general computation tasks, the most natural representation is typically as random-access machine (RAM) algorithms, because such a representation can be obtained very efficiently by applying a compiler to code written in a high-level programming language. Thus, understanding the efficiency of reductions from RAM computations to other NP-complete problem representations for which succinct arguments (or proofs) are known is a prerequisite to a more complete understanding of the applicability of these arguments.
+Existing succinct argument constructions rely either on circuit satisfiability or (in PCP-based constructions) on algebraic constraint satisfaction problems. In this paper, we present new and more efficient reductions from RAM (and parallel RAM) computations to both problems that (a) preserve succinctness (i.e., do not "unroll" the computation of a machine), (b) preserve zero-knowledge and proof-of-knowledge properties, and (c) enjoy fast and highly-parallelizable algorithms for transforming a witness to the RAM computation into a witness for the corresponding problem. These additional properties are typically not considered in "classical" complexity theory but are often required or very desirable in the application of succinct arguments.
+Fulfilling all these efficiency requirements poses significant technical challenges, and we develop a set of tools (both unconditional and leveraging computational assumptions) for generically and efficiently structuring and arithmetizing RAM computations for use in succinct arguments. More generally, our results can be applied to proof systems for NP relying on the aforementioned problem representations; these include various zero-knowledge proof constructions.
+More Info
+The full version of the paper is on  ePrint .
+[C05]
+Succinct Arguments from Multi-Prover Interactive Proofs and their Efficiency Benefits
+Nir Bitansky ,
+Alessandro Chiesa
+CRYPTO 2012
+(32nd International Cryptology Conference)
+Abstract
+Succinct arguments of knowledge are computationally-sound proofs of knowledge for NP where the verifier's running time is independent of the time complexity t of the nondeterministic NP machine M that decides the given language. Existing succinct argument constructions are, typically, based on techniques that combine cryptographic hashing and probabilistically-checkable proofs (PCPs). Yet, even when instantiating these constructions with state-of-the-art PCPs, the prover needs Ω(t) space in order to run in quasilinear time (i.e., time t*poly(k)), regardless of the space complexity s of the machine M.
+We say that a succinct argument is complexity preserving if the prover runs in time t*poly(k) and space s*poly(k) and the verifier runs in time |x|*poly(k) when proving and verifying that a t-time s-space random-access machine nondeterministically accepts an input x. Do complexity-preserving succinct arguments exist? To study this question, we investigate the alternative approach of constructing succinct arguments based on multi-prover interactive proofs (MIPs) and stronger cryptographic techniques:
+(1) We construct a one-round succinct MIP of knowledge, where each prover runs in time t*polylog(t) and space s*polylog(t) and the verifier runs in time |x|*polylog(t).
+(2) We show how to transform any one-round MIP protocol to a succinct four-message argument (with a single prover), while preserving the time and space efficiency of the original MIP protocol; using our MIP protocol, this transformation yields a complexity-preserving four-message succinct argument.
+As a main tool for our transformation, we define and construct a succinct multi-function commitment that (a) allows the sender to commit to a vector of functions in time and space complexity that are essentially the same as those needed for a single evaluation of the functions, and (b) ensures that the receiver's running time is essentially independent of the function. The scheme is based on fully-homomorphic encryption (and no additional assumptions are needed for our succinct argument).
+(3) In addition, we revisit the problem of non-interactive succinct arguments of knowledge (SNARKs), where known impossibilities prevent solutions based on black-box reductions to standard assumptions. We formulate a natural (but non-standard) variant of homomorphic encryption having a homomorphism-extraction property. We show that this primitive essentially allows to squash our interactive protocol, while again preserving time and space efficiency, thereby obtaining a complexity-preserving SNARK. We further show that this variant is, in fact, implied by the existence of (complexity-preserving) SNARKs.
+More Info
+The full version of the paper is on  ePrint .
+[C04]
+From Extractable Collision Resistance to Succinct Non-Interactive Arguments of Knowledge, and Back Again
+Nir Bitansky ,
+Ran Canetti ,
+Alessandro Chiesa,
+Eran Tromer
+ITCS 2012
+(3rd Conference on Innovations in Theoretical Computer Science)
+Abstract
+The existence of succinct non-interactive arguments for NP (i.e., non-interactive computationally-sound proofs where the verifier's work is essentially independent of the complexity of the NP nondeterministic verifier) has been an intriguing question for the past two decades. Other than CS proofs in the random oracle model [Micali, FOCS '94], the only existing candidate construction is based on an elaborate assumption that is tailored to a specific protocol [Di Crescenzo and Lipmaa, CiE '08].
+We formulate a general and relatively natural notion of an extractable collision-resistant hash function (ECRH) and show that, if ECRHs exist, then a modified version of Di Crescenzo and Lipmaa's protocol is a succinct non-interactive argument for NP. Furthermore, the modified protocol is actually a succinct non-interactive adaptive argument of knowledge (SNARK). We then propose several candidate constructions for ECRHs and relaxations thereof.
+We demonstrate the applicability of SNARKs to various forms of delegation of computation, to succinct non-interactive zero knowledge arguments, and to succinct two-party secure computation. Finally, we show that SNARKs essentially imply the existence of ECRHs, thus demonstrating the necessity of the assumption.
+More Info
+The full version of the paper is on  ePrint .
+[C03]
+Mechanism Design with Approximate Valuations
+Alessandro Chiesa,
+Silvio Micali ,
+Zeyuan Allen Zhu
+ITCS 2012
+(3rd Conference on Innovations in Theoretical Computer Science)
+Abstract
+We study single-good auctions in a setting where each player knows his own valuation only within a constant multiplicative factor δ in (0,1), and the mechanism designer knows δ. The classical notions of implementation in dominant strategies and implementation in undominated strategies are naturally extended to this setting, but their power is vastly different.
+On the negative side, we prove that no dominant-strategy mechanism can guarantee social welfare that is significantly better than that achievable by assigning the good to a random player.
+On the positive side, we provide tight upper and lower bounds for the fraction of the maximum social welfare achievable in undominated strategies, whether deterministically or probabilistically.
+More Info
+The ITCS 2012 version is only an introductory non-archival draft. The full version of the paper, with the title  Knightian Auctions , is on  the arXiv .
+[C02]
+Proof-Carrying Data and Hearsay Arguments from Signature Cards
+Alessandro Chiesa,
+Eran Tromer
+ITCS 2010
+(1st Conference on Innovations in Theoretical Computer Science)
+Abstract
+The security of systems can often be expressed as ensuring that some property is maintained at every step of a distributed computation conducted by untrusted parties. Special cases include integrity of programs running on untrusted platforms, various forms of confidentiality and side-channel resilience, and domain-specific invariants.
+We propose a new approach,  proof-carrying data  (PCD), which sidesteps the threat of faults and leakage by reasoning about properties of a computation's output  data , regardless of the  process  that produced it. In PCD, the system designer prescribes the desired properties of a computation's outputs. Corresponding proofs are attached to every message flowing through the system, and are mutually verified by the system's components. Each such proof attests that the message's data  and all of its history  comply with the prescribed properties.
+We construct a general protocol compiler that generates, propagates, and verifies such proofs of compliance, while preserving the dynamics and efficiency of the original computation. Our main technical tool is the cryptographic construction of short non-interactive arguments (computationally-sound proofs) for statements whose truth depends on "hearsay evidence": previous arguments about other statements. To this end, we attain a particularly strong proof-of-knowledge property.
+We realize the above, under standard cryptographic assumptions, in a model where the prover has black- box access to some simple functionality --- essentially, a signature card.
+More Info
+The conference paper can be found  here .
+[C01]
+A Security Analysis of the Boston T
+Zackary Anderson ,
+Alessandro Chiesa,
+Samuel McVeety,
+Russell Ryan
+DEF CON 16
+(hacker convention in Las Vegas in 2008)
+Abstract
+In this talk we go over weaknesses in common subway fare collection systems. We focus on the Boston T subway, and show how we reverse engineered the data on magstripe card; we present several attacks to completely break the CharlieCard, a MIFARE Classic smartcard used in many subways around the world; and we discuss physical security problems. We will discuss practical brute force attacks using FPGAs and how to use software-radio to read RFID cards. We survey 'human factors' that lead to weaknesses in the system, and we present a novel new method of hacking WiFi: WARCARTING. We will release several open source tools we wrote in the process of researching these attacks. With live demos, we will demonstrate how we broke these systems.
+More Info
+The  talk  had to be  canceled !
+Journal Publications
+[J10]
+Succinct Non-Interactive Arguments via Linear Interactive Proofs
+Nir Bitansky ,
+Alessandro Chiesa,
+Yuval Ishai ,
+Rafail Ostrovsky ,
+Omer Paneth
+Journal of Cryptology ,
+Volume 35, Issue 3, May 2022
+Abstract
+Succinct non-interactive arguments (SNARGs) enable verifying NP statements with lower complexity than required for classical NP verification. Traditionally, the focus has been on minimizing the length of such arguments; nowadays researchers have focused also on minimizing verification time, by drawing motivation from the problem of delegating computation.
+A common relaxation is a preprocessing SNARG, which allows the verifier to conduct an expensive offline phase that is independent of the statement to be proven later. Recent constructions of preprocessing SNARGs have achieved attractive features: they are publicly-verifiable, proofs consist of only O(1) encrypted (or encoded) field elements, and verification is via arithmetic circuits of size linear in the NP statement. Additionally, these constructions seem to have "escaped the hegemony" of probabilistically-checkable proofs (PCPs) as a basic building block of succinct arguments.
+We present a general methodology for the construction of preprocessing SNARGs, as well as resulting concrete efficiency improvements. Our contribution is three-fold:
+We introduce and study a natural extension of the interactive proof model that considers algebraically-bounded provers; this new setting is analogous to the common study of algebraically-bounded "adversaries" in other fields, such as pseudorandomness and randomness extraction. More concretely, in this work we focus on linear (or affine) provers, and provide several constructions of (succinct two-message) linear-interactive proofs (LIPs) for NP. Our constructions are based on general transformations applied to both linear PCPs (LPCPs) and traditional "unstructured" PCPs.
+We give conceptually simple cryptographic transformations from LIPs to preprocessing SNARGs, whose security can be based on different forms of linear targeted malleability (implied by previous knowledge assumptions). Our transformations convert arbitrary (two-message) LIPs into designated-verifier SNARGs, and LIPs with degree-bounded verifiers into publicly-verifiable SNARGs. We also extend our methodology to obtain zero-knowledge LIPs and SNARGs. Our techniques yield SNARGs of knowledge and thus can benefit from known recursive composition and bootstrapping techniques.
+Following this methodology, we exhibit several constructions achieving new efficiency features, such as "single-ciphertext preprocessing SNARGs" and improved succinctness-soundness tradeoffs. We also offer a new perspective on existing constructions of preprocessing SNARGs, revealing a direct connection of these to LPCPs and LIPs.
+More Info
+Available  here . This is the journal version of [C07].
+[J09]
+Spatial Isolation Implies Zero Knowledge Even in a Quantum World
+Alessandro Chiesa,
+Michael A. Forbes ,
+Tom Gur ,
+Nicholas Spooner
+Journal of the ACM ,
+Volume 69, Issue 2, April 2022, Article Number 15
+Abstract
+Zero knowledge plays a central role in cryptography and complexity. The seminal work of Ben-Or et al. (STOC 1988) shows that zero knowledge can be achieved unconditionally for any language in NEXP, as long as one is willing to make a suitable physical assumption: if the provers are spatially isolated, then they can be assumed to be playing independent strategies.
+Quantum mechanics, however, tells us that this assumption is unrealistic, because spatially-isolated provers could share a quantum entangled state and realize a non-local correlated strategy. The MIP* model captures this setting.
+In this work we study the following question: does spatial isolation still suffice to unconditionally achieve zero knowledge even in the presence of quantum entanglement?
+We answer this question in the affirmative: we prove that every language in NEXP has a 2-prover zero knowledge interactive proof that is sound against entangled provers; that is, NEXP is in ZK-MIP*.
+Our proof consists of constructing a zero knowledge interactive PCP with a strong algebraic structure, and then lifting it to the MIP* model. This lifting relies on a new framework that builds on recent advances in low-degree testing against entangled strategies, and clearly separates classical and quantum tools.
+Our main technical contribution consists of developing new algebraic techniques for obtaining unconditional zero knowledge; this includes a zero knowledge variant of the celebrated sumcheck protocol, a key building block in many probabilistic proof systems. A core component of our sumcheck protocol is a new algebraic commitment scheme, whose analysis relies on algebraic complexity theory.
+More Info
+Available  here . This is the journal version of [C28].
+[J08]
+On Axis-Parallel Tests for Tensor Product Codes
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+Theory of Computing Journal ,
+Volume 6, Article 5, September 2020
+Abstract
+Many low-degree tests examine the input function via its restrictions to random hyperplanes of a certain dimension. Examples include the line-vs-line (Arora, Sudan 2003), plane-vs-plane (Raz, Safra 1997), and cube-vs-cube (Bhangale, Dinur, Livni 2017) tests.
+In this paper we study a test introduced by Ben-Sasson and Sudan in 2006 that only considers restrictions along axis-parallel hyperplanes. While such a test is necessarily "weaker", it works for a more general class of codes, namely tensor product codes. Moreover, axis-parallel tests play a key role in constructing LTCs with inverse polylogarithmic rate and short PCPs (Ben-Sasson, Sudan 2008; Meir 2010). We present two results on axis-parallel tests.
+(1) Bivariate low-degree testing with low-agreement.
+We prove an analogue of the Bivariate Low-Degree Testing Theorem of Polishchuk and Spielman (1994) in the low-agreement regime, albeit with much larger field size. Namely, for the 2-wise tensor product of the Reed--Solomon code, we prove that for sufficiently large fields, the 2-query variant of the axis-parallel line test (row-vs-column test) works for arbitrarily small agreement. Prior analyses of axis-parallel tests assumed high agreement, and no results for such tests in the low-agreement regime were known.
+Our proof technique deviates significantly from that of Polishchuk and Spielman, which relies on algebraic methods such as Bézout's Theorem, and instead leverages a fundamental result in extremal graph theory by Kövári, Sós, and Turán. To our knowledge, this is the first time this result is used in the context of low-degree testing.
+(2) Improved robustness for tensor product codes.
+Robustness is a strengthening of local testability that underlies many applications. We prove that the axis-parallel hyperplane test for the m-wise tensor product of a linear code with block length n and distance d is Omega(d^m/n^m)-robust. This improves on a theorem of Viderman (2012) by a factor of 1/\poly(m). While the improvement is not large, we believe that our proof is a notable simplification compared to prior work.
+More Info
+Available  here . This is the journal version of [C22].
+[J07]
+Testing Linearity against Non-Signaling Strategies
+Alessandro Chiesa,
+Peter Manohar ,
+Igor Shinkar
+ACM Transactions on Computation Theory ,
+Volume 12, Issue 3, May 2020
+Abstract
+Non-signaling strategies are collections of distributions with certain non-local correlations. They have been studied in Physics as a strict generalization of quantum strategies to understand the power and limitations of Nature's apparent non-locality. Recently, they have received attention in Theoretical Computer Science due to connections to Complexity and Cryptography.
+We initiate the study of Property Testing against non-signaling strategies, focusing first on the classical problem of  linearity testing  (Blum, Luby, and Rubinfeld; JCSS 1993). We prove that any non-signaling strategy that passes the linearity test with high probability must be close to a  quasi-distribution  over linear functions.
+Quasi-distributions generalize the notion of probability distributions over global objects (such as functions) by allowing negative probabilities, while at the same time requiring that  local views  follow standard distributions (with non-negative probabilities). Quasi-distributions arise naturally in the study of Quantum Mechanics as a tool to describe various non-local phenomena.
+Our analysis of the linearity test relies on Fourier analytic techniques applied to quasi-distributions. Along the way, we also establish general equivalences between non-signaling strategies and quasi-distributions, which we believe will provide a useful perspective on the study of Property Testing against non-signaling strategies beyond linearity testing.
+More Info
+Available  here . This is the journal version of [C26].
+[J06]
+On Cycles of Pairing-Friendly Elliptic Curves
+Alessandro Chiesa,
+Lynn Chua ,
+Matthew Weidner
+SIAM Journal on Applied Algebra and Geometry ,
+Volume 3, Issue 2, pages 175–192, April 2019
+Abstract
+A cycle of elliptic curves is a list of elliptic curves defined over finite fields, such that the number of points on one curve is equal to the size of the field of definition of the next, in a cyclic way. We study cycles of elliptic curves in which every curve is pairing-friendly. These have recently found notable applications in pairing-based cryptography, for instance in improving the scalability of distributed ledger technologies. We construct a new type of cycle of length 4 consisting of MNT curves, and characterize all the possibilities for cycles consisting of MNT curves. We show that long cycles cannot be constructed from families of curves with the same complex multiplication discrimininant, and that cycles consisting of composite order elliptic curves cannot exist. We also show that we cannot construct cycles consisting of curves from only the Freeman or Barreto--Naehrig families.
+More Info
+Available on  arXiv as math.NT/1803.02067  and on  SIAGA's website .
+[J05]
+Scalable Zero Knowledge via Cycles of Elliptic Curves
+Eli Ben-Sasson ,
+Alessandro Chiesa,
+Eran Tromer ,
+Madars Virza
+Algorithmica ,
+Volume 79, Issue 4, pages 1102-1160, December 2017
+Abstract
+Non-interactive zero-knowledge proofs of knowledge for general NP statements are a powerful cryptographic primitive, both in theory and in practical applications. Recently, much research has focused on achieving an additional property, succinctness, requiring the proof to be very short and easy to verify. Such proof systems are known as zero-knowledge succinct non-interactive arguments of knowledge (zk-SNARKs), and are desired when communication is expensive, or the verifier is computationally weak.
+Existing zk-SNARK implementations have severe scalability limitations, in terms of space complexity as a function of the size of the computation being proved (e.g., running time of the NP statement's decision program). First, the size of the proving key is quasilinear in the upper bound on the computation size. Second, producing a proof requires "writing down" all intermediate values of the entire computation, and then conducting global operations such as FFTs.
+The bootstrapping technique of Bitansky et al. (STOC '13), following Valiant (TCC '08), offers an approach to scalability, by recursively composing proofs: proving statements about acceptance of the proof system's own verifier (and correctness of the program's latest step). Alas, recursive composition of known zk-SNARKs has never been realized in practice, due to enormous computational cost.
+Using new elliptic-curve cryptographic techniques, and methods for exploiting the proof systems' field structure and nondeterminism, we achieve the first zk-SNARK implementation that practically achieves recursive proof composition. Our zk-SNARK implementation runs random-access machine programs and produces proofs of their correct execution, on today's hardware, for any program running time. It takes constant time to generate the keys that support all computation sizes. Subsequently, the proving process only incurs a constant multiplicative overhead compared to the original computation's time, and an essentially-constant additive overhead in memory. Thus, our zk-SNARK implementation is the first to have a well-defined, albeit low, clock rate of "verified instructions per second".
+More Info
+Available  here . This is the journal version of [C14].
+[J04]
+The Hunting of the SNARK
+Nir Bitansky ,
+Ran Canetti ,
+Alessandro Chiesa,
+Shafi Goldwasser ,
+Huijia Lin ,
+Aviad Rubinstein ,
+Eran Tromer
+Journal of Cryptology ,
+Volume 30, Issue 4, pages 989-1066, October 2017
+Abstract
+The existence of succinct non-interactive arguments for NP (i.e., non-interactive computationally-sound proofs where the verifier's work is essentially independent of the complexity of the NP nondeterministic verifier) has been an intriguing question for the past two decades. Other than CS proofs in the random oracle model [Micali, FOCS '94], the only existing candidate construction is based on an elaborate assumption that is tailored to a specific protocol [Di Crescenzo and Lipmaa, CiE '08].
+We formulate a general and relatively natural notion of an  extractable collision-resistant hash function  (ECRH) and show that, if ECRHs exist, then a modified version of Di Crescenzo and Lipmaa's protocol is a succinct non-interactive argument for NP. Furthermore, the modified protocol is actually a succinct non-interactive  adaptive argument of knowledge  (SNARK). We then propose several candidate constructions for ECRHs and relaxations thereof.
+We demonstrate the applicability of SNARKs to various forms of delegation of computation, to succinct non-interactive zero knowledge arguments, and to succinct two-party secure computation. Finally, we show that SNARKs essentially imply the existence of ECRHs, thus demonstrating the necessity of the assumption.
+Going beyond ECRHs, we formulate the notion of  extractable one-way functions  (EOWFs). Assuming the existence of a natural variant of EOWFs, we construct a 2-message selective-opening-attack secure commitment scheme and a 3-round zero-knowledge argument of knowledge. Furthermore, if the EOWFs are concurrently extractable, the 3-round zero-knowledge protocol is also concurrent zero-knowledge.
+Our constructions circumvent previous black-box impossibility results regarding these protocols by relying on EOWFs as the non-black-box component in the security reductions.
+More Info
+Available on  ePrint ; this paper is a merge of  [BCCT11]  and  [GLR11] .
+[J03]
+Knightian Analysis of the Vickrey Mechanism
+Alessandro Chiesa,
+Silvio Micali ,
+Zeyuan Allen Zhu
+Econometrica ,
+Volume 83, Issue 5, pages 1727-1754, September 2015
+Abstract
+We analyze the Vickrey mechanism for auctions of multiple identical goods when the players have both Knightian uncertainty over their own valuations and incomplete preferences. In this model, the Vickrey mechanism is no longer dominant-strategy, and we prove that all dominant-strategy mechanisms are inadequate. However, we also prove that, in undominated strategies, the social welfare produced by the Vickrey mechanism in the worst case is not only very good, but also essentially optimal.
+More Info
+Find the paper  here .
+[J02]
+Improved Soundness for QMA with Multiple Provers
+Alessandro Chiesa,
+Michael A. Forbes
+Chicago Journal of Theoretical Computer Science ,
+2013
+Abstract
+We present three contributions to the understanding of QMA with multiple provers:
+We give a tight soundness analysis of the protocol of [Blier and Tapp, ICQNM '09], yielding a soundness gap Ω(N^{-2}). Our improvement is achieved  without  the use of an instance with a constant soundness gap (i.e., without using a "PCP").
+We give a tight soundness analysis of the protocol of [Chen and Drucker, ArXiV '10], thereby improving their result from a "monolithic" protocol where Θ(√N) provers are  needed  in order to have any soundness gap, to a protocol with a  smooth trade-off  between the number of provers k and a soundness gap Ω(k^{2}N^{-1}), as long as k >= Ω(log N). (And, when k <= Θ(√N), we recover the original parameters of Chen and Drucker.)
+We make progress towards an open question of [Aaronson et al., ToC '09] about what kinds of NP-complete problems are amenable to "sublinear" multiple-prover QMA protocols, by observing that a  large class  of such examples can easily be derived from results already in the PCP literature --- namely, at least the languages recognized by a non-deterministic RAMs in quasilinear time.
+More Info
+Find the paper on  the arXiv  and on  CJTCS .
+[J01]
+Proof-carrying data: Secure computation on untrusted platforms
+Alessandro Chiesa,
+Eran Tromer
+The Next Wave: The NSA's review of emerging technologies ,
+Vol.19, No.2, 2012
+Abstract
+When running software applications and services, we rely on the underlying execution platform: the hardware and the lower levels of the software stack. The execution platform is susceptible to a wide range of threats, ranging from accidental bugs, faults, and leaks to maliciously induced Trojan horses. The problem is aggravated by growing system complexity and by increasingly pertinent outsourcing and supply chain consideration. Traditional mechanisms, which painstakingly validate all system components, are expensive and limited in applicability. What if the platform assurance problem is just too hard? Do we have any hope of securely running software when we cannot trust the underlying hardware, hypervisor, kernel, libraries, and compilers? This article will discuss a potential approach for doing just so: conducting trustworthy computation on untrusted execution platforms. The approach, proof-carrying data (PCD), circumnavigates the threat of faults and leakage by reasoning solely about properties of a computation's output data, regardless of the process that produced it. In PCD, the system designer prescribes the desired properties of the computation's outputs. These properties are then enforced using cryptographic proofs attached to all data flowing through the system and verified at the system perimeter as well as internal nodes.
+More Info
+Find the paper on  NSA's website .
+Theses
+[T2]
+Succinct Non-Interactive Arguments
+Ph.D. thesis (September 2014)
+MIT EECS Department
+Advised by Prof. Silvio Micali
+Abstract
+Succinct non-interactive arguments  (SNARGs), also known as "CS proofs" [Micali, FOCS 1994], enable verifying NP statements with much lower complexity than required for classical NP verification (in fact, with complexity that is  independent  of the NP language at hand). In particular, SNARGs provide strong solutions to the problem of verifiably delegating computation. A common relaxation is a  preprocessing  SNARG, which allows the verifier to conduct an expensive offline phase, independent of the statement to be proven later.
+In this thesis we present two main results:
+A general methodology for the construction of preprocessing SNARGs.
+A transformation, based on collision-resistant hashing, that takes  any  SNARG having a natural  proof of knowledge  property (i.e., a SNARK) as input and "bootstrapps" it to obtain a  complexity-preserving  SNARK, i.e., one without expensive preprocessing and where the prover's time and space complexity is essentially the same as that required for classical NP verification.
+These results provide the first publicly-verifiable complexity-preserving SNARK in the plain model. At the heart of our transformations is  recursive composition  of SNARKs  and, more generally, new techniques for constructing and using  proof-carrying data  (PCD) systems, which extend the notion of a SNARK to the distributed setting. Concretely, to bootstrap a given SNARK, we recursively compose the SNARK to obtain a "weak" PCD system for shallow distributed computations, and then use the PCD framework to attain stronger, complexity-preserving SNARKs and PCD systems.
+More Info
+The thesis is available on  DSpace@MIT .
+[T1]
+Proof-Carrying Data
+M.Eng. thesis (June 2010)
+MIT EECS Department
+Advised by Prof. Ronald L. Rivest and Prof. Eran Tromer
+Abstract
+The security of systems can often be expressed as ensuring that some property is maintained at every step of a distributed computation conducted by untrusted parties. Special cases include integrity of programs running on untrusted platforms, various forms of confidentiality and side-channel resilience, and domain-specific invariants.
+We propose a new approach,  proof-carrying data  (PCD), which sidesteps the threat of faults and leakage by reasoning about properties of a computation’s output  data , regardless of the  process  that produced it. In PCD, the system designer prescribes the desired properties of a computation’s outputs. Corresponding proofs are attached to every message flowing through the system, and are mutually verified by the system’s components. Each such proof attests that the message’s data  and all of its history  comply with the prescribed properties.
+We construct a general protocol compiler that generates, propagates, and verifies such proofs of compliance, while preserving the dynamics and efficiency of the original computation. Our main technical tool is the cryptographic construction of short non-interactive arguments (computationally-sound proofs) for statements whose truth depends on "hearsay evidence": previous arguments about other statements. To this end, we attain a particularly strong proof-of-knowledge property.
+We realize the above, under standard cryptographic assumptions, in a model where the prover has black- box access to some simple functionality --- essentially, a signature card.
+More Info
+The thesis is available on  DSpace@MIT .
+Short Bio
+I joined  EPFL 's faculty in the summer of 2021, and  UC Berkeley 's faculty in the summer of 2015. Prior to that, I spent one year as a postdoctoral researcher at  ETH Zürich ; my host was Prof.  Thomas Holenstein . I earned my Ph.D. in the  Theory of Computation  group in  CSAIL  at  MIT ; my doctoral thesis advisor was Prof.  Silvio Micali . I earned my M.Eng. in the same group; my master's thesis advisors were Prof.  Eran Tromer  and Prof.  Ron Rivest . I earned my S.B. in  Mathematics  and my S.B. in  Computer Science  at MIT; outside of classes and labs, I rowed for the heavyweight varsity  crew team  at MIT. A list of my old coursework while at MIT can be found  here . Before coming to MIT, I lived in  Varese , Italy, where I was born in 1987. While in Italy, I attended the  European School of Varese  from kindergarten through high school; this school is part of the system of  European Schools , which awards students the European Baccalaureate. I enjoy many outdoor sports, including biking, climbing, mountaineering, and running.

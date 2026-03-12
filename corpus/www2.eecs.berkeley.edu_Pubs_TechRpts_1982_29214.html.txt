@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29214.html
+Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package
+Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package
+D.G. Mayne, W.T. Nye, E. Polak, P. Siegal and T. Wuu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/53
+July 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-53.pdf
+BibTeX citation:
+@techreport{Mayne:M82/53,
+Author = {Mayne, D.G. and Nye, W.T. and Polak, E. and Siegal, P. and Wuu, T.},
+Title = {Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29214.html},
+Number = {UCB/ERL M82/53}
+}
+EndNote citation:
+%0 Report
+%A Mayne, D.G.
+%A Nye, W.T.
+%A Polak, E.
+%A Siegal, P.
+%A Wuu, T.
+%T Delight-MIMO: An Interactive, Optimization-Based Multivariable Control System Design Package
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29214.html
+%F Mayne:M82/53

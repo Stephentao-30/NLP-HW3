@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28622.html
+On an Axis-Crossing Property of Gaussian Noise | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On an Axis-Crossing Property of Gaussian Noise
+On an Axis-Crossing Property of Gaussian Noise
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M20
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-20.pdf
+BibTeX citation:
+@techreport{Wong:M20,
+Author = {Wong, E.},
+Title = {On an Axis-Crossing Property of Gaussian Noise},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28622.html},
+Number = {UCB/ERL M20}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T On an Axis-Crossing Property of Gaussian Noise
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28622.html
+%F Wong:M20

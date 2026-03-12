@@ -1,0 +1,90 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/spmm__test_8cpp.html
+Compressed Sparse Blocks: spmm_test.cpp File Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Macros  |
+Functions
+spmm_test.cpp File Reference
+#include <iostream>
+#include <algorithm>
+#include <numeric>
+#include <functional>
+#include <fstream>
+#include <ctime>
+#include <cmath>
+#include <string>
+#include <array>
+#include "timer.gettimeofday.c"
+#include " cilk_util.h "
+#include " aligned.h "
+#include " utility.h "
+#include " triple.h "
+#include " csc.h "
+#include " bicsb.h "
+#include " bmcsb.h "
+#include " spvec.h "
+#include " Semirings.h "
+Go to the source code of this file.
+Macros
+#define    NOMINMAX
+#define    INDEXTYPE    uint32_t
+#define    VALUETYPE    double
+#define    RHSDIM    16
+#define    ALIGN    32
+Functions
+template<typename NT , typename ALLOC , int DIM>
+void    fillzero  (vector< array< NT, DIM >, ALLOC > &vecofarr)
+template<typename NT , typename ALLOC , int DIM>
+void    fillrandom  (vector< array< NT, DIM >, ALLOC > &vecofarr)
+template<typename NT , typename ALLOC , int DIM>
+void    VerifyMM  (vector< array< NT, DIM >, ALLOC > &control, vector< array< NT, DIM >, ALLOC > &test)
+int    main  (int argc, char *argv[])
+Macro Definition Documentation
+#define ALIGN   32
+Definition at line  26  of file  spmm_test.cpp .
+#define INDEXTYPE   uint32_t
+Definition at line  16  of file  spmm_test.cpp .
+#define NOMINMAX
+Definition at line  1  of file  spmm_test.cpp .
+#define RHSDIM   16
+Definition at line  24  of file  spmm_test.cpp .
+#define VALUETYPE   double
+Definition at line  20  of file  spmm_test.cpp .
+Function Documentation
+template<typename NT , typename ALLOC , int DIM>
+void fillrandom
+(
+vector< array< NT, DIM >, ALLOC > &
+vecofarr   )
+Definition at line  49  of file  spmm_test.cpp .
+template<typename NT , typename ALLOC , int DIM>
+void fillzero
+(
+vector< array< NT, DIM >, ALLOC > &
+vecofarr   )
+Definition at line  40  of file  spmm_test.cpp .
+int main
+(
+int
+argc ,
+char *
+argv []
+)
+Definition at line  106  of file  spmm_test.cpp .
+template<typename NT , typename ALLOC , int DIM>
+void VerifyMM
+(
+vector< array< NT, DIM >, ALLOC > &
+control ,
+vector< array< NT, DIM >, ALLOC > &
+test
+)
+Definition at line  69  of file  spmm_test.cpp .
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

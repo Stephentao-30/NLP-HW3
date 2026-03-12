@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29022.html
+Generalizing the Notion of a Periodic Sequence | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Generalizing the Notion of a Periodic Sequence
+Generalizing the Notion of a Periodic Sequence
+R.M. MacGregor
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M443
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-443.pdf
+BibTeX citation:
+@techreport{MacGregor:M443,
+Author = {MacGregor, R.M.},
+Title = {Generalizing the Notion of a Periodic Sequence},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29022.html},
+Number = {UCB/ERL M443}
+}
+EndNote citation:
+%0 Report
+%A MacGregor, R.M.
+%T Generalizing the Notion of a Periodic Sequence
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M443
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29022.html
+%F MacGregor:M443

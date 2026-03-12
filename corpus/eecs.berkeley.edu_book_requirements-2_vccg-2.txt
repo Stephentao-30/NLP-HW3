@@ -1,0 +1,61 @@
+URL: https://eecs.berkeley.edu/book/requirements-2/vccg-2
+Current: Visual Computing and Computer Graphics - EECS at Berkeley
+Current: Visual Computing and Computer Graphics
+Program Requirements
+All EECS MEng students should expect to complete four (4) technical courses within the EECS department at the graduate level, the Fung Institute’s engineering leadership curriculum, as well as a capstone project that will be hosted by the EECS department. You must select a project from the list below.
+2019-2020 Capstone Design Experiences
+Augmented Reality and Virtual Reality (advisor Prof.  Allen Yang )
+Description  –  The AR/VR Design Experience creates a multi-disciplinary curriculum that offers the students a comprehensive education and research experience in the emerging field of Augmented Reality and Virtual Reality. In the Fall term, an introductory class of AR/VR will be given by a deep bench of Berkeley faculty in Graphics, Computer Vision, and Human-Computer Interaction. In the Spring term, the students will be immersed in carefully curated Capstone Projects that pair the students with our faculty groups, leading industrial sponsors, or entrepreneurial projects. We expect the students through this program to master the necessary knowledge and skills of becoming technology leaders in the rapidly expanding AR/VR industry.
+*****
+Title  –  OpenARK: Open-Source Augmented Reality Kit
+Description  –  OpenARK is an award-winning open-source platform that develops critical core functions of augemtend reality. In the past two years, more than 20 M.Eng students have contributed to the project, and two teams won the top US and China innovation grand prizes. The team will continue developing state-of-the-art algorithms in human avatar tracking, 3D reconstruction, and UI/UX principles.
+***
+Title  –  ISAACS: Immersive Semi-Autonomous Aerial Command System
+Description  –  ISAACS envisions a brand-new future drone control interface where regular users can naturally and safely control unmanned drones via a virtual reality interface. The project consists of three modules: 1. Drone Safety Control via Machine Learning. 2. Real-time 3D acquisition of the environment using onboard cameras. and 3. Immersive user interface in VR for controlling a drone fleet effectively by a single (remote) pilot.
+2019-2020 Capstone Projects
+For the capstone projects for Master of Engineering in Electrical Engineering and Computer Science (EECS) our department believes that the students are going to have a significantly better experience if the projects are followed closely by an EECS professor throughout the academic year. To ensure this, we have asked the faculty in each area for which the Master of Engineering is offered in our department to formulate one or more project ideas that the incoming students will have to choose from.
+Project 1
+Title  – Advanced Geometric Modeling  (advisor Prof.  Carlo H. Sequin )
+Description  –  Much research in Computer Graphics these days is focused on creating ever more sophisiticated renderers. On the other hand, the tools to create geometrical and graphical content seem to evolve much more slowly. This project focuses on making enhancement to computer-aided design tools for abstract geometrical shapes. Specifically we will look at procedural approaches that can generate the kind of 2-manifold surfaces that Eva Hild, a Swedish artist, creates intuitively by shaping ceramic surfaces in an incremental, evolutionary approach, or the “Topological Sculptures” that Charles O. Perry constructs by suspending steel cables in 3D space, pulling them into the aesthetically most pleasing configurations, and then filling in wire meshing that approximates the shapes of minimal surfaces. Those types of shapes are surprisingly difficult to model with commercial CAD tools such as Solidworks, Maya, or Blender.
+During the last two years, we have developed a CAD tool that makes it easier to design such geometries. NOME (Non-Orientable Manifold Editor) combines procedural text input, interactive graphics to make topological modifications and enhancements, and internal processes for smoothing and solidifying the sketched surfaces into “water-tight” 3D CAD models, which can then be realized on various 3D printers.  The tasks in this project focus on extending the geometrical design capabilities and to combine these procedural design modules into a robust software system.
+Project 2
+Title  – Vision Correcting Displays (advisor Prof. Brian A. Barsky)
+Description  – Vision problems such as near-sightedness, far-sightedness, as well as others, are due to optical aberrations in the human eye. These conditions are prevalent, and the number of people who have these hardships is growing rapidly. Correcting optical aberrations in the human eye is traditionally done optically using eyeglasses, contact lenses, or refractive surgeries; these are sometime not convenient or not always available to everyone. Furthermore, higher order aberrations are not correctable with eyeglasses. This research is investigating a novel approach which involves a new computation based aberration-correcting light field display: by incorporating the person’s own optical aberrations into the computation, content shown on the display is modified such that the viewer will be able to see the display in sharp focus without using corrective eyewear.
+Our research involves the analysis of image formation models; through the retinal light field projection, it is possible to compensate for the optical blurring on the target image by a process of prefiltering with the inverse blur. As part of this project, we are building a light field display prototype that supports our desired inverse light field prefiltering. We are working towards extending the capability to correct for higher order aberrations. This latter aspect is particularly exciting since it would enable people for whom it is not possible to see displays in sharp focus using eyeglasses to be able to do so using no corrective eyewear. This is a broad project that incorporates many different aspects. A variety of different backgrounds for students is welcome. Students are free to choose what is the most interesting part for them.
+Projects 3 & 4
+Title  -Robust Second Order Training of Neural Networks (advisor Prof. Michael Mahoney)
+Description  -The de-facto method used for training neural networks is stochastic gradient descent, a first order method that is highly sensitive to hyper-parameter tuning. This a major challenge in training of neural networks as hyper-parameter tuning is very expensive and often times not feasible for large datasets. A set of recent developments to address this problem, is the family of stochastic second order optimization. This project will in particular focus on K-FAC methods which have recently shown very promising results in addressing these challenges.
+***
+Title  -Adversarially robust neural networks (advisors Profs. Kurt Keutzer/Michael Mahoney)
+Description  – There has been multiple attempts to design robust neural networks, but each apparent successful design, has been broken by a new adversarial attack. This empirical approach to robust design has not been successful. A new paradigm is to design certifiably robust neural networks by constraining the training to guarantee no adversarial attack is possible.
+Projects 5 & 6
+Title  -Systematic Quantization of Neural Networks (advisors Profs. Kurt Keutzer)
+Description  – Model size and inference speed/power have become a major challenge in the deployment of Neural Networks for many applications. A promising approach to address this problem is quantization. This project will explore a new systematic quantization method using second-order methods. The project will include exploring quantization for challenging tasks such as object detection, segmentation, face recognition, and style transfer.
+***
+Title  -Scalable Training of Neural Networks (advisor Profs. Kurt Keutzer/Michael Mahoney)
+Description  – One of the main challenges for neural network is becoming the time to train these models on big data. This project will involve a multi-faceted approach to speed up training of neural networks including both new optimization based improvements and novel systems level algorithms
+Project 7
+Title  – Retina Tracking and Stimulation for Color Perception Beyond Human Vision (advisor Prof. Ren Ng)
+Description  –  The goal of this project is to prototype next-generation color display technology, based on laser-writing directly to the retina surface. In principle, the system would have new capabilities that include displaying colors that cannot be seen in the real world, or treating color blindness. This underlying research is in collaboration with the School of Optometry. The scope of the project can be adjusted based on the expertise of the project members. Helpful background includes some of: software engineering, embedded programming, computer graphics, computer vision, computational imaging, signal processing, machine learning, optical engineering, physical electronics, exposure to biomedical devices, and precision engineering.
+Technical Courses
+At least THREE of your four technical courses should be chosen from the list below. The remaining technical courses should be chosen from your own or another MEng area of concentration within the EECS Department.
+Fall 2019 (Updated: 7/10/19)
+CS 260A, User Interface Design and Development
+CS 289A, Introduction to Machine Learning
+CS 294-137, Theory and Applications of Virtual Reality and Immersive Computing
+*Req’d technical course if you are part of the AR/VR Capstone Design Experience
+EE 218A, Introduction to Optical Engineering
+EECS 227AT, Optimization Models in Engineering
+Spring 2020 (Updated: 10/7/2019)
+CS 260A, User Interface Design and Development
+CS 289A, Introduction to Machine Learning
+CS 267, Parallel Computing
+CS 280, Computer Vision
+CS 284A. Foundations of Computer Graphics
+EECS 227AT, Optimization Models in Engineering
+EE C227C. Convex Optimization and Approximation
+Note: The courses listed here are not guaranteed to be offered, and the course schedule may change without notice. Refer to the  UC Berkeley Course Schedule  for further enrollment information.
+< Current: Signal Processing and Communications
+Current M.Eng. Projects and Courses by Area >
+View
+Open Faculty Positions

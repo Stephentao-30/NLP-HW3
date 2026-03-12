@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-186.html
+Single Program, Multiple Data Programming for Hierarchical Computations
+Amir Ashraf Kamil
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-186
+August 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.pdf
+As performance gains in sequential programming have stagnated due to power constraints, parallel computing has become the primary tool for increasing performance. Parallel computing has long been used in scientific computing, and programmers of the future will likely face many of the same challenges that occur in programming large-scale machines. One such challenge is that of hierarchy: machines are built in a hierarchical fashion, with a wide range of communication costs between different parts of a machine, and applications such as divide-and-conquer algorithms often have hierarchical structure.
+Large-scale parallel machines are programmed primarily with the single program, multiple data (SPMD) model of parallelism. This model combines independent threads of execution with global collective communication and synchronization operations. Previous work has demonstrated the advantages of SPMD over other models: its simplicity enables productive programming and avoids many classes of parallel errors, and at the same time it is easy to implement and amenable to compiler analysis and optimization. Its local-view execution model allows programmers to take advantage of data locality, resulting in good performance and scalability on large-scale machines. However, it is a flat model that does not fit well with hierarchical machines or algorithms.
+In this dissertation, we introduce the recursive single program, multiple data (RSPMD) execution model. This model extends SPMD with hierarchical, structured teams, or groupings of threads. We design RSPMD extensions for the Titanium language, including a hierarchical team data structure and lexically-scoped constructs for operating over teams. We demonstrate that these extensions prevent erroneous use of teams that would result in deadlock. In addition, we present a runtime mechanism for ensuring proper use of both global collective operations and collectives over teams, eliminating more potential sources of deadlock.
+As analyzable as SPMD is, we demonstrate that RSPMD can also be analyzed precisely and efficiently. We define a hierarchical pointer analysis for determining which data a pointer can reference, as well as on which threads the referenced data may reside. We then present a series of analyses for computing the set of concurrent statements in both SPMD and RSPMD programs. We show that these analyses improve the results of multiple client analyses, including data-locality and sharing inference, race detection, and memory-model enforcement.
+Finally, we present application case studies demonstrating the expressiveness and performance of the RSPMD model. We show that the model enables divide-and-conquer algorithms such as sorting to be elegantly expressed, and that team collective operations increase performance of a conjugate gradient benchmark by up to a factor of two. The model also facilitates optimizations for hierarchical machines, improving scalability of a particle in cell application by 8x, performance of sorting by up to 40%, and execution time of a stencil code by as much as 14%.
+Advisors:  Katherine A. Yelick
+BibTeX citation:
+@phdthesis{Kamil:EECS-2012-186,
+Author= {Kamil, Amir Ashraf},
+Title= {Single Program, Multiple Data Programming for Hierarchical Computations},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html},
+Number= {UCB/EECS-2012-186},
+Abstract= {As performance gains in sequential programming have stagnated due to power constraints, parallel computing has become the primary tool for increasing performance. Parallel computing has long been used in scientific computing, and programmers of the future will likely face many of the same challenges that occur in programming large-scale machines. One such challenge is that of hierarchy: machines are built in a hierarchical fashion, with a wide range of communication costs between different parts of a machine, and applications such as divide-and-conquer algorithms often have hierarchical structure.
+Large-scale parallel machines are programmed primarily with the single program, multiple data (SPMD) model of parallelism. This model combines independent threads of execution with global collective communication and synchronization operations. Previous work has demonstrated the advantages of SPMD over other models: its simplicity enables productive programming and avoids many classes of parallel errors, and at the same time it is easy to implement and amenable to compiler analysis and optimization. Its local-view execution model allows programmers to take advantage of data locality, resulting in good performance and scalability on large-scale machines. However, it is a flat model that does not fit well with hierarchical machines or algorithms.
+In this dissertation, we introduce the recursive single program, multiple data (RSPMD) execution model. This model extends SPMD with hierarchical, structured teams, or groupings of threads. We design RSPMD extensions for the Titanium language, including a hierarchical team data structure and lexically-scoped constructs for operating over teams. We demonstrate that these extensions prevent erroneous use of teams that would result in deadlock. In addition, we present a runtime mechanism for ensuring proper use of both global collective operations and collectives over teams, eliminating more potential sources of deadlock.
+As analyzable as SPMD is, we demonstrate that RSPMD can also be analyzed precisely and efficiently. We define a hierarchical pointer analysis for determining which data a pointer can reference, as well as on which threads the referenced data may reside. We then present a series of analyses for computing the set of concurrent statements in both SPMD and RSPMD programs. We show that these analyses improve the results of multiple client analyses, including data-locality and sharing inference, race detection, and memory-model enforcement.
+Finally, we present application case studies demonstrating the expressiveness and performance of the RSPMD model. We show that the model enables divide-and-conquer algorithms such as sorting to be elegantly expressed, and that team collective operations increase performance of a conjugate gradient benchmark by up to a factor of two. The model also facilitates optimizations for hierarchical machines, improving scalability of a particle in cell application by 8x, performance of sorting by up to 40%, and execution time of a stencil code by as much as 14%.},
+}
+EndNote citation:
+%0 Thesis
+%A Kamil, Amir Ashraf
+%T Single Program, Multiple Data Programming for Hierarchical Computations
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 10
+%@ UCB/EECS-2012-186
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-186.html
+%F Kamil:EECS-2012-186

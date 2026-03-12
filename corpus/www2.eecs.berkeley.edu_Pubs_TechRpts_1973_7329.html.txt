@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7329.html
+Estimation Theory for Continuous Time Processes, A Martingale Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Estimation Theory for Continuous Time Processes, A Martingale Approach
+Estimation Theory for Continuous Time Processes, A Martingale Approach
+Jan H. Van Schuppen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M405
+September 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-405.pdf
+Advisor:  Eugene Wong
+BibTeX citation:
+@phdthesis{Van Schuppen:M405,
+Author = {Van Schuppen, Jan H.},
+Title = {Estimation Theory for Continuous Time Processes, A Martingale Approach},
+School = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7329.html},
+Number = {UCB/ERL M405}
+}
+EndNote citation:
+%0 Thesis
+%A Van Schuppen, Jan H.
+%T Estimation Theory for Continuous Time Processes, A Martingale Approach
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M405
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/7329.html
+%F Van Schuppen:M405

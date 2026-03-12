@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28824.html
+Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks
+Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks
+F.M. Callier and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M539
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-539.pdf
+BibTeX citation:
+@techreport{Callier:M539,
+Author = {Callier, F.M. and Desoer, C.A.},
+Title = {Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28824.html},
+Number = {UCB/ERL M539}
+}
+EndNote citation:
+%0 Report
+%A Callier, F.M.
+%A Desoer, C.A.
+%T Open-loop Unstable Convolution Feedback Systems With Dynamical Feedbacks
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M539
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28824.html
+%F Callier:M539

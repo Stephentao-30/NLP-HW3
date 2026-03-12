@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-124.html
+Towards Autonomous Situation Awareness | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Towards Autonomous Situation Awareness
+Towards Autonomous Situation Awareness
+Nikhil Naikal
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-124
+May 21, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-124.pdf
+Advisor:  S. Shankar Sastry
+BibTeX citation:
+@phdthesis{Naikal:EECS-2014-124,
+Author = {Naikal, Nikhil},
+Title = {Towards Autonomous Situation Awareness},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-124.html},
+Number = {UCB/EECS-2014-124}
+}
+EndNote citation:
+%0 Thesis
+%A Naikal, Nikhil
+%T Towards Autonomous Situation Awareness
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 21
+%@ UCB/EECS-2014-124
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-124.html
+%F Naikal:EECS-2014-124

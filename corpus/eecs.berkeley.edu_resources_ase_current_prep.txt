@@ -1,0 +1,220 @@
+URL: https://eecs.berkeley.edu/resources/ase/current/prep
+GSI Guide: Preparation and Management - EECS at Berkeley
+GSI Guide: Preparation and Management
+In This Page
+Workload & Teaching Resources
+Know your rights; CS Mentors; GSI Teaching Resource Center
+Setting Course Staff Expectations
+Volunteer culture; staff meetings; a reflection meeting; saying "no"
+Recommendations for Course Policies
+Accessible syllabi and reading requirements; course policy on academic dishonesty; tips from Dan Garcia
+Writing & Grading Exams
+Dan Garcia's 5 finger test for exam questions; pledges of academic integrity; John DeNero's "noncollaboration" video; guidelines for grading exams
+Workload
+Academic student employees are unionized and represented by  UAW2865 .  Know your rights!  As part of the collective bargaining agreement, the union has defined acceptable bounds for workload, pay, job security, etc.
+The worst thing to do  in situations where you feel overworked or dissatisfied  is to just let it happen.  The first step is good communication, and then you can work out a solution with everyone involved. It could also be the case that you find a course policy or injunction to be unfair to students or other staff: let it be heard! Instructors care deeply about these issues and care about your feedback. In either case, communication is crucial.
+Who should you talk to? The first point of contact is the instructor of record. If you are unable to resolve the matter with them, then you may reach out to the EECS Course Management Staff ( eecs-course-management@eecs.berkeley.edu ), for a meeting.
+Teaching Resources
+Preparing staff for their teaching responsibilities is one of the core, but often underemphasized responsibilities of the heads of staff. Shadowing a section is the best way to provide feedback to other course staff members. For larger staff, consider grouping staff members into “families” so that staff members within each family can shadow and provide feedback to each other.
+Computer Science Mentors
+The  Teaching  resources folder, managed by Computer Science Mentors, contains a selection of teaching materials accumulated over the years. A few particular highlights include,
+So You Think You Can TA  (Jon Kotker)
+The Torch or the Firehose : The MIT Guide to Section Teaching (MIT)
+CS 61B Discussion 1 Script  (Josh Hug)
+CSTeachingTips.org
+Depending on the course’s material and what resources already exist, you’ll want to adapt these resources to suit your specific needs. First-time TAs are very likely to benefit from these materials, especially since CS 375 or EE 375 tends not to start sessions until after the critical first few sections.
+GSI Teaching & Resource Center
+The Graduate Student Instructor Teaching & Resource Center is an academic unit of the Graduate Division at UC Berkeley that prepares GSIs for teaching undergraduates at UC Berkeley. They provide conferences, workshops, seminars, certifications, confidential consultations, classroom observations (with or without video-recording), grants, awards, an  online teaching guide , and a robust web-based course on professional standards and ethics in teaching. They also provide language testing and specialized courses for current and prospective international GSIs at UC Berkeley. For more information, please visit the  GSI Teaching & Resource Center .
+Setting Expectations
+For courses with more than a handful of staff, it is incredibly important that you properly split up the responsibilities amongst the head TAs. If you are ever overwhelmed during the semester, then reach out, talk to your fellow head TAs and the professors. Recruit more help if necessary. Being a head TA is not an easy task, but if done right, it can be a smooth and positive experience. Settle for no less.
+If you split up the duties so that a single TA handles similar responsibilities, then the process will overall be more efficient, rather than having each head TA do everything. Don’t underestimate the time commitment for “small tasks”, such as responding to administrative emails. These actually consume a lot of your time, because they break up your usual workflow. Whenever possible, try to do tasks in bulk for peak efficiency.
+As you read through this document, take note of the various responsibilities and schedule a meeting with the other head TAs before the semester to determine how to distribute the tasks. It’s helpful to also consult with past semester course staffs to see how they did things, and the suggestions they have going forward.
+Volunteer Culture
+Say there is an exam review session the following week and you need volunteers to help run the session. It is tempting to simply ask for volunteers during the staff meeting. While this is fine on one or two occasions, do not ask for volunteers on a regular basis. By asking for volunteers, you are inadvertently encouraging TAs to spend more hours on the course than their allotted hours! Do not overwork the TAs.
+The problem is made especially difficult because the TAs will be hard-working, considerate individuals who care deeply about the students. As another example, if you ask for volunteers to hold one-on-one meetings with struggling students, you will induce guilt in the TAs who do not volunteer, and so you will end up with TAs who volunteer, yet really cannot spare the time.
+TA applications are competitive, and some students desire 20-hour positions. So, if there are many opportunities to volunteer, some TAs will feel pressured to volunteer as much as possible to increase their chances for these applications. Overall, this will lead to an unhealthy, overworked environment. Avoid this!
+One approach is to anticipate all such events at the beginning of the semester and have the TAs fill out their participation in advance, taking care to ensure that the number of hours they fill out matches their appointment.
+Another approach is to maintain a secret mental or digital list of TAs who haven’t been pulling their own weight recently. Distributing tasks to these TAs is a good way to artificially rebalance the workload.
+Keep in mind that offering more resources to students does not necessarily lead to more learning. Students will certainly appreciate the effort, but the best learning is done when they sit down and concentrate hard. More office hours or one-on-one meetings might sound like a good idea in principle, but is this really the best option for students? I will relate the anecdote of my friend who once spent an entire RRR week attending CS 61A review sessions. He unfortunately did not score very well on the final because did not devote enough time to individual practice.
+The takeaway is to think about distributing resources more effectively, rather than distributing more resources.
+Staff Meetings
+Hold weekly staff meetings with the entire course staff. The agenda for the staff meetings normally includes a blend of reflection on the past week and identifying common student confusions, as well as looking forward to upcoming events (such as exams) and a primer on how to teach the next week’s material. Remember, the TAs are usually more connected to the students than the professors are, so it is part of your job to communicate what the TAs know about the students to the professors so that they can adapt. Find the right balance between reflection and looking ahead in your staff meetings.
+Even if the meetings do not cover anything substantial, it is a good time for the course staff to bond. You can bring up important agenda items, but perhaps you don’t need to be too formal. After all, most of the content management can be done directly with the content TAs, so it’s not something you need to bring up at the meetings.
+In the first few weeks, spend additional time discussing the TAs’ experiences with teaching. This is especially helpful for first-time TAs, who may want more guidance on how to lead a section.
+A Reflection Meeting
+Running a successful semester-long course is not unlike running a long-term project in many ways. Some courses choose to schedule end of the semester “reflection” meetings. These meetings can be a great way to cap off a semester of hard work, and prep for a new semester by inviting new staff members. Usually, they’re a bit longer than a typical staff meeting, and it’s a good excuse to order lunch for the whole team.
+In a nutshell, there are three basic questions you can ask and answer to have a successful reflection.
+What went well this semester?
+What didn’t go so well this semester?
+What big things should we change next semester?
+These are just a starting point, but in a course with many moving parts it can become difficult to see the forest from the trees. There will always be an innumerable number of changes you can make to a perfect course. Taking the time to reflect will help you get a head start of the next semester. Sometimes, you can invite next semester’s staff to all or part of the meeting, so they hear first hand from everyone how things went.
+Don’t forget, a brand new assignment is its own unique project. If time allows, you might schedule a debrief or reflection meeting after you’ve returned the grades for a brand new project.
+Saying “No”
+As a TA, you’re a student too! As a head TA, you’re still a student! You have a responsibility to yourself, and your friends and family just like you do to your students. Do not forget that it is perfectly OK to say “No” when you are unable to complete a task. It’s better to be honest, than to end up being stressed or avoiding your own school work.
+If you’re a head TA, make sure the rest of the staff knows that they, too, can tell you “No”. Although it may seem unlikely, your experience and knowledge may intimidate some of your peers–through no fault of anyone. Try to assure them that it’s OK to say no.
+The faculty members we work with are impressive, but they were once in our shoes, too. It’s OK to tell them “no”! If an exam problem is too complex, or there’s simply no time to rewrite an assignment days before it’s released, remember that is OK to say no. It can be a hard thing to learn, especially because like so many of your peers, you want nothing but the best for your students, but it can be essential.
+Recommendations
+Provide an Accessible Syllabus & Specific Reading Requirements
+The instructor of record may ask for your input on the design of the syllabus. In the lens of equity, consider developing an accessible syllabi that builds in a measure of flexibility and universal design, so that course staff are prepared for when a student requests for an accommodation (whether it’s DSP, athletics, music etc.), which can occur at any time within the semester. This includes  how the curriculum is provided and a timeline of when it will be assessed  during the course.
+Examples warranting syllabi flexibility:
+Classroom media which may require captioning/alternative media (sight and hearing)
+Changes in physical locations, or expectations (in a lab for example) for physical access
+Attendance policy flexibility for disability or planned extracurricular-related absences
+Exam accommodations which may require extended time, reduced distraction and/or other requirements
+Note taking assistance, which may involve the use of an audio note-taking system and/or DSP real time captioner, as well as advanced copies of powerpoints, lecture notes, outlines and key points available via written format (on bCourse or other LMS)
+As required by law , students with disabilities must be given access to course materials (syllabi, textbooks, course readers, etc.) in a timely fashion – that is,  at the same time as do their peers without disabilities.  Converting print materials to alternative media for students who use this accommodation is labor-intensive, so plan accordingly. Many learning platforms, such as bCourse/Canvas, offer built-in accessibility tools and are highly encouraged for your students. For texts, you must provide:  Title, Author(s), ISBN, Edition.
+EECS Default Course Policies
+The  UCB EECS Default Course Policies  document contains tested policies which you can adopt to address things like clobbering, time-based penalties, slip-days, and dropped assignments.
+Course Policy on Academic Dishonesty
+Different courses often have their own approaches to grading and detection technologies, so it is the responsibility of faculty and course staff to share their expectations and requirements regarding collaboration, homework and exams through a syllabus, course website, or other means to all of their students at the beginning of the semester.
+Here are some examples to include into a course syllabus to speak to the issue of academic integrity:
+Collaboration and Independence  – While we encourage students to review materials and study together, projects and assignments turned in as homework should be the result of one’s own independent work.
+Cheating  – Anyone caught cheating on a quiz or exam will receive a failing grade and will also be reported to the University Office of Student Conduct.
+Plagiarism/Self-plagiarism  – Copying text or ideas from another source (including your own previously, or concurrently, submitted coursework) without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action. For additional information on plagiarism, self-plagiarism, and how to avoid it, visit the UC Berkeley Library on how to cite sources as well as the GSI Teaching & Resource Center on student conduct.
+MOSS : As a tool to promote academic integrity in this course, work submitted may be checked for originality using MOSS. MOSS is an open-source software used for plagiarism-detection, which performs a Measure of Software Similarity for all projects and assignments that are turned in for credit. Source code submitted by the student that is interpreted as plagiarism by the course staff, will result in a failing grade for your assignment and further disciplinary action will be taken.
+Please visit the  Center for Teaching & Learning  for more detailed examples on course policy statements regarding academic integrity.
+Other Recommendations
+Here are a few recommendations courtesy of Dan Garcia. These are student-friendly policies which improve community and collaboration in large courses:
+Absolute grading, bump up at the end but never down.
+Present the scale in the syllabus, which enables students to always understand where there grade is, and reduces a lot of questions.
+Allow later exams to replace earlier exam grade(s).
+Allow slip days for homework.
+Better yet, if your course uses autograder infrastructure, consider allowing arbitrary extensions. This needs to be balanced out with considerations for the benefit of deadlines and keeping students on track.
+Give  EPA ! Sprinkle points.
+E ffort: How much student tried. Office hours? Does all hw?
+P articipation: Does the person ask questions in lecture or discussion?
+A ltruism: Helping others in lab, newsgroup, or office hours.
+EPA grades are hidden, and can boost up grades.
+Writing & Grading Exams
+Generally, the responsibility of composing the exam falls upon the instructor of record, though question ideas may sometimes be opened to course staff. Dan Garcia, award-winning teaching professor at UC Berkeley in the EECS Department, offers some advice on how to design exams:
+Dan’s Five Finger Test for Exam Questions
+1) Material Coverage
+It can be hard to cover everything.
+Equal emphasis should also lead to equal weighting
+2) Reasonable Time
+Expect TAs to complete the exam in a sixth, a fifth, or fourth of the usual time
+Complicated somewhat by free-response questions (it takes time to write down the answer, but this time should not be counted)
+Ratio between points and time required should be consistent
+Dan sometimes puts times on the exam
+3) Range of Difficulty
+Very easy for TAs to write diabolical questions
+Your exams will be too hard
+Try to assign each question a difficulty (A-F)
+Give easy midterms and a harder final
+Amount of partial credit given is a good way to turn screws
+Reward those who are  perfect, have the idea, have no idea
+Put your “C” questions first
+4) Variety of Question Types
+Questions about a function:
+What does this function do?
+Write this function.
+Find the case that reveals a bug in the function.
+Given this output, what was the function’s output.
+Feel free to come up with your own!
+Wacky ideas:
+Parson’s problem: given chunks of code, put them in the right place
+Qualitative written questions
+Pain in the behind to grade if you allow many sentences
+Slightly smaller pain in the behind if you allow just one sentence
+Perhaps try multiple choice, though you might lose a little fidelity
+No cascading (each question should test one thing)
+Let students answer subsequent questions in terms of a variable that represents the answer to previous question
+Cumulative vs. non-cumulative
+Advantages of cumulative:
+Allows students to give the material a second try
+Can challenge students to answer hardest questions from last time
+Belief: Final exam should have the same weighting for all elements of the class
+5) Ease of Grading
+Use Gradescope!!
+Please visit the  CS-ED Podcast  to listen or read the full transcript of Dan Garcia’s interview on designing exams.
+A few additional logistical concerns:
+For questions that would be tedious to grade, include a bubble-in option to receive a small fraction of the points in exchange for not grading the question.
+For code-writing questions, include scaffolding and fill-in blanks to help structure responses and reduce variation in answers. This can also help students by providing hints to the structure of the problem.
+Prefer multiple choice questions where possible. Integrate multiple-choice options for true-false, even when an explanation is required, to trim the effort needed to identify incorrect-choice answers.
+Pledge of Academic Integrity
+In 2012, a team of psychologists and behavioral economists presented a study  “Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end” , proposing that when people sign to a pledge of honesty to their reportings before, rather than after, their submission, the opportunity to cheat makes ethics salient when they are needed most and significantly reduces dishonesty. The authors suggest that when we become aware of the possibility of immoral behavior, we reflect on our own morality. SInce this publication, organizations from around the world have adopted this practice, including many professors at UC Berkeley.
+Here is an example taken from Professor Babak Ayazifar:
+By my honor, I affirm that
+this document—which I have produced for the evaluation of my performance—reflects my original, bona fide work, and that I have neither provided to, nor received from, anyone excessive or unreasonable assistance that produces unfair advantage for me or for any of my peers;
+as a member of the UC Berkeley community, I have acted with honesty, integrity, respect for others, and professional responsibility—and in a manner consistent with the letter and intent of the campus Code of Student Conduct;
+I have not violated—nor aided or abetted anyone else to violate—the instructions for this exam given by the course staff, including, but not limited to, those on the cover page of this document; and
+More generally, I have not committed any act that violates—nor aided or abetted anyone else  to violate—UC Berkeley, state, or Federal regulations, during this exam.
+(10 Points) In the space below, hand-copy the text of the pledge above—verbatim—and then write your name in legible letters, sign, include your full SID, and date
+before uploading your work to Gradescope.
+Other approaches to this include repeating pledges out loud in class (like a sworn testimony in court to tell the truth) and moral reminders. John DeNero, another esteemed professor at EECS, posted this “noncollaboration” video prior to testing:
+While these approaches may not be as effective as proctoring practices during exams and clear supervision, providing a pledge or signing to confirm honesty and moral reminders before testing gives your students an opportunity to understand the consequences of cheating. It can also shed some light as to what kind of person they want to be in the world.
+Instructors use different methods for proctoring and detecting cheating (plagiarism-detection, cheat-traps, etc.), which is also class dependent because it needs to integrate into homework, projects, and exam design. Make sure that you know and understand the methods applied in your course and the conduct process for each scenario.
+Grading Exams
+Use Gradescope! Visit the  Help Center  to learn how to use Gradescope most effectively.
+When grading with multiple graders on an ungrouped problem, design the rubric to reduce ambiguity. Use Shift+Return to enter multiple lines of text and organize ideas. The clearer the rubric, the more consistent the grading and the fewer confused regrades from students. When there is ambiguity, consult with other graders instead of assuming one way or the other. Gradescope’s rubrics support LaTeX (use $$ or $$$), including bolding, colors, etc, which can help communicate some answers.
+Positive grading rubrics are the default for many questions, though you may want to consider scenarios in which negative grading rubrics may be more helpful or decompose knowledge in a different way. (Note that you can mix-and-match styles within a rubric, and between questions.)
+Make sure new staff members are sufficiently introduced to the grading process. Grade in pairs, perhaps. Rubric creation should also be done as a group first to establish a consistent grading scheme amongst all graders.
+A few practical tips:
+Plan a tiny bit before creating a rubric.
+Quickly review the first 5-10 submissions to get an overview and use it to iterate and improve the rubric before committing resources to grading.
+Use the magnifying glass to spot-check.
+Create a rubric item to “flag” certain submissions that are difficult (or take longer than expected) to grade or otherwise don’t fit the rubric. Grade them in a second pass using the magnifying glass. Be sure to delete this before releasing grades.
+When regrading, it is important to keep in mind equity with other students. Before reading the student’s plea, regrade the problem first to avoid coloring judgement with student bias. Add or deduct points accordingly. Consider your regrading strategy as a course. If two TAs graded a question, have the other TA address the regrade.
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

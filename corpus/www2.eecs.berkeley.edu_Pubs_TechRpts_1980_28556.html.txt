@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28556.html
+Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata
+Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata
+Silvio Micali
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/4
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-4.pdf
+BibTeX citation:
+@techreport{Micali:M80/4,
+Author = {Micali, Silvio},
+Title = {Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28556.html},
+Number = {UCB/ERL M80/4}
+}
+EndNote citation:
+%0 Report
+%A Micali, Silvio
+%T Two-Way Deterministic Finite Automata are Exponentially More Succint than Sweeping Automata
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28556.html
+%F Micali:M80/4

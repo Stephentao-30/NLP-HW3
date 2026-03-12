@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-133.html
+Food Fight: A Social Diet Network Mobile Application
+Tony Chang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-133
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-133.pdf
+The growth of smartphone technology in today’s society has paved way for a myriad of consumer applications that target various aspects of our lives. One such area lies within the health and wellness category and relates to our dietary and eating habits. However, the percentage of downloaded applications in the health category is dominated by those in the gaming category on both markets from Android and Apple. Thus, in conjunction with the health start-up Blue Goji as an industry partner, this project proposes a solution through the introduction of crowdsourcing and social elements into the meal journal process in order to increase user retention. Existing smartphone applications targeting this sector are investigated and their benefits and shortcomings are analyzed in order to in to aid in developing a new application that will engage more users in tracking their eating habits for the purposes of improving their health. Through feedback from user study groups, changes to the application are made to align it with the customer’s true needs and the application concept is evolved through multiple iterations. Finally, future improvements and suggestions for alternative ideas are proposed with regards to the final prototype produced for the project.
+Advisors:  Pieter Abbeel and Lee Fleming
+BibTeX citation:
+@mastersthesis{Chang:EECS-2012-133,
+Author= {Chang, Tony},
+Title= {Food Fight: A Social Diet Network Mobile Application},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-133.html},
+Number= {UCB/EECS-2012-133},
+Abstract= {The growth of smartphone technology in today’s society has paved way for a myriad of consumer applications that target various aspects of our lives. One such area lies within the health and wellness category and relates to our dietary and eating habits. However, the percentage of downloaded applications in the health category is dominated by those in the gaming category on both markets from Android and Apple. Thus, in conjunction with the health start-up Blue Goji as an industry partner, this project proposes a solution through the introduction of crowdsourcing and social elements into the meal journal process in order to increase user retention. Existing smartphone applications targeting this sector are investigated and their benefits and shortcomings are analyzed in order to in to aid in developing a new application that will engage more users in tracking their eating habits for the purposes of improving their health. Through feedback from user study groups, changes to the application are made to align it with the customer’s true needs and the application concept is evolved through multiple iterations. Finally, future improvements and suggestions for alternative ideas are proposed with regards to the final prototype produced for the project.},
+}
+EndNote citation:
+%0 Thesis
+%A Chang, Tony
+%T Food Fight: A Social Diet Network Mobile Application
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-133
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-133.html
+%F Chang:EECS-2012-133

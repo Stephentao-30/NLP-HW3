@@ -1,0 +1,73 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-126.html
+An arithmetic complexity lower bound for computing rational functions, with applications to linear algebra
+James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-126
+July 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-126.pdf
+In 1965 Klyuev and Kokovkin-Shcherbak proved that
+that (n^3)/3 + O(n^2) multiplications are
+necessary to solve an n-by-n system of linear
+equations. In 1969 Strassen proved O(n^(log_2 7))
+multiplications are sufficient. They could both be right
+because they considered different models of permitted
+algorithms. Here we propose yet another algorithmic model,
+closer in spirit to Klyuev and Kokovkin-Shcherbak,
+but sufficiently more general to be able to provide
+lower bounds on the number of arithmetic operations
+required to perform dense, sparse or ``structured''
+one-sided matrix factorizations:
+The simplest (and overly restrictive) version of our assumption is that
+each scalar result is computed using only the data on
+which it depends mathematically.
+We compare these lower bounds with a variety of algorithms
+and matrix sparsity patterns and algebraic structures
+(such as Vandermonde).
+Depending on the sparsity patterns and structures, conventional algorithms
+may or may not attain the lower bounds.
+In some cases when they do not, we present new algorithms that do.
+These bounds are based on a simple, general lower bound for
+the arithmetic complexity of computing rational functions.
+BibTeX citation:
+@techreport{Demmel:EECS-2013-126,
+Author= {Demmel, James},
+Title= {An arithmetic complexity lower bound for computing rational functions, with applications to linear algebra},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-126.html},
+Number= {UCB/EECS-2013-126},
+Abstract= {In 1965 Klyuev and Kokovkin-Shcherbak proved that
+that (n^3)/3 + O(n^2) multiplications are
+necessary to solve an n-by-n system of linear
+equations. In 1969 Strassen proved O(n^(log_2 7))
+multiplications are sufficient. They could both be right
+because they considered different models of permitted
+algorithms. Here we propose yet another algorithmic model,
+closer in spirit to Klyuev and Kokovkin-Shcherbak,
+but sufficiently more general to be able to provide
+lower bounds on the number of arithmetic operations
+required to perform dense, sparse or ``structured''
+one-sided matrix factorizations:
+The simplest (and overly restrictive) version of our assumption is that
+each scalar result is computed using only the data on
+which it depends mathematically.
+We compare these lower bounds with a variety of algorithms
+and matrix sparsity patterns and algebraic structures
+(such as Vandermonde).
+Depending on the sparsity patterns and structures, conventional algorithms
+may or may not attain the lower bounds.
+In some cases when they do not, we present new algorithms that do.
+These bounds are based on a simple, general lower bound for
+the arithmetic complexity of computing rational functions.},
+}
+EndNote citation:
+%0 Report
+%A Demmel, James
+%T An arithmetic complexity lower bound for computing rational functions, with applications to linear algebra
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 1
+%@ UCB/EECS-2013-126
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-126.html
+%F Demmel:EECS-2013-126

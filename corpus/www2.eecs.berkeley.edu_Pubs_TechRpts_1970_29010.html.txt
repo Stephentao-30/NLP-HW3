@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29010.html
+Networks With Very Small and Very Large Parasitics: Natural Frequencies and Stability | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Networks With Very Small and Very Large Parasitics: Natural Frequencies and Stability
+Networks With Very Small and Very Large Parasitics: Natural Frequencies and Stability
+C.A. Desoer and M.J. Shensa
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M276
+April 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-276.pdf
+BibTeX citation:
+@techreport{Desoer:M276,
+Author = {Desoer, C.A. and Shensa, M.J.},
+Title = {Networks With Very Small and Very Large Parasitics: Natural Frequencies and Stability},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29010.html},
+Number = {UCB/ERL M276}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Shensa, M.J.
+%T Networks With Very Small and Very Large Parasitics: Natural Frequencies and Stability
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M276
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29010.html
+%F Desoer:M276

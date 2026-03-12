@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28771.html
+N-Person Stochastic Differential Games | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+N-Person Stochastic Differential Games
+N-Person Stochastic Differential Games
+Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M447
+June 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-447.pdf
+BibTeX citation:
+@techreport{Varaiya:M447,
+Author = {Varaiya, Pravin},
+Title = {N-Person Stochastic Differential Games},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28771.html},
+Number = {UCB/ERL M447}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, Pravin
+%T N-Person Stochastic Differential Games
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M447
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28771.html
+%F Varaiya:M447

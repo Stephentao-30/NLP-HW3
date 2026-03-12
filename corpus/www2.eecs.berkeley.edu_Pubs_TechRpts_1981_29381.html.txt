@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29381.html
+Algebraic Theory for Robust Stability of Interconnected Systems: Necessary and Sufficient Conditions
+M.J. Chen and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/89
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-89.pdf
+BibTeX citation:
+@techreport{Chen:M81/89,
+Author= {Chen, M.J. and Desoer, C.A.},
+Title= {Algebraic Theory for Robust Stability of Interconnected Systems: Necessary and Sufficient Conditions},
+Year= {1981},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29381.html},
+Number= {UCB/ERL M81/89},
+}
+EndNote citation:
+%0 Report
+%A Chen, M.J.
+%A Desoer, C.A.
+%T Algebraic Theory for Robust Stability of Interconnected Systems: Necessary and Sufficient Conditions
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/89
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29381.html
+%F Chen:M81/89

@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-6.html
+The Computational Complexity of Randomness
+Thomas Watson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-6
+January 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-6.pdf
+Advisors:  Umesh Vazirani and Luca Trevisan
+BibTeX citation:
+@phdthesis{Watson:EECS-2013-6,
+Author= {Watson, Thomas},
+Title= {The Computational Complexity of Randomness},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-6.html},
+Number= {UCB/EECS-2013-6},
+}
+EndNote citation:
+%0 Thesis
+%A Watson, Thomas
+%T The Computational Complexity of Randomness
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 January 31
+%@ UCB/EECS-2013-6
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-6.html
+%F Watson:EECS-2013-6

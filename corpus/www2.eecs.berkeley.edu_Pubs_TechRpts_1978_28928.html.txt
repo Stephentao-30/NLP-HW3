@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28928.html
+On Optimum Single-Row Routing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Optimum Single-Row Routing
+On Optimum Single-Row Routing
+E.S. Kuh, T. Kashiwabara and T. Fujisawa
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/26
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-26.pdf
+BibTeX citation:
+@techreport{Kuh:M78/26,
+Author = {Kuh, E.S. and Kashiwabara, T. and Fujisawa, T.},
+Title = {On Optimum Single-Row Routing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28928.html},
+Number = {UCB/ERL M78/26}
+}
+EndNote citation:
+%0 Report
+%A Kuh, E.S.
+%A Kashiwabara, T.
+%A Fujisawa, T.
+%T On Optimum Single-Row Routing
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28928.html
+%F Kuh:M78/26

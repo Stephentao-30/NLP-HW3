@@ -1,0 +1,194 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/courses/2005_290A/reading.htm
+EECS 290N
+EECS 290A
+Sequential Logic
+Synthesis and Verification �
+Suggested  Reading
+1.
+Background on logic representation and manipulation
+1.1.
+BDDs
+�
+F. Somenzi.  Binary Decision Diagrams
+(Tutorial),  Univ.
+of  Colorado , 1999,
+�
+F. Somenzi. BDD package  CUDD .
+1.2.
+SAT
+�
+J. P. Marques-Silva, K. A.
+Sakallah.  GRASP: A search algorithm for
+propositional satisfiability , IEEE Trans. Comp, 48(5), May 1999, pp.
+506-521.
+�
+M. Moskewicz, C. Madigan, Y.
+Zhao, L.Zhang, S. Malik.  Chaff: engineering an
+efficient SAT solver , Proc. DAC �01, pp. 530�535.
+�
+Niklas E�n, Niklas S�rensson.  An
+extensible SAT-solver , Proc. SAT 2003.
+�
+Niklas E�n, Niklas S�rensson.
+SAT solver  MINISAT .
+1.3.
+AIGs (FRAIGs)
+�
+A. Kuehlmann, V. Paruthi, F.
+Krohm, M. K. Ganai.  Robust Boolean reasoning for
+equivalence checking and functional property verification , IEEE Trans. CAD, 21(12), Dec 2002, pp. 1377-1394.
+�
+A. Mishchenko, R. Jiang, S.
+Chatterjee, R. Brayton.  FRAIGs: Functionally reduced
+AND-INV graphs . To be submitted to DAC �05.
+�
+AND-INV graph package  FRAIG .
+1.4.
+MVSIS
+�
+MVSIS project  webpage  with
+papers and manuals.
+2.
+Combinational versus sequential
+2.1.
+Flexibility in combinational
+networks:
+�
+A. Mishchenko, R. Brayton.  Simplification of non-deterministic multi-valued networks ,
+Proc. ICCAD �02.
+�
+A. Mishchenko, R. Brayton.  A theory of non-deterministic networks , Proc.
+ICCAD �03.
+�
+A. Mishchenko, R. Brayton.  SAT-based complete don�t-care computation for network
+optimization , Proc. IWLS �04.
+2.2.
+Cyclic circuits
+�
+M. D. Riedel, J. Bruck.  The
+synthesis of cyclic combinational circuits , Proc. DAC �03, pp. 163-168.
+�
+J.-H. R. Jiang, A. Mishchenko,
+R. K. Brayton . On breakable cyclic definitions ,
+Proc. ICCAD �04.
+2.3.
+Timing analysis
+�
+K. A. Sakallah, T. N. Mudge, O.
+A. Olukotun.  checkTc and minTc: Timing verification
+of synchronous digital circuits . Proc. ICCAD �90, pp. 552-555.
+�
+T. G. Szymanski, N. V. Shenoy,  Verifying clock schedules . Proc. ICCAD �92, pp.
+124-131.
+3.
+Retiming and re-synthesis
+3.1.
+Retiming
+�
+Ch. E. Leiserson, J. B. Saxe.  Retiming
+synchronous circuitry , SRC Research Report 13, Aug 1986.
+�
+H. J. Touati, R. K. Brayton.  Computing the initial states of retimes circuits ,
+IEEE Trans. CAD, 12(1), Jan 1993, pp. 157-162.
+�
+N. Maheshwari, S. Sapatnekar.  Efficient retiming of large circuits , IEEE Trans
+VLSI, 6(1), March 1998, pp. 74-83.
+3.2.
+Re-synthesis
+�
+S. Bommu, N. O�Neill, M.
+Ciesielski.  Retiming-based factorization
+for sequential logic optimization , ACM TODAES, 5(3), July 2000, pp.
+373-398.
+�
+A. Mehrotra,  S.
+Qadeer , V. Singhal, R. K Brayton, A. L. Sangiovanni-Vincentelli, A.
+Aziz.  Sequential
+optimization without state space exploration , Proc. ICCAD �97, pp. 208-215.
+4.
+Sequential testing and redundancy removal
+�
+K.-T. Cheng.  Gate-level test generation for
+sequential circuits . ACM TODAES, Vol. 1(4), Oct. 1996, pp. 405-442.
+5.
+Sequential slack and clock skew optimization
+�
+A. P. Hurst, P. Chong, A.
+Kuehlmann.  Physical placement driven by
+sequential timing analysis , Proc. ICCAD �04.
+6.
+Optimal clocking and clock skewing trees
+�
+K. Ravindran, A. Kuehlmann, E.
+M. Sentovich.  Multi-domain clock skew scheduling ,
+Proc. ICCAD �03, pp. 801-808.
+7.
+Asynchronous design
+�
+I. Blunno, J. Cortadella, A.
+Kondratyev, L. Lavagno, K. Lwin and C. Sotiriou.  Handshake
+protocols for de-synchronization , Proc. Int. Symp. on Advanced Research in
+Asynchronous Circuits and Systems (ASYNC),  Crete ,
+April 2004.
+�
+Y. Li, A. Kondratyev, R. K.
+Brayton.  Clockless implementation and structure for
+DSM implementation . Submitted to DATE �05.
+�
+Y. Li, A. Kondratyev, R. K.
+Brayton.  Methodology for at-speed testing and
+robust communication in DSM . Submitted to DAC�05.
+8.
+FSM manipulations
+8.1.
+Reachability
+�
+H. Touati, H. Savoj, B.
+Lin, R. K. Brayton, A. Sangiovanni-Vincentelli.  Implicit
+state enumeration of finite state machines using BDDs , Proc.  ICCAD �90, pp. 130-133.
+�
+R. K. Ranjan, A. Aziz, R. K. Brayton, B.
+Plessier, C. Pixley.  Efficient
+BDD algorithms for FSM synthesis and verification , Proc. IWLS �95.
+8.2.
+Sequential flexibility
+�
+N. Yevtushenko, T. Villa, R. K.
+Brayton, A. Petrenko.  Sequential synthesis by
+language equation solving , Technical report, 2003.
+�
+A. Mishchenko, R. Brayton,
+J.-H. R. Jiang, T. Villa, and N. Yevtushenko.  Efficient
+solution of language equations using partitioned representations , Proc.
+IWLS �04, pp. 401-408. (Submitted to DATE �05)
+9.        Formal Verification
+9.1.
+Bounded model checking
+�
+A. Biere, A. Cimatti, E.
+Clarke, O. Strichman, and Y. Zhu,  Bounded Model
+Checking . Advances in Computers, Vol. 58, 2003.
+�
+M. R. Prasad, A. Biere, A.
+Gupta,  A survey of recent advances in SAT-based
+formal verification . International Journal on Software Tools for Technology
+Transfer, Vol. 7(2), April 2005, pp. 156 - 173.
+9.2.
+Unbounded model checking
+�
+K.L. McMillan.  Methods for exploiting SAT solvers in
+unbounded model checking , Proc. CAV 03.
+�
+K.L. McMillan.  Interpolation and SAT-based model checking ,
+Proc. CAV �03, LNCS 2725, Springer, 2003, pp. 1-13.
+10.
+Sequential equivalence checking
+�
+C. A. J. van Eijk.  Sequential equivalence checking based on
+structural similarities , IEEE Trans. CAD, 19(7), July 2000, pp. 814-819.
+�
+J. H. R. Jiang, R. K. Brayton.  On the verification of sequential equivalence ,
+IEEE Trans. CAD, 22(6), June 2003, pp. 686-697.
+�
+J. H. R. Jiang, R. K. Brayton.  Functional dependency for verification reduction ,
+Proc. CAV �04, pp. 268-280.

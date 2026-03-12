@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28793.html
+A Lower Bound on the Estimation Error For Certain Diffusion Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Lower Bound on the Estimation Error For Certain Diffusion Processes
+A Lower Bound on the Estimation Error For Certain Diffusion Processes
+Ben Zion Bobrovsky and Moshe Zakai
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M490
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-490.pdf
+BibTeX citation:
+@techreport{Bobrovsky:M490,
+Author = {Bobrovsky, Ben Zion and Zakai, Moshe},
+Title = {A Lower Bound on the Estimation Error For Certain Diffusion Processes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28793.html},
+Number = {UCB/ERL M490}
+}
+EndNote citation:
+%0 Report
+%A Bobrovsky, Ben Zion
+%A Zakai, Moshe
+%T A Lower Bound on the Estimation Error For Certain Diffusion Processes
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M490
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28793.html
+%F Bobrovsky:M490

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28457.html
+Benchmarking Unix A Comparative Study | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Benchmarking Unix A Comparative Study
+Benchmarking Unix A Comparative Study
+Luis Felipe Cabrera
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/77
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-77.pdf
+BibTeX citation:
+@techreport{Cabrera:M79/77,
+Author = {Cabrera, Luis Felipe},
+Title = {Benchmarking Unix A Comparative Study},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28457.html},
+Number = {UCB/ERL M79/77}
+}
+EndNote citation:
+%0 Report
+%A Cabrera, Luis Felipe
+%T Benchmarking Unix A Comparative Study
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/77
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28457.html
+%F Cabrera:M79/77

@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS151
+EECS 151. Introduction to Digital Design and Integrated Circuits
+Catalog Description:  An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The class includes extensive use of industrial grade design automation and verification tools for assignments, labs and projects.
+The class has two lab options: ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB). Students must enroll in at least one of the labs concurrently with the class.
+Units:  3
+Related Areas:
+Computer Architecture & Engineering (ARC)
+Course Objectives:  The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.
+Prerequisites:  EECS 16A and EECS 16B.
+Credit Restrictions:  Students must enroll concurrently in at least one the lab flavors EECS151LA or EECS151LB. Students wishing to take a second lab flavor next term can sign-up only for that Lab section and receive a Letter grade. The pre-requisite for “Lab-only” enrollment that term will be EECS151 from previous terms.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+EECS 151/251A –                TuTh 12:30-13:59, Soda 306 –
+Borivoje Nikolic ,  Sagar Karandikar Class Notes
+***READ THIS CAREFULLY***
+Priority seating goes to EECS, ECE, and CS.
+Enrollment in the 151/251A lecture and discussion is dependant on being in either the 151LA/251LA or 151LB/251LB. You MUST be in one of these labs to take the lecture.
+Students should add to the waitlist, and during the adjustment period we will enroll everyone is had a confirmed lab enrollment.
+*To waitlist in this class, select the lecture and the 999 (placeholder) discussion section. Assignment to the actual sections will be managed by teaching staff.*
+**Enrollment Permission seats are reserved for internal programs and are not open. Please DO NOT email the instructor or scheduling to request a seat**
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

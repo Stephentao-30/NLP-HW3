@@ -1,0 +1,13 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSW186
+CS W186. Introduction to Database Systems
+Catalog Description:  Broad introduction to systems for storing, querying, updating and managing large databases. Computer science skills synthesizing viewpoints from low-level systems architecture to high-level modeling and declarative logic. System internals, including the complex details of query optimization and execution, concurrency control, indexing, and memory management.  More abstract issues in query languages and data modeling – students are exposed to formal relational languages, SQL, full-text search, entity-relationship modeling, normalization, and physical database design. Recent technological trends in the field, including “Big Data” programming libraries like MapReduce, and distributed key-value stores with various consistency models.
+Units:  4
+Prerequisites:  COMPSCI 61B and COMPSCI 61C.
+Credit Restrictions:  Students will receive no credit for COMPSCI W186 after completing COMPSCI 186. A deficient grade in COMPSCI W186 may be removed by taking COMPSCI 186.
+Formats:  Fall: 3.0 hours of web-based lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of web-based lecture and  2.0 hours of discussion per week
+Spring: 3.0 hours of web-based lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage
+on inst.eecs

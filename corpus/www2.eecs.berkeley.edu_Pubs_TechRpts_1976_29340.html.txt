@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29340.html
+An Application of the Theory of Computational Complexity to the Study of Inductive Inferene
+Dana Angluin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M586
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-586.pdf
+BibTeX citation:
+@techreport{Angluin:M586,
+Author= {Angluin, Dana},
+Title= {An Application of the Theory of Computational Complexity to the Study of Inductive Inferene},
+Year= {1976},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29340.html},
+Number= {UCB/ERL M586},
+}
+EndNote citation:
+%0 Report
+%A Angluin, Dana
+%T An Application of the Theory of Computational Complexity to the Study of Inductive Inferene
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M586
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29340.html
+%F Angluin:M586

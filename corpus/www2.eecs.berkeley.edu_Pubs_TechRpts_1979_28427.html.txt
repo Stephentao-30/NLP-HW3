@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28427.html
+On the Validity of Dempster's Rule of Combination of Evidence | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Validity of Dempster's Rule of Combination of Evidence
+On the Validity of Dempster's Rule of Combination of Evidence
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/24
+March 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-24.pdf
+BibTeX citation:
+@techreport{Zadeh:M79/24,
+Author = {Zadeh, L.A.},
+Title = {On the Validity of Dempster's Rule of Combination of Evidence},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28427.html},
+Number = {UCB/ERL M79/24}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T On the Validity of Dempster's Rule of Combination of Evidence
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28427.html
+%F Zadeh:M79/24

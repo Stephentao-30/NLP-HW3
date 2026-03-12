@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-161.html
+CrowdBrush: A Mobile Photo Editing Application with a Crowd Inside
+Yin-Chia Yeh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-161
+June 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-161.pdf
+We present a mobile photo editing application— CrowdBrush, which uses Google Android as front-end platform and Amazon Mechanical Turk as back-end platform. As there are increasingly more images were captured by smart phone these days, providing photo manipulation functions on the mobile phone directly become very important for better user experience. This is because most users want to edit and share their images directly after capturing, without having to copy them to PC. However, current photo editing software on smart phone usually has limited functions due to the restricted input methods on smart phone. Our system aims at providing more advanced photo manipulation features by uploading a user’s image to our backend server, having workers on the internet help to process the image, and then sending the processed result back to the mobile phone. Specifically, we ask workers to perform a rotoscoping task on uploaded images. Rotoscoping is an essential preprocessing step for many visual effects. By having online workers label the objects and background in images, our system can provide various photo editing features which cannot be supported by current mobile photo editing applications. Our evaluation results show that our system can consistently generate high quality rotoscoping results cannot be done by computer vision techniques. The user study reveals important future working directions for users to adopt our system.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Yeh:EECS-2012-161,
+Author= {Yeh, Yin-Chia},
+Title= {CrowdBrush: A Mobile Photo Editing Application with a Crowd Inside},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-161.html},
+Number= {UCB/EECS-2012-161},
+Abstract= {We present a mobile photo editing application— CrowdBrush, which uses Google Android as front-end platform and Amazon Mechanical Turk as back-end platform. As there are increasingly more images were captured by smart phone these days, providing photo manipulation functions on the mobile phone directly become very important for better user experience. This is because most users want to edit and share their images directly after capturing, without having to copy them to PC. However, current photo editing software on smart phone usually has limited functions due to the restricted input methods on smart phone. Our system aims at providing more advanced photo manipulation features by uploading a user’s image to our backend server, having workers on the internet help to process the image, and then sending the processed result back to the mobile phone. Specifically, we ask workers to perform a rotoscoping task on uploaded images. Rotoscoping is an essential preprocessing step for many visual effects. By having online workers label the objects and background in images, our system can provide various photo editing features which cannot be supported by current mobile photo editing applications. Our evaluation results show that our system can consistently generate high quality rotoscoping results cannot be done by computer vision techniques. The user study reveals important future working directions for users to adopt our system.},
+}
+EndNote citation:
+%0 Thesis
+%A Yeh, Yin-Chia
+%T CrowdBrush: A Mobile Photo Editing Application with a Crowd Inside
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 4
+%@ UCB/EECS-2012-161
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-161.html
+%F Yeh:EECS-2012-161

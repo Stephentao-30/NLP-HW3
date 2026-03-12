@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29271.html
+Some Results On Existence and Uniqueness of Solution of Nonlinear Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Some Results On Existence and Uniqueness of Solution of Nonlinear Networks
+Some Results On Existence and Uniqueness of Solution of Nonlinear Networks
+T. Fujisawa and E.S. Kuh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M288
+August 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-288.pdf
+BibTeX citation:
+@techreport{Fujisawa:M288,
+Author = {Fujisawa, T. and Kuh, E.S.},
+Title = {Some Results On Existence and Uniqueness of Solution of Nonlinear Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29271.html},
+Number = {UCB/ERL M288}
+}
+EndNote citation:
+%0 Report
+%A Fujisawa, T.
+%A Kuh, E.S.
+%T Some Results On Existence and Uniqueness of Solution of Nonlinear Networks
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M288
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29271.html
+%F Fujisawa:M288

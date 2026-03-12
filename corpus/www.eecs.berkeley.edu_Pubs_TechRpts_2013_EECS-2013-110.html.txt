@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-110.html
+Constraints And Techniques For Software Power Management In Production Clusters
+Arka Bhattacharya
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-110
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-110.pdf
+The proliferation of large clusters supporting online web workloads or large compute-intensive jobs has made cluster power management very important~\cite{Barroso2007}. An analysis of utilization traces of production clusters reveal that a majority of them have a scope for (a) under-provisioning of electrical support infrastructure, leading to savings in {\bf capital expenditure}, and (b) energy savings, leading to savings in {\bf operational expenditure}; both with minimal impact on average job performance. Existing software techniques which tackle either of these problems have seen scant adoption because they do not address key problems and constraints relevant in production clusters.
+In this thesis, we first investigate possible reductions in cluster power infrastructure provisioning. It is possible that the lower provisioned power level is exceeded due to software behaviors on rare occasions and could cause the entire cluster infrastructure to breach the safety limits. A mechanism to {\it cap} servers to stay within the provisioned budget is needed, and processor frequency scaling based power capping methods are readily available for this purpose. We show that existing methods, when applied across a large number of servers, are not fast enough to operate correctly under rapid power dynamics observed in data centers. We also show that existing methods when applied to an open system (where demand is independent of service rate) can cause cascading failures in the software service hosted, causing the service performance to fall uncontrollably even when power capping is applied for only a small reduction in power consumption. We discuss the causes for both these short-comings and point out techniques that can yield a safe, fast, and stable power capping solution.
+Next, we address wasteful energy consumption by idle servers in an under-utilized cluster. Despite many clusters having a low average utilization, existing energy management techniques have seen scant adoption because they require modifications to the existing cluster software and network stack, and do not address the reliability concerns that may arise during the course of power-cycling servers in a production cluster. We design, implement and evaluate a defensive energy management system Hypnos, which is unobtrusive, efficient, extensible and gracefully handles possible server software and hardware failures.
+Advisors:  David E. Culler
+BibTeX citation:
+@mastersthesis{Bhattacharya:EECS-2013-110,
+Author= {Bhattacharya, Arka},
+Title= {Constraints And Techniques For Software Power Management In Production Clusters},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-110.html},
+Number= {UCB/EECS-2013-110},
+Abstract= {The proliferation of large clusters supporting online web workloads or large compute-intensive jobs has made cluster power management very important~\cite{Barroso2007}. An analysis of utilization traces of production clusters reveal that a majority of them have a scope for (a) under-provisioning of electrical support infrastructure, leading to savings in {\bf capital expenditure}, and (b) energy savings, leading to savings in {\bf operational expenditure}; both with minimal impact on average job performance. Existing software techniques which tackle either of these problems have seen scant adoption because they do not address key problems and constraints relevant in production clusters.
+In this thesis, we first investigate possible reductions in cluster power infrastructure provisioning. It is possible that the lower provisioned power level is exceeded due to software behaviors on rare occasions and could cause the entire cluster infrastructure to breach the safety limits. A mechanism to {\it cap} servers to stay within the provisioned budget is needed, and processor frequency scaling based power capping methods are readily available for this purpose. We show that existing methods, when applied across a large number of servers, are not fast enough to operate correctly under rapid power dynamics observed in data centers. We also show that existing methods when applied to an open system (where demand is independent of service rate) can cause cascading failures in the software service hosted, causing the service performance to fall uncontrollably even when power capping is applied for only a small reduction in power consumption. We discuss the causes for both these short-comings and point out techniques that can yield a safe, fast, and stable power capping solution.
+Next, we address wasteful energy consumption by idle servers in an under-utilized cluster. Despite many clusters having a low average utilization, existing energy management techniques have seen scant adoption because they require modifications to the existing cluster software and network stack, and do not address the reliability concerns that may arise during the course of power-cycling servers in a production cluster. We design, implement and evaluate a defensive energy management system Hypnos, which is unobtrusive, efficient, extensible and gracefully handles possible server software and hardware failures.},
+}
+EndNote citation:
+%0 Thesis
+%A Bhattacharya, Arka
+%T Constraints And Techniques For Software Power Management In Production Clusters
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-110
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-110.html
+%F Bhattacharya:EECS-2013-110

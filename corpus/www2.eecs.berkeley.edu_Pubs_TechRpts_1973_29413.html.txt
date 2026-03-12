@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29413.html
+An Algorithm For Modeling the Sinusoidal Input/Steady-State Response Behavior of Nonlinear Systems Over a Set of Frequencies and Amplitudes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm For Modeling the Sinusoidal Input/Steady-State Response Behavior of Nonlinear Systems Over a Set of Frequencies and Amplitudes
+An Algorithm For Modeling the Sinusoidal Input/Steady-State Response Behavior of Nonlinear Systems Over a Set of Frequencies and Amplitudes
+L.O. Chua and R.J. Schilling
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M390
+June 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-390.pdf
+BibTeX citation:
+@techreport{Chua:M390,
+Author = {Chua, L.O. and Schilling, R.J.},
+Title = {An Algorithm For Modeling the Sinusoidal Input/Steady-State Response Behavior of Nonlinear Systems Over a Set of Frequencies and Amplitudes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29413.html},
+Number = {UCB/ERL M390}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Schilling, R.J.
+%T An Algorithm For Modeling the Sinusoidal Input/Steady-State Response Behavior of Nonlinear Systems Over a Set of Frequencies and Amplitudes
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M390
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29413.html
+%F Chua:M390

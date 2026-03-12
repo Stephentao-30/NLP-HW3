@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-245.html
+Exploiting Structure and Input-Output Properties in Networked Dynamical Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Exploiting Structure and Input-Output Properties in Networked Dynamical Systems
+Exploiting Structure and Input-Output Properties in Networked Dynamical Systems
+Ana Sofia Rufino Ferreira
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-245
+December 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-245.pdf
+Large coupled networks of individual entities arise in multiple contexts in nature and engineered systems to produce rich dynamics and achieve complex behaviors. As the state- space dimension increases, the certification of stability and performance properties of these nonlinear dynamical systems becomes an intractable problem. In this thesis we develop decomposition methods that break up such convoluted systems into components of smaller dynamics whose behavior is dependent on the state of the neighboring components. These methods explore useful input-output properties of the subsystems in conjunction with the topology of their interconnections, providing results that scale well to large-scale networks. We begin by developing a mathematical approach to analyze spatial pattern formation in developmental biology that combines graph-theoretical and dynamical systems methods to systematically predict the emergence of patterns. This approach models the contact between cells by a graph and exploits its symmetries to create partitions of cells into classes of equal fate. Using monotone systems theory, we derive verifiable conditions that determine whether patterns consistent with such partitions exist and are stable. Then, we propose an engineered synthetic circuit that mimics contact inhibition by using diffusible molecules to spontaneously generate sharply contrasting patterns. Using a compartmental model, we determine a condition that serves as a parameter tuning guide for patterning. We next focus on exploring the symmetric topology of the interconnection to provide efficient certification of performance properties of large networks. Performance certification can be cast as a distributed optimization problem for which the existence of a solution is equivalent to the existence of a solution with repeated variables. We demonstrate that fast certification of stability and performance is possible by searching over solutions in a reduced order domain. Finally, motivated by the stochastic behavior of biological networks, we provide stochastic stability results for systems modeled by stochastic differential equations. We use stochas- tic passivity properties of the subsystems and a diagonal stability condition of the inter- connection matrix together with the passivity gains to guarantee stochastic stability and noise-to-state stability.
+Advisor:  Murat Arcak
+BibTeX citation:
+@phdthesis{Rufino Ferreira:EECS-2015-245,
+Author = {Rufino Ferreira, Ana Sofia},
+Title = {Exploiting Structure and Input-Output Properties in Networked Dynamical Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-245.html},
+Number = {UCB/EECS-2015-245},
+Abstract = {Large coupled networks of individual entities arise in multiple contexts in nature and engineered systems to produce rich dynamics and achieve complex behaviors. As the state- space dimension increases, the certification of stability and performance properties of these nonlinear dynamical systems becomes an intractable problem. In this thesis we develop decomposition methods that break up such convoluted systems into components of smaller dynamics whose behavior is dependent on the state of the neighboring components. These methods explore useful input-output properties of the subsystems in conjunction with the topology of their interconnections, providing results that scale well to large-scale networks.
+We begin by developing a mathematical approach to analyze spatial pattern formation in developmental biology that combines graph-theoretical and dynamical systems methods to systematically predict the emergence of patterns. This approach models the contact between cells by a graph and exploits its symmetries to create partitions of cells into classes of equal fate. Using monotone systems theory, we derive verifiable conditions that determine whether patterns consistent with such partitions exist and are stable. Then, we propose an engineered synthetic circuit that mimics contact inhibition by using diffusible molecules to spontaneously generate sharply contrasting patterns. Using a compartmental model, we determine a condition that serves as a parameter tuning guide for patterning.
+We next focus on exploring the symmetric topology of the interconnection to provide efficient certification of performance properties of large networks. Performance certification can be cast as a distributed optimization problem for which the existence of a solution is equivalent to the existence of a solution with repeated variables. We demonstrate that fast certification of stability and performance is possible by searching over solutions in a reduced order domain.
+Finally, motivated by the stochastic behavior of biological networks, we provide stochastic stability results for systems modeled by stochastic differential equations. We use stochas- tic passivity properties of the subsystems and a diagonal stability condition of the inter- connection matrix together with the passivity gains to guarantee stochastic stability and noise-to-state stability.}
+}
+EndNote citation:
+%0 Thesis
+%A Rufino Ferreira, Ana Sofia
+%T Exploiting Structure and Input-Output Properties in Networked Dynamical Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 17
+%@ UCB/EECS-2015-245
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-245.html
+%F Rufino Ferreira:EECS-2015-245

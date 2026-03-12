@@ -1,0 +1,22 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/internship_projects.html
+Internship Projects
+Alex X. Lee
+Home
+Publications
+Projects
+Research Projects
+Class Projects
+Side Projects
+Internship Projects
+Contact:
+alexleegk [at] gmail [dot] com
+JavaFX at Oracle
+The summer of 2013 I was a software engineering intern in the JavaFX Samples Team, at Oracle. Throughout the summer, I worked on various components for an ambitious demo that was later presented at the JavaOne 2013 keynote, which happened later in September. I had the great opportunity to be involved in a diverse set of the demo which involved the exciting areas of Robotics, Computer Graphics and Embedded Systems, which also meant that I had the great pleasure to closely work with a diverse team made up of software engineer, architect, embedded engineer and 3D modeller and animator. The nature of the demo meant that different teams of engineers from different Oracle campuses around the world contributed to the demo, which I thought is fascinating.
+The demo consisted of a chess game, which was moderated by a server running Java EE 7 and played and visualized by various clients hooked into the server. The clients consisted of one written in HTML5 running in an iPad, a Java ME 8-powered robot, a JavaFX 3D app running in a DukePad, and another one running in a modern laptop which showed high-quality animations of the game.
+Chess Robot
+I put together the hardware and software to control a chess robotic arm using Java running in a RaspberryPi.
+I also contributed to the software that controls the lights of the chess board. During early prototyping, I played the Iron Man 3 trailer in the chessboard and it was amazing to watch:
+DukePad
+The DukePad is a home built tablet powered by a Raspberry Pi and JavaSE Embedded 8, designed and built by the team that I was part of. The hardware and software is open source and can be found  here . For the DukePad, I worked with InvenSense’s MPU-9150 nine-axis (gyro, accelerometer and magnetometer) sensor; in particular I rewrote InvenSense’s drivers in Java and also wrote high level software to interact with this sensor from the Java applications running in the DukePad.
+Animated Chess Game
+One of the clients that visualized the chess game was a JavaFX application running in a powerful laptop. The app consisted of a 3D rendering of the game with animations of the chess pieces, which are Dukes (the Java mascot) with different hats. The Duke mesh and its animations was done in Maya and later imported to the JavaFX application. The Dukes meshes were animated using mesh skinning and all the meshes were refined using subdivision surfaces. The mesh skinning and subdivision surfaces was implemented by me in software. The following video shows a 3D rendering of the animated chess game played during the keynote.

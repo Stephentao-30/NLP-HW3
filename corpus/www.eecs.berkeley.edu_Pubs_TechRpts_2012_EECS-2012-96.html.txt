@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-96.html
+Communication-Efficient Distributed Stochastic Gradient Descent with Butterfly Mixing
+Huasha Zhao and John F. Canny
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-96
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-96.pdf
+Stochastic gradient descent is a widely used method to find locally-optimal models in machine learning and data mining. However, it is naturally a sequential algorithm, and parallelization involves severe compromises because the cost of synchronizing across a cluster is much larger than the time required to compute an optimal-sized gradient step. Here we explore butterfly mixing, where gradient steps are interleaved with the k stages of a butterfly network on 2^k nodes. Udp based butterfly mix steps should be extremely fast and failure-tolerant, and convergence is almost as fast as a full mix (AllReduce) on every step.
+Advisors:  John F. Canny
+BibTeX citation:
+@mastersthesis{Zhao:EECS-2012-96,
+Author= {Zhao, Huasha and Canny, John F.},
+Title= {Communication-Efficient Distributed Stochastic Gradient Descent with Butterfly Mixing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-96.html},
+Number= {UCB/EECS-2012-96},
+Abstract= {Stochastic gradient descent is a widely used method to find locally-optimal models in machine learning and data mining. However, it is naturally a sequential algorithm, and parallelization involves severe compromises because the cost of synchronizing across a cluster is much larger than the time required to compute an optimal-sized gradient step. Here we explore butterfly mixing, where gradient steps are interleaved with the k stages of a butterfly network on 2^k nodes. Udp based butterfly mix steps should be extremely fast and failure-tolerant, and convergence is almost as fast as a full mix (AllReduce) on every step.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhao, Huasha
+%A Canny, John F.
+%T Communication-Efficient Distributed Stochastic Gradient Descent with Butterfly Mixing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-96
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-96.html
+%F Zhao:EECS-2012-96

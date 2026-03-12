@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-164.html
+Tunneling in low-power device-design: A bottom-up view of issues, challenges, and opportunities
+Kartik Ganapathi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-164
+October 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-164.pdf
+Simulation of electronic transport in nanoscale devices plays a pivotal role in shedding light on underlying physics, and in guiding device-design and optimization. The length scale of the problem and the physical mechanism of device operation guide the choice of formalism. In the sub-20 nanometer regime, semi-classical approaches start breaking down, thus necessitating a quantum-mechanical treatment of the electronic transport problem. Non-equilibrium Green's function (NEGF) is a theoretical framework for investigating quantum-mechanical systems - interacting with surroundings through exchange of quasiparticles - far from equilibrium. Although hugely computation-intensive with a realistic device-representation, it provides a rigorous way to include particle-particle interactions and to model phenomena that are inherently quantum-mechanical.
+We build the Berkeley Quantum Transport Simulator (BQTS) - a massively parallel, generic, NEGF-based numerical simulator - to explore low-power device-design opportunities. Demonstrating scalability and benchmarking results with experimental tunnel diode data, we set out to understand tunneling in devices and to leverage it for both digital and analog applications.
+Investigating InAs short-channel band-to-band tunneling transistors (TFETs), we show that direct source-to-drain tunneling sets the leakage-floor in such devices, thereby limiting the minimum subthreshold swing (SS) in spite of excellent electrostatics. A heterojunction TFET with a halo doping in the source-channel overlap region is proposed and is shown to achieve steep SS as well as large ON current. We discover that by band-offset engineering, the steepness therein could be controlled primarily by the modulation of heterojunction-barrier. Subsequently, exploring layered materials for analog applications, we demonstrate that doping the drain underlap region in graphene FETs prolongs the onset of tunneling in their output characteristics, and hence significantly increases their output resistance ( r 0 ) and intrinsic gain ( g m r 0 ). Due to large bandgap, and consequently, large  r 0 , monolayer-MoS 2  FETs exhibit a significant enhancement in maximum oscillation frequency ( f max ) over their graphene counterparts.
+Advisors:  Sayeef Salahuddin
+BibTeX citation:
+@phdthesis{Ganapathi:EECS-2013-164,
+Author= {Ganapathi, Kartik},
+Title= {Tunneling in low-power device-design: A bottom-up view of issues, challenges, and opportunities},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-164.html},
+Number= {UCB/EECS-2013-164},
+Abstract= {Simulation of electronic transport in nanoscale devices plays a pivotal role in shedding light on underlying physics, and in guiding device-design and optimization. The length scale of the problem and the physical mechanism of device operation guide the choice of formalism. In the sub-20 nanometer regime, semi-classical approaches start breaking down, thus necessitating a quantum-mechanical treatment of the electronic transport problem. Non-equilibrium Green's function (NEGF) is a theoretical framework for investigating quantum-mechanical systems - interacting with surroundings through exchange of quasiparticles - far from equilibrium. Although hugely computation-intensive with a realistic device-representation, it provides a rigorous way to include particle-particle interactions and to model phenomena that are inherently quantum-mechanical.
+We build the Berkeley Quantum Transport Simulator (BQTS) - a massively parallel, generic, NEGF-based numerical simulator - to explore low-power device-design opportunities. Demonstrating scalability and benchmarking results with experimental tunnel diode data, we set out to understand tunneling in devices and to leverage it for both digital and analog applications.
+Investigating InAs short-channel band-to-band tunneling transistors (TFETs), we show that direct source-to-drain tunneling sets the leakage-floor in such devices, thereby limiting the minimum subthreshold swing (SS) in spite of excellent electrostatics. A heterojunction TFET with a halo doping in the source-channel overlap region is proposed and is shown to achieve steep SS as well as large ON current. We discover that by band-offset engineering, the steepness therein could be controlled primarily by the modulation of heterojunction-barrier. Subsequently, exploring layered materials for analog applications, we demonstrate that doping the drain underlap region in graphene FETs prolongs the onset of tunneling in their output characteristics, and hence significantly increases their output resistance (<i>r<sub>0</sub></i>) and intrinsic gain (<i>g<sub>m</sub>r<sub>0</sub></i>). Due to large bandgap, and consequently, large <i>r<sub>0</sub></i>, monolayer-MoS<sub>2</sub> FETs exhibit a significant enhancement in maximum oscillation frequency (<i>f<sub>max</sub></i>) over their graphene counterparts.},
+}
+EndNote citation:
+%0 Thesis
+%A Ganapathi, Kartik
+%T Tunneling in low-power device-design: A bottom-up view of issues, challenges, and opportunities
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 3
+%@ UCB/EECS-2013-164
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-164.html
+%F Ganapathi:EECS-2013-164

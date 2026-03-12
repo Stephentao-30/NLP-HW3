@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/ambidextrous-robots-could-dramatically-speed-e-commerce
+'Ambidextrous' robots could dramatically speed e-commerce - EECS at Berkeley
+CS Prof. Ken Goldberg and members of the AUTOLAB including postdoc Jeffrey Mahler (Ph.D. ’18), grad students Matthew Matl and Michael Danielczuk, and undergraduate researcher Vishal Satish, have published a paper in Science Robotics which presents new algorithms to compute robust robot pick points, enabling robot grasping of a diverse range of products without training.  They trained reward functions for a parallel-jaw gripper and a suction cup gripper on a two-armed robot, and found that their system cleared bins with up to 25 previously unseen objects at a rate of over 300 picks per hour with 95 percent reliability.
+Categories
+Alumni
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

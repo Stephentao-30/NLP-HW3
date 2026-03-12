@@ -1,0 +1,89 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978
+Technical Reports - 1978
+Design Goals for Relational and DBTG Databases  (M78/89) Eugene Wong and Randy H. Katz
+Frequency Domain Analysis of Nonlinear Systems: Formulation of Transfer Functions  (M78/88) L.O. Chua and C.-Y. Ng
+An Intuitive Derivation of a Realization  (M78/87) C.A. Desoer and E.L. Lo
+Modular Decomposition in Stochastic Transportation Networks  (M78/86) A.W. Shogan
+Studies in Micropower NMOS Operational Amplifier Design  (M78/85) P.R. Gray
+Synthesis of Reciprocal Piecewise-Linear N-Port Resistors  (M78/84) Leon O. Chua and David J. Curtin
+Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems  (M78/83) F.M. Callier and C.A. Desoer
+The Colored Branch Theorem: A Simple Circuit Theoretic Proof and its Applications  (M78/82) J. Vandewalle and L.O. Chua
+An Algorithm for Single-Row Routing with Prescribed Street Congestions  (M78/81) S. Tsukiyama, E.S. Kuh and I. Shirakawa
+On the Finite Solution of Nonlinear Inequalities  (M78/80) E. Polak and D.Q. Mayne
+Division of Labor and the Distribution of Income  (M78/79) P. Varaiya, R. Artle and C. Humes Jr.
+Annual Report 1978 on Multiple Mirror Plasma Confinement  (M78/78) A.J. Lichtenberg and M.A. Lieberman
+Foundations of Feedback Theory for Nonlinear Dynamical Systems  (M78/77) C.A. Desoer and Y.T. Wang
+Foundations of Nonlinear Network Theory: Part I Passivity  (M78/76) J.L. Wyatt Jr., L.O. Chua, J.W. Gannett, I.C. Goknar and D.N. Green
+A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems  (M78/75) R. Trahan and E. Polak
+Bipartite Graphs and an Optimal Bordered Triangular Form of a Matrix  (M78/74) A. Sangiovanni-Vincentelli and T.A. Bickart
+Specifications for a Proposed Standard for Floating Point Arithmetic  (M78/72) J.T. Coonen
+Locking Granularity Revisited  (M78/71) D.R. Ries and M.R. Stonebraker
+MOS Switched -Capacitor Filters  (M78/70) R.W. Brodersen, P.R. Gray and D.A. Hodges
+A Method for Computing Functions of a Matrix Based on Newton's Divided Difference Formula  (M78/69) A.C. McCurdy
+High-Order Continuous-Time Monolithic Analog Filters  (M78/68) Khen-Sang Tan
+An Algorithm to Solve the mxn Assignment Problem in Expected Time O (mn log n)  (M78/67) R.M. Karp
+Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity  (M78/66) L.O. Chua, T. Matsumoto and S. Ichiraku
+X-Tree: A Tree Structured LSI Modular Computer System  (M78/65) A.M. Despain
+On the Power of the Compass (or why Mazes are Easier to Search than Graphs)  (M78/64) M. Blum and W. Kozen
+On Self-learning Pattern Classification  (M78/63) R.L. De Mantaras
+Discriminate Effect of Information: The Third Measure of Information  (M78/62) Y. Enta
+MOS Switched-Capacitor Analog Sampled-Data Recursive Filters  (M78/61) Ian A. Young
+The Outputs of Jacksonian Networks are Poissonian  (M78/60) Jean Walrand and Pravin Varaiya
+When is a Flow in a Queing Network Poissonian?  (M78/59) Jean Walrand and Pravin Varaiya
+Vector Lyapunov Functions: Stability and Stabilizability Problems for Interconnected Systems  (M78/58) J. Bernussou
+A Pattern Recognition Approach to the Problem of Linguistic Approximation in System Analysis  (M78/57) Piero P. Bonissone
+Research of Microwave Scattering Properties of Snow Fields  (M78/55) D.J. Angelakos
+Programming Languages for Relational Database Systems  (M78/54) C.J. Prenner and L.A. Rowe
+Fully Integrated Analog Filters Using Bipolar/JFET Technology  (M78/53) Khen-Sang Tan and Paul R. Gray
+The Simulation of Large Scale Integrated Circuits  (M78/52) Arthur R. Newton
+Learning and Self Learning Procedures for Automatic Classification  (M78/51) J. Aguilar-Martin
+An Interactive Rectangle Elimination Method for Bi-Objective Decision-Making  (M78/50) A.N. Payne and E. Polak
+MOS Switched Capacitor Ladder Filters  (M78/49) D.J. Allstot, R.W. Brodersen and P.R. Gray
+How Far Should You Go with the Lanczos Process?  (M78/48) W. Kahan and B.N. Parlett
+Relational Decomposition Preserving Functional Dependence  (M78/47) W. Chang
+Implementing Capability-Based Protection Using Encryption  (M78/46) D.L. Chaum and R.S. Fabry
+A Unified Theory of Symmetry for Nonlinear Resistive Networks  (M78/45) Joos Vandewalle and Leon O. Chua
+Software Requirements and Specifications: Status and Perspectives  (M78/44) C.V. Ramamoorthey and H.H. So
+Frequency Domain Analysis of Nonlinear Systems  (M78/43) L.O. Chua and C.-Y. Ng
+On the Dynamics of Josephson Junction Circuits  (M78/42) A.A. Dabidi and L.O. Chua
+A Nonlinear Lumped Circuit Model for SCR  (M78/41) L.O. Chua and Y.W. Sing
+Analysis of the Symmetric Lanczos Process  (M78/40) David St. Clair Scott
+Velocity-Space Ring-Plasma Instability, Magnetized Part II: Simulation  (M78/39) J.K. Lee and C.K. Birdsall
+Velocity-Space Ring-Plasma Instability, Magnetized Part I: Theory  (M78/38) J.K. Lee and C.K. Birdsall
+Computer Science: Covert Communication Channels in Timesharing Systems  (M78/37) Jeffrey Craig Huskamp
+An Algorithm for Minimum Partitioning of a Transversal Matroid  (M78/36) Susumu Sasabe
+On the Capability of Finite Automata in 2 and 3 Dimensional Space  (M78/35) Manuel Blum and William J. Sakoda
+Nondeterminism and the Size of Two Way Finite Automata  (M78/34) William J. Sakoda and Michael Sipser
+Applications of Automata Theory to the Design of Intelligent Machines  (M78/33) William J. Sakoda
+Self-heating of 1d Thermal Plasmal; Comparison of Weightings; Optimal Parameter Choices  (M78/32) A. Peiravi and C.K. Birdsall
+Two New Algorithms for Obtaining Periodic Solutions of Nonlinear Systems  (M78/31) L.O. Chua and A. Ushida
+Interactibility Proofs and the Computational Complexity of Binary Quadratics  (M78/30) L. Adleman and K. Manders
+High-Performance NMOS Operational Amplifier  (M78/29) D. Senderowicz, D.A. Hodges and P.R. Gray
+Nonlinear Circuit Theory  (M78/28) L.O. Chua
+Nonlinear Converters for Pulse-Code-Modulation Systems  (M78/27) Gheorghe Smarandoiu
+On Optimum Single-Row Routing  (M78/26) E.S. Kuh, T. Kashiwabara and T. Fujisawa
+New Convergence Theorems For a Class of Feasible Directions Algorithms  (M78/25) E. Polak and S. Tishyadhigama
+Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres  (M78/24) Michael Stonebraker
+A Distributed Data Base Machine  (M78/23) M. Stonebraker
+Evaluation of Distributed Criteria for Distributed Data Base Systems  (M78/22) D. Ries and R. Epstein
+Frequency Domain Passivity Conditions for Linear Time-Invariant Lumped Networks  (M78/21) J.W. Gannett and L.O. Chua
+An Intrinsic Calculus for Weak Martingales in the Plane  (M78/20) Eugene Wong and Moshe Zakai
+Distributed Query Processing in a Relational Data Base System  (M78/18) R. Epstein, M. Stonebraker and E. Wong
+The Construction and Evaluation of Fuzzy Models  (M79/18) R.M. Tong
+Query Processing in a Relational Database Management System  (M78/17) Karel Youssefi and Eugene Wong
+GO is a P space Hard  (M78/16) D. Lichtenstein and M. Sipser
+Report on the Design of a Simulator Program (SAMPLE) for IC Fabrication  (M79/16) Sharad Narayan Nandgaonkar
+Computer Science: Iteration Theorems for Families of Strict Deterministic Languages  (M78/15) K.N. King
+On Partitioning a Graph: A Theoretical and Empirical Study  (M78/14) Robert M. MacGregor
+Simulation of Integrated Injection Logic  (M78/13) Graeme R. Boyle
+A Unified Theory of Symmetry for Nonlinear Multiport and Multiterminal Resistors  (M78/12) L.O. Chua and J. Vandewalle
+The Robust Nonlinear Servomechanism Problem  (M78/11) C.A. Desoer and Y.T. Wang
+A New Model for the Recognition of Strings of Symbols  (M78/10) K. Abe
+Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers  (M78/9) Robert Steven Glanville
+Synthesis of Piecewise-Linear Networks  (M78/8) L.O. Chua and S. Wong
+Stability of Multidimensional Scalar and Matrix Polynomials  (M78/7) E.I. Jury
+How to make the Lanczos Algorithm Converge Slowly  (M78/6) D.S. Scott
+Query Processing for a Relational Database System  (M78/3) Karel A. A. Youssefi
+A Patching Algorithm For the Nonsymmetric Traveling-Salesman Problem  (M78/2) R.M. Karp
+A Robust Secant Method for Optimization Problems with Inequality Constraints  (M79/2) E. Polak and D.Q. Mayne
+Arithmetic Tests for A-Stability. A[alpha]-Stability, and Stiff-Stability  (M78/1) T.A. Bickart and E.I. Jury

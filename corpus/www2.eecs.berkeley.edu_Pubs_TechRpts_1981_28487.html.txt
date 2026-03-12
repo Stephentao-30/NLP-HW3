@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28487.html
+One Analyzer for Three Languages
+Robert Wilensky and Michael Morgan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/67
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-67.pdf
+BibTeX citation:
+@techreport{Wilensky:M81/67,
+Author= {Wilensky, Robert and Morgan, Michael},
+Title= {One Analyzer for Three Languages},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28487.html},
+Number= {UCB/ERL M81/67},
+}
+EndNote citation:
+%0 Report
+%A Wilensky, Robert
+%A Morgan, Michael
+%T One Analyzer for Three Languages
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28487.html
+%F Wilensky:M81/67

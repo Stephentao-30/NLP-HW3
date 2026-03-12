@@ -1,0 +1,90 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/SCI
+Scientific Computing (SCI)
+Overview
+The faculty, students, visitors, and affiliated researchers of Berkeley's
+Scientific Computing and Numerical Methods group have produced some of
+the most heavily used scientific software (and hardware standards!)
+in the world, backed up with strong theoretical foundations.
+Their strength is a result of their commitment to
+building industrial-strength software and algorithms and
+supporting full-scale scientific applications in
+large interdisciplinary collaborations among
+scientists, engineers, mathematicians, and computer scientists.
+Their research encompasses symbolic, numerical, and geometric computation,
+often on parallel or distributed systems.
+Berkeley is ideally situated amongst
+a wealth of resources for scientific computing, including
+Lawrence Berkeley National Laboratory  (LBNL),
+the  National Energy Research
+Scientific Computing Center  (NERSC, located at LBNL), and the
+Lawrence Livermore National Laboratory .
+Each of these is a source of scientific collaborators,
+difficult problems, and high-performance computing resources.
+Other important computational resources are Berkeley's own campus-wide
+Millenium project ,
+built upon a cluster of clusters of tightly-coupled Intel-based computers.
+(One of the first clusters ever constructed was the Berkeley
+Network of Workstations (NOW)
+project.)
+Major contributions from the group include the IEEE floating point standard;
+LAPACK, ScaLAPACK and SuperLU for numerical linear algebra, the programming languages UPC, Split-C and Titanium, coordination languages, the Triangle mesh generation program, numerical routines for UNIX; and MACSYMA.
+Topics
+Parallel computing
+Languages and numerical algorithms for parallel computers
+Automatic Performance Tuning
+Automatic generation of optimized implementations of computational and communication kernels, tuned for particular architectures and work loads.
+Mesh generation
+Automatic generation of triangulated meshes to represent physical and computational domains.
+Matrix computations
+Numerical algorithms and software for
+fast and accurate numerical linear algebra.
+Floating point
+Extended precision arithmetic. Reliable floating point standards. Architectural and run time implications of floating point standards. Programming language implications of floating point standards.
+Animation
+Computer Algebra
+Methods for symbolic mathematical computation.
+Research Centers
+Berkeley Benchmarking and Optimization Group
+Faculty
+Primary
+Aydin Buluç
+Michael Lustig
+Jonathan Shewchuk  (coordinator)
+Katherine A. Yelick
+Secondary
+James Demmel
+Richard J. Fateman
+Susan L. Graham
+Paul N. Hilfinger
+William M. Kahan
+Kurt Keutzer
+Aditi Krishnapriyan
+James O'Brien
+Jaijeet Roychowdhury
+Sayeef Salahuddin
+Faculty Awards
+ACM A.M. Turing Award:
+William M. Kahan, 1989.
+SIAM John von Neumann Lecture Prize:
+William M. Kahan, 1997.
+National Academy of Sciences (NAS) Member:
+James Demmel, 2011.
+National Academy of Engineering (NAE) Member:
+Katherine A. Yelick, 2017.
+William M. Kahan, 2005.
+James Demmel, 1999.
+Susan L. Graham, 1993.
+American Academy of Arts and Sciences Member:
+James Demmel, 2018.
+Katherine A. Yelick, 2017.
+William M. Kahan, 2003.
+Susan L. Graham, 1995.
+Berkeley Citation:
+Susan L. Graham, 2009.
+Sloan Research Fellow:
+Michael Lustig, 2013.
+Jonathan Shewchuk, 2004.
+James O'Brien, 2003.
+Related Courses
+CS C267. Applications of Parallel Computers
+CS 274. Computational Geometry

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-239.html
+Optimal Search Algorithms for Structured Problems in Natural Language Processing
+Adam David Pauls
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-239
+December 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-239.pdf
+Many tasks in Natural Language Processing (NLP) can be formulated as the assignment of a label to an input. Often, the set of possible labels can be unmanageably large and even enumerating the set would be intractable. For example, the set of possible labels for machine translation might be the set of all sentences in the output language, which can in principle be infinite. Fortunately, these large label sets typically exhibit some kind of structure – that is, they are composed of smaller parts. Because they are composed of parts, it is possible to construct labels piece by piece. The problem of predicting such structured labels is referred to as structured prediction, and the process of incrementally constructing the best structured label(s) is called search.
+In this thesis, we consider problems for which it is feasible to perform exact or optimal search – that is, search that is guaranteed to find the best possible label according to some model. Many such problems can be formulated as a search for the best path in a weighted directed hypergraph. For example, monolingual parsing, bitext parsing, and syntactic machine translation can all be formulated in this way. We will discuss both known and novel algorithms that can find the best path without considering all hyperedges in the hypergraph, and hence can speed up search without sacrificing search quality. We will provide simplified proofs of correctness for these algorithms. We also propose two novel algorithms that permit extraction of the k-best paths instead of the single best. We compare these approaches both against exhaustive search, and against approximate search techniques which speed up search by sacrificing optimality guarantees.
+Advisors:  Daniel Klein
+BibTeX citation:
+@phdthesis{Pauls:EECS-2012-239,
+Author= {Pauls, Adam David},
+Title= {Optimal Search Algorithms for Structured Problems in Natural Language Processing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-239.html},
+Number= {UCB/EECS-2012-239},
+Abstract= {Many tasks in Natural Language Processing (NLP) can be formulated as the assignment of a label to an input. Often, the set of possible labels can be unmanageably large and even enumerating the set would be intractable. For example, the set of possible labels for machine translation might be the set of all sentences in the output language, which can in principle be infinite. Fortunately, these large label sets typically exhibit some kind of structure – that is, they are composed of smaller parts. Because they are composed of parts, it is possible to construct labels piece by piece. The problem of predicting such structured labels is referred to as structured prediction, and the process of incrementally constructing the best structured label(s) is called search.
+In this thesis, we consider problems for which it is feasible to perform exact or optimal search – that is, search that is guaranteed to find the best possible label according to some model. Many such problems can be formulated as a search for the best path in a weighted directed hypergraph. For example, monolingual parsing, bitext parsing, and syntactic machine translation can all be formulated in this way. We will discuss both known and novel algorithms that can find the best path without considering all hyperedges in the hypergraph, and hence can speed up search without sacrificing search quality. We will provide simplified proofs of correctness for these algorithms. We also propose two novel algorithms that permit extraction of the k-best paths instead of the single best. We compare these approaches both against exhaustive search, and against approximate search techniques which speed up search by sacrificing optimality guarantees.},
+}
+EndNote citation:
+%0 Thesis
+%A Pauls, Adam David
+%T Optimal Search Algorithms for Structured Problems in Natural Language Processing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 13
+%@ UCB/EECS-2012-239
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-239.html
+%F Pauls:EECS-2012-239

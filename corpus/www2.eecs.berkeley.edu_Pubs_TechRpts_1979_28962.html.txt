@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28962.html
+Linguistic Decision Analysis Using Fuzzy Sets | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Linguistic Decision Analysis Using Fuzzy Sets
+Linguistic Decision Analysis Using Fuzzy Sets
+R.M. Tong and P.P. Bonissone
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/72
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-72.pdf
+BibTeX citation:
+@techreport{Tong:M79/72,
+Author = {Tong, R.M. and Bonissone, P.P.},
+Title = {Linguistic Decision Analysis Using Fuzzy Sets},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28962.html},
+Number = {UCB/ERL M79/72}
+}
+EndNote citation:
+%0 Report
+%A Tong, R.M.
+%A Bonissone, P.P.
+%T Linguistic Decision Analysis Using Fuzzy Sets
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/72
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28962.html
+%F Tong:M79/72

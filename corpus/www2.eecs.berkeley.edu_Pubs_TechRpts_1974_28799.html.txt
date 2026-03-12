@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28799.html
+Easily Inferred Sequences | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Easily Inferred Sequences
+Easily Inferred Sequences
+Dana Angluin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M499
+December 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-499.pdf
+BibTeX citation:
+@techreport{Angluin:M499,
+Author = {Angluin, Dana},
+Title = {Easily Inferred Sequences},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28799.html},
+Number = {UCB/ERL M499}
+}
+EndNote citation:
+%0 Report
+%A Angluin, Dana
+%T Easily Inferred Sequences
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M499
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28799.html
+%F Angluin:M499

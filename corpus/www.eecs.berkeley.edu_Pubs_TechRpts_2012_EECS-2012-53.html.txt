@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-53.html
+Algorithms and Representations for Visual Recognition
+Subhransu Maji
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-53
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-53.pdf
+We address various issues in learning and representation of visual object categories. A key component of many state of the art object detection and image recognition systems, is the image classifier. We first show that a large number of classifiers used in computer vision that are based on comparison of histograms of low level features, are “additive”, and propose algorithms that enable training and evaluation of additive classifiers that offer better tradeoffs between accuracy, runtime memory and time complexity than previous algorithms. Our analysis speeds up the training and evaluation of several state of the art object detection, and image classification methods by several orders of magnitude.
+Many successful object detection algorithms localize an object by simply evaluating a classifier at multiple locations and scales in an image, and finding peaks in the classifier response. In this setting, the overall speed of the detector can be improved not only by improving the efficiency of the classifier, which we addressed earlier, but also by efficient search, which we address next. We develop a discriminative voting algorithm based on Hough transform, which cuts down the complexity of this search.
+In the last part of the thesis, we propose a representation for fine scale category recognition such as, action and pose of people in images, which is aided by more supervision. Leveraging on “crowdsourcing”, we collect annotations of various kinds – keypoints, segmentations, attribute labels, pose, etc., for several tens of thousands of objects. The problem of comparing two instances visually can then be replaced by a simpler problem of comparing their annotations. The similarity function over the annotations provides us a flexible notion of correspondence between instances of a visual category, which we use to learn appearance models relevant to the task. We apply this framework to build a system for action recognition, that captures salient pose, appearance and interactions with objects, of people performing various actions in static images.
+Advisors:  Jitendra Malik
+BibTeX citation:
+@phdthesis{Maji:EECS-2012-53,
+Author= {Maji, Subhransu},
+Title= {Algorithms and Representations for Visual Recognition},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-53.html},
+Number= {UCB/EECS-2012-53},
+Abstract= {We address various issues in learning and representation of visual object categories. A key component of many state of the art object detection and image recognition systems, is the image classifier. We first show that a large number of classifiers used in computer vision that are based on comparison of histograms of low level features, are “additive”, and propose algorithms that enable training and evaluation of additive classifiers that offer better tradeoffs between accuracy, runtime memory and time complexity than previous algorithms. Our analysis speeds up the training and evaluation of several state of the art object detection, and image classification methods by several orders of magnitude.
+Many successful object detection algorithms localize an object by simply evaluating a classifier at multiple locations and scales in an image, and finding peaks in the classifier response. In this setting, the overall speed of the detector can be improved not only by improving the efficiency of the classifier, which we addressed earlier, but also by efficient search, which we address next. We develop a discriminative voting algorithm based on Hough transform, which cuts down the complexity of this search.
+In the last part of the thesis, we propose a representation for fine scale category recognition such as, action and pose of people in images, which is aided by more supervision. Leveraging on “crowdsourcing”, we collect annotations of various kinds – keypoints, segmentations, attribute labels, pose, etc., for several tens of thousands of objects. The problem of comparing two instances visually can then be replaced by a simpler problem of comparing their annotations. The similarity function over the annotations provides us a flexible notion of correspondence between instances of a visual category, which we use to learn appearance models relevant to the task. We apply this framework to build a system for action recognition, that captures salient pose, appearance and interactions with objects, of people performing various actions in static images.},
+}
+EndNote citation:
+%0 Thesis
+%A Maji, Subhransu
+%T Algorithms and Representations for Visual Recognition
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-53.html
+%F Maji:EECS-2012-53

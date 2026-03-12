@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28954.html
+Direct Piezoelectric Coupling to Surface Elastic Waves | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Direct Piezoelectric Coupling to Surface Elastic Waves
+Direct Piezoelectric Coupling to Surface Elastic Waves
+R.M. White and F.W. Voltmer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M132
+October 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-132.pdf
+BibTeX citation:
+@techreport{White:M132,
+Author = {White, R.M. and Voltmer, F.W.},
+Title = {Direct Piezoelectric Coupling to Surface Elastic Waves},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28954.html},
+Number = {UCB/ERL M132}
+}
+EndNote citation:
+%0 Report
+%A White, R.M.
+%A Voltmer, F.W.
+%T Direct Piezoelectric Coupling to Surface Elastic Waves
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M132
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28954.html
+%F White:M132

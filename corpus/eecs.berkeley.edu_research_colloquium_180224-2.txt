@@ -1,0 +1,21 @@
+URL: https://eecs.berkeley.edu/research/colloquium/180224-2
+Meta Learning and Self Play - EECS at Berkeley
+Meta Learning and Self Play
+EECS Colloquium
+Wednesday, January 24, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Ilya Sutskever
+Co-founder and Research Director of  OpenAI
+Ilya Sutskever speaks on "Meta Learning and Self Play," 2/24/18 (photo: University of Toronto)
+Abstract
+In the first part, I will talk about meta learning, which is the problem of training a system that quickly learns to solve a wide variety of tasks. I will present several meta learning algorithms that can quickly solve simulated robotics tasks, and show how a simple meta learning approach can address the sim2real problem in robotics.
+The second part will be on self play.  Self play systems come with a perfect curriculum, a potentially indefinite incentive for improvement, and a way of converting compute into data. I will present several recent results in self play and discuss its future potential.
+Biography
+Ilya Sutskever is a computer scientist working in machine learning and is the Cofounder and Research Director of OpenAI.  Sutskever obtained his B.Sc, M.Sc, and Ph.D in Computer Science from University of Toronto’s Department of Computer Science under the supervision of Geoffrey Hinton. After graduation,Sutskever became a postdoc with Andrew Ng at Stanford University.  He has made several contributions to the field of deep learning.  Before joining Google Research’s Brain team, Sutskever was the co-founder of DNNresearch.   Sutskever was named in MIT Technology Review’s 35 Innovators Under 35
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

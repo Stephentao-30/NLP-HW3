@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28692.html
+Fasbol, A SNOBL4 Compiler | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fasbol, A SNOBL4 Compiler
+Fasbol, A SNOBL4 Compiler
+Paul Joseph Santos Jr.
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M314
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-314.pdf
+BibTeX citation:
+@techreport{Santos Jr.:M314,
+Author = {Santos Jr., Paul Joseph},
+Title = {Fasbol, A SNOBL4 Compiler},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28692.html},
+Number = {UCB/ERL M314}
+}
+EndNote citation:
+%0 Report
+%A Santos Jr., Paul Joseph
+%T Fasbol, A SNOBL4 Compiler
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M314
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28692.html
+%F Santos Jr.:M314

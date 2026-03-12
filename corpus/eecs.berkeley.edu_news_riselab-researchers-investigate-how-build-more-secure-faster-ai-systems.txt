@@ -1,0 +1,12 @@
+URL: https://eecs.berkeley.edu/news/riselab-researchers-investigate-how-build-more-secure-faster-ai-systems
+RISELab researchers investigate how to build more secure, faster AI systems - EECS at Berkeley
+Computer Science faculty in the  Real-Time Intelligent Secure Execution Lab  (RISELab) have outlined challenges in systems, security and architecture that may impede the progress of Artificial Intelligence, and propose new research directions to address them.  The paper,  A Berkeley View of Systems Challenges for AI , was authored by Profs. Stoica, Song, Popa, Patterson, Katz, Joseph, Jordan, Hellerstein, Gonzalez, Goldberg, Ghodsi, Culler and Abbeel, as well as Michael  Mahoney in Statistics/ICSI. Some of the challenges outlined include AI systems that make timely and safe decisions in unpredictable environments, that are robust against sophisticated adversaries, and that can process ever increasing amounts of data across organizations and individuals without compromising confidentiality.
+Categories
+Faculty
+publications
+Research
+Related Links
+Berkeley News: Berkeley experts on how to build more secure, faster AI systems
+EECS Tech Report: A Berkeley View of Systems Challenges for AI
+View
+Open Faculty Positions

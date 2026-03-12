@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28669.html
+Representation of Martingales, Quadratic Variation and Application | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Representation of Martingales, Quadratic Variation and Application
+Representation of Martingales, Quadratic Variation and Application
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M278
+August 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-278.pdf
+BibTeX citation:
+@techreport{Wong:M278,
+Author = {Wong, E.},
+Title = {Representation of Martingales, Quadratic Variation and Application},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28669.html},
+Number = {UCB/ERL M278}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T Representation of Martingales, Quadratic Variation and Application
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M278
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28669.html
+%F Wong:M278

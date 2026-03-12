@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-175.html
+Netcalls: End Host Function Calls to Network Traffic Processing Services
+Justine Sherry and Daniel C. Kim and Seshadri S. Mahalingam and Amy Tang and Steve Wang and Sylvia Ratnasamy
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-175
+July 12,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-175.pdf
+Function calls are a basic primitive by which applications invoke services from external entities. In this paper, we propose “network calls” (netcalls), a general primitive to invoke advanced traffic processing services – such as firewalling or caching – from the network. We design and implement the netcalls API and a backend architecture to support netcalls, allowing end host applications to interact with services not only in their own access network, but any network their traffic traverses. Demonstrating the utility of netcalls, we built three applications to invoke netcalls, along with corresponding network services: interdomain firewalling for DDoS defense, ‘opportunistic’ traffic compression, and intrusion detection for mobile phones.
+BibTeX citation:
+@techreport{Sherry:EECS-2012-175,
+Author= {Sherry, Justine and Kim, Daniel C. and Mahalingam, Seshadri S. and Tang, Amy and Wang, Steve and Ratnasamy, Sylvia},
+Title= {Netcalls: End Host Function Calls to Network Traffic Processing Services},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-175.html},
+Number= {UCB/EECS-2012-175},
+Abstract= {Function calls are a basic primitive by which applications invoke services from external entities. In this paper, we propose “network calls” (netcalls), a general primitive to invoke advanced traffic processing services – such as firewalling or caching – from the network. We design and implement the netcalls API and a backend architecture to support netcalls, allowing end host applications to interact with services not only in their own access network, but any network their traffic traverses. Demonstrating the utility of netcalls, we built three applications to invoke netcalls, along with corresponding network services: interdomain firewalling for DDoS defense, ‘opportunistic’ traffic compression, and intrusion detection for mobile phones.},
+}
+EndNote citation:
+%0 Report
+%A Sherry, Justine
+%A Kim, Daniel C.
+%A Mahalingam, Seshadri S.
+%A Tang, Amy
+%A Wang, Steve
+%A Ratnasamy, Sylvia
+%T Netcalls: End Host Function Calls to Network Traffic Processing Services
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 12
+%@ UCB/EECS-2012-175
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-175.html
+%F Sherry:EECS-2012-175

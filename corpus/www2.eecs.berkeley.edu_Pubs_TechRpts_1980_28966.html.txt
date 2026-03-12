@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28966.html
+Database Design and Translation for Mutliple Data Models | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Database Design and Translation for Mutliple Data Models
+Database Design and Translation for Mutliple Data Models
+Randy Howard Katz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/24
+June 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-24.pdf
+BibTeX citation:
+@techreport{Katz:M80/24,
+Author = {Katz, Randy Howard},
+Title = {Database Design and Translation for Mutliple Data Models},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28966.html},
+Number = {UCB/ERL M80/24}
+}
+EndNote citation:
+%0 Report
+%A Katz, Randy Howard
+%T Database Design and Translation for Mutliple Data Models
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28966.html
+%F Katz:M80/24

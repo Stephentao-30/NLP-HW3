@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-250.html
+Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers
+Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers
+Cameron Rose
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-250
+December 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-250.pdf
+Flapping-winged flight is very complex, and it is difficult to efficiently model the unsteady airflow and nonlinear dynamics for online control. While steady state flight is well understood, transitions between flight regimes are not readily modeled or controlled. Maneuverability in non-equilibrium flight, which birds and insects readily exhibit in nature, is necessary to operate in the types of cluttered environments that small-scale flapping-winged robots are best suited for. The advantages of flapping wings over quadrotors and fixed-wing fliers are realized in the ability to transition from forward flight to hover to gliding. Flight in the transitions between these regimes necessitates the development of novel modeling techniques and online control techniques to accurately complete these types of maneuvers.
+In this thesis, methods for modeling and controlling the transitions between takeoff and diving maneuvers are developed for a flapping-winged micro aerial vehicle (MAV), the H2Bird. To transition into takeoff and steady state flight, a cooperative launching system is developed for the H2Bird by carrying it on the back of a 32 gram hexapedal millirobot, the VelociRoACH. The necessary initial velocity and pitch angle are determined for take off using force data collected in a wind tunnel, and the VelociRoACH is used to reach these initial conditions for successful launch. The models for the diving maneuver are generated using an automatic piece-wise affine identification technique. The flight conditions during the maneuver are segmented into separate regions and least-squares is used to estimate affine linear models for each modeling region. These models are used to compute the reachability sets for the recovery conditions for safe diving, and linear quadratic regulator controllers are used to maintain stable conditions before and after the dive. The data-driven automatic modeling techniques and controller design processes can be extended to additional flight maneuvers.
+Advisor:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Rose:EECS-2015-250,
+Author = {Rose, Cameron},
+Title = {Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-250.html},
+Number = {UCB/EECS-2015-250},
+Abstract = {Flapping-winged flight is very complex, and it is difficult to efficiently model the unsteady airflow and nonlinear dynamics for online control. While steady state flight is well understood, transitions between flight regimes are not readily modeled or controlled. Maneuverability in non-equilibrium flight, which birds and insects readily exhibit in nature, is necessary to operate in the types of cluttered environments that small-scale flapping-winged robots are best suited for. The advantages of flapping wings over quadrotors and fixed-wing fliers are realized in the ability to transition from forward flight to hover to gliding. Flight in the transitions between these regimes necessitates the development of novel modeling techniques and online control techniques to accurately complete these types of maneuvers.
+In this thesis, methods for modeling and controlling the transitions between takeoff and diving maneuvers are developed for a flapping-winged micro aerial vehicle (MAV), the H2Bird. To transition into takeoff and steady state flight, a cooperative launching system is developed for the H2Bird by carrying it on the back of a 32 gram hexapedal millirobot, the VelociRoACH. The necessary initial velocity and pitch angle are determined for take off using force data collected in a wind tunnel, and the VelociRoACH is used to reach these initial conditions for successful launch. The models for the diving maneuver are generated using an automatic piece-wise affine identification technique. The flight conditions during the maneuver are segmented into separate regions and least-squares is used to estimate affine linear models for each modeling region. These models are used to compute the reachability sets for the recovery conditions for safe diving, and linear quadratic regulator controllers are used to maintain stable conditions before and after the dive. The data-driven automatic modeling techniques and controller design processes can be extended to additional flight maneuvers.}
+}
+EndNote citation:
+%0 Thesis
+%A Rose, Cameron
+%T Modeling and Control of an Ornithopter for Non-Equilibrium Maneuvers
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 17
+%@ UCB/EECS-2015-250
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-250.html
+%F Rose:EECS-2015-250

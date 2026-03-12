@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28755.html
+Spectra of Nearly Hermitian Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Spectra of Nearly Hermitian Matrices
+Spectra of Nearly Hermitian Matrices
+W. Kahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M420
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-420.pdf
+BibTeX citation:
+@techreport{Kahan:M420,
+Author = {Kahan, W.},
+Title = {Spectra of Nearly Hermitian Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28755.html},
+Number = {UCB/ERL M420}
+}
+EndNote citation:
+%0 Report
+%A Kahan, W.
+%T Spectra of Nearly Hermitian Matrices
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M420
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28755.html
+%F Kahan:M420

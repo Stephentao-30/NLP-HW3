@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29308.html
+Newton Derived Methods for Nonlinear Equations and Inequalities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Newton Derived Methods for Nonlinear Equations and Inequalities
+Newton Derived Methods for Nonlinear Equations and Inequalities
+E. Polak and I. Teodoru
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M449
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-449.pdf
+BibTeX citation:
+@techreport{Polak:M449,
+Author = {Polak, E. and Teodoru, I.},
+Title = {Newton Derived Methods for Nonlinear Equations and Inequalities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29308.html},
+Number = {UCB/ERL M449}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Teodoru, I.
+%T Newton Derived Methods for Nonlinear Equations and Inequalities
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M449
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29308.html
+%F Polak:M449

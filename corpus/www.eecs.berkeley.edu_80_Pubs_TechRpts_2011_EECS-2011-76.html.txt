@@ -1,0 +1,43 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-76.html
+The Path of the Blind Watchmaker: A Model of Evolution
+Andrew Anthony Poggio and David A. Patterson and Adam Arkin and Brent Mishler and Christos Papadimitriou
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-76
+June 15,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-76.pdf
+Evolution has been described by Richard Dawkins as a blind watchmaker due to its being unconscious and random but selective and able to produce complex forms. Evolution from an early, primitive organism (the Last Universal Common Ancestor of all life, LUCA) to Homo sapiens is the most dramatic biological process that has taken place on Earth and knowledge of it is important to understanding many aspects of biology including disease prevention and treatment.
+We claim that computational biology has now reached the point that astronomy reached when it began to look backward in time to the Big Bang. Our goal is look backward in biological time, and to begin to describe, in more detail, LUCA and the evolution from LUCA to us. This evolution process is the path of the blind watchmaker.
+This thesis presents a novel dataset of LUCA and other early, genome sequences that we have reconstructed. These ancestors serve as reference species for our models. We develop a sequence evolution model that reflects biological processes more accurately than prior work and apply it to the ancestral genome dataset. This model uses empirical mutation probabilities for scoring alignments and includes inversion mutations. The results of this model describe the mutations that must have taken place during the evolution of our reference species.
+We then apply the sequence evolution results to our population evolution model. This model uses a dynamic set of population pools with related but distinct, mutating genomes reproducing sexually and asexually, and subject to speciation effects, selection pressures, and environmental carrying capacity limitations. Due to a dearth of empirical data needed to estimate model parameters of earlier organisms, our population model did not extend all the way back to LUCA; it instead extended back to a more recent, common ancestor. The results of this model are population size estimates, evolution duration estimates, and identification of critical evolution parameters and estimates of their values.
+We present the results of these models along with evidence for some tantalizing, if speculative, discoveries along the path. This work also identifies significant opportunities for further efforts in silico, in vitro, and in vivo.
+Advisors:  David A. Patterson
+BibTeX citation:
+@phdthesis{Poggio:EECS-2011-76,
+Author= {Poggio, Andrew Anthony and Patterson, David A. and Arkin, Adam and Mishler, Brent and Papadimitriou, Christos},
+Title= {The Path of the Blind Watchmaker: A Model of Evolution},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-76.html},
+Number= {UCB/EECS-2011-76},
+Abstract= {Evolution has been described by Richard Dawkins as a blind watchmaker due to its being unconscious and random but selective and able to produce complex forms. Evolution from an early, primitive organism (the Last Universal Common Ancestor of all life, LUCA) to Homo sapiens is the most dramatic biological process that has taken place on Earth and knowledge of it is important to understanding many aspects of biology including disease prevention and treatment.
+We claim that computational biology has now reached the point that astronomy reached when it began to look backward in time to the Big Bang. Our goal is look backward in biological time, and to begin to describe, in more detail, LUCA and the evolution from LUCA to us. This evolution process is the path of the blind watchmaker.
+This thesis presents a novel dataset of LUCA and other early, genome sequences that we have reconstructed. These ancestors serve as reference species for our models. We develop a sequence evolution model that reflects biological processes more accurately than prior work and apply it to the ancestral genome dataset. This model uses empirical mutation probabilities for scoring alignments and includes inversion mutations. The results of this model describe the mutations that must have taken place during the evolution of our reference species.
+We then apply the sequence evolution results to our population evolution model. This model uses a dynamic set of population pools with related but distinct, mutating genomes reproducing sexually and asexually, and subject to speciation effects, selection pressures, and environmental carrying capacity limitations. Due to a dearth of empirical data needed to estimate model parameters of earlier organisms, our population model did not extend all the way back to LUCA; it instead extended back to a more recent, common ancestor. The results of this model are population size estimates, evolution duration estimates, and identification of critical evolution parameters and estimates of their values.
+We present the results of these models along with evidence for some tantalizing, if speculative, discoveries along the path. This work also identifies significant opportunities for further efforts in silico, in vitro, and in vivo.},
+}
+EndNote citation:
+%0 Thesis
+%A Poggio, Andrew Anthony
+%A Patterson, David A.
+%A Arkin, Adam
+%A Mishler, Brent
+%A Papadimitriou, Christos
+%T The Path of the Blind Watchmaker: A Model of Evolution
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 15
+%@ UCB/EECS-2011-76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-76.html
+%F Poggio:EECS-2011-76

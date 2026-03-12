@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-127.html
+Study of Reinforcement Learning Methods to Enable Automatic Tuning of State of The Art Legged Robots
+Zihong Lian
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-127
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-127.pdf
+Search and rescue is often a slow process, which puts people at risk of being trapped, stranded or even worse, killed during natural disasters, such as earthquakes, floods and
+hurricanes. In order to provide better rescue assistance and to achieve high survival rates, we need efficient, cost effective and small crawling robots  to execute search and rescue operations during disaster situations, especially in reaching spaces that are inaccessible for larger robots or are harmful to rescuers. Thus, I worked on improving the walking speed and autonomous behaviour of OctoRoACH, an inexpensive and robust palm-sized eight legged robot developed by the Biomimetic Millisystems Lab, together with my capstone project members and advisors at UC Berkeley. Our results  show that reinforcement learning algorithms is useful to improve the walking speed of existing search and rescue robots across different terrains and save more lives during disaster situations.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Lian:EECS-2012-127,
+Author= {Lian, Zihong},
+Title= {Study of Reinforcement Learning Methods to Enable Automatic Tuning of State of The Art Legged Robots},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-127.html},
+Number= {UCB/EECS-2012-127},
+Abstract= {Search and rescue is often a slow process, which puts people at risk of being trapped, stranded or even worse, killed during natural disasters, such as earthquakes, floods and
+hurricanes. In order to provide better rescue assistance and to achieve high survival rates, we need efficient, cost effective and small crawling robots  to execute search and rescue operations during disaster situations, especially in reaching spaces that are inaccessible for larger robots or are harmful to rescuers. Thus, I worked on improving the walking speed and autonomous behaviour of OctoRoACH, an inexpensive and robust palm-sized eight legged robot developed by the Biomimetic Millisystems Lab, together with my capstone project members and advisors at UC Berkeley. Our results  show that reinforcement learning algorithms is useful to improve the walking speed of existing search and rescue robots across different terrains and save more lives during disaster situations.},
+}
+EndNote citation:
+%0 Thesis
+%A Lian, Zihong
+%T Study of Reinforcement Learning Methods to Enable Automatic Tuning of State of The Art Legged Robots
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-127
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-127.html
+%F Lian:EECS-2012-127

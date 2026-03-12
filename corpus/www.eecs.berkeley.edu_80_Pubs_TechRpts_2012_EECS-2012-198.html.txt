@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-198.html
+Algorithmic Approaches to Statistical Questions
+Gregory Valiant
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-198
+September 26,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-198.pdf
+Advisors:  Christos Papadimitriou
+BibTeX citation:
+@phdthesis{Valiant:EECS-2012-198,
+Author= {Valiant, Gregory},
+Title= {Algorithmic Approaches to Statistical Questions},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-198.html},
+Number= {UCB/EECS-2012-198},
+}
+EndNote citation:
+%0 Thesis
+%A Valiant, Gregory
+%T Algorithmic Approaches to Statistical Questions
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 26
+%@ UCB/EECS-2012-198
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-198.html
+%F Valiant:EECS-2012-198

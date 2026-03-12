@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28509.html
+Using the Peral AI Package (Package for Efficient Access to Representation in Lisp) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Using the Peral AI Package (Package for Efficient Access to Representation in Lisp)
+Using the Peral AI Package (Package for Efficient Access to Representation in Lisp)
+Michael Deering, Joseph Faletti and Robert Wilensky
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/19
+March 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-19.pdf
+BibTeX citation:
+@techreport{Deering:M82/19,
+Author = {Deering, Michael and Faletti, Joseph and Wilensky, Robert},
+Title = {Using the Peral AI Package (Package for Efficient Access to Representation in Lisp)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28509.html},
+Number = {UCB/ERL M82/19}
+}
+EndNote citation:
+%0 Report
+%A Deering, Michael
+%A Faletti, Joseph
+%A Wilensky, Robert
+%T Using the Peral AI Package (Package for Efficient Access to Representation in Lisp)
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28509.html
+%F Deering:M82/19

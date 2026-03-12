@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29338.html
+The Design and Implementation of Ingres | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Design and Implementation of Ingres
+The Design and Implementation of Ingres
+Michael Stonebraker, Eugene Wong, Peter Kreps and Gerald Held
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M577
+January 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-577.pdf
+BibTeX citation:
+@techreport{Stonebraker:M577,
+Author = {Stonebraker, Michael and Wong, Eugene and Kreps, Peter and Held, Gerald},
+Title = {The Design and Implementation of Ingres},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29338.html},
+Number = {UCB/ERL M577}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Wong, Eugene
+%A Kreps, Peter
+%A Held, Gerald
+%T The Design and Implementation of Ingres
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M577
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29338.html
+%F Stonebraker:M577

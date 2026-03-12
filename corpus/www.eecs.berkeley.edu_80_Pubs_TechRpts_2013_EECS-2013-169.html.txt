@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-169.html
+Efficient learning algorithms with limited information
+Anindya De
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-169
+October 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-169.pdf
+Advisors:  Umesh Vazirani and Luca Trevisan
+BibTeX citation:
+@phdthesis{De:EECS-2013-169,
+Author= {De, Anindya},
+Title= {Efficient learning algorithms with limited information},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-169.html},
+Number= {UCB/EECS-2013-169},
+}
+EndNote citation:
+%0 Thesis
+%A De, Anindya
+%T Efficient learning algorithms with limited information
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 15
+%@ UCB/EECS-2013-169
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-169.html
+%F De:EECS-2013-169

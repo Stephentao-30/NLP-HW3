@@ -1,0 +1,301 @@
+URL: http://people.eecs.berkeley.edu:80/~anca/AHRI.html
+CS 287H: Algorithmic Human-Robot Interaction
+CS 287H: Algorithmic HRI
+Welcome to CS 287H Algorithmic Foundations of Human-Robot (and Human-AI) Interaction, Spring 2023!
+Instructor:   Anca Dragan  (anca at berkeley
+dot
+edu)
+GSI:   Cassidy Laidlaw  (cassidy_laidlaw at
+berkeley dot edu)
+Lectures:  TuTh, 2-3:30pm,  Soda 310
+Description
+As robot autonomy advances, it becomes more and more important to
+develop algorithms that are not solely functional, but also mindful
+of the end-user. How should the robot move differently when it's moving
+in the presence of a human? How should it learn from user feedback?
+How should it assist the user in accomplishing day to day tasks? These
+are the questions we will investigate in this course.
+We will contrast existing algorithms in robotics
+with studies in human-robot interaction, discussing how
+to tackle interaction challenges in an algorithmic way,
+with the goal of enabling generalization across robots and tasks. We will also
+sharpen research skills: giving good talks, experimental design,
+statistical analysis, and literature surveys.
+Format
+This course combines lectures with paper presentations
+by the students, encouraging both fundamental knowledge
+acquisition as well as open-ended discussions. Each student
+will also carry out an individual research project OR
+an in-depth literature survey.
+Learning Objectives
+At the end of this course,
+you will have gained both knowledge/abilities related
+to human-robot interaction, as well as to research and presentation skills:
+Human-robot interaction abilities
+articulate the challenges of developing algorithms that support HRI
+apply optimization techniques to generate motion for HRI
+contrast and relate model-based and model-free learning from demonstration
+apply Bayesian inference and learning techniques to enhance coordination in collaborative tasks
+develop a basic understanding of verbal and non-verbal communication
+ground algorithmic HRI in the relevant psychology background
+Research skills
+communicate scientific content to a peer audience
+analyze and diagram the literature related to a particular topic
+critique a scientific paper's experimental design and analysis
+Prerequisites
+There are no official prerequisites but a knowledge of probability and multivariate
+calculus is expected.
+Grading
+Student Presentations (30%):  Each student will get the opportunity
+to present. You will be
+graded based on your level of insight into the material (including how well you answer questions from us
+and the rest of the class), how well you relate the paper to other papers and lecture material, as well as
+how
+well you present the material to the class and lead a discussionn . There will be 2 presenters for each
+paper. We will have 2-3 papers per lecture.
+Quizzes (15%):  We will have a set of (pandemic update: take-home) quizzes (10 min each),
+to test the
+understanding
+of the material. These quizzes are not meant to be
+onerous, but are meant to ensure that you read carefully through the papers and revisit the lecture notes.
+They are graded with a check, a minus, or a plus for particularly good answers.
+Homework (15%):  New this year, responding to feedback from previous years, we will
+develop a few (2-3)
+homework assignments. We will grade these lightly, and mainly take the opportunity to get feedback from you
+and refine them.
+Final Project (30%):  You have a choice between a research project, and an in-depth
+literature survey (~50 relevant papers, organized by different features, identifying gaps in the state of
+the art). You will have a final presentation, and submit a proposal along the way (1 page) and a report (up
+to 5 pages) at the end.
+Participation (10%):  Be engaged! Ask and answer questions!
+Important fine print:  Despite these percentages, you will not pass this class if
+you don't submit a
+proposal and a final report for your project, if you don't present your final project, or if you don't show
+up
+for class regularly (even if your computed final score is above passing).
+Expectations
+You can expect me to start and end class on time, devise quizzes that adequately cover
+the material,
+and grade your quizzes and send you feedback on your presentations in a timely manner.
+In turn, I can expect you to come to class (pandemic update: Zoom) on time, be attentive and engaged in class,
+and refrain from using laptops (pandemic update: using laptops to do other tasks outside of attending
+lecture), cell phones and other electronic devices during class.
+Please take notes, and ask questions when something is not clear.
+I also expect you to spend an adequate amount of time on the readings each week (~3 hours),
+and spend ~60 hours on your final project.
+Important Dates
+April 4:   1 Page Proposal
+(by this time you should have a clear idea of what you want to do and what your key insight is in the case
+of a project,
+and how you will select and classify papers in the case of a literature survey);
+Please discuss project ideas with the GSI and also feel free to email Anca.
+April 25 & 27:  Final Presentations
+May 9:  Final Reports (ideally start gearing up for a paper submission)
+Project Proposal Instructions
+They should be 1 page (+ references).
+If you are doing a research project:
+motivate the problem
+briefly describe how state of the art tackles it and what is missing
+state your key insight clearly
+scope your project to be what you would do for 1 paper; you don't have to have all results for the
+project, you can have just preliminary result at the end of the semester, but choose a problem that is not
+trivial and not an entire PhD thesis either
+If you are doing a literature survey:
+describe the topic
+describe how you will find papers -- what proceedings will you search, what keywords on google scholar,
+what starting papers;
+what are the inclusion criteria -- how are you going to decide whether to include a paper or not
+provide 5-10 initial papers
+provide the groups/axes/independent variables you want to use to categorize the field
+Possible venues for projects
+Conference Papers: NeurIPS, CoRL, WAFR, ICRA, HRI, RSS
+Short Papers: HRI Late Breaking Report
+Schedule
+Find a tentative schedule below.  This is subject to change.
+#
+Date
+Topic
+Reading
+Notes
+1
+Jan 17
+What is Algorithmic HRI?
+none
+slides
+Part 1: How to optimize cost/reward
+2
+Jan 19
+Trajectory Optimization 1 – Lecture
+3
+Jan 24
+Trajectory Optimization 2 – Lecture
+presentations guide
+example 1
+example 2
+4
+Jan 26
+Trajectory Optimization 3 – Lecture
+all trajopt notes
+5
+Jan 31
+Traj Opt in robotics – Papers
+"Elastic Bands: Connecting Path Planning and Control" (1993)  link
+ILQR  link
+6
+Feb 2
+Traj Opt in HRI – Papers
+"Planning human-aware motions using a sampling-based costmap planner" (2011)
+link
+“Spacetime constraints” (jumping Luxo lamp) (1988)  link
+7
+Feb 7
+Intro to MDPs, RL, POMDPs, Games – Lecture
+Part 2: What cost/reward to optimize
+8
+Feb 9
+Inverse Reinforcement Learning – Lecture
+Further reading:
+"Maximum Margin Planning" (2006)  link
+"Maximum Entropy IRL" (2010)  link
+"Bayesian IRL" (2007)  link
+IRL notes
+9
+Feb 14
+Learning rewards from human input – Lecture
+Further reading:
+“Reward rational implicit choice”  link
+"Learning robot objectives from physical human interaction.  link
+"Preferences implicit in the state of the world.  link
+RRiC notes
+10
+Feb 16
+Imitation Learning (aka skip the reward middleman) – Lecture
+Further reading:
+"Learning Attractor Landscapes for Learning Motor Primitives" (2003)  link
+"Movement Primitives via Optimization" (2015)  link
+Imitation notes
+11
+Feb 21
+How babies learn from human behavior – Papers
+“Understanding the intentions of others” (1995)  link
+2 short papers:
+"Rational Imitation in Preverbal Infants" (2002)  link
+and as background to explain it: "Infant Imitation After a 1-Week Delay" (1988)  link
+12
+Feb 23
+Learning from feedback – Papers
+"Deep Reinforcement Learning
+from Human Preferences"  link
+"Training language models to follow instructions with human feedback"  link
+Further reading:
+Active
+"Preference-Based Learning of Reward Functions"  link
+"Learning
+Human Objectives by Evaluating Hypothetical Behavior"  link
+"Batch Active
+Preference-Based Learning for Reward Functions"  link
+13
+Feb 28
+Learning in HRI – Papers
+"Trajectories and Keyframes for Kinesthetic Teaching" (2012)  link
+"Designing Robot Learners that Ask Good Questions" (2012)  link
+Further reading:
+"Using Perspective Taking to Learn from Ambiguous Demonstrations"
+(2006)  link
+Part 3: Collaboration, assistance, and coordination
+14
+March 2
+Designing intent expression - Papers
+"Anticipation in Robot Motion" (2011)  link
+"Improving Robot Readability" (2011)  link
+Further reading:
+"Communication of Intent in Assistive Free Flyers" (2014)
+link
+15
+March 7
+Online intent inference and expression – Lecture
+Further reading
+"Planning Based Prediction for Pedestrians" (2009)  link
+"Goal Inference as Invese Planning" (2007)  link
+"Obsessed with Goals" (2007)  link
+"Legibility and predictability of robot motion" (2013)  link
+Intent notes
+16
+March 9
+MPDs/POMDPs to avoid/assist with rational/imitative models – Lecture
+Further reading:
+"CrossTraining" (2013)  link
+"Other play"  link
+Avoid/collab/assist notes
+17
+March 14
+MDPs+avoid/collaborate – Papers
+"Socially Compliant Navigation via IRL"  link
+"Predicting Human Reaching Motion" (2015)  link
+18
+March 16
+POMDPs+avoid/collaborate - Papers
+"Shared Autonomy via Hidsight Optimization" (2015)  link
+"Intention-Aware Motion Planning" (2013)  link
+19
+March 21
+RL to collaborate - Papers
+Human-aware RL  link
+Off belief learning  link
+Part 4: Experiment design
+20
+March 23
+Experiment Design 1 – Lecture
+21
+March 28
+Spring Break
+22
+March 30
+Spring Break
+23
+April 4
+Experiment Design 2 – Lecture
+"Evaluating Fluency in Human-Robot Collaboration" (2013)  link
+Part 5: The frontier of AHRI
+24
+April 6
+HRI as a Game – Lecture
+25
+April 11
+HRI as a Game – Papers
+Cooperative IRL (2016)  link
+Influence-aware planning (2016)  link
+Further reading:
+ILQgame  link
+26
+April 13
+Human models beyond imitation and noisy-rationality  – Lecture
+Further reading:
+Human biases and reward inference  link
+The Boltzmann policy distribution  link
+27
+April 18
+Human models – Papers
+How children come to understand false beliefs (2018)  link
+Where do you think you’re going (2018)  link
+Further reading:
+Assisted Perception (2020)  link
+28
+April 20
+Human models – Papers 2
+Modeling human-like gameplay (2022)  link
+Evolving negotiation agents (2022)  link
+29
+April 25
+Presentations 1
+30
+April 27
+Presentations 2
+For more readings, check out a few other class websites (this is by no means a comprehensive list):
+Cooperative Machines (MIT)
+Human-Robot
+Interaction (GaTech)
+Human-Robot Interaction
+(UW)
+Manipulation Algorithms
+(CMU)

@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-23.html
+Interactive Code Snippet Synthesis Through Repository Mining
+Zvonimir Pavlinovic and Domagoj Babic
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-23
+March 29,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-23.pdf
+Programmers repeatedly reuse code snippets. Retyping boilerplate code, and rediscovering how to correctly sequence API calls, programmers waste time. In this paper, we develop techniques that automatically synthesize code snippets upon a programmer’s request. Our approach is based on discovering snippets located in repositories; we mine repositories offline and suggest discovered snippets to programmers. Upon request, our synthesis procedure uses programmer’s current code to find the best fitting snippets, which are then presented to the programmer. The programmer can then either learn the proper API usage or integrate the synthesized snippets directly into her code. We call this approach interactive code snippet synthesis through repository mining. We show that this approach reduces the time spent developing code for 32% in our experiments.
+BibTeX citation:
+@techreport{Pavlinovic:EECS-2013-23,
+Author= {Pavlinovic, Zvonimir and Babic, Domagoj},
+Title= {Interactive Code Snippet Synthesis Through Repository Mining},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-23.html},
+Number= {UCB/EECS-2013-23},
+Abstract= {Programmers repeatedly reuse code snippets. Retyping boilerplate code, and rediscovering how to correctly sequence API calls, programmers waste time. In this paper, we develop techniques that automatically synthesize code snippets upon a programmer’s request. Our approach is based on discovering snippets located in repositories; we mine repositories offline and suggest discovered snippets to programmers. Upon request, our synthesis procedure uses programmer’s current code to find the best fitting snippets, which are then presented to the programmer. The programmer can then either learn the proper API usage or integrate the synthesized snippets directly into her code. We call this approach interactive code snippet synthesis through repository mining. We show that this approach reduces the time spent developing code for 32% in our experiments.},
+}
+EndNote citation:
+%0 Report
+%A Pavlinovic, Zvonimir
+%A Babic, Domagoj
+%T Interactive Code Snippet Synthesis Through Repository Mining
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 29
+%@ UCB/EECS-2013-23
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-23.html
+%F Pavlinovic:EECS-2013-23

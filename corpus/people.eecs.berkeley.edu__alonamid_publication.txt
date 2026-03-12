@@ -1,0 +1,63 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/publication
+Publications | Alon Amid
+Search
+Publications
+Programmable Fine-Grained Power Management and System Analysis of RISC-V Vector Processors in 28-nm FD-SOI
+This letter presents a RISC-V System-on-Chip (SoC) with fully integrated switched-capacitor DC–DC converters, adaptive clock …
+Colin Schmidt ,  Alon Amid ,  John Wright ,  Ben Keller ,  Howard Mao ,  Keertana Settaluri ,  Jarno Salomaa ,  Jerry Zhao ,  Albert Ou ,  Krste Asanovic ,  Borivoje Nikolic
+Preprint
+PDF
+Chipyard - An Integrated SoC Research and Implementation Environment
+Continued improvement in computing efficiency requires functional specialization of hardware designs. We present an agile design flow …
+Alon Amid ,  David Biancolin ,  Abraham Gonzalez ,  Daniel Grubb ,  Sagar Karandikar ,  Harrison Liew ,  Albert Magyar ,  Howard Mao ,  Albert Ou ,  Nathan Pemberton ,  Paul Rigge ,  Colin Schmidt ,  John Wright ,  Jerry Zhao ,  Jonathan Bachrach ,  Yakun Sophia Shao ,  Borivoje Nikolic ,  Krste Asanovic
+Preprint
+PDF
+Chipyard: Integrated Design, Simulation, and Implementation Framework for Custom SoCs
+Continued improvement in computing efficiency requires functional specialization of hardware designs. Agile hardware design …
+Alon Amid ,  David Biancolin ,  Abraham Gonzalez ,  Daniel Grubb ,  Sagar Karandikar ,  Harrison Liew ,  Albert Magyar ,  Howard Mao ,  Albert Ou ,  Nathan Pemberton ,  Paul Rigge ,  Colin Schmidt ,  John Wright ,  Jerry Zhao ,  Yakun Sophia Shao ,  Krste Asanovic ,  Borivoje Nikolic
+Preprint
+PDF
+FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design
+Achieving high-performance when developing specialized hardware/software systems requires understanding and improving not only core …
+Sagar Karandikar ,  Albert Ou ,  Alon Amid ,  Howard Mao ,  Randy Katz ,  Borivoje Nikolic ,  Krste Asanovic
+PDF
+Gemmini: An Agile Systolic Array Generator Enabling Systematic Evaluations of Deep-Learning Architectures
+Advances in deep learning and neural networks have resulted in rapid development of hardware accelerators that support them. A large …
+Hasan Genc ,  Ameer Haj-Ali ,  Vighnesh Iyer ,  Alon Amid ,  Howard Mao ,  John Wright ,  Colin Schmidt ,  Jerry Zhao ,  Albert Ou ,  Max Banister ,  Yakun Sophia Shao ,  Borivoje Nikolic ,  Ion Stoica ,  Krste Asanovic
+PDF
+Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications
+Deep Learning is arguably the most rapidly evolving research area in recent years. As a result, it is not surprising that the design of …
+Alon Amid ,  Kiseok Kwon ,  Amir Gholami ,  Bichen Wu ,  Krste Asanovic ,  Kurt Keutzer
+PDF
+Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research
+The explosive growth in the RISC-V ecosystem has brought about a multitude of open RTL SoC implementations, as well as broad software …
+Sagar Karandikar ,  David Biancolin ,  Alon Amid ,  Nathan Pemberton ,  Albert Ou ,  Randy Katz ,  Borivoje Nikolic ,  Jonathan Bachrach ,  Krste Asanovic
+PDF
+Nested-Parallelism PageRank on RISC-V Vector Multi-Processors
+Graph processing kernels and sparse-representation linear algebra workloads such as PageRank are increasingly used in machine learning …
+Alon Amid ,  Albert Ou ,  Krste Asanovic ,  Borivoje Nikolic
+PDF
+FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud
+In this article, we present FireSim, an open-source simulation platform that enables fast cycle-exact microarchitectural simulation of …
+Sagar Karandikar ,  Howard Mao ,  Donggyu Kim ,  David Biancolin ,  Alon Amid ,  Dayeol Lee ,  Nathan Pemberton ,  Emmanuel Amaro ,  Colin Schmidt ,  Aditya Chopra ,  Qijing Huang ,  Kyle Kovacs ,  Borivoje Nikolic ,  Randy Katz ,  Jonathan Bachrach ,  Krste Asanovic
+Preprint
+PDF
+FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud
+We present FireSim, an open-source simulation platform that enables cycle-exact microarchitectural simulation of large scale-out …
+Sagar Karandikar ,  Howard Mao ,  Donggyu Kim ,  David Biancolin ,  Alon Amid ,  Dayeol Lee ,  Nathan Pemberton ,  Emmanuel Amaro ,  Colin Schmidt ,  Aditya Chopra ,  Qijing Huang ,  Kyle Kovacs ,  Borivoje Nikolic ,  Randy Katz ,  Jonathan Bachrach ,  Krste Asanovic
+PDF
+Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications
+Deep Learning is arguably the most rapidly evolving research area in recent years. As a result it is not surprising that the design of …
+Kiseok Kwon ,  Alon Amid ,  Amir Gholami ,  Bichen Wu ,  Krste Asanovic ,  Kurt Keutzer
+PDF
+Preventing Babel: Rectifying the Trend of Programming Language Divergence
+Throughout the history of computers, there has been a proliferation of new programming languages. Programmers have a variety of …
+Alon Amid ,  Borivoje Nikolic
+PDF
+Policy based Role Centric Attribute Based Access Control Model (Policy RC-ABAC)
+As network speed and storage capacities are rising faster and higher, the remote storage and ‘cloud’ concept is gaining …
+Vijayaraghavan Varadharajan ,  Alon Amid ,  Sudhanshu Rai
+PDF
+Cite
+Copy
+Download

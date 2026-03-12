@@ -1,0 +1,48 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS170
+Course: CS170 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS170
+CS 170. Efficient Algorithms and Intractable Problems
+Catalog Description:  Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems.
+Units:  4.0
+Prerequisites:  Computer Science 61B and 70.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+TuTh 3:30PM - 4:59PM, Pimentel 1 –
+Luca Trevisan, Prasad Raghavendra Class Schedule (Fall 2019):
+MoWeFr 4:00PM - 4:59PM, Dwinelle 155 –
+Prasad Raghavendra, Satish Rao
+Fall 2015 class homepage on bCourses
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Provide familiarity with algorithms for recurring basic problems.  Learn to design algorithms to solve novel problems.  Learn about the concept of the intrinsic difficulty of certain computational problems.
+Topics covered:
+Divide and conquer
+Graphs and trees
+Depth-first search
+Topological sort; strongly-connected components
+Breadth-first search
+Shortest paths; Dijkstra and Bellman-Ford
+Minimum spanning trees
+Union/find analysis
+Hufmann codes
+Lempel-Ziv codes
+Randomized min-cut
+Hashing
+Bloom filters
+Dynamic programming
+Linear programming; posing of combinatorial problems as LP problems
+Duality
+Network flows
+NP completeness
+Approximation algorithms
+Fast Fourier transform
+Related Areas:
+Security (SEC)   Theory (THY)

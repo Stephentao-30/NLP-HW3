@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1983/7612.html
+Algorithms and Architectures for Constant-Q Fourier Spectrum Analysis
+Gary W. Schwede
+EECS Department, University of California, Berkeley
+1983
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Schwede:7612,
+Author= {Schwede, Gary W.},
+Title= {Algorithms and Architectures for Constant-Q Fourier Spectrum Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {1983},
+}
+EndNote citation:
+%0 Thesis
+%A Schwede, Gary W.
+%T Algorithms and Architectures for Constant-Q Fourier Spectrum Analysis
+%I EECS Department, University of California, Berkeley
+%D 1983
+%F Schwede:7612

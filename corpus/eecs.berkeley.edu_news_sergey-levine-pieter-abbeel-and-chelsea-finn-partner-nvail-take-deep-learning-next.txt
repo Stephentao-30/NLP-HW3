@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/sergey-levine-pieter-abbeel-and-chelsea-finn-partner-nvail-take-deep-learning-next
+Sergey Levine, Pieter Abbeel, and Chelsea Finn partner with NVAIL to take deep learning to the next level - EECS at Berkeley
+Assistant Prof. Sergey Levine, Prof. Pieter Abbeel, and graduate student Chelsea Finn are featured in a  CSO article  highlighting research they presented at the International Conference on Machine Learning (ICML).  The research was done in partnership with the NVIDIA AI Labs (NVAIL) programme.  Levine’s team wants to help intelligent agents learn faster and require less training by teaching deep neural networks to learn more like humans.  “Look at how people do it,” said Levine. “We never learn things entirely from scratch. We draw on our past experience to help us learn new skills quickly. So we’re trying to get our learning algorithms to do the same.”  Levine and his team have been using an NVIDIA DGX-1 system to train their algorithms how to coordinate movement and visual perception.
+NVAIL helps keep AI pioneers ahead of the curve with support for students, assistance from researchers and engineers, and gives them access to the industry’s most advanced GPU computing power.
+Categories
+Faculty
+Industry
+Research
+Students
+View
+Open Faculty Positions

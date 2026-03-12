@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28967.html
+Stabilization of the Lower Hybrid Drift Instability by Resonant Electrons
+Yu-Jiuan Chen and William M. Nevins and Charles K. Birdsall
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/72
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-72.pdf
+BibTeX citation:
+@techreport{Chen:M81/72,
+Author= {Chen, Yu-Jiuan and Nevins, William M. and Birdsall, Charles K.},
+Title= {Stabilization of the Lower Hybrid Drift Instability by Resonant Electrons},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28967.html},
+Number= {UCB/ERL M81/72},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yu-Jiuan
+%A Nevins, William M.
+%A Birdsall, Charles K.
+%T Stabilization of the Lower Hybrid Drift Instability by Resonant Electrons
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/72
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28967.html
+%F Chen:M81/72

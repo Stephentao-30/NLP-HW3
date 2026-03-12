@@ -1,0 +1,25 @@
+URL: https://eecs.berkeley.edu/2026/01/lensless-imaging-redefined-by-information-theory
+Lensless imaging redefined  by information theory - EECS at Berkeley
+From top left: Leyla Kabuli, Laura Waller; bottom left: Henry Pinkard, Eric Markley, Clara Hung
+Traditional cameras rely on bulky glass lenses to focus light into human-interpretable images. However, a new generation of “lensless” imagers is stripping away the glass, replacing it with thin optical masks and sophisticated algorithms. While these systems promise to make cameras thinner and more versatile, designing the perfect mask has long been a challenge of trial and error.
+Researchers at UC Berkeley’s Department of Electrical Engineering and Computer Sciences (EECS) have developed a fundamentally new framework to solve this problem. In a study published in  Optica , the team describes a method that applies principles from information theory to optimize these designs. By doing so, they have moved away from judging a camera by how “good” its raw measurements look, focusing instead on how much information is actually being captured.
+Shifting the Paradigm: From Aesthetics to Information
+In a lensless system, a thin mask patterns light across an image sensor. This data is then processed by a reconstruction algorithm to produce a final image. Historically, researchers evaluated these designs based on the visual quality of the reconstruction.
+The Berkeley team, led by Professor Laura Waller, argues for a different approach based on mutual information. This concept quantifies exactly how much information the sensor’s measurement contains about the original scene.
+“We introduce a fundamentally different way to design and evaluate lensless imaging systems,” said Leyla Kabuli, lead author of the study. “Our approach measures how much information is captured, rather than how good the measurement or reconstruction looks to the human eye.”
+A Data-Driven Design Process
+Using a recently developed technique for  mutual information estimation , the team can now calculate information directly from experimental measurements. This “measurement-based” approach is a significant breakthrough because it allows for the evaluation of optical designs without the need for “ground truth” data, complex system modeling, or even performing the image reconstruction itself.
+This framework allows the researchers to navigate the complex interplay between mask design, the specific scene being imaged, and sensor noise. One of the study’s key findings is that the “optimal” camera design is not one-size-fits-all; the best mask depends heavily on the structure of the scene. By using information-based optimization, the team can automatically generate custom mask designs that maximize data capture for a given class of scenes, ultimately leading to higher-quality image reconstructions.
+Looking Toward the Future of Bio-Imaging
+The implications of this research extend far beyond photography. Because lensless cameras can be made incredibly small and flexible, they are ideal candidates for biological and in vivo imaging, where space is at a premium and traditional lenses are too bulky to use.
+The team plans to move forward by fabricating these information-optimal masks for use in real-world biological applications. By providing a roadmap for capturing better measurements, this framework could lead to the next generation of ultra-compact medical imagers and neural interfaces.
+About the Researchers
+The study was authored by Leyla Kabuli (EECS), Henry Pinkard (EECS), Eric Markley (UC Berkeley/UCSF Graduate Program in Bioengineering), Clara Hung (EECS), and Laura Waller (EECS).
+This work was conducted at the Waller Lab, which focuses on computational imaging methods for optics and photonics.
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

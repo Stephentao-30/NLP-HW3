@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28958.html
+MHD Stabilization of Finite Beta Multiple Mirror Plasmas | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+MHD Stabilization of Finite Beta Multiple Mirror Plasmas
+MHD Stabilization of Finite Beta Multiple Mirror Plasmas
+M. Tuszewski, D. Price, M.A. Lieberman, R. Bravenec, K. Doniger, C. Hartman and A.J. Lichtenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/21
+March 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-21.pdf
+BibTeX citation:
+@techreport{Tuszewski:M79/21,
+Author = {Tuszewski, M. and Price, D. and Lieberman, M.A. and Bravenec, R. and Doniger, K. and Hartman, C. and Lichtenberg, A.J.},
+Title = {MHD Stabilization of Finite Beta Multiple Mirror Plasmas},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28958.html},
+Number = {UCB/ERL M79/21}
+}
+EndNote citation:
+%0 Report
+%A Tuszewski, M.
+%A Price, D.
+%A Lieberman, M.A.
+%A Bravenec, R.
+%A Doniger, K.
+%A Hartman, C.
+%A Lichtenberg, A.J.
+%T MHD Stabilization of Finite Beta Multiple Mirror Plasmas
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28958.html
+%F Tuszewski:M79/21

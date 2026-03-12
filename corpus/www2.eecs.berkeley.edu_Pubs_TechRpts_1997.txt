@@ -1,0 +1,147 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997
+Technical Reports - 1997
+PDA and Gesture Uses in Practice:  Insights for Designers of Pen-based User Interfaces  (CSD-97-976) Allan Christian Jr. Long, James A. Landay and Lawrence A. Rowe
+Lazy Threads: Compiler and Runtime Structures for Fine-Grained Parallel Programming  (CSD-97-975) Seth Copen Goldstein
+Transparent Result Caching  (CSD-97-974) Amin Vahdat and Thomas Anderson
+Tracking People with Twists and Exponential Maps  (CSD-97-973) Christoph Bregler and Jitendra Malik
+2D Object Abstraction: The Automatic Generation of Hierarchical Geometric Representations  (CSD-97-972) Maryann Simmons
+A New O(n^2) Algorithm for the Symmetric Tridiagonal Eigenvalue/Eigenvector Problem  (CSD-97-971) Inderjit Singh Dhillon
+Compositional Modeling with DPNs  (CSD-97-970) Geoffrey Zweig and Stuart Russell
+Automatic Analysis of Relay Ladder Logic Programs  (CSD-97-969) Zhendong Su
+Visual Information Density Adjuster (VIDA)  (CSD-97-968) Allison Woodruff and Michael Stonebraker
+SPAND: Shared Passive Network Performance Discovery  (CSD-97-967) Srinivasan Seshan, Mark Stemm and Randy H. Katz
+TCP Behavior of a Busy Internet Server: Analysis and Improvements  (CSD-97-966) Hari Balakrishnan, Venkata N. Padmanabhan, Srinivasan Seshan, Randy H. Katz and Mark Stemm
+Barrier Inference  (CSD-97-965) David E Gay
+Flow-Insensitive Points-to Analysis with Term and Set Constraints  (CSD-97-964) Jeffrey S. Foster, Manuel Fahndrich and Alexander Aiken
+An Experiment in Enhancing Information Access by Natural Language Processing  (CSD-97-963) Isaac Cheng and Robert Wilensky
+Motion Segmentation and Tracking Using Normalized Cuts  (CSD-97-962) Jianbo Shi and Jitendra Malik
+Energy Consumption of Apple Macintosh Computers  (CSD-97-961) Jacob R. Lorch and Alan Jay Smith
+The Berkeley Distributed Video-on-Demand System  (CSD-97-959) Lawrence A. Rowe, David A. Berger and J. Eric Baldeschwieler
+The Case for Online Aggregation: New Challenges in User Interfaces, Performance Goals, and DBMS Design  (CSD-97-958) Joseph M. Hellerstein
+Modeling and Identifying Bottlenecks in the EOSDIS Architecture  (CSD-97-957) Sharon L. Smith, Melody Y. Ivory and James Demmel
+Data Entry and Administrative Tools for a Video-on-Demand Metadata Database  (CSD-97-956) David R. Bacher
+Floor Control for Large-Scale MBone Seminars  (CSD-97-955) Radhika Malpani and Lawrence A. Rowe
+Editing Extensions to the Berkeley Continuous Media Tool Kit  (CSD-97-954) J. Eric Baldeschwieler and Lawrence A. Rowe
+Full-motion Video for Portable Multimedia Terminals  (CSD-97-953) A. Chris Long
+Video-on-Demand Metadata Query Interfaces  (CSD-97-952) David Berger
+Generalized Data Naming and Scalable State Announcements for Reliable Multicast  (CSD-97-951) Suchitra Raman and Steven R. McCanne
+Generalizing "Search" in Generalized Search Trees  (CSD-97-950) Paul M. Aoki
+Software Strategies for Portable Computer Energy Management  (CSD-97-949) Jacob R. Lorch and Alan Jay Smith
+Incremental Static Semantic Analysis  (CSD-97-948) William H. Maddox III
+Presentation by Tree Transformation  (CSD-97-947) Vance Maverick
+Practical Algorithms for Incremental Software Development Environments  (CSD-97-946) Tim A. Wagner
+Measurements and Analysis of End-to-End Internet Dynamics  (CSD-97-945) Vern E. Paxson
+SuperLU Users' Guide  (CSD-97-944) James W. Demmel, John Gilbert and Xiaoye S. Li
+An Asynchronous Parallel Supernodal Algorithm for Sparse Gaussian Elimination  (CSD-97-943) James W. Demmel, John R. Gilbert and Xiaoye S. Li
+HP-LAM: an Implementation of Generic Active Messages for the Hewlett-Packard 9000/J200 Workstation  (CSD-97-942) Cedric Krumbein
+Region-Based Image Querying  (CSD-97-941) Serge Belongie, Chad Carson, Hayit Greenspan and Jitendra Malik
+Normalized Cut and Image Segmentation  (CSD-97-940) Jianbo Shi and Jitendra Malik
+Recognition of Images in Large Databases Using a Learning Framework  (CSD-97-939) Serge Belongie, Chad Carson, Hayit Greenspan and Jitendra Malik
+WebOS: Operating System Services for Wide Area Applications  (CSD-97-938) Amin Vahdat, Paul Eastham, Chad Yoshokawa, Eshwar Belani, Thomas Anderson, David Culler and Michael Dahlin
+A Bitrate Control Algorithm for the Berkeley MPEG-1 Video Encoder  (CSD-97-937) Darryl C. Brown
+Analysis Tools for MPEG-1 Video Streams  (CSD-97-936) Doug Banks and Lawrence A. Rowe
+Berkeley CMT Media Playback API  (CSD-97-935) MacDonald Hall Jackson III
+Computing the Singular Value Decomposition with High Relative Accuracy  (CSD-97-934) James Demmel, Ming Gu, Stanley Eisenstat, Ivan Slapnicar, Kresimir Veselic and Zlatco Drmac
+A Model For Speedup of Parallel Programs  (CSD-97-933) Allen B Downey
+Supporting Fine-Grained Data Lineage in a Database Visualization Environment  (CSD-97-932) Allison Woodruff and Michael Stonebraker
+T0 Engineering Data  (CSD-97-931) Krste Asanović and James Beck
+Torrent Architecture Manual  (CSD-97-930) Krste Asanović and David Johnson
+Using Queue Time Predictions for Processor Allocation  (CSD-97-929) Allen B. Downey
+Design and Implementation Verification of Finite State Systems  (M97/99) Rajeev K. Ranjan
+In Situ Metrology for Deep Ultraviolet Photolithography Control  (M97/98) N. Jakatdar
+Bubble-Debris Classification via Binary Morphology and Autowave Metric on CNN  (M97/97) I. Szatmari, A. Schultz, C. Rekeczky, T. Kozek, T. Roska and Leon O. Chua
+Image Segmentation and Edge Detection via Constrained Diffusion and Adaptive Morphology: A CNN Approach to Bubble-Debris Image Enhancement  (M97/96) C. Rekeczky, A. Schultz, I. Szatmari, T. Roska and Leon O. Chua
+Functional Measurements of the First Analog Input/Output CNN Universal Chip  (M97/95) A. Zarandy, J.M. Cruz, P. Szolgay, P. Foldesy, Leon O. Chua and T. Roska
+Study of Ultrafast Hot-Electron Dynamics in Silicon Using Time-Resolved Photoemission  (M97/94) S. Jeong
+Structural Symmetries and Model Checking  (M97/92) G.S. Manku
+Adaptive Signal Models: Theory, Algorithms, and Audio Applications  (M97/91) Michael M. Goodwin
+OES-Based Sensing for Plasma Processing in IC Manufacturing  (M97/90) Roa Wen Chen
+Negative Thinking in Search Problems  (M97/89) L.P. Carloni
+Low-Power Decimation Filter Design for Multi-standard Transceiver Applications  (M97/88) C.J. Barrett
+Three-Dimensional Coding of Motion Vector Fields in Video  (M97/87) J.C. Yeh
+Interim Progress Report: Intelligent Control Architectures for Unmanned Air Vehicles  (M97/86) S. Shankar Sastry, D.N. Godbole, Jitendra Malik, R. Sengupta and O. Shakernia
+Interconnect Modeling via Passivity  (M97/85) J.M. Wang
+Implementation of Process Networks in Java  (M97/84) R.S. Stevens, M. Wan, P. Laramie, T.M. Parks and Edward A. Lee
+Tools for Nonlinear Control Systems Design Final Report on NAG2-243  (M97/83) S. Shankar Sastry
+An Integrated GSM/DECT Receiver: Design Specifications  (M97/82) J.C. Rudell, J.A. Weldon, J-J. Ou, L. Lin and Paul R. Gray
+Characterization of Extreme Ultraviolet Imaging Systems  (M97/81) Edita Tejnil
+Study of Interconnect Variation on Circuit Performance  (M97/80) Z. Lin
+HYTECH: A Model Checker for Hybrid Systems  (M97/79) Thomas A. Henzinger, P-H. Ho and H. Wong-Toi
+Real-Time System = Discrete System + Clock Variables  (M97/78) R. Alur and Thomas A. Henzinger
+Using Combinational Verification for Sequential Circuits  (M97/77) R.K. Ranjan, V. Singhal, F. Somenzi and Robert K. Brayton
+Two Cycle-Related Problems of Regular Data Flow Graphs: Complexity and Heuristics  (M97/76) P.K. Murthy and Edward A. Lee
+Delay-Optimal Technology Mapping by DAG Covering  (M97/75) Y. Kukimoto, Robert K. Brayton and P. Sawkar
+Estimation and Synthesis for Low-Power, High-Performance Integrated Circuits  (M97/74) Premal Buch
+Deciding State Reachability for Large FSMs  (M97/73) T.R. Shiple, R.K. Ranjan, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+Algorithms for Defining Visual Region-of- Interest: Comparison with Eye Fixations  (M97/72) C. Privitera and L.W. Stark
+Report 7: Equivalent Congruence Transforms  (M97/71) Q. Yu
+Reduced Order Model of Transmission Lines by Multiple Points Moment Matching and Passivity Preservation  (M97/70) Q. Yu and Ernest S. Kuh
+Moment Matching in Congruence Transform  (M97/69) Q. Yu
+A Traveling Wave Driven, Inductively Coupled Large Area Plasma Source  (M97/68) Y. Wu and Michael A. Lieberman
+Vision-Based Control of Vehicles  (M97/67) J. Kosecka, R. Blasi, C.J. Taylor and Jitendra Malik
+Verbal Paradigms--Part II: Computing with Verbs  (M97/66) T. Yang
+From Fermi Acceleration to Collisionless Discharge Heating  (M97/65) Michael A. Lieberman and V.A. Godyak
+Verbal Paradigms--Part I: Modeling with Verbs  (M97/64) T. Yang
+Exterior Differential Systems in Control and Robotics  (M97/63) G.J. Pappas, J. Lygeros, D. Tilbury and S. Shankar Sastry
+High-Speed, Low-Power Sigma-Delta Modulators for RF Baseband Channel Applications  (M97/62) Arnold R. Feldman
+Fuzzy Cellular Neural Networks  (M97/61) T. Yang, L-B. Yang and C-M. Yang
+Post-Routing Interconnect Performance Optimization  (M97/60) Tianxiong Xue
+Multi-Objective Hybrid Controller Synthesis  (M97/59) J. Lygeros, C. Tomlin and S. Shankar Sastry
+Chaotic Digital Code-Division Multiple Access (CDMA) Communication Systems  (M97/58) T. Yang and Leon O. Chua
+A Preliminary Study of Hierarchical Finite State Machines with Multiple Concurrency Models  (M97/57) A. Girault, B. Lee and Edward A. Lee
+Design and Optimization Techniques for Monolithic RF Downconversion Mixers  (M97/56) Keng L. Fong
+Propagation Effects of Partially Coherent Light in Optical Lithography and Inspection  (M97/55) Robert J. Socha
+Adaptive Quantization and Transform Coding  (M97/54) J. Zhuang
+Automatic State Reduction Techniques for Hardware Systems Modeled Using Uninterpreted Functions and Infinite Memory  (M97/53) R. Hojati, A.J. Isles and Robert K. Brayton
+Generalizing the TEMPEST FDTD Electro- magnetic Simulation Program  (M97/52) T. Pistor
+Understanding the Role of Mask and Resist in Line-End Shortening with Simulation  (M97/51) I. Lee
+Control of Systems on Lie Groups  (M97/50) C. Tomlin
+Spin Coating for Rectangular Substrates  (M97/49) G.A. Luurtsema
+Control and Simulation of Multibody Systems  (M97/48) J.M. Wendlandt
+An Information-Centric Design Exploration and Implementation Server  (M97/47) Ole Bentz
+Very Low Bit-Rate Video Coding Using Cellular Neural Network Universal Machine  (M97/46) K. Slot, Leon O. Chua and T. Roska
+BITS and POTS Together  (M97/45) Martin H. Graham
+Exact Required Time Analysis via False Path Detection  (M97/44) Y. Kukimoto and Robert K. Brayton
+Experimental Results of Strange Nonchaotic Phenomenon in a Second-Order Quasi- Periodically Forced Electronic Circuit  (M97/43) T. Yang and K. Bilimgut
+Vision Guided Navigation for a Nonholonomic Mobile Robot  (M97/42) Y. Ma, J. Kosecka and S. Shankar Sastry
+The Pyramidal Universal Cell: A New Approach for Computation in Cellular Neural Networks  (M97/41) R. Dogaru, K.R. Crounse and Leon O. Chua
+A New Synaptic Operator and Its Application for Efficient Implementation of Cellular Neural Networks in Digital Technologies  (M97/40) R. Dogaru, K.R. Crounse and Leon O. Chua
+Formal Verification Using the Integer Combinational/Sequential (ICS) Concurrency Model  (M97/39) A.J. Isles
+On Smoothing of the I-V Langmuir Probe Characteristic  (M97/38) J.T. Gudmundsson
+High-Level Estimation and Synthesis Techniques for Low-Power Design  (M97/37) Renu Mehra
+Progressively Reliable Packet Delivery for Interactive Wireless Multimedia  (M97/36) Richard Y.-W. Han
+Control of a Telesurgical Workstation  (M97/35) M.C. Cavusoglu
+Vision Guided Navigation for a Nonholonomic Mobile Robot  (M97/34) Y. Ma
+Conflict Resolution for Air Traffic Management: A Study in Multi-Agent Hybrid Systems  (M97/33) C. Tomlin, G.J. Pappas and S. Shankar Sastry
+Integration of Error Detection and Correction in the Infopad: Procedure and Specification  (M97/32) H. Bowers
+The Specification and Execution of Heterogeneous Synchronous Reactive Systems  (M97/31) Stephen A. Edwards
+Partial-Order Reduction in Symbolic State Space Exploration  (M97/30) R. Alur, Robert K. Brayton, Thomas A. Henzinger, S. Qadeer and S.K. Rajamani
+Discrete-Time Control for Rectangular Hybrid Automata  (M97/29) Thomas A. Henzinger and Peter W. Kopke
+Event-Clock Automata: A Determinizable Class of Timed Automata  (M97/28) R. Alur, L. Fix and Thomas A. Henzinger
+Reachability Analysis Using Partitioned- ROBDDs  (M97/27) A. Narayan, A.J. Isles, J. Jain, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Logic Synthesis for Large Pass Transistor Circuits  (M97/26) P. Buch, A. Narayan, A. Richard Newton and Alberto L. Sangiovanni-Vincentelli
+An Integrated Approach to Intelligent Systems  (M97/25) S. Shankar Sastry, A. Nerode and Z. Manna
+Multipactor Electron Discharge Physics Using an Improved Secondary Emission Model  (M97/24) V.P. Gopinath, J.P. Verboncoeur and Charles K. (Ned) Birdsall
+Reduction of Crossed-Field Diode Transmitted Current Due to Anode Secondary Emission  (M97/23) V.P. Gopinath and B. Vanderberg
+Input Encoding for Minimum BDD Size: Theory and Experiments  (M97/22) W. Gosti, T. Villa, A. Saldanha and Alberto L. Sangiovanni-Vincentelli
+Integer-Controlled Dataflow in Ptolemy  (M97/21) T. Miyazaki
+Ultraviolet Damage to Fused Silica  (M97/20) Richard E. Schenker
+Computing Accumulated Delays in Real-Time Systems  (M97/19) R. Alur, C. Courcoubetis and Thomas A. Henzinger
+Robust Timed Automata  (M97/18) V. Gupta, Thomas A. Henzinger and R. Jagadeesan
+From Quantity to Quality  (M97/17) Thomas A. Henzinger and O. Kupferman
+Direct Aerial Image Monitoring for Extreme Ultraviolet Lithography Systems  (M97/16) Charles H. Fields
+The Tycho User Interface System  (M97/15) C. Hylands, Edward A. Lee and H.J. Reekie
+Speech Recognition for Portable Multimedia Terminals  (M97/14) Andrew J. Burstein
+Co-Design of a Fault-Tolerant Communication Protocol--A Case Study  (M97/13) R. von Hanxleden, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Impulsive Control and Synchronization of Chaotic Systems and Secure Communication  (M97/12) T. Yang and Leon O. Chua
+A Denotational Framework for Comparing Models of Computation  (M97/11) Edward A. Lee and Alberto L. Sangiovanni-Vincentelli
+Shape Synthesis for Assembly-Centric Design  (M97/10) Steve R. Burgett
+Generating Common Randomness in an Arbitrary Network of Channels: Capacity Formulas and Some Combinatorial Results  (M97/9) S. Venkatesan and Venkat Anantharam
+Network of Workstations Active Messages Target for Ptolemy C Code Generation  (M97/8) P. Warner
+A Next Generation Architecture for Air Traffic Management Systems  (M97/7) C. Tomlin, G. Pappas, J. Lygeros, D. Godbole and S. Shankar Sastry
+Cryptography Based on Chua's Circuits  (M97/6) T. Yang, C.W. Wu and Leon O. Chua
+A VLSI-Friendly Synapse Model and Its Application for Fast and Cheap Signal Classification Problems with Neuro-Fuzzy Networks  (M97/5) R. Dogaru and Leon O. Chua
+Real-Time Signal Processing on the UltraSPARC  (M97/4) W. Chen
+A Denotational Semantics for Dataflow with Firing  (M97/3) Edward A. Lee
+BSIM 3v3 Manual (Final Version)  (M97/2) Y. Cheng, M. Chan, K. Hui, M. Jeng, Z. Liu, J. Huang, K. Chen, J. Chen, R. Tu, P.K. Ko and Chenming Hu
+Control of Nonholonomic Systems with Drift Terms  (M97/1) J.M. Godhavn, A. Balluchi, L.S. Crawford and S. Shankar Sastry

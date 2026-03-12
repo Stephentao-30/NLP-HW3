@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29072.html
+Non-Differentiable Optimization Via Adaptive Smoothing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Non-Differentiable Optimization Via Adaptive Smoothing
+Non-Differentiable Optimization Via Adaptive Smoothing
+D.Q. Mayne and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/87
+November 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-87.pdf
+BibTeX citation:
+@techreport{Mayne:M82/87,
+Author = {Mayne, D.Q. and Polak, E.},
+Title = {Non-Differentiable Optimization Via Adaptive Smoothing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29072.html},
+Number = {UCB/ERL M82/87}
+}
+EndNote citation:
+%0 Report
+%A Mayne, D.Q.
+%A Polak, E.
+%T Non-Differentiable Optimization Via Adaptive Smoothing
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/87
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29072.html
+%F Mayne:M82/87

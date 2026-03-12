@@ -1,0 +1,48 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-32.html
+Applied Estimation of Mobile Environments | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Applied Estimation of Mobile Environments
+Applied Estimation of Mobile Environments
+Kevin Weekly
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-32
+April 28, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-32.pdf
+For many research problems, controlling and estimating the position of the mobile elements within an environment is desired. Realistic mobile environments are unstructured, but share a set of common features, such as position, speed, and constraints on mobility. To estimate within these real-world environments requires careful selection of the best-suited estimation tools and software and hardware technologies. This dissertation discusses the design and implementation of applied estimation infrastructures which overcome the challenges of real-world deployments.
+Estimating the mobility of water within rivers and estuaries is a significant area of study considering the need for fresh water all over the world. The Floating Sensor Network is designed to enable Lagrangian measurements, from devices called drifters, in these areas which was previously infeasible to collect. Two new types of drifters are developed: a low-cost Android smartphone based drifter and a motorized active drifter. The Android drifter is economical, allowing dense sensor deployments at low cost. Since drifter studies in rivers are often beset by drifters becoming pushed onto the banks, the active drifter is able to avoid these obstacles by using a Hamilton-Jacobi safety control algorithm. Multiple field operational tests validate that the active drifters successfully avoid becoming trapped in difficult terrain. Field tests also validate the operation of the estimation solution as a whole, measuring the water flow via drifters and producing flow fields of the river.
+The mobile environment of occupants within an office building is also studied extensively. This dissertation introduces the environmental sensing platform for indoor occupant studies. The platform includes a design of a battery-powered environmental sensor device and the communication architecture needed to collect data into a central repository. The sensor devices themselves communicate via WiFi technology and have a rich suite of sensors, including passive infrared, temperature, humidity, light level and acceleration. Electrical current consumption measurements from the sensors show that they can operate for over 5 years on a single battery. Discussed is how these sensors can be used for occupant tracking and occupant estimation, either via the on-board instruments, or instruments which are added to the devices via an expansion port.
+A unified particle filter is proposed which can both estimate occupancy and track occupants within a building. This dissertation presents several prerequisite studies to motivate this direction: Two studies are performed to understand how occupancy and occupant activity affects measurable variables: particulate matter and CO 2 . These variables are chosen as they are otherwise important for monitoring indoor air quality. Experimental studies show that there are indeed correlations between occupant activity and these variables. Furthermore, an estimator can be built which estimates the occupancy of a conference room, given CO 2  measurements. Our third study accomplishes occupant tracking using a particle filtering framework and signal strength measurements from a radio-based indoor positioning system. The implementation forms a basis from which to build the unified particle filter.
+Advisor:  Alexandre Bayen
+BibTeX citation:
+@phdthesis{Weekly:EECS-2014-32,
+Author = {Weekly, Kevin},
+Editor = {Bayen, Alexandre and Pister, Kristofer and Spanos, Costas J. and Glaser, Steven},
+Title = {Applied Estimation of Mobile Environments},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-32.html},
+Number = {UCB/EECS-2014-32},
+Abstract = {For many research problems, controlling and estimating the position of the mobile elements within an environment is desired.  Realistic mobile environments are unstructured, but share a set of common features, such as position, speed, and constraints on mobility.  To estimate within these real-world environments requires careful selection of the best-suited estimation tools and software and hardware technologies.  This dissertation discusses the design and implementation of applied estimation infrastructures which overcome the challenges of real-world deployments.
+Estimating the mobility of water within rivers and estuaries is a significant area of study considering the need for fresh water all over the world.  The Floating Sensor Network is designed to enable Lagrangian measurements, from devices called drifters, in these areas which was previously infeasible to collect.  Two new types of drifters are developed: a low-cost Android smartphone based drifter and a motorized active drifter.  The Android drifter is economical, allowing dense sensor deployments at low cost. Since drifter studies in rivers are often beset by drifters becoming pushed onto the banks, the active drifter is able to avoid these obstacles by using a Hamilton-Jacobi safety control algorithm.  Multiple field operational tests validate that the active drifters successfully avoid becoming trapped in difficult terrain.  Field tests also validate the operation of the estimation solution as a whole, measuring the water flow via drifters and producing flow fields of the river.
+The mobile environment of occupants within an office building is also studied extensively.  This dissertation introduces the environmental sensing platform for indoor occupant studies.  The platform includes a design of a battery-powered environmental sensor device and the communication architecture needed to collect data into a central repository.  The sensor devices themselves communicate via WiFi technology and have a rich suite of sensors, including passive infrared, temperature, humidity, light level and acceleration.  Electrical current consumption measurements from the sensors show that they can operate for over 5 years on a single battery.  Discussed is how these sensors can be used for occupant tracking and occupant estimation, either via the on-board instruments, or instruments which are added to the devices via an expansion port.
+A unified particle filter is proposed which can both estimate occupancy and track occupants within a building.  This dissertation presents several prerequisite studies to motivate this direction: Two studies are performed to understand how occupancy and occupant activity affects measurable variables: particulate matter and CO<sub>2</sub>. These variables are chosen as they are otherwise important for monitoring indoor air quality.  Experimental studies show that there are indeed correlations between occupant activity and these variables. Furthermore, an estimator can be built which estimates the occupancy of a conference room, given CO<sub>2</sub> measurements.  Our third study accomplishes occupant tracking using a particle filtering framework and signal strength measurements from a radio-based indoor positioning system.  The implementation forms a basis from which to build the unified particle filter.}
+}
+EndNote citation:
+%0 Thesis
+%A Weekly, Kevin
+%E Bayen, Alexandre
+%E Pister, Kristofer
+%E Spanos, Costas J.
+%E Glaser, Steven
+%T Applied Estimation of Mobile Environments
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 April 28
+%@ UCB/EECS-2014-32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-32.html
+%F Weekly:EECS-2014-32

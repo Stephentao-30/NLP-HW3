@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-12.html
+Hypervisors as a Foothold for Personal Computer Security: An Agenda for the Research Community
+Matei Zaharia and Sachin Katti and Chris Grier and Vern Paxson and Scott Shenker and Ion Stoica and Dawn Song
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-12
+January 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-12.pdf
+We argue that hypervisors are an increasingly attractive avenue for improving the security of end-user systems. Although hypervisors have been used for security applications in the past, we show that there are substantial unexplored opportunities to directly attack security issues that users care about, such as secure interactions with online services. We thus propose that the research community build a deployable security-enhancing hypervisor for consumer PCs, and discuss the main challenges in meeting this goal. We believe that this is one of the best chances that researchers currently have to make a substantial impact on end-user security.
+BibTeX citation:
+@techreport{Zaharia:EECS-2012-12,
+Author= {Zaharia, Matei and Katti, Sachin and Grier, Chris and Paxson, Vern and Shenker, Scott and Stoica, Ion and Song, Dawn},
+Title= {Hypervisors as a Foothold for Personal Computer Security: An Agenda for the Research Community},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-12.html},
+Number= {UCB/EECS-2012-12},
+Abstract= {We argue that hypervisors are an increasingly attractive avenue for improving the security of end-user systems. Although hypervisors have been used for security applications in the past, we show that there are substantial unexplored opportunities to directly attack security issues that users care about, such as secure interactions with online services. We thus propose that the research community build a deployable security-enhancing hypervisor for consumer PCs, and discuss the main challenges in meeting this goal. We believe that this is one of the best chances that researchers currently have to make a substantial impact on end-user security.},
+}
+EndNote citation:
+%0 Report
+%A Zaharia, Matei
+%A Katti, Sachin
+%A Grier, Chris
+%A Paxson, Vern
+%A Shenker, Scott
+%A Stoica, Ion
+%A Song, Dawn
+%T Hypervisors as a Foothold for Personal Computer Security: An Agenda for the Research Community
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 13
+%@ UCB/EECS-2012-12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-12.html
+%F Zaharia:EECS-2012-12

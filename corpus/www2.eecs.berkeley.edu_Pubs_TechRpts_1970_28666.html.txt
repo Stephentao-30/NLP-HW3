@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28666.html
+On the Solutions of a Stochastic Control System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Solutions of a Stochastic Control System
+On the Solutions of a Stochastic Control System
+T. Duncan and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M273
+August 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-273.pdf
+BibTeX citation:
+@techreport{Duncan:M273,
+Author = {Duncan, T. and Varaiya, P.},
+Title = {On the Solutions of a Stochastic Control System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28666.html},
+Number = {UCB/ERL M273}
+}
+EndNote citation:
+%0 Report
+%A Duncan, T.
+%A Varaiya, P.
+%T On the Solutions of a Stochastic Control System
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M273
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28666.html
+%F Duncan:M273

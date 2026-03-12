@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-148.html
+BayScope
+Yun Jin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-148
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-148.pdf
+Very-high-resolution wall-sized displays are becoming affordable and widespread throughout the design, education, business, and entertainment industries. Such displays offer new opportunities not only for technical large data visualization, but also for collaborative workspaces, such as a meeting room, a design studio. In such environment, a combination of multi-user input, new interaction techniques and applications for large displays is pressing. BayScope is aimed at exploring new techniques and applications with multiple user input to enhance interaction and collaboration between groups of people and a large wall-sized display in a collaborative workspace. In this paper, we first focus on four different interaction techniques to share and manipulate content on large displays by using mobile phones. We compare speed and accuracy of these techniques by gathering and analyzing data from a user study with ten participants. From the data, we find touchpad is the most appropriate interaction technique, so we choose touchpad as our primary technique for developing applications. Since the cost of developing new applications on large displays is high, we investigate how to adapt existing web applications without access to the applications’ source code. Our approach is to execute multiple copies of several existing applications in parallel and keep them synchronized, and they can be used by multiple users through touchpad interaction. Finally, we conduct a user study with ten participants to interact with our system. The evaluation result shows that it is convenient and efficient to use our system in a collaborative environment.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Jin:EECS-2012-148,
+Author= {Jin, Yun},
+Title= {BayScope},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-148.html},
+Number= {UCB/EECS-2012-148},
+Abstract= {Very-high-resolution wall-sized displays are becoming affordable and widespread throughout the design, education, business, and entertainment industries. Such displays offer new opportunities not only for technical large data visualization, but also for collaborative workspaces, such as a meeting room, a design studio. In such environment, a combination of multi-user input, new interaction techniques and applications for large displays is pressing. BayScope is aimed at exploring new techniques and applications with multiple user input to enhance interaction and collaboration between groups of people and a large wall-sized display in a collaborative workspace. In this paper, we first focus on four different interaction techniques to share and manipulate content on large displays by using mobile phones. We compare speed and accuracy of these techniques by gathering and analyzing data from a user study with ten participants. From the data, we find touchpad is the most appropriate interaction technique, so we choose touchpad as our primary technique for developing applications. Since the cost of developing new applications on large displays is high, we investigate how to adapt existing web applications without access to the applications’ source code. Our approach is to execute multiple copies of several existing applications in parallel and keep them synchronized, and they can be used by multiple users through touchpad interaction. Finally, we conduct a user study with ten participants to interact with our system. The evaluation result shows that it is convenient and efficient to use our system in a collaborative environment.},
+}
+EndNote citation:
+%0 Thesis
+%A Jin, Yun
+%T BayScope
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-148
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-148.html
+%F Jin:EECS-2012-148

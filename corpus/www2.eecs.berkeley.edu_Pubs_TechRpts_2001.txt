@@ -1,0 +1,79 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2001
+Technical Reports - 2001
+Scalable Robust Wide-area Architecture for Unified Communications  (CSD-01-1169) Jiahe Helen Wang
+Kernel Independent Component Analysis  (CSD-01-1166) Francis R. Bach and Michael I. Jordan
+Data Sharing Analysis for Titanium  (CSD-01-1165) Ben Liblit, Alex Aiken and Katherine Yelick
+Interactive Walkthrough Environments for Simulation  (CSD-01-1164) Richard William Bukowski
+Titanium Language Reference Manual  (CSD-01-1163) Paul N. Hilfinger, Dan Bonachea, David Gay, Susan Graham, Ben Liblit, Geoff Pike and Katherine Yelick
+Flow-Sensitive Type Qualifiers  (CSD-01-1162) Jeffrey S. Foster, Tachio Terauchi and Alex Aiken
+Maximum Entropy Probabilistic Logic  (CSD-01-1161) Mark A. Paskin
+Checking Programmer-Specified Non-Aliasing  (CSD-01-1160) Jeffrey S. Foster and Alex Aiken
+NFA-based Filtering for Efficient and Scalable XML Routing  (CSD-01-1159) Yanlei Diao, Hao Zhang and Michael J. Franklin
+A Scalable Framework for IP-Network Resource Provisioning Through Aggregation and Hierarchical Control  (CSD-01-1158) Chen-Nee Chuah
+Where Do Web Sites Come From? Capturing and Interacting With Design History  (CSD-01-1157) Scott R. Klemmer, Michael Thomsen, Ethan Phelps-Goodman, James A. Landay and Robert Lee
+State Abstraction for Programmable Reinforcement Learning Agents  (CSD-01-1156) David Andre and Stuart J. Russell
+Tapestry: An Efficient Mesh-based Display Representation for Interactive Rendering  (CSD-01-1153) Maryann Simmons
+SafeTP: Transparently Securing FTP Network Services  (CSD-01-1152) Dan Bonachea and Scott McPeak
+Characterizing the Internet Hierarchy from Multiple Vantage Points  (CSD-01-1151) Lakshminarayanan Subramanian, Sharad Agarwal, Jennifer Rexford and Randy H. Katz
+Quantifying Network Denial of Service: A Location Service Case Study  (CSD-01-1150) Yan Chen, Adam Bargteil, Randy H. Katz and John Kubiatowicz
+Harmonia: A Flexible Framework for Constructing Interactive Language-Based Programming Tools  (CSD-01-1149) Marat Boshernitsan
+Cubic-time Parsing and Learning Algorithms for Grammatical Bigram Models  (CSD-01-1148) Mark A. Paskin
+A Low Power 200 MHz Multiported Register File for the Vector-IRAM Chip  (CSD-01-1145) Iakovos Mavroidis
+Furies: A Scalable Framework for Traffic Policing and Admission Control  (CSD-01-1144) Chen-Nee Chuah, Lakshminarayanan Subramanian and Randy H. Katz
+Proof Optimization Using Lemma Extraction  (CSD-01-1143) S. P. Rahul and George C. Necula
+A Markov-Based Channel Model Algorithm for Wireless Networks  (CSD-01-1142) Almudena Konrad, Anthony D. Joseph, Reiner Ludwig and Ben Y. Zhao
+Tapestry: An Infrastructure for Fault-tolerant Wide-area Location and Routing  (CSD-01-1141) Ben Y. Zhao, John D. Kubiatowicz and Anthony D. Joseph
+Decoupled Query Optimization for Federated Database Systems  (CSD-01-1140) Amol V. Deshpande and Joseph M. Hellerstein
+Silverback: A Global-Scale Archival System  (CSD-01-1139) Hakim Weatherspoon, Chris Wells, Patrick R. Eaton, Ben Y. Zhao and John D. Kubiatowicz
+The Embedded Machine  (CSD-01-1137) Christoph Meyer Kirsch
+PACE: A New Approach to Dynamic Voltage Scaling  (CSD-01-1136) Jacob R. Lorch and Alan Jay Smith
+Dynamic Runtime Scheduler Support for SCORE  (CSD-01-1134) Michael Monkang Chu
+A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics  (CSD-01-1133) David R. Martin, Charless Fowlkes, Doron Tal and Jitendra Malik
+Towards Availability and Maintainability Benchmarks: a Case Study of Software RAID Systems  (CSD-01-1132) Aaron B. Brown
+Networking Protocols for Wireless Multimedia Streaming  (CSD-01-1131) Amoolya Singh
+Industrial and Economic Properties of Software: Technology, Processes, and Value  (CSD-01-1130) David G. Messerschmitt and Clemens Szyperski
+Fault-tolerant, Scalable, Wide-Area Internet Service Composition  (CSD-01-1129) Zhuoqing Morley Mao, Randy H. Katz and Eric A. Brewer
+Shape Matching and Object Recognition Using Shape Contexts  (CSD-01-1128) Serge J. Belongie, Jitendra Malik and Jan Puzicha
+Reducing the Energy Consumption of Group Driven Ad-hoc Wireless Communication  (CSD-01-1127) Sharad Agarwal, Randy H. Katz and Anthony D. Joseph
+Domain Decomposition Methods for the Electromagnetic Simulation of Scattering from Three-Dimensional Structures with Applications in Lithography  (M01/42) Konstantinos Adam
+Responsible Frameworks for Heterogeneous Modeling and Design of Embedded Systems  (M01/41) Jie Liu
+Equipment and process modeling and diagnostics in semiconductor manufacturing  (M01/40) Jiangxin Wang
+Propositional Satisfiability Algorithms in EDA Applications  (M01/39) Mukul Ranjan Prasad
+Nanofabrication Technologies and Novel Device Structures for Nanoscale CMOS  (M01/38) Yang Kyu Choi
+RF CMOS Class C Power Amplifiers for Wireless Communications  (M01/37) Ramakrishna S. Narayanaswami
+Adaptive calibration methods for an image-reject mixer  (M01/36) Isaac Sever
+Don't care computation in minimizing extended finite state machines with Presburger arithmetic  (M01/35) Yunjian Jiang and Robert K. Brayton
+Duality between source coding and channel coding with side information  (M01/34) S. Sandeep Pradhan, Jim Chou and Kannan Ramchandran
+The Semantics and Execution of a Synchronous Block-Diagram Language  (M01/33) Stephen A. Edwards and Edward A. Lee
+A new look at the generalized distributive law  (M01/32) Payam Pakzad and Venkat Anantharam
+Soft Walls - Modifying Flight Control Systems to Limit the Flight Space of Commercial Aircraft  (M01/31) Edward A. Lee
+Generalized pattern search algorithms with adaptive precision function evaluations  (M01/30) Elijah Polak and Michael Wetter
+Simulation tools for optical resist models STORM  (M01/29) Ebo Harry Croffie
+FLINT 2001, new directions in enhancing the power of the internet : proceedings of the 2001 BISC International Workshop on Fuzzy Logic and the Internet  (M01/28) Masoud Nikravesh, Ben Azvine and  BISC - Btexact Technology
+Punctured convolutional coding scheme for multi-carrier multi-antenna wireless systems  (M01/27) Christopher Lamont Taylor
+Embedded Software  (M01/26) Edward A. Lee
+Analysis and Design of Current-Commutating CMOS Mixers  (M01/25) Emmanouil T. Terrovitis
+Iterative construction of optimal signature sequences for CDMA  (M01/24) Pablo Anigstein and Venkat Anantharam
+Full profile chemical mechanical polishing (CMP) metrology  (M01/23) Runzi Chang
+The economic impact of metrology methods in semiconductor manufacturing  (M01/22) Payman Jula
+Complementary Silicide Thin-Body Silicon-on-Insulator CMOS Devices  (M01/21) Jakub T. Kedzierski
+The Simulation of Synchronous Reactive Systems in Ptolemy II  (M01/20) Paul Whitaker
+Electromagnetic Simulation and Modeling with Applications in Lithography  (M01/19) Thomas V. Pistor
+Design and verification of the aircraft conflict prediction and resolution algorithms  (M01/18) Arnab Nilim
+A Design Methodology for Highly-Integrated Low-Power Receivers for Wireless Communications  (M01/17) Dennis G.-W. Yee
+Low-Power Domain Specific Processors for Digital Signal Processing  (M01/16) Arthur Abnous
+Kinematics and dynamics of PHANToM model 1.5, haptic interface  (M01/15) Murat Cenk Cavusoglu and David Feygin
+Characterizing the sensitivity of scatterometry  (M01/14) Weng Loong Foong
+Energy-efficient processor system design  (M01/13) Thomas David Burd
+Ptolemy II : Heterogeneous Concurrent Modeling and Design in Java  (M01/12) John Davis II, Christopher Hylands, Bart Kienhuis, Edward A. Lee, Jie Liu, Xiaojun Liu, Lukito Muliadi, Steve Neuendorffer, Jeff Tsay, Brian Vogel and Yuhong Xiong
+Overview of the Ptolemy Project  (M01/11) Edward A. Lee, C. Hylands, J. Janneck, J. Davis II, J. Liu, X. Liu, S. Neuendorffer, S. Sachs M. Stewart, K. Vissers and P. Whitaker
+A Vision System for Landing an Unmanned Aerial Vehicle  (M01/10) Courtney S. Sharp
+Discrete-Time Dataflow Models for Visual Stimulation in Ptolemy II. A Vision System for Landing an Unmanned Aerial Vehicle  (M01/9) C. Fong and C. S. Sharp
+Distributed Observability of Regular Languages is Undecidable  (M01/8) S. Tripakis
+Algorithms for Routing with Multiple Constraints  (M01/7) A. Puri and S. Tripakis
+Report on the Software Architecture of PATHs Automated Vehicle Control  (M01/6) S. Tripakis
+Semiconductor Wafer Bonding and Ion-Cut Layer Transfer  (M01/5) C. Yun
+Microwave Cavity Perturbation Techniques to Measure Electron Density in Unstable Plasmas  (M01/4) T. Locsei
+(n,k) Source-Channel Erasure Codes: Can Parity Bits Also Refine Quality?  (M01/3) S. S. Pradhan, R. Puri and Kannan Ramchandran
+Multi-Valued Multi-level Logic Synthesis  (M01/2) M. Gao
+Effect of Ar Addition to an O2 Plasma in a Large Area Plasma Source: O2/Ar Mixture Plasma Modeling and Photoresist Etching  (M01/1) K. Takechi and Michael A. Lieberman

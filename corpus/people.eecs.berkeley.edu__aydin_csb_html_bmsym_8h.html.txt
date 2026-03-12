@@ -1,0 +1,154 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/bmsym_8h.html
+div class="ttc" id="class_spvec_html_a5f5a95a025823d1edb109a3e8dd745f2"> Spvec::~Spvec ~Spvec() Definition:   spvec.cpp:77
+Spvec::operator+= Spvec< T, ITYPE > & operator+=(const Matmul< Csc< T, ITYPE >, Spvec< T, ITYPE > > &matmul) Delayed evaluations using compositors for SpMV operation... y <- y + Ax.  Definition:   spvec.cpp:86
+Csc Definition:   csc.h:15
+BiCsb Definition:   bicsb.h:19
+Spvec::fillone void fillone() Definition:   spvec.h:31
+csc.h
+spvec.cpp
+matmul.h
+Spvec::size ITYPE size() const  Definition:   spvec.h:41
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6
+ass="tablist">
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+spvec.h
+Go to the documentation of this file.     1   #ifndef _SPVEC_H_
+2   #define _SPVEC_H_
+3
+4   #include " csc.h "
+5   #include " bicsb.h "
+6   #include " matmul.h "
+7   #include " Semirings.h "
+8
+9   template  < class  T,  class  ITYPE>
+10   class  Spvec
+11  {
+12   public :
+13       Spvec  (): n(0) {};
+14       Spvec  (ITYPE dim);
+15       Spvec  (T * darr, ITYPE dim);
+16       Spvec  ( const   Spvec<T,ITYPE>  & rhs);
+17       ~Spvec ();
+18       Spvec<T,ITYPE>  &  operator= ( const   Spvec<T, ITYPE>  & rhs);
+19
+20      T&  operator[]  ( const  ITYPE nIndex)
+21      {
+22           return  arr[nIndex];
+23      }
+24
+26       Spvec<T,ITYPE>  &  operator+= ( const  Matmul<  Csc<T, ITYPE> ,  Spvec<T,ITYPE>  > & matmul);
+27       Spvec<T,ITYPE>  &  operator+= ( const  Matmul<  BiCsb<T, ITYPE> ,  Spvec<T,ITYPE>  > & matmul);
+28
+29       void   fillzero ();
+30       void   fillrandom ();
+31       void   fillone ()
+32      {
+33          std::fill(arr,arr+n, static_cast<T>(1.0));
+34      }
+35       void   fillfota ()
+36      {
+37           for (ITYPE i =0; i<n; ++i)
+38              arr[i] = (i+1) *  static_cast< T > (1.0);
+39      }
+40
+41      ITYPE  size ()  const  {  return  n-padding;}  // return the real size
+42      T *  getarr (){  return  arr;}
+43
+44   private :
+45      T * arr;
+46      ITYPE n;
+47      ITYPE padding;
+48  };
+49
+50   #include " spvec.cpp "
+51   #endif
+52
+Spvec::fillfota void fillfota() Definition:   spvec.h:35
+Spvec::fillrandom void fillrandom() Definition:   spvec.cpp:117
+Spvec::operator[] T & operator[](const ITYPE nIndex) Definition:   spvec.h:20
+Semirings.h
+Spvec::operator= Spvec< T, ITYPE > & operator=(const Spvec< T, ITYPE > &rhs) Definition:   spvec.cpp:54
+bicsb.h
+Spvec::fillzero void fillzero() Definition:   spvec.cpp:135
+Spvec Definition:   spvec.h:10
+Spvec::getarr T * getarr() Definition:   spvec.h:42
+Spvec::Spvec Spvec() Definition:   spvec.h:13
+Spvec::~Spvec ~Spvec() Definition:   spvec.cpp:77
+Spvec::operator+= Spvec< T, ITYPE > & operator+=(const Matmul< Csc< T, ITYPE >, Spvec< T, ITYPE > > &matmul) Delayed evaluations using compositors for SpMV operation... y <- y + Ax.  Definition:   spvec.cpp:86
+Csc Definition:   csc.h:15
+BiCsb Definition:   bicsb.h:19
+Spvec::fillone void fillone() Definition:   spvec.h:31
+csc.h
+spvec.cpp
+matmul.h
+Spvec::size ITYPE size() const  Definition:   spvec.h:41
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6
+ass="tablist">
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+spvec.h
+Go to the documentation of this file.     1   #ifndef _SPVEC_H_
+2   #define _SPVEC_H_
+3
+4   #include " csc.h "
+5   #include " bicsb.h "
+6   #include " matmul.h "
+7   #include " Semirings.h "
+8
+9   template  < class  T,  class  ITYPE>
+10   class  Spvec
+11  {
+12   public :
+13       Spvec  (): n(0) {};
+14       Spvec  (ITYPE dim);
+15       Spvec  (T * darr, ITYPE dim);
+16       Spvec  ( const   Spvec<T,ITYPE>  & rhs);
+17       ~Spvec ();
+18       Spvec<T,ITYPE>  &  operator= ( const   Spvec<T, ITYPE>  & rhs);
+19
+20      T&  operator[]  ( const  ITYPE nIndex)
+21      {
+22           return  arr[nIndex];
+23      }
+24
+26       Spvec<T,ITYPE>  &  operator+= ( const  Matmul<  Csc<T, ITYPE> ,  Spvec<T,ITYPE>  > & matmul);
+27       Spvec<T,ITYPE>  &  operator+= ( const  Matmul<  BiCsb<T, ITYPE> ,  Spvec<T,ITYPE>  > & matmul);
+28
+29       void   fillzero ();
+30       void   fillrandom ();
+31       void   fillone ()
+32      {
+33          std::fill(arr,arr+n, static_cast<T>(1.0));
+34      }
+35       void   fillfota ()
+36      {
+37           for (ITYPE i =0; i<n; ++i)
+38              arr[i] = (i+1) *  static_cast< T > (1.0);
+39      }
+40
+41      ITYPE  size ()  const  {  return  n-padding;}  // return the real size
+42      T *  getarr (){  return  arr;}
+43
+44   private :
+45      T * arr;
+46      ITYPE n;
+47      ITYPE padding;
+48  };
+49
+50   #include " spvec.cpp "
+51   #endif
+52
+Spvec::fillfota void fillfota() Definition:   spvec.h:35
+Spvec::fillrandom void fillrandom() Definition:   spvec.cpp:117
+Spvec::operator[] T & operator[](const ITYPE nIndex) Definition:   spvec.h:20
+Semirings.h
+Spvec::operator= Spvec< T, ITYPE > & operator=(const Spvec< T, ITYPE > &rhs) Definition:   spvec.cpp:54
+bicsb.h
+Spvec::fillzero void fillzero() Definition:   spvec.cpp:135
+Spvec Definition:   spvec.h:10
+<a href="class_spvec.html#a291bc9cb565548ceb94bf9095d115

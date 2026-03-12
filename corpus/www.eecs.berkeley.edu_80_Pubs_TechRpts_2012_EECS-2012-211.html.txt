@@ -1,0 +1,48 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-211.html
+A Million Cancer Genome Warehouse
+David Haussler and David A. Patterson and Mark Diekhans and Armando Fox and Michael Jordan and Anthony D. Joseph and Singer Ma and Benedict Paten and Scott Shenker and Taylor Sittler and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-211
+November 20,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.pdf
+Technology advances will soon enable us to sequence a person’s genome for less than $1,000, which will lead to an exponential increase in the number of sequenced genomes. The potential of this advance is blunted unless this information is associated with patient clinical data, collected together, and made available in a form that researchers can use. Indeed, a recent US National Academy of Sciences study highlighted the creation of a large-scale information commons for biomedical research including DNA and related molecular information as a national priority in biomedicine, leading to a new era of “Precision Medicine.” Based on the current trajectory, the genomic warehouse will be the heart of the information commons. To create it requires cooperation from a wide range of stakeholders and experts: patients, physicians, clinics, payers, biomedical researchers, computer scientists, and social scientists. Here we focus on the technological issues in building a genomic warehouse.
+We focus on cancer in part because it is the most complex form of genetic data for a genome warehouse--setting a high water mark in terms of design requirements--but also because it represents the most acute need and opportunity in genome-based precision medicine today.
+This whitepaper shows that it is now technically possible to reliably store and analyze 1 million genomes and related clinical and pathological data, which would match the demand for 2014. Moreover, thanks to advances in cloud computing, it is surprisingly affordable: multiple estimates agree on a technology cost of about $25 a year per genome.
+While the focus is on technology, to be thorough, this whitepaper touches on high-level policy issues as well as low-level details about statistics and the price of computer memory to cover the scope of the issues that a million cancer genome warehouse raises.
+BibTeX citation:
+@techreport{Haussler:EECS-2012-211,
+Author= {Haussler, David and Patterson, David A. and Diekhans, Mark and Fox, Armando and Jordan, Michael and Joseph, Anthony D. and Ma, Singer and Paten, Benedict and Shenker, Scott and Sittler, Taylor and Stoica, Ion},
+Title= {A Million Cancer Genome Warehouse},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html},
+Number= {UCB/EECS-2012-211},
+Abstract= {Technology advances will soon enable us to sequence a person’s genome for less than $1,000, which will lead to an exponential increase in the number of sequenced genomes. The potential of this advance is blunted unless this information is associated with patient clinical data, collected together, and made available in a form that researchers can use. Indeed, a recent US National Academy of Sciences study highlighted the creation of a large-scale information commons for biomedical research including DNA and related molecular information as a national priority in biomedicine, leading to a new era of “Precision Medicine.” Based on the current trajectory, the genomic warehouse will be the heart of the information commons. To create it requires cooperation from a wide range of stakeholders and experts: patients, physicians, clinics, payers, biomedical researchers, computer scientists, and social scientists. Here we focus on the technological issues in building a genomic warehouse.
+<p>
+We focus on cancer in part because it is the most complex form of genetic data for a genome warehouse--setting a high water mark in terms of design requirements--but also because it represents the most acute need and opportunity in genome-based precision medicine today.
+<p>
+This whitepaper shows that it is now technically possible to reliably store and analyze 1 million genomes and related clinical and pathological data, which would match the demand for 2014. Moreover, thanks to advances in cloud computing, it is surprisingly affordable: multiple estimates agree on a technology cost of about $25 a year per genome.
+<p>
+While the focus is on technology, to be thorough, this whitepaper touches on high-level policy issues as well as low-level details about statistics and the price of computer memory to cover the scope of the issues that a million cancer genome warehouse raises.},
+}
+EndNote citation:
+%0 Report
+%A Haussler, David
+%A Patterson, David A.
+%A Diekhans, Mark
+%A Fox, Armando
+%A Jordan, Michael
+%A Joseph, Anthony D.
+%A Ma, Singer
+%A Paten, Benedict
+%A Shenker, Scott
+%A Sittler, Taylor
+%A Stoica, Ion
+%T A Million Cancer Genome Warehouse
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 20
+%@ UCB/EECS-2012-211
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-211.html
+%F Haussler:EECS-2012-211

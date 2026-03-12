@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-81.html
+Advanced Relay Design and Technology for Energy-Efficient Electronics
+Jaeseok Jeon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-81
+July 7,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-81.pdf
+As the era of traditional Complementary-Metal-Oxide-Semiconductor (CMOS) technology scaling is coming to an end, continual improvements in integrated-circuit (IC) performance and cost per function are becoming difficult to achieve without increasing power density. This necessitates the investigation of alternate device technologies that surmount the fundamental CMOS energy-efficiency limit and hence enable ultra-low-power ICs. To that end, a nano-electro-mechanical (NEM) relay technology is promising, because of its immeasurably low off-state leakage current and abrupt turn-on behavior, which provide for zero static power consumption and potentially very low dynamic power consumption. In this dissertation, relay design and process technology improvements, which led to the successful demonstration of relay-based digital IC building blocks, are discussed from both device- and circuit-level perspectives. A non-volatile (NV) memory relay design that can enable embedding of NV memory with relay-based logic circuits is also discussed. In addition, multi-electrode relays that can lead to smarter design and compact implementation of zero-leakage digital integrated circuits are discussed.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Jeon:EECS-2011-81,
+Author= {Jeon, Jaeseok},
+Title= {Advanced Relay Design and Technology for Energy-Efficient Electronics},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-81.html},
+Number= {UCB/EECS-2011-81},
+Abstract= {As the era of traditional Complementary-Metal-Oxide-Semiconductor (CMOS) technology scaling is coming to an end, continual improvements in integrated-circuit (IC) performance and cost per function are becoming difficult to achieve without increasing power density. This necessitates the investigation of alternate device technologies that surmount the fundamental CMOS energy-efficiency limit and hence enable ultra-low-power ICs. To that end, a nano-electro-mechanical (NEM) relay technology is promising, because of its immeasurably low off-state leakage current and abrupt turn-on behavior, which provide for zero static power consumption and potentially very low dynamic power consumption. In this dissertation, relay design and process technology improvements, which led to the successful demonstration of relay-based digital IC building blocks, are discussed from both device- and circuit-level perspectives. A non-volatile (NV) memory relay design that can enable embedding of NV memory with relay-based logic circuits is also discussed. In addition, multi-electrode relays that can lead to smarter design and compact implementation of zero-leakage digital integrated circuits are discussed.},
+}
+EndNote citation:
+%0 Thesis
+%A Jeon, Jaeseok
+%T Advanced Relay Design and Technology for Energy-Efficient Electronics
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 7
+%@ UCB/EECS-2011-81
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-81.html
+%F Jeon:EECS-2011-81

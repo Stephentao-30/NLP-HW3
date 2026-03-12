@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/29361.html
+The Design and Implementation of an Ultra Low Power RF Oscillator Using Micromachined Resonators
+Brian P. Otis
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M02/32
+, 2002
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/ERL-02-32.pdf
+BibTeX citation:
+@techreport{Otis:M02/32,
+Author= {Otis, Brian P.},
+Title= {The Design and Implementation of an Ultra Low Power RF Oscillator Using Micromachined Resonators},
+Year= {2002},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/29361.html},
+Number= {UCB/ERL M02/32},
+}
+EndNote citation:
+%0 Report
+%A Otis, Brian P.
+%T The Design and Implementation of an Ultra Low Power RF Oscillator Using Micromachined Resonators
+%I EECS Department, University of California, Berkeley
+%D 2002
+%@ UCB/ERL M02/32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/29361.html
+%F Otis:M02/32

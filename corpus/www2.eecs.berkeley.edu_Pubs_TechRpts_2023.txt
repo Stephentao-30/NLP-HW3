@@ -1,0 +1,229 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023
+Technical Reports - 2023
+Ethos: Designing Algorithmic Mechanisms for Increased Fairness, Stakeholder Empowerment, and Systemic Accountability  (EECS-2023-294) Liya Mulugeta
+Optimization-Based Mappers and Lower Bounds for Tensor Problems  (EECS-2023-293) Grace Dinh
+Improved Interior Point Methods for Some Structured Combinatorial Problems  (EECS-2023-292) Tarun Kathuria
+Designing for Reliability in Algorithmic Systems  (EECS-2023-289) Samantha Robertson
+Gaussian Entropy Inequalities  (EECS-2023-288) Efe Aras
+Transformers on Dynamical Systems - An Exploration of In-context Learning  (EECS-2023-287) Saagar Sanghavi
+A Modular Design Flow for NoC-embedded FPGAs  (EECS-2023-284) Tan Nguyen
+Perceiving People over Long Periods: Algorithms, Architectures & Datasets  (EECS-2023-282) Karttikeya Mangalam
+Optimized Receive Frontend Hardware for Magnetic Particle Imaging, Characterization Tools, and Biosensors  (EECS-2023-281) Quincy Huynh
+Vision-Based Deep Reinforcement Learning for Autonomous Drone Flight  (EECS-2023-280) Varun Saran and Avideh Zakhor
+High-Performance Grid-Tied Single-Phase Power Converter Design with Applications in Electric Vehicle Charging and Residential Photovoltaic Systems  (EECS-2023-279) Kelly Fernandez
+Switching Schemes for Hybrid Switched-Capacitor DC-DC Power Converters  (EECS-2023-276) Maggie Blackwell
+An Integrated Circuit Design Framework for Human, Computer, and ML Designers  (EECS-2023-275) Dan Fritchman
+Efficient Resource Management for Machine Learning  (EECS-2023-273) Romil Bhardwaj
+Phonon-protected superconducting qubits  (EECS-2023-269) Mutasem Odeh
+A Deserialization Architecture for GC Languages  (EECS-2023-268) Ethan Wu and Viansa Schmulbach
+Algorithm Design for Safe and Efficient Societal-Scale Navigation  (EECS-2023-267) Chih-Yuan Chiu
+Implicit Modeling for 3D Applications  (EECS-2023-266) Shizhan Zhu
+Simplicial Reaction Networks and Dynamics on Graphs  (EECS-2023-265) Rachel Lawrence
+Toward Usable Programming Systems for Geospatial Analysis and Visualization  (EECS-2023-264) Parker Ziegler
+Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning  (EECS-2023-263) Ritwik Gupta, Colorado Reed, Shufan Li, Sarah Brockman, Christopher Funk, Brian Clipp, Kurt Keutzer, Salvatore Candido, Matt Uyttendaele and Trevor Darrell
+Integrated Low-Power Wireless Systems for the Next Generation of IoT, Sensors and Microrobots  (EECS-2023-262) Alex Moreno
+Learned Formal Proof Strengthening for Efficient Hardware Verification  (EECS-2023-260) Minwoo Kang, Azade Nova, Eshan Singh, Geetheeka Sharron Bathini and Yuriy Viktorov
+Recent Developments in Robust Statistics  (EECS-2023-259) Yeshwanth Cherapanamjeri
+Generating Optimal Molecules with Synthesizability and 3D Equivariant Conformational Constraints  (EECS-2023-257)
+Enabling Non-Experts to Develop Distributed Trust Applications  (EECS-2023-256) Nicholas Ngai
+High-Fidelity 3D Mesh Reconstruction of Humans and Objects  (EECS-2023-254) Shubham Goel
+Sparsity-aware communication for distributed graph neural network training  (EECS-2023-253) Ujjaini Mukhopadhyay
+Text-to-Image Model for Protein Localization Prediction  (EECS-2023-251) Emaad Khwaja
+Wearable Humidity Sensor for Continuous Sweat Rate Monitoring  (EECS-2023-250) Ashwin Aggarwal, Manik Dautta, Luis Fernando Ayala-Cardona, Aalaya Wudaru and Ali Javey
+DreamSheets: Spreadsheets as Exploratory User Interface for Text-To-Image Models  (EECS-2023-248) Frederick Kim, J.D. Zamfirescu-Pereira and Shm Almeda
+Quantifying Stablecoin Stability and Decentralized Autonomous Organization (DAO) Autonomy  (EECS-2023-247) Kornrapat Pongmala
+On Problem Specification and Self-Referential Claims  (EECS-2023-246) Michael Dennis
+Distributional Interpretation of Control Strategies for a Multiplicative Observation Noise System  (EECS-2023-245) Moses Won
+Neural Prosthetic with In-sensor Shared Control  (EECS-2023-244) Alisha Menon
+Robot Planning and Execution with Unreliable Models  (EECS-2023-243) Ellis Ratner
+Leveraging Speaker Context for Natural Language Processing  (EECS-2023-242) Samee Ibraheem
+Fully Integrated Electronic-Biophotonic System-on-Chip for Real-Time Label-Free Molecular Sensing  (EECS-2023-241) Christos Adamopoulos
+Sensing Systems Using Large Area Printed Organic Electronics  (EECS-2023-240) Mahsa Sadeghi and Ana Claudia Arias
+The perpetual motion machine of AI-generated data and the distraction of “ChatGPT as scientist”  (EECS-2023-239) Jennifer Listgarten
+Ordering Interventions for Hardware Security  (EECS-2023-238) Viansa Schmulbach
+Sequential Self-assembly of DNA-based Nanoscale Platform for the Fabrication of Nanophotonics  (EECS-2023-237) Myoungseok Kim and Grigory Tikhomirov
+Hardness of Approximation for 2 → 4 Norms through Quantum Reductions  (EECS-2023-236) Rohit Agarwal, Axel Li, Anthony Maltsev and Anirba Sarkar
+Packed Memory Arrays for Dynamic Graphs in the Distributed Memory Setting  (EECS-2023-235) Rohit Agarwal, Alec James and Joshua You
+The Unprecedented Risks and Opportunities of Extended Reality Motion Data  (EECS-2023-232) Vivek Nair
+Human-Centric Reward Design  (EECS-2023-231) Yu Qing Du
+Specifying and Generating Abstract Models for Formal Security Analysis  (EECS-2023-230) Adwait Godbole, Kevin Cheang, Yatin Manerkar and Sanjit A. Seshia
+Constrained machine learning: algorithms and models  (EECS-2023-229) Geoffrey Negiar
+Scheduling Image Processing Algorithms in Halide for x86, AVX and RISC-V RVV Targets  (EECS-2023-228) Sonali Naphade
+Precise Pulse Discrimination for Space-Based Timing Front Ends  (EECS-2023-227) Lydia Lee
+Synthesizing Complex-Valued MRI data from Magnitude-Only Images  (EECS-2023-225) nikhil deveshwar
+Formal Specification and Verification of Secure Information Flow for Hardware Platforms  (EECS-2023-224) Kevin Cheang
+Reinforcement Learning from Static Datasets: Algorithms, Analysis, and Applications  (EECS-2023-223) Aviral Kumar
+Accelerating Electronic Structure Calculations with Machine Learning  (EECS-2023-222) Daniel Rothchild, Aditi Krishnapriyan and Joseph Gonzalez
+CS 375: A Climate-First Approach to Training Student Teaching Assistants  (EECS-2023-221) Victor Huang
+Instance-dependent Optimality in Statistical Decision-making  (EECS-2023-220) Wenlong Mou
+Offline Data-Driven Optimization: Benchmarks, Algorithms and Applications  (EECS-2023-219) Xinyang Geng
+Hybrid Switched-Capacitor Converter Design: State-Space Dynamical Modeling and Passive Device Characterization  (EECS-2023-218) Nathan Brooks and Robert Pilawa-Podgurski
+Exploratory Design and Control of an Over-Actuated Drone  (EECS-2023-217) Riddhi Bagadiaa
+Feedforward MLSE Equalization for High Speed Serial Links  (EECS-2023-215) Paul Kwon
+Simulation-Based Testing, Validation, and Training with Probabilistic Programming  (EECS-2023-214) Edward Kim
+Design Methodologies and Automated Generation of Ultra High Speed Wireline SerDes Transmitters  (EECS-2023-213) Ayan Biswas
+Efficient Clustering Frameworks for Federated Learning Systems  (EECS-2023-212) Jichan Chung, Avishek Ghosh, Dong Yin, Kangwook Lee and Kannan Ramchandran
+Towards Operating Underactuated Robotic Systems by Going With the Flow  (EECS-2023-211) Marius Wiggert
+Geometry of Local-spectral Expanders  (EECS-2023-210) Siqi Liu
+Enhancing Visual Media Through Reflection and Recomposition  (EECS-2023-209) Jeremy Warner
+Contributions to the Statistical Foundation of Data-Driven Control  (EECS-2023-207) Alex Devonport
+Multimodal Long-Term Video Understanding  (EECS-2023-206) Medhini Gulganjalli Narasimhan
+Rapid Adaptation for Robot Control  (EECS-2023-205) Ashish Kumar
+Compositional Proofs of Information Flow Properties for Hardware-Software Platforms  (EECS-2023-204) Kevin Cheang, Adwait Godbole, Yatin A. Manerkar and Sanjit A. Seshia
+Evaluating and Optimizing Distributed Energy Resources  (EECS-2023-203) Utkarsha Agwan
+Vision and Language Understanding Through Generative Modeling  (EECS-2023-202) SETH PARK
+Phase Transitions in Inference  (EECS-2023-201) Sidhanth Mohanty
+Aligning Robot Representations with Humans  (EECS-2023-200) Andreea Bobu
+Data-Centric Machine Learning for Human-Centric Applications  (EECS-2023-198) Hari Prasanna Das
+Algorithms for Suture Placement and Seed Placement: Planar Geometric Optimization for Surgery and Agriculture  (EECS-2023-196) Varun Kamat
+Five Field Kono Solver: Simplicity Brought to Solving Complexity  (EECS-2023-195) Andrew Lee
+Rethinking System Design for Expressive Cryptography  (EECS-2023-194) Sam Kumar
+Scalable Binding  (EECS-2023-192) Allan Jabri
+Toward Trustworthy Scientific Inquiry and Design with Machine Learning  (EECS-2023-191) Clara Wong-Fannjiang
+Deep Generative Models for Decision-Making and Control  (EECS-2023-190) Michael Janner
+Scalable Representations for Vision and Robotics  (EECS-2023-189) Tete Xiao
+Towards Practical SQL Equivalence Reasoning  (EECS-2023-188) Shuxian Wang
+Perception Stack for Indy Autonomous Challenge and Reinforcement Learning in Simulation Autonomous Racing  (EECS-2023-187) Tianlun Zhang
+Techniques for Solving and Visualizing Large Games  (EECS-2023-186) Cameron Cheung
+Towards Enabling Deployment of Lingua Franca on Distributed Embedded Devices  (EECS-2023-185) Anirudh Rengarajan
+Cloudless and Mixclaves  (EECS-2023-184) Vikranth Srivatsa
+Enhancing GAN-based Vocoders with Contrastive Learning  (EECS-2023-183) Haoming Guo, Gerald Friedland and Gopala Krishna Anumanchipalli
+Improve Model Inference Cost with Image Gridding  (EECS-2023-182) Shreyas Krishnaswamy
+Towards Robust and Scalable Large Language Models  (EECS-2023-180) Paras Jain
+Going Beyond Hyperscaler Clouds in the Sky Ecosystem with SkyPilot  (EECS-2023-179) Edward Zeng
+Magnetic Resonance Image Reconstruction with Greater Fidelity and Efficiency  (EECS-2023-178) Ke Wang
+Computer Science at UC Berkeley: The Consequences and Considerations of Running Courses at Scale  (EECS-2023-177) Alex Schedel
+Pretrained Representations for Embodied AI  (EECS-2023-176) Sasha Sax
+Modeling EOL Degradation for NBTI Reliability of Low EOT Negative Capacitance p-SOI MOSFETs  (EECS-2023-175) Neeraj Shenoy
+Neural Software Abstractions  (EECS-2023-172) Michael Chang
+HOLMES: Efficient Distribution Testing for Secure Collaborative Learning  (EECS-2023-171) Ian Chang, Katerina Sotiraki, Weikeng Chen, Murat Kantarcioglu and Raluca Ada Popa
+Enhancing NLP Model Performance Through Data Filtering  (EECS-2023-170) Sibo Ma
+Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone  (EECS-2023-169) Katie Lamar
+An Architectural Power Model for Networks on Chip  (EECS-2023-168) Animesh Agrawal
+Smash: A Dictionary-Free String Distance Metric that Considers Acronyms, Abbreviations, and Typos  (EECS-2023-167) Joshua Wu
+Improving Parking Lot Efficiency through Autonomous Control and Assignment Strategies: A Microscopic Traffic Simulation Analysis  (EECS-2023-166) Alex Wong
+Liberating the Siloed Gateway: Application-Agnostic Connectivity and Interaction for the Internet of Things  (EECS-2023-165) Thomas Zachariah
+Discussion-like Lab Sections for the UC Berkeley CS61C: Great Ideas in Computer Architecture Course  (EECS-2023-164) Connor (Cece) McMahon
+Transferable Generative Models  (EECS-2023-161) Ajay Jain
+Sequential Decision Making under Uncertainty: Optimality Guarantees, Compositional Learning, and Applications to Robotics and Ecology  (EECS-2023-160) Michael Lim
+Pulsed Electroluminescent Devices for Emission Across Energy and Length Scales  (EECS-2023-158) Vivian Wang
+Exploring the Encoding Scheme of the Brain by Generating Images on Axes in a Common Space  (EECS-2023-157) Jackson Gao
+An Investigation of Gender Bias in Pair Programming  (EECS-2023-155) Asli Akalin
+Control and Simulation of Power Electronic Dominated Power Systems  (EECS-2023-154) Ciaran Roberts
+Scaling Part Models: Challenges and Solutions for Robustness on Large Datasets  (EECS-2023-153) Nabeel Hingun
+Safe and Efficient Robot Learning by Biasing Exploration Towards Expert Demonstrations  (EECS-2023-152) Albert Wilcox
+Autograding in CS 61B  (EECS-2023-151) Ethan Ordentlich
+Towards Efficient and Robust Out-of-Distribution Deep Learning with Implicit Models  (EECS-2023-150) Ashwin Ganesh
+On Imitating Proprietary Language Models  (EECS-2023-149) Arnav Gudibande
+Treating Models Better for Language-agnostic Understanding  (EECS-2023-148) Brian Yu
+Bridging the Gap between Humans and Machines in 3D Object Perception  (EECS-2023-147) Jasmine Collins
+Embeddings for Optimization Modulo Theories Learned by Graph Neural Network Guided Solvers are Robust to Logical Space Perturbations  (EECS-2023-143) Chirag Sharma
+Implementation of an Open-Source Generator for LPDDR4X Memory Controller  (EECS-2023-142) Reza Sajadiany
+Exploring the Limits of Small Language Models  (EECS-2023-141) Nicholas Lee, Kurt Keutzer and Gopala Krishna Anumanchipalli
+Contrastive Learning for Combinatorial Optimization  (EECS-2023-140) Mohamed Elgharbawy
+Ising Machines: Theory and Practice  (EECS-2023-138) Naomi Sagan and Jaijeet Roychowdhury
+A Composable Mixed-Signal Generator Framework with Applications to an SRAM Compiler  (EECS-2023-137) Rahul Kumar
+An Exploration into 3D Generative Models with Nerfstudio  (EECS-2023-132) Terrance Wang
+Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts  (EECS-2023-130) Han Cui
+Probabilistic State Estimation to Enable Manipulation and Interactive Perception for Robotic Cable Untangling and Object Search  (EECS-2023-129) Kaushik Shivakumar and Ken Goldberg
+Object and Scene Reconstruction using Neural Radiance Fields  (EECS-2023-128) Matthew Tancik
+ShengJi+: Playing Tractor with Deep Reinforcement Learning  (EECS-2023-127) Jerry Shan
+Layerwise Training of Deep Neural Networks  (EECS-2023-126) Elicia Ye, Tianyu Pang, Alex Zhao, Yefan Zhou, Yaoqing Yang, Michael Mahoney and Kannan Ramchandran
+Query Aware Synthetic Data Generation  (EECS-2023-124) Zoey Sun
+Perception for Real-World Robotic Applications  (EECS-2023-122) YuXuan Liu and Pieter Abbeel
+AlphaGarden: Leveraging Simulation in Developing an Autonomous Real-Sim-Real Pipeline for Polyculture Gardening  (EECS-2023-120) Rishi Parikh
+Learned Token Pruning for Efficient Transformer Inference  (EECS-2023-119) Sehoon Kim, Sheng Shen, David Thorsley, Amir Gholami, Woosuk Kwon, Joseph Hassoun and Kurt Keutzer
+LoopNeRF: Exploring Temporal Compression for 3D Video Textures  (EECS-2023-118) Alexander Kristoffersen
+Flextensions: Exploring the Impact of Flexible Extensions  (EECS-2023-117) Fuzail Shakir
+Efficient Visualization Recommendation under Updates  (EECS-2023-116) Todd Yu
+Toward Platform-based Building Design  (EECS-2023-111) Wendy Lin
+STraP: Self-Training for Proteins  (EECS-2023-110) Arbaaz Muslim and Nilah Ioannidis
+Codon Usage Bias Regulates the Dynamics of Protein Translation  (EECS-2023-109) Frank Liu, Yun S. Song, Dasheng Bi, Daniel Erdmann-Pham and Sanjit Batra
+Generative Models of Images and Neural Networks  (EECS-2023-108) Bill Peebles
+Autonomous Learning for Industrial Manipulation: Enhancing Grasping and Insertion Tasks through Scalable Data Collection  (EECS-2023-107) Letian Fu
+Recent Advances in Urban Mobility: Analyzing Efficiency, Equity and Safety  (EECS-2023-106) Akhil Shetty
+Making Reversible Transformers Accurate, Efficient, and Fast  (EECS-2023-104) Tyler Zhu
+Ashera; Neural Guided Optimization Modulo Theory  (EECS-2023-103) Justin Wong, Pei-Wei Chen, Tianjun Zhang, Joseph Gonzalez, Yuandong Tian and Sanjit A. Seshia
+Conservative Objective Models for Biological Sequence Design  (EECS-2023-102) Sathvik Kolli
+Active Reinforcement Learning for Robust Building Control  (EECS-2023-101) Austin Jang
+Generative Models for Image and Long Video Synthesis  (EECS-2023-100) Tim Brooks
+Benchmarks for RL on Goal-directed Language Tasks with LLMs  (EECS-2023-98) Charles Sun
+Novel Non-Volatile Memory Devices and Applications  (EECS-2023-97) Tsegereda Esatu
+Investigating Training Dynamics of Transformer Models on Algorithmically Generated In-Context Learning Datasets  (EECS-2023-96) Harry Zhao
+Generalizing Perception Systems Applied to Untangling Long Cables  (EECS-2023-95) Vainavi Viswanath
+A Predator-Prey Perspective on the Tumor Microbiome  (EECS-2023-94) Michael Lam
+Hardware Software Co-design and Architectural Optimization of Deep Learning Models for Natural Language Processing  (EECS-2023-92) Thanakul Wattanawong and Kurt Keutzer
+Mapspace Optimization for Tensor Computations with Bayesian Learning  (EECS-2023-91) J V Iniyaal Kannan
+Solving Ising Model Optimization Problems with Restricted Boltzmann Machines on Google Tensor Processing Units (TPUs)  (EECS-2023-90) Kaitlyn Chan
+Perceptive Hexapod Legged Locomotion for Climbing Joist Environments  (EECS-2023-89) Zixian Zang and Avideh Zakhor
+Robust Machine Learning for the Control of Real-world Robotic Systems  (EECS-2023-88) Tyler Westenbroek
+Geometry-Inspired Sampling Algorithms and Random Graphs  (EECS-2023-87) Elizabeth Yang
+Test-Time Training  (EECS-2023-86) Yu Sun
+Leveraging Machine Learning for Quantum Circuit Optimization  (EECS-2023-84) Mathias Weiden
+Performance and comparison of current sequence-based models on individual gene expression prediction  (EECS-2023-83) Connie Huang
+Exploring alternative designs for a computational hyperspectral imager for microscopy  (EECS-2023-82) Yashovardhan Raniwala
+Co-Designing for Transparency: Lessons from Building a Document Organization Tool for the Criminal Justice Domain  (EECS-2023-81) Hellina Hailu Nigatu, Lisa Pickoff-White, John F. Canny and Sarah Chasins
+Performative Prediction: Theory and Practice  (EECS-2023-80) Juan Perdomo
+High Performance Hybrid Switched-Capacitor Converters for Aerospace Applications  (EECS-2023-79) Sam Coday and Robert Pilawa-Podgurski
+Similarity-Based Representation Learning  (EECS-2023-78) Yi Liu, Andreea Bobu and Anca Dragan
+Deformation in Robotics: Applications in Tactile Sensing and Grasp Planning  (EECS-2023-76) Isabella Huang
+Learning Low-Dimensional Structure via Closed-Loop Transcription: Equilibria and Optimization  (EECS-2023-74) Druv Pai
+Learning to Design Protein and DNA Libraries  (EECS-2023-73) Akosua Busia
+Preliminary Studies on Defending Image Adversarial Attacks with Domain Adaptation Algorithms  (EECS-2023-72) Zheng Zhang
+Structure-Driven Algorithm Design in Optimization and Machine Learning  (EECS-2023-71) Tianyi Lin
+Dropout Reduces Underfitting  (EECS-2023-70) Oscar Xu
+Mixclave Networks: Building Mixnets with Hardware Enclaves  (EECS-2023-67) Mark Theis
+Amorphous Pt 1-x Ge x for Spintronics Applications: Growth and Characterization  (EECS-2023-66) Megumi Tanaka
+Prediction and Statistical Inference in Feedback Loops  (EECS-2023-65) Tijana Zrnic
+AI Safety: Model Trojaning and Benchmarking  (EECS-2023-64) Akul Arora
+Photorealistic Reconstruction from First Principles  (EECS-2023-63) Sara Fridovich-Keil
+IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies  (EECS-2023-62) Philippe Hansen-Estruch, Ilya Kostrikov, Michael Janner, Kuba Grudzien and Sergey Levine
+VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models  (EECS-2023-61) Amber Xie, Ajay Jain and Pieter Abbeel
+Hydrogel Actuated Carbon Fiber Microelectrode Array  (EECS-2023-59) Oliver Chen
+Computational methods for regulating transcription and translation  (EECS-2023-58) Sanjit Batra
+Printed Biodegradable Wireless Soil Nitrate Sensor Nodes  (EECS-2023-57) Carol Baumbauer
+Ear EEG: Sensors and Systems for User-generic Neural Hearables  (EECS-2023-56) Ryan Kaveh
+Optical Voltage Sensing: Micro- to Kilo-Scale  (EECS-2023-55) Jordan Edmunds
+Generic architectures for efficient Hyper-Dimensional Computing  (EECS-2023-54) Sohum Datta
+The impact of information-aware routing on road traffic  (EECS-2023-52) Theophile Cabannes
+A Two-regime Model Of Network Pruning: Metrics And Scaling Laws  (EECS-2023-51) Yefan Zhou, Steven Gunarso, Chen Wang, Yaoqing Yang and Michael Mahoney
+Passive Radio Frequency Beamformer Using Transmission-Line Transformers And Tunable Capacitors  (EECS-2023-50) Matthew Anderson, Ali Niknejad and Jan M. Rabaey
+GeneDrive.jl: A Julian Approach to Simulating Biological Dynamics and Control  (EECS-2023-49) Valeri Vasquez, Murat Arcak and David Anthoff
+Diversity in Dialogue Generation  (EECS-2023-48) Katherine Stasaski
+High Speed Software Radio on General Purpose CPUs  (EECS-2023-47) Christopher Yarp
+Intensity Based Visualization of Pulmonary Biomarkers on Ultrashort Echo Time (UTE) MRI  (EECS-2023-46) Darren Hsu
+Multiphoton Magnetic Resonance Imaging  (EECS-2023-45) Victor Han
+Scaling Phased Array Receivers to Massive MIMO and Wide Bandwidth with Analog Baseband Beamforming  (EECS-2023-44) Emily Naviasky
+Understanding Radiative Recombination in Two Dimensional Semiconductors  (EECS-2023-42) Shiekh Zia Uddin
+Analog Optical Links: Modeling and Implementation  (EECS-2023-41) Sidney Buchbinder
+Millimeter-Wave Receiver and Package Design Close to the Device Activity Limits  (EECS-2023-40) Nima Baniasadi
+Modeling, Designing, and Measuring EUV Photomasks  (EECS-2023-37) Stuart Sherwin
+Analog Generators for SerDes Clock Generation and Distribution  (EECS-2023-36) Zhongkai Wang and Elad Alon
+Realization of a Fully Integrated Electronic-Photonic Sensor-Receiver Array for Endoscopic Ultrasound  (EECS-2023-35) Panagiotis Zarkos
+Ansor: Generating High-Performance Tensor Programs for Deep Learning  (EECS-2023-34) Lianmin Zheng, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Yu, Ali Ameri, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph Gonzalez and Ion Stoica
+Optical Meta-structures for Exceptional Points, Bound States in the Continuum, and Polarization Control  (EECS-2023-33) Haoye Qin
+Optical Beamforming Techniques for Solid-State Automotive LIDAR  (EECS-2023-30) Pavan Bhargava
+Smart and Robust Biomedical Interfaces  (EECS-2023-29) Andy Zhou
+An Implantable Radiation Detector for Cancer Radiotherapy  (EECS-2023-27) Kyoungtae Lee
+High-performance FMCW LiDAR with MEMS Optical Beam Scanner  (EECS-2023-26) Xiaosheng Zhang
+The hippocampal code - Towards understanding neural representations underlying spatial navigation  (EECS-2023-25) Archit Gupta
+Eye Blink Classification for Ear EEG  (EECS-2023-24) Carolyn Schwendeman
+In Silico Metabolic Modeling of Single Th17 Cells Reveals Regulators of Autoimmunity  (EECS-2023-23) Allon Wagner
+Solution Processed Electronics for Flexible Hybrid Electronic Systems  (EECS-2023-22) Jonathan Ting
+Photonic heat engines at thermodynamic limits  (EECS-2023-21) Zunaid Omair
+Contextual Inquiry into Programmers’ Use of Mimi and Implications for Embedded DSL Design  (EECS-2023-20) Lisa Rennels and Sarah Chasins
+Randomized Numerical Linear Algebra: A Perspective on the Field With an Eye to Software  (EECS-2023-19) Riley Murray, James Demmel, Michael W. Mahoney, N. Benjamin Erichson, Maksim Melnichenko, Osman Asif Malik, Laura Grigori, Piotr Luszczek, Michal Derezinski, Miles E. Lopes, Tianyu Liang, Hengrui Luo and Jack Dongarra
+Data and Label Efficient Representation Learning  (EECS-2023-18) Colorado Reed
+A Principled Intelligent Occupational Training of Psychomotor Skills in Virtual Reality  (EECS-2023-17) Edward Kim, Zachary Pardos, Sanjit A. Seshia and Björn Hartmann
+Conversation Regression Testing: A Design Technique for Prototyping Generalizable Prompt Strategies for Pre-trained Language Models  (EECS-2023-16) J.D. Zamfirescu-Pereira, Björn Hartmann and Qian Yang
+Algorithms for Context-Aided Variable Elimination  (EECS-2023-15) Inigo Incer, Albert Benveniste, Richard M. Murray, Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+Differentiable Subdivision Surface Fitting  (EECS-2023-14) Tianhao Xie, Brian A. Barsky, Sudhir Mudur and Tiberiu Popa
+Latency-Aware Short-Term Video Action Anticipation and its Application in Trajectory Prediction  (EECS-2023-13) Harshayu Girase
+Resource-Constrained Sensing as a Shared Utility  (EECS-2023-12) Joshua Adkins
+Microscopy Slide Image Segmentation of Invasive Melanoma  (EECS-2023-10) Franklin Wang, Mike Wang and Avideh Zakhor
+Microscopy Slide Image Segmentation of Invasive Melanoma  (EECS-2023-9) Franklin Wang, Mike Wang and Avideh Zakhor
+Expanding the Capabilities of Voxelwise Modeling for Naturalistic Brain Decoding  (EECS-2023-5) Ryan Ong
+Developing and Deploying  Sim-to-Real Reinforcement Learning Techniques with Applications in Energy Systems  (EECS-2023-4) Lucas Spangher
+Hardware Accelerators and Optimization Algorithms for Unconventional Computing  (EECS-2023-3) Philip Canoza
+Katara: Synthesizing CRDTs with Verified Lifting  (EECS-2023-2) Shadaj Laddad, Conor Power, Mae Milano, Alvin Cheung and Joseph M. Hellerstein
+PCB-less Integration of a Robust Wireless MEMS Tactile Package  (EECS-2023-1) Dillon Acker-James

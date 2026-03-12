@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28784.html
+Martingale Approach to Waiting Line Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Martingale Approach to Waiting Line Problems
+Martingale Approach to Waiting Line Problems
+Antonio Felix Martins-Neto
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M475
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-475.pdf
+BibTeX citation:
+@techreport{Martins-Neto:M475,
+Author = {Martins-Neto, Antonio Felix},
+Title = {Martingale Approach to Waiting Line Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28784.html},
+Number = {UCB/ERL M475}
+}
+EndNote citation:
+%0 Report
+%A Martins-Neto, Antonio Felix
+%T Martingale Approach to Waiting Line Problems
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M475
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28784.html
+%F Martins-Neto:M475

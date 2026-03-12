@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/eecs-researchers-explore-unprecedented-privacy-risks-vr
+EECS researchers explore unprecedented privacy risks of VR - EECS at Berkeley
+An article produced by the College of Computing, Data Science, and Society highlighted the increasingly frought landscape of user privacy in the emerging world of Virtual Reality (VR) devices. The article cites two papers published by faculty, students, and visitors affiliated with the Berkeley  Center for Responsible, Decentralized Intelligence. Led by CS Ph.D student  Vivek Nair and Professor Dawn Song, t he research showed that u sers of such devices can be identified using just minutes of their head and hand movements. Movement data, which is collected and shared with companies and other players to fuel these worlds, can be used to infer dozens of details from age to disability status. One paper  demonstrates that body movements are as singular and reliable an identifier as fingerprints, which was  accepted for publication at the  USENIX Security Symposium.  Another found that use of headset data could  accurately identify or infer more than 25 characteristics, including location, age and height, which will be published for the  Privacy Enhancing Technologies Symposium.  “We’ve done an extensive job of proving that there is a privacy risk here and that it is a different kind of privacy risk than what we have seen on the web,” Nair said. “These kinds of approaches for how to either transform the data or control who has access to it, that’s going to be our main focus moving forward.” Berkeley RDI is  a multi-disciplinary initiative aimed at advancing the science, technology and education of decentralization and empowering a responsible digital economy. This work is part of the center’s  Metaverse security and privacy  research effort.
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

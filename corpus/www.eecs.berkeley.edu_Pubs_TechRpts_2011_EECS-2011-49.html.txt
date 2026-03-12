@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-49.html
+Compositional Design of Analog Systems Using Contracts
+Xuening Sun
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-49
+May 12,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-49.pdf
+This work addresses the problem of assembling analog integrated systems out of pre-designed IP components. Efficient system-level design is increasingly relying on hierarchical design-space exploration, as well as compositional methods, to shorten time-to-market, leverage design re-use, and achieve optimal performances. However, in analog electronic systems, circuit behaviors are so tightly dependent on their interface conditions that accurate system performance estimations based on characterizations of individual stand-alone circuits is a hard task. Since there is no general solution to this problem, analog system integration has traditionally used ad-hoc solutions heavily dependent on designers’ experience and detailed knowledge of the target application.
+A system composition method is proposed that build upon the analog platform-based design (APBD) methodology by exploiting assume-guarantee reasoning, contracts, to enforce correct-by-construction system-level composition. Contracts intuitively capture the thought process of a designer, who aims at guaranteeing circuit performance only under specific assumptions (e.g. interface loading or dynamic range). Contracts can be broadly classified into two categories: horizontal contracts between components of the same abstraction level and vertical contracts between a system at level l + 1 and the components that make up the system from level l. Horizontal contracts can be used to ensure that correct component behavior by constraining the external environment settings to be within the assumed range. Vertical contracts capture assumptions that system-level
+designers introduce by leveraging knowledge about the system architecture, which is not available at the component-level. Contracts can be naturally incorporated into the APBD design flow to ensure accurate design space explorations and correct design implementations.
+The methodology is applied to several case studies to demonstrate the value of our approach. First, an ultra-wide band receiver front-end is composed using horizontal contracts to preserve the correct behavior of pre-designed IP components in composition and to allow design decisions to be reliably made at a higher abstraction level, both key factors to improve designer productivity. In another case study for composition of an analog feedback systems, the Sallen-Key cell, I show the application of both horizontal and vertical contracts so that the performance of a composition of circuit blocks not only preserves component behavior, but also satisfies system specifications and requirements. Finally, the methodology is applied to the complete design study of the UWB receiver chain for the Intelligent Tire System to demonstrate hierarchical design space exploration using analog contracts. The study shows that given a library of components, an optimized system can be quickly realized through hierarchical construction of subsystems and propagation of contracts. The works featured are seminal to further advancements in bridging the gap between system-level and circuit-level design in the analog/mixed-signal domain.
+Advisors:  Alberto L. Sangiovanni-Vincentelli
+BibTeX citation:
+@phdthesis{Sun:EECS-2011-49,
+Author= {Sun, Xuening},
+Title= {Compositional Design of Analog Systems Using Contracts},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-49.html},
+Number= {UCB/EECS-2011-49},
+Abstract= {This work addresses the problem of assembling analog integrated systems out of pre-designed IP components. Efficient system-level design is increasingly relying on hierarchical design-space exploration, as well as compositional methods, to shorten time-to-market, leverage design re-use, and achieve optimal performances. However, in analog electronic systems, circuit behaviors are so tightly dependent on their interface conditions that accurate system performance estimations based on characterizations of individual stand-alone circuits is a hard task. Since there is no general solution to this problem, analog system integration has traditionally used ad-hoc solutions heavily dependent on designers’ experience and detailed knowledge of the target application.
+A system composition method is proposed that build upon the analog platform-based design (APBD) methodology by exploiting assume-guarantee reasoning, contracts, to enforce correct-by-construction system-level composition. Contracts intuitively capture the thought process of a designer, who aims at guaranteeing circuit performance only under specific assumptions (e.g. interface loading or dynamic range). Contracts can be broadly classified into two categories: horizontal contracts between components of the same abstraction level and vertical contracts between a system at level l + 1 and the components that make up the system from level l. Horizontal contracts can be used to ensure that correct component behavior by constraining the external environment settings to be within the assumed range. Vertical contracts capture assumptions that system-level
+designers introduce by leveraging knowledge about the system architecture, which is not available at the component-level. Contracts can be naturally incorporated into the APBD design flow to ensure accurate design space explorations and correct design implementations.
+The methodology is applied to several case studies to demonstrate the value of our approach. First, an ultra-wide band receiver front-end is composed using horizontal contracts to preserve the correct behavior of pre-designed IP components in composition and to allow design decisions to be reliably made at a higher abstraction level, both key factors to improve designer productivity. In another case study for composition of an analog feedback systems, the Sallen-Key cell, I show the application of both horizontal and vertical contracts so that the performance of a composition of circuit blocks not only preserves component behavior, but also satisfies system specifications and requirements. Finally, the methodology is applied to the complete design study of the UWB receiver chain for the Intelligent Tire System to demonstrate hierarchical design space exploration using analog contracts. The study shows that given a library of components, an optimized system can be quickly realized through hierarchical construction of subsystems and propagation of contracts. The works featured are seminal to further advancements in bridging the gap between system-level and circuit-level design in the analog/mixed-signal domain.},
+}
+EndNote citation:
+%0 Thesis
+%A Sun, Xuening
+%T Compositional Design of Analog Systems Using Contracts
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 12
+%@ UCB/EECS-2011-49
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-49.html
+%F Sun:EECS-2011-49

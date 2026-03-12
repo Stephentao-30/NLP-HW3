@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS47B
+Course: CS47B | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS47B
+CS 47B. Completion of Work in Computer Science 61B
+Catalog Description:  Iterators. Hashing, applied to strings and multi-dimensional structures. Heaps. Storage management. Design and implementation of a program containing hundreds of lines of code. Students who have completed a portion of the subject matter of COMPSCI 61B may, with consent of instructor, complete COMPSCI 61B in this self-paced course.  Please note that students in the College of Engineering are required to receive additional permission from the College as well as the EECS department for the course to count in place of COMPSCI 61B.
+Units:  1.0
+Prerequisites:  A course in data structures, COMPSCI 9G, and consent of instructor.
+Credit Restrictions:  Students will receive no credit for 47B after taking 61B.
+Formats:  Fall: 0.0 hours of self-paced per week
+Spring: 0.0 hours of self-paced per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Students who take CS 47B are expected to have had a course that familiarized them with the following: Arrays and linked structures, in particular with the efficiency tradeoffs between them; a variety of sorting algorithms for arrays and linked lists, including some 0(n log n) sorts; binary search trees; and stacks and queues.
+Topics Covered:
+Course activities include programming assignments and quizzes; quizzes focus on low-level language details or programming techniques, while programming assignments are broader in scope. One of the programs is a substantial project comprising several hundred lines of code. The list of programming assignments appears below. All assignments use the Java programming language.
+Iterator exercises: Students write a breadth-first and a depth-first iterator for a general tree.
+Hashing exercises: Students analyze and devise hash functions applied to particular sets of data.
+Blocks project: This project involves solving a sliding-block puzzle. Input data are an initial configuration and a goal configuration; the solution program must find a sequence of block moves that lead from the initial configuration to the goal. The project has a number of interesting features: it's an example of backtracking search in which a hash table is used to avoid cycling; not only execution time, but also memory use must be accounted for in data structure and algorithm design.
+Heap exercises: Students work with code to manage a binary heap.
+Storage management exercises: Students modify a simulated storage manager, changing its first-fit strategy to best-fit and evaluating the result.

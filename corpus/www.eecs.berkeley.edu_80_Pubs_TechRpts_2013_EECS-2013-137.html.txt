@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-137.html
+Reflective Impulse Radios: Principles and Design
+Yuhui David Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-137
+August 4,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-137.pdf
+Emerging wireless sensor networks display a severe asymmetry between the up and down links. An alternative communication architecture, reflective impulse radio, is proposed to address such design challenges. It operates from the principles of passive transmission and pulse based modulation, readily used in radio frequency identification (RFID) and ultra wide-band (UWB) technologies respectively. By employing both schemes in conjunction however, it achieves ultra low power consumption and high data rate simultaneously.
+This dissertation begins by examining future wireless sensor applications and presenting the link asymmetry. The alternative architecture is then introduced and its operation principles explained. A step-by-step design procedure follows, accompanied by the implementation of a miniature biomedical implant transmitter as a design example. Potential challenges and mitigation techniques
+are also discussed. Key advantages of the proposed architecture include ultra low power consumption, simple circuitry (hence high reliability and low cost), and broad range of scalability. Measurement results of the biomedical example are subsequently presented, before a short conclusion is given in the end.
+While originated for wireless sensor networks, the proposed architecture can be applied to many other applications facing similar communication challenges.
+Advisors:  Jan M. Rabaey
+BibTeX citation:
+@phdthesis{Chen:EECS-2013-137,
+Author= {Chen, Yuhui David},
+Title= {Reflective Impulse Radios: Principles and Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-137.html},
+Number= {UCB/EECS-2013-137},
+Abstract= {Emerging wireless sensor networks display a severe asymmetry between the up and down links. An alternative communication architecture, reflective impulse radio, is proposed to address such design challenges. It operates from the principles of passive transmission and pulse based modulation, readily used in radio frequency identification (RFID) and ultra wide-band (UWB) technologies respectively. By employing both schemes in conjunction however, it achieves ultra low power consumption and high data rate simultaneously.
+This dissertation begins by examining future wireless sensor applications and presenting the link asymmetry. The alternative architecture is then introduced and its operation principles explained. A step-by-step design procedure follows, accompanied by the implementation of a miniature biomedical implant transmitter as a design example. Potential challenges and mitigation techniques
+are also discussed. Key advantages of the proposed architecture include ultra low power consumption, simple circuitry (hence high reliability and low cost), and broad range of scalability. Measurement results of the biomedical example are subsequently presented, before a short conclusion is given in the end.
+While originated for wireless sensor networks, the proposed architecture can be applied to many other applications facing similar communication challenges.},
+}
+EndNote citation:
+%0 Thesis
+%A Chen, Yuhui David
+%T Reflective Impulse Radios: Principles and Design
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 4
+%@ UCB/EECS-2013-137
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-137.html
+%F Chen:EECS-2013-137

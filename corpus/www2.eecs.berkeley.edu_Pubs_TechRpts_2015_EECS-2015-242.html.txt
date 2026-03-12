@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-242.html
+Data-centric Programming for Distributed Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Data-centric Programming for Distributed Systems
+Data-centric Programming for Distributed Systems
+Peter Alvaro
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-242
+December 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-242.pdf
+Distributed systems are difficult to reason about and program because of fundamental uncertainty in their executions, arising from sources of nondeterminism such as asynchrony and partial failure. Until relatively recently, responsibility for managing these complexities was relegated to a small group of experts, who hid them behind infrastructure-backed abstractions such as distributed transactions. As a consequence of technology trends including the rise of cloud computing, the proliferation of open-source storage and processing technologies, and the ubiquity of personal mobile devices, today nearly all non-trivial applications are physically distributed and combine a variety of heterogeneous technologies, including "NoSQL" stores, message queues and caches. Application developers and analysts must now (alongside infrastructure engineers) take on the challenges of distributed programming, with only the meager assistance provided by legacy languages and tools which reflect a single-site, sequential model of computation.
+This thesis presents an attempt to avert this crisis by rethinking both the languages we use to implement distributed systems and the analyses and tools we use to understand them. We begin by studying both large-scale storage systems and the coordination protocols they require for correct behavior through the lens of declarative, query-based programming languages. We then use these experiences to guide the design of a new class of "disorderly" programming languages, which enable the succinct expression of common distributed systems patterns while capturing uncertainty in their semantics. We first present Dedalus, a language that extends Datalog with a small set of temporal operators that intuitively capture change and temporal uncertainty, and devise a model- theoretic semantics that allows us to formally study the relationship between programs and their outcomes. We then develop Bloom, which provides—in addition to a programmer-friendly syntax and mechanisms for structuring and reuse—powerful analysis capabilities that identify when distributed programs produce deterministic outcomes despite widespread nondeterminism in their executions. On this foundation we develop a collection of program analyses that help programmers to reason about whether their distributed programs produce correct outcomes in the face of asynchrony and partial failure. Blazes addresses the challenge of asynchrony, providing assurances that distributed systems (implemented in Bloom or in parallel dataflow frameworks such as Apache Storm) produce consistent outcomes in all executions. When it cannot provide this assurance, Blazes augments the system with carefully-chosen synchronization code that ensures deterministic outcomes while minimizing global coordination. Lineage-driven fault injection (LDFI)—which addresses the challenge of partial failure—uses data lineage to reason about whether programs written in Dedalus or Bloom provide adequate redundancy to overcome a variety of failures that can occur during execution, including component failure, message loss and network partitions. LDFI can find fault-tolerance bugs using an order of magnitude fewer executions than random fault injection strategies, and can provide guarantees that programs are bug-free for given configurations and execution bounds.
+Advisor:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Alvaro:EECS-2015-242,
+Author = {Alvaro, Peter},
+Title = {Data-centric Programming for Distributed Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-242.html},
+Number = {UCB/EECS-2015-242},
+Abstract = {Distributed systems are difficult to reason about and program because of fundamental uncertainty in their executions, arising from sources of nondeterminism such as asynchrony and partial failure. Until relatively recently, responsibility for managing these complexities was relegated to a small group of experts, who hid them behind infrastructure-backed abstractions such as distributed transactions. As a consequence of technology trends including the rise of cloud computing, the proliferation of open-source storage and processing technologies, and the ubiquity of personal mobile devices, today nearly all non-trivial applications are physically distributed and combine a variety of heterogeneous technologies, including "NoSQL" stores, message queues and caches. Application developers and analysts must now (alongside infrastructure engineers) take on the challenges of distributed programming, with only the meager assistance provided by legacy languages and tools which reflect a single-site, sequential model of computation.
+This thesis presents an attempt to avert this crisis by rethinking both the languages we use to implement distributed systems and the analyses and tools we use to understand them. We begin by studying both large-scale storage systems and the coordination protocols they require for correct behavior through the lens of declarative, query-based programming languages. We then use these experiences to guide the design of a new class of "disorderly" programming languages, which enable the succinct expression of common distributed systems patterns while capturing uncertainty in their semantics. We first present Dedalus, a language that extends Datalog with a small set of temporal operators that intuitively capture change and temporal uncertainty, and devise a model- theoretic semantics that allows us to formally study the relationship between programs and their outcomes. We then develop Bloom, which provides—in addition to a programmer-friendly syntax and mechanisms for structuring and reuse—powerful analysis capabilities that identify when distributed programs produce deterministic outcomes despite widespread nondeterminism in their executions.
+On this foundation we develop a collection of program analyses that help programmers to reason about whether their distributed programs produce correct outcomes in the face of asynchrony and partial failure. Blazes addresses the challenge of asynchrony, providing assurances that distributed systems (implemented in Bloom or in parallel dataflow frameworks such as Apache Storm) produce consistent outcomes in all executions. When it cannot provide this assurance, Blazes augments the system with carefully-chosen synchronization code that ensures deterministic outcomes while minimizing global coordination. Lineage-driven fault injection (LDFI)—which addresses the challenge of partial failure—uses data lineage to reason about whether programs written in Dedalus or Bloom provide adequate redundancy to overcome a variety of failures that can occur during execution, including component failure, message loss and network partitions. LDFI can find fault-tolerance bugs using an order of magnitude fewer executions than random fault injection strategies, and can provide guarantees that programs are bug-free for given configurations and execution bounds.}
+}
+EndNote citation:
+%0 Thesis
+%A Alvaro, Peter
+%T Data-centric Programming for Distributed Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 17
+%@ UCB/EECS-2015-242
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-242.html
+%F Alvaro:EECS-2015-242

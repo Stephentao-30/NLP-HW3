@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28963.html
+Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices
+Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices
+Chorng-Kuang Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/78
+December 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-78.pdf
+BibTeX citation:
+@techreport{Wang:M79/78,
+Author = {Wang, Chorng-Kuang},
+Title = {Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28963.html},
+Number = {UCB/ERL M79/78}
+}
+EndNote citation:
+%0 Report
+%A Wang, Chorng-Kuang
+%T Characterization and Measurement of 1/f Noise in MOS-LSI NMOS Devices
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28963.html
+%F Wang:M79/78

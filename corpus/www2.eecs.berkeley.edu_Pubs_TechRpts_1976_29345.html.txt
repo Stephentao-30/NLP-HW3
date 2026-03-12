@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29345.html
+A New Algorithm for Modal Approach to Reduced-Order Modeling | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A New Algorithm for Modal Approach to Reduced-Order Modeling
+A New Algorithm for Modal Approach to Reduced-Order Modeling
+Felix F. Wu and N. Narasimhamurthi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M613
+September 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-613.pdf
+BibTeX citation:
+@techreport{Wu:M613,
+Author = {Wu, Felix F. and Narasimhamurthi, N.},
+Title = {A New Algorithm for Modal Approach to Reduced-Order Modeling},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29345.html},
+Number = {UCB/ERL M613}
+}
+EndNote citation:
+%0 Report
+%A Wu, Felix F.
+%A Narasimhamurthi, N.
+%T A New Algorithm for Modal Approach to Reduced-Order Modeling
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M613
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29345.html
+%F Wu:M613

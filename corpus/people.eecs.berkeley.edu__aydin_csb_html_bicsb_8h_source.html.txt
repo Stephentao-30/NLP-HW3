@@ -1,0 +1,229 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/bicsb_8h_source.html
+Compressed Sparse Blocks: bicsb.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+bicsb.h
+Go to the documentation of this file.     1   #ifndef _BICSB_H
+2   #define _BICSB_H
+3
+4   #include <cmath>
+5   #include <vector>
+6   #include <algorithm>
+7   #include <numeric>   // for std:accumulate()
+8   #include <limits>   // C++ style numeric_limits<T>
+9   #include <tuple>
+10   #include " csc.h "
+11   #include " mortoncompare.h "
+12
+13   using namespace  std;
+14
+15   // CSB variant where nonzeros "within each block" are sorted w.r.t. the bit-interleaved order
+16   // Implementer's (Aydin) notes:
+17   //  - to ensure correctness in BlockPar, we use square blocks (lowcolmask = highcolmask)
+18   template  < class  NT,  class  IT>
+19   class  BiCsb
+20  {
+21   public :
+22       BiCsb  ():nz(0), m(0), n(0), nbc(0), nbr(0) {}    // default constructor (dummy)
+23
+24       BiCsb  (IT size,IT rows, IT cols,  int  workers);
+25       BiCsb  (IT size,IT rows, IT cols, IT * ri, IT * ci, NT * val,  int  workers, IT forcelogbeta = 0);
+26
+27       BiCsb  ( const   BiCsb<NT, IT>  & rhs);           // copy constructor
+28      ~ BiCsb ();
+29       BiCsb<NT,IT>  & operator=( const   BiCsb<NT,IT>  & rhs);  // assignment operator
+30       BiCsb  ( Csc<NT, IT>  & csc,  int  workers, IT forcelogbeta = 0);
+31
+32      ofstream & PrintStats(ofstream & outfile)  const ;
+33      IT  colsize ()  const  {  return  n;}
+34      IT  rowsize ()  const  {  return  m;}
+35      IT  numnonzeros ()  const  {  return  nz; }
+36       bool   isPar ()  const  {  return  ispar; }
+37
+38   private :
+39       void  Init( int  workers, IT forcelogbeta = 0);
+40
+41       template  < typename  SR,  typename  RHS,  typename  LHS>
+42       void  SubSpMV(IT * btop, IT bstart, IT bend,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+43
+44       template  < typename  SR,  typename  RHS,  typename  LHS>
+45       void  SubSpMVTrans(IT col, IT rowstart, IT rowend,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+46
+47       template  < typename  SR,  typename  RHS,  typename  LHS>
+48       void  SubSpMVTrans( const  vector< tuple<IT,IT,IT> > & chunk,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+49
+50       template  < typename  SR,  typename  RHS,  typename  LHS>
+51       void  BMult(IT** chunks, IT start, IT end,  const  RHS * __restrict x, LHS * __restrict y, IT ysize)  const ;
+52
+53       template  < typename  SR,  typename  RHS,  typename  LHS>
+54       void  BTransMult(vector< vector< tuple<IT,IT,IT> > * > & chunks, IT start, IT end,  const  RHS * __restrict x, LHS * __restrict y, IT ysize)  const ;
+55
+56       template  < typename  SR,  typename  RHS,  typename  LHS>
+57       void  BlockPar(IT start, IT end,  const  RHS * __restrict subx, LHS * __restrict suby,
+58                      IT rangebeg, IT rangeend, IT cutoff)  const ;
+59
+60       template  < typename  SR,  typename  RHS,  typename  LHS>
+61       void  BlockParT(IT start, IT end,  const  RHS * __restrict subx, LHS * __restrict suby,
+62                      IT rangebeg, IT rangeend, IT cutoff)  const ;
+63
+64       void  SortBlocks(pair<IT, pair<IT,IT> > * pairarray, NT * val);
+65
+66      IT ** top ;  // pointers array (indexed by higher-order bits of the coordinate index), size ~= ntop+1
+67      IT * bot;    // contains lower-order bits of the coordinate index, size nnz
+68      NT * num;    // contains numerical values, size nnz
+69
+70       bool  ispar;
+71      IT nz;       // # nonzeros
+72      IT m;        // # rows
+73      IT n;        // # columns
+74      IT blcrange;     // range indexed by one block
+75
+76      IT nbc;      // #{column blocks} = #{blocks in any block row}
+77      IT nbr;      // #{block rows)
+78
+79      IT rowlowbits;   // # lower order bits for rows
+80      IT rowhighbits;
+81      IT highrowmask;  // mask with the first log(m)/2 bits = 1 and the other bits = 0
+82      IT lowrowmask;
+83
+84      IT collowbits;   // # lower order bits for columns
+85      IT colhighbits;
+86      IT highcolmask;  // mask with the first log(n)/2 bits = 1 and the other bits = 0
+87      IT lowcolmask;
+88
+89       MortonCompare<IT>  mortoncmp;     // comparison operator w.r.t. the N-morton layout
+90
+91       template  < typename  SR,  typename  NU,  typename  IU,  typename  RHS,  typename  LHS>
+92       friend   void   bicsb_gespmv  ( const   BiCsb<NU, IU>  & A,  const  RHS * x, LHS * y);
+93
+94       template  < typename  SR,  typename  NU,  typename  IU,  typename  RHS,  typename  LHS>
+95       friend   void   bicsb_gespmvt  ( const   BiCsb<NU, IU>  & A,  const  RHS * __restrict x, LHS * __restrict y);
+96
+97       template  < class  CSB>
+98       friend   float   RowImbalance ( const  CSB & A);    // just befriend the BiCsb instantiation
+99
+100       template  < typename  NU,  typename  IU>
+101       friend   float   ColImbalance ( const   BiCsb<NU, IU>  & A);
+102  };
+103
+104
+105   // Partial template specialization
+106   template  < class  IT>
+107   class  BiCsb <bool,IT>
+108  {
+109   public :
+110       BiCsb  ():nz(0), m(0), n(0), nbc(0), nbr(0) {}    // default constructor (dummy)
+111
+112       BiCsb  (IT size,IT rows, IT cols,  int  workers);
+113       BiCsb  (IT size,IT rows, IT cols, IT * ri, IT * ci,  int  workers, IT forcelogbeta = 0);
+114
+115       BiCsb  ( const   BiCsb<bool, IT>  & rhs);             // copy constructor
+116      ~ BiCsb ();
+117       BiCsb<bool,IT>  & operator=( const   BiCsb<bool,IT>  & rhs);  // assignment operator
+118
+119       template  < typename  NT>
+120       BiCsb  ( Csc<NT, IT>  & csc,  int  workers);
+121
+122      IT  colsize ()  const  {  return  n;}
+123      IT  rowsize ()  const  {  return  m;}
+124      IT  numnonzeros ()  const  {  return  nz; }
+125       bool   isPar ()  const  {  return  ispar; }
+126
+127   private :
+128       void  Init( int  workers, IT forcelogbeta = 0);
+129
+130       template  < typename  SR,  typename  RHS,  typename  LHS>
+131       void  SubSpMV(IT * btop, IT bstart, IT bend,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+132
+133       template  < typename  SR,  typename  RHS,  typename  LHS>
+134       void  SubSpMVTrans(IT col, IT rowstart, IT rowend,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+135
+136       template  < typename  SR,  typename  RHS,  typename  LHS>
+137       void  SubSpMVTrans( const  vector< tuple<IT,IT,IT> > & chunk,  const  RHS * __restrict x, LHS * __restrict suby)  const ;
+138
+139       template  < typename  SR,  typename  RHS,  typename  LHS>
+140       void  BMult(IT ** chunks, IT start, IT end,  const  RHS * __restrict x, LHS * __restrict y, IT ysize)  const ;
+141
+142       template  < typename  SR,  typename  RHS,  typename  LHS>
+143       void  BTransMult(vector< vector< tuple<IT,IT,IT> > * > & chunks, IT start, IT end,  const  RHS * __restrict x, LHS * __restrict y, IT ysize)  const ;
+144
+145       template  < typename  SR,  typename  RHS,  typename  LHS>
+146       void  BlockPar(IT start, IT end,  const  RHS * __restrict subx, LHS * __restrict suby,
+147                      IT rangebeg, IT rangeend, IT cutoff)  const ;
+148
+149       template  < typename  SR,  typename  RHS,  typename  LHS>
+150       void  BlockParT(IT start, IT end,  const  RHS * __restrict subx, LHS * __restrict suby,
+151                      IT rangebeg, IT rangeend, IT cutoff)  const ;
+152
+153       void  SortBlocks(pair<IT, pair<IT,IT> > * pairarray);
+154
+155      IT ** top ;  // pointers array (indexed by higher-order bits of the coordinate index), size ~= ntop+1
+156      IT * bot;    // contains lower-order bits of the coordinate index, size nnz
+157
+158       bool  ispar;
+159      IT nz;       // # nonzeros
+160      IT m;        // # rows
+161      IT n;        // # columns
+162      IT blcrange;     // range indexed by one block
+163
+164      IT nbc;      // #{column blocks} = #{blocks in any block row}
+165      IT nbr;      // #{block rows)
+166
+167      IT rowlowbits;   // # lower order bits for rows
+168      IT rowhighbits;
+169      IT highrowmask;  // mask with the first log(m)/2 bits = 1 and the other bits = 0
+170      IT lowrowmask;
+171
+172      IT collowbits;   // # lower order bits for columns
+173      IT colhighbits;
+174      IT highcolmask;      // mask with the first log(n)/2 bits = 1 and the other bits = 0
+175      IT lowcolmask;
+176
+177       MortonCompare<IT>  mortoncmp;     // comparison operator w.r.t. the N-morton layout
+178
+179       template  < typename  SR,  typename  NU,  typename  IU,  typename  RHS,  typename  LHS>
+180       friend   void   bicsb_gespmv  ( const   BiCsb<NU, IU>  & A,  const  RHS * __restrict x, LHS * __restrict y);
+181
+182       template  < typename  SR,  typename  NU,  typename  IU,  typename  RHS,  typename  LHS>
+183       friend   void   bicsb_gespmvt  ( const   BiCsb<NU, IU>  & A,  const  RHS * __restrict x, LHS * __restrict y);
+184
+185       template  < class  CSB>
+186       friend   float   RowImbalance ( const  CSB & A);    // befriend any CSB instantiation
+187
+188       template  < typename  NU,  typename  IU>
+189       friend   float   ColImbalance ( const   BiCsb<NU, IU>  & A);
+190  };
+191
+192   #include " friends.h "
+193   #include " bicsb.cpp "
+194   #endif
+bicsb_gespmv void bicsb_gespmv(const BiCsb< NT, IT > &A, const RHS *__restrict x, LHS *__restrict y) Definition:   friends.h:113
+BiCsb::BiCsb BiCsb() Definition:   bicsb.h:22
+BiCsb::rowsize IT rowsize() const  Definition:   bicsb.h:34
+BiCsb< bool, IT >::rowsize IT rowsize() const  Definition:   bicsb.h:123
+bicsb.cpp
+BiCsb< bool, IT > Definition:   bicsb.h:107
+ColImbalance float ColImbalance(const BiCsb< NT, IT > &A) Definition:   friends.h:414
+BiCsb::numnonzeros IT numnonzeros() const  Definition:   bicsb.h:35
+BiCsb::colsize IT colsize() const  Definition:   bicsb.h:33
+mortoncompare.h
+BiCsb< bool, IT >::BiCsb BiCsb() Definition:   bicsb.h:110
+bicsb_gespmvt void bicsb_gespmvt(const BiCsb< NT, IT > &A, const RHS *__restrict x, LHS *__restrict y) Definition:   friends.h:184
+Csc Definition:   csc.h:15
+BiCsb< bool, IT >::numnonzeros IT numnonzeros() const  Definition:   bicsb.h:124
+RowImbalance float RowImbalance(const CSB &A) Definition:   friends.h:400
+BiCsb Definition:   bicsb.h:19
+BiCsb< bool, IT >::colsize IT colsize() const  Definition:   bicsb.h:122
+friends.h
+csc.h
+MortonCompare< IT >
+BiCsb::isPar bool isPar() const  Definition:   bicsb.h:36
+BiCsb< bool, IT >::isPar bool isPar() const  Definition:   bicsb.h:125
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

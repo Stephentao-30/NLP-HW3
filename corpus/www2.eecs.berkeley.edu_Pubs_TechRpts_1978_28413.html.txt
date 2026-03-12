@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28413.html
+Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems
+Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems
+F.M. Callier and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/83
+December 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-83.pdf
+BibTeX citation:
+@techreport{Callier:M78/83,
+Author = {Callier, F.M. and Desoer, C.A.},
+Title = {Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28413.html},
+Number = {UCB/ERL M78/83}
+}
+EndNote citation:
+%0 Report
+%A Callier, F.M.
+%A Desoer, C.A.
+%T Stabilization, Tracking and Disturbance Rejection in Multivariable Convolution Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28413.html
+%F Callier:M78/83

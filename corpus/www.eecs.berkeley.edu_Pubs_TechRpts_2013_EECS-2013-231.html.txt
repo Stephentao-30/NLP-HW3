@@ -1,0 +1,51 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-231.html
+Texture Mapping 3D Models of Indoor Environments with Noisy Camera Poses
+Peter Cheng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-231
+December 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-231.pdf
+Automated 3D modeling of building interiors is used in applications such as virtual reality and environment
+mapping. Texturing these models allows for photo-realistic visualizations of the data collected by such modeling
+systems. While data acquisition times for mobile mapping systems are considerably shorter than for static ones,
+their recovered camera poses often suffer from inaccuracies, resulting in visible discontinuities when successive
+images are projected onto a surface for texturing. We present a method for texture mapping models of indoor
+environments that starts by selecting images whose camera poses are well-aligned in two dimensions. We then
+align images to geometry as well as to each other, producing visually consistent textures even in the presence of
+inaccurate surface geometry and noisy camera poses. Images are then composited into a final texture mosaic and
+projected onto surface geometry for visualization. The effectiveness of the proposed method is demonstrated on
+a number of different indoor environments.
+Advisors:  Avideh Zakhor
+BibTeX citation:
+@mastersthesis{Cheng:EECS-2013-231,
+Author= {Cheng, Peter},
+Editor= {Zakhor, Avideh},
+Title= {Texture Mapping 3D Models of Indoor Environments with Noisy Camera Poses},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-231.html},
+Number= {UCB/EECS-2013-231},
+Abstract= {Automated 3D modeling of building interiors is used in applications such as virtual reality and environment
+mapping. Texturing these models allows for photo-realistic visualizations of the data collected by such modeling
+systems. While data acquisition times for mobile mapping systems are considerably shorter than for static ones,
+their recovered camera poses often suffer from inaccuracies, resulting in visible discontinuities when successive
+images are projected onto a surface for texturing. We present a method for texture mapping models of indoor
+environments that starts by selecting images whose camera poses are well-aligned in two dimensions. We then
+align images to geometry as well as to each other, producing visually consistent textures even in the presence of
+inaccurate surface geometry and noisy camera poses. Images are then composited into a final texture mosaic and
+projected onto surface geometry for visualization. The effectiveness of the proposed method is demonstrated on
+a number of different indoor environments.},
+}
+EndNote citation:
+%0 Thesis
+%A Cheng, Peter
+%E Zakhor, Avideh
+%T Texture Mapping 3D Models of Indoor Environments with Noisy Camera Poses
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 19
+%@ UCB/EECS-2013-231
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-231.html
+%F Cheng:EECS-2013-231

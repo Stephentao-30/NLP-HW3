@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/7468.html
+The Representation and Use of Focus in Dialogue Understanding
+Barbara J. Grosz
+EECS Department, University of California, Berkeley
+1977
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Grosz:7468,
+Author= {Grosz, Barbara J.},
+Title= {The Representation and Use of Focus in Dialogue Understanding},
+School= {EECS Department, University of California, Berkeley},
+Year= {1977},
+}
+EndNote citation:
+%0 Thesis
+%A Grosz, Barbara J.
+%T The Representation and Use of Focus in Dialogue Understanding
+%I EECS Department, University of California, Berkeley
+%D 1977
+%F Grosz:7468

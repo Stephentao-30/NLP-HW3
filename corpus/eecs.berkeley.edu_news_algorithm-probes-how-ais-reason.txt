@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/algorithm-probes-how-ais-reason
+Algorithm probes how AIs reason - EECS at Berkeley
+Quartz  explores an algorithm devised by CS Prof.  Trevor Darrell , L&S CS undergraduate student Dong Huk Park, CS grad student Lisa Anne Hendricks, and postdoc Marcus Rohrbach, along with researchers in the Max Planck Institute for Informatics,  in an article titled “ We don’t understand how AI make most decisions, so now algorithms are explaining themselves. ” Engineers have developed deep learning systems that ‘work’ without necessarily knowing why they work or being able to show the logic behind a system’s decision.   The algorithm uses a “pointing and justification” system, to point to the data used to make a decision and justify why it was used that way.
+Categories
+Faculty
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28854.html
+Roundoff Error in the Solution of Finite Element Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Roundoff Error in the Solution of Finite Element Systems
+Roundoff Error in the Solution of Finite Element Systems
+Beresford Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M593
+June 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-593.pdf
+BibTeX citation:
+@techreport{Parlett:M593,
+Author = {Parlett, Beresford},
+Title = {Roundoff Error in the Solution of Finite Element Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28854.html},
+Number = {UCB/ERL M593}
+}
+EndNote citation:
+%0 Report
+%A Parlett, Beresford
+%T Roundoff Error in the Solution of Finite Element Systems
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M593
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28854.html
+%F Parlett:M593

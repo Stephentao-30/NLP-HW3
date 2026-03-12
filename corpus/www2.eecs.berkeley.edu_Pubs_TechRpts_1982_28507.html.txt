@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28507.html
+Program Page Reference Patterns | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Program Page Reference Patterns
+Program Page Reference Patterns
+Robert Hagmann and Robert Fabry
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/15
+March 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-15.pdf
+BibTeX citation:
+@techreport{Hagmann:M82/15,
+Author = {Hagmann, Robert and Fabry, Robert},
+Title = {Program Page Reference Patterns},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28507.html},
+Number = {UCB/ERL M82/15}
+}
+EndNote citation:
+%0 Report
+%A Hagmann, Robert
+%A Fabry, Robert
+%T Program Page Reference Patterns
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28507.html
+%F Hagmann:M82/15

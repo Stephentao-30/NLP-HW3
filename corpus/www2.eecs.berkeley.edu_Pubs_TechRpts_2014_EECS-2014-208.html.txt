@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-208.html
+Collecting Data With the Crowd | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Collecting Data With the Crowd
+Collecting Data With the Crowd
+Beth Trushkowsky
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-208
+December 4, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-208.pdf
+Hybrid human/machine database and search systems promise to greatly expand the usefulness of query processing by incorporating human knowledge and experience via "crowdsourcing" into existing systems for data gathering and other tasks. Of course, such systems raise many implementation questions. For example, how can we reason about query result quality in a hybrid system? How can we best combine the benefits of machine computation and human computation? In this thesis we describe how we attacked these challenges by developing statistical tools that enable users and systems developers to reason about query completeness in hybrid database systems, as well as combining human and automated processing in search engines. We present evaluations of these techniques using experiments run on a popular crowdsourcing platform, Amazon's Mechanical Turk.
+Advisor:  Michael Franklin and Armando Fox
+BibTeX citation:
+@phdthesis{Trushkowsky:EECS-2014-208,
+Author = {Trushkowsky, Beth},
+Title = {Collecting Data With the Crowd},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-208.html},
+Number = {UCB/EECS-2014-208},
+Abstract = {Hybrid human/machine database and search systems promise to greatly expand the usefulness of query processing by incorporating human knowledge and experience via "crowdsourcing" into existing systems for data gathering and other tasks. Of course, such systems raise many implementation questions. For example, how can we reason about query result quality in a hybrid system? How can we best combine the benefits of machine computation and human computation? In this thesis we describe how we attacked these challenges by developing statistical tools that enable users and systems developers to reason about query completeness in hybrid database systems, as well as combining human and automated processing in search engines. We present evaluations of these techniques using experiments run on a popular crowdsourcing platform, Amazon's Mechanical Turk.}
+}
+EndNote citation:
+%0 Thesis
+%A Trushkowsky, Beth
+%T Collecting Data With the Crowd
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 4
+%@ UCB/EECS-2014-208
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-208.html
+%F Trushkowsky:EECS-2014-208

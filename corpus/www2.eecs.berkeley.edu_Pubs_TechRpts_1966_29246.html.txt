@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29246.html
+Identification of Linear Discrete Time Systems Using the Instrumental Variable Method | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Identification of Linear Discrete Time Systems Using the Instrumental Variable Method
+Identification of Linear Discrete Time Systems Using the Instrumental Variable Method
+K.Y. Wong and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M187
+December 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-187.pdf
+BibTeX citation:
+@techreport{Wong:M187,
+Author = {Wong, K.Y. and Polak, E.},
+Title = {Identification of Linear Discrete Time Systems Using the Instrumental Variable Method},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29246.html},
+Number = {UCB/ERL M187}
+}
+EndNote citation:
+%0 Report
+%A Wong, K.Y.
+%A Polak, E.
+%T Identification of Linear Discrete Time Systems Using the Instrumental Variable Method
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M187
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29246.html
+%F Wong:M187

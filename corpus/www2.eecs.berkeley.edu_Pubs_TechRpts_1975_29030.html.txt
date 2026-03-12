@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29030.html
+A Program to Compute the Real Schur Form of a Real Square Matrix | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Program to Compute the Real Schur Form of a Real Square Matrix
+A Program to Compute the Real Schur Form of a Real Square Matrix
+B.N. Parlett and R. Feldman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M526
+June 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-526.pdf
+BibTeX citation:
+@techreport{Parlett:M526,
+Author = {Parlett, B.N. and Feldman, R.},
+Title = {A Program to Compute the Real Schur Form of a Real Square Matrix},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29030.html},
+Number = {UCB/ERL M526}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.N.
+%A Feldman, R.
+%T A Program to Compute the Real Schur Form of a Real Square Matrix
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M526
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29030.html
+%F Parlett:M526

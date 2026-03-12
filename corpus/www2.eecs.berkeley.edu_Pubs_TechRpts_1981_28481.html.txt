@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28481.html
+Global Parametrization of Feedback Systems
+C.A. Desoer and R-W Liu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/57
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-57.pdf
+BibTeX citation:
+@techreport{Desoer:M81/57,
+Author= {Desoer, C.A. and Liu, R-W},
+Title= {Global Parametrization of Feedback Systems},
+Year= {1981},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28481.html},
+Number= {UCB/ERL M81/57},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Liu, R-W
+%T Global Parametrization of Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28481.html
+%F Desoer:M81/57

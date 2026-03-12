@@ -1,0 +1,46 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-172.html
+Can Motion Features Inform Video Aesthetic Preferences?
+Scott Chung and Jonathan Sammartino and Jiamin Bai and Brian A. Barsky
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-172
+June 29,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-172.pdf
+We explore a novel approach to evaluate aesthetic qualities of video clips by
+analyzing key motion features. With a growing number of videos and more interest
+in sorting through media, evaluating aesthetics is increasingly important. Our
+approach examines high-level motion-based features in video that account for distribution,
+trajectory, fluidity, completeness, as well as smooth camera and subject
+motion. We introduce six fundamental motion features which are derived from basic
+guidelines in film and then conduct a comprehensive viewer study to examine
+the correlations between the features and viewer preference.
+BibTeX citation:
+@techreport{Chung:EECS-2012-172,
+Author= {Chung, Scott and Sammartino, Jonathan and Bai, Jiamin and Barsky, Brian A.},
+Title= {Can Motion Features Inform Video Aesthetic Preferences?},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-172.html},
+Number= {UCB/EECS-2012-172},
+Abstract= {We explore a novel approach to evaluate aesthetic qualities of video clips by
+analyzing key motion features. With a growing number of videos and more interest
+in sorting through media, evaluating aesthetics is increasingly important. Our
+approach examines high-level motion-based features in video that account for distribution,
+trajectory, fluidity, completeness, as well as smooth camera and subject
+motion. We introduce six fundamental motion features which are derived from basic
+guidelines in film and then conduct a comprehensive viewer study to examine
+the correlations between the features and viewer preference.},
+}
+EndNote citation:
+%0 Report
+%A Chung, Scott
+%A Sammartino, Jonathan
+%A Bai, Jiamin
+%A Barsky, Brian A.
+%T Can Motion Features Inform Video Aesthetic Preferences?
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 29
+%@ UCB/EECS-2012-172
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-172.html
+%F Chung:EECS-2012-172

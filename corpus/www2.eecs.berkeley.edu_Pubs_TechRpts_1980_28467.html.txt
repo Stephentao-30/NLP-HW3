@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28467.html
+Limits on Power Injections for Power Flow Equations to Have Secure Solutions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Limits on Power Injections for Power Flow Equations to Have Secure Solutions
+Limits on Power Injections for Power Flow Equations to Have Secure Solutions
+F.F. Wu and S. Kumagai
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/19
+April 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-19.pdf
+BibTeX citation:
+@techreport{Wu:M80/19,
+Author = {Wu, F.F. and Kumagai, S.},
+Title = {Limits on Power Injections for Power Flow Equations to Have Secure Solutions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28467.html},
+Number = {UCB/ERL M80/19}
+}
+EndNote citation:
+%0 Report
+%A Wu, F.F.
+%A Kumagai, S.
+%T Limits on Power Injections for Power Flow Equations to Have Secure Solutions
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28467.html
+%F Wu:M80/19

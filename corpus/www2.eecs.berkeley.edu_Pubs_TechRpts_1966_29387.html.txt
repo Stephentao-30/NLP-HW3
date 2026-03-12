@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29387.html
+On Scalar Products of Signals Passing Through Memoryless Nonlinearities with Delay
+R.A. Baker and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M198
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-198.pdf
+BibTeX citation:
+@techreport{Baker:M198,
+Author= {Baker, R.A. and Desoer, C.A.},
+Title= {On Scalar Products of Signals Passing Through Memoryless Nonlinearities with Delay},
+Year= {1966},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29387.html},
+Number= {UCB/ERL M198},
+}
+EndNote citation:
+%0 Report
+%A Baker, R.A.
+%A Desoer, C.A.
+%T On Scalar Products of Signals Passing Through Memoryless Nonlinearities with Delay
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M198
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29387.html
+%F Baker:M198

@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/ling-qi-yan-helps-improve-computer-rendering-animal-fur
+Ling-Qi Yan helps to improve computer rendering of animal fur - EECS at Berkeley
+CS graduate student Ling-Qi Yan (advisors: Ravi Ramamoorthi/Ren Ng) and researchers at U.C. San Diego are the subject of an article in TechXplore titled “Scientists improve computer rendering of animal fur.”  He is part of a team that developed a method for dramatically improving the way computers simulate fur, and more specifically, the way light bounces within an animal’s pelt.  The researchers are using a neural network to apply the properties of a concept called subsurface scattering to quickly approximate how light bounces around fur fibers.  The neural network only needs to be trained with one scene before it can apply subsurface scattering to all the different scenes with which it is presented. This results in simulations running 10 times faster than current state of the art.  “We are converting the properties of subsurface scattering to fur fibers,” said Yan. “There is no explicit physical or mathematical way to make this conversion. So we needed to use a neural network to connect these two different worlds.”  The researchers recently presented their findings at the SIGGRAPH Asia conference in Thailand.
+Categories
+Research
+Students
+View
+Open Faculty Positions

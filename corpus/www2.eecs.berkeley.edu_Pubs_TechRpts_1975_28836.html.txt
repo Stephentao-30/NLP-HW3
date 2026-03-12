@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28836.html
+A Second Order Method for Unconstrained Optimization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Second Order Method for Unconstrained Optimization
+A Second Order Method for Unconstrained Optimization
+H. Mukai and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M561
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-561.pdf
+BibTeX citation:
+@techreport{Mukai:M561,
+Author = {Mukai, H. and Polak, E.},
+Title = {A Second Order Method for Unconstrained Optimization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28836.html},
+Number = {UCB/ERL M561}
+}
+EndNote citation:
+%0 Report
+%A Mukai, H.
+%A Polak, E.
+%T A Second Order Method for Unconstrained Optimization
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M561
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28836.html
+%F Mukai:M561

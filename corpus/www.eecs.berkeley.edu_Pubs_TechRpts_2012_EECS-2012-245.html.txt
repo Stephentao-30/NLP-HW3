@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-245.html
+HTTPS Vulnerability to Fine Grain Traffic Analysis
+Bradley Miller
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-245
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-245.pdf
+In this thesis, we apply the pattern recognition and data processing strengths of machine learning to accomplish traffic analysis objectives. Traffic analysis relies on the use of observable features of encrypted traffic in order to infer plaintext contents. We apply a clustering technique to HTTPS encrypted traffic on websites covering medical, legal and financial topics and achieve accuracy rates ranging from 64% - 99% when identifying traffic within each website. The total number of URLs considered on each page ranged from 176 to 366. We present our results along with a justification of the machine learning techniques employed and an evaluation which explores the impact on accuracy of variations in amount of training data, number of clustering algorithm invocations, and convergence threshold. Our technique represents a significant improvement over previous techniques which have achieved similar accuracy, albeit with the aid of supporting assumptions simplifying traffic analysis. We examine these assumptions more closely and present results suggesting that two assumptions, browser cache configuration and selection of webpages for evaluation, can have considerable impact on analysis. Additionally, we propose a set of minimum evaluation standards for improved quality in traffic analysis evaluations.
+Advisors:  Doug Tygar
+BibTeX citation:
+@mastersthesis{Miller:EECS-2012-245,
+Author= {Miller, Bradley},
+Title= {HTTPS Vulnerability to Fine Grain Traffic Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-245.html},
+Number= {UCB/EECS-2012-245},
+Abstract= {In this thesis, we apply the pattern recognition and data processing strengths of machine learning to accomplish traffic analysis objectives. Traffic analysis relies on the use of observable features of encrypted traffic in order to infer plaintext contents. We apply a clustering technique to HTTPS encrypted traffic on websites covering medical, legal and financial topics and achieve accuracy rates ranging from 64% - 99% when identifying traffic within each website. The total number of URLs considered on each page ranged from 176 to 366. We present our results along with a justification of the machine learning techniques employed and an evaluation which explores the impact on accuracy of variations in amount of training data, number of clustering algorithm invocations, and convergence threshold. Our technique represents a significant improvement over previous techniques which have achieved similar accuracy, albeit with the aid of supporting assumptions simplifying traffic analysis. We examine these assumptions more closely and present results suggesting that two assumptions, browser cache configuration and selection of webpages for evaluation, can have considerable impact on analysis. Additionally, we propose a set of minimum evaluation standards for improved quality in traffic analysis evaluations.},
+}
+EndNote citation:
+%0 Thesis
+%A Miller, Bradley
+%T HTTPS Vulnerability to Fine Grain Traffic Analysis
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-245
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-245.html
+%F Miller:EECS-2012-245

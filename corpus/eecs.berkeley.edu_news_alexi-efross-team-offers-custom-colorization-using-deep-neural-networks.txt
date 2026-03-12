@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/alexi-efross-team-offers-custom-colorization-using-deep-neural-networks
+Alexi Efros's team offers custom colorization using deep neural networks - EECS at Berkeley
+CS Prof. Alexei Efros (also alumnus, Ph.D. ’03) and his team have developed a new technique, leveraging deep neural networks and AI, to allow novices–even those with limited artistic ability–to  quickly add realistic color to black and white images .  “The goal of our previous project was to just get a single, plausible colorization,” says Richard Zhang, a coauthor and PhD candidate, advised by Efros. “If the user didn’t like the result, or wanted to change something, they were out of luck. We realized that empowering the user and adding them in the loop was actually a necessary component for obtaining desirable results.”  They will present their research into “Real-Time User Guided Colorization with Learned Deep Priors” at SIGGRAPH 2017 in August.
+Categories
+Alumni
+Faculty
+Research
+Students
+View
+Open Faculty Positions

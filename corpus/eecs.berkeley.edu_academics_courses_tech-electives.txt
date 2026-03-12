@@ -1,0 +1,174 @@
+URL: https://eecs.berkeley.edu/academics/courses/tech-electives
+Technical Electives for the Computer Science Major - EECS at Berkeley
+Technical Electives for the Computer Science Major
+Four technical elective upper-division units are required to complete the CS major. Students admitted Spring 22 or before may complete these units with additional CS courses or non-CS upper-division courses that are approved and technical in nature. Students admitted Fall 22 or later can only use approved Non-CS technical elective courses to fulfill the requirement. Approved Technical Electives must:
+be upper division (course numbered >100) and at least 4 units (4 units total are required)
+be related to specific subject matter or techniques in the applied or industrial sciences
+not have majority of course content overlapping with an existing CS course
+Courses numbered 199, 198, 197, 196, 195, select 194, 190 and various seminars do not count.
+The following are pre-approved technical elective courses. Cross-listed versions of the listed courses will also count. Students should pay close attention to the unit value of approved courses so they are not short units. There may be eligible technical courses that have not been evaluated; first, check if a  course has already been reviewed . To request an evaluation of a new course to be added to the pre-approved list,  submit a request .
+Technical Electives
+Subject   Course Number   Course
+Anthropology   Anthro 107   Evolution of the Human Brain
+Architecture   Arch 122   Principles of Computer Aided Architectural Design
+Arch 129   Advanced Computer-Aided Rendering & Animation
+Arch 222   Principles of Computer Aided Architectural Design
+Arch 229   Advanced Computer-Aided Rendering & Animation
+Art   Art 160 004 – Spring 21 Only   Game Design Methods
+Art 172   Advanced Digital Media: Computer Graphics Studio
+Art 173   Electro-Crafting
+Art 175   Advanced Computer Graphics Production
+Art 178   Game Design Methods
+Astronomy   Astron C162   Planetary Astrophysics
+Bioengineering     All Technical UD and Grad (see footnote #1)
+Chemistry     All Technical UD and Grad
+Chemical & Biomolecular Engineering     All Technical UD and Grad (see footnote #2)
+City and Regional Planning   CYPLAN 101   Introduction to Urban Data Analytics
+Civil Engineering     All Technical UD and Grad (see footnote #3)
+Cognitive Science   Cog Sci N100/C100   Basic Issues in Cognition
+Cog Sci C101   The Mind and Language (FA 18 & prior); Cognitive Linguistics (SP 19 & later)
+Cog Sci C110   The Neural Basis of Thought & Language
+Cog Sci C126   Perception
+Cog Sci C127   Cognitive Neuroscience
+Cog Sci 131/C131   Computational Models of Cognition
+Cog Sci 190   Sensemaking and Organizing
+Comparative Literature   ComLit 170   Computational Humanities: Critical Approaches to Literature as Data
+Computational Biology   Comp Bio 175   Intro to Comp Bio and Preciscion Medicine
+Computer Science     All Technical UD and approved Grad (see footnote #4)
+Data   Data C100   Principles & Techniques of Data Science
+Data 101   Data Engineering
+Data C102   Data Inference, and Decisions
+Data C104   Human Contexts and Ethics of Data – DATA/History/STS (Previously offered as HIST C182C)
+Data 140   Probability for Data Science
+Data 144   Data Mining and Analytics
+Data 145   Evidence and Uncertainty
+Data 188   Introduction to Deep Learning (Spring 2026 Only)
+Demography   Demog C175   Economic Demography
+Demog 180   Social Networks
+Design Innovation   Des Inv 190   Designing Emergent Technologies
+Des Inv 190-1/ME 292C   Human-Centered Design Methods (FA 19 & later)
+Des Inv 190E   Augmenting Human Dexterity
+Development Engineering Graduate Group   DevEng 290   Innovations in Disaster Response
+Digital Humanities   Dighum 101   Practicing the Digital Humanities at Berkeley
+Earth & Planetary Science   EPS 104   Mathematical Methods in Geophysics
+EPS 109   Computer Simulations in Earth and Planetary Sciences
+EPS 122   Physics of the Earth and Planetary Interiors
+EPS C162   Planetary Astrophysics
+Economics   Econ 100A   Economic Analysis – Micro
+Econ 100B   Economic Analysis – Macro
+Econ 101A   Economic Theory – Micro
+Econ 101B   Economic Theory – Macro
+Econ C103   Introduction to Mathematical Economics
+Econ C110   Same Theory in the Social Sciences
+Econ 136   Financial Economics
+Econ 139   Intermediate Financial Economics
+Econ 140   Economic Statistics and Econometrics
+Econ 141   Econometric Analysis
+Econ 148   Data Science for Economists
+Econ C175   Economic Demography
+Education   Educ 161/W161   Digital Learning Environments
+Educ C260F   Machine Learning in Education
+Educ 290A   Computational Approach to Human Learning
+Electrical Engineering     All Technical UD and approved Grad
+Engineering     All Technical UD and Grad (see footnote #5 & #7 for Engin 183 courses)
+Energy Resources   Eneres C/W100   Energy and Society
+Eneres C176   Climate Change Economics
+Environmental Economics   Envecon 100   Microeconomic Theory with Application to Natural Resources
+Envecon C118   Introductory Applied Economics
+Environmental Science, Policy, and Management   ESPM 136 (formerly 150)   Sustainable Industry
+ESPM 137   Landscape Ecology
+ESPM 169   International Environmental Politics
+Film & Media   Film 140 – No longer approved as of fall 2018   Special Topics in Film (only Color Theory and Sound Theory)
+Geography   Geog 142   Climate Dynamics
+Geog 143   Global Change Biogeochemistry
+Geog 183   Cartographic Representation
+Geog 185   Earth System Remote Sensing
+Geog 187   Geographic Information Analysis
+Geog C188   Geographic Information Systems
+Industrial Engineering & Operations Research     All Technical UD and Grad (see footnote #6)
+Ind Eng 185   Internet and Data Privacy (see footnote #7)
+Information   Info 103   History of Information
+Info 159   Natural Language Processing
+Info 213   User interface Design & Development
+Info 251   Applied Machine Learning
+Info C262   Theory and Practice of Tangible User Interfaces
+Integrative Biology     All Technical 4-unit UD and Grad
+Landscape Architecture   Ld Arch C177   GIS and Environmental Spatial Data Analysis
+Ld Arch C188   Geographic Information Systems
+Legal Studies   Legalst 123   Data, Prediction & Law
+Linguistics   Ling 100   Introduction to Linguistic Science
+Ling C105   The Mind and Language (FA 18 & prior); Cognitive Linguistics (SP 19 & later)
+Ling C160   Quantitative Methods in Linguistics
+Ling 120   Introduction to Syntax & Semantics
+Ling C189/ Cog Sci C133
+Computational Modeling of Language
+Mathematics     all Technical UD and Grad
+Mechanical Engineering     All Technical UD and Grad (see footnote #8)
+Molecular and Cell Biology     All Technical 4-unit UD and Grad
+Music   Music 108   Music Perception and Cognition
+Music 158A   Sound & Music Computing w/ CNMAT Technologies
+Music 159   Computer Programming for Music Applications
+Music 209   Advanced Topics in Computer Music (depending on topic)
+Neuroscience     All Technical UD and Grad (see footnote #9)
+New Media   New Media 190 (formerly CS 194-8)   Advanced Animation
+New Media C203 (formerly CS 295-85)   Critical Making
+New Media C262   Theory and Practice of Tangible User Interfaces
+Nuclear Engineering     All Technical 4-unit UD and Grad
+Nutritional Sciences and Toxicology   NUSCTX 103   Nutrient Function and Metabolism
+Philosophy   Philos 140A   Intermediate Logic
+Philos 140B   Intermediate Logic
+Philos 143   Modal Logic
+Physics     All Technical 4-unit UD and Grad
+Political Science   Pol Sci C135/Pol Sci W135   Game Theory in the Social Sciences
+Pol Sci 132B   Machine Learning for Social Scientists
+Psychology   Psych C123   Computational Models of Cognition
+Public Health   Public Health 142   Introduction to Probability and Statistics in Biology and Public Health
+Public Health 150A   Introduction to Epidemiology and Human Disease
+Public Health 162A   Public Health Microbiology
+Public Health 252D   Introduction to Causal Inference
+Public Policy   Pub Pol 290 - 002   Special Topics in Public Policy Progress: An Introduction to Technology and Public Policy
+Pub Pol C/W184   Energy and Society
+Sociology   Sociol 166   Society and Technology
+Spanish   Spanish 100   Introduction to Hispanic Linguistics
+Statistics     All Technical 4 unit UD and Grad
+Theater   Theater 177   Sound Design and Media Theater
+UGBA   UGBA 103   Introduction to Finance
+UGBA 120AA   Intermediate Financial Accounting 1
+UGBA 120AB   Intermediate Financial Accounting 2
+UGBA 122   Financial information Analysis
+( 1) Except Bioengineering 100, C181, 190, 192, 196
+( 2) Except Chemical Engineering 180, 185
+( 3) Except Civil Engineering 167, 192, 252L, and 290R
+( 4) Students admitted Fall 22 or later may not use CS courses to fulfill the technical elective requirement
+( 5) Except Engineering 102, 125, 157AC
+( 6) Except Industrial Engineering 171, select 185, 186, 190 series, 191
+( 7) All IND ENG 185/ENGIN 183 sections need to be evaluated each semester. Check for  approved and denied sections  before you  submit a new syllabus to be evaluated
+( 8) Except Mechanical Engineering 191K
+(9 ) Students need a minimum of 4 upper-division tech elective units. Check the course listing for details:  https://neuroscience.berkeley.edu/upper-division-neu-courses .
+Academics
+Courses
+Approved CS Graduate and Special Topics Courses
+Technical Electives for the Computer Science Major
+Course-Numbering Convention
+Robotics Projects for EE 106/206B
+Graduate Admissions & Programs
+Industry-Oriented Graduate Programs
+Research-Oriented Graduate Programs
+Graduate Admissions Frequently Asked Questions
+Graduate Fellowships
+Adding the EECS/CS M.S. From Another Department
+Recommended Coursework for Applying to the Graduate Degree Programs
+Undergraduate Admissions & Programs
+EECS Bachelor of Science
+ECE Bachelor of Science
+Computer Science Bachelor of Arts
+Undergraduate Program Comparison
+Can You See Yourself Doing Research This Summer?
+Prospective Student Visitors
+Second Bachelor’s Degree Candidates
+Prospective Women Students
+New Silicon Initiative (NSI)
+Apple NSI Course Flow Map
+Apple NSI Fellowship and Scholarship Recipients
+View
+Open Faculty Positions

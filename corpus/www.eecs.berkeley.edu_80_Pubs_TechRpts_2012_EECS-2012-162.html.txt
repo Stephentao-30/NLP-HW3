@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-162.html
+Dr.Chi
+Yuan Yang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-162
+June 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-162.pdf
+Advisors:  Sayeef Salahuddin and Lee Fleming
+BibTeX citation:
+@mastersthesis{Yang:EECS-2012-162,
+Author= {Yang, Yuan},
+Title= {Dr.Chi},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-162.html},
+Number= {UCB/EECS-2012-162},
+}
+EndNote citation:
+%0 Thesis
+%A Yang, Yuan
+%T Dr.Chi
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 4
+%@ UCB/EECS-2012-162
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-162.html
+%F Yang:EECS-2012-162

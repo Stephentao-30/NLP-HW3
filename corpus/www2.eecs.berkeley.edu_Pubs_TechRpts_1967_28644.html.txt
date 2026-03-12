@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28644.html
+Invariant Recognition of Geometric Shapes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Invariant Recognition of Geometric Shapes
+Invariant Recognition of Geometric Shapes
+J. Alan Steppe and Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M237
+December 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-237.pdf
+BibTeX citation:
+@techreport{Steppe:M237,
+Author = {Steppe, J. Alan and Wong, Eugene},
+Title = {Invariant Recognition of Geometric Shapes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28644.html},
+Number = {UCB/ERL M237}
+}
+EndNote citation:
+%0 Report
+%A Steppe, J. Alan
+%A Wong, Eugene
+%T Invariant Recognition of Geometric Shapes
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M237
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28644.html
+%F Steppe:M237

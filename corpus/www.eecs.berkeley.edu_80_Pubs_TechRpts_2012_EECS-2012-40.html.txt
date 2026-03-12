@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-40.html
+Understanding TCP Incast and Its Implications for Big Data Workloads
+Yanpei Chen and Rean Griffit and David Zats and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-40
+April 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-40.pdf
+TCP incast is a recently identified network transport pathology that affects many-to-one communication patterns in datacenters. It is caused by a complex interplay between datacenter applications, the underlying switches, network topology, and TCP, which was originally designed for wide area networks. We seek to understand how incast impacts the emerging class of big data workloads. We develop and validate a quantitative model that accurately predicts the onset of incast and TCP behavior both before and after. We also investigate how incast affects the Apache Hadoop implementation of MapReduce, an important example of a big data application. We further reflect on some technology and data analysis trends surrounding big data, speculate on how these trends interact with incast, and make recommendations for datacenter operators.
+BibTeX citation:
+@techreport{Chen:EECS-2012-40,
+Author= {Chen, Yanpei and Griffit, Rean and Zats, David and Katz, Randy H.},
+Title= {Understanding TCP Incast and Its Implications for Big Data Workloads},
+Year= {2012},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-40.html},
+Number= {UCB/EECS-2012-40},
+Abstract= {TCP incast is a recently identified network transport pathology that affects many-to-one communication patterns in datacenters. It is caused by a complex interplay between datacenter applications, the underlying switches, network topology, and TCP, which was originally designed for wide area networks. We seek to understand how incast impacts the emerging class of big data workloads. We develop and validate a quantitative model that accurately predicts the onset of incast and TCP behavior both before and after. We also investigate how incast affects the Apache Hadoop implementation of MapReduce, an important example of a big data application. We further reflect on some technology and data analysis trends surrounding big data, speculate on how these trends interact with incast, and make recommendations for datacenter operators.},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yanpei
+%A Griffit, Rean
+%A Zats, David
+%A Katz, Randy H.
+%T Understanding TCP Incast and Its Implications for Big Data Workloads
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 April 6
+%@ UCB/EECS-2012-40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-40.html
+%F Chen:EECS-2012-40

@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28704.html
+A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges
+A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M335
+April 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-335.pdf
+BibTeX citation:
+@techreport{Zadeh:M335,
+Author = {Zadeh, L.A.},
+Title = {A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28704.html},
+Number = {UCB/ERL M335}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M335
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28704.html
+%F Zadeh:M335

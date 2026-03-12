@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28707.html
+Cutsets and Partitions of Hypergraphs
+Eugene L. Lawler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M340
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-340.pdf
+BibTeX citation:
+@techreport{Lawler:M340,
+Author= {Lawler, Eugene L.},
+Title= {Cutsets and Partitions of Hypergraphs},
+Year= {1972},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28707.html},
+Number= {UCB/ERL M340},
+}
+EndNote citation:
+%0 Report
+%A Lawler, Eugene L.
+%T Cutsets and Partitions of Hypergraphs
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M340
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28707.html
+%F Lawler:M340

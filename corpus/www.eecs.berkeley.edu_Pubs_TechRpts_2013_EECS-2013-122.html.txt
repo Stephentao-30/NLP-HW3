@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-122.html
+The Fixed-Point Theory of Strictly Causal Functions
+Eleftherios Matsikoudis and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-122
+June 9,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-122.pdf
+We ask whether strictly causal components form well defined systems when arranged in feedback configurations. The standard interpretation for such configurations induces a fixed-point constraint on the function modelling the component involved. We define strictly causal functions formally, and show that the corresponding fixed-point problem does not always have a well defined solution. We examine the relationship between these functions and the functions that are strictly contracting with respect to a generalized distance function on signals, and argue that these strictly contracting functions are actually the functions that one ought to be interested in. We prove a constructive fixed-point theorem for these functions, introduce a corresponding induction principle, and study the related convergence process.
+BibTeX citation:
+@techreport{Matsikoudis:EECS-2013-122,
+Author= {Matsikoudis, Eleftherios and Lee, Edward A.},
+Title= {The Fixed-Point Theory of Strictly Causal Functions},
+Year= {2013},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-122.html},
+Number= {UCB/EECS-2013-122},
+Abstract= {We ask whether strictly causal components form well defined systems when arranged in feedback configurations. The standard interpretation for such configurations induces a fixed-point constraint on the function modelling the component involved. We define strictly causal functions formally, and show that the corresponding fixed-point problem does not always have a well defined solution. We examine the relationship between these functions and the functions that are strictly contracting with respect to a generalized distance function on signals, and argue that these strictly contracting functions are actually the functions that one ought to be interested in. We prove a constructive fixed-point theorem for these functions, introduce a corresponding induction principle, and study the related convergence process.},
+}
+EndNote citation:
+%0 Report
+%A Matsikoudis, Eleftherios
+%A Lee, Edward A.
+%T The Fixed-Point Theory of Strictly Causal Functions
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 June 9
+%@ UCB/EECS-2013-122
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-122.html
+%F Matsikoudis:EECS-2013-122

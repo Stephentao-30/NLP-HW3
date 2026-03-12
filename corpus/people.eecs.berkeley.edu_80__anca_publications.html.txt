@@ -1,0 +1,188 @@
+URL: http://people.eecs.berkeley.edu:80/~anca/publications.html
+Anca Dragan
+Anca Dragan
+Contact
+CV
+Publications
+Teaching
+Home
+Read an overview of my lab's research and check out the lab's website  here .
+Quick List of Highlights
+Cooperative Inverse Reinforcement Learning
+Inverse Reward Design
+Active Preference-Based Learning of Reward Functions
+Reward-Rational Implicit Choice: A Unifying Formalism for Reward Learning
+Preferences Implicit in the State of the World
+Planning for Autonomous Cars That Leverages Effects on Human Drivers.
+On the Sensitivity of Reward Inference to Misspecified Human Models
+Learning Under Misspecified Objective Spaces
+Automatically Auditing LLMs
+The Offswitch Game
+Bridging RL Theory and Practice with the Effective Horizon
+Where Do You Think You're Going? Inferring Beliefs About Dynamics From Behavior.
+Highlights: Learning Reward Functions / Value Alignment from Diverse Human Feedback and Leaked Information
+[we often misspecify reward functions, but the reward we do specify is a useful observation about the underlying true reward the agent should optimize; what makes the reward misspecified? that we can not focus on all possible environments/states the agent will operate in, and instead design only for a development set -- only there can the specified reward function be trusted] D. Hadfiled-Menell, S. Milli, P. Abbeel, S. Russell, and A.D. Dragan.    Inverse Reward Design   . Neural Information Processing Systems (NIPS), 2017.  (oral, acceptance rate 1.2%)
+[even prior to observing human behavior, the current state of the environment leaks information about what people want, because people have been acting in that environemnt already] R. Shah, D. Krasheninnikov, J. Alexander, P. Abbeel, and A.D. Dragan.
+Preferences Implicit in the State of the World . International Conference on Learning Representations (ICLR), 2019.
+[responding to corrections by updating the reward function: there are many heuristics for responding to physical interaction from a human, but here we argue that pHRI is intentional and thus informative of the human's preferences for the task, thereby defining the notion of an optimal response; we also derive a real-time approximation] A. Bajcsy, D. Losey, M. O'Malley, and A.D. Dragan.    Learning Robot Objectives From Physical Human Interaction   . Conference on Robot Learning (CoRL), 2017.  (oral, acceptance rate 10%)
+[we observe that explicit feedback and leaked information can all be formalized as a reward-rational implicit choice the human is making -- a unifying lens on reward learning] S. Milli, H.j. Jeon, and A.D. Dragan.    Reward-Rational (Implicit) Choice: A Unifying Formalism for Reward Learning.    (in review)
+Highlights: Modeling Human Behavior Despite Irrationality
+[human behavior appears irrational, but can be explained as rational under  Different  Beliefs Than Those of the Robot's/Agent's] S. Reddy, A.D. Dragan, and S. Levine.  Where Do You Think You're Going? Inferring Beliefs About Dynamics From Behavior.  Neural Information Processing Systems (NeurIPS), 2018.
+[much work focuses on better predictive models of people; but almost any model is bound to be wrong at times, and here we enable the robot to detect this online -- by estimating the person's  apparent  irrationality,
+the robot not only detects misspecification when the human apppears too irrational to its model, but it also automatically becomes more conservative due to making higher variance future predictions ] J. Fisac, A. Bajcsy, D. Fridovich, S. Herbert, S. Wang, S. Milli, C. Tomlin, and A.D. Dragan.  Probabilistically Safe Robot Planning
+with Confidence-Based Human Predictions . Robotics: Science and Systems (RSS), 2018.  (invited to special issue)
+Highlights: Capturing the Game-Theoretic Nature of Alignment/Interaction
+[a formalism of value alignment as a collaboration with a human with known objective: here we advocate that Inverse RL should be formulated as a collaboration in which the agent is no longer a passive observer, and the human is no longer an uninterested expert acting as if in isolation] D. Hadfield-Menell, A.D. Dragan, P. Abbeel, and S. Russell.    "Cooperative Inverse Reinforcement Learning".    Neural Information Processing Systems (NIPS), 2016.
+[there are many handcrafted strategies for enhancing coordination with people (e.g. cars inch forward at intersections);
+here we show that cars invent such strategies autonomously if they model their influence on human actions] D. Sadigh, S.S. Sastry, S.A. Seshia, and A.D. Dragan.    "Information Gathering Actions Over Human Internal State".  International Conference on Intelligent Robots and Systems (IROS), 2016  (Best Cognitive Robotics Paper Award Finalist)  , and  "Planning for Autonomous Cars That Leverage Effects on Human Actions".    Robotics: Science and Systems (RSS), 2016.  (invited to special issue)
+All Conference Papers & Journal Articles
+E. Jones, A.D. Dragan, and J. Steinhardt.    Adversaries Can Misuse Combinations of Safe Models.   International Conference on Machine Learning (ICML), 2025.
+C. Laidlaw, S. Singhal, and A.D. Dragan.    Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking.   International Conference on Learning Representations (ICLR), 2025.
+J.Z. He, S. Pandey, M. Schrum, and A.D. Dragan.    CoS: Enhancing Personalization and Mitigating Bias With Context Steering.   International Conference on Learning Representations (ICLR), 2025.
+L. Lang, D. Foote, S. Russell, A.D. Dragan, E. Jenner, and S. Emmons.  When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning From Human Feedback.  Neural Information Processing Systems (NeurIPS), 2024.
+V. Myers, E. Ellis, S. Levine, B. Eysenbach, and A.D. Dragan.    Learning to Assist Humans Without Inferring Rewards.   Conference on Neural Information Processing Systems (NeurIPS), 2024.
+Z. Yang, M. Jun, J. Tien, S. Russell, A.D. Dragan, and E. Bıyık.  Trajectory Improvement and Reward Learning From Comparative Language Feedback.  Conference on Robot Learning (CoRL), 2024.
+M. Carroll, D. Foote, A. Siththaranjan, S. Russell, A.D. Dragan.    AI Alignment With Changing and Influenceable Reward Functions.   International Conference on Machine Learning (ICML), 2024.
+V. Myers, C. Zheng, A.D. Dragan, S. Levine, and B. Eysenbach.    Learning Temporal Distances: Contrastive Successor Features Can Provide a Metric Structure for Decision-Making.   International Conference on Machine Learning (ICML), 2024.
+M. Pan, M. Schrum, V. Myers, E. Bıyık, and A.D. Dragan.    Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach for Adaptive Brain Stimulation.   International Conference on Machine Learning (ICML), 2024.
+Y. Bengio, G. Hinton, others, and A.D. Dragan.    Managing Extreme AI Risks Amid Rapid Progress.   Science, 2024.
+M. Kwon, H. Hu, V. Myers, S. Karamcheti, A.D. Dragan, and D. Sadigh.    Toward Grounded Commonsense Reasoning.   IEEE International Conference on Robotics and Automation (ICRA), 2024.
+C. Laidlaw, B. Zhu, S. Russell, and A.D. Dragan.    The Effective Horizon Explains Deep RL Performance in Stochastic Environments.   International Conference on Learning Representations (ICLR), 2024.
+E. Ellis, G. Ghosal, S.J. Russell, A.D. Dragan, and E. Bıyık.    A Generalized Acquisition Function for Preference-Based Reward Learning.   International Conference on Robotics and Automation (ICRA), 2024.
+Stephen Casper and co-authors.    Open Problems and Fundamental Limitations of Reinforcement Learning From Human Feedback.   Transactions on Machine Learning Research (TMLR), 2023.
+C. Laidlaw, S. Russell, and A.D. Dragan.    Bridging Reinforcement Learning Theory and Practice With the Effective Horizon.   Neural Information Processing Systems (NeurIPS), 2023.  (oral)
+J. Hong, S. Levine, and A.D. Dragan.    Learning to Influence Human Behavior With Offline Reinforcement Learning.   Neural Information Processing Systems (NeurIPS), 2023.
+J. Gao, S. Reddy, G. Berseth, A.D. Dragan, and S. Levine.    Bootstrapping Adaptive Human-Machine Interfaces With Offline Reinforcement Learning.   International Conference on Intelligent Robots and Systems (IROS), 2023.
+V. Myers, A. He, K. Fang, H. Walke, P. Hansen-Estruch, C. Cheng, M. Jalobeanu, A. Kolobov, A.D. Dragan, and S. Levine.    Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control.   Conference on Robot Learning (CoRL), 2023.
+E. Jones, A.D. Dragan, A. Raghunathan, and J. Steinhardt.    Automatically Auditing Large Language Models via Discrete Optimization.   International Conference on Machine Learning (ICML), 2023.
+J.Z.Y He, Z. Erickson, D.S. Brown, A.D. Dragan.    Quantifying Assistive Robustness via the Natural-Adversarial Frontier.   7th Conference on Robot Learning (CoRL), 2023.
+J. Hong, K. Bhatia, and A.D. Dragan.    On the Sensitivity of Reward Inference to Misspecified Human Models.   International Conference on Learning Representations (ICLR), 2023.
+J. Tien, J.Z.Y. He, Z. Erickson, A.D. Dragan, and D.S. Brown.    Causal Confusion and Reward Misidentification in Preference-Based Reward Learning.   International Conference on Learning Representations (ICLR), 2023.
+A. Bobu, Y. Liu, R. Shah, D. S. Brown, and A. D. Dragan.  Similarity-Based Implicit Representation Learning.  International Conference on Human-Robot Interaction (HRI), 2023.
+R. Tian, M. Tomizuka, A.D. Dragan, and A. Bajcsy.    Towards Modeling and Influencing the Dynamics of Human Learning.   International Conference on Human-Robot Interaction (HRI), 2023.
+G.R. Ghosal, M. Zurek, D.S. Brown, and A.D. Dragan.    The Effect of Modeling Human Rationality Level on Learning Rewards From Multiple Feedback Types.   AAAI Conference on Artificial Intelligence (AAAI), 2023.  (oral)
+D. Shin, A. D. Dragan, and D. S. Brown.    Benchmarks and Algorithms for Offline Preference-Based Reward Learning.   Transactions on Machine Learning Research (TMLR), 2023.
+J.Z.Y. He, A. Raghunathan, D.S. Brown, Z. Erickson, and A.D. Dragan.    Learning Representations That Enable Generalization in Assistive Tasks.   Conference on Robot Learning (CORL), 2022.
+M. Carroll, O. Paradise, J. Lin, R. Georgescu, M. Sun, D. Bignell, S. Milani, K. Hofmann, M. Hausknecht, A.D. Dragan, S. Devlin.    Uni[MASK]: Unified Inference in Sequential Decision Problems.   Conference on Neural Information Processing Systems (NeurIPS), 2022.  (oral)
+S. Reddy, S. Levine, and A.D. Dragan.    First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization.   Neural Information Processing Systems (NeurIPS), 2022.
+A. Sripathy, A. Bobu, Z. Li, K. Sreenath, D.S. Brown, and A.D. Dragan.    Teaching Robots to Span the Space of Functional Expressive Motion.   International Conference on Intelligent Robots and Systems (IROS), 2022.
+M. Carroll, D. Hadfield-Menell, S. Russell, and A.D. Dragan.    Estimating and Penalizing Induced Preference Shifts in Recommender Systems.   International Conference on Machine Learning (ICML), 2022.
+R. Tian, L. Sun, A. Bajcsy, M. Tomizuka, and A.D. Dragan.    Safety Assurances for Human-Robot Interaction via Confidence-Aware Game-Theoretic Human Models.   International Conference on Robotics and Automation (ICRA), 2022.
+S. Chen*, J. Gao*, S. Reddy, G. Berseth, A.D. Dragan, and S. Levine.    ASHA: Assistive Teleoperation via Human-in-the-Loop Reinforcement Learning.   International Conference on Robotics and Automation (ICRA), 2022.
+J. Lin, D. Fried, D. Klein, and A.D. Dragan.    Inferring Rewards From Language in Context.   Association for Computational Linguistics (ACL), 2022.
+C. Laidlaw and A.D. Dragan.    The Boltzmann Policy Distribution: Accounting for Systematic Suboptimality in Human Models.   International Conference on Learning Representations (ICLR), 2022.
+A. Bobu, M. Wiggert, C. Tomlin, and A. D. Dragan.    Inducing Structure in Reward Learning by Learning Features.   International Journal of Robotics Research, 2022.
+R. Shah, C. Wild, S. H. Wang, N. Alex, B. Houghton, W. Guss, S. Mohanty, A. Kanervisto, S. Milani, N. Topin, P. Abbeel, S. Russell, and A.D. Dragan.    The MineRL BASALT Competition on Learning From Human Feedback.   Neural Information Processing Systems, Competition Track (NeurIPS), 2021.
+S. Reddy, A.D. Dragan, and S. Levine.    Pragmatic Image Compression for Human-in-the-Loop Decision-Making.   Neural Information Processing Systems (NeurIPS), 2021.  (spotlight talk)
+K. Lee, L. Smith, A.D. Dragan, and P. Abbeel.    B-Pref: Benchmarking Preference-Based Reinforcement Learning.   Neural Information Processing Systems (NeurIPS), 2021.
+D. Losey, A. Bajcsy, M. O'Malley, and A.D. Dragan.    Physical Interaction as Communication: Learning Robot Objectives Online From Human Corrections.   International Journal of Robotics Research (IJRR), 2021.
+J.Z. He, A.D. Dragan.    Assisted Robust Reward Design.   Conference on Robot Learning (CoRL), 2021.
+Z. Javed, D.S. Brown, S. Sharma, J Zhu, A. Balakrishna, M. Petrik, A.D. Dragan, and K. Goldberg.    Policy Gradient Bayesian Robust Optimization for Imitation Learning.   International Conference on Machine Learning (ICML), 2021.
+D.S. Brown, J. Schneider, A.D. Dragan, and S. Niekum.    Value Alignment Verification.   International Conference on Machine Learning (ICML), 2021.
+L. Sun, X. Jia, and A.D. Dragan.    On Complementing End-to-End Human Behavior Predictors With Planning.   Robotics: Science and Systems (RSS), 2021.
+O. Watkins, S. Huang, J. Frost, K. Bhatia, E. Weiner, P. Abbeel, T. Darrell, B. Plummer, K. Saenko, and A.D. Dragan.    Explaining Robot Policies.   Applied AI Letters (AAIL), 2021.
+A. Jain, L. Chan, D.S. Brown, and A.D. Dragan.    Optimal Cost Design for Model Predictive Control.   Learning for Dynamics and Control (L4DC), 2021.
+A. Bajcsy, A. Siththaranjan, C.J. Tomlin, and A.D. Dragan.    Analyzing Human Models That Adapt Online.   International Conference on Robotics and Automation (ICRA), 2021.
+A. Sripathy, A. Bobu, D.S. Brown, and A.D. Dragan.    Dynamically Switching Human Prediction Models for Efficient Planning.   International Conference on Robotics and Automation (ICRA), 2021.
+M. Zurek, A. Bobu, D.S. Brown, and A.D. Dragan.    Situational Confidence Assistance for Lifelong Shared Autonomy.   International Conference on Robotics and Automation (ICRA), 2021.
+P. Knott, M. Carroll, S. Devlin, K. Ciosek, K. Hofmann, A.D. Dragan, R. Shah.    Evaluating the Robustness of Collaborative Agents.   Autonomous Agents and Multiagent Systems (AAMAS), 2021.
+J. Gao, S. Reddy, G. Berseth, N. Hardy, N. Natraj, K. Ganguly, A. D. Dragan, and S. Levine.    X2T: Training an X-to-Text Typing Interface With Online Learning From User Feedback.   International Conference on Learning Representations (ICLR), 2021.
+E. Ratner, A. Bajcsy, T. Fong, C. J. Tomlin, and A. D. Dragan.    Efficient Dynamics Estimation With Adaptive Model Sets.   IEEE Robotics and Automation Letters (RA-L), 2021.
+A. Bajcsy, S. Bansal, E. Ratner, C.J. Tomlin, and A.D. Dragan.    A Robust Control Framework for Human Motion Prediction.   IEEE Robotics and Automation Letters (RA-L), 2021.
+D. Lindner, R. Shah, P. Abbeel, and A.D. Dragan.    Learning What to Do by Simulating the Past.   International Conference on Learning Representations (ICLR), 2021.
+A. Bobu, M. Wiggert, C. Tomlin, and A.D. Dragan.    Feature Expansive Reward Learning: Rethinking Human Input.   International Conference on Human-Robot Interaction (HRI), 2021.  (best paper finalist)
+K. Bhatia, P.L. Bartlett, A.D. Dragan, and J. Steinhardt.    Agnostic Learning With Unknown Utilities.   Innovations in Theoretical Computer Science (ITCS), 2021.
+H.J. Jeon, S. Milli, and A.D. Dragan.    Reward-Rational (Implicit) Choice: A Unifying Formalism for Reward Learning.   Neural Information Processing Systems (NeurIPS), 2020.
+Y. Du, S. Tiomkin, E. Kiciman, D. Polani, P. Abbeel, and A.D. Dragan.    AvE: Assistance via Empowerment.   Neural Information Processing Systems (NeurIPS), 2020.
+K. Bhatia, A. Pananjady, P.L. Bartlett, A.D. Dragan, and M.J. Wainwright.    Preference Learning Along Multiple Criteria: A Game-Theoretic Perspective.   Neural Information Processing Systems (NeurIPS), 2020.
+S. Reddy, S. Levine, and A.D. Dragan.    Assisted Perception: Optimizing Observations to Communicate State.   Conference on Robot Learning (CoRL), 2020.
+S. Reddy, A.D. Dragan, S. Levine, S. Legg, and J. Leike.    Learning Human Objectives by Evaluating Hypothetical Behavior.   International Conference on Machine Learning (ICML), 2020.
+A. Bobu, A. Bajcsy, J. Fisac, and A.D.Dragan.    Quantifying Hypothesis Space Misspecification in Learning From Human-Robot Demonstrations and Physical Corrections.   IEEE Transactions on Robotics (TRO), 2020.  (best paper honorable mention)
+V. Gates, T. Griffiths, and A.D. Dragan.    How to Be Helpful to Multiple People at Once.   Cognitive Science, 2020.
+G. Swamy, S. Reddy, S. Levine, and A.D. Dragan.    Scaled Autonomy: Enabling Human Operators to Control Robot Fleets.   International Conference on Robotics and Automation (ICRA), 2020.
+D. Fridovich-Keil, E. Ratner, A.D. Dragan, and C. Tomlin.    Efficient Iterative Linear-Quadratic Approximations for Nonlinear Multi-Player General-Sum Games.   International Conference on Robotics and Automation (ICRA), 2020.
+A. Bajcsy, S. Bansal, E. Ratner, A.D. Dragan, and C. Tomlin.    A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion.   International Conference on Robotics and Automation (ICRA), 2020.
+A. Bobu, D. Scobee, S. Satry, and A.D. Dragan.    LESS Is More: Rethinking Probabilistic Models of Human Behavior.   International Conference on Human-Robot Interaction (HRI), 2020.  (best paper award)
+S. Reddy, A.D. Dragan, and S. Levine.    SQIL: Imitation Learning via Reinforcement Learning With Sparse Rewards.   International Conference on Learning Representations (ICLR), 2020.
+M. Carroll, R. Shah, M. Ho, T. Griffiths,  S. Sheshia, P. Abbeel, and A.D. Dragan.    On the Utility of Learning About Humans for Human-AI Coordination.   Neural Information Processing Systems (NeurIPS), 2019.
+I. Huang, S. Huang, R. Pandya, and A.D. Dragan.    Nonverbal Robot Feedback for Human Teachers.   Conference on Robot Learning (CoRL), 2019.  (oral)
+S. Milli and A.D. Dragan.    Literal or Pedagogic Human? Analyzing Human Model Misspecification in Objective Learning.   Uncertainty in Artificial Intelligence (UAI), 2019.  (oral)
+R. Shah, N. Gundotra, P. Abbeel, and A.D. Dragan.    Inferring Reward Functions From Demonstrators With Unknown Biases.   International Conference on Machine Learning (ICML), 2019.
+K. Xu, E. Ratner, A.D. Dragan, S. Levine, and C. Finn.    Learning a Prior Over Intent via Meta-Inverse Reinforcement Learning.   International Conference on Machine Learning (ICML), 2019.
+R. Shah and. Krasheninnikov, J. Alexander, P. Abbeel, and A.D. Dragan.    Preferences Implicit in the State of the World.   International Conference on Learning Representations (ICLR), 2019.
+J. Fisac, E. Bronstein, E. Stefansson andD. Sadigh, S. Sastry, and A.D. Dragan.    Hierarchical Game-Theoretic Planning for Autonomous Vehicles.   International Conference on Robotics and Automation (ICRA), 2019.
+J. Zhang and A.D. Dragan.    Learning From Extrapolated Corrections.   International Conference on Robotics and Automation (ICRA), 2019.
+D. Fridovich, A. Bajcsy, J. Fisac, S. Herbert, S. Wang, A.D. Dragan, and C. Tomlin.    Confidence-Aware Motion Prediction for Real-Time Collision Avoidance.   International Journal of Robotics Research (IJRR), 2019.
+A. Bajcsy, S. Herbert, D. Fridovich, J. Fisac, S. Deglurkar, A.D. Dragan, and C. Tomlin.    A Scalable Framework for Real-Time Multi-Robot and Multi-Human Collision Avoidance.   International Conference on Robotics and Automation (ICRA), 2019.
+R. Choudhury, G. Swarmy, D. Hadfield-Menell, and A.D. Dragan.    On the Utility of Model Learning in HRI.   International Conference on Human-Robot Interaction (HRI), 2019.
+L. Chan, D. Hadfield-Menell, S. Srinivasa, and A.D. Dragan.    The Assistive Multi-Armed Bandit.   International Conference on Human-Robot Interaction (HRI), 2019.
+S. Milli, J. Miller, A.D. Dragan, and M. Hardt.    The Social Cost of Strategic Classification.   Conference on Fairness and Accountability and Transparency (FAT*), 2019.
+S. Milli, L. Schmidt, A.D. Dragan, and M. Hardt.    Model Reconstruction From Model Explanations.   Conference on Fairness and Accountability and Transparency (FAT*), 2019.
+R. Shah, N. Gundotra, P. Abbeel, and A.D. Dragan.    On the Feasibility of Learning and Rather Than Assuming and Human Biases for Reward Inference.   International Conference on Machine Learning (ICML), 2019.
+R. Pandya, S. Huang, D. Hadfield-Menell, and A.D. Dragan.    Human-AI Learning Performance in Multi-Armed Bandits.   Artificial Intelligence and Ethics and Society (AIES), 2019.
+S. Reddy, A.D. Dragan, and S. Levine.    Where Do You Think You're Going? Inferring Beliefs About Dynamics From Behavior.   Neural Information Processing Systems (NeurIPS), 2018.
+A. Bobu, A. Bajcsy, J. Fisac, and A.D.Dragan.    Learning Under Misspecified Objective Spaces.   Conference on Robot Learning (CoRL), 2018.  (invited to special issue)
+L. Sun, W. Zhan, M. Tomizuka, and A.D. Dragan.    Courteous Autonomous Cars.   International Conference on Intelligent Robots and Systems (IROS), 2018.
+A. Zhou and A.D. Dragan.    Cost Functions for Robot Motion Style.   International Conference on Intelligent Robots and Systems (IROS), 2018.
+N. Landolfi  and A.D. Dragan.    Social Cohesion in Autonomous Driving.   International Conference on Intelligent Robots and Systems (IROS), 2018.
+H.J. Jeon and A.D. Dragan.    Configuration Space Metrics.   International Conference on Intelligent Robots and Systems (IROS), 2018.  (best student paper award finalist)
+S. Huang, K. Bhatia, P. Abbeel, and A.D. Dragan.    Establishing Appropriate Trust via Critical States.   International Conference on Intelligent Robots and Systems (IROS), 2018.
+D. Malik, M. Palaniappan, J. Fisac, D. Hadfield-Menell, S. Russell, and A. D. Dragan.    An Efficient and Generalized Bellman Update for Cooperative Inverse Reinforcement Learning.   International Conference on Machine Learning (ICML), 2018.  (oral)
+E. Ratner, D. Hadfield-Menell, and A.D. Dragan.    Simplifying Reward Design Through Divide-And-Conquer.   Robotics: Science and Systems (RSS), 2018.
+S. Reddy, A.D. Dragan, and S. Levine.    Shared Autonomy via Deep Reinforcement Learning.   Robotics: Science and Systems (RSS), 2018.
+J. Fisac,  A. Bajcsy, D. Fridovich, S. Herbert, S. Wang, C. Tomlin, and A.D. Dragan.    Probabilistically Safe Robot Planning With Confidence-Based Human Predictions.   Robotics: Science and Systems (RSS), 2018.  (invited to special issue)
+A. Bestick, R. Panya, R. Bajcsy, and A.D. Dragan.    Learning Human Ergonomic Preferences for Handovers.   International Conference on Robotics and Automation (ICRA), 2018.
+D. Sadigh, B. Landolfi, S. Sastry, S. Seshia, and A.D. Dragan.    Planning for Cars That Coordinate With People: Leveraging Effects on Human Actions for Planning and Active Information Gathering Over Human Internal State.   Autonomous Robots (AURO), 2018.
+A. Bajcsy, D. Losey, M. O'Malley, and A.D. Dragan.    Learning From Physical Human Corrections and One Feature at a Time.   International Conference on Human-Robot Interaction (HRI), 2018.
+M. Kwon, S. Huang, and A.D. Dragan.    Expressing Robot Incapability.   International Conference on Human-Robot Interaction (HRI), 2018.  (best paper award finalist)
+C. Basu, M, Singhal, and A.D. Dragan.    Learning From Richer Human Guidance: Augmenting Comparison-Based Learning With Feature Queries.   International Conference on Human-Robot Interaction (HRI), 2018.
+D. Hadfield-Menell, S. Milli, P. Abbeel, S. Russell, and A.D. Dragan.    Inverse Reward Design.   Neural Information Processing Systems (NIPS), 2017.  (oral, acceptance rate 1.2 percent)
+J. Fisac, M. Gates, J. Hammrick, C. Liu, D. Hadfield-Menell, S. Sastry, T. Griffiths, and A.D. Dragan.    Pragmatic-Pedagogic Value Alignment.   International Symposium on Robotics Research (ISRR), 2017.  (best bluesky paper award finalist)
+M. Laskey, J. Mahler, A.D. Dragan, and K. Goldberg.    Dart:Optimizing Noise Injection in Imitation Learning.   Conference on Robot Learning (CoRL), 2017.
+A. Bajcsy, D. Losey, M. O'Malley, and A.D. Dragan.    Learning Robot Objectives From Physical Human Interaction.   Conference on Robot Learning (CoRL), 2017.  (oral, acceptance rate 10 percent)
+S. Huang, P. Abbeel, and A.D. Dragan.    Enabling Robots to Communicate Their Objectives.   Robotics: Science and Systems (RSS), 2017.  (invited to special issue)
+D. Sadigh, A.D. Dragan, S. Sastry, and S. Seshia.    Active Preference-Based Learning of Reward Functions.   Robotics: Science and Systems (RSS), 2017.
+S. Milli, D. Hadfield-Menell, A.D. Dragan, P. Abbeell, and S. Russell.    Should Robots Be Obedient?.   International Joint Confernece on Artificial Intelligence (IJCAI), 2017.
+D. Hadfield-Menell, A.D. Dragan, P. Abbeell, and S. Russell.    The Off-Switch Game.   International Joint Confernece on Artificial Intelligence (IJCAI), 2017.
+J. Andreas, A.D. Dragan, and D. Klein.    Translating Neuralese.   Association for Computational Linguistics (ACL), 2017.
+M. Laskey, S. Krishnan, J. Mahler, K. Jamieson, A.D. Dragan, and K. Goldberg.    Comparing Human-Centric and Robot-Centric Sampling for Robot Learning From Demonstration.   International Conference on Robotics and Automation (ICRA), 2017.
+C. Basu, Q. Yang andD. Hungerman, M, Singhal, and A.D. Dragan.    Do You Want Your Autonomous Car to Drive Like You?.   International Conference on Human-Robot Interaction (HRI), 2017.
+A. Zhou, D. Hadfield-Menell andA. Nagabaudi, and A.D. Dragan.    Expressive Robot Motion Timing.   International Conference on Human-Robot Interaction (HRI), 2017.
+J. Fisac, C. Liu, J. Harick, K. Hedrick, S. Sastry, T. Griffiths, and  A.D. Dragan.    Generating Plans That Predict Themselves.   Workshop on the Algorithmic Foundations of Robotics (WAFR), 2016.
+D. Hadfield-Menell, A.D. Dragan, P. Abbeell, and S. Russell.    Cooperative Inverse Reinforcement Learning.   Neural Information Processing Systems (NIPS), 2016.
+D. Sadigh, S. Sastry, S. Seshia, and A.D. Dragan.    Information Gathering Actions Over Human Internal State.   International Conference on Intelligent Robots and Systems (IROS), 2016.  (best cognitive robotics paper award finalist)
+A. Bestick, R. Bajcsy, and A.D. Dragan.    Implicitly Assisting Humans to Choose Good Grasps in Robot to Human Handovers.   International Symposium on Experimental Robotics (ISER), 2016.
+M. Laskey,  J. Lee, C. Chuck, D.V. Gealy, W. Hsieh, F.T. Pokorny, A.D. Dragan, and K. Goldberg.    Using a Hierarchy of Supervisors in Learning From Demonstration.   International Conference on Automation Science and Engineering (CASE), 2016.
+Z. Marinho, B. Boots, A.D. Dragan, A. Byravan, G.J. Gordon, and S.S. Srinivasa.    Functional Gradient Motion Planning in Reproducing Kernel Hilbert Spaces.   Robotics: Science and Systems (RSS), 2016.
+D. Sadigh, S. Sastry, S. Seshia, and A.D. Dragan.    Planning for Autonomous Cars That Leverages Effects on Human Drivers.   Robotics: Science and Systems (RSS), 2016.  (invited to special issue)
+C. Liu, J. Harick, J. Fisac, A.D. Dragan, K. Hedrick, S. Sastry, and T. Griffiths.    Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration.   Autonomous Agents and Multiagent Systems (AAMAS), 2016.
+S. Nikolaidis, A.D. Dragan, and  S.S. Srinivasa.    Viewpoint-Based Legibility Optimization.   International Conference on Human-Robot Interaction (HRI), 2016.
+M. Laskey, S. Staszak, W. Y. Hsieh, J. Mahler, F.T. Pokorny, A.D. Dragan, and K. Goldberg.    SHIV: Reducing Supervisor Burden in DAgger Using Support Vectors for Efficient Learning From Demonstrations in High Dimensional State Spaces.   International Conference on Robotics and Automation (ICRA), 2016.  (best HRI paper award finalist)
+N. Mehr and A.D. Dragan.    Inferring and Assisting With Constraints in Shared Autonomy.   Conference on Decision and Control (CDC), 2016.
+A.D. Dragan, K. Muellin, J.A. Bagnell, and S.S. Srinivasa.    Movement Primitives via Optimization.   International Conference on Robotics and Automation (ICRA), 2015.  (best paper and best student paper award finalist)
+A.D. Dragan, S. Bauman, J. Forlizzi, and S.S. Srinivasa.    Effects of Robot Motion on Human-Robot Collaboration.   International Conference on Human-Robot Interaction (HRI), 2015.
+A.D. Dragan, R. Holladay, and S.S. Srinivasa.  From Legibility to Deception.  Autonomous Robots (AURO), 2015.
+A.D. Dragan, R. Holladay, and S.S. Srinivasa.    Deceptive Robot Motion: Synthesis and Analysis and Experiments.   Autonomous Robots (AURO), 2015.
+R. Holladay, A.D. Dragan, and S.S. Srinivasa.    Legible Robot Pointing.   International Symposium on Human and Robot Communication (Ro-Man), 2014.
+A.D. Dragan, R. Holladay, and S.S. Srinivasa.    An Analysis of Deceptive Robot Motion.   Robotics: Science and Systems (RSS), 2014.
+A.D. Dragan and S.S. Srinivasa.    Integrating Human Observer Inferences Into Robot Motion Planning.   Autonomous Robots (AURO), 2014.
+E. Cha, A.D. Dragan, and S.S. Srinivasa.    Pre-School Children's First Encounter With a Robot.   International Conference on Human-Robot Interaction (HRI), 2014.
+E. Cha, A.D. Dragan, and S.S. Srinivasa.    Effects of Speech on Perceived Capability.   International Conference on Human-Robot Interaction (HRI), 2014.
+A.D. Dragan and S.S. Srinivasa.    Familiarization to Robot Motion.   International Conference on Human-Robot Interaction (HRI), 2014.
+H. Admoni, A.D. Dragan, B. Scassellati, and S.S. Srinivasa.    Deliberate Delays During Robot-to-Human Handovers Improve Compliance With Gaze Communication.   International Conference on Human-Robot Interaction (HRI), 2014.
+A.D. Dragan and S.S. Srinivasa.    A Policy Blending Formalism for Shared Control.   International Journal of Robotics Research (IJRR), 2013.
+M. Zucker, N. Ratliff, A.D. Dragan, M. Pivtoraiko, M. Klingensmith, C. Dellin, J. Bagnell, and S.S. Srinivasa.    CHOMP: Covariant Hamiltonian Optimization for Motion Planning.   International Journal of Robotics Research (IJRR), 2013.
+A.D. Dragan, K.T. Lee, and S.S. Srinivasa.    Teleoperation With Intelligent and Customizable Interfaces.   Journal of Human-Robot Interaction (JHRI), 2013.
+A.D. Dragan and S.S. Srinivasa.    Generating Legible Motion.   Robotics: Science and Systems (RSS), 2013.  (best paper award finalist)
+E. Cha, A.D. Dragan, and S.S. Srinivasa.    Effects of Robot Capability on User Acceptance.   International Conference on Human-Robot Interaction (HRI), 2013.
+K.T. Lee, A.D. Dragan, and S.S. Srinivasa.    Legible User Input for Intent Prediction.   International Conference on Human-Robot Interaction (HRI), 2013.
+A.D. Dragan, K.T. Lee, and S.S. Srinivasa.    Legibility and Predictability of Robot Motion.   International Conference on Human-Robot Interaction (HRI), 2013.
+K. Strabala, M.K. Lee, A.D. Dragan, J. Forlizzi, S.S. Srinivasa, M. Cakmak, and V. Micelli.    Towards Seamless Human-Robot Handovers.   Journal of Human-Robot Interaction (JHRI), 2013.
+A.D. Dragan and S.S. Srinivasa.    Formalizing Assistive Teleoperation.   Robotics: Science and Systems (RSS), 2012.  (best paper award finalist)
+A.D. Dragan and S.S. Srinivasa.    Online Customization of Teleoperation Interfaces.   International Symposium on Human and Robot Communication (Ro-Man), 2012.  (best paper award finalist)
+K. Strabala, M.K. Lee, A.D. Dragan, J. Forlizzi, and S.S. Srinivasa.    Learning the Communication of Intent Prior to Physical Collaboration.   International Symposium on Robot and Human Interactive Communication (Ro-Man), 2012.
+S.S. Srinivasa, D. Berenson, M. Cakmak, A. Collet, M.R. Dogar, A.D. Dragan, R.A. Knepper, T. Niemueller, K. Strabala, M. Vande Weghe, and J. Ziegler.    HERB 20: Lessons Learned From Developing a Mobile Manipulator for the Home.   Proc. of the IEEE and Special Issue on Quality of Life Technology, 2012.
+A.D. Dragan, G. Gordon, and S.S. Srinivasa.    Learning From Experience in Manipulation Planning: Setting the Right Goals.   International Symposium on Robotics Research (ISRR), 2011.
+A.D. Dragan, N. Ratliff, and S.S. Srinivasa.    Manipulation Planning With Goal Sets Using Constrained Trajectory Optimization.   International Conference on Robotics and Automation (ICRA), 2011.
+I. Schuele, A.D. Dragan, A. Radev, M. Schroeder, and K.H. Kuffer.    Multi-Criteria Optimization for Regional Timetable Synchronization in Public Transport.   Operations Research Proceedings, 2008.
+© Anca Dragan

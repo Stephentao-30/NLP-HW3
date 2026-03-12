@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-149.html
+Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics
+Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics
+John Herr
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-149
+May 19, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-149.pdf
+Significant reports have been made in recent years to develop new patterning methods for printed sensors and electronics that are simpler and allow for new materials to be patterned compared to traditional fabrication processes. One newly conceived patterning method is the use of advective micromolding in vapor-permeable templates (AMPT) [1]. AMPT is a single-step additive patterning process that uses permeation pumping to pattern and concentrate a nanoparticle ink inside a permeable template, resulting in close-packed nanoparticle features. This process can be performed at low pressure and temperature, and is compatible with printing materials such as nanoparticles and polymers that can be difficult to print with other methods.
+In this work, models are presented for printing conductors, capacitors, resistors, as well as passive low-pass filters. Using ink composed of 20nm silver nanoparticles suspended in ethanol and templates made from PDMS, these basic components were patterned using AMPT and thermally sintered. Printed devices were then characterized for use in printed electronics.
+BibTeX citation:
+@mastersthesis{Herr:EECS-2015-149,
+Author = {Herr, John},
+Editor = {Pisano, Albert},
+Title = {Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-149.html},
+Number = {UCB/EECS-2015-149},
+Abstract = {Significant reports have been made in recent years to develop new patterning methods for printed sensors and electronics that are simpler and allow for new materials to be patterned compared to traditional fabrication processes. One newly conceived patterning method is the use of advective micromolding in vapor-permeable templates (AMPT) [1]. AMPT is a single-step additive patterning process that uses permeation pumping to pattern and concentrate a nanoparticle ink inside a permeable template, resulting in close-packed nanoparticle features. This process can be performed at low pressure and temperature, and is compatible with printing materials such as nanoparticles and
+polymers that can be difficult to print with other methods.
+In this work, models are presented for printing conductors, capacitors, resistors, as well as passive low-pass filters. Using ink composed of 20nm silver nanoparticles suspended in ethanol and templates made from PDMS, these basic components were patterned using AMPT and thermally sintered. Printed devices were then characterized for use in printed electronics.}
+}
+EndNote citation:
+%0 Thesis
+%A Herr, John
+%E Pisano, Albert
+%T Characterization of Advective Micromolding in Vapor-Permeable Templates for Printed Electronics
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 19
+%@ UCB/EECS-2015-149
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-149.html
+%F Herr:EECS-2015-149

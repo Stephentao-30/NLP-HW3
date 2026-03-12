@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1991/6127.html
+Augmenting a Programming Language with Complex Arithmetic | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Login
+Augmenting a Programming Language with Complex Arithmetic
+William Kahan and J. W. Thomas
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-92-667
+1991
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/CSD-92-667.pdf
+Currently, programming languages that support COMPLEX arithmetic as well as REAL oblige compilers to implement certain obscure optimizations lest expressions mixing REAL with COMPLEX variables engender superfluous or even harmful computation. This can be avoided if the language provides, for the compiler's use, a third IMAGINARY data-type about which the programmer need know only the name of the language's imaginary unit  I  or  i  or  j . And on computers conforming to IEEE 754/854, the scheme proposed here honors complex conjugation in ways that other schemes cannot.
+BibTeX citation:
+@techreport{Kahan:CSD-92-667,
+Author = {Kahan, William and Thomas, J. W.},
+Title = {Augmenting a Programming Language with Complex Arithmetic},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1991},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1991/6127.html},
+Number = {UCB/CSD-92-667}
+}
+EndNote citation:
+%0 Report
+%A Kahan, William
+%A Thomas, J. W.
+%T Augmenting a Programming Language with Complex Arithmetic
+%I EECS Department, University of California, Berkeley
+%D 1991
+%@ UCB/CSD-92-667
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1991/6127.html
+%F Kahan:CSD-92-667
+Home
+|
+©
+UC Berkeley EECS
+|
+Dec 16, 2023 04:38
+|
+Contact Webteam

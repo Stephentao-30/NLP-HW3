@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29297.html
+The Multiplicity of an Increase Family of Sigma-Fields | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Multiplicity of an Increase Family of Sigma-Fields
+The Multiplicity of an Increase Family of Sigma-Fields
+M.H.A. Davis and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M403
+September 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-403.pdf
+BibTeX citation:
+@techreport{Davis:M403,
+Author = {Davis, M.H.A. and Varaiya, P.},
+Title = {The Multiplicity of an Increase Family of Sigma-Fields},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29297.html},
+Number = {UCB/ERL M403}
+}
+EndNote citation:
+%0 Report
+%A Davis, M.H.A.
+%A Varaiya, P.
+%T The Multiplicity of an Increase Family of Sigma-Fields
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M403
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29297.html
+%F Davis:M403

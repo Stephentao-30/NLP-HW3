@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28606.html
+Synthesis of Active and Passive Compatible Impedances
+C.W. Ho and N. Balabanian
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M174
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-174.pdf
+BibTeX citation:
+@techreport{Ho:M174,
+Author= {Ho, C.W. and Balabanian, N.},
+Title= {Synthesis of Active and Passive Compatible Impedances},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28606.html},
+Number= {UCB/ERL M174},
+}
+EndNote citation:
+%0 Report
+%A Ho, C.W.
+%A Balabanian, N.
+%T Synthesis of Active and Passive Compatible Impedances
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M174
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28606.html
+%F Ho:M174

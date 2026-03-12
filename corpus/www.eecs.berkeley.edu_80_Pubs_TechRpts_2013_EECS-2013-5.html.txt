@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-5.html
+Cloud Robotics and Automation: A Survey of Related Work
+Ken Goldberg and Ben Kehoe
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-5
+January 27,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-5.pdf
+What if robots and automation systems were not limited by onboard computation, memory, or programming? This is now practical with wireless networking and rapidly expanding Internet resources. In 2010, James Kuffner at Google introduced the term “Cloud Robotics" to describe a new approach to robotics that takes advantage of the Internet as a resource for massively parallel computation and real time sharing of vast data resources. The Google autonomous driving project exemplifes this approach: the system indexes maps and images that are collected and updated by satellite, Streetview, and crowdsourcing from the network to facilitate accurate localization. Another example is Kiva Systems new approach to warehouse automation and logistics using large numbers of mobile platforms to move pallets using a local network to coordinate planforms and update tracking data. These are just two new projects that build on resources from the Cloud. Steve Cousins of Willow Garage aptly summarized the idea: “No robot is an island." Cloud Robotics recognizes the wide availability of networking, incorporates elements of open-source, open-access, and crowdsourcing to greatly extend earlier concepts of  “Online Robots" and “Networked Robots".  Cloud Robotics has potential to improve robot performance in at least five ways: 1) Big Data: indexing a global library of images, maps, and object data, 2) Cloud Computing: parallel grid computing on demand for statistical analysis, learning, and motion planning, 3) Open-Source /
+Open-Access: humans sharing code, data, algorithms, and hardware designs, 4) Collective Robot Learning: robots sharing trajectories, control policies, and outcomes, and 5) Crowdsourcing and call centers: offline and on-demand human guidance for evaluation, learning, and error recovery.  This article surveys related work as of Fall 2012.
+BibTeX citation:
+@techreport{Goldberg:EECS-2013-5,
+Author= {Goldberg, Ken and Kehoe, Ben},
+Title= {Cloud Robotics and Automation: A Survey of Related Work},
+Year= {2013},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-5.html},
+Number= {UCB/EECS-2013-5},
+Abstract= {What if robots and automation systems were not limited by onboard computation, memory, or programming? This is now practical with wireless networking and rapidly expanding Internet resources. In 2010, James Kuffner at Google introduced the term “Cloud Robotics" to describe a new approach to robotics that takes advantage of the Internet as a resource for massively parallel computation and real time sharing of vast data resources. The Google autonomous driving project exemplifes this approach: the system indexes maps and images that are collected and updated by satellite, Streetview, and crowdsourcing from the network to facilitate accurate localization. Another example is Kiva Systems new approach to warehouse automation and logistics using large numbers of mobile platforms to move pallets using a local network to coordinate planforms and update tracking data. These are just two new projects that build on resources from the Cloud. Steve Cousins of Willow Garage aptly summarized the idea: “No robot is an island." Cloud Robotics recognizes the wide availability of networking, incorporates elements of open-source, open-access, and crowdsourcing to greatly extend earlier concepts of  “Online Robots" and “Networked Robots".  Cloud Robotics has potential to improve robot performance in at least five ways: 1) Big Data: indexing a global library of images, maps, and object data, 2) Cloud Computing: parallel grid computing on demand for statistical analysis, learning, and motion planning, 3) Open-Source /
+Open-Access: humans sharing code, data, algorithms, and hardware designs, 4) Collective Robot Learning: robots sharing trajectories, control policies, and outcomes, and 5) Crowdsourcing and call centers: offline and on-demand human guidance for evaluation, learning, and error recovery.  This article surveys related work as of Fall 2012.},
+}
+EndNote citation:
+%0 Report
+%A Goldberg, Ken
+%A Kehoe, Ben
+%T Cloud Robotics and Automation: A Survey of Related Work
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 January 27
+%@ UCB/EECS-2013-5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-5.html
+%F Goldberg:EECS-2013-5

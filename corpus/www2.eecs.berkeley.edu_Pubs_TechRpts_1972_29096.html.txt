@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29096.html
+Realizability of Communication Nets: An Application of the Zadeh Criterion
+Chuan Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M362
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-362.pdf
+BibTeX citation:
+@techreport{Chen:M362,
+Author= {Chen, Chuan},
+Title= {Realizability of Communication Nets: An Application of the Zadeh Criterion},
+Year= {1972},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29096.html},
+Number= {UCB/ERL M362},
+}
+EndNote citation:
+%0 Report
+%A Chen, Chuan
+%T Realizability of Communication Nets: An Application of the Zadeh Criterion
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M362
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29096.html
+%F Chen:M362

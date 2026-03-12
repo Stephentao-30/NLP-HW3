@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28921.html
+Computer Science: Iteration Theorems for Families of Strict Deterministic Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Science: Iteration Theorems for Families of Strict Deterministic Languages
+Computer Science: Iteration Theorems for Families of Strict Deterministic Languages
+K.N. King
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/15
+April 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-15.pdf
+BibTeX citation:
+@techreport{King:M78/15,
+Author = {King, K.N.},
+Title = {Computer Science: Iteration Theorems for Families of Strict Deterministic Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28921.html},
+Number = {UCB/ERL M78/15}
+}
+EndNote citation:
+%0 Report
+%A King, K.N.
+%T Computer Science: Iteration Theorems for Families of Strict Deterministic Languages
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28921.html
+%F King:M78/15

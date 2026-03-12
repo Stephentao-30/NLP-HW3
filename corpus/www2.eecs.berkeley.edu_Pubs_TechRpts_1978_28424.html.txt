@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28424.html
+A Robust Secant Method for Optimization Problems with Inequality Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Robust Secant Method for Optimization Problems with Inequality Constraints
+A Robust Secant Method for Optimization Problems with Inequality Constraints
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/2
+September 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-79-2.pdf
+BibTeX citation:
+@techreport{Polak:M79/2,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {A Robust Secant Method for Optimization Problems with Inequality Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28424.html},
+Number = {UCB/ERL M79/2}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T A Robust Secant Method for Optimization Problems with Inequality Constraints
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M79/2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28424.html
+%F Polak:M79/2

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28459.html
+Techniques for Processing of Aggregates in Relational Database Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Techniques for Processing of Aggregates in Relational Database Systems
+Techniques for Processing of Aggregates in Relational Database Systems
+Robert Epstein
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/8
+February 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-8.pdf
+BibTeX citation:
+@techreport{Epstein:M79/8,
+Author = {Epstein, Robert},
+Title = {Techniques for Processing of Aggregates in Relational Database Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28459.html},
+Number = {UCB/ERL M79/8}
+}
+EndNote citation:
+%0 Report
+%A Epstein, Robert
+%T Techniques for Processing of Aggregates in Relational Database Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/8
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28459.html
+%F Epstein:M79/8

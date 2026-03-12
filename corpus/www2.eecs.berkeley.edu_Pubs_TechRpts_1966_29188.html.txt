@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29188.html
+Matrix Differential Equations and Irreducible Realizations of Transfer Fucntion Matrices
+D.M. Layton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M143
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-143.pdf
+BibTeX citation:
+@techreport{Layton:M143,
+Author= {Layton, D.M.},
+Title= {Matrix Differential Equations and Irreducible Realizations of Transfer Fucntion Matrices},
+Year= {1966},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29188.html},
+Number= {UCB/ERL M143},
+}
+EndNote citation:
+%0 Report
+%A Layton, D.M.
+%T Matrix Differential Equations and Irreducible Realizations of Transfer Fucntion Matrices
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M143
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29188.html
+%F Layton:M143

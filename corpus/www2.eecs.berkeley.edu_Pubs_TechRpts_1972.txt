@@ -1,0 +1,49 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972
+Technical Reports - 1972
+On Multimachine Power System Representations  (M392) A.R. Bergen and G. Gross
+A Globally Converging Secant Method, with Applciations to Boundary Value Problems  (M374) E. Polak
+Computer Learning from English Text  (M372) Nagib A. Badre
+Necessary and Sufficient Conditions for Stability for N-Input N-Output Convolution Feedback Systems With a Finite Number of Unstable Poles  (M371) Frank M. Callier and Charles A. Desoer
+A Graph-Theoretic Approach to Linearly Orderable Sets  (M369) Kapali P. Eswaran
+Introduction to Programming Science-Part I: Syntax and Semantics of Programming Languages  (M368) W.D. Maurer
+Optimum Design of Integrated Variable-Gain Amplifiers  (M367) Willy M. C. Sansen
+Zeros and Poles of Matrix Transfer Functions and Their Dynamical Interpretation  (M366) C.A. Desoer and J.D. Schulman
+Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter  (M365) Eugene Wong
+An Improved Version of SLIC  (M364) Harold M. Kop
+A Modified Markov Algorithm as a Language Parser  (M363) Jacob Katzenelson and Elie Milgrom
+Realizability of Communication Nets: An Application of the Zadeh Criterion  (M362) Chuan Chen
+Functionals and Martingales of Wiener Process with a Two-dimensional Parameter  (M361) E. Wong and M. Zakai
+The Hackenbush Number System For Compression of Numerical Data  (M360) E.R. Berlekamp
+On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph  (M359) L.O. Chua and L.K. Chen
+Modeling the Step Response of Nonlinear Quasi-Static Systems  (M358) L.O. Chua and R.J. Schilling
+A File Structure for Large Data Bases  (M357) Tung C. Chiang
+A Historical Survey of Computational Methods  (M356) E. Polak
+A Property of the P-Medians of a Graph  (M355) Chuan Chen and C.K. Butt
+The Primitive Recursive-Permutations Generate the Group of Recursive-Permutations  (M354) Ion S. Filotti
+Reduction of the Grid Effects in Simulation Plasmas  (M353) Liu Chen, A. Bruce Langdon and C.K. Birdsall
+Heating of Magnetized Plasmas by a Large-Amplitude Low-Frequency Electric Field  (M352) Liu Chen and C.K. Birdsall
+On Minimal Triangulation of a Graph  (M351) T. Ohtsuki, L.K. Cheung and T. Fijisawa
+Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions  (M350) L.O. Chua and D.N. Green
+Short-term General Equilibrium in Space  (M349) Mario Ripper and Pravin Varaiya
+Fasbol II: A Snobol4 Compiler for the PDP-10  (M348) Paul Joseph Santos Jr.
+State Vectors: A Preliminary Survey  (M347) W.D. Maurer
+Cancellations in Multivariable Continuous-Time and Discrete-Time Feedback Systems  (M346) C.A. Desoer and J.D. Schulman
+A Martingale Approach to Point-Processes  (M345) Pierre M. Bremaud
+A Theory of Algebraic N-Ports  (M344) L.O. Chua and Y-F Lam
+Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem  (M343) Eugene L. Lawler
+Outline of a New Approach to the Analysis of Complex Systems and Decision Processes  (M342) L.A. Zadeh
+Trends in the Theory of Decision-Making in Large Systems  (M341) Pravin Varaiya
+Cutsets and Partitions of Hypergraphs  (M340) Eugene L. Lawler
+On the Input-Output Properties of Convolution Feedback Systems  (M338) Frank M. Callier
+Excitation Control of Synchronous Generations  (M337) Dale E. Mesple, Thomas K.K. Tam and Otto J. M. Smith
+A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges  (M335) L.A. Zadeh
+Polynomial Bounded and (Apparently) Non Polynomial Bounded Matroid Computations  (M332) E.L. Lawler
+Runoff: A Program for the Preparation of Documents  (M331) Richard Herzog and Nagib Badre
+Effects of Congestion on the Shape of a City  (M330) L. Legey, Mario Ripper and Pravin Varaiya
+Optimum City Size: A Minimum Congestion Cost Approach  (M329) D.A. Livesey
+On Fuzzy Algorithms  (M325) L.A. Zadeh
+Trajectories of Nonlinear RLC Networks: A Geometric Approach  (M324) Charles A. Desoer and Felix F. Wu
+Analysis of Computational Techniques for Circuit Theory  (M323) Hiromasa Haneda
+A System-Theoretic View of Behavior Modification  (M320) L.A. Zadeh
+Examples of Computer Aids to Algorithm Verification  (M319) W.D. Maurer
+Theory and Practice of Algorithm Verification  (M315) W.D. Maurer

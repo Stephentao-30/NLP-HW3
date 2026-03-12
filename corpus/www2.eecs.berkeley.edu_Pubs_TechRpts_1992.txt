@@ -1,0 +1,212 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1992
+Technical Reports - 1992
+Parallel Timing Simulation on a Distributed Memory Multiprocessor  (CSD-92-723) Chih-Po Wen
+Hiding Communication Costs in Bandwidth-Limited Parallel FFT Computation  (CSD-92-722) Abhijit Sahay
+Optimal Broadcast and Summation in the LogP Model  (CSD-92-721) Richard Karp, Abhijit Sahay and Eunice Santos
+Computing the Generalized Singular Value Decomposition  (CSD-92-720) Zhaojun Bai and James W. Demmel
+Infinitely Long Walks on Two Colored Graphs  (CSD-92-719) Peter S. Gemmell
+Design of a Parallel Nonsymmetric Eigenroutine Toolbox,  Part I  (CSD-92-718) Zhaojun Bai and James W. Demmel
+Multiplexing Traffic at the Entrance to Wide-Area Networks  (CSD-92-717) Ramon Caceres
+Two Fundamental Limits on Dataflow Multiprocessing  (CSD-92-716) David E. Culler, Klaus Erik Schauser and Thorsten von Eicken
+Analysis of Benchmark Characteristics and Benchmark Performance Prediction  (CSD-92-715) Rafael H. Saavedra and Alan Jay Smith
+Input-Output Performance Evaluation:  Self-Scaling Benchmarks, Predicted Performance  (CSD-92-714) Peter Ming-Chien Chen
+LogP: Towards a Realistic Model of Parallel Computation  (CSD-92-713) David E. Culler, Richard Karp, David A. Patterson, Abhijit Sahay, Klaus Erik Schauser, Eunice Santos, Ramesh Subramonian and Thorsten von Eicken
+An Analysis of File Migration in a Unix Supercomputing Environment  (CSD-92-712) Ethan L. Miller and Randy H. Katz
+Transformations of e-Biased Distributions  (CSD-92-710) Abhijit Sahay
+Robust Computation of Optical Flow in a Multi-Scale Differential Framework  (CSD-92-709) Joseph Weber and Jitendra Malik
+Visibility Computations in Densely Occluded Polyhedral Environments  (CSD-92-708) Seth Jared Teller
+Vector Processor Caches  (CSD-92-707) Jeffrey D. Gee and Alan Jay Smith
+The Dimension of Matrices (Matrix Pencils) with Given Jordan (Kronecker) Canonical Forms  (CSD-92-706) James W. Demmel and Alan Edelman
+RAID-II: Design and Implementation of a Large Scale Disk Array Controller  (CSD-92-705) Randy H. Katz, Peter Ming-Chien Chen, Ann L. Chervenak Drapeau, Edward Kihyen Lee, K. Lutz, Ethan L. Miller, S. Seshan and David A. Patterson
+Fast Alignment by Eliminating Unlikely Matches  (CSD-92-704) Clark F. Olson
+Parallel Numerical Linear Algebra  (CSD-92-703) James W. Demmel, Michael T. Heath and Henk A. van der Vorst
+Trading Off Parallelism and Numerical Stability  (CSD-92-702) James W. Demmel
+The Jaquith Archive Server  (CSD-92-701) James W. Mott-Smith
+Analysis of Long-Term UNIX File Access Patterns for Application to Automatic File Migration Strategies  (CSD-92-700) Stephen Strange
+Performance Characterization of Optimizing Compilers  (CSD-92-699) Rafael H. Saavedra and Alan Jay Smith
+Algorithms for Intersecting Parametric and Algebraic Curves  (CSD-92-698) Dinesh Manocha and James W. Demmel
+Operating Systems Mechanisms For Continuous Media  (CSD-92-697) Ramesh Govindan
+The Design and Implementation of a Log-structured File System  (CSD-92-696) Mendel Rosenblum
+Random Walks in Colored Graphs  (CSD-92-695) Diane Hernek and Anne Condon
+A New and Simple Algorithm for Quality 2-Dimensional Mesh Generation  (CSD-92-694) Jim Ruppert
+Towards an Efficient Implementation of Interval Arithmetic  (CSD-92-693) Ioannis Z. Emiris and Richard J. Fateman
+Automatic Inference: A Probabilistic Basis for Natural Language Interpretation  (CSD-92-692) Dekai Wu
+The Optimal Tree Algorithm for Line Clipping  (CSD-92-691) You-Dong Liang and Brian A. Barsky
+The Design of a CASE Environment Architecture and the Performance Evaluation of Database Designs for Software Documents  (CSD-92-690) Luis Miguel
+Integrated Placement and Routing for VLSI Layout Synthesis and Optimization  (CSD-92-689) Ping-San Tzeng
+Some Improvements to a Parametric Line Clipping Algorithm  (CSD-92-688) You-Dong Liang, Brian A. Barsky and Mel Slater
+Analysis of Multithreaded Microprocessors under Multiprogramming  (CSD-92-687) David E. Culler, Michial Gunter and James C. Lee
+Code Optimizers and Register Organizations for Vector Architectures  (CSD-92-686) Corinna Grace Lee
+Optimal Probabilistic and Decision-Theoretic Planning using Markovian Decision Theory  (CSD-92-685) Sven Koenig
+CPU Performance Evaluation and Execution Time Prediction Using Narrow Spectrum Benchmarking  (CSD-92-684) Rafael H. Saavedra-Barrera
+Zebra: A Striped Network File System  (CSD-92-683) John H. Hartman and John K. Ousterhout
+Fast Accurate Simulation of Large Shared Memory Multiprocessors  (CSD-92-682) Robert Francis Boothe
+Robust and Efficient Surface Intersection for Solid Modeling  (CSD-92-681) Michael Edward Hohmeyer
+Visibility Computations in Polyhedral Three-Dimensional Environments  (CSD-92-680) Seth J. Teller and Carlo H. Séquin
+A New Approach to I/O Performance Evaluation -- Self-Scaling I/O Benchmarks, Predicted I/O Performance  (CSD-92-679) Peter M. Chen and David A. Patterson
+PAGODA: A Model for Autonomous Learning in Probabilistic Domains  (CSD-92-678) Marie Ellen desJardins
+Mathematical Findings on Artificial Neural Nets and Their Physical Meaning  (CSD-92-677) Han-gyoo Kim
+An On-Line Computational Model of Human Sentence Interpretation: A Theory of the Representation and Use of Linguistic Knowledge  (CSD-92-676) Daniel Jurafsky
+Active Messages: a Mechanism for Integrated Communication and Computation  (CSD-92-675) Thorsten von Eicken, David E. Culler, Seth Copen Goldstein and Klaus Erik Schauser
+Designing Synchronous Algorithms for Asynchronous Processors  (CSD-92-674) Ramesh Subramonian
+An O(log n) Time Common CRCW PRAM Algorithm for Minimum Spanning Tree  (CSD-92-673) Ramesh Subramonian
+RAID-II: A Scalable Storage Architecture for High-Bandwidth Network File Service  (CSD-92-672) Edward K. Lee, Peter M. Chen, John H. Hartman, Ann L. Chervenak Drapeau, Ethan L. Miller, Randy H. Katz, Garth A. Gibson and David A. Patterson
+Defining Hypermedia: The Essential Elements  (CSD-92-671) Michael A. Harrison
+Active Documentation for VLSI Design  (CSD-92-670) Mario J. Silva, Tzi-cker Chieuh and Randy H. Katz
+Stabbing Oriented Convex Polygons in Randomized O(n^2) Time  (CSD-92-669) Seth J. Teller and Michael E. Hohmeyer
+Augmenting a Programming Language with Complex Arithmetic  (CSD-92-667) William Kahan and J. W. Thomas
+Computing the Antipenumbra of an Area Light Source  (CSD-92-666) Seth J. Teller
+Computing the Lines Piercing Four Lines  (CSD-92-665) Seth J. Teller and Michael E. Hohmeyer
+Functional Optimization for Fair Surface Design  (CSD-92-664) Henry P. Moreton and Carlo H. Séquin
+Guaranteed Performance Communication in High Speed Networks  (CSD-92-663) Dinesh Chandra Verma
+Connectivity Properties of Matroids  (CSD-92-662) Milena Mihail and Madhu Sudan
+Highly Resilient Correctors for Polynomials  (CSD-92-661) Peter S. Gemmell and Madhu Sudan
+Performance Optimization of Digital Circuits  (M92/149) Kanwar J. Singh
+Theory and Simulation of Plasma Sheath Waves  (M92/148) X.Q. Xu, G. DiPeso, V. Vahedi and Charles K. (Ned) Birdsall
+Fluid Simulations of \/T_e-Driven Turbulence and Transport in Boundary Plasmas  (M92/147) X.Q. Xu
+Verification of Frequency Scaling Laws for Capacitive RF Discharges Using Two- Dimensional Simulations  (M92/146) V. Vahedi, Charles K. (Ned) Birdsall, Michael A. Lieberman, G. DiPeso and T.D. Rognlien
+Electron Temperature Gradient Driven Instability in the Tokamak Boundary Plasma  (M92/145) X.Q. Xu, M.N Rosenbluth and P.H Diamond
+Design of a 5th Harmonic Generator for a Nd+:YAG Laser Source for Optical Lithography  (M92/144) L. Leinbaugh
+A Structure Theorem for Partially Asynchronous Relaxations - Summary of Results  (M92/143) R. Gharavi and Venkat Anantharam
+Optimal Buffer Allocation in Tandems of Last Come First Served Queues  (M92/142) A. Ganesh and Venkat Anantharam
+A Simple Ode With More Than 20 Strange Attractors  (M92/141) Leon O. Chua
+Synthesis and Testing of Bounded Wire Delay Asynchronous Circuits from Signal Transition Graphs  (M92/140) Luciano Lavagno
+Application-Specific Processors for Numerical Algorithms  (M92/139) Lars E. Thon
+A Fast Discrete Periodic Wavelet Transform  (M92/138) N. Getz
+Analytic Techniques for the Time-Domain Simulation of Uniform Lossy Transmission Lines in Nonlinear Circuits  (M92/137) Jaijeet S. Roychowdhury
+MTCAD: An Integrated Framework of Manufacturing Equipment Models and TCAD  (M92/136) M. Hosseini
+Traffic Shaping for ATM Networks: Asymptotic Analysis and Simulations  (M92/135) G. de Veciana and Jean Walrand
+An Implementation of a Log-Structured File System for UNIX  (M92/134) M. Seltzer, K. Bostic, M.K. McKusick and C. Staelin
+Wireless Communication Using Non-Directed Infrared Radiation  (M92/133) John R. Barry
+Computer Aided Design Tools for Phase-Shift Masks and Spatial Filtering  (M92/132) D.M. Newmark
+Chua's Oscillator: A Zoo of Attractors  (M92/131) P. Deregel
+Signal Amplification via Chaos: Experimental Evidence  (M92/130) K.S. Halle, Leon O. Chua, V.S. Anishchenko and M.A. Safonova
+Transmission of Digital Signals by Chaotic Synchronization  (M92/129) U. Parlitz, Leon O. Chua, L. Kocarev, K.S. Halle and A. Shang
+Memory Management for Synchronous Dataflow Programs  (M92/128) S.S. Bhattacharyya and Edward A. Lee
+A Fully Implicit Quine-McCluskey Procedure Using BDD's  (M92/127) G.M. Swamy, P. McGeer and Robert K. Brayton
+A Continuous Media Player  (M92/126) Lawrence A. Rowe and B.C. Smith
+An Efficient Loop Detection and Removal Algorithm for 3D Surface-Based Lithography Simulation  (M92/125) J.J. Helmsen
+Short Run Dynamics of Multi-Class Service Facilities  (M92/124) E.J. Friedman and A.S. Landsberg
+Steering a Three-Input Nonholonomic System Using Multi-Rate Controls  (M92/123) D. Tilbury and A. Chelouah
+Don't Cares in Multi-Level Network Optimization  (M92/122) Hamid Savoj
+Stability of Cellular Neural Networks with Dominant Nonlinear and Delay-Type Templates  (M92/121) T. Roska, C.W. Wu and Leon O. Chua
+The POSTGRES User Manual  (M92/120) J. Rhein, G. Kemnitz and  The POSTGRES Group
+Delay Fault Coverage, Test Set Size, and Performance Tradeoffs  (M92/119) W.K. Lam, A. Saldanha, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Sequential Optimization in Semiconductor Manufacturing  (M92/118) J. Thomson
+Delay Optimization Based on BDD and Communication Complexity  (M92/117) M. Shih
+Design Methods for Reactive Real-Time Systems Codesign  (M92/116) M. Chiodo and Alberto L. Sangiovanni-Vincentelli
+Two-Dimensional Electromagnetic Simulation of Topography Scattering and Diffraction for Optical Lithography  (M92/115) A. Wong
+Analytic Model of the Ion Angular Distribution in a Collisional Sheath  (M92/114) V. Vahedi, R.A. Stewart and Michael A. Lieberman
+The BCAM Control and Monitoring Environment  (M92/113) B.J. Bombay
+Combinational Test Generation Using Satisfiability  (M92/112) P.R. Stephan, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Chaos Synchronization in Chua's Circuit  (M92/111) Leon O. Chua, M. Itoh, L. Kocarev and K. Eckert
+Data Parallelism in Graphical Signal Flow Representations of Algorithms  (M92/110) Edward A. Lee
+The High-Level Synthesis of Microprocessors Using Instruction Frequency Statistics  (M92/109) William R. Bush
+Sound and Music from Chua's Circuit  (M92/108) X. Rodet
+Steering Three-Input Chained Form Nonholonomic Systems Using Sinusoids: The Firetruck Example  (M92/107) L. Bushnell, D. Tilbury and S. Shankar Sastry
+Learning State Space Trajectories in Cellular Neural Networks  (M92/106) A.J. Schuler, P. Nachbar, J.A. Nossek and Leon O. Chua
+Design of System Level Interfaces  (M92/105) Jane S. Sun
+Automated Testing in an Integrated System Design Environment  (M92/104) Kevin T. Kornegay
+Applications of 1-D Map from Chua's Circuit: A Pictorial Guide  (M92/103) M. Genot
+Circuit Simulation for VLSI and Electronic Packaging Design  (M92/102) Shen Lin
+Learning by Distributed Automata  (M92/101) E. Friedman and Scott Shenker
+The Complexity of Resource Allocation and Price Mechanisms Under Bounded Rationality  (M92/100) E. Friedman and S. Oren
+Chua's Canonical Circuit: A Tutorial  (M92/99) P. Deregel
+Bridge Protocol Specification  (M92/98) N.T. Plotkin
+Observing and Learning Chaotic Phenomena from Chua's Circuit  (M92/97) R.N. Madan
+Bifurcation Analysis of Chua's Circuit  (M92/96) Leon O. Chua and L.T. Huynh
+Plasma and Gas Phase Kinetics of High Density SF_6 Discharges  (M92/95) C. Lee, D.W. Hess and Michael A. Lieberman
+DQDB MAC Chip Datasheet  (M92/94) F.L. Burghardt, T.Y. Kao and M.T. Le
+FDDI - SMDS Bridge Architecture  (M92/93) N. McKeown
+The Baybridge DQDB MAC Chip  (M92/92) T.Y. Kao, F.L. Burghardt, W-L. Heng and M.T. Le
+The Baybridge: A High Speed Bridge/Router  (M92/91) N. McKeown, R. Edell and M.T. Le
+Architecture and Performance of the Baybridge: A High Speed Bridge/Router Between FDDI and SMDS  (M92/90) N. McKeown, R. Edell and M.T. Le
+A High Performance SMDS Interface at STS-3c Rate  (M92/89) M.T. Le, N. McKeown and R. Edell
+Large Deviations for Birth Death Markov Fluids  (M92/88) G. de Veciana, C. Olivier and Jean Walrand
+A Zoo of Strange Attractors from the Canonical Chua's Circuits  (M92/87) Leon O. Chua
+Miscellaneous on Rule-Based Incremental Control: From Stability to Learnability  (M92/86) D. Luzeaux
+POSTGRES Reference Manual Version 4.0  (M92/85)
+Special Issues in Semiconductor Manufacturing III  (M92/84) Costas J. Spanos, B. Bombay, S. Cunningham, Z. Daoud, J. Helmsen, J. King, H-C. Liu, D. Newmark, J. Noriega-Asturias, J. Thomson, C. Yu, E. Boskin and D. Hebert
+The Flow-Table Technique for the Synthesis of Asynchronous Sequential Circuits  (M92/83) A. Gupta
+Genetic Algorithm for CNN Template Learning  (M92/82) T. Kozek, R. Roska and Leon O. Chua
+Integer Programming Techniques for Multiway System Partitioning Undertiming and Capacity Constraints  (M92/81) M. Shih, Ernest S. Kuh and R-S. Tsay
+Discontinuous One-Dimensional Maps from the Generalized Chua Equations  (M92/80) R. Brown and Leon O. Chua
+Graph Algorithms for Efficient Clock Schedule Optimization  (M92/79) N. Shenoy, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+A Unified Signal Transition Graph Model  (M92/78) A. Yakovlev, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Fractals in the Twist-and-Flip Circuit  (M92/77) Leon O. Chua, R. Brown and N. Hamilton
+Dry Turbulence from a Time-Delayed Chua's Circuit  (M92/76) A.N. Sharkovsky, Y. Maistrenko, P. Deregel and Leon O. Chua
+Autowaves for Image Processing on a Two-Dimensional CNN Array of Chua's Circuits: Flat and Wrinkled Labyrinths  (M92/75) V. Perez-Munuzuri, V. Perez-Villar and Leon O. Chua
+On Chaos in Digital Filters: Case b=-1  (M92/74) L. Kocarev and Leon O. Chua
+N-Dimensional Canonical Chua's Circuit  (M92/73) L. Kocarev, L. Karadzinov and Leon O. Chua
+On Synchronization of Regular and Chaotic Systems  (M92/72) M. de Sousa Vieira, Allan J. Lichtenberg and Michael A. Lieberman
+The Adatron Learning Algorithm with Constraints  (M92/71) P. Nachbar, T. Fussl, J.A. Nossek and Leon O. Chua
+Supervisory Control System for a Photo- lithographic Workcell  (M92/70) S. Leang
+A Three-Dimensional Physically-Based Model for LPCVD  (M92/69) S.F-H. Lee
+Compiling Real-Time Digital Signal Processing Applications onto Multiprocessor Systems  (M92/68) Phu D. Hoang
+Rapid Prototyping of Hardware and Software in a Unified Framework  (M92/67) Mani B. Srivastava
+Bidder Cost Revelation in Electric Power Auctions  (M92/66) J. Bushnell and S. Oren
+Feedback Stabilization: Nonlinear Solutions to Inherently Nonlinear Problems  (M92/65) Andrew R. Teel
+Read Optimized File System Designs: A Performance Evaluation  (M92/64) M. Seltzer and Michael Stonebraker
+Delay Models and Sensitization Criteria in the False Path Problem  (M92/63) P. McGeer, A. Saldanha, P.R. Stephan, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Synthesis of Sequential Circuits for VLSI Design  (M92/62) Pranav N. Ashar
+Exploring the Relationships Between Device- Model Representation and Circuit Analysis  (M92/61) C.K. Lennard
+Informational Aspects of Decentralized Resource Allocation  (M92/60) T. Ishikida
+Dense Optical Interconnects for High-Speed Digital Systems  (M92/59) Chung-Sheng Li
+Verification with Timed Automata  (M92/58) W.K.C. Lam and Robert K. Brayton
+Exact Delay Computation with Timed Boolean Functions  (M92/57) W.K.C. Lam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Minimum Cycle Time of Synchronous Circuit with Bounded Delays  (M92/56) W.K.C. Lam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Automatic Reduction in CTL Compositional Model Checking  (M92/55) M. Chiodo, T.R. Shiple, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+The Influence of Hardware Mapping on High-Level Synthesis  (M92/54) D.P. Schultz
+Picasso Reference Manual (Version 2.0) Picasso Widget Writer's Guide (Version 2.0)  (M92/53) P. Schank, J. Konstan, C. Liu, Lawrence A. Rowe, S. Seitz, B. Smith and G. Ogle
+New Type of Strange Attractor Related to the Chua's Circuit  (M92/52) V.N. Belykh and Leon O. Chua
+Stochastic Resonance in the Nonautonomous Chua's Circuit  (M92/51) V.S. Anishchenko, M.A. Safonova and Leon O. Chua
+Confirmation of the Afraimovich-Shilnikov Torus-Breakdown Theorem via Chua's Torus Circuit  (M92/50) V.S. Anishchenko, M.A. Safonova and Leon O. Chua
+Programmable Arithmetic Devices for High Speed Digital Signal Processing  (M92/49) Devereaux C. Chen
+On the Existence of Finite Dimensional Filters for Markov Modulated Traffic  (M92/48) C. Olivier and Jean Walrand
+Chua's Circuit with Current-Offset Chua Diode  (M92/47) M.P. Kennedy
+Hardware Mapping and Module Selection in the HYPER Synthesis System  (M92/46) Chi-Min Chu
+Buffer Design for Multiclass Traffic in ATM Networks  (M92/45) G. Kesidis and Jean Walrand
+Relative Entropy Between Markov Transition Rate Matrices  (M92/44) G. Kesidis and Jean Walrand
+Compile-Time Scheduling of Dataflow Program Graphs with Dynamic Constructs  (M92/43) Soonhoi Ha
+Mapping Nonlinear Lattice Equations onto Cellular Neural Networks  (M92/42) S. Paul, K. Huper, J.A. Nossek and Leon O. Chua
+SIS: A System for Sequential Circuit Synthesis  (M92/41) E.M. Sentovich, K.J. Singh, L. Lavagno, C. Moon, R. Murgai, A. Saldanha, H. Savoj, P.R. Stephan, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Effective Bandwidths for Multiclass Markov Fluids and Other ATM Sources  (M92/40) G. Kesidis and Jean Walrand
+Traveling Wave Front and Its Failure in a One-Dimensional Array of Chua's Circuits  (M92/39) V. Perez-Munuzuri, V. Perez-Villar and Leon O. Chua
+Performance-Constrained Physical Design of Analog and Mixed Analog/Digital Circuits  (M92/38) Umakanta Choudhury
+CAD Tools for Nonlinear Control  (M92/37) R.R. Kadiyala
+On the Use of Consistent Approximations in the Solution of Semi-Infinite Optimization and Optimal Control Problems  (M92/36) Elijah Polak
+An Introduction to Semiconductor Manufacturing and Markets  (M92/35) P.K. Schank and Lawrence A. Rowe
+RF Discharge Impedance Measurements and Comparison to a Discharge Model  (M92/34) A.H. Sato and Michael A. Lieberman
+Sliding Mode Control of Perturbed Nonlinear Systems  (M92/33) A.K. Pradeep
+Associative and Random Access Memory Using One-Dimensional Maps  (M92/32) Y.V. Andreyev, A.S. Dmitriev, Leon O. Chua and C.W. Wu
+Multimedia: Data Structures, Documents  (M92/31) J-Y. Dauneau and Pravin Varaiya
+Clustering Formalism for Synchronous Dataflow  (M92/30) S.S. Bhattacharyya
+Beyond Linear Feedback for the Nonlinear Regulator  (M92/29) A.R. Teel
+Nonholonomic Control Systems: From Steering to Stabilization with Sinusoids  (M92/28) A.R. Teel, R.M. Murray and G. Walsh
+Technology Computer-Aided Design Frameworks and the PROSE Implementation  (M92/27) Alexander S.-W. Wong
+Robust Op Amp Realization of Chua's Circuit  (M92/26) M.P. Kennedy
+Electron Cyclotron Resonance Etching of Silylated Photoresist  (M92/25) B. Lynch, S. Das, Michael A. Lieberman and D.W. Hess
+Data-Flow/Event Graphs  (M92/24) G.S. Whitcomb and A. Richard Newton
+Indirect Adaptive Nonlinear Control of Induction Motors  (M92/23) R.R. Kadiyala
+AP_LIN: A Tool Box for Approximate Linearization of Nonlinear Systems  (M92/22) R.R. Kadiyala
+SYS_VIEW: A Visualization Tool for Viewing the Regions of Validity and Attraction of Nonlinear Systems  (M92/21) R.R. Kadiyala
+Self-Synchronization of Many Coupled Oscillators  (M92/20) M. de Sousa Vieira, Allan J. Lichtenberg and Michael A. Lieberman
+A Novel Framework for Solving the State Assignment Problem for Event-Based Specifications  (M92/19) L. Lavagno, C. Moon, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Properties of Admissible Symbolic Sequences in a Second Order Digital Filter with Overflow Nonlinearity  (M92/18) C.W. Wu and Leon O. Chua
+IC Design for Manufacturability 1  (M92/17) Costas J. Spanos, E. Boskin, R. Chen, Z. Daoud and H-C. Liu
+A CMOS IC Nonlinear Resistor for Chua's Circuit  (M92/16) J. Cruz and Leon O. Chua
+Boolean Matching in Logic Synthesis  (M92/15) H. Savoj, M.J. Silva, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Issues in Deep-UV Lithography Using Pulsed Laser Light Sources  (M92/14) William N. Partlo
+A Retrospective on Database Application Development Frameworks  (M92/13) Lawrence A. Rowe
+Finger-Like Biomechanical Robots  (M92/12) D.C. Deno, R.M. Murray, Kristofer Pister and S. Shankar Sastry
+Stabilization of Trajectories for Systems with Nonholonomic Constraints  (M92/11) G. Walsh, D. Tilbury, S. Shankar Sastry, R. Murray and J.P. Laumond
+Algorithms for High-Level Synthesis: Resource Utilization-Based Approach  (M92/10) Miodrag M. Potkonjak
+Arnold Diffusion in a Torus with Time- Varying Fields  (M92/9) Allan J. Lichtenberg
+Formal Verification of Timing Constrained Finite-State Systems  (M92/8) F. Balarin and Alberto L. Sangiovanni-Vincentelli
+How to Deal with Robot Motion? Application to Car-Like Robots  (M92/7) D. Luzeaux
+A Strongly Polynomial Algorithm for Approximate Convex Optimization with Combinatorial Constraints and Resource Allocation  (M92/6) E.J. Friedman
+Numerical and Experimental Studies of Self-Synchronization and Synchronized Chaos  (M92/5) M. de Sousa Vieira, P. Khoury, Allan J. Lichtenberg, Michael A. Lieberman, W. Wonchoba, J. Gullicksen, J.Y. Huang, R. Sherman and M. Steinberg
+Design and Evaluation of Directory-Based Cache Coherence Systems  (M92/4) Brian W. O'Krafka
+Exploiting Inter-Operation Parallelism in XPRS  (M92/3) W. Hong
+LIBTP: Portable, Modular Transactions for UNIX  (M92/2) M. Seltzer and M. Olson
+The Genesis of Chua's Circuit  (M92/1) Leon O. Chua

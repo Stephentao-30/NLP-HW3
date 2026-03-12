@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28501.html
+Extending Ingres with a Rules System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Extending Ingres with a Rules System
+Extending Ingres with a Rules System
+Michael Stonebraker, Rowland Johnson and Steven Rosenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/93
+December 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-93.pdf
+BibTeX citation:
+@techreport{Stonebraker:M81/93,
+Author = {Stonebraker, Michael and Johnson, Rowland and Rosenberg, Steven},
+Title = {Extending Ingres with a Rules System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28501.html},
+Number = {UCB/ERL M81/93}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Johnson, Rowland
+%A Rosenberg, Steven
+%T Extending Ingres with a Rules System
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/93
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28501.html
+%F Stonebraker:M81/93

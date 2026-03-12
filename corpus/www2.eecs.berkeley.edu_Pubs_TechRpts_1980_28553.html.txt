@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28553.html
+Analysis of the Power Flow Equation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analysis of the Power Flow Equation
+Analysis of the Power Flow Equation
+A. Arapostathis, S. Sastry and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/35
+August 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-35.pdf
+BibTeX citation:
+@techreport{Arapostathis:M80/35,
+Author = {Arapostathis, A. and Sastry, S. and Varaiya, P.},
+Title = {Analysis of the Power Flow Equation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28553.html},
+Number = {UCB/ERL M80/35}
+}
+EndNote citation:
+%0 Report
+%A Arapostathis, A.
+%A Sastry, S.
+%A Varaiya, P.
+%T Analysis of the Power Flow Equation
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28553.html
+%F Arapostathis:M80/35

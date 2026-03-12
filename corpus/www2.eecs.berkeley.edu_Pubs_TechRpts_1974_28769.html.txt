@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28769.html
+Security Ratings for Computer Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Security Ratings for Computer Systems
+Security Ratings for Computer Systems
+Lance J. Hoffman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M444
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-444.pdf
+BibTeX citation:
+@techreport{Hoffman:M444,
+Author = {Hoffman, Lance J.},
+Title = {Security Ratings for Computer Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28769.html},
+Number = {UCB/ERL M444}
+}
+EndNote citation:
+%0 Report
+%A Hoffman, Lance J.
+%T Security Ratings for Computer Systems
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M444
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28769.html
+%F Hoffman:M444

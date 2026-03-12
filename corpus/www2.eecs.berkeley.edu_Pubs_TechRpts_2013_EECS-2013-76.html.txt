@@ -1,0 +1,31 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-76.html
+Equalization for Intracortical Microstimulation Artifact Reduction
+Philip Chu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-76
+May 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-76.pdf
+I present a method for decreasing the duration of artifacts present during intra-cortical microstimulation (ICMS) recordings by using techniques developed for digital communications. I use a Zero-Forcing Equalizer (ZFE) to shape a stimulus pattern with the aim of reducing artifact length. The results find that using the ZFE stimulus has the potential to reduce artifact duration by more than 70%. Continuing work and current considerations for the hardware implementation of the equalizer are presented.
+Advisors:  Jan M. Rabaey
+BibTeX citation:
+@mastersthesis{Chu:EECS-2013-76,
+Author= {Chu, Philip},
+Title= {Equalization for Intracortical Microstimulation Artifact Reduction},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-76.html},
+Number= {UCB/EECS-2013-76},
+Abstract= {I present a method for decreasing the duration of artifacts present during intra-cortical microstimulation (ICMS) recordings by using techniques developed for digital communications. I use a Zero-Forcing Equalizer (ZFE) to shape a stimulus pattern with the aim of reducing artifact length. The results find that using the ZFE stimulus has the potential to reduce artifact duration by more than 70%. Continuing work and current considerations for the hardware implementation of the equalizer are presented.},
+}
+EndNote citation:
+%0 Thesis
+%A Chu, Philip
+%T Equalization for Intracortical Microstimulation Artifact Reduction
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 16
+%@ UCB/EECS-2013-76
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-76.html
+%F Chu:EECS-2013-76

@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/joe-hellerstein-must-haves-modern-data-prep-platform
+Joe Hellerstein on the must-haves of a modern data prep platform - EECS at Berkeley
+CS Prof. Joseph Hellerstein is the subject of a feature in InsideBigData titled “The Must-Haves of a Modern Data Prep Platform.”  Hellerstein is the co-founder and Chief Strategy Officer at Trifacta, a company that develops data wrangling software for data exploration and self-service data preparation for analysis.  he discusses how the challenge of data preparation sits squarely between the growth of BI and visualization tools and the specific data needed to fuel them.  Efficient data preparation is key to alleviating new demand from business users. The article offers three key requirements that a data preparation platform should have.  Hellerstein’s career in research and industry has focused on data-centric systems and the way they drive computing. Fortune Magazine included him in their list of 50 smartest people in technology , and MIT’s Technology Review magazine included his work on th eir TR10 list of the 10 technologies “most likely to change our world.”
+Categories
+Faculty
+Industry
+Research
+View
+Open Faculty Positions

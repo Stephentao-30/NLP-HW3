@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28723.html
+An Improved Version of SLIC
+Harold M. Kop
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M364
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-364.pdf
+BibTeX citation:
+@techreport{Kop:M364,
+Author= {Kop, Harold M.},
+Title= {An Improved Version of SLIC},
+Year= {1972},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28723.html},
+Number= {UCB/ERL M364},
+}
+EndNote citation:
+%0 Report
+%A Kop, Harold M.
+%T An Improved Version of SLIC
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M364
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28723.html
+%F Kop:M364

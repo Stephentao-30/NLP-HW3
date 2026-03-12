@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28720.html
+Notes on magnitude functions with equi-ripple response | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Notes on magnitude functions with equi-ripple response
+Notes on magnitude functions with equi-ripple response
+D.A. Calahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M36
+November 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-36.pdf
+BibTeX citation:
+@techreport{Calahan:M36,
+Author = {Calahan, D.A.},
+Title = {Notes on magnitude functions with equi-ripple response},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28720.html},
+Number = {UCB/ERL M36}
+}
+EndNote citation:
+%0 Report
+%A Calahan, D.A.
+%T Notes on magnitude functions with equi-ripple response
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28720.html
+%F Calahan:M36

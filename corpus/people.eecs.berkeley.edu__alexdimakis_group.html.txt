@@ -1,0 +1,118 @@
+URL: https://people.eecs.berkeley.edu/~alexdimakis/group.html
+Research Group
+Home
+Main
+Bio and CV
+Research
+Projects
+Group
+Papers
+By Type
+Scholar Profile
+Courses
+Teaching
+Activities
+Service and TPCs
+Fun
+Artistic Attempts
+Research Group
+Our group is performing research in unsupervised machine learning and information processing.
+Group members
+PhD students
+Negin Raoof
+Romy Luo  (with Kristen Grauman)
+Yating Wu  (with Jessy Li)
+Georgios Smyrnis
+I also collaborate with  Danny Diaz  our IFML computational protein engineer.
+Alumni
+Giannis Daras  (Phd UT Austin)→MIT Postdoc
+Matt Jordan  (Phd UT Austin)→AI2
+Sriram Ravula   (Phd UT Austin)→SparkCognition
+Jay Whang  (Phd UT Austin)→Google
+Ajil Jalal  (Phd UT Austin)→UC Berkeley Postdoc
+Qi Lei(雷琦)  (Phd UT Austin)→Princeton Postdoc→ Assistant Professor, NYU
+Shanshan Wu  (Phd UT Austin)→Google Research
+Erik M. Lindgren  (Phd UT Austin)→Google Research NY→Databricks
+Murat Kocaoglu , (Phd UT Austin)→ IBM Research→ Assistant Professor,
+Purdue University
+Ethan Elenberg , (Phd UT Austin)→
+ASAPP  Research Scientist
+Rashish Tandon  (Phd UT Austin)→ Apple
+Ashish Bora  (MS UT Austin)→ Google Health
+Anastasios Kyrillidis , (Postdoc), Assistant Professor, Rice University
+Karthikeyan Shanmugam , (PhD UT Austin), IBM Research
+Megasthenis Asteris  (PhD UT Austin)→ Google
+Michael Borokhovich  (Postdoc)→  Amazon
+Dimitris Papailiopoulos  (PhD UT Austin)→UC Berkeley
+PostDoc→ UW-Madison, Assistant Professor.
+Maheswaran Sathiamoorthy  (PhD USC)→Google
+MS
+Dave Van Veen  (MS UT Austin)→
+Stanford
+Samer Chucri  (MS UT Austin),  Google
+Arash Saber Tehrani    (joint with Giuseppe Caire )
+Negin Golrezaei  (USC MS), Joined Business School Phd program
+Yi-Hsuan (Griffey) Kao (USC MS),  Phd program at USC.
+Older Projects  (please see  Google Scholar  for an updated publication list)
+Matrix Factorizations and Sparse PCA
+Sparse PCA with provable approximation gurantees
+(pdf)  ICML 2013 paper and
+(video)
+Multiple components for SPCA using bipartite matchings
+(pdf)  NIPS 2015
+Orthogonal Nonnegative Matrix Factorization through Subspace Exploration
+(pdf)  NIPS 2015
+Stay on path: PCA along graph paths
+(pdf)
+Learning sparse polynomials and causality
+Sparse polynomial learning and Graph sketching
+(pdf)   NIPS 2014
+Learning Causal graphs with Small Interventions
+(pdf)  NIPS 2015
+Big graph analytics
+Estimating profiles and motifs of large graphs
+(pdf)  KDD 2015.
+Distributed estimation of Graph 4-profiles
+(pdf)  WWW 2016.
+New erasure codes for big data storage.
+Xorbas HDFS  is a module for Hadoop Mapreduce that implements Locally repairable codes. These new codes can perform rebuilds with significantly smaller disk IO and network traffic compared to Reed-Solomon and other other classic codes. Our prototype is open source and available on Github and was tested on Amazon and Facebook clusters. It is a modification of the HDFS RAID module used by Facebook for big data storage protection.
+Project homepage
+Papers
+M. Sathiamoorthy, M. Asteris,  D.S. Papailiopoulos, A.G. Dimakis, R. Vadali, S. Chen, and D. Borthakur,
+XORing Elephants: Novel Erasure Codes for Big Data
+Proceedings of the VLDB Endowment 2013.
+D.S. Papailiopoulos and A.G. Dimakis
+Locally Repairable Codes ,
+IEEE Int. Symposium on Information Theory, 2012.
+A.G. Dimakis, K. Ramchandran, Y. Wu, and C. Suh
+A Survey on Network Codes for Distributed Storage
+Proceedings of the IEEE | Vol. 99, No. 3, March 2011.
+A.G. Dimakis, P. B. Godfrey, Y. Wu, M. J. Wainwright and K. Ramchandran
+Network Coding for Distributed Storage Systems
+IEEE Transactions on Information Theory, Vol. 56(9), 4539-4551, Sept. 2010.
+Femtocaching
+The main idea of this project is to add caching capabilities to mobile femtocell stations. Several algorithmic and coding questions arise.
+Papers
+N. Golrezaei, A.F. Molisch, A.G. Dimakis and G. Caire,
+Device-to-Device Collaboration: A New Architecture for Wireless Video Distribution
+IEEE Communications Magazine, (to appear).
+N. Golrezaei, K. Shanmugam, A.G. Dimakis, A.F. Molisch and G. Caire,
+FemtoCaching: Wireless Video Content Delivery through Distributed Caching Helpers
+International Conference on Computer Communications (INFOCOM) 2012.
+N. Golrezaei, A.G. Dimakis and A.F. Molisch,
+Wireless Device-to-Device Communications with Distributed Caching
+IEEE International Symposium on Information Theory (ISIT) 2012.
+Connecting coding theory and compressed sensing through LP relaxations
+We show that the standard LP relaxations for binary channel coding and compressed sensing have a non-trivial connection. This allows us to leverage results from LDPC codes to establish performance guarantees for basis pursuit in compressed sensing.
+Papers
+A. Khajehnejad, A.S. Tehrani, A.G. Dimakis and B. Hassibi
+Explicit Matrices for Sparse Approximation
+IEEE International Symposium on Information Theory (ISIT) 2011.
+A.G. Dimakis, R. Smarandache, P. O. Vontobel,
+LDPC Codes for Compressed Sensing
+IEEE Transactions on Information Theory, 58(5), 3093-3114, May 2012.
+Index Coding
+K. Shanmugam, A.G. Dimakis and M. Langberg
+Local Graph Coloring and Index Coding
+(submitted for publication)
+Page generated 2024-08-21 02:00:50 CDT, by  jemdoc .

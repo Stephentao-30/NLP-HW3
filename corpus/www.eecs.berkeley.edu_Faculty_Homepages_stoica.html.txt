@@ -1,0 +1,73 @@
+URL: http://www.eecs.berkeley.edu/Faculty/Homepages/stoica.html
+Ion Stoica: Faculty Home Page
+Larger Photo
+Ion Stoica
+Professor
+Contact Information
+481-2 Soda Hall
+tel:  510-643-4007
+istoica@eecs.berkeley.edu
+Office Hours
+Monday 11-12 PM, Location TBD
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Damon Hinson
+damonh@berkeley.edu
+Biography
+Ion Stoica is a Professor in the EECS Department at the University of California at Berkeley, where he holds the Xu Bao Chancellor's Chair and is the Director of SkyLab (https://sky.cs.berkeley.edu/). He is currently doing research on cloud computing and AI systems. Past work includes Ray, Apache Spark, Apache Mesos, Tachyon, Chord DHT, and Dynamic Packet State (DPS). He is an Honorary Member of the Romanian Academy, an ACM Fellow and has received numerous awards, including the Mark Weiser Award (2019), SIGOPS Hall of Fame Award (2015), and several "Test of Time" awards. He also co-founded three companies, Anyscale (2019), Databricks (2013) and Conviva (2006).
+Education
+2000, Ph.D., Electrical and Computer Engineering, Carnegie Mellon University
+1989, M.S., Computer Science and Control Engineering, Polytechnic University Bucharest
+Research Areas
+Operating Systems & Networking (OSNT)
+Security (SEC)
+Networking and distributed computer systems, Quality of Service (Q of S) and resources management, modeling and performance analysis
+Research Centers
+Berkeley Deep Drive (BDD)
+Sky Computing Lab (Sky)
+Teaching Schedule
+CS 294-194. Research to Startup , Th 17:00-18:29, Soda 310
+CS 294-265. Building Real-World Systems with AI from Scratch , Mo 09:00-11:59, Soda 310
+Y. Zhao and I. Stoica, "BlendServe: Optimizing Offline Inference with Resource-Aware Batching," Jan. 2026.
+Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, I. Stoica, Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, and I. Stoica, "Representing Long-Range Context for Graph Neural Networks with Global Attention," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, I. Stoica, Z. Wu, P. Jain, M. A. Wright, A. Mirhoseini, J. Gonzalez, and I. Stoica, "Representing Long-Range Context for Graph Neural Networks with Global Attention," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+E. Liang*, Z. Wu*, M. Luo, S. Mika, J. Gonzalez, and I. Stoica, " RLlib Flow: Distributed Reinforcement Learning is a Dataflow Problem ," in  Advances in Neural Information Processing Systems (NeurIPS) , 2021.
+P. Jain, A. Jain, A. Nrusimha, A. Gholami, P. Abbeel, K. Keutzer, I. Stoica, and J. Gonzalez, " Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization ," in  Proceedings of Machine Learning and Systems 2020 , Machine Learning and Systems, 2020, pp. 497--511.
+H. Li, A. Ghodsi, M. Zaharia, S. Shenker, and I. Stoica, " Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks ," in  ACM Symposium on Cloud Computing , 2014.
+M. Zaharia, T. Das, H. Li, T. Hunter, S. Shenker, and I. Stoica, " Discretized Streams: Fault-Tolerant Streaming Computation at Scale ," in  ACM Symposium on Operating Systems Principles , 2013.
+R. S. Xin, J. Rosen, M. Zaharia, M. Franklin, S. Shenker, and I. Stoica, " Shark: SQL and Rich Analytics at Scale ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2012-214, Nov. 2012.
+D. M. Geels, G. D. Altekar, S. Shenker, and I. Stoica, " Replay debugging for distributed applications ," in  Proc. 2006 USENIX Annual Technical Conference , Berkeley, CA: USENIX Association, 2006, pp. 289-300.
+B. T. Loo, J. M. Hellerstein, I. Stoica, and R. Ramakrishnan, " Declarative routing: Extensible routing with declarative queries ," in  Proc. 2005 Conf. on Applications, Technologies, Architectures, and Protocols for Computer Communications , New York, NY: ACM Press, 2005, pp. 289-300.
+I. Stoica,  Stateless Core: A Scalable Approach for Quality of Service in the Internet , Lecture Notes in Computer Science, Vol. 2979, Berlin, Germany: Springer-Verlag, 2004.
+I. Stoica, D. Adkins, S. Zhuang, S. Shenker, and S. Surana, " Internet indirection infrastructure ,"  IEEE/ACM Trans. Networking , vol. 12, no. 2, pp. 205-218, April 2004.
+L. Subramanian, V. Roth, I. Stoica, S. Shenker, and R. H. Katz, " Best Student Paper Award: Listen and whisper: Security mechanisms for BGP ," in  Proc. 1st Symp. on Networked Systems Design and Implementation , Berkeley, CA: USENIX Association, 2004, pp. 127-140.
+I. Stoica, R. Morris, D. Liben-Nowell, D. R. Karger, M. F. Kaashoek, F. Dabek, and H. Balakrishnan, " Chord: A scalable peer-to-peer lookup protocol for Internet applications ,"  IEEE/ACM Trans. Networking , vol. 11, no. 1, pp. 17-32, Feb. 2003.
+Fiat Lux Faculty Award ,
+2025
+National Academy of Engineering (NAE) Member ,
+2024
+IEEE Koji Kobayashi Computers and Communications Award ,
+2023
+Honorary Member of the Romanian Academy ,
+2022
+ACM SIGOPS Mark Weiser Award ,
+2019
+ACM SIGOPS Hall of Fame Award ,
+2015
+Association for Computing Machinery (ACM) Fellow ,
+2012
+ACM SIGCOMM Test of Time Paper Award ,
+2011
+IEEE ComSoc William R. Bennett Prize ,
+2004
+Sloan Research Fellow ,
+2003
+NSF Presidential Early Career Award for Scientists & Engineers (PECASE) ,
+2002
+ACM Doctoral Dissertation Award ,
+2001
+Okawa Research Grant ,
+2001

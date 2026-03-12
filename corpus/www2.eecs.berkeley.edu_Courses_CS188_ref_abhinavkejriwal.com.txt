@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS188?ref=abhinavkejriwal.com
+CS 188. Introduction to Artificial Intelligence
+Catalog Description:  Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.
+Units:  4
+Prerequisites:  COMPSCI 61A, COMPSCI 61B, and COMPSCI 70.
+Formats:  Summer: 6.0-6.0 hours of lecture and  2.0-3.0 hours of discussion per week
+Fall: 3.0-3.0 hours of lecture and  1.0-1.5 hours of discussion per week
+Spring: 3.0-3.0 hours of lecture and  1.0-1.5 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Fall 2024):
+CS 188 –                TuTh 15:30-16:59, Dwinelle 155 –
+Igor Mordatch ,  Pieter Abbeel
+Class homepage
+on inst.eecs
+Department Notes:   Course objectives:  An introduction to the full range of topics studied in artificial intelligence, with emphasis on the "core competences" of intelligent systems - problem solving, reasoning, decision making, and learning - and on the logical and probabilistic foundations of these activities.
+Topics covered:
+history
+intelligent agents
+uninformed search
+informed search
+constraint satisfaction
+game-playing
+logical agents
+propositional logic
+first-order logic
+inference in first-order logic
+resolution, logic programming
+planning, plan execution
+uncertainty, probability theory, probabilistic inference
+Bayesian networks and associated inference algorithms
+optimal decisions under uncertainty
+optimal sequential decisions, Markov decision processes
+learning agents
+inductive learning, decision trees
+neural networks
+Bayesian learning
+natural language processing
+perception/vision
+robotics
+philosophical foundations
+Related Areas:
+Artificial Intelligence (AI)

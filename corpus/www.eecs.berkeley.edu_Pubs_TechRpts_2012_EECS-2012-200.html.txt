@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-200.html
+Regular Homotopies of Low-Genus Non-Orientable Surfaces
+Carlo H. Séquin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-200
+September 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-200.pdf
+The construction of various of Klein bottles that belong to different regular homotopy classes, and which thus cannot be smoothly transformed into one another, is formally introduced. For all cases it is shown how these shapes can be partitioned into two Möbius bands and how the twistedness of these bands defines the homotopy type.
+BibTeX citation:
+@techreport{Séquin:EECS-2012-200,
+Author= {Séquin, Carlo H.},
+Title= {Regular Homotopies of Low-Genus Non-Orientable Surfaces},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-200.html},
+Number= {UCB/EECS-2012-200},
+Abstract= {The construction of various of Klein bottles that belong to different regular homotopy classes, and which thus cannot be smoothly transformed into one another, is formally introduced. For all cases it is shown how these shapes can be partitioned into two Möbius bands and how the twistedness of these bands defines the homotopy type.},
+}
+EndNote citation:
+%0 Report
+%A Séquin, Carlo H.
+%T Regular Homotopies of Low-Genus Non-Orientable Surfaces
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 30
+%@ UCB/EECS-2012-200
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-200.html
+%F Séquin:EECS-2012-200

@@ -1,0 +1,80 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-153.html
+Language Support for Loosely Consistent Distributed Programming | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Language Support for Loosely Consistent Distributed Programming
+Language Support for Loosely Consistent Distributed Programming
+Neil Conway
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-153
+August 15, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-153.pdf
+Driven by the widespread adoption of both cloud computing and mobile devices, distributed computing is increasingly commonplace. As a result, a growing proportion of developers must tackle the complexity of distributed programming---that is, they must ensure correct application behavior in the face of asynchrony, concurrency, and partial failure.
+To help address these difficulties, developers have traditionally relied upon system infrastructure that provides strong consistency guarantees (e.g., consensus protocols and distributed transactions). These mechanisms hide much of the complexity of distributed computing---for example, by allowing programmers to assume that all nodes observe the same set of events in the same order. Unfortunately, providing such strong guarantees becomes increasingly expensive as the scale of the system grows, resulting in availability and latency costs that are unacceptable for many modern applications.
+Hence, many developers have explored building applications that only require loose consistency guarantees---for example, storage systems that only guarantee that all replicas eventually converge to the same state, meaning that a replica might exhibit an arbitrary state at any particular time. Adopting loose consistency involves making a well-known tradeoff: developers can avoid paying the latency and availability costs incurred by mechanisms for achieving strong consistency, but in exchange they must deal with the full complexity of distributed computing. As a result, achieving correct application behavior in this environment is very difficult.
+This thesis explores how to aid developers of loosely consistent applications by providing programming language support for the difficulties they face. The language level is a natural place to tackle this problem: because developers that use loose consistency have fewer system facilities that they can depend on, consistency concerns are naturally pushed into application logic. In part, our goal has been to recognize, formalize, and automate application-level consistency patterns.
+We describe three language variants that each tackle a different challenge in distributed programming. Each variant is a modification of Bloom, a declarative language for distributed programming we have developed at UC Berkeley. The first variant of Bloom, Bloom^L, enables deterministic distributed programming without the need for distributed coordination. Second, Edelweiss allows distributed storage reclamation protocols to be generated in a safe and automatic fashion. Finally, Bloom^PO adds sophisticated ordering constraints that we use to develop a declarative, high-level implementation of concurrent editing, a particularly difficult class of loosely consistent programs.
+Advisor:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Conway:EECS-2014-153,
+Author = {Conway, Neil},
+Title = {Language Support for Loosely Consistent Distributed Programming},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-153.html},
+Number = {UCB/EECS-2014-153},
+Abstract = {  Driven by the widespread adoption of both cloud computing and mobile devices,
+distributed computing is increasingly commonplace. As a result, a growing
+proportion of developers must tackle the complexity of distributed
+programming---that is, they must ensure correct application behavior in the
+face of asynchrony, concurrency, and partial failure.
+To help address these difficulties, developers have traditionally relied upon
+system infrastructure that provides strong consistency guarantees
+(e.g., consensus protocols and distributed transactions). These mechanisms
+hide much of the complexity of distributed computing---for example, by
+allowing programmers to assume that all nodes observe the same set of events
+in the same order. Unfortunately, providing such strong guarantees becomes
+increasingly expensive as the scale of the system grows, resulting in
+availability and latency costs that are unacceptable for many modern
+applications.
+Hence, many developers have explored building applications that only require
+loose consistency guarantees---for example, storage systems that only
+guarantee that all replicas eventually converge to the same state, meaning
+that a replica might exhibit an arbitrary state at any particular
+time. Adopting loose consistency involves making a well-known tradeoff:
+developers can avoid paying the latency and availability costs incurred by
+mechanisms for achieving strong consistency, but in exchange they must deal
+with the full complexity of distributed computing. As a result, achieving
+correct application behavior in this environment is very difficult.
+This thesis explores how to aid developers of loosely consistent applications
+by providing programming language support for the difficulties they
+face. The language level is a natural place to tackle this problem: because
+developers that use loose consistency have fewer system facilities that they
+can depend on, consistency concerns are naturally pushed into application
+logic. In part, our goal has been to recognize, formalize, and automate
+application-level consistency patterns.
+We describe three language variants that each tackle a different challenge in
+distributed programming. Each variant is a modification of Bloom, a
+declarative language for distributed programming we have developed at UC
+Berkeley. The first variant of Bloom, Bloom^L, enables
+deterministic distributed programming without the need for distributed
+coordination. Second, Edelweiss allows distributed storage reclamation
+protocols to be generated in a safe and automatic fashion. Finally,
+Bloom^PO adds sophisticated ordering constraints that
+we use to develop a declarative, high-level implementation of concurrent
+editing, a particularly difficult class of loosely consistent programs.}
+}
+EndNote citation:
+%0 Thesis
+%A Conway, Neil
+%T Language Support for Loosely Consistent Distributed Programming
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 August 15
+%@ UCB/EECS-2014-153
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-153.html
+%F Conway:EECS-2014-153

@@ -1,0 +1,49 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-240.html
+A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions
+A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions
+Achintya Madduri
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-240
+December 16, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-240.pdf
+This dissertation discusses the design and validation of a community-scale DC microgrid architecture that can integrate renewable generation sources by using a distributed control scheme implemented on the microgrid-connected households to mitigate resource variability. The presented system is designed to address the technical and economic challenges of electrifying emerging regions. The levelized cost of electricity (LCOE) is expected to be less than $0.40 per kW-hr over a 15 year horizon.
+Solar panel costs have steadily declined to make them a very affordable option for distributed generation. However, battery costs have not declined at the same rate. The important figure of merit for microgrids is the efficiency of stored electricity. The architecture presented in this work is shown to minimize losses in stored electricity. Another key feature of the system is the ability to prioritize loads by controlling the power flow of the system.
+There are three key components of the presented DC microgrid architecture: source converters, fanout nodes, and household power management units (PMUs). The functionality of each of these components and the rationale for their design choices is presented in detail. The PMUs implement a distributed loadline control scheme to mitigate variability in available grid power. The design of the distributed control scheme of the DC microgrid is discussed in detail. The relevance of Lyapunov based analysis towards the large signal stability of grid voltage is also discussed.
+The first-generation system uses a phase shifted full-bridge converter topology in the PMUs to convert from 380-to-12V in a single stage. Analytical analysis of this topology shows large signal and small signal stability. Transient response of the grid voltages and currents is shown through simulations. Experimental results are presented that showcase the operation and efficiency of system hardware.
+The second-generation system incorporates a two-stage conversion architecture. The first stage is a 380-to-48V fixed ratio bus converter, which is used to generate a 48V bus for a local cluster of connected households. In the second stage, PMUs utilize a buck converter topology to step down from 48V-to-12V in each household. In addition to simulation and experimental validation of the hardware, a cost analysis is also presented to determine LCOE of system. The second-generation architecture achieves higher efficiency and reduced cost in comparison to the first-generation.
+Lastly, grounding and protection of the microgrid is discussed in detail. Relevant examples from existing distribution schemes are presented and the rationale behind existing schemes are explored. A grounding and protection scheme that is suited to this dissertation's DC microgrid is presented. The protection scheme is validated throgh relevant simulations and experiments.
+This work presents a grid topology that is designed to adapt to a changing landscape of solar PV prices and meets the challenge of providing a scalable and low-cost electrification solution. Future efforts in addressing the energy needs of unelectrified regions can build on the work presented in this dissertation.
+Advisor:  Seth R. Sanders and Eric Brewer
+BibTeX citation:
+@phdthesis{Madduri:EECS-2015-240,
+Author = {Madduri, Achintya},
+Title = {A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-240.html},
+Number = {UCB/EECS-2015-240},
+Abstract = {This dissertation discusses the design and validation of a community-scale DC microgrid architecture that can integrate renewable generation sources by using a distributed control scheme implemented on the microgrid-connected households to mitigate resource variability. The presented system is designed to address the technical and economic challenges of electrifying emerging regions. The levelized cost of electricity (LCOE) is expected to be less than $0.40 per kW-hr over a 15 year horizon.
+Solar panel costs have steadily declined to make them a very affordable option for distributed generation. However, battery costs have not declined at the same rate. The important figure of merit for microgrids is the efficiency of stored electricity. The architecture presented in this work is shown to minimize losses in stored electricity. Another key feature of the system is the ability to prioritize loads by controlling the power flow of the system.
+There are three key components of the presented DC microgrid architecture: source converters, fanout nodes, and household power management units (PMUs). The functionality of each of these components and the rationale for their design choices is presented in detail. The PMUs implement a distributed loadline control scheme to mitigate variability in available grid power. The design of the distributed control scheme of the DC microgrid is discussed in detail. The relevance of Lyapunov based analysis towards the large signal stability of grid voltage is also discussed.
+The first-generation system uses a phase shifted full-bridge converter topology in the PMUs to convert from 380-to-12V in a single stage. Analytical analysis of this topology shows large signal and small signal stability. Transient response of the grid voltages and currents is shown through simulations. Experimental results are presented that showcase the operation and efficiency of system hardware.
+The second-generation system incorporates a two-stage conversion architecture. The first stage is a 380-to-48V fixed ratio bus converter, which is used to generate a 48V bus for a local cluster of connected households. In the second stage, PMUs utilize a buck converter topology to step down from 48V-to-12V in each household. In addition to simulation and experimental validation of the hardware, a cost analysis is also presented to determine LCOE of system. The second-generation architecture achieves higher efficiency and reduced cost in comparison to the first-generation.
+Lastly, grounding and protection of the microgrid is discussed in detail. Relevant examples from existing distribution schemes are presented and the rationale behind existing schemes are explored. A grounding and protection scheme that is suited to this dissertation's DC microgrid is presented. The protection scheme is validated throgh relevant simulations and experiments.
+This work presents a grid topology that is designed to adapt to a changing landscape of solar PV prices and meets the challenge of providing a scalable and low-cost electrification solution. Future efforts in addressing the energy needs of unelectrified regions can build on the work presented in this dissertation.}
+}
+EndNote citation:
+%0 Thesis
+%A Madduri, Achintya
+%T A Scalable DC Microgrid Architecture for Rural Electrification in Emerging Regions
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 16
+%@ UCB/EECS-2015-240
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-240.html
+%F Madduri:EECS-2015-240

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29286.html
+On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph
+On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph
+L.O. Chua and L.K. Chen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M359
+September 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-359.pdf
+BibTeX citation:
+@techreport{Chua:M359,
+Author = {Chua, L.O. and Chen, L.K.},
+Title = {On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29286.html},
+Number = {UCB/ERL M359}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Chen, L.K.
+%T On Optimally Sparse Cycle and Coboundary Basis for a Linear Graph
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M359
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29286.html
+%F Chua:M359

@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2000/8144.html
+Limits on Microvalve Design
+Kenneth H. Chiang
+EECS Department, University of California, Berkeley
+2000
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Chiang:8144,
+Author= {Chiang, Kenneth H.},
+Title= {Limits on Microvalve Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2000},
+}
+EndNote citation:
+%0 Thesis
+%A Chiang, Kenneth H.
+%T Limits on Microvalve Design
+%I EECS Department, University of California, Berkeley
+%D 2000
+%F Chiang:8144

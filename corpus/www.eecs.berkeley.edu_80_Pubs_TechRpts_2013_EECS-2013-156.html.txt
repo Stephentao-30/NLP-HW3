@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-156.html
+Regularization-Based Identification for Level Set Equations
+Insoon Yang and Claire Tomlin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-156
+September 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-156.pdf
+An optimization-based method for identifying the speed profile of a moving surface from image data is studied. If the dynamic surface motion is modeled by a level set equation, the identification problem can be formulated as an optimization problem constrained with the level set equation whose (viscosity) solution, in general, has kinks. The non-differentiable solution prevents us from having a bounded gradient of the cost function of the optimization problem. To overcome this difficulty, we develop a novel identification approach using a regularized level set equation. The regularization guarantees the differentiability of the cost function and the boundedness of the gradient. Using numerical optimization techniques with the adjoint-based gradient, we solve the identification problem. We perform a numerical test to validate that the solution of an optimization problem with a regularized level set equation converges to the solution of the same optimization problem with an unregularized level set equation as the regularization factor tends to zero.
+The performance and usefulness of the method are demonstrated by a biological example in which we estimate the forces (per density) of actin and myosin in cell polarization.
+BibTeX citation:
+@techreport{Yang:EECS-2013-156,
+Author= {Yang, Insoon and Tomlin, Claire},
+Title= {Regularization-Based Identification for Level Set Equations},
+Year= {2013},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-156.html},
+Number= {UCB/EECS-2013-156},
+Abstract= {An optimization-based method for identifying the speed profile of a moving surface from image data is studied. If the dynamic surface motion is modeled by a level set equation, the identification problem can be formulated as an optimization problem constrained with the level set equation whose (viscosity) solution, in general, has kinks. The non-differentiable solution prevents us from having a bounded gradient of the cost function of the optimization problem. To overcome this difficulty, we develop a novel identification approach using a regularized level set equation. The regularization guarantees the differentiability of the cost function and the boundedness of the gradient. Using numerical optimization techniques with the adjoint-based gradient, we solve the identification problem. We perform a numerical test to validate that the solution of an optimization problem with a regularized level set equation converges to the solution of the same optimization problem with an unregularized level set equation as the regularization factor tends to zero.
+The performance and usefulness of the method are demonstrated by a biological example in which we estimate the forces (per density) of actin and myosin in cell polarization.},
+}
+EndNote citation:
+%0 Report
+%A Yang, Insoon
+%A Tomlin, Claire
+%T Regularization-Based Identification for Level Set Equations
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 September 8
+%@ UCB/EECS-2013-156
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-156.html
+%F Yang:EECS-2013-156

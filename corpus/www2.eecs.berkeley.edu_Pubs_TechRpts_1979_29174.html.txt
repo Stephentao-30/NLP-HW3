@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29174.html
+Ingres Verson 6.2 Reference Manual | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Ingres Verson 6.2 Reference Manual
+Ingres Verson 6.2 Reference Manual
+John Woodfill, Nick Whyte, Mike Ubell, Polly Siegel, Dan Ries, Marc Meyer, Paula Hawthorn, Bob Epstein, Rick Bermen and Eric Allman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/43
+May 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-43.pdf
+BibTeX citation:
+@techreport{Woodfill:M79/43,
+Author = {Woodfill, John and Whyte, Nick and Ubell, Mike and Siegel, Polly and Ries, Dan and Meyer, Marc and Hawthorn, Paula and Epstein, Bob and Bermen, Rick and Allman, Eric},
+Title = {Ingres Verson 6.2 Reference Manual},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29174.html},
+Number = {UCB/ERL M79/43}
+}
+EndNote citation:
+%0 Report
+%A Woodfill, John
+%A Whyte, Nick
+%A Ubell, Mike
+%A Siegel, Polly
+%A Ries, Dan
+%A Meyer, Marc
+%A Hawthorn, Paula
+%A Epstein, Bob
+%A Bermen, Rick
+%A Allman, Eric
+%T Ingres Verson 6.2 Reference Manual
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29174.html
+%F Woodfill:M79/43

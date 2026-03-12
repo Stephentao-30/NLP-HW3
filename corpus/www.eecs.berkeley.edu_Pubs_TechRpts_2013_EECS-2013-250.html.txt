@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-250.html
+Designing a Low Voltage, High Current Tunneling Transistor
+Sapan Agarwal and Eli Yablonovitch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-250
+December 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-250.pdf
+We analyze what is needed to design a low voltage high current tunneling field effect transistor (TFET).  We consider the potential performance of changing the thickness of the tunneling barrier as well band edge energy filtering to achieve a steep turn on.  We also consider the impact of dimensionality or shape on the turn on characteristics.  Finally, we consider the gate efficiency of different TFET geometries.
+BibTeX citation:
+@techreport{Agarwal:EECS-2013-250,
+Author= {Agarwal, Sapan and Yablonovitch, Eli},
+Title= {Designing a Low Voltage, High Current Tunneling Transistor},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-250.html},
+Number= {UCB/EECS-2013-250},
+Abstract= {We analyze what is needed to design a low voltage high current tunneling field effect transistor (TFET).  We consider the potential performance of changing the thickness of the tunneling barrier as well band edge energy filtering to achieve a steep turn on.  We also consider the impact of dimensionality or shape on the turn on characteristics.  Finally, we consider the gate efficiency of different TFET geometries.},
+}
+EndNote citation:
+%0 Report
+%A Agarwal, Sapan
+%A Yablonovitch, Eli
+%T Designing a Low Voltage, High Current Tunneling Transistor
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 31
+%@ UCB/EECS-2013-250
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-250.html
+%F Agarwal:EECS-2013-250

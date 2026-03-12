@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28422.html
+Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities
+Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities
+Jae Koo Lee and C.K. Birdsall
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/15
+February 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-15.pdf
+BibTeX citation:
+@techreport{Lee:M79/15,
+Author = {Lee, Jae Koo and Birdsall, C.K.},
+Title = {Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28422.html},
+Number = {UCB/ERL M79/15}
+}
+EndNote citation:
+%0 Report
+%A Lee, Jae Koo
+%A Birdsall, C.K.
+%T Particle-Fluid Hybrid Simulations Applied to Beam-Plasma and Ring-Plasma Instabilities
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/15
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28422.html
+%F Lee:M79/15

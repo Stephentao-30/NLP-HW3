@@ -1,0 +1,165 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1984
+Technical Reports - 1984
+Problems, Directions and Issues in Memory Hierarchies  (CSD-84-220) Alan Jay Smith
+Trends and Prospects in Computer System Design  (CSD-84-219) Alan Jay Smith
+Measuring and Improving the Performance of 4.2BSD  (CSD-84-218) Samuel J. Leffler, Michael J. Karels and M. Kirk McKusick
+A User-Process Oriented Performance Study of Ethernet Networking Under Berkeley UNIX 4.2BSD  (CSD-84-217) Luis Felipe Cabrera, Edward Hunter, Michael J. Karels and David A. Mosher
+Development of a Control Process for the Berkeley UNIX Distributed Programs Monitor  (CSD-84-216) Cathryn Marcia Macrander
+CoLab, Tools for Computer-Based Cooperation: A Proposed Research Program  (CSD-84-215) Gregg Foster
+Register Allocation and Data Conversion in Machine Independent Code Generators  (CSD-84-214) Marshall Kirk McKusick
+Automated Discovery of Machine-Specific Code Improvements  (CSD-84-213) Peter Bernard Kessler
+The Traveling Salesman Problem: The Development of a Distributed Computation  (CSD-84-212) Nick Lai and Barton P. Miller
+Process Control in a Distributed Berkeley Unix Environment  (CSD-84-211) Ramon Caceres
+PLA Driver Selection: An Analytic Approach  (CSD-84-210) Fred W. Obermeier and Randy H. Katz
+Considerations on the Insularity of Performance Evaluation  (CSD-84-209) Domenico Ferrari
+Well-solved Special Cases of the Traveling Salesman Problem  (CSD-84-208) P. C. Gilmore, Eugene L. Lawler and D. B. Shmoys
+Implementing a Cache Consistency Protocol  (CSD-84-207) Randy H. Katz, David A. Wood, Susan J. Eggers, Charles Perkins and Robert G. Sheldon
+A Distributed Programs Monitor for Berkeley UNIX  (CSD-84-206) Barton P. Miller, Cathryn Macrander and Stuart Sechrest
+Geometric Continuity of Parametric Curves  (CSD-84-205) Brian A. Barsky and Anthony D. DeRose
+Issues in Caching Prolog Goals  (CSD-84-204) Barry Fagin
+A Prolog Compiler for the PLM  (CSD-84-203) Peter Lodewijk Van Roy
+Randomized Routing in Gate-Arrays  (CSD-84-202) Prabhakar Raghavan and Clark D. Thompson
+New Results in Fuzzy Clustering Based on The Concept of Indistinguishability Relation  (CSD-84-201) R. Lopez de Manteres and L. Valverde
+On the Structure of F-Indistinguishability Operators  (CSD-84-200) L. Valverde
+Design and Implementation of An Integrated Snooping Data Cache  (CSD-84-199) Gaetano Borriello, Susan J. Eggers, Randy H. Katz, Harry McKinley, Charles Perkins, Walter Scott, Robert Sheldon, Shaun Whalen and David A. Wood
+PHRED: A Generator for Natural Language Interfaces  (CSD-84-198) Paul S. Jacobs
+Performance Characterization of Distributed Programs  (CSD-84-197) Barton Paul Miller
+Circus: A Replicated Procedure Call Facility  (CSD-84-196) Eric C. Cooper
+Replicated Procedure Call  (CSD-84-195) Eric C. Cooper
+Predicting Performance in UNIX Systems From Portable Workload Estimators Based on the Terminal Probe Method  (CSD-84-194) Luis Felipe Cabrera and German Rodriguez-Galant
+DREAMS: Display REpresentation for Algebraic Manipulation Systems  (CSD-84-193) Gregg Foster
+User Interface Considerations for Algebraic Manipulation Systems  (CSD-84-192) Gregg Foster
+Tutorial Examples of Interprocess Communication in Berkeley UNIX 4.2 BSD  (CSD-84-191) Stuart Sechrest
+The Cryptographic Security of the Sum of Bits  (CSD-84-190) Richard Berger, Howard J. Karloff and David B. Shmoys
+Matching Modulo Divisors, and a Simple N^1/4 Factoring Algorithm  (CSD-84-187) Eric Bach
+Discrete Logarithms and Factoring  (CSD-84-186) Eric Bach
+Simulation of Hierarchical Routing Algorithms  (CSD-84-185) C. V. Ramamoorthy, O. Nishiguchi and W.-T. Tsai
+Graham-Glanville Code Generators  (CSD-84-184) Robert Rettig Henry
+Configuring Local Area Network-based Distributed Systems  (CSD-84-183) Tzong-yu Paul Lee
+The Berkeley Internet Name Domain Server  (CSD-84-182) Douglas B. Terry, Mark Painter, David W. Riggle and Songnian Zhou
+A Comparison of Tile-Based Wire Representations for Interactive IC Layout Tools  (CSD-84-181) David E. Wallace
+A Decomposition Solution to a Queueing Network Model of a Distributed File System with Dynamic Locking  (CSD-84-180) Anna Hac
+The APPLOG LANGUAGE: PROLOG vs. LISP -- if you can't fight them join them  (CSD-84-179) Shimon Cohen
+Multi-Version Structures in PROLOG  (CSD-84-178) Shimon Cohen
+The Design and Implementation of the Berkeley Internet Name Domain (BIND) Servers  (CSD-84-177) Songnian Zhou
+The Design and Implementation of a "Domain Names" Resolver  (CSD-84-176) Mark Painter
+Experimental Evaluation of On-Chip Microprocessor Cache Memories  (CSD-84-175) Mark D. Hill and Alan Jay Smith
+A Name Server Database  (CSD-84-174) David W. Riggle
+Processor Design Tradeoffs in VLSI  (CSD-84-173) Robert Warren Sherburne, Jr.
+Hidden Feature Elimination and Visible Polygon Return in UNIGRAFIX 2  (CSD-84-172) Paul Wensley
+Finding a Maximum Density Subgraph  (CSD-84-171) A. V. Goldberg
+Theoretical Issues Concerning Protection in Operating Systems  (CSD-84-170) Michael A. Harrison
+Discrete Characterization of Program Referencing Dynamics  (CSD-84-169) Philippe De Smedt
+Monte-Carlo Methods for Estimating System Reliability  (CSD-84-168) Michael G. Luby
+High Performance Storage Reclamation in an Object-Based Memory System  (CSD-84-167) Scott B. Baden
+Combining Graphics and Procedures in a VLSI Layout Tool:  The Tpack System  (CSD-84-166) Robert N. Mayo
+Modeling Lift-Off Deposition  (M84/112) L. Winemberg
+Additions to the Imaging Capability of SAMPLE  (M84/111) M.D. Prouty
+Robust Stability Under Additive Perturbation  (M84/110) A. Bhaya and Charles A. Desoer
+Topological Transformations of Electrical Networks  (M84/109) H. Narayanan
+Violation of Port Conditions in the Interconnection of Multiports  (M84/108) H. Narayanan
+On the Equivalence of Minty's Painting Theorem and Tellegen's Theorem  (M84/107) H. Narayanan
+On the Design of Large Flexible Space Structures  (M84/106) A. Bhaya and Charles A. Desoer
+Multiparameter Martingale Differential Forms  (M84/105) Eugene Wong and M. Zakai
+Swept-Frequency, 8mm Microwave Interferomete for MXX  (M84/104) B.T. Archer, H. Meuth and Michael A. Lieberman
+Object-Oriented Programming in BIASlisp  (M84/103) K. Mayaram
+Corrections to Quasilinear Diffusion in Area Preserving Maps  (M84/102) N.W. Murray, Michael A. Lieberman and Allan J. Lichtenberg
+A MOS Parameter Extraction Program for the BSIM Model, Appendix 5: BSIM 1.0 Pascal Source Code  (M84/100) J.R. Pierret
+A MOS Parameter Extraction Program for the BSIM Model  (M84/99) J.R. Pierret
+Precision CMOS Operational Amplifier  (M84/98) Lawrence Tze-Leung Tse
+Chaos in Chua's Circuit  (M84/97) F. Ayrom and G-Q. Zhong
+Fading Memory and the Problems of Approximating Nonlinear Operators with Volterra Series  (M84/96) S. Boyd and Leon O. Chua
+PANDA: A PLA Generator for Multiply-Folded PLAs  (M84/95) Grace H. Mah
+Computer Generation of Digital Filter Banks  (M84/94) P.A. Ruetz
+Design of a 300-Baud FSK Modem Using Customized Digital Signal Processors  (M84/93) William L. Abbott
+Electron Beam Time-of-Flight Measurements of Plasma Potential in Tandem Mirrors  (M84/92) Michael A. Lieberman and C-P. Chang
+Persistency of Excitation, Sufficient Richness and Parameter Convergence in Discrete Time Adaptive Control  (M84/91) E.W. Bai and S. Shankar Sastry
+A Family of Simulation Programs for IC Fabrication Processes (Their Structure, Design, and Implementation)  (M84/90) Sharad N. Nandgaonkar
+Topological Proof of the Nielsen-Willson Theorem  (M84/89) T. Nishi and Leon O. Chua
+Uniqueness of Solution for Nonlinear Resistive Containing CCCSs or VCVSs whose Controlling Coefficients are Finite  (M84/88) T. Nishi and Leon O. Chua
+Problems in Supporting Database Transactions in an Operating System Transaction Manager  (M84/87) Michael Stonebraker, D. DuBourdieux and W. Edwards
+Multiple Time Scales for Nonlinear Systems  (M84/86) R. Silva-Madriz and S. Shankar Sastry
+Data Acquisition and Data Reduction for MMX  (M84/85) B.T. Archer III
+Berkeley CMOS Process: A User Guide  (M84/84) William G. Oldham, Andrew R. Neureuther, Y. Shacham and F. Dupois
+On a Class of SC Resistors and Its Application to the Synthesis of Nonlinear Driving-Point and Transfer-Characteristic Plots  (M84/83) A. Rodriguez-Vazquez, J.L. Huertas and Leon O. Chua
+Electron Beam Lithography for Josephson Junction Fabrication  (M84/82) N.K.L. Raja
+Periodicity and Chaos in Chua's Circuit  (M84/81) G-Q. Zhong and F. Ayrom
+RUBICC: A Rule-Based Expert System for VLSI Integrated Circuit Critique  (M84/80) C. Lob
+LEBES Operation Guide  (M84/79) N.K.L. Raja
+LEBES Reference Guide  (M84/78) N.K.L. Raja
+A New Locking Protocol that Achieves all Serializable Executions  (M84/77) S. Lafortune and Eugene Wong
+Geometric Interpretation of Manipulator Singularities  (M84/76) B.E. Paden and S. Shankar Sastry
+SQL-Like and QUEL-Like Correlation Queries with Aggregates Revisited  (M84/75) W. Kiessling
+Particle Simulations of the Low-a Pierce Diode  (M84/74) T. Crystal and S. Kuhn
+A Double-Scroll Chaotic Attractor from a Third Order Reciprocal Circuit  (M84/73) T. Matsumoto, Leon O. Chua and M. Komuro
+Direct Methods for Transient Stability Analysis of Power Systems: Recent Results  (M84/72) Pravin Varaiya, Felix F. Wu and R-L. Chen
+RAMP: Gate-Array, Standard-Cell and Masterimage Placement Manual  (M84/71) C.K. Cheng and Ernest S. Kuh
+Small Signal I/O Stability of Nonlinear Control Systems: Application to the Robustness of a MRAC Scheme  (M84/70) M. Bodson and S. Shankar Sastry
+Proximity Exposure Studies in Electron Beam Lithography  (M84/69) P.R. Deshmukh
+Rigid Mode Ballooning Instability Calculation for the MMX  (M84/68) B.K. Kang
+Low-Voltage Low-Power MOS Switched-Capacitor Signal-Processing Techniques  (M84/67) Rinaldo Castello
+Ratio-Independent Algorithmic Analog to Digital Conversion Techniques  (M84/66) Ping-Wai Li
+Characterization and Modeling of Positive Photoresist  (M84/65) Deok J. Kim
+Simulation of Quiet Start Magnetized Plasmas, Including Maxwellian and Velocity-Space Ring Distributions  (M84/64) K.P. Kenyon
+Low-Power Low-Voltage High Performance Switched-Capacitor Filter  (M84/63) R. Castello and Paul R. Gray
+Performance Limitations in Switched- Capacitor Filters  (M84/62) R. Castello and Paul R. Gray
+Axial Feedback Stabilization of Flute Modes for Mirror Machines  (M84/61) B.K. Kang, Michael A. Lieberman and A.K. Sen
+Circuit Simulation in LISP  (M84/60) K. Mayaram and Donald O. Pederson
+Minimal Swapping Finite Element and Finite Difference Implementations  (M84/59) Edward A. Lee
+Heuristic Search in Database Systems  (M84/58) R-M. Kung, E. Hanson, Y. Ioannidis, T. Sellis, L. Shapiro and Michael Stonebraker
+Scheduling Jobs with Stochastically Ordered Processing Times on Parallel Machines to Minimize Expected Flowtime  (M84/57) R.R. Weber, Pravin Varaiya and Jean Walrand
+Experimental Confirmation of Chaos from Chua's Circuit  (M84/56) G-Q. Zhong and F. Ayrom
+A Floating Point Coprocessor for the Butterfly Multiprocessor System  (M84/55) D.Y. Cheng
+An Electronic Circuit CAD Framework  (M84/54) Kenneth H. Keller
+Negative Resistance Curve Tracer, Part II: Manual  (M84/53) Leon O. Chua, G-Q. Zhong and F. Ayrom
+New Features for a Relational Database System to Support Computer Aided Design  (M84/52) Antonin Guttman
+Subharmonic Functions and Performance Bounds on Linear Time-Invariant Feedback Systems  (M84/51) S. Boyd and Charles A. Desoer
+Exploiting the Op Amp Nonlinearity in Circuit Design  (M84/50) Leon O. Chua and F. Ayrom
+Application of Nonlinear Constants of Motion in a Single Electromagnetic Wave to the Study of the Alfven. Ion Cyclotron Instability  (M84/49) N.F. Otani
+Advanced Mixed-Mode Simulation Techniques  (M84/48) James E. Kleckner
+Vlasov-Poisson and Modified k-dV Theory and Simulation of Weak and Strong Double Layers  (M84/47) K-Y. Kim
+Simulation of the Ion-Beam-Driven Drift Instability in a Magnetic Trap II  (M84/46) V.A. Thomas and W.M. Nevins
+Simulation of the Ion-Beam-Driven Drift Instability in a Magnetic Trap I  (M84/45) V.A. Thomas, W.M. Nevins and Y-J. Chen
+Empirical MOSFET Models for Circuit Simulation  (M84/43) J.L. Burns
+Tracking and Disturbance Rejection of MIMO Nonlinear Systems with PI Controller  (M84/42) Charles A. Desoer and C-A. Lin
+Controlling Plants with Delay  (M84/41) A. Bhaya and Charles A. Desoer
+Placement Algorithms and Applications to VLSI Design  (M84/40) Chung-Kuan Cheng
+Stability Studies of Multimachine Power Systems with the Effects of Automatic Voltage Regulators  (M84/39) H. Miyagi and Arthur R. Bergen
+Full-Speed Testing of A/D Converters  (M84/38) T. Doernberg, H-S. Lee and David A. Hodges
+PDW1 User's Manual  (M84/37) W.S. Lawson
+A Chaotic Attractor From Chua's Circuit  (M84/36) T. Matsumoto
+Control System Design via Semi-Infinite Optimization: A Review  (M84/35) Elijah Polak, D.Q. Mayne and D.M. Stimler
+Probabilistic Hill Climbing Algorithms: Properties and Applications  (M84/34) F. Romeo and Alberto L. Sangiovanni-Vincentelli
+Self-Calibration Techniques for Successive Approximation Analog-to-Digital Converters  (M84/33) Hae-Seung Lee
+Circuits, k-Ports, Hidden Modes and Stability of Interconnected k-Ports  (M84/32) Charles A. Desoer and A. N. Gündeş
+Computer-Aided Synthesis of PLA-Based Systems  (M84/31) Giovanni De Micheli
+Performance Estimates for Distributed Query Processing  (M84/30) M. Murphy
+Negative Resistance Curve Tracer  (M84/29) Leon O. Chua and G-Q. Zhong
+The Simplest Chaotic Non-Autonomous Circuit  (M84/28) T. Matsumoto, Leon O. Chua and S. Tanaka
+Nonlinear Unity-Feedback Systems and Q-Parametrization  (M84/27) Charles A. Desoer and C.A. Lin
+Berkeley CMOS Process Test Patterns  (M84/26) William G. Oldham, Andrew R. Neureuther and Y. Shacham
+Necessary and Sufficient Conditions for Parameter Convergence in Adaptive Control  (M84/25) S. Boyd and S. Shankar Sastry
+A Method for Simulation of Vlasov Systems with Discontinuous Distribution Functions and GASBAG User's Manual  (M84/24) W.S. Lawson
+Theoretical and Software Aspects of Optimization-Based Control System Design  (M84/23) Elijah Polak and D.Q. Mayne
+Electrostatic Ion-Ion Two-Streaming Instability in a Thermal-Barrier Cell  (M84/22) V.A. Thomas and W.M. Nevins
+RELAX2: A Modified Waveform Relaxation Approach to the Simulation of MOS Digital Circuits  (M84/21) J. White
+Compact Short-Channel IGFET Model (CSIM) and A Compact IGFET Charge Model  (M84/20) B.J. Sheu, D. Scharfetter, H.C. Poon, B.J. Sheu, D.L. Scharfetter, Chenming Hu and D.O. Pederson
+A Theoretical Study of ICRF Effects on Multiple Mirror Confinement  (M84/19) K.J. Doniger, Michael A. Lieberman and Allan J. Lichtenberg
+A Fully Automated MOS Device Characterization System for Process- Oriented Integrated Circuit Design  (M84/18) B.S. Messenger
+Syllogistic Reasoning in Fuzzy Logic and Its Application to Reasoning with Dispositions  (M84/17) Lotfi A. Zadeh
+Analysis of Backscattered Electron Signals for X-ray Mask Inspection  (M84/16) Michael G. Rosenfield
+Notes on the Mathematical Foundations of Nondifferentiable Optimization in Engineering Design  (M84/15) Elijah Polak
+Analytical Foundations of Volterra Series  (M84/14) S. Boyd, Leon O. Chua and Charles A. Desoer
+Invariant Distribution on Strange Attractors in Highly Dissipative Systems  (M84/13) K-Y. Tsang and Michael A. Lieberman
+Canonical-Piecewise-Linear Analysis Part II: Tracing Diving-Point and Transfer Characteristics  (M84/12) Leon O. Chua and A.C. Deng
+A Comparative Study of Linear and Nonlinear MIMO Feedback Configurations  (M84/11) Charles A. Desoer and C.A. Lin
+Nonlinear Switched-Capacitor Networks: Basic Principles and Piecewise-Linear Design  (M84/10) J.L. Huertas, Leon O. Chua, A. Rodriguez-Vazquez and A. Rueda
+An IC Process-Oriented Circuit Simulator Developed From SPICE2G.6 Using the CSIM MOSFET Model  (M84/9) R.C. Liu
+Test Score Semantics as a Basis for a Computational Approach to the Representation of Meaning  (M84/8) Lotfi A. Zadeh
+Application of Singular Perturbation Techniques to Power System Transient Stability Techniques  (M84/7) C.L. DeMarco and Arthur R. Bergen
+LSI Circuit Simulation on Attached Array Processors  (M84/6) Andrei Vladimirescu
+Implementation Techniques for Main Memory Database Systems  (M84/5) D.J. DeWitt, Randy H. Katz, F. Olken, L.D. Shapiro, Michael Stonebraker and D. Wood
+S.P.U.D.S.: A Standardized Programmable User Development System  (M84/4) W. Baringer
+Evaluation and Optimization of MOS Device Drain Conductance Modeling in the SPICE Level 2 Model  (M84/3) G. Anderson
+Iterated Timing Analysis and SPLICE1  (M84/2) R.A. Saleh
+A Structure Preserving Energy Function for Power System Transient Stability Analysis  (M84/1) N. Tsolas, A. Arapostathis and Pravin Varaiya

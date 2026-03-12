@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28833.html
+A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness
+A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness
+Eugene L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M558
+June 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-558.pdf
+BibTeX citation:
+@techreport{Lawler:M558,
+Author = {Lawler, Eugene L.},
+Title = {A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28833.html},
+Number = {UCB/ERL M558}
+}
+EndNote citation:
+%0 Report
+%A Lawler, Eugene L.
+%T A "Quasi-Polynomial" Algorithm for Sequencing Jobs to Minimize Total Tardiness
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M558
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28833.html
+%F Lawler:M558

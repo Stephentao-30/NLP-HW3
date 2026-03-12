@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29369.html
+Rotational Instabilities in the Field-Reversed Theta Pinch: Results of Hybrid Simultations
+Douglas S. Harned
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/70
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-70.pdf
+BibTeX citation:
+@techreport{Harned:M81/70,
+Author= {Harned, Douglas S.},
+Title= {Rotational Instabilities in the Field-Reversed Theta Pinch: Results of Hybrid Simultations},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29369.html},
+Number= {UCB/ERL M81/70},
+}
+EndNote citation:
+%0 Report
+%A Harned, Douglas S.
+%T Rotational Instabilities in the Field-Reversed Theta Pinch: Results of Hybrid Simultations
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29369.html
+%F Harned:M81/70

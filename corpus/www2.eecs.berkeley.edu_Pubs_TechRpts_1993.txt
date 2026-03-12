@@ -1,0 +1,161 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1993
+Technical Reports - 1993
+Two-Dimensional IFIR Structures Using Generalized Factorable Filters  (CSD-93-785) Roberto Manduchi
+A Boyer-Moore Approach for Two-Dimensional Matching  (CSD-93-784) Jorma Tarhio
+xFS: A Wide Area Mass Storage File System  (CSD-93-783) Randolph Y. Wang and Thomas E. Anderson
+Interconnection Network Design Based on Packaging Considerations  (CSD-93-782) Mandayam Thondanur Raghunath
+Compiler Transformations for High-Performance Computing  (CSD-93-781) David F. Bacon, Susan L. Graham and Oliver J. Sharp
+Robust Multiple Car Tracking with Occlusion Reasoning  (CSD-93-780) Dieter Koller, Joseph Weber and Jitendra Malik
+A Quantitative Analysis of Disk Drive Power Management in Portable Computers  (CSD-93-779) Kester Li, Roger Kumpf, Paul Horton and Thomas Anderson
+RAID: High-Performance, Reliable Secondary Storage  (CSD-93-778) Peter M. Chen, Edward K. Lee, Garth A. Gibson, Randy H. Katz and David A. Patterson
+RALPH-MEA: A Real-Time, Decision-Theoretic Agent Architecture  (CSD-93-777) Gary Hayato Ogasawara
+Improving the Accuracy of Differential-Based Optical Flow Algorithms  (CSD-93-776) Roberto Manduchi
+Computing Local Surface Orientation and Shape From Texture for Curved Surfaces  (CSD-93-775) Jitendra Malik and Ruth Rosenholtz
+Decentralized Optimal Power Pricing:  The Development of a Parallel Program  (CSD-93-774) Steven Lumetta, Liam Murphy, Xiaoye Li, David E. Culler and Ismail Khalil
+User Interface Management System Embedded in a Multimedia Document Editor Framework  (CSD-93-773) Takashi Ohtsu and Michael A. Harrison
+Canonic Representations for the Geometries of Multiple Project Views  (CSD-93-772) Q.-T. Luong and T. Vieville
+Database and Display Algorithms for Interactive Visualization of Architectural Models  (CSD-93-771) Thomas Allen Funkhouser
+Performance Modeling and Analysis of Disk Arrays  (CSD-93-770) Edward Kihyen Lee
+An Efficient Network Interface for the RAID-II File Server  (CSD-93-769) Srinivasan Seshan
+A Continuous Media Player  (CSD-93-768) Lawrence A. Rowe and Brian C. Smith
+Measuring Cache and TLB Performance and Their Effect of Benchmark Run Times  (CSD-93-767) Rafael H. Saavedra and Alan Jay Smith
+Evaluation of Multithreading and Caching in Large Shared Memory Parallel Computers  (CSD-93-766) Robert Francis Boothe
+File System Performance and Transaction Support  (CSD-93-765) Margo Ilene Seltzer
+VIGL -- Visualization Graphic Library  (CSD-93-764) Allen B. Downey
+Building Common Lisp Applications with Reasonable Performance  (CSD-93-763) John Boreczky and Lawrence A. Rowe
+The Design and Assessment of a Hypermedia Course on Semiconductor Manufacturing  (CSD-93-762) Patricia K. Schank and Lawrence A. Rowe
+The INFIDEL Virtual Machine  (CSD-93-761) Luigi Semenzato
+The High-Level Intermediate Language L  (CSD-93-760) Luigi Semenzato
+FIDIL Reference Manual  (CSD-93-759) Paul N. Hilfinger and Phillip Colella
+The Roommates Problem  (CSD-93-757) Ethan Bernstein and Sridhar Rajagaopalan
+Queueing Theory Analysis of Greedy Routing on Arrays and Tori  (CSD-93-756) Mor Harchol and Paul E. Black
+Time and Space Efficient Pose Clustering  (CSD-93-755) Clark F. Olson
+Analysis of Multiprocessor Memory Reference Behavior  (CSD-93-754) Jeffrey D. Gee and Alan Jay Smith
+Absolute and Comparative Performance of Cache Consistency Algorithms  (CSD-93-753) Jeffrey D. Gee and Alan Jay Smith
+Fast Accurate Simulation of Large Shared Memory Multiprocessors (revised version)  (CSD-93-752) Robert Francis Boothe
+Low-Power Silicon Neurons, Axons, and Synapses  (CSD-93-751) John Lazzaro and John Wawrzynek
+High Speed 64-b CMOS Datapath  (CSD-93-750) John Wawrzynek and Bertrand Irissou
+Development of a Connectionist Network Supercomputer  (CSD-93-749) Krste Asanović, James Beck, Jerry Feldman, Nelson Morgan and John Wawrzynek
+Design Techniques for High-Speed Datapaths  (CSD-93-748) Bertrand S. Irissou
+CNS-1 Architecture Specification  (CSD-93-747) Krste Asanović, James Beck, Tim Callahan, Jerry Feldman, Bertrand S. Irissou, Brian Kingsbury, Phil Kohn, John Lazzaro, Nelson Morgan, David Stoutamire and John Wawrzynek
+Queueing Theory Analysis of Greedy Routing on Square Arrays  (CSD-93-746) Mor Harchol and Paul E. Black
+High-Dimensional Linear Data Interpolation  (CSD-93-745) Russell Pflughaupt
+The Zebra Striped Network File System  (CSD-93-744) John H. Hartman and John K. Ousterhout
+Operational Rationality through Compilation of Anytime Algorithms  (CSD-93-743) Shlomo Zilberstein
+Evaluation of Heterogeneous Architectures for Artificial Neural Networks  (CSD-93-742) Chedsada Chinrungrueng
+File System Performance and Transaction Support  (CSD-93-741) Margo Ilene Seltzer
+Tools for the Development of Application Specific Virtual Memory Management  (CSD-93-740) Keith Krueger, Amin Vahdat, Thomas Anderson and David Loftesness
+The Nachos Instructional Operating System  (CSD-93-739) Wayne A. Christopher, Steven J. Procter and Thomas E. Anderson
+The Case For Application-Specific Operating Systems  (CSD-93-738) Thomas E. Anderson
+Tight Bounds on Expected Time to Add Correctly and Add Mostly Correctly  (CSD-93-737) Peter S. Gemmell and Mor Harchol
+Performance Evaluation for Computer Image Synthesis Systems  (CSD-93-736) Ricki Blau
+A Mechanism for the Administration of Real-Time Channels  (CSD-93-735) Bruce A. Mah
+An Efficient Computation of Mixed Volume  (CSD-93-734) Ioannis Emiris
+Probabilistic Indexing:  Recognizing 3D Objects from 2D Images Using the Probabilistic Peaking Effect  (CSD-93-733) Clark F. Olson
+Minimum Curvature Variation Curves, Networks, and Surfaces for Fair Free-Form Shape Design  (CSD-93-732) Henry Packard Moreton
+Optimal Broadcast in a Distributed Memory Model of Parallel Computation  (CSD-93-731) Ramesh Subramonian and Narayan Venkatasubramanyan
+Striped Tape Arrays  (CSD-93-730) Ann L. Drapeau and Randy H. Katz
+Generation of Time-Varying Geometrical Models  (CSD-93-729) Carlo H. Séquin
+Faster Numerical Algorithms via Exception Handling  (CSD-93-728) James W. Demmel and Xiaoye Li
+Combining Windows: A Performance Evaluation of Design Options  (CSD-93-727) Philip Bitar
+User Interaction in Language-Based Editing Systems  (CSD-93-726) Michael Lee Van De Vanter
+Customizing Interconnection Networks to Suit Packaging Hierarchies  (CSD-93-725) Mandayam Thondanur Raghunath and Abhiram Ranade
+Papyrus: A History-Based VLSI Design Process Management System  (CSD-93-724) Tzi-cker Chiueh
+Logic Synthesis for Field-Programmable Gate Arrays  (M93/98) Rajeev Murgai
+Timing Issues in Sequential Circuits  (M93/97) Narendra V. Shenoy
+Circuit Techniques and Considerations for Implementation of High Speed CMOS Analog-to-Digital Interfaces for DSP-Based PRML Magnetic Disk Read Channels  (M93/96) Gregory T. Uehara
+A Dextrous Master for Telesurgery  (M93/95) L.S. Crawford
+An Exact Logic Minimizer Using Implicit Binary Decision Diagram Based Methods  (M93/94) G.M. Swamy
+The Simplest Dissipative Non-Autonomous Chaotic Circuit  (M93/93) K. Murali, M. Lakshmanan and Leon O. Chua
+Time Scale to Ergodicity in the FPU System  (M93/92) J. De Luca, Allan J. Lichtenberg and Michael A. Lieberman
+White Paper Concurrent Circuit Design/ Process Engineering in a Flexible Manufacturing Environment  (M93/91) Andrew R. Neureuther, Costas J. Spanos, M. Hatzilambrou and C. Yu
+DORIC: Design of Optimized and Robust Integrated Circuits  (M93/90) Z. Daoud
+Nonholonomic Motion Planning for Underwater Vehicles  (M93/89) J-P. Tennant
+The Learning Problem for Discrete-Time Cellular Neural Networks as a Combinatorial Optimization Problem  (M93/88) H. Magnussen, J.A. Nossek and Leon O. Chua
+Hyperchaotic Attractors of Unidirectionally- Coupled Chua's Circuits  (M93/87) T. Kapitaniak and Leon O. Chua
+Simulations of Limiting Current in a Crossed-Field Gap: Hull Diode  (M93/86) J. Verboncoeur and Charles K. (Ned) Birdsall
+Direct Aerial Image Measurement at 248mm  (M93/85) C.H. Fields
+Computing Boolean Expressions with OBDDs  (M93/84) T.R. Shiple, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Flexibility in the Interactions Between High-Speed Networks and Communications Applications  (M93/83) Paul E. Haskell
+A Physical Poly-Silicon Thin Film Transistor (TFT) Model for Circuit Simulation  (M93/82) C. Li
+Combined Hierarchical Approaches to Integrated Circuit Layout Based on a Common Data Model  (M93/81) Brian D. N. Lee
+Novel Techniques for High Performance Field-Programmable Logic Devices  (M93/80) Narasimha B. Bhat
+A Fully Implicit Algorithm for Exact State Minimization  (M93/79) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Long Run Dynamics of Queues: Stability and Chaos  (M93/78) E.J. Friedman and A.S. Landsberg
+A Method for Estimating Overlap Capacitance in MOSFET Devices by DC Current Measurement  (M93/77) S.V. Bana
+Short Run Dynamics of Multi-Class Queues  (M93/76) E.J. Friedman and A.S. Landsberg
+Integrating Price-Based Resources in Short-Term Scheduling of Electric Power Systems  (M93/75) A.J. Svoboda and S.S. Oren
+Modeling Electronegative Plasma Discharges  (M93/74) Allan J. Lichtenberg, V. Vahedi, Michael A. Lieberman and T. Rognlien
+A Simple Way to Synchronize Chaotic Systems with Applications to Secure Communication Systems  (M93/73) C.W. Wu and Leon O. Chua
+Low-Power High-Speed DSP Architecture for Magnetic Disk PRML Read Channel  (M93/72) S-H.C. Wong
+BDD Variable Ordering for Interacting Finite State Machines  (M93/71) A. Aziz, S. Tasiran and Robert K. Brayton
+XPOLE: An Interactive, Graphical Signal Analysis and Filter Design Tool  (M93/70) K. White
+Scheduling Dynamic Dataflow Graphs with Bounded Memory Using the Token Flow Model  (M93/69) Joseph T. Buck
+Minimizing Interacting Finite State Machines  (M93/68) A. Aziz, V. Singhal, G.M. Swamy and Robert K. Brayton
+Optimum Partitioning of Analog and Digital Circuitry in Mixed-Signal Circuits for Signal Processing  (M93/67) Ken A. Nishimura
+Multiprocessor DSP Code Synthesis in Ptolemy  (M93/66) P.K. Murthy
+An Analysis of the INFOPAD Downlink  (M93/65) J. Camagna
+Input Don't Care Sequences in FSM Networks  (M93/64) H-Y. Wang and Robert K. Brayton
+Multi-Bit SIGMA DELTA Analog-to-Digital Converters with Nonlinearity Correction Using Dynamic Barrel Shifting  (M93/63) Y. Sakina
+A Parallel Architecture for High-Data-Rate Digital Receivers in Scaled CMOS Technology  (M93/62) Timothy H.-T. Hu
+The Maximum Set of Permissible Behaviors for FSM Networks  (M93/61) Y. Watanabe and Robert K. Brayton
+Implicit Generation of Compatibles for Exact State Minimization  (M93/60) T. Kam, T. Villa, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+A New Approach for the Synthesis of FSM's from Control-Flow Graphs  (M93/59) M. Sekine, T. Villa, K. Goto and Robert K. Brayton
+Heuristic Minimization of BDDs, Using Don't Cares  (M93/58) T.R. Shiple, R. Hojati, Alberto L. Sangiovanni-Vincentelli and Robert K. Brayton
+A Robust Physical and Predictive Model for Deep-Submicrometer MOS Circuit Simulation  (M93/57) J.H. Huang, Z.H. Liu, M.C. Jeng, P.K. Ko and Chenming Hu
+A Physical Model for MOSFET Output Resistance  (M93/56) J.H. Huang, Z.H. Liu, M.C. Jeng, P.K. Ko and Chenming Hu
+A Multi-Steering Trailer System: Conversion into Chained Form Using Dynamic Feedback  (M93/55) D. Tilbury, O. Sordalen, L. Bushnell and S. Shankar Sastry
+Global Model of Plasma Chemistry in a High Density Oxygen Discharge  (M93/54) C. Lee, D.B. Graves, Michael A. Lieberman and D.W. Hess
+Image Boundary Detection Via Intensity, Color, and Texture Segmentation  (M93/53) P.R. Chang
+Verifying Interacting Finite State Machines  (M93/52) A. Aziz, V. Singhal and Robert K. Brayton
+Design-Oriented Mixed-Level Circuit and Device Simulation  (M93/51) David A. Gates
+Decoupling Bandwidths for Networks: A Decomposition Approach to Resource Management  (M93/50) G. de Veciana, C. Courcoubetis and Jean Walrand
+Synthesis of Mixed Software-Hardware Implementations from CFSM Specifications  (M93/49) M. Chiodo, P. Giusto, H. Hsieh, A. Jurecska, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+A Formal Specification Model for Hardware/Software Codesign  (M93/48) M. Chiodo, P. Giusto, H. Hsieh, A. Jurecska, L. Lavagno and Alberto L. Sangiovanni-Vincentelli
+Effective Bandwidths: Call Admission, Traffic Policing and Filtering for ATM Networks  (M93/47) G. de Veciana and Jean Walrand
+BED: The Implementation of a Process Specification Editor  (M93/46) S.R. Smoot
+Automatic Time-Series Model Generation for Real-Time Statistical Process Control  (M93/45) H-C. Liu
+Algorithms for Steering on the Group of Rotations  (M93/44) G. Walsh, A. Sarti and S. Shankar Sastry
+Stabilization of Multiple Input Chained Form Control Systems  (M93/43) G.C. Walsh and L.G. Bushnell
+Performance-Oriented Fully Routable Dynamic Architecture for a Field Programmable Logic Device  (M93/42) N.B. Bhat, K. Chaudhary and Ernest S. Kuh
+Two Dimensional Auctions for Efficient Franchising of Public Monopolies  (M93/41) J. Bushnell and S. Oren
+Exact Minimum Delay Computation and Clock Frequencies  (M93/40) W.K.C. Lam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+On the Global Degree of Nonholonomy of a Car with n Trailers  (M93/39) O.J. Sordalen
+Analog Behavioral Simulation and Modeling  (M93/38) Edward W. Y. Liu
+Looped Schedules for Dataflow Descriptions of Multirate DSP Algorithms  (M93/37) S.S. Bhattacharyya and Edward A. Lee
+Generating Compact Code from Dataflow Specifications of Multirate DSP Algorithms  (M93/36) S.S. Bhattacharyya, J.T. Buck, S. Ha and Edward A. Lee
+Software Synthesis for Single-Processor DSP Systems Using Ptolemy  (M93/35) J.L. Pino
+Language, Compiler, and Operating System for the CNN Supercomputer  (M93/34) T. Roska, Leon O. Chua and A. Zarandy
+Physically Realizable Gate Models  (M93/33) P.R. Stephan and Robert K. Brayton
+Transition in Dynamical Regime by Driving: A Method of Control and Synchronization of Chaos  (M93/32) L. Kocarev, A. Shang and Leon O. Chua
+A Compiler Scheduling Framework for Minimizing Memory Requirements of Multirate DSP Systems Represented as Dataflow Graphs  (M93/31) S.S. Bhattacharyya, J.T. Buck, S. Ha and Edward A. Lee
+Heuristic Minimization for Synchronous Relations  (M93/30) V. Singhal, Y. Watanabe and Robert K. Brayton
+Experimental Analysis of 1-D Maps from Chua's Circuit  (M93/29) N.F. Rul'kov and A.R. Volkovskii
+Parallel Query Processing Using Shared Memory Multiprocessors and Disk Arrays  (M93/28) Wei Hong
+Spread Spectrum Communication Through Modulation of Chaos  (M93/27) K.S. Halle, C.W. Wu, M. Itoh and Leon O. Chua
+Cycles of Chaotic Intervals in a 1-D Piecewise-Linear Map  (M93/26) Y.L. Maistrenko, V.L. Maistrenko and Leon O. Chua
+The Integration of Rule Systems and Data Base Systems  (M93/25) Michael Stonebraker
+Dynamics of the Lorenz Equation and the Chua's Equation: A Tutorial  (M93/24) L. Kocarev and T. Roska
+Control Strategies for Mobile Robots with Trailers  (M93/23) D. Tilbury, J-P. Laumond, R. Murray, S. Shankar Sastry and G. Walsh
+Large Object Support in POSTGRES  (M93/22) Michael Stonebraker and M. Olson
+Automated Design of Signal Acquisition Modules  (M93/21) Monte F. Mar
+Generating Interior Search Directions for Multiobjective Linear Programming  (M93/20) A. Arbel and S.S. Oren
+Quadratic Boolean Programming for Performance-Driven System Partitioning  (M93/19) M. Shih and Ernest S. Kuh
+Priority Ordering in Interruptible Electric Power Service with Irreversible Early Notification  (M93/18) T. Strauss and S. Oren
+Two-Parameter Study of Transition to Chaos in Chua's Circuit: Renormalization Group, Universality and Scaling  (M93/17) A.P. Kuznetsov, S.P. Kuznetsov, I.R. Sataev and Leon O. Chua
+Logic Synthesis and Massively Parallel Computers: Tools for Speeding-Up Logic Simulation  (M93/16) G.A. Jones
+Self-Similarity and Universality in Chua's Circuit via the Approximate Chua's 1-D Map  (M93/15) A.P. Kuznetsov, S.P. Kuznetsov, I.R. Sataev and Leon O. Chua
+Controlling Chaos Without Feedback and Control Signals  (M93/14) T. Kapitaniak, L. Kocarev and Leon O. Chua
+Arnold Diffusion in Many Dimensions  (M93/13) B.P. Wood, Allan J. Lichtenberg and Michael A. Lieberman
+Trajectory Generation for the N-Trailer Problem Using Goursat Normal Form  (M93/12) D. Tilbury, R. Murray and S. Shankar Sastry
+On Chaotic Synchronization in a Linear Array of Chua's Circuits  (M93/11) V.N. Belykh, N.N. Verichev, L. Kocarev and Leon O. Chua
+An Application of a Synchronous/Reactive Semantics to the VHDL Language  (M93/10) W.C. Baker
+Approximate Decoupling and Asymptotic Tracking for MIMO Systems  (M93/9) D.N. Godbole and S. Shankar Sastry
+The Ptolemy Kernel  (M93/8) J.T. Buck
+Global Unfolding of Chua's Circuits  (M93/7) Leon O. Chua
+Circuit Delay Models and Their Exact Computation Using Timed Boolean Functions  (M93/6) W.K.C. Lam, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+System Support for Software Fault Tolerance in Highly Available Database Management Systems  (M93/5) Mark P. Sullivan
+Single Appearance Schedules for Synchronous Dataflow Programs  (M93/4) S.S. Bhattacharyya, S. Ha and Edward A. Lee
+Design of High Density Plasma Sources for Materials Processing  (M93/3) Michael A. Lieberman and R.A. Gottscho
+Performance of a Software MPEG Video Decoder  (M93/2) K. Patel, B.C. Smith and Lawrence A. Rowe
+File System Performance and Transaction Support  (M93/1) M.I. Seltzer

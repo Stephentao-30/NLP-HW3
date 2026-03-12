@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-212.html
+Static Model Analysis with Lattice-based Ontologies
+Ben Lickly
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-212
+November 20,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-212.pdf
+This thesis demonstrates a correct, scalable and automated method to infer semantic concepts using lattice-based ontologies, given relatively few manual annotations. Semantic concepts and their relationships are formalized as a lattice, and relationships within and between program elements are expressed as a set of constraints. Our inference engine auto- matically infers concepts wherever they are not explicitly specified. Our approach is general, in that our framework is agnostic to the semantic meaning of the ontologies that it uses.
+Where practical use-cases and principled theory exist, we provide for the expression of infinite ontologies and ontology compositions. We also show how these features can be used to express of value-parametrized concepts and structured data types. In order to help find the source of errors, we also present a novel approach to debugging by showing simplified errors paths. These are minimal subsets of the constraints that fail to type-check, and are much more useful than previous approaches in finding the cause of program bugs. We also present examples of how this analysis tool can be used to express analyses of abstract interpretation; physical dimensions and units; constant propagation; and checks of the monotonicity of expressions.
+Advisors:  Edward A. Lee
+BibTeX citation:
+@phdthesis{Lickly:EECS-2012-212,
+Author= {Lickly, Ben},
+Title= {Static Model Analysis with Lattice-based Ontologies},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-212.html},
+Number= {UCB/EECS-2012-212},
+Abstract= {This thesis demonstrates a correct, scalable and automated method to infer semantic concepts using lattice-based ontologies, given relatively few manual annotations. Semantic concepts and their relationships are formalized as a lattice, and relationships within and between program elements are expressed as a set of constraints. Our inference engine auto- matically infers concepts wherever they are not explicitly specified. Our approach is general, in that our framework is agnostic to the semantic meaning of the ontologies that it uses.
+Where practical use-cases and principled theory exist, we provide for the expression of infinite ontologies and ontology compositions. We also show how these features can be used to express of value-parametrized concepts and structured data types. In order to help find the source of errors, we also present a novel approach to debugging by showing simplified errors paths. These are minimal subsets of the constraints that fail to type-check, and are much more useful than previous approaches in finding the cause of program bugs. We also present examples of how this analysis tool can be used to express analyses of abstract interpretation; physical dimensions and units; constant propagation; and checks of the monotonicity of expressions.},
+}
+EndNote citation:
+%0 Thesis
+%A Lickly, Ben
+%T Static Model Analysis with Lattice-based Ontologies
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 20
+%@ UCB/EECS-2012-212
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-212.html
+%F Lickly:EECS-2012-212

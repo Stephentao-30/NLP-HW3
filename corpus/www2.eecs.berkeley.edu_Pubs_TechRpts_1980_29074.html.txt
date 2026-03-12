@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29074.html
+The Discrete Fourier Transform Via Circulants | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Discrete Fourier Transform Via Circulants
+The Discrete Fourier Transform Via Circulants
+B.N. Parlett
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/37
+August 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-37.pdf
+BibTeX citation:
+@techreport{Parlett:M80/37,
+Author = {Parlett, B.N.},
+Title = {The Discrete Fourier Transform Via Circulants},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29074.html},
+Number = {UCB/ERL M80/37}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.N.
+%T The Discrete Fourier Transform Via Circulants
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29074.html
+%F Parlett:M80/37

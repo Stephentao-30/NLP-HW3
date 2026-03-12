@@ -1,0 +1,136 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003
+Technical Reports - 2003
+Handling Churn in a DHT  (CSD-03-1299) Sean Rhea, Dennis Geels, Timothy Roscoe and John Kubiatowicz
+Toward System-Wide Undo for Distributed Services  (CSD-03-1298) Aaron Brown
+Performance Optimizations and Bounds for Sparse Symmetric Matrix-Multiple Vector Multiply  (CSD-03-1297) Benjamin C. Lee, Richard W. Vuduc, James W. Demmel, Katherine A. Yelick, Michael de Lorimier and Lijue Zhong
+Global Value Numbering Using Random Interpretation (Full version)  (CSD-03-1296) Sumit Gulwani and George C. Necula
+Towards a Scalable, Adaptive and Network-aware Content Distribution Network  (CSD-03-1295) Yan Chen
+Exploiting Prediction to Reduce Power on Buses  (CSD-03-1294) Victor Wen
+Flexible Power Scheduling for Sensor Networks  (CSD-03-1293) Barbara Hohlt, Lance R. Doherty and Eric A. Brewer
+Towards Localizing Root Causes of BGP Dynamics  (CSD-03-1292) Matthew Caesar, Lakshminarayanan Subramanian and Randy H. Katz
+Dynamics of Simultaneous Overlay Network Routing  (CSD-03-1291) Mukund Seshadri and Randy H. Katz
+Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks  (CSD-03-1290) Philip Levis, Neil Patel, Scott Shenker and David Culler
+Convex Tuning of the Soft Margin Parameter  (CSD-03-1289) Tijl De Bie, Gert R. G. Lanckriet and Nello Cristianini
+A 64-bit Partitionable Integer Multiplier for VIRAM1  (CSD-03-1288) Joseph Gebis
+Generating Permutation Instructions from a High-Level Description  (CSD-03-1287) Manikandan Narayanan and Katherine A. Yelick
+A Comparison of Two Peripheral Displays for Monitoring Email: Measuring Usability, Awareness, and Distraction  (CSD-03-1286) Gary Hsieh and Jennifer Mankoff
+Exploring Tradeoffs in Failure Detection in Routing Overlays  (CSD-03-1285) Shelley Zhuang, Dennis Geels, Ion Stoica and Randy Katz
+Incremental Sketch Understanding for Intention Extraction in Sketch-based User Interfaces  (CSD-03-1284) Yang Li
+Towards Everyday Privacy for Ubiquitous Computing  (CSD-03-1283) Scott Lederer, Jason I. Hong, Xiaodong Jiang, Anind K. Dey, James A. Landay and Jennifer Mankoff
+Types for Lexically-Scoped Access Control  (CSD-03-1282) Tachio Terauchi, Alex Aiken and Jeffrey S. Foster
+On Nash Equilibria in Stochastic Games  (CSD-03-1281) Krishnendu Chatterjee, Marcin Jurdzinski and Rupak Majumdar
+Quantitative Stochastic Parity Games  (CSD-03-1280) Krishnendu Chatterjee, Marcin Jurdzinski and Thomas A. Henzinger
+Robust Classification with Interval Data  (CSD-03-1279) Laurent El Ghaoui, Gert R. G. Lanckriet and Georges Natsoulis
+Papier-Mache: Toolkit Support for Tangible Input  (CSD-03-1278) Scott R. Klemmer, Jack Li, James Lin and James A. Landay
+Measurement and Analysis of Ultrapeer-based P2P Search Networks  (CSD-03-1277) Boon Thau Loo, Joseph Hellerstein, Ryan Huebsch, Scott Shenker and Ion Stoica
+Monitoring, Analyzing, and Controlling Internet-Scale Systems with ACME  (CSD-03-1276) David Oppenheimer, Vitaliy Vatkovskiy, Hakim Weatherspoon, Jason Lee, David A. Patterson and John Kubiatowicz
+Bayesian Haplotype Inference via the Dirichlet Process  (CSD-03-1275) Eric P. Xing, Roded Sharan and Michael I. Jordan
+Graph Partition Strategies for Generalized Mean Field Inference  (CSD-03-1274) Eric P. Xing and Michael I. Jordan
+A Framework for Genomic Data Fusion and its Application to Membrane Protein Prediction  (CSD-03-1273) Gert R. G. Lanckriet, Tijl De Bie, Nello Cristianini, Michael I. Jordan and William Stafford Noble
+Polynomial-time Algorithms for Enforcing Sequential Consistency for SPMD Programs with Arrays  (CSD-03-1272) Wei-Yu Chen, Arvind Krishnamurthy and Katherine Yelick
+Junction Tree Algorithms for Solving Sparse Linear Systems  (CSD-03-1271) Mark A. Paskin and Gregory D. Lawrence
+Evaluation of Efficient Link Reliability Estimators for Low-Power Wireless Networks  (CSD-03-1270) Alec Woo and David Culler
+MAP Estimation via Agreement on (hyper)trees: Message-passing and Linear Programming Approaches  (CSD-03-1269) Martin J. Wainwright, Tommi S. Jaakkola and Alan S. Willsky
+An Empirical Approach to Grouping and Segmentation  (CSD-03-1268) David Royal Martin
+Another Way to Find the Nearest Neighbor in Growth-Restricted Metrics  (CSD-03-1267) Kirsten Hildrum, John Kubiatowicz and Satish Rao
+Optimizations for Locality-Aware Structured Peer-to-Peer Overlays  (CSD-03-1266) Jeremy Stribling, Kirsten Hildrum and John D. Kubiatowicz
+On Semidefinite Relaxation for Normalized k-cut and Connections to Spectral Clustering  (CSD-03-1265) Eric P. Xing and Michael I. Jordan
+The Automatic Improvement of Locality in Storage Systems  (CSD-03-1264) Windsor W. Hsu, Alan Jay Smith and Honesty C. Young
+The Real Effect of I/O Optimizations and Disk Improvements  (CSD-03-1263) Windsor W. Hsu and Alan Jay Smith
+Automatic Annotation of Everyday Movements  (CSD-03-1262) Deva Ramanan and D. A. Forsyth
+xGiotto Language Report  (CSD-03-1261) Marco A. A. Sanvido, Arkadeb Ghosal and Thomas A. Henzinger
+EASE: A Simulation Tool for Accessible Design  (CSD-03-1260) Holly Fait and Jennifer Mankoff
+hebb: An Infrastructure for Conveying Shared Interests  (CSD-03-1259) Scott Carter, Jennifer Mankoff and Patrick Goddi
+A Peripheral Display Toolkit  (CSD-03-1258) Tara Matthews, Tye Rattenbury, Scott Carter, Anind K. Dey and Jennifer Mankoff
+Managing Personal Information Disclosure in Ubiquitous Computing Environments  (CSD-03-1257) Scott Lederer, Jennifer Mankoff, Anind K. Dey and Christopher P. Beckmann
+The Ising model on trees: Boundary conditions and mixing time  (CSD-03-1256) Fabio Martinelli, Alistair Sinclair and Dror Weitz
+Failure Analysis of Internet Services  (CSD-03-1255) Archana S. Ganapathi
+Building a Flexible and Efficient Routing Infrastructure: Need and Challenges  (CSD-03-1254) Karthik Lakshminarayanan, Ion Stoica and Scott Shenker
+An Algebraic Approach to Adaptive Scalable Overlay Network Monitoring  (CSD-03-1252) Yan Chen, David Bindel, Hanhee Song and Randy H. Katz
+PML: Toward a High-Level Formal Language for Biological Systems  (CSD-03-1251) Bor-Yuh Evan Chang and Manu Sridharan
+A Programmable Microkernal for Real-Time Systems  (CSD-03-1250) Christoph M. Kirsch, Thomas A. Henzinger and Marco A. A. Sanvido
+Learning Spectral Clustering  (CSD-03-1249) Francis R. Bach and Michael I. Jordan
+Interaction-based Rendering Optimization in Sketch-based User Interfaces  (CSD-03-1248) Yang Li and James A. Landay
+The CCured Type System and Type Inference  (CSD-03-1247) Westley Weimer
+Active Mapping: Resisting NIDS Evasion Without Altering Traffic  (CSD-03-1246) Umesh Shankar
+Secure Verification of Location Claims  (CSD-03-1245) Naveen Sastry, Umesh Shankar and David Wagner
+Hidden Markov Model Cryptanalysis  (CSD-03-1244) Chris Karlof and David Wagner
+Amdb: A Design Tool for Access Methods  (CSD-03-1243) Marcel Kornacker, Mehul A. Shah and Joseph M. Hellerstein
+Towards a More Functional and Secure Network Infrastructure  (CSD-03-1242) Daniel Adkins, Karthik Lakshminarayanan, Adrian Perrig and Ion Stoica
+A Randomized Satisfiability Procedure for Arithmetic and Uninterpreted Function Symbols (Full Version)  (CSD-03-1241) Sumit Gulwani and George C. Necula
+Toolkit Support for Vision-based Tangible Interfaces  (CSD-03-1239) Scott R. Klemmer and James A. Landay
+Single-mode, Single-processor Giotto Scheduling  (CSD-03-1238) Benjamin Horowitz
+Extended Visual Servoing  (CSD-03-1237) Hong Zhang and Noah John Cowan
+Choosing an Accurate Network Path Model  (CSD-03-1236) Almudena Konrad and Anthony D. Joseph
+Applying Congestion Pricing at Access Points for Voice and Data Traffic  (CSD-03-1235) Jimmy Ssu-Ging Shih
+Decentralized Systems Need Decentralized Benchmarks  (CSD-03-1234) David Oppenheimer, David A. Patterson and Joseph M. Hellerstein
+ARRIVE: Algorithm for Robust Routing in Volatile Environments  (CSD-03-1233) Chris Karlof, Yaping Li and Joseph Polastre
+Memory Hierarchy Optimizations and Performance Bounds for Sparse A^T Ax  (CSD-03-1232) Richard Vuduc, Attila Gyulassy, James Demmel and Katherine A. Yelick
+Using State Modules for Adaptive Query Processing  (CSD-03-1231) Vijayshankar Raman, Amol Deshpande and Joseph M. Hellerstein
+Schedule-Carrying Code  (CSD-03-1230) Thomas A. Henzinger, Christoph M. Kirsch and Slobodan Matic
+Content-Based Multicast: Comparison of Implementation Options  (CSD-03-1229) Ryan Huebsch
+Query Processing for High-Volume XML Message Brokering  (CSD-03-1228) Yanlei Diao and Michael Franklin
+Experiments in Improving Unsupervised Word Sense Disambiguation  (CSD-03-1227) Jonathan Traupman and Robert Wilensky
+Semidefinite Relaxations for Approximate Inference on Graphs with Cycles  (CSD-03-1226) Martin J. Wainwright and Michael I. Jordan
+LOGOS: A Hierarchical Bayesian Markovian Motif Model Capturing Local Site-Dependencies and Global Motif Distributions  (CSD-03-1225) Eric P. Xing and Richard M. Karp
+Analyzing Application Performance Using a System Monitoring Database  (CSD-03-1224) Aaron B. Brown and David Oppenheimer
+Dynamic Locality Improvement Techniques for Increasing Effective Storage Performance  (CSD-03-1223) Windsor Wee Sun Hsu
+Benchmarking DHTs with Queries  (CSD-03-1222) David Oppenheimer, Joseph M. Hellerstein, Ryan Huebsch and David A. Patterson
+Independent Components Analysis by Direct Entropy Minimization  (CSD-03-1221) Erik G. Miller and John W. III Fisher
+Multiple Target Tracking for Surveillance  (M03/54) S. Oh
+Communications Systems Modeling in Ptolemy II  (M03/53) Y. Zhou
+Image and Video Processing Libraries in Ptolemy II  (M03/52) J. Yeh
+A Model of Computation with Push and Pull Processing  (M03/51) Y. Zhao
+Graphic Symbol Recognition Toolkit (HHRELCO) Tutorial  (M03/50) H. Hse and A. Richard Newton
+Sketched Symbol Recognition Using Zernike Movements  (M03/49) H. Hse and A. Richard Newton
+CAL Language Report Specification of the CAL Actor Language  (M03/48) J. Eker and J. W. Janneck
+Soft Computing for Internet and Bioinformatics  (M03/47) M. Nikravesh, S. Souafi-Bensafi and Lotfi A. Zadeh
+Enhanced, Quantitative Analysis of Resist Image Contrast upon Line Edge Roughness (LER)  (M03/46) Michael V. Williamson
+Multi-Stage Resource Allocation Under Uncertainty  (M03/45) G. Calafiore, Laurent El Ghaoui and A. Nilim
+Ptolemy II Coding Style  (M03/44) C. H. Brooks and Edward A. Lee
+RUMS Resource Utilization Monitoring System  (M03/43) T. Duncan, T. K. Chen, D. Pestal and T. Merport
+Mescal Languages Reference Manual  (M03/41) S. Weber
+The Mescal Architecture Development System (Tipi) Tutorial  (M03/40) M. Gries, S. Weber and C. Brooks
+High Throughput VLSI Architectures for Iterative Decoders  (M03/39) Engling Yeo
+Notes on Agent Algebras  (M03/38) J. R. Burch, R. Passerone and Alberto L. Sangiovanni-Vincentelli
+Technology Trend: Impact of Process Variations on Circuit Performance  (M03/37) T. Chien
+Generalized Principal Component Analysis (GPCA): Subspace Clustering by Polynomial Factorization, Differentiation, and Division  (M03/36) R. Vidal, Y. Ma and S. Shankar Sastry
+Generalized Principal Component Analysis (GPCA): An Algebraic Geometric Approach to Subspace Clustering and Motion Segmentation  (M03/35) Rene E. Vidal
+Continuous Path Planning with Multiple Constraints  (M03/34) Ian Mitchell and S. Shankar Sastry
+Navigation in Small World Networks A Scale-Free Continuum Model  (M03/33) M. Franceschetti and R. Meester
+Design, Fabrication, and Optical Analysis of Nanomirrors for Maskless EUV Lithography  (M04/32) Yashesh A. Shroff
+Methods for Evaluating and Covering the Design Space During Early Design Development  (M03/32) M. Gries
+Soft Walls: Frequently Asked Questions  (M03/31) Edward A. Lee
+A Hybrid System Visual Modeler  (M03/30) A. Cataldo, C. Hylands, Edward A. Lee, X. Liu, S. Neuendorffer, H. Zheng and J. Liu
+Ptolemy II Heterogeneous Concurrent Modeling and Design in Java, Volume 3: Ptolemy II Domains  (M03/29)
+Ptolemy II Heterogeneous Concurrent Modeling and Design in Java, Volume 2: Software Architecture  (M03/28)
+Ptolemy II Heterogeneous Concurrent Modeling and Design in Java, Volume 1: Introduction to Ptolemy II  (M03/27)
+Performance Analysis of the Peripheral-Processor Interaction in Embedded Systems  (M03/26) C. Sauer, M. Gries, C. Kulkarni and Kurt Keutzer
+Overview of the Ptolemy Project  (M03/25) Christopher Hylands, Edward A. Lee, Jie Liu, Xiaojun Liu, Stephen Neuendorffer, Yuhong Xiong, Yang Zhao and Haiyang Zheng
+Seeking Equilibrium between Communication and Computation in System-level Design  (M03/24) Luca P. Carloni and Alberto L. Sangiovanni-Vincentelli
+Heterogeneous Reactive Systems Modeling and Correct-by-Construction Deployment  (M03/23) A. Benveniste, L. P. Carloni, P. Caspi and Alberto L. Sangiovanni-Vincentelli
+Implementation Issues in Hybrid Embedded Systems  (M03/22) S. Neuendorffer
+Estimation and Marginalization Using Kikuchi Approximation Methods  (M04/21) P. Pakzad and Venkat Anantharam
+Perception-based Decision Processing and Analysis  (M03/21) M. Nikravesh, G. Serag-Eldin and S. Ben-Soafi
+Perception-based Information Processing  (M03/20) M. Nikravesh and D.-Y. Choi
+Web Intelligence: Conceptual-based Model  (M03/19) M. Nikravesh, T. Takagi, M. Tajima, A. Shinmura, R. Ohgaya, K. Taniguchi, K. Kawahara, K. Fukano and A. Aizawa
+Percolation of Multi-Hop Wireless Networks  (M03/18) M. Franceschetti, L. Booth, M. Cook, R. Meester and J. Bruck
+A Game-Theoretic Look at the Gaussian Multiaccess Channel  (M03/17) R. J. La and Venkat Anantharam
+First Principle-based State Estimator for Photolithography Control Using Full Profile Metrology  (M03/16) P. D. Friedberg
+Kalman Filtering with Intermittent Observations  (M03/15) B. Sinopoli, L. Schenato, M. Franceschetti, Kameshwar Poolla, Michael Jordan and S. Shankar Sastry
+Design and Implementation of TinyGALS: A Programming Model for Event-Driven Embedded Systems  (M03/14) E. Cheong
+Nano-Scaled Logic and Memory Devices: Modeling and Fabrication  (M04/13) Peiqi Xuan
+A Structured Description of Dataflow Actors and Its Applications  (M03/13) J. Eker and J. W. Janneck
+Multi-View Operation-level DesignSupporting the Design of Irregular ASIPs  (M03/12) . J. Weber, M. W. Moskewicz, M. Low and Kurt Keutzer
+Tomography as a Metrology Technique for Semiconductor Manufacturing  (M03/11) Michiel Victor Paul Kruger
+An Algebraic Geometric Approach to the Identification of Linear Hybrid Systems  (M03/10) R. Vidal, S. Soatto and S. Shankar Sastry
+Sequential Synthesis by Language Equation solving  (M03/9) N. Yevtushenko, T. Villa, Robert K. Brayton, A. Petrenko and Alberto L. Sangiovanni-Vincentelli
+Maximal Controllers for Hybrid Systems with Multiple Time Event Separations  (M03/8) A. Balluchi, L. Benvenuti, T. Villa, H. Wong-Toi and Alberto L. Sangiovanni-Vincentelli
+Static Analysis of Actor Networks  (M03/7) E. Wandeler
+Analysis and Control of Flapping Flight: From Biological to Robotic Insects  (M04/6) Luca Schenato
+PRISM: A Video Coding Architecture Based on Distributed Compression Principles  (M03/6) R. Puri and Kannan Ramchandran
+Zero-rate Reliability of the Exponential- Server Timing Channel  (M04/5) A. B. Wagner and Venkat Anantharam
+Describing, Simulating, and Optimizing Hierarchical Bus Scheduling Policies  (M03/5) T. C. Meyerowitz and Alberto L. Sangiovanni-Vincentelli
+A Microsurge Meter for Electrical Pollution Research  (M03/3) Martin H. Graham
+An Optical Metrology System for Lithography Process Monitoring and Control  (M03/2) Junwei Bao
+HyVisual: A Hybrid System Visual Modeler  (M03/1) C. Hylands, Edward A. Lee, J. Liu, X. Liu, S. Neuendorffer and H. Zheng

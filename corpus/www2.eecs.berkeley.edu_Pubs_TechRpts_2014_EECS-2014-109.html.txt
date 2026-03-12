@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-109.html
+Extracting Chemical Reactions from Biological Literature | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Extracting Chemical Reactions from Biological Literature
+Extracting Chemical Reactions from Biological Literature
+Jeffrey Tsui
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-109
+May 16, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-109.pdf
+Synthetic biologists must comb through vast amounts of academic literature to design biological systems. The majority of this data is unstructured and difficult to query because they are manually annotated. Existing databases such as PubMed already contain over 20 million citations and are growing at a rate of 500,000 new citations every year. Our solution is to automatically extract chemical reactions from biological text and canonicalize them so that they can be easily indexed and queried. This paper describes a natural language processing system that generates patterns from labeled training data and uses them to extract chemical reactions from PubMed. To train and validate our system, we create a dataset using BRENDA, the BRaunschweig ENzyme DAtabase, with 4387 labeled sentences. Our system achieves a recall of 0.82 and a precision of 0.88 via cross validation. On a selection of 600,000 PubMed abstracts, our system extracts almost 20% of existing reactions in BRENDA as well as many that are novel.
+BibTeX citation:
+@techreport{Tsui:EECS-2014-109,
+Author = {Tsui, Jeffrey},
+Title = {Extracting Chemical Reactions from Biological Literature},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-109.html},
+Number = {UCB/EECS-2014-109},
+Abstract = {Synthetic biologists must comb through vast amounts of academic literature to design biological systems. The majority of this data is unstructured and difficult to query because they are manually annotated. Existing databases such as PubMed already contain over 20 million citations and are growing at a rate of 500,000 new citations every year. Our solution is to automatically extract chemical reactions from biological text and canonicalize them so that they can be easily indexed and queried. This paper describes a natural language processing system that generates patterns from labeled training data and uses them to extract chemical reactions from PubMed. To train and validate our system, we create a dataset using BRENDA, the BRaunschweig ENzyme DAtabase, with 4387 labeled sentences. Our system achieves a recall of 0.82 and a precision of 0.88 via cross validation. On a selection of 600,000 PubMed abstracts, our system extracts almost 20% of existing reactions in BRENDA as well as many that are novel.}
+}
+EndNote citation:
+%0 Report
+%A Tsui, Jeffrey
+%T Extracting Chemical Reactions from Biological Literature
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 16
+%@ UCB/EECS-2014-109
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-109.html
+%F Tsui:EECS-2014-109

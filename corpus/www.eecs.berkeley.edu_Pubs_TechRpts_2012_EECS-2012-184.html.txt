@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-184.html
+Coflow: An Application Layer Abstraction for Cluster Networking
+Mosharaf Chowdhury and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-184
+August 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-184.pdf
+Cluster computing applications, whether frameworks like MapReduce and Dryad, or customized applications like search platforms and social networks, have application-level requirements and higher-level abstractions to express them. Networking, however, still remains at the level of forwarding packets and balancing flows, and there exists no networking abstraction that can take advantage of the rich semantics readily available from these data parallel applications. The result is a plethora of seemingly disjoint, yet somehow connected, pieces of work to address networking challenges in these applications.
+We propose an application layer, data plane abstraction, coflow, that can express the requirements of (data) parallel programming models used in clusters today and makes it easier to express, reason about, and act upon these requirements.
+BibTeX citation:
+@techreport{Chowdhury:EECS-2012-184,
+Author= {Chowdhury, Mosharaf and Stoica, Ion},
+Title= {Coflow: An Application Layer Abstraction for Cluster Networking},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-184.html},
+Number= {UCB/EECS-2012-184},
+Abstract= {Cluster computing applications, whether frameworks like MapReduce and Dryad, or customized applications like search platforms and social networks, have application-level requirements and higher-level abstractions to express them. Networking, however, still remains at the level of forwarding packets and balancing flows, and there exists no networking abstraction that can take advantage of the rich semantics readily available from these data parallel applications. The result is a plethora of seemingly disjoint, yet somehow connected, pieces of work to address networking challenges in these applications.
+We propose an application layer, data plane abstraction, coflow, that can express the requirements of (data) parallel programming models used in clusters today and makes it easier to express, reason about, and act upon these requirements.},
+}
+EndNote citation:
+%0 Report
+%A Chowdhury, Mosharaf
+%A Stoica, Ion
+%T Coflow: An Application Layer Abstraction for Cluster Networking
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 7
+%@ UCB/EECS-2012-184
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-184.html
+%F Chowdhury:EECS-2012-184

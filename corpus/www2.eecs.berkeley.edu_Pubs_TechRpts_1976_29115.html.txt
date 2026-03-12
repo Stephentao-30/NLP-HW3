@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29115.html
+A Note on the Extension Principle for Fuzzy Sets
+H.T. Nguyen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M611
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-611.pdf
+BibTeX citation:
+@techreport{Nguyen:M611,
+Author= {Nguyen, H.T.},
+Title= {A Note on the Extension Principle for Fuzzy Sets},
+Year= {1976},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29115.html},
+Number= {UCB/ERL M611},
+}
+EndNote citation:
+%0 Report
+%A Nguyen, H.T.
+%T A Note on the Extension Principle for Fuzzy Sets
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M611
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29115.html
+%F Nguyen:M611

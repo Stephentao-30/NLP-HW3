@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29014.html
+Trajectories of Nonlinear RLC Networks: A Geometric Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Trajectories of Nonlinear RLC Networks: A Geometric Approach
+Trajectories of Nonlinear RLC Networks: A Geometric Approach
+Charles A. Desoer and Felix F. Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M324
+February 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-324.pdf
+BibTeX citation:
+@techreport{Desoer:M324,
+Author = {Desoer, Charles A. and Wu, Felix F.},
+Title = {Trajectories of Nonlinear RLC Networks: A Geometric Approach},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29014.html},
+Number = {UCB/ERL M324}
+}
+EndNote citation:
+%0 Report
+%A Desoer, Charles A.
+%A Wu, Felix F.
+%T Trajectories of Nonlinear RLC Networks: A Geometric Approach
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M324
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29014.html
+%F Desoer:M324

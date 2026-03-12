@@ -1,0 +1,108 @@
+URL: https://eecs.berkeley.edu/resources/grads/tech-report-policy
+EECS Technical Memorandum Series Policy - EECS at Berkeley
+EECS Technical Memorandum Series Policy
+Background
+With the dissolution of ERL and its reorganization into ERSO, the ERL technical memorandum series was no longer supported. The CS memo series paved the way for a more modern infrastructure, but needed updating and was no longer being supported. In view of this, the EECS department took responsibility for administering a technical memorandum series.  This policy was established on November 28, 2005 in EECS Chair Memo 05-5.
+Why have a Memo Series?
+There are a number of reasons to have a memo series, including:
+Precise dating of ideas, research results, and intellectual property. A carefully administered memo series functions as a publication medium available to the EECS community that is subject to neither publication delays nor the possibility of rejection by the peer review process. As a consequence, an EECS technical memo provides a precisely dated archive. Such an archive can be useful in the event of disputes about originality and/or precedence of results.
+Archive. The memo series provides a permanent archive that is not subject to peer review. Thus, it is useful for results that are controversial, too small to publish in mainstream venues, too long and involved for the limited size of journal and conference papers, or otherwise difficult to publish.
+Permanence. The EECS Department is committed to ensuring (to the extent this is possible) that an EECS memo remains always available and that the URL provided for the memo remains valid as long as Internet technology continues to support such URLs. In addition, it is committed to adopting permanent locator technologies such as DOI (http://www.doi.org/) as such technologies become mature and generally accepted. As such, an EECS memo serves the archival function of archival journals. It can be used, for example, to archive conference papers that are recorded only informally or in impermanent ways by the conference organizers.
+Supplemental publication. An EECS memo can supplement a “normal” publication, providing a place to record, in a citable and available manner, details that do not fit in the normal publication, such as long proofs, software documentation, code listings, or elaborated examples.
+Citable document for informal distribution. Researchers often discuss research results openly prior to publication. An EECS memo provides a citable, dated document that can be distributed to interested parties. This reduces the risk of seeing ones results published without attribution in some third party paper.
+Timely dissemination. Many archival journals have long publication delays. The peer review process adds delay, as do backlogs due to limitations on the number of papers per issue. These delays can extend to several years. Even conferences introduce publication delays of several months. An EECS memo immediately provides an accessible and citable document to the community.
+Archival journals as a write-only memory. Although most archival journals provide distribution on the web, it is often provided with limited access only to journal subscribers. Moreover, such access limitations may limit the extent to which internet search engines such as Google can access the information in the papers. Together, these can result in very limited readership, which reduces the impact of the publications. An EECS memo goes into a searchable website immediately, and hence may generate more readership than an archival journal publication. This will be particularly true if the memo series becomes widely used among Berkeley researchers.
+Open access to published material. A recommended practice is to publish preliminary versions of papers as EECS memos. The papers can then be submitted to more conventional venues such as conferences and journals, and can be modified and elaborated in response to reviewer comments. Once the final version is published, if copyright policies permit it, the EECS memo can remain accessible on the Internet. It will typically be more widely accessible than the published counterpart, and hence will provide access to results, albeit in preliminary form.
+Branding of Berkeley EECS. While archival publications prominently display authorship, they often do not prominently display institutional affiliations of the authors. The EECS memo series will help promote the “Berkeley EECS” brand, particularly if it is widely used and if EECS memos are widely cited.
+Department Policy
+The department is committed to following principles:
+1.1. Non-Interference with Publications
+The department will ensure that the existence of the memo series and the policies surrounding the memo series do not interfere with the ability of members of the EECS community to publish their work in other venues. Where this policy conflicts with other policies, this policy will take precedence.
+1.2. Permanence
+The EECS department will make every effort to maintain a permanent record of EECS memos. This will include:
+• Ensuring periodic offsite backups of the electronic archive.
+• Maintenance of the URL assigned to a memo as long as that remains technically feasible.
+• Ensuring high availability of the web servers that provide access to EECS memos.
+If there is demand for it, the department may permit memos to be “withdrawn.” If a memo is withdrawn, the department will continue to maintain a permanent copy of the PDF file, but will ensure that it is not readable from the web. It will, however, continue to list the title, date, and memo number and will maintain the published URL with an indication that the memo has been withdrawn.
+1.3. Integrity
+The EECS department will ensure that once an EECS memo has been issued, that its contents cannot be modified. This is essential for the memo series to function as a precisely dated archive of ideas, research results, and intellectual property.
+For practical reasons, certain data in a memo can be modified after the memo is published. In particular, since a practical submission process relies on the authors for accuracy, there might be mistakes in the data they enter. For example, title words might be misspelled, or author names might be incorrect. If these errors are caught within one month of submission of the memo, the department will permit modification to make these corrections.
+Under no circumstances will the department permit modification of the content of the memo. Specifically, no changes can be made to the PDF file that is uploaded as the content. Any modifications that are made should only correct errors on the generated cover page, copyright page, and/or HTML gateway page.
+1.4. Dating
+The EECS department will ensure the integrity of dates of EECS memos. The date of the memo will be the date of submission. Backdating or dating in the future will not be permitted.
+1.5. Copyrights
+By default, the copyright for EECS memos will read as follows:
+Copyright © year, by the author(s).
+All rights reserved.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission.
+This copyright is identical to the standard copyright notice currently used on ACM publications.
+If there is demand from the faculty, then the EECS department will consider other copyright notices, as long as such notices clearly authorize the department to post the memorandum.
+The department cannot guarantee that authors will not post material that violates a copyright. It is department policy that it is up to the individual submitting a memo to ensure that publication of the memo on the department website does not violate any copyright constraints, to the best of his or her knowledge.
+1.6. Identity Management
+The EECS department will identify unambiguously EECS authors by associating the authors with their electronic identities (such as Calnet identities) that are used for other purposes.
+Ph.D. THESES AND MASTERS REPORTS
+The department has instituted a requirement that every Ph.D. thesis be submitted as an EECS memo. The principal advisor will be identified in the submission process and will be associated with the document.
+Master’s reports have also been required to be  posted online . Please see graduate student handbook for details.
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

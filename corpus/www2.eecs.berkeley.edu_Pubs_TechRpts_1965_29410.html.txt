@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29410.html
+Self-Organizing Control Systems: The Application of Pattern Recognition in Learning Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Self-Organizing Control Systems: The Application of Pattern Recognition in Learning Systems
+Self-Organizing Control Systems: The Application of Pattern Recognition in Learning Systems
+Ralph P. Iwens
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M125
+July 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-125.pdf
+BibTeX citation:
+@techreport{Iwens:M125,
+Author = {Iwens, Ralph P.},
+Title = {Self-Organizing Control Systems: The Application of Pattern Recognition in Learning Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29410.html},
+Number = {UCB/ERL M125}
+}
+EndNote citation:
+%0 Report
+%A Iwens, Ralph P.
+%T Self-Organizing Control Systems: The Application of Pattern Recognition in Learning Systems
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M125
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29410.html
+%F Iwens:M125

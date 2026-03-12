@@ -1,0 +1,12 @@
+URL: https://eecs.berkeley.edu/news/new-design-tool-to-optimize-quantum-optics-circuits-in-silicon
+New Design tool to Optimize Quantum Optics Circuits in Silicon - EECS at Berkeley
+A team led by EECS Associate Professor Boubacar Kanté and EECS Professor Eli Yablonovitch has developed a machine-learning based optimization method for nonlinear and quantum optics. Inverse-design has been traditionally applied to linear optical systems, and it often leads to optimized structures that are unintuitive or experimentally unrealistic.
+In this study, published in Optica, the researchers attempt to tackle these challenges using a new inverse-design method for nonlinear photon generation. According to lead author and graduate student Zhetao Jia, they were able to achieve a compact, robust, and efficient source of entangled photon pairs based on spontaneous four-wave mixing in silicon, the most common material used in the semiconductor industry. This nonlinear quantum-optics approach could potentially be used for large-scale communication and quantum computing applications.
+Categories
+Faculty
+publications
+Research
+Related Links
+Interpretable inverse-designed cavity for on-chip nonlinear photon pair generation
+View
+Open Faculty Positions

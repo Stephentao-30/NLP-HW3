@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28956.html
+A Rotating Plasma as a Source For Injection into a Magnetic Mirror
+H.K. Forsen and A.W. Trivelpiece
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M145
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-145.pdf
+BibTeX citation:
+@techreport{Forsen:M145,
+Author= {Forsen, H.K. and Trivelpiece, A.W.},
+Title= {A Rotating Plasma as a Source For Injection into a Magnetic Mirror},
+Year= {1966},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28956.html},
+Number= {UCB/ERL M145},
+}
+EndNote citation:
+%0 Report
+%A Forsen, H.K.
+%A Trivelpiece, A.W.
+%T A Rotating Plasma as a Source For Injection into a Magnetic Mirror
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M145
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28956.html
+%F Forsen:M145

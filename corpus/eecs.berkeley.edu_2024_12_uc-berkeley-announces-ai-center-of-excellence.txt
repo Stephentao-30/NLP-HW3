@@ -1,0 +1,18 @@
+URL: https://eecs.berkeley.edu/2024/12/uc-berkeley-announces-ai-center-of-excellence
+UC Berkeley announces AI Center of Excellence - EECS at Berkeley
+Graduate student team leads for the vLLM project: Woosuk Kwon, Zhuohan Li, Simon Mo
+Our AI Center of Excellence Mission
+The center will serve as a hub for cutting-edge applied research in generative AI (GenAI), drawing on the collective knowledge and resources of Intel and the UC Berkeley research community, including the Sky Computing Lab, BAIR, and other affiliated labs. A key objective of this collaboration is to optimize the performance and efficiency of vLLM and, thus, generative AI model inference on Intel® architectures. By focusing on Intel-optimized solutions, the center aims to push the boundaries of what is possible with generative AI, ensuring that these advanced models can deliver unparalleled performance and scalability on Intel-powered systems from data centers to client devices.
+Enabling vLLM with AI in Collaboration with Intel
+The center aims to optimize vLLM on various Intel platforms for the best LLM serving performance. Intel® Xeon® Processors, Intel® Gaudi® AI Accelerators, and Intel® Data Center GPU Max Series platforms are among the hardware platforms currently supported by vLLM upstream today. The center will focus on bringing more system-level compute, memory, and communication optimizations to further democratize AI with vLLM.
+“We are excited to collaborate with Intel on optimizing vLLM. Establishing this Center of Excellence will provide the ideal environment for this effort,” says Ion Stoica, Professor of EECS, University of California, Berkeley.
+“As long innovators in the context of Open Source and AI development, we are delighted to collaborate with the University of California, Berkeley, as a new AI Center of Excellence member focused on enhancing the performance and efficiency of the Gen AI software stack.  Partnership on open technologies such as vLLM running on oneAPI software can drive not only the future of AI software but also influence hardware architecture and software development, delivering capabilities for the next generation of advanced AI applications,”   says Melissa Evers, VP Office of the CTO, GM of Software Ecosystem Enablement, Intel Corporation.
+About UC Berkeley
+UC Berkeley  is the flagship campus of the University of California system, home to 15 colleges and schools, 184 academic departments and programs, 55 Nobel laureates among faculty and alumni, and 6 Turing Award winners. Founded in 1868, UC Berkeley has been reimagining the world by challenging convention and generating unparalleled intellectual, economic, and social value.
+Housed in both the College of Engineering and the College of Computing, Data Science, and Society, the  Department of Electrical Engineering & Computer Sciences  (EECS) is one of the few unified EECS departments in the U.S. and the world, arguably the most seamlessly integrated. Ranked globally among the most prestigious EE and CS departments, UC Berkeley EECS continues to be the home of historic contributions to electrical engineering and computer sciences. Its world-class faculty includes those long recognized for their contributions to research and education, and many newer faculty members are just starting to gain wide recognition.
+UC Berkeley is incredibly proud to count among its alumni Intel co-founder and Emeritus Chairman Gordon Moore.
+Categories
+Industry
+Research
+View
+Open Faculty Positions

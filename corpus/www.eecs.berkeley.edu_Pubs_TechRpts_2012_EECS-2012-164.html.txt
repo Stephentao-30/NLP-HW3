@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-164.html
+On Tokens and Signals: Bridging the Semantic Gap between Dataflow Models and Hardware Implementations
+Stavros Tripakis and Rhishikesh Limaye and Kaushik Ravindran and Guoqiang Wang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-164
+June 8,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-164.pdf
+Dataflow models serve as useful abstractions of digital hardware in signal processing and other application domains. But when can one say that a certain dataflow model faithfully captures a given piece of hardware? The question is investigated in this paper. Finite state machines with synchronous semantics are used to model hardware. Asynchronous processes communicating via queues are employed for dataflow. A conformance relation between these two heterogeneous models of computation is developed that preserves performance properties such as worst-case throughput and latency.
+BibTeX citation:
+@techreport{Tripakis:EECS-2012-164,
+Author= {Tripakis, Stavros and Limaye, Rhishikesh and Ravindran, Kaushik and Wang, Guoqiang},
+Title= {On Tokens and Signals: Bridging the Semantic Gap between Dataflow Models and Hardware Implementations},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-164.html},
+Number= {UCB/EECS-2012-164},
+Abstract= {Dataflow models serve as useful abstractions of digital hardware in signal processing and other application domains. But when can one say that a certain dataflow model faithfully captures a given piece of hardware? The question is investigated in this paper. Finite state machines with synchronous semantics are used to model hardware. Asynchronous processes communicating via queues are employed for dataflow. A conformance relation between these two heterogeneous models of computation is developed that preserves performance properties such as worst-case throughput and latency.},
+}
+EndNote citation:
+%0 Report
+%A Tripakis, Stavros
+%A Limaye, Rhishikesh
+%A Ravindran, Kaushik
+%A Wang, Guoqiang
+%T On Tokens and Signals: Bridging the Semantic Gap between Dataflow Models and Hardware Implementations
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 8
+%@ UCB/EECS-2012-164
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-164.html
+%F Tripakis:EECS-2012-164

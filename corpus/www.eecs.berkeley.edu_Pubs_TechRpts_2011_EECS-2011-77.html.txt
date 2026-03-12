@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-77.html
+Constructing an Augmented Rhombicuboctahedron (RCO)
+Carlo H. Séquin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-77
+June 20,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-77.pdf
+Using the "OCTA-TETRA Construction Set" by D. Suttin,  polyhedral cardboard objects are constructed based on the small rhombicuboctahedron.
+BibTeX citation:
+@techreport{Séquin:EECS-2011-77,
+Author= {Séquin, Carlo H.},
+Title= {Constructing an Augmented Rhombicuboctahedron (RCO)},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-77.html},
+Number= {UCB/EECS-2011-77},
+Abstract= {Using the "OCTA-TETRA Construction Set" by D. Suttin,  polyhedral cardboard objects are constructed based on the small rhombicuboctahedron.},
+}
+EndNote citation:
+%0 Report
+%A Séquin, Carlo H.
+%T Constructing an Augmented Rhombicuboctahedron (RCO)
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 20
+%@ UCB/EECS-2011-77
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-77.html
+%F Séquin:EECS-2011-77

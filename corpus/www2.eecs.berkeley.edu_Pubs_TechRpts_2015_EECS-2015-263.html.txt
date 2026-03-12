@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-263.html
+The Hwacha Microarchitecture Manual, Version 3.8.1 | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Hwacha Microarchitecture Manual, Version 3.8.1
+The Hwacha Microarchitecture Manual, Version 3.8.1
+Yunsup Lee, Albert Ou, Colin Schmidt, Sagar Karandikar, Howard Mao and Krste Asanović
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-263
+December 19, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-263.pdf
+BibTeX citation:
+@techreport{Lee:EECS-2015-263,
+Author = {Lee, Yunsup and Ou, Albert and Schmidt, Colin and Karandikar, Sagar and Mao, Howard and Asanović, Krste},
+Title = {The Hwacha Microarchitecture Manual, Version 3.8.1},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-263.html},
+Number = {UCB/EECS-2015-263}
+}
+EndNote citation:
+%0 Report
+%A Lee, Yunsup
+%A Ou, Albert
+%A Schmidt, Colin
+%A Karandikar, Sagar
+%A Mao, Howard
+%A Asanović, Krste
+%T The Hwacha Microarchitecture Manual, Version 3.8.1
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 19
+%@ UCB/EECS-2015-263
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-263.html
+%F Lee:EECS-2015-263

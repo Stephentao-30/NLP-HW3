@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-125.html
+Statistical Methods for Genome Assembly | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Statistical Methods for Genome Assembly
+Statistical Methods for Genome Assembly
+Maayan Bresler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-125
+May 21, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-125.pdf
+In the last decade, sequencing technology has progressed rapidly, leading to much faster and cheaper production of short-read data. The challenge of \emph{assembling} the reads into an accurate reconstruction of the sequenced genome, however, has increased. This is because the assembly problem is made more difficult when the reads are shorter, especially for genomes of most higher organisms, which contain complicated repeat structures. In this thesis we study the algorithmic problem of \emph{de novo} DNA sequence assembly, focusing on the challenge of dealing with genomic repeats. We develop two new assembly tools, as well as initiate the study of information-theoretic limits of shotgun sequencing for realistic genomes.
+Our first novel algorithm for DNA assembly, Telescoper, is designed for assembly of telomeres. Due to their many repeats, telomeric regions are notoriously difficult to assemble. Telescoper iteratively extends long paths through a series of read-overlap graphs and evaluates them based on a statistical framework. The algorithm utilizes both short and long-insert libraries in an integrated way throughout the assembly process. This approach is shown to effectively resolve some of the complex repeat structures found in the telomeres of yeast genomes.
+Our second novel algorithm for DNA assembly, Piper, takes a statistical approach to resolving ambiguity caused by repeats. A lot of potentially useful information is present in paired-end reads, but due to the inherent noise in the insert length and the combinatorial nature of the problem, it is not clear how to best use this information. Piper selects a \emph{set} of candidate paths through the contig-graph, and scores them based on their likelihood given a generative model for the reads. The output consists of a ranked set of assemblies (rather than a single assembly) in order to give the maximum information available, while still explicitly encoding unresolved ambiguity. On small simulated datasets, Piper produces excellent error-free assemblies.
+In the final portion of the thesis, we investigate the information-theoretic limits of DNA sequencing, focusing on the effect of repeats. Specifically, we ask: how many reads of a given length are necessary in order to perfectly reconstruct with a certain target probability? We focus on a simple read model, with noiseless single-end reads, but consider arbitrary genomic sequences. We first prove a lower bound on the read length and the coverage depth required for reconstruction in terms of the repeat statistics of the genome. Building on known algorithms, we design a de Brujin graph based assembly algorithm which can achieve very close to the lower bound for repeat statistics of a wide range of sequenced genomes. The results are based on a set of necessary and sufficient conditions for reconstruction that depend on the DNA sequence and the reads.
+BibTeX citation:
+@techreport{Bresler:EECS-2014-125,
+Author = {Bresler, Maayan},
+Title = {Statistical Methods for Genome Assembly},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-125.html},
+Number = {UCB/EECS-2014-125},
+Abstract = {In the last decade, sequencing technology has progressed rapidly, leading to much faster and cheaper production of short-read data. The challenge of \emph{assembling} the reads into an accurate reconstruction of the sequenced genome, however, has increased. This is because the assembly problem is made more difficult when the reads are shorter, especially for genomes of most higher organisms, which contain complicated repeat structures. In this thesis we study the algorithmic problem of \emph{de novo} DNA sequence assembly, focusing on the challenge of dealing with genomic repeats. We develop two new assembly tools, as well as initiate the study of information-theoretic limits of shotgun sequencing for realistic genomes.
+Our first novel algorithm for DNA assembly, Telescoper, is designed for assembly of telomeres. Due to their many repeats, telomeric regions are notoriously difficult to assemble. Telescoper iteratively extends long paths through a series of read-overlap graphs and evaluates them based on a statistical framework. The algorithm utilizes both short and long-insert libraries in an integrated way throughout the assembly process. This approach is shown to effectively resolve some of the complex repeat structures found in the telomeres of yeast genomes.
+Our second novel algorithm for DNA assembly, Piper, takes a statistical approach to resolving ambiguity caused by repeats. A lot of potentially useful information is present in paired-end reads, but due to the inherent noise in the insert length and the combinatorial nature of the problem, it is not clear how to best use this information. Piper selects a \emph{set} of candidate paths through the contig-graph, and scores them based on their likelihood given a generative model for the reads. The output consists of a ranked set of assemblies (rather than a single assembly) in order to give the maximum information available, while still explicitly encoding unresolved ambiguity. On small simulated datasets, Piper produces excellent error-free assemblies.
+In the final portion of the thesis, we investigate the information-theoretic limits of DNA sequencing, focusing on the effect of repeats.  Specifically, we ask: how many reads of a given length are necessary in order to perfectly reconstruct with a certain target probability? We focus on a simple read model, with noiseless single-end reads, but consider arbitrary genomic sequences. We first prove a lower bound on the read length and the coverage depth required for reconstruction in terms of the repeat statistics of the genome. Building on known algorithms, we design a de Brujin graph based assembly algorithm which can achieve very close to the lower bound for repeat statistics of a wide range of sequenced genomes. The results are based on a set of necessary and sufficient conditions for reconstruction that depend on the DNA sequence and the reads.}
+}
+EndNote citation:
+%0 Report
+%A Bresler, Maayan
+%T Statistical Methods for Genome Assembly
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 21
+%@ UCB/EECS-2014-125
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-125.html
+%F Bresler:EECS-2014-125

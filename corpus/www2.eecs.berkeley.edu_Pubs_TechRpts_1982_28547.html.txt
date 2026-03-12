@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28547.html
+An NMOS Integrated Vector-Locked Loop | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An NMOS Integrated Vector-Locked Loop
+An NMOS Integrated Vector-Locked Loop
+Daniel Senderowicz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/83
+November 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-83.pdf
+BibTeX citation:
+@techreport{Senderowicz:M82/83,
+Author = {Senderowicz, Daniel},
+Title = {An NMOS Integrated Vector-Locked Loop},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28547.html},
+Number = {UCB/ERL M82/83}
+}
+EndNote citation:
+%0 Report
+%A Senderowicz, Daniel
+%T An NMOS Integrated Vector-Locked Loop
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28547.html
+%F Senderowicz:M82/83

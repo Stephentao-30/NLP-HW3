@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28571.html
+An Error Analysis of the Motion of a Vehicular Robot in 2-D
+Gordon C. Fossum
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/13
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-13.pdf
+BibTeX citation:
+@techreport{Fossum:M81/13,
+Author= {Fossum, Gordon C.},
+Title= {An Error Analysis of the Motion of a Vehicular Robot in 2-D},
+Year= {1981},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28571.html},
+Number= {UCB/ERL M81/13},
+}
+EndNote citation:
+%0 Report
+%A Fossum, Gordon C.
+%T An Error Analysis of the Motion of a Vehicular Robot in 2-D
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28571.html
+%F Fossum:M81/13

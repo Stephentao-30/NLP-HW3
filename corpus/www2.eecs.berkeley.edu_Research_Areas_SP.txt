@@ -1,0 +1,84 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/SP
+Signal Processing (SP)
+Overview
+Topics
+Theory and Algorithms
+Adaptive signal processing, machine learning, and signal modeling; indexing, searching, and retrieval; Multirate and multi-channel processing; Restoration and enhancement; Signal analysis, identification, spectral estimation, and understanding; Signal representation, compression, coding, quantization and sampling; Statistical signal processing, detection, estimation, and classification; Watermarking, encryption, and data hiding; Wavelets, filter banks, time frequency techniques
+Signal Processing Applications
+Audio, speech, image, and video processing; graphics; Biological & biomedical signals; Computer vision; Radar and lidar; Geophysical signals; Synthetic signals; Astronomical signals
+Signal Processing Systems
+VLSI architectures; Embedded and real-time software; Capture, acquisition, and sensing; Sensor networks; Imaging; Auditory enhancement
+Research Centers
+Berkeley Center for Computational Imaging
+Berkeley Laboratory for Information and System Sciences
+Video and Image Processing Lab
+Faculty
+Primary
+Gopala Krishna Anumanchipalli
+Steven Conolly
+Jiantao Jiao
+Chunlei Liu
+Michael Lustig
+Song Mei
+Kannan Ramchandran  (coordinator)
+Benjamin Recht
+Anant Sahai
+Laura Waller
+Bin Yu
+Avideh Zakhor
+Secondary
+Venkat Anantharam
+Babak Ayazifar
+Brian A. Barsky
+Peter Bartlett
+Thomas F. Budinger
+Laurent El Ghaoui
+Michael Jordan
+Preeya Khanna
+Edward A. Lee
+Jitendra Malik
+David G. Messerschmitt
+Nelson Morgan
+Aditya Varma Muppala
+Ren Ng
+Ali Niknejad
+Jan M. Rabaey
+Gireeja Ranade
+S. Shankar Sastry
+Stella Yu
+Faculty Awards
+National Academy of Sciences (NAS) Member:
+Jitendra Malik, 2015.
+Bin Yu, 2014.
+Michael Jordan, 2010.
+National Academy of Engineering (NAE) Member:
+Jitendra Malik, 2011.
+Michael Jordan, 2010.
+S. Shankar Sastry, 2001.
+Thomas F. Budinger, 1996.
+David G. Messerschmitt, 1990.
+American Academy of Arts and Sciences Member:
+Jitendra Malik, 2013.
+Bin Yu, 2013.
+Michael Jordan, 2010.
+S. Shankar Sastry, 2003.
+Berkeley Citation:
+S. Shankar Sastry, 2018.
+Edward A. Lee, 2018.
+David G. Messerschmitt, 2005.
+Thomas F. Budinger, 2004.
+Sloan Research Fellow:
+Song Mei, 2025.
+Preeya Khanna, 2024.
+Ren Ng, 2017.
+Michael Lustig, 2013.
+Benjamin Recht, 2011.
+Related Courses
+EECS 126. Probability and Random Processes
+EE 120. Signals and Systems
+EE 123. Digital Signal Processing
+EE 126. Probability and Random Processes
+EE C145B. Medical Imaging Signals and Systems
+EE 221A. Linear System Theory
+EE C225E. Principles of Magnetic Resonance Imaging
+EE 290T. Advanced Topics in Electrical Engineering: Advanced Topics in Signal Processing

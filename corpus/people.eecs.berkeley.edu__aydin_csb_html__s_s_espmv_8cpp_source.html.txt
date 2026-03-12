@@ -1,0 +1,1297 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/_s_s_espmv_8cpp_source.html
+Compressed Sparse Blocks: SSEspmv.cpp Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+SSEspmv.cpp
+Go to the documentation of this file.     1   #include <stdio.h>
+2   #include <stdlib.h>
+3   #include <stdint.h>
+4   #include <iostream>
+5   #include <algorithm>
+6   #include <iterator>
+7   #include <mmintrin.h>   //  MMX
+8   #include <xmmintrin.h>   //  SSE
+9   #include <emmintrin.h>   //  SSE 2
+10   #include <pmmintrin.h>   //  SSE 3
+11
+12   #ifndef AMD
+13       #include <tmmintrin.h>   // SSSE 3
+14       #include <smmintrin.h>   //  SSE 4.1
+15       #include <nmmintrin.h>   //  SSE 4.2
+16       #include <wmmintrin.h>   //  SSE ?? (AES)
+17   #endif
+18
+19   #ifdef ICC
+20       #include <nmmintrin.h>
+21   #else
+22       #include <ammintrin.h>   // SSE4A (amd's popcount)
+23   #endif
+24
+25   using namespace  std;
+26
+27
+28   const  uint64_t  masktable64 [64] = {0x8000000000000000, 0x4000000000000000, 0x2000000000000000, 0x1000000000000000,
+29                  0x0800000000000000, 0x0400000000000000, 0x0200000000000000, 0x0100000000000000,
+30                  0x0080000000000000, 0x0040000000000000, 0x0020000000000000, 0x0010000000000000,
+31                  0x0008000000000000, 0x0004000000000000, 0x0002000000000000, 0x0001000000000000,
+32                  0x0000800000000000, 0x0000400000000000, 0x0000200000000000, 0x0000100000000000,
+33                  0x0000080000000000, 0x0000040000000000, 0x0000020000000000, 0x0000010000000000,
+34                  0x0000008000000000, 0x0000004000000000, 0x0000002000000000, 0x0000001000000000,
+35                  0x0000000800000000, 0x0000000400000000, 0x0000000200000000, 0x0000000100000000,
+36                  0x0000000080000000, 0x0000000040000000, 0x0000000020000000, 0x0000000010000000,
+37                  0x0000000008000000, 0x0000000004000000, 0x0000000002000000, 0x0000000001000000,
+38                  0x0000000000800000, 0x0000000000400000, 0x0000000000200000, 0x0000000000100000,
+39                  0x0000000000080000, 0x0000000000040000, 0x0000000000020000, 0x0000000000010000,
+40                  0x0000000000008000, 0x0000000000004000, 0x0000000000002000, 0x0000000000001000,
+41                  0x0000000000000800, 0x0000000000000400, 0x0000000000000200, 0x0000000000000100,
+42                  0x0000000000000080, 0x0000000000000040, 0x0000000000000020, 0x0000000000000010,
+43                  0x0000000000000008, 0x0000000000000004, 0x0000000000000002, 0x0000000000000001 };
+44
+45
+46   const   unsigned   short   masktable16 [16] = {0x8000, 0x4000, 0x2000, 0x1000, 0x0800, 0x0400, 0x0200, 0x0100,
+47                      0x0080, 0x0040, 0x0020, 0x0010, 0x0008, 0x0004, 0x0002, 0x0001 };
+48
+49   //---------------------------------------
+50   // Type Definitions
+51   //---------------------------------------
+52
+53   typedef   signed   char   ssp_s8 ;
+54   typedef   unsigned   char   ssp_u8 ;
+55
+56   typedef   signed   short   ssp_s16 ;
+57   typedef   unsigned   short   ssp_u16 ;
+58
+59   typedef   signed   int   ssp_s32 ;
+60   typedef   unsigned   int   ssp_u32 ;
+61
+62   typedef   float   ssp_f32 ;
+63   typedef   double   ssp_f64 ;
+64
+65   typedef   signed   long   long   ssp_s64 ;
+66   typedef   unsigned   long   long   ssp_u64 ;
+67
+68   typedef   union
+69  {
+70  __m128   f ;
+71  __m128d  d ;
+72  __m128i  i ;
+73  __m64       m64[ 2];
+74   ssp_u64  u64[ 2];
+75   ssp_s64  s64[ 2];
+76   ssp_f64  f64[ 2];
+77   ssp_u32  u32[ 4];
+78   ssp_s32  s32[ 4];
+79   ssp_f32  f32[ 4];
+80   ssp_u16  u16[ 8];
+81   ssp_s16  s16[ 8];
+82   ssp_u8   u8 [16];
+83   ssp_s8   s8 [16];
+84  }  ssp_m128 ;
+85
+86
+92   inline  __m128d  ssp_blendv_pd_SSE2 ( __m128d a, __m128d b, __m128d mask )
+93  {
+94       ssp_m128  A, B, Mask;
+95      A. d  = a;
+96      B. d  = b;
+97      Mask. d  = mask;
+98
+99   // _MM_SHUFFLE(z,y,x,w) does not select anything, this macro just creates a mask
+100   // expands to the following value: (z<<6) | (y<<4) | (x<<2) | w
+101
+102      Mask. i  = _mm_shuffle_epi32( Mask. i , _MM_SHUFFLE(3, 3, 1, 1) );
+103      Mask. i  = _mm_srai_epi32   ( Mask. i , 31                      );
+104
+105      B. i  = _mm_and_si128( B. i , Mask. i  );
+106      A. i  = _mm_andnot_si128( Mask. i , A. i  );
+107      A. i  = _mm_or_si128( A. i , B. i  );
+108       return  A. d ;
+109  }
+110
+111
+112   #ifdef AMD
+113       #define _mm_blendv_pd ssp_blendv_pd_SSE2
+114   #endif
+115
+116   #ifdef ICC
+117       #define __builtin_popcountll _mm_popcnt_u64
+118       #define __builtin_popcount _mm_popcnt_u32
+119   #endif
+120
+121   // 16-bit reversal table
+122   const   unsigned   char   BitReverseTable64 [] =
+123  {
+124   0x0, 0x20, 0x10, 0x30, 0x8, 0x28, 0x18, 0x38,
+125   0x4, 0x24, 0x14, 0x34, 0xc, 0x2c, 0x1c, 0x3c,
+126   0x2, 0x22, 0x12, 0x32, 0xa, 0x2a, 0x1a, 0x3a,
+127   0x6, 0x26, 0x16, 0x36, 0xe, 0x2e, 0x1e, 0x3e,
+128   0x1, 0x21, 0x11, 0x31, 0x9, 0x29, 0x19, 0x39,
+129   0x5, 0x25, 0x15, 0x35, 0xd, 0x2d, 0x1d, 0x3d,
+130   0x3, 0x23, 0x13, 0x33, 0xb, 0x2b, 0x1b, 0x3b,
+131   0x7, 0x27, 0x17, 0x37, 0xf, 0x2f, 0x1f, 0x3f
+132  };
+133
+134
+135   // reverse 16-bit value, 6 bits at time
+136   unsigned   short   BitReverse ( unsigned   short  v)
+137  {
+138       unsigned   short  c = ( BitReverseTable64 [v & 0x3f] << 10) |
+139          ( BitReverseTable64 [(v >> 6) & 0x3f] << 4) |
+140          ( BitReverseTable64 [(v >> 12) & 0x0f] >> 2);
+141
+142           return  c;
+143  }
+144
+145
+146   inline   void   atomicallyIncrementDouble ( volatile   double  *target,  const   double  by){
+147     asm   volatile (
+148       "movq  %0, %%rax \n\t"   // rax = *(%0)
+149       "xorpd %%xmm0, %%xmm0 \n\t"   // xmm0 = [0.0,0.0]
+150       "movsd %1, %%xmm0\n\t"   // xmm0[lo] = *(%1)
+151       "1:\n\t"
+152       // rax (containing *target) was last set at startup or by a failed cmpxchg
+153       "movq  %%rax,  %%xmm1\n\t"   // xmm1[lo] = rax
+154       "addsd %%xmm0, %%xmm1\n\t"   // xmm1 = xmm0 + xmm1 = by + xmm1
+155       "movq  %%xmm1, %%r8  \n\t"   // r8 = xmm1[lo]
+156       "lock cmpxchgq %%r8, %0\n\t"   // if(*(%0)==rax){ZF=1;*(%0)=r8}else{ZF=0;rax=*(%0);}
+157       "jnz 1b\n\t"   // jump back if failed (ZF=0)
+158      :  "=m" (*target)                              // outputs
+159      :  "m" (by)                            // inputs
+160      :  "cc" ,  "memory" ,  "%rax" ,  "%r8" ,  "%xmm0" ,  "%xmm1"   // clobbered
+161    );
+162     return ;
+163  }
+164
+165   void   symcsr ( const   double  * __restrict V,  const  uint64_t * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+166       const   double  * __restrict X,  const   double  * __restrict XT,  double  * Y,  double  * YT,  unsigned  lowmask,  unsigned  nlowbits)
+167  {
+168       static   const   size_t  NMortonRows64[] =
+169      {
+170          0, 1, 0, 1, 2, 3, 2, 3, 0, 1, 0, 1, 2, 3, 2, 3,
+171          4, 5, 4, 5, 6, 7, 6, 7, 4, 5, 4, 5, 6, 7, 6, 7,
+172          0, 1, 0, 1, 2, 3, 2, 3, 0, 1, 0, 1, 2, 3, 2, 3,
+173          4, 5, 4, 5, 6, 7, 6, 7, 4, 5, 4, 5, 6, 7, 6, 7
+174      };
+175       static   const   size_t  NMortonCols64[] =
+176      {
+177          0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 3, 3, 2, 2, 3, 3,
+178          0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 3, 3, 2, 2, 3, 3,
+179          4, 4, 5, 5, 4, 4, 5, 5, 6, 6, 7, 7, 6, 6, 7, 7,
+180          4, 4, 5, 5, 4, 4, 5, 5, 6, 6, 7, 7, 6, 6, 7, 7
+181      };
+182
+183       for ( unsigned  i=0; i<nrb;++i)
+184      {
+185               const   unsigned  Ci = bot[i] & lowmask;
+186               const   unsigned  Ri = (bot[i] >> nlowbits) & lowmask;
+187          uint64_t mask = M[i];
+188           for ( size_t  j=0; j<64; ++j)
+189          {
+190               if (mask &  masktable64 [j])
+191              {    atomicallyIncrementDouble (&Y[Ri+NMortonRows64[j]], (*V) * X[Ci+NMortonCols64[j]]);
+192                   atomicallyIncrementDouble (&YT[Ci+NMortonCols64[j]], (*V) * XT[Ri+NMortonRows64[j]]);
+193                  ++V;
+194              }
+195          }
+196      }
+197  }
+198
+199
+200   void   symcsr ( const   double  * __restrict V,  const   unsigned   short  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+201       const   double  * __restrict X,  const   double  * __restrict XT,  double  * Y,  double  * YT,  unsigned  lowmask,  unsigned  nlowbits)
+202  {
+203       static   const   size_t  NMortonRows16[] = { 0, 1, 0, 1, 2, 3, 2, 3, 0, 1, 0, 1, 2, 3, 2, 3 };
+204       static   const   size_t  NMortonCols16[] = { 0, 0, 1, 1, 0, 0, 1, 1, 2, 2, 3, 3, 2, 2, 3, 3 };
+205
+206       for ( unsigned  i=0; i<nrb;++i)
+207      {
+208               const   unsigned  Ci = bot[i] & lowmask;
+209               const   unsigned  Ri = (bot[i] >> nlowbits) & lowmask;
+210           unsigned   short  mask = M[i];
+211           for ( size_t  j=0; j<16; ++j)
+212          {
+213               if (mask &  masktable16 [j])
+214              {    atomicallyIncrementDouble (&Y[Ri+NMortonRows16[j]], (*V) * X[Ci+NMortonCols16[j]]);
+215                   atomicallyIncrementDouble (&YT[Ci+NMortonCols16[j]], (*V) * XT[Ri+NMortonRows16[j]]);
+216                  ++V;
+217              }
+218          }
+219      }
+220  }
+221
+222   void   symcsr ( const   double  * __restrict V,  const   unsigned   char  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+223       const   double  * __restrict X,  const   double  * __restrict XT,  double  * Y,  double  * YT,  unsigned  lowmask,  unsigned  nlowbits)
+224  {
+225       for ( unsigned  i=0; i<nrb;++i)
+226      {
+227               const   unsigned  Ci = bot[i] & lowmask;
+228               const   unsigned  Ri = (bot[i] >> nlowbits) & lowmask;
+229           unsigned   char  mask = M[i];
+230           if (mask & 0x8)
+231          {
+232               atomicallyIncrementDouble (&Y[Ri+0], (*V) * X[Ci+0]);
+233               atomicallyIncrementDouble (&YT[Ci+0], (*V) * XT[Ri+0]);
+234              V++;
+235          }
+236
+237           if (mask & 0x4)
+238          {
+239               atomicallyIncrementDouble (&Y[Ri+1], (*V) * X[Ci+0]);
+240               atomicallyIncrementDouble (&YT[Ci+0], (*V) * XT[Ri+1]);
+241              V++;
+242          }
+243
+244           if (mask & 0x2)
+245          {
+246               atomicallyIncrementDouble (&Y[Ri+0], (*V) * X[Ci+1]);
+247               atomicallyIncrementDouble (&YT[Ci+1], (*V) * XT[Ri+0]);
+248              V++;
+249          }
+250
+251           if (mask & 0x1)
+252          {
+253               atomicallyIncrementDouble (&Y[Ri+1], (*V) * X[Ci+1]);
+254               atomicallyIncrementDouble (&YT[Ci+1], (*V) * XT[Ri+1]);
+255              V++;
+256          }
+257      }
+258  }
+259
+260
+266   void   SSEsym ( const   double  * __restrict V,  const   unsigned   char  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+267       const   double  * __restrict X,  double  * __restrict Y,  unsigned  lowmask,  unsigned  nlbits)
+268  {
+269     const   double  * __restrict _V = V-1;
+270
+271     // use popcnt to index into nonzero stream
+272     // use blendv where 1 = zero
+273     for ( unsigned  ind=0;ind<nrb;++ind)
+274    {
+275       const   unsigned  Ci = bot[ind] & lowmask;
+276       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+277
+278       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+279       const  uint64_t Zi = ((~m64) << 60);  // a 1 denotes a zero
+280       const  uint64_t Zil = Zi << 1;
+281
+282   #ifdef AMD
+283       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+284   #else
+285       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+286   #endif
+287       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+288
+289      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+290
+291       //--------------------------------------------------------------------------
+292      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+293      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+294      __m128d X01QW = _mm_loadu_pd(&X[Ri]);    // the transpose of X aliases X itself
+295
+296       //  {0,2}      02  {0,1}
+297       //  {1,3}  <-  13  {2,3}
+298
+299      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8)])), _mm_setzero_pd(),(__m128d)Z01QW);  // ERROR here ! [invalid read of _V, debug with sym matrix]
+300      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE)])), _mm_setzero_pd(),(__m128d)Z23QW);
+301
+302      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,A01QW),Y01QW);
+303      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,A23QW),Y01QW);
+304      __m128d Y00QW = _mm_mul_pd(X01QW, A01QW);
+305      __m128d Y11QW = _mm_mul_pd(X01QW, A23QW);
+306
+307       //--------------------------------------------------------------------------
+308      _V += __builtin_popcount(M[ind] & 0x0F);
+309       //--------------------------------------------------------------------------
+310
+311       ssp_m128  yt0, yt1;
+312      yt0. d  = Y00QW;
+313      yt1. d  = Y11QW;
+314
+315      _mm_store_pd(&Y[Ri],Y01QW);
+316
+317       // The additional Y_T updates should come after we stored Y[Ri] back, otherwise they will be lost
+318      Y[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+319      Y[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+320    }
+321  }
+322
+323
+329   void   SSEsym ( const   double  * __restrict V,  const   unsigned   char  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+330       const   double  * __restrict X,  const   double  * __restrict XT,  double  * Y,  double  * YT,  unsigned  lowmask,  unsigned  nlbits)
+331  {
+332     const   double  * __restrict _V = V-1;
+333
+334     // use popcnt to index into nonzero stream
+335     // use blendv where 1 = zero
+336     for ( unsigned  ind=0;ind<nrb;++ind)
+337    {
+338       const   unsigned  Ci = bot[ind] & lowmask;
+339       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+340
+341       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+342       const  uint64_t Zi = ((~m64) << 60);  // a 1 denotes a zero
+343       const  uint64_t Zil = Zi << 1;
+344
+345   #ifdef AMD
+346       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+347   #else
+348       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+349   #endif
+350       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+351
+352      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+353
+354       //--------------------------------------------------------------------------
+355      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+356      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+357      __m128d X01QW = _mm_loadu_pd(&XT[Ri]);   // use the transpose of X
+358
+359       //  {0,2}      02  {0,1}
+360       //  {1,3}  <-  13  {2,3}
+361
+362      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8)])), _mm_setzero_pd(),(__m128d)Z01QW);
+363      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE)])), _mm_setzero_pd(),(__m128d)Z23QW);
+364
+365      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,A01QW),Y01QW);
+366      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,A23QW),Y01QW);
+367      __m128d YT0QW = _mm_mul_pd(X01QW, A01QW);
+368      __m128d YT1QW = _mm_mul_pd(X01QW, A23QW);
+369
+370       //--------------------------------------------------------------------------
+371      _V += __builtin_popcount(M[ind] & 0x0F);
+372       //--------------------------------------------------------------------------
+373
+374       ssp_m128  yt0, yt1;
+375      yt0. d  = YT0QW;
+376      yt1. d  = YT1QW;
+377
+378      YT[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+379      YT[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+380      _mm_store_pd(&Y[Ri],Y01QW);
+381    }
+382  }
+383
+384
+395   void   SSEspmv ( const   double  * __restrict V,  const   unsigned   char  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits)
+396  {
+397     const   double  * __restrict _V = V-1;
+398
+399     // use popcnt to index into nonzero stream
+400     // use blendv where 1 = zero
+401     for ( unsigned  ind=0;ind<nrb;++ind)
+402    {
+403       const   unsigned  Ci = bot[ind] & lcmask;
+404       const   unsigned  Ri = (bot[ind] >> clbits) & lrmask;
+405
+406       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+407       const  uint64_t Zi = ((~m64) << 60);  // a 1 denotes a zero
+408       const  uint64_t Zil = Zi << 1;
+409
+410   #ifdef AMD
+411       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+412   #else
+413       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+414   #endif
+415       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+416
+417      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+418
+419       //--------------------------------------------------------------------------
+420      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+421      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+422
+423       //  {0,2}      02  {0,1}
+424       //  {1,3}  <-  13  {2,3}
+425
+426      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);
+427      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);
+428
+429       //--------------------------------------------------------------------------
+430      _V += __builtin_popcount(M[ind] & 0x0F);
+431       //--------------------------------------------------------------------------
+432
+433      _mm_store_pd(&Y[Ri],Y01QW);
+434    }
+435  }
+436
+437   // 8x8 version, using uint64_t for M
+438   // Possibly aliasing (Y=YT or X=XT) version for the blocks right on the diagonal
+439   void   SSEsym ( const   double  * __restrict V,  const  uint64_t * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+440           const   double  * __restrict X,  double  * Y,  unsigned  lowmask,  unsigned  nlbits)
+441  {
+442     const   double  * __restrict _V = V-1;
+443
+444     for ( unsigned  ind=0;ind<nrb;++ind)
+445    {
+446       const   unsigned  Ci = bot[ind] & lowmask;
+447       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+448       const  uint64_t Zi = ~M[ind];  // a 1 denotes a zero
+449       const  uint64_t Zil = Zi << 1;
+450
+451   #ifdef AMD
+452       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+453   #else
+454       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+455   #endif
+456       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+457      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+458      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+459
+460      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+461      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+462      __m128d Y45QW = _mm_loadu_pd(&Y[Ri+4]);
+463      __m128d Y67QW = _mm_loadu_pd(&Y[Ri+6]);
+464
+465       //--------------------------------------------------------------------------
+466      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+467      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+468      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+469      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+470
+471      __m128d X01QW = _mm_loadu_pd(&X[Ri]);  // the transpose of X aliases X itself
+472      __m128d X23QW = _mm_loadu_pd(&X[Ri+2]);
+473      __m128d X45QW = _mm_loadu_pd(&X[Ri+4]);
+474      __m128d X67QW = _mm_loadu_pd(&X[Ri+6]);
+475
+476      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0x8000000000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+477      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xE000000000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+478      __m128d A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xF800000000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+479      __m128d A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFE00000000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+480
+481      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+482      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+483      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+484      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+485
+486      __m128d Y00QW = _mm_mul_pd(X01QW, A01QW);
+487      __m128d Y11QW = _mm_mul_pd(X01QW, A23QW);
+488      Y00QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y00QW);
+489      Y11QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y11QW);
+490
+491       // reuse variables for the second half of the first quadrand
+492      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFF80000000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+493      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFE0000000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+494      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFF8000000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+495      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFE000000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+496
+497      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+498      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+499      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+500      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+501
+502      __m128d Y22QW = _mm_mul_pd(X01QW, A01QW);    // the transpose (lower-triangular) updates
+503      __m128d Y33QW = _mm_mul_pd(X01QW, A23QW);
+504      Y22QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y22QW);
+505      Y33QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y33QW);
+506
+507       // Second quadrand
+508      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFF800000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+509      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFE00000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+510      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFF80000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+511      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFE0000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+512
+513      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+514      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+515      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+516      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+517
+518      Y00QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), Y00QW);     // the transpose updates
+519      Y11QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), Y11QW);
+520      Y00QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), Y00QW);
+521      Y11QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), Y11QW);
+522
+523      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFF8000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+524      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFE000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+525      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFF800000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+526      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFE00000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+527
+528      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+529      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+530      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+531      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+532
+533      Y22QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), Y22QW);     // the transpose updates
+534      Y33QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), Y33QW);
+535      Y22QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), Y22QW);
+536      Y33QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), Y33QW);
+537
+538
+539       // Reuse registers (e.g., X00QW <- X44QW)
+540      X00QW = _mm_loaddup_pd(&X[4+Ci]);
+541      X11QW = _mm_loaddup_pd(&X[5+Ci]);
+542      X22QW = _mm_loaddup_pd(&X[6+Ci]);
+543      X33QW = _mm_loaddup_pd(&X[7+Ci]);
+544
+545       // Third quadrand
+546      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFF80000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+547      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFE0000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+548      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFF8000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+549      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFE000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+550
+551      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+552      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+553      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+554      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+555
+556      __m128d Y44QW = _mm_mul_pd(X01QW, A01QW);
+557      __m128d Y55QW = _mm_mul_pd(X01QW, A23QW);
+558      Y44QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y44QW);
+559      Y55QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y55QW);
+560
+561      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFF800000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+562      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFE00000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+563      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFF80000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+564      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFE0000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+565
+566      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+567      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+568      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+569      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+570
+571      __m128d Y66QW = _mm_mul_pd(X01QW, A01QW);
+572      __m128d Y77QW = _mm_mul_pd(X01QW, A23QW);
+573      Y66QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y66QW);
+574      Y77QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y77QW);
+575
+576       // Fourth quadrand
+577      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFF8000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+578      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFE000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+579      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFF800)])), _mm_setzero_pd(),(__m128d)Z45QW);
+580      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFE00)])), _mm_setzero_pd(),(__m128d)Z67QW);
+581
+582      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+583      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+584      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+585      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+586
+587      Y44QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), Y44QW);     // the transpose updates
+588      Y55QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), Y55QW);
+589      Y44QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), Y44QW);
+590      Y55QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), Y55QW);
+591
+592      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFF80)])), _mm_setzero_pd(),(__m128d)Z01QW);
+593      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFE0)])), _mm_setzero_pd(),(__m128d)Z23QW);
+594      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFF8)])), _mm_setzero_pd(),(__m128d)Z45QW);
+595      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFFE)])), _mm_setzero_pd(),(__m128d)Z67QW);
+596
+597      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y45QW);     // no need to shift ZxxQW
+598      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y67QW);
+599      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y45QW);
+600      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y67QW);
+601
+602      Y66QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), Y66QW);     // the transpose updates
+603      Y77QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), Y77QW);
+604      Y66QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), Y66QW);
+605      Y77QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), Y77QW);
+606
+607       //--------------------------------------------------------------------------
+608      _V += __builtin_popcountll(M[ind]);
+609       //--------------------------------------------------------------------------
+610
+611      _mm_store_pd(&Y[Ri],Y01QW);
+612      _mm_store_pd(&Y[Ri+2],Y23QW);
+613      _mm_store_pd(&Y[Ri+4],Y45QW);
+614      _mm_store_pd(&Y[Ri+6],Y67QW);
+615
+616       // These mirror updates come after the stores, otherwise we lose the updates
+617
+618       ssp_m128  yt0, yt1, yt2, yt3,yt4,yt5,yt6,yt7;
+619      yt0. d  = Y00QW;
+620      yt1. d  = Y11QW;
+621      yt2. d  = Y22QW;
+622      yt3. d  = Y33QW;
+623      yt4. d  = Y44QW;
+624      yt5. d  = Y55QW;
+625      yt6. d  = Y66QW;
+626      yt7. d  = Y77QW;
+627
+628      Y[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+629      Y[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+630      Y[Ci+2] += yt2. f64 [0] + yt2. f64 [1];
+631      Y[Ci+3] += yt3. f64 [0] + yt3. f64 [1];
+632      Y[Ci+4] += yt4. f64 [0] + yt4. f64 [1];
+633      Y[Ci+5] += yt5. f64 [0] + yt5. f64 [1];
+634      Y[Ci+6] += yt6. f64 [0] + yt6. f64 [1];
+635      Y[Ci+7] += yt7. f64 [0] + yt7. f64 [1];
+636    }
+637  }
+638
+639
+640   // 8x8 version, using uint64_t for M
+641   // No aliasing between Y and YT
+642   void   SSEsym ( const   double  * __restrict V,  const  uint64_t * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+643           const   double  * __restrict X,  const   double  * __restrict XT,  double  * __restrict Y,  double  * __restrict YT,  unsigned  lowmask,  unsigned  nlbits)
+644  {
+645     const   double  * __restrict _V = V-1;
+646
+647     for ( unsigned  ind=0;ind<nrb;++ind)
+648    {
+649       const   unsigned  Ci = bot[ind] & lowmask;
+650       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+651       const  uint64_t Zi = ~M[ind];  // a 1 denotes a zero
+652       const  uint64_t Zil = Zi << 1;
+653
+654   #ifdef AMD
+655       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+656   #else
+657       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+658   #endif
+659       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+660      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+661      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+662
+663      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+664      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+665      __m128d Y45QW = _mm_loadu_pd(&Y[Ri+4]);
+666      __m128d Y67QW = _mm_loadu_pd(&Y[Ri+6]);
+667
+668       //--------------------------------------------------------------------------
+669      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+670      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+671      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+672      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+673
+674      __m128d X01QW = _mm_loadu_pd(&XT[Ri]);
+675      __m128d X23QW = _mm_loadu_pd(&XT[Ri+2]);
+676      __m128d X45QW = _mm_loadu_pd(&XT[Ri+4]);
+677      __m128d X67QW = _mm_loadu_pd(&XT[Ri+6]);
+678
+679      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0x8000000000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+680      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xE000000000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+681      __m128d A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xF800000000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+682      __m128d A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFE00000000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+683
+684      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+685      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+686      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+687      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+688
+689      __m128d YT0QW = _mm_mul_pd(X01QW, A01QW);
+690      __m128d YT1QW = _mm_mul_pd(X01QW, A23QW);
+691      YT0QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT0QW);
+692      YT1QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT1QW);
+693
+694       // reuse variables for the second half of the first quadrand
+695      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFF80000000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+696      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFE0000000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+697      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFF8000000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+698      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFE000000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+699
+700      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+701      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+702      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+703      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+704
+705      __m128d YT2QW = _mm_mul_pd(X01QW, A01QW);    // the transpose (lower-triangular) updates
+706      __m128d YT3QW = _mm_mul_pd(X01QW, A23QW);
+707      YT2QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT2QW);
+708      YT3QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT3QW);
+709
+710       // Second quadrand
+711      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFF800000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+712      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFE00000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+713      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFF80000000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+714      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFE0000000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+715
+716      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+717      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+718      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+719      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+720
+721      YT0QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), YT0QW);     // the transpose updates
+722      YT1QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), YT1QW);
+723      YT0QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), YT0QW);
+724      YT1QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), YT1QW);
+725
+726      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFF8000000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+727      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFE000000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+728      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFF800000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+729      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFE00000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+730
+731      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+732      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+733      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+734      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+735
+736      YT2QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), YT2QW);     // the transpose updates
+737      YT3QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), YT3QW);
+738      YT2QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), YT2QW);
+739      YT3QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), YT3QW);
+740
+741       ssp_m128  yt0, yt1, yt2, yt3;
+742      yt0. d  = YT0QW;
+743      yt1. d  = YT1QW;
+744      yt2. d  = YT2QW;
+745      yt3. d  = YT3QW;
+746
+747      YT[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+748      YT[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+749      YT[Ci+2] += yt2. f64 [0] + yt2. f64 [1];
+750      YT[Ci+3] += yt3. f64 [0] + yt3. f64 [1];
+751
+752       // Reuse registers (e.g., X00QW <- X44QW)
+753      X00QW = _mm_loaddup_pd(&X[4+Ci]);
+754      X11QW = _mm_loaddup_pd(&X[5+Ci]);
+755      X22QW = _mm_loaddup_pd(&X[6+Ci]);
+756      X33QW = _mm_loaddup_pd(&X[7+Ci]);
+757
+758       // Third quadrand
+759      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFF80000000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+760      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFE0000000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+761      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFF8000000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+762      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFE000000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+763
+764      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+765      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+766      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+767      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+768
+769      YT0QW = _mm_mul_pd(X01QW, A01QW);    // reuse Y(1:4) registers for Y(5:8)
+770      YT1QW = _mm_mul_pd(X01QW, A23QW);
+771      YT0QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT0QW);
+772      YT1QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT1QW);
+773
+774      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFF800000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+775      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFE00000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+776      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFF80000)])), _mm_setzero_pd(),(__m128d)Z45QW);
+777      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFE0000)])), _mm_setzero_pd(),(__m128d)Z67QW);
+778
+779      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+780      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+781      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+782      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+783
+784      YT2QW = _mm_mul_pd(X01QW, A01QW);
+785      YT3QW = _mm_mul_pd(X01QW, A23QW);
+786      YT2QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT2QW);
+787      YT3QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT3QW);
+788
+789       // Fourth quadrand
+790      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFF8000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+791      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFE000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+792      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFF800)])), _mm_setzero_pd(),(__m128d)Z45QW);
+793      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFE00)])), _mm_setzero_pd(),(__m128d)Z67QW);
+794
+795      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y45QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+796      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y67QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+797      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y45QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+798      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y67QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+799
+800      YT0QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), YT0QW);     // the transpose updates
+801      YT1QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), YT1QW);
+802      YT0QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), YT0QW);
+803      YT1QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), YT1QW);
+804
+805      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFF80)])), _mm_setzero_pd(),(__m128d)Z01QW);
+806      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFE0)])), _mm_setzero_pd(),(__m128d)Z23QW);
+807      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFF8)])), _mm_setzero_pd(),(__m128d)Z45QW);
+808      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFFE)])), _mm_setzero_pd(),(__m128d)Z67QW);
+809
+810      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y45QW);     // no need to shift ZxxQW
+811      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y67QW);
+812      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y45QW);
+813      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y67QW);
+814
+815      YT2QW = _mm_add_pd(_mm_mul_pd(X45QW, A01QW), YT2QW);     // the transpose updates
+816      YT3QW = _mm_add_pd(_mm_mul_pd(X45QW, A23QW), YT3QW);
+817      YT2QW = _mm_add_pd(_mm_mul_pd(X67QW, A45QW), YT2QW);
+818      YT3QW = _mm_add_pd(_mm_mul_pd(X67QW, A67QW), YT3QW);
+819
+820       //--------------------------------------------------------------------------
+821      _V += __builtin_popcountll(M[ind]);
+822       //--------------------------------------------------------------------------
+823
+824      _mm_store_pd(&Y[Ri],Y01QW);
+825      _mm_store_pd(&Y[Ri+2],Y23QW);
+826      _mm_store_pd(&Y[Ri+4],Y45QW);
+827      _mm_store_pd(&Y[Ri+6],Y67QW);
+828
+829      yt0. d  = YT0QW;
+830      yt1. d  = YT1QW;
+831      yt2. d  = YT2QW;
+832      yt3. d  = YT3QW;
+833
+834      YT[Ci+4] += yt0. f64 [0] + yt0. f64 [1];
+835      YT[Ci+5] += yt1. f64 [0] + yt1. f64 [1];
+836      YT[Ci+6] += yt2. f64 [0] + yt2. f64 [1];
+837      YT[Ci+7] += yt3. f64 [0] + yt3. f64 [1];
+838    }
+839  }
+840
+841
+842
+843   // Possibly aliasing (Y=YT or X=XT) version for the blocks right on the diagonal
+844   void   SSEsym ( const   double  * __restrict V,  const   unsigned   short  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+845           const   double  * __restrict X,  double  * Y,  unsigned  lowmask,  unsigned  nlbits)
+846  {
+847     const   double  * __restrict _V = V-1;
+848
+849     for ( unsigned  ind=0;ind<nrb;++ind)
+850    {
+851       const   unsigned  Ci = bot[ind] & lowmask;
+852       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+853
+854       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+855       const  uint64_t Zi = ((~m64) << 48);  // a 1 denotes a zero
+856       const  uint64_t Zil = Zi << 1;
+857
+858   #ifdef AMD
+859       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+860   #else
+861       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+862   #endif
+863       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+864      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+865      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+866
+867      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+868      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+869
+870       //--------------------------------------------------------------------------
+871      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+872      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+873      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+874      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+875
+876      __m128d X01QW = _mm_loadu_pd(&X[Ri]);  // the transpose of X aliases X itself
+877      __m128d X23QW = _mm_loadu_pd(&X[Ri+2]);
+878
+879      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+880      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+881      __m128d A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xF800)])), _mm_setzero_pd(),(__m128d)Z45QW);
+882      __m128d A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFE00)])), _mm_setzero_pd(),(__m128d)Z67QW);
+883
+884      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+885      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+886      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+887      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+888
+889      __m128d Y00QW = _mm_mul_pd(X01QW, A01QW);
+890      __m128d Y11QW = _mm_mul_pd(X01QW, A23QW);
+891      Y00QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y00QW);
+892      Y11QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y11QW);
+893
+894       // reuse variables for the second half of A
+895      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFF80)])), _mm_setzero_pd(),(__m128d)Z01QW);
+896      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFE0)])), _mm_setzero_pd(),(__m128d)Z23QW);
+897      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFF8)])), _mm_setzero_pd(),(__m128d)Z45QW);
+898      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFFE)])), _mm_setzero_pd(),(__m128d)Z67QW);
+899
+900      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW);  // the shifts on ZxxQW are unnecessary after this point
+901      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW);
+902      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW);
+903      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW);
+904
+905      __m128d Y22QW = _mm_mul_pd(X01QW, A01QW);
+906      __m128d Y33QW = _mm_mul_pd(X01QW, A23QW);
+907      Y22QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), Y22QW);
+908      Y33QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), Y33QW);
+909
+910       //--------------------------------------------------------------------------
+911      _V += __builtin_popcount(M[ind]);
+912       //--------------------------------------------------------------------------
+913
+914      _mm_store_pd(&Y[Ri],Y01QW);
+915      _mm_store_pd(&Y[Ri+2],Y23QW);
+916
+917       // These mirror updates come after the stores, otherwise we lose the updates
+918       ssp_m128  yt0, yt1, yt2, yt3;
+919      yt0. d  = Y00QW;
+920      yt1. d  = Y11QW;
+921      yt2. d  = Y22QW;
+922      yt3. d  = Y33QW;
+923
+924      Y[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+925      Y[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+926      Y[Ci+2] += yt2. f64 [0] + yt2. f64 [1];
+927      Y[Ci+3] += yt3. f64 [0] + yt3. f64 [1];
+928    }
+929  }
+930
+931   void   SSEsym ( const   double  * __restrict V,  const   unsigned   short  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,
+932           const   double  * __restrict X,  const   double  * __restrict XT,  double  * Y,  double  * YT,  unsigned  lowmask,  unsigned  nlbits)
+933  {
+934     const   double  * __restrict _V = V-1;
+935
+936     // use popcnt to index into nonzero stream
+937     // use blendv where 1 = zero
+938     for ( unsigned  ind=0;ind<nrb;++ind)
+939    {
+940       const   unsigned  Ci = bot[ind] & lowmask;
+941       const   unsigned  Ri = (bot[ind] >> nlbits) & lowmask;
+942
+943       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+944       const  uint64_t Zi = ((~m64) << 48);  // a 1 denotes a zero
+945       const  uint64_t Zil = Zi << 1;
+946
+947   #ifdef AMD
+948       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+949   #else
+950       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+951   #endif
+952       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+953      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+954      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+955
+956      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+957      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+958
+959       //--------------------------------------------------------------------------
+960      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+961      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+962      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+963      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+964
+965      __m128d X01QW = _mm_loadu_pd(&XT[Ri]);
+966      __m128d X23QW = _mm_loadu_pd(&XT[Ri+2]);
+967
+968      __m128d A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8000)])), _mm_setzero_pd(),(__m128d)Z01QW);
+969      __m128d A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE000)])), _mm_setzero_pd(),(__m128d)Z23QW);
+970      __m128d A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xF800)])), _mm_setzero_pd(),(__m128d)Z45QW);
+971      __m128d A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFE00)])), _mm_setzero_pd(),(__m128d)Z67QW);
+972
+973       // Operations rescheduled for maximum parallelism (they follow a 1-3-2-4 order)
+974       //  {0,2}      02**  {0,1}
+975       //  {1,3}  <-  13**  {2,3}
+976       //  *          ****  *
+977       //  *          ****  *
+978
+979       //  *          ****  {4,5}
+980       //  *      <-  ****  {6,7}
+981       //  {4,6}      46**  *
+982       //  {5,7}      57**  *
+983      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW, A01QW), Y01QW); Z01QW=_mm_slli_epi64(Z01QW,8);
+984      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW, A45QW), Y23QW); Z45QW=_mm_slli_epi64(Z45QW,8);
+985      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW, A23QW), Y01QW); Z23QW=_mm_slli_epi64(Z23QW,8);
+986      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW, A67QW), Y23QW); Z67QW=_mm_slli_epi64(Z67QW,8);
+987
+988      __m128d YT0QW = _mm_mul_pd(X01QW, A01QW);
+989      __m128d YT1QW = _mm_mul_pd(X01QW, A23QW);
+990      YT0QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT0QW);
+991      YT1QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT1QW);
+992
+993       // write YT back (Safe since we know that Y is not an alias to YT)
+994       ssp_m128  yt0, yt1;
+995      yt0. d  = YT0QW;
+996      yt1. d  = YT1QW;
+997
+998      YT[Ci+0] += yt0. f64 [0] + yt0. f64 [1];
+999      YT[Ci+1] += yt1. f64 [0] + yt1. f64 [1];
+1000
+1001
+1002       // reuse variables for the second half of A
+1003      A01QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFF80)])), _mm_setzero_pd(),(__m128d)Z01QW);
+1004      A23QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFE0)])), _mm_setzero_pd(),(__m128d)Z23QW);
+1005      A45QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFF8)])), _mm_setzero_pd(),(__m128d)Z45QW);
+1006      A67QW = _mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFFE)])), _mm_setzero_pd(),(__m128d)Z67QW);
+1007
+1008      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW, A01QW), Y01QW);  // the shifts on ZxxQW are unnecessary after this point
+1009      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW, A45QW), Y23QW);
+1010      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW, A23QW), Y01QW);
+1011      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW, A67QW), Y23QW);
+1012
+1013      __m128d YT2QW = _mm_mul_pd(X01QW, A01QW);
+1014      __m128d YT3QW = _mm_mul_pd(X01QW, A23QW);
+1015      YT2QW = _mm_add_pd(_mm_mul_pd(X23QW, A45QW), YT2QW);
+1016      YT3QW = _mm_add_pd(_mm_mul_pd(X23QW, A67QW), YT3QW);
+1017
+1018       // write YT back (Safe since we know that Y is not an alias to YT)
+1019       ssp_m128  yt2, yt3;
+1020      yt2. d  = YT2QW;
+1021      yt3. d  = YT3QW;
+1022
+1023      YT[Ci+2] += yt2. f64 [0] + yt2. f64 [1];
+1024      YT[Ci+3] += yt3. f64 [0] + yt3. f64 [1];
+1025
+1026
+1027       //--------------------------------------------------------------------------
+1028      _V += __builtin_popcount(M[ind]);
+1029       //--------------------------------------------------------------------------
+1030
+1031      _mm_store_pd(&Y[Ri],Y01QW);
+1032      _mm_store_pd(&Y[Ri+2],Y23QW);
+1033    }
+1034  }
+1035
+1036
+1047   void   SSEspmv ( const   double  * __restrict V,  const   unsigned   short  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits)
+1048  {
+1049     const   double  * __restrict _V = V-1;
+1050
+1051     // use popcnt to index into nonzero stream
+1052     // use blendv where 1 = zero
+1053     for ( unsigned  ind=0;ind<nrb;++ind)
+1054    {
+1055       const   unsigned  Ci = bot[ind] & lcmask;
+1056       const   unsigned  Ri = (bot[ind] >> clbits) & lrmask;
+1057
+1058       const  uint64_t m64 = (uint64_t) M[ind];  // upcast to 64 bit, fill-in zeros from left
+1059       const  uint64_t Zi = ((~m64) << 48);  // a 1 denotes a zero
+1060       const  uint64_t Zil = Zi << 1;
+1061
+1062   #ifdef AMD
+1063       __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+1064   #else
+1065       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zil,1);
+1066   #endif
+1067       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+1068      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+1069      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+1070
+1071      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+1072      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+1073
+1074       //--------------------------------------------------------------------------
+1075      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+1076      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+1077      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+1078      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+1079
+1080       // Operations rescheduled for maximum parallelism (they follow a 1-3-2-4 order)
+1081       //  {0,2}      02**  {0,1}
+1082       //  {1,3}  <-  13**  {2,3}
+1083       //  *          ****  *
+1084       //  *          ****  *
+1085
+1086       //  *          ****  {4,5}
+1087       //  *      <-  ****  {6,7}
+1088       //  {4,6}      46**  *
+1089       //  {5,7}      57**  *
+1090      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0x8000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1091      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xF800)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1092      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xE000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1093      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFE00)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1094
+1095       //  {8,0}      **80  *
+1096       //  {9,1}  <-  **91  *
+1097       //  *          ****  {8,9}
+1098       //  *          ****  {0,1}
+1099
+1100       //  *          ****  *
+1101       //  *      <-  ****  *
+1102       //  {2,4}      **24  {2,3}
+1103       //  {3,5}      **35  {4,5}
+1104      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFF80)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);
+1105      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFF8)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);
+1106      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFE0)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);
+1107      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcount(M[ind]&0xFFFE)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);
+1108
+1109       //--------------------------------------------------------------------------
+1110      _V += __builtin_popcount(M[ind]);
+1111       //--------------------------------------------------------------------------
+1112
+1113      _mm_store_pd(&Y[Ri],Y01QW);
+1114      _mm_store_pd(&Y[Ri+2],Y23QW);
+1115    }
+1116  }
+1117
+1118       //--------------------------------------------------------------------------
+1119   // M is of type uint64_t --> 8x8 register blocks
+1120   void   SSEspmv ( const   double  * __restrict V,  const  uint64_t * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits)
+1121  {
+1122     const   double  * __restrict _V = V-1;
+1123
+1124     // use popcnt to index into nonzero stream
+1125     // use blendv where 1 = zero
+1126     for ( unsigned  ind=0;ind<nrb;++ind)
+1127    {
+1128       const   unsigned  Ci = bot[ind] & lcmask;
+1129       const   unsigned  Ri = (bot[ind] >> clbits) & lrmask;
+1130       const  uint64_t Zi = ~M[ind];  // a 1 denotes a zero
+1131
+1132      __m128d Y01QW = _mm_loadu_pd(&Y[Ri]);
+1133      __m128d Y23QW = _mm_loadu_pd(&Y[Ri+2]);
+1134      __m128d Y45QW = _mm_loadu_pd(&Y[Ri+4]);
+1135      __m128d Y67QW = _mm_loadu_pd(&Y[Ri+6]);
+1136
+1137   #ifdef AMD
+1138     const  uint64_t Zil = Zi << 1;
+1139      __m128i Z01QW = _mm_unpacklo_epi64 (_mm_loadl_epi64((__m128i*)&Zi), _mm_loadl_epi64((__m128i*)&Zil));
+1140   #else
+1141       __m128i Z01QW = _mm_insert_epi64(_mm_loadl_epi64((__m128i*)&Zi),Zi<<1,1);  // Z01[0][63] = Z[63]
+1142   #endif
+1143       __m128i Z23QW = _mm_slli_epi64(Z01QW, 2);
+1144      __m128i Z45QW = _mm_slli_epi64(Z01QW, 4);
+1145      __m128i Z67QW = _mm_slli_epi64(Z01QW, 6);
+1146
+1147       //--------------------------------------------------------------------------
+1148      __m128d X00QW = _mm_loaddup_pd(&X[0+Ci]);    // load and duplicate a double into 128-bit registers.
+1149      __m128d X11QW = _mm_loaddup_pd(&X[1+Ci]);
+1150      __m128d X22QW = _mm_loaddup_pd(&X[2+Ci]);
+1151      __m128d X33QW = _mm_loaddup_pd(&X[3+Ci]);
+1152
+1153       // Operations rescheduled for maximum parallelism (they follow a 1-3-2-4 order)
+1154       //  {0,2}      02**  {0,1}
+1155       //  {1,3}  <-  13**  {2,3}
+1156       //  *          ****  *
+1157       //  *          ****  *
+1158
+1159       //  *          ****  {4,5}
+1160       //  *      <-  ****  {6,7}
+1161       //  {4,6}      46**  *
+1162       //  {5,7}      57**  *
+1163      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0x8000000000000000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1164      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xF800000000000000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1165      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xE000000000000000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1166      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFE00000000000000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1167
+1168       //  {8,0}      **80  *
+1169       //  {9,1}  <-  **91  *
+1170       //  *          ****  {8,9}
+1171       //  *          ****  {0,1}
+1172
+1173       //  *          ****  *
+1174       //  *      <-  ****  *
+1175       //  {2,4}      **24  {2,3}
+1176       //  {3,5}      **35  {4,5}
+1177      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFF80000000000000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1178      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFF8000000000000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1179      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFE0000000000000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1180      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFE000000000000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1181
+1182       //--------------------------------------------------------------------------
+1183      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFF800000000000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y45QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1184      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFF80000000000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y67QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1185      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFE00000000000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y45QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1186      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFE0000000000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y67QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1187
+1188      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFF8000000000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y45QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1189      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFE000000000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y45QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1190      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFF800000000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y67QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1191      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFE00000000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y67QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1192
+1193       //--------------------------------------------------------------------------
+1194       //--------------------------------------------------------------------------
+1195       // Reuse registers (e.g., X00QW <- X44QW)
+1196      X00QW = _mm_loaddup_pd(&X[4+Ci]);
+1197      X11QW = _mm_loaddup_pd(&X[5+Ci]);
+1198      X22QW = _mm_loaddup_pd(&X[6+Ci]);
+1199      X33QW = _mm_loaddup_pd(&X[7+Ci]);
+1200
+1201      Y01QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFF80000000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1202      Y23QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFF8000000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1203      Y01QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFE0000000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1204      Y23QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFE000000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1205
+1206      Y01QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFF800000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y01QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1207      Y23QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFF80000)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y23QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1208      Y01QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFE00000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y01QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1209      Y23QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFE0000)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y23QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1210
+1211      Y45QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFF8000)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y45QW);Z01QW=_mm_slli_epi64(Z01QW,8);
+1212      Y67QW = _mm_add_pd(_mm_mul_pd(X00QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFF800)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y67QW);Z45QW=_mm_slli_epi64(Z45QW,8);
+1213      Y45QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFE000)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y45QW);Z23QW=_mm_slli_epi64(Z23QW,8);
+1214      Y67QW = _mm_add_pd(_mm_mul_pd(X11QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFE00)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y67QW);Z67QW=_mm_slli_epi64(Z67QW,8);
+1215
+1216      Y45QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFF80)])),_mm_setzero_pd(),(__m128d)Z01QW)),Y45QW);
+1217      Y67QW = _mm_add_pd(_mm_mul_pd(X22QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFF8)])),_mm_setzero_pd(),(__m128d)Z45QW)),Y67QW);
+1218      Y45QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFE0)])),_mm_setzero_pd(),(__m128d)Z23QW)),Y45QW);
+1219      Y67QW = _mm_add_pd(_mm_mul_pd(X33QW,_mm_blendv_pd((__m128d)_mm_loadu_ps(( float *)&(_V[__builtin_popcountll(M[ind]&0xFFFFFFFFFFFFFFFE)])),_mm_setzero_pd(),(__m128d)Z67QW)),Y67QW);
+1220
+1221       //--------------------------------------------------------------------------
+1222      _V += __builtin_popcountll(M[ind]);
+1223       //--------------------------------------------------------------------------
+1224
+1225      _mm_store_pd(&Y[Ri],Y01QW);
+1226      _mm_store_pd(&Y[Ri+2],Y23QW);
+1227      _mm_store_pd(&Y[Ri+4],Y45QW);
+1228      _mm_store_pd(&Y[Ri+6],Y67QW);
+1229    }
+1230  }
+1231
+1232   void   popcountall ( const   unsigned   char  * __restrict M,  unsigned  * __restrict counts,  size_t  n)
+1233  {
+1234       // only the last for bits counts in every location M[i]
+1235       size_t  nn = n/8;
+1236       for ( size_t  i=0; i<nn; ++i)
+1237      {
+1238          counts[i*8] = __builtin_popcount(M[i*8] & 0x0F);
+1239          counts[1+i*8] = __builtin_popcount(M[1+i*8] & 0x0F);
+1240          counts[2+i*8] = __builtin_popcount(M[2+i*8] & 0x0F);
+1241          counts[3+i*8] = __builtin_popcount(M[3+i*8] & 0x0F);
+1242          counts[4+i*8] = __builtin_popcount(M[4+i*8] & 0x0F);
+1243          counts[5+i*8] = __builtin_popcount(M[5+i*8] & 0x0F);
+1244          counts[6+i*8] = __builtin_popcount(M[6+i*8] & 0x0F);
+1245          counts[7+i*8] = __builtin_popcount(M[7+i*8] & 0x0F);
+1246      }
+1247       for ( size_t  i=nn*8; i<n; ++i)
+1248      {
+1249          counts[i] = __builtin_popcount(M[i] & 0x0F);
+1250      }
+1251  }
+1252
+1253   void   popcountall ( const   unsigned   short  * __restrict M,  unsigned  * __restrict counts,  size_t  n)
+1254  {
+1255       size_t  nn = n/8;
+1256       for ( size_t  i=0; i<nn; ++i)
+1257      {
+1258          counts[i*8] = __builtin_popcount(M[i*8]);
+1259          counts[1+i*8] = __builtin_popcount(M[1+i*8]);
+1260          counts[2+i*8] = __builtin_popcount(M[2+i*8]);
+1261          counts[3+i*8] = __builtin_popcount(M[3+i*8]);
+1262          counts[4+i*8] = __builtin_popcount(M[4+i*8]);
+1263          counts[5+i*8] = __builtin_popcount(M[5+i*8]);
+1264          counts[6+i*8] = __builtin_popcount(M[6+i*8]);
+1265          counts[7+i*8] = __builtin_popcount(M[7+i*8]);
+1266      }
+1267       for ( size_t  i=nn*8; i<n; ++i)
+1268      {
+1269          counts[i] = __builtin_popcount(M[i]);
+1270      }
+1271  }
+1272
+1273   void   popcountall ( const  uint64_t * __restrict M,  unsigned  * __restrict counts,  size_t  n)
+1274  {
+1275       size_t  nn = n/8;
+1276       for ( size_t  i=0; i<nn; ++i)
+1277      {
+1278          counts[i*8] = __builtin_popcountl(M[i*8]);
+1279          counts[1+i*8] = __builtin_popcountl(M[1+i*8]);
+1280          counts[2+i*8] = __builtin_popcountl(M[2+i*8]);
+1281          counts[3+i*8] = __builtin_popcountl(M[3+i*8]);
+1282          counts[4+i*8] = __builtin_popcountl(M[4+i*8]);
+1283          counts[5+i*8] = __builtin_popcountl(M[5+i*8]);
+1284          counts[6+i*8] = __builtin_popcountl(M[6+i*8]);
+1285          counts[7+i*8] = __builtin_popcountl(M[7+i*8]);
+1286      }
+1287       for ( size_t  i=nn*8; i<n; ++i)
+1288      {
+1289          counts[i] = __builtin_popcountl(M[i]);
+1290      }
+1291  }
+1292
+1293
+1294
+ssp_u32 unsigned int ssp_u32 Definition:   SSEspmv.cpp:60
+SSEspmv void SSEspmv(const double *__restrict V, const unsigned char *__restrict M, const unsigned *__restrict bot, const unsigned nrb, const double *__restrict X, double *Y, unsigned lcmask, unsigned lrmask, unsigned clbits) Definition:   SSEspmv.cpp:395
+ssp_s64 signed long long ssp_s64 Definition:   SSEspmv.cpp:65
+ssp_u16 unsigned short ssp_u16 Definition:   SSEspmv.cpp:57
+ssp_m128::f64 ssp_f64 f64[2] Definition:   SSEspmv.cpp:76
+masktable16 const unsigned short masktable16[16] Definition:   SSEspmv.cpp:46
+ssp_u8 unsigned char ssp_u8 Definition:   SSEspmv.cpp:54
+ssp_m128::i __m128i i Definition:   SSEspmv.cpp:72
+masktable64 const uint64_t masktable64[64] Definition:   SSEspmv.cpp:28
+ssp_f32 float ssp_f32 Definition:   SSEspmv.cpp:62
+ssp_s8 signed char ssp_s8 Definition:   SSEspmv.cpp:53
+ssp_f64 double ssp_f64 Definition:   SSEspmv.cpp:63
+ssp_m128::f __m128 f Definition:   SSEspmv.cpp:70
+symcsr void symcsr(const double *__restrict V, const uint64_t *__restrict M, const unsigned *__restrict bot, const unsigned nrb, const double *__restrict X, const double *__restrict XT, double *Y, double *YT, unsigned lowmask, unsigned nlowbits) Definition:   SSEspmv.cpp:165
+ssp_blendv_pd_SSE2 __m128d ssp_blendv_pd_SSE2(__m128d a, __m128d b, __m128d mask) Definition:   SSEspmv.cpp:92
+SSEsym void SSEsym(const double *__restrict V, const unsigned char *__restrict M, const unsigned *__restrict bot, const unsigned nrb, const double *__restrict X, double *__restrict Y, unsigned lowmask, unsigned nlbits) Definition:   SSEspmv.cpp:266
+BitReverse unsigned short BitReverse(unsigned short v) Definition:   SSEspmv.cpp:136
+ssp_s32 signed int ssp_s32 Definition:   SSEspmv.cpp:59
+ssp_u64 unsigned long long ssp_u64 Definition:   SSEspmv.cpp:66
+BitReverseTable64 const unsigned char BitReverseTable64[] Definition:   SSEspmv.cpp:122
+ssp_m128::d __m128d d Definition:   SSEspmv.cpp:71
+ssp_s16 signed short ssp_s16 Definition:   SSEspmv.cpp:56
+ssp_m128 Definition:   SSEspmv.cpp:68
+atomicallyIncrementDouble void atomicallyIncrementDouble(volatile double *target, const double by) Definition:   SSEspmv.cpp:146
+popcountall void popcountall(const unsigned char *__restrict M, unsigned *__restrict counts, size_t n) Definition:   SSEspmv.cpp:1232
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

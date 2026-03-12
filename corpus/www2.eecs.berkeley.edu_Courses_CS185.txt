@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS185
+CS 185. Deep Reinforcement Learning, Decision Making, and Control
+Catalog Description:  This course will cover the intersection of control, reinforcement learning, and deep learning. This course will provide an advanced treatment of the reinforcement learning formalism, the most critical model-free reinforcement learning algorithms (policy gradients, value function and Q-function learning, and actor-critic), a discussion of model-based reinforcement learning algorithms, an overview of imitation learning, and a range of advanced topics, including exploration, model-based learning with video prediction, transfer learning, multi-task learning, and meta-learning. Homework assignments will cover imitation learning, policy gradients, Q-learning, and model-based reinforcement learning, as well as a final project.
+Units:  3
+Prerequisites:  CS189/289A or equivalent is a prerequisite for the course. This course will assume some familiarity with reinforcement learning, numerical optimization and machine learning, as well as a basic working knowledge of how to train deep neural networks (which is taught in CS182 and briefly covered in CS189).
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Alternative method of final assessment
+Class Schedule (Spring 2026):
+CS 185/285 –                We 09:00-09:59, Hearst Field Annex A1; Fr 08:00-09:59, Hearst Field Annex A1 –
+Sergey Levine Class Notes
+- Lectures will be recorded.
+- Seats reserved for students with enrollment permission are not open. They are reserved for students in internal programs. Please DO NOT ask faculty or staff for one of these seats. The students who qualify have already been notified.
+CS 185-106 –                We 15:00-15:59, Social Sciences Building 60 –
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29329.html
+Multiple-Mirror Plasma Confinement | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Multiple-Mirror Plasma Confinement
+Multiple-Mirror Plasma Confinement
+Allan J. Lichtenberg, Michael A. Lieberman and B. Grant Logan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M541
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-541.pdf
+BibTeX citation:
+@techreport{Lichtenberg:M541,
+Author = {Lichtenberg, Allan J. and Lieberman, Michael A. and Logan, B. Grant},
+Title = {Multiple-Mirror Plasma Confinement},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29329.html},
+Number = {UCB/ERL M541}
+}
+EndNote citation:
+%0 Report
+%A Lichtenberg, Allan J.
+%A Lieberman, Michael A.
+%A Logan, B. Grant
+%T Multiple-Mirror Plasma Confinement
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M541
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29329.html
+%F Lichtenberg:M541

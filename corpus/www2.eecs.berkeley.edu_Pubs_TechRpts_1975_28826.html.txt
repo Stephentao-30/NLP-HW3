@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28826.html
+Rule-Directed Phone-Phoneme Matching | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Rule-Directed Phone-Phoneme Matching
+Rule-Directed Phone-Phoneme Matching
+Alan Cole
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M543
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-543.pdf
+BibTeX citation:
+@techreport{Cole:M543,
+Author = {Cole, Alan},
+Title = {Rule-Directed Phone-Phoneme Matching},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28826.html},
+Number = {UCB/ERL M543}
+}
+EndNote citation:
+%0 Report
+%A Cole, Alan
+%T Rule-Directed Phone-Phoneme Matching
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M543
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28826.html
+%F Cole:M543

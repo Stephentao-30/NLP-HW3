@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-251.html
+Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora
+Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora
+Andrew Godbehere
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-251
+December 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-251.pdf
+Given the overwhelming quantities of data generated every day, there is a pressing need for tools that can extract valuable and timely information. Vast reams of text data are now published daily, containing information of interest to those in social science, marketing, finance, and public policy, to name a few. Consider the case of the micro-blogging website Twitter, which in May 2013 was estimated to contain 58 million messages per day: in a single day, Twitter generates a greater volume of words than the Encyclopedia Brittanica. The magnitude of the data being analyzed, even over short time-spans, is out of reach of unassisted human comprehension.
+This thesis explores scalable computational methodologies that can assist human analysts and researchers in understanding very large text corpora. Existing methods for sparse and interpretable text classification, regression, and topic modeling, such as the Lasso, Sparse PCA, and probabilistic Latent Semantic Indexing, provide the foundation for this work. While these methods are either linear algebraic or probabilistic in nature, this thesis contributes a hybrid approach wherein simple probability models provide dramatic dimensionality reduction to linear algebraic problems, resulting in computationally efficient solutions suitable for real-time human interaction. Specifically, minimizing the probability of large deviations of a linear regression model while assuming a $k$-class probabilistic text model yields a $k$-dimensional optimization problem, where $k$ can be much smaller than either the number of documents or features. Further, a simple non-negativity constraint on the problem yields a sparse result without the need of an $\ell_1$ regularization. The problem is also considered and analyzed in the case of uncertainty in the model parameters. Towards the problem of estimating such probabilistic text models, a fast implementation of Sparse Principal Component Analysis is investigated and compared with Latent Dirichlet Allocation. Methods of fitting topic models to a dataset are discussed. Specific examples on a variety of text datasets are provided to demonstrate the efficacy of the proposed methods.
+Advisor:  Laurent El Ghaoui
+BibTeX citation:
+@phdthesis{Godbehere:EECS-2015-251,
+Author = {Godbehere, Andrew},
+Title = {Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-251.html},
+Number = {UCB/EECS-2015-251},
+Abstract = {Given the overwhelming quantities of data generated every day, there is a pressing need for tools that can extract valuable and timely information. Vast reams of text data are now published daily, containing information of interest to those in social science, marketing, finance, and public policy, to name a few. Consider the case of the micro-blogging website Twitter, which in May 2013 was estimated to contain 58 million messages per day: in a single day, Twitter generates a greater volume of words than the Encyclopedia Brittanica. The magnitude of the data being analyzed, even over short time-spans, is out of reach of unassisted human comprehension.
+This thesis explores scalable computational methodologies that can assist human analysts and researchers in understanding very large text corpora. Existing methods for sparse and interpretable text classification, regression, and topic modeling, such as the Lasso, Sparse PCA, and probabilistic Latent Semantic Indexing, provide the foundation for this work. While these methods are either linear algebraic or probabilistic in nature, this thesis contributes a hybrid approach wherein simple probability models provide dramatic dimensionality reduction to linear algebraic problems, resulting in computationally efficient solutions suitable for real-time human interaction.
+Specifically, minimizing the probability of large deviations of a linear regression model while assuming a $k$-class probabilistic text model yields a $k$-dimensional optimization problem, where $k$ can be much  smaller than either the number of documents or features. Further, a simple non-negativity constraint on the problem yields a sparse result without the need of an $\ell_1$ regularization. The problem is also  considered and analyzed in the case of uncertainty in the model parameters. Towards the problem of estimating such probabilistic text models, a fast implementation of Sparse Principal Component Analysis is investigated and compared with Latent Dirichlet Allocation. Methods of fitting topic models to a dataset are discussed. Specific examples on a variety of text datasets are provided to demonstrate the efficacy of
+the proposed methods.}
+}
+EndNote citation:
+%0 Thesis
+%A Godbehere, Andrew
+%T Fast and Effective Approximations for Summarization and Categorization of Very Large Text Corpora
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 17
+%@ UCB/EECS-2015-251
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-251.html
+%F Godbehere:EECS-2015-251

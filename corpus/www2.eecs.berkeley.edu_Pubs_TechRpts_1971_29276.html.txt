@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29276.html
+Theory of Electron Cyclotron Resonance Heating I: Short Time and Adiabatic Effects | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theory of Electron Cyclotron Resonance Heating I: Short Time and Adiabatic Effects
+Theory of Electron Cyclotron Resonance Heating I: Short Time and Adiabatic Effects
+F. Jaeger, A.J. Lichtenberg and M.A. Lieberman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M305
+September 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-305.pdf
+BibTeX citation:
+@techreport{Jaeger:M305,
+Author = {Jaeger, F. and Lichtenberg, A.J. and Lieberman, M.A.},
+Title = {Theory of Electron Cyclotron Resonance Heating I: Short Time and Adiabatic Effects},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29276.html},
+Number = {UCB/ERL M305}
+}
+EndNote citation:
+%0 Report
+%A Jaeger, F.
+%A Lichtenberg, A.J.
+%A Lieberman, M.A.
+%T Theory of Electron Cyclotron Resonance Heating I: Short Time and Adiabatic Effects
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M305
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29276.html
+%F Jaeger:M305

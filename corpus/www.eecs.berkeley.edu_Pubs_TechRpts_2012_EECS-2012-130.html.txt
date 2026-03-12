@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-130.html
+High-Frequency Trading
+Xin Guo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-130
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-130.pdf
+Advisors:  Pieter Abbeel and Xin Guo
+BibTeX citation:
+@mastersthesis{Guo:EECS-2012-130,
+Author= {Guo, Xin},
+Title= {High-Frequency Trading},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-130.html},
+Number= {UCB/EECS-2012-130},
+}
+EndNote citation:
+%0 Thesis
+%A Guo, Xin
+%T High-Frequency Trading
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-130
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-130.html
+%F Guo:EECS-2012-130

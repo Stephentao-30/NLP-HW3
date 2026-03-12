@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29008.html
+Input-Output Properties of Multiple-Input Multiple-Output Discrete Systems: Part II
+M.Y. Wu and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M262
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-262.pdf
+BibTeX citation:
+@techreport{Wu:M262,
+Author= {Wu, M.Y. and Desoer, C.A.},
+Title= {Input-Output Properties of Multiple-Input Multiple-Output Discrete Systems: Part II},
+Year= {1969},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29008.html},
+Number= {UCB/ERL M262},
+}
+EndNote citation:
+%0 Report
+%A Wu, M.Y.
+%A Desoer, C.A.
+%T Input-Output Properties of Multiple-Input Multiple-Output Discrete Systems: Part II
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M262
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29008.html
+%F Wu:M262

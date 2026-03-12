@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29275.html
+Synthesis of Nonlinear DC Circuit Models for Three-Terminal Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Synthesis of Nonlinear DC Circuit Models for Three-Terminal Devices
+Synthesis of Nonlinear DC Circuit Models for Three-Terminal Devices
+Leon O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M303
+August 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-303.pdf
+BibTeX citation:
+@techreport{Chua:M303,
+Author = {Chua, Leon O.},
+Title = {Synthesis of Nonlinear DC Circuit Models for Three-Terminal Devices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29275.html},
+Number = {UCB/ERL M303}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%T Synthesis of Nonlinear DC Circuit Models for Three-Terminal Devices
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M303
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29275.html
+%F Chua:M303

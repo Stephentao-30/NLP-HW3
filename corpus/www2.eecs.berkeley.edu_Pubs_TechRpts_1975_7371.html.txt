@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7371.html
+Efficient Retrieval in Relational Data Base Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficient Retrieval in Relational Data Base Systems
+Efficient Retrieval in Relational Data Base Systems
+Robert M. Pecherer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M547
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-547.pdf
+Advisor:  Michael R. Stonebraker
+BibTeX citation:
+@phdthesis{Pecherer:M547,
+Author = {Pecherer, Robert M.},
+Title = {Efficient Retrieval in Relational Data Base Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7371.html},
+Number = {UCB/ERL M547}
+}
+EndNote citation:
+%0 Thesis
+%A Pecherer, Robert M.
+%T Efficient Retrieval in Relational Data Base Systems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M547
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7371.html
+%F Pecherer:M547

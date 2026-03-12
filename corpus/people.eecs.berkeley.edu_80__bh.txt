@@ -1,0 +1,237 @@
+URL: http://people.eecs.berkeley.edu:80/~bh
+HomePage for Brian Harvey (bh@cs.Berkeley.EDU)
+then
+now
+Brian Harvey
+Computer Science Division
+University of California at Berkeley
+784  Soda Hall  / 510 917-7828
+bh@cs.berkeley.edu
+(he/him/hey, you)
+BS,  Mathematics ,
+MIT , 1969
+MS,  Computer Science ,
+Stanford , 1975
+PhD,  Science
+and Mathematics
+Education ,
+Berkeley , 1985
+MA, Clinical Psychology,
+New College of California , 1990
+Take a look at   my son Heath .
+I'm a "Senior Lecturer with Security of Employment Emeritus,"
+which means that they paid me to teach full-time (not to do research), but was
+essentially tenured, even though I'm not supposed to call it that.
+(But since nobody outside the University of California has any idea what
+that title means, I'm allowed to call myself a "Teaching Professor Emeritus"
+instead.  Research faculty at some other UC campuses don't allow this for
+their teaching faculty, because they're
+afraid people might think we're like them and they'll get cooties.)
+I am retired as of July 1, 2013.  But I'm continuing to work on various
+education-related projects at the University.
+I taught many of the lower division (freshman and sophomore)
+computer science courses
+at Berkeley, as well as one called  Social
+Implications of Computing  and
+occasionally others.I'm (still) faculty advisor of the
+Computer Science
+Undergraduate Association  and of the
+Open Computing Facility .
+You can see
+videos
+of my course
+CS 61A,
+Structure and Interpretation of Computer Programs ,
+based on the amazing
+textbook
+of the same name, still, after 50 years, the best computer science
+book in the world.  My lecture notes, sample exams, and other course documents
+are preserved  here .  The videos are archived off campus
+because they're not captioned and the campus is required to caption any videos
+they present to the world.  I am pleased and honored that people are still
+discovering my course online and pursuing it with interest, even without
+gold stars for completing it.
+I'm also interested in the use of computers in
+pre-college education; I used to be a  high school
+teacher, and was involved in the development of the Logo programming
+language.  More recently I've been helping develop the Snap !  language
+(see below).
+Brian's Last Lecture
+(Quicktime) (download it to watch; don't try to stream it in the browser)
+Build Your Own Blocks
+(
+a/k/a  BYOB ) is an extended version of
+Scratch , a
+drag-and-drop programming language for kids from MIT.
+I've been working on it with Jens Mönig, adding
+higher order functions  and true object
+inheritance for first-class sprites, to
+support an undergraduate-level
+introductory computer science course.  We have
+established such a course
+at Berkeley, and are working on spreading it to other colleges and high
+schools through teacher preparation and support efforts.
+This project really excites me — sneaking the ideas of Scheme
+into the visual metaphor of Scratch! (  at
+the right is λ.)
+Recently we also snuck in the vector and matrix functions of APL. :)
+The  Beauty and Joy of Computing  is
+Berkeley's computer science course for non-majors, and also, in somewhat
+different form, a  high school  CS course
+intended for a wide audience, including the kids who have not traditionally
+viewed themselves as CS nerds.  In addition to programming in Snap ! , it
+includes a strong component of the social implications of computing.  The high
+school version is being developed in collaboration with  EDC , a nonprofit R&D company with long
+experience developing K-12 curricula.  It is College Board endorsed as meeting
+the requirements for the new AP  CS
+Principles  exam.
+Berkeley Logo (UCBLogo)
+Berkeley Logo ( download manual as text )
+( download manual as PDF )
+( download readme )
+is a freeware interpreter that I wrote along with
+several students.  (Major contributors are Daniel van Blerkom, Khang Dao,
+Michael Katz, Douglas Orleans, and Sanford Owings.)
+News!  UCBLogo development has been taken over by wonderful chief volunteer
+Josh Cogliati and bunches of other volunteers:
+dmalec, Barak A. Pearlmutter, janekr, hosiet, reinerh, atehwa, kilobyte, pahihu
+The newest source tree is here:
+https://github.com/jrincayc/ucblogo-code .
+You can file bug reports in its issue tracker at Github.
+The current version is 6.2.4, posted 2 Jul 2024.
+Click here to retrieve
+the  complete distribution  archive for
+Unix/Linux ,
+MacOS X ,
+or  Windows ,
+complete with C source code.
+Here are links to version 5.3 for frozen platforms
+DOS
+or  Mac pre-OS X .
+A version for the One Laptop Per Child XO is
+here .
+(If you think Logo is just a graphics
+language for little kids, check out a
+sample program
+that should impress you.)
+Also consider David Costanzo's
+FMSLogo , an
+updated version of George Mills' MSWLogo,
+a multimedia-enhanced version for MS Windows based on Berkeley Logo.
+Or Andreas Micheler's
+aUCBLogo ,
+a rewrite and enhancement of UCBLogo.
+Here are links to  other versions of Logo .
+If you got here by Googling "logo" and are looking for someone to
+design a logotype (an identifying symbol) for your organization, you're in the
+wrong place.  This is the Logo computer programming language for
+learners!
+(The beautiful cover art
+is by  Jon Rife .)
+Now  FREE  for personal use:  The second edition of
+Computer Science Logo Style , a three-volume series intended
+mainly for teenagers and their teachers, or for adults who aren't professional
+programmers.  You can look at the tables of contents and  complete
+downloadable PDFs  and browsable HTML versions of
+Symbolic Computing ,
+a Logo programming text that concentrates on natural language
+processing rather than the graphics most people associate with Logo.
+Advanced Techniques ,
+in which discussions of more advanced Logo features alternate with
+sample projects using those features, with commentary on the
+structure and style of each.
+Beyond Programming ,
+brief introductions to six college-level computer science topics.
+Note:  These books are still in copyright, and in print.  They are
+posted here for your personal use, not for resale or redistribution.
+Thanks!
+MIT Press web pages for  Computer Science Logo Style
+v1
+v2
+v3
+Logo Users Ring
+Previous
+5
+Next
+5
+Random
+Site
+List Sites
+Now  FREE  for personal use:  The second edition of
+Simply Scheme: Introducing Computer Science ,
+written with my colleague
+Matthew Wright .
+The book is intended for college-level non-CS majors and
+for students who intend to major in CS but whose high school programming
+background hasn't prepared them for our first course for majors.
+The second edition was published in 1999.
+You can look at  complete
+downloadable PDFs  and browsable HTML versions of
+the chapters.
+Note:  This book is still in copyright, and in print.  It is
+posted here for your personal use, not for resale or redistribution.
+Thanks!
+Here are the
+program files  for use with the book (or by
+HTTP ).
+MIT
+Press web page for  Simply Scheme
+I've written several  papers about
+computers and education .
+I'm a member of
+the  Exploratorium  (member #125!),
+the  Electronic
+Frontier Foundation ,
+the League for Programming Freedom , and  the
+American Civil Liberties Union .
+Other organizations I support include the
+Electronic Privacy Information Center ,
+the Berkeley Food and Housing Project
+Insight Housing  (when I first
+started supporting them, they were the Berkeley Emergency Food Project;
+I supported them in lieu of handing money (coins, back then) to people on
+the street.  Then they became Food and Housing, and over time they've put
+much more attention into the latter.  So now I give half the money to them and
+half to the  Alameda County
+Community Food Bank ),
+the  Ethical Culture Fieldston School ,
+and  Camp Winnarainbow .
+(The latter group are not membership organizations, hence the two categories.)
+So, what do you do for fun, Brian?
+I visit the  Exploratorium ,
+the world's best museum.
+I watch the
+Animaniacs , the only good thing on television.  (The original ones, not
+the 2020 Hulu reboot, which is just okay.)
+I listen to 1964-1968 British rock, especially the
+Beatles .
+I read  Peter Dickinson  books,
+both his adult mystery novels and his books for children.
+I eat Chinese food.
+I collect  art ,
+masks , and
+Karakuri puzzle boxes.
+I read progressive cartoonists such as
+Keith Knight
+,
+Ruben Bolling
+,
+Jen Sorensen
+,
+Tom Tomorrow
+,
+and  Mike Dawson
+.
+(Links are to their patreon pages.)
+,
+,
+.
+How come all the best webcomics are about girls?
+But lately I've really gotten hooked:
+And of course I read the classics:
+Check out the  Marxism
+page  and the  Marxists Internet
+Archive .
+Check out the  world's best turkey
+stuffing recipe .
+bh@cs.berkeley.edu

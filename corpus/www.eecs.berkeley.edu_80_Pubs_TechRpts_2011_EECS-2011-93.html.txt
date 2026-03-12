@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-93.html
+Avoiding Communication in Two-Sided Krylov Subspace Methods
+Erin Carson and Nicholas Knight and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-93
+August 16,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-93.pdf
+BibTeX citation:
+@techreport{Carson:EECS-2011-93,
+Author= {Carson, Erin and Knight, Nicholas and Demmel, James},
+Title= {Avoiding Communication in Two-Sided Krylov Subspace Methods},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-93.html},
+Number= {UCB/EECS-2011-93},
+}
+EndNote citation:
+%0 Report
+%A Carson, Erin
+%A Knight, Nicholas
+%A Demmel, James
+%T Avoiding Communication in Two-Sided Krylov Subspace Methods
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 16
+%@ UCB/EECS-2011-93
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-93.html
+%F Carson:EECS-2011-93

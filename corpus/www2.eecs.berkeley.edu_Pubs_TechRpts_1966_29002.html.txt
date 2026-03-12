@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29002.html
+Perturbational Solutions to the Dyadic Green's Functions of Maxwell's Equations in Anisotropic Media
+K.K. Mei
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M189
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-189.pdf
+BibTeX citation:
+@techreport{Mei:M189,
+Author= {Mei, K.K.},
+Title= {Perturbational Solutions to the Dyadic Green's Functions of Maxwell's Equations in Anisotropic Media},
+Year= {1966},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29002.html},
+Number= {UCB/ERL M189},
+}
+EndNote citation:
+%0 Report
+%A Mei, K.K.
+%T Perturbational Solutions to the Dyadic Green's Functions of Maxwell's Equations in Anisotropic Media
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M189
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29002.html
+%F Mei:M189

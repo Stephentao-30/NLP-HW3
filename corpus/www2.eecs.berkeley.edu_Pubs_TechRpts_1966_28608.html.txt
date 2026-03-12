@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28608.html
+Representation of a Differential System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Representation of a Differential System
+Representation of a Differential System
+D. Eggert and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M177
+August 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-177.pdf
+BibTeX citation:
+@techreport{Eggert:M177,
+Author = {Eggert, D. and Varaiya, P.},
+Title = {Representation of a Differential System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28608.html},
+Number = {UCB/ERL M177}
+}
+EndNote citation:
+%0 Report
+%A Eggert, D.
+%A Varaiya, P.
+%T Representation of a Differential System
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M177
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28608.html
+%F Eggert:M177

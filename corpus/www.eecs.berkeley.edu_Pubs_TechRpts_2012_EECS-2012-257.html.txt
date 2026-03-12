@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-257.html
+Randomized Algorithms for Scalable Machine Learning
+Ariel Jacob Kleiner
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-257
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-257.pdf
+Advisors:  Michael Jordan
+BibTeX citation:
+@phdthesis{Kleiner:EECS-2012-257,
+Author= {Kleiner, Ariel Jacob},
+Title= {Randomized Algorithms for Scalable Machine Learning},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-257.html},
+Number= {UCB/EECS-2012-257},
+}
+EndNote citation:
+%0 Thesis
+%A Kleiner, Ariel Jacob
+%T Randomized Algorithms for Scalable Machine Learning
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-257
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-257.html
+%F Kleiner:EECS-2012-257

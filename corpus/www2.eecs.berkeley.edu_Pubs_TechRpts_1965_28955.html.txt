@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28955.html
+The Minimal Realization of a Nonanticipative Impulse Response Matrix | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Minimal Realization of a Nonanticipative Impulse Response Matrix
+The Minimal Realization of a Nonanticipative Impulse Response Matrix
+C.A. Desoer and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M138
+December 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-138.pdf
+BibTeX citation:
+@techreport{Desoer:M138,
+Author = {Desoer, C.A. and Varaiya, P.},
+Title = {The Minimal Realization of a Nonanticipative Impulse Response Matrix},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28955.html},
+Number = {UCB/ERL M138}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Varaiya, P.
+%T The Minimal Realization of a Nonanticipative Impulse Response Matrix
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M138
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28955.html
+%F Desoer:M138

@@ -1,0 +1,19 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/mortoncompare_8h.html
+signed short least Definition:   utility.h:70
+BitInterleaveLow ITYPE BitInterleaveLow(ITYPE x, ITYPE y) Definition:   utility.h:344
+aligned_malloc unsigned char * aligned_malloc(uint64_t size) Definition:   utility.h:248
+IntPower< 2 > unsigned IntPower< 2 >(unsigned exponent) Definition:   utility.h:387
+iota void iota(_ForwardIter __first, _ForwardIter __last, T __value) Definition:   utility.h:295
+int_least_helper Definition:   utility.h:68
+CumulativeSum ITYPE CumulativeSum(ITYPE *arr, ITYPE size) Definition:   utility.h:265
+aligned_free void aligned_free(unsigned char *ptr) Definition:   utility.h:258
+IsPower2 bool IsPower2(T x) Definition:   utility.h:396
+highestbitset unsigned int highestbitset(unsigned __int64 v) Definition:   utility.h:423
+machineEpsilon T machineEpsilon() Definition:   utility.h:280
+thread_data::beg unsigned * beg Definition:   utility.h:184
+__cilkrts_synched CILK_EXPORT __CILKRTS_NOTHROW int __cilkrts_synched(void)
+IntPower unsigned IntPower(unsigned exponent) Definition:   utility.h:373
+deallocate2D void deallocate2D(T **array, I m) Definition:   utility.h:311
+GetMaskTable MTYPE GetMaskTable(unsigned int index) Definition:   utility.h:99
+int_least_helper< 8 >::least uint64_t least Definition:   utility.h:69
+popcountall void popcountall(const uint64_t *__restrict M, unsigned *__restrict count, size_t size) <di

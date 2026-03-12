@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29170.html
+On the Development of Correct Programs with the Documentation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Development of Correct Programs with the Documentation
+On the Development of Correct Programs with the Documentation
+Andrzej Blikle
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/25
+April 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-25.pdf
+BibTeX citation:
+@techreport{Blikle:M79/25,
+Author = {Blikle, Andrzej},
+Title = {On the Development of Correct Programs with the Documentation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29170.html},
+Number = {UCB/ERL M79/25}
+}
+EndNote citation:
+%0 Report
+%A Blikle, Andrzej
+%T On the Development of Correct Programs with the Documentation
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/25
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29170.html
+%F Blikle:M79/25

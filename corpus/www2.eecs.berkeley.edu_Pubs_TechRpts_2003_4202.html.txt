@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4202.html
+Zero-rate Reliability of the Exponential- Server Timing Channel | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Zero-rate Reliability of the Exponential- Server Timing Channel
+Zero-rate Reliability of the Exponential- Server Timing Channel
+A. B. Wagner and Venkat Anantharam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M04/5
+November 2003
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/ERL-04-5.pdf
+BibTeX citation:
+@techreport{Wagner:M04/5,
+Author = {Wagner, A. B. and Anantharam, Venkat},
+Title = {Zero-rate Reliability of the Exponential- Server Timing Channel},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2003},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4202.html},
+Number = {UCB/ERL M04/5}
+}
+EndNote citation:
+%0 Report
+%A Wagner, A. B.
+%A Anantharam, Venkat
+%T Zero-rate Reliability of the Exponential- Server Timing Channel
+%I EECS Department, University of California, Berkeley
+%D 2003
+%@ UCB/ERL M04/5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/4202.html
+%F Wagner:M04/5

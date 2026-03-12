@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC191
+Course: CSC191 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSC191
+CS C191. Quantum Information Science and Technology
+Catalog Description:  This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical realizations from nanoscale science and engineering.
+Units:  3.0
+Prerequisites:  Linear Algebra (EECS 16A or PHYSICS 89 or MATH 54) AND either discrete mathematics (COMPSCI 70 or MATH 55), or quantum mechanics (PHYSICS 7C or PHYSICS 137A or CHEM 120A).
+Formats:  Fall: 3 hours of lecture per week
+Spring: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  CHEM C191, PHYSICS C191
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Introduction to quantum physics from a computational and information viewpoint. Leading into the design of quantum algorithms, the requirements for physical implementation of quantum computers.
+Topics Covered:
+Qubits, measurements, Hilbert spaces, tensor products
+Unitary evolution, universal gates, no cloning theorem
+Bell states, Bell Inequalities, quantum teleportation.
+Schrodinger equation, Hamiltonians
+Spin properties, angular momentum
+Manipulating spins, B-fields
+Spin precession, spin resonance, 2-slit experiment
+Entanglement and spins, atomic qubits
+Photon polarization, photon qubits
+Reversibility, quantum circuits
+Quantum fourier transform
+Quantum factoring algorithm
+Quantum search and quantum zeno effect
+Density matrices
+Implementing quantum computers:
+Solid state quantum computation
+Cavity QED.
+Josephson junction qubits
+Dirac equation and the origin of spin.

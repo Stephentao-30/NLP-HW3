@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29062.html
+Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems
+Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems
+Shankar Sastry and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/81
+December 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-81.pdf
+BibTeX citation:
+@techreport{Sastry:M79/81,
+Author = {Sastry, Shankar and Varaiya, Pravin},
+Title = {Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29062.html},
+Number = {UCB/ERL M79/81}
+}
+EndNote citation:
+%0 Report
+%A Sastry, Shankar
+%A Varaiya, Pravin
+%T Hierarchical Stability and Alert State Steering Control of Interconnected Power Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/81
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29062.html
+%F Sastry:M79/81

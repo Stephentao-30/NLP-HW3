@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29291.html
+On the Use of Optimization Algorithms in the Design of Linear Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Use of Optimization Algorithms in the Design of Linear Systems
+On the Use of Optimization Algorithms in the Design of Linear Systems
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M377
+March 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-377.pdf
+BibTeX citation:
+@techreport{Polak:M377,
+Author = {Polak, E.},
+Title = {On the Use of Optimization Algorithms in the Design of Linear Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29291.html},
+Number = {UCB/ERL M377}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T On the Use of Optimization Algorithms in the Design of Linear Systems
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M377
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29291.html
+%F Polak:M377

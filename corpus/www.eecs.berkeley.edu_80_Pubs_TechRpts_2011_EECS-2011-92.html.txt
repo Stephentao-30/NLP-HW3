@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-92.html
+Improving communication performance in dense linear algebra via topology aware collectives
+Edgar Solomonik and Abhinav Bhatele and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-92
+August 15,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-92.pdf
+Recent results have shown that topology aware mapping reduces network contention in communication-intensive kernels on massively parallel machines. We demonstrate that on mesh interconnects, topology aware mapping also allows for the utilization of highly-efficient topology aware collectives. We map novel 2.5D dense linear algebra algorithms to exploit rectangular collectives on cuboid partitions allocated by a Blue Gene/P supercomputer. Our mappings allow the algorithms to exploit optimized line multicasts and reductions. Commonly used 2D algorithms cannot be mapped in this fashion. On 16,384 nodes (65,536 cores) of Blue Gene/P, 2.5D algorithms that exploit rectangular collectives are significantly faster than 2D matrix multiplication (MM) and LU factorization, up to 8.7x and 2.1x, respectively. These speed-ups are due to communication reduction (up to 95.6% for 2.5D MM with respect to 2D MM). We also derive LogP-based novel performance models for rectangular broadcasts and reductions. Using those, we model the performance of matrix multiplication and LU factorization on a hypothetical exascale architecture.
+BibTeX citation:
+@techreport{Solomonik:EECS-2011-92,
+Author= {Solomonik, Edgar and Bhatele, Abhinav and Demmel, James},
+Title= {Improving communication performance in dense linear algebra via topology aware collectives},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-92.html},
+Number= {UCB/EECS-2011-92},
+Abstract= {Recent results have shown that topology aware mapping reduces network contention in communication-intensive kernels on massively parallel machines. We demonstrate that on mesh interconnects, topology aware mapping also allows for the utilization of highly-efficient topology aware collectives. We map novel 2.5D dense linear algebra algorithms to exploit rectangular collectives on cuboid partitions allocated by a Blue Gene/P supercomputer. Our mappings allow the algorithms to exploit optimized line multicasts and reductions. Commonly used 2D algorithms cannot be mapped in this fashion. On 16,384 nodes (65,536 cores) of Blue Gene/P, 2.5D algorithms that exploit rectangular collectives are significantly faster than 2D matrix multiplication (MM) and LU factorization, up to 8.7x and 2.1x, respectively. These speed-ups are due to communication reduction (up to 95.6% for 2.5D MM with respect to 2D MM). We also derive LogP-based novel performance models for rectangular broadcasts and reductions. Using those, we model the performance of matrix multiplication and LU factorization on a hypothetical exascale architecture.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Bhatele, Abhinav
+%A Demmel, James
+%T Improving communication performance in dense linear algebra via topology aware collectives
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 15
+%@ UCB/EECS-2011-92
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-92.html
+%F Solomonik:EECS-2011-92

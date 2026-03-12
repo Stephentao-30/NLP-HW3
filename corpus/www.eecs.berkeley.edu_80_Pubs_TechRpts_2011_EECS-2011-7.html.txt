@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-7.html
+Algorithms to detect multi-protein modularity conserved during evolution
+Luqman Hodgkinson and Richard M. Karp
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-7
+January 26,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-7.pdf
+A multi-protein module is a collection of proteins exhibiting modularity in their interactions. Multi-protein modules may perform essential functions and be conserved by purifying selection. Detecting essential multi-protein modules that change infrequently during evolution is a challenging algorithmic task. A new linear-time algorithm named Produles offers significant algorithmic advantages over previous approaches. An algorithmic framework for evaluation is presented that facilitates evaluation of algorithms for detecting conserved modularity with respect to their algorithmic goals.
+BibTeX citation:
+@techreport{Hodgkinson:EECS-2011-7,
+Author= {Hodgkinson, Luqman and Karp, Richard M.},
+Title= {Algorithms to detect multi-protein modularity conserved during evolution},
+Year= {2011},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-7.html},
+Number= {UCB/EECS-2011-7},
+Abstract= {A multi-protein module is a collection of proteins exhibiting modularity in their interactions. Multi-protein modules may perform essential functions and be conserved by purifying selection. Detecting essential multi-protein modules that change infrequently during evolution is a challenging algorithmic task. A new linear-time algorithm named Produles offers significant algorithmic advantages over previous approaches. An algorithmic framework for evaluation is presented that facilitates evaluation of algorithms for detecting conserved modularity with respect to their algorithmic goals.},
+}
+EndNote citation:
+%0 Report
+%A Hodgkinson, Luqman
+%A Karp, Richard M.
+%T Algorithms to detect multi-protein modularity conserved during evolution
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 January 26
+%@ UCB/EECS-2011-7
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-7.html
+%F Hodgkinson:EECS-2011-7

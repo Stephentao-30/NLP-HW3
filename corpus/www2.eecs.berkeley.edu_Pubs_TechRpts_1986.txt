@@ -1,0 +1,150 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1986
+Technical Reports - 1986
+The Network Event Manager  (CSD-86-299) Yih-Farn Chen, Atul Prakash and C.V. Ramamoorthy
+An Experimental Assessment of Resource Queue Lengths as Load Indices  (CSD-86-298) Songnian Zhou
+Smalltalk-80 to SOAR Code  (CSD-86-297) William R. Bush
+Query Optimization in Distributed Databases Through Load Balancing  (CSD-86-296) Rafael Alonso
+Knowledge-Based Distributed Systems Management  (CSD-86-295) Joseph Pasquale
+CLUSTER: An Approach to Contextual Language Understanding  (CSD-86-293) Yigal Arens
+A Browser for Directed Graphs  (CSD-86-292) Lawrence A. Rowe, Michael Davis, Eli Messinger, Carl Meyer, Charles Spirakis and Allen Tuan
+An Obstacle-Avoiding Router for Custom VLSI  (CSD-86-291) Gordon Taro Hamachi
+CPU Cache Consistency with Software Support and Using "One Time Identifiers"  (CSD-86-290) Alan Jay Smith
+The Memory Architecture and the Cache and Memory Management Unit for the Fairchild CLIPPER Processor  (CSD-86-289) James Cho, Alan Jay Smith and Howard Sachs
+Everything You Ever Wanted to Know About "An Introduction to Computers"  (CSD-86-288) David A. Patterson
+The Design and Evaluation of A High Performance Smalltalk System  (CSD-86-287) David Michael Ungar
+Cell Design in Prolog  (CSD-86-286) Ashar A. Butt
+Transistor Sizing  (CSD-86-285) Jonathan Pincus
+Partitioning Polyhedral Objects into Non-Intersecting Parts  (CSD-86-284) Mark Gordon Segal
+ALANA -- Augmentable LANguage Analyzer  (CSD-86-283) Charles A. Cox
+Hidden Feature Removal and Display of Intersecting Objects in UNIGRAFIX  (CSD-86-282) Nachshon Gal
+The Berkeley UNIGRAFIX Tools, Version 2.5  (CSD-86-281) Carlo H. Séquin
+Binary Space Partitioning for Previewing UNIGRAFIX Scenes  (CSD-86-280) Ziv Gigus
+Jessie: An Interactive Editor for Unigrafix  (CSD-86-279) H. B. Siegel
+More ... Creative Geometric Modeling  (CSD-86-278) Carlo H. Séquin
+A Model of Evidential Reasoning In a Hierarchical Hypothesis Space  (CSD-86-277) John Yen
+Load Balancing With Maitre d'  (CSD-86-276) Brian Bershad
+An Election Algorithm for a Distributed Clock Synchronization Program  (CSD-86-275) Riccardo Gusella and Stefano Zatti
+A Characterization of the Use of the UNIX C Shell  (CSD-86-274) Rita K. Hanson
+SPUR: A VLSI Multiprocessor Workstation  (CSD-86-273) Mark Donald Hill, Susan J. Eggers, James Richard Larus, George S. Taylor, Glenn D. Adams, Bidyut Kumar Bose, Garth A. Gibson, Paul Mark Hansen, John Keller, Shing I. Kong, Corinna Grace Lee, Daebum Lee, J. M. Pendleton, Scott Allen Ritchie, David A. Wood, Benjamin G. Zorn, Paul N. Hilfinger, D. A. Hodges, Randy H. Katz, John K. Ousterhout and David A. Patterson
+1986 VLSI Tools: Still More Works by the Original Artists  (CSD-86-272) Walter S. Scott, Robert N. Mayo, Gordon Hamachi and John K. Ousterhout
+Iteration Theorems for Deterministic Families of Languages  (CSD-86-271) Michael A. Harrison
+Version Modeling Concepts for Computer-Aided Design Databases  (CSD-86-270) Randy H. Katz, Ellis E. Chang and Rajiv Bhateja
+Compaction and Circuit Extraction in the MAGIC IC Layout System  (CSD-86-269) Walter Stewart Scott
+The Administration of Distributed Computations in a Networked Environment: An Interim Report  (CSD-86-268) Luis Felipe Cabrera, Stuart Sechrest and Ramon Caceres
+Object Management in Local Distributed Systems  (CSD-86-267) Songnian Zhou and Roberto Zicari
+A Version Server for Computer-Aided Design Data  (CSD-86-266) Randy H. Katz, M. Anwaruddin and Ellis E. Chang
+Arbitrary Subdivision of Bezier Curves  (CSD-86-265) Brian A. Barsky
+Corner-Based Geometric Layout Rule Checking for VLSI Circuits  (CSD-86-264) Michael Helmut Arnold
+High Performance Execution of Prolog Programs Based on A Static Data Dependency Analysis  (CSD-86-263) Jung-Herng Chang
+A Study of Load Indices for Load Balancing Schemes  (CSD-86-262) Domenico Ferrari
+Prefix Tables: A Simple Mechanism for Locating Files in a Distributed System  (CSD-86-261) Brent Ballinger Welch and John K. Ousterhout
+Graphic Presentation of Data Structures in the DBX Debugger  (CSD-86-260) David B. Baskerville
+Proceedings of CS292i: Implementation of VLSI Systems, Spring 1985  (CSD-86-259) Randy H. Katz and  SPUR Hardware Design Team
+Properties and Update Semantics of Consistent Views  (CSD-86-258) G. Gottlob, P. Paolini and Roberto Zicari
+The Berkeley PLM Instruction Set: An Instruction Set for Prolog  (CSD-86-257) Barry Fagin and Tep Dobry
+Fault Tolerance for VLSI Multicomputers  (CSD-86-256) Yuval Tamir
+Geometric Continuity:  A Parametrization Independent Measure of Continuity for Computer Aided Geometric Design  (CSD-86-255) Anthony D. DeRose
+A Knowledge-Based Approach to Language Production  (CSD-86-254) Paul Schafran Jacobs
+Power and Ground Requirements for a High-speed 32 Bit Computer Chip Set  (CSD-86-253) John Keller
+Time-Optimal Design of a CMOS Adder  (CSD-86-252) Belle W. Y. Wei, Clark D. Thompson and Yih-Farn Chen
+A Superlinearly Convergent Algorithm for Min-Max Problems  (M86/103) Elijah Polak, D.Q. Mayne and J.E. Higgins
+On the Design of Stabilizing Compensators Via Semi-Infinite Optimization  (M86/102) Elijah Polak and S. Wuu
+Axial Feedback Stabilization of Flute Modes for Mirror Machines  (M86/101) B.K. Kang, Michael A. Lieberman and A.K. Sen
+The Effect of Quasi-Accelerator Modes on Diffusion  (M86/100) Allan J. Lichtenberg, Michael A. Lieberman and N.W. Murray
+The Dual Double Scroll Equation  (M86/99) T.S. Parker and Leon O. Chua
+A Performance Analysis of View Materialization Strategies  (M86/98) E. Hanson
+Probabilistic Hill Climbing Algorithms: Properties and Applications  (M86/97) F.I. Romeo
+The Design of a GaAs MESFET Temperature Independent Voltage Reference Circuit and the Evaluation of GaAs Large Signal MESFET Models  (M86/96) R.K. Hung
+Topological Optimization of Multiple Level Array Logic  (M86/95) S. Devadas
+Linear Magnetized Plasma Response to an Oblique Electrostatic Wave  (M86/94) W.S. Lawson
+On the Verification of Sequential Machines at Differing Levels of Abstraction  (M86/93) S. Devadas, H.K. Ma and A. Richard Newton
+Algorithms for Hardware Allocation in Data Path Synthesis  (M86/92) S. Devadas and A. Richard Newton
+Algorithms for Pipeline Scheduling and Synthesis  (M86/91) S. Devadas and A. Richard Newton
+DELIGHT.MIMO: An Interactive System for Optimization-Based Multivariable Control System Design  (M86/90) Tzyh-Lih Wuu
+The Cell Tree: An Index for Geometric Data  (M86/89) O. Gunther
+A Dual Approach to Detect Polyhedral Intersections in Arbitrary Dimensions  (M86/88) O. Gunther and Eugene Wong
+A Dual Space Representation for Geometric Data  (M86/87) O. Gunther and Eugene Wong
+Large Deviations in Dissipative Dynamics: An Optimal Control Approach  (M86/86) Efthimios Kappos
+The POSTGRES papers  (M86/85) Michael Stonebraker and Lawrence A. Rowe
+Switched Capacitor Signal Processing Circuits in Scaled Technologies  (M86/84) Chorng-Kuang Wang
+Model Based Tactile Object Recognition for Polyhedra  (M86/83) C.F. Elia
+An Attached Processor for MOS-Transistor Model Evaluation  (M86/82) Ronald S. Gyurcsik
+Global Lyapunov Function Theory  (M86/81) E. Kappos and S. Shankar Sastry
+The Design of the POSTGRES Rules System  (M86/80) Michael Stonebraker, E. Hanson and C-H. Hong
+Partial Response Coding in Digital Subscriber Loops  (M86/79) Nan-Sheng Lin
+Wide-Band, Low-Noise, Matched Impedance Amplifiers in Submicron MOS Technology  (M86/78) Kai-Yap Toh
+A-TREES: An Indexing Abstraction for Ordered Aggregates  (M86/77) W.B. Rubenstein
+Stochasticity and Resonances in the Two Beam Accelerator  (M86/76) N.W. Murray and Michael A. Lieberman
+Characterization of the Boron+ Planar Dopant Source Moisture Enhanced Process  (M86/75) R. Alley, P.K. Ko and K. Voros
+Quick Simulation Method for Excessive Backlogs in Networks of Queues  (M86/74) Shyam Parekh and Jean Walrand
+Instability and Geometric Transience of the Aloha Protocol  (M86/73) Shyam Parekh, F. Schoute and Jean Walrand
+Modeling Considerations for Bipolar Transistors  (M86/72) J.D. Burnett
+Stabilization of Nonlinear Systems With Degenerate Linearization  (M86/71) S. Behtash and S. Shankar Sastry
+Application of Microphone Arrays in Hands-Free Telephony  (M86/70) T. Chujo
+Processing Recursion in Database Systems  (M86/69) Yannis E. Ioannidis
+Observation of a Potential Barrier Created by Electron Cyclotron Resonance Heating in a Multiple Mirror Plasma  (M86/68) C.P. Chang, Michael A. Lieberman, H. Meuth and Allan J. Lichtenberg
+Averaging Analysis for Discrete Time and Sampled Data Adaptive Systems  (M86/67) E-W. Bai, L-C. Fu and S. Shankar Sastry
+Stability, Convergence, and Robustness of Adaptive Systems  (M86/66) Marc Bodson
+Multiple-Valued Logic Minimization for PLA Synthesis  (M86/65) Richard L. Rudell
+BSIM - Substrate Current Modeling Appendix C: SPICE Implementation of the BSIM Substrate Current and Degradation Models  (M86/64) P.M. Lee, P.K. Ko and Chenming Hu
+Supervisory Control of Discrete Event Processes with Partial Observations  (M86/63) R. Cieslak, C. Desclaux, A. Fawaz and Pravin Varaiya
+Asymptotically Efficient Allocation Rules for the Multiarmed Bandit Problem with Multiple Plays Part I: I.I.D. Rewards, Part II: Markovian Rewards  (M86/62) Venkat Anantharam, Pravin Varaiya and Jean Walrand
+3-D Rotation Instrument for Displaying Strange Attractors  (M86/61) Leon O. Chua and T. Sugawara
+Use of Specific Prior Information in the Adaptive Identification of Continuous Time Systems  (M86/60) J. Mason
+Object Management in POSTGRES Using Procedures  (M86/59) Michael Stonebraker
+Optimization of Extended Relational Database Systems  (M86/58) Timoleon K. Sellis
+Two-Dimensional Optical Imaging for Photolithography Simulation  (M86/57) P.D. Flanner III
+Applications of SIMPL  (M86/56) L. Gibson
+NUTCRACKER: An Intelligent Channel Spacer  (M86/55) X-M. Xiong
+A Coupled Hardware and Software Architecture for Programmable Digital Signal Processors  (M86/54) Edward A. Lee
+Proximity Algorithms: Theory and Implementation  (M86/53) J.E. Hauser
+Adaptive Stabilization of Sampled Systems  (M86/52) E. Bai and S. Shankar Sastry
+On the Computation of the Transitive Closure of Relational Operators  (M86/51) Y.E. Ioannidis
+Numerical Simulations of Turbulent Trapping in the Weak Beam-Plasma Instability  (M86/50) K. Theilhaber, G. Laval and D. Pesme
+BSIM - Substrate Current Modeling  (M86/49) P.M. Lee
+Effect of Large-Amplitude Perpendicularly- Propagating RF Waves on the Interchange Instability  (M86/48) N.F. Otani and B.I. Cohen
+Simulation of Plasma Dynamics Using Many Particles  (M86/47) Charles K. (Ned) Birdsall, N.F. Otani and B.I. Cohen
+NOnlinear ELectronics (NOEL) Package 8: Phase Portrait of Second Order Nonlinear Circuits  (M86/46) A-C. Deng and Leon O. Chua
+Weakly Nonlinear Oscillator Circuits and Averaging: A General Approach  (M86/45) G.M. Bernstein and Leon O. Chua
+Limits of Linear Response of a Vlasov Distribution  (M86/44) W.A. Lawson
+Task Oriented Optimal Grasping by Multifingered Robot Hands  (M86/43) Z. Li and S. Shankar Sastry
+A Fully Automated BSIM Parameter Extraction System Using the HP 4062 Test System  (M86/41) N. Yuen
+A Shared Object Hierarchy  (M86/40) Lawrence A. Rowe
+The Design and Evaluation of a Speech Recognition System for Engineering Workstations  (M86/39) Robert A. Kavaler
+Design of a Video Histogrammer Using Automated Layout Tools  (M86/38) B.C. Richards
+Architecture and Design Techniques for Real-Time Image Processing ICs  (M86/37) Peter A. Ruetz
+Dynamics of Flexible Structures Performing Large Overall Motions: A Geometrically- Nonlinear Approach  (M86/36) L. Vu-Quoc
+Distributed Information and Distributed Control: Cases from Stochastic Systems and Database Management  (M86/35) Stéphane Lafortune
+NOnlinear ELectronics (NOEL) Package 7: Canonical Piecewise-Linear Transient Analysis  (M86/34) A-C. Deng and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 6: Canonical Piecewise-Linear DC Analysis  (M86/33) A-C. Deng and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 5: Canonical Piecewise-Linear Modeling  (M86/32) A-C. Deng and Leon O. Chua
+Stability Regions of Nonlinear Autonomous Dynamical Systems  (M86/31) H-D. Chiang, M.W. Hirsch and Felix F. Wu
+Persistency of Excitation in Possibly Unstable Continuous Time Systems and Parameter Convergence in Adaptive Identification  (M86/30) N. Nordstrom and S. Shankar Sastry
+On the Dynamics of Earth-Orbiting Flexible Satellites with Multibody Components  (M86/29) L. Vu-Quoc and J.C. Simo
+NOnlinear ELectronics (NOEL) Package 9 RKF: A Single-Stop, Variable Step-Size Integration Routine for Non-Stiff Odes  (M86/28) T.S. Parker, G.M. Bernstein and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 4: Nonlinear Transient Analysis  (M86/27) A-C. Deng and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 3: Nonlinear DC Analysis  (M86/26) A-C. Deng and Leon O. Chua
+Slow Drift Instability in Model Reference Adaptive System--An Averaging Analysis  (M86/25) L-C. Fu and S. Shankar Sastry
+NOnlinear ELectronics (NOEL) Package 2: Computer Generation of Symbolic Transfer Function  (M86/24) A-C. Deng and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 1: Linear Circuit Formulations, N-Port Representations, and State Equations  (M86/23) A-C. Deng and Leon O. Chua
+NOnlinear ELectronics (NOEL) Package 0: General Description  (M86/22) A-C. Deng and Leon O. Chua
+Managing Text as Data  (M86/21) G. Pavlovic-Lazetic and Eugene Wong
+Global Stability Proofs for Continuous Time Indirect Adaptive Control Schemes  (M86/20) E-W. Bai and S. Shankar Sastry
+Global Query Optimization  (M86/19) T.K. Selis
+Stabilizing Effects of Finite-Amplitude RF Waves on the Interchange Instability  (M86/18) N.F. Otani
+Characterization of Ion Implanted and Annealed GaAs for an Integrated Circuit Process  (M86/17) J.E. Van Leeuwen
+Computer-Aided Design for VLSI Circuits  (M86/16) A. Richard Newton and Alberto L. Sangiovanni-Vincentelli
+Saturation and Post-Saturation Behavior of the Alfven Ion-Cyclotron Instability: A Simulation Study  (M86/15) N.F. Otani
+A Diagonalization Technique for the Computation of Sensitivity Functions of Linear Time-Invariant Systems  (M86/13) T.L. Wuu, R.G. Becker and Elijah Polak
+Low Distortion Switched Capacitor Filters  (M86/12) Kuang-Lu Lee
+On the Dynamics of Finite-Strain Rods Undergoing Large Motions - The Three-Dimensional Case  (M86/11) J.C. Simo and L. Vu-Quoc
+The Role of Nonlinear Theories in Dynamic Analysis of Rotating Structures  (M86/10) J.C. Simo and L. Vu-Quoc
+Stability of Nonlinear Systems With Three Time Scales  (M86/9) Charles A. Desoer and S.M. Shahruz
+A Unified Approach to Circuit Partitioning and Placement  (M86/8) R-S. Tsay and Ernest S. Kuh
+Experimental Observation of Wall Stabilization of Axisymmetric Mirrors at High Beta  (M86/7) R.M. Close, B.K. Kang, Allan J. Lichtenberg, Michael A. Lieberman and H. Meuth
+An Analysis of Rule Indexing Implementations in Data Base Systems  (M86/6) Michael Stonebraker, T. Sellis and E. Hanson
+Kinematics and Control of Robot Manipulators  (M86/5) Bradley E. Paden
+A Behavioral Simulator for DSP ICs  (M86/4) C-S. Shung
+Adaptive Control of Mechanical Manipulators  (M86/3) J.J. Craig, Ping Hsu and S. Shankar Sastry
+ELOGIC: A Relaxation-Based Switch-Level Simulation Technique  (M86/2) Y.H. Kim
+Double Scroll Via A Two-Transistor Circuit  (M86/1) T. Matsumoto, Leon O. Chua and K. Tokumasu

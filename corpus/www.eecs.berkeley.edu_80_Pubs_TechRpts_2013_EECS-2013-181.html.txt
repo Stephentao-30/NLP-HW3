@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-181.html
+Scalable Model Checking Beyond Safety - A Communication Fabric Perspective
+Sayak Ray
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-181
+November 4,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-181.pdf
+In this research, we have developed symbolic algorithms and their open-source implementations that effectively solve liveness verification problem for industrially relevant hardware systems. In principle, our tool-suite works on any sequential hardware circuit and for the whole family of ω-regular properties. Practicality and effectiveness of our tool-suite have been demonstrated in the context of proving response properties (a very common and important liveness property) of on-chip communication fabrics.
+Advisors:  Robert K. Brayton
+BibTeX citation:
+@phdthesis{Ray:EECS-2013-181,
+Author= {Ray, Sayak},
+Title= {Scalable Model Checking Beyond Safety - A Communication Fabric Perspective},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-181.html},
+Number= {UCB/EECS-2013-181},
+Abstract= {In this research, we have developed symbolic algorithms and their open-source implementations that effectively solve liveness verification problem for industrially relevant hardware systems. In principle, our tool-suite works on any sequential hardware circuit and for the whole family of ω-regular properties. Practicality and effectiveness of our tool-suite have been demonstrated in the context of proving response properties (a very common and important liveness property) of on-chip communication fabrics.},
+}
+EndNote citation:
+%0 Thesis
+%A Ray, Sayak
+%T Scalable Model Checking Beyond Safety - A Communication Fabric Perspective
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 November 4
+%@ UCB/EECS-2013-181
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-181.html
+%F Ray:EECS-2013-181

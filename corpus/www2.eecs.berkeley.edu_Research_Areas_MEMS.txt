@@ -1,0 +1,77 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/MEMS
+Micro/Nano Electro Mechanical Systems (MEMS)
+Overview
+The field of microelectromechanical systems (or MEMS) encompasses tiny (generally chip-scale) devices or systems capable of realizing functions not easily achievable via transistor devices alone.  Among the useful functions realized via MEMS are:
+Sensing of various parameters that include inertial variables, such as acceleration and rotation rate; other physical variables, such as pressure and temperature; chemicals, often gaseous or liquids; biological species, such as DNA or cells; and a myriad of other sensing modes, e.g., radiation.
+Control of physical variables, such as the direction of light (e.g., laser light), the direction of radiated energy, the flow of fluids, the frequency content of signals, etc.
+Generation and/or delivery of useful physical quantities, such as ultra-stable frequencies, power, ink, and drug doses, among many others.
+Although useful, the above functional list falls short of describing some of more fundamentally important aspects of MEMS that allows this field to accomplish incredible things. In particular, MEMS design and technology fundamentally offer the benefits of scaling in physical domains beyond the electrical domain, to include the mechanical, chemical, and biological domains. The scaling benefits enabled by MEMS technology are reminiscent of some already experienced by electronic devices in the IC revolution, namely
+Faster speed, as manifested by higher mechanical resonance frequencies, faster thermal time constants, etc., as dimensions scale.
+Lower power or energy consumption, as manifested by the smaller forces required to move tiny mechanical elements, or the smaller thermal capacities and higher thermal isolations achievable that lead to much smaller power consumptions required to maintain certain temperatures.
+Higher functional complexity, whereby integrated circuits of mechanical links and resonators, fluidic channels and mixers, movable mirrors and gratings, etc., now become feasible with MEMS technology.
+Unfortunately, although scaling does bring about significant benefits, it can also introduce penalties. For example, although miniaturization of accelerometers lowers cost and greatly enhances their g-force survivability, it also often results in reduced resolution—a drawback that a MEMS designer alleviates via proper design strategy. In essence, the art of MEMS design equates to the ability to harness the benefits of scaling while circumventing its consequences.
+Topics
+Physical Sensors
+Micro- and nano-scale sensors for acceleration, rotation, velocity, pressure, stress, temperature, based on a variety of physical principles, from solid-body or gaseous mechanical displacement, to expansion/contraction, to atomic spin reorientation
+Chemical Sensors
+Micro- and nano-scale sensors for liquids and vapors using a variety of methods to reduce false alarm rates and maximize sensitivity, from micro-scale chromatography, to nanomechanically resonant gravimetric sensors, to massively parallel ion trap mass spectrometers, to photoacoustic IR and other spectroscopic methods
+Bio Sensors
+Micro- and nano-scale sensors for blood sugar, disease, viruses, DNA analyses, and other biological analytes, employing such mechanisms and concepts as electrophoresis, micro-scale pumping and valving, and channels for cell sorting
+Micromechanical Signal Processors and RF MEMS
+Micromechanical circuits and mechanisms for frequency generation and filtering, mixing, amplification, and computation, for such applications as (wireless) communications, antennas, A/D converters, memory, and logic, and employing micromachined structures, interconnections of moving low-loss and high-Q mechanical structures to process signals in the mechanical domain; and atomic state energy differences to specify accurate frequencies
+Optical MEMS
+Micro-scale concepts and mechanisms for spectroscopic sensors and analysis tools, optical tables, chip-scale atomic clocks, employing such technologies as micro-scale  lenses, gratings, mirrors, thermally isolating gimbals, on-chip lasers (e.g., VCSEL's), mechanical photodetectors/electron counters
+Micro/Nano Fabrication
+Top down surface and bulk micromachining in various materials, from polysilicon, to electroplated metals, to polymers; bottom up micro- and nano-scale construction methods; micro-assembly methods (e.g., fluidic micro-assembly, directed self-assembly); single-chip integration of MEMS with transistors; wafer-scale bonding
+Microfluidics
+Micro- and nano-scale mechanisms and technologies for moving (i.e., pumping), mixing, and reacting fluids, for such applications as micro-chemical reactors; fuel cells, microengines, and other power generating devices; chemical, bio, and physical sensors; efficient on-chip heating and cooling
+BioMEMS
+Micro- and nano-scale mechanisms for morphogenesis, neural stimulation, cell interrogation, brain-machine interfaces, and cochlear prosthesis, employing such technique as directed evolution, bio-circuits for bottom up construction, arrayed micro-injectors for spatial control of biological input variables (i.e., fuels)
+Micro-robotics
+Design, simulation, and fabrication technologies for millimeter-scale mobile autonomous systems; efficient actuation; energy scavenging, storage, and conversion; mechanisms for locomotion; system integration
+Wireless Sensor Networks
+Low power sensors, sensor interfaces, computation, and communication circuits; energy scavenging; system integration; low power communication protocols
+Research Centers
+Berkeley Sensor & Actuator Center
+Marvell NanoLab
+Faculty
+Primary
+Clark Nguyen  (coordinator)
+Kristofer Pister
+Haoning Tang
+Ming C. Wu
+Secondary
+Mekhail Anwar
+Jessica Boles
+Bernhard Boser
+Yuan Cao
+Ali Javey
+Tsu-Jae King Liu
+Luke Lee
+Michael Lustig
+Michel Maharbiz
+Richard S. Muller
+Rikky Muller
+Jaijeet Roychowdhury
+Alp Sipahigil
+Vladimir Stojanovic
+Grigory Tikhomirov
+Mengjie Yu
+Faculty Awards
+Silicon Valley Engineering Hall of Fame:
+Tsu-Jae King Liu, 2018.
+National Academy of Engineering (NAE) Member:
+Tsu-Jae King Liu, 2017.
+Richard S. Muller, 1992.
+Berkeley Citation:
+Tsu-Jae King Liu, 2025.
+Richard S. Muller, 1994.
+Sloan Research Fellow:
+Yuan Cao, 2026.
+Michael Lustig, 2013.
+Ali Javey, 2010.
+Related Courses
+EE 147. Introduction to Microelectromechanical Systems (MEMS)
+EE C246. Parametric and Optimal Design of MEMS
+EE 247A. Introduction to Microelectromechanical Systems (MEMS)
+EE 290G. Advanced Topics in Electrical Engineering: Advanced Topics in Mems, Microsensors, and Microactuators

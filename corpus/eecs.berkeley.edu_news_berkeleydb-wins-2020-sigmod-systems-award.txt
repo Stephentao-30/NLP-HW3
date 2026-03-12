@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/berkeleydb-wins-2020-sigmod-systems-award
+BerkeleyDB wins 2020 SIGMOD Systems Award - EECS at Berkeley
+The creators of BerkeleyDB (BDB) have won the 2020 Association for Computing Machinery (ACM) Special Interest Group on Management of Data (SIGMOD) Systems Award for their “seminal work in embodying simplicity, quality, and elegance in a high-performance key-value store that has impacted many systems and applications over the last 25 years.”   BDB is a software library that originated as an effort to free up the user space utilities in BSD, UC Berkeley’s free version of the Unix operating system.  It used revolutionarily simple function-call APIs for data access and management, which allowed developers to create custom solutions at a fraction of the usual cost.  Keith Bostic, a member of Berkeley’s Computer Science Research Group (CSRG), and his wife, graduate student Margo Seltzer (Ph.D. ’92, advisor: Michael Stonebraker), co-founded Sleepycat Software, Inc. to provide commercial support for BDB.  Seltzer served as CTO, Bostic as VP Eng and Product Architect, and former Berkeley student and BDB co-developer Mike Olson (who later co-founded Cloudera) was the first full-time employee and later served as CEO.  Seltzer, Bostic, and Olson are among the 16 developers cited for the award. BDB ships in every copy of Linux and BSD; drove most LDAP servers, and powered a large portion of the Web 1.0.
+Categories
+Alumni
+Entrepreneurship
+Honors
+Industry
+Research
+View
+Open Faculty Positions

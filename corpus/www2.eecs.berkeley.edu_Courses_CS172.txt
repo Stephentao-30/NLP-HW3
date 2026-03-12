@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS172
+Course: CS172 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS172
+CS 172. Computability and Complexity
+Catalog Description:  Finite automata, Turing machines and RAMs. Undecidable, exponential, and polynomial-time problems. Polynomial-time equivalence of all reasonable models of computation. Nondeterministic Turing machines. Theory of NP-completeness: Cook's theorem, NP-completeness of basic problems. Selected topics in language theory, complexity and randomness.
+Units:  4.0
+Prerequisites:  170.
+Formats:  Fall: 3 hours of lecture and  1 hour of discussion per week
+Spring: 3 hours of lecture and  1 hour of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+MoWe 2:30PM - 3:59PM, Soda 306 –
+Carlos Munoz
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Provide a sound understanding of the fundamental limits of computation, as evidenced by the existence of non-computable functions, NP-hard problems etc.  Formalize key abstract concepts such as machine models, language classes, universal machines, reducibility, computability, and resource-bounded computation.  Understand how these concepts relate to practical issues such as compiler design, program checking, computational intractability, approximability and cryptography.
+Topics covered:
+CS 172 presents some of the most fundamental results in theoretical Computer Science. These results attempt to answer, in a precise mathematical sense, the following two questions, which are of obvious practical as well as philosophical interest:
+Can a given problem be solved by computation?
+How efficiently can a given problem be solved by computation?
+Thus, unlike CS 170, this course focuses on problems rather than on specific algorithms for solving problems. A precise formulation of the two questions above requires a formalization of the notion of "computer" or "machine". Thus the course outline breaks naturally into three parts:
+Models of computation (Automata Theory)
+Finite automata and regular languages.
+Push-down automata and context-free languages.
+Turing machines and recursive languages.
+What can we compute? (Computability Theory): existence of non-computable functions, the Halting problem, diagonalization, reductions, Rice's Theorem.
+How efficiently can we compute? (Complexity Theory): time- and space-bounded computation, the classes P and NP, NP-completeness, space-bounded computation (PSPACE and NL), provably exponential time languages, circuit complexity, zero knowledge proofs, applications to cryptography.
+Related Areas:
+Security (SEC)   Theory (THY)

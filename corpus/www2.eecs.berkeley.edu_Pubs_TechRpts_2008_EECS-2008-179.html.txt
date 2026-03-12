@@ -1,0 +1,18 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/EECS-2008-179.html
+Contextual Bootstrapping for Grammar Learning | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Contextual Bootstrapping for Grammar Learning
+Contextual Bootstrapping for Grammar Learning
+THIS REPORT HAS BEEN WITHDRAWN
+Eva H. Mok
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2008-179
+December 19, 2008
+The problem of grammar learning is a challenging one for both children and machines due to impoverished input: hidden grammatical structures, lack of explicit correction, and in pro-drop languages, argument omission. This dissertation describes a computational model of child grammar learning using a probabilistic version of Embodied Construction Grammar (ECG) that demonstrates how the problem of impoverished input is alleviated through bootstrapping from the situational context. This model represents the convergence of: (1) a unified representation that integrates semantic knowledge, linguistic knowledge, and contextual knowledge, (2) a context-aware language understanding process, and (3) a structured grammar learning and generalization process.
+Using situated child-directed utterances as learning input, the model performs two concurrent learning tasks: structural learning of the grammatical units and statistical learning of the associated parameters. The structural learning task is a guided search over the space of possible constructions. The search is informed by embodied semantic knowledge that it has gathered through experience with the world even before learning grammar and situational knowledge that the model obtains from context. The statistical learning task requires continuous updating of the parameters associated with the probabilistic grammar based on usage and these parameters reflect shifting preferences on learned grammatical structures. The computational model of grammar learning has been validated in two ways. It has been applied to a subset of the CHILDES Beijing corpus, which is a corpus of naturalistic parent-child interaction in Mandarin Chinese. Its learning behavior has also been more closely examined using an artificial miniature language. This learning model provides a precise, computational framework for fleshing out theories of construction formation and generalization.
+Advisor:  Jerome A. Feldman
+Author Comments:  Original submission was truncated. Updated submission can be found at: http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-12.html

@@ -1,0 +1,24 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS61A
+CS 61A. The Structure and Interpretation of Computer Programs
+Catalog Description:  An introduction to programming and computer science focused on abstraction techniques as means to manage program complexity. Techniques include procedural abstraction; control abstraction using recursion, higher-order functions, generators, and streams; data abstraction using interfaces, objects, classes, and generic operators; and language abstraction using interpreters and macros. The course exposes students to programming paradigms, including functional, object-oriented, and declarative approaches. It includes an introduction to asymptotic analysis of algorithms. There are several significant programming projects.
+Units:  4
+Related Areas:
+Programming Systems (PS)
+Prerequisites:  MATH 51 (may be taken concurrently); or MATH 10A; or MATH 16A; and programming experience equivalent to that gained from a score of 3 or above on the Advanced Placement Computer Science exam.
+Credit Restrictions:  Students will receive no credit for COMPSCI 61A after completing COMPSCI 47A, COMPSCI 61AS, or COMPSCI W61A. A deficient grade in COMPSCI 61A may be removed by taking COMPSCI 61AS, or COMPSCI W61A.
+Formats:  Fall: 3.0 hours of lecture, 1.5 hours of discussion, and 1.5 hours of laboratory per week
+Summer: 6.0 hours of lecture, 3.0 hours of discussion, and 3.0 hours of laboratory per week
+Spring: 3.0 hours of lecture, 1.5 hours of discussion, and 1.5 hours of laboratory per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 61A –                MoWeFr 13:00-13:59, Dwinelle 155 –
+Dan Garcia ,  Manuel A Sabin Class Notes
+- Lectures will be recorded.
+- Time conflicts are allowed.
+- There will be an alternate final exam offered immediately after the regular final.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

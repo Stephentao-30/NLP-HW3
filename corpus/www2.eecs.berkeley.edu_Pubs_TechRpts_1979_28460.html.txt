@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28460.html
+Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms
+Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms
+D.L. Chaum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/9
+February 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-9.pdf
+BibTeX citation:
+@techreport{Chaum:M79/9,
+Author = {Chaum, D.L.},
+Title = {Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28460.html},
+Number = {UCB/ERL M79/9}
+}
+EndNote citation:
+%0 Report
+%A Chaum, D.L.
+%T Untraceable Electronic Mail, Return Addresses, and Digital Psudonyms
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/9
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28460.html
+%F Chaum:M79/9

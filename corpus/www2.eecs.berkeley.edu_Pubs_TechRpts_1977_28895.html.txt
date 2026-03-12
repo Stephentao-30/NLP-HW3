@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28895.html
+A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects
+A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects
+L.O. Chua and Y.W. Sing
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/40
+June 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-40.pdf
+BibTeX citation:
+@techreport{Chua:M77/40,
+Author = {Chua, L.O. and Sing, Y.W.},
+Title = {A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28895.html},
+Number = {UCB/ERL M77/40}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Sing, Y.W.
+%T A Generalized Nonlinear Lumped Circuit Model for Gunn Diodes Which Includes Field-Dependent Diffusion Effects
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28895.html
+%F Chua:M77/40

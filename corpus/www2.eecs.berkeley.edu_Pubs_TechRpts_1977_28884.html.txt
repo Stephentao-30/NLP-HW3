@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28884.html
+And Now for Something Completely Different: The Texas Instruments SR-52 | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+And Now for Something Completely Different: The Texas Instruments SR-52
+And Now for Something Completely Different: The Texas Instruments SR-52
+W. Kahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/23
+April 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-23.pdf
+BibTeX citation:
+@techreport{Kahan:M77/23,
+Author = {Kahan, W.},
+Title = {And Now for Something Completely Different: The Texas Instruments SR-52},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28884.html},
+Number = {UCB/ERL M77/23}
+}
+EndNote citation:
+%0 Report
+%A Kahan, W.
+%T And Now for Something Completely Different: The Texas Instruments SR-52
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/23
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28884.html
+%F Kahan:M77/23

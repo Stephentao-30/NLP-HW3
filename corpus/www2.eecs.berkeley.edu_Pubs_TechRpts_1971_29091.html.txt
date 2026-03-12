@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29091.html
+Global Inverse Function Theorem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Global Inverse Function Theorem
+Global Inverse Function Theorem
+Felix F. Wu and Charles A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M300
+April 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-300.pdf
+BibTeX citation:
+@techreport{Wu:M300,
+Author = {Wu, Felix F. and Desoer, Charles A.},
+Title = {Global Inverse Function Theorem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29091.html},
+Number = {UCB/ERL M300}
+}
+EndNote citation:
+%0 Report
+%A Wu, Felix F.
+%A Desoer, Charles A.
+%T Global Inverse Function Theorem
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M300
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29091.html
+%F Wu:M300

@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/justin-yim-wins-best-student-paper-award-icra-2019
+Justin Yim wins Best Student Paper Award at ICRA 2019 - EECS at Berkeley
+EECS PhD student Justin Yim (with advisor EECS Prof. Ron Fearing and ME undergraduate co-author Eric Wang) has won the best student paper award at the 2019 IEEE International Conference on Robotics and Automation (ICRA) (May 20-24, Montreal) for his paper “Drift-free Roll and Pitch Estimation for High-acceleration Hopping.”  The robot “Salto” (Saltatorial Agile Locomotion on Terrain Obstacles) was previously restricted to only indoor operation in a room equipped with a motion tracking system. In the newest paper, Salto can now estimate its own position by combining its onboard inertial sensor with a model of its takeoffs and landings. This improved estimate allows Salto to hop outside with human steering.
+Categories
+Faculty
+Honors
+publications
+Research
+Students
+View
+Open Faculty Positions

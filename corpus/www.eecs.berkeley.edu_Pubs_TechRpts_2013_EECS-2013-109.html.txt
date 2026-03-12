@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-109.html
+Predicting Student Retention in Massive Open Online Courses using Hidden Markov Models
+Girish Balakrishnan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-109
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-109.pdf
+Massive Open Online Courses (MOOCs) have a high attrition rate: most students who register for a course do not complete it. By examining a student’s history of actions during a course, we can predict whether or not they will drop out in the next week, facilitating interventions to improve retention. We compare predictions resulting from several modeling techniques and several features based on different student behaviors. Our best predictor uses a Hidden Markov Model (HMM) to model sequences of student actions over time, and encodes several continuous features into a single discrete observable state using a simple cross-product method. It yielded an ROC AUC (Receiver Operating Characteristic Area Under the Curve score) of 0.710, considerably better than a random predictor. We also use simpler HMM models to derive information about which student behaviors are most salient in determining student retention.
+Advisors:  Armando Fox
+BibTeX citation:
+@mastersthesis{Balakrishnan:EECS-2013-109,
+Author= {Balakrishnan, Girish},
+Title= {Predicting Student Retention in Massive Open Online Courses using Hidden Markov Models},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-109.html},
+Number= {UCB/EECS-2013-109},
+Abstract= {Massive Open Online Courses (MOOCs) have a high attrition rate: most students who register for a course do not complete it. By examining a student’s history of actions during a course, we can predict whether or not they will drop out in the next week, facilitating interventions to improve retention. We compare predictions resulting from several modeling techniques and several features based on different student behaviors. Our best predictor uses a Hidden Markov Model (HMM) to model sequences of student actions over time, and encodes several continuous features into a single discrete observable state using a simple cross-product method. It yielded an ROC AUC (Receiver Operating Characteristic Area Under the Curve score) of 0.710, considerably better than a random predictor. We also use simpler HMM models to derive information about which student behaviors are most salient in determining student retention.},
+}
+EndNote citation:
+%0 Thesis
+%A Balakrishnan, Girish
+%T Predicting Student Retention in Massive Open Online Courses using Hidden Markov Models
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-109
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-109.html
+%F Balakrishnan:EECS-2013-109

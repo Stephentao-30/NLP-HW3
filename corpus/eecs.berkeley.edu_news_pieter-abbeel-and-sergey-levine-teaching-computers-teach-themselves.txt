@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/pieter-abbeel-and-sergey-levine-teaching-computers-teach-themselves
+Pieter Abbeel and Sergey Levine: teaching computers to teach themselves - EECS at Berkeley
+EECS Prof. Pieter Abbeel and Assistant Prof. Sergey Levine both appear in a New York Times article titled “Computers Already Learn From Us. But Can They Teach Themselves?” which describes the work of scientists who “are exploring approaches that would help machines develop their own sort of common sense.”  Abbeel, who runs the Berkeley Robot Learning Lab, uses reinforcement-learning systems that compete against themselves to learn faster in a method called self-play.  Levine, who runs the Robotic AI & Learning Lab, is using a form of self-supervised learning in which robots explore their environment to build a base of knowledge.
+Categories
+Faculty
+publications
+Research
+View
+Open Faculty Positions

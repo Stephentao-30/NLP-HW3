@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28918.html
+A New Model for the Recognition of Strings of Symbols | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A New Model for the Recognition of Strings of Symbols
+A New Model for the Recognition of Strings of Symbols
+K. Abe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/10
+February 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-10.pdf
+BibTeX citation:
+@techreport{Abe:M78/10,
+Author = {Abe, K.},
+Title = {A New Model for the Recognition of Strings of Symbols},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28918.html},
+Number = {UCB/ERL M78/10}
+}
+EndNote citation:
+%0 Report
+%A Abe, K.
+%T A New Model for the Recognition of Strings of Symbols
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/10
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28918.html
+%F Abe:M78/10

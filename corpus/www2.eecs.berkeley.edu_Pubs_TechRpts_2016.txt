@@ -1,0 +1,195 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016
+Technical Reports - 2016
+CMOS Operational Amplifier Design  (EECS-2016-223) Navid Gougol
+The Case for a Local Tier in the Internet of Things  (EECS-2016-222) John Kolb, Kaifei Chen and Randy H. Katz
+Scalable High-Quality 3D Scanning  (EECS-2016-220) Karthik Narayan, Pieter Abbeel, Jitendra Malik, Alexei (Alyosha) Efros and Martin Banks
+Improving Cloud Security using Secure Enclaves  (EECS-2016-219) Jethro Beekman
+Sequential Quadratic Programming for Task Plan Optimization  (EECS-2016-218) Christopher Lin
+Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs  (EECS-2016-217) John Schulman
+Detecting Credential Compromise in Enterprise Networks  (EECS-2016-216) Mobin Javed
+Deconstruct, Imagine, Build: Bringing Advanced Manufacturing to the Maker Community  (EECS-2016-215) Joanne Lo
+Defending Dissidents from Targeted Digital Surveillance  (EECS-2016-213) William Marczak
+Fast, Automated Indoor Light Detection, Classification, and Measurement  (EECS-2016-212) Craig Hiller
+ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing  (EECS-2016-209) Johann Schleier-Smith, Erik T. Krogen and Joseph M. Hellerstein
+Exploring the Design Space of Deep Convolutional Neural Networks at Large Scale  (EECS-2016-207) Forrest Iandola
+On the Representation of Distributed Behavior  (EECS-2016-206) Christopher Shaver
+Accelerator Synthesis and Integration for CPU+FPGA Systems  (EECS-2016-205) Shaoyi Cheng
+Applications of Machine Learning to Support Dementia Care through Commercially Available Off-the-Shelf Sensing  (EECS-2016-204) George Netscher
+New Tools for Econometric Analysis of High-Frequency Time Series Data - Application to Demand-Side Management in Electricity Markets  (EECS-2016-203) Maximilian Balandat
+Enabling Scalable Smart-Building Analytics  (EECS-2016-201) Arka Bhattacharya
+End-to-End Large Scale Machine Learning with KeystoneML  (EECS-2016-200) Evan Sparks
+Discriminative Acoustic Features for Deployable Speech Recognition  (EECS-2016-199) Arlo Faria
+Micro Scale Mirrors For Optical Communication  (EECS-2016-198) Joseph Crowe and Zeph Cheung
+Avoiding communication in primal and dual block coordinate descent methods  (EECS-2016-197) Aditya Devarakonda, Kimon Fountoulakis, James Demmel and Michael W. Mahoney
+Avoiding communication in primal and dual block coordinate descent methods  (EECS-2016-196) Aditya Devarakonda
+Efficient Distributed Training of Vehicle Vision Systems  (EECS-2016-195) Sung-Li Chiang and Xinlei Pan
+Computational approaches to understanding the genetic architecture of complex traits  (EECS-2016-194) Brielin Brown
+BeaverDam: Video Annotation Tool for Computer Vision Training Labels  (EECS-2016-193) Anting Shen
+Signal-based Bayesian Seismic Monitoring  (EECS-2016-192) David Moore
+Classical Approaches to Understanding Quantum Systems  (EECS-2016-191) Seung Woo Shin
+Highly Scalable Silicon Photonic Switches Based on Waveguide Crossbar with Movable Waveguide Couplers  (EECS-2016-190) Sangyoon Han
+Advanced MOSFET Structures and Processes for Sub-7 nm CMOS Technologies  (EECS-2016-189) Peng Zheng
+Exploration of surface states in a monolayer MoS2 transistor by pulsed gating  (EECS-2016-188) Zhongyuan Lu
+Resonant Switched Capacitor DC-DC Converter with Stackable Conversion Ratios  (EECS-2016-187) Jikang Chen
+Nitrogen Doped Graphene Nanoribbons for Organic Photovoltaic Applications  (EECS-2016-186) Donatela Bellone and Ana Claudia Arias
+Audio Hashprints: Theory & Application  (EECS-2016-185) Timothy Tsai
+B.S.  (EECS-2016-184) Datong Paul Zhou and Claire Tomlin
+Variability Characterization of Imaging Readout Integrated Circuits in Deeply Scaled CMOS  (EECS-2016-183) Amy Whitcombe
+Resilient Design Techniques for Improving Cache Energy Efficiency  (EECS-2016-182) Brian Zimmer
+Next Generation Wireless Receiver Architecture Design in  Deep-Sub-Micron CMOS Technology  (EECS-2016-181) Chaoying Wu
+Low Noise, Low Power Cavity Optomechanical Oscillators  (EECS-2016-180) Alejandro Grine
+Energy-Efficient Equalization Circuits for High-Speed Wireline Links  (EECS-2016-178) Yue Lu
+Ultra-low Power Wake-up Radio for Low Activity Wireless System  (EECS-2016-177) Wenting Zhou
+Improved Nanowire Sensor for pH Measurements in solution  (EECS-2016-176) Maria Pace Pace
+All inkjet printed SnO2/ZrO2 transistors  (EECS-2016-174) Jaewon Jang
+Design Techniques for 50GS/s ADC  (EECS-2016-173) Yida Duan
+Photonic Integrated Circuits Using III-V Nanopillars Grown on Silicon  (EECS-2016-172) Wai Son Ko
+Energy-Efficient mm-Wave Systems for Communication and Sensing  (EECS-2016-171) Maryam Tabesh
+Silicon Carbide Bipolar Junction Transistors for High Temperature Sensing Applications  (EECS-2016-170) Nuo Zhang
+Maximum Model Counting  (EECS-2016-169) Daniel J. Fremont, Markus N. Rabe and Sanjit A. Seshia
+3D Telepresence for Reducing Transportation Costs  (EECS-2016-168) Gregorij Kurillo, Allen Y. Yang and Ruzena Bajcsy
+Post-Post-Modern Photography: Capture-Time Perceptual Matching For More Faithful Photographs  (EECS-2016-167) Rachel Albert and Alexei (Alyosha) Efros
+Surgical Automation for Multilateral Multi-Throw Suturing  (EECS-2016-166) Siddarth Sen
+Middleboxes as a Cloud Service  (EECS-2016-165) Justine Sherry
+Strober: Fast and Accurate Sample-Based Energy Simulation for Arbitrary RTL  (EECS-2016-163) Donggyu Kim
+Parallelepipeds obtaining HBL lower bounds  (EECS-2016-162) James Demmel and Alex Rusciano
+The RISC-V Instruction Set Manual Volume II: Privileged Architecture Version 1.9.1  (EECS-2016-161) Andrew Waterman, Yunsup Lee, Rimas Avizienis, David A. Patterson and Krste Asanović
+Data-Driven Cyber-Physical Systems via Real-Time Stream Analytics and Machine Learning  (EECS-2016-159) Ilge Akkaya
+Oracle-Guided Heap Interpolant Synthesis  (EECS-2016-158) Nishant Totla
+Micro-Electro-Mechanical Diode for Tunable Power Conversion  (EECS-2016-157) Benjamin Osoba
+Continuous and Discrete Dynamics for Online Learning and Convex Optimization  (EECS-2016-156) Walid Krichene
+Erasure Coding for Big-data Systems: Theory and Practice  (EECS-2016-155) Rashmi Vinayak
+CellMate: A Responsive and Accurate Vision-based Appliance Identification System  (EECS-2016-154) Kaifei Chen, Takeshi Mochida, Jonathan Fürst, John Kolb, David E. Culler and Randy H. Katz
+Understanding and Improving Graph Algorithm Performance  (EECS-2016-153) Scott Beamer
+Principles of Metalevel Control  (EECS-2016-152) Nicholas Hay
+Matrix Factorizations at Scale: a Comparison of Scientific Data Analytics in Spark and C+MPI Using Three Case Studies  (EECS-2016-151) Alex Gittens, Aditya Devarakonda, Evan Racah, Michael Ringenburg, Lisa Gerhardt, Jey Kottaalam, Jialin Liu, Kristyn Maschhoff, Shane Canon, Jatin Chhugani, Pramod Sharma, Jiyan Yang, James Demmel, Jim Harrell, Venkat Krishnamurthy, Michael W. Mahoney and Mr Prabhat
+Designing Video-Based Interactive Instructions  (EECS-2016-150) Pei-Yu (Peggy) Chi
+Fast Randomized Algorithms for Convex Optimization and Statistical Estimation  (EECS-2016-147) Mert Pilanci
+Accurate Booleanization of Continuous Dynamics for Analog/Mixed-Signal Design  (EECS-2016-146) Karthik Aadithya
+Integrated MEMS Cavity Optomechanical Oscillators for Wireless and Optical Communications  (EECS-2016-145) Turker Beyazoglu
+Taming Evasions in Machine Learning Based Detection Pipelines  (EECS-2016-144) Alex Kantchelian
+Understanding Latency Hiding on GPUs  (EECS-2016-143) Vasily Volkov
+Benchmarks for Cloud Robotics  (EECS-2016-142) Arjun Singh
+Random-cluster dynamics  (EECS-2016-141) Antonio Blanca-Pimentel
+Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling  (EECS-2016-140) Animesh Garg
+Adaptive Learning Algorithms for Transferable Visual Recognition  (EECS-2016-139) Judy Hoffman
+Algorithms for Identifying Syntactic Errors and Parsing with Graph Structured Output  (EECS-2016-138) Jonathan K. Kummerfeld
+Identifying and Resolving Entities in Text  (EECS-2016-137) Greg Durrett
+Understanding Memory Configurations for In-Memory Analytics  (EECS-2016-136) Charles Reiss
+Scalable Parallel Algorithms for Genome Analysis  (EECS-2016-135) Evangelos Georganas
+Fabbed to Sense: Integrated Design of Geometry and Sensing Algorithms for Interactive Objects  (EECS-2016-134) Valkyrie Savage
+DFS-Perf: A Scalable and Unified Benchmarking Framework for Distributed File Systems  (EECS-2016-133) Rong Gu, Qianhao Dong, Haoyuan Li, Joseph Gonzalez, Zhao Zhang, Shuai Wang, Yihua Huang, Scott Shenker, Ion Stoica and Patrick P. C. Lee
+Contextual Visual Recognition from Images and Videos  (EECS-2016-132) Georgia Gkioxari and Jitendra Malik
+Fast and accurate quantification and differential analysis of transcriptomes  (EECS-2016-131) Harold Pimentel and Lior Pachter
+The Renewed Case for the Reduced Instruction Set Computer: Avoiding ISA Bloat with Macro-Op Fusion for RISC-V  (EECS-2016-130) Christopher Celio, Daniel Dabbelt, David A. Patterson and Krste Asanović
+The RISC-V Instruction Set Manual Volume II: Privileged Architecture Version 1.9  (EECS-2016-129) Andrew Waterman, Yunsup Lee, Rimas Avizienis, David A. Patterson and Krste Asanović
+A Framework for Network Function Virtualization  (EECS-2016-128) Chang Lan
+Predicting Percent Spliced In (PSI) in Alternative Splicing Using Deep Networks  (EECS-2016-127) Fadi Kfoury and Emin Arakelian
+Predicting Percent Spliced In (PSI) in Alternative Splicing Using Deep Networks  (EECS-2016-126) Emin Arakelian and Fadi Kfoury
+A Programming Interface for Scalable Network Socket I/O  (EECS-2016-125) Sangjin Han
+Combining Requirement Mining, Software Model Checking, and Simulation-Based Verification for Industrial Automotive Systems  (EECS-2016-124) Tomoya Yamaguchi, Tomoyuki Kaga, Alexandre Donze and Sanjit A. Seshia
+Reducing Faulty Executions of Distributed Systems  (EECS-2016-123) Robert Colin Butler Scott
+Low Rank Approximation of a Sparse Matrix Based on LU Factorization with Column and Row Tournament Pivoting  (EECS-2016-122) James Demmel, Laura Grigori and Sebastien Cayrols
+Efficient Reproducible Floating Point Summation and BLAS  (EECS-2016-121) James Demmel, Willow Ahrens and Hong Diep Nguyen
+Programmable Materials (Skintillates) - Final Report  (EECS-2016-120) Saurabh Mitra, Yuhao Liu and Yi Tong
+“Doing nothing well": OS-Application coordination for energy saving  (EECS-2016-119) Kalyanaraman Shankari, David E. Culler and Randy H. Katz
+The RISC-V Instruction Set Manual, Volume I: User-Level ISA, Version 2.1  (EECS-2016-118) Andrew Waterman, Yunsup Lee, David A. Patterson and Krste Asanović
+Decoupled Vector-Fetch Architecture with a Scalarizing Compiler  (EECS-2016-117) Yunsup Lee
+Bond: A Spy-based Testing and Mocking Library  (EECS-2016-116) Erik Krogen
+Observer-Aware Action Sequence Planning for Human-Robot Collaboration  (EECS-2016-115) Chang Liu
+Fast and Accurate Performance Analysis of LTE Radio Access Networks  (EECS-2016-114) Anand Padmanabha Iyer, Ion Stoica, Mosharaf Chowdhury and Li Erran Li
+Building a Distributed, GPU-based Machine Learning Library  (EECS-2016-113) Richard Chiou, James Jia, Pradeep Kalipatnapu and Yiheng Yang
+Building a Distributed, GPU-based Machine Learning Library  (EECS-2016-112) James Jia, Pradeep Kalipatnapu and Yiheng Yang
+Interactive Exploration on Large Genomic Datasets  (EECS-2016-111) Eric Tu
+OnPoint: A Social and Mobile Platform to Optimize Health Services for Complex, Chronic Care Management  (EECS-2016-109) Angela Hsueh
+Machine Learning, Wearable Computing and Alzheimer’s Disease  (EECS-2016-108) Jun Jie Ng, Yanrong Li, Chong Wee Tan, Marie Douriez and Ludovic Thea
+A Telemonitoring Solution to Long-Distance Running Coaching  (EECS-2016-107) Uma Balakrishnan, Hannah Sarver, Lucas Serven and Eugene Song
+An Analysis of the RPL Routing Standard for Low Power and Lossy Networks  (EECS-2016-106) Aishwarya Parasuram
+Petabit Switch Fabric Design  (EECS-2016-105) Jingxue Zhou, Jen-Hung Lo and Yue Cao
+OnPoint: A Social and Mobile Platform for Optimizing Health Services for Complex Chronic Care Management  (EECS-2016-104) Bill Kim
+Low Noise Integrated CMOS Direct Conversion RF Receiver Front-End  (EECS-2016-102) Kai Yiu Tam
+Digital Radio Baseband and Testbed for Next Generation Wireless Systems  (EECS-2016-101) Gilbert Lityo
+A Telemonitoring Solution to Long-Distance Running Coaching  (EECS-2016-100) Lucas Serven, Carlos Asuncion, Uma Balakrishnan, Hannah Sarver and Eugene Song
+A Telemonitoring Solution to Long-Distance Running Coaching  (EECS-2016-99) Eugene Song, Carlos Asuncion, Uma Balakrishnan, Hannah Sarver and Lucas Serven
+Beamforming and MIMO Digital Radio Baseband and Testbed for Next Generation Wireless System  (EECS-2016-98) Yiduo Xu
+Understanding and Designing Convolutional Networks for Local Recognition Problems  (EECS-2016-97) Jonathan Long
+Scalable Video-on-Demand With Edge Resources  (EECS-2016-96) Alagu Sanjana Haribhaskaran
+Beamforming and MIMO Digital Radio Baseband and Testbed for Next Generation Wireless Systems  (EECS-2016-95) Niral Sheth
+A Telemonitoring Solution to Long-Distance Running Coaching  (EECS-2016-94) Uma Balakrishnan, Carlos Asuncion, Hannah Sarver, Lucas Serven and Eugene Song
+Beamforming and MIMO Digital Radio Baseband and Testbed for Next Generation Wireless System  (EECS-2016-93) Zhen Yuan
+Driving dataset in the wild: Various driving scenes  (EECS-2016-92) Kurt Keutzer and Byung Gon Song
+Machine Learning, Wearable Computing, and Alzheimer's Disease  (EECS-2016-91) Yanrong Li, Jun Jie Ng, Chong Wee Tan, Marie Douriez and Ludovic Thea
+Drill Sergeant: Supporting Physical Construction Projects through an Ecosystem of Augmented Tools  (EECS-2016-90) Michelle Nguyen, Eldon Schoop, Mitchell Karchemsky, Valkyrie Savage, Björn Hartmann and Sean Follmer
+Productive Design of Extensible On-Chip Memory Hierarchies  (EECS-2016-89) Henry Cook
+Petabit Switch Fabric Design  (EECS-2016-88) Yue Cao, Jen-Hung Lo and Jingxue Zhou
+Digital Radio Baseband and Testbed for Next Generation Wireless System  (EECS-2016-87) Naing Ye Aung
+Analysis and comparison of Fourier Ptychographic phase retrieval algorithms  (EECS-2016-86) Li-Hao Yeh
+A Telemonitoring Solution to Long-Distance Running Coaching  (EECS-2016-85) Hannah Sarver, Carlos Asuncion, Uma Balakrishnan, Lucas Serven and Eugene Song
+Scalable Video-on-Demand with Edge Resources  (EECS-2016-84) Ryan Kashi
+Fault Tolerant Control and Localization for Autonomous Driving: Systems and Architecture  (EECS-2016-83) ByungHyun Shin
+Sensor Fusion and Online Calibration of an Ambulatory Backpack System for Indoor Mobile Mapping  (EECS-2016-81) Nicholas Corso
+Uses and Limitations of Micro-Synchrophasor Measurements in Distribution Grid Management  (EECS-2016-80) Kyle Brady
+Low-Rank Matrix Completion for Positive Semidefinite Matrices  (EECS-2016-79) Jaya Narasimhan
+Variational and Dynamical Perspectives On Learning and Optimization  (EECS-2016-78) Andre Wibisono
+Design of the Aggregator Module ASIC for the Octopus-Mimetic Neural Implant (OMNI)  (EECS-2016-77) Nathaniel Mailoa
+OnPoint: A Social and Mobile Platform for Optimizing Health Services for Complex Chronic Care Management  (EECS-2016-75) Zhuosi wang
+Programmable Materials  Final Report  (EECS-2016-74) Yuhao Liu, Yi Tong, Saurabh Mitra and Eric Paulos
+Digital Radio Baseband and Testbed for Next Generation Wireless System  (EECS-2016-73) Xiaohui Li
+Optical Antenna Enhanced Spontaneous Emission in Semiconductors  (EECS-2016-72) Kevin Messer
+Design and User Guide for the Single Chip Mote Digital System  (EECS-2016-71) Sahar Mesri
+A Contextually-Aware, Privacy-Preserving Android Permission Model  (EECS-2016-69) Arjun Baokar
+Multimodal Indoor Device Localization  (EECS-2016-68) Joseph Menke
+Investigating Computational Approaches and Proposing Hardware Improvement to the Vision Correcting Display  (EECS-2016-67) Zehao Wu
+Sensor-Driven Musculoskeletal Dynamic Modeling  (EECS-2016-66) Laura Hallock, Robert Matthew, Sarah Seko and Ruzena Bajcsy
+Robust Geometry Kernel and UI for Handling Non-orientable 2-Mainfolds  (EECS-2016-65) Yu Wang
+Graphic Tool For Big Data - A Simulation System for Search Ads Auction  (EECS-2016-64) Jian Qiao, Ryan Casey, Tian Liu and Marc Capelo
+The Narrative Explorer  (EECS-2016-63) Natalia Bilenko
+Feature Design for Robust Speech Recognition: Nurture and Nature  (EECS-2016-62) Shuo-Yiin Chang
+Data Modeling and Interactive Visualization for Advertisement Auction Modeling  (EECS-2016-61) John F. Canny, Biye Jiang, Ryan Casey, Jian Qiao, Tian Liu and Marc Capelo
+Speeding up distributed storage and computing systems using codes  (EECS-2016-59) Kangwook Lee
+Tor's Usability for Censorship Circumvention  (EECS-2016-58) Linda Lee, David Fifield, Nathan Malkin, Ganesh Iyer, Serge Egelman and David Wagner
+Automated Pricing Agents in the On-Demand Economy  (EECS-2016-57) Tony Wu
+Scalable Network Forensics  (EECS-2016-55) Matthias Vallentin
+Co-tuning of Software Specializers and Hardware Accelerators within a CNN Application  (EECS-2016-53) Sean Roberts
+Building a Distributed, GPU based Machine Learning library  (EECS-2016-52) Pradeep Kalipatnapu, Yiheng Yang, James Jia and Richard Chiou
+Implementing a GPU-based Machine Learning Library on Apache Spark  (EECS-2016-51) James Jia, Pradeep Kalipatnapu, Richard Chiou and Yiheng Yang
+Entrepreneurial Patent Data Analysis  (EECS-2016-50) Alper Vural, Nikhil Narayen and Martin Gouy
+Capstone Project Report - Programmable Materials  (EECS-2016-49) Yuhao Liu
+Distributed machine learning with communication constraints  (EECS-2016-47) Yuchen Zhang
+Petabit Switch Fabric Design  (EECS-2016-46) Jen-Hung Lo, Yue Cao and Jingxue Zhou
+Data-efficient De novo Genome Assembly Algorithm : Theory and Practice  (EECS-2016-43) Ka Kit Lam
+Scalable Video-on-Demand With Edge Resources  (EECS-2016-42) Jiayuan Chen
+Learning Compound Multi-Step Controllers under Unknown Dynamics  (EECS-2016-41) Weiqiao Han, Sergey Levine and Pieter Abbeel
+AutoStyle: Scale-driven Hint Generation for Coding Style  (EECS-2016-40) Rohan Roy Choudhury, Hezheng Yin, Joseph Moghadam, Antares Chen and Armando Fox
+Fast Parallel SAME Gibbs Sampling on General Discrete Bayesian Networks and Factor Graphs  (EECS-2016-39) Haoyu Chen and John F. Canny
+Pervasive Well-being Technology  (EECS-2016-37) Pablo Paredes
+Flexible Photonics with High Contrast Metastructures  (EECS-2016-35) Li Zhu
+Synthesis and Characterization of the Gold Nanoparticle/SU-8 Nanocomposite Material  (EECS-2016-34) Anju Toor
+Design and Engineering of Pattern Formation in Gene Expression in Escherichia coli  (EECS-2016-32) Justin Hsia
+4H-Silicon Carbide p-n Diode for Harsh Environment Sensing Applications  (EECS-2016-31) Shiqian Shao
+Synthesis, Characterization, and Applications of Solution-processed Nanomaterials: From Thin-film Transistors to Flexible “Smart Bandages”  (EECS-2016-30) Sarah Swisher
+Enhancement of the Spin Hall Effect in Heavy Metal Bilayers  (EECS-2016-29) Haron Abdel-Raziq
+Optimal Architecture Selection for an Aircraft Environmental Control System  (EECS-2016-28) John Finn and Alberto L. Sangiovanni-Vincentelli
+Force Sensing Shell using a Planar Sensor for Miniature Legged Robots  (EECS-2016-26) Joshua D. Goldberg and Ronald S. Fearing
+An Energy-Efficient Triple-Channel UWB-based Cognitive Radio  (EECS-2016-25) Nam-Seog Kim
+Analytics for NetApp E-Series AutoSupport Data Using Big Data Technologies  (EECS-2016-24) Jialiang Zhang
+Millimeter-Wave/Terahertz Circuits and Systems for Wireless Communication  (EECS-2016-22) Siva Viswanathan Thyagarajan
+Design of Ultrasonic Power Link for Neural Dust  (EECS-2016-21) Dongjin Seo
+Safety, Risk Awareness and Exploration in Reinforcement Learning  (EECS-2016-20) Teodor Moldovan
+Millimeter-Wave/Sub-Terahertz CMOS Transceivers for High-Speed Wireless Communications  (EECS-2016-19) Shinwon Kang
+Time-Division Duplexing Solutions for Wireless Transcievers  (EECS-2016-18) Amanda Pratt
+The Rocket Chip Generator  (EECS-2016-17) Krste Asanović, Rimas Avizienis, Jonathan Bachrach, Scott Beamer, David Biancolin, Christopher Celio, Henry Cook, Daniel Dabbelt, John Hauser, Adam Izraelevitz, Sagar Karandikar, Ben Keller, Donggyu Kim, John Koenig, Yunsup Lee, Eric Love, Martin Maas, Albert Magyar, Howard Mao, Miquel Moreto, Albert Ou, David A. Patterson, Brian Richards, Colin Schmidt, Stephen Twigg, Huy Vo and Andrew Waterman
+Design and Evaluation of an Indoor Positioning System Framework  (EECS-2016-16) Kaifei Chen and Karthik Vadde
+Maximum Achievable Gain of a Two Port Network  (EECS-2016-15) Ali Niknejad and Siva Thyagarajan
+Using Perspective Rays and Symmetry to Model “Duality”  (EECS-2016-13) Alex Wang
+Attestation Transparency: Building secure Internet services for legacy clients  (EECS-2016-12) Jethro Beekman, John Manferdelli and David Wagner
+Smart Locks: Lessons for Securing Commodity Internet of Things Devices  (EECS-2016-11) Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, Dawn Song and David Wagner
+Speeding up Crowds for Low-latency Data Labeling  (EECS-2016-10) Daniel Haas
+Specification for the FIRRTL Language  (EECS-2016-9) Patrick S. Li, Adam M. Izraelevitz and Jonathan Bachrach
+GreenThumb: Superoptimizer Construction Framework  (EECS-2016-8) Phitchaya Phothilimthana, Aditya Thakur, Rastislav Bodik and Dinakar Dhurjati
+RISC-V Geneology  (EECS-2016-6) Tony Chen and David A. Patterson
+View-Dependent Adaptive Cloth Simulation  (EECS-2016-5) Woojong Koh
+High-Q AlN Contour Mode Resonators with Unattached, Voltage-Actuated Electrodes  (EECS-2016-4) Robert Schneider
+Simulation-based Study of Super-steep Retrograde Doped Bulk FinFET Technology and 6T-SRAM Yield  (EECS-2016-3) Xi Zhang
+New Approaches to the Asymmetric Traveling Salesman and Related Problems  (EECS-2016-2) Nima AhmadiPourAnari
+Design of the RISC-V Instruction Set Architecture  (EECS-2016-1) Andrew Waterman

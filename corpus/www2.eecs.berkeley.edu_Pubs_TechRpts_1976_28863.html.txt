@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28863.html
+The Drift Cone Mode and the Radial Localization Problem: A Review
+M.J. Gerver
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M610
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-610.pdf
+BibTeX citation:
+@techreport{Gerver:M610,
+Author= {Gerver, M.J.},
+Title= {The Drift Cone Mode and the Radial Localization Problem: A Review},
+Year= {1976},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28863.html},
+Number= {UCB/ERL M610},
+}
+EndNote citation:
+%0 Report
+%A Gerver, M.J.
+%T The Drift Cone Mode and the Radial Localization Problem: A Review
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M610
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28863.html
+%F Gerver:M610

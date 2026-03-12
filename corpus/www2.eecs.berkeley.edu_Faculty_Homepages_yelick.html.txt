@@ -1,0 +1,72 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/yelick.html
+Katherine A. Yelick: Faculty Home Page
+Larger Photo
+Katherine A. Yelick
+Professor
+Contact Information
+50A Lawrence Berkeley National Laboratory
+tel:  510-495-2431
+yelick@cs.berkeley.edu
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Eva Leach
+eva.leach@berkeley.edu
+Biography
+Katherine (Kathy) Yelick has been a Professor of Electrical Engineering and Computer Sciences at UC Berkeley since 1991 and has held a joint research appointment at Lawrence Berkeley National Laboratory (Berkeley Lab) since 1996 where she is currently the Associate Laboratory Director (ALD) for Computing Sciences.  Her research focuses on parallel programming languages, automatic performance tuning, performance analysis, parallel algorithms, and optimizing compilers, and she currently leads the Berkeley Unified Parallel C (UPC) project and co-leads the Berkeley Benchmarking and Optimization (Bebop) group. As the ALD for CS at Berkeley Lab, she oversees the National Energy Research Scientific Computing Center (NERSC), the Energy Sciences Network (ESnet) and the Computational Research Division (CRD), which covers applied math, computer science, data science and computational science.  She was leader of the Future Technologies Group from 2005 through 2007 and the NERSC Director from 2008 through 2012.
+Education
+1991, Ph.D., EECS, MIT
+1985, S.M., EECS, MIT
+1982, B.S., EECS, MIT
+Research Areas
+Programming Systems (PS)
+Scientific Computing (SCI)
+Biosystems & Computational Biology (BIO)
+parallel programming techniques
+Research Centers
+Simons Institute for the Theory of Computing (SITC)
+SpeciaLIzed Computing Ecosystems (SLICE)
+E. Georganas, R. Egan, S. Hofmeyr, E. Goltsman, B. Arndt, A. Tritt, A. Buluç, L. Oliker, and K. A. Yelick, "Extreme scale de novo metagenome assembly," in  Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'18) , 2018, pp. 10.
+P. Koanantakool, A. Ali, A. Azad, A. Buluç, D. Morozov, S. Oh, L. Oliker, and K. A. Yelick, " Communication-Avoiding Optimization Methods for Distributed Massive-Scale Sparse Inverse Covariance Estimation ," in  The 21st International Conference on Artificial Intelligence and Statistics (AISTATS) , 2018.
+K. A. Yelick and M. Ellis, " merBench: PGAS Benchmarks for High Performance Genome Assembly ," 2017.
+J. Chapman, M. Mascher, A. Buluç, K. Barry, E. Georganas, A. Session, V. Strnadova, J. Jenkins, S. Sehgal, L. Oliker, J. Schmutz, K. A. Yelick, U. Scholz, R. Waugh, J. Poland, G. Muehlbauer, N. Stein, and D. Rokhsar, " A whole-genome shotgun approach for assembling and anchoring the
+hexaploid bread wheat genome ,"  Genome Biology , vol. 16, no. 26, 2015.
+M. Driscoll, E. Georganas, P. Koanantakool, E. Solomonik, and K. A. Yelick, " A communication-optimal N-body algorithm for direct interactions ," in  Proceedings of the International Parallel and Distributed Processing Symposium (IPDPS) , 2013.
+E. Georganas, J. Gonz{citeKey, \'a}lez-Dom{\'\i, E. Solomonik, Y. Zheng, J. Touri{\~n}o, and K. A. Yelick, " Communication Avoiding and Overlapping for Numerical Linear Algebra ," in  SC '12 Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing 2012) , 2012.
+K. A. Yelick, P. N. Hilfinger, S. L. Graham, D. Bonachea, J. Su, A. Kami, K. Datta, P. Colella, and T. Wen, " Parallel languages and compilers: Perspective from the Titanium experience ,"  Intl. J. High Performance Computing Applications , vol. 21, no. 3, pp. 266-290, 2007.
+E. Givelberg and K. A. Yelick, " Distributed immersed boundary simulations in Titanium ,"  SIAM J. on Scientific Computing , vol. 28, no. 4, pp. 1361-1378, July 2006.
+S. Williams, J. Shalf, L. Oliker, S. Kamil, P. Husbands, and K. A. Yelick, " The potential of the Cell processor for scientific computing ," in  Proc. 3rd Conf. on Computing Frontiers , New York, NY: ACM Press, 2006, pp. 9-20.
+C. Bell, D. Bonachea, R. Nishtala, and K. A. Yelick, " Optimizing bandwidth limited problems using one-sided communication and overlap ," in  Proc. 20th Intl. Parallel and Distributed Processing Symp. , Piscataway, NJ: IEEE Press, 2006, pp. 10 pp..
+K. A. Yelick and J. Demmel, " OSKI -- Optimized Sparse Kernel Interface ," 2006.
+E. Givelberg and K. A. Yelick, " IB Using Titanium ," 2005.
+A. Kamil, J. Su, and K. A. Yelick, " Making sequential consistency practical in Titanium ," in  Proc. 2005 ACM/IEEE Supercomputing Conf. , Los Alamitos, CA: IEEE Computer Society Press, 2005, pp. 15 pp..
+T. El-Ghazawi, W. Carlson, T. Sterling, and K. A. Yelick,  UPC: Distributed Shared-Memory Programming , Wiley-Interscience, Hoboken, NJ: Wiley, 2005.
+A. W. Trivelpiece, R. Biswas, J. Dongarra, P. Paul, and K. A. Yelick,  Assessment of High-End Computing Research and Development in Japan: Final Report , Baltimore, MD: World Technology Evaluation Center, Inc., 2004.
+B. C. Lee, R. W. Vuduc, J. Demmel, and K. A. Yelick, " Performance models for evaluation and automatic tuning of symmetric sparse matrix-vector multiply (Best Paper Prize) ," in  Proc. 2004 Intl. Conf. on Parallel Processing (ICPP 2004) , R. Eigenmann, Ed., Vol. 1, Los Alamitos, CA: IEEE Computer Society, 2004, pp. 169-176.
+W. Chen, D. Bonachea, J. Duell, P. Husbands, C. Iancu, and K. A. Yelick, " A performance analysis of the Berkeley UPC compiler ," in  Proc. 17th Annual Intl. Conf. on Supercomputing , New York, NY: ACM Press, 2003, pp. 63-73.
+W. Chen, D. Bonachea, J. Duell, P. Husbands, C. Iancu, K. A. Yelick, and D. E. Culler, " The Berkeley UPC Compiler ," 2003.
+B. R. Gaeke, P. Husbands, X. S. Li, L. Oliker, K. A. Yelick, and R. Biswas, " Memory-intensive benchmarks: IRAM vs. cache-based machines ," in  Proc. 16th Intl. Parallel and Distributed Processing Symp. , Piscataway, NJ: IEEE Press, 2002, pp. 30-36.
+CRA Distinguished Service Award ,
+2022
+2020 Berkeley Lab Citation ,
+2020
+HPCwire Outstanding Leadership in HPC (Editor's Choice) ,
+2019
+American Association for the Advancement of Science (AAAS) Fellow ,
+2018
+American Academy of Arts and Sciences Member ,
+2017
+National Academy of Engineering (NAE) Member ,
+2017
+ACM-IEEE CS Ken Kennedy Award ,
+2015
+Athena Lecturer Award ,
+2013
+Association for Computing Machinery (ACM) Fellow ,
+2012
+Okawa Research Grant ,
+2005
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2001

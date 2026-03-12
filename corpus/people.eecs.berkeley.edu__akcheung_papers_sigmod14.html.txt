@@ -1,0 +1,27 @@
+URL: https://people.eecs.berkeley.edu/~akcheung/papers/sigmod14.html
+Sloth: Being Lazy is a Virtue (When Issuing Database Queries)
+Sloth: Being Lazy is a Virtue (When Issuing Database Queries)
+Alvin Cheung, Samuel Madden, Armando Solar-Lezama
+Proceedings of  SIGMOD 2014
+Abstract
+Many web applications store persistent data in databases. During execution,
+such applications spend a significant amount of time communicating with the
+database for retrieval and storing of persistent data over the network. These
+network round trips represent a significant fraction of the overall execution
+time for many applications and as a result increase their latency. While
+there has been prior work that aims to eliminate round trips by batching
+queries, they are limited by 1) a requirement that developers manually
+identify batching opportunities, or 2) the fact that they employ static program
+analysis techniques that cannot exploit many opportunities for batching. In
+this paper, we present Sloth, a new system that extends traditional lazy
+evaluation to expose query batching oppor- tunities during application
+execution, even across loops, branches, and method boundaries. We evaluated
+Sloth using over 100 benchmarks from two large-scale open-source
+applications, and achieved up to a 3x reduction in page load time by delaying
+computation.
+Download
+[ Paper ]
+[ Technical Report (full version with proofs) ]
+[ Invited article in Transactions on Database Systems ]
+[ Slides ]
+home

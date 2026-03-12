@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28715.html
+Heating of Magnetized Plasmas by a Large-Amplitude Low-Frequency Electric Field
+Liu Chen and C.K. Birdsall
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M352
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-352.pdf
+BibTeX citation:
+@techreport{Chen:M352,
+Author= {Chen, Liu and Birdsall, C.K.},
+Title= {Heating of Magnetized Plasmas by a Large-Amplitude Low-Frequency Electric Field},
+Year= {1972},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28715.html},
+Number= {UCB/ERL M352},
+}
+EndNote citation:
+%0 Report
+%A Chen, Liu
+%A Birdsall, C.K.
+%T Heating of Magnetized Plasmas by a Large-Amplitude Low-Frequency Electric Field
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M352
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28715.html
+%F Chen:M352

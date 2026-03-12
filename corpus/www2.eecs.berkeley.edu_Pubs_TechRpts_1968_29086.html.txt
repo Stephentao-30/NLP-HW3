@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29086.html
+Fuzzy Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Fuzzy Algorithms
+Fuzzy Algorithms
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M236
+January 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-236.pdf
+BibTeX citation:
+@techreport{Zadeh:M236,
+Author = {Zadeh, L.A.},
+Title = {Fuzzy Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29086.html},
+Number = {UCB/ERL M236}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Fuzzy Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M236
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29086.html
+%F Zadeh:M236

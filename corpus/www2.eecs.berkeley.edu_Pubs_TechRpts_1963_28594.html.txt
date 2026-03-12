@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28594.html
+Linear, Time-Varying Circuits and Multiterminal RC Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Linear, Time-Varying Circuits and Multiterminal RC Networks
+Linear, Time-Varying Circuits and Multiterminal RC Networks
+Dr. Sidney Darlington
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M16
+April 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-16.pdf
+BibTeX citation:
+@techreport{Darlington:M16,
+Author = {Darlington, Dr. Sidney},
+Title = {Linear, Time-Varying Circuits and Multiterminal RC Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28594.html},
+Number = {UCB/ERL M16}
+}
+EndNote citation:
+%0 Report
+%A Darlington, Dr. Sidney
+%T Linear, Time-Varying Circuits and Multiterminal RC Networks
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M16
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28594.html
+%F Darlington:M16

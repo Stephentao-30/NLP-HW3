@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28637.html
+An Algorithm for Minimum Energy Control | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Minimum Energy Control
+An Algorithm for Minimum Energy Control
+E. Polak and M. Deparis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M225
+November 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-225.pdf
+BibTeX citation:
+@techreport{Polak:M225,
+Author = {Polak, E. and Deparis, M.},
+Title = {An Algorithm for Minimum Energy Control},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28637.html},
+Number = {UCB/ERL M225}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Deparis, M.
+%T An Algorithm for Minimum Energy Control
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M225
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28637.html
+%F Polak:M225

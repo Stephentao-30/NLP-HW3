@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-210.html
+Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions
+Edgar Solomonik and Devin Matthews and Jeff Hammond and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-210
+November 19,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-210.pdf
+Cyclops (cyclic-operations) Tensor Framework (CTF) is a distributed library for tensor contractions. CTF aims to scale high-dimensional tensor contractions such as those required in the Coupled Cluster (CC) electronic structure method to massively-parallel supercomputers. The framework preserves tensor structure by subdividing tensors cyclically, producing a regular parallel decomposition. An internal virtualization layer provides completely general mapping support while maintaining ideal load balance. The mapping framework decides on the best mapping for each tensor contraction at run-time via explicit calculations of memory usage and communication volume. CTF employs a general redistribution kernel, which transposes tensors of any dimension between arbitrary distributed layouts, yet touches each piece of data only once. Sequential symmetric contractions are reduced to matrix multiplication calls via tensor index transpositions and partial unpacking. The user-level interface elegantly expresses arbitrary-dimensional generalized tensor contractions in the form of a domain specific language. We demonstrate performance of CC with single and double excitations on BlueGene/Q and Cray XE6 supercomputers.
+BibTeX citation:
+@techreport{Solomonik:EECS-2012-210,
+Author= {Solomonik, Edgar and Matthews, Devin and Hammond, Jeff and Demmel, James},
+Title= {Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-210.html},
+Number= {UCB/EECS-2012-210},
+Abstract= {Cyclops (cyclic-operations) Tensor Framework (CTF) is a distributed library for tensor contractions. CTF aims to scale high-dimensional tensor contractions such as those required in the Coupled Cluster (CC) electronic structure method to massively-parallel supercomputers. The framework preserves tensor structure by subdividing tensors cyclically, producing a regular parallel decomposition. An internal virtualization layer provides completely general mapping support while maintaining ideal load balance. The mapping framework decides on the best mapping for each tensor contraction at run-time via explicit calculations of memory usage and communication volume. CTF employs a general redistribution kernel, which transposes tensors of any dimension between arbitrary distributed layouts, yet touches each piece of data only once. Sequential symmetric contractions are reduced to matrix multiplication calls via tensor index transpositions and partial unpacking. The user-level interface elegantly expresses arbitrary-dimensional generalized tensor contractions in the form of a domain specific language. We demonstrate performance of CC with single and double excitations on BlueGene/Q and Cray XE6 supercomputers.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Matthews, Devin
+%A Hammond, Jeff
+%A Demmel, James
+%T Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 19
+%@ UCB/EECS-2012-210
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-210.html
+%F Solomonik:EECS-2012-210

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28579.html
+Dynamic Model for the Analog Multiplier | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Dynamic Model for the Analog Multiplier
+Dynamic Model for the Analog Multiplier
+A. Baranyi and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/28
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-28.pdf
+BibTeX citation:
+@techreport{Baranyi:M81/28,
+Author = {Baranyi, A. and Chua, L.O.},
+Title = {Dynamic Model for the Analog Multiplier},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28579.html},
+Number = {UCB/ERL M81/28}
+}
+EndNote citation:
+%0 Report
+%A Baranyi, A.
+%A Chua, L.O.
+%T Dynamic Model for the Analog Multiplier
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28579.html
+%F Baranyi:M81/28

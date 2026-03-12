@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29129.html
+Surface Mobility of Silicon MOS Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Surface Mobility of Silicon MOS Devices
+Surface Mobility of Silicon MOS Devices
+T.I. Kamins
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M120
+June 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-120.pdf
+BibTeX citation:
+@techreport{Kamins:M120,
+Author = {Kamins, T.I.},
+Title = {Surface Mobility of Silicon MOS Devices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29129.html},
+Number = {UCB/ERL M120}
+}
+EndNote citation:
+%0 Report
+%A Kamins, T.I.
+%T Surface Mobility of Silicon MOS Devices
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M120
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29129.html
+%F Kamins:M120

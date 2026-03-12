@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29334.html
+A Second Order Method for the General Nonlinear Programming Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Second Order Method for the General Nonlinear Programming Problem
+A Second Order Method for the General Nonlinear Programming Problem
+H. Mukai and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M562
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-562.pdf
+BibTeX citation:
+@techreport{Mukai:M562,
+Author = {Mukai, H. and Polak, E.},
+Title = {A Second Order Method for the General Nonlinear Programming Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29334.html},
+Number = {UCB/ERL M562}
+}
+EndNote citation:
+%0 Report
+%A Mukai, H.
+%A Polak, E.
+%T A Second Order Method for the General Nonlinear Programming Problem
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M562
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29334.html
+%F Mukai:M562

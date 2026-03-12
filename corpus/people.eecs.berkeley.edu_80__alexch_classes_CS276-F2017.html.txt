@@ -1,0 +1,554 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/classes/CS276-F2017.html
+CS276 - Cryptography
+CS276: Cryptography (F2017)
+Basics
+Instructor(s):   Alessandro Chiesa
+Teaching Assistant(s):   Benjamin Caulfield (bcaulfield[at]berkeley[dot]edu)
+Time:   TR 12.30-14.00
+Location:   320 Soda Hall
+Office Hours:   TR 16:00-17:00 in 529 Cory Hall
+Course Description
+This course offers a graduate introduction to cryptography, the science of securing data and computation against various adversarial behaviors. Topics covered include fundamental tools (such as encryption, pseudorandomness, digital signatures, zero knowledge, and secure computation) as well as a selection of tools with more advanced security properties (options include fully-homomorphic encryption, obfuscation, delegation protocols, and others).
+The Piazza website is  here .
+Prerequisites
+The official prerequisite is CS 170 (or equivalent). All students with "mathematical maturity" (ease with proofs, algorithms, elementary number theory, and discrete probability) and curiosity about cryptography are welcome.
+Requirements
+Completing the course requires completing four (4) homework assignments and a final project; in addition, students will rotate in producing scribe notes for the lectures. Grading will be based 50% on the problem sets, 25% on the final project, 15% on scribe notes, and 10% on class attendance and participation.
+Reading and Resources
+This course has no required textbook, but essentially all the material covered in class can be found online. For example, the following references could be useful.
+Books:
+Foundations of Cryptography  (Volumes I and II) by Oded Goldreich
+Introduction to Modern Cryptography  by Jonathan Katz and Yehuda Lindell
+Cryptography, An Introduction  by Nigel Smart
+Lecture notes:
+Lecture notes  by Boaz Barak (Spring 2010 @ Princeton)
+Lecture notes  by Mihir Bellare and Phillip Rogaway (2005)
+Lecture notes  by Yevgeniy Dodis (Spring 2012 @ NYU)
+Lecture notes  by Stefan Dziembowski (Fall 2012 @ University of Warsaw)
+Lecture notes  by Shafi Goldwasser and Mihir Bellare (Summer 2008)
+Lecture notes  by Yehuda Lindell (@ Bar-Ilan)
+Lecture notes  by Rafael Pass and Abhi Shelat (Fall 2010 @ Cornell)
+Lecture notes  by Chris Peikert (Spring 2011 @ Georgia Tech)
+Lecture notes  by Leonid Reyzin (@ Boston University)
+Lecture notes  by Gil Segev (Spring 2015 @ HUJI)
+Lecture notes  by Luca Trevisan (Spring 2009 @ Berkeley)
+Also useful:
+Notes on discrete probability  by Luca Trevisan
+Lecture notes on the complexity of some problems in number theory  by Dana Angluin
+Assignments
+Problem Set 1
+Problem Set 2
+Problem Set 3
+Problem Set 4
+Homework assignments must be written using  this TeX template .
+Collaboration policy:  You are free to collaborate with other students on the assignments, but you must turn in your individually written up solution, specifying the names of any collaborators. Additionally, you may make use of published material, provided that you acknowledge all sources used.
+Schedule
+#
+Date
+Topic
+Reading
+1
+2017.08.24
+introduction to the course
+negligible and noticeable functions
+(uniform and non-uniform) probabilistic polynomial time algorithms
+one-way functions
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 2.2 , One-way functions: definitions
+Introduction to Modern Cryptography
+§ 7.1, One-way functions
+Papers:
+A note on negligible functions  (by Mihir Bellare)
+Videos:
+One-way functions and hard-core predicates  (talk by Iftach Haitner)
+2
+2017.08.29
+fixing values of one-way functions
+composition of one-way functions
+hardness amplification: from weak to strong one-way functions
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 2.3, Weak one-way functions imply strong ones
+Videos:
+One-way functions and hard-core predicates  (talk by Iftach Haitner)
+3
+2017.08.31
+universal one-way functions
+hardcore predicates
+Goldreich–Levin predicate
+Lecture notes:
+Universal one-way functions  (class by Rafael Pass)
+Hard-core bits  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 2.4.1, Universal one-way function
+§ 2.5, Hard-core predicates
+Introduction to Modern Cryptography
+§ 7.3, Hard-core predicates from one-way functions
+Videos:
+One-way functions and hard-core predicates  (talk by Iftach Haitner)
+4
+2017.09.05
+statistical vs computational indistinghuishability of distributions
+hybrid argument
+pseudorandomness generators (PRGs)
+one-way permutations imply PRGs with 1-bit expansion
+Lecture notes:
+§ 4.1 (Computational indistinghuishability) and § 4.2 (Pseudorandom generators)  (class by Yehuda Lindell)
+Computational indistinghuishability and pseudorandomness  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 3.1, Motivating discussion
+§ 3.2, Computational indistinguishability
+§ 3.3.1, Standard definition of pseudorandom generators
+§ 3.4, Constructions based on one-way permutations
+Introduction to Modern Cryptography
+§ 7.8, Computational indistinguishability
+§ 7.4, Constructing pseudorandom generators
+Videos:
+Pseudorandom generators  (talk by Benny Applebaum)
+5
+2017.09.07
+PRGs evaluated on independent seeds
+PRGs with 1-bit expansion imply PRGs with polynomial expansion
+pseudorandom functions
+Lecture notes:
+§ 4.2 (Pseudorandom generators) and § 5.1 (Pseudorandom functions)  (class by Yehuda Lindell)
+Pseudorandom generators  (class by Rafael Pass)
+Pseudorandom functions  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 3.3.2, Increasing the expansion factor
+§ 3.6, Pseudorandom functions
+Introduction to Modern Cryptography
+§ 7.5, Constructing pseudorandom functions
+Videos:
+Pseudorandom generators  (talk by Benny Applebaum)
+Pseudorandom functions and permutations  (talk by Iftach Haitner)
+6
+2017.09.12
+PRGs imply pseudorandom functions
+pseudorandom permutations
+Feistel permutations
+Lecture notes:
+Pseudorandom functions  (class by Luca Trevisan)
+Pseudorandom permutations  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 3.6, Pseudorandom functions
+§ 3.7, Pseudorandom permutations
+Introduction to Modern Cryptography
+§ 7.5, Constructing pseudorandom functions
+§ 7.6, Constructing (strong) pseudorandom permutations
+Videos:
+Pseudorandom functions and permutations  (talk by Iftach Haitner)
+Papers:
+How to construct pseudorandom permutations from pseudorandom functions  (by Michael Luby and Charles Rackoff)
+Luby-Rackoff: 7 rounds are enough for 2^(n(1−ε)) security  (by Jacques Patarin)
+7
+2017.09.14
+Luby–Rackoff construction of pseudorandom permutations
+commitment schemes
+one-way permutations imply 1-bit commitment schemes
+Lecture notes:
+Pseudorandom permutations (part 1)  (class by Luca Trevisan)
+Pseudorandom permutations (part 2)  (class by Luca Trevisan)
+Commitment schemes  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 3.7, Pseudorandom permutations
+§ 4.4.1, Commitment schemes
+Papers:
+Bit commitment using pseudorandomness  (by Moni Naor)
+Non-interactive and information-theoretic secure verifiable secret sharing  (by Torben P. Pedersen)
+8
+2017.09.19
+1-bit commitment schemes imply multi-bit commitment schemes
+intro to encryption schemes
+single-message perfect message indistinguishability
+one-time pad and its limitations
+single-message computational message indistinguishability
+Lecture notes:
+Perfect security and one-time pad  (class by Luca Trevisan)
+Message indistinguishability and message security  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 5.1, The basic setting
+§ 5.2, Definitions of security
+Introduction to Modern Cryptography
+§ 2, Perfectly secret encryption
+§ 3.1, Computational security
+§ 3.2, Defining computationally secure encryption
+Papers:
+Probabilistic encryption  (by Shafi Goldwasser and Silvio Micali)
+Videos:
+Symmetric encryption and MACs  (talk by Benny Applebaum)
+9
+2017.09.21
+equivalence of message indistinguishability and semantic security
+shrinking one-time pad's key with PRGs
+multi-message computational message indistinguishability
+security against chosen plaintext attacks
+Lecture notes:
+Pseudorandom generators and one-time encryption  (class by Luca Trevisan)
+Security for multiple encryptions  (class by Luca Trevisan)
+Definitions of message security  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 5.3.3, Private-key encryption schemes
+§ 5.4.3, Chosen plaintext attack
+Introduction to Modern Cryptography
+§ 3.3, Constructing secure encryption schemes
+§ 3.4, Stronger security notions
+Papers:
+The notion of security for probabilistic cryptosystems  (by Silvio Micali, Charles Rackoff, and Bob Sloan)
+Characterization of security notions for probabilistic private-key encryption  (by Jonathan Katz and Moti Yung)
+Videos:
+Symmetric encryption and MACs  (talk by Benny Applebaum)
+10
+2017.09.26
+PRFs imply security against chosen plaintext attacks
+modes of encryption
+security against CPA vs CCA1 vs CCA2
+Lecture notes:
+Encryption using pseudorandom functions  (class by Luca Trevisan)
+Modes of encryption  (class by Luca Trevisan)
+Multi-message secure encryption  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 5.4.4, Chosen ciphertext attack
+Introduction to Modern Cryptography
+§ 3.5, Constructing CPA-secure encryption schemes
+§ 3.6, Modes of operation
+§ 3.7, Chosen-ciphertext attacks
+Papers:
+Comments to NIST concerning AES modes of operations: CTR-mode encryption  (by Helger Lipmaa, Phillip Rogaway, and David Wagner]
+A concrete security treatment of symmetric encryption  (by Mihir Bellare, Anand Desai, E. Jokipii, and Phillip Rogaway)
+Videos:
+Symmetric encryption and MACs  (talk by Benny Applebaum)
+11
+2017.09.28
+message authentication codes
+constructions based on PRFs
+CPA security and MACs imply CCA2 security
+Lecture notes:
+Message authentication codes  (class by Luca Trevisan)
+CBC-MAC and CCA2-secure encryption using MACs  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 6.1, The setting and definitional issues
+§ 6.3, Constructions of message authentication schemes
+§ 6.1.5.1, Augmenting the attack with a verification oracle
+Introduction to Modern Cryptography
+§ 4.1, Message integrity
+§ 4.2, Message authentication codes - definitions
+§ 4.3, Constructing secure message authentication codes
+§ 4.4, CBC-MAC
+Papers:
+The security of the cipher block chaining message authentication code  (by Mihir Bellare, Joe Kilian, and Phillip Rogaway)
+Videos:
+Symmetric encryption and MACs  (talk by Benny Applebaum)
+12
+2017.10.03
+CPA security and MACs imply CCA2 security
+combining CPA security and MACs in other (insecure) ways
+collision-resistant functions
+Merkle–Damgård transform
+Lecture notes:
+CBC-MAC and CCA2-secure encryption using MACs  (class by Luca Trevisan)
+Combining encryption and authentication  (class by Luca Trevisan)
+CCA2-secure encryption  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 6.2.3, Constructing collision-free hashing functions
+Introduction to Modern Cryptography
+§ 4.5, Authenticated encryption
+§ 5.1.1, Collision resistance
+§ 5.2, Domain extension: the Merkle–Damgård transform
+§ 5.4, Generic attacks on hash functions
+Papers:
+Authenticated encryption: relations among notions and analysis of the generic composition paradigm  (by Mihir Bellare and Chanathip Namprempre)
+The order of encryption and authentication for protecting communications (Or: how secure is SSL?)  (by Hugo  Krawczyk)
+Cryptographic hash-function basics: definitions, implications and separations for preimage resistance, second-preimage resistance, and collision resistance  (by  Phillip Rogaway and Thomas Shrimpton)
+Videos:
+Symmetric encryption and MACs  (talk by Benny Applebaum)
+13
+2017.10.05
+intro to public-key cryptography
+public-key encryption schemes
+trapdoor one-way permutations
+TOWPs imply public-key encryption schemes
+RSA as a TOWP
+Lecture notes:
+Public-key cryptography  (class by Luca Trevisan)
+Hybrid encryption and RSA  (class by Luca Trevisan)
+Trapdoor permutations and encryption  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 5.1.1, Private-key versus public-key schemes
+§ 5.1.2, The syntax of encryption schemes
+§ 5.3.4, Public-key encryption schemes
+§ 5.5.1, On using encryption schemes
+Introduction to Modern Cryptography
+§ 11.1, Public-key encryption - an overview
+§ 11.2, Definitions
+§ 11.5, RSA encryption
+§ 13.1, Public-key encryption from trapdoor permutations
+Papers:
+A method for obtaining digital signatures and public-key cryptosystems  (by Ron Rivest, Adi Shamir, and Leonard Adleman)
+Theory and applications of trapdoor functions  (by Andrew Yao)
+Perfect structure on the edge of chaos  (by Nir Bitansky, Omer Paneth, and Daniel Wichs)
+14
+2017.10.10
+hybrid encryption
+DDH assumption (and where it might hold)
+ElGamal encryption scheme
+DDH assumption for quadratic residues
+Lecture notes:
+The DDH assumption and ElGamal encryption  (class by Luca Trevisan)
+Hybrid encryption  (class by Luca Trevisan)
+The DDH assumption and quadratic residues  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 5.5.3, On some popular schemes
+Introduction to Modern Cryptography
+§ 8.3, Cryptographic assumptions in cyclic groups
+§ 11.3, Hybrid encryption and the KEM/DEM paradigm
+§ 11.4, CDH/DDH-based encryption
+Papers:
+Translucent cryptography  (by Mihir Bellare and Ron Rivest)
+15
+2017.10.12
+CCA2 security in the asymmetric setting
+CCA2 security in the random oracle model
+Lecture notes:
+CCA2 security in the random oracle model  (class by Luca Trevisan)
+Textbooks:
+Introduction to Modern Cryptography
+§ 11.5.5, A CCA-Secure KEM in the random-oracle model
+Papers:
+A practical public key cryptosystem provably secure against adaptive chosen ciphertext attack  (by Ronald Cramer and Victor Shoup)
+Non-malleable cryptography  (by Danny Dolev, Cynthia Dwork, and Moni Naor)
+Random oracles are practical: a paradigm for designing efficient protocols  (by Mihir Bellare and Phillip Rogaway)
+The random oracle methodology, revisited  (by Ran Canetti, Oded Goldreich, and Shai Halevi)
+16
+2017.10.17
+definition of signature schemes
+one-time signatures
+hash-then-sign paradigm
+key refreshing
+Lecture notes:
+Definition of signature schemes  (class by Luca Trevisan)
+Signature schemes  (class by Rafael Pass)
+One-time signatures and hash-then-sign  (class by Luca Trevisan)
+Key refreshing  (class by Luca Trevisan)
+One-time signatures  (class by Rafael Pass)
+Collision resistance and signatures  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 6.1, The setting and definitional issues
+§ 6.2, Length-restricted signature scheme
+§ 6.4.1, One-time signature schemes
+Introduction to Modern Cryptography
+§ 12.1, Digital signatures - an overview
+§ 12.2, Definitions
+§ 12.2, The hash-and-sign paradigm
+§ 12.6.1, Lamport's signature scheme
+§ 12.6.2, Chain-based signatures
+Papers:
+A digital signature scheme secure against adaptive chosen-message attacks  (by Shafi Goldwasser, Silvio Micali, and Ron Rivest)
+Constructing digital signatures from a one-way function  (by Leslie Lamport)
+A digital signature based on a conventional encryption function  (by Ralph C. Merkle)
+17
+2017.10.19
+from one-time signatures to full security
+signatures in the random oracle model
+signcryption
+Lecture notes:
+From one-time signatures to full security  (class by Luca Trevisan)
+Signatures in the random oracle model  (class by Luca Trevisan)
+Textbooks:
+Foundations of Cryptography, Volume 2
+§ 6.4.2, From one-time signature schemes to general ones
+Introduction to Modern Cryptography
+§ 12.4.2, RSA-FDH
+§ 12.6.3, Tree-based signatures
+§ 12.9, Signcryption
+Papers:
+The exact security of digital signatures - how to sign with RSA and Rabin  (by Mihir Bellare and Phillip Rogaway)
+Signcryption  (by Yuliang Zheng)
+18
+2017.10.24
+interactive proofs
+graph non-isomorphism is in IP
+honest-verifier zero knowledge
+graph isomorphism is in HVZK-IP
+Lecture notes:
+Zero knowledge and graph isomorphism  (class by Luca Trevisan)
+Zero knowledge and graph isomoprhism  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 4.1, Zero-knowledge proofs: motivation
+§ 4.2, Interactive proof systems
+§ 4.3, Zero-knowledge proofs: definitions
+Papers:
+The knowledge complexity of interactive proofs systems  (by Silvio Micali, Shafi Goldwasser, Charles Rackoff)
+Arthur–Merlin games: a randomized proof system, and a hierarchy of complexity classes  (by László Babai and Shlomo Moran)
+Videos:
+Zero knowledge probabilistic proof systems  (by Shafi Goldwasser)
+Proofs, secrets, and computation  (by Silvio Micali)
+19
+2017.10.26
+(malicious-verifier) zero knowledge
+graph isomorphism is in ZK-IP
+computational zero knowledge for graph 3-coloring
+Lecture notes:
+Zero knowledge and graph isomorphism  (class by Luca Trevisan)
+Zero knowledge and graph isomoprhism  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 4.1, Zero-knowledge proofs: motivation
+§ 4.2, Interactive proof systems
+§ 4.3, Zero-knowledge proofs: definitions
+Papers:
+The knowledge complexity of interactive proofs systems  (by Silvio Micali, Shafi Goldwasser, Charles Rackoff)
+Arthur–Merlin games: a randomized proof system, and a hierarchy of complexity classes  (by László Babai and Shlomo Moran)
+Videos:
+Zero knowledge probabilistic proof systems  (by Shafi Goldwasser)
+Proofs, secrets, and computation  (by Silvio Micali)
+20
+2017.10.31
+computational zero knowledge for graph 3-coloring (continued)
+Lecture notes:
+Zero knowledge for 3-coloring (part I)  (class by Luca Trevisan)
+Zero knowledge for 3-coloring (part II)  (class by Luca Trevisan)
+Zero knowledge for NP  (class by Rafael Pass)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 4.4, Zero-knowledge proofs for NP
+Papers:
+Proofs that yield nothing but their validity or all languages in NP have zero-knowledge proof systems  (by Oded Goldreich, Silvio Micali, and Avi Wigderson)
+21
+2017.11.02
+zero knowledge proof of knowledge for discrete logarithms
+zero knowledge is not closed under parallel composition
+witness indistinguishability
+parallel composition for witness indistinguishability
+from witness indistinguishability to zero knowledge
+Lecture notes:
+Witness indistinguishability  (class by Jonathan Katz)
+Textbooks:
+Foundations of Cryptography, Volume 1
+§ 4.5.4, Zero-Knowledge and parallel Composition
+§ 4.6, Witness indistinguishability and hiding
+Papers:
+On the composition of zero knowledge proof systems  (by Oded Goldreich and Hugo Krawczyk)
+Witness indistinguishable and witness hiding protocols  (by Uriel Feige and Adi Shamir)
+Multiple non-interactive zero knowledge proofs under general assumptions  (by Uriel Feige and Dror Lapidot and Adi Shamir)
+A note on constant-round zero-knowledge proofs for NP  (by Alon Rosen)
+22
+2017.11.07
+VBB obfuscation for TMs and circuits
+impossibility of VBB obfuscation
+Lecture notes:
+VBB obfuscation  (class by Sanjam Garg)
+Papers:
+On the (im)possibility of obfuscating programs  (by Boaz Barak, Oded Goldreich, Russell Impagliazzo, Steven Rudich, Amit Sahai, Salil Vadhan, and Ke Yang)
+23
+2017.11.09
+indistinguishability obfuscation (iO)
+witness encryption
+iO implies witness encryption
+iO and OWFs imply public-key encryption
+best-possible obfuscation (BPO)
+VBBO implies BPO
+BPO vs IO
+Lecture notes:
+Indistinguishability obfuscation  (class by Sanjam Garg)
+Papers:
+Candidate indistinguishability obfuscation and functional encryption for all circuits  (by Sanjam Garg, Craig Gentry, Shai Halevi, Mariana Raykova, Amit Sahai, and Brent Waters)
+Witness encryption and its applications  (by Sanjam Garg, Craig Gentry, Amit Sahai, and Brent Waters)
+On best-possible obfuscation  (by Shafi Goldwasser and Guy Rothblum)
+Survey on cryptographic obfuscation  (by Máté Horváth)
+Videos:
+Indistinguishability obfuscation and its applications  (by Sanjam Garg)
+Obfuscation (Part I)  (by Amit Sahai)
+Obfuscation (Part II)  (by Amit Sahai)
+Applications of obfuscation (Part I)  (by Craig Gentry)
+Applications of obfuscation (Part II)  (by Craig Gentry)
+24
+2017.11.14
+iO amplification: from NC1 to all circuits
+iO and coRP != NP implies OWFs
+Lecture notes:
+Amplification of indistinguishability obfuscation  (class by Sanjam Garg)
+Papers:
+Candidate indistinguishability obfuscation and functional encryption for all circuits  (by Sanjam Garg, Craig Gentry, Shai Halevi, Mariana Raykova, Amit Sahai, and Brent Waters)
+There is no indistinguishability obfuscation in Pessiland  (by Tal Moran and Alon Rosen)
+One-way functions and (im)perfect obfuscation  (by Ilan Komargodski, Tal Moran, Moni Naor, Rafael Pass, Alon Rosen, and Eylon Yogev)
+Videos:
+Candidate indistinguishability obfuscation and functional encryption for all circuits  (by Sanjam Garg)
+One-way functions and (im)perfect obfuscation  (by Ilan Komargodski)
+25
+2017.11.16
+iO and coRP != NP implies OWFs
+VBB implies OWFs
+differing-inputs obfuscation
+extractable witness encryption
+Papers:
+On the (im)possibility of obfuscating programs  (by Boaz Barak, Oded Goldreich, Russell Impagliazzo, Steven Rudich, Amit Sahai, Salil Vadhan, and Ke Yang)
+One-way functions and (im)perfect obfuscation  (by Ilan Komargodski, Tal Moran, Moni Naor, Rafael Pass, Alon Rosen, and Eylon Yogev)
+Differing-inputs obfuscation and applications  (by Prabhanjan Ananth, Dan Boneh, Sanjam Garg, Amit Sahai, and Mark Zhandry)
+On Extractability (a.k.a. Differing-Inputs) Obfuscation  (by Elette Boyle, Kai-Min Chung, and Rafael Pass)
+Videos:
+One-way functions and (im)perfect obfuscation  (by Ilan Komargodski)
+26
+2017.11.21
+algorithms for computing discrete logarithms
+baby-step giant-step algorithm
+Pohlig–Hellman algorithm
+Shoup's lower bound for generic algorithms
+Lecture notes
+Generic algorithms for the discrete logarithm problem  (class by Andrew Sutherland)
+Textbooks:
+Introduction to Modern Cryptography
+§ 8.2 Algorithms for computing discrete logarithms
+§ 8.2.1, The baby-step/giant-step algorithm
+§ 8.2.2, The Pohlig–Hellman algorithm
+Papers:
+Lower bounds for discrete logarithms and related problems  (by Victor Shoup)
+Non-uniform cracks in the concrete: the power of free precomputation  (by Daniel J. Bernstein and Tanja Lange)
+The discrete-logarithm problem with preprocessing  (by Henry Corrigan-Gibbs and Dmitry Kogan)
+X
+2017.11.23
+No class.
+No class.
+27
+2017.11.28
+definition of SNARGs in the random-oracle model
+definition of PCPs
+statement of PCP Theorem: NP ⊆ PCP[O(log n), O(1)]
+construction of SNARGs from PCPs
+Papers:
+On the complexity of k-SAT  (by Russell Impagliazzo and Ramamohan Paturi)
+A note on efficient zero-knowledge proofs and arguments  (by Joe Kilian)
+Computationally-sound proofs  (by Silvio Micali)
+Incrementally verifiable computation  (by Paul Valiant)
+New York Times article about the PCP Theorem:
+Kolata 1992:  New short cut found for long math proofs
+28
+2017.11.30
+exponential-size PCP for 3SAT
+testing linearity (statement only)
+3SAT ⊆ PCP 1,0.5 [poly(n),O(1)] {0,1}
+good query complexity, bad proof length
+Lecture notes:
+Lecture 3 of Ben-Sassson's 2007 course
+Lecture 4 of Ben-Sassson's 2007 course
+Linearity testing (in a course by Moshkovitz)
+Papers:
+Self-testing/correcting with applications to numerical problems  (by Manuel Blum, Michael Luby, and Ronitt Rubinfeld)
+Proof verification and the hardness of approximation problems  (by Sanjeev Arora, Carsten Lund, Rajeev Motwani, Madhu Sudan, and Mario Szegedy)
+New York Times article about ZCash, which uses linear PCPs within zk-SNARKs:
+Popper 2016:  Zcash, a harder-to-trace virtual currency, generates price frenzy

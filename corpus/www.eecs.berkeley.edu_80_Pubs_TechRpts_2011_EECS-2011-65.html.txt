@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-65.html
+Autonomous Ornithopter Flight with Sensor-Based Behavior
+Stanley Seunghoon Baek
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-65
+May 17,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-65.pdf
+This thesis presents the design of autonomous flight control algorithms for a flappingwing aerial robot with onboard sensing and computational resources. We use a 13 gram
+ornithopter with biologically-inspired clap-and-fling mechanism. For autonomous flight control, we have developed 1.0 gram control electronics integrated with a microcontroller, inertial and visual sensors, communication electronics, and motor drivers. We have also developed a
+simplified aerodynamic model of ornithopter flight to reduce the order of the control system. With the aerodynamic model and the orientation estimation from on-board inertial sensors, we present flight control of an ornithopter capable of flying toward a target using onboard sensing and computational resources only. To this end, we have developed a dead-reckoning algorithm to recover from the temporary loss of the target which can occur with a visual sensor with a narrow field of view. With closed-loop height regulation of the ornithopter, we propose a method for identifying the discrepancy between the tethered flight force measurement and the free flight aerodynamic force. Lastly, we present a nondimensionalized analysis of a motor-driven flapping-wing system and experimentally demonstrate a resonant drive to reduce average battery power consumption for DC motor-driven flapping-wing robots.
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Baek:EECS-2011-65,
+Author= {Baek, Stanley Seunghoon},
+Title= {Autonomous Ornithopter Flight with Sensor-Based Behavior},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-65.html},
+Number= {UCB/EECS-2011-65},
+Abstract= {This thesis presents the design of autonomous flight control algorithms for a flappingwing aerial robot with onboard sensing and computational resources. We use a 13 gram
+ornithopter with biologically-inspired clap-and-fling mechanism. For autonomous flight control, we have developed 1.0 gram control electronics integrated with a microcontroller, inertial and visual sensors, communication electronics, and motor drivers. We have also developed a
+simplified aerodynamic model of ornithopter flight to reduce the order of the control system. With the aerodynamic model and the orientation estimation from on-board inertial sensors, we present flight control of an ornithopter capable of flying toward a target using onboard sensing and computational resources only. To this end, we have developed a dead-reckoning algorithm to recover from the temporary loss of the target which can occur with a visual sensor with a narrow field of view. With closed-loop height regulation of the ornithopter, we propose a method for identifying the discrepancy between the tethered flight force measurement and the free flight aerodynamic force. Lastly, we present a nondimensionalized analysis of a motor-driven flapping-wing system and experimentally demonstrate a resonant drive to reduce average battery power consumption for DC motor-driven flapping-wing robots.},
+}
+EndNote citation:
+%0 Thesis
+%A Baek, Stanley Seunghoon
+%T Autonomous Ornithopter Flight with Sensor-Based Behavior
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 17
+%@ UCB/EECS-2011-65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-65.html
+%F Baek:EECS-2011-65

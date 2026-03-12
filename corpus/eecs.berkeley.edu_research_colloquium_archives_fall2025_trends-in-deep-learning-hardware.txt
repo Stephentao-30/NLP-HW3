@@ -1,0 +1,19 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/trends-in-deep-learning-hardware
+Trends in Deep Learning Hardware - EECS at Berkeley
+Trends in Deep Learning Hardware
+Bill Dally gives his talk, “ Trends in Deep Learning Hardware ” on December 3, 2025.
+EECS Colloquium
+Wednesday, December 3, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Bill Dally
+Chief Scientist and Senior Vice President of Research at NVIDIA Corporation, and an Adjunct Professor and former chair of Computer Science at Stanford University
+Bio
+Dr. Bill Dally is Chief Scientist and Senior Vice President of Research at NVIDIA Corporation and an Adjunct Professor and former chair of Computer Science at Stanford University. Bill is currently working on developing hardware and software to accelerate demanding applications including machine learning, bioinformatics, and logical inference. He has a history of designing innovative and efficient experimental computing systems. While at Bell Labs Bill contributed to the BELLMAC32 microprocessor and designed the MARS hardware accelerator. At Caltech he designed the MOSSIM Simulation Engine and the Torus Routing Chip which pioneered wormhole routing and virtual-channel flow control. At the Massachusetts Institute of Technology his group built the J-Machine and the M-Machine, experimental parallel computer systems that pioneered the separation of mechanisms from programming models and demonstrated very low overhead synchronization and communication mechanisms. At Stanford University his group developed the Imagine processor, which introduced the concepts of stream processing and partitioned register organizations, the Merrimac streaming supercomputer, which led to GPU computing, and the ELM low-power processor. Bill is a Member of the National Academy of Engineering, a Fellow of the IEEE, a Fellow of the ACM, and a Fellow of the American Academy of Arts and Sciences. He has received the Queen Elizabeth Prize for Engineering, the Benjamin Franklin Medal, the ACM Eckert-Mauchly Award, the IEEE Seymour Cray Award, the ACM Maurice Wilkes award, the IEEE-CS Charles Babbage Award, and the IPSJ FUNAI Achievement Award. He currently leads projects on computer architecture, network architecture, circuit design, and programming systems. He has published over 250 papers in these areas, holds over 160 issued patents, and is an author of the textbooks, Digital Design: A Systems Approach, Digital Systems Engineering, and Principles and Practices of Interconnection Networks.
+Abstract
+The current resurgence of artificial intelligence, including generative AI like ChatGPT, is due to advances in deep learning. Systems based on deep learning are transforming all aspects of life. Deep learning has been enabled by powerful, efficient computing hardware. The algorithms used have been around since the 1980s, but it has only been in the last decade – when powerful GPUs became available to train networks – that the technology has become practical. Advances in DL are now gated by hardware performance. Demand for training operations has increased 10Mx in the last decade and is currently growing by 16x per year. The autoregressive nature of the decode phase of LLM inference places particularly heavy demands on latency and memory bandwidth. The trend toward agentic systems places additional demands on latency. This talk will review the history of hardware for deep learning and how this hardware is adapting to the latest challenges.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

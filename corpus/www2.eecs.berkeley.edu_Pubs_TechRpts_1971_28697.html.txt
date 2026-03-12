@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28697.html
+Symbolic Analysis of Linear Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Symbolic Analysis of Linear Networks
+Symbolic Analysis of Linear Networks
+Jacob Katzenelson and Shalom Tsur
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M322
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-322.pdf
+BibTeX citation:
+@techreport{Katzenelson:M322,
+Author = {Katzenelson, Jacob and Tsur, Shalom},
+Title = {Symbolic Analysis of Linear Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28697.html},
+Number = {UCB/ERL M322}
+}
+EndNote citation:
+%0 Report
+%A Katzenelson, Jacob
+%A Tsur, Shalom
+%T Symbolic Analysis of Linear Networks
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M322
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28697.html
+%F Katzenelson:M322

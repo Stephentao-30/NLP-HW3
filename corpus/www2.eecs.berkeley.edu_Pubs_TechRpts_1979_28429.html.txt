@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28429.html
+Plasma Simulations Using Inversion Symmetry as a Boundary Condition | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Plasma Simulations Using Inversion Symmetry as a Boundary Condition
+Plasma Simulations Using Inversion Symmetry as a Boundary Condition
+W.M. Nevins, Y. Matsuda and M. Gerver
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/29
+April 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-29.pdf
+BibTeX citation:
+@techreport{Nevins:M79/29,
+Author = {Nevins, W.M. and Matsuda, Y. and Gerver, M.},
+Title = {Plasma Simulations Using Inversion Symmetry as a Boundary Condition},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28429.html},
+Number = {UCB/ERL M79/29}
+}
+EndNote citation:
+%0 Report
+%A Nevins, W.M.
+%A Matsuda, Y.
+%A Gerver, M.
+%T Plasma Simulations Using Inversion Symmetry as a Boundary Condition
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28429.html
+%F Nevins:M79/29

@@ -1,0 +1,369 @@
+URL: www2.eecs.berkeley.edu/Research/Areas/AI/
+Research Area: AI | EECS at UC Berkeley
+Skip to Content
+Expand Search Form
+Collapse Search Form
+Expand Main Menu
+Collapse Main Menu
+Search for:
+Search
+For Students
+For Faculty/Staff
+Industry
+News
+Events
+Give
+Search for:
+Search
+About
+About
+Expand Submenu
+About
+About Overview
+History
+Expand Submenu
+The First Women of EECS
+Joseph Thomas Gier
+Diversity
+Expand Submenu
+Hear From Women in EECS
+Broadening Participation in EECS
+Visiting
+By the Numbers
+Special Events
+Expand Submenu
+2022-23
+2020-21
+2019-20
+2018-19
+2017-18
+The Department of Electrical Engineering and Computer Sciences (EECS) at UC Berkeley offers one of the strongest research and instructional programs in this field anywhere in the world.
+Blog
+Academics
+Academics
+Expand Submenu
+Academics
+Academics Overview
+Undergraduate Admissions & Programs
+Expand Submenu
+CS Major
+EECS Major
+EECS/CS Program Comparison Chart
+Second Bachelor's Degree
+Summer Research
+Cal Day
+Graduate Admissions & Programs
+Expand Submenu
+Grad Admissions FAQ
+Industry-Oriented Programs
+Research-Oriented Programs
+Fellowships
+Adding the EECS/CS M.S. From Another Department
+Recommended Coursework
+For Current Students
+Expand Submenu
+ed | EECS 101
+Courses
+Expand Submenu
+EE Courses
+CS Courses
+Unlike many institutions of similar stature, regular EE and CS faculty teach the vast majority of our courses, and the most exceptional teachers are often also the most exceptional researchers.
+View Courses
+Research
+Research
+Expand Submenu
+Research
+Research Overview
+Areas
+Centers & Labs
+Colloquium
+Expand Submenu
+Archive
+BEARS Symposium
+Expand Submenu
+Archive
+Technical Reports
+Ph.D. Dissertations
+Research is the foundation of Berkeley EECS. Faculty, students, and staff work together on cutting-edge projects that cross disciplinary boundaries to improve everyday life and make a difference.
+EECS Research
+People
+People
+Expand Submenu
+People
+People Overview
+Directory
+Leadership
+Faculty
+Expand Submenu
+In Memoriam
+Students
+Expand Submenu
+Student Awards
+Student Organizations
+Staff
+Expand Submenu
+Student Affairs
+Faculty  Support
+Course Support
+Facilities and Engineering Services
+Financial Services
+HR
+IT Support
+Industrial & Public Relations
+Alumni
+Expand Submenu
+EE Distinguished Alumni
+CS Distinguished Alumni
+EECS faculty, students, staff, and alumni are central to our success as one of the most thriving and distinguished departments on the Berkeley campus.
+Latest News
+Connect
+Connect
+Expand Submenu
+Connect
+Connect Overview
+Support EECS
+Expand Submenu
+EECS Excellence Fund
+Memorial Funds
+K-12 Outreach
+Student Affairs
+Faculty Positions
+Staff Positions
+Contact
+Expand Submenu
+In an Emergency
+Consider reaching out for a conversation, attending a department seminar or conference, viewing a lecture on any one of our public channels, or supporting us via a gift to the university. You can help strengthen our dedication to education and outreach, solidify close ties to industry, and nourish a supportive and inclusive culture.
+Contact us
+Home
+/
+Research
+/
+Areas
+/
+Artificial Intelligence
+Artificial Intelligence (AI)
+Overview
+Work in Artificial Intelligence in the EECS department at Berkeley involves foundational research in core areas of deep learning, knowledge representation, reasoning, learning, planning, decision-making, vision, robotics, speech, and natural language processing.  For more information please see the
+Berkeley Artificial Intelligence Research Lab (BAIR)
+.  There are also significant efforts aimed at applying algorithmic advances to applied problems in a range of areas, including bioinformatics, networking and systems, search and information retrieval.  There are active collaborations with several groups on campus, including the campus-wide vision sciences group, the information retrieval group at the I-School and the campus-wide computational biology program.  There are also connections to a range of research activities in the cognitive sciences, including aspects of psychology, linguistics, and philosophy. Research in AI involves techniques and tools from statistics, neuroscience, control, optimization, and operations research.
+Topics
+Learning and Probabilistic Inference:
+Graphical models. Kernel methods. Nonparametric Bayesian methods. Reinforcement learning. Problem solving, decisions, and games.
+Knowledge Representation and Reasoning:
+First order probabilistic logics. Symbolic algebra.
+Search and Information Retrieval:
+Collaborative filtering. Information extraction. Image and video search. Intelligent information systems.
+Speech and Language:
+Parsing. Machine translation. Speech Recognition. Context Modeling. Dialog Systems.
+Vision:
+Object Recognition. Scene Understanding. Human Activity Recognition. Active Vision. Grouping and Figure-Ground. Visual Data Mining.
+Robotics:
+Deep Learning, Perception, Manipulation, Locomotion, Human Robot Interaction, Motion Planning. Applications to Logistics, Healthcare, Home and Service Robots, Agriculture.
+Research Centers
+Berkeley Artificial Intelligence Research Lab
+Berkeley Center for Responsible, Decentralized Intelligence (RDI)
+Berkeley Equity and Access in Algorithms, Mechanisms, and Optimization
+Berkeley Laboratory for Information and System Sciences
+Center for Human Compatible Artificial Intelligence
+Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley
+CITRIS People and Robots
+FHL Vive Center for Enhanced Reality
+International Computer Science Institute
+Sky Computing Lab
+Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+Video and Image Processing Lab
+Faculty
+Primary
+Pieter Abbeel
+Gopala Krishna Anumanchipalli
+Peter Bartlett
+Christian Borgs
+John F. Canny
+Serina Chang
+Irene Chen
+John DeNero
+Alex Dimakis
+Anca Dragan
+Alexei (Alyosha) Efros
+Ken Goldberg
+Joseph Gonzalez
+Nika Haghtalab
+Jiantao Jiao
+Michael Jordan
+Angjoo Kanazawa
+Kurt Keutzer
+Daniel Klein
+Aditi Krishnapriyan
+Jason Lee
+Sergey Levine
+Giuseppe Loianno
+Michael Lustig
+Jitendra Malik
+(coordinator)
+Song Mei
+Guanghan Meng
+Sewon Min
+Narges Norouzi
+Aditya Parameswaran
+Emma Pierson
+Gireeja Ranade
+Benjamin Recht
+Stuart J. Russell
+Anant Sahai
+S. Shankar Sastry
+Somayeh Sojoudi
+Dawn Song
+Jacob Steinhardt
+Jonathan Stray
+Alane Suhr
+Allon Wagner
+Adam Yala
+Matei Zaharia
+Secondary
+Venkat Anantharam
+Ruzena Bajcsy
+Alexandre Bayen
+Zaijun Chen
+Thomas Courtade
+Trevor Darrell
+Laurent El Ghaoui
+Richard J. Fateman
+Jerome A. Feldman
+Björn Hartmann
+Marti Hearst
+Nilah Ioannidis
+Preeya Khanna
+Jennifer Listgarten
+Ren Ng
+Pierluigi Nuzzo
+James O'Brien
+Kannan Ramchandran
+Jaijeet Roychowdhury
+Alberto L. Sangiovanni-Vincentelli
+Sanjit A. Seshia
+Yun S. Song
+Mengjie Yu
+Stella Yu
+Avideh Zakhor
+Faculty Awards
+ACM Prize in Computing:
+                            Pieter Abbeel, 2021.
+                            Alexei (Alyosha) Efros, 2016.
+MacArthur Fellow:
+                            Dawn Song, 2010.
+National Academy of Sciences (NAS) Member:
+                            Jitendra Malik, 2015.
+                            Michael Jordan, 2010.
+National Academy of Engineering (NAE) Member:
+                            Stuart J. Russell, 2025.
+                            Jitendra Malik, 2011.
+                            Michael Jordan, 2010.
+                            S. Shankar Sastry, 2001.
+                            Alberto L. Sangiovanni-Vincentelli, 1998.
+                            Ruzena Bajcsy, 1997.
+American Academy of Arts and Sciences Member:
+                            Dawn Song, 2025.
+                            Alberto L. Sangiovanni-Vincentelli, 2024.
+                            Jitendra Malik, 2013.
+                            Michael Jordan, 2010.
+                            Ruzena Bajcsy, 2007.
+                            S. Shankar Sastry, 2003.
+Berkeley Citation:
+                            Ruzena Bajcsy, 2023.
+                            S. Shankar Sastry, 2018.
+                            Jerome A. Feldman, 2009.
+UC Berkeley Distinguished Teaching Award:
+                            John DeNero, 2018.
+                            Daniel Klein, 2010.
+                            Alberto L. Sangiovanni-Vincentelli, 1981.
+Sloan Research Fellow:
+                            Song Mei, 2025.
+                            Nika Haghtalab, 2024.
+                            Preeya Khanna, 2024.
+                            Angjoo Kanazawa, 2023.
+                            Matei Zaharia, 2022.
+                            Aditya Parameswaran, 2020.
+                            Sergey Levine, 2019.
+                            Anca Dragan, 2018.
+                            Ren Ng, 2017.
+                            Björn Hartmann, 2013.
+                            Michael Lustig, 2013.
+                            Benjamin Recht, 2011.
+                            Pieter Abbeel, 2011.
+                            Sanjit A. Seshia, 2008.
+                            Yun S. Song, 2008.
+                            Alexei (Alyosha) Efros, 2008.
+                            Dawn Song, 2007.
+                            Daniel Klein, 2007.
+                            James O'Brien, 2003.
+Related Courses
+CS 188. Introduction to Artificial Intelligence
+CS 189. Introduction to Machine Learning
+CS C280. Computer Vision
+CS C281A. Statistical Learning Theory
+CS C281B. Advanced Topics in Learning and Decision Making
+CS 287. Advanced Robotics
+CS 289A. Introduction to Machine Learning
+EE 290P. Advanced Topics in Electrical Engineering: Advanced Topics in Bioelectronics
+About
+History
+Diversity
+Visiting
+Special Events
+People
+Directory
+Leadership
+Faculty
+Staff
+Students
+Alumni
+Connect
+Support Us
+K-12 Outreach
+Faculty Positions
+Staff Positions
+Contact
+Academics
+Undergrad Admissions & Programs
+Graduate Admissions & Programs
+Courses
+Prospective Women Students
+Current Students
+Resources
+Room Reservations
+My EECS Info
+For Students
+For Grads
+For Undergrads
+For ASEs
+IT Services
+Facilities/Safety
+For Faculty/Staff
+Visiting Scholars
+Research
+Areas
+Centers & Labs
+Projects
+Technical Reports
+PhD Dissertations
+Joint Colloquium
+BEARS Symposium
+Industry
+Recruit Students
+Corporate Access
+Learn more about the Campaign for Berkeley and Graduate Fellowships.
+Give to EECS
+Berkeley EECS on Twitter
+Berkeley EECS on Instagram
+Berkeley EECS on LinkedIn
+Berkeley EECS on YouTube
+EE
+CS
+UC Berkeley
+Berkeley Engineering
+CDSS
+Accessibility
+Nondiscrimination
+Privacy
+Contact
+© 2023 UC Regents

@@ -1,0 +1,567 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/utility_8h_source.html
+Compressed Sparse Blocks: utility.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+utility.h
+Go to the documentation of this file.     1   #ifndef _UTILITY_H
+2   #define _UTILITY_H
+3
+4   #define __int64 long long
+5   #include <stdio.h>
+6   #include <stdlib.h>
+7   #include <stdint.h>
+8   #include <climits>
+9   #include <iostream>
+10   #include <cmath>
+11   #include <vector>
+12   #include <mmintrin.h>   //  MMX
+13   #include <xmmintrin.h>   //  SSE
+14   #include <emmintrin.h>   //  SSE 2
+15   #include <pmmintrin.h>   //  SSE 3
+16
+17   using namespace  std;
+18
+19   #include <cilk/cilk_api.h>
+20   #include <cilk/cilk.h>
+21   #define SYNCHED __cilkrts_synched()
+22   #define DETECT __cilkscreen_enable_checking()
+23   #define ENDDETECT __cilkscreen_disable_checking()
+24   #define WORKERS __cilkrts_get_nworkers()
+25
+26   #ifdef BWTEST
+27       #define UNROLL 100
+28   #else
+29       #define UNROLL 1
+30   #endif
+31
+32   #ifndef CILK_STUB
+33   #ifdef __cplusplus
+34   extern   "C"  {
+35   #endif
+36   /*
+37    * __cilkrts_synched
+38    *
+39    * Allows an application to determine if there are any outstanding
+40    * children at this instant. This function will examine the current
+41    * full frame to determine this.
+42    */
+43
+44  CILK_EXPORT __CILKRTS_NOTHROW
+45   int   __cilkrts_synched ( void );
+46
+47   #ifdef __cplusplus
+48   }  // extern "C"
+49   #endif
+50   #else  /* CILK_STUB */
+51   /* Stubs for the api functions */
+52   #define __cilkrts_synched() (1)
+53   #endif  /* CILK_STUB */
+54
+55   #ifdef STATS
+56       #include <cilk/reducer_opadd.h>
+57      cilk::reducer_opadd<__int64> blockparcalls;
+58      cilk::reducer_opadd<__int64> subspmvcalls;
+59      cilk::reducer_opadd<__int64> atomicflops;
+60   #endif
+61
+62   void  *  address ;
+63   void  *  base ;
+64
+65   using namespace  std;
+66
+67   //  convert category to type
+68     template <  int  Category >  struct  int_least_helper  {};  // default is empty
+69     template <>  struct  int_least_helper <8> {  typedef  uint64_t  least ; };         // 8x8 blocks require 64-bit bitmasks
+70     template <>  struct  int_least_helper <4> {  typedef   unsigned   short   least ; };   // 4x4 blocks require 16-bit bitmasks
+71     template <>  struct  int_least_helper <2> {  typedef   unsigned   char   least ; };    // 2x2 blocks require 4-bit bitmasks, so we waste half of the array here
+72
+73   const  uint64_t  masktable64 [64] = {0x8000000000000000, 0x4000000000000000, 0x2000000000000000, 0x1000000000000000,
+74                  0x0800000000000000, 0x0400000000000000, 0x0200000000000000, 0x0100000000000000,
+75                  0x0080000000000000, 0x0040000000000000, 0x0020000000000000, 0x0010000000000000,
+76                  0x0008000000000000, 0x0004000000000000, 0x0002000000000000, 0x0001000000000000,
+77                  0x0000800000000000, 0x0000400000000000, 0x0000200000000000, 0x0000100000000000,
+78                  0x0000080000000000, 0x0000040000000000, 0x0000020000000000, 0x0000010000000000,
+79                  0x0000008000000000, 0x0000004000000000, 0x0000002000000000, 0x0000001000000000,
+80                  0x0000000800000000, 0x0000000400000000, 0x0000000200000000, 0x0000000100000000,
+81                  0x0000000080000000, 0x0000000040000000, 0x0000000020000000, 0x0000000010000000,
+82                  0x0000000008000000, 0x0000000004000000, 0x0000000002000000, 0x0000000001000000,
+83                  0x0000000000800000, 0x0000000000400000, 0x0000000000200000, 0x0000000000100000,
+84                  0x0000000000080000, 0x0000000000040000, 0x0000000000020000, 0x0000000000010000,
+85                  0x0000000000008000, 0x0000000000004000, 0x0000000000002000, 0x0000000000001000,
+86                  0x0000000000000800, 0x0000000000000400, 0x0000000000000200, 0x0000000000000100,
+87                  0x0000000000000080, 0x0000000000000040, 0x0000000000000020, 0x0000000000000010,
+88                  0x0000000000000008, 0x0000000000000004, 0x0000000000000002, 0x0000000000000001 };
+89
+90
+91   const   unsigned   short   masktable16 [16] = {0x8000, 0x4000, 0x2000, 0x1000, 0x0800, 0x0400, 0x0200, 0x0100,
+92                      0x0080, 0x0040, 0x0020, 0x0010, 0x0008, 0x0004, 0x0002, 0x0001 };
+93
+94
+95   const   unsigned   char   masktable4 [4] = { 0x08, 0x04, 0x02, 0x01 };  // mask for 2x2 register blocks
+96
+97
+98   template  < typename  MTYPE>
+99  MTYPE  GetMaskTable ( unsigned   int  index)
+100  {
+101       return  0;
+102  }
+103
+104
+105   template  <>
+106  uint64_t  GetMaskTable<uint64_t> ( unsigned   int  index)
+107  {
+108       return   masktable64 [index];
+109  }
+110
+111   template  <>
+112   unsigned   short   GetMaskTable<unsigned short> ( unsigned   int  index)
+113  {
+114       return   masktable16 [index];
+115  }
+116
+117
+118   template  <>
+119   unsigned   char   GetMaskTable<unsigned char> ( unsigned   int  index)
+120  {
+121       return   masktable4 [index];
+122  }
+123
+124   #ifndef RHSDIM
+125   #define RHSDIM 1
+126   #endif
+127   #define BALANCETH 2
+128   #define RBDIM 8
+129   #define RBSIZE (RBDIM*RBDIM)        // size of a register block (8x8 in this case)
+130   #define SLACKNESS 8
+131   #define KBYTE 1024
+132   #define L2SIZE (256*KBYTE / RHSDIM) // less than half of the L2 Cache (L2 should hold x & y at the same time) - scaled back by RHSDIM
+133   #define CLSIZE 64           // cache line size
+134
+135   /* Tuning Parameters */
+136   #define BREAKEVEN 4     // A block (or subblock) with less than (BREAKEVEN * dimension) nonzeros won't be parallelized
+137   #define MINNNZTOPAR 128     // A block (or subblock) with less than MINNNZTOPAR nonzeros won't be parallelized
+138   #define BREAKNRB (8/RBDIM)  // register blocked version of BREAKEVEN
+139   #define MINNRBTOPAR (256/RBDIM) // register blocked version of MINNNZPAR
+140   #define LOGSERIAL 15
+141   #define ROLLING 20
+142
+143   #define EPSILON 0.0001
+144   #define REPEAT 10
+145
+146   // "absolute" difference macro that has no possibility of unsigned wrap
+147   #define absdiff(x,y)   ( (x) > (y) ? (x-y) : (y-x))
+148
+149
+150   unsigned   rmasks [32] = { 0x00000001, 0x00000002, 0x00000004, 0x00000008,
+151              0x00000010, 0x00000020, 0x00000040, 0x00000080,
+152              0x00000100, 0x00000200, 0x00000400, 0x00000800,
+153              0x00001000, 0x00002000, 0x00004000, 0x00008000,
+154              0x00010000, 0x00020000, 0x00040000, 0x00080000,
+155              0x00100000, 0x00200000, 0x00400000, 0x00800000,
+156              0x01000000, 0x02000000, 0x04000000, 0x08000000,
+157              0x10000000, 0x20000000, 0x40000000, 0x80000000 };
+158
+159
+160   void   popcountall ( const  uint64_t * __restrict M,  unsigned  * __restrict count,  size_t  size);
+161   void   popcountall ( const   unsigned   short  * __restrict M,  unsigned  * __restrict count,  size_t  size);
+162   void   popcountall ( const   unsigned   char  * __restrict M,  unsigned  * __restrict count,  size_t  size);
+163
+164
+165   template  < typename  T>
+166   void   printhistogram ( const  T * scansum,  size_t  size,  unsigned  bins)
+167  {
+168      ofstream outfile;
+169      outfile.open( "hist.csv" );
+170      vector<T> hist(bins);    // an STD-vector is zero initialized
+171       for ( size_t  i=0; i< size; ++i)
+172          hist[scansum[i]]++;
+173
+174      outfile <<  "Fill_ratio"  <<  ","  <<  "count"  << endl;
+175       for ( size_t  i=0; i< bins; ++i)
+176      {
+177          outfile << static_cast<float>(i) / bins  <<  ","  << hist[i] <<  "\n" ;
+178      }
+179  }
+180
+181   struct  thread_data
+182  {
+183       unsigned   sum ;
+184       unsigned  *  beg ;
+185       unsigned  *  end ;
+186  };
+187
+188   unsigned   int   highestbitset ( unsigned   __int64  v);
+189
+190   template  < typename  MTYPE>
+191   unsigned   prescan ( unsigned  * a, MTYPE *  const  M,  int  n)
+192  {
+193       unsigned  * end = a+n;
+194       unsigned  * _a = a;
+195      MTYPE * __restrict _M = M;
+196       unsigned   int  lgn;
+197       unsigned  sum = 0;
+198       while  ((lgn =  highestbitset (n)) >  LOGSERIAL )
+199      {
+200           unsigned  _n =  rmasks [lgn];   // _n: biggest power of two that is less than n
+201           int  numthreads =  SLACKNESS * WORKERS ;
+202           thread_data  * thdatas =  new   thread_data [numthreads];
+203           unsigned  share = _n/numthreads;
+204          cilk_for( int  t=0; t < numthreads; ++t)
+205          {
+206               popcountall (_M+t*share, _a+t*share, ((t+1)==numthreads)?(_n-t*share):share);
+207              thdatas[t]. sum  = 0;
+208              thdatas[t]. beg  = _a + t*share;
+209              thdatas[t]. end  = _a + (((t+1)==numthreads)?_n:((t+1)*share));
+210              thdatas[t]. sum  = accumulate(thdatas[t].beg, thdatas[t].end, thdatas[t].sum);
+211          }
+212           for ( int  t=0; t<numthreads; ++t)
+213          {
+214               unsigned  temp = thdatas[t]. sum ;
+215              thdatas[t]. sum  = sum;
+216              sum += temp;
+217          }
+218          cilk_for( int  tt=0; tt<numthreads; ++tt)
+219          {
+220               unsigned  * beg = thdatas[tt]. beg ;
+221               unsigned  * end = thdatas[tt]. end ;
+222               unsigned  locsum = thdatas[tt]. sum ;
+223
+224               while (beg != end)
+225              {
+226                   unsigned  temp = *beg;
+227                  *beg++ = locsum;    // changing the value of (*beg) changes the corresponding aliased pointer _a as well
+228                  locsum += temp;
+229              }
+230          }
+231          _a += _n;    // move the pointer on a
+232          _M += _n;    // move the pointer on M
+233          n  &=  ~_n;  // clear the highest bit
+234           delete  [] thdatas;
+235      }
+236       popcountall (_M, _a, end-(_a));
+237       while (_a != end)
+238      {
+239           unsigned  temp = *_a;
+240          *_a = sum;
+241          sum += temp;
+242          _a++;
+243      }
+244       return  sum;
+245  }
+246
+247   extern   "C"
+248   unsigned   char  * aligned_malloc ( uint64_t size ) {
+249     unsigned   char  *ret_ptr = ( unsigned   char  *)malloc( size + 16 );
+250     int  temp = ( unsigned  long)ret_ptr & 0xF;
+251     int  shift = 16 - temp;
+252    ret_ptr += shift;
+253    ret_ptr[ -1 ] = shift;
+254     return ( ret_ptr );
+255  }
+256
+257   extern   "C"
+258   void   aligned_free (  unsigned   char  *ptr ) {
+259    ptr -= ptr[ -1 ];
+260    free( ptr );
+261  }
+262
+263
+264   template  < typename  ITYPE>
+265  ITYPE  CumulativeSum  (ITYPE * arr, ITYPE size)
+266  {
+267      ITYPE prev;
+268      ITYPE tempnz = 0 ;
+269       for  (ITYPE i = 0 ; i < size ; ++i)
+270      {
+271          prev = arr[i];
+272          arr[i] = tempnz;
+273          tempnz += prev ;
+274      }
+275       return  (tempnz) ;            // return sum
+276  }
+277
+278
+279   template  < typename  T>
+280  T  machineEpsilon ()
+281  {
+282      T machEps = 1.0;
+283       do  {
+284              machEps /=  static_cast< T > (2.0);
+285               // If next epsilon yields 1, then break, because current
+286               // epsilon is the machine epsilon.
+287          }
+288           while  ((T)( static_cast< T > (1.0) + (machEps/ static_cast< T > (2.0))) != 1.0);
+289
+290           return  machEps;
+291  }
+292
+293
+294   template < typename  _ForwardIter,  typename  T>
+295   void   iota (_ForwardIter __first, _ForwardIter __last, T __value)
+296  {
+297       while  (__first != __last)
+298              *__first++ = __value++;
+299  }
+300
+301   template < typename  T,  typename  I>
+302  T **  allocate2D (I m, I n)
+303  {
+304      T ** array =  new  T*[m];
+305       for (I i = 0; i<m; ++i)
+306          array[i] =  new  T[n]();
+307       return  array;
+308  }
+309
+310   template < typename  T,  typename  I>
+311   void   deallocate2D (T ** array, I m)
+312  {
+313       for (I i = 0; i<m; ++i)
+314           delete  [] array[i];
+315       delete  [] array;
+316  }
+317
+318
+319   template  <  typename  T >
+320   struct  absdiff  : binary_function<T, T, T>
+321  {
+322          T operator () ( T  const  &arg1, T  const  &arg2 )  const
+323     {
+324                   using  std::abs;
+325                   return  abs( arg1 - arg2 );
+326          }
+327  };
+328
+329
+330
+331   template  < int  D>
+332   void   MultAdd ( double  & a,  const   double  & b,  const   double  & c)
+333  {
+334       for ( int  i=0; i<D; i++)
+335      {
+336          a += b * c;
+337      }
+338
+339  }
+340
+341   // bit interleave x and y, and return result
+342   // only the lower order bits of x and y are assumed valid
+343   template  < typename  ITYPE>
+344  ITYPE  BitInterleaveLow (ITYPE x, ITYPE y)
+345  {
+346      ITYPE z = 0;  // z gets the resulting Morton Number.
+347       int  ite =  sizeof (z) * CHAR_BIT / 2;
+348
+349       for  ( int  i = 0; i < ite; ++i)
+350      {
+351           // bitwise shift operations have precedence over bitwise OR and AND
+352          z |= (x & (1 << i)) << i | (y & (1 << i)) << (i + 1);
+353      }
+354       return  z;
+355  }
+356
+357   // bit interleave x and y, and return result z (which is twice in size)
+358   template  < typename  ITYPE,  typename  OTYPE>
+359  OTYPE  BitInterleave (ITYPE x, ITYPE y)
+360  {
+361      OTYPE z = 0;  // z gets the resulting Morton Number.
+362       int  ite =  sizeof (x) * CHAR_BIT;
+363
+364       for  ( int  i = 0; i < ite; ++i)
+365      {
+366           // bitwise shift operations have precedence over bitwise OR and AND
+367          z |= (x & (1 << i)) << i | (y & (1 << i)) << (i + 1);
+368      }
+369       return  z;
+370  }
+371
+372   template  < unsigned  BASE>
+373   inline   unsigned   IntPower ( unsigned  exponent)
+374  {
+375       unsigned  i = 1;
+376       unsigned  power = 1;
+377
+378       while  ( i <= exponent )
+379      {
+380          power *= BASE;
+381          i++;
+382      }
+383       return  power;
+384  }
+385
+386   template  <>
+387   inline   unsigned   IntPower<2> ( unsigned  exponent)
+388  {
+389       return   rmasks [exponent];
+390  }
+391
+392
+393
+394   // T should be uint32, uint64, int32 or int64; force concept requirement
+395   template  < typename  T>
+396   bool   IsPower2 (T x)
+397  {
+398       return  ( (x>0) && ((x & (x-1)) == 0));
+399  }
+400
+401   unsigned   int   nextpoweroftwo ( unsigned   int  v)
+402  {
+403       // compute the next highest power of 2 of 32(or 64)-bit n
+404       // essentially does 1 << (lg(n - 1)+1).
+405
+406       unsigned   int  n = v-1;
+407
+408       // any "0" that is immediately right to a "1" becomes "1" (post: any zero has at least two "1"s to its left)
+409      n |= n >> 1;
+410
+411       // turn two more adjacent "0" to "1" (post: any zero has at least four "1"s to its left)
+412      n |= n >> 2;
+413      n |= n >> 4;     // post: any zero has at least 8 "1"s to its left
+414      n |= n >> 8;     // post: any zero has at least 16 "1"s to its left
+415      n |= n >> 16;    // post: any zero has at least 32 "1"s to its left
+416
+417       return  ++n;
+418  }
+419
+420   // 64-bit version
+421   // note: least significant bit is the "zeroth" bit
+422   // pre: v > 0
+423   unsigned   int   highestbitset ( unsigned   __int64  v)
+424  {
+425       // b in binary is {10,1100, 11110000, 1111111100000000 ...}
+426       const   unsigned   __int64  b[] = {0x2ULL, 0xCULL, 0xF0ULL, 0xFF00ULL, 0xFFFF0000ULL, 0xFFFFFFFF00000000ULL};
+427       const   unsigned   int  S[] = {1, 2, 4, 8, 16, 32};
+428       int  i;
+429
+430       unsigned   int  r = 0;  // result of log2(v) will go here
+431       for  (i = 5; i >= 0; i--)
+432      {
+433           if  (v & b[i])    // highestbitset is on the left half (i.e. v > S[i] for sure)
+434          {
+435              v >>= S[i];
+436              r |= S[i];
+437          }
+438      }
+439       return  r;
+440  }
+441
+442   __int64   highestbitset ( __int64  v)
+443  {
+444       if (v < 0)
+445      {
+446          cerr <<  "Indices can not be negative, aborting..."  << endl;
+447           return  -1;
+448      }
+449       else
+450      {
+451           unsigned   __int64  uv =  static_cast<   unsigned   __int64   > (v);
+452           unsigned   __int64  ur =  highestbitset (uv);
+453           return   static_cast<   __int64   >  (ur);
+454      }
+455  }
+456
+457   // 32-bit version
+458   // note: least significant bit is the "zeroth" bit
+459   // pre: v > 0
+460   unsigned   int   highestbitset ( unsigned   int  v)
+461  {
+462       // b in binary is {10,1100, 11110000, 1111111100000000 ...}
+463       const   unsigned   int  b[] = {0x2, 0xC, 0xF0, 0xFF00, 0xFFFF0000};
+464       const   unsigned   int  S[] = {1, 2, 4, 8, 16};
+465       int  i;
+466
+467       unsigned   int  r = 0;
+468       for  (i = 4; i >= 0; i--)
+469      {
+470           if  (v & b[i])    // highestbitset is on the left half (i.e. v > S[i] for sure)
+471          {
+472              v >>= S[i];
+473              r |= S[i];
+474          }
+475      }
+476       return  r;
+477  }
+478
+479   int   highestbitset ( int  v)
+480  {
+481       if (v < 0)
+482      {
+483          cerr <<  "Indices can not be negative, aborting..."  << endl;
+484           return  -1;
+485      }
+486       else
+487      {
+488           unsigned   int  uv =  static_cast<   unsigned   int >  (v);
+489           unsigned   int  ur =  highestbitset (uv);
+490           return   static_cast<   int   >  (ur);
+491      }
+492  }
+493
+494   /* This function will return n % d.
+495      d must be one of: 1, 2, 4, 8, 16, 32, … */
+496   inline   unsigned   int   getModulo ( unsigned   int  n,  unsigned   int  d)
+497  {
+498       return  ( n & (d-1) );
+499  }
+500
+501   // Same requirement (d=2^k) here as well
+502   inline   unsigned   int   getDivident ( unsigned   int  n,  unsigned   int  d)
+503  {
+504       while ((d = d >> 1))
+505          n = n >> 1;
+506       return  n;
+507  }
+508
+509   #endif
+510
+masktable16 const unsigned short masktable16[16] Definition:   utility.h:91
+printhistogram void printhistogram(const T *scansum, size_t size, unsigned bins) Definition:   utility.h:166
+base void * base Definition:   utility.h:63
+getModulo unsigned int getModulo(unsigned int n, unsigned int d) Definition:   utility.h:496
+getDivident unsigned int getDivident(unsigned int n, unsigned int d) Definition:   utility.h:502
+LOGSERIAL #define LOGSERIAL Definition:   utility.h:140
+nextpoweroftwo unsigned int nextpoweroftwo(unsigned int v) Definition:   utility.h:401
+masktable4 const unsigned char masktable4[4] Definition:   utility.h:95
+rmasks unsigned rmasks[32] Definition:   utility.h:150
+masktable64 const uint64_t masktable64[64] Definition:   utility.h:73
+MultAdd void MultAdd(double &a, const double &b, const double &c) Definition:   utility.h:332
+SLACKNESS #define SLACKNESS Definition:   utility.h:130
+thread_data::end unsigned * end Definition:   utility.h:185
+__int64 #define __int64 Definition:   utility.h:4
+allocate2D T ** allocate2D(I m, I n) Definition:   utility.h:302
+int_least_helper< 2 >::least unsigned char least Definition:   utility.h:71
+GetMaskTable< unsigned char > unsigned char GetMaskTable< unsigned char >(unsigned int index) Definition:   utility.h:119
+absdiff Definition:   utility.h:320
+GetMaskTable< uint64_t > uint64_t GetMaskTable< uint64_t >(unsigned int index) Definition:   utility.h:106
+prescan unsigned prescan(unsigned *a, MTYPE *const M, int n) Definition:   utility.h:191
+WORKERS #define WORKERS Definition:   utility.h:24
+thread_data::sum unsigned sum Definition:   utility.h:183
+GetMaskTable< unsigned short > unsigned short GetMaskTable< unsigned short >(unsigned int index) Definition:   utility.h:112
+thread_data Definition:   utility.h:181
+address void * address Definition:   utility.h:62
+BitInterleave OTYPE BitInterleave(ITYPE x, ITYPE y) Definition:   utility.h:359
+int_least_helper< 4 >::least unsigned short least Definition:   utility.h:70
+BitInterleaveLow ITYPE BitInterleaveLow(ITYPE x, ITYPE y) Definition:   utility.h:344
+aligned_malloc unsigned char * aligned_malloc(uint64_t size) Definition:   utility.h:248
+IntPower< 2 > unsigned IntPower< 2 >(unsigned exponent) Definition:   utility.h:387
+iota void iota(_ForwardIter __first, _ForwardIter __last, T __value) Definition:   utility.h:295
+int_least_helper Definition:   utility.h:68
+CumulativeSum ITYPE CumulativeSum(ITYPE *arr, ITYPE size) Definition:   utility.h:265
+aligned_free void aligned_free(unsigned char *ptr) Definition:   utility.h:258
+IsPower2 bool IsPower2(T x) Definition:   utility.h:396
+highestbitset unsigned int highestbitset(unsigned __int64 v) Definition:   utility.h:423
+machineEpsilon T machineEpsilon() Definition:   utility.h:280
+thread_data::beg unsigned * beg Definition:   utility.h:184
+__cilkrts_synched CILK_EXPORT __CILKRTS_NOTHROW int __cilkrts_synched(void)
+IntPower unsigned IntPower(unsigned exponent) Definition:   utility.h:373
+deallocate2D void deallocate2D(T **array, I m) Definition:   utility.h:311
+GetMaskTable MTYPE GetMaskTable(unsigned int index) Definition:   utility.h:99
+int_least_helper< 8 >::least uint64_t least Definition:   utility.h:69
+popcountall void popcountall(const uint64_t *__restrict M, unsigned *__restrict count, size_t size) Definition:   SSEspmv.cpp:1273
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-196.html
+III-V Nanostructures on Dissimilar Substrates for Optoelectronic Applications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+III-V Nanostructures on Dissimilar Substrates for Optoelectronic Applications
+III-V Nanostructures on Dissimilar Substrates for Optoelectronic Applications
+Kar Wei Ng and Constance Chang-Hasnain
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-196
+December 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-196.pdf
+The heterogeneous integration of optoelectronic and electronic circuits is poised to transform personal electronics because it will not only enable a vast range of otherwise unattainable capabilities, but will also reduce power consumption, weight and size. Monolithic integrations of high-quality III-V materials with single and poly-crystalline silicon are therefore highly desirable. Direct growth of III-V on silicon substrates has been very challenging because of high epitaxy temperatures that are incompatible with CMOS circuits. Moreover, the large mismatches of lattice constants and thermal expansion coefficients between III-V compounds and silicon cause compromises in reliability and performance. As for poly-silicon, the lack of long-range crystalline coherency in the substrate makes high-quality III-V epitaxial deposition impossible. As such, there has been a focus on growing three-dimensional nanostructures, which show great promise to overcome these difficulties.
+In this dissertation, a novel growth mechanism that yields catalyst-free, self-assembled, single-crystalline nanoneedles and nanopillars on dissimilar substrates will be presented. At CMOS-compatible growth temperatures (400 ~ 455 oC), single-crystalline InGaAs and InP nanostructures are grown on silicon and poly-silicon substrates via metalorganic chemical vapor deposition. Unlike nanowires synthesized with vapor-liquid-solid or selective area growth, the nanostructures expand in both axial and radial directions simultaneously. On top of silicon, these core-shell nanostructures can scale beyond a micron in diameter while maintaining pure wurtzite crystal phase. This high-quality growth is very unusual considering over 6% lattice mismatch between III-V and silicon. More surprisingly, single crystalline InGaAs nanopillars with base diameter far exceeding the substrate crystal grain size can be grown directly on poly-silicon. We study these seemingly impossible heterogeneous growths extensively by examining the crystal lattice at the hetero-interfaces via high-resolution transmission electron microscopy. Discussions on stress-relaxing mechanism, nanostructure nucleation schemes as well as alloy composition uniformity will be presented.
+With the excellent crystalline quality, InGaAs and InP nanostructures exhibit extraordinary optical properties. Lasing is achieved, for the first time, in as-grown InGaAs and InP nanopillars monolithically synthesized on silicon and poly-silicon. Nanopillar-based devices with respectable diode ideality factor and extremely low dark currents are developed directly on top of silicon. Demonstrations of optoelectronic functionalities including light emission, detection and photovoltaics will be presented. The findings in this work open up a new chapter in the heterogeneous integration of lattice-mismatched materials and their device structure design.
+Advisor:  Constance Chang-Hasnain
+BibTeX citation:
+@phdthesis{Ng:EECS-2014-196,
+Author = {Ng, Kar Wei and Chang-Hasnain, Constance},
+Title = {III-V Nanostructures on Dissimilar Substrates for Optoelectronic Applications},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-196.html},
+Number = {UCB/EECS-2014-196},
+Abstract = {The heterogeneous integration of optoelectronic and electronic circuits is poised to transform personal electronics because it will not only enable a vast range of otherwise unattainable capabilities, but will also reduce power consumption, weight and size. Monolithic integrations of high-quality III-V materials with single and poly-crystalline silicon are therefore highly desirable. Direct growth of III-V on silicon substrates has been very challenging because of high epitaxy temperatures that are incompatible with CMOS circuits. Moreover, the large mismatches of lattice constants and thermal expansion coefficients between III-V compounds and silicon cause compromises in reliability and performance. As for poly-silicon, the lack of long-range crystalline coherency in the substrate makes high-quality III-V epitaxial deposition impossible. As such, there has been a focus on growing three-dimensional nanostructures, which show great promise to overcome these difficulties.
+In this dissertation, a novel growth mechanism that yields catalyst-free, self-assembled, single-crystalline nanoneedles and nanopillars on dissimilar substrates will be presented. At CMOS-compatible growth temperatures (400 ~ 455 oC), single-crystalline InGaAs and InP nanostructures are grown on silicon and poly-silicon substrates via metalorganic chemical vapor deposition. Unlike nanowires synthesized with vapor-liquid-solid or selective area growth, the nanostructures expand in both axial and radial directions simultaneously. On top of silicon, these core-shell nanostructures can scale beyond a micron in diameter while maintaining pure wurtzite crystal phase. This high-quality growth is very unusual considering over 6% lattice mismatch between III-V and silicon. More surprisingly, single crystalline InGaAs nanopillars with base diameter far exceeding the substrate crystal grain size can be grown directly on poly-silicon. We study these seemingly impossible heterogeneous growths extensively by examining the crystal lattice at the hetero-interfaces via high-resolution transmission electron microscopy. Discussions on stress-relaxing mechanism, nanostructure nucleation schemes as well as alloy composition uniformity will be presented.
+With the excellent crystalline quality, InGaAs and InP nanostructures exhibit extraordinary optical properties. Lasing is achieved, for the first time, in as-grown InGaAs and InP nanopillars monolithically synthesized on silicon and poly-silicon. Nanopillar-based devices with respectable diode ideality factor and extremely low dark currents are developed directly on top of silicon. Demonstrations of optoelectronic functionalities including light emission, detection and photovoltaics will be presented. The findings in this work open up a new chapter in the heterogeneous integration of lattice-mismatched materials and their device structure design.}
+}
+EndNote citation:
+%0 Thesis
+%A Ng, Kar Wei
+%A Chang-Hasnain, Constance
+%T III-V Nanostructures on Dissimilar Substrates for Optoelectronic Applications
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 1
+%@ UCB/EECS-2014-196
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-196.html
+%F Ng:EECS-2014-196

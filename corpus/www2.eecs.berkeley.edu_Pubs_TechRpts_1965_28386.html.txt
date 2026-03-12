@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28386.html
+On the Stability of Feedback Systems With One Differentiable Nonlinear Element | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Stability of Feedback Systems With One Differentiable Nonlinear Element
+On the Stability of Feedback Systems With One Differentiable Nonlinear Element
+A.G. Dewey
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M133
+November 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-133.pdf
+BibTeX citation:
+@techreport{Dewey:M133,
+Author = {Dewey, A.G.},
+Title = {On the Stability of Feedback Systems With One Differentiable Nonlinear Element},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28386.html},
+Number = {UCB/ERL M133}
+}
+EndNote citation:
+%0 Report
+%A Dewey, A.G.
+%T On the Stability of Feedback Systems With One Differentiable Nonlinear Element
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M133
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28386.html
+%F Dewey:M133

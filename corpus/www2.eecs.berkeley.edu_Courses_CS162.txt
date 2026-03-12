@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS162
+CS 162. Operating Systems and System Programming
+Catalog Description:  Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy.
+Units:  4
+Related Areas:
+Operating Systems & Networking (OSNT)   Security (SEC)
+Prerequisites:  COMPSCI 61B, COMPSCI 61C, and COMPSCI 70.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 162 –                TuTh 15:30-16:59, Hearst Field Annex A1 –
+John Kubiatowicz Class Notes
+- Seats reserved for students with enrollment permission are not open. They are reserved for students in internal programs. Please DO NOT ask faculty or staff for one of these seats. The students who qualify have already been notified.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

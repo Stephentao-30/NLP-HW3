@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4282.html
+Concurrent Models of Computation for Embedded Software | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Concurrent Models of Computation for Embedded Software
+Concurrent Models of Computation for Embedded Software
+Edward A. Lee
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M05/2
+December 2004
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/ERL-05-2.pdf
+BibTeX citation:
+@techreport{Lee:M05/2,
+Author = {Lee, Edward A.},
+Title = {Concurrent Models of Computation for Embedded Software},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2004},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4282.html},
+Number = {UCB/ERL M05/2}
+}
+EndNote citation:
+%0 Report
+%A Lee, Edward A.
+%T Concurrent Models of Computation for Embedded Software
+%I EECS Department, University of California, Berkeley
+%D 2004
+%@ UCB/ERL M05/2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2004/4282.html
+%F Lee:M05/2

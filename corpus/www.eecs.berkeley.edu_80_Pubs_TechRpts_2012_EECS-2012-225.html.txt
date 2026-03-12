@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-225.html
+Calibration Techniques for Time-Interleaved SAR A/D Converters
+Dusan Stepanovic
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-225
+December 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-225.pdf
+Benefits of technology scaling and the flexibility of digital circuits favor the digital signal processing in many applications, placing additional burden to the analog-to-digital con- verters (ADCs). This has created a need for energy-efficient ADCs in the GHz sampling frequency and moderate effective resolution range. A dominantly digital nature of successive approximation register (SAR) ADCs makes them a good candidate for an energy-efficient and scalable design, but its sequential operation limits its applicability in the GHz sampling range. Time-interleaving can be used to extend the efficiency of the SAR ADCs to the higher frequencies if the mismatches between the interleaved ADC channels can be handled in an efficient manner.
+New calibration techniques are proposed for time-interleaved SAR ADCs capable of cor- recting the gain, offset and timing mismatches, as well as the static nonlinearities of individ- ual ADC channels stemming from the capacitor mismatches. The techniques are based on introducing two additional calibration channels that are identical to all other time-interleaved channels and the use of the least mean square algorithm (LMS). The calibration of the chan- nel offset and gain mismatches, as well as the capacitor mismatches, is performed in the background using digital post-processing. The timing mismatches between channels are cor- rected using a mixed-signal feedback, where all calculations are performed in the digital do- main, but the actual timing correction is done in the analog domain by fine-tuning the edges of the sampling clocks. These calibration techniques enable a design of time-interleaved con- verters that use minimum-sized capacitors and operate in the thermal-noise-limited regime for maximum energy and area efficiency.
+The techniques are demonstrated on a time-interleaved converter that interleaves 24 channels designed in a 65nm CMOS technology. The ADC uses the smallest capacitor value of only 50aF, achieves 50.9dB SNDR at fs = 2.8GHz with the effective-resolution bandwidth higher than the Nyquist frequency, while consuming only 44.6 mW of power.
+Advisors:  Borivoje Nikolic
+BibTeX citation:
+@phdthesis{Stepanovic:EECS-2012-225,
+Author= {Stepanovic, Dusan},
+Title= {Calibration Techniques for Time-Interleaved SAR A/D Converters},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-225.html},
+Number= {UCB/EECS-2012-225},
+Abstract= {Benefits of technology scaling and the flexibility of digital circuits favor the digital signal processing in many applications, placing additional burden to the analog-to-digital con- verters (ADCs). This has created a need for energy-efficient ADCs in the GHz sampling frequency and moderate effective resolution range. A dominantly digital nature of successive approximation register (SAR) ADCs makes them a good candidate for an energy-efficient and scalable design, but its sequential operation limits its applicability in the GHz sampling range. Time-interleaving can be used to extend the efficiency of the SAR ADCs to the higher frequencies if the mismatches between the interleaved ADC channels can be handled in an efficient manner.
+New calibration techniques are proposed for time-interleaved SAR ADCs capable of cor- recting the gain, offset and timing mismatches, as well as the static nonlinearities of individ- ual ADC channels stemming from the capacitor mismatches. The techniques are based on introducing two additional calibration channels that are identical to all other time-interleaved channels and the use of the least mean square algorithm (LMS). The calibration of the chan- nel offset and gain mismatches, as well as the capacitor mismatches, is performed in the background using digital post-processing. The timing mismatches between channels are cor- rected using a mixed-signal feedback, where all calculations are performed in the digital do- main, but the actual timing correction is done in the analog domain by fine-tuning the edges of the sampling clocks. These calibration techniques enable a design of time-interleaved con- verters that use minimum-sized capacitors and operate in the thermal-noise-limited regime for maximum energy and area efficiency.
+The techniques are demonstrated on a time-interleaved converter that interleaves 24 channels designed in a 65nm CMOS technology. The ADC uses the smallest capacitor value of only 50aF, achieves 50.9dB SNDR at fs = 2.8GHz with the effective-resolution bandwidth higher than the Nyquist frequency, while consuming only 44.6 mW of power.},
+}
+EndNote citation:
+%0 Thesis
+%A Stepanovic, Dusan
+%T Calibration Techniques for Time-Interleaved SAR A/D Converters
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 4
+%@ UCB/EECS-2012-225
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-225.html
+%F Stepanovic:EECS-2012-225

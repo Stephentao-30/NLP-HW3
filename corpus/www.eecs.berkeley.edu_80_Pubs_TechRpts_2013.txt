@@ -1,0 +1,217 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013
+Technical Reports - 2013
+Designing a Low Voltage, High Current Tunneling Transistor  (EECS-2013-250) Sapan Agarwal and Eli Yablonovitch
+Engineering the Electron-Hole Bilayer Tunneling Field-Effect Transistor  (EECS-2013-249) Sapan Agarwal, James Teherani, Judy Hoyt, Dimitri Antoniadis and Eli Yablonovitch
+Pronounced Effect of pn-Junction Dimensionality on Tunnel Switch Threshold Shape  (EECS-2013-248) Sapan Agarwal and Eli Yablonovitch
+Fundamental Conductance ÷ Voltage Limit in Low Voltage Tunnel Switches  (EECS-2013-247) Sapan Agarwal and Eli Yablonovitch
+Band-Edge Steepness Obtained from Esaki/Backward Diode Current-Voltage Characteristics  (EECS-2013-245) Sapan Agarwal and Eli Yablonovitch
+Controlling Energy-Efficient Buildings in the Context of Smart Grid: A Cyber Physical System Approach  (EECS-2013-244) Mehdi Maasoumy Haghighi
+First-Order Open-Universe POMDPs: Formulation and Algorithms  (EECS-2013-243) Siddharth Srivastava, Xiang Cheng, Stuart J. Russell and Avi Pfeffer
+Parallel Layout Engines:  Synthesis and Optimization of Tree Traversals  (EECS-2013-242) Leo Meyerovich
+Towards Programmable Buildings: A Study of System Design for Application Portability in Buildings  (EECS-2013-241) Andrew Krioukov
+Compensation for Camera Motion on Unsteady Robots for Optical Flow  (EECS-2013-240) Fernando L. Garcia Bermudez
+Statistical, algorithmic, and robustness aspects of population demographic inference from genomic variation data  (EECS-2013-239) Anand Bhaskar
+Modern Low-Complexity Capacity-Achieving Codes For Network Communication  (EECS-2013-238) Naveen Goela
+Building trust into light-handed regulations for cognitive radio  (EECS-2013-236) Kristen Ann Woyach
+Optical Whispering-Gallery Mode Resonators for Applications in Optical Communication and Frequency Control  (EECS-2013-235) Karen Grutter
+Harsh Environment Silicon Carbide Metal-Semiconductor Field-Effect Transistor  (EECS-2013-234) Wei-Cheng Lien
+Information Flow in Linear Systems  (EECS-2013-233) Se Yong Park
+Protecting User Privacy in Remotely Managed Applications  (EECS-2013-232) Prashanth Mohan
+Texture Mapping 3D Models of Indoor Environments with Noisy Camera Poses  (EECS-2013-231) Peter Cheng
+Designing Networks for Large-Scale Blackout Circumvention  (EECS-2013-230) Shaddi Hasan
+Changes in Neural Activity during Brain-Machine Interface Control: from Information Encoding and Connectivity to Local Field Potentials  (EECS-2013-229) Kelvin So
+Formal Verification and Synthesis for Quality-of-Service in On-Chip Networks  (EECS-2013-228) Daniel Holcomb
+Program Verification with Property Directed Reachability  (EECS-2013-225) Tobias Welp
+Secure Virtualization with Formal Methods  (EECS-2013-224) Cynthia Sturton
+Assessment and Methods for Supply-Following Loads in Modern Electricity Grids with Deep Renewables Penetration  (EECS-2013-223) Jayant Taneja
+Formal Methods for Reverse Engineering Gate-Level Netlists  (EECS-2013-222) Wenchao Li
+Community Cellular Networks  (EECS-2013-220) Kurtis Heimerl
+Efficient inference algorithms for near-deterministic systems  (EECS-2013-219) Shaunak Chatterjee
+Data Exchange Problems: Algorithms and Complexity  (EECS-2013-218) Nebojsa Milosavljevic
+Techniques for Model Inference and Bug Finding  (EECS-2013-217) Chia Yuan Cho
+A Framework for Productive, Efficient and Portable Parallel Computing  (EECS-2013-216) Ekaterina I. Gonina
+PULSE: Peeling-based Ultra-Low complexity algorithms for Sparse signal Estimation  (EECS-2013-215) Sameer Pawar
+Minimax Optimality in Online Learning under Logarithmic Loss with Parametric Constant Experts  (EECS-2013-213) Fares Hedayati
+Techniques for Modifying and Augmenting Existing Charts for Improved Usability  (EECS-2013-212) Nicholas Kong
+The ZeroAccess Auto-Clicking and Search-Hijacking Click Fraud Modules  (EECS-2013-211) Paul Pearce, Chris Grier, Vern Paxson, Vacha Dave, Damon McCoy, Geoffrey M. Voelker and Stefan Savage
+Wireless Weigh-In-Motion: using road vibrations to estimate truck weights  (EECS-2013-210) Ravneet Bajwa
+Graph Structured Data Viewed Through a Fourier Lens  (EECS-2013-209) Venkatesan Ekambaram
+ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing  (EECS-2013-207) Matt Massie, Frank Nothaft, Christopher Hartl, Christos Kozanitis, André Schumacher, Anthony D. Joseph and David A. Patterson
+A Computational Light Field Display for Correcting Visual Aberrations  (EECS-2013-206) Fu-Chung Huang
+A Dual-Channel Approach to Protocol Design in the Presence of Middleboxes  (EECS-2013-205) Steve Wang, Justine Sherry and Sangjin Han
+Delay Comparison of Different Switch Architectures  (EECS-2013-204) Stephan Adams, Longbo Huang, Abhay Parekh and Jean Walrand
+Designing an Exploratory Text Analysis Tool for Humanities and Social Sciences Research  (EECS-2013-203) Aditi Shrikumar
+Beyond Deep Learning: Scalable Methods and Models for Learning  (EECS-2013-202) Oriol Vinyals
+The Role of the Underground Economy in Social Network Spam and Abuse  (EECS-2013-201) Kurt Thomas
+A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting  (EECS-2013-200) Yu-Hsiang Chen, Ben Zhang, Claire Tuna, Yang Li, Edward A. Lee and Björn Hartmann
+GSM Whitespaces: An Opportunity for Rural Cellular Service  (EECS-2013-198) Shaddi Hasan, Kurtis Heimerl, Kate Harrison, Kashif Ali, Sean Roberts, Anant Sahai and Eric Brewer
+Data-Driven Probabilistic Modeling and Verification of Human Driver Behavior  (EECS-2013-197) Dorsa Sadigh, Katherine Driggs Campbell, Alberto Alessandro Angelo Puggelli, Wenchao Li, Victor Shia, Ruzena Bajcsy, Alberto L. Sangiovanni-Vincentelli, S. Shankar Sastry and Sanjit A. Seshia
+A Platform Architecture for Sensor Data Processing and Verification in Buildings  (EECS-2013-196) Jorge Ortiz
+Hybrid Aerial and Terrestrial Locomotion, and Implications for Avian Flight Evolution  (EECS-2013-195) Kevin Peterson
+Low-Dimensional Models for PCA and Regression  (EECS-2013-194) Dapo Omidiran
+QUALCOMM: SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS  (EECS-2013-193) Jie Luo
+Millimeter-Wave Circuit Design for Radar Transceivers  (EECS-2013-192) Paul Swirhun
+Performance Analysis of Nonlinear Systems Combining Integral Quadratic Constraints and Sum-of-Squares Techniques  (EECS-2013-191) Melissa Erin Summers
+Engineering Optical Antenna for Efficient Local Field Enhancement  (EECS-2013-190) Tae Joon Seok
+Experimental Study of Fine Frequency Selection Techniques  for Piezoelectric Aluminum Nitride Lamb Wave Resonators  (EECS-2013-189) Ting-Ta Yen
+Time-Domain Ultra-Wideband Synthetic Imager in Silicon  (EECS-2013-188) Amin Arbabian
+Sparse Principal Component Analysis: Algorithms and Applications  (EECS-2013-187) Youwei Zhang
+On Quantum Search, Experts and Geometry  (EECS-2013-186) Milosh Drezgich
+Three Fingered Jack: Productively Addressing Platform Diversity  (EECS-2013-185) David Sheffield
+Scheduling and Optimizing Stream Programs on Multicore Machines by Exploiting High-Level Abstractions  (EECS-2013-184) Dai Bui
+Control Improvisation with Application to Music  (EECS-2013-183) Alexandre Donze, Sophie Libkind, Sanjit A. Seshia and David Wessel
+Scalable Model Checking Beyond Safety - A Communication Fabric Perspective  (EECS-2013-181) Sayak Ray
+Ambiguous fragment assignment for high-throughput sequencing experiments  (EECS-2013-177) Adam Roberts
+Let's Draw a Graph: An Introduction with Graphviz  (EECS-2013-176) Marc Khoury
+Reconstructing Householder Vectors from Tall-Skinny QR  (EECS-2013-175) Grey Ballard, James Demmel, Laura Grigori, Mathias Jacquelin, Hong Diep Nguyen and Edgar Solomonik
+NbQ-CLOCK: A Non-blocking Queue-based CLOCK Algorithm for Web-Object Caching  (EECS-2013-174) Gage Eads
+FastLane: Agile Drop Notification for Datacenter Networks  (EECS-2013-173) David Zats, Anand Padmanabha Iyer, Ganesh Ananthanarayanan, Randy H. Katz, Ion Stoica and Amin Vahdat
+FlexPRET: A Processor Platform for Mixed-Criticality Systems  (EECS-2013-172) Michael Zimmer, David Broman, Christopher Shaver and Edward A. Lee
+A New Derivation and Dataset for Fitts' Law of Human Motion  (EECS-2013-171) Ken Goldberg, Siamak Faridani and Ron Alterovitz
+Design of Flexible Soft Output MIMO Detector for Cooperative MIMO  (EECS-2013-170) Milos Jorgovanovic
+Efficient learning algorithms with limited information  (EECS-2013-169) Anindya De
+Teaching People and Machines to Enhance Images  (EECS-2013-168) Floraine Berthouzoz
+Browsing and Analyzing the Command-Level Structure of Large Collections of Image Manipulation Tutorials  (EECS-2013-167) Amy Pavel, Floraine Berthouzoz, Björn Hartmann and Maneesh Agrawala
+From Poisson to Silicon - Advancing Compact SPICE Models for IC Design  (EECS-2013-166) Sriramkumar Venugopalan
+Scale-Independent Relational Query Processing  (EECS-2013-165) Michael Armbrust
+Tunneling in low-power device-design: A bottom-up view of issues, challenges, and opportunities  (EECS-2013-164) Kartik Ganapathi
+Schedulability Analysis and Verification of Real-Time Discrete-Event Systems  (EECS-2013-163) Christos Stergiou
+Reactive Synthesis vs. Supervisory Control: Bridging the Gap  (EECS-2013-162) Ruediger Ehlers, Stephane Lafortune, Stavros Tripakis and Moshe Vardi
+Precision Timed Infrastructure: Design Challenges  (EECS-2013-161) David Broman, Michael Zimmer, Yooseong Kim, Hokeun Kim, Jian Cai, Aviral Shrivastava, Stephen A. Edwards and Edward A. Lee
+Appendix to the History of the UC Berkeley Microlab  (EECS-2013-159) Katalin Voros
+History of the UC Berkeley Microlab  (EECS-2013-158) Katalin Voros
+On Relating Visual Elements to City Statistics  (EECS-2013-157) Sean Arietta, Maneesh Agrawala and Ravi Ramamoorthi
+Regularization-Based Identification for Level Set Equations  (EECS-2013-156) Insoon Yang and Claire Tomlin
+Towards Adapting ImageNet to Reality: Scalable Domain Adaptation with Implicit Low-rank Transformations  (EECS-2013-154) Erik Rodner, Judith Hoffman, Jeffrey Donahue, Trevor Darrell and Kate Saenko
+Determinate Composition of FMUs for Co-Simulation  (EECS-2013-153) David Broman, Christopher Brooks, Lev Greenberg, Edward A. Lee, Michael Masin, Stavros Tripakis and Michael Wetter
+A Warping Framework for Wide-Angle Imaging and Perspective Manipulation  (EECS-2013-152) Robert Carroll
+Avoiding Communication in Dense Linear Algebra  (EECS-2013-151) Grey Ballard
+A study of some problems in network information theory  (EECS-2013-148) Sudeep Kamath
+Automatic Mapping of Real Time Radio Astronomy Signal Processing Pipelines onto Heterogeneous Clusters  (EECS-2013-147) Terry Esther Filiba
+Control and Optimization of Power Systems with Renewables: Voltage Regulation and Generator Dispatch  (EECS-2013-146) Baosen Zhang
+Pebble Games and Complexity  (EECS-2013-145) Siu Man Chan
+Nanomaterials processing toward large-scale flexible/stretchable electronics  (EECS-2013-144) Toshitake Takahashi
+StreaMorph: A Case for Synthesizing Energy-Efficient Adaptive Programs Using High-Level Abstractions  (EECS-2013-143) Dai Bui and Edward A. Lee
+Shapes, Paint, and Light  (EECS-2013-142) Jonathan Barron
+Towards Sound HTTP Request Causation Inference  (EECS-2013-141) Kristin Stephens
+Eliciting Private Information from Selfish Agents  (EECS-2013-138) Rafael Frongillo
+Reflective Impulse Radios: Principles and Design  (EECS-2013-137) Yuhui David Chen
+Novel Technologies for Next Generation Memory  (EECS-2013-136) WookHyun Kwon
+The CloudProxy Tao for Trusted Computing  (EECS-2013-135) John Manferdelli, Tom Roeder and Fred Schneider
+Synthesis for Human-in-the-Loop Control Systems  (EECS-2013-134) Wenchao Li, Dorsa Sadigh, S. Shankar Sastry and Sanjit A. Seshia
+Blazes: Coordination Analysis for Distributed Programs  (EECS-2013-133) Peter Alvaro, Neil Conway, Joseph M. Hellerstein and David Maier
+Geometric Image Segmentation via Multiscale TILT Clustering  (EECS-2013-132) Chi Pang Lam, Allen Yang, Ehsan Elhamifar and S. Shankar Sastry
+Avoiding Communication in Successive Band Reduction  (EECS-2013-131) Grey Ballard, James Demmel and Nicholas Knight
+Construction of a Cubist Girl Cap  (EECS-2013-130) Carlo H. Séquin
+Optimal Mixed Spectrum Auction  (EECS-2013-129) Alonso Silva, Fernando Beltran and Jean Walrand
+Rangzen: Circumventing Government-Imposed Communication Blackouts  (EECS-2013-128) Giulia Fanti, Yahel Ben David, Sebastian Benthall, Eric Brewer and Scott Shenker
+Communication-Avoiding Symmetric-Indefinite Factorization  (EECS-2013-127) Grey Ballard, Dulceneia Becker, James Demmel, Jack Dongarra, Alex Druinsky, Inon Peled, Oded Schwartz, Sivan Toledo and Ichitaro Yamazaki
+An arithmetic complexity lower bound for computing rational functions, with applications to linear algebra  (EECS-2013-126) James Demmel
+Transformation-Aware Symbolic Execution for System Test Generation  (EECS-2013-125) Stephen McCamant, Mathias Payer, Dan Caselden, Alex Bazhanyuk and Dawn Song
+Using FPGAs to Simulate Novel Datacenter Network Architectures At Scale  (EECS-2013-124) Zhangxi Tan
+How to Build a Bad Research Center  (EECS-2013-123) David A. Patterson
+The Fixed-Point Theory of Strictly Causal Functions  (EECS-2013-122) Eleftherios Matsikoudis and Edward A. Lee
+Material Science and Device Physics of  (EECS-2013-121) Rehan Kapadia
+Estimating the Resources for Quantum Computation with the QuRE Toolbox  (EECS-2013-119) Martin Suchara, Arvin Faruque, Ching-Yi Lai, Gerardo Paz, Frederic Chong and John D. Kubiatowicz
+A Fast Filter for Physically-Based Rendering  (EECS-2013-118) Brandon Wang
+Shape, Illumination, and Reflectance from Shading  (EECS-2013-117) Jonathan Barron and Jitendra Malik
+The Internals of GameTime: Implementation and Evaluation of a Timing Analyzer for Embedded Software  (EECS-2013-116) Jonathan Prakash Kotker
+Indoor Floorplan with WiFi Coverage Map Android Application  (EECS-2013-115) Zeying Xin
+FastLane: An Agile Congestion Signaling Mechanism for Improving Datacenter Performance  (EECS-2013-113) David Zats, Anand Padmanabha Iyer, Randy H. Katz, Ion Stoica and Amin Vahdat
+Automatic Gesture Recognition and Tracking System for Physiotherapy  (EECS-2013-112) Aarthi Ravi
+Investigation of Peptoid Thin Films and Their Potential Use in a Biosensor  (EECS-2013-111) Brian Lunt, Gloria Olivier, Felippe Pavinatto, Ronald Zuckermann and Ana Claudia Arias
+Constraints And Techniques For Software Power Management In Production Clusters  (EECS-2013-110) Arka Bhattacharya
+Predicting Student Retention in Massive Open Online Courses using Hidden Markov Models  (EECS-2013-109) Girish Balakrishnan
+Speaker Diarization: Current Limitations and New Directions  (EECS-2013-108) Mary Tai Knox
+Spontaneous Emission Rate Enhancement Using Optical Antennas  (EECS-2013-107) Nikhil Kumar
+User Interface: 3D Feedback  (EECS-2013-105) Seyed Hassan Elahi
+User-Guided Inverse 3D Modeling  (EECS-2013-103) James Andrews
+Autonomous Navigation and Collision Avoidance Robot  (EECS-2013-102) Pengqi Cheng
+Design a Natural User Interface for Gesture Recognition Application  (EECS-2013-101) Zhaochen Liu
+Communication-Avoiding Parallel Recursive Algorithms for Matrix Multiplication  (EECS-2013-100) Benjamin Lipshitz
+Design and Analysis of Digitally Modulated Transmitters for Efficiency Enhancement  (EECS-2013-99) Lu Ye
+Hardware Construction in Chisel  (EECS-2013-98) Huy Vo
+How structured data (Linked Data) help in Big Data Analysis --- Expand Patent Data with Linked Data Cloud  (EECS-2013-96) Lishan Zhang
+CrowdCritter: Strategies for Crowdsourcing Visual Design Critique  (EECS-2013-95) Wei Wu, Kurt Luther, Amy Pavel, Björn Hartmann, Steven Dow and Maneesh Agrawala
+Learning from Subsampled Data: Active and Randomized Strategies  (EECS-2013-94) Fabian Wauthier
+Hinted Collection  (EECS-2013-93) Philip Reames
+An Automated Physiotherapy Exercise Generator  (EECS-2013-91) Ross Yeager
+Simple & Secure Wi-Fi Configuration for Internet of Things  (EECS-2013-89) Jia Xu
+User Interface Issues of 3D Gesture Mobile Devices and Visual Feedback of Physiotherapy Application  (EECS-2013-88) Ryan Rho
+A hybrid approach of physical laws and data-driven modeling for estimation: the example of queuing networks  (EECS-2013-87) Aude Hofleitner
+SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS  (EECS-2013-86) Shujing Zhang
+Transformation-aware Exploit Generation using a HI-CFG  (EECS-2013-85) Dan Caselden, Alex Bazhanyuk, Mathias Payer, Laszlo Szekeres, Stephen McCamant and Dawn Song
+Nanodiamond Imaging: a New Molecular Imaging Approach  (EECS-2013-84) Alex Hegyi
+Benefits and Practicality of Super-Packets  (EECS-2013-83) Yunlong Li
+Transparent Micro-electrocorticography (μECoG) Arrays for Optogenetic Mapping of Surface Potentials  (EECS-2013-82) Brian Pepin
+Scalable Scheduling for Sub-Second Parallel Jobs  (EECS-2013-79) Patrick Wendell
+Using Linked Data to improve the query performance of Patent Data  (EECS-2013-78) Xiaoting Yin
+Differential Slicing: Identifying Causal Execution Differences for Security Applications  (EECS-2013-77) Noah Johnson-Walls
+Equalization for Intracortical Microstimulation Artifact Reduction  (EECS-2013-76) Philip Chu
+Autonomous Navigation and Collision Avoidance of a Scale Model Robot Using Smartphone Sensors  (EECS-2013-75) Garen Der-Khachadourian
+Android Application for Indoor Wi-Fi Layout  (EECS-2013-74) Zhengyin Qian
+Loop Closure Transformation Estimation and Verification Using 2D LiDAR Scanners  (EECS-2013-73) Nicholas Corso
+Integrated Nuclear Power Generation Project  (EECS-2013-72) Tzu-An Huang
+Fully Automatic Standard Cell Creation in an Analog Generator Framework  (EECS-2013-71) Rachel Nancollas
+Watertight Floor Plans Generated from Laser Range Data  (EECS-2013-69) Eric Turner
+Quicksilver: Automatic Synthesis of Relational Queries  (EECS-2013-68) Edward Lu and Ras Bodik
+Speech-enabled Systems for Language Learning  (EECS-2013-67) Anuj Tewari
+Economics and Computation: Ad Auctions and Other Stories  (EECS-2013-66) Christopher Wilkens
+Deterministic Execution of Ptides Programs  (EECS-2013-65) Patricia Derler, John Eidson, Stuart Goose, Edward A. Lee and Michael Zimmer
+CANDID: Classifying Assets in Networks by Determining Importance and Dependencies  (EECS-2013-64) Scott Marshall
+Fully Printed, Flexible, High Performance Carbon Nanotube Top-gated Thin-film Transistors  (EECS-2013-63) Pak Heng Lau
+Using Telemetry to Illuminate Policy Interactions: A Case Study with RequestPolicy  (EECS-2013-62) Justin Samuel
+Communication Lower Bounds and Optimal Algorithms for Programs That Reference Arrays - Part 1  (EECS-2013-61) Michael Christ, James Demmel, Nicholas Knight, Thomas Scanlon and Katherine A. Yelick
+Flight Simulation of an Ornithopter  (EECS-2013-60) Cameron Rose and Ronald S. Fearing
+AdDroid: Privilege Separation for Applications and Advertisers in Android  (EECS-2013-59) Paul Pearce, Adrienne Porter Felt, Gabriel Nunez and David Wagner
+Helping Developers Construct Secure Mobile Applications  (EECS-2013-58) Erika Chin
+Hardness of Maximum Constraint Satisfaction  (EECS-2013-57) Siu On Chan
+Measurement and characterization of EUV mask performance at high-NA  (EECS-2013-56) Rikon Chao
+Energy Efficient Digital Logic Using Nanoscale Magnetic Devices  (EECS-2013-55) Brian Lambson
+Local Optima of Nonconvex Regularized M-Estimators  (EECS-2013-54) Po-Ling Loh
+Low-Complexity Message-Passing Algorithms for Distributed Computation  (EECS-2013-53) Nima Noorshams
+The BLOG Language Reference  (EECS-2013-51) Lei Li and Stuart J. Russell
+Towards Evidence-Based Assessment of Factors Contributing to the Introduction and Detection of Software Vulnerabilities  (EECS-2013-49) Matthew Finifter
+The Extended Parameter Filter  (EECS-2013-48) Yusuf Erol, Lei Li, Bharath Ramsundar and Stuart J. Russell
+Exploiting Data Sparsity in Parallel Matrix Powers Computations  (EECS-2013-47) Nicholas Knight, Erin Carson and James Demmel
+Communication Avoiding Rank Revealing QR Factorization with Column Pivoting  (EECS-2013-46) James Demmel, Laura Grigori, Ming Gu and Hua Xiang
+Nano-Electro-Mechanical (NEM) Relay Devices and Technology  for Ultra-Low Energy Digital Integrated Circuits  (EECS-2013-45) Rhesa Nathanael
+Fundamental limits and insights: from wireless communication to DNA sequencing  (EECS-2013-43) Guy Bresler
+Conditional Sampling Distributions for Coalescent Models Incorporating Recombination  (EECS-2013-42) Joshua Paul
+Designing plant dynamics to optimize task-specific closed-loop performance of brain-machine interfaces  (EECS-2013-41) Suraj Gowda
+Exploiting Memory-level Parallelism in Reconfigurable Accelerators  (EECS-2013-40) Shaoyi Cheng
+A Succinct Control Theory Derivation and New Experiments with the Square-Root Variant of Fitts' Law for Heterogeneous Targets  (EECS-2013-39) Siamak Faridani
+Experimental and Simulation Study of Resistive Switches for Memory Applications  (EECS-2013-38) Feng Pan
+Resilient Design Methodology for Energy-Efficient SRAM  (EECS-2013-37) Brian Zimmer, Borivoje Nikolic and Krste Asanović
+Fully Integrated Silicon Terahertz Transceivers for Sensing and Communication Applications  (EECS-2013-36) Jung-Dong Park
+Shark: Fast Data Analysis Using Coarse-grained Distributed Memory  (EECS-2013-35) Clifford Engle
+Band-to-Band Tunneling Transistors: Scalability and Circuit Performance  (EECS-2013-34) Zachery Jacobson
+Formation Control with Size Scaling using Relative Position Feedback  (EECS-2013-33) Samuel Coogan
+The Complexity of Entangled Games  (EECS-2013-32) Thomas Vidick
+Engineering Scalable Combinational Logic in Escherichia coli Using Zinc Finger Proteins  (EECS-2013-31) William J. Holtz
+The Complexity of Optimal Auction Design  (EECS-2013-30) George Pierrakos
+Sparrow: Scalable Scheduling for Sub-Second Parallel Jobs  (EECS-2013-29) Kay Ousterhout, Patrick Wendell, Matei Zaharia and Ion Stoica
+Sauron: Embedded Single-Camera Sensing of Printed Physical User Interfaces  (EECS-2013-28) Valkyrie Savage, Colin Chang and Björn Hartmann
+Anatomy of the Berkeley Sensor & Actuator Center (BSAC):  (EECS-2013-26) John Huggins
+Polynomial-Time Verification of PCTL Properties of MDPs with Convex Uncertainties  (EECS-2013-24) Alberto Alessandro Angelo Puggelli, Wenchao Li, Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+Interactive Code Snippet Synthesis Through Repository Mining  (EECS-2013-23) Zvonimir Pavlinovic and Domagoj Babic
+Regular Homotopies of Low-Genus Non-Orientable Surfaces  (EECS-2013-21) Carlo H. Séquin
+Data-Confined HTML5 Applications  (EECS-2013-20) Devdatta Akhawe, Frank Li, Warren He, Prateek Saxena and Dawn Song
+Maximally Permissive Composition of Actors in Ptolemy II  (EECS-2013-19) Marten Lohstroh
+Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling  (EECS-2013-18) Jethro Beekman and Christopher Thompson
+Carat: Collaborative Energy Diagnosis for Mobile Devices  (EECS-2013-17) Adam Oliner, Anand Padmanabha Iyer, Ion Stoica, Eemil Lagerspetz and Sasu Tarkoma
+Visual Grasp Affordances From Appearance-Based Cues  (EECS-2013-16) Hyun Oh Song, Mario Fritz, Chunhui Gu and Trevor Darrell
+Enabling Advanced Environmental Conditioning with a Building Application Stack  (EECS-2013-14) Jay Taneja, Andrew Krioukov, Stephen Dawson-Haggerty and David E. Culler
+Communication Optimal Parallel Multiplication of Sparse Random Matrices  (EECS-2013-13) Grey Ballard, Aydin Buluc, James Demmel, Laura Grigori, Benjamin Lipshitz, Oded Schwartz and Sivan Toledo
+Communication Efficient Gaussian Elimination with Partial Pivoting using a Shape Morphing Data Layout  (EECS-2013-12) Grey Ballard, James Demmel, Benjamin Lipshitz, Oded Schwartz and Sivan Toledo
+Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions  (EECS-2013-11) Edgar Solomonik, Devin Matthews, Jeff Hammond and James Demmel
+Minimizing communication in all-pairs shortest paths  (EECS-2013-10) Edgar Solomonik, Aydin Buluc and James Demmel
+A Tool Integration Approach for Architectural Exploration of Aircraft EPS with Ptolemy II / Metro II  (EECS-2013-9) Hokeun Kim, Liangpeng Guo and Alberto L. Sangiovanni-Vincentelli
+How Did We Get Into This Mess? Isolating Fault-Inducing Inputs to SDN Control Software  (EECS-2013-8) Colin Scott, Andreas Wundsam, Sam Whitlock, Andrew Or, Eugene Huang, Kyriakos Zarifis and Scott Shenker
+SWATI: Synthesizing Word-Lengths Automatically Using Testing and Induction  (EECS-2013-7) Susmit Jha and Sanjit A. Seshia
+The Computational Complexity of Randomness  (EECS-2013-6) Thomas Watson
+Cloud Robotics and Automation: A Survey of Related Work  (EECS-2013-5) Ken Goldberg and Ben Kehoe
+Register everyone: on the whitespace use of wireless microphone channels, channel 37, and the soon-to-be guard bands  (EECS-2013-4) Kate Harrison and Anant Sahai
+Object Detection in RGB-D Indoor Scenes  (EECS-2013-3) Edmund Shanming Ye
+Distributed Memory Breadth-First Search Revisited: Enabling Bottom-Up Search  (EECS-2013-2) Scott Beamer, Aydın Buluc ̧, Krste Asanović and David A. Patterson
+Productive High Performance Parallel Programming with Auto-tuned Domain-Specific Embedded Languages  (EECS-2013-1) Shoaib Ashraf Kamil

@@ -1,0 +1,208 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020
+Technical Reports - 2020
+Applying the Four Russians Technique to Banded Extension and X-Drop Sequence Alignment  (EECS-2020-240) Cristina Teodoropol
+The Design of Dynamic Neural Networks for Efficient Learning and Inference  (EECS-2020-236) Xin Wang
+Reactors: A Deterministic Model of Concurrent Computation for Reactive Systems  (EECS-2020-235) Marten Lohstroh
+Overcoming Model-Bias in Reinforcement Learning  (EECS-2020-234) Ignasi Clavera Gilaberte
+AI for HADR: Progress and Opportunities  (EECS-2020-233) Ross Luo, Michael Laielli, Giscard Biamby and Adam Loeffler
+Design, Fabrication, and Assembly of Multi-chip Walking Silicon Microrobots  (EECS-2020-229) Hani Gomez
+Bridging Machine Learning and Computational Photography to Bring Professional Quality into Casual Photos and Videos  (EECS-2020-228) Xuaner Zhang
+Learning to Detect Geometric Structures from Images for 3D Parsing  (EECS-2020-227) Yichao Zhou
+Efficient Parallel Computing for Machine Learning at Scale  (EECS-2020-225) Arissa Wongpanich
+Learning and Analyzing Representations for Meta-Learning and Control  (EECS-2020-224) Kate Rakelly
+Neural Scene Representations for View Synthesis  (EECS-2020-223) Benjamin Mildenhall
+Structured Neural Models and Structured Decoding for Natural Language Processing  (EECS-2020-221) Mitchell Stern
+A Languge-Based Approach to Smart Contract Engineering  (EECS-2020-220) John Kolb
+Contrastive Learning for Context-Based Off-Policy Actor-Critic Reinforcement Learning  (EECS-2020-219) Bernie Wang
+Exploiting Randomness in Computational Cameras and Displays  (EECS-2020-218) Grace Kuo
+Thwarting Sophisticated Enterprise Attacks: Data-Driven Methods and Insights  (EECS-2020-217) Grant Ho
+Optimal Prosumer Aggregations: Design and Modeling  (EECS-2020-216) Utkarsha Agwan
+Multiplicative Coding and Factorization in Vector Symbolic Models of Cognition  (EECS-2020-215) Spencer Kent
+Scene Representations for View Synthesis with Deep Learning  (EECS-2020-214) Pratul Srinivasan
+Co-planar Optoelectrowetting (OEW) Device for Droplet Manipulation  (EECS-2020-213) Jodi Loo
+Sensing Contacts, Coughs, and Hand Hygiene  (EECS-2020-212) William Huang
+Secure Computation Systems for Confidential Data Analysis  (EECS-2020-211) Rishabh Poddar
+Extracting and Using Preference Information from the State of the World  (EECS-2020-210) Rohin Shah
+Investigating Low Energy Wireless Networks for the Internet of Things  (EECS-2020-209) Branden Ghena
+The Design & Implementation of Modular Smart Dust  (EECS-2020-208) Patrick Pannuto
+Compositionality and Modularity for Robot Learning  (EECS-2020-207) Coline Devin
+Vertex: Programming the Edge  (EECS-2020-205) Brian Kim
+The Design of Any-scale Serverless Infrastructure with Rich Consistency Guarantees  (EECS-2020-204) Chenggang Wu
+Mobile Robot Learning  (EECS-2020-203) Gregory Kahn
+Concentration and Sequential Decision Making in Markovian Environments  (EECS-2020-202) Vrettos Moulos
+Learning to play collaborative-competitive games  (EECS-2020-201) Kshama Dwarakanath and S. Shankar Sastry
+Incipient Anomaly Detection with Ensemble Learning  (EECS-2020-199) Baihong Jin
+Tightening the SDP Relaxation Gap in Neural Network Verification  (EECS-2020-198) Ziye Ma
+On Training Robust Policies for Flow Smoothing  (EECS-2020-197) Kanaad Parvate
+A Hybrid Concurrency Control Protocol for TSFS  (EECS-2020-196) Libo Chen
+Enhancing Performance of Analog Mixed Signal Circuits using Integrated Silicon-Photonics  (EECS-2020-195) Nandish Mehta
+An Open, Scalable Massive MIMO Testbed Operating at E-Band Frequencies  (EECS-2020-194) James Dunn
+The Sparse Manifold Transform and Unsupervised Learning for Signal Representation  (EECS-2020-193) Yubei Chen
+Siting Solar Photovoltaics on Distribution Feeders: Comparing deployment models and their limits  (EECS-2020-192) Anna Brockway
+RF Transmitter Design for Large Antenna Array Applications  (EECS-2020-191) Pengpeng Lu
+Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation  (EECS-2020-190) Tianhao Zhang, Zoe McCarthy, Owen Jow, Dennis Lee, Xi Chen, Ken Goldberg and Pieter Abbeel
+Wearable Medical Sensors Enabled by Printed Bioelectronics and Biophotonics  (EECS-2020-189) Yasser Khan
+Scalable RF Receivers for Large Antenna Arrays  (EECS-2020-188) Konstantin Trotskovsky
+Safe and Data-Efficient Learning for Robotics: A Control Theoretic Approach  (EECS-2020-186) Somil Bansal
+Implicit Structures for Graph Neural Networks  (EECS-2020-185) Fangda Gu
+Assured Autonomy for Safety-Critical and Learning-Enabled Systems  (EECS-2020-184) Vicenc Rubies Royo
+How well do student software engineering teams practice Continuous Integration?  (EECS-2020-183) Joshua Zeitsoff
+Succinct Non-Interactive Arguments for Arithmetic Circuits  (EECS-2020-182) Nicholas Spooner
+Adapting Vision Correcting Displays to 3D  (EECS-2020-181) Jacob Holesinger
+A Modular Design Framework for the Systematic Development of Primitive, Application-Specific Optical Modulation Tools  (EECS-2020-180) Nathan Tessema Ersumo
+The Quotient in Preorder Theories  (EECS-2020-179) Inigo Incer, Leonardo Mangeruca, Tiziano Villa and Alberto L. Sangiovanni-Vincentelli
+Quartz: A Framework for Engineering Secure Smart Contracts  (EECS-2020-178) John Kolb, John Yang, Randy H. Katz and David E. Culler
+RingBOOM: An Implementation of a Novel High-Performance Banked Microarchitecture  (EECS-2020-177) Benjamin Korpan
+Investigation and Control of Ultrafast Magnetic Phenomena  (EECS-2020-176) Akshay Pattabi
+Lensless Computational Imaging using Random Optics  (EECS-2020-175) Nicholas Antipa
+Learning from an unknown environment  (EECS-2020-174) Vidya Muthukumar
+Towards Wideband Signal Acquisition Systems  (EECS-2020-171) Nima Baniasadi
+Background and Occlusion Defenses Against Adversarial Examples and Adversarial Patches  (EECS-2020-170) Michael McCoyd
+Physics-based Learning for Large-scale Computational Imaging  (EECS-2020-167) Michael Kellman
+Problems on Large Sparse Graphs  (EECS-2020-166) Payam Delgosha
+On The Utility of Fine-Grained Complexity Theory  (EECS-2020-165) Manuel Sabin
+Abstraction, Generalization, and Embodiment in Neural Program Synthesis  (EECS-2020-164) Richard Shin
+A Positive Association Between Weekly Practice and Exam Performance in CS 1  (EECS-2020-163) Alexander Stennet
+Readdressing Network Layers  (EECS-2020-161) James McCauley
+Analyzing 18th-20th Century Art and Music with Contrastive Cross-Modal Learning  (EECS-2020-160) Vivien Nguyen
+Statistics, computation, and adaptation in high dimensions  (EECS-2020-159) Ashwin Pananjady Martin
+Model-based Deep Reinforcement Learning for Robotic Systems  (EECS-2020-158) Anusha Nagabandi
+Fully Printed Zn-Ag2O Battery Arrays for High Potential Devices  (EECS-2020-157) Cher Yeoh
+Modular Integration Platform for Printed Electronics  (EECS-2020-156) Seiya Ono
+Efficient D-Band Power Amplifier Design for Massive MIMO Systems  (EECS-2020-155) Hossein Shirinabadi
+Optimization, Robustness and Risk-Sensitivity in Machine Learning: A Dynamical Systems Perspective  (EECS-2020-154) Kamil Nar
+A Review of the Smith-Waterman GPU Landscape  (EECS-2020-152) Richard Barnes
+DisCo RL: Distribution-Conditioned Reinforcement Learning for General-Purpose Policies  (EECS-2020-151) Soroush Nasiriany
+The sample complexity of simple reinforcement learning  (EECS-2020-150) Horia Mania
+Sharing without Showing: Building Secure Collaborative Systems  (EECS-2020-149) Wenting Zheng
+Modeling Visual Minutiae: Gestures, Styles, and Temporal Patterns  (EECS-2020-148) Shiry Ginosar
+Safe Real-World Autonomy in Uncertain and Unstructured Environments  (EECS-2020-147) Sylvia Herbert
+Low Noise Transimpedance Amplifier Design Using Berkeley Analog Generator  (EECS-2020-146) Eric Jan
+The Interplay between Sampling and Optimization  (EECS-2020-145) Cheng Xiang
+Charge Pumping with Human Capacitance for Body Energy Harvesting  (EECS-2020-144) Alyssa Zhou
+Secure, Expressive, and Debuggable Large-Scale Analytics  (EECS-2020-143) Ankur Dave
+Cloud-Edge Hybrid Robotic Systems for Physical Human Robot Interactions  (EECS-2020-142) Nan Tian
+From Distribution Shift to Kernel Methods: A study of empirical phenomena in machine learning  (EECS-2020-141) Vaishaal Shankar
+The Design of Stateful Serverless Infastructure  (EECS-2020-140) Vikram Sreekanti
+Heirloom Wearables: A Hybrid Approach to the Design of Embodied Wearable Technologies  (EECS-2020-138) Christine Dierk
+Abstractions and Algorithms for Specializing Dynamic Program Analysis and Random Fuzz Testing  (EECS-2020-137) Rohan Padhye
+Fast and Accurate Machine Learning on Distributed Systems and Supercomputers  (EECS-2020-136) Yang You
+Neural-Based Heuristic Search for Program Synthesis  (EECS-2020-135) Kavi Gupta
+Stability of Interlinked Triangle Frames  (EECS-2020-134) Monica Tang and Carlo H. Séquin
+Parallelizing Irregular Applications for Distributed Memory Scalability: Case Studies from Genomics  (EECS-2020-133) Marquita Ellis
+Scoring Confidence in Neural Networks  (EECS-2020-132) Nikita Vemuri
+Electronic transport in atomically precise graphene nanoribbons  (EECS-2020-131) Juan Llinas
+User Private Clouds  (EECS-2020-130) Nicholas Riasanovsky
+Accelerating Grasp Exploration by Leveraging Learned Priors  (EECS-2020-129) Hanyu Li, Michael Danielczuk, Ashwin Balakrishna and Ken Goldberg
+What Supervision Scales? Practical Learning Through Interaction  (EECS-2020-128) Carlos Florensa Campo
+Temperature-Compensated BLE Transmission from a Crystal-Free Mote  (EECS-2020-124) Titan Yuan
+Deep Autoregressive Models for Join Cardinality Estimation  (EECS-2020-123) Amog Kamsetty
+AuthorIVE: Authoring Interactions for Virtual Environments through Disambiguating Demonstrations  (EECS-2020-122) Stephanie Claudino Daffara, Federico Saldarini, Balasaravanan Thoravi Kumaravel and Björn Hartmann
+Leaderless Byzantine Fault Tolerance  (EECS-2020-121) Tian Qin
+Object Management in a Distributed Futures System  (EECS-2020-119) Edward Oakes
+Towards Generalization of One-Shot Amodal-To-Modal Instance Segmentation Using Shape Masks  (EECS-2020-118) Andrew Li
+Overparameterized classification problems: How many support vectors do I have, and do increasing margins bode well for generalization?  (EECS-2020-116) Adhyyan Narang
+Test-Time Training for Improved Object Affordance Prediction  (EECS-2020-115)
+Program Synthesis for Autonomous Driving Decisions  (EECS-2020-114) Yiteng Zhang, Yang Gao, Li Erran Li, Xinyun Chen and Trevor Darrell
+Challenges and Tradeoffs in Trajectory Prediction for Autonomous Driving  (EECS-2020-111) Alvin Kao
+Algorithms for Multi-task Reinforcement Learning  (EECS-2020-110) Alexander Li
+Time-interleaved SAR ADC Design Using Berkeley Analog Generator  (EECS-2020-109) Zhaokai Liu
+Hopping Control and Estimation for a High-performance Monopedal Robot, Salto-1P  (EECS-2020-108) Justin Yim
+Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust  (EECS-2020-107) Sam Kumar, Yuncong Hu and Raluca Ada Popa
+Montag: Cloud Native Data Tainting and Policy Enforcement  (EECS-2020-105) Hantao Wang
+Evolving Robotic Leg Shapes via Deep Reinforcement Learning  (EECS-2020-103) Hayden Sheung
+Beamforming Software Defined Radios for Wireless Sensor Network Interference Evaluation  (EECS-2020-101) William Zhao
+Towards Privacy-Preserving Collaborative Gradient Boosted Decision Tree Learning  (EECS-2020-100) Chester Leung
+A Language-Based Approach to Run-Time Assurance for Autonomous Systems  (EECS-2020-99) Sumukh Shivakumar
+A Study of Transfer Learning Methods within Natural Language Processing and Reinforcement Learning  (EECS-2020-98) Shrishti Jeswani
+Adaptive Text-to-Speech in Low Computational Resource Scenarios  (EECS-2020-97) Flora Xue
+Model-Based Meta-Learning for Flight with Suspended Payloads  (EECS-2020-96) Suneel Belkhale
+Neural Kernels and ImageNet Multi-Label Accuracy  (EECS-2020-93) Alex Fang
+TranSketch Dataset: Learning to Transform Sketches  (EECS-2020-92) Luming Chen
+Micro-Domain Adaptation on Long-Running Videos  (EECS-2020-91) Victor Sun
+To Send or to Not Send: A Case Study on Computer Vision for Low Power Edge Devices  (EECS-2020-90) Ajay Gopi
+GPU Accelerated T-Distributed Stochastic Neighbor Embedding  (EECS-2020-89) David Chan
+Exploring the Use of Parsons Problems for Learning a New Programming Language  (EECS-2020-88) Mansi Shah
+A Scalable Synchronous System for Robust Real Time Human-Machine Collaboration  (EECS-2020-87) Christopher Powers
+On the Robustness of Learned Task Weights in Cross-modal Retrieval  (EECS-2020-86) David Nahm
+Generating Semantic Adversarial Examples through Differentiable Rendering  (EECS-2020-85) Lakshya Jain
+Evaluation of Scaled Segmented Channel MOSFETs for Analog/RF Applications  (EECS-2020-84) Lars Tatum
+PSec: A Programming Language for Secure Distributed Computing  (EECS-2020-83) Shivendra Kushwah
+Continual Learning with Neural Networks  (EECS-2020-82) Sayna Ebrahimi
+Object Tracking for Autonomous Driving Systems  (EECS-2020-81) Aman Dhar
+A Large-Scale Analysis of Attacker Activity in Compromised Enterprise Accounts  (EECS-2020-80) Neil Shah, Grant Ho, Marco Schweighauser, M.H. Afifi, Asaf Cidon and David A. Wagner
+Low Overhead Materialization with Flor  (EECS-2020-79) Eric Liu
+MicroBotNet: Low Power Neural Networks for Microrobots  (EECS-2020-78) Brian Liao
+Adapting with Latent Variables in Model-Based Reinforcement Learning for Quadcopter Flight  (EECS-2020-77) Rachel Li
+Learning with Humans in the Loop  (EECS-2020-76) Gokul Swamy
+Using Dataflow for Machine Learning Inference  (EECS-2020-75) Harikaran Subbaraj
+PyPlover: A System for GPU-enabled Serverless Instances  (EECS-2020-74) Ryan Yang, Nathan Pemberton and Jichan Chung
+Jumping Silicon Microrobots With Electrostatic Inchworm Motors and Energy Storing Substrate Springs  (EECS-2020-73) Craig Schindler
+Robotic Fabric Manipulation with Deep Imitation Learning and Reinforcement Learning in Simulation  (EECS-2020-72) Ryan Hoque
+Interpretable Few-Shot Image Classification with Neural-Backed Decision Trees  (EECS-2020-71) Scott Lee
+Sparse-Graph Codes for the Big Data Era: Exploiting Sparsity to Speed Up Computation  (EECS-2020-70) Orhan Ocal
+Adapting Across Domains by Aligning Representations and Images  (EECS-2020-69) Eric Tzeng
+Arterial Traffic Flow Prediction: A Deep Learning Approach with Embedded Signal Phasing Information  (EECS-2020-68) Victor Chan, Qijian Gan and Alexandre Bayen
+Deep Generative Models: Imitation Learning, Image Synthesis, and Compression  (EECS-2020-67) Jonathan Ho
+Risk-Sensitive Safety Analysis and Control for Trustworthy Autonomy  (EECS-2020-66) Margaret Chapman
+NBDT: Neural-Backed Decision Trees  (EECS-2020-65) Daniel Ho
+Robust and Unsupervised Interest Point Detection for Efficient Visual Odometry  (EECS-2020-64) Farhan Toddywala
+Closing the Domain Gap for Data-Efficient Robotic Learning  (EECS-2020-62) Sarah Young
+Practical Algorithms for Reliable Autonomy  (EECS-2020-61) David Fridovich-Keil
+Design of Negative Capacitance Field-Effect Transistor  (EECS-2020-60) Ming-Yen Kao
+Design of Negative Capacitance Field-Effect Transistor  (EECS-2020-59) Ming-Yen Kao
+Dynamic Deadlines in Motion Planning for Autonomous Driving Systems  (EECS-2020-58) Edward Fang
+Communication-Efficient Federated Learning with Sketching  (EECS-2020-57) Ashwinee Panda, Daniel Rothchild, Enayat Ullah and Nikita Ivkin
+Generalization via Information Bottleneck in Deep Reinforcement Learning  (EECS-2020-56) Xingyu Lu, Stas Tiomkin and Pieter Abbeel
+NDSGD: A Practical Method to Improve Robustness of Deep Learning Model on Noisy Dataset  (EECS-2020-55) Zhi Chen
+Multi-Task Learning Architectures and Applications  (EECS-2020-54) Andy Yan, Xin Wang, Yanlai Yang, Roy Fox, Xiaolong Wang and Joseph Gonzalez
+QFAST: Quantum Synthesis Using a Hierarchical Continuous Circuit Space  (EECS-2020-53) Abdullah Younis
+Broadcast Encryption with Fine-grained Delegation and its Application to IoT  (EECS-2020-52) Yuncong Hu
+Biological patterning in networks of interacting cells  (EECS-2020-51) Mindy Perkins
+Structured Models for Vision-and-Language Reasoning  (EECS-2020-50) Ronghang Hu
+Geometric Sampling Theory, Triangulations, and Robust Machine Learning  (EECS-2020-49) Marc Khoury
+Interactive Program Distillation  (EECS-2020-48) Andrew Head
+Efficient Distribution of Robotics Workloads using Fog Computing  (EECS-2020-47) Raghav Anand
+Round-Optimal Secure Multiparty Computation from Minimal Assumptions  (EECS-2020-45) Akshayaram Srinivasan
+Comparing Game Planners  (EECS-2020-44) Sherman Luo
+Robotic and Computer Simulated Burrowing Inspired by Mole Crabs  (EECS-2020-43) Aakash Parikh
+Discrete and Complex Algorithms for Curves  (EECS-2020-42) Lynn Chua
+Design for Performance and Reliability in Advanced CMOS Structures  (EECS-2020-41) Fei Ding
+Formal Semantics for the Halide Language  (EECS-2020-40) Alex Reinking, Gilbert Bernstein and Jonathan Ragan-Kelley
+Building XP process metrics for project-based software engineering courses  (EECS-2020-39) An Ju, Adnan Hemani, Joshua Zeitsoff, Yannis Dimitriadis and Armando Fox
+Realization of Integrated Coherent LiDAR  (EECS-2020-38) Taehwan Kim
+Coded Illumination for Multidimensional Quantitative Phase Imaging  (EECS-2020-37) Michael Chen
+Computational fluorescence and phase super-resolution microscopy  (EECS-2020-36) Li-Hao Yeh
+Efficient Inference on Video, In Real-Time and At Scale  (EECS-2020-35) Samvit Jain
+AutoRubric: Autograding Template-Based Exam Programs  (EECS-2020-34) Jonathon Cai
+Monolithic Wireless Transceiver Design  (EECS-2020-33) Filip Maksimovic
+Rapid ASIC Design for Digital Signal Processors  (EECS-2020-32) Steven Bailey
+Printed Organic Light Emitting Diodes for Biomedical Applications  (EECS-2020-31) Claire Lochner
+Next Generation Datacenter Architecture  (EECS-2020-30) Xiang Gao
+Physically-based Modeling and Rendering of Complex Visual Appearance  (EECS-2020-29) Lingqi Yan
+HAMMER: A Platform For Agile Physical Design  (EECS-2020-28) Edward Wang
+An Investigation into Microlens Array Based Light Field Display for Vision Aberration Correction and Applications to Virtual Reality  (EECS-2020-27) Luxin Yang
+A Neural Network Model of Translation Elongation Rates  (EECS-2020-26) Robert Tunney
+Broadband mm-Wave Transceivers for Sensing and Communication  (EECS-2020-25) Andrew Townley
+Improving Quantized-State System Simulation  (EECS-2020-23) Mehrdad Niknami
+Analysis of Factors and Interventions Relating to Student Performance in CS1 and CS2  (EECS-2020-22) Allen Guo
+A High-Density Carbon Fiber Neural Recording Array Technology: Design, Fabrication, Assembly, and Validation  (EECS-2020-21) Travis Massey
+Reinforcement Learning for Robotic Assembly with Force Control  (EECS-2020-20) Jianlan Luo
+Low Noise Integrated CMOS Receiver Front-End  (EECS-2020-19) Ahmed Khidre and Ali Niknejad
+ImageNet Training in Minutes  (EECS-2020-18) Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel and Kurt Keutzer
+Design of a sub-Hz Resolution Fully Digital RF Frequency Synthesizer  (EECS-2020-17) Panagiotis Zarkos
+Explainable and Advisable Learning for Self-driving Vehicles  (EECS-2020-16) Jinkyu Kim
+A Fully Integrated Electronic-Photonic Platform for Label-Free Biosensing  (EECS-2020-15) Christos Adamopoulos
+Deep-learning-based Machine Understanding of Sketches: Recognizing and Generating Sketches with Deep Neural Networks  (EECS-2020-13) Zifeng Huang
+Novel Computing Paradigms using Oscillators  (EECS-2020-12) Tianshi Wang
+Metal: A Metadata-Hiding File Sharing System  (EECS-2020-11) Weikeng Chen and Raluca Ada Popa
+Global Data Plane: A Widely Distributed Storage and Communication Infrastructure  (EECS-2020-10) Nitesh Mor
+On Building Generalizable Learning Agents  (EECS-2020-9) Yi Wu
+Approaches to Safety in Inverse Reinforcement Learning  (EECS-2020-8) Dexter Scobee
+Oracle-Guided Design and Analysis of Learning-Based Cyber-Physical Systems  (EECS-2020-7) Shromona Ghosh
+High-Q Strong Coupling Capacitive-Gap Transduced RF Micromechanical Resonators  (EECS-2020-6) Alper Ozgurluk
+End to End Learning in Autonomous Driving Systems  (EECS-2020-5) Yang Gao and Trevor Darrell
+Efficient illumination angle self-calibration in Fourier ptychography  (EECS-2020-4) Regina Eckert, Zachary Phillips and Laura Waller
+Modular and Safe Event-Driven Programming  (EECS-2020-3) Ankush Desai
+Game-Theoretic Safety Assurance for Human-Centered Robotic Systems  (EECS-2020-2) Jaime Fernandez-Fisac
+Computational Tools for Immune Repertoire Characterization and Primer Set Design  (EECS-2020-1) Jane Yu

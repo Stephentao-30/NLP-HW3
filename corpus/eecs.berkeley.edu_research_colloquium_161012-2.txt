@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/161012-2
+The Internet at the Speed of Light - EECS at Berkeley
+The Internet at the Speed of Light
+EECS Colloquium
+Wednesday, October 12, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Bruce Maggs
+Vice President for Research,
+Akamai Technologies
+Bruce Maggs talks on "The Internet at the Speed of Light," 10/12/16
+Abstract
+For the past two decades Internet service providers have focused on increasing the amount of bandwidth available to home users.  But for many Internet services, such as electronic commerce and search, reducing latency is the key to improving the user experience and increasing service provider revenues.  While in principle the speed of the Internet could nearly match the speed of light, in practice inefficiencies in the physical infrastructure and in network protocols result in latencies that are often one to two orders of magnitude larger than lower bound implied by the speed of light. Hence, we propose a challenge to the networking research community: build a speed-of-light Internet.  This talk explores the various causes of delay on the Internet, sketches out two approaches for improving the physical infrastructure, and explores which applications will benefit most from reduced latency.
+Biography
+Bruce Maggs received the S.B., S.M., and Ph.D. degrees in computer science from the Massachusetts Institute of Technology in 1985, 1986, and 1989, respectively. His advisor was Charles Leiserson. After spending one year as a Postdoctoral Associate at MIT, he worked as a Research Scientist at NEC Research Institute in Princeton from 1990 to 1993. In 1994, he moved to Carnegie Mellon, where he stayed until joining Duke University in 2009 as a Professor in the Department of Computer Science. While on a two-year leave-of-absence from Carnegie Mellon, Maggs helped to launch Akamai Technologies, serving as its first Vice President for Research and Development.   He retains a part-time role at Akamai as Vice President for Research.
+Maggs’s research focuses on networking, distributed systems, and security.  In 1986, he became the first winner (with Charles Leiserson) of the Daniel L. Slotnick Award for Most Original Paper at the International Conference on Parallel Processing, and in 1994 he received an NSF National Young Investigator Award. He was co-chair of the 1993-1994 DIMACS Special Year on Massively Parallel Computation and has served on the steering committees for the ACM Symposium on Parallel Algorithms and Architectures (SPAA), the ACM Internet Measurement Conference (IMC), and the ACM HotNets Conference.  He has served on the program committees of numerous ACM conferences including STOC, SODA, PODC, and SIGCOMM.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

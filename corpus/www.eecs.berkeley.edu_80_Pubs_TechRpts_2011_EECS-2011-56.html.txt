@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-56.html
+Fast Approximation Algorithms for Graph Partitioning using Spectral and Semidefinite-Programming Techniques
+Lorenzo Orecchia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-56
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-56.pdf
+Graph partitioning problems are a central topic of research in the study of approximation algorithms. They are of interest to theoretical computer scientists for their far-reaching connections to spectral graph theory, metric embeddings and inapproximability theory. And they are also important for many practitioners, as algorithms for graph partitioning are often fundamental primitives in the solution of other problems, such as image segmentation, clustering and social-network analysis.
+While many theoretical approximation algorithms exist for graph partitioning, they often rely on multicommodity-flow computations that are quadratic time in the worst case and are too time-consuming for the massive graphs that are prevalent in today's applications. In this thesis, we study the design of approximation algorithms that yield strong approximation ratios, while running in subquadratic time and relying on computational procedures that are often fast in practice.
+Our algorithms employ spectral and s-t flow operations to explore the cuts of a graph in a very efficient way. A crucial ingredient in their design is the usage of random walks that capture the sparse cuts of a graph better than single eigenvectors. The analysis of our methods is particularly simple, as it relies on a semidefinite programming formulation of the graph partitioning problem of choice. Indeed, we can develop our algorithms as primal-dual methods for solving a semidefinite program and show that certain random walks arise naturally from this approach.
+Advisors:  Satish Rao
+BibTeX citation:
+@phdthesis{Orecchia:EECS-2011-56,
+Author= {Orecchia, Lorenzo},
+Title= {Fast Approximation Algorithms for Graph Partitioning using Spectral and Semidefinite-Programming Techniques},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-56.html},
+Number= {UCB/EECS-2011-56},
+Abstract= {Graph partitioning problems are a central topic of research in the study of approximation algorithms. They are of interest to theoretical computer scientists for their far-reaching connections to spectral graph theory, metric embeddings and inapproximability theory. And they are also important for many practitioners, as algorithms for graph partitioning are often fundamental primitives in the solution of other problems, such as image segmentation, clustering and social-network analysis.
+While many theoretical approximation algorithms exist for graph partitioning, they often rely on multicommodity-flow computations that are quadratic time in the worst case and are too time-consuming for the massive graphs that are prevalent in today's applications. In this thesis, we study the design of approximation algorithms that yield strong approximation ratios, while running in subquadratic time and relying on computational procedures that are often fast in practice.
+Our algorithms employ spectral and s-t flow operations to explore the cuts of a graph in a very efficient way. A crucial ingredient in their design is the usage of random walks that capture the sparse cuts of a graph better than single eigenvectors. The analysis of our methods is particularly simple, as it relies on a semidefinite programming formulation of the graph partitioning problem of choice. Indeed, we can develop our algorithms as primal-dual methods for solving a semidefinite program and show that certain random walks arise naturally from this approach.},
+}
+EndNote citation:
+%0 Thesis
+%A Orecchia, Lorenzo
+%T Fast Approximation Algorithms for Graph Partitioning using Spectral and Semidefinite-Programming Techniques
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-56
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-56.html
+%F Orecchia:EECS-2011-56

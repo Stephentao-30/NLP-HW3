@@ -1,0 +1,118 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2004
+Technical Reports - 2004
+Building a Source-to-Source UPC-to-C Translator  (CSD-04-1369) Wei-Yu Chen
+Visual Programming Languages: a Survey  (CSD-04-1368) Marat Boshernitsan and Michael S. Downes
+LAPACK Working Note 163: How the MRRR Algorithm Can Fail on Tight Eigenvalue Clusters  (CSD-04-1367) Beresford N. Parlett and Christof Voemel
+Shape Matching and Object Recognition using Low Distortion Correspondences  (CSD-04-1366) Alexander Berg, Tamara L. Berg and Jitendra Malik
+Two-player Nonzero-sum omega-regular Games  (CSD-04-1364) Krishnendu Chatterjee
+Side Effects Are Not Sufficient to Authenticate Software  (CSD-04-1363) Umesh Shankar, Monica Chew and J. D. Tygar
+Strike a Pose: Tracking People by Finding Stylized Poses  (CSD-04-1362) Deva Ramanan, David A. Forsyth and Andrew Zisserman
+Detecting, Localizing, and Recovering Kinematics of Textured Animals  (CSD-04-1361) Deva Ramanan, David A. Forsyth and Kobus Barnard
+Distributed Schedule Carrying Code  (CSD-04-1360) Thomas A. Henzinger, Christoph M. Kirsch and Slobodan Matic
+Cooperative Containment of Fast Scanning Worms  (CSD-04-1359) Jayanth Kumar Kannan, Lakshminarayanan Subramanian, Ion Stoica, Scott Shenker and Randy Katz
+Reliable Broadcase in Unknown Fixed-Identity Networks  (CSD-04-1358) Lakshminarayanan Subramanian, Randy H. Katz, Volker Roth, Scott Shenker and Ion Stoica
+HLP: A Next Generation Inter-domain Routing Protocol  (CSD-04-1357) Lakshminarayanan Subramanian, Matthew Caesar, Cheng Tien Ee, Mark Handley, Morley Mao, Scott Shenker and Ion Stoica
+The Case for an Internet Health Monitoring System  (CSD-04-1356) Matthew Caesar, Lakshminarayanan Subramanian and Randy H. Katz
+The Complexity of Stochastic Rabin and Streett Games  (CSD-04-1355) Krishnendu Chatterjee, Luca de Alfaro and Thomas A. Henzinger
+The Complexity of Quantitative Concurrent Parity Games  (CSD-04-1354) Krishnendu Chatterjee, Luca de Alfaro and Thomas A. Henzinger
+Precise Interprocedural Analysis using Random Interpretation (Revised version)  (CSD-04-1353) Sumit Gulwani and George C. Necula
+BINDER: An Extrusion-based Break-In Detector for Personal Computers  (CSD-04-1352) Weidong Cui, Randy H. Katz and Wai-tian Tan
+S2D2: A Framework for Scalable and Secure Optimistic Replication  (CSD-04-1351) Brent ByungHoon Kang
+Software Design Patterns for TinyOS  (CSD-04-1350) David Gay, Philip Levis and David Culler
+Sensor Field Localization: A Deployment and Empirical Analysis  (CSD-04-1349) Kamin Whitehouse, Fred Jiang, Chris Karlof, Alec Woo and David Culler
+Fault Attacks on Dual-Rail Encoded Systems  (CSD-04-1347) Jason D. Waddle and David A. Wagner
+LAPACK Working Note 162: The Design and Implementation of the MRRR Algorithm  (CSD-04-1346) Inderjit Dhillon, Beresford N. Parlett and Christof Voemel
+Reconciling Cooperation with Confidentiality in Multi-Provider Distributed Systems  (CSD-04-1345) Sridhar Machiraju and Randy H. Katz
+Error Bounds from Extra Precise Iterative Refinement  (CSD-04-1344) James W. Demmel, Yozo Hida, William Kahan, Xiaoye S. Li, Soni Mukherjee and E. Jason Riedy
+Bridging the Gap: Programming Sensor Networks with Application Specific Virtual Machines  (CSD-04-1343) Philip Levis, David Gay and David Culler
+Supporting Legacy Applications over i3  (CSD-04-1342) Jayanth Kumar Kannan, Ayumu Kubota, Karthik Lakshminarayanan, Ion Stoica and Klaus Wehrle
+Gigabit Rate Packet Pattern-Matching Using TCAM  (CSD-04-1341) Fang Yu, Randy H. Katz and T. V. Lakshman
+How Much Does Globalization Help Segmentation?  (CSD-04-1340) Charless Fowlkes and Jitendra Malik
+FREddies: DHT-Based Adaptive Query Processing via FedeRated Eddies  (CSD-04-1339) Ryan Huebsch and Shawn Ryan Jeffery
+CrocoPat 2.1 Introduction and Reference Manual  (CSD-04-1338) Dirk Beyer and Andreas Noack
+Video Based Motion Synthesis by Splicing and Morphing  (CSD-04-1337) Greg Mori, Alex Berg, Alyosha Efros, Ashley Eden and Jitendra Malik
+Dynamically Adapting GUIs to Diverse Input Devices  (CSD-04-1336) Scott Carter, Jennifer Mankoff, Jack Li and Nick Molchanoff
+Performance Modeling and Analysis of Cache Blocking in Sparse Matrix Vector Multiply  (CSD-04-1335) Rajesh Nishtala, Richard W. Vuduc, James W. Demmel and Katherine A. Yelick
+Scalable Wide-Area Resource Discovery  (CSD-04-1334) David Oppenheimer, Jeannie Albrecht, David Patterson and Amin Vahdat
+Image Recognition CAPTCHAs  (CSD-04-1333) Monica Chew and J. D. Tygar
+Querying Network Graphs with Recursive Queries  (CSD-04-1332) Boon Thau Loo
+Challenges for Ubicomp Evaluation  (CSD-04-1331) Scott Carter and Jennifer Mankoff
+A Direct Formulation for Sparse PCA Using Semidefinite Programming  (CSD-04-1330) Alexandre d'Aspremont, Laurent El Ghaoui, Michael I. Jordan and Gert R. G. Lanckriet
+Randomized Rumor Spreading with Fewer Phone Calls  (CSD-04-1329) Kirsten Hildrum, Sean Ma and Satish Rao
+Low Stretch between Nearby Peers  (CSD-04-1328) Kirsten Hildrum, John D. Kubiatowicz and Jeremy Stribling
+Routing as a Service  (CSD-04-1327) Karthik Lakshminarayanan, Ion Stoica and Scott Shenker
+Path-Sensitive Analysis for Linear Arithmetic and Uninterpreted Functions  (CSD-04-1325) Sumit Gulwani and George C. Necula
+Response Time as a Performability Metric for Online Services  (CSD-04-1324) Peter M. Broadwell
+DuraNet: Energy-Efficient Durable Slot-Free Power Scheduling  (CSD-04-1323) Terence Tong, David Molnar and Alec Woo
+A Preliminary Report on the Embedded Virtual Machine  (CSD-04-1322) Arkadeb Ghosal, Marco A. A. Sanvido and Thomas A. Henzinger
+Towards a Structured Underlay for Network Routing  (CSD-04-1321) Matthew Caesar, Miguel Castro and Antony Rowstron
+SCONE: A Tool to Estimate Shared Congestion Among Internet Paths  (CSD-04-1320) Weidong Cui, Sridhar Machiraju, Randy H. Katz and Ion Stoica
+A Kernel-based Learning Approach to Ad Hoc Sensor Network Localization  (CSD-04-1319) XuanLong Nguyen, Michael I. Jordan and Bruno Sinopoli
+Radiance Caching and Local Geometry Correction  (CSD-04-1318) Okan Arikan, David A. Forsyth and James F. O'Brien
+An Overlay MAC Layer for 802.11 Networks  (CSD-04-1317) Ananth Rao and Ion Stoica
+Efficient Multi-Match Packet Classification with TCAM  (CSD-04-1316) Fang Yu and Randy H. Katz
+Light-Weight Instrumentation From Relational Queries Over Program Traces  (CSD-04-1315) Simon Goldsmith, Robert O'Callahan and Alex Aiken
+Memory Management with Use-Counted Regions  (CSD-04-1314) Tachio Terauchi and Alex Aiken
+Continuous Query Processing with Real-Valued Functions  (CSD-04-1312) Matthew Denny and Michael J. Franklin
+GridDB: a Data-Centric Overlay for Scientific Grids  (CSD-04-1311) David T. Liu and Michael J. Franklin
+Learning the Behavior of Users in a Public Space through Video Tracking  (CSD-04-1310) Wei Yan and D. A. Forsyth
+DoS Defense in Structured Peer-to-Peer Networks  (CSD-04-1309) Pete C. Perlegos
+Finding User/Kernel Pointer Bugs With Type Inference  (CSD-04-1308) Rob Johnson and David Wagner
+Fast Kernel Learning using Sequential Minimal Optimization  (CSD-04-1307) Francis R. Bach, Gert R. G. Lanckriet and Michael I. Jordan
+MultiChord: A Resilient Namespace Management Protocol  (CSD-04-1306) Nancy Lynch and Ion Stoica
+Distributed Web Crawling over DHTs  (CSD-04-1305) Boon Thau Loo, Sailesh Krishnamurthy and Owen Cooper
+A Recovery-Oriented Approach to Dependable Services: Repairing Past Errors with System-Wide Undo  (CSD-04-1304) Aaron Baeten Brown
+Computing Query Previews in the Flamenco System  (CSD-04-1303) Kevin Chen
+Analyzing P2P Overlays with Recursive Queries  (CSD-04-1301) Boon Thau Loo, Ryan Huebsch, Joseph M. Hellerstein, Timothy Roscoe and Ion Stoica
+Self-Tuning Energy-Aware Multichannel (STEAM) Scheduling  (CSD-04-1300) Umesh Shankar
+Characterization of the Critical Dimension  (M04/50) J. P. Cain
+Extreme Ultraviolet Imaging and Resist Characterization Using Spatial Filtering Techniques  (M04/49) Michael D. Shumway
+Design Optimization of Ultra-Scaled Transistors and the Impact of Process Variations  (M04/48) Shiying Xiong
+Exact Emulation of a Priority Queue with Switch and Delay Lines  (M04/47) A. Sarwate and Venkat Anantharam
+Advanced Materials and Structures for Nanoscale CMOS Devices  (M04/46) Daewon Ha
+Complexity of Two-Level Minimization  (M04/45) C. Umans, T. Villa and Alberto L. Sangiovanni-Vincentelli
+Quality of Service for Flows in Ad-Hoc etworks  (M04/44) E. Chi, A. Dimakis, R. Gupta, L. He, Z. Jia, J. Musacchio, W. So, T. Tung and J. Walrand
+Bandwidth Guaranteed Routing for Ad Hoc etworks with Interference Consideration  (M04/43) Z. Jia, R. Gupta, Jean Walrand and Pravin Varaiya
+Sufficient Rate Constraints for QoS Flows n Ad-Hoc Networks  (M04/42) R. Gupta, J. Musacchio and Jean Walrand
+Control Algorithms FDR Soft Walls  (M03/42) A. Cataldo
+Metropolis Design Guidelines  (M04/40) A. Pinto
+Metropolis Arm CPU Examples  (M04/39) T. C. Meyerowitz
+The Metropolis META model - Version 0.4  (M04/38)  The Metropolis Project Team
+Simple Case Study in Metropolis  (M04/37) H. Zeng, V. Shah, D. Densmore and A. Davare
+Metropolis Architecture Refinement Styles nd Methodology  (M04/36) D. Densmore
+Flapping Flight for Biomimetic Robotic Insects - Part I: System Modeling  (M04/35) X. Deng, L. Schenato, W. C. Wu and S. Shankar Sastry
+Flapping Flight for Biomimetic Robotic Insects - Part II: Flight Control Design  (M04/34) X. Deng, S. Schenato and S. Shankar Sastry
+A Lyapunov-Based Approach to Control of Mechanical Systems with Periodic Forcing Inputs  (M04/33) D. Campolo, L. Schenato, E. Guglielmelli and S. Shankar Sastry
+Linking TCAD and EDA Through Pattern Matching  (M04/31) Frank E. Gennari
+Giotto Tutorial  (M04/30) M. Sanvido and A. Walburg
+Latency-Insensitive Design  (M04/29) Luca Carloni
+Robust Markov Decision Processes with Uncertain Transition Matrices  (M04/28) A. Nilim and Laurent El Ghaoui
+Ptolemy II - Heterogeneous Concurrent Modeling and Design in Java  (M04/27) Shuvra S. Bhattacharyya, Christopher Brooks, Elaine Cheong, II Davis, Mudit Goel, Bart Kienhuis, Edward A. Lee, Jie Liu, Xiaojun Liu, Lukito Muliadi, Steve Neuendorffer, John Reekie, Neil Smyth, Jeff Tsay, Brian Vogel, Winthrop Williams, Yuhong Xiong, Yang Zhao and Haiyang Zheng
+Concurrent Models of Computations for Embedded Software  (M04/26) Edward A. Lee and S. Neuendorffer
+Kikuchi Approximation Method for Joint Decoding of LDPC Codes and Partial-Response Channels  (M04/25) P. Pakzad and Venkat Anantharam
+The Role of Soft Computing Techniques and Geosciences for Intelligent Reservoir Characterization and Oil Exploration  (M04/24) M. Nikravesh
+Soft Computing-Based Modeling for Intelligent Reservoir Characterization and Geosciences Applications  (M04/23) M. Nikravesh
+Real-Time Systems Design in Ptolemy II: A Time-Triggered Approach  (M04/22) N. V. Krishnan
+Low Complexity, High Performance Algorithms for Estimation and Decoding  (M04/20) Payam Pakzad
+Balance Between Formal and Informal Methods, Engineering and Artistry, Evolution and Rebuil  (M04/19) Edward A. Lee
+Hyvisual: A Hybrid System Visual Modeler  (M04/18) C. Brooks, A. Cataldo, Edward A. Lee, J. Liu, X. Liu, S. Neuendorffer and H. Zheng
+Ptolemy II - Heterogeneous Concurrent Modeling and Design in Java, Volume 3: Domains  (M04/17) Shuvra S. Bhattacharyya, Christopher Brooks, Elaine Cheong, II Davis, Mudit Goel, Bart Kienhuis, Edward A. Lee, Jie Liu, Xiaojun Liu, Lukito Muliadi, Steve Neuendorffer, John Reekie, Neil Smyth, Jeff Tsay, Brian Vogel, Winthrop Williams, Yuhong Xiong, Yang Zhao and Haiyang Zheng
+Ptolemy II - Heterogeneous Concurrent Modeling and Design in Java, Volume 2: Software Architecture  (M04/16) Shuvra S. Bhattacharyya, Christopher Brooks, Elaine Cheong, II Davis, Mudit Goel, Bart Kienhuis, Edward A. Lee, Jie Liu, Xiaojun Liu, Lukito Muliadi, Steve Neuendorffer, John Reekie, Neil Smyth, Jeff Tsay, Brian Vogel, Winthrop Williams, Yuhong Xiong, Yang Zhao and Haiyang Zheng
+Oscillator Modeling and Phase Noise  (M04/14) Brian N. Limketkai
+A Unified Data-Link Energy Model for Wireless Sensor Networks  (M04/12) Lizhi C. Zhong
+Control Algorithms for Soft Walls  (M05/11) A. Cataldo
+Integrated CMP Metrology and Modeling with Respect to Circuit Performance  (M04/11) Runzi Chang
+Formal Refinement Verification in Metropolis  (M04/10) D. Densmore
+Design Flow for Deep Sub-Micron Integrated Circuits  (M04/9) Fan Mo
+Spatial Channel Characterization for Cognitive Radios  (M05/8) J. Yang
+Visualsense: Visual Modeling for Wireless and Sensor Network Systems  (M04/8) P. Baldwin, S. Kohli, E.A. Lee, X. Liu and Y. Zhao
+Dynamic Data Flow Modeling in Ptolemy II  (M05/7) G. Zhou
+galsC: A Language for Event-Driven Embedded Systems  (M04/7) E. Cheong and J. Liu
+Denoising by Sparse Approximation: Error Bounds Based on Rate-Distortion Theory  (M05/5) A. K. Fletcher, S. Rangan, V. K. Goyal and Kannan Ramchandran
+Micro Power Radio Frequency Oscillator Design  (M05/4) N. M. Pletcher
+Design and Implementation of Picoradio Data Link Layer  (M04/4) J. Zhou
+Ultra Low Power Robust Design for Nanometer  (M05/3) R. A. Wang
+Cache Aware Scheduling for Synchronous Dataflow Programs  (M04/3) S. Kohli
+Concurrent Models of Computation for Embedded Software  (M05/2) Edward A. Lee
+Hierarchical Reconfiguration of Dataflow Models  (M04/2) S. Neuendorffer and Edward A. Lee
+A Hierarchical Multiple Target Tracking Algorithm for Sensor Networks  (M04/1) S. Oh and S. Shankar Sastry

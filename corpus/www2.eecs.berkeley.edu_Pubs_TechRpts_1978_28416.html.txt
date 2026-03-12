@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28416.html
+An Intuitive Derivation of a Realization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Intuitive Derivation of a Realization
+An Intuitive Derivation of a Realization
+C.A. Desoer and E.L. Lo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/87
+December 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-87.pdf
+BibTeX citation:
+@techreport{Desoer:M78/87,
+Author = {Desoer, C.A. and Lo, E.L.},
+Title = {An Intuitive Derivation of a Realization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28416.html},
+Number = {UCB/ERL M78/87}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Lo, E.L.
+%T An Intuitive Derivation of a Realization
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/87
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28416.html
+%F Desoer:M78/87

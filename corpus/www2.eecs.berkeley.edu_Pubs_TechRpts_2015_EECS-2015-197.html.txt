@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-197.html
+XBOS: An Extensible Building Operating System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+XBOS: An Extensible Building Operating System
+XBOS: An Extensible Building Operating System
+Gabriel Fierro and David E. Culler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-197
+September 9, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-197.pdf
+We present XBOS, an eXtensible Building Operating System for integrated management of previously isolated building subsystems. The key contribution of XBOS is the development of the Building Profile, a canonical, executable description of a building and its subsystems that changes with a building and evolves the control processes and applications accordingly. We discuss the design and implementation of XBOS in the context of 6 dimensions of an effective BAS -- hardware presentation layer, canonical metadata, control process management, building evolution management, security, scalable UX and API -- and evaluate against several recent building and sensor management systems. Lastly, we examine the evolution of a real, 10 month deployment of XBOS in a 7000 sq ft office building.
+BibTeX citation:
+@techreport{Fierro:EECS-2015-197,
+Author = {Fierro, Gabriel and Culler, David E.},
+Title = {XBOS: An Extensible Building Operating System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-197.html},
+Number = {UCB/EECS-2015-197},
+Abstract = {We present XBOS, an eXtensible Building Operating System for integrated management of previously isolated building subsystems. The key contribution of XBOS is the development of the Building Profile, a canonical, executable description of a building and its subsystems that changes with a building and evolves the control processes and applications accordingly.  We discuss the design and implementation of XBOS in the context of 6 dimensions of an effective BAS -- hardware presentation layer, canonical metadata, control process management, building evolution management, security, scalable UX and API -- and evaluate against several recent building and sensor management systems. Lastly, we examine the evolution of a real, 10 month deployment of XBOS in a 7000 sq ft office building.}
+}
+EndNote citation:
+%0 Report
+%A Fierro, Gabriel
+%A Culler, David E.
+%T XBOS: An Extensible Building Operating System
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 September 9
+%@ UCB/EECS-2015-197
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-197.html
+%F Fierro:EECS-2015-197

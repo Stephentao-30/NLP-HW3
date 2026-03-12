@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29243.html
+An Eight-State Solution to the Firing Squad Synchronization Problem
+C.J. Swigert and P.O. Vogelhut
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M175
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-175.pdf
+BibTeX citation:
+@techreport{Swigert:M175,
+Author= {Swigert, C.J. and Vogelhut, P.O.},
+Title= {An Eight-State Solution to the Firing Squad Synchronization Problem},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29243.html},
+Number= {UCB/ERL M175},
+}
+EndNote citation:
+%0 Report
+%A Swigert, C.J.
+%A Vogelhut, P.O.
+%T An Eight-State Solution to the Firing Squad Synchronization Problem
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M175
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29243.html
+%F Swigert:M175

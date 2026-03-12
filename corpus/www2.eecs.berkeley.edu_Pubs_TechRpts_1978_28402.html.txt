@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28402.html
+Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity
+Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity
+L.O. Chua, T. Matsumoto and S. Ichiraku
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/66
+August 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-66.pdf
+BibTeX citation:
+@techreport{Chua:M78/66,
+Author = {Chua, L.O. and Matsumoto, T. and Ichiraku, S.},
+Title = {Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28402.html},
+Number = {UCB/ERL M78/66}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Matsumoto, T.
+%A Ichiraku, S.
+%T Geometric Properties of Resistive Nonlinear n-Ports: Transversality, Structural Stability, Reciprocity, and Anti-Reciprocity
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/66
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28402.html
+%F Chua:M78/66

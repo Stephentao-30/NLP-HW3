@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-52.html
+Photopatterned polyacrylamide gels enable efficient microfluidic protein assays
+Chenlu Hou
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-52
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-52.pdf
+Electrophoretic separation is a powerful technique in life sciences to identify and characterize biological species. Microfluidic implementation of electrophoretic separations reduces sample and reagent consumption and offers seamless integration of multiple functionalities. This dissertation reports the application and optimization of photopatterned polyacrylamide gels to improve the effectiveness of electrophoretic separations in microfluidic devices.  Specifically, we demonstrate microfluidic implementation of two assays for protein analysis: a homogeneous immunoassay to quantify protein biomarker concentrations and a western blotting assay to report protein sizes and antibody-binding characteristics.
+To realize efficient homogeneous electrophoretic immunoassays, we optimize photopatterned polyacrylamide gels that enable quantitative assay completion in separation lengths as short as 350 um in < 10 s. The demonstrated separation length is an order of magnitude shorter than the separation length previously reported for on-chip gel electrophoresis and two orders of magnitude shorter than that achieved using capillary electrophoresis. The required separation lengths translate to less than 3.5 V for assay operation as compared to hundreds and thousands of volts currently in use for homogeneous immunoassays. A discontinuous gel sieving matrix architecture introduced in our work forms a key step towards realizing battery-operated electrophoresis systems for quantitation of protein biomarkers in near-patient environments.
+In our implementation of microfluidic western blotting assay, we developed a novel strategy for on-chip protein renaturation which utilizes electrophoretic separations to isolate denaturing detergents from proteins. Furthermore, photopatterning of polyacrylamide gels within a 2D chamber enables seamless integration of protein renaturation with upstream sizing and downstream immunoaffinity recognition. The entire assay is completed within 3 minutes in a single device as compared to conventional western blotting assays which require hours to a day, multiple pieces of instruments, and frequent human intervention.  Given the appreciable assay speed, this assay may comprise part of a tool set necessary to accelerate biomarker discoveries for personalized medicine.
+Advisors:  Ming C. Wu and Amy E. Herr
+BibTeX citation:
+@phdthesis{Hou:EECS-2011-52,
+Author= {Hou, Chenlu},
+Title= {Photopatterned polyacrylamide gels enable efficient microfluidic protein assays},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-52.html},
+Number= {UCB/EECS-2011-52},
+Abstract= {Electrophoretic separation is a powerful technique in life sciences to identify and characterize biological species. Microfluidic implementation of electrophoretic separations reduces sample and reagent consumption and offers seamless integration of multiple functionalities. This dissertation reports the application and optimization of photopatterned polyacrylamide gels to improve the effectiveness of electrophoretic separations in microfluidic devices.  Specifically, we demonstrate microfluidic implementation of two assays for protein analysis: a homogeneous immunoassay to quantify protein biomarker concentrations and a western blotting assay to report protein sizes and antibody-binding characteristics.
+To realize efficient homogeneous electrophoretic immunoassays, we optimize photopatterned polyacrylamide gels that enable quantitative assay completion in separation lengths as short as 350 um in < 10 s. The demonstrated separation length is an order of magnitude shorter than the separation length previously reported for on-chip gel electrophoresis and two orders of magnitude shorter than that achieved using capillary electrophoresis. The required separation lengths translate to less than 3.5 V for assay operation as compared to hundreds and thousands of volts currently in use for homogeneous immunoassays. A discontinuous gel sieving matrix architecture introduced in our work forms a key step towards realizing battery-operated electrophoresis systems for quantitation of protein biomarkers in near-patient environments.
+In our implementation of microfluidic western blotting assay, we developed a novel strategy for on-chip protein renaturation which utilizes electrophoretic separations to isolate denaturing detergents from proteins. Furthermore, photopatterning of polyacrylamide gels within a 2D chamber enables seamless integration of protein renaturation with upstream sizing and downstream immunoaffinity recognition. The entire assay is completed within 3 minutes in a single device as compared to conventional western blotting assays which require hours to a day, multiple pieces of instruments, and frequent human intervention.  Given the appreciable assay speed, this assay may comprise part of a tool set necessary to accelerate biomarker discoveries for personalized medicine.},
+}
+EndNote citation:
+%0 Thesis
+%A Hou, Chenlu
+%T Photopatterned polyacrylamide gels enable efficient microfluidic protein assays
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-52.html
+%F Hou:EECS-2011-52

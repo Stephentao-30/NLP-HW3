@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-102.html
+A CMOS Magnetic Sensor Chip for Biomedical Applications
+Paul Liu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-102
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-102.pdf
+The growing need for point-of-care applications in global health and personalized medicine motivates a significant reduction in the size and cost of present technologies. Current solutions use fluorescent or enzymatic labels with complex optical instrumentation that has proven difficult to miniaturize. Recently, magnetic bead labeling has emerged as an alternative solution enabling portable and low-cost platforms.
+A compact and robust magnetic label detector for biomedical assays is implemented in 0.18-μm CMOS.  No external magnet, reference sensor or baseline calibration is required. Detection relies on the magnetic relaxation signature of a microbead label for improved tolerance to environmental variations and relaxed dynamic range requirement.  Correlated double sampling combined with offset servo loops and magnetic field modulation, suppresses the detector offset to sub-μT. Single 4.5-μm magnetic beads are detected in 16 ms with a probability of error < 0.1%. Magnetic imaging and bead differentiation based on relaxation are demonstrated which could potentially lead to new applications.
+BibTeX citation:
+@techreport{Liu:EECS-2012-102,
+Author= {Liu, Paul},
+Title= {A CMOS Magnetic Sensor Chip for Biomedical Applications},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-102.html},
+Number= {UCB/EECS-2012-102},
+Abstract= {The growing need for point-of-care applications in global health and personalized medicine motivates a significant reduction in the size and cost of present technologies. Current solutions use fluorescent or enzymatic labels with complex optical instrumentation that has proven difficult to miniaturize. Recently, magnetic bead labeling has emerged as an alternative solution enabling portable and low-cost platforms.
+A compact and robust magnetic label detector for biomedical assays is implemented in 0.18-μm CMOS.  No external magnet, reference sensor or baseline calibration is required. Detection relies on the magnetic relaxation signature of a microbead label for improved tolerance to environmental variations and relaxed dynamic range requirement.  Correlated double sampling combined with offset servo loops and magnetic field modulation, suppresses the detector offset to sub-μT. Single 4.5-μm magnetic beads are detected in 16 ms with a probability of error < 0.1%. Magnetic imaging and bead differentiation based on relaxation are demonstrated which could potentially lead to new applications.},
+}
+EndNote citation:
+%0 Report
+%A Liu, Paul
+%T A CMOS Magnetic Sensor Chip for Biomedical Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-102
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-102.html
+%F Liu:EECS-2012-102

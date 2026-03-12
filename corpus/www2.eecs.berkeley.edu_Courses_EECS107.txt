@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS107
+EECS 107. Introduction to AR/VR and Applications in Metaverse
+Catalog Description:  This course develops a fundamental understanding of computer
+vision (CV) and computer graphics (CG) that underpin the
+emerging AR/VR and Metaverse applications. The syllabus
+includes 3D perception, near-eye optics, depth cameras, 3D
+localization, and immersive 3D user experience. The companion
+lab helps students to acquire basic AR/VR coding skills in Unity
+and develop Metaverse applications. The course builds a strong
+foundation for students to take more advanced course: CS
+294-137.
+Units:  4
+Prerequisites:  Familiarity with Linear Algebra at the level of EECS 16A/B or MATH 54. Experience on coding proficiency and data structures at the level of CS61 A/B.
+Formats:  Spring: 3.0 hours of lecture and  2.0 hours of laboratory per week
+Fall: 3.0 hours of lecture and  2.0 hours of laboratory per week
+Grading basis:  letter

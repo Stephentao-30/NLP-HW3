@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29001.html
+Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case
+Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case
+V. Visvanathan and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/45
+June 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-45.pdf
+BibTeX citation:
+@techreport{Visvanathan:M81/45,
+Author = {Visvanathan, V. and Sangiovanni-Vincentelli, A.},
+Title = {Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29001.html},
+Number = {UCB/ERL M81/45}
+}
+EndNote citation:
+%0 Report
+%A Visvanathan, V.
+%A Sangiovanni-Vincentelli, A.
+%T Diagnosability of Nonlinear Circuits and Systems Part I: The DC Case
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/45
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29001.html
+%F Visvanathan:M81/45

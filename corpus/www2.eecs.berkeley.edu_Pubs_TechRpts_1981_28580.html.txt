@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28580.html
+Global Behavior of Interconnected Power Systems: Part I | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Global Behavior of Interconnected Power Systems: Part I
+Global Behavior of Interconnected Power Systems: Part I
+A. Arapostathis, S. Sastry and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/3
+January 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-3.pdf
+BibTeX citation:
+@techreport{Arapostathis:M81/3,
+Author = {Arapostathis, A. and Sastry, S. and Varaiya, P.},
+Title = {Global Behavior of Interconnected Power Systems: Part I},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28580.html},
+Number = {UCB/ERL M81/3}
+}
+EndNote citation:
+%0 Report
+%A Arapostathis, A.
+%A Sastry, S.
+%A Varaiya, P.
+%T Global Behavior of Interconnected Power Systems: Part I
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/3
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28580.html
+%F Arapostathis:M81/3

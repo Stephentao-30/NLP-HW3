@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-202.html
+Beyond Deep Learning: Scalable Methods and Models for Learning
+Oriol Vinyals
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-202
+December 12,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.pdf
+In my thesis I explored several techniques to improve how to efficiently model signal representations and learn useful information from them. The building block of my dissertation is based on machine learning approaches to classification, where a (typically non-linear) function is learned from labeled examples to map from signals to some useful information (e.g. an object class present an image, or a word present in an acoustic signal). One of the motivating factors of my work has been advances in neural networks in deep architectures (which has led to the terminology ``deep learning''), and that has shown state-of-the-art performance in acoustic modeling and object recognition -- the main focus of this thesis. In my work, I have contributed to both the learning (or training) of such architectures through faster and robust optimization techniques, and also to the simplification of the deep architecture model to an approach that is simple to optimize. Furthermore, I derived a theoretical bound showing a fundamental limitation of shallow architectures based on sparse coding (which can be seen as a one hidden layer neural network), thus justifying the need for deeper architectures, while also empirically verifying these architectural choices on speech recognition. Many of my contributions have been used in a wide variety of applications, products and datasets as a result of many collaborations within ICSI and Berkeley, but also at Microsoft Research and Google Research.
+Advisors:  Nelson Morgan
+BibTeX citation:
+@phdthesis{Vinyals:EECS-2013-202,
+Author= {Vinyals, Oriol},
+Title= {Beyond Deep Learning: Scalable Methods and Models for Learning},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.html},
+Number= {UCB/EECS-2013-202},
+Abstract= {In my thesis I explored several techniques to improve how to efficiently model signal representations and learn useful information from them. The building block of my dissertation is based on machine learning approaches to classification, where a (typically non-linear) function is learned from labeled examples to map from signals to some useful information (e.g. an object class present an image, or a word present in an acoustic signal). One of the motivating factors of my work has been advances in neural networks in deep architectures (which has led to the terminology ``deep learning''), and that has shown state-of-the-art performance in acoustic modeling and object recognition -- the main focus of this thesis. In my work, I have contributed to both the learning (or training) of such architectures through faster and robust optimization techniques, and also to the simplification of the deep architecture model to an approach that is simple to optimize. Furthermore, I derived a theoretical bound showing a fundamental limitation of shallow architectures based on sparse coding (which can be seen as a one hidden layer neural network), thus justifying the need for deeper architectures, while also empirically verifying these architectural choices on speech recognition. Many of my contributions have been used in a wide variety of applications, products and datasets as a result of many collaborations within ICSI and Berkeley, but also at Microsoft Research and Google Research.},
+}
+EndNote citation:
+%0 Thesis
+%A Vinyals, Oriol
+%T Beyond Deep Learning: Scalable Methods and Models for Learning
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 12
+%@ UCB/EECS-2013-202
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.html
+%F Vinyals:EECS-2013-202

@@ -1,0 +1,45 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-235.html
+Optical Whispering-Gallery Mode Resonators for Applications in Optical Communication and Frequency Control
+Karen Grutter
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-235
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-235.pdf
+High quality factor (Q) optical whispering gallery mode resonators are a key component in many on-chip optical systems, such as delay lines, modulators, and add-drop filters. They are also a convenient, compact structure for studying optomechanical interactions on-chip. In all these applications, optical Q is an important factor for high performance. For optomechanical reference oscillators in particular, high mechanical Q is also necessary. Previously,
+optical microresonators have been made in a wide variety of materials, but it has proven challenging to demonstrate high optical Q and high mechanical Q in a single, integrated device. This work demonstrates a new technique for achieving high optical Q on chip, a fully-integrated tunable filter with ultra-narrow minimum bandwidth, and the effect of material choice and device design on optical Q, mechanical Q and phase noise in microring optomechanical oscillators.
+To achieve a high optical Q, phosphosilicate glass (PSG) is studied as a resonator material. The low melting point of PSG enables wafer-scale reflow, which reduces sidewall roughness without signifi
+cantly changing lithographically-de
+fined dimensions. With this process, optical Qs up to 1.5 x 10^7 are achieved, over ten times higher than typical silicon optical resonators.
+These high-Q PSG resonators are then integrated with MEMS-actuated waveguides in a tunable-bandwidth fi
+lter. Due to the high Q of the PSG resonator, this device has a best-to-date minimum bandwidth of 0.8 GHz, with a tuning range of 0.8 to 8.5GHz.
+Finally, microring optomechanical oscillators (OMOs) in PSG, stoichiometric silicon nitride, and silicon are fabricated, and their performance is compared after characterization via a tapered optical fiber in vacuum. The silicon nitride device has the best performance, with a mechanical Q of more than 1 x 10^4 and record-breaking OMO phase noise of -102 dBc/Hz at a 1 kHz offset from a 72 MHz carrier.
+Advisors:  Ming C. Wu
+BibTeX citation:
+@phdthesis{Grutter:EECS-2013-235,
+Author= {Grutter, Karen},
+Title= {Optical Whispering-Gallery Mode Resonators for Applications in Optical Communication and Frequency Control},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-235.html},
+Number= {UCB/EECS-2013-235},
+Abstract= {High quality factor (Q) optical whispering gallery mode resonators are a key component in many on-chip optical systems, such as delay lines, modulators, and add-drop filters. They are also a convenient, compact structure for studying optomechanical interactions on-chip. In all these applications, optical Q is an important factor for high performance. For optomechanical reference oscillators in particular, high mechanical Q is also necessary. Previously,
+optical microresonators have been made in a wide variety of materials, but it has proven challenging to demonstrate high optical Q and high mechanical Q in a single, integrated device. This work demonstrates a new technique for achieving high optical Q on chip, a fully-integrated tunable filter with ultra-narrow minimum bandwidth, and the effect of material choice and device design on optical Q, mechanical Q and phase noise in microring optomechanical oscillators.
+To achieve a high optical Q, phosphosilicate glass (PSG) is studied as a resonator material. The low melting point of PSG enables wafer-scale reflow, which reduces sidewall roughness without signifi
+cantly changing lithographically-de
+fined dimensions. With this process, optical Qs up to 1.5 x 10^7 are achieved, over ten times higher than typical silicon optical resonators.
+These high-Q PSG resonators are then integrated with MEMS-actuated waveguides in a tunable-bandwidth fi
+lter. Due to the high Q of the PSG resonator, this device has a best-to-date minimum bandwidth of 0.8 GHz, with a tuning range of 0.8 to 8.5GHz.
+Finally, microring optomechanical oscillators (OMOs) in PSG, stoichiometric silicon nitride, and silicon are fabricated, and their performance is compared after characterization via a tapered optical fiber in vacuum. The silicon nitride device has the best performance, with a mechanical Q of more than 1 x 10^4 and record-breaking OMO phase noise of -102 dBc/Hz at a 1 kHz offset from a 72 MHz carrier.},
+}
+EndNote citation:
+%0 Thesis
+%A Grutter, Karen
+%T Optical Whispering-Gallery Mode Resonators for Applications in Optical Communication and Frequency Control
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-235
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-235.html
+%F Grutter:EECS-2013-235

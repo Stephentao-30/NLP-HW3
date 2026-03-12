@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/7074.html
+Optimal Controls for Linear Systems and the Maximum Principle | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Controls for Linear Systems and the Maximum Principle
+Optimal Controls for Linear Systems and the Maximum Principle
+Albert Chang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M83
+July 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-83.pdf
+Advisor:  Lotfi A. Zadeh
+BibTeX citation:
+@phdthesis{Chang:M83,
+Author = {Chang, Albert},
+Title = {Optimal Controls for Linear Systems and the Maximum Principle},
+School = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/7074.html},
+Number = {UCB/ERL M83}
+}
+EndNote citation:
+%0 Thesis
+%A Chang, Albert
+%T Optimal Controls for Linear Systems and the Maximum Principle
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/7074.html
+%F Chang:M83

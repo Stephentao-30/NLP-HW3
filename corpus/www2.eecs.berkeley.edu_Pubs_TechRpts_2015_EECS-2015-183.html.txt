@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-183.html
+Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems
+Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems
+Chung-Wei Lin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-183
+August 10, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-183.pdf
+Cyber-security attacks can have a critical impact on embedded systems. They may access secret information, cause system malfunction, or even endanger users in extreme circumstances. These attacks become even more threatening as systems are becoming more connected with the surrounding environment, infrastructures, and other systems. These connections provide breeding grounds for attackers to get access to or take control of the systems. Security mechanisms can be designed to protect against attacks and meet security requirements, such as integrity, authenticity, confidentiality, or availability. However, there are many challenges of applying security mechanisms to embedded systems, such as open environments, limited resources, strict timing requirements, and large number of devices. These challenges make it very difficult and sometimes impossible to add security mechanisms after initial design stages without violating other system constraints. It is therefore important to develop a systematic approach to address security at early design stages together with all other design constraints.
+We first propose a general security-aware design methodology which considers security together with other design constraints at design stages. The methodology is based on Platform-Based Design [44], where a functional model and an architectural platform are initially captured separately and then brought together through a mapping process. During mapping, the functional model is implemented on the architectural platform, and constraints and objectives are satisfied and optimized, respectively. Our methodology is different from the traditional mapping process because it not only maps functional models to architectural platforms but also explores security mechanism selection and architecture selection.
+We then focus on the security issues for automotive systems as they represent many of the common challenges in embedded systems. We study security for in-vehicle communications and present security mechanisms for the Controller Area Network (CAN) protocol, which is a very representative asynchronous protocol and currently the most used in-vehicle communication protocol. Based on the security mechanisms, we propose a Mixed Integer Linear Programming (MILP) formulation and an MILP-based algorithm to explore task allocation, signal packing, Message Authentication Code (MAC) sharing, and priority assignment and meet both security and safety constraints. Besides the CAN protocol, we also consider a TDMA-based protocol, which is a very representative synchronous protocol and an abstraction of many existing protocols. The time-delayed release of keys [2, 34, 35, 52] is applied as the security mechanism, and an algorithm that combines a simulated annealing approach with a set of efficient optimization heuristics is developed to solve a security-aware mapping problem for TDMA-based systems. Lastly, we apply our methodology to Vehicle-to-Vehicle (V2V) communications with the Dedicated Short-Range Communications (DSRC) technology. We formulate a security-aware optimization problem and propose an efficient algorithm to solve the security-aware optimization problem.
+Experimental results show that our approaches can effectively and efficiently explore design spaces and satisfy all design constraints at design stages. They also demonstrate that security must be considered at initial design stages; otherwise, it is too late to add security after initial design stages.
+Advisor:  Alberto L. Sangiovanni-Vincentelli
+BibTeX citation:
+@phdthesis{Lin:EECS-2015-183,
+Author = {Lin, Chung-Wei},
+Title = {Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-183.html},
+Number = {UCB/EECS-2015-183},
+Abstract = {Cyber-security attacks can have a critical impact on embedded systems. They may access secret information, cause system malfunction, or even endanger users in extreme circumstances. These attacks become even more threatening as systems are becoming more connected with the surrounding environment, infrastructures, and other systems. These connections provide breeding grounds for attackers to get access to or take control of the systems. Security mechanisms can be designed to protect against attacks and meet security requirements, such as integrity, authenticity, confidentiality, or availability. However, there are many challenges of applying security mechanisms to embedded systems, such as open environments, limited resources, strict timing requirements, and large number of devices. These challenges make it very difficult and sometimes impossible to add security mechanisms after initial design stages without violating other system constraints. It is therefore important to develop a systematic approach to address security at early design stages together with all other design constraints.
+We first propose a general security-aware design methodology which considers security together with other design constraints at design stages. The methodology is based on Platform-Based Design [44], where a functional model and an architectural platform are initially captured separately and then brought together through a mapping process. During mapping, the functional model is implemented on the architectural platform, and constraints and objectives are satisfied and optimized, respectively. Our methodology is different from the traditional mapping process because it not only maps functional models to architectural platforms but also explores security mechanism selection and architecture selection.
+We then focus on the security issues for automotive systems as they represent many of the common challenges in embedded systems. We study security for in-vehicle communications and present security mechanisms for the Controller Area Network (CAN) protocol, which is a very representative asynchronous protocol and currently the most used in-vehicle communication protocol. Based on the security mechanisms, we propose a Mixed Integer Linear Programming (MILP) formulation and an MILP-based algorithm to explore task allocation, signal packing, Message Authentication Code (MAC) sharing, and priority assignment and meet both security and safety constraints. Besides the CAN protocol, we also consider a TDMA-based protocol, which is a very representative synchronous protocol and an abstraction of many existing protocols. The time-delayed release of keys [2, 34, 35, 52] is applied as the security mechanism, and an algorithm that combines a simulated annealing approach with a set of efficient optimization heuristics is developed to solve a security-aware mapping problem for TDMA-based systems. Lastly, we apply our methodology to Vehicle-to-Vehicle (V2V) communications with the Dedicated Short-Range Communications (DSRC) technology. We formulate a security-aware optimization problem and propose an efficient algorithm to solve the security-aware optimization problem.
+Experimental results show that our approaches can effectively and efficiently explore design spaces and satisfy all design constraints at design stages. They also demonstrate that security must be considered at initial design stages; otherwise, it is too late to add security after initial design stages.}
+}
+EndNote citation:
+%0 Thesis
+%A Lin, Chung-Wei
+%T Security Mechanisms and Security-Aware Mapping for Real-Time Distributed Embedded Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 10
+%@ UCB/EECS-2015-183
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-183.html
+%F Lin:EECS-2015-183

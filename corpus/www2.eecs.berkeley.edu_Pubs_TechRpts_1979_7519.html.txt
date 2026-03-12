@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7519.html
+Evaluation and Enhancement of the Performance of Relational Database Management Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Evaluation and Enhancement of the Performance of Relational Database Management Systems
+Evaluation and Enhancement of the Performance of Relational Database Management Systems
+Paula B. Hawthorn
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/70
+November 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-70.pdf
+Advisor:  Michael R. Stonebraker
+BibTeX citation:
+@phdthesis{Hawthorn:M79/70,
+Author = {Hawthorn, Paula B.},
+Title = {Evaluation and Enhancement of the Performance of Relational Database Management Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7519.html},
+Number = {UCB/ERL M79/70}
+}
+EndNote citation:
+%0 Thesis
+%A Hawthorn, Paula B.
+%T Evaluation and Enhancement of the Performance of Relational Database Management Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/7519.html
+%F Hawthorn:M79/70

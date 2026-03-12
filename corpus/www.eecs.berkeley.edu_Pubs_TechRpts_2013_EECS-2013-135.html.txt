@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-135.html
+The CloudProxy Tao for Trusted Computing
+John Manferdelli and Tom Roeder and Fred Schneider
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-135
+July 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-135.pdf
+Applications running in a cloud data center face several challenges, including secure deployment, insider attacks, and cryptographic key management. Previous research shows how to securely start and run individual programs using the Trusted Platform Module or other secure co-processors, but none of that work solves the end-to-end problem of deploying and gaining assurance in distributed applications running on third-party hardware. And key management in existing systems often requires trust in potentially untrustworthy certificate authorities.
+CloudProxy is a new framework that provides secure deployment of applications to the cloud, defends against insider attacks, and provides protocols for automatic key management. Data managed by CloudProxy is never stored or transmitted in unencrypted form, and cryptographic keys are provisioned in a way that defends against malicious operators or other data-center insiders. Protocols are provided for remote or local clients to authenticate the executable and execution environment of a server and for a server to authenticate the executable and execution environment of its clients. Three prototype applications were implemented to evaluate the utility of CloudProxy: FileProxy, a file service; AuthProxy, an authentication service for remote third parties; and BidProxy, an auction service. Performance measurements show that CloudProxy is a practical way to support secure, distributed applications.
+BibTeX citation:
+@techreport{Manferdelli:EECS-2013-135,
+Author= {Manferdelli, John and Roeder, Tom and Schneider, Fred},
+Title= {The CloudProxy Tao for Trusted Computing},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-135.html},
+Number= {UCB/EECS-2013-135},
+Abstract= {Applications running in a cloud data center face several challenges, including secure deployment, insider attacks, and cryptographic key management. Previous research shows how to securely start and run individual programs using the Trusted Platform Module or other secure co-processors, but none of that work solves the end-to-end problem of deploying and gaining assurance in distributed applications running on third-party hardware. And key management in existing systems often requires trust in potentially untrustworthy certificate authorities.
+CloudProxy is a new framework that provides secure deployment of applications to the cloud, defends against insider attacks, and provides protocols for automatic key management. Data managed by CloudProxy is never stored or transmitted in unencrypted form, and cryptographic keys are provisioned in a way that defends against malicious operators or other data-center insiders. Protocols are provided for remote or local clients to authenticate the executable and execution environment of a server and for a server to authenticate the executable and execution environment of its clients. Three prototype applications were implemented to evaluate the utility of CloudProxy: FileProxy, a file service; AuthProxy, an authentication service for remote third parties; and BidProxy, an auction service. Performance measurements show that CloudProxy is a practical way to support secure, distributed applications.},
+}
+EndNote citation:
+%0 Report
+%A Manferdelli, John
+%A Roeder, Tom
+%A Schneider, Fred
+%T The CloudProxy Tao for Trusted Computing
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 19
+%@ UCB/EECS-2013-135
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-135.html
+%F Manferdelli:EECS-2013-135

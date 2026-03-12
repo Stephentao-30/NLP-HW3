@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29337.html
+Decomposition-A Strategy for Query Prcoessing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Decomposition-A Strategy for Query Prcoessing
+Decomposition-A Strategy for Query Prcoessing
+Eugene Wong and Karel Youssefi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M574
+January 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-574.pdf
+BibTeX citation:
+@techreport{Wong:M574,
+Author = {Wong, Eugene and Youssefi, Karel},
+Title = {Decomposition-A Strategy for Query Prcoessing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29337.html},
+Number = {UCB/ERL M574}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%A Youssefi, Karel
+%T Decomposition-A Strategy for Query Prcoessing
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M574
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29337.html
+%F Wong:M574

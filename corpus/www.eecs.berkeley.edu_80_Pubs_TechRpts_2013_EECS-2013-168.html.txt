@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-168.html
+Teaching People and Machines to Enhance Images
+Floraine Berthouzoz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-168
+October 10,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-168.pdf
+Advisors:  Maneesh Agrawala
+BibTeX citation:
+@phdthesis{Berthouzoz:EECS-2013-168,
+Author= {Berthouzoz, Floraine},
+Title= {Teaching People and Machines to Enhance Images},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-168.html},
+Number= {UCB/EECS-2013-168},
+}
+EndNote citation:
+%0 Thesis
+%A Berthouzoz, Floraine
+%T Teaching People and Machines to Enhance Images
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 10
+%@ UCB/EECS-2013-168
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-168.html
+%F Berthouzoz:EECS-2013-168

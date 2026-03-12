@@ -1,0 +1,70 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-161.html
+Precision Timed Infrastructure: Design Challenges
+David Broman and Michael Zimmer and Yooseong Kim and Hokeun Kim and Jian Cai and Aviral Shrivastava and Stephen A. Edwards and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-161
+September 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-161.pdf
+In general-purpose software applications, computation time is just a
+quality factor: faster is better. In cyber-physical systems (CPS),
+however, computation time is a correctness factor: missed deadlines
+for hard real-time applications, such as avionics and automobiles, can
+result in devastating, life-threatening consequences. Although many
+modern modeling languages for CPS include the notion of time,
+implementation languages such as C lack any temporal
+semantics. Consequently, models and programs for CPS are neither
+portable nor guaranteed to execute correctly on the real system;
+timing is merely a side effect of the realization of a software system
+on a specific hardware platform. In this position paper, we present
+the research initiative for a precision timed (PRET) infrastructure,
+consisting of languages, compilers, and microarchitectures, where
+timing is a correctness factor. In particular, the timing semantics in
+models and programs must be preserved during compilation to ensure
+that the behavior of real systems complies with models. We also
+outline new research and design challenges present in such
+an infrastructure.
+BibTeX citation:
+@techreport{Broman:EECS-2013-161,
+Author= {Broman, David and Zimmer, Michael and Kim, Yooseong and Kim, Hokeun and Cai, Jian and Shrivastava, Aviral and Edwards, Stephen A. and Lee, Edward A.},
+Title= {Precision Timed Infrastructure: Design Challenges},
+Year= {2013},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-161.html},
+Number= {UCB/EECS-2013-161},
+Abstract= {In general-purpose software applications, computation time is just a
+quality factor: faster is better. In cyber-physical systems (CPS),
+however, computation time is a correctness factor: missed deadlines
+for hard real-time applications, such as avionics and automobiles, can
+result in devastating, life-threatening consequences. Although many
+modern modeling languages for CPS include the notion of time,
+implementation languages such as C lack any temporal
+semantics. Consequently, models and programs for CPS are neither
+portable nor guaranteed to execute correctly on the real system;
+timing is merely a side effect of the realization of a software system
+on a specific hardware platform. In this position paper, we present
+the research initiative for a precision timed (PRET) infrastructure,
+consisting of languages, compilers, and microarchitectures, where
+timing is a correctness factor. In particular, the timing semantics in
+models and programs must be preserved during compilation to ensure
+that the behavior of real systems complies with models. We also
+outline new research and design challenges present in such
+an infrastructure.},
+}
+EndNote citation:
+%0 Report
+%A Broman, David
+%A Zimmer, Michael
+%A Kim, Yooseong
+%A Kim, Hokeun
+%A Cai, Jian
+%A Shrivastava, Aviral
+%A Edwards, Stephen A.
+%A Lee, Edward A.
+%T Precision Timed Infrastructure: Design Challenges
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 September 19
+%@ UCB/EECS-2013-161
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-161.html
+%F Broman:EECS-2013-161

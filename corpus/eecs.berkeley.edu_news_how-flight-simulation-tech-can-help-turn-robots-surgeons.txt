@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/how-flight-simulation-tech-can-help-turn-robots-surgeons
+How Flight Simulation Tech Can Help Turn Robots Into Surgeons - EECS at Berkeley
+Robotics researchers from Berkeley’s AUTOLab, led by IEOR and EECS professor Ken Goldberg, have built a heaving robotic platform — mimicking the motion of a breathing, heart-beating human patient — to help develop algorithms that robotic surgical assistants can use to guide their cutting.  This research is the subject of an article in Wired magazine titled “ How Flight Simulation Tech Can Help Turn Robots Into Surgeons .”  During surgery, when the chest heaves or blood pumps, the surgeon has to compensate for that movement.  The researchers took the data from watching the surgeon’s movements and developed algorithms that could mimic his strategy for cutting along a line. This new robot, which is a kind of a Stewart platform, mimics that movement.  Stewart platforms are normally hefty pneumatic devices that power things like immersive flight simulators. But for this study, the researchers took the concept and shrunk it down to a 6-inch-wide device, opting for servo motors instead of pneumatic power. The machine costs just $250.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

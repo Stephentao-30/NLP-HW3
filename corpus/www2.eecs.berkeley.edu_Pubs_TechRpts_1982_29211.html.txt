@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29211.html
+A Computational Approach to Fuzzy Quantifiers in Natural Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Computational Approach to Fuzzy Quantifiers in Natural Languages
+A Computational Approach to Fuzzy Quantifiers in Natural Languages
+Lotfi A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/36
+May 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-36.pdf
+BibTeX citation:
+@techreport{Zadeh:M82/36,
+Author = {Zadeh, Lotfi A.},
+Title = {A Computational Approach to Fuzzy Quantifiers in Natural Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29211.html},
+Number = {UCB/ERL M82/36}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, Lotfi A.
+%T A Computational Approach to Fuzzy Quantifiers in Natural Languages
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29211.html
+%F Zadeh:M82/36

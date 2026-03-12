@@ -1,0 +1,8 @@
+URL: https://eecs.berkeley.edu/news/alexei-efros-helps-build-tool-detect-facial-manipulation-adobe-photoshop
+Alexei Efros helps build tool to detect facial manipulation in Adobe PhotoShop - EECS at Berkeley
+CS Prof. Alexei “Alyosha” Efros has teamed up with student researcher Sheng-Yu Wang and postdoc Andrew Owens, as well as Adobe researchers Richard Zhang and Oliver Wang, to develop a method for detecting and reversing edits to images made using Adobe Photoshop’s Face Aware Liquify feature–a popular tool for adjusting facial features, including making adjustments to facial expressions.  While still in its early stages, this collaboration to train a convolutional neural network (CNN) is part of a broader effort across Adobe to better detect image, video, audio and document manipulations, as well as a step toward democratizing image forensics.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

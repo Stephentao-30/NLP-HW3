@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9D
+Course: CS9D | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9D
+CS 9D. Scheme and Functional Programming for Programmers
+Catalog Description:  Self-paced course in functional programming, using the Scheme programming language, for students who already know how to program. Recursion; higher-order functions; list processing; implementation of rule-based querying.
+Units:  2.0
+Prerequisites:  Programming experience similar to that gained in Computer Science 10 or Engineering 7.
+Credit Restrictions:  Refer to computer science service course restrictions.
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Students are expected to learn the basics of Scheme programming (up through recursion, applicative operators, and the use of functions as first class objects). In the process of learning the language, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Functions and recursion using numbers
+Higher-order functions
+Lists and hierarchical data; list-processing recursion; higher-order functions with lists; functions as stored data
+Rule-based programming

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-152.html
+Outlet Power Monitoring Using Wireless Sensor Networks
+Ameer Ellaboudy
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-152
+June 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-152.pdf
+The need for increased power monitoring in residential and commercial units is becoming increasingly self-evident by the ongoing shortage of natural resources and rising costs of electricity. This need has been supported by recent government and private policies towards reducing power consumption and better power monitoring. Several startups and organizations have developed strategies to improve power monitoring; this paper will provide an overview for the shortcomings of such attempts such as: cost, ease of integration (as well as being non-invasive), and functionality. Our system is one that implements these features by taking advantage of several new technologies, including energy harvesting techniques and innovative low-power wireless protocols and hardware. A brief discussion of these new technologies and how they provide improvements to current power monitoring solutions will be made. The focus of this paper will be on the analog front-end interface to the power monitoring sensors in the system. For building a non-invasive power monitoring solution, two current-sensing technologies are implemented: inductive sensing using an air-core inductor, and sensing using an energy harvesting transformer. Each solution for current-sensing provides a challenge for filtering, amplification, buffering, and ensuring that the sensor is sensitive enough to changes in current draws.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Ellaboudy:EECS-2012-152,
+Author= {Ellaboudy, Ameer},
+Editor= {Pister, Kristofer},
+Title= {Outlet Power Monitoring Using Wireless Sensor Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-152.html},
+Number= {UCB/EECS-2012-152},
+Abstract= {The need for increased power monitoring in residential and commercial units is becoming increasingly self-evident by the ongoing shortage of natural resources and rising costs of electricity. This need has been supported by recent government and private policies towards reducing power consumption and better power monitoring. Several startups and organizations have developed strategies to improve power monitoring; this paper will provide an overview for the shortcomings of such attempts such as: cost, ease of integration (as well as being non-invasive), and functionality. Our system is one that implements these features by taking advantage of several new technologies, including energy harvesting techniques and innovative low-power wireless protocols and hardware. A brief discussion of these new technologies and how they provide improvements to current power monitoring solutions will be made. The focus of this paper will be on the analog front-end interface to the power monitoring sensors in the system. For building a non-invasive power monitoring solution, two current-sensing technologies are implemented: inductive sensing using an air-core inductor, and sensing using an energy harvesting transformer. Each solution for current-sensing provides a challenge for filtering, amplification, buffering, and ensuring that the sensor is sensitive enough to changes in current draws.},
+}
+EndNote citation:
+%0 Thesis
+%A Ellaboudy, Ameer
+%E Pister, Kristofer
+%T Outlet Power Monitoring Using Wireless Sensor Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 1
+%@ UCB/EECS-2012-152
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-152.html
+%F Ellaboudy:EECS-2012-152

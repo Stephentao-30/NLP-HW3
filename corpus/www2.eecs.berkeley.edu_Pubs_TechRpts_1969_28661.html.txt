@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28661.html
+Design of Linear Time-Varying and Nonlinear Time-Invariant Networks
+Charles A. Desoer and Behrouz Peikari
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M264
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-264.pdf
+BibTeX citation:
+@techreport{Desoer:M264,
+Author= {Desoer, Charles A. and Peikari, Behrouz},
+Title= {Design of Linear Time-Varying and Nonlinear Time-Invariant Networks},
+Year= {1969},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28661.html},
+Number= {UCB/ERL M264},
+}
+EndNote citation:
+%0 Report
+%A Desoer, Charles A.
+%A Peikari, Behrouz
+%T Design of Linear Time-Varying and Nonlinear Time-Invariant Networks
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M264
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28661.html
+%F Desoer:M264

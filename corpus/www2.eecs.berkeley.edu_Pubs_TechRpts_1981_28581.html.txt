@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28581.html
+Syntax Oriented Analysis of the Run Time Performance of Programs
+Luis Felipe Cabrera
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/30
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-30.pdf
+BibTeX citation:
+@techreport{Cabrera:M81/30,
+Author= {Cabrera, Luis Felipe},
+Title= {Syntax Oriented Analysis of the Run Time Performance of Programs},
+Year= {1981},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28581.html},
+Number= {UCB/ERL M81/30},
+}
+EndNote citation:
+%0 Report
+%A Cabrera, Luis Felipe
+%T Syntax Oriented Analysis of the Run Time Performance of Programs
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28581.html
+%F Cabrera:M81/30

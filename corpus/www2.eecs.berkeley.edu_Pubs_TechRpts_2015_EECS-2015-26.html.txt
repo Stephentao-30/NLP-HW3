@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-26.html
+Frequency Modulated Gyroscopes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Frequency Modulated Gyroscopes
+Frequency Modulated Gyroscopes
+Mitchell Kline
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-26
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-26.pdf
+MEMS gyroscopes for consumer devices, such as smartphones and tablets, suffer from high power consumption and drift which precludes their use in inertial navigation applications. Conventional MEMS gyroscopes detect Coriolis force through measurement of very small displacements on a sense axis, which requires low-noise, and consequently high-power, electronics. The sensitivity of the gyroscope is improved through mode-matching, but this introduces many other problems, such as low bandwidth and unreliable scale factor. Additionally, the conventional Coriolis force detection method is very sensitive to asymmetries in the mechanical transducer because the rate signal is derived from only the sense axis. Parasitic coupling between the drive and sense axis introduces unwanted bias errors which could be rejected by a perfectly symmetric readout scheme.
+In this thesis, I present frequency modulated (FM) gyroscopes that overcome the above limitations. FM gyroscopes operate the mechanical transducer in a perfectly symmetric way: each transducer axis is continuously driven to maintain a constant envelope oscillation. The rate is detected as changes in the frequencies of oscillations of the two axes. Frequency readout offers superior scale factor reliability in comparison to amplitude readout. For pendulum type gyroscopes, the scale factor is a dimensionless constant equal to 1 Hz (or cycle per second) per 360 deg/s.
+FM gyroscopes are trivial to mode-match. Oscillation frequencies of both axes can be continually monitored and matched through electrostatic tuning. The FM gyroscope receives the same improved sensitivity benefit from mode-matching as the conventional gyroscope, without the drawbacks of limited bandwidth or unreliable scale factor.
+Because of the symmetry, compatibility with mode-matching, and ease of frequency readout, the FM gyroscopes promise to improve the power dissipation and drift of MEMS gyroscopes.
+Advisor:  Bernhard Boser
+BibTeX citation:
+@phdthesis{Kline:EECS-2015-26,
+Author = {Kline, Mitchell},
+Title = {Frequency Modulated Gyroscopes},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-26.html},
+Number = {UCB/EECS-2015-26},
+Abstract = {MEMS gyroscopes for consumer devices, such as smartphones and tablets, suffer from high power consumption and drift which precludes their use in inertial navigation applications. Conventional MEMS gyroscopes detect Coriolis force through measurement of very small displacements on a sense axis, which requires low-noise, and consequently high-power, electronics. The sensitivity of the gyroscope is improved through mode-matching, but this introduces many other problems, such as low bandwidth and unreliable scale factor. Additionally, the conventional Coriolis force detection method is very sensitive to asymmetries in the mechanical transducer because the rate signal is derived from only the sense axis. Parasitic coupling between the drive and sense axis introduces unwanted bias errors which could be rejected by a perfectly symmetric readout scheme.
+In this thesis, I present frequency modulated (FM) gyroscopes that overcome the above limitations. FM gyroscopes operate the mechanical transducer in a perfectly symmetric way: each transducer axis is continuously driven to maintain a constant envelope oscillation. The rate is detected as changes in the frequencies of oscillations of the two axes. Frequency readout offers superior scale factor reliability in comparison to amplitude readout. For pendulum type gyroscopes, the scale factor is a dimensionless constant equal to 1 Hz (or cycle per second) per 360 deg/s.
+FM gyroscopes are trivial to mode-match. Oscillation frequencies of both axes can be continually monitored and matched through electrostatic tuning. The FM gyroscope receives the same improved sensitivity benefit from mode-matching as the conventional gyroscope, without the drawbacks of limited bandwidth or unreliable scale factor.
+Because of the symmetry, compatibility with mode-matching, and ease of frequency readout, the FM gyroscopes promise to improve the power dissipation and drift of MEMS gyroscopes.}
+}
+EndNote citation:
+%0 Thesis
+%A Kline, Mitchell
+%T Frequency Modulated Gyroscopes
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-26.html
+%F Kline:EECS-2015-26

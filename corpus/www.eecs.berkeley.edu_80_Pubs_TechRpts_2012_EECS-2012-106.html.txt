@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-106.html
+Making computer vision computationally efficient
+Narayanan Sundaram
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-106
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-106.pdf
+Computational requirements for computer vision algorithms have been increasing dramatically at a rate of several orders of magnitude per decade. In fact, the growth in the size of datasets and computational demands for computer vision algorithms are outpacing Moore's law scaling. Meanwhile, parallelism has become the major driver of improvements in hardware performance. Even in such a scenario, there has been a lack of interest in parallelizing computer vision applications from vision domain experts whose main concern has been productivity. We believe that ignoring parallelism is no longer an option. Numerical optimization and parallelization are essential for current and future generation of vision applications to run on efficiently on parallel hardware.
+In this thesis, we describe the computational characteristics of computer vision workloads using patterns. We show examples of how careful numerical optimization has led to increased speedups on many computer vision and machine learning algorithms including support vector machines, optical flow, point tracking, image contour detection and video segmentation. Together, these application kernels appear in about 50% of computer vision applications, making them excellent targets for focusing our attention. We focus our efforts on GPUs, as they are the most parallel commodity hardware available today. GPUs also have high memory bandwidth which is useful as most computer vision algorithms are bandwidth bound. In conjunction with the advantages of GPUs for parallel processing, our optimizations (both numeric and low-level) have made the above mentioned algorithms practical to run on large data sets. We will also describe how these optimizations have enabled new, more accurate algorithms that previously would have been considered impractical. In addition to implementing computer vision algorithms on parallel platforms (GPUs and multicore CPUs), we propose tools to optimize the movement of data between the CPU and GPU.
+We have achieved speedups of 4-76x for support vector machine training, 4-372x for SVM classification, 37x for large displacement optical flow and 130x for image contour detection compared to serial implementations. A significant portion of the speedups in each case was obtained from algorithmic changes and numerical optimization. Better algorithms have improved performance not only on manycore platforms like GPUs, but also on multicore CPUs. In addition to achieving speedups on existing applications,  our tool for helping manage data movement between CPU and GPU has reduced runtime by a factor of 1.7-7.8x and the amount of data transferred by over 100x. Taken together, these tools and techniques serve as important guidelines for analyzing and parallelizing computer vision algorithms.
+Advisors:  Kurt Keutzer
+BibTeX citation:
+@phdthesis{Sundaram:EECS-2012-106,
+Author= {Sundaram, Narayanan},
+Title= {Making computer vision computationally efficient},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-106.html},
+Number= {UCB/EECS-2012-106},
+Abstract= {Computational requirements for computer vision algorithms have been increasing dramatically at a rate of several orders of magnitude per decade. In fact, the growth in the size of datasets and computational demands for computer vision algorithms are outpacing Moore's law scaling. Meanwhile, parallelism has become the major driver of improvements in hardware performance. Even in such a scenario, there has been a lack of interest in parallelizing computer vision applications from vision domain experts whose main concern has been productivity. We believe that ignoring parallelism is no longer an option. Numerical optimization and parallelization are essential for current and future generation of vision applications to run on efficiently on parallel hardware.
+In this thesis, we describe the computational characteristics of computer vision workloads using patterns. We show examples of how careful numerical optimization has led to increased speedups on many computer vision and machine learning algorithms including support vector machines, optical flow, point tracking, image contour detection and video segmentation. Together, these application kernels appear in about 50% of computer vision applications, making them excellent targets for focusing our attention. We focus our efforts on GPUs, as they are the most parallel commodity hardware available today. GPUs also have high memory bandwidth which is useful as most computer vision algorithms are bandwidth bound. In conjunction with the advantages of GPUs for parallel processing, our optimizations (both numeric and low-level) have made the above mentioned algorithms practical to run on large data sets. We will also describe how these optimizations have enabled new, more accurate algorithms that previously would have been considered impractical. In addition to implementing computer vision algorithms on parallel platforms (GPUs and multicore CPUs), we propose tools to optimize the movement of data between the CPU and GPU.
+We have achieved speedups of 4-76x for support vector machine training, 4-372x for SVM classification, 37x for large displacement optical flow and 130x for image contour detection compared to serial implementations. A significant portion of the speedups in each case was obtained from algorithmic changes and numerical optimization. Better algorithms have improved performance not only on manycore platforms like GPUs, but also on multicore CPUs. In addition to achieving speedups on existing applications,  our tool for helping manage data movement between CPU and GPU has reduced runtime by a factor of 1.7-7.8x and the amount of data transferred by over 100x. Taken together, these tools and techniques serve as important guidelines for analyzing and parallelizing computer vision algorithms.},
+}
+EndNote citation:
+%0 Thesis
+%A Sundaram, Narayanan
+%T Making computer vision computationally efficient
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-106
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-106.html
+%F Sundaram:EECS-2012-106

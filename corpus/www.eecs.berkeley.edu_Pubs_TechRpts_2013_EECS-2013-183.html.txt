@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-183.html
+Control Improvisation with Application to Music
+Alexandre Donze and Sophie Libkind and Sanjit A. Seshia and David Wessel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-183
+November 4,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-183.pdf
+We introduce the concept of control improvisation, the process of generating a random sequence of control events guided by a reference sequence and satisfying a given specification. We propose a formal definition of the control improvisation problem and an empirical solution applied to the domain of music.  More specifically, we consider the scenario of generating a monophonic Jazz melody (solo) on a given song harmonization. The music is encoded symbolically, with the improviser generating a sequence of note symbols comprising pairs of pitches (frequencies) and discrete durations. Our approach can be decomposed roughly into two phases: a generalization phase, that learns from a training sequence (e.g., obtained from a human improviser) an automaton generating similar sequences, and a supervision phase that enforces a specification on the generated sequence, imposing constraints on the music in both the pitch and rhythmic domains. The supervision uses a measure adapted from Normalized Compression Distances (NCD) to estimate the divergence between generated melodies and the training melody and employs strategies to bound this divergence.  An empirical evaluation is presented on a sample set of Jazz music.
+BibTeX citation:
+@techreport{Donze:EECS-2013-183,
+Author= {Donze, Alexandre and Libkind, Sophie and Seshia, Sanjit A. and Wessel, David},
+Title= {Control Improvisation with Application to Music},
+Year= {2013},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-183.html},
+Number= {UCB/EECS-2013-183},
+Abstract= {We introduce the concept of control improvisation, the process of generating a random sequence of control events guided by a reference sequence and satisfying a given specification. We propose a formal definition of the control improvisation problem and an empirical solution applied to the domain of music.  More specifically, we consider the scenario of generating a monophonic Jazz melody (solo) on a given song harmonization. The music is encoded symbolically, with the improviser generating a sequence of note symbols comprising pairs of pitches (frequencies) and discrete durations. Our approach can be decomposed roughly into two phases: a generalization phase, that learns from a training sequence (e.g., obtained from a human improviser) an automaton generating similar sequences, and a supervision phase that enforces a specification on the generated sequence, imposing constraints on the music in both the pitch and rhythmic domains. The supervision uses a measure adapted from Normalized Compression Distances (NCD) to estimate the divergence between generated melodies and the training melody and employs strategies to bound this divergence.  An empirical evaluation is presented on a sample set of Jazz music.},
+}
+EndNote citation:
+%0 Report
+%A Donze, Alexandre
+%A Libkind, Sophie
+%A Seshia, Sanjit A.
+%A Wessel, David
+%T Control Improvisation with Application to Music
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 November 4
+%@ UCB/EECS-2013-183
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-183.html
+%F Donze:EECS-2013-183

@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-237.html
+Statistical Methods for Enhanced Metrology in Semiconductor/Photovoltaic Manufacturing
+Dekong Zeng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-237
+December 12,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-237.pdf
+As semiconductor technology is aggressively scaling to finer feature sizes, manufacturing complexity increases dramatically. This drives the need for extensive control on processing equipment and on the efficiency of the associated metrology. Similarly, in the field of photovoltaic (PV) manufacturing, processing technology is driven by cost reduction while increasing output power per cell. In either case, the variability impact on the final performance is critical.
+In this thesis, we focus on the application of statistical methods for enhanced metrology in both semiconductor and PV manufacturing. The work falls into three main topics: Wafer-to-Wafer (W2W) Virtual Metrology (VM) via predictive modeling, Site-to-Site (S2S) metrology modeling for Fault Detection and Classification (FDC), and predictive variability modeling for solar PV.
+The first topic is on creating predictive VM models for W2W control in plasma etching, one of the bottlenecked processes for technology node scaling. The idea is to utilize equipment sensor data to predict the wafer processing results, so that actual wafer measurements can be reduced or eliminated. VM comprises four main steps: data extraction, outlier removal, variable selection, and model creation. They aim to deal with the special characteristics of equipment sensor data which are high dimensional, collinear and non stationary. VM models are trained and tested with approximately one production year worth of wafer data collected from a single plasma etching tool. The best model result is obtained by a hybrid model that utilizes step-wsie parameter selection and Neural Network (NN) based prediction, which achieved a testing R^2≈0.75.
+The second topic aims to develop FDC schemes for wafer-level S2S metrology. We first focus on utilizing spatial and multivariate statistics for detecting outlier wafers. Spatial and multivariate methods are preferred given the temporal and spatial varying nature of wafer level metrology data. We then focus on selecting the optimal measurement sites for process monitoring. Various site selection schemes are evaluated within the FDC application, showing than more than 70% metrology savings with no discernable reduction in performance is possible.
+The third topic addresses modeling the variability of solar cells. The impact of environmental and manufacturing variability is simulated and discussed. A predictive model for manufacturing variability-induced mismatch power loss is proposed and evaluated with various PV array configurations. Finally, spatial statistics are used to model the non-uniformities of solar cell properties. A SPICE-based distributive solar cell simulator is constructed to estimate electrical performance for various defect distribution patterns. Finally, a statistical model is created in order to correlate the spatial characteristics of defect patterns with the corresponding electrical performance.
+Advisors:  Costas J. Spanos
+BibTeX citation:
+@phdthesis{Zeng:EECS-2012-237,
+Author= {Zeng, Dekong},
+Title= {Statistical Methods for Enhanced Metrology in Semiconductor/Photovoltaic Manufacturing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-237.html},
+Number= {UCB/EECS-2012-237},
+Abstract= {         As semiconductor technology is aggressively scaling to finer feature sizes, manufacturing complexity increases dramatically. This drives the need for extensive control on processing equipment and on the efficiency of the associated metrology. Similarly, in the field of photovoltaic (PV) manufacturing, processing technology is driven by cost reduction while increasing output power per cell. In either case, the variability impact on the final performance is critical.
+In this thesis, we focus on the application of statistical methods for enhanced metrology in both semiconductor and PV manufacturing. The work falls into three main topics: Wafer-to-Wafer (W2W) Virtual Metrology (VM) via predictive modeling, Site-to-Site (S2S) metrology modeling for Fault Detection and Classification (FDC), and predictive variability modeling for solar PV.
+The first topic is on creating predictive VM models for W2W control in plasma etching, one of the bottlenecked processes for technology node scaling. The idea is to utilize equipment sensor data to predict the wafer processing results, so that actual wafer measurements can be reduced or eliminated. VM comprises four main steps: data extraction, outlier removal, variable selection, and model creation. They aim to deal with the special characteristics of equipment sensor data which are high dimensional, collinear and non stationary. VM models are trained and tested with approximately one production year worth of wafer data collected from a single plasma etching tool. The best model result is obtained by a hybrid model that utilizes step-wsie parameter selection and Neural Network (NN) based prediction, which achieved a testing R^2≈0.75.
+The second topic aims to develop FDC schemes for wafer-level S2S metrology. We first focus on utilizing spatial and multivariate statistics for detecting outlier wafers. Spatial and multivariate methods are preferred given the temporal and spatial varying nature of wafer level metrology data. We then focus on selecting the optimal measurement sites for process monitoring. Various site selection schemes are evaluated within the FDC application, showing than more than 70% metrology savings with no discernable reduction in performance is possible.
+The third topic addresses modeling the variability of solar cells. The impact of environmental and manufacturing variability is simulated and discussed. A predictive model for manufacturing variability-induced mismatch power loss is proposed and evaluated with various PV array configurations. Finally, spatial statistics are used to model the non-uniformities of solar cell properties. A SPICE-based distributive solar cell simulator is constructed to estimate electrical performance for various defect distribution patterns. Finally, a statistical model is created in order to correlate the spatial characteristics of defect patterns with the corresponding electrical performance.},
+}
+EndNote citation:
+%0 Thesis
+%A Zeng, Dekong
+%T Statistical Methods for Enhanced Metrology in Semiconductor/Photovoltaic Manufacturing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 12
+%@ UCB/EECS-2012-237
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-237.html
+%F Zeng:EECS-2012-237

@@ -1,0 +1,13 @@
+URL: https://people.eecs.berkeley.edu/~ananth/229BSpr05/ldpcDesignPapers
+1.
+Analysis of sum-product decoding of low-density parity-check codes using
+a Gaussian approximation
+Sae-Young Chung; Richardson, T.J.; Urbanke, R.L.;
+Information Theory, IEEE Transactions on
+Volume 47,  Issue 2,  Feb 2001 Page(s):657 - 670
+2.
+On the design of low-density parity-check codes within 0.0045 dB of
+the Shannon limit
+Sae-Young Chung; Forney, G.D., Jr.; Richardson, T.J.; Urbanke, R.;
+Communications Letters, IEEE
+Volume 5,  Issue 2,  Feb 2001 Page(s):58 - 60

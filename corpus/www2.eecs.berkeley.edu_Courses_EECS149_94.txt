@@ -1,0 +1,22 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS149_94
+Course: EECS149_94 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EECS149_94
+EECS 149-001. Introduction to Embedded Systems
+Catalog Description:  This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects.
+Units:  4
+Course Objectives:  To learn how to model and design the joint dynamics of software, networks, and physical processes., To develop the skills to realize embedded systems that are safe, reliable, and efficient in their use of resources., To learn to think critically about technologies that are available for achieving such joint dynamics.
+Prerequisites:  COMPSCI 61C and COMPSCI 70; EECS 16A and EECS 16B, or permission of instructor.
+Formats:  Fall: 3.0 hours of lecture and  3.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  Alternative method of final assessment
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  EECS 149 introduces students to the design and analysis of computational systems that interact with physical processes (cyber-physical systems). Applications of such systems include medical devices and systems, consumer electronics, toys and games, assisted living, traffic control and safety, automotive systems, process control, energy management and conservation, environmental control, aircraft control systems, communications systems, instrumentation, critical infrastructure control (electric power, water resources, and communications systems for example), robotics and distributed robotics (telepresence, telemedicine), defense systems, manufacturing, and smart structures.
+A major theme of this course is on the interplay of practical design with formal models of systems, including both software components and physical dynamics. A major emphasis is on building high confidence systems with real-time and concurrent behaviors.
+Main class web page:  http://chess.eecs.berkeley.edu/eecs149/ .
+Related Areas:
+Cyber-Physical Systems and Design Automation (CPSDA)

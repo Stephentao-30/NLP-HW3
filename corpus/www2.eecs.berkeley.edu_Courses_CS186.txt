@@ -1,0 +1,28 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS186
+CS 186. Introduction to Database Systems
+Catalog Description:  Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction to transaction processing. Database system implementation to be done as term project.
+Units:  4
+Related Areas:
+Database Management Systems (DBMS)
+Prerequisites:  COMPSCI 61C or COMPSCI 47C. COMPSCI 47C may be taken as a co-requisite for transfer students.
+Credit Restrictions:  Students will receive no credit for COMPSCI 186 after completing COMPSCI W186. A deficient grade in COMPSCI 186 may be removed by taking COMPSCI W186.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 186 –                MoWe 10:00-11:29, Soda 306 –
+Alvin Cheung ,  Natacha Crooks Class Notes
+- Time conflicts ARE allowed.
+- The in-person lecture will be recorded for playback later.
+- Final exams are IN PERSON ON CAMPUS only!
+- One alternate final timeslot will be offered, which will be right after the main final. This will be the ONLY alternate final offered (barring DSP exceptions, which will be worked out with the DSP office on an individual basis)
+- Prerequisites will be enforced at time of enrollment: CS 61C or CS 47C. Passing one of these classes with a C- or better is required to enroll.
+- Students who have prerequisites in progress at the time of enrollment are allowed to enroll. At the end of phase 2, staff will conduct a prerequisite check. Students who didn't pass will be dropped.
+- CS 47C may be taken as a co-requisite for transfer students.
+- Seats reserved for students with enrollment permission are not open. They are reserved for students in internal programs. Please DO NOT ask faculty or staff for one of these seats. The students who qualify have already been notified.
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

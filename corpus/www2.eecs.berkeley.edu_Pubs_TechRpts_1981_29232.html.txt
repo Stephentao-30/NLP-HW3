@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29232.html
+Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits
+Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits
+Giovami De Micheli and Alberto Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/25
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-25.pdf
+BibTeX citation:
+@techreport{De Micheli:M81/25,
+Author = {De Micheli, Giovami and Sangiovanni-Vincentelli, Alberto},
+Title = {Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29232.html},
+Number = {UCB/ERL M81/25}
+}
+EndNote citation:
+%0 Report
+%A De Micheli, Giovami
+%A Sangiovanni-Vincentelli, Alberto
+%T Numerical Properties of Algorithms for the Timing Analysis of MOS VLSI Circuits
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/25
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29232.html
+%F De Micheli:M81/25

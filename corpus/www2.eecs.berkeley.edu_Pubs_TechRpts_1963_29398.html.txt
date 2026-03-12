@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29398.html
+Sample Trajectory Calculations Using a Digital Computer Program | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Sample Trajectory Calculations Using a Digital Computer Program
+Sample Trajectory Calculations Using a Digital Computer Program
+J.M. Owens, G. Nirdlinger, N.R. Mantena, R.A. Rao and T.Van Duzer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M34
+October 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-34.pdf
+BibTeX citation:
+@techreport{Owens:M34,
+Author = {Owens, J.M. and Nirdlinger, G. and Mantena, N.R. and Rao, R.A. and Duzer, T.Van},
+Title = {Sample Trajectory Calculations Using a Digital Computer Program},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29398.html},
+Number = {UCB/ERL M34}
+}
+EndNote citation:
+%0 Report
+%A Owens, J.M.
+%A Nirdlinger, G.
+%A Mantena, N.R.
+%A Rao, R.A.
+%A Duzer, T.Van
+%T Sample Trajectory Calculations Using a Digital Computer Program
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29398.html
+%F Owens:M34

@@ -1,0 +1,236 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012
+Technical Reports - 2012
+Multi-agent Cluster Scheduling for Scalability and Flexibility  (EECS-2012-273) Andrew Konwinski
+Statistical algorithms in the study of mammalian DNA methylation  (EECS-2012-272) Meromit Singer
+Mobility in Wireless Sensor Networks  (EECS-2012-270) Ankur Mukesh Mehta
+An Optimized Distributed Video-on-Demand Streaming System: Theory and Design  (EECS-2012-269) Kang Wook Lee
+The Art of Digital Publishing: A foundation of combined standards to support the future of publishing  (EECS-2012-268) Daniel Lynch
+Effect of Periodic Virtual Metrology Recalibration on Blended Metrology Schemes  (EECS-2012-267) Jae Yeon (Claire) Baek
+A High Accuracy, Low-latency, Scalable Microphone-array System for Conversation Analysis  (EECS-2012-266) David Qin Sun
+Solid State Tesla Coils and Their Uses  (EECS-2012-265) Sean Soleyman
+Temperature Compensation of Aluminum Nitride Lamb Wave Resonators Utilizing the Lowest-Order Symmetric Mode  (EECS-2012-264) Chih-Ming Lin
+Database Operations Using Asynchronous Remote Method Invocation  (EECS-2012-263) James Sproch
+InP-based Long Wavelength VCSEL using High Contrast Grating  (EECS-2012-261) Yi Rao
+Nano-Optoelectronic Integration on Silicon  (EECS-2012-260) Roger Chen
+Discretized Streams: A Fault-Tolerant Model for Scalable Stream Processing  (EECS-2012-259) Matei Zaharia, Tathagata Das, Haoyuan Li, Timothy Hunter, Scott Shenker and Ion Stoica
+Communication-Avoiding Optimization of Geometric Multigrid on GPUs  (EECS-2012-258) Amik Singh
+Randomized Algorithms for Scalable Machine Learning  (EECS-2012-257) Ariel Jacob Kleiner
+Designing a Voting Machine for Testing and Verification  (EECS-2012-253) Cynthia Sturton
+Convex Approaches to Text Summarization  (EECS-2012-252) Brian Christopher Gawalt
+Electromagnetic Inverse Design of Light Trapping Textures for Subwavelength Thick Solar Cells  (EECS-2012-251) Vidya Ganapati
+Techniques for Machine Understanding of Live Drum Performances  (EECS-2012-250) Eric Battenberg
+Implantable Miniaturized Glucose Fuel Cell  (EECS-2012-249) Hoai Chau Nguyen Van
+Inverse Electromagnetic Design of Optical Antennas for Heat-Assisted Magnetic Recording  (EECS-2012-248) Samarth Bhargava
+Location Privacy: User Behavior in the Field  (EECS-2012-247) Andrew Fisher
+Promoting Learning of Instructional Design via Overlay Design Tools  (EECS-2012-246) Andy Carle
+HTTPS Vulnerability to Fine Grain Traffic Analysis  (EECS-2012-245) Bradley Miller
+Language and Framework Support for Reviewably-Secure Software Systems  (EECS-2012-244) Adrian Mettler
+Active Testing: Predicting and Confirming Concurrency Bugs for Concurrent and Distributed Memory Parallel Systems  (EECS-2012-243) Chang Seo Park
+On-board Model Predictive Control of a Quadrotor Helicopter: Design, Implementation, and Experiments  (EECS-2012-241) Patrick Bouffard
+Future Architectures for Middlebox Processing Services on the Internet and in the Cloud  (EECS-2012-240) Justine Sherry
+Optimal Search Algorithms for Structured Problems in Natural Language Processing  (EECS-2012-239) Adam David Pauls
+Statistical Methods for Enhanced Metrology in Semiconductor/Photovoltaic Manufacturing  (EECS-2012-237) Dekong Zeng
+Firm Software Parallelism: Building a measure of how firms will be impacted by the changeover to multicore chips  (EECS-2012-236) Neil Thompson
+Graph Algorithms in the Internet Age  (EECS-2012-235) Isabelle Stanton
+Investigating the Design and Development of Multitouch Applications  (EECS-2012-233) Kenrick Kin
+Analysis and Enforcement of Web Application Security Policies  (EECS-2012-232) Joel Weinberger
+Measuring User Confidence in Smartphone Security and Privacy  (EECS-2012-231) Erika Chin
+Private Media Search on Public Databases  (EECS-2012-230) Giulia Fanti
+An Optimized Video-on-Demand System: Theory, Design and Implementation  (EECS-2012-229) Hao Zhang
+Multi-level Debugging for Multi-stage, Parallelizing Compilers  (EECS-2012-227) Richard Xia, Tayfun Elmas, Shoaib Ashraf Kamil, Armando Fox and Koushik Sen
+Lightweight Specifications for Parallel Correctness  (EECS-2012-226) Jacob Burnim
+Calibration Techniques for Time-Interleaved SAR A/D Converters  (EECS-2012-225) Dusan Stepanovic
+Tools & Strategies for Social Data Analysis  (EECS-2012-224) Wesley Jay Willett
+Effectiveness of Strain Solutions for Next-Generation MOSFETs  (EECS-2012-223) Nuo Xu
+Engineering Autonomous Chemomechanical Nanomachines Using Brownian Ratchets  (EECS-2012-221) Gabriel Lavella
+Architectural Principles of Phosphorelay Signaling Networks  (EECS-2012-220) Josh Hug
+Towards a Synthesizable Standard-Cell Radio  (EECS-2012-219) Richard Yu-Kuwan Su and Kristofer Pister
+High-Q Low-Impedance MEMS Resonators  (EECS-2012-218) Li-Wen Hung and Clark Nguyen
+Model Order Reduction of Nonlinear Dynamical Systems  (EECS-2012-217) Chenjie Gu
+Replay Debugging for the Datacenter  (EECS-2012-216) Gautam Altekar
+Autotuning Sparse Matrix-Vector Multiplication for Multicore  (EECS-2012-215) Jong-Ho Byun, Richard Lin, Katherine A. Yelick and James Demmel
+Shark: SQL and Rich Analytics at Scale  (EECS-2012-214) Reynold Shi Xin, Joshua Rosen, Matei Zaharia, Michael Franklin, Scott Shenker and Ion Stoica
+Evolutionary MOSFET Structure and Channel Design for Nanoscale CMOS Technology  (EECS-2012-213) Byron Ho
+Static Model Analysis with Lattice-based Ontologies  (EECS-2012-212) Ben Lickly
+A Million Cancer Genome Warehouse  (EECS-2012-211) David Haussler, David A. Patterson, Mark Diekhans, Armando Fox, Michael Jordan, Anthony D. Joseph, Singer Ma, Benedict Paten, Scott Shenker, Taylor Sittler and Ion Stoica
+Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions  (EECS-2012-210) Edgar Solomonik, Devin Matthews, Jeff Hammond and James Demmel
+Mid-level Features Improve Recognition of Interactive Activities  (EECS-2012-209) Kate Saenko, Ben Packer, C.-Y. Chen, S. Bandla, Y. Lee, Yangqing Jia, J.-C. Niebles, D. Koller, L. Fei-Fei, K. Grauman and Trevor Darrell
+Cake: Enabling High-level SLOs on Shared Storage Systems  (EECS-2012-208) Andrew Wang, Shivaram Venkataraman, Sara Alspaugh, Randy H. Katz and Ion Stoica
+The TerraSwarm Research Center (TSRC) (A White Paper)  (EECS-2012-207) Edward A. Lee, John D. Kubiatowicz, Jan M. Rabaey, Alberto L. Sangiovanni-Vincentelli, Sanjit A. Seshia, John Wawrzynek, David Blaauw, Prabal Dutta, Kevin Fu, Carlos Guestrin, Roozbeh Jafari, Doug Jones, Vijay Kumar, Richard Murray, George Pappas, Anthony Rowe, Carl M. Sechen, Tajana Simunic Rosing, Ben Taskar and David Wessel
+Predictive and Programmable Testing of Concurrent and Cloud Systems  (EECS-2012-206) Pallavi Joshi
+Communication-Optimal Parallel Recursive Rectangular Matrix Multiplication  (EECS-2012-205) James Demmel, David Eliahu, Armando Fox, Shoaib Ashraf Kamil, Benjamin Lipshitz, Oded Schwartz and Omer Spillinger
+Long range dependent models in information theory  (EECS-2012-204) Barlas Oguz
+Automatic Generation Of Application-Specific Accelerators for FPGAs from Python Loop Nests  (EECS-2012-203) David Sheffield, Michael Anderson and Kurt Keutzer
+Visually-Grounded Bayesian Word Learning  (EECS-2012-202) Yangqing Jia, Joshua Abbott, Joseph Austerweil, Thomas Griffiths and Trevor Darrell
+Enabling Rural Connectivity with SDN  (EECS-2012-201) Shaddi Hasan, Yahel Ben David, Robert Colin Scott, Eric Brewer and Scott Shenker
+Regular Homotopies of Low-Genus Non-Orientable Surfaces  (EECS-2012-200) Carlo H. Séquin
+Parallel Application Library for Object Recognition  (EECS-2012-199) Bor-Yiing Su
+Algorithmic Approaches to Statistical Questions  (EECS-2012-198) Gregory Valiant
+A Residual Replacement Strategy for Improving the Maximum Attainable Accuracy of s-step Krylov Subspace Methods  (EECS-2012-197) Erin Carson and James Demmel
+Computational Tool for Cyber-Physical Systems  (EECS-2012-196) Humberto Gonzalez
+Using Mobile Technology and Social Networking to Crowdsource Citizen Science  (EECS-2012-195) Christine Robson
+Graph Expansion Analysis for Communication Costs of Fast Rectangular Matrix Multiplication  (EECS-2012-194) Grey Ballard, James Demmel, Olga Holtz, Benjamin Lipshitz and Oded Schwartz
+Attacks on Emerging Architectures  (EECS-2012-193) Steve Hanna
+Experimental and Simulation Study of Resistive Switches for Memory Applications  (EECS-2012-192) Feng Pan
+Design Contracts for Cyber-Physical Systems: Making Timing Assumptions Explicit  (EECS-2012-191) Martin Toerngren, Stavros Tripakis, Patricia Derler and Edward A. Lee
+Decision Feedback Equalizer Design for 60GHz Mobile Transceivers  (EECS-2012-190) Chintan Thakkar
+Semi-Definite Programming Relaxation for Non-Line-of-Sight Localization  (EECS-2012-189) Venkatesan Ekambaram, Giulia Fanti and Kannan Ramchandran
+SLAC-RF: Simultaneous 3D Localization of mobile readers and Calibration of RFID supertags  (EECS-2012-188) Venkatesan Ekambaram and Kannan Ramchandran
+Syntactic Agreement in Bilingual Corpora  (EECS-2012-187) David Burkett
+Single Program, Multiple Data Programming for Hierarchical Computations  (EECS-2012-186) Amir Ashraf Kamil
+Towards Comprehensible and Effective Permission Systems  (EECS-2012-185) Adrienne Porter Felt
+Coflow: An Application Layer Abstraction for Cluster Networking  (EECS-2012-184) Mosharaf Chowdhury and Ion Stoica
+A Team Analysis Proposal for Recursive Single Program, Multiple Data Programs  (EECS-2012-183) Amir Ashraf Kamil
+Reducing Attack Surfaces for Intra-Application Communication in Android  (EECS-2012-182) David Kantola, Erika Chin, Warren He and David Wagner
+Solving Parallel Equations with BALM-II  (EECS-2012-181) G. Castagnetti, M. Piccolo, T. Villa, N. Yevtushenko, A. Mishchenko and Robert K. Brayton
+What, Where, and When: Software Fault Localization for SDN  (EECS-2012-178) Robert Colin Scott, Andreas Wundsam, Kyriakos Zarifis and Scott Shenker
+Scalable Test Data Generation from Multidimensional Models  (EECS-2012-177) Emina Torlak
+Thin-Body SOI Capacitorless DRAM Cell Design Optimization and Scaling  (EECS-2012-176) MIN CHO
+Netcalls: End Host Function Calls to Network Traffic Processing Services  (EECS-2012-175) Justine Sherry, Daniel C. Kim, Seshadri S. Mahalingam, Amy Tang, Steve Wang and Sylvia Ratnasamy
+From TPC-C to Big Data Benchmarks: A Functional Workload Model  (EECS-2012-174) Yanpei Chen, Francois Raab and Randy H. Katz
+Modelyze: a Gradually Typed Host Language for Embedding Equation-Based Modeling Languages  (EECS-2012-173) David Broman and Jeremy G. Siek
+Can Motion Features Inform Video Aesthetic Preferences?  (EECS-2012-172) Scott Chung, Jonathan Sammartino, Jiamin Bai and Brian A. Barsky
+Confluence Analysis for Distributed Programs: A Model-Theoretic Approach  (EECS-2012-171) William Marczak, Peter Alvaro, Neil Conway, Joseph M. Hellerstein and David Maier
+Systematic Techniques for Finding and Preventing Script Injection Vulnerabilities  (EECS-2012-170) Prateek Saxena
+Computational Trade-offs in Statistical Learning  (EECS-2012-169) Alekh Agarwal
+Instrumenting Linear Algebra Energy Consumption via On-chip Energy Counters  (EECS-2012-168) James Demmel and Andrew Gearhart
+Logic and Lattices for Distributed Programming  (EECS-2012-167) Neil Conway, William Marczak, Peter Alvaro, Joseph M. Hellerstein and David Maier
+Multi-Resource Fair Queueing for Packet Processing  (EECS-2012-166) Ali Ghodsi, Vyas Sekar, Matei Zaharia and Ion Stoica
+Bending and Torsion Minimization of Toroidal Loops  (EECS-2012-165) Avik Das
+On Tokens and Signals: Bridging the Semantic Gap between Dataflow Models and Hardware Implementations  (EECS-2012-164) Stavros Tripakis, Rhishikesh Limaye, Kaushik Ravindran and Guoqiang Wang
+Adaptive Time Synchronization and Frequency Channel Hopping for Wireless Sensor Networks  (EECS-2012-163) Branko Kerkez
+Dr.Chi  (EECS-2012-162) Yuan Yang
+CrowdBrush: A Mobile Photo Editing Application with a Crowd Inside  (EECS-2012-161) Yin-Chia Yeh
+Mobile Health Monitoring: The Glucose Intelligence Solution  (EECS-2012-160) Chun Ming Chin
+Crowdsourced Rotoscoping  (EECS-2012-159) Hanzhong Ye
+NetApp Autosupport Analysis  (EECS-2012-158) Junwei Da
+Ballbot: A Low-Cost Robot for Tennis Ball Retrieval  (EECS-2012-157) John Wang
+Analysis of LED Technologies for Solid State Lighting Markets  (EECS-2012-156) Cheng-Chih Hsieh
+Impacting the Future of Diabetes Management  (EECS-2012-155) Nathan Collingridge
+Energy Harvesting for Wireless Power Monitoring - Implementing a Low Power, Low Data Rate Wireless Network (OpenWSN)  (EECS-2012-154) David Stanislowski
+Evaluation of Visible and Invisible Fiducial Markers for Clothing Tracking  (EECS-2012-153) Siyu E
+Outlet Power Monitoring Using Wireless Sensor Networks  (EECS-2012-152) Ameer Ellaboudy
+Pulse Reading Mobile Application: Dr. Chi  (EECS-2012-150) Tianyu Fu
+HydraScope: Interaction and Application of Wall Sized Display  (EECS-2012-149) Hong Wu
+BayScope  (EECS-2012-148) Yun Jin
+Low-Power Spectrum Sensing for Cognitive Radio Applications  (EECS-2012-146) Xiao Xiao
+Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots  (EECS-2012-145) Mallory Tayson-Frederick
+High Frequency Trading: Price Dynamics Models and Market Making Strategies  (EECS-2012-144) Cheng Lu
+Dr. Chi  (EECS-2012-143) Xi Peng
+Analysis of LED Technologies for Solid State Lighting Markets  (EECS-2012-142) Guannan Wang
+Energy Harvesting for Wireless Sensor Networks  (EECS-2012-141) Vincent Lee
+Estimating and Reconstructing a T-Shirt’s Configuration into Simulation through Tracking Fiduciary Markers for the Purpose of Laundry Folding  (EECS-2012-140) Ruben Zhao
+Diabeats: Empowering Diabetics to Live Smartly  (EECS-2012-139) Rohan Nagesh
+Analysis of LED Technologies for Solid State Lighting Markets  (EECS-2012-138) Emmanuel Chao
+CrowdBrush: A mobile photo-editing application with a crowd inside  (EECS-2012-136) Suryaveer Lodha
+HYDRASCOPE: ADAPTING EXISTING WEB APPLICATIONS FOR MULTI-­DISPLAY WALLS  (EECS-2012-135) Viraj Kulkarni and Björn Hartmann
+Food Fight: A Social Diet Network Mobile Application  (EECS-2012-133) Tony Chang
+Clothing Simulation of LaundryBot  (EECS-2012-132) Wei Wang
+Non-Contact Wireless Power Monitoring  (EECS-2012-131) Ankur Aggarwal
+High-Frequency Trading  (EECS-2012-130) Xin Guo
+Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots  (EECS-2012-129) Nicolas Zeitlin
+Searching for a Scalable Solution to Diabetes Management  (EECS-2012-128) Kevin Tseng
+Study of Reinforcement Learning Methods to Enable Automatic Tuning of State of The Art Legged Robots  (EECS-2012-127) Zihong Lian
+Perfect strong scaling using no additional energy  (EECS-2012-126) James Demmel, Andrew Gearhart, Oded Schwartz and Benjamin Lipshitz
+Model-based Bayesian Seismic Monitoring  (EECS-2012-125) Nimar S Arora
+Recognition Using Regions  (EECS-2012-124) Chunhui Gu
+Ultra-sensitive SiGe Bipolar Phototransistors for Optical Interconnects  (EECS-2012-123) Michael Roe
+Single View Pose Estimation of Mobile Devices in Urban Environments  (EECS-2012-122) Aaron Hallquist
+CrowdMine: Towards Crowdsourced Human-Assisted Verification  (EECS-2012-121) Wenchao Li, Sanjit A. Seshia and Somesh Jha
+A CMOS Magnetic Sensor Chip for Biomedical Applications  (EECS-2012-119) Paul Liu
+0.35 μm CMOS Process on Six-Inch Wafers: The First Baseline Run in the New Marvell NanoLab,  Baseline Report VIII.  (EECS-2012-118) A. Szűcs
+Photonic Design: From Fundamental Solar Cell Physics to Computational Inverse Design  (EECS-2012-115) Owen Miller
+Composable Flexible Real-time Packet Scheduling for Networks on-Chip  (EECS-2012-114) Dai Bui and Edward A. Lee
+Precision Timed Machines  (EECS-2012-113) Isaac Liu
+Fantasktic: Improving Quality of Results for Novice Crowdsourcing Users  (EECS-2012-112) Philipp Gutheim and Björn Hartmann
+Juxtapp and DStruct: Detection of Similarity Among Android Applications  (EECS-2012-111) Saung Li
+Structured Estimation in High-Dimensions  (EECS-2012-110) Sahand N Negahban
+A Multimodal Approach to Automatic Geo-Tagging of Video  (EECS-2012-109) Jaeyoung Choi
+Reducing Cluster Energy Consumption through Workload Management  (EECS-2012-108) Sara Alspaugh
+Making computer vision computationally efficient  (EECS-2012-106) Narayanan Sundaram
+Tuning Hardware and Software for Multiprocessors  (EECS-2012-103) Marghoob Mohiyuddin
+A CMOS Magnetic Sensor Chip for Biomedical Applications  (EECS-2012-102) Paul Liu
+REGIS: A Tool for Building and Distributing Personalized Practice Problems  (EECS-2012-101) Albert Segars
+Automated Tuberculosis Diagnosis Using Fluorescence Images from a Mobile Microscope  (EECS-2012-100) Jeannette Chang
+Matrix Factorization and Matrix Concentration  (EECS-2012-99) Lester Mackey
+Structured Codes in Information Theory: MIMO and Network Applications  (EECS-2012-98) Jiening Zhan
+Reinventing the PN junction: Dimensionality Effects on Tunneling Switches  (EECS-2012-97) Sapan Agarwal
+Communication-Efficient Distributed Stochastic Gradient Descent with Butterfly Mixing  (EECS-2012-96) Huasha Zhao and John F. Canny
+Auto-tuning the Matrix Powers Kernel with SEJITS  (EECS-2012-95) Jeffrey Morlan
+Image Cropping: Collection and Analysis of Crowdsourced Data  (EECS-2012-94) Sally Ahn
+Protocol-Independent Compression for Resource-Constrained Wireless Networks  (EECS-2012-93) Travis Massey and Kristofer Pister
+A Constraint-Aware Motion Planning Algorithm for Robotic Folding of Clothes  (EECS-2012-92) Apoorva Sachdev
+Communication-Avoiding Parallel Strassen: Implementation and Performance  (EECS-2012-90) Benjamin Lipshitz, Grey Ballard, Oded Schwartz and James Demmel
+Linear, Low Noise Microwave Photonic Systems using Phase and Frequency Modulation  (EECS-2012-89) John Wyrwas
+Germanium-Source Tunnel Field Effect Transistors for Ultra-Low Power Digital Logic  (EECS-2012-87) Sung Hwan Kim
+Band-to-Band Tunnel Transistor Design and Modeling for Low Power Applications  (EECS-2012-86) Kanghoon Jeon
+The Berkeley 3D Object Dataset  (EECS-2012-85) Allison Janoch
+Organic and Printed Electronics for Biological Microfluidic Applications  (EECS-2012-84) Lakshmi Jagannathan
+Re-optimizing Data Parallel Computing  (EECS-2012-83) Sameer Agarwal
+Cooperative Non-Line-of-Sight Localization Using Low-rank + Sparse Matrix Decomposition  (EECS-2012-82) Venkatesan Ekambaram and Kannan Ramchandran
+Methods for Reachability-based Hybrid Controller Design  (EECS-2012-80) Jerry Ding
+Resource Allocation and Scheduling in Heterogeneous Cloud Environments  (EECS-2012-78) Gunho Lee
+A Stable Algorithm for Non-Negative Invariant Numerical Solution of Reaction-Diffusion Systems on Complicated Domains  (EECS-2012-77) Insoon Yang
+Analysis and Design of a High Speed Delta-Sigma Modulator for mm-Wave Imaging Applications  (EECS-2012-76) Juan Yaquian and Ali Niknejad
+Workload-Driven Design and Evaluation of Large-Scale Data-Centric Systems  (EECS-2012-73) Yanpei Chen
+We Don't Know Enough to make a Big Data Benchmark Suite - An Academia-Industry View  (EECS-2012-71) Yanpei Chen
+I’ve Got 99 Problems, But Vibration Ain’t One: A Survey of Smartphone Users’ Concerns  (EECS-2012-70) Adrienne Porter Felt, Serge Egelman and David Wagner
+Optimal Camera Placement  (EECS-2012-69) Avital Steinitz
+Monte Carlo Methods for Multiple Target Tracking and Parameter Estimation  (EECS-2012-68) Daniel Duckworth
+Using Program Analysis to Reduce Misconfiguration in Open Source Systems Software  (EECS-2012-67) Ariel Rabkin
+Communication Avoiding and Overlapping for Numerical Linear Algebra  (EECS-2012-65) Evangelos Georganas, Jorge González-Domínguez, Edgar Solomonik, Yili Zheng, Juan Touriño and Katherine A. Yelick
+Labelled Execution Systems  (EECS-2012-64) Eleftherios Matsikoudis and Edward A. Lee
+Cooperative Multiplexing in Wireless Relay Networks  (EECS-2012-63) Vinayak Nagpal
+Metal-optic and Plasmonic Semiconductor-based Nanolasers  (EECS-2012-62) Amit Lakhani
+High-Performance Analysis of Filtered Semantic Graphs  (EECS-2012-61) Aydin Buluc, Armando Fox, John Gilbert, Shoaib Ashraf Kamil, Adam Lugowski, Leonid Oliker and Samuel Williams
+Software Synthesis for Distributed Embedded Systems  (EECS-2012-60) Yang Yang
+Symbolic Grey-Box Learning of Input-Output Relations  (EECS-2012-59) Domagoj Babic, Matko Botincan and Dawn Song
+Optical Injection Locking of Vertical Cavity Surface-Emitting Lasers: Digital and Analog Applications  (EECS-2012-57) Devang Parekh
+Speech Analysis Methodologies towards Unobtrusive Mental Health Monitoring  (EECS-2012-55) Keng-hao Chang
+Efficient Parallelization of Natural Language Applications using GPUs  (EECS-2012-54) Chao-Yue Lai
+Algorithms and Representations for Visual Recognition  (EECS-2012-53) Subhransu Maji
+Poselets and Their Applications in High-Level Computer Vision  (EECS-2012-52) Lubomir Bourdev
+Design, Fabrication and Testing of Angled Fiber Suspension for Electrostatic Actuators  (EECS-2012-51) Bryan Edward Schubert
+Advanced MOSFET Designs and Implications for SRAM Scaling  (EECS-2012-50) Changhwan Shin
+Cortical Microstimulation for Neural Prostheses  (EECS-2012-49) Subramaniam Venkatraman
+Fully Integrated Complementary Metal Oxide Semiconductor (CMOS) Bio-Assay Platform  (EECS-2012-48) Octavian Florescu
+An Automatic Speech Recognition Application Framework for Highly Parallel Implementations on the GPU  (EECS-2012-47) Jike Chong, Ekaterina Gonina, Dorothea Kolossa, Steffen Zeiler and Kurt Keutzer
+Transfer-printed Electrodes for Colloidal Nanocrystal Solar Cells Utilizing “Soft” Polydimethylsiloxane Stamps  (EECS-2012-45) Sarah Swisher
+Midas: Fabricating Custom Capacitive Touch Sensors to Prototype Interactive Objects  (EECS-2012-43) Valkyrie Savage, Xiaohan Zhang and Björn Hartmann
+How Users Understand Cellular Infrastructure  (EECS-2012-42) Kurtis Heimerl and Tapan S. Parikh
+Multivariate pattern analysis of anatomic, physiologic, and metabolic imaging data for improved management of patients with gliomas  (EECS-2012-41) Alexandra Constantin
+Understanding TCP Incast and Its Implications for Big Data Workloads  (EECS-2012-40) Yanpei Chen, Rean Griffit, David Zats and Randy H. Katz
+High Optical Quality Polycrystalline Indium Phosphide Grown on Metal Substrates by MOCVD for Photovoltaic Applications  (EECS-2012-39) Maxwell Zheng
+The MADlib Analytics Library or MAD Skills, the SQL  (EECS-2012-38) Joseph M. Hellerstein, Christopher Ré, Florian Schoppmann, Zhe Daisy Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li and Arun Kumar
+Interactive Query Processing in Big Data Systems: A Cross Industry Study of MapReduce Workloads  (EECS-2012-37) Yanpei Chen, Sara Alspaugh and Randy H. Katz
+Sequential Communication Bounds for Fast Linear Algebra  (EECS-2012-36) Grey Ballard, James Demmel, Olga Holtz and Oded Schwartz
+Sweet Storage SLOs with Frosting  (EECS-2012-35) Andrew Wang, Shivaram Venkataraman, Sara Alspaugh, Ion Stoica and Randy H. Katz
+An All-Fragments Grammar for Simple and Accurate Parsing  (EECS-2012-34) Mohit Bansal and Daniel Klein
+DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks  (EECS-2012-33) David Zats, Tathagata Das, Prashanth Mohan, Dhruba Borthakur and Randy H. Katz
+Communication-Optimal Parallel Algorithm for Strassen’s Matrix Multiplication  (EECS-2012-32) Grey Ballard, James Demmel, Olga Holtz, Benjamin Lipshitz and Oded Schwartz
+Strong Scaling of Matrix Multiplication Algorithms and Memory-Independent Communication Lower Bounds  (EECS-2012-31) Grey Ballard, James Demmel, Olga Holtz, Benjamin Lipshitz and Oded Schwartz
+A preliminary analysis of Cyclops Tensor Framework  (EECS-2012-29) Edgar Solomonik, Jeff Hammond and James Demmel
+Matrix multiplication on multidimensional torus networks  (EECS-2012-28) Edgar Solomonik and James Demmel
+A model and framework for reliable build systems  (EECS-2012-27) Derrick Coetzee, Anand Bhaskar and George Necula
+Android Permissions: User Attention, Comprehension, and Behavior  (EECS-2012-26) Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin and David Wagner
+Sequential Decision Making in Non-stochastic Environments  (EECS-2012-25) Jacob Abernethy
+A Survey of Enterprise Middlebox Deployments  (EECS-2012-24) Justine Sherry and Sylvia Ratnasamy
+Nanomagnetic Logic  (EECS-2012-22) David Carlton
+Experiences Integrating Building Data with sMAP  (EECS-2012-21) Stephen Dawson-Haggerty, Andrew Krioukov and David E. Culler
+Hierarchical Additions to the SPMD Programming Model  (EECS-2012-20) Amir Ashraf Kamil and Katherine A. Yelick
+Minimizing communication in all-pairs shortest-paths  (EECS-2012-19) Edgar Solomonik, Aydin Buluc and James Demmel
+Coherent Porous Silicon Wick for a MEMS Loop Heat Pipe  (EECS-2012-18) Navdeep Singh Dhillon
+Design Insights for MapReduce from Diverse Production Workloads  (EECS-2012-17) Yanpei Chen, Sara Alspaugh and Randy H. Katz
+Don't Look Back: Post-hoc Category Detection via Sparse Reconstruction  (EECS-2012-16) Hyun Oh Song, Mario Fritz, Tim Althoff and Trevor Darrell
+LU Factorization with Panel Rank Revealing Pivoting and Its Communication Avoiding Version  (EECS-2012-15) Amal Khabou, James Demmel, Laura Grigori and Ming Gu
+Incentives, Computation, and Networks: Limitations and Possibilities of Algorithmic Mechanism Design  (EECS-2012-14) Yaron Singer
+Design and Evaluation of an Energy Agile Computing Cluster  (EECS-2012-13) Andrew Krioukov, Sara Alspaugh, Prashanth Mohan, Stephen Dawson-Haggerty, David E. Culler and Randy H. Katz
+Hypervisors as a Foothold for Personal Computer Security: An Agenda for the Research Community  (EECS-2012-12) Matei Zaharia, Sachin Katti, Chris Grier, Vern Paxson, Scott Shenker, Ion Stoica and Dawn Song
+Characterization of Variability in Deeply-Scaled Fully Depleted SOI Devices  (EECS-2012-11) Aikaterini Papadopoulou
+Zn Gas-Phase Doping of InAs Nanostructures  (EECS-2012-8) Steven Chuang
+On-chip Benchmarking and Calibration without External References  (EECS-2012-7) Cheol-Woong Lee
+Provably stable, distributed file sharing protocols  (EECS-2012-6) Barlas Oguz
+HTTP: An Evolvable Narrow Waist for the Future Internet  (EECS-2012-5) Lucian Popa, Patrick Wendell, Ali Ghodsi and Ion Stoica
+Probabilistically Bounded Staleness for Practical Partial Quorums  (EECS-2012-4) Peter Bailis, Shivaram Venkataraman, Joseph M. Hellerstein, Michael Franklin and Ion Stoica
+Data-driven Techniques for Improving Data Collection in Low-resource Environments  (EECS-2012-1) Kuang Chen
+Design Considerations for CMOS-Integrated Hall-effect Magnetic Bead Detectors for Biosensor Applications  () Karl Ryszard Skucha

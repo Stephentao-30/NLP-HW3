@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-108.html
+Reducing Cluster Energy Consumption through Workload Management
+Sara Alspaugh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-108
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-108.pdf
+Energy consumption is a major and costly problem in data centers. For many workloads, a large fraction of energy goes to powering idle machines that are not doing any useful work. There are two causes of this inefficiency: low server utilization and a lack of power proportionality. We focus on addressing this problem for two workloads: (1) a traditional, front-end web server workload and (2) an emerging class of analytics workload containing both batch jobs and interactive queries. For the web server workload of the first study, we present NapSAC, a design for a power-proportional cluster consisting of a power-aware cluster manager and a set of heterogeneous machines. Our design makes use of currently available energy-efficient hardware, mechanisms for transitioning in and out of low-power sleep states, and dynamic provisioning and scheduling to continually adjust to workload and minimize power consumption. We build a prototype cluster which runs Wikipedia to demonstrate the use of our design in a real environment. For the MapReduce workload in the second study, we develop BEEMR (Berkeley Energy Efficient MapReduce), an energy efficient MapReduce workload manager motivated by empirical analysis of real-life traces at Facebook. The key insight is that although MIA clusters host huge data volumes, the interactive jobs operate on a small fraction of the data, and thus can be served by a small pool of dedicated machines; the less time-sensitive jobs can run on the rest of the cluster in a batch fashion. With our designs we are able to reduce energy consumption while maintaining acceptable response times. Our results for NapSAC show that we are able to achieve close to 90% of the savings of a theoretically optimal provisioning scheme would achieve. With BEEMR, we achieve 40-50% energy savings under tight design constraints, and represents a first step towards improving energy efficiency for an increasingly important class of datacenter workloads.
+Advisors:  Randy H. Katz
+BibTeX citation:
+@mastersthesis{Alspaugh:EECS-2012-108,
+Author= {Alspaugh, Sara},
+Title= {Reducing Cluster Energy Consumption through Workload Management},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-108.html},
+Number= {UCB/EECS-2012-108},
+Abstract= {Energy consumption is a major and costly problem in data centers. For many workloads, a large fraction of energy goes to powering idle machines that are not doing any useful work. There are two causes of this inefficiency: low server utilization and a lack of power proportionality. We focus on addressing this problem for two workloads: (1) a traditional, front-end web server workload and (2) an emerging class of analytics workload containing both batch jobs and interactive queries. For the web server workload of the first study, we present NapSAC, a design for a power-proportional cluster consisting of a power-aware cluster manager and a set of heterogeneous machines. Our design makes use of currently available energy-efficient hardware, mechanisms for transitioning in and out of low-power sleep states, and dynamic provisioning and scheduling to continually adjust to workload and minimize power consumption. We build a prototype cluster which runs Wikipedia to demonstrate the use of our design in a real environment. For the MapReduce workload in the second study, we develop BEEMR (Berkeley Energy Efficient MapReduce), an energy efficient MapReduce workload manager motivated by empirical analysis of real-life traces at Facebook. The key insight is that although MIA clusters host huge data volumes, the interactive jobs operate on a small fraction of the data, and thus can be served by a small pool of dedicated machines; the less time-sensitive jobs can run on the rest of the cluster in a batch fashion. With our designs we are able to reduce energy consumption while maintaining acceptable response times. Our results for NapSAC show that we are able to achieve close to 90% of the savings of a theoretically optimal provisioning scheme would achieve. With BEEMR, we achieve 40-50% energy savings under tight design constraints, and represents a first step towards improving energy efficiency for an increasingly important class of datacenter workloads.},
+}
+EndNote citation:
+%0 Thesis
+%A Alspaugh, Sara
+%T Reducing Cluster Energy Consumption through Workload Management
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-108
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-108.html
+%F Alspaugh:EECS-2012-108

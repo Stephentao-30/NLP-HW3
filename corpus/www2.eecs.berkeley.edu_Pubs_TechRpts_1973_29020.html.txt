@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29020.html
+Examples of Formal Descriptions of Common Programming Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Examples of Formal Descriptions of Common Programming Languages
+Examples of Formal Descriptions of Common Programming Languages
+W.D. Maurer, C. Kinder, E. Powers, R.O. Nichols, W. Lapinsky, L.H. Yeung, N.H. Mcdonald and S. Zalewski
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M396
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-396.pdf
+BibTeX citation:
+@techreport{Maurer:M396,
+Author = {Maurer, W.D. and Kinder, C. and Powers, E. and Nichols, R.O. and Lapinsky, W. and Yeung, L.H. and Mcdonald, N.H. and Zalewski, S.},
+Title = {Examples of Formal Descriptions of Common Programming Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29020.html},
+Number = {UCB/ERL M396}
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%A Kinder, C.
+%A Powers, E.
+%A Nichols, R.O.
+%A Lapinsky, W.
+%A Yeung, L.H.
+%A Mcdonald, N.H.
+%A Zalewski, S.
+%T Examples of Formal Descriptions of Common Programming Languages
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M396
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29020.html
+%F Maurer:M396

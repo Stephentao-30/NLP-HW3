@@ -1,0 +1,38 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-175.html
+Reconstructing Householder Vectors from Tall-Skinny QR
+Grey Ballard and James Demmel and Laura Grigori and Mathias Jacquelin and Hong Diep Nguyen and Edgar Solomonik
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-175
+October 26,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-175.pdf
+The Tall-Skinny QR (TSQR) algorithm is more communication efficient than the standard Householder algorithm for QR decomposition of matrices with many more rows than columns. However, TSQR produces a different representation of the orthogonal factor and therefore requires more software development to support the new representation. Further, implicitly applying the orthogonal factor to the trailing matrix in the context of factoring a square matrix is more complicated and costly than with the Householder representation.
+We show how to perform TSQR and then reconstruct the Householder vector representation with the same asymptotic communication efficiency and little extra computational cost. We demonstrate the high performance and numerical stability of this algorithm both theoretically and empirically. The new Householder reconstruction algorithm allows us to design more efficient parallel QR algorithms,
+with significantly lower latency cost compared to  Householder QR and lower bandwidth and latency costs compared with Communication-Avoiding QR (CAQR) algorithm. As a result, our final parallel QR algorithm outperforms ScaLAPACK and Elemental implementations of Householder QR and our implementation of CAQR on the Hopper Cray XE6 NERSC system.
+BibTeX citation:
+@techreport{Ballard:EECS-2013-175,
+Author= {Ballard, Grey and Demmel, James and Grigori, Laura and Jacquelin, Mathias and Nguyen, Hong Diep and Solomonik, Edgar},
+Title= {Reconstructing Householder Vectors from Tall-Skinny QR},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-175.html},
+Number= {UCB/EECS-2013-175},
+Abstract= {The Tall-Skinny QR (TSQR) algorithm is more communication efficient than the standard Householder algorithm for QR decomposition of matrices with many more rows than columns. However, TSQR produces a different representation of the orthogonal factor and therefore requires more software development to support the new representation. Further, implicitly applying the orthogonal factor to the trailing matrix in the context of factoring a square matrix is more complicated and costly than with the Householder representation.
+We show how to perform TSQR and then reconstruct the Householder vector representation with the same asymptotic communication efficiency and little extra computational cost. We demonstrate the high performance and numerical stability of this algorithm both theoretically and empirically. The new Householder reconstruction algorithm allows us to design more efficient parallel QR algorithms,
+with significantly lower latency cost compared to  Householder QR and lower bandwidth and latency costs compared with Communication-Avoiding QR (CAQR) algorithm. As a result, our final parallel QR algorithm outperforms ScaLAPACK and Elemental implementations of Householder QR and our implementation of CAQR on the Hopper Cray XE6 NERSC system.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Grigori, Laura
+%A Jacquelin, Mathias
+%A Nguyen, Hong Diep
+%A Solomonik, Edgar
+%T Reconstructing Householder Vectors from Tall-Skinny QR
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 26
+%@ UCB/EECS-2013-175
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-175.html
+%F Ballard:EECS-2013-175

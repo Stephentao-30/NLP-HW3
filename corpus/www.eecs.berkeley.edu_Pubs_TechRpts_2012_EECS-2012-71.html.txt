@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-71.html
+We Don't Know Enough to make a Big Data Benchmark Suite - An Academia-Industry View
+Yanpei Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-71
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-71.pdf
+Within the past few years, organizations in diverse industries have adopted MapReduce-based systems for large-scale data processing. Along with these new users, important new workloads have emerged which feature many small, short, and increasingly interactive jobs in addition to the large, long-running batch jobs for which MapReduce was originally designed. As interactive, large-scale query processing (e.g., OLAP) is a strength of the RDBMS community, it is important that lessons from that field be carried over and applied where possible in this new domain. However, these new workloads have not yet been described in the literature. We fill this gap with an empirical analysis of MapReduce traces from six separate business-critical deployments inside Facebook and at Cloudera customers in e-commerce, telecommunications, media, and retail. Our key contribution is a characterization of new MapReduce workloads which are driven in part by interactive analysis, and which make heavy use of SQL-like programming frameworks on top of MapReduce. These workloads display diverse behaviors which invalidate prior assumptions about MapReduce such as uniform data access, regular diurnal patterns, and prevalence of large jobs. A secondary contribution is a first step towards creating a TPC-like data processing benchmark for MapReduce.
+BibTeX citation:
+@techreport{Chen:EECS-2012-71,
+Author= {Chen, Yanpei},
+Title= {We Don't Know Enough to make a Big Data Benchmark Suite - An Academia-Industry View},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-71.html},
+Number= {UCB/EECS-2012-71},
+Abstract= {Within the past few years, organizations in diverse industries have adopted MapReduce-based systems for large-scale data processing. Along with these new users, important new workloads have emerged which feature many small, short, and increasingly interactive jobs in addition to the large, long-running batch jobs for which MapReduce was originally designed. As interactive, large-scale query processing (e.g., OLAP) is a strength of the RDBMS community, it is important that lessons from that field be carried over and applied where possible in this new domain. However, these new workloads have not yet been described in the literature. We fill this gap with an empirical analysis of MapReduce traces from six separate business-critical deployments inside Facebook and at Cloudera customers in e-commerce, telecommunications, media, and retail. Our key contribution is a characterization of new MapReduce workloads which are driven in part by interactive analysis, and which make heavy use of SQL-like programming frameworks on top of MapReduce. These workloads display diverse behaviors which invalidate prior assumptions about MapReduce such as uniform data access, regular diurnal patterns, and prevalence of large jobs. A secondary contribution is a first step towards creating a TPC-like data processing benchmark for MapReduce.},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yanpei
+%T We Don't Know Enough to make a Big Data Benchmark Suite - An Academia-Industry View
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-71
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-71.html
+%F Chen:EECS-2012-71

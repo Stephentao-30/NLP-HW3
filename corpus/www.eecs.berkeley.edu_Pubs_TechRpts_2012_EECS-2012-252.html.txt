@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-252.html
+Convex Approaches to Text Summarization
+Brian Christopher Gawalt
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-252
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-252.pdf
+This dissertation presents techniques for the summarization and exploration of text documents. Many approaches taken towards analysis of news media can be analogized to well-defined, well-studied problems from statistical machine learning. The problem of feature selection, for classification and dimensionality reduction tasks, is formulated to help assist with these media analysis tasks.  Taking advantage of $\ell_1$ regularization, convex programs can be used to efficiently solve these feature selection problems efficiently. There is a demonstrated potential to conduct media analysis at a scale commensurate with the growing volume of data available to news consumers.
+There is first a presentation of an example text mining over a vector space model. Given two news articles on a related theme, a series of additional articles are pulled from a large pool of candidates to help link these two input items. The novel algorithm used is based on finding the documents whose vector representations are nearest the convex combinations of the inputs. Comparisons to competing algorithms show performance matching a state-of-the-art method, at a lower computational complexity.
+Design of a relational database for typical text mining tasks is discussed. The architecture trades off the organizational and data quality advantages of normalization versus the performance boosts from replicating entity attributes across tables. The vector space model of text is implemented explicitly as a three-column table.
+The predictive framework, connecting news analysis tasks to feature selection and classification problems, is then explicitly explored. The validity of this analogy is tested with a particular task: given a query term and a corpus of news articles, provide a short list of word tokens which distinguish how this word appears within the corpus. Example summary lists were produced by five algorithms, and presented to volunteer readers. Evidence suggests that an implementation of $\ell_1$-regularized logistic regression model, trained over the documents with labels indicating the presence or absence of the query word, selected word-features best summarizing the query.
+To contend with tasks that do not lend themselves this a predictive framework, a sparse variant of latent semantic indexing is investigated.  Sparse principal components were calculated to define corpora built of two distinct styles of news. The results are used to both summarize with word lists, as before, and extract documents representative of their larger collection.
+The work concludes with discussion of further study of the impact of the underlying vector space models of text on the resulting summaries, of real-world deployments of this kind of news analysis, and for distributed calculation of these results to support larger and larger corpora.
+Advisors:  Laurent El Ghaoui
+BibTeX citation:
+@phdthesis{Gawalt:EECS-2012-252,
+Author= {Gawalt, Brian Christopher},
+Title= {Convex Approaches to Text Summarization},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-252.html},
+Number= {UCB/EECS-2012-252},
+Abstract= {This dissertation presents techniques for the summarization and exploration of text documents. Many approaches taken towards analysis of news media can be analogized to well-defined, well-studied problems from statistical machine learning. The problem of feature selection, for classification and dimensionality reduction tasks, is formulated to help assist with these media analysis tasks.  Taking advantage of $\ell_1$ regularization, convex programs can be used to efficiently solve these feature selection problems efficiently. There is a demonstrated potential to conduct media analysis at a scale commensurate with the growing volume of data available to news consumers.
+There is first a presentation of an example text mining over a vector space model. Given two news articles on a related theme, a series of additional articles are pulled from a large pool of candidates to help link these two input items. The novel algorithm used is based on finding the documents whose vector representations are nearest the convex combinations of the inputs. Comparisons to competing algorithms show performance matching a state-of-the-art method, at a lower computational complexity.
+Design of a relational database for typical text mining tasks is discussed. The architecture trades off the organizational and data quality advantages of normalization versus the performance boosts from replicating entity attributes across tables. The vector space model of text is implemented explicitly as a three-column table.
+The predictive framework, connecting news analysis tasks to feature selection and classification problems, is then explicitly explored. The validity of this analogy is tested with a particular task: given a query term and a corpus of news articles, provide a short list of word tokens which distinguish how this word appears within the corpus. Example summary lists were produced by five algorithms, and presented to volunteer readers. Evidence suggests that an implementation of $\ell_1$-regularized logistic regression model, trained over the documents with labels indicating the presence or absence of the query word, selected word-features best summarizing the query.
+To contend with tasks that do not lend themselves this a predictive framework, a sparse variant of latent semantic indexing is investigated.  Sparse principal components were calculated to define corpora built of two distinct styles of news. The results are used to both summarize with word lists, as before, and extract documents representative of their larger collection.
+The work concludes with discussion of further study of the impact of the underlying vector space models of text on the resulting summaries, of real-world deployments of this kind of news analysis, and for distributed calculation of these results to support larger and larger corpora.},
+}
+EndNote citation:
+%0 Thesis
+%A Gawalt, Brian Christopher
+%T Convex Approaches to Text Summarization
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-252
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-252.html
+%F Gawalt:EECS-2012-252

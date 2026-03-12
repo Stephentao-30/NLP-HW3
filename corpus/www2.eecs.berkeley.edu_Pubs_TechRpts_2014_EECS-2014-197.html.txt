@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-197.html
+High Contrast Gratings for Integrated Optoelectronics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+High Contrast Gratings for Integrated Optoelectronics
+High Contrast Gratings for Integrated Optoelectronics
+Weijian Yang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-197
+December 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-197.pdf
+Integrated optoelectronics has seen its rapid development in the past decade. From its original primary application in long-haul optical communications and access network, integrated optoelectronics has expanded itself to data center, consumer electronics, energy harness, environmental sensing, biological and medical imaging, industry manufacture control etc. This revolutionary progress benefits from the advancement in light generation, manipulation, detection and its interaction with other systems. Device innovation is the key in this advancement. Together they build up the component library for integrated optoelectronics, which facilities the system integration.
+High contrast grating (HCG) is an emerging element in integrated optoelectronics. Compared to the other elements, HCG has very rich properties and design flexibility. Some of them are fascinating and extraordinary, such as broadband high reflectivity, and high quality factor resonance – all it needs is a single thin-layer of HCG. Furthermore, it can be a microelectromechanical structure. These rich properties are readily to be harnessed and turned into novel devices.
+This dissertation is devoted to investigate the physical origins of the extraordinary features of HCG, and explore its applications in novel devices for integrated optoelectronics. An intuitive picture will be presented to explain the HCG physics. The essence of HCG lies in its superb manipulation of light, which can be coupled to applications in light generation and detection. Various device innovations, such as low-loss hollow-core waveguide, fast optical phased array, tunable VCSEL and detector are demonstrated with the HCG as a key element. This breadth of functionality of HCG suggests that HCG has reached beyond a single element in integrated optoelectronics; it has enabled a new platform for integrated optoelectronics.
+Advisor:  Constance Chang-Hasnain
+BibTeX citation:
+@phdthesis{Yang:EECS-2014-197,
+Author = {Yang, Weijian},
+Title = {High Contrast Gratings for Integrated Optoelectronics},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-197.html},
+Number = {UCB/EECS-2014-197},
+Abstract = {Integrated optoelectronics has seen its rapid development in the past decade. From its original primary application in long-haul optical communications and access network, integrated optoelectronics has expanded itself to data center, consumer electronics, energy harness, environmental sensing, biological and medical imaging, industry manufacture control etc. This revolutionary progress benefits from the advancement in light generation, manipulation, detection and its interaction with other systems. Device innovation is the key in this advancement. Together they build up the component library for integrated optoelectronics, which facilities the system integration.
+High contrast grating (HCG) is an emerging element in integrated optoelectronics. Compared to the other elements, HCG has very rich properties and design flexibility. Some of them are fascinating and extraordinary, such as broadband high reflectivity, and high quality factor resonance – all it needs is a single thin-layer of HCG. Furthermore, it can be a microelectromechanical structure. These rich properties are readily to be harnessed and turned into novel devices.
+This dissertation is devoted to investigate the physical origins of the extraordinary features of HCG, and explore its applications in novel devices for integrated optoelectronics. An intuitive picture will be presented to explain the HCG physics. The essence of HCG lies in its superb manipulation of light, which can be coupled to applications in light generation and detection. Various device innovations, such as low-loss hollow-core waveguide, fast optical phased array, tunable VCSEL and detector are demonstrated with the HCG as a key element. This breadth of functionality of HCG suggests that HCG has reached beyond a single element in integrated optoelectronics; it has enabled a new platform for integrated optoelectronics.}
+}
+EndNote citation:
+%0 Thesis
+%A Yang, Weijian
+%T High Contrast Gratings for Integrated Optoelectronics
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 1
+%@ UCB/EECS-2014-197
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-197.html
+%F Yang:EECS-2014-197

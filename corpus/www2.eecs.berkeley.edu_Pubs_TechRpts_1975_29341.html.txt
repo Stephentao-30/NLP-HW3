@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29341.html
+A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System
+A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M591
+September 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-591.pdf
+BibTeX citation:
+@techreport{Stonebraker:M591,
+Author = {Stonebraker, Michael},
+Title = {A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29341.html},
+Number = {UCB/ERL M591}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T A Comparison of the Use of Links and Secondary Indices in a Relational Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M591
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29341.html
+%F Stonebraker:M591

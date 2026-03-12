@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29356.html
+A Study of the Effects of Locking Granularity in a Data Base Management System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Study of the Effects of Locking Granularity in a Data Base Management System
+A Study of the Effects of Locking Granularity in a Data Base Management System
+Daniel R. Ries and M. Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/34
+May 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-34.pdf
+BibTeX citation:
+@techreport{Ries:M77/34,
+Author = {Ries, Daniel R. and Stonebraker, M.},
+Title = {A Study of the Effects of Locking Granularity in a Data Base Management System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29356.html},
+Number = {UCB/ERL M77/34}
+}
+EndNote citation:
+%0 Report
+%A Ries, Daniel R.
+%A Stonebraker, M.
+%T A Study of the Effects of Locking Granularity in a Data Base Management System
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29356.html
+%F Ries:M77/34

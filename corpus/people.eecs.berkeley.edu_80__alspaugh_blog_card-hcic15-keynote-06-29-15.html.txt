@@ -1,0 +1,225 @@
+URL: http://people.eecs.berkeley.edu:80/~alspaugh/blog/card-hcic15-keynote-06-29-15.html
+Notes on "Theories with a Purpose"
+16 July 2015
+by S. Alspaugh
+Last night  Three weeks ago 1  was the HCIC
+opening keynote by Stuart Card. As the theme of  HCIC 2015  was
+"theory", his talk was appropriately titled "Theories with a
+Purpose". 2
+HCIC stands for Human-Computer Interaction Consortium.  It is an
+intimate, multi-day, annual conference for the HCI community.
+Currently in its 26th year, HCIC was created by researchers who
+wanted a venue that emphasized conversation over presentation.  For
+many years, HCIC was held in Breckenridge, Colorado, also known for
+its high-quality skiing. If you want more of the inside scoop,
+you'll have to ask Stu Card.
+Stu Card is one of the founding figures of HCI. From
+his bio :
+Stuart Card may have pursued the first direct program at CMU in
+Human-Computer Interaction—a program involving Ph.D.
+qualifiers in both psychology and computer science. ...
+Card, Moran, and Newell wrote the first
+book to use human-computer interaction in its title,
+The
+Psychology of Human-Computer Interaction .
+Card has a marvelous sense of humor and a gift for storytelling
+that is enhanced by the fact that, thanks to his long history in
+the field, he is loaded with humorous anecdotes that include many
+early research icons.
+Pretext
+Card began his talk by describing some playful banter between himself
+and  Judy Olson .
+Judy is a highly-respected senior HCI researcher and professor in the
+Informatics Department at the University of California, Irvine, and
+who also happened to be in attendance.  She recently published a
+book entitled
+Ways of Knowing in HCI , which describes research
+methods in HCI, with each chapter detailing a different approach.
+Card had complained to Judy that the chapters of this book were
+ordered in a seemingly random way.  He also noted, as is common for
+academic books, that it was rather expensive.  So he proposed a
+wager. If, in his talk, he could develop a theory from first
+principles for better structuring the Table of Contents, then Judy
+would give him the book for free.  Judy would be the judge of
+whether or not he had succeeded.
+On developing a new academic fields
+There is a process to defining a new field.  At first, there a
+chicken-and-egg problem, as textbooks must be written so that
+courses can be taught, but courses must have been taken in order to
+know enough to write a textbook. Textbooks are needed for
+uniformity among courses at different universities, otherwise it
+isn't a field. Lastly, journals need to be created so that
+researchers in that field can get tenure.  This was once the case
+with HCI too.
+Here is a good trick for defining a new field: Define the core of
+what the field is about, then define the distance of various topics
+from the core, then let what is considered topical "fade out" as
+you get further from the core.  This is as opposed to defining what
+is in and what is out.  The former approach makes is easier to
+absorb new research topics into the field.
+The above discussion brings to mind current efforts on Berkeley's campus
+to develop a new data science curriculum.
+On a theory of artifacts
+Card described the basic principles of operation of the
+old-fashioned optical mouse.  He segued this into a discussion of
+Herbert Simon's ant.  Consider the following line:
+What does it describe?  It appears to be a fairly complicated line
+that could be difficult to model and simulate.  In fact, the line
+it describes the motion of a ant on a beach, whose purpose is to
+traverse the beach, but whose path must twist and turn around the
+rocks on the beach.
+The algorithm it uses to do so is simple: walk down the beach while
+avoiding the rocks.  Note that the complexity is not in the
+behavior of the ant.  It's in the beach. The apparently complexity
+of the ant's behavior is  is actually just a reflection of its
+environment. 3
+All artifacts have: a purpose (walk down the beach), an inner
+environment (walk home while avoiding rocks), and an outer
+environment (the beach).
+Card then described the inner operation of the laser mouse:
+entirely different inner environment, but same purpose.
+"This is what I love about computer science and computational
+fields. You can do the same work over every twenty years and it's
+like a new area. Because everything is faster."
+On dominant design
+There are four phases of design research:
+Antecedent research:  This phase contains the early days of
+experimentation.
+Pioneering architecture:  This represents first attempt at
+breaking systems down into independentally optimizable
+subsystems, which people can optimize into even more subsystems.
+Pioneering product:  Companies productize different designs
+with different architectures. One company wins.
+Dominant design:  The design has become locked in and
+cannot be changed anymore. 4
+According to Card, we are in a new phase of antecedent research
+for mobile and immersive interaction technology.
+Decomposability into subsystems is very important for being able to optimize a
+design. The champions of such decomposition are aircraft designers.
+Card then described Herbert Simon's hierarchy:
+social
+social behavior with a time scale of days to months
+rational
+problem solving with a time scale of minutes to hours; 5
+example theories: information foraging and sensemaking
+cognitive
+immediate behavior with a time scale of seconds; example
+theories: Goals, Operators, Methods, and Selection rules (GOMS), window, and working set
+biological
+automatic behavior with a time scale: milliseconds; examples: Fitts' law
+These are nearly decomposable. In each case we can apply theories to:
+Interpret  data (understanding and notation)
+Generate  new artifacts
+Predict  performance
+Unify  with other domains
+On theory versus experimentation
+Theory trumps experimental results in demonstrating that option A
+is better than option B.  Card illustrated this with a story: He
+was tasked with presenting to a room of fifty of the most hostile
+engineers imaginable about the superiority of the mouse as an input
+device. The engineers didn't want to design a mouse for their
+system, they wanted to bolt on a keyboard and then bolt on (from
+what I understand) a sort of trackball. Card showed them many
+strong experimental results 6  demonstrating the superiority of the mouse
+for interacting with computers over their preferred systems, but
+the hostile engineers thought of a million reasons why the
+experiments might be wrong. It wasn't until he explained the
+theory, and why the theory shows that the mouse has to be the
+right answer, that the engineers went along.
+The theory ( Fitts' Law )
+says the fastest input device would use the fingers, because these
+are the fastest instrument of implementing desired plans of action
+as they are conceived of in the brain. Fingers have a throughput of
+42 bits per second.  So what if you got even closer to the brain—
+via a head mouse, perhaps?  Back when he was at Xerox PARC,  Card
+had a colleague who was a great champion of the head mouse.  Card
+thought this was not a good idea and that it was unnecessary to
+try, because the theory said it wouldn't be better than the mouse.
+This is because the arm and wrist that moves the mouse has a
+throughput of ten bits per second, but the head mouse is actually
+moved by the neck muscles, which only have a throughput of five
+bits per second.  But humorously, said colleague persisted, and
+ended up walking around for a week with a sore neck. The head mouse
+idea was scrapped; the theory was correct.
+"When you do theory, it can actually be fun to be wrong if you can
+be really definite."
+One theory can tell you the best option out of hundreds of options.
+This can save you from running hundreds of "expensive" experiments
+with ten whole participants and controls for learning effects.
+"Experiments tell you the answer to the question you asked, but that is not
+what you want to know. You want to know the answer to the question you should
+have asked."
+The big reveal
+In the end, Card linked contemporary research 7  back to early work on the
+Model Human Processor and to the GOMS framework, and related these
+foundations to contemporary work on sensemaking. 8
+Somewhat tounge-in-cheek, he illustrated this with the following
+hand-drawn diagram: 9
+Returning full circle to the original wager, Card finished up by
+using these concepts he to group chapters from
+Ways of Knowing in HCI , into subsections:
+In the end, Judy graciously acknowledged that he had a good
+overview and an interesting perspective. Her definitive verdict was
+that he did not have to pay for the book.
+In the questions after the talk, someone asked, in Card's opinion,
+what is missing from the methods in the book? His answer is that
+learning i.e.  probabilistic methods or Bayesian methods need to be
+included in the future, given that there seems to be a lot of
+evidence that that stuff "just works".
+Acknowledgments
+Thanks to Stuart Card for his lovely talk and input on this post,
+as well as for sending me his slides.
+Many thanks to  Elizabeth Churchill
+for kindly helping me improve this post.
+Footnotes
+^
+I fell a bit behind in posting this due to a paper deadline.
+^
+I recently discovered  a video of an identically-titled talk , that Stu gave last November at CMU's
+Human-Computer Interaction Institute's 20th anniversary
+celebration. Though the high-level topic appears to be the same,
+the details of that talk seem to differ substantially from the
+one I describe here.
+^
+This analogy is courtesy of Herbert Simon. I don't know where it
+was originally published, but in this  supposed
+interview  with Simon from 1997, he elaborates upon the idea.
+It may have originally appeared in his book  Administrative
+Behavior .
+^
+My interpretation of this is that here he is talking about
+conventions for the design of objects, my views on which are entirely informed
+by  The Design of Everyday Things .
+^
+Where my work sits.
+^
+Many of the early experiments on the design of the mouse were done by  Bill Moggridge ,
+co-founder of famed design firm  IDEO .  IDEO
+designed  the first production mouse for Apple .
+Moggridge wrote a book,  Designing Interactions ,
+about the history of interaction design, which contains interviews
+with a number of famous figures including Douglas Engelbart,
+Larry Tesler, and Stu Card, among others.
+^
+Contemporary work that got a shout out in the talk included
+Skinput ,
+the  Proteus Ingestible Networked Pill , and
+ShapeWriter .
+^
+His book with pioneers Allen Newell and Tom Moran,  The
+Psychology of Human-Computer Interaction , details the
+beginning of GOMS, which became significantly more elaborate as
+others extended it. One of the earliest
+experimental successes in HCI were  the NYNEX
+experiments , in which researchers used GOMS to predict how
+efficient telephone operators at NYNEX (the local
+telephone carrier for much of New England and New York state)
+would be by using expensive new workstations, versus their
+current method.
+^
+As far as I can tell, it seems to be a habit for papers about
+sensemaking and related topics to contain a diagram illustrating
+the sensemaking cycle. I vaguely remember drawing one such diagram
+at one point to explain some idea I had to my advisor,  Marti Hearst .  She
+waved it away saying something to the effect of, "oh, that's just
+the same diagram that everyone draws."

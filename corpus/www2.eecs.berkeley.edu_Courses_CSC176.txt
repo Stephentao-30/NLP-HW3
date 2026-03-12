@@ -1,0 +1,14 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC176
+CS C176. Algorithms for Computational Biology
+Catalog Description:  This course will provide familiarity with algorithms and probabilistic models that arise in various computational biology applications, such as suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, hidden Markov models, gene finding, motif finding, linear/logistic regression, random forests, convolutional neural networks, genome-wide association studies, pathogenicity prediction, and sequence-to-epigenome prediction.
+Units:  4
+Student Learning Outcomes:  Understand the basic elements of molecular, cell, and evolutionary biology., Understand the key probabilistic and machine learning models used in computational biology applications., Understand various data structures and algorithms that arise in computational biology.
+Prerequisites:  COMPSCI 70 and COMPSCI 170, MATH 54 or EECS 16A or an equivalent linear algebra course
+Credit Restrictions:  Students will receive no credit for COMPSCI C176 after completing COMPSCI 176. A deficient grade in COMPSCI C176 may be removed by taking COMPSCI 176.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  CMPBIO C176
+Class homepage
+on inst.eecs

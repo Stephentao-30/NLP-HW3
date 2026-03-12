@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29239.html
+On Bounded-Input- Bounded- Output Stability of a Certain Class of Nonlinear Sampled-Data Systems
+A.R. Bergen and R.P. Iwens
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M159
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-159.pdf
+BibTeX citation:
+@techreport{Bergen:M159,
+Author= {Bergen, A.R. and Iwens, R.P.},
+Title= {On Bounded-Input- Bounded- Output Stability of a Certain Class of Nonlinear Sampled-Data Systems},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29239.html},
+Number= {UCB/ERL M159},
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Iwens, R.P.
+%T On Bounded-Input- Bounded- Output Stability of a Certain Class of Nonlinear Sampled-Data Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M159
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29239.html
+%F Bergen:M159

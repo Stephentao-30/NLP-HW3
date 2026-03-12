@@ -1,0 +1,25 @@
+URL: https://eecs.berkeley.edu/research/colloquium/160907-2
+Brain-Machine Interfaces: The Perception-Action Closed Loop - EECS at Berkeley
+Brain-Machine Interfaces: The Perception-Action Closed Loop
+EECS Colloquium
+Wednesday, September 7, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+José del R. Millán
+Defitech Professor
+Swiss Federal Institute of Technology, Lausanne, Switzerland
+José del R. Millán speaks on Brain-Machine Interfaces, 9/7/16 (photo: Cristina Sánchez)
+Abstract
+Future neuroprosthetics will be tightly coupled with the user in such a way that the resulting system can replace and restore impaired upper limb functions because controlled by the same neural signals than their natural counterparts. However, robust and natural interaction of subjects with sophisticated prostheses over long periods of time remains a major challenge. To tackle this challenge we can get inspiration from natural motor control, where goal-directed behavior is dynamically modulated by perceptual feedback resulting from executed actions.
+Current brain-machine interfaces (BMI) partly emulate human motor control as they decode cortical correlates of movement parameters –from onset of a movement to directions to instantaneous velocity– in order to generate the sequence of movements for the neuroprosthesis. A closer look, though, shows that motor control results from the combined activity of the cerebral cortex, subcortical areas and spinal cord. This hierarchical organization supports the hypothesis that complex behaviours can be controlled using the low-dimensional output of a BMI in conjunction with intelligent devices in charge to perform low-level commands.
+A further component that will facilitate intuitive and natural control of motor neuroprosthetics is the incorporation of rich multimodal feedback and neural correlates of perceptual processes resulting from this feedback. As in natural motor control, these sources of information can dynamically modulate interaction.
+Biography
+Dr. José del R. Millán joined the École Polytechnique Fédérale de Lausanne (EPFL) in 2009 as the first professor of the Center for Neuroprosthetics where he holds the Defitech Foundation Chair. He received a PhD in computer science from the Technical University of Catalonia, Barcelona, in 1992. Previously, he was a research scientist at the Joint Research Centre of the European Commission in Ispra (Italy), a senior researcher at the Idiap Research Institute in Martigny (Switzerland). He has also been a visiting scholar at the Universities of Stanford and Berkeley as well as at the International Computer Science Institute in Berkeley.
+Dr. Millán has made several seminal contributions to the field of brain-computer interfaces (BCI), especially based on electroencephalogram (EEG) signals. Most of his achievements revolve around the design of brain-controlled robots. He puts a strong emphasis on the use of statistical machine learning techniques so as to achieve a seamless coupling between the user and the brain-controlled device. A key element is the design of efficient and robust algorithms for real-time decoding of patterns of brain activity associated to different aspects of voluntary behaviour. He also builds on neuroscience findings to design new interaction protocols to operate complex devices. During the last years he is prioritizing the translation of BCI to end-users suffering from motor disabilities. In parallel, he is designing BCI technology to offer new interaction modalities for able-bodied people.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

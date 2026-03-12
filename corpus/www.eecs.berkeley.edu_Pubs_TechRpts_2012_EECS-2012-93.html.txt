@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-93.html
+Protocol-Independent Compression for Resource-Constrained Wireless Networks
+Travis Massey and Kristofer Pister
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-93
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-93.pdf
+Advisors:  Kristofer Pister
+BibTeX citation:
+@mastersthesis{Massey:EECS-2012-93,
+Author= {Massey, Travis and Pister, Kristofer},
+Title= {Protocol-Independent Compression for Resource-Constrained Wireless Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-93.html},
+Number= {UCB/EECS-2012-93},
+}
+EndNote citation:
+%0 Thesis
+%A Massey, Travis
+%A Pister, Kristofer
+%T Protocol-Independent Compression for Resource-Constrained Wireless Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-93
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-93.html
+%F Massey:EECS-2012-93

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-19.html
+Minimizing communication in all-pairs shortest-paths
+Edgar Solomonik and Aydin Buluc and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-19
+February 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-19.pdf
+We consider distributed memory algorithms for the all-pairs shortest paths (APSP) problem. Scaling the APSP problem to high concurrencies requires both minimizing inter-processor communication as well as maximizing temporal data locality. Our 2.5D APSP algorithm, which is based on the divide-and-conquer paradigm, satisfies both of these requirements: it can utilize the extra available memory to perform asymptotically less communication, and it is rich in semiring matrix multiplications, which have high temporal locality. We start by introducing a block-cyclic 2D (minimal memory) APSP algorithm. With a careful choice of block-size, this algorithm achieves known communication lower-bounds on latency and bandwidth. We extend this 2D block-cyclic algorithm to a 2.5D algorithm, which can use c extra copies of data to reduce the bandwidth cost by a factor of c^1/2 , compared to its 2D counterpart. However, the 2.5D algorithm increases the latency cost by c^1/2 . We provide a tighter lower bound on latency, which dictates that the latency overhead is necessary to reduce bandwidth along the critical path of execution. Our implementation achieves impressive performance and scaling to 24,576 cores
+of a Cray XE6 supercomputer by utilizing well-tuned intra-node kernels within the distributed memory algorithm.
+BibTeX citation:
+@techreport{Solomonik:EECS-2012-19,
+Author= {Solomonik, Edgar and Buluc, Aydin and Demmel, James},
+Title= {Minimizing communication in all-pairs shortest-paths},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-19.html},
+Number= {UCB/EECS-2012-19},
+Abstract= {We consider distributed memory algorithms for the all-pairs shortest paths (APSP) problem. Scaling the APSP problem to high concurrencies requires both minimizing inter-processor communication as well as maximizing temporal data locality. Our 2.5D APSP algorithm, which is based on the divide-and-conquer paradigm, satisfies both of these requirements: it can utilize the extra available memory to perform asymptotically less communication, and it is rich in semiring matrix multiplications, which have high temporal locality. We start by introducing a block-cyclic 2D (minimal memory) APSP algorithm. With a careful choice of block-size, this algorithm achieves known communication lower-bounds on latency and bandwidth. We extend this 2D block-cyclic algorithm to a 2.5D algorithm, which can use c extra copies of data to reduce the bandwidth cost by a factor of c^1/2 , compared to its 2D counterpart. However, the 2.5D algorithm increases the latency cost by c^1/2 . We provide a tighter lower bound on latency, which dictates that the latency overhead is necessary to reduce bandwidth along the critical path of execution. Our implementation achieves impressive performance and scaling to 24,576 cores
+of a Cray XE6 supercomputer by utilizing well-tuned intra-node kernels within the distributed memory algorithm.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Buluc, Aydin
+%A Demmel, James
+%T Minimizing communication in all-pairs shortest-paths
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 1
+%@ UCB/EECS-2012-19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-19.html
+%F Solomonik:EECS-2012-19

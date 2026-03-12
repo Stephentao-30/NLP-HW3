@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/M95/75.html
+Estimation Techniques to Guide Low-Power Resynthesis Algorithms for Combinatorial Random CMOS Logic
+Christopher K. Lennard
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M95/75
+, 1995
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/ERL-95-75.pdf
+Advisors:  A. Richard Newton
+BibTeX citation:
+@phdthesis{Lennard:M95/75,
+Author= {Lennard, Christopher K.},
+Title= {Estimation Techniques to Guide Low-Power Resynthesis Algorithms for Combinatorial Random CMOS Logic},
+School= {EECS Department, University of California, Berkeley},
+Year= {1995},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/2861.html},
+Number= {UCB/ERL M95/75},
+}
+EndNote citation:
+%0 Thesis
+%A Lennard, Christopher K.
+%T Estimation Techniques to Guide Low-Power Resynthesis Algorithms for Combinatorial Random CMOS Logic
+%I EECS Department, University of California, Berkeley
+%D 1995
+%@ UCB/ERL M95/75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/2861.html
+%F Lennard:M95/75

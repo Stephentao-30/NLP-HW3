@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-229.html
+An Optimized Video-on-Demand System: Theory, Design and Implementation
+Hao Zhang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-229
+December 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-229.pdf
+Internet on-demand video traffic has seen explosive growth in recent years. This brings a number of challenges in deploying video-on-demand services at large scale. The first challenge has to do with the enormity of the video catalog size. Traditionally, content providers replicate the entire video library in different locations, but this is wasteful and non-scalable as the video catalog size expands. The second challenge comes with the increase in video quality, which calls for efficient utilization of the scarce network bandwidth resources that continue to be economically expensive to expand. The emergence of different device modalities, including smart-phones, high-definition and 3D TV, tablets and etc poses another challenge in designing efficient systems and algorithms that cater to all device characteristics and user needs.
+In this dissertation, we aim to present a general approach to designing, optimizing and architecting a video-on-demand system. Our approach considers the practical constraints of disk space, network link bandwidth, and node connection degree bound. In general, the joint optimization problem is combinatorially difficult. To tackle this, we first design a simple fractional storage architecture, which uses a class of regeneration codes that fluidifies the content, thereby enabling a distributed content placement and link rate allocation algorithm. We show that by storing only a fractional of the entire catalog everywhere, the system is able to fully support user demand at large scale. Second, we develop a Markov approximation technique to solve the problem of topology selection under node degree bound using a simple distributed algorithm. We prove that our algorithm achieves close-to-optimal solution, which we verify using extensive realworld trace simulations.
+On the system side, we show extensive results to test the algorithm's scalability and robustness to changes in user dynamics and demand patterns. We show that our solution achieves high utilization of cache nodes storage and bandwidth resources, and automatically learns and caches the video according to the demand patterns. We observe that there exists a complex interplay between disk space, network bandwidth and node degree bound. We also present guidelines to important practical design choices including caching update intervals, demand prediction and provisioning. We also demonstrate the feasibility and efficiency of our design choice by building and experimenting a prototype system at Berkeley.
+Advisors:  Kannan Ramchandran
+BibTeX citation:
+@phdthesis{Zhang:EECS-2012-229,
+Author= {Zhang, Hao},
+Title= {An Optimized Video-on-Demand System: Theory, Design and Implementation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-229.html},
+Number= {UCB/EECS-2012-229},
+Abstract= {Internet on-demand video traffic has seen explosive growth in recent years. This brings a number of challenges in deploying video-on-demand services at large scale. The first challenge has to do with the enormity of the video catalog size. Traditionally, content providers replicate the entire video library in different locations, but this is wasteful and non-scalable as the video catalog size expands. The second challenge comes with the increase in video quality, which calls for efficient utilization of the scarce network bandwidth resources that continue to be economically expensive to expand. The emergence of different device modalities, including smart-phones, high-definition and 3D TV, tablets and etc poses another challenge in designing efficient systems and algorithms that cater to all device characteristics and user needs.
+In this dissertation, we aim to present a general approach to designing, optimizing and architecting a video-on-demand system. Our approach considers the practical constraints of disk space, network link bandwidth, and node connection degree bound. In general, the joint optimization problem is combinatorially difficult. To tackle this, we first design a simple fractional storage architecture, which uses a class of regeneration codes that fluidifies the content, thereby enabling a distributed content placement and link rate allocation algorithm. We show that by storing only a fractional of the entire catalog everywhere, the system is able to fully support user demand at large scale. Second, we develop a Markov approximation technique to solve the problem of topology selection under node degree bound using a simple distributed algorithm. We prove that our algorithm achieves close-to-optimal solution, which we verify using extensive realworld trace simulations.
+On the system side, we show extensive results to test the algorithm's scalability and robustness to changes in user dynamics and demand patterns. We show that our solution achieves high utilization of cache nodes storage and bandwidth resources, and automatically learns and caches the video according to the demand patterns. We observe that there exists a complex interplay between disk space, network bandwidth and node degree bound. We also present guidelines to important practical design choices including caching update intervals, demand prediction and provisioning. We also demonstrate the feasibility and efficiency of our design choice by building and experimenting a prototype system at Berkeley.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhang, Hao
+%T An Optimized Video-on-Demand System: Theory, Design and Implementation
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 9
+%@ UCB/EECS-2012-229
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-229.html
+%F Zhang:EECS-2012-229

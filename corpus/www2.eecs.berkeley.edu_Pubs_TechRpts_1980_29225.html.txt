@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29225.html
+A Formal Model of Crash Recovery in a Distributed System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Formal Model of Crash Recovery in a Distributed System
+A Formal Model of Crash Recovery in a Distributed System
+Dale Skeen and Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/48
+December 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-48.pdf
+BibTeX citation:
+@techreport{Skeen:M80/48,
+Author = {Skeen, Dale and Stonebraker, Michael},
+Title = {A Formal Model of Crash Recovery in a Distributed System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29225.html},
+Number = {UCB/ERL M80/48}
+}
+EndNote citation:
+%0 Report
+%A Skeen, Dale
+%A Stonebraker, Michael
+%T A Formal Model of Crash Recovery in a Distributed System
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/48
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29225.html
+%F Skeen:M80/48

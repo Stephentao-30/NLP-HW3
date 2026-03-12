@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-188.html
+SLAC-RF: Simultaneous 3D Localization of mobile readers and Calibration of RFID supertags
+Venkatesan Ekambaram and Kannan Ramchandran
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-188
+August 18,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-188.pdf
+We propose a novel and inexpensive infrastructure for precise localization in non-line-of-sight wireless environ- ments using RFID tags. The proposed system utilizes specialized tags that we term as supertags. Each supertag is an array of individual single antenna RFID tags closely spaced so as to emulate a “virtual” antenna array. Multiple such supertags are installed in a 3D environment where we are interested in localizing mobile agents equipped with an RFID reader. Only a small fraction of the supertags are assumed to be calibrated in terms of their location and orientation. We develop signal processing algorithms to precisely estimate the location of the mobile reader and simultaneously calibrate the supertags. The goal is to design an inexpensive and precise localization system that is robust to non-line-of-sight errors, and which does not require careful placement of anchors in the environment. We show through simulations that it is possible to obtain highly accurate estimates of the mobile reader’s location even in a multipath rich environment, and that the supertags get calibrated over time as multiple mobile readers pass through the environment.
+BibTeX citation:
+@techreport{Ekambaram:EECS-2012-188,
+Author= {Ekambaram, Venkatesan and Ramchandran, Kannan},
+Title= {SLAC-RF: Simultaneous 3D Localization of mobile readers and Calibration of RFID supertags},
+Year= {2012},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-188.html},
+Number= {UCB/EECS-2012-188},
+Abstract= {We propose a novel and inexpensive infrastructure for precise localization in non-line-of-sight wireless environ- ments using RFID tags. The proposed system utilizes specialized tags that we term as supertags. Each supertag is an array of individual single antenna RFID tags closely spaced so as to emulate a “virtual” antenna array. Multiple such supertags are installed in a 3D environment where we are interested in localizing mobile agents equipped with an RFID reader. Only a small fraction of the supertags are assumed to be calibrated in terms of their location and orientation. We develop signal processing algorithms to precisely estimate the location of the mobile reader and simultaneously calibrate the supertags. The goal is to design an inexpensive and precise localization system that is robust to non-line-of-sight errors, and which does not require careful placement of anchors in the environment. We show through simulations that it is possible to obtain highly accurate estimates of the mobile reader’s location even in a multipath rich environment, and that the supertags get calibrated over time as multiple mobile readers pass through the environment.},
+}
+EndNote citation:
+%0 Report
+%A Ekambaram, Venkatesan
+%A Ramchandran, Kannan
+%T SLAC-RF: Simultaneous 3D Localization of mobile readers and Calibration of RFID supertags
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 August 18
+%@ UCB/EECS-2012-188
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-188.html
+%F Ekambaram:EECS-2012-188

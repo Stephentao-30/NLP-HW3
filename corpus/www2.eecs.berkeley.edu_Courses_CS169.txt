@@ -1,0 +1,53 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS169
+Course: CS169 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS169
+CS 169. Software Engineering
+Catalog Description:  Ideas and techniques for designing, developing, and modifying large software systems. Function-oriented and object-oriented modular design techniques, designing for re-use and maintainability. Specification and documentation. Verification and validation. Cost and quality metrics and estimation. Project team organization and management. Students will work in teams on a substantial programming project.
+Units:  4.0
+Prerequisites:  Computer Science 61B and 61C, and either Computer Science 70 or Mathematics 113.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+TuTh 2:00PM - 3:29PM, Valley Life Sciences 2060 –
+Armando Fox
+Spring 2019 class homepage on bCourses
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: To have detailed knowledge of the object-oriented software development method, and to be able to apply it. To master the development of a medium size software application from the conception stage to deployment, using modern technologies. To experience working in a team.  To master written technical communication.
+Topics covered:
+Software engineering processes
+Object-oriented processed
+Agile processes (Extreme programming)
+Gathering requirements
+Specifications
+Unified Modeling Language
+Design
+Unified Modeling Language
+Design patterns
+Version control
+Testing
+Regression testing
+Integration testing
+Test generation
+Debugging
+General principles
+Delta debugging
+Runtime monitoring
+Purify
+Cooperative Bug Isolation
+Diduce
+Eraser (data race debugging)
+Software security
+Verification
+Refactoring
+Software reuse
+Programming with Exceptions
+Related Areas:
+Operating Systems & Networking (OSNT)   Programming Systems (PS)

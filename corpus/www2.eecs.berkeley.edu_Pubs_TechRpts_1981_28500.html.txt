@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28500.html
+On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems
+On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems
+E. Polak and A.L. Tits
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/91
+November 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-91.pdf
+BibTeX citation:
+@techreport{Polak:M81/91,
+Author = {Polak, E. and Tits, A.L.},
+Title = {On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28500.html},
+Number = {UCB/ERL M81/91}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Tits, A.L.
+%T On Globally Stabilized Quasi-Newton Methods for Inequality Constrained Optimization Problems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/91
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28500.html
+%F Polak:M81/91

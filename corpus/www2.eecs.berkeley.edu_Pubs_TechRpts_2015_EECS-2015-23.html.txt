@@ -1,0 +1,57 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-23.html
+Semantics and Pragmatics of Spatial Reference | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Semantics and Pragmatics of Spatial Reference
+Semantics and Pragmatics of Spatial Reference
+Dave Golland
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-23
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-23.pdf
+In order for a robot to collaborate with a human to achieve a goal, the robot should be able to communicate by interpreting and generating natural language utterances. Past work has represented the meaning of natural language in terms of a given database of facts or a simple simulated environment, which simplifies the interpretation or generation process. However, the real world contains a richness and complexity missing from simple virtual environments. Databases present a distilled set of logical relations, whereas the relations in the physical world are more vague and challenging to discern.
+In this thesis, we relax these restrictions by presenting models that interpret and generate utterances in a physical environment. We present a compositional model for interpreting utterances that uses a learned model of lexical semantics to ground linguistic terms into the physical world. We also present a model for generating utterances that are both informative and unambiguous. To address the challenges of communicating about a physical world, our system perceives the environment with computer vision in order to recognize objects and determine relations. We focus on the domain of spatial relations and present a novel probabilistic model that is capable of discerning the spatial relations that are present in a physical scene. We establish the functionality of our system by deploying it on a robotic platform that interacts with a human to manipulate objects in a physical environment.
+Advisor:  Daniel Klein
+BibTeX citation:
+@phdthesis{Golland:EECS-2015-23,
+Author = {Golland, Dave},
+Title = {Semantics and Pragmatics of Spatial Reference},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-23.html},
+Number = {UCB/EECS-2015-23},
+Abstract = {In order for a robot to collaborate with a human to achieve a goal, the robot
+should be able to communicate by interpreting and generating natural language
+utterances.  Past work has represented the meaning of natural language in terms
+of a given database of facts or a simple simulated environment, which
+simplifies the interpretation or generation process.  However, the real world
+contains a richness and complexity missing from simple virtual environments.
+Databases present a distilled set of logical relations, whereas the relations
+in the physical world are more vague and challenging to discern.
+In this thesis, we relax these restrictions by presenting models that interpret
+and generate utterances in a physical environment.  We present a compositional
+model for interpreting utterances that uses a learned model of lexical
+semantics to ground linguistic terms into the physical world.  We also present
+a model for generating utterances that are both informative and unambiguous.
+To address the challenges of communicating about a physical world, our system
+perceives the environment with computer vision in order to recognize objects
+and determine relations.  We focus on the domain of spatial relations and
+present a novel probabilistic model that is capable of discerning the spatial
+relations that are present in a physical scene.  We establish the functionality
+of our system by deploying it on a robotic platform that interacts with a human
+to manipulate objects in a physical environment.}
+}
+EndNote citation:
+%0 Thesis
+%A Golland, Dave
+%T Semantics and Pragmatics of Spatial Reference
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-23
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-23.html
+%F Golland:EECS-2015-23

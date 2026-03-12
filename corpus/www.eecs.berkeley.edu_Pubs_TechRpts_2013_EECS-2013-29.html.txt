@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-29.html
+Sparrow: Scalable Scheduling for Sub-Second Parallel Jobs
+Kay Ousterhout and Patrick Wendell and Matei Zaharia and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-29
+April 10,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-29.pdf
+Large-scale data analytics frameworks are shifting towards shorter task durations and larger degrees of parallelism to provide low latency. However, scheduling highly parallel jobs that complete in hundreds of milliseconds poses a major challenge for cluster schedulers, which will need to place millions of tasks per second on appropriate nodes while offering millisecond-level latency and high availability. We demonstrate that a decentralized, randomized sampling approach provides near-optimal performance while avoiding the throughput and availability limitations of a centralized design. We implement and deploy our scheduler, Sparrow, on a real cluster and demonstrate that Sparrow performs within 14% of an ideal scheduler.
+BibTeX citation:
+@techreport{Ousterhout:EECS-2013-29,
+Author= {Ousterhout, Kay and Wendell, Patrick and Zaharia, Matei and Stoica, Ion},
+Title= {Sparrow: Scalable Scheduling for Sub-Second Parallel Jobs},
+Year= {2013},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-29.html},
+Number= {UCB/EECS-2013-29},
+Abstract= {Large-scale data analytics frameworks are shifting towards shorter task durations and larger degrees of parallelism to provide low latency. However, scheduling highly parallel jobs that complete in hundreds of milliseconds poses a major challenge for cluster schedulers, which will need to place millions of tasks per second on appropriate nodes while offering millisecond-level latency and high availability. We demonstrate that a decentralized, randomized sampling approach provides near-optimal performance while avoiding the throughput and availability limitations of a centralized design. We implement and deploy our scheduler, Sparrow, on a real cluster and demonstrate that Sparrow performs within 14% of an ideal scheduler.},
+}
+EndNote citation:
+%0 Report
+%A Ousterhout, Kay
+%A Wendell, Patrick
+%A Zaharia, Matei
+%A Stoica, Ion
+%T Sparrow: Scalable Scheduling for Sub-Second Parallel Jobs
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 April 10
+%@ UCB/EECS-2013-29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-29.html
+%F Ousterhout:EECS-2013-29

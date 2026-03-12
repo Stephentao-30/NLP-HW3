@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29156.html
+Lower Bounds on the Size of Deterministic Parsers
+Esko Ukkonen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/98
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-98.pdf
+BibTeX citation:
+@techreport{Ukkonen:M81/98,
+Author= {Ukkonen, Esko},
+Title= {Lower Bounds on the Size of Deterministic Parsers},
+Year= {1981},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29156.html},
+Number= {UCB/ERL M81/98},
+}
+EndNote citation:
+%0 Report
+%A Ukkonen, Esko
+%T Lower Bounds on the Size of Deterministic Parsers
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/98
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29156.html
+%F Ukkonen:M81/98

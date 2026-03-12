@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28412.html
+An Algorithm for Single-Row Routing with Prescribed Street Congestions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Single-Row Routing with Prescribed Street Congestions
+An Algorithm for Single-Row Routing with Prescribed Street Congestions
+S. Tsukiyama, E.S. Kuh and I. Shirakawa
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/81
+October 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-81.pdf
+BibTeX citation:
+@techreport{Tsukiyama:M78/81,
+Author = {Tsukiyama, S. and Kuh, E.S. and Shirakawa, I.},
+Title = {An Algorithm for Single-Row Routing with Prescribed Street Congestions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28412.html},
+Number = {UCB/ERL M78/81}
+}
+EndNote citation:
+%0 Report
+%A Tsukiyama, S.
+%A Kuh, E.S.
+%A Shirakawa, I.
+%T An Algorithm for Single-Row Routing with Prescribed Street Congestions
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/81
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28412.html
+%F Tsukiyama:M78/81

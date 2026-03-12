@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2001/8128.html
+Interactive Query Processing
+Vijayshankar Raman
+EECS Department, University of California, Berkeley
+2001
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Raman:8128,
+Author= {Raman, Vijayshankar},
+Title= {Interactive Query Processing},
+School= {EECS Department, University of California, Berkeley},
+Year= {2001},
+}
+EndNote citation:
+%0 Thesis
+%A Raman, Vijayshankar
+%T Interactive Query Processing
+%I EECS Department, University of California, Berkeley
+%D 2001
+%F Raman:8128

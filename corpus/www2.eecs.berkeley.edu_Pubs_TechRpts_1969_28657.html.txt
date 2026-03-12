@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28657.html
+Investigation of a Sheet Model for a Bounded Plasma with Magnetic Field and Radiation
+A.B. Langdon and J.M. Dawson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M257
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-257.pdf
+BibTeX citation:
+@techreport{Langdon:M257,
+Author= {Langdon, A.B. and Dawson, J.M.},
+Title= {Investigation of a Sheet Model for a Bounded Plasma with Magnetic Field and Radiation},
+Year= {1969},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28657.html},
+Number= {UCB/ERL M257},
+}
+EndNote citation:
+%0 Report
+%A Langdon, A.B.
+%A Dawson, J.M.
+%T Investigation of a Sheet Model for a Bounded Plasma with Magnetic Field and Radiation
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M257
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28657.html
+%F Langdon:M257

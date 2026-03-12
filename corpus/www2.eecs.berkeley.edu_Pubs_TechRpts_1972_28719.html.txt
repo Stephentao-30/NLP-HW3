@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28719.html
+Modeling the Step Response of Nonlinear Quasi-Static Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modeling the Step Response of Nonlinear Quasi-Static Systems
+Modeling the Step Response of Nonlinear Quasi-Static Systems
+L.O. Chua and R.J. Schilling
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M358
+September 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-358.pdf
+BibTeX citation:
+@techreport{Chua:M358,
+Author = {Chua, L.O. and Schilling, R.J.},
+Title = {Modeling the Step Response of Nonlinear Quasi-Static Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28719.html},
+Number = {UCB/ERL M358}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Schilling, R.J.
+%T Modeling the Step Response of Nonlinear Quasi-Static Systems
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M358
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28719.html
+%F Chua:M358

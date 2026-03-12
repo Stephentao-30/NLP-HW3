@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29185.html
+Optimum Locations on a Graph With Probabilistic Demands | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimum Locations on a Graph With Probabilistic Demands
+Optimum Locations on a Graph With Probabilistic Demands
+H. Frank
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M131
+October 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-131.pdf
+BibTeX citation:
+@techreport{Frank:M131,
+Author = {Frank, H.},
+Title = {Optimum Locations on a Graph With Probabilistic Demands},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29185.html},
+Number = {UCB/ERL M131}
+}
+EndNote citation:
+%0 Report
+%A Frank, H.
+%T Optimum Locations on a Graph With Probabilistic Demands
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M131
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29185.html
+%F Frank:M131

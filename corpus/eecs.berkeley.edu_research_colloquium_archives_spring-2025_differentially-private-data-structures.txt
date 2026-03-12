@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/spring-2025/differentially-private-data-structures
+Differentially Private Data Structures - EECS at Berkeley
+Differentially Private Data Structures
+Monika Henzinger gives her talk “Differentially Private Data Structures ” on  Jan. 27, 2025.
+EECS Colloquium
+Monday, January 27, 2025
+310 Sutardja Dai Hall (Banatao Auditorium) 4:00 – 5:00 pm
+Monika Henzinger
+Professor of Computer Science Vice President for Technology Transfer Institute of Science and Technology Austria (ISTA)
+Abstract
+Differential privacy is one of the most prominent definitions for privacy, being used not only in academic research but also in real-world applications such as Google’s next word prediction. The static data structures setting-where multiple queries must be answered in a differentially private manner over a static data set-is already well understood. The dynamic data structures setting—where updates to the data set occur alongside queries over the current data—was introduced in 2010 by Dwork, Naor, Pitassi, and Rothblum, who called it “differential privacy under continual observation.” It has received substantial attention in recent years, largely due to its application in private machine learning. More specifically, using differentially private dynamic data structures in the training of neural networks ensures the privacy of the data while minimizing the loss of prediction accuracy.
+I will survey the current state of research, outline the key algorithmic techniques, and highlight my own recent work on this topic. In particular, I will explain the currently most accurate algorithm on differentially private continual prefix sum, which is an essential subroutine in differentially private gradient descent.
+Biography
+Monika Henzinger is a Professor of Computer Science and Vice President for Technology Transfer at the Institute of Science and Technology Austria (ISTA). She holds a PhD in computer science from Princeton University. She was an assistant professor at Cornell University, a member of technical staff at the DEC Systems Research Center, the director of research at Google, and a professor of computer science at EPFL and at the University of Vienna. Monika is an ACM and EATCS Fellow and a member of the Austrian Academy of Sciences and the German National Academy of Sciences (Leopoldina). She has received an honorary doctorate from the Technical University of Dortmund, two Advanced Grants of the European Research Council, the Carus Medal of the Leopoldina, and the Wittgenstein Award of the Austrian Science Fund.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

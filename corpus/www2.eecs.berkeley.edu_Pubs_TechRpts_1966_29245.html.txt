@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29245.html
+Constant Resistance, wide-sense solvability, and self-duality
+C.A. Desoer and R.W. Newcomb and K.K. Wong
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M182
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-182.pdf
+BibTeX citation:
+@techreport{Desoer:M182,
+Author= {Desoer, C.A. and Newcomb, R.W. and Wong, K.K.},
+Title= {Constant Resistance, wide-sense solvability, and self-duality},
+Year= {1966},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29245.html},
+Number= {UCB/ERL M182},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Newcomb, R.W.
+%A Wong, K.K.
+%T Constant Resistance, wide-sense solvability, and self-duality
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M182
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29245.html
+%F Desoer:M182

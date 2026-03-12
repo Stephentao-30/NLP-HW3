@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28985.html
+Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model
+Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model
+Esko Ukkonen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/1
+January 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-1.pdf
+BibTeX citation:
+@techreport{Ukkonen:M82/1,
+Author = {Ukkonen, Esko},
+Title = {Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28985.html},
+Number = {UCB/ERL M82/1}
+}
+EndNote citation:
+%0 Report
+%A Ukkonen, Esko
+%T Exponential Lower Sounds for Some NP-Complete Problems in Restricted Linear Decision Tree Model
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/1
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28985.html
+%F Ukkonen:M82/1

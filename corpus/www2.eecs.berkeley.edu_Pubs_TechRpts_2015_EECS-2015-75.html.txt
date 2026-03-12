@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-75.html
+Closed-loop decoder adaptation algorithms for brain-machine interface systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Closed-loop decoder adaptation algorithms for brain-machine interface systems
+Closed-loop decoder adaptation algorithms for brain-machine interface systems
+Siddharth Dangi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-75
+May 13, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-75.pdf
+Brain-machine interfaces (BMIs) aim to assist patients suffering from neurological injuries and disease by enabling them to use their own neural activity to control external devices such as computer cursors or robotic arms, or even drive movements of their own body via muscle stimulation. At the heart of a BMI system is the decoding algorithm, or “decoder”, that translates recorded neural activity into control signals for a prosthetic device. Decoders are often initialized offline by first recording neural activity while a subject performs real movements, or observes or imagines movements, and then fitting a decoder to predict these movements from the neural activity. However, BMIs are fundamentally closed-loop systems, since BMI users receive performance feedback (e.g. by visual observation of the prosthetic's movements), and the prediction power of decoders trained offline does not directly correlate with closed-loop performance. In other words, a high level of BMI performance can not necessarily be achieved solely by optimizing decoder parameters in an open-loop setting.
+Two different mechanisms have been leveraged in the closed-loop regime to facilitate performance improvements. The first mechanism, neural plasticity or brain adaptation, is the ability of neurons to adapt their receptive fields and tuning properties to facilitate performance improvements. The second, a newly-emerging paradigm known as Closed-Loop Decoder Adaptation (CLDA), aims to update decoder parameters during closed-loop BMI operation in order to make the decoder’s output more accurately reflect the user’s intended BMI movements. In this work, we leverage the power of CLDA to both improve and maintain BMI performance. First, we introduce a CLDA algorithm that can rapidly improve BMI performance independent of method by which the decoder is seeded, which may be crucial for clinical applications where patients have limited movement and sensory abilities due to motor deficits. We then present a general framework for the design and analysis of CLDA algorithms, and demonstrate that mathematical convergence analysis can be a useful paradigm for evaluating the convergence properties of a prototype CLDA algorithm before experimental testing. Next, we then apply the CLDA technique to demonstrate high-performance, proficient BMI control based on local field potential signals instead of spikes, and demonstrate that there is broad flexibility in the frequencies that could potentially be used for LFP-based BMI control. Finally, we introduce a new CLDA algorithm called Recursive Maximum Likelihood that adapts decoder parameters very rapidly and efficiently, and possesses a variety of useful properties and practical algorithmic advantages. We test all of our algorithms and methods in closed-loop experiments by training macaque monkeys to perform a center-out reaching task using either spiking activity or local field potentials to control a 2D computer cursor. Overall, our work makes important progress towards demonstrating the power of closed-loop decoder adaptation as a useful tool for developing high-performance brain machine interface systems.
+Advisor:  Jose M. Carmena
+BibTeX citation:
+@phdthesis{Dangi:EECS-2015-75,
+Author = {Dangi, Siddharth},
+Title = {Closed-loop decoder adaptation algorithms for brain-machine interface systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-75.html},
+Number = {UCB/EECS-2015-75},
+Abstract = {Brain-machine interfaces (BMIs) aim to assist patients suffering from neurological injuries and disease by enabling them to use their own neural activity to control external devices such as computer cursors or robotic arms, or even drive movements of their own body via muscle stimulation. At the heart of a BMI system is the decoding algorithm, or “decoder”, that translates recorded neural activity into control signals for a prosthetic device. Decoders are often initialized offline by first recording neural activity while a subject performs real movements, or observes or imagines movements, and then fitting a decoder to predict these movements from the neural activity. However, BMIs are fundamentally closed-loop systems, since BMI users receive performance feedback (e.g. by visual observation of the prosthetic's movements), and the prediction power of decoders trained offline does not directly correlate with closed-loop performance. In other words, a high level of BMI performance can not necessarily be achieved solely by optimizing decoder parameters in an open-loop setting.
+Two different mechanisms have been leveraged in the closed-loop regime to facilitate performance improvements. The first mechanism, neural plasticity or brain adaptation, is the ability of neurons to adapt their receptive fields and tuning properties to facilitate performance improvements. The second, a newly-emerging paradigm known as Closed-Loop Decoder Adaptation (CLDA), aims to update decoder parameters during closed-loop BMI operation in order to make the decoder’s output more accurately reflect the user’s intended BMI movements. In this work, we leverage the power of CLDA to both improve and maintain BMI performance. First, we introduce a CLDA algorithm that can rapidly improve BMI performance independent of method by which the decoder is seeded, which may be crucial for clinical applications where patients have limited movement and sensory abilities due to motor deficits. We then present a general framework for the design and analysis of CLDA algorithms, and demonstrate that mathematical convergence analysis can be a useful paradigm for evaluating the convergence properties of a prototype CLDA algorithm before experimental testing. Next, we then apply the CLDA technique to demonstrate high-performance, proficient BMI control based on local field potential signals instead of spikes, and demonstrate that there is broad flexibility in the frequencies that could potentially be used for LFP-based BMI control. Finally, we introduce a new CLDA algorithm called Recursive Maximum Likelihood that adapts decoder parameters very rapidly and efficiently, and possesses a variety of useful properties and practical algorithmic advantages. We test all of our algorithms and methods in closed-loop experiments by training macaque monkeys to perform a center-out reaching task using either spiking activity or local field potentials to control a 2D computer cursor. Overall, our work makes important progress towards demonstrating the power of closed-loop decoder adaptation as a useful tool for developing high-performance brain machine interface systems.}
+}
+EndNote citation:
+%0 Thesis
+%A Dangi, Siddharth
+%T Closed-loop decoder adaptation algorithms for brain-machine interface systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 13
+%@ UCB/EECS-2015-75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-75.html
+%F Dangi:EECS-2015-75

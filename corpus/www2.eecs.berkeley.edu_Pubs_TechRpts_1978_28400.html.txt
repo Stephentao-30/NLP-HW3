@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28400.html
+On Self-learning Pattern Classification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Self-learning Pattern Classification
+On Self-learning Pattern Classification
+R.L. De Mantaras
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/63
+September 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-63.pdf
+BibTeX citation:
+@techreport{De Mantaras:M78/63,
+Author = {De Mantaras, R.L.},
+Title = {On Self-learning Pattern Classification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28400.html},
+Number = {UCB/ERL M78/63}
+}
+EndNote citation:
+%0 Report
+%A De Mantaras, R.L.
+%T On Self-learning Pattern Classification
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28400.html
+%F De Mantaras:M78/63

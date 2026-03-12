@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/221102-2
+Reinventing Computing: How necessity will transform next-generation infrastructure - EECS at Berkeley
+Reinventing Computing: How necessity will transform next-generation infrastructure
+EECS Colloquium
+Wednesday, November 2, 2022
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Amin Vahdat
+Fellow and Vice President of Engineering
+Google
+Amin Vahdat speaks on "Reinventing Computing: How necessity will transform next-generation infrastructure," 11/02/22
+Abstract
+The rise of scale-out, general-purpose, cluster computing coupled with sustained exponential growth in underlying hardware performance fueled planetary-scale services and connectivity that would have seemed unimaginable 20 years ago. However, the underlying trends fueling this transformation are ending just as we face unprecedented demand in machine learning, data processing, and sovereignty. In this talk, we will review both the history of this transformation and argue that the current computing landscape necessitates novel thinking and invention to fuel the next 1000x growth in capacity and capability, all while supporting a fundamentally different security and reliability posture to support modern societal infrastructure. In particular, we discuss how emerging approaches in i) computing specialization, ii) system rather than component optimization, and iii) new hardware organization, data hierarchies, and programming models are shaping the architectural paradigms for the next epoch of computing.
+Biography
+Amin Vahdat is a Fellow and Vice President of Engineering at Google, where his team is responsible for engineering and product management for Compute (Borg/Cluster Scheduling, and Operating Systems), Platforms (TPUs, Accelerators, Servers, Storage, and Networking), Network Infrastructure (Datacenter, Campus, RPC, and End Host network software), and Google Cloud’s Compute, Storage, and Network Products (including Google Compute Engine, Cloud Networking, and Google Cloud Storage), and the Systems Research Group. Until 2019, he was the Area Technical Lead for Networking at Google, responsible for Google’s Technical Infrastructure roadmap in collaboration with peers in Compute, Storage, and Hardware. Vahdat is active in the Computer Science systems and networking research communities, with his work being recognized by eight best paper awards and five test of time awards.
+In the past, he was the SAIC Professor of Computer Science and Engineering at UC San Diego and the Director of UCSD’s Center for Networked Systems. Vahdat received his Ph.D. from UC Berkeley in Computer Science, is an ACM Fellow and a past recipient of the NSF CAREER award, UC Berkeley Distinguished EECS Alumni Award, the Alfred P. Sloan Fellowship, the SIGCOMM Networking Systems Award, and the Duke University David and Janet Vaughn Teaching Award. Most recently, Amin was awarded the SIGCOMM lifetime achievement award for his contributions to data center and wide area networks.
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

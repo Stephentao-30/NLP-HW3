@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28672.html
+Some Results Concerning Time-Varying Networks Having a Time-Invariant Terminal Behavior | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Some Results Concerning Time-Varying Networks Having a Time-Invariant Terminal Behavior
+Some Results Concerning Time-Varying Networks Having a Time-Invariant Terminal Behavior
+Ronald A. Skoog
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M283
+September 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-283.pdf
+BibTeX citation:
+@techreport{Skoog:M283,
+Author = {Skoog, Ronald A.},
+Title = {Some Results Concerning Time-Varying Networks Having a Time-Invariant Terminal Behavior},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28672.html},
+Number = {UCB/ERL M283}
+}
+EndNote citation:
+%0 Report
+%A Skoog, Ronald A.
+%T Some Results Concerning Time-Varying Networks Having a Time-Invariant Terminal Behavior
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M283
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28672.html
+%F Skoog:M283

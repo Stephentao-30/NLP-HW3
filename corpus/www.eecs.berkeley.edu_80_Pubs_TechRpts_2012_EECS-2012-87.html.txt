@@ -1,0 +1,45 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-87.html
+Germanium-Source Tunnel Field Effect Transistors for Ultra-Low Power Digital Logic
+Sung Hwan Kim
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-87
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-87.pdf
+Driven by a strong demand for mobile and portable electronics, the chip market will undoubtedly impose “low power” as the key metric for microprocessor design. Although
+circuit and system level methods can be employed to reduce power, the fundamental limit in the overall energy efficiency of a system is still rooted in the Metal-Oxide-
+Semiconductor Field Effect Transistor (MOSFET) operating principle and its immutable physics: an injection of thermally distributed carriers will not allow for switching
+characteristics better than 60 mV/dec at room temperature. This constraint ultimately defines the lowest energy consumed per digital operation attainable with current
+Complementary-Metal-Oxide-Semiconductor (CMOS) technology.
+In this work, Tunnel Field Effect Transistor (TFET) based on Band-to-Band Tunneling (BTBT) will be proposed and investigated as an alternative logic switch which can achieve steeper switching characteristics than the MOSFET to permit for lower threshold (VTH) and supply voltage (VDD) operation. It will be experimentally demonstrated that by employing Germanium (Ge) only in the source region of the device, a record high on to off current ratio (ION/IOFF) can be obtained for 0.5 V operation. Technology Computer Aided Design (TCAD) calibrated to the measured data will be used to perform design optimization study. The performance of the optimized Ge-source TFET will be benchmarked against CMOS
+technology to show greater than 10x improvement in the overall energy efficiency for frequency range up to 500 MHz. The fundamental challenges associated with TFET-based
+digital logic design will be addressed. In order to mitigate these constraints, a circuit-level solution based on n-channel TFET Pass-Transistor Logic (PTL) will be proposed and demonstrated through mixed-mode simulations. The accompanying design modifications required at the device level will be discussed.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Kim:EECS-2012-87,
+Author= {Kim, Sung Hwan},
+Title= {Germanium-Source Tunnel Field Effect Transistors for Ultra-Low Power Digital Logic},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-87.html},
+Number= {UCB/EECS-2012-87},
+Abstract= {Driven by a strong demand for mobile and portable electronics, the chip market will undoubtedly impose “low power” as the key metric for microprocessor design. Although
+circuit and system level methods can be employed to reduce power, the fundamental limit in the overall energy efficiency of a system is still rooted in the Metal-Oxide-
+Semiconductor Field Effect Transistor (MOSFET) operating principle and its immutable physics: an injection of thermally distributed carriers will not allow for switching
+characteristics better than 60 mV/dec at room temperature. This constraint ultimately defines the lowest energy consumed per digital operation attainable with current
+Complementary-Metal-Oxide-Semiconductor (CMOS) technology.
+In this work, Tunnel Field Effect Transistor (TFET) based on Band-to-Band Tunneling (BTBT) will be proposed and investigated as an alternative logic switch which can achieve steeper switching characteristics than the MOSFET to permit for lower threshold (VTH) and supply voltage (VDD) operation. It will be experimentally demonstrated that by employing Germanium (Ge) only in the source region of the device, a record high on to off current ratio (ION/IOFF) can be obtained for 0.5 V operation. Technology Computer Aided Design (TCAD) calibrated to the measured data will be used to perform design optimization study. The performance of the optimized Ge-source TFET will be benchmarked against CMOS
+technology to show greater than 10x improvement in the overall energy efficiency for frequency range up to 500 MHz. The fundamental challenges associated with TFET-based
+digital logic design will be addressed. In order to mitigate these constraints, a circuit-level solution based on n-channel TFET Pass-Transistor Logic (PTL) will be proposed and demonstrated through mixed-mode simulations. The accompanying design modifications required at the device level will be discussed.},
+}
+EndNote citation:
+%0 Thesis
+%A Kim, Sung Hwan
+%T Germanium-Source Tunnel Field Effect Transistors for Ultra-Low Power Digital Logic
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-87
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-87.html
+%F Kim:EECS-2012-87

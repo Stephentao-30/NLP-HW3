@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28879.html
+On Random Sets and Belief Functions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Random Sets and Belief Functions
+On Random Sets and Belief Functions
+H.T. Nguyen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/14
+April 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-14.pdf
+BibTeX citation:
+@techreport{Nguyen:M77/14,
+Author = {Nguyen, H.T.},
+Title = {On Random Sets and Belief Functions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28879.html},
+Number = {UCB/ERL M77/14}
+}
+EndNote citation:
+%0 Report
+%A Nguyen, H.T.
+%T On Random Sets and Belief Functions
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28879.html
+%F Nguyen:M77/14

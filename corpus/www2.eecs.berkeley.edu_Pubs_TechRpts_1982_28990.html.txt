@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28990.html
+Experimental Study of High Beta Ballooning Modes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Experimental Study of High Beta Ballooning Modes
+Experimental Study of High Beta Ballooning Modes
+H.D. Price, N.M.P. Benjamin, A.J. Lichtenberg and M.A. Lieberman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/54
+June 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-54.pdf
+BibTeX citation:
+@techreport{Price:M82/54,
+Author = {Price, H.D. and Benjamin, N.M.P. and Lichtenberg, A.J. and Lieberman, M.A.},
+Title = {Experimental Study of High Beta Ballooning Modes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28990.html},
+Number = {UCB/ERL M82/54}
+}
+EndNote citation:
+%0 Report
+%A Price, H.D.
+%A Benjamin, N.M.P.
+%A Lichtenberg, A.J.
+%A Lieberman, M.A.
+%T Experimental Study of High Beta Ballooning Modes
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/54
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28990.html
+%F Price:M82/54

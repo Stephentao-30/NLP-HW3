@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/spring-2025/educability-as-a-technological-proposal
+Educability as a Technological Proposal - EECS at Berkeley
+Educability as a Technological Proposal
+Leslie Valiant gives his talk “Educability as a Technological Proposal ” on  Jan. 22, 2025.
+EECS Colloquium
+Wednesday, January 22, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Leslie Valiant
+T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics, School of Engineering and Applied Science
+Harvard University
+Abstract
+We seek to define the capability that has enabled humans to develop the civilization we have, and that distinguishes us from other species. “Intelligence” does not work here because we have no agreed definition of what intelligence is or how an intelligent entity behaves. We need a concept that is behaviorally better defined. The definition will need to be computational in the sense that the expected outcomes of exercising the capability need to be both specifiable and computationally feasible. This formulation is related to the goals of artificial intelligence research but is not synonymous with it, leaving out many capabilities we share with other species.
+We make a proposal for this essential human capability and call it “educability.” It synthesizes abilities to learn from experience, to learn from others, and to chain together what we have learned in either mode and apply that to particular situations. It starts with the now standard notion of learning from examples as captured by the Probably Approximately Correct model and successfully used in machine learning. The question is how to round out this notion in order to capture the general human capability for absorbing and using information from the environment.
+Since educability is defined in computational terms it constitutes a feasible goal for computer technology. We will describe the implications, challenges and possible next steps.
+Biography
+Leslie Valiant was educated at King’s College, Cambridge; Imperial College, London; and at Warwick University where he received his Ph.D. in computer science in 1974. He is currently T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics in the School of Engineering and Applied Sciences at Harvard University, where he has taught since 1982. Before coming to Harvard he had taught at Carnegie Mellon University, Leeds University, and the University of Edinburgh.
+His work has ranged over several areas of theoretical computer science, particularly complexity theory, machine learning, and parallel computation. He also has interests in computational neuroscience, evolution, and artificial intelligence and is the author of three books, Circuits of the Mind, Probably Approximately Correct, and The Importance of Being Educable.
+He received the Nevanlinna Prize at the International Congress of Mathematicians in 1986, the Knuth Award in 1997, the European Association for Theoretical Computer Science EATCS Award in 2008, and the 2010 A. M. Turing Award. He is a Fellow of the Royal Society (London) and a member of the National Academy of Sciences (USA).
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

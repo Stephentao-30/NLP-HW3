@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/8179.html
+A Scalable Content-Addressable Network
+Sylvia P. Ratnasamy
+EECS Department, University of California, Berkeley
+2002
+Advisors:  Scott Shenker and Ion Stoica
+BibTeX citation:
+@phdthesis{Ratnasamy:8179,
+Author= {Ratnasamy, Sylvia P.},
+Title= {A Scalable Content-Addressable Network},
+School= {EECS Department, University of California, Berkeley},
+Year= {2002},
+}
+EndNote citation:
+%0 Thesis
+%A Ratnasamy, Sylvia P.
+%T A Scalable Content-Addressable Network
+%I EECS Department, University of California, Berkeley
+%D 2002
+%F Ratnasamy:8179

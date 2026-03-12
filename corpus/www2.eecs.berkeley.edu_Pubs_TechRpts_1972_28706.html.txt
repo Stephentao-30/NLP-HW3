@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28706.html
+Excitation Control of Synchronous Generations
+Dale E. Mesple and Thomas K.K. Tam and Otto J. M. Smith
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M337
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-337.pdf
+BibTeX citation:
+@techreport{Mesple:M337,
+Author= {Mesple, Dale E. and Tam, Thomas K.K. and Smith, Otto J. M.},
+Title= {Excitation Control of Synchronous Generations},
+Year= {1972},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28706.html},
+Number= {UCB/ERL M337},
+}
+EndNote citation:
+%0 Report
+%A Mesple, Dale E.
+%A Tam, Thomas K.K.
+%A Smith, Otto J. M.
+%T Excitation Control of Synchronous Generations
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M337
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28706.html
+%F Mesple:M337

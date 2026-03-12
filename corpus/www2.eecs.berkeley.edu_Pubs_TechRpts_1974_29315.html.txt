@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29315.html
+Optimizing Architecture in Parallel Processing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimizing Architecture in Parallel Processing
+Optimizing Architecture in Parallel Processing
+Kwang Hae Kim
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M482
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-482.pdf
+BibTeX citation:
+@techreport{Kim:M482,
+Author = {Kim, Kwang Hae},
+Title = {Optimizing Architecture in Parallel Processing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29315.html},
+Number = {UCB/ERL M482}
+}
+EndNote citation:
+%0 Report
+%A Kim, Kwang Hae
+%T Optimizing Architecture in Parallel Processing
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M482
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29315.html
+%F Kim:M482

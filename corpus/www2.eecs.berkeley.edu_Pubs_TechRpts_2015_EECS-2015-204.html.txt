@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-204.html
+A Fast Parameterized SHA3 Accelerator | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Fast Parameterized SHA3 Accelerator
+A Fast Parameterized SHA3 Accelerator
+Colin Schmidt and Adam Izraelevitz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-204
+October 23, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-204.pdf
+Security is an extremely important feature in modern computer systems. The fundamental basis of many security problems, most notably authentication, is a secure hashing algorithm. These algorithms take a message, return a fixed size hash for the message, and require the following important properties: ease of hash computation, inability of generating the message from the hash, inability to change the message and not the hash, and inability to have the same hash for two different messages. A family of these algorithms has been standardized by NIST and given the name Secure Hashing Algorithm (SHA). The newest of this family is SHA3, formerly known as Keccak, and thus contains the most opportunity for design space exploration. Since this hashing function will be frequently used, requires many operations per input and is generally inefficient on a general purpose CPU, it is an ideal function to be implemented with a hardware accelerator to improve performance (hashes/sec) and energy use (hashes/Watt). In order to facilitate choosing a hashing accelerator for a particular project, a parameterized implementation is developed and explored using automated tools.
+BibTeX citation:
+@techreport{Schmidt:EECS-2015-204,
+Author = {Schmidt, Colin and Izraelevitz, Adam},
+Title = {A Fast Parameterized SHA3 Accelerator},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-204.html},
+Number = {UCB/EECS-2015-204},
+Abstract = {Security is an extremely important feature in modern computer systems. The fundamental basis of many security problems, most notably authentication, is a secure hashing algorithm. These algorithms take a message, return a fixed size hash for the message, and require the following important properties: ease of hash computation, inability of generating the message from the hash, inability to change the message and not the hash, and inability to have the same hash for two different messages. A family of these algorithms has been standardized by NIST and given the name Secure Hashing Algorithm (SHA). The newest of this family is SHA3, formerly known as Keccak, and thus contains the most opportunity for design space exploration. Since this hashing function will be frequently used, requires many operations per input and is generally inefficient on a general purpose CPU, it is an ideal function to be implemented with a hardware accelerator to improve performance (hashes/sec) and energy use (hashes/Watt). In order to facilitate choosing a hashing accelerator for a particular project, a parameterized implementation is developed and explored using automated tools.}
+}
+EndNote citation:
+%0 Report
+%A Schmidt, Colin
+%A Izraelevitz, Adam
+%T A Fast Parameterized SHA3 Accelerator
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 October 23
+%@ UCB/EECS-2015-204
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-204.html
+%F Schmidt:EECS-2015-204

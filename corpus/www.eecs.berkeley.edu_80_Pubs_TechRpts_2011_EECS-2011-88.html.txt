@@ -1,0 +1,27 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-88.html
+Improving File System Reliability and Availability with Continuous Checker and Repair
+Haryadi S. Gunawi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-88
+August 4,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-88.pdf
+BibTeX citation:
+@techreport{Gunawi:EECS-2011-88,
+Author= {Gunawi, Haryadi S.},
+Title= {Improving File System Reliability and Availability with Continuous Checker and Repair},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-88.html},
+Number= {UCB/EECS-2011-88},
+}
+EndNote citation:
+%0 Report
+%A Gunawi, Haryadi S.
+%T Improving File System Reliability and Availability with Continuous Checker and Repair
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 4
+%@ UCB/EECS-2011-88
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-88.html
+%F Gunawi:EECS-2011-88

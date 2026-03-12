@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-192.html
+Millimeter-Wave Circuit Design for Radar Transceivers
+Paul Swirhun
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-192
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-192.pdf
+Due to advancements in transistor technology, silicon integrated circuits are pushing the boundaries to bring high-frequency electronics to a larger market at lower cost. In particular, the high cutoff frequency of today’s advanced CMOS and SiGe bipolar devices are enabling communication, radar, and imaging circuits operating at millimeter-wave frequencies (30-300GHz) to be successfully integrated in commercial silicon processes. Radar techniques invented and developed for military applications are finding their way into consumer products, and a number of millimeter-wave radars and radar sub-circuits now operate in the 77GHz automotive radar band. Other millimeter-wave imaging applications already include security screening and may soon include medical imaging at a large scale. This work presents the design and measurement of a 94GHz frequency-modulated continuous-wave (FMCW) polarimetric radar transceiver front-end and its constituent circuit components, implemented in a commercial SiGe BiCMOS process. The architecture seeks to address transmitter leakage through a passive cancellation scheme and dual-polarization antenna, and may reduce the footprint of large phased array radars by requiring only a single antenna to simultaneously transmit and receive at each element of the array. Millimeter-wave circuit design and modeling techniques are discussed and a receiver consisting of a low-noise amplifier (LNA) and dual quadrature mixers is presented. Without any de-embedding of pads, the LNA achieves 14dB of gain, >22GHz bandwidth, and a noise figure of 7.5dB while consuming 20mW. Advantages and disadvantages of the direct-coupled polarimetric radar architecture are presented, and a first implementation of the complete transceiver unit cell is presented, including the transmitter, receiver, and a number of on-chip millimeter-wave passives.
+Advisors:  Ali Niknejad
+BibTeX citation:
+@mastersthesis{Swirhun:EECS-2013-192,
+Author= {Swirhun, Paul},
+Title= {Millimeter-Wave Circuit Design for Radar Transceivers},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-192.html},
+Number= {UCB/EECS-2013-192},
+Abstract= {Due to advancements in transistor technology, silicon integrated circuits are pushing the boundaries to bring high-frequency electronics to a larger market at lower cost. In particular, the high cutoff frequency of today’s advanced CMOS and SiGe bipolar devices are enabling communication, radar, and imaging circuits operating at millimeter-wave frequencies (30-300GHz) to be successfully integrated in commercial silicon processes. Radar techniques invented and developed for military applications are finding their way into consumer products, and a number of millimeter-wave radars and radar sub-circuits now operate in the 77GHz automotive radar band. Other millimeter-wave imaging applications already include security screening and may soon include medical imaging at a large scale. This work presents the design and measurement of a 94GHz frequency-modulated continuous-wave (FMCW) polarimetric radar transceiver front-end and its constituent circuit components, implemented in a commercial SiGe BiCMOS process. The architecture seeks to address transmitter leakage through a passive cancellation scheme and dual-polarization antenna, and may reduce the footprint of large phased array radars by requiring only a single antenna to simultaneously transmit and receive at each element of the array. Millimeter-wave circuit design and modeling techniques are discussed and a receiver consisting of a low-noise amplifier (LNA) and dual quadrature mixers is presented. Without any de-embedding of pads, the LNA achieves 14dB of gain, >22GHz bandwidth, and a noise figure of 7.5dB while consuming 20mW. Advantages and disadvantages of the direct-coupled polarimetric radar architecture are presented, and a first implementation of the complete transceiver unit cell is presented, including the transmitter, receiver, and a number of on-chip millimeter-wave passives.},
+}
+EndNote citation:
+%0 Thesis
+%A Swirhun, Paul
+%T Millimeter-Wave Circuit Design for Radar Transceivers
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-192
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-192.html
+%F Swirhun:EECS-2013-192

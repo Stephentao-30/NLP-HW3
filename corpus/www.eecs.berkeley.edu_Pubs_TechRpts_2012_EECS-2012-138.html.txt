@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-138.html
+Analysis of LED Technologies for Solid State Lighting Markets
+Emmanuel Chao
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-138
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-138.pdf
+Light emitting diode (LED) technologies present significant advantages compared to today’s lighting solutions: LEDs are favorable in terms of their electrical efficiency, economical value, and environmental impact. The question remains, when, if at all, will these technologies replace all the light bulbs and tubes in the world? We addressed this question by surveying both the technology and market landscape for solid state lighting. We found that solid state lighting technologies will become the dominant lighting solution within several years, as they steadily improve in color quality, brightness, and cost, and receive support from environmental and political policies.
+Advisors:  Constance Chang-Hasnain and Sayeef Salahuddin
+BibTeX citation:
+@mastersthesis{Chao:EECS-2012-138,
+Author= {Chao, Emmanuel},
+Title= {Analysis of LED Technologies for Solid State Lighting Markets},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-138.html},
+Number= {UCB/EECS-2012-138},
+Abstract= {Light emitting diode (LED) technologies present significant advantages compared to today’s lighting solutions: LEDs are favorable in terms of their electrical efficiency, economical value, and environmental impact. The question remains, when, if at all, will these technologies replace all the light bulbs and tubes in the world? We addressed this question by surveying both the technology and market landscape for solid state lighting. We found that solid state lighting technologies will become the dominant lighting solution within several years, as they steadily improve in color quality, brightness, and cost, and receive support from environmental and political policies.},
+}
+EndNote citation:
+%0 Thesis
+%A Chao, Emmanuel
+%T Analysis of LED Technologies for Solid State Lighting Markets
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-138
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-138.html
+%F Chao:EECS-2012-138

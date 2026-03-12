@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-255.html
+Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters
+Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters
+Henry Barrow
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-255
+December 18, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-255.pdf
+Both the accuracy of the clocks and ability of filters to achieve bandwidths small enough to select individual channels depend heavily on the accuracy and precision to which the frequency-setting devices they rely on are constructed. Inevitably, fabrication tolerances are finite, which means the ability to attain the highest performance relies on trimming or tuning. This dissertation focuses on methods by which voltage-controlled frequency tuning of capacitively-transduced micromechanical resonators make possible 1) an ultra-compact, low-power 32.768-kHz micromechanical clock oscillator; and 2) a high-order, small percent bandwidth coupled-resonator filter with minimal passband distortion. Currently, quartz crystal-based oscillators at 32.768 kHz dominate the market because they offer the best combination of cost and performance. However, the physical dimensions of these oscillators are presently too large for future small form-factor electronic applications, such as ones that fit within credit cards. While there have been attempts to shrink quartz resonating elements, the increasingly difficult fabrication steps required to produce such devices raises manufacturing costs, thereby preventing widespread adoption (so far). In addition, quartz crystal motional resistance values typically increase as resonator dimensions shrink, which in many oscillator configurations raises power consumption. Unlike common quartz resonators, properly designed MEMS resonators benefit greatly from scaling in that reductions in lateral dimensions lead to a rapid decrease in motional resistance by a square law. The work described herein harnesses these scaling advantages to realize an oscillator much smaller than quartz-based oscillators with potential for much less power consumption. Specifically, this work uses aggressive lithography to achieve a capacitive-comb transduced micromechanical resonator occupying only 0.0154 mm2 of die area. Wire bonding this resonator to a custom sustaining amplifier and a supply voltage of only 1.65V then realizes a 32.768-kHz real-time clock oscillator more than 100× smaller by area than miniaturized quartz crystal implementations and at least 4× smaller than other MEMS-based approaches. The use of voltage-controlled tuning Oscillations sustains with only 2.1 μW of power consumption. On the filter front, whether realized using quartz, FBAR, or capacitive-gap transduced MEMS resonator, mechanical filter responses are only as flat as the accuracy of their constituent resonator center frequencies. While narrowband micromechanical filters comprised of up to three mechanically coupled resonators have been demonstrated in the past, there exists a demand for bandpass filters with even sharper roll-offs and larger stopband rejections, and this requires higher order filters utilizing more than three coupled resonators. The work herein demonstrates filters comprised of four coupled resonators with bandwidths narrow enough to select individual channels. Before correction, filter passbands fresh out of the fab look nothing like their intended responses. Application of the automated passband correction protocol of this work, based on voltage-controlled frequency tuning, permits measurement of a 4-resonator micromechanical filter with a 0.1% bandwidth commensurate with the needs of channel-selection (albeit at a low frequency) and an impressive 20-dB shape factor of 1.59, all with less than 3dB of additional passband ripple (beyond the design ripple).
+Advisor:  Clark Nguyen
+BibTeX citation:
+@phdthesis{Barrow:EECS-2015-255,
+Author = {Barrow, Henry},
+Title = {Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-255.html},
+Number = {UCB/EECS-2015-255},
+Abstract = {Both the accuracy of the clocks and ability of filters to achieve bandwidths small enough to select individual channels depend heavily on the accuracy and precision to which the frequency-setting devices they rely on are constructed. Inevitably, fabrication tolerances are finite, which means the ability to attain the highest performance relies on trimming or tuning. This dissertation focuses on methods by which voltage-controlled frequency tuning of capacitively-transduced micromechanical resonators make possible 1) an ultra-compact, low-power 32.768-kHz micromechanical clock oscillator; and 2) a high-order, small percent bandwidth coupled-resonator filter with minimal passband distortion.
+Currently, quartz crystal-based oscillators at 32.768 kHz dominate the market because they offer the best combination of cost and performance. However, the physical dimensions of these oscillators are presently too large for future small form-factor electronic applications, such as ones that fit within credit cards. While there have been attempts to shrink quartz resonating elements, the increasingly difficult fabrication steps required to produce such devices raises manufacturing costs, thereby preventing widespread adoption (so far). In addition, quartz crystal motional resistance values typically increase as resonator dimensions shrink, which in many oscillator configurations raises power consumption.
+Unlike common quartz resonators, properly designed MEMS resonators benefit greatly from scaling in that reductions in lateral dimensions lead to a rapid decrease in motional resistance by a square law. The work described herein harnesses these scaling advantages to realize an oscillator much smaller than quartz-based oscillators with potential for much less power consumption. Specifically, this work uses aggressive lithography to achieve a capacitive-comb transduced micromechanical resonator occupying only 0.0154 mm2 of die area. Wire bonding this resonator to a custom sustaining amplifier and a supply voltage of only 1.65V then realizes a 32.768-kHz real-time clock oscillator more than 100× smaller by area than miniaturized quartz crystal implementations and at least 4× smaller than other MEMS-based approaches. The use of voltage-controlled tuning Oscillations sustains with only 2.1 μW of power consumption.
+On the filter front, whether realized using quartz, FBAR, or capacitive-gap transduced MEMS resonator, mechanical filter responses are only as flat as the accuracy of their constituent resonator center frequencies. While narrowband micromechanical filters comprised of up to three mechanically coupled resonators have been demonstrated in the past, there exists a demand for bandpass filters with even sharper roll-offs and larger stopband rejections, and this requires higher order filters utilizing more than three coupled resonators.
+The work herein demonstrates filters comprised of four coupled resonators with bandwidths narrow enough to select individual channels. Before correction, filter passbands fresh out of the fab look nothing like their intended responses. Application of the automated passband correction protocol of this work, based on voltage-controlled frequency tuning, permits measurement of a 4-resonator micromechanical filter with a 0.1% bandwidth commensurate with the needs of channel-selection (albeit at a low frequency) and an impressive 20-dB shape factor of 1.59, all with less than 3dB of additional passband ripple (beyond the design ripple).}
+}
+EndNote citation:
+%0 Thesis
+%A Barrow, Henry
+%T Frequency Tunable MEMS-Based Timing Oscillators and Narrowband Filters
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 18
+%@ UCB/EECS-2015-255
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-255.html
+%F Barrow:EECS-2015-255

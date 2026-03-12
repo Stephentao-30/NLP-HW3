@@ -1,0 +1,57 @@
+URL: http://people.eecs.berkeley.edu:80/~benh
+Benjamin Hindman
+Benjamin Hindman
+Ph.D. Student
+I'm a Computer Science Ph.D. student at  UC Berkeley  where I have the
+privilege of working with  George Necula  and  Krste Asanović . My
+interests include programming languages, operating systems,
+distributed systems, and all they ways they intersect.
+Most days I work in the  Par Lab  on mechanisms to
+enable efficient parallel computation. More recently I work in the  RAD Lab  on mechanisms to
+enable efficient distributed computation. It turns out there are a lot
+of similarities. I get all of my work done thanks to an  NSF Graduate
+Research Fellowship .
+Before coming to UC Berkeley I spent four wonderful years studying
+computer science at the University of Washington where I worked with
+Dan Grossman . I
+have also had the pleasure of working with (and learning from)  Yuan Yu ,
+Shaz
+Qadeer , and  Robert
+Griesemer  over the past few years.
+If I'm not hacking gleefully in my lab, you can probably find me skiing somewhere near Lake Tahoe.
+Currently I'm spending lots of time on  Nexus, A Common Substrate for Cluster Computing .
+Publications
+Composing Parallel Software Efficiently with Lithe.
+Heidi Pan, Benjamin Hindman, and Krste Asanović.
+ACM Conference on Programming Language Design and Implementation (PLDI'10), Toronto, Ontario, Canada. June 2010.
+PDF
+A Common Substrate for Cluster Computing.
+Benjamin Hindman, Andy Konwinski, Matei Zaharia, and Ion Stoica.
+USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'09), San Diego, CA. June 2009.
+PDF
+Lithe: Enabling Efficient Composition of Parallel Libraries.
+Heidi Pan, Benjamin Hindman, and Krste Asanović.
+USENIX Workshop on Hot Topics in Parallelism (HotPar'09), Berkeley, CA. March 2009.
+PDF
+Atomicity via Source-to-Source Translation.
+Benjamin Hindman and Dan Grossman.
+ACM SIGPLAN Workshop on Memory Systems Performance and Correctness (MSPC'06), San Jose, CA, October 2006.
+PDF
+Presentations
+Enabling Software Composability for the Manycore Era.
+Microsoft Research Silicon Valley Campus, Mountain View, CA
+March 2009
+View Slides
+Strong Atomicity without Virtual-Machine Support.
+Microsoft Research Asia, Beijing, PRC
+August 2006
+View Slides
+Software
+Check out  libprocess , a library that provides
+an actor style message-passing programming model (for C++ and Python
+for now).
+Teaching
+CS 162 Discussion Section Jan. 27, 2010
+CS 162 Discussion Section Feb. 3, 2010
+CS 162 Discussion Section Feb. 9, 2010
+CS 162 Discussion Section Feb. 24, 2010

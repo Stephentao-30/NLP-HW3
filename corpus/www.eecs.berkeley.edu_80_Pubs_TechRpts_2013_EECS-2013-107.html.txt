@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-107.html
+Spontaneous Emission Rate Enhancement Using Optical Antennas
+Nikhil Kumar
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-107
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-107.pdf
+The miniaturization of electronics has relentlessly followed Moore’s law for the past several decades, allowing greater computational power and interconnectivity than ever before. However, limitations on power consumption on chip have put practical limits on speed. This dissertation describes the role that optical antennas can play in reducing power consumption and increasing efficiency and speed for on-chip optical interconnects.
+High speed optical communication has been dependent on the laser for its narrow linewidth and high modulation bandwidth. It has long outperformed the LED for both practical reasons and its suitable physical characteristics. Lasers however have some downsides when considering short distance communications which may not require narrow linewidths. Typically, they require high powers, take up more space and the rate is inherently limited by gain saturation. LEDs on the other hand are limited by spontaneous emission, a rate that is dependent upon its electromagnetic environment. The use of metallic optical nano-antennas can significantly increase a light emitters coupling to its environment and potentially achieve a rate orders of magnitude faster than stimulated emission. Coupling a light emitter into an efficient nano-optical antenna serves three purposes – 1) a much faster modulation speed can be achieved due to a faster rate of spontaneous emission, 2) the footprint of such a device would be shrunk to the nano-scale, ultimately necessary for large scale integration and 3) the overall efficiency of the emitter can be increased.
+While the main motivation behind this work is for short distance communications, optical antennas can serve in a host of applications including photodetectors, solar cells, nano-imaging, bio-sensing and data storage.
+In this thesis we derive the theory behind optical antennas and experimentally show an enhanced spontaneous emission rate of ~12.5x for bar antennas and ~30x for bowtie antennas.
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@phdthesis{Kumar:EECS-2013-107,
+Author= {Kumar, Nikhil},
+Title= {Spontaneous Emission Rate Enhancement Using Optical Antennas},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-107.html},
+Number= {UCB/EECS-2013-107},
+Abstract= {The miniaturization of electronics has relentlessly followed Moore’s law for the past several decades, allowing greater computational power and interconnectivity than ever before. However, limitations on power consumption on chip have put practical limits on speed. This dissertation describes the role that optical antennas can play in reducing power consumption and increasing efficiency and speed for on-chip optical interconnects.
+High speed optical communication has been dependent on the laser for its narrow linewidth and high modulation bandwidth. It has long outperformed the LED for both practical reasons and its suitable physical characteristics. Lasers however have some downsides when considering short distance communications which may not require narrow linewidths. Typically, they require high powers, take up more space and the rate is inherently limited by gain saturation. LEDs on the other hand are limited by spontaneous emission, a rate that is dependent upon its electromagnetic environment. The use of metallic optical nano-antennas can significantly increase a light emitters coupling to its environment and potentially achieve a rate orders of magnitude faster than stimulated emission. Coupling a light emitter into an efficient nano-optical antenna serves three purposes – 1) a much faster modulation speed can be achieved due to a faster rate of spontaneous emission, 2) the footprint of such a device would be shrunk to the nano-scale, ultimately necessary for large scale integration and 3) the overall efficiency of the emitter can be increased.
+While the main motivation behind this work is for short distance communications, optical antennas can serve in a host of applications including photodetectors, solar cells, nano-imaging, bio-sensing and data storage.
+In this thesis we derive the theory behind optical antennas and experimentally show an enhanced spontaneous emission rate of ~12.5x for bar antennas and ~30x for bowtie antennas.},
+}
+EndNote citation:
+%0 Thesis
+%A Kumar, Nikhil
+%T Spontaneous Emission Rate Enhancement Using Optical Antennas
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-107
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-107.html
+%F Kumar:EECS-2013-107

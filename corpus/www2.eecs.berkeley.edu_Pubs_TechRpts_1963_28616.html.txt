@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28616.html
+A Census of Finite Automata | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Census of Finite Automata
+A Census of Finite Automata
+Michael A. Harrison
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M19
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-19.pdf
+BibTeX citation:
+@techreport{Harrison:M19,
+Author = {Harrison, Michael A.},
+Title = {A Census of Finite Automata},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28616.html},
+Number = {UCB/ERL M19}
+}
+EndNote citation:
+%0 Report
+%A Harrison, Michael A.
+%T A Census of Finite Automata
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/28616.html
+%F Harrison:M19

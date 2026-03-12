@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-227.html
+Multi-level Debugging for Multi-stage, Parallelizing Compilers
+Richard Xia and Tayfun Elmas and Shoaib Ashraf Kamil and Armando Fox and Koushik Sen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-227
+December 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-227.pdf
+A multi-stage compilation framework transforms portions of programs written in a productivity-level language into an efficiency-level language, such as C, with explicit hardware-specific optimizations.  It is challenging for compiler programmers to debug errors in the compilation because they must perform complicated end-to-end reasoning, relating the programs across the multiple stages of compilation.  To simplify this debugging effort, we present multi-level debugging, a novel combination of error-checking algorithms in a multi-stage compilation environment.  Our method particularly aims to model and check sequential and parallel notions of nondeterminism and related bugs introduced by the compilation.  Using our method, the programmer can systematically eliminate potential sources of the bug in the compilation process and focus only on the real source.  We demonstrated on two real multi-stage compilers the effectiveness of multi-stage debugging in simplifying the diagnosis of manually-injected bugs as well as in an actual bug encountered during compiler development.
+BibTeX citation:
+@techreport{Xia:EECS-2012-227,
+Author= {Xia, Richard and Elmas, Tayfun and Kamil, Shoaib Ashraf and Fox, Armando and Sen, Koushik},
+Title= {Multi-level Debugging for Multi-stage, Parallelizing Compilers},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-227.html},
+Number= {UCB/EECS-2012-227},
+Abstract= {A multi-stage compilation framework transforms portions of programs written in a productivity-level language into an efficiency-level language, such as C, with explicit hardware-specific optimizations.  It is challenging for compiler programmers to debug errors in the compilation because they must perform complicated end-to-end reasoning, relating the programs across the multiple stages of compilation.  To simplify this debugging effort, we present multi-level debugging, a novel combination of error-checking algorithms in a multi-stage compilation environment.  Our method particularly aims to model and check sequential and parallel notions of nondeterminism and related bugs introduced by the compilation.  Using our method, the programmer can systematically eliminate potential sources of the bug in the compilation process and focus only on the real source.  We demonstrated on two real multi-stage compilers the effectiveness of multi-stage debugging in simplifying the diagnosis of manually-injected bugs as well as in an actual bug encountered during compiler development.},
+}
+EndNote citation:
+%0 Report
+%A Xia, Richard
+%A Elmas, Tayfun
+%A Kamil, Shoaib Ashraf
+%A Fox, Armando
+%A Sen, Koushik
+%T Multi-level Debugging for Multi-stage, Parallelizing Compilers
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 6
+%@ UCB/EECS-2012-227
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-227.html
+%F Xia:EECS-2012-227

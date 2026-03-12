@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29326.html
+B-Trees Re-Examined | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+B-Trees Re-Examined
+B-Trees Re-Examined
+Gerald Held and Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M528
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-528.pdf
+BibTeX citation:
+@techreport{Held:M528,
+Author = {Held, Gerald and Stonebraker, Michael},
+Title = {B-Trees Re-Examined},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29326.html},
+Number = {UCB/ERL M528}
+}
+EndNote citation:
+%0 Report
+%A Held, Gerald
+%A Stonebraker, Michael
+%T B-Trees Re-Examined
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M528
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29326.html
+%F Held:M528

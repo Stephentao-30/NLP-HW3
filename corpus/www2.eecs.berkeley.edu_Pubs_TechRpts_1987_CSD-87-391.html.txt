@@ -1,0 +1,29 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-391.html
+A Case for Redundant Arrays of Inexpensive Disks (RAID)
+David A. Patterson and Garth A. Gibson and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/CSD-87-391
+, 1987
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-391.pdf
+Increasing performance of CPUs and memories will be squandered if not matched by a similar performance increase in I/O. While the capacity of Single Large Expensive Disk (SLED) has grown rapidly, the performance improvement of SLED has been modest. Redundant Arrays of Inexpensive Disks (RAID), based on the magnetic disk technology developed for personal computers, offers an attractive alternative to SLED, promising improvements of an order of magnitude in performance, reliability, power consumption, and scalability. <p>This paper introduces five levels of RAIDs, giving their relative cost/performance, and compares RAIDs to an IBM 3380 and a Fugitsu Super Eagle.
+BibTeX citation:
+@techreport{Patterson:CSD-87-391,
+Author= {Patterson, David A. and Gibson, Garth A. and Katz, Randy H.},
+Title= {A Case for Redundant Arrays of Inexpensive Disks (RAID)},
+Year= {1987},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/5853.html},
+Number= {UCB/CSD-87-391},
+Abstract= {Increasing performance of CPUs and memories will be squandered if not matched by a similar performance increase in I/O. While the capacity of Single Large Expensive Disk (SLED) has grown rapidly, the performance improvement of SLED has been modest. Redundant Arrays of Inexpensive Disks (RAID), based on the magnetic disk technology developed for personal computers, offers an attractive alternative to SLED, promising improvements of an order of magnitude in performance, reliability, power consumption, and scalability. <p>This paper introduces five levels of RAIDs, giving their relative cost/performance, and compares RAIDs to an IBM 3380 and a Fugitsu Super Eagle.},
+}
+EndNote citation:
+%0 Report
+%A Patterson, David A.
+%A Gibson, Garth A.
+%A Katz, Randy H.
+%T A Case for Redundant Arrays of Inexpensive Disks (RAID)
+%I EECS Department, University of California, Berkeley
+%D 1987
+%@ UCB/CSD-87-391
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/5853.html
+%F Patterson:CSD-87-391

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29377.html
+Solving Nonlinear Inequalities in a Finite Number of Iterations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solving Nonlinear Inequalities in a Finite Number of Iterations
+Solving Nonlinear Inequalities in a Finite Number of Iterations
+D.Q. Mayne, E. Polak and A.J. Heunis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/12
+January 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-12.pdf
+BibTeX citation:
+@techreport{Mayne:M79/12,
+Author = {Mayne, D.Q. and Polak, E. and Heunis, A.J.},
+Title = {Solving Nonlinear Inequalities in a Finite Number of Iterations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29377.html},
+Number = {UCB/ERL M79/12}
+}
+EndNote citation:
+%0 Report
+%A Mayne, D.Q.
+%A Polak, E.
+%A Heunis, A.J.
+%T Solving Nonlinear Inequalities in a Finite Number of Iterations
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/12
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29377.html
+%F Mayne:M79/12

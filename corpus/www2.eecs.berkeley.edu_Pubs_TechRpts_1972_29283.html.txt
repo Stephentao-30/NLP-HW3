@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29283.html
+Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem
+Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem
+Eugene L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M343
+May 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-343.pdf
+BibTeX citation:
+@techreport{Lawler:M343,
+Author = {Lawler, Eugene L.},
+Title = {Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29283.html},
+Number = {UCB/ERL M343}
+}
+EndNote citation:
+%0 Report
+%A Lawler, Eugene L.
+%T Optimal Cycles in Graphs and the Minimal Cost-to-time Ratio Problem
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M343
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29283.html
+%F Lawler:M343

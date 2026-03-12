@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-173.html
+A Compartmental Lateral Inhibition System to Generate Contrasting Patterns | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Compartmental Lateral Inhibition System to Generate Contrasting Patterns
+A Compartmental Lateral Inhibition System to Generate Contrasting Patterns
+Ana Sofia Rufino Ferreira, Justin Hsia and Murat Arcak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-173
+July 17, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-173.pdf
+We propose a lateral inhibition system and analyze contrasting patterns of gene expression. The system consists of a set of compartments interconnected by channels. Each compartment contains a colony of cells that produce diffusible molecules to be detected by the neighboring colonies. Each cell is equipped with an inhibitory circuit that reduces its production when the detected signal is sufficiently strong. We characterize the parameter range in which steady-state patterns emerge.
+BibTeX citation:
+@techreport{Rufino Ferreira:EECS-2015-173,
+Author = {Rufino Ferreira, Ana Sofia and Hsia, Justin and Arcak, Murat},
+Title = {A Compartmental Lateral Inhibition System to Generate Contrasting Patterns},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-173.html},
+Number = {UCB/EECS-2015-173},
+Abstract = {We propose a lateral inhibition system and analyze contrasting patterns of gene expression. The system consists of a set of compartments interconnected by channels. Each compartment contains a colony of cells that produce diffusible molecules to be detected by the neighboring colonies. Each cell is equipped with an inhibitory circuit that reduces its production when the detected signal is sufficiently strong. We characterize the parameter range in which steady-state patterns emerge.}
+}
+EndNote citation:
+%0 Report
+%A Rufino Ferreira, Ana Sofia
+%A Hsia, Justin
+%A Arcak, Murat
+%T A Compartmental Lateral Inhibition System to Generate Contrasting Patterns
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 July 17
+%@ UCB/EECS-2015-173
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-173.html
+%F Rufino Ferreira:EECS-2015-173

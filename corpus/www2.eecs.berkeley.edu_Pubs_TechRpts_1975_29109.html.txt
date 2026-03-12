@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29109.html
+Shifting Garbage Collection Overhead to Compile Time | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Shifting Garbage Collection Overhead to Compile Time
+Shifting Garbage Collection Overhead to Compile Time
+Jeffrey M. Barth
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M524
+June 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-524.pdf
+BibTeX citation:
+@techreport{Barth:M524,
+Author = {Barth, Jeffrey M.},
+Title = {Shifting Garbage Collection Overhead to Compile Time},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29109.html},
+Number = {UCB/ERL M524}
+}
+EndNote citation:
+%0 Report
+%A Barth, Jeffrey M.
+%T Shifting Garbage Collection Overhead to Compile Time
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M524
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29109.html
+%F Barth:M524

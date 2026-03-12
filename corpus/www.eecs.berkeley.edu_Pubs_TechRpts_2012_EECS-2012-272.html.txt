@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-272.html
+Statistical algorithms in the study of mammalian DNA methylation
+Meromit Singer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-272
+December 21,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-272.pdf
+DNA methylation is a dynamic chemical modification that is abundant on DNA sequences and plays a central role in the regulatory mechanisms of cells.  This modification can be inherited across cell divisions and generations, providing a ``memory mechanism" for regulatory programs that is more flexible than that coded in the DNA sequence. In recent years, high-throughput sequencing technologies have enabled genome-wide annotation of DNA methylation. Coupled with novel computational machinery, these developments have enabled unperceivable insight to the characteristics, biological function and disease association of this phenomenon. The collaborations between experimental and computational researches who take part in these  efforts has been closer than ever before due to the need to involve computational methodologies throughout the entire research pipeline, from experimental design through bias correction to the analysis of large datasets.
+In the first part of this thesis we present contributions to the field of high-throughput DNA methylation. We introduce statistically sound criteria for the detection of methylation signatures in DNA sequence, and present an algorithm for the annotation of an informative non-overlapping subset of such regions that is optimal under biologically motivated assumptions. Our method outputs a sequence-generated list of regions that are of interest with respect to their  methylation states. We then present a Bayesian network to infer corrected site-specific methylation states from a favorable but biased experimental method, and describe its incorporation in a software package. Along with site-specific methylation calls our package annotates experiment-specific regions of interest by considering both the methylation state inferences and the genomic sequence. These regions can serve as a basis for comparative methylation studies. In the last chapter of this section we bring results from a genome-scale comparative study conducted on humans, chimpanzees and an orangutan, providing evidence of DNA methylation differences that propagate through generations and distinguish these closely related species.
+The second part of this thesis concerns error correction in high-throughput sequencing datasets. In the course of studying DNA methylation with high-throughput sequencing we discovered a systematic error that  results in false-positive variant detection and can significantly affect biological inferences in a variety of genomic studies. We present a classifier to correct for such errors and show that it performs very well with respect to  both sensitivity and specificity.
+Advisors:  Lior Pachter
+BibTeX citation:
+@phdthesis{Singer:EECS-2012-272,
+Author= {Singer, Meromit},
+Title= {Statistical algorithms in the study of mammalian DNA methylation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-272.html},
+Number= {UCB/EECS-2012-272},
+Abstract= {DNA methylation is a dynamic chemical modification that is abundant on DNA sequences and plays a central role in the regulatory mechanisms of cells.  This modification can be inherited across cell divisions and generations, providing a ``memory mechanism" for regulatory programs that is more flexible than that coded in the DNA sequence. In recent years, high-throughput sequencing technologies have enabled genome-wide annotation of DNA methylation. Coupled with novel computational machinery, these developments have enabled unperceivable insight to the characteristics, biological function and disease association of this phenomenon. The collaborations between experimental and computational researches who take part in these  efforts has been closer than ever before due to the need to involve computational methodologies throughout the entire research pipeline, from experimental design through bias correction to the analysis of large datasets.
+In the first part of this thesis we present contributions to the field of high-throughput DNA methylation. We introduce statistically sound criteria for the detection of methylation signatures in DNA sequence, and present an algorithm for the annotation of an informative non-overlapping subset of such regions that is optimal under biologically motivated assumptions. Our method outputs a sequence-generated list of regions that are of interest with respect to their  methylation states. We then present a Bayesian network to infer corrected site-specific methylation states from a favorable but biased experimental method, and describe its incorporation in a software package. Along with site-specific methylation calls our package annotates experiment-specific regions of interest by considering both the methylation state inferences and the genomic sequence. These regions can serve as a basis for comparative methylation studies. In the last chapter of this section we bring results from a genome-scale comparative study conducted on humans, chimpanzees and an orangutan, providing evidence of DNA methylation differences that propagate through generations and distinguish these closely related species.
+The second part of this thesis concerns error correction in high-throughput sequencing datasets. In the course of studying DNA methylation with high-throughput sequencing we discovered a systematic error that  results in false-positive variant detection and can significantly affect biological inferences in a variety of genomic studies. We present a classifier to correct for such errors and show that it performs very well with respect to  both sensitivity and specificity.},
+}
+EndNote citation:
+%0 Thesis
+%A Singer, Meromit
+%T Statistical algorithms in the study of mammalian DNA methylation
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 21
+%@ UCB/EECS-2012-272
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-272.html
+%F Singer:EECS-2012-272

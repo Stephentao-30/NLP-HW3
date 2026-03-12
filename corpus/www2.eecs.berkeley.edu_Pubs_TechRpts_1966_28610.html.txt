@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28610.html
+An Extremal Problem in Banach Space with Application to Optimal Control | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Extremal Problem in Banach Space with Application to Optimal Control
+An Extremal Problem in Banach Space with Application to Optimal Control
+P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M180
+August 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-180.pdf
+BibTeX citation:
+@techreport{Varaiya:M180,
+Author = {Varaiya, P.P.},
+Title = {An Extremal Problem in Banach Space with Application to Optimal Control},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28610.html},
+Number = {UCB/ERL M180}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.P.
+%T An Extremal Problem in Banach Space with Application to Optimal Control
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M180
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28610.html
+%F Varaiya:M180

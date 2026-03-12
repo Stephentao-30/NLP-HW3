@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28977.html
+Measurement of Synchrotron Radiation Spectrum | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Measurement of Synchrotron Radiation Spectrum
+Measurement of Synchrotron Radiation Spectrum
+A.J. Lichtenberg, S. Sesnic and A.W. Trivelpiece
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M88
+August 1964
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/ERL-m-88.pdf
+BibTeX citation:
+@techreport{Lichtenberg:M88,
+Author = {Lichtenberg, A.J. and Sesnic, S. and Trivelpiece, A.W.},
+Title = {Measurement of Synchrotron Radiation Spectrum},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1964},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28977.html},
+Number = {UCB/ERL M88}
+}
+EndNote citation:
+%0 Report
+%A Lichtenberg, A.J.
+%A Sesnic, S.
+%A Trivelpiece, A.W.
+%T Measurement of Synchrotron Radiation Spectrum
+%I EECS Department, University of California, Berkeley
+%D 1964
+%@ UCB/ERL M88
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1964/28977.html
+%F Lichtenberg:M88

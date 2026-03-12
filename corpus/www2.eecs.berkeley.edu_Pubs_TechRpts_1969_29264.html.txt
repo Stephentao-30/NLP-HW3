@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29264.html
+Computational Methods in Discrete Optimal Control and Nonlinear Programming: A Unified Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computational Methods in Discrete Optimal Control and Nonlinear Programming: A Unified Approach
+Computational Methods in Discrete Optimal Control and Nonlinear Programming: A Unified Approach
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M261
+February 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-261.pdf
+BibTeX citation:
+@techreport{Polak:M261,
+Author = {Polak, E.},
+Title = {Computational Methods in Discrete Optimal Control and Nonlinear Programming: A Unified Approach},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1969},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29264.html},
+Number = {UCB/ERL M261}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T Computational Methods in Discrete Optimal Control and Nonlinear Programming: A Unified Approach
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M261
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29264.html
+%F Polak:M261

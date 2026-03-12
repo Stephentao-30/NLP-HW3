@@ -1,0 +1,21 @@
+URL: https://eecs.berkeley.edu/research/colloquium/171011-2
+Deep Learning-to-Learn Robotic Control - EECS at Berkeley
+Deep Learning-to-Learn Robotic Control
+EECS Colloquium
+Wednesday, October 11, 2017
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Pieter Abbeel
+University of California, Berkeley
+Pieter Abbeel speaks on Deep Learning-to-Learn Robotic Control, 10/11/17
+Abstract
+Reinforcement learning and imitation learning have seen success in many domains, including autonomous helicopter flight, Atari, simulated locomotion, Go, robotic manipulation.  However, sample complexity of these methods remains very high. In contrast, humans can pick up new skills far more quickly.  To do so, humans might rely on a better learning algorithm or on a better prior (potentially learned from past experience), and likely on both.  In this talk I will describe some recent work on meta-learning for action, where agents learn the imitation/reinforcement learning algorithms and learn the prior.  This has enabled acquiring new skills from just a single demonstration or just a few trials.  While designed for imitation and RL, our work is more generally applicable and also advanced the state of the art in standard few-shot classification benchmarks such as omniglot and mini-imagenet.
+Biography
+Pieter Abbeel (Professor UC Berkeley, Research Scientist OpenAI) has developed apprenticeship learning algorithms which have enabled advanced helicopter aerobatics, including maneuvers such as tic-tocs, chaos and auto-rotation, which only exceptional human pilots can perform. His group has enabled the first end-to-end completion of reliably picking up a crumpled laundry article and folding it and has pioneered deep reinforcement learning for robotics, including learning locomotion and visuomotor skills. His work has been featured in many popular press outlets, including BBC, New York Times, MIT Technology Review, Discovery Channel, SmartPlanet and Wired. His current research focuses on robotics and machine learning with particular focus on deep reinforcement learning, deep imitation learning, deep unsupervised learning, meta-learning, and AI safety.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

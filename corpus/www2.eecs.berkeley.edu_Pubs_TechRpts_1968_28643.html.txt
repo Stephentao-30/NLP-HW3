@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28643.html
+On the Removal of Ill Conditioning Effects In the Computation of Optimal Controls | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Removal of Ill Conditioning Effects In the Computation of Optimal Controls
+On the Removal of Ill Conditioning Effects In the Computation of Optimal Controls
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M235
+January 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-235.pdf
+BibTeX citation:
+@techreport{Polak:M235,
+Author = {Polak, E.},
+Title = {On the Removal of Ill Conditioning Effects In the Computation of Optimal Controls},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28643.html},
+Number = {UCB/ERL M235}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T On the Removal of Ill Conditioning Effects In the Computation of Optimal Controls
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M235
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28643.html
+%F Polak:M235

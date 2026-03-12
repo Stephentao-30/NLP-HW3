@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29280.html
+Optimal Sequencing of a Single Machine Subject to Precedence Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Sequencing of a Single Machine Subject to Precedence Constraints
+Optimal Sequencing of a Single Machine Subject to Precedence Constraints
+E.L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M327
+August 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-327.pdf
+BibTeX citation:
+@techreport{Lawler:M327,
+Author = {Lawler, E.L.},
+Title = {Optimal Sequencing of a Single Machine Subject to Precedence Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29280.html},
+Number = {UCB/ERL M327}
+}
+EndNote citation:
+%0 Report
+%A Lawler, E.L.
+%T Optimal Sequencing of a Single Machine Subject to Precedence Constraints
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M327
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29280.html
+%F Lawler:M327

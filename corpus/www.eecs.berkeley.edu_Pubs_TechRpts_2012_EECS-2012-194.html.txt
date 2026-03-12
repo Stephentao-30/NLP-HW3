@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-194.html
+Graph Expansion Analysis for Communication Costs of Fast Rectangular Matrix Multiplication
+Grey Ballard and James Demmel and Olga Holtz and Benjamin Lipshitz and Oded Schwartz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-194
+September 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-194.pdf
+Graph expansion analysis of computational DAGs is useful for obtaining communication cost lower bounds where previous methods, such as geometric embedding, are not applicable. This has recently been demonstrated for Strassen’s and Strassen-like fast square matrix multiplication algorithms. Here we extend the expansion analysis approach to fast algorithms for rectangular matrix multiplication, obtaining a new class of communication cost lower bounds. These apply, for example to the algorithms of Bini et al. (1979) and the algorithms of Hopcroft and Kerr (1971). Some of our bounds are proved to be optimal.
+BibTeX citation:
+@techreport{Ballard:EECS-2012-194,
+Author= {Ballard, Grey and Demmel, James and Holtz, Olga and Lipshitz, Benjamin and Schwartz, Oded},
+Title= {Graph Expansion Analysis for Communication Costs of Fast Rectangular Matrix Multiplication},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-194.html},
+Number= {UCB/EECS-2012-194},
+Abstract= {Graph expansion analysis of computational DAGs is useful for obtaining communication cost lower bounds where previous methods, such as geometric embedding, are not applicable. This has recently been demonstrated for Strassen’s and Strassen-like fast square matrix multiplication algorithms. Here we extend the expansion analysis approach to fast algorithms for rectangular matrix multiplication, obtaining a new class of communication cost lower bounds. These apply, for example to the algorithms of Bini et al. (1979) and the algorithms of Hopcroft and Kerr (1971). Some of our bounds are proved to be optimal.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Holtz, Olga
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%T Graph Expansion Analysis for Communication Costs of Fast Rectangular Matrix Multiplication
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 10
+%@ UCB/EECS-2012-194
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-194.html
+%F Ballard:EECS-2012-194

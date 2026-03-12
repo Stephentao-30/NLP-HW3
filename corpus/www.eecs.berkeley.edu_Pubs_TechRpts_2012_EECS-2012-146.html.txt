@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-146.html
+Low-Power Spectrum Sensing for Cognitive Radio Applications
+Xiao Xiao
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-146
+May 31,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-146.pdf
+Advisors:  Borivoje Nikolic
+BibTeX citation:
+@mastersthesis{Xiao:EECS-2012-146,
+Author= {Xiao, Xiao},
+Title= {Low-Power Spectrum Sensing for Cognitive Radio Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-146.html},
+Number= {UCB/EECS-2012-146},
+}
+EndNote citation:
+%0 Thesis
+%A Xiao, Xiao
+%T Low-Power Spectrum Sensing for Cognitive Radio Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 31
+%@ UCB/EECS-2012-146
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-146.html
+%F Xiao:EECS-2012-146

@@ -1,0 +1,47 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-69.html
+PhD Dissertation: Compact Models for Future Generation CMOS
+Darsen Lu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-69
+May 30,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-69.pdf
+Multiple-gate MOSFETs with superior short channel control are expected to replace planar CMOS in the near future. An accurate and computationally efficient compact transistor model is necessary to simulate circuits in multiple-gate MOSFET technologies. In this dissertation research, a compact multiple-gate MOSFET model, BSIM-MG is developed.
+BSIM-MG includes independent multi-gate compact model BSIM-IMG and common multi-gate compact model BSIM-CMG. We focus on BSIM-IMG for multiple-gate MOSFETs with independent front- and back-gates. The basic formulations for surface potential, drain current and charge are derived and verified against TCAD simulations with excellent
+agreements. The model preserves important property of multi-gate MOSFETs such as volume inversion. Non-ideal effects including short channel effects, length dependent back-gate coupling, transport models, leakage currents, parasitic resistances and capacitances, temperature
+effects and self heating are considered in the model. The model expressions are carefully formulated so that the symmetry of the source and drain is preserved. Rules for
+maintaining symmetry are discussed in this dissertation.
+For the common multi-gate transistor model BSIM-CMG, the basic expressions have been improved so that it is compatible with a novel non quasi-static effects modeling technique — charge segmentation. In addition, a parasitic source/drain resistance model is developed, including three components: the contact resistance, the spreading resistance, and the bias-dependent extension resistance. Both BSIM-CMG and BSIM-IMG models are verified against TCAD and measured data.
+The use of the FinFET compact model to predict manufacturing variation in a FinFET technology is further explored. The model matches measured data well for both the nominal case and the statistical distribution for NMOS threshold voltage as well as the read static noise margin. A non-Gaussian threshold voltage distribution is observed for nFET devices, and the compact model successfully captures the distribution. We further outlined and demonstrated a Monte-Carlo based procedure for designing FinFET SRAM cells using the extracted variation information.
+Technology scaling has enabled numerous CMOS analog circuits for low cost radiofrequency applications. The modeling of MOSFET thermal noise becomes very important in
+these applications. In the final part of this dissertation research, a new thermal noise model is developed for the industry standard BSIM4 model that enhances the existing thermal noise formulation in BSIM4. The model is verified against a segmented channel MOSFET model as well as with measured data. It is implemented in Berkeley SPICE3 and is ready for industry use. A method to port the model to BSIM-MG for thermal noise modeling in multi-gate MOSFETs is also presented.
+Advisors:  Chenming Hu
+BibTeX citation:
+@phdthesis{Lu:EECS-2011-69,
+Author= {Lu, Darsen},
+Title= {PhD Dissertation: Compact Models for Future Generation CMOS},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-69.html},
+Number= {UCB/EECS-2011-69},
+Abstract= {Multiple-gate MOSFETs with superior short channel control are expected to replace planar CMOS in the near future. An accurate and computationally efficient compact transistor model is necessary to simulate circuits in multiple-gate MOSFET technologies. In this dissertation research, a compact multiple-gate MOSFET model, BSIM-MG is developed.
+BSIM-MG includes independent multi-gate compact model BSIM-IMG and common multi-gate compact model BSIM-CMG. We focus on BSIM-IMG for multiple-gate MOSFETs with independent front- and back-gates. The basic formulations for surface potential, drain current and charge are derived and verified against TCAD simulations with excellent
+agreements. The model preserves important property of multi-gate MOSFETs such as volume inversion. Non-ideal effects including short channel effects, length dependent back-gate coupling, transport models, leakage currents, parasitic resistances and capacitances, temperature
+effects and self heating are considered in the model. The model expressions are carefully formulated so that the symmetry of the source and drain is preserved. Rules for
+maintaining symmetry are discussed in this dissertation.
+For the common multi-gate transistor model BSIM-CMG, the basic expressions have been improved so that it is compatible with a novel non quasi-static effects modeling technique — charge segmentation. In addition, a parasitic source/drain resistance model is developed, including three components: the contact resistance, the spreading resistance, and the bias-dependent extension resistance. Both BSIM-CMG and BSIM-IMG models are verified against TCAD and measured data.
+The use of the FinFET compact model to predict manufacturing variation in a FinFET technology is further explored. The model matches measured data well for both the nominal case and the statistical distribution for NMOS threshold voltage as well as the read static noise margin. A non-Gaussian threshold voltage distribution is observed for nFET devices, and the compact model successfully captures the distribution. We further outlined and demonstrated a Monte-Carlo based procedure for designing FinFET SRAM cells using the extracted variation information.
+Technology scaling has enabled numerous CMOS analog circuits for low cost radiofrequency applications. The modeling of MOSFET thermal noise becomes very important in
+these applications. In the final part of this dissertation research, a new thermal noise model is developed for the industry standard BSIM4 model that enhances the existing thermal noise formulation in BSIM4. The model is verified against a segmented channel MOSFET model as well as with measured data. It is implemented in Berkeley SPICE3 and is ready for industry use. A method to port the model to BSIM-MG for thermal noise modeling in multi-gate MOSFETs is also presented.},
+}
+EndNote citation:
+%0 Thesis
+%A Lu, Darsen
+%T PhD Dissertation: Compact Models for Future Generation CMOS
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 30
+%@ UCB/EECS-2011-69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-69.html
+%F Lu:EECS-2011-69

@@ -1,0 +1,42 @@
+URL: https://people.eecs.berkeley.edu/~mindylp
+Mindy Liu Perkins
+Mindy Liu Perkins
+I'm an engineer and scientist with expertise in mathematical modeling and simulation.
+My passion for interdisciplinary research and innovation has led me to collaborate with engineers, physicists, and biologists on a wide variety of topics in the life sciences, including bat echolocation and insect development.  Most recently I worked as a postdoctoral fellow at the European Molecular Biology Laboratory in Heidelberg, Germany, where I used a combination of dynamical systems and stochastic processes to study how quickly genes turn on and off.
+I received my Ph.D. in Electrical Engineering at the University of California, Berkeley, advised by Murat Arcak.  My dissertation focused on developing and applying control theory and signal processing to analyze pattern formation in biological systems, both real and synthetic.  For my graduate research I was awarded the Leon O. Chua Award for outstanding achievement in nonlinear science.  Prior to that, I completed my B.S. in Electrical Engineering  with a minor in Biology at Stanford University.
+When I'm not taking Fourier transforms or wrangling spaghetti code, I enjoy reading, writing, drawing, and spending time outdoors.
+Highlights
+Theory-driven designs
+I've developed mathematical frameworks based on signal processing, control theory, and biophysics to propose new ways in which  networked or coupled systems  may support multicellular life.  For example, networks of interacting cells can behave like image processing filters to generate spatial patterns, and DNA packaging helps cells optimize their performance on different tasks when coupling between actuators and controllers is unavoidable.  These theoretical results can inform human-engineered biological systems as well as provide insight into naturally evolved organisms.
+M. L. Perkins  and M. Arcak (2019) " A spatial filtering approach to biological patterning ."  SIAM J. Appl. Dyn. Syst.  18(3): 1694-1721.
+M. L. Perkins , J. Crocker, and G. Tkačik (in preparation) "Chromatin enables precise and scalable gene regulation with factors of limited specificity."
+Predictive mathematical models
+Gene expression is regulated by complex processes whose behavior can be difficult to predict.  I've teamed up with experimental biologists to design predictive dynamical systems models that are  descriptive  and  quantitative .  This means that all relevant model parameters are physically interpretable and can be accurately quantitated through empirical measurements.  The model's predictive power therefore derives from an understanding of how the process works, rather than on phenomenology alone.
+My models have guided the design of genetically engineered "communities" of cells, and have also helped us understand how identical cells in a young embryo become different types of cells in the adult organism.
+M. Tei*,  M. L. Perkins *, J. Hsia, M. Arcak, and A. P. Arkin (2019) " Designing spatially distributed gene regulatory networks to elicit contrasting patterns ."  ACS Synth. Biol.  8(1): 119-126.   * contributed equally
+M. L. Perkins , D. Benzinger, M. Arcak, and M. Khammash (2020) " Cell-in-the-loop pattern formation with optogenetically emulated cell-to-cell signaling ."  Nat. Commun.  11(1): 1355.  (summarized in  this  blog post)
+J. Zhao*,  M. L. Perkins *, M. Norstad, H. G. Garcia (2023) " A bistable autoregulatory module in the developing embryo commits cells to binary expression fates ."  Current Biology  33(14): 2851-2864.e11   * contributed equally
+Experience
+2020 - 2024
+Postdoctoral Fellow (EIPOD4/Marie Curie Fellowship)
+European Molecular Biology Laboratory (Heidelberg, Germany)
+Designed and simulated mathematical models to compare optimal gene expression accuracy in "simple" vs. "complex" organisms (e.g., bacteria vs. animals)
+2015 - 2020
+Ph.D. in Electrical Engineering (May 2020)
+University of California, Berkeley (Berkeley, CA)
+Advisor:  Murat Arcak
+Dissertation:  Biological patterning in networks of interacting cells
+Developed networked dynamical systems theory to predict spatial patterning of gene expression in living tissues or colonies of cells
+2011 - 2015
+B.S. in Electrical Engineering (with honors), Minor in Biology
+Stanford University (Stanford, CA)
+Honors thesis:  Acoustic interference in bat echolocation
+Created a metric based on sonar signal processing to analyze how calls from one echolocating bat interfere with another
+Misc. Writing
+(2023, 19 Jan.) " Interview with Dr. Mindy Liu Perkins ." SMB Subgroup on Cell and Developmental Biology Blog.
+(2020, 18 Mar.) " In vivo patterning with in silico signaling, or how we put the cell in the loop ."  Behind the Paper blog post for  Nature Research Bioengineering .
+(2019, 14 Jan.) " The Curious Incident of the Yeast in the Light-Time ."  Berkeley GradNews .
+(2014-2015) Collection of  opinion pieces  for  The Stanford Daily .
+(2013, 22 Nov.) " Fruit Bats on the Clothesline ."  Stanford Arts .
+Contact
+mindy.liuperkins (at) gmail (dot) com

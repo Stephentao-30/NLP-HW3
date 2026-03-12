@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28852.html
+An Edge-Oriented Adjacency List for Undirected Graphs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Edge-Oriented Adjacency List for Undirected Graphs
+An Edge-Oriented Adjacency List for Undirected Graphs
+L.K. Chen, B.S. Ting and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M589
+May 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-589.pdf
+BibTeX citation:
+@techreport{Chen:M589,
+Author = {Chen, L.K. and Ting, B.S. and Sangiovanni-Vincentelli, A.},
+Title = {An Edge-Oriented Adjacency List for Undirected Graphs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28852.html},
+Number = {UCB/ERL M589}
+}
+EndNote citation:
+%0 Report
+%A Chen, L.K.
+%A Ting, B.S.
+%A Sangiovanni-Vincentelli, A.
+%T An Edge-Oriented Adjacency List for Undirected Graphs
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M589
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28852.html
+%F Chen:M589

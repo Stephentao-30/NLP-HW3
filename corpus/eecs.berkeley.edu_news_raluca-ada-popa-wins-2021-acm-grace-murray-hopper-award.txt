@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/raluca-ada-popa-wins-2021-acm-grace-murray-hopper-award
+Raluca Ada Popa wins 2021 ACM Grace Murray Hopper Award - EECS at Berkeley
+EECS Associate Prof. Raluca Ada Popa is the recipient of the Association for Computing Machinery (ACM) Grace Murray Hopper Award.  This award recognizes an outstanding young computer professional who has made a single recent major technical or service contribution to the field of computer science before the age of 35.  Popa was recognized for her work in the area of design of secure distributed systems, specifically systems that “protect confidentiality against attackers with full access to servers while maintaining full functionality.”  Her approach focuses on protecting the confidentiality of data stored on remote servers by providing confidentiality guarantees for areas where servers need to store encrypted data, thus allowing data to be processed without decrypting.  Although computing on encrypted data is still only theoretical, Popa’s solution involves building systems for a broad set of applications with common traits, and then utilizing encryption schemes on just these traits so that they can perform most computations on encrypted data.  Some of her systems have been adopted into or inspired systems such as SEEED of SAP AG, Microsoft SQL Server’s Always Encrypted Service, and others.  The award comes with a prize of $35,000.
+Categories
+Faculty
+Honors
+Research
+View
+Open Faculty Positions

@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-36.html
+Sequential Communication Bounds for Fast Linear Algebra
+Grey Ballard and James Demmel and Olga Holtz and Oded Schwartz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-36
+March 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-36.pdf
+In this note we obtain communication cost lower and upper bounds on the algorithms for LU and QR given in (Demmel, Dumitriu, and Holtz 2007).  The algorithms there use fast, stable matrix multiplication as a subroutine and are shown to be as stable and as computationally efficient as the matrix multiplication subroutine.  We show here that they are also as communication-efficient (in the sequential, two-level memory model) as the matrix multiplication algorithm.  The analysis for LU and QR extends to all the algorithms in (Demmel, Dumitriu, and Holtz 2007). Further, we prove that in the case of using Strassen-like matrix multiplication, these algorithms are communication optimal.
+BibTeX citation:
+@techreport{Ballard:EECS-2012-36,
+Author= {Ballard, Grey and Demmel, James and Holtz, Olga and Schwartz, Oded},
+Title= {Sequential Communication Bounds for Fast Linear Algebra},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-36.html},
+Number= {UCB/EECS-2012-36},
+Abstract= {In this note we obtain communication cost lower and upper bounds on the algorithms for LU and QR given in (Demmel, Dumitriu, and Holtz 2007).  The algorithms there use fast, stable matrix multiplication as a subroutine and are shown to be as stable and as computationally efficient as the matrix multiplication subroutine.  We show here that they are also as communication-efficient (in the sequential, two-level memory model) as the matrix multiplication algorithm.  The analysis for LU and QR extends to all the algorithms in (Demmel, Dumitriu, and Holtz 2007). Further, we prove that in the case of using Strassen-like matrix multiplication, these algorithms are communication optimal.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Holtz, Olga
+%A Schwartz, Oded
+%T Sequential Communication Bounds for Fast Linear Algebra
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 30
+%@ UCB/EECS-2012-36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-36.html
+%F Ballard:EECS-2012-36

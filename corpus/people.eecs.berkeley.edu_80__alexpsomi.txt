@@ -1,0 +1,83 @@
+URL: http://people.eecs.berkeley.edu:80/~alexpsomi
+Alex Psomas
+Alex Psomas
+Personal
+My name is Christos-Alexandros Psomas ( my friends call me Alexandros or Alex ). I am a fourth year PhD student at  UC Berkeley  in the  Computer Science   theory group . I am honored to by advised by  Christos Papadimitriou .
+I have worked as an intern in  Microsoft Research  in Redmond, WA, during summer 2015, with  Nikhil Devanur . I also spent summers 2014 and 2013 in the  International Computer Science Institute  in Berkeley, CA, under the supervision of  Eric Friedman . Before that I worked with  Sergios Petridis  at the  National Centre of Scientific Research "Demokritos"  in Athens, Greece, during Spring 2011.
+Prior to coming to Berkeley, I was a Master's student at the  University of Athens , in the Logic, Algorithms and Computation ( MPLA ) program. I received my undergraduate diploma from the  Department of Informatics  of  Athens University of Economics and Business , in Athens, Greece.
+You can find me at ''alexpsomi'' at ''cs'' dot ''berkeley'' dot ''edu''
+Research
+Working Papers
+Reductions in PPP.  (abstract)
+Frank Ban, Kamal Jain,  Christos Papadimitriou ,  Christos Alexandros Psomas   and   Aviad Rubinstein
+Abstract.    We show several reductions between problems in the complexity class PPP related to the pigeonhole principle, and harboring several intriguing problems relevant to Cryptography. We define a problem related to Minkowski’s theorem and another related to Dirichlet’s theorem, and we show them to belong to this class. We also show that Minkowski is very expressive, in the sense that all other non-generic problems in PPP considered here can be reduced to it. We conjecture that Minkowski is PPP-complete.
+Published Papers
+Sample Complexity of Auctions with Side Information.
+(abstract)   (pdf)
+Nikhil Devanur ,  Zhiyi Huang  and  Christos Alexandros Psomas
+In the 48th ACM Symposium on Theory of Computing, STOC 2016. (to appear)
+Abstract.    Traditionally, the Bayesian optimal auction design problem has been considered either when the bidder values are i.i.d, or when each bidder is individually identifiable via her value distribution. The latter is a reasonable approach when the bidders can be classified into a few categories, but there are many instances where the classification of bidders is a continuum. For example, the classification of the bidders may be based on their annual income, their propensity to buy an item based on past behavior, or in the case of ad auctions, the click through rate of their ads. We introduce an alternate model that captures this aspect, where bidders are a priori identical, but can be distinguished based (only) on some side information the auctioneer obtains at the time of the auction.
+We extend the sample complexity approach of Dhangwatnotai et al. and Cole and Roughgarden to this model and obtain almost matching upper and lower bounds. As an aside, we obtain a revenue monotonicity lemma which may be of independent interest. We also show how to use Empirical Risk Minimization techniques to improve the sample complexity bound of Cole and Roughgarden for the non-identical but independent value distribution case.
+On the Complexity of Dynamic Mechanism Design.
+(abstract)   (pdf)
+Christos Papadimitriou , George Pierrakos,  Christos Alexandros Psomas   and   Aviad Rubinstein
+In the ACM-SIAM Symposium on Discrete Algorithms , SODA 2016.
+Abstract.    We introduce a dynamic mechanism design problem in which the designer wants to offer for sale an item to an agent, and another item to the same agent at some point in the future. The agent's joint distribution of valuations for the two items is known, and the agent knows the valuation for the current item (but not for the one in the future). The designer seeks to maximize expected revenue, and the auction must be deterministic, truthful, and ex post individually rational. The optimum mechanism involves a protocol whereby the seller elicits the buyer's current valuation, and based on the bid makes two take-it-or-leave-it offers, one for now and one for the future. We show that finding the optimum deterministic mechanism in this situation - arguably the simplest meaningful dynamic mechanism design problem imaginable - is NP-hard. We also prove several positive results, among them a polynomial linear programming-based algorithm for the optimum randomized auction (even for many bidders and periods), and we show strong separations in revenue between non-adaptive, adaptive, and randomized auctions, even when the valuations in the two periods are uncorrelated. Finally, for the same problem in an environment in which contracts cannot be enforced, and thus perfection of equilibrium is necessary, we show that the optimum randomized mechanism requires multiple rounds of cheap talk-like interactions.
+Dynamic Fair Division with Minimal Disruptions.
+(abstract)   (pdf)
+Eric Friedman ,  Christos Alexandros Psomas   and   Shai Vardi
+In the 16th ACM Conference on Economics and Computation , EC 2015.
+Abstract.    In this paper we present an analysis of dynamic fair division of a divisible resource, with
+arrivals and departures of agents. Our key requirement is that we wish to disrupt the allocation
+of a small number of existing agents whenever a new agent arrives. We construct optimal
+recursive mechanisms to compute the allocations and provide tight analytic bounds. Our
+analysis relies on a linear programming formulation and a reduction of the feasible region of
+the LP into a class of “harmonic allocations”, which play a key role in the trade-off between
+the fairness of current allocations and the fairness of potential future allocations. We show
+that there exist mechanisms that are optimal with respect to fairness and are also Pareto
+efficient, which is of fundamental importance in computing applications, as system designers
+loathe to waste resources. In addition, our mechanisms satisfy a number of other desirable
+game theoretic properties.
+Strategyproof Allocation of Discrete Jobs on Multiple Machines.
+(abstract)   (pdf)
+Eric Friedman ,  Ali Ghodsi  and  Christos Alexandros Psomas
+In the 15th ACM Conference on Economics and Computation , EC 2014.
+Abstract.
+We present a model for fair strategyproof allocations in a realistic model of cloud computing centers. This
+model has the standard Leontief preferences but also captures a key property of virtualization, the use
+of containers to isolate jobs. We first present several impossibility results for deterministic mechanisms
+in this setting. We then construct an extension of the well known dominant resource fairness mechanism
+(DRF), which somewhat surprisingly does not involve the notion of a dominant resource. Our mechanism
+relies on the connection between the DRF mechanism and the Kalai-Smorodinsky bargaining solution; by
+computing a weighted max-min over the convex hull of the feasible region we can obtain an ex-ante fair,
+efficient and strategyproof randomized allocation. This randomized mechanism can be used to construct
+other mechanisms which do not rely on users’ being expected (ex-ante) utility maximizers, in several ways.
+First, for the case of m identical machines one can use the convex structure of the mechanism to get a
+simple mechanism which is approximately ex-post fair, efficient and strategyproof. Second, we present a
+more subtle construction for an arbitrary set of machines, using the Shapley-Folkman-Starr theorem to show
+the existence of an allocation which is approximately ex-post fair, efficient and strategyproof. This paper
+provides both a rigorous foundation for developing protocols that explicitly utilize the detailed structure
+of the modern cloud computing hardware and software, and a general method for extending the dominant
+resource fairness mechanism to more complex settings.
+On Worst-Case Allocations in the Presence of Indivisible Goods.
+(abstract)   (pdf)
+Vangelis Markakis  and  Christos Alexandros Psomas
+In the 7th Workshop of Internet Network Economics 2011 , WINE 2011.
+Abstract.
+We study a fair division problem, where a set of indivisible goods is to be allocated to a set of n agents. Each
+agent may have different preferences, represented by a valuation function that is a probability distribution on
+the set of goods. In the continuous case, where goods are infinitely divisible, it is well known that proportional
+allocations always exist, i.e., allocations where every agent receives a bundle of goods worth to him at least
+1/n. In the presence of indivisible goods however, this is not the case and one would like to find worst case
+guarantees on the value that every agent can have. We focus on algorithmic and mechanism design aspects of
+this problem.
+In the work of Hill , an explicit lower bound was identified, as a function of the number of agents and the
+maximum value of any agent for a single good, such that for any instance, there exists an allocation that provides
+at least this guarantee to every agent. The proof however did not imply an efficient algorithm for finding such
+allocations. Following upon the work of Hill, we first provide a slight strengthening of the guarantee we can
+make for every agent, as well as a polynomial time algorithm for computing such allocations. We then move
+to the design of truthful mechanisms. For deterministic mechanisms, we obtain a negative result showing that
+a truthful 2/3-approximation of these guarantees is impossible. We complement this by exhibiting a simple
+truthful algorithm that can achieve a constant approximation when the number of goods is bounded. Regarding
+randomized mechanisms, we also provide a negative result, showing that we cannot have truthful in expectation
+mechanisms under the restrictions that they are Pareto-efficient and satisfy certain symmetry requirements.

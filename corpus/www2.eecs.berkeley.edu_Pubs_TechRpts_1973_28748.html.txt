@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28748.html
+Drift Waves in a Two-Ion Species Plasma | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Drift Waves in a Two-Ion Species Plasma
+Drift Waves in a Two-Ion Species Plasma
+Masaaki Watanabe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M408
+September 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-408.pdf
+BibTeX citation:
+@techreport{Watanabe:M408,
+Author = {Watanabe, Masaaki},
+Title = {Drift Waves in a Two-Ion Species Plasma},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28748.html},
+Number = {UCB/ERL M408}
+}
+EndNote citation:
+%0 Report
+%A Watanabe, Masaaki
+%T Drift Waves in a Two-Ion Species Plasma
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M408
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28748.html
+%F Watanabe:M408

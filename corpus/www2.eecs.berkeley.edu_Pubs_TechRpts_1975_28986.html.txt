@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28986.html
+On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes
+On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes
+Azad Bolour
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M535
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-535.pdf
+BibTeX citation:
+@techreport{Bolour:M535,
+Author = {Bolour, Azad},
+Title = {On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28986.html},
+Number = {UCB/ERL M535}
+}
+EndNote citation:
+%0 Report
+%A Bolour, Azad
+%T On the Optimality of Rectangular Hashing Schemes for Answering Basic Queries from a Relation With Independent Attributes
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M535
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28986.html
+%F Bolour:M535

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28560.html
+Asymptotic Agreement in Distributed Estimation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Asymptotic Agreement in Distributed Estimation
+Asymptotic Agreement in Distributed Estimation
+V. Borkar and P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/45
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-45.pdf
+BibTeX citation:
+@techreport{Borkar:M80/45,
+Author = {Borkar, V. and Varaiya, P.},
+Title = {Asymptotic Agreement in Distributed Estimation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28560.html},
+Number = {UCB/ERL M80/45}
+}
+EndNote citation:
+%0 Report
+%A Borkar, V.
+%A Varaiya, P.
+%T Asymptotic Agreement in Distributed Estimation
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/45
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28560.html
+%F Borkar:M80/45

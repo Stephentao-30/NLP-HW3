@@ -1,0 +1,64 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/triple_8h.html
+b2aed15bacb8f2bc7db77c2">
+template<class NT, class IT, unsigned TTDIM>
+IT  BmCsb < NT, IT, TTDIM >::numregb
+(
+)
+const
+inline
+Definition at line  34  of file  bmcsb.h .
+template<class NT , class IT , unsigned TTDIM>
+BmCsb < NT, IT, TTDIM > &  BmCsb < NT, IT, TTDIM >::operator=
+(
+const  BmCsb < NT, IT, TTDIM > &
+rhs   )
+Definition at line  163  of file  bmcsb.cpp .
+template<class NT , class IT , unsigned TTDIM>
+ofstream &  BmCsb < NT, IT, TTDIM >::PrintStats
+(
+ofstream &
+outfile   )
+const
+Definition at line  488  of file  bmcsb.cpp .
+template<class NT, class IT, unsigned TTDIM>
+IT  BmCsb < NT, IT, TTDIM >::rowsize
+(
+)
+const
+inline
+Definition at line  33  of file  bmcsb.h .
+Friends And Related Function Documentation
+template<class NT, class IT, unsigned TTDIM>
+template<typename NU , typename IU , unsigned UUDIM>
+void bmcsb_gespmv
+(
+const  BmCsb < NU, IU, UUDIM > &
+A ,
+const NU *
+x ,
+NU *
+y
+)
+friend
+template<class NT, class IT, unsigned TTDIM>
+template<class CSB >
+float RowImbalance
+(
+const CSB &
+A   )
+friend
+Definition at line  400  of file  friends.h .
+The documentation for this class was generated from the following files:
+bmcsb.h
+bmcsb.cpp
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6
+valign="top">  ~BmCsb  ()
+BmCsb < NT, IT, TTDIM > &    operator=  (const  BmCsb < NT, IT, TTDIM > &rhs)
+BmCsb  ( Csc < NT, IT > &csc, int workers)
+ofstream &    PrintStats  (ofstream &outfile) const
+IT    colsize  () const
+IT    rowsize  () const
+IT    numregb  () const
+bool    isPar  () const
+<tr class="separator:a66973bb44ebc

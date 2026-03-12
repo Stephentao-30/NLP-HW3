@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-31.html
+Strong Scaling of Matrix Multiplication Algorithms and Memory-Independent Communication Lower Bounds
+Grey Ballard and James Demmel and Olga Holtz and Benjamin Lipshitz and Oded Schwartz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-31
+March 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-31.pdf
+A parallel algorithm has perfect strong scaling if its running time on P processors is linear in 1/P, including all communication costs. Distributed-memory parallel algorithms for matrix multiplication with perfect strong scaling have only recently been found. One is based on classical matrix multiplication (Solomonik and Demmel, 2011), and one is based on Strassen’s fast matrix multiplication (Ballard, Demmel, Holtz, Lipshitz, and Schwartz, 2012). Both algorithms scale perfectly, but only up to some number of processors where the inter-processor communication no longer scales.
+We obtain a memory-independent communication cost lower bound on classical and Strassen-based distributed- memory matrix multiplication algorithms. These bounds imply that no classical or Strassen-based parallel matrix multiplication algorithm can strongly scale perfectly beyond the ranges already attained by the two parallel algorithms mentioned above. The memory-independent bounds and the strong scaling bounds generalize to other algorithms.
+BibTeX citation:
+@techreport{Ballard:EECS-2012-31,
+Author= {Ballard, Grey and Demmel, James and Holtz, Olga and Lipshitz, Benjamin and Schwartz, Oded},
+Title= {Strong Scaling of Matrix Multiplication Algorithms and Memory-Independent Communication Lower Bounds},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-31.html},
+Number= {UCB/EECS-2012-31},
+Abstract= {A parallel algorithm has perfect strong scaling if its running time on P processors is linear in 1/P, including all communication costs. Distributed-memory parallel algorithms for matrix multiplication with perfect strong scaling have only recently been found. One is based on classical matrix multiplication (Solomonik and Demmel, 2011), and one is based on Strassen’s fast matrix multiplication (Ballard, Demmel, Holtz, Lipshitz, and Schwartz, 2012). Both algorithms scale perfectly, but only up to some number of processors where the inter-processor communication no longer scales.
+We obtain a memory-independent communication cost lower bound on classical and Strassen-based distributed- memory matrix multiplication algorithms. These bounds imply that no classical or Strassen-based parallel matrix multiplication algorithm can strongly scale perfectly beyond the ranges already attained by the two parallel algorithms mentioned above. The memory-independent bounds and the strong scaling bounds generalize to other algorithms.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Holtz, Olga
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%T Strong Scaling of Matrix Multiplication Algorithms and Memory-Independent Communication Lower Bounds
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 13
+%@ UCB/EECS-2012-31
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-31.html
+%F Ballard:EECS-2012-31

@@ -1,0 +1,179 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014
+Technical Reports - 2014
+CPSGrader: Auto-Grading and Feedback Generation for Cyber-Physical Systems Education  (EECS-2014-237) Garvit Juniwal
+A Multi-material Low Phase Noise Optomechanical Oscillator  (EECS-2014-235) Turker Beyazoglu
+Dynamic Geometry Capture with a Multi-View Structured-Light System  (EECS-2014-234) Ricardo Garcia and Avideh Zakhor
+Modeling Radiation-Induced Soft Errors in Logic and the Overhead of Resiliency Techniques  (EECS-2014-233) Steven Bailey
+Subdivision Surface Evaluation as Sparse Matrix-Vector Multiplication  (EECS-2014-231) Michael Driscoll
+SPLASH: Single-chip Planetary Low-power ASIC Spectrometer with High-resolution  (EECS-2014-230) Rachel Hochman
+Automated Discovery of User Trackers  (EECS-2014-229) Sakshi Jain
+Achieving Consistent Latencies in Datacenter Networks  (EECS-2014-228) David Zats
+Novel Material Integration for Reliable and Energy-Efficient NEM Relay Technology  (EECS-2014-227) I-Ru Chen
+Steep On/Off Transistors for Future Low Power Electronics  (EECS-2014-226) Chun Wing Yeung
+Developing Spin Devices for Logic and Memory Applications  (EECS-2014-225) Zheng Gu
+Automatic Sparsity Detection in LAPACK  (EECS-2014-224) Razvan Carbunescu
+Operating System Support for Parallel Processes  (EECS-2014-223) Barret Rhoden
+Power Conditioning and Stimulation for Wireless Neural Interface ICs  (EECS-2014-222) Will Biederman
+Queries with Bounded Errors & Bounded Response Times on Very Large Data  (EECS-2014-221) Sameer Agarwal
+Machine Learning for Helicopter Dynamics Models  (EECS-2014-219) Ali Punjani and Pieter Abbeel
+Wireless Neural Interface Design  (EECS-2014-218) Daniel Yeager
+High Quality Factor Lamb Wave Resonators  (EECS-2014-217) Jie Zou
+High Quality Factor Lamb Wave Resonators  (EECS-2014-216) Jie Zou
+Wireless Sensing Applications for Critical Industrial Environments  (EECS-2014-215) Fabien Joseph Chraim
+Selectively De-animating and Stabilizing Videos  (EECS-2014-213) Jiamin Bai
+Quantum Algorithms for Linear Algebra and Machine Learning.  (EECS-2014-211) Anupam Prakash
+A Framework for Composing High-Performance OpenCL from Python Descriptions  (EECS-2014-210) Michael Anderson
+Collecting Data With the Crowd  (EECS-2014-208) Beth Trushkowsky
+Anytime Recognition of Objects and Scenes  (EECS-2014-207) Sergey Karayev
+A Low-Power, Lightweight, Wireless Neural Recording and Stimulating Headstage for Brain Machine Interfaces  (EECS-2014-206) Jaclyn Leverett
+Optimizing Random Forests on GPU  (EECS-2014-205) Derrick Cheng and John F. Canny
+A Perceptually Based Model of Visual Adaptation  (EECS-2014-204) Armin Samii and James O'Brien
+High Voltage Level-Shifter Circuit Design for Efficiently High Voltage Transducer Driving  (EECS-2014-203) Hao-Yen Tang
+Analysis of Multilayer Neural Networks for Object Recognition  (EECS-2014-202) Pulkit Agrawal
+High Contrast Gratings for Integrated Optoelectronics  (EECS-2014-197) Weijian Yang
+BAG: A Designer-Oriented Framework for the Development of AMS Circuit Generators  (EECS-2014-195) John Wiley Crossley
+Gravure-printed Highly-scaled Organic Thin-film Transistors for Low-cost and Large-area Electronics  (EECS-2014-194) Hongki Kang and Vivek Subramanian
+Scalable Statistical Methods for Ancestral Inference from Genomic Variation Data  (EECS-2014-193) Andrew Chan
+Design Techniques for Robust and Reliable Ultra-Low Power Radios  (EECS-2014-192) Jesse Aaron Richmond
+Energy-Efficient 60GHz Phased-Array Design for Multi-Gb/s Communication Systems  (EECS-2014-191) Lingkai Kong
+Actuated Mobile Sensing in Distributed, Unstructured Environments  (EECS-2014-190) Andrew Tinka
+Design of Multi-Gb/s Multi-Coefficient Mixed-Signal Equalizers  (EECS-2014-189) Chintan Thakkar and Elad Alon
+InP-based Long Wavelength VCSEL using High Contrast Grating  (EECS-2014-188) Yi Rao
+Interference Management Techniques for Multi-Standard Wireless Receivers  (EECS-2014-187) Ashkan Borna
+Nanodiamond Imaging: Methods and Apparatus  (EECS-2014-186) Alex Hegyi
+Multi-Mode Sub-Nyquist Rate D/A Converter for TV Band Cognitive Radio  (EECS-2014-185) Stanley Yuan-Shih Chen
+Quantifying the Energy Efficiency of Object Recognition and Optical Flow  (EECS-2014-184) Michael Anderson, Forrest Iandola and Kurt Keutzer
+Micromechanical Disk Array for Enhanced Frequency Stability Against Bias Voltage Fluctuations  (EECS-2014-182) Lingqi Wu
+Synthesis of Layout Engines from Relational Constraints  (EECS-2014-181) Thibaud Hottelier and Ras Bodik
+Long-term Recurrent Convolutional Networks for Visual Recognition and Description  (EECS-2014-180) Jeffrey Donahue, Lisa Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko and Trevor Darrell
+Large-Scale, Low-Latency State Estimation Of Cyber- physical Systems With An Application To Traffic Estimation  (EECS-2014-176) Timothy Hunter
+Bounds on the Energy Consumption of Computational Kernels  (EECS-2014-175) Andrew Gearhart
+Fast 4D Sheared Filtering for Interactive Rendering of Distribution Effects  (EECS-2014-174) Ling-Qi Yan, Soham Uday Mehta, Ravi Ramamoorthi and Fredo Durand
+MultiSE: Multi-Path Symbolic Execution using Value Summaries  (EECS-2014-173) Koushik Sen, George Necula, Liang Gong and Philip Wontae Choi
+A Longitudinal and Cross-Dataset Study of Internet Latency and Path Stability  (EECS-2014-172) Mosharaf Chowdhury, Rachit Agarwal, Vyas Sekar and Ion Stoica
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript  (EECS-2014-171) Michael Pradel, Parker Schuh and Koushik Sen
+Provably Efficient Algorithms for Numerical Tensor Algebra  (EECS-2014-170) Edgar Solomonik
+High Performance Machine Learning through Codesign and Rooflining  (EECS-2014-169) Huasha Zhao and John F. Canny
+A Hybrid Dynamical Systems Theory for Legged Locomotion  (EECS-2014-167) Samuel Burden
+A Learning Based Approach to Control Synthesis of Markov Decision Processes for Linear Temporal Logic Specifications  (EECS-2014-166) Dorsa Sadigh, Eric Kim, Samuel Coogan, S. Shankar Sastry and Sanjit A. Seshia
+Accuracy of the s-step Lanczos method for the symmetric eigenproblem  (EECS-2014-165) Erin Carson and James Demmel
+Ptolemy Coding Style  (EECS-2014-164) Christopher Brooks and Edward A. Lee
+System Design Trade-Offs in a Next-Generation Embedded Wireless Platform  (EECS-2014-162) Michael P Andersen and David E. Culler
+Programming by Manipulation for Layout  (EECS-2014-161) Thibaud Hottelier, Ras Bodik and Kimiko Ryokai
+Dynamic and Interactive Synthesis of Code Snippets  (EECS-2014-160) Joel Galenson
+Enabling Portable Building Applications through Automated Metadata Transformation  (EECS-2014-159) Arka Bhattacharya, David E. Culler, Jorge Ortiz, Dezhi Hong and Kamin Whitehouse
+Programming Layout by Manipulation  (EECS-2014-158) Thibaud Hottelier
+Requirements for Hybrid Cosimulation  (EECS-2014-157) David Broman, Lev Greenberg, Edward A. Lee, Michael Masin, Stavros Tripakis and Michael Wetter
+Topics in Cell Phone Security  (EECS-2014-156) Jethro Beekman
+Formal Techniques for the Verification and Optimal Control of Probabilistic Systems in the Presence of Modeling Uncertainties  (EECS-2014-155) Alberto Puggelli
+Language Support for Loosely Consistent Distributed Programming  (EECS-2014-153) Neil Conway
+System Design of Cooperative Wireless Networks  (EECS-2014-151) Milos Jorgovanovic
+Mercury - A Laboratory Information and Management System  (EECS-2014-149) Todd Merport, Alexander Proskurowski and Katalin Voros
+Learning with Parsimony for Large Scale Object Detection and Discovery  (EECS-2014-148) Hyun Oh Song
+Contention Bounds for Combinations of Computation Graphs and Network Topologies  (EECS-2014-147) Grey Ballard, James Demmel, Andrew Gearhart, Benjamin Lipshitz, Oded Schwartz and Sivan Toledo
+Instruction Sets Should Be Free: The Case For RISC-V  (EECS-2014-146) Krste Asanović and David A. Patterson
+JITProf: Pinpointing JIT-unfriendly JavaScript Code  (EECS-2014-144) Liang Gong, Michael Pradel and Koushik Sen
+A massively parallel tensor contraction framework for coupled-cluster computations  (EECS-2014-143) Edgar Solomonik, Devin Matthews, Jeff Hammond, John Stanton and James Demmel
+Counting and Correlation Decay in Spin Systems  (EECS-2014-142) Piyush Srivastava
+When is Big Data Big Enough? Implications of Using GPS-Based Surveys for Travel Demand Analysis  (EECS-2014-141) Akshay Vij and Kalyanaraman Shankari
+E-Mission: Automated transportation emission calculation using smart phones  (EECS-2014-140) Kalyanaraman Shankari, Mogeng Yin, Shanthi Shanmugam, David E. Culler and Randy H. Katz
+Program Synthesis for Hierarchical Specifications  (EECS-2014-139) Thibaud Hottelier and Ras Bodik
+The Emperor’s New Password Manager: Security Analysis of Web-based Password Managers  (EECS-2014-138) Zhiwei Li, Warren He, Devdatta Akhawe and Dawn Song
+Building an Adaptive Operating System for Predictability and Efficiency  (EECS-2014-137) Gage Eads, Juan Colmenares, Steven Hofmeyr, Sarah Bird, Davide Bartolini, David Chou, Brian Glutzman, Krste Asanović and John D. Kubiatowicz
+Reliable, Memory Speed Storage for Cluster Computing Frameworks  (EECS-2014-135) Haoyuan Li, Ali Ghodsi, Matei Zaharia, Scott Shenker and Ion Stoica
+Fabryq: Using phones as smart proxies to control wearable devices from the Web  (EECS-2014-134) Mozziyar Etemadi, Will McGrath, Shuvo Roy and Björn Hartmann
+Adaptive Stream Processing using Dynamic Batch Sizing  (EECS-2014-133) Tathagata Das, Yuan Zhong, Ion Stoica and Scott Shenker
+Analyzing Data-Dependent Timing and Timing Repeatability with GameTime  (EECS-2014-132) Zachariah Wasson
+A Comparison of Error Metrics for Learning Model Parameters in Bayesian Knowledge Tracing  (EECS-2014-131) Asif Dhanani, Seung Yeon Lee, Phitchaya Phothilimthana and Zachary Pardos
+Generalized Arrows  (EECS-2014-130) Adam Megacz Joseph
+Temporal Lensing and its Application in Pulsing Denial of Service Attacks  (EECS-2014-129) Ryan Rasti, Mukul Murthy and Vern Paxson
+Real-time Musical Score Following from a Live Audio Source  (EECS-2014-127) Andrew Lee
+Statistical Methods for Genome Assembly  (EECS-2014-125) Maayan Bresler
+Towards Autonomous Situation Awareness  (EECS-2014-124) Nikhil Naikal
+Supervisory Control and Data Acquisition System Design for CO2 Enhanced Oil Recovery  (EECS-2014-123) XIE LU
+Scalable Automated Model Search  (EECS-2014-122) Evan Sparks
+Line Segment-based Aerial Image Registration  (EECS-2014-121) Youngwook Paul Kwon
+Polynomial-Time Verification of PCTL Properties of MDPs with Convex Uncertainties  (EECS-2014-118) Alberto Alessandro Angelo Puggelli
+Real-time Image Processing on Low Cost Embedded Computers  (EECS-2014-117) Sunil Shah
+Viability of Tensegrity Robots in Space Exploration  (EECS-2014-116) Cheng-yu Hong
+A Robust Compressed Sensing IC for Bio-Signals  (EECS-2014-114) Jun Kwang Oh
+A Comprehensive Surface Mount Technology Solution for Integrated Circuits onto Flexible Screen Printed Electrical Interconnects  (EECS-2014-113) Meriem Ben Salah Ep Akin
+Formal Modeling and Verification of CloudProxy  (EECS-2014-112) Wei Yang Tan
+Extracting Chemical Reactions from Biological Literature  (EECS-2014-109) Jeffrey Tsui
+Viewpoints, Formalisms, Languages, and Tools for Cyber-Physical Systems  (EECS-2014-106) David Broman, Edward A. Lee, Stavros Tripakis and Martin Törngren
+Defocus based phase imaging for quantifying electromagnetic edge effects in photomasks  (EECS-2014-105) Aamod Shanker
+Access Point Selection for Multi-Rate IEEE 802.11 Wireless LANs  (EECS-2014-104) Shicong Yang and Avideh Zakhor
+4H-Silicon Carbide PN Diode for Harsh Environment Temperature Sensing Applications  (EECS-2014-103) Nuo Zhang
+Compressed Sensing ICs for Bio-Sensor Applications  (EECS-2014-102) Kevin Park
+Automatic Functional Datapath Optimization  (EECS-2014-101) Wenyu Tang
+ML-o-scope: a diagnostic visualization system for deep machine learning pipelines  (EECS-2014-99) Daniel Bruckner
+Building Operating Systems Services: An Architecture for Programmable Buildings  (EECS-2014-96) Stephen Dawson-Haggerty
+Leveraging Smartphone Hardware Capabilities for Alternative Authentication  (EECS-2014-95) Isaac Long
+9.7-ENOB SAR ADC for Compressed Sensing  (EECS-2014-94) Brian Wang
+Learning Semantic Image Representations at a Large Scale  (EECS-2014-93) Yangqing Jia
+Ocular Cellscope  (EECS-2014-91) Christopher Echanique
+NEM Relay Scaling for Ultra-low Power Digital Logic  (EECS-2014-90) Jack Yaung
+PHANTOM: Practical Oblivious Computation in a Secure Processor  (EECS-2014-89) Martin Maas
+DSP Chip of Compressed Sensing Algorithm for Bio-Sensor Application  (EECS-2014-88) Xinping Zhang
+Optimizing Resource Allocations for Dynamic Interactive Applications  (EECS-2014-87) Sarah Bird
+Bribecaster: Documenting Bribes Through Community Participation  (EECS-2014-85) Manas Mittal
+Health Solutions Assessment  (EECS-2014-84) Kevin Johnson
+Image patch modeling in a light field  (EECS-2014-81) Zeyu Li
+Improving TCP latency with super-packets  (EECS-2014-80) David Schinazi
+Multiple Optimality Guarantees in Statistical Learning  (EECS-2014-79) John Duchi
+ACES: Automatic Evaluation of Coding Style  (EECS-2014-77) Stephanie Rogers, Dan Garcia, John F. Canny, Steven Tang and Daniel Kang
+OCTAL: The Online Course Tool for Adaptive Learning  (EECS-2014-76) Daniel Armendariz
+Exploiting Spatial Channel Occupancy Information in WLANs  (EECS-2014-75) Michael N Krishnan
+Improving User Experiences in Indoor Navigation with Augmented Reality  (EECS-2014-74) Andrew Zhong
+Improving User Experiences in Indoor Navigation Using Augmented Reality  (EECS-2014-73) Nahush Bhanage
+Structural Health Monitoring For Unmanned Aerial Systems  (EECS-2014-70) Yong Keong Yap
+Next Generation Financial Guidance Tool  (EECS-2014-69) Feng Hai
+Low Dimensional Materials for Next Generation Electronics  (EECS-2014-65) Steven Chuang
+Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms  (EECS-2014-64) Guoming Wang
+Endlessly Circulating Messages in IEEE 1588-2008 Systems  (EECS-2014-62) David Broman, Patricia Derler, Ankush Desai, John Eidson and Sanjit A. Seshia
+Applying Probabilistic Models for Knowledge Diagnosis and Educational Game Design  (EECS-2014-61) Anna Rafferty
+New Mobility Solutions for a Changing Automotive Landscape: Development of a Shared Transportation Web Application  (EECS-2014-60) Gregory Quan
+From the Telegraph to Twitter Group Chats  (EECS-2014-59) James Cook
+Concentric Rings K-space Trajectory for Hyperpolarized C-13 MR Spectroscopic Imaging  (EECS-2014-58) Wenwen Jiang
+Troubleshooting Blackbox SDN Control Software With Minimal Causal Sequences  (EECS-2014-57) Colin Scott
+Towards High Assurance HTML5 Applications  (EECS-2014-56) Devdatta Akhawe
+Error analysis of the s-step Lanczos method in finite precision  (EECS-2014-55) Erin Carson and James Demmel
+The RISC-V Instruction Set Manual, Volume I: User-Level ISA, Version 2.0  (EECS-2014-54) Andrew Waterman, Yunsup Lee, David A. Patterson and Krste Asanović
+Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers  (EECS-2014-53) Meriem Ben Salah Ep Akin, Lutz Rissing and Wolfgang Heumann
+Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides  (EECS-2014-52) Meriem Ben Salah Ep Akin, Lutz Rissing and Elke Pichler
+A quantitative Gibbard-Satterthwaite theorem without neutrality  (EECS-2014-48) Elchanan Mossel and Miklos Racz
+Differential Disclosure of Information  (EECS-2014-47) Daniel Aranki and Ruzena Bajcsy
+Methuselah: Intelligent Data Aging  (EECS-2014-46) Nick Lanham
+Application of Inkjet-Printing Technology to Micro-Electro-Mechanical Systems  (EECS-2014-44) Eung Seok Park
+Archipelago - An Open Source FPGA with Toolflow Support  (EECS-2014-43) Hao Jun Liu
+Advanced Architectures for Efficient mm-Wave CMOS Wireless Transmitters  (EECS-2014-42) JiaShu Chen
+Real-time Safe Semi-Autonomous Control with Driver Modeling  (EECS-2014-41) Victor Shia
+Tactile Sensors for Palm-Size Crawling Robots  (EECS-2014-40) Jaakko Karras
+Minimally Actuated Dynamic Climbing in the Sagittal Plane  (EECS-2014-39) Paul Birkmeyer
+Identification of Hybrid Dynamical Models for Human Movement via Switched System Optimal Control  (EECS-2014-38) Ram Vasudevan
+A software approach for combining real time data measurement and building energy model to improve energy efficiency  (EECS-2014-37) Jiechao Li
+Towards an Ultra-Low Energy Computation with Asynchronous Circuits  (EECS-2014-36) Tsung-Te Liu
+Resilient Control and Intrusion Detection for SCADA Systems  (EECS-2014-34) Bonnie   Xia Zhu
+Applied Estimation of Mobile Environments  (EECS-2014-32) Kevin Weekly
+Towards a Minimal Architecture for a Printable, Modular, and Robust Sensing Skin  (EECS-2014-31) Austin Buchan
+Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI  (EECS-2014-30) Stavros Tripakis and David Broman
+Hypnos: Unobtrusive Power Proportionality for HPC frameworks  (EECS-2014-29) Arka Bhattacharya and David E. Culler
+A More Powerful Two-Sample Test in High Dimensions using Random Projection  (EECS-2014-28) Miles Lopes, Laurent Jacob and Martin Wainwright
+Towards Interactive Timing Analysis for Designing Reactive Systems  (EECS-2014-26) Insa Fuhrmann, David Broman, Steven Smyth and Reinhard von Hanxleden
+From Relational Interfaces to Assume-Guarantee Contracts  (EECS-2014-21) Pierluigi Nuzzo, Antonio Iannopollo, Stavros Tripakis and Alberto L. Sangiovanni-Vincentelli
+Specification Mining: New Formalisms, Algorithms and Applications  (EECS-2014-20) Wenchao Li
+A Three-Stage Colonel Blotto Game with Applications to Cyber-Physical Security  (EECS-2014-19) Abhishek Gupta, Galina Schwartz, Cedric  Langbort, S. Shankar Sastry and  Tamer Basar
+Analysis of the finite precision s-step biconjugate gradient method  (EECS-2014-18) Erin Carson and James Demmel
+Software Engineering Curriculum Technology Transfer: Lessons learned from MOOCs  and SPOCs  (EECS-2014-17) Armando Fox, David A. Patterson, Richard Ilson, Samuel Joseph, Kristen Walcott-Justice and Rose Williams
+Robust Strategy Synthesis for Probabilistic Systems Applied to Risk-Limiting Renewable-Energy Pricing  (EECS-2014-16) Alberto Alessandro Angelo Puggelli, Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+Constructive Models of Discrete and Continuous Physical Phenomena  (EECS-2014-15) Edward A. Lee
+An Architecture for Fast and General Data Processing on Large Clusters  (EECS-2014-12) Matei Zaharia
+Near-optimal Assembly for Shotgun Sequencing with Noisy Reads  (EECS-2014-10) Ka Kit Lam, David Tse and Asif Khalak
+Optimizing Parallel Job Performance in Data-Intensive Clusters  (EECS-2014-9) Ganesh Ananthanarayanan
+Tradeoffs between synchronization, communication, and work in parallel linear algebra computations  (EECS-2014-8) Edgar Solomonik, Erin Carson, Nicholas Knight and James Demmel
+Generalized Ultrametric Semilattices of Linear Signals  (EECS-2014-7) Eleftherios Matsikoudis and Edward A. Lee
+Fundamental Tradeoff between Conductance and Subthreshold Swing Voltage for Barrier Thickness Modulation in Tunnel Field Effect Transistors  (EECS-2014-6) Sapan Agarwal and Eli Yablonovitch
+First Draft of the act Programming Language  (EECS-2014-5) Eleftherios Matsikoudis and Christos Stergiou
+Basic Problems in Multi-View Modeling  (EECS-2014-4) Jan Reineke and Stavros Tripakis
+Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study  (EECS-2014-2) Khalid Md Ashraf
+Shark: SQL and Analytics with Cost-Based Query Optimization on Coarse-Grained Distributed Memory  (EECS-2014-1) Antonio Lupher

@@ -1,0 +1,176 @@
+URL: http://people.eecs.berkeley.edu:80/~bh/195-syllabus
+CS 195, Social Implications of Computing
+CS H195, Honors Social Implications of Computing
+Brian Harvey		781 Soda Hall
+642-8311		bh@cs.berkeley.edu
+Office hours:  Tue 3-5, Wed 2-3:50
+General Course Information
+==========================
+The one-unit CS 195 is meant to serve the needs of students who are here
+to satisfy a requirement.  It is meant to be relatively painless and perhaps
+to spark an interest in the topic.
+The three-unit CS H195 is meant to allow small-group discussion with the
+students who are here out of serious interest.  It requires more reading
+and more writing (a term paper) in addition to the extra discussion time.
+The non-honors version meets once per week, Monday 4-5:30, in 306 Soda.
+The honors version has the same lecture, plus an additional meeting Wednesday
+4-5:30, in 373 Soda.
+This syllabus is online at  http://www-inst.eecs.berkeley.edu/~cs195
+READINGS
+--------
+There are two course readers, although with a lot of overlap, one for each
+version of the course.  Be sure to get the right reader!  They're at
+Copy Central on Shattuck Square.  FOR THE NON-HONORS (CS 195) STUDENTS,
+ALL ASSIGNED READINGS ARE EITHER IN THE COURSE READER OR ONLINE.  The honors
+version (CS H195) has two textbooks in addition to the reader:
+[ES]	Computers, Ethics, and Society (Third Edition)
+edited by M. David Ermann and Michele S. Shauf.
+Oxford University Press, 1997, ISBN 0-19-514302-7
+[Lud]	High Noon on the Electronic Frontier: Conceptual Issues in Cyberspace
+edited by Peter Ludlow.  MIT Press, 1996, ISBN 0-262-62103-7
+Each week I cull news articles relevant to the course; these will be posted
+in the class bSpace page and are also part of the week's reading assignment.
+You don't have to read every word of every article, but skim them and read
+the interesting ones.
+DO THE READING, COME TO CLASS
+-----------------------------
+As indicated below, each week has a topic, more or less.  This first week is
+a general overview of the course and the topics.
+PLEASE READ THE INDICATED PAPERS BEFORE EACH WEEK'S DISCUSSION.  Most of the
+readings should be easy going, with only a few exceptions.  (I'll try to warn
+you about those in advance.)  But if you don't do the reading, the quality of
+the discussions will suffer.  You are expected to attend class and participate
+in discussions.  ATTENDANCE IS REQUIRED -- THIS WILL BE ENFORCED.
+WRITING ASSIGNMENTS
+-------------------
+The course is graded P/NP.  In addition to attending all class sessions and
+doing the assigned reading, the requirement for credit includes three
+writing assignments.  In the non-honors section, these will be short (one or
+two page) papers on assigned topics, based on the readings and lectures,
+due Monday of weeks 6 (10/1), 9 (10/22), and 14 (11/26).
+In the honors section (194/12), the first two will be the same short papers,
+and the third will be a longer (5-10 page) term paper.  Each honors student
+will pick one topic for more intensive study, leading to a term paper and
+perhaps a presentation to the class.  (Your topic may or may not be the same
+as one of mine.)  Since the term paper is your main written work in this
+course, I want it to be good -- scholarly, honest, articulate, well-organized.
+To this end, you will prepare the term paper in three stages:
+* A one-page proposal (with initial bibliography) due week 5 (9/24).
+* A first version (your best effort!) due week 10 (10/29).
+* A revised version due week 13 (11/19).
+I'll respond to each of these stages within a week.  THESE ARE FIRM DEADLINES;
+they are chosen to allow time for recovery if what you turn in is not of
+acceptable quality.  (In a typical semester I require post-final versions from
+one or two out of about 25 students.)  Typical papers are 5 to 10 pages, but
+don't pad; quality counts much more than quantity.
+ACADEMIC INTEGRITY
+------------------
+I have strong opinions on some of these topics, and I believe that the road to
+academic integrity is for me to make my biases clear, rather than to pretend
+not to have opinions.  But it's also my job to be sure that the full range of
+opinion is fairly presented and taken seriously; if, as sometimes happens,
+most of the class agrees with me about some point I'll do my best to argue the
+other side of the question.  The same standards apply to your papers: You
+don't have to agree with me; what you have to do is show that you understand
+and take seriously points of view different from your own, and try to explain
+why your arguments are better than theirs.  (But not every paper is
+necessarily an opinion paper!)
+I hope it goes without saying that everything you turn in should be your own
+work, not quoting from anyone else's work without proper attribution.
+Schedule:
+Week  Dates	Topic				Readings
+1    8/27,8/29	Intro
+Williams, "Ethical..." (handout)
+HONORS: ES 190-202
+2    ---,9/5	Monday is a holiday; Wed is about the Honors
+term paper.
+3    9/10,9/12	Privacy
+Rachels, "Why Privacy..." (reader)
+Garfinkle: "Privacy Requires..." (reader)
+Nissenbaum, "A Contextual Approach..." (reader*)
+HONORS: ES 137-152; Lud 173-249
+Hausman, "Your..." (reader)
+4    9/17,9/19	Intellectual Property
+Stallman, "GNU..." [ES 153-162]
+Stallman, "Misinterpreting..." (reader)
+LPF, "Against..." [Lud 47-62]
+Heckel, "Debunking..." [Lud 63-108]
+HONORS: Lud 1-121
+5    9/24,9/26	Ethics
+Hospers, "The Best..." [ES 3-11]
+Rachels, "The Best..." [ES 12-16]
+Aristotle, "The Best..." [ES 16-20]
+MacIntyre, _After Virtue_ (reader)
+HONORS: larger excerpt of MacIntyre (reader)
+(HONORS TERM PAPER PROPOSAL DUE Monday 9/24)
+6    10/1,10/3	Computers and War
+Chapman, "A Moral Project..." (reader)
+Page, "Why Star Wars..." (reader)
+Mahnken, "Weapons" (reader)
+Dunlap, "The Military-Industrial..." (reader)
+Shafer, "Artificial Intelligence..." (reader)
+HONORS: ES 214-231
+(FIRST SHORT PAPER DUE Monday 10/1)
+7    10/8,10/10	Self
+Dreyfus, "Using..." [ES 74-81]
+Turkle, _The Second Self_ and
+_Life on the Screen_ (reader)
+HONORS: ES 101-110
+8    10/15,10/17	Community
+Curtis, "MUDding..." [Lud 347-373]
+Dibbell, "A Rape..." [Lud 375-395]
+Godwin, "Virtual..." (reader*)
+Horrigan, "What Are..." (reader*)
+Garrett, "Resisting Political..." (reader*)
+Sproull, "Prosocial..." (reader*)
+HONORS: ES 85-90, 231-249; Lud 311-457
+Clark, "Introduction" (reader*)
+Schlozman, "Who Speaks?" (reader*)
+Week  Dates	Topic	Readings
+9    10/22,10/24	Computers and Education
+Papert, "Mathophobia..."
+Schank/Cleary, "What Makes..."
+Sewell, "Software Styles" (reader)
+HONORS: ES 171-183
+Goodman, "The Present Plight.."
+Buber, "Education" and
+"The Education of Character" (reader)
+(SECOND SHORT PAPER DUE Monday 10/22)
+10    10/29,10/31	Risks
+Joy, "Why..." [ES 110-122]
+Neumann, "Illustrative Risks..." (online:
+www.csli.sri.com/users/neumann/illustrative.html)
+Levenson/Turner "...Therac-25.." (reader)
+Mulligan, "Doctrine for..." (reader*)
+HONORS: Collins et al, "How Good..."
+Gladwell, "Blowup" (reader)
+Cheshire, "Online Trust..." (reader*)
+Cerf, "Safety..." (reader*)
+Camp, "Reconceptualizing..." (reader*)
+(HONORS TERM PAPER FIRST VERSION DUE Monday 10/29)
+11    11/5,11/7  The Nature of Work
+Forester, "Computerizing..." (reader)
+HONORS: ES 184-190
+Hochheiser, "Workplace Database.."
+Barbour, "Computers Transform..."
+Pearson&Mitter "Computeriz..."
+Dedrick et al, "Computing in..."
+Forester, "Whatever..." (reader)
+12    ---,11/14	 Monday is a holiday; Wed is about Cracking
+Spafford, "Are Hacker..." [ES 64-74]
+Wright, "Hackwork" (reader)
+HONORS: Lud 123-163
+12    11/19,11/21	Pornography and Censorship
+Godwin, "Virtual..." [Lud 269-273]
+Goodman, "Pornography, Art..." (reader)
+HONORS: Lud 251-310
+Benkler, "WikiLeaks..." (reader*)
+(REVISED HONORS TERM PAPER DUE Monday 11/19)
+14    11/26,11/28	Professional Ethics
+ACM "Code..."
+Anderson, "Using..."
+Barger, "Can We Find..."
+Bok, "The Morality..." [ES 23-54]
+(THIRD SHORT PAPER DUE Monday 11/26)
+(Papers labelled "(reader*)" are later in the reader than they should be
+for chronological topic order.)

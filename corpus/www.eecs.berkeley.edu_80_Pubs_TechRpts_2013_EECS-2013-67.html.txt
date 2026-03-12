@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-67.html
+Speech-enabled Systems for Language Learning
+Anuj Tewari
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-67
+May 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-67.pdf
+Levels of literacy and the variance in them, continue to be a problem in the world. These problems are ubiquitous in the sense that they change form from developing to developed regions, but do not seize to exist. For example, while teacher absenteeism is a fairly large problem in the developing world, student motivation can pose challenges in the developed world. Prior research has demonstrated that games can serve as an efficient medium in bridging these literacy gaps, generating student motivation (or engagement) not just in short term but also in the long term. This dissertation is dedicated to the investigation and application of spoken language technology to language acquisition contexts in the developed world. We explore the broader research question in two major contexts.
+Firstly, lack of proper English pronunciations is a major problem for immigrant population in developed countries like U.S. This poses various problems, including a barrier to entry into mainstream society. Therefore, the first part of the dissertation involves exploration of speech technologies merged with activity-based and arcade-based games to do pronunciation feedback for Hispanic children. This also involves using linguistic theory to determine computational criteria for intelligibility in speech and computational adaptations to reflect them. We also present results from a 3-month long evaluation of this system.
+Secondly, a large body of research has shown that the literacy gap between children is well-established before formal schooling begins, and predicts academic performance throughout primary, middle and secondary school. Therefore, in the second part of the dissertation we explore natural interactions for preschoolers that would engage them in game-like activities that involve short follow-up conversations. We explore the design and implementation of a conversational agent called Spot, that acts as a question-answering companion for preschool children. We present a month long study with 20 preschoolers with some insight on the potential, efficiency and usage of such a system. We end with a discussion on computational complexities in building Spot, and rules that it uses to work around speech recognition and natural language understanding errors.
+Advisors:  John F. Canny
+BibTeX citation:
+@phdthesis{Tewari:EECS-2013-67,
+Author= {Tewari, Anuj},
+Title= {Speech-enabled Systems for Language Learning},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-67.html},
+Number= {UCB/EECS-2013-67},
+Abstract= {Levels of literacy and the variance in them, continue to be a problem in the world. These problems are ubiquitous in the sense that they change form from developing to developed regions, but do not seize to exist. For example, while teacher absenteeism is a fairly large problem in the developing world, student motivation can pose challenges in the developed world. Prior research has demonstrated that games can serve as an efficient medium in bridging these literacy gaps, generating student motivation (or engagement) not just in short term but also in the long term. This dissertation is dedicated to the investigation and application of spoken language technology to language acquisition contexts in the developed world. We explore the broader research question in two major contexts.
+Firstly, lack of proper English pronunciations is a major problem for immigrant population in developed countries like U.S. This poses various problems, including a barrier to entry into mainstream society. Therefore, the first part of the dissertation involves exploration of speech technologies merged with activity-based and arcade-based games to do pronunciation feedback for Hispanic children. This also involves using linguistic theory to determine computational criteria for intelligibility in speech and computational adaptations to reflect them. We also present results from a 3-month long evaluation of this system.
+Secondly, a large body of research has shown that the literacy gap between children is well-established before formal schooling begins, and predicts academic performance throughout primary, middle and secondary school. Therefore, in the second part of the dissertation we explore natural interactions for preschoolers that would engage them in game-like activities that involve short follow-up conversations. We explore the design and implementation of a conversational agent called Spot, that acts as a question-answering companion for preschool children. We present a month long study with 20 preschoolers with some insight on the potential, efficiency and usage of such a system. We end with a discussion on computational complexities in building Spot, and rules that it uses to work around speech recognition and natural language understanding errors.},
+}
+EndNote citation:
+%0 Thesis
+%A Tewari, Anuj
+%T Speech-enabled Systems for Language Learning
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 15
+%@ UCB/EECS-2013-67
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-67.html
+%F Tewari:EECS-2013-67

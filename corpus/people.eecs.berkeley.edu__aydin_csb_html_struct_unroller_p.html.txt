@@ -1,0 +1,40 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/struct_unroller_p.html
+Compressed Sparse Blocks: UnrollerP< InnerUnroll, Begin > Struct Template Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+Class List
+Class Index
+Class Hierarchy
+Class Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Classes  |
+Static Public Member Functions  |
+List of all members
+UnrollerP< InnerUnroll, Begin > Struct Template Reference
+#include < unrollerp.h >
+Static Public Member Functions
+template<typename Lambda >
+static void    step  (size_t N, Lambda &func)
+Detailed Description
+template<int InnerUnroll = 8, int Begin = 0>
+struct UnrollerP< InnerUnroll, Begin >
+Definition at line  4  of file  unrollerp.h .
+Member Function Documentation
+template<int InnerUnroll = 8, int Begin = 0>
+template<typename Lambda >
+static void  UnrollerP < InnerUnroll, Begin >::step
+(
+size_t
+N ,
+Lambda &
+func
+)
+inline static
+Definition at line  6  of file  unrollerp.h .
+The documentation for this struct was generated from the following file:
+unrollerp.h
+Generated on Sun Mar 2 2014 21:16:25 for Compressed Sparse Blocks by
+1.8.6

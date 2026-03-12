@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-33.html
+DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks
+David Zats and Tathagata Das and Prashanth Mohan and Dhruba Borthakur and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-33
+March 15,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-33.pdf
+Web applications have now become so sophisticated that rendering a typical page may require hundreds of intra-datacenter flows. At the same time, web sites must meet strict page creation deadlines of 200-300ms to satisfy user demands for interactivity. Long-tailed flow completion times make it challenging for web sites to meet these constraints. They are forced to choose between rendering a subset of the complex page, or delay its rendering, thus missing deadlines and sacrificing either quality or responsiveness. Either option leads to potential financial loss.
+In this paper, we present a new cross-layer network stack aimed at reducing the long tail of flow completion times. The approach exploits cross-layer information to reduce packet drops, prioritize latency-sensitive flows, and evenly distribute network load, effectively reducing the long tail of flow completion times. We evaluate our approach through NS-3 based simulation and Click-based implementation demonstrating our ability to consistently reduce the tail across a wide range of workloads. We commonly achieve reductions of over 50\% in  99.9th percentile flow completion times without significantly impacting the median.
+BibTeX citation:
+@techreport{Zats:EECS-2012-33,
+Author= {Zats, David and Das, Tathagata and Mohan, Prashanth and Borthakur, Dhruba and Katz, Randy H.},
+Title= {DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-33.html},
+Number= {UCB/EECS-2012-33},
+Abstract= {Web applications have now become so sophisticated that rendering a typical page may require hundreds of intra-datacenter flows. At the same time, web sites must meet strict page creation deadlines of 200-300ms to satisfy user demands for interactivity. Long-tailed flow completion times make it challenging for web sites to meet these constraints. They are forced to choose between rendering a subset of the complex page, or delay its rendering, thus missing deadlines and sacrificing either quality or responsiveness. Either option leads to potential financial loss.
+In this paper, we present a new cross-layer network stack aimed at reducing the long tail of flow completion times. The approach exploits cross-layer information to reduce packet drops, prioritize latency-sensitive flows, and evenly distribute network load, effectively reducing the long tail of flow completion times. We evaluate our approach through NS-3 based simulation and Click-based implementation demonstrating our ability to consistently reduce the tail across a wide range of workloads. We commonly achieve reductions of over 50\% in  99.9th percentile flow completion times without significantly impacting the median.},
+}
+EndNote citation:
+%0 Report
+%A Zats, David
+%A Das, Tathagata
+%A Mohan, Prashanth
+%A Borthakur, Dhruba
+%A Katz, Randy H.
+%T DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 15
+%@ UCB/EECS-2012-33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-33.html
+%F Zats:EECS-2012-33

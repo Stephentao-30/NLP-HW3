@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29294.html
+Proof of the Generation Rule for the Stability Constraints in Linear Discrete Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Proof of the Generation Rule for the Stability Constraints in Linear Discrete Systems
+Proof of the Generation Rule for the Stability Constraints in Linear Discrete Systems
+E.I. Jury
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M39
+December 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-39.pdf
+BibTeX citation:
+@techreport{Jury:M39,
+Author = {Jury, E.I.},
+Title = {Proof of the Generation Rule for the Stability Constraints in Linear Discrete Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29294.html},
+Number = {UCB/ERL M39}
+}
+EndNote citation:
+%0 Report
+%A Jury, E.I.
+%T Proof of the Generation Rule for the Stability Constraints in Linear Discrete Systems
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29294.html
+%F Jury:M39

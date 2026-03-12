@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-210.html
+Wireless Weigh-In-Motion: using road vibrations to estimate truck weights
+Ravneet Bajwa
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-210
+December 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-210.pdf
+Vehicle count and weight data plays an important role in traffic planning, weight enforcement, and pavement condition assessment. This data is primarily obtained through weigh stations and weigh-in-motion stations which are currently very expensive to install and maintain. This dissertation presents a wireless sensor-based solution that is relatively inexpensive, and uses the measured pavement vibrations to estimate weight of moving vehicles.
+The proposed wireless sensor network (WSN) consists of vibration sensors that report pavement acceleration and temperature; vehicle detection sensors that report a vehicle’s arrival and departure times; and an access point (AP) that controls the sensors and processes the incoming sensor data. The system can enable many new applications in infrastructure monitoring and intelligent transportation. We present energy-efficient algorithms for three such applications: automatic vehicle classification for categorizing each passing vehicle based on its axle count and inter-axle spacings; weigh-in-motion for estimating individual axle weight and total weight of trucks while they are traveling at normal speeds; and estimating pavement displacement from measured acceleration.
+The wireless vibration sensor developed for this project has a high resolution (≈ 400 μg) and is immune to traffic sounds that are generally picked up by MEMS accelerometers. The prototype system was deployed on real highways and results for vehicle classification, weigh- in-motion, and displacement estimation were compared against reference measurements. The system passed the accuracy standards for weigh-in-motion (WIM) systems and outperformed a nearby commercial WIM station, based on conventional technology. Since sensors are embedded directly in the pavement, the system can also enable real-time monitoring of pavement condition.
+Advisors:  Pravin Varaiya
+BibTeX citation:
+@phdthesis{Bajwa:EECS-2013-210,
+Author= {Bajwa, Ravneet},
+Title= {Wireless Weigh-In-Motion: using road vibrations to estimate truck weights},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-210.html},
+Number= {UCB/EECS-2013-210},
+Abstract= {Vehicle count and weight data plays an important role in traffic planning, weight enforcement, and pavement condition assessment. This data is primarily obtained through weigh stations and weigh-in-motion stations which are currently very expensive to install and maintain. This dissertation presents a wireless sensor-based solution that is relatively inexpensive, and uses the measured pavement vibrations to estimate weight of moving vehicles.
+The proposed wireless sensor network (WSN) consists of vibration sensors that report pavement acceleration and temperature; vehicle detection sensors that report a vehicle’s arrival and departure times; and an access point (AP) that controls the sensors and processes the incoming sensor data. The system can enable many new applications in infrastructure monitoring and intelligent transportation. We present energy-efficient algorithms for three such applications: automatic vehicle classification for categorizing each passing vehicle based on its axle count and inter-axle spacings; weigh-in-motion for estimating individual axle weight and total weight of trucks while they are traveling at normal speeds; and estimating pavement displacement from measured acceleration.
+The wireless vibration sensor developed for this project has a high resolution (≈ 400 μg) and is immune to traffic sounds that are generally picked up by MEMS accelerometers. The prototype system was deployed on real highways and results for vehicle classification, weigh- in-motion, and displacement estimation were compared against reference measurements. The system passed the accuracy standards for weigh-in-motion (WIM) systems and outperformed a nearby commercial WIM station, based on conventional technology. Since sensors are embedded directly in the pavement, the system can also enable real-time monitoring of pavement condition.},
+}
+EndNote citation:
+%0 Thesis
+%A Bajwa, Ravneet
+%T Wireless Weigh-In-Motion: using road vibrations to estimate truck weights
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 16
+%@ UCB/EECS-2013-210
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-210.html
+%F Bajwa:EECS-2013-210

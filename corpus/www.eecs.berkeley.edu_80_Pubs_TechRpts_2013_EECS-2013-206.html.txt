@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-206.html
+A Computational Light Field Display for Correcting Visual Aberrations
+Fu-Chung Huang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-206
+December 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-206.pdf
+Vision problems such as near-sightedness, far-sightedness, as well as others, are due to optical aberrations in the human eye. These conditions are prevalent, and the population is growing rapidly. Correcting optical aberrations is traditionally done optically using eyeglasses, contact lenses, or refractive surgeries; these are sometime not convenient or not always available to everyone. Furthermore, higher order aberrations are not correctable with eyeglasses.
+In this work, we introduce a new computation based aberration-correcting light field display: by incorporating the person’s own optical aberration into the computation, we alter the content shown on the display, such that he or she will be able to see it in sharp focus without wearing eyewear. We analyze the image formation models; through the retinal light field projection, we find it is possible to compensate for the optical blurring on the target image by prefiltering with the inverse blur.
+Using off-the-shelf components, we built a light field display prototype that supports our desired inverse light field prefiltering. The results show a significant contrast improvement and resolution enhancement over prior approaches. Finally, we also demonstrate the capability to correct for higher order aberrations.
+Advisors:  Brian A. Barsky
+BibTeX citation:
+@phdthesis{Huang:EECS-2013-206,
+Author= {Huang, Fu-Chung},
+Title= {A Computational Light Field Display for Correcting Visual Aberrations},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-206.html},
+Number= {UCB/EECS-2013-206},
+Abstract= {Vision problems such as near-sightedness, far-sightedness, as well as others, are due to optical aberrations in the human eye. These conditions are prevalent, and the population is growing rapidly. Correcting optical aberrations is traditionally done optically using eyeglasses, contact lenses, or refractive surgeries; these are sometime not convenient or not always available to everyone. Furthermore, higher order aberrations are not correctable with eyeglasses.
+In this work, we introduce a new computation based aberration-correcting light field display: by incorporating the person’s own optical aberration into the computation, we alter the content shown on the display, such that he or she will be able to see it in sharp focus without wearing eyewear. We analyze the image formation models; through the retinal light field projection, we find it is possible to compensate for the optical blurring on the target image by prefiltering with the inverse blur.
+Using off-the-shelf components, we built a light field display prototype that supports our desired inverse light field prefiltering. The results show a significant contrast improvement and resolution enhancement over prior approaches. Finally, we also demonstrate the capability to correct for higher order aberrations.},
+}
+EndNote citation:
+%0 Thesis
+%A Huang, Fu-Chung
+%T A Computational Light Field Display for Correcting Visual Aberrations
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 15
+%@ UCB/EECS-2013-206
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-206.html
+%F Huang:EECS-2013-206

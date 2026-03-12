@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/160921-2
+Time Traveling Hardware and Software Systems - EECS at Berkeley
+Time Traveling Hardware and Software Systems
+EECS Colloquium
+Wednesday, September 21, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Srini Devadas
+Webster Professor of Electrical Engineering and Computer Science
+Massachusetts Institute of Technology
+Computer Science Artifical Intelligence Laboratory (CSAIL)
+Srini Devadas speaks on Time Traveling Hardware and Software Systems, 9/28/16 (Advanced Cyber Security Center/2013)
+Abstract
+With the imminent demise of Moore’s Law, the importance of parallel computing is only increasing. However, efficient parallel computing with ease of programmability still remains elusive. Shared memory multiprocessors and online Transaction processing systems make it easier on the programmer.  Current systems either exclusively use physical time to order transactions, or logical time (e.g., Lamport clocks) and are limited in performance and/or scalability.
+We introduce a new concept of time called physi-logical (physiological for ease of pronunciation!) time that combines the strengths of physical and logical time while avoiding their problems. The key advantage of physiological time is that it enables an application to move memory operations (load/stores) forward and backwards in time in order to avoid conflicts. We have designed, implemented and evaluated two time-traveling systems in the form of a new cache coherence protocol Tardis for multi-core CPUs and a new concurrency control algorithm TicToc for on-line transaction processing database systems. Both algorithms are simpler, more scalable, and perform better than existing state-of-the-art implementations. The talk will end with describing how physiological time can be used in a distributed operating environment.  (Joint work with Xiangyao Yu, Andy Pavlo and Daniel Sanchez.)
+Biography
+Srini Devadas is the Webster Professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT). He received his MS and PhD from the University of California, Berkeley in 1986 and 1988, respectively. He joined MIT in 1988 and served as Associate Head of the Department of Electrical Engineering and Computer Science, with responsibility for Computer Science, from 2005 to 2011.  Devadas’s research interests span Computer-Aided Design (CAD), computer security and computer architecture and he has received significant awards in each discipline including the A. Richard Newton technical impact award and the IEEE Computer Society Technical Achievement award. He is a Fellow of IEEE and ACM. He is a MacVicar Faculty Fellow and an Everett Moore Baker teaching award recipient, considered MIT’s two highest undergraduate teaching honors.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-2.html
+Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study
+Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study
+Khalid Md Ashraf
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-2
+January 16, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-2.pdf
+In this thesis, we investigate the switching dynamics in thin film ferroelectrics. Ferroelectric materials are of inherent interest for low power and multi-functional devices. However, possible device applications of these materials have been limited due to the poorly understood electromagnetic and mechanical response at the nanoscale in arbitrary device structures. The difficulty in understanding switching dynamics mainly arises from the presence of features at multiple length scales and the nonlinearity associated with the strongly coupled states. For example, in a ferroelectric material, the domain walls are of nm size whereas the domain pattern forms at micron scale. The switching is determined by coupled chemical, electrostatic, mechanical and thermal interactions. Thus computational understanding of switching dynamics in thin film ferroelectrics and a direct comparison with experiment poses a significant numerical challenge. We have developed a phase field model that describes the physics of polarization dynamics at the microscopic scale. A number of efficient numerical methods have been applied for achieving massive parallelization of all the calculation steps. Conformally mapped elements, node wise assembly and prevention of dynamic loading minimized the communication between processors and increased the parallelization efficiency. With these improvements, we have reached the experimental scale - a significant step forward compared to the state of the art thin film ferroelectric switching dynamics models. Using this model, we elucidated the switching dynamics on multiple surfaces of the multiferroic material BFO. We also calculated the switching energy of scaled BFO islands. Finally, we studied the interaction of domain wall propagation with misfit dislocations in the thin film. We believe that the model will be useful in understanding the switching dynamics in many different experimental setups incorporating thin film ferroelectrics.
+Advisor:  Sayeef Salahuddin
+BibTeX citation:
+@phdthesis{Ashraf:EECS-2014-2,
+Author = {Ashraf, Khalid Md},
+Title = {Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-2.html},
+Number = {UCB/EECS-2014-2},
+Abstract = {In this thesis, we investigate the switching dynamics in thin film ferroelectrics. Ferroelectric materials are of inherent interest for low power and multi-functional devices. However, possible device applications of these materials have been limited due to the poorly understood electromagnetic and mechanical response at the nanoscale in arbitrary device structures. The difficulty in understanding switching dynamics mainly arises from the presence of features at multiple length scales and the nonlinearity associated with the strongly coupled states. For example, in a ferroelectric material, the domain walls are of nm size whereas the domain pattern forms at micron scale. The switching is determined by coupled chemical, electrostatic, mechanical and thermal interactions. Thus computational understanding of switching dynamics in thin film ferroelectrics and a direct comparison with experiment poses a significant numerical challenge. We have developed a phase field model that describes the physics of polarization dynamics at the microscopic scale. A number of efficient numerical methods have been applied for achieving massive parallelization of all the calculation steps. Conformally mapped elements, node wise assembly and prevention of dynamic loading minimized the communication between processors and increased the parallelization efficiency. With these improvements, we have reached the experimental scale - a significant step forward compared to the state of the art thin film ferroelectric switching dynamics models. Using this model, we elucidated the switching dynamics on multiple surfaces of the multiferroic material BFO. We also calculated the switching energy of scaled BFO islands. Finally, we studied the interaction of domain wall propagation with misfit dislocations in the thin film. We believe that the model will be useful in understanding the switching dynamics in many different experimental setups incorporating thin film ferroelectrics.}
+}
+EndNote citation:
+%0 Thesis
+%A Ashraf, Khalid Md
+%T Switching Dynamics of Thin Film Ferroelectric Devices - A Massively Parallel Phase Field Study
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 January 16
+%@ UCB/EECS-2014-2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-2.html
+%F Ashraf:EECS-2014-2

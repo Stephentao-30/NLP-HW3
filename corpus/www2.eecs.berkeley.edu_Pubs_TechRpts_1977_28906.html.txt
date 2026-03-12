@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28906.html
+Nonlinear Networks Synthesis and the Hodge Decomposition | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Networks Synthesis and the Hodge Decomposition
+Nonlinear Networks Synthesis and the Hodge Decomposition
+J.L. Wyatt Jr., L.O. Chua and G.F. Oster
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/62
+September 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-62.pdf
+BibTeX citation:
+@techreport{Wyatt Jr.:M77/62,
+Author = {Wyatt Jr., J.L. and Chua, L.O. and Oster, G.F.},
+Title = {Nonlinear Networks Synthesis and the Hodge Decomposition},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28906.html},
+Number = {UCB/ERL M77/62}
+}
+EndNote citation:
+%0 Report
+%A Wyatt Jr., J.L.
+%A Chua, L.O.
+%A Oster, G.F.
+%T Nonlinear Networks Synthesis and the Hodge Decomposition
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/62
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28906.html
+%F Wyatt Jr.:M77/62

@@ -1,0 +1,47 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-145.html
+Pebble Games and Complexity
+Siu Man Chan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-145
+August 14,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-145.pdf
+We study the connection between pebble games and complexity.
+First, we derive complexity results using pebble games.
+It is shown that three pebble games used for studying computational complexity are equivalent: namely, the two-person pebble game of Dymond–Tompa, the two-person pebble game of Raz–McKenzie, and the one-person reversible pebble game of Bennett have the same pebble costs over any directed acyclic graph.
+The three pebble games have been used for studying parallel complexity and for proving lower bounds under restricted settings, and we show one more such lower bound on circuit-depth.
+Second, the pebble costs are applied to proof complexity.
+Concerning a family of unsatisfiable CNFs called pebbling contradictions, the pebble cost in any of the pebble games controls the scaling of some parameters of resolution refutations.
+Namely, the pebble cost controls the minimum depth of resolution refutations and the minimum size of tree-like resolution refutations.
+Finally, we study the space complexity of computing the pebble costs and of computing the minimum depth of resolution refutations.
+It is PSPACE-complete to compute the pebble cost in any of the three pebble games, and to compute the minimum depth of resolution refutations.
+Advisors:  Elchanan Mossel
+BibTeX citation:
+@phdthesis{Chan:EECS-2013-145,
+Author= {Chan, Siu Man},
+Title= {Pebble Games and Complexity},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-145.html},
+Number= {UCB/EECS-2013-145},
+Abstract= {We study the connection between pebble games and complexity.
+First, we derive complexity results using pebble games.
+It is shown that three pebble games used for studying computational complexity are equivalent: namely, the two-person pebble game of Dymond–Tompa, the two-person pebble game of Raz–McKenzie, and the one-person reversible pebble game of Bennett have the same pebble costs over any directed acyclic graph.
+The three pebble games have been used for studying parallel complexity and for proving lower bounds under restricted settings, and we show one more such lower bound on circuit-depth.
+Second, the pebble costs are applied to proof complexity.
+Concerning a family of unsatisfiable CNFs called pebbling contradictions, the pebble cost in any of the pebble games controls the scaling of some parameters of resolution refutations.
+Namely, the pebble cost controls the minimum depth of resolution refutations and the minimum size of tree-like resolution refutations.
+Finally, we study the space complexity of computing the pebble costs and of computing the minimum depth of resolution refutations.
+It is PSPACE-complete to compute the pebble cost in any of the three pebble games, and to compute the minimum depth of resolution refutations.},
+}
+EndNote citation:
+%0 Thesis
+%A Chan, Siu Man
+%T Pebble Games and Complexity
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 14
+%@ UCB/EECS-2013-145
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-145.html
+%F Chan:EECS-2013-145

@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-2.html
+Distributed Memory Breadth-First Search Revisited: Enabling Bottom-Up Search
+Scott Beamer and Aydın Buluc ̧ and Krste Asanović and David A. Patterson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-2
+January 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-2.pdf
+Breadth-first search (BFS) is a fundamental graph primitive frequently used as a building block for many complex graph algorithms. In the worst case, the complexity of BFS is linear in the number of edges and vertices, and the conventional top-down approach always takes as much time as the worst case. A recently discovered bottom-up approach manages to cut down the complexity all the way to the number of vertices in the best case, which is typically at least an order of magnitude less than the number of edges. The bottom-up approach is not always advantageous, so it is combined with the top-down approach to make the direction-optimizing algorithm which adaptively switches from top-down to bottom-up as the frontier expands. We present a scalable distributed-memory parallelization of this challenging algorithm and show up to an order of magnitude speedups compared to an earlier purely top-down code. Our approach also uses a 2D decomposition of the graph that has previously been shown to be superior to a 1D decomposition. Using the default parameters of the Graph500 benchmark, our new algorithm achieves a performance rate of over 240 billion edges per second on 115 thousand cores of a Cray XE6, which makes it over 7× faster than a conventional top-down algorithm using the same set of optimizations and data distribution.
+BibTeX citation:
+@techreport{Beamer:EECS-2013-2,
+Author= {Beamer, Scott and Buluc ̧, Aydın and Asanović, Krste and Patterson, David A.},
+Title= {Distributed Memory Breadth-First Search Revisited: Enabling Bottom-Up Search},
+Year= {2013},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-2.html},
+Number= {UCB/EECS-2013-2},
+Abstract= {Breadth-first search (BFS) is a fundamental graph primitive frequently used as a building block for many complex graph algorithms. In the worst case, the complexity of BFS is linear in the number of edges and vertices, and the conventional top-down approach always takes as much time as the worst case. A recently discovered bottom-up approach manages to cut down the complexity all the way to the number of vertices in the best case, which is typically at least an order of magnitude less than the number of edges. The bottom-up approach is not always advantageous, so it is combined with the top-down approach to make the direction-optimizing algorithm which adaptively switches from top-down to bottom-up as the frontier expands. We present a scalable distributed-memory parallelization of this challenging algorithm and show up to an order of magnitude speedups compared to an earlier purely top-down code. Our approach also uses a 2D decomposition of the graph that has previously been shown to be superior to a 1D decomposition. Using the default parameters of the Graph500 benchmark, our new algorithm achieves a performance rate of over 240 billion edges per second on 115 thousand cores of a Cray XE6, which makes it over 7× faster than a conventional top-down algorithm using the same set of optimizations and data distribution.},
+}
+EndNote citation:
+%0 Report
+%A Beamer, Scott
+%A Buluc ̧, Aydın
+%A Asanović, Krste
+%A Patterson, David A.
+%T Distributed Memory Breadth-First Search Revisited: Enabling Bottom-Up Search
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 January 3
+%@ UCB/EECS-2013-2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-2.html
+%F Beamer:EECS-2013-2

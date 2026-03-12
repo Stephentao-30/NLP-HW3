@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/pulkit-agrawal-teaching-machines-how-be-curious
+Pulkit Agrawal is teaching machines how to be curious - EECS at Berkeley
+CS Ph.D. student Pulkit Agrawal (advisers: Jitendra Malik and Jack Gallant) is the subject of a Quant Magazine article titled “Clever Machines Learn How to Be Curious.”  Agrawal is working at the Berkeley Artificial Intelligence Research Lab with CS grad student Deepak Pathak, Pathak’s adviser Prof. Trevor Darrell, and CS Prof. Alexei A. Efros,  to design experimental machine-learning algorithms which aim to “make a machine curious.”  They equipped their learning agent with what they call an intrinsic curiosity module (ICM) designed to pull it forward through a video game without going haywire, despite having no prior understanding of the game. “You can think of curiosity as a kind of reward which the agent generates internally on its own, so that it can go explore more about its world,” Agrawal said.
+Categories
+Faculty
+Research
+Students
+View
+Open Faculty Positions

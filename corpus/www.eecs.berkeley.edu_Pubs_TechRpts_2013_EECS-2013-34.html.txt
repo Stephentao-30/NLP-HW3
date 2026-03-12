@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-34.html
+Band-to-Band Tunneling Transistors: Scalability and Circuit Performance
+Zachery Jacobson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-34
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-34.pdf
+Continuing scaling of transistors as density approaches the terascale regime (10^12 devices/cm^2) requires evaluating new devices that can perform on several metrics beyond density scaling, such as cost savings, performance improvements, and energy efficiency. A comprehensive review and evaluation of potential new devices is performed. Metrics such as processing cost, plan-view area scaling, and stage delay are benchmarked. One of the most promising devices, tunneling field effect transistors, is also the most confounding, as simulation and experimental results are orders of magnitude apart.
+To better understand and evaluate tunnel field effect transistors (TFETs), a new TCAD analysis tool with dynamic nonlocal tunneling path determination is calibrated to experimental data. From this calibrated model, an optimal source design for TFETs is found where a moderate doping concentration (~10^19 cm^-3) is found to be preferable to the higher doping concentrations more commonly used. Following this optimization, a study is performed to find the minimum device size, or the ultimate scalability, of TFETs. Using a raised source design allows TFETs to have a minimum device pitch (including contacts) of 29 nm.
+A higher level of analysis is performed at the circuit level, where a Verilog-A based lookup table approach is used to evaluate the circuit performance of TFETs. Inverters, ring oscillators, SRAM, and Register Files are benchmarked and compared to UTB and FinFET technologies. TFETs are found to have advantages over standard CMOS for stage delays slower than 100ps in logic and for the 0.25V – 0.4V range in memory cells.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Jacobson:EECS-2013-34,
+Author= {Jacobson, Zachery},
+Title= {Band-to-Band Tunneling Transistors: Scalability and Circuit Performance},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-34.html},
+Number= {UCB/EECS-2013-34},
+Abstract= {Continuing scaling of transistors as density approaches the terascale regime (10^12 devices/cm^2) requires evaluating new devices that can perform on several metrics beyond density scaling, such as cost savings, performance improvements, and energy efficiency. A comprehensive review and evaluation of potential new devices is performed. Metrics such as processing cost, plan-view area scaling, and stage delay are benchmarked. One of the most promising devices, tunneling field effect transistors, is also the most confounding, as simulation and experimental results are orders of magnitude apart.
+To better understand and evaluate tunnel field effect transistors (TFETs), a new TCAD analysis tool with dynamic nonlocal tunneling path determination is calibrated to experimental data. From this calibrated model, an optimal source design for TFETs is found where a moderate doping concentration (~10^19 cm^-3) is found to be preferable to the higher doping concentrations more commonly used. Following this optimization, a study is performed to find the minimum device size, or the ultimate scalability, of TFETs. Using a raised source design allows TFETs to have a minimum device pitch (including contacts) of 29 nm.
+A higher level of analysis is performed at the circuit level, where a Verilog-A based lookup table approach is used to evaluate the circuit performance of TFETs. Inverters, ring oscillators, SRAM, and Register Files are benchmarked and compared to UTB and FinFET technologies. TFETs are found to have advantages over standard CMOS for stage delays slower than 100ps in logic and for the 0.25V – 0.4V range in memory cells.},
+}
+EndNote citation:
+%0 Thesis
+%A Jacobson, Zachery
+%T Band-to-Band Tunneling Transistors: Scalability and Circuit Performance
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-34
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-34.html
+%F Jacobson:EECS-2013-34

@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/perffuzz-wins-issta18-distinguished-paper-award
+PerfFuzz wins ISSTA18 Distinguished Paper Award - EECS at Berkeley
+“PerfFuzz: Automatically Generating Pathological Inputs,” written by graduate students Caroline Lemieux and Rohan Padhye, and Profs. Koushik Sen and Dawn Song, will receive a Distinguished Paper Award from the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2018 in Amsterdam in July.  PerfFuzz is a method to automatically generate inputs for software programs via feedback-directed mutational fuzzing.  These inputs exercise pathological behavior across program locations, without any domain knowledge.   The authors found that PerfFuzz outperforms prior work by generating inputs that exercise the most-hit program branch 5x to 69x times more, and result in 1.9x to 24.7x longer total execution paths.
+Categories
+Faculty
+Honors
+publications
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28603.html
+An Approach to the System Identification Problem
+D.J. Sakrison
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M171
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-171.pdf
+BibTeX citation:
+@techreport{Sakrison:M171,
+Author= {Sakrison, D.J.},
+Title= {An Approach to the System Identification Problem},
+Year= {1966},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28603.html},
+Number= {UCB/ERL M171},
+}
+EndNote citation:
+%0 Report
+%A Sakrison, D.J.
+%T An Approach to the System Identification Problem
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M171
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28603.html
+%F Sakrison:M171

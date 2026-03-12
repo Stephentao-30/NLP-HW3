@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-128.html
+Searching for a Scalable Solution to Diabetes Management
+Kevin Tseng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-128
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-128.pdf
+Advisors:  Pieter Abbeel and Ikhlaq Sidhu
+BibTeX citation:
+@mastersthesis{Tseng:EECS-2012-128,
+Author= {Tseng, Kevin},
+Title= {Searching for a Scalable Solution to Diabetes Management},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-128.html},
+Number= {UCB/EECS-2012-128},
+}
+EndNote citation:
+%0 Thesis
+%A Tseng, Kevin
+%T Searching for a Scalable Solution to Diabetes Management
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-128
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-128.html
+%F Tseng:EECS-2012-128

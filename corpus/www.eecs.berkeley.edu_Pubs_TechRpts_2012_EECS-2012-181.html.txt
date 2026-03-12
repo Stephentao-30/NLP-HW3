@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-181.html
+Solving Parallel Equations with BALM-II
+G. Castagnetti and M. Piccolo and T. Villa and N. Yevtushenko and A. Mishchenko and Robert K. Brayton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-181
+July 19,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-181.pdf
+In this report we describe how to solve parallel language equations over regular languages / automata and finite state machines (FSMs), using the software package BALM-II. The original version of BALM could solve equations only with respect to synchronous composition; we extended the original code to solve also equations with respect to parallel composition, adding new commands and procedures. The new version of BALM is called BALM-II, of which this document provides a user's manual. Finally, as an important application, we describe how to synthesize protocol converters with BALM-II.
+BibTeX citation:
+@techreport{Castagnetti:EECS-2012-181,
+Author= {Castagnetti, G. and Piccolo, M. and Villa, T. and Yevtushenko, N. and Mishchenko, A. and Brayton, Robert K.},
+Title= {Solving Parallel Equations with BALM-II},
+Year= {2012},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-181.html},
+Number= {UCB/EECS-2012-181},
+Abstract= {In this report we describe how to solve parallel language equations over regular languages / automata and finite state machines (FSMs), using the software package BALM-II. The original version of BALM could solve equations only with respect to synchronous composition; we extended the original code to solve also equations with respect to parallel composition, adding new commands and procedures. The new version of BALM is called BALM-II, of which this document provides a user's manual. Finally, as an important application, we describe how to synthesize protocol converters with BALM-II.},
+}
+EndNote citation:
+%0 Report
+%A Castagnetti, G.
+%A Piccolo, M.
+%A Villa, T.
+%A Yevtushenko, N.
+%A Mishchenko, A.
+%A Brayton, Robert K.
+%T Solving Parallel Equations with BALM-II
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 July 19
+%@ UCB/EECS-2012-181
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-181.html
+%F Castagnetti:EECS-2012-181

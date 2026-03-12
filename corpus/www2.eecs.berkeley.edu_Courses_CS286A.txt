@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS286A
+Course: CS286A | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS286A
+CS 286A. Introduction to Database Systems
+Catalog Description:  Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction to transaction processing. Database system implementation to be done as term project.
+Units:  4.0
+Prerequisites:  COMPSCI 61B and COMPSCI 61C.
+Credit Restrictions:  Students will receive no credit for CS 286A after taking CS 186.
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Related Areas:
+Database Management Systems (DBMS)

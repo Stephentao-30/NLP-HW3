@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1988/937.html
+Basic RF Discharge Model | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Basic RF Discharge Model
+Basic RF Discharge Model
+Michael A. Lieberman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M87/65
+January 1988
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1988/ERL-87-65.pdf
+BibTeX citation:
+@techreport{Lieberman:M87/65,
+Author = {Lieberman, Michael A.},
+Title = {Basic RF Discharge Model},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1988},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1988/937.html},
+Number = {UCB/ERL M87/65}
+}
+EndNote citation:
+%0 Report
+%A Lieberman, Michael A.
+%T Basic RF Discharge Model
+%I EECS Department, University of California, Berkeley
+%D 1988
+%@ UCB/ERL M87/65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1988/937.html
+%F Lieberman:M87/65

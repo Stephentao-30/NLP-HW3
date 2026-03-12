@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-61.html
+High-Performance Analysis of Filtered Semantic Graphs
+Aydin Buluc and Armando Fox and John Gilbert and Shoaib Ashraf Kamil and Adam Lugowski and Leonid Oliker and Samuel Williams
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-61
+May 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-61.pdf
+High performance is a crucial consideration when executing a complex analytic query on a massive semantic graph. In a semantic graph, vertices and edges carry "attributes" of various types. Analytic queries on semantic graphs typically depend on the values of these attributes; thus, the computation must either view the graph through a filter that passes only those individual vertices and edges of interest, or else must first materialize a subgraph or subgraphs consisting of only the vertices and edges of interest. The filtered approach is superior due to its generality, ease of use, and memory efficiency, but may carry a performance cost.
+In the Knowledge Discovery Toolbox (KDT), a Python library for parallel graph computations, the user writes filters in a high-level language, but those filters result in relatively low performance due to the bottleneck of having to call into the Python interpreter for each edge. In this work, we use the Selective Embedded Just-In-Time Specialization (SEJITS) approach to automatically translate filters defined by programmers into a lower-level efficiency language, bypassing the upcall into Python. We evaluate our approach by comparing it with the high-performance C++ /MPI Combinatorial BLAS engine, and show that the productivity gained by using a high-level filtering language comes without sacrificing performance. We also present a new roofline model for graph traversals, and show that our high-performance implementations do not significantly deviate from the roofline.
+BibTeX citation:
+@techreport{Buluc:EECS-2012-61,
+Author= {Buluc, Aydin and Fox, Armando and Gilbert, John and Kamil, Shoaib Ashraf and Lugowski, Adam and Oliker, Leonid and Williams, Samuel},
+Title= {High-Performance Analysis of Filtered Semantic Graphs},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-61.html},
+Number= {UCB/EECS-2012-61},
+Abstract= {High performance is a crucial consideration when executing a complex analytic query on a massive semantic graph. In a semantic graph, vertices and edges carry "attributes" of various types. Analytic queries on semantic graphs typically depend on the values of these attributes; thus, the computation must either view the graph through a filter that passes only those individual vertices and edges of interest, or else must first materialize a subgraph or subgraphs consisting of only the vertices and edges of interest. The filtered approach is superior due to its generality, ease of use, and memory efficiency, but may carry a performance cost.
+In the Knowledge Discovery Toolbox (KDT), a Python library for parallel graph computations, the user writes filters in a high-level language, but those filters result in relatively low performance due to the bottleneck of having to call into the Python interpreter for each edge. In this work, we use the Selective Embedded Just-In-Time Specialization (SEJITS) approach to automatically translate filters defined by programmers into a lower-level efficiency language, bypassing the upcall into Python. We evaluate our approach by comparing it with the high-performance C++ /MPI Combinatorial BLAS engine, and show that the productivity gained by using a high-level filtering language comes without sacrificing performance. We also present a new roofline model for graph traversals, and show that our high-performance implementations do not significantly deviate from the roofline.},
+}
+EndNote citation:
+%0 Report
+%A Buluc, Aydin
+%A Fox, Armando
+%A Gilbert, John
+%A Kamil, Shoaib Ashraf
+%A Lugowski, Adam
+%A Oliker, Leonid
+%A Williams, Samuel
+%T High-Performance Analysis of Filtered Semantic Graphs
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 6
+%@ UCB/EECS-2012-61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-61.html
+%F Buluc:EECS-2012-61

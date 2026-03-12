@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28601.html
+Network Analysis and Synthesis via State Variables
+E.S. Kuh and D.M. Layton and J. Tow
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M169
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-169.pdf
+BibTeX citation:
+@techreport{Kuh:M169,
+Author= {Kuh, E.S. and Layton, D.M. and Tow, J.},
+Title= {Network Analysis and Synthesis via State Variables},
+Year= {1966},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28601.html},
+Number= {UCB/ERL M169},
+}
+EndNote citation:
+%0 Report
+%A Kuh, E.S.
+%A Layton, D.M.
+%A Tow, J.
+%T Network Analysis and Synthesis via State Variables
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M169
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28601.html
+%F Kuh:M169

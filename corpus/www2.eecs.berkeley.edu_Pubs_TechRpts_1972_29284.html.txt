@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29284.html
+Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions
+Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions
+L.O. Chua and D.N. Green
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M350
+August 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-350.pdf
+BibTeX citation:
+@techreport{Chua:M350,
+Author = {Chua, L.O. and Green, D.N.},
+Title = {Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29284.html},
+Number = {UCB/ERL M350}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Green, D.N.
+%T Synthesis of Nonlinear Systems Having Prescribed Periodic Solutions
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M350
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29284.html
+%F Chua:M350

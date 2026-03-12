@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28724.html
+Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter
+Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter
+Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M365
+July 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-365.pdf
+BibTeX citation:
+@techreport{Wong:M365,
+Author = {Wong, Eugene},
+Title = {Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28724.html},
+Number = {UCB/ERL M365}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%T Martingales and Stochastic Integrals for Processes with a Two-Dimensional Parameter
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M365
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28724.html
+%F Wong:M365

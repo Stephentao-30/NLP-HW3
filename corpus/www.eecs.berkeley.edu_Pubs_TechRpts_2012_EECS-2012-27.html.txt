@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-27.html
+A model and framework for reliable build systems
+Derrick Coetzee and Anand Bhaskar and George Necula
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-27
+February 17,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-27.pdf
+Reliable and fast builds are essential for rapid turnaround during development and testing. Popular existing build systems rely on correct manual specification of build dependencies, which can lead to invalid build outputs and nondeterminism. We outline the challenges of developing reliable build systems and explore the design space for their implementation, with a focus on non-distributed, incremental, parallel build systems. We define a general model for resources accessed by build tasks and show its correspondence to the implementation technique of minimum information libraries, APIs that return no information that the application doesn't plan to use. We also summarize preliminary experimental results from several prototype build managers.
+BibTeX citation:
+@techreport{Coetzee:EECS-2012-27,
+Author= {Coetzee, Derrick and Bhaskar, Anand and Necula, George},
+Title= {A model and framework for reliable build systems},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-27.html},
+Number= {UCB/EECS-2012-27},
+Abstract= {Reliable and fast builds are essential for rapid turnaround during development and testing. Popular existing build systems rely on correct manual specification of build dependencies, which can lead to invalid build outputs and nondeterminism. We outline the challenges of developing reliable build systems and explore the design space for their implementation, with a focus on non-distributed, incremental, parallel build systems. We define a general model for resources accessed by build tasks and show its correspondence to the implementation technique of minimum information libraries, APIs that return no information that the application doesn't plan to use. We also summarize preliminary experimental results from several prototype build managers.},
+}
+EndNote citation:
+%0 Report
+%A Coetzee, Derrick
+%A Bhaskar, Anand
+%A Necula, George
+%T A model and framework for reliable build systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 17
+%@ UCB/EECS-2012-27
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-27.html
+%F Coetzee:EECS-2012-27

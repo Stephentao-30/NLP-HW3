@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29378.html
+Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity
+Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity
+T. Matsumoto, L.O. Chua, H. Kawakami and S. Ichiraku
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/26
+April 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-26.pdf
+BibTeX citation:
+@techreport{Matsumoto:M79/26,
+Author = {Matsumoto, T. and Chua, L.O. and Kawakami, H. and Ichiraku, S.},
+Title = {Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29378.html},
+Number = {UCB/ERL M79/26}
+}
+EndNote citation:
+%0 Report
+%A Matsumoto, T.
+%A Chua, L.O.
+%A Kawakami, H.
+%A Ichiraku, S.
+%T Geometric Properties of Dynamic Nonlinear Networks: Transversality, Well-Posedness, and Eventual Passivity
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29378.html
+%F Matsumoto:M79/26

@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/8231.html
+Boolean Bounding Predicates for Spatial Access Methods
+Megan C. Thomas
+EECS Department, University of California, Berkeley
+2003
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Thomas:8231,
+Author= {Thomas, Megan C.},
+Title= {Boolean Bounding Predicates for Spatial Access Methods},
+School= {EECS Department, University of California, Berkeley},
+Year= {2003},
+}
+EndNote citation:
+%0 Thesis
+%A Thomas, Megan C.
+%T Boolean Bounding Predicates for Spatial Access Methods
+%I EECS Department, University of California, Berkeley
+%D 2003
+%F Thomas:8231

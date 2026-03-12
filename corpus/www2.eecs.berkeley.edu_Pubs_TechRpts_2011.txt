@@ -1,0 +1,150 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2011
+Technical Reports - 2011
+A Sparse Coding Method for Specification Mining and Error Localization  (EECS-2011-163) Wenchao Li and Sanjit A. Seshia
+A Framework for Aberration Compensated Displays  (EECS-2011-162) Fu-Chung Huang and Brian A. Barsky
+Concurrent Breakpoints  (EECS-2011-159) Chang Seo Park and Koushik Sen
+The Case for User-Level Preemptive Scheduling to Support Multi-Rate Audio Applications for Multi-Core Processors  (EECS-2011-158) Rimas Avizienis
+Routing Along DAGs  (EECS-2011-155) Junda Liu
+Confluence Analysis for Distributed Programs: A Model-Theoretic Approach  (EECS-2011-154) William Marczak, Peter Alvaro, Neil Conway, Joseph M. Hellerstein and David Maier
+Statistical Results on Filtering and Epi-convergence for Learning-Based Model Predictive Control  (EECS-2011-153) Anil Aswani, Humberto Gonzalez, S. Shankar Sastry and Claire Tomlin
+Finding Difficult Speakers in Automatic Speaker Recognition  (EECS-2011-152) Lara Lynn Stoll
+Cognitive radios in the TV whitespaces: challenges and  opportunities  (EECS-2011-151) Kate Harrison
+Sparsity Pattern Recovery in Compressed Sensing  (EECS-2011-150) Galen Reeves
+Party Pooper: Third-Party Libraries in Android  (EECS-2011-149) Gabriel Nunez
+A curriculum feedback collection tool for UC-WISE courses on the Moodle  Virtual Learning Environment  (EECS-2011-148) Aditya Kashyap
+On Word Prediction Methods  (EECS-2011-147) Darren Kuo
+Scaling of Inkjet-Printed Transistors using Novel Printing Techniques  (EECS-2011-146) Huai-Yuan Tseng
+Large Scale Image Retrieval in Urban Environments with Pixel Accurate Image Tagging  (EECS-2011-145) Jerry Zhang
+Nanoscale SRAM Variability and Optimization  (EECS-2011-144) Seng Oon Toh
+NDetermin: Inferring Nondeterministic Sequential Specifications for Parallelism Correctness  (EECS-2011-143) Jacob Burnim, Tayfun Elmas, George Necula and Koushik Sen
+Data-Parallel Language for Correct and Efficient Sparse Matrix Codes  (EECS-2011-142) Gilad Arnold
+Program Synthesis of Parallel Scans  (EECS-2011-141) Sagar Jain
+Automatic Design of Prosodic Features for Sentence Segmentation  (EECS-2011-140) James G Fung
+Closed-Loop Decoder Adaptation Algorithms for Kalman Filters in Brain-Machine Interface Systems  (EECS-2011-139) Siddharth Dangi
+Hierarchical Methods for Optimal Long-Term Planning  (EECS-2011-138) Jason Wolfe
+MEMS Lens Scanners for Free-Space Optical Interconnects  (EECS-2011-137) Jeffrey Chou
+Interdomain Multipath Routing  (EECS-2011-136) Igor Anatolyevich Ganichev
+Power-efficient Design of Multi-Gpbs Wireless Baseband  (EECS-2011-135) Ji-Hoon Park and Borivoje Nikolic
+Parallelism, Patterns, and Performance in Iterative MRI Reconstruction  (EECS-2011-134) Mark Murphy
+Nonparametric Hierarchical Bayesian Models of Categorization  (EECS-2011-133) Kevin Canini
+LO Generation and Distribution for 60GHz Phased Array Transceivers  (EECS-2011-132) Cristian Marcu
+Extracting and Querying Probabilistic Information in BayesStore  (EECS-2011-131) Daisy Zhe Wang
+Powering mm-Size Wireless Implants for Brain-Machine Interfaces  (EECS-2011-130) Michael Mark
+Efficient VLSI Implementations of Vector-Thread Architectures  (EECS-2011-129) Yunsup Lee
+Fast Speaker Diarization Using a Specialization Framework for Gaussian Mixture Model Training  (EECS-2011-128) Ekaterina Gonina
+Mask Roughness Induced LER in EUV Lithography  (EECS-2011-127) Brittany Marie McClinton
+Analysis and Experiences with Information Flow Tracking as a Practical Means to Prevent Data Leakage  (EECS-2011-126) Lisa L Fowler
+Beta processes, stick-breaking, and power laws  (EECS-2011-125) Tamara Broderick, Michael Jordan and Jim Pitman
+Light-Actuated Digital Microfluidics for Large-Scale Droplet Manipulation  (EECS-2011-124) Shao Ning Pei and Ming C. Wu
+Design Techniques for High-Frequency CMOS Integrated Circuits: From 10 GHz To 100 GHz  (EECS-2011-123) Zhiming Deng
+III-V Nanowires and Nanoneedles on Lattice Mismatched Substrates for Optoelectronic Device Applications  (EECS-2011-122) Chih-Wei Linus Chuang
+Large Monitoring Systems: Data Analysis, Design and Deployment  (EECS-2011-121) Ram Rajagopal
+A Declarative Semantics for Dedalus  (EECS-2011-120) Peter Alvaro, Tom J. Ameloot, Joseph M. Hellerstein, William Marczak and Jan Van den Bussche
+Metareasoning for Monte Carlo Tree Search  (EECS-2011-119) Nicholas Hay and Stuart J. Russell
+Towards Automated System Synthesis Using SCIDUCTION  (EECS-2011-118) Susmit Kumar Jha
+Searching for a Parent Instead of Fighting Over Children: A Fast Breadth-First Search Implementation for Graph500  (EECS-2011-117) Scott Beamer, Krste Asanović and David A. Patterson
+Incorporating Supervision for Visual Recognition and Segmentation  (EECS-2011-116) Alex Yu Jen Shyr
+Efficient Distribution of Triggered Synchronous Block Diagrams  (EECS-2011-115) Yang Yang, Stavros Tripakis and Alberto L. Sangiovanni-Vincentelli
+DeTail: Reducing the Flow Completion Time Tail in Datacenter Networks  (EECS-2011-113) David Zats, Tathagata Das, Prashanth Mohan and Randy H. Katz
+Reachability Analysis of Lazy Linear Hybrid Automata  (EECS-2011-112) Susmit Kumar Jha
+Animating Viscoelastic Fluids  (EECS-2011-111) Tolga Gokce Goktekin
+Design and Implementation of a Consolidated Middlebox Architecture  (EECS-2011-110) Vyas Sekar, Norbert Egi, Sylvia Ratnasamy, Michael Reiter and Guangyu Shi
+Power-Aware Dynamic Control of Error-Resilience Mechanisms  (EECS-2011-109) Wenchao Li, Susmit Kumar Jha and Sanjit A. Seshia
+Asynchronously Communicating Visibly Pushdown Systems  (EECS-2011-108) Domagoj Babic and Zvonimir Rakamaric
+Feedback and Interference Alignment in Networks  (EECS-2011-107) Changho Suh
+Building Extensible and Secure Networks  (EECS-2011-106) Lucian Popa
+High-dimensional Principal Component Analysis  (EECS-2011-104) Arash Ali Amini
+Cooperative Interference Management in Wireless Networks  (EECS-2011-103) I-Hsiang Wang
+A Dynamic Game Framework for Verification and Control of Stochastic Hybrid Systems  (EECS-2011-101) Jerry Ding, Maryam Kamgarpour, Sean Summers, Alessandro Abate, John Lygeros and Claire Tomlin
+Dimension Reduction Near Periodic Orbits of Hybrid Systems: Appendix  (EECS-2011-100) Sam Burden, Shai Revzen and S. Shankar Sastry
+Algorithms for Next-Generation High-Throughput Sequencing Technologies  (EECS-2011-99) Wei-Chun Kao
+How Open Should Open Source Be?  (EECS-2011-98) Adam Barth, Saung Li, Benjamin I. P. Rubinstein and Dawn Song
+Checking for Circular Dependencies in Distributed Stream Programs  (EECS-2011-97) Dai Bui, Hiren Patel and Edward A. Lee
+Lattice: A Scalable Layer-Agnostic Packet Classification Framework  (EECS-2011-96) Sameer Agarwal, Mosharaf Chowdhury, Dilip Joseph and Ion Stoica
+Linear Propagation Methodology in Compact Variability Modeling  (EECS-2011-95) Ying Qiao
+Switched Capacitor DC-DC Converter: Superior where the Buck Converter has Dominated  (EECS-2011-94) Vincent Wai-Shan Ng and Seth R. Sanders
+Avoiding Communication in Two-Sided Krylov Subspace Methods  (EECS-2011-93) Erin Carson, Nicholas Knight and James Demmel
+Improving communication performance in dense linear algebra via topology aware collectives  (EECS-2011-92) Edgar Solomonik, Abhinav Bhatele and James Demmel
+Perceptually Based Tone Mapping for Low-Light Conditions  (EECS-2011-91) Adam Garnet Kirk
+Learning Dependency-Based Compositional Semantics  (EECS-2011-90) Percy Shuo Liang
+Robust Topological Features for Deformation Invariant Image Matching  (EECS-2011-89) Edgar Lobaton, Ram Vasudevan, Ron Alterovitz and Ruzena Bajcsy
+Improving File System Reliability and Availability with Continuous Checker and Repair  (EECS-2011-88) Haryadi S. Gunawi
+Failure as a Service (FaaS): A Cloud Service for Large-Scale, Online Failure Drills  (EECS-2011-87) Haryadi S. Gunawi, Thanh Do, Joseph M. Hellerstein, Ion Stoica, Dhruba Borthakur and Jesse Robbins
+Sparse Reconstruction of Visual Appearance for Computer Graphics and Vision  (EECS-2011-86) Ravi Ramamoorthi
+Improving CMOS Speed and Switching Power with Air-gap Structures  (EECS-2011-84) Jemin Park
+Torus Immersions and Transformations  (EECS-2011-83) Carlo H. Séquin
+Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing  (EECS-2011-82) Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma, Murphy McCauley, Michael Franklin, Scott Shenker and Ion Stoica
+Advanced Relay Design and Technology for Energy-Efficient Electronics  (EECS-2011-81) Jaeseok Jeon
+Proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011  (EECS-2011-80)
+Large Scale Image Annotations on Amazon Mechanical Turk  (EECS-2011-79) Subhransu Maji
+Bayesian Nonparametric Latent Feature Models  (EECS-2011-78) Kurt Miller
+Constructing an Augmented Rhombicuboctahedron (RCO)  (EECS-2011-77) Carlo H. Séquin
+The Path of the Blind Watchmaker: A Model of Evolution  (EECS-2011-76) Andrew Anthony Poggio, David A. Patterson, Adam Arkin, Brent Mishler and Christos Papadimitriou
+Rigging Tournament Brackets for Weaker Players  (EECS-2011-75) Isabelle Stanton and Virginia Vassilevska Williams
+Rethinking Runtime Verification on Hundreds of Cores: Challenges and Opportunities  (EECS-2011-74) Tayfun Elmas, Semih Okur and Serdar Tasiran
+Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms  (EECS-2011-72) Edgar Solomonik and James Demmel
+Declarative Systems  (EECS-2011-71) Tyson Condie
+On the Lagrangian Biduality of Sparsity Minimization Problems  (EECS-2011-70) Dheeraj Singaraju, Roberto Tron, Ehsan Elhamifar, Allen Yang and S. Shankar Sastry
+PhD Dissertation: Compact Models for Future Generation CMOS  (EECS-2011-69) Darsen Lu
+Sciduction: Combining Induction, Deduction, and Structure for Verification and Synthesis  (EECS-2011-68) Sanjit A. Seshia
+Reverse Execution With Constraint Solving  (EECS-2011-67) Raluca Sauciuc and George Necula
+Uncertainty Propagation in Transistor-level Statistical Circuit Analysis  (EECS-2011-66) Qian Ying Tang
+Autonomous Ornithopter Flight with Sensor-Based Behavior  (EECS-2011-65) Stanley Seunghoon Baek
+Non-Local Correlations and Interactive Games  (EECS-2011-64) Daniel Ciprian Preda
+Improving Energy Efficiency and Reducing Code Size with RISC-V Compressed  (EECS-2011-63) Andrew Waterman
+The RISC-V Instruction Set Manual, Volume I: Base User-Level ISA  (EECS-2011-62) Andrew Waterman, Yunsup Lee, David A. Patterson and Krste Asanović
+Learned Factorization Models to Explain Variability in Natural Image Sequences  (EECS-2011-61) Benjamin Jackson Culpepper
+Cryptographic Techniques for Privacy Preserving Identity  (EECS-2011-58) John Bethencourt
+Interactive Text Recognition and Translation on a Mobile Device  (EECS-2011-57) Michael Hsueh
+Fast Approximation Algorithms for Graph Partitioning using Spectral and Semidefinite-Programming Techniques  (EECS-2011-56) Lorenzo Orecchia
+The impact of causality on information-theoretic source and channel coding problems  (EECS-2011-55) Harikrishna R Palaiyanur
+Electrical Detection of Spin-Dependent Transport in Silicon  (EECS-2011-54) Cheuk Chi Lo
+From Ptides to PtidyOS, Designing Distributed Real-Time Embedded Systems  (EECS-2011-53) Jia Zou
+Photopatterned polyacrylamide gels enable efficient microfluidic protein assays  (EECS-2011-52) Chenlu Hou
+Automatic Term-Level Abstraction  (EECS-2011-51) Bryan Brady
+Design and Implementation of a Hypervisor-Based Platform for Dynamic Information Flow Tracking in a Distributed Environment  (EECS-2011-50) Andrey Ermolinskiy and Scott Shenker
+Compositional Design of Analog Systems Using Contracts  (EECS-2011-49) Xuening Sun
+The Elements of Automatic Summarization  (EECS-2011-47) Daniel Jacob Gillick
+Solution-Processed Inorganic Electronics  (EECS-2011-46) Teymur T Bakhishev
+Compilation Techniques for Embedded Data Parallel Languages  (EECS-2011-45) Bryan Catanzaro
+High Contrast Grating VCSELs: Properties and Implementation on InP-based VCSELs  (EECS-2011-44) Christopher Chase
+Circuit Analysis in Metal-Optics, Theory and Applications  (EECS-2011-43) Matteo Staffaroni
+PhotoVis: Visualization of Digital Photograph Metadata  (EECS-2011-42) Michael Hsueh
+Transistor-Based Ge/SOI Photodetector for Integrated Silicon Photonics  (EECS-2011-41) Xi Luo
+Graph Expansion and Communication Costs of Fast Matrix Multiplication  (EECS-2011-40) Grey Ballard, James Demmel, Olga Holtz and Oded Schwartz
+Structural and Algorithmic Properties of Static and Mobile Random Geometric Graphs  (EECS-2011-39) Alexandre Stauffer
+Understanding Inkjet Printed Pattern Generation  (EECS-2011-38) Daniel Benjamin Soltman
+Superposition and Synthetic Genetic Devices: Framework and Model System to Investigate Linearity in Escherichia coli  (EECS-2011-37) Meghdad Hajimorad
+Compensation for Lithography Induced Process Variations during Physical Design  (EECS-2011-36) Eric Chin
+A Methodology and Tool Support for the Design and Evaluation of Fault Tolerant, Distributed Embedded Systems  (EECS-2011-35) Mark Lee McKelvin Jr
+Light-induced Electrokinetics: A path to a versatile micro total analysis system  (EECS-2011-34) Justin K Valley
+A Practical Ontology Framework for Static Model Analysis  (EECS-2011-33) Ben Lickly, Charles Shelton, Elizabeth Latronico and Edward A. Lee
+An Introduction to the Pthales Domain of Ptolemy II  (EECS-2011-32) Remi Barrere, Eric Lenormand, Dai Bui, Edward A. Lee, Christopher Shaver and Stavros Tripakis
+Statistical Verification and Optimization of Integrated Circuits  (EECS-2011-31) Yu Ben
+PreFail: A Programmable Failure-Injection Framework  (EECS-2011-30) Pallavi Joshi, Haryadi S. Gunawi and Koushik Sen
+The Hierarchical SPMD Programming Model  (EECS-2011-28) Amir Ashraf Kamil
+Informative Feature Selection for Object Recognition via Sparse PCA  (EECS-2011-27) Nikhil Naikal, Allen Yang and S. Shankar Sastry
+Algorithms for Human Genetics  (EECS-2011-25) Bonnie Kirkpatrick
+Learning Conditional Abstractions  (EECS-2011-24) Bryan Brady and Sanjit A. Seshia
+The Ratio Method for Multi-view Color Constancy  (EECS-2011-23) Trevor Owens, Kate Saenko, Ayan Chakrabarti, Ying Xiong, Todd Zickler and Trevor Darrell
+Automating the Debugging of Datacenter Applications with ADDA  (EECS-2011-22) Gautam Altekar, Cristian Zamfir, George Candea and Ion Stoica
+The Case for Evaluating MapReduce Performance Using Workload Suites  (EECS-2011-21) Yanpei Chen, Archana Ganapathi, Rean Griffith and Randy H. Katz
+Scaling Laws for Cooperative Node Localization in Non-Line-of-Sight Wireless Networks  (EECS-2011-20) Venkatesan N E, Kannan Ramchandran and Raja Sengupta
+A Game Theoretical Approach to Communication Security  (EECS-2011-19) Assane Gueye
+Dominant Resource Fairness: Fair Allocation of Multiple Resource Types  (EECS-2011-18) Ali Ghodsi, Matei Zaharia, Benjamin Hindman, Andrew Konwinski, Scott Shenker and Ion Stoica
+Addressing Modeling Challenges in Cyber-Physical Systems  (EECS-2011-17) Patricia Derler, Edward A. Lee and Alberto L. Sangiovanni-Vincentelli
+Synthesizing Switching Logic to Minimize Long-Run Cost  (EECS-2011-16) Susmit Kumar Jha, Sanjit A. Seshia and Ashish Tiwari
+Minimizing Communication in Numerical Linear Algebra  (EECS-2011-15) Grey Ballard, James Demmel, Olga Holtz and Oded Schwartz
+Minimizing Communication for Eigenproblems and the Singular  Value Decomposition  (EECS-2011-14) Grey Ballard, James Demmel and Ioana Dumitriu
+Communication Bounds for Heterogeneous Architectures  (EECS-2011-13) Grey Ballard, James Demmel and Andrew Gearhart
+Modeling and Optimal Control Algorithm Design for HVAC Systems in Energy Efficient Buildings  (EECS-2011-12) Mehdi Maasoumy Haghighi
+An Empirical Analysis of XSS Sanitization in Web Application Frameworks  (EECS-2011-11) Joel Weinberger, Prateek Saxena, Devdatta Akhawe, Matthew Finifter, Richard Shin and Dawn Song
+Communication-optimal parallel 2.5D matrix multiplication and LU factorization algorithms  (EECS-2011-10) Edgar Solomonik and James Demmel
+Towards a societal scale, mobile sensing system  (EECS-2011-9) Richard Edward Honicky
+Representation of Coalitional Games with Algebraic Decision Diagrams  (EECS-2011-8) Karthik Aadithya, Tomasz Michalak and Nicholas Jennings
+Algorithms to detect multi-protein modularity conserved during evolution  (EECS-2011-7) Luqman Hodgkinson and Richard M. Karp
+Codes and Game Theory for Key Agreement with Untrusted Participants  (EECS-2011-6) Nebojsa Milosavljevic
+Convex formulations of inverse modeling problems on systems modeled by Hamilton-Jacobi equations: applications to traffic  flow engineering  (EECS-2011-5) Christian Claudel
+Axioms for Asynchronous Processes  (EECS-2011-4) Eleftherios Matsikoudis
+PreFail: Programmable and Efficient Failure Testing Framework  (EECS-2011-3) Pallavi Joshi, Haryadi S. Gunawi and Koushik Sen
+Actions can speak more clearly than words  (EECS-2011-1) Pulkit Grover

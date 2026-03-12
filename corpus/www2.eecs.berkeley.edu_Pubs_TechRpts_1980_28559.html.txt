@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28559.html
+Jump Behavior of Circuits and Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Jump Behavior of Circuits and Systems
+Jump Behavior of Circuits and Systems
+S.S. Sastry, C.A. Desoer and P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/44
+October 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-44.pdf
+BibTeX citation:
+@techreport{Sastry:M80/44,
+Author = {Sastry, S.S. and Desoer, C.A. and Varaiya, P.P.},
+Title = {Jump Behavior of Circuits and Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28559.html},
+Number = {UCB/ERL M80/44}
+}
+EndNote citation:
+%0 Report
+%A Sastry, S.S.
+%A Desoer, C.A.
+%A Varaiya, P.P.
+%T Jump Behavior of Circuits and Systems
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/44
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28559.html
+%F Sastry:M80/44

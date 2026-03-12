@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29149.html
+Review of the Lower Hybrid Drift Instability and its Saturation Mechanisms
+Yu-Jiuan Chen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/60
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-60.pdf
+BibTeX citation:
+@techreport{Chen:M81/60,
+Author= {Chen, Yu-Jiuan},
+Title= {Review of the Lower Hybrid Drift Instability and its Saturation Mechanisms},
+Year= {1981},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29149.html},
+Number= {UCB/ERL M81/60},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yu-Jiuan
+%T Review of the Lower Hybrid Drift Instability and its Saturation Mechanisms
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/60
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29149.html
+%F Chen:M81/60

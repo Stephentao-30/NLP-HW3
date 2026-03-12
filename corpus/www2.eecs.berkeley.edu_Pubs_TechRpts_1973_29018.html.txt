@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29018.html
+A Generalized Nyquist-Type Stability Criterion for Multivariable Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Generalized Nyquist-Type Stability Criterion for Multivariable Feedback Systems
+A Generalized Nyquist-Type Stability Criterion for Multivariable Feedback Systems
+John F. Barman and Jacob Katzenelson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M383
+June 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-383.pdf
+BibTeX citation:
+@techreport{Barman:M383,
+Author = {Barman, John F. and Katzenelson, Jacob},
+Title = {A Generalized Nyquist-Type Stability Criterion for Multivariable Feedback Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29018.html},
+Number = {UCB/ERL M383}
+}
+EndNote citation:
+%0 Report
+%A Barman, John F.
+%A Katzenelson, Jacob
+%T A Generalized Nyquist-Type Stability Criterion for Multivariable Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M383
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29018.html
+%F Barman:M383

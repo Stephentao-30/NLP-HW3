@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29400.html
+Uni-Moment Method of Solving Antenna and Scattering Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Uni-Moment Method of Solving Antenna and Scattering Problems
+Uni-Moment Method of Solving Antenna and Scattering Problems
+Kenneth K. Mei
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M410
+September 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-410.pdf
+BibTeX citation:
+@techreport{Mei:M410,
+Author = {Mei, Kenneth K.},
+Title = {Uni-Moment Method of Solving Antenna and Scattering Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29400.html},
+Number = {UCB/ERL M410}
+}
+EndNote citation:
+%0 Report
+%A Mei, Kenneth K.
+%T Uni-Moment Method of Solving Antenna and Scattering Problems
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M410
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29400.html
+%F Mei:M410

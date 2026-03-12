@@ -1,0 +1,170 @@
+URL: http://people.eecs.berkeley.edu:80/~benh/libprocess
+libprocess
+libprocess
+Libprocess is a library written in C/C++ that provides an actor style
+message-passing programming model that leverages efficient operating
+system event mechanisms. Libprocess is very similar to Erlang's
+process model, including basic constructs for sending and receiving
+messages.  I'm excited about giving people an opportunity to use this
+software, so look for lots more details to be added here shortly!
+Examples
+Below is a C++ implementation of the canonical ping pong example often
+used when introducing Erlang.  Naturally, since C++ is an imperative
+language rather than a functional one, there are clear differences
+(more on this to come in the future).
+1:  enum { PING = PROCESS_MSGID, PONG, FINISHED };
+2:
+3:  class Ping : public Process {
+4:    PID pong;
+5:
+6:    void operator () () {
+7:      send(pong, PING);
+8:      switch (receive()) {
+9:        case PONG:
+10:         send(pong, FINISHED);
+11:         break;
+12:     }
+13:   }
+14:
+15:  public:
+16:    Ping(const PID &_pong) : pong(_pong) {}
+17: };
+18:
+19: class Pong : public Process {
+20:   void operator () () {
+21:     switch (receive()) {
+22:       case PING:
+23:         send(from(), PONG);
+24:         break;
+25:       case FINISHED:
+26:         return;
+27:     }
+28:  }
+29: };
+30:
+31: int main(int argc, char **argv) {
+32:   PID pong = Process::spawn(new Pong());
+33:   PID ping = Process::spawn(new Ping(pong));
+34:   Process::wait(pong);
+35:   Process::wait(ping);
+36:   return 0;
+37: }
+While libprocess was initially constructed for implementing C++
+applications, libprocess can be used from Python too! (See the README
+file in the download for how to build the Python shared library).  In
+the example below, we are also using the pickle module to allow us to
+do easy serialization of data between processes.
+1:  from process import Process, PROCESS_MSGID
+2:
+3:  PING, PONG, FINISHED = range(PROCESS_MSGID, PROCESS_MSGID + 3)
+4:
+5:  class Ping(Process):
+6:    def __init__(self, pong):
+7:      Process.__init__(self)
+8:      self.pong = pong
+9:
+10:   def __call__(self):
+11:     data = pickle.dumps("hello world")
+12:     self.send(self.pong, PING, data, len(data))
+13:     self.send(self.pong, FINISHED)
+14:
+15:
+16: class Pong(Process):
+17:   def __init__(self):
+18:     Process.__init__(self)
+19:
+20:   def handlePING(self):
+21:     data, length = self.body()
+22:     print pickle.loads(data)
+23:     return True
+24:
+25:   def handleFINISHED(self):
+26:     return False
+27:
+28:   def __call__(self):
+29:     while {
+30:       PING: lambda: self.handlePING(),
+31:       FINISHED: lambda: self.handleFINISHED()
+32:     }[self.receive()]():
+33:       self.send(self._from(), PONG);
+34:
+35:
+36: if __name__ == "__main__":
+37:   pong = Process.spawn(Pong())
+38:   ping = Process.spawn(Ping(pong))
+39:   Process.wait(ping)
+40:   Process.wait(pong)
+You can make the serialization look more transparent too:
+1:  from process import Process, PROCESS_MSGID
+2:
+3:  PING, PONG, FINISHED = range(PROCESS_MSGID, PROCESS_MSGID + 3)
+4:
+5:  class PickledProcess(Process):
+6:    def __init__(self):
+7:      Process.__init__(self)
+8:
+9:    def send(self, pid, msgid, *args):
+10:     data = pickle.dumps(args)
+11:     super(PickledProcess, self).send(pid, msgid, data, len(data))
+12:
+13:   def body(self):
+14:     data, length = super(PickledProcess, self).body()
+15:     return pickle.loads(data)
+16:
+17:
+18: class Ping(PickledProcess):
+19:   def __init__(self, pong):
+20:     Process.__init__(self)
+21:     self.pong = pong
+22:
+23:   def __call__(self):
+24:     self.send(self.pong, PING, "hello world")
+25:     self.send(self.pong, FINISHED)
+26:
+27:
+28: class Pong(PickledProcess):
+29:   def __init__(self):
+30:     Process.__init__(self)
+31:
+32:   def handlePING(self):
+33:     print = self.body()
+34:     return True
+35:
+36:   def handleFINISHED(self):
+37:     return False
+38:
+39:   def __call__(self):
+40:     while {
+41:       PING: lambda: self.handlePING(),
+42:       FINISHED: lambda: self.handleFINISHED()
+43:     }[self.receive()]():
+44:       self.send(self._from(), PONG);
+45:
+46:
+47: if __name__ == "__main__":
+48:   pong = Process.spawn(Pong())
+49:   ping = Process.spawn(Ping(pong))
+50:   Process.wait(ping)
+51:   Process.wait(pong)
+Distributing your applicaiton is easy too ... just get the PIDs
+correct and it doesn't matter what runs where!
+Caveats
+The libprocess model uses its own "user-level threading"
+implementation (and eventually will always use the  Lithe  architecture).  This means that composing
+code written using libprocess with some software will not always work
+(e.g., calling into an embedded Java VM).  However, other composition
+works just fine (e.g., the Python VM).
+In addition, libprocess is limited by the non-blocking I/O support
+provided by the underlying operating system.  This means,
+unfortunately, that on most operating systems filesystem reads and
+writes will not be executed in a non-blocking way, even if that file
+is located in some network attached storage!
+Download
+You can download the code using git:
+git clone git://scm.millennium.berkeley.edu/libprocess
+This is a VERY ALPHA release that is currently only building on Linux
+(and probably Solaris, but that hasn't been tested as recently)!
+Please, please, please contact me if you run into any bugs (which you
+probably will), and I'll try and rectify them immediately. More
+importantly, let me know if you download the code so I can notify you
+when you should pull!

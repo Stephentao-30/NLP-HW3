@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28761.html
+Reliability and Integrity of Large Computer Programs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Reliability and Integrity of Large Computer Programs
+Reliability and Integrity of Large Computer Programs
+C.V. Ramamoorthy, R.C. Cheung and K.H. Kim
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M430
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-430.pdf
+BibTeX citation:
+@techreport{Ramamoorthy:M430,
+Author = {Ramamoorthy, C.V. and Cheung, R.C. and Kim, K.H.},
+Title = {Reliability and Integrity of Large Computer Programs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28761.html},
+Number = {UCB/ERL M430}
+}
+EndNote citation:
+%0 Report
+%A Ramamoorthy, C.V.
+%A Cheung, R.C.
+%A Kim, K.H.
+%T Reliability and Integrity of Large Computer Programs
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M430
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28761.html
+%F Ramamoorthy:M430

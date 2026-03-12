@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-232.html
+Protecting User Privacy in Remotely Managed Applications
+Prashanth Mohan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-232
+December 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-232.pdf
+This thesis presents an end-to-end system architecture for online services to provide it's users with a "privacy guarantee". The privacy guarantee as described in this thesis relates to the technological enforcement of the user's privacy policies by these online applications that are otherwise untrusted by the user.
+Applications on the Internet are complex in that they integrate different types of functionalities into a consistent interface for the user. This thesis categorizes these functionalities into three generic components -- a learning module that operates on the data from multiple users to gather higher level trends and aggregates, a data storage and transformation module that provides the core functionality of data presentation and finally a client-side component that interacts with the cloud-side functionalities and is responsible for sourcing input from the user and presenting them on the user's device in a secure fashion.
+This thesis looks at the privacy risks introduced by each of these components and describes a "trusted system" that can be used by these online services to prove that the user specified privacy policies are enforced. The system consists of multiple independently developed solutions -- Gupt, Rubicon, Bubbles and MobAds. These solutions work at tandem with each other to provide an end-to-end privacy perspective.
+While privacy policies and EULAs have largely been enforced in the realm of legal proceedings, this prototype implementation of an end-to-end privacy enforcement architecture demonstrates that it is both feasible and practical to enforce user privacy policies within the system.
+Advisors:  David E. Culler
+BibTeX citation:
+@phdthesis{Mohan:EECS-2013-232,
+Author= {Mohan, Prashanth},
+Title= {Protecting User Privacy in Remotely Managed Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-232.html},
+Number= {UCB/EECS-2013-232},
+Abstract= {This thesis presents an end-to-end system architecture for online services to provide it's users with a "privacy guarantee". The privacy guarantee as described in this thesis relates to the technological enforcement of the user's privacy policies by these online applications that are otherwise untrusted by the user.
+Applications on the Internet are complex in that they integrate different types of functionalities into a consistent interface for the user. This thesis categorizes these functionalities into three generic components -- a learning module that operates on the data from multiple users to gather higher level trends and aggregates, a data storage and transformation module that provides the core functionality of data presentation and finally a client-side component that interacts with the cloud-side functionalities and is responsible for sourcing input from the user and presenting them on the user's device in a secure fashion.
+This thesis looks at the privacy risks introduced by each of these components and describes a "trusted system" that can be used by these online services to prove that the user specified privacy policies are enforced. The system consists of multiple independently developed solutions -- Gupt, Rubicon, Bubbles and MobAds. These solutions work at tandem with each other to provide an end-to-end privacy perspective.
+While privacy policies and EULAs have largely been enforced in the realm of legal proceedings, this prototype implementation of an end-to-end privacy enforcement architecture demonstrates that it is both feasible and practical to enforce user privacy policies within the system.},
+}
+EndNote citation:
+%0 Thesis
+%A Mohan, Prashanth
+%T Protecting User Privacy in Remotely Managed Applications
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 19
+%@ UCB/EECS-2013-232
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-232.html
+%F Mohan:EECS-2013-232

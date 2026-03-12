@@ -1,0 +1,24 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS194_1871
+Course: CS194_1871 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS194_1871
+CS 194-026. Image Manipulation and Computational Photography
+Catalog Description:  Topics will vary semester to semester. See the Computer Science Division announcements.
+Units:  1.0-4.0
+Prerequisites:  Consent of instructor.
+Formats:  Fall: 1.0-4.0 hours of lecture per week
+Spring: 1.0-4.0 hours of lecture per week
+Summer: 2.0-8.0 hours of lecture per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Fall 2018 class homepage
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  Computational Photography is an emerging new field created by the convergence of computer vision, computer graphics, and photography. Its role is to overcome the limitations of the traditional camera by using computational techniques to produce a richer, more vivid, perhaps more perceptually meaningful representations of our visual world.  The aim of this advanced undergraduate course is to study ways in which modern image manipulation and computer vision algorithms can be used to take samples from the real world (images and video) and generate compelling visual representations.  Covered topics will include: cameras and image formation, human visual perception, modern image processing (blending, compositing, warping, morphing, seam carving, texture synthesis, image alignment, etc), image mosaics, single-view 3D reconstruction, image-based lighting, HDR capture and display, methods and applications to Big Visual Data.
+This is a project-heavy course with an emphasis on implementation of the algorithms presented in class.  The course will require very good programming skills, working knowledge of linear algebra, and a love for pixels. The course does not require CS184 but complements it, and will also serve as preparation for students interested in taking CS280.
+Previous version of this course can be found here: http://inst.eecs.berkeley.edu/~cs194-26/fa14/
+Related Areas:
+Graphics (GR)

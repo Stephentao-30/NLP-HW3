@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/12702.html
+Rapid prototyping of Robotic Structures on a Centimeter Scale
+Ranjana Sahai
+EECS Department, University of California, Berkeley
+2006
+Advisors:  Ronald Fearing
+BibTeX citation:
+@phdthesis{Sahai:12702,
+Author= {Sahai, Ranjana},
+Title= {Rapid prototyping of Robotic Structures on a Centimeter Scale},
+School= {EECS Department, University of California, Berkeley},
+Year= {2006},
+}
+EndNote citation:
+%0 Thesis
+%A Sahai, Ranjana
+%T Rapid prototyping of Robotic Structures on a Centimeter Scale
+%I EECS Department, University of California, Berkeley
+%D 2006
+%F Sahai:12702

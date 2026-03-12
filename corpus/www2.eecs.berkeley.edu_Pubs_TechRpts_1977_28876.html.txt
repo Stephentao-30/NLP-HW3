@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28876.html
+An Outer Approximations Algorithm for Computer Aided Design Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Outer Approximations Algorithm for Computer Aided Design Problems
+An Outer Approximations Algorithm for Computer Aided Design Problems
+D.Q. Mayne, E. Polak and R. Trahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/10
+February 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-10.pdf
+BibTeX citation:
+@techreport{Mayne:M77/10,
+Author = {Mayne, D.Q. and Polak, E. and Trahan, R.},
+Title = {An Outer Approximations Algorithm for Computer Aided Design Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28876.html},
+Number = {UCB/ERL M77/10}
+}
+EndNote citation:
+%0 Report
+%A Mayne, D.Q.
+%A Polak, E.
+%A Trahan, R.
+%T An Outer Approximations Algorithm for Computer Aided Design Problems
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/10
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28876.html
+%F Mayne:M77/10

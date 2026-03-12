@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-58.html
+Robust Scheduling for Queueing Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Robust Scheduling for Queueing Networks
+Robust Scheduling for Queueing Networks
+Ramtin Pedarsani
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-58
+May 11, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-58.pdf
+Queueing networks are used to model complicated processing environments such as data centers, call centers, transportation networks, health systems, etc. A queueing network consists of multiple interconnected queues with some routing structure, and a set of servers that have different and possibly overlapping capabilities in processing tasks (jobs) of different queues. One of the most important challenges in designing processing systems is to come up with a low-complexity and efficient scheduling policy.
+In this thesis, we consider the problem of robust scheduling for various types of processing networks. We call a policy robust if it does not depend on system parameters such as arrival and service rates. A major challenge in designing efficient scheduling policies for new large-scale processing networks is the lack of reliable estimates of system parameters; thus, designing a robust scheduling policy is of great practical interest. We develop a novel methodology for designing robust scheduling policies for queueing networks. The key idea of our design is to use the queue-length changes information to learn the right allocation of service resources to different tasks by stochastic gradient projection method. Our scheduling policy is oblivious to the knowledge of arrival rates and service rates of tasks in the network. Further, we propose a new fork-join processing network for scheduling jobs that are represented as directed acyclic graphs. We apply our robust scheduling policy to this fork-join network, and prove rate stability of the network under some mild assumptions.
+Next, we consider the stability of open multiclass queueing networks under longest-queue (LQ) scheduling. LQ scheduling is of great practical interest since (a) it requires only local decisions per group of queues; (b) the policy is robust to knowledge of arrival rates, service rates and routing probabilities of the network. Throughput-optimality of LQ scheduling policy for open multiclass queueing network is still an open problem. We resolve the open problem for a special case of multiclass queueing networks with two servers that can each process two queues, and show that LQ is indeed throughput-optimal.
+Finally, we consider transportation networks that can be well modeled by queueing networks. We abstractly model a network of signalized intersections regulated by fixed-time controls as a deterministic queueing network with periodic arrival and service rates. This system is characterized by a delay-differential equation. We show that there exists a unique periodic trajectory of queue-lengths, and every trajectory or solution of the system converges to this periodic trajectory, independent of the initial conditions.
+Advisor:  Jean Walrand
+BibTeX citation:
+@phdthesis{Pedarsani:EECS-2015-58,
+Author = {Pedarsani, Ramtin},
+Title = {Robust Scheduling for Queueing Networks},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-58.html},
+Number = {UCB/EECS-2015-58},
+Abstract = {Queueing networks are used to model complicated processing environments such as data centers, call centers, transportation networks, health systems, etc. A queueing network consists of multiple interconnected queues with some routing structure, and a set of servers that have different and possibly overlapping capabilities in processing tasks (jobs) of different queues. One of the most important challenges in designing processing systems is to come up with a low-complexity and efficient scheduling policy.
+In this thesis, we consider the problem of robust scheduling for various types of processing networks. We call a policy robust if it does not depend on system parameters such as arrival and service rates. A major challenge in designing efficient scheduling policies for new large-scale processing networks is the lack of reliable estimates of system parameters; thus, designing a robust scheduling policy is of great practical interest.  We develop a novel methodology for designing robust scheduling policies for queueing networks. The key idea of our design is to use the queue-length changes information to learn the right allocation of service resources to different tasks by stochastic gradient projection method. Our scheduling policy is oblivious to the knowledge of arrival rates and service rates of tasks in the network. Further, we propose a new fork-join processing network for scheduling jobs that are represented as directed acyclic graphs. We apply our robust scheduling policy to this fork-join network, and prove rate stability of the network under some mild assumptions.
+Next, we consider the stability of open multiclass queueing networks under longest-queue (LQ) scheduling. LQ scheduling is of great practical interest since (a) it requires only local decisions per group of queues; (b) the policy is robust to knowledge of arrival rates, service rates and routing probabilities of the network. Throughput-optimality of LQ scheduling policy for open multiclass queueing network is still an open problem. We resolve the open problem for a special case of multiclass queueing networks with two servers that can each process two queues, and show that LQ is indeed throughput-optimal.
+Finally, we consider transportation networks that can be well modeled by queueing networks. We abstractly model a network of signalized intersections regulated by fixed-time controls as a deterministic queueing network with periodic arrival and service rates. This system is characterized by a delay-differential equation. We show that there exists a unique periodic trajectory of queue-lengths, and every trajectory or solution of the system converges to this periodic trajectory, independent of the initial conditions.}
+}
+EndNote citation:
+%0 Thesis
+%A Pedarsani, Ramtin
+%T Robust Scheduling for Queueing Networks
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 11
+%@ UCB/EECS-2015-58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-58.html
+%F Pedarsani:EECS-2015-58

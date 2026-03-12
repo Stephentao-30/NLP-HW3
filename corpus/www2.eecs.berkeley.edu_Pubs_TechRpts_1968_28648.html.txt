@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28648.html
+Monolithic Wideband Amplifiers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Monolithic Wideband Amplifiers
+Monolithic Wideband Amplifiers
+Bruce A. Wooley
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M243
+March 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-243.pdf
+BibTeX citation:
+@techreport{Wooley:M243,
+Author = {Wooley, Bruce A.},
+Title = {Monolithic Wideband Amplifiers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28648.html},
+Number = {UCB/ERL M243}
+}
+EndNote citation:
+%0 Report
+%A Wooley, Bruce A.
+%T Monolithic Wideband Amplifiers
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M243
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28648.html
+%F Wooley:M243

@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/160928-2
+High Throughput Connectomics - EECS at Berkeley
+High Throughput Connectomics
+EECS Colloquium
+Wednesday, September 28, 2016
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Nir Shavit
+Professor of Electrical Engineering and Computer Science
+Massachusetts Institute of Technology
+Nir Shavit speaks on High Throughput Connectomics, 9/28/16
+Abstract
+Connectomics is an emerging field of neurobiology that uses cutting edge machine learning and image processing to extract brain connectivity graphs from electron microscopy images. It has long been assumed that the processing of connectomics data will require mass storage and farms of CPUs and GPUs and will take months if not years. This talk will discuss the feasibility of designing a high-throughput connectomics-on-demand system that runs on a multicore machine with less than 100 cores and extracts connectomes at the terabyte per hour pace of modern electron microscopes. Building this system required solving algorithmic and performance engineering issues related to scaling machine learning on multicore architectures, and may have important lessons for other problem spaces in the natural sciences, where until now large distributed server or GPU farms seemed to be the only way to go.
+Biography
+Nir Shavit received B.Sc. and M.Sc. degrees in Computer Science from the Technion – Israel Institute of Technology in 1984 and 1986, and a Ph.D. in Computer Science from the Hebrew University of Jerusalem in 1990. Shavit is a co-author of the book The Art of Multiprocessor Programming, is a winner of the 2004 Gödel Prize in theoretical computer science for his work on applying tools from algebraic topology to model shared memory computability, and a winner of the 2012 Dijkstra Prize for the introduction and first implementation of software transactional memory.
+He has recently become interested in computational neurobiology, and in particular is involved in developing new ways of using high performance computing to analyze data in order to uncover the microscopic structure and function of neural tissue.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

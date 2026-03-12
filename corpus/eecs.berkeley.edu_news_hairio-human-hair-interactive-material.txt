@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/hairio-human-hair-interactive-material
+HäirIÖ: Human Hair as Interactive Material - EECS at Berkeley
+CS Prof. Eric Paulos and his graduate students in the Hybrid Ecologies Lab, Sarah Sterman, Molly Nicholas, and Christine Dierk, have created a prototype of a wearable color- and shape-changing braid called HäirIÖ.  The hair extension is built from a custom circuit, an Arduino Nano, an Adafruit Bluetooth board, shape memory alloy, and thermochromic pigments.  The bluetooth chip allows devices such as phones and laptops to communicate with the hair, causing it to change shape and color, as well as respond when the hair is touched. Their paper “Human Hair as Interactive Material,” was presented at the ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI) last week. They have posted a how-to guide and instructable videos which include comprehensive hardware, software, and electronics documentation, as well as information about the design process. “Hair is a unique and little-explored material for new wearable technologies,” the guide says.  “Its long history of cultural and individual expression make it a fruitful site for novel interactions.”
+Categories
+Faculty
+publications
+Research
+Students
+View
+Open Faculty Positions

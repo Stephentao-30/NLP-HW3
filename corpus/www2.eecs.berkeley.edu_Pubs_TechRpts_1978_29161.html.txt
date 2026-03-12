@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29161.html
+Specifications for a Proposed Standard for Floating Point Arithmetic | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Specifications for a Proposed Standard for Floating Point Arithmetic
+Specifications for a Proposed Standard for Floating Point Arithmetic
+J.T. Coonen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/72
+October 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-72.pdf
+BibTeX citation:
+@techreport{Coonen:M78/72,
+Author = {Coonen, J.T.},
+Title = {Specifications for a Proposed Standard for Floating Point Arithmetic},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29161.html},
+Number = {UCB/ERL M78/72}
+}
+EndNote citation:
+%0 Report
+%A Coonen, J.T.
+%T Specifications for a Proposed Standard for Floating Point Arithmetic
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/72
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29161.html
+%F Coonen:M78/72

@@ -1,0 +1,79 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/culler.html
+David E. Culler: Faculty Home Page
+Larger Photo
+David E. Culler
+Professor Emeritus
+Contact Information
+783 Soda Hall
+culler@berkeley.edu
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Damon Hinson
+damonh@berkeley.edu
+Biography
+He received his B.A. from UC Berkeley in 1980, and an M.S. and Ph.D. from MIT in 1985 and 1989, respectively. He joined the EECS faculty in 1989 and is the founding Director of Intel Research, UC Berkeley and was Associate Chair of the EECS Department, 2010-2012 and Chair from 2012 through June 30, 2014. He won the Okawa Prize in 2013. He is a member of the National Academy of Engineering, an ACM Fellow, and an IEEE Fellow. He has been named one of Scientific American's Top 50 Researchers and the creator of one of MIT's Technology Review's 10 Technologies that Will Change the World. He was awarded the NSF Presidential Young Investigator and the Presidential Faculty Fellowship. His research addresses networks of small, embedded wireless devices, planetary-scale internet services, parallel computer architecture, parallel programming languages, and high performance communication. It includes TinyOS, Berkeley Motes, PlanetLab, Networks of Workstations (NOW), Internet services, Active Messages, Split-C, and the Threaded Abstract Machine (TAM).
+Education
+1989, Ph.D., MIT
+1985, M.S., MIT
+1980, B.A., U.C. Berkeley
+Research Areas
+Computer Architecture & Engineering (ARC)
+Power and Energy (ENE)
+Operating Systems & Networking (OSNT)
+Cyber-Physical Systems and Design Automation (CPSDA)
+Programming Systems (PS)
+Security (SEC)
+Parallel architecture; High-performance networks; Workstation clusters
+Research Centers
+Simons Institute for the Theory of Computing (SITC)
+M. Andersen, S. Kumar, C. Brooks, A. von Meier, and D. E. Culler, "DISTIL: Design and Implementation of a Scalable Synchrophasor Data Processing System," in  IEEE Conference on Smart Grid Communications , 2015.
+K. Shankari, M. Yin, D. E. Culler, and R. H. Katz, "E-Mission: Automated transportation emission calculation using smartphones," in  Proceedings of the 2015 IEEE International Conference on Pervasive Computing and Communications (PerCom), WiP track , 2015.
+J. Jeong and D. E. Culler, " Wireless Embedded Systems and Networking - Labs Based on the AIIT Lecture ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2008-14, Feb. 2008.
+J. Jeong, D. E. Culler, and J. H. Oh, " Empirical analysis of transmission power control algorithms for wireless sensor networks ," in  Proc. 4th Intl. Conf. on Networked Sensing Systems (INSS '07) , Piscataway, NJ: IEEE Press, 2007, pp. 27-34.
+A. Tavakoli, P. Dutta, J. Jeong, S. Kim, J. Ortiz, D. E. Culler, P. Levis, and S. Shenker, " A modular sensornet architecture: Past, present, and future directions ,"  ACM SIGBED Review: Special Issue on the Workshop on Wireless Sensor Network Architecture , vol. 4, no. 3, pp. 49-54, April 2007.
+X. F. Jiang, J. Taneja, J. Ortiz, A. Tavakoli, P. Dutta, J. Jeong, D. E. Culler, P. Levis, and S. Shenker, " An architecture for energy management in wireless sensor networks ,"  ACM SIGBED Review: Special Issue on the Workshop on Wireless Sensor Network Architecture , vol. 4, no. 3, pp. 31-36, April 2007.
+P. W. Chen, S. Oh, M. Manzo, B. Sinopoli, C. Sharp, K. Whitehouse, G. Tolle, J. Jeong, P. Dutta, J. Hui, S. Shaffert, S. Kim, J. Taneja, B. X. Zhu, T. G. Roosta, M. Howard, D. E. Culler, and S. S. Sastry, " Experiments in instrumenting wireless sensor networks for real-time surveillance (Video) ," in  Proc. 2006 IEEE Intl. Conf. on Robotics and Automation (ICRA '06) , Piscataway, NJ: IEEE Press, 2006, pp. 3 pg.
+K. Whitehouse, G. Tolle, J. Taneja, C. Sharp, S. Kim, J. Jeong, J. W. Hui, P. Dutta, and D. E. Culler, " Marionette: Using RPC for interactive development and debugging of wireless embedded networks ," in  Proc. 5th Intl. Conf. on Information Processing in Sensor Networks (IPSN 2006) , New York, NY: The Association for Computing Machinery, Inc., 2006, pp. 416-423.
+P. Dutta, J. W. Hui, J. Jeong, S. Kim, C. Sharp, J. Taneja, G. Tolle, K. Whitehouse, and D. E. Culler, " Trio: Enabling sustainable and scalable outdoor wireless sensor network deployments ," in  Proc. 5th Intl. Conf. on Information Processing in Sensor Networks (IPSN 2006) , New York, NY: The Association for Computing Machinery, Inc., 2006, pp. 407-415.
+J. Jeong and D. E. Culler, " Incremental network programming for wireless sensors ," in  Proc. 2004 1st Annual IEEE Communications Society Conf. on Sensor and Ad Hoc Communications and Networks , Piscataway, NJ: IEEE Press, 2004, pp. 25-33.
+M. L. Massie, B. N. Chun, and D. E. Culler, " The ganglia distributed monitoring system: Design, implementation, and experience ,"  Parallel Computing , vol. 30, no. 5-6, pp. 817-840, June 2004.
+P. A. Levis, S. Madden, D. Gay, J. R. Polastre, R. Szewczyk, A. L. C. Woo, E. Brewer, and D. E. Culler, " The emergence of networking abstractions and techniques for TinyOS ," in  Proc. 1st Symp. on Networked Systems Design and Implementation (NSDI '04) , Berkeley, CA: USENIX Association, 2004, pp. 1-14.
+W. Chen, D. Bonachea, J. Duell, P. Husbands, C. Iancu, K. A. Yelick, and D. E. Culler, " The Berkeley UPC Compiler ," 2003.
+D. Gay, P. A. Levis, J. R. Von Behren, M. Walsh, E. Brewer, and D. E. Culler, " The nesC language: A holistic approach to networked embedded systems ," in  Proc. ACM SIGPLAN 2003 Conf. on Programming Language Design and Implementation , New York, NY: The Association for Computing Machinery, Inc., 2003, pp. 1-11.
+A. Perrig, R. Szewczyk, D. Tygar, V. Wen, and D. E. Culler, " MOBICOM 2001 Award Paper: SPINS: Secuity protocols for sensor networks ,"  Wireless Networks , vol. 8, no. 5, pp. 521-534, Sep. 2002.
+D. E. Culler, J. Hill, P. Buonadonna, R. Szewczyk, and A. Woo, " A network-centric approach to embedded software for tiny devices ," in  Proc. 1st Intl. Workshop on Embedded Software (EMSOFT 2001) , T. A. Henzinger and C. M. Kirsch, Eds., Lecture Notes in Computer Science, Vol. 2211, London, UK: Springer-Verlag, 2001, pp. 114-130.
+R. H. Arpaci-Dusseau, E. Anderson, N. Treuhaft, D. E. Culler, J. M. Hellerstein, D. A. Patterson, and K. A. Yelick, " Cluster I/O with River: Making the fast case common ," in  Proc. 6th Workshop on I/O in Parallel and Distributed Systems (IOPADS 1999) , New York, NY: ACM Press, 1999, pp. 10-22.
+D. E. Culler, J. P. Singh, and A. Gupta,  Parallel Computer Architecture: A Hardware/Software Approach , The Morgan Kaufman Series in Computer Architecture and Design, San Francisco, CA: Morgan Kaufmann Publishers, 1999.
+A. C. Arpaci-Dusseau, D. E. Culler, and A. M. Mainwaring, " Scheduling with implicit information in distributed systems ,"  ACM SIGMETRICS Performance Evaluation Review , vol. 26, no. 1, pp. 233-243, June 1998.
+S. S. Lumetta, A. M. Mainwaring, and D. E. Culler, " Multi-protocol active messages on a cluster of SMP's ," in  Proc. 1997 ACM/IEEE Conf. on Supercomputing: High Performance Networking and Computing , New York, NY: ACM Press, 1997, pp. 1-22.
+Berkeley Citation ,
+2021
+ACM SENSYS Test of Time Award ,
+2018
+ACM SENSYS Test of Time Award ,
+2015
+USENIX Test of Time Award ,
+2014
+ACM SENSYS Test of Time Award ,
+2014
+Okawa Prize ,
+2013
+ACM SIGCOMM Test of Time Paper Award ,
+2013
+ACM SIGPLAN Most Influential Programming Language Design and Implementation (PLDI) Paper Award ,
+2013
+ACM SIGMOBILE Outstanding Contribution Award ,
+2007
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2005
+National Academy of Engineering (NAE) Member ,
+2005
+MIT Tech Review Top 10 Breakthrough Technologies (TR10) ,
+2003
+Association for Computing Machinery (ACM) Fellow ,
+2002
+NSF Presidential Faculty Fellow (PFF) ,
+1991

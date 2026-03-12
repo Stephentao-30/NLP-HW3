@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-8.html
+Zn Gas-Phase Doping of InAs Nanostructures
+Steven Chuang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-8
+January 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-8.pdf
+Advisors:  Ali Javey
+BibTeX citation:
+@mastersthesis{Chuang:EECS-2012-8,
+Author= {Chuang, Steven},
+Title= {Zn Gas-Phase Doping of InAs Nanostructures},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-8.html},
+Number= {UCB/EECS-2012-8},
+}
+EndNote citation:
+%0 Thesis
+%A Chuang, Steven
+%T Zn Gas-Phase Doping of InAs Nanostructures
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 9
+%@ UCB/EECS-2012-8
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-8.html
+%F Chuang:EECS-2012-8

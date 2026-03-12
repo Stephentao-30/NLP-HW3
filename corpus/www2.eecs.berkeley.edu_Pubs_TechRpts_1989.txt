@@ -1,0 +1,209 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989
+Technical Reports - 1989
+A Crossbar System for Multiprocessors  (CSD-89-555) Vason P. Srini and Linda G. Bushnell
+Error Management and Debugging in Pan I  (CSD-89-554) Michael L. Van De Vanter
+Branch Target Buffer Design  (CSD-89-553) Chris H. Perleberg
+Branch Target Buffer Design and Optimization  (CSD-89-552) Chris H. Perleberg and Alan Jay Smith
+Software Mechanisms for Multiprocessor TLB Consistency  (CSD-89-551) Shin-Yuan Tzou
+Measurements of Wide Area Internet Traffic  (CSD-89-550) Ramon Caceres
+Detecting Cusps and Inflection Points in Curves  (CSD-89-549) Dinesh Manocha and John F. Canny
+Syntactic and Semantic Checking in Language-Based Editing Systems  (CSD-89-548) Robert Alan Ballance
+Performance Analysis of Queuing Algorithms on Datakit T1 Trunk Lines  (CSD-89-547) Michael J. Hawley
+Reducing and Manipulating Complex Trace Data  (CSD-89-546) Herve Touati and Alan Jay Smith
+Semantically-Sensitive Macroprocessing  (CSD-89-545) William Maddox
+Comparative Performance Evaluation of Garbage Collection Algorithms  (CSD-89-544) Benjamin G. Zorn
+Parallel Algorithms for Combinatorial Search Problems  (CSD-89-543) Yanjun Zhang
+Optimally Selecting the Parameters of Adaptive Backoff Algorithms for Computer Networks and Multiprocessors  (CSD-89-542) Peter B. Danzig
+Tcl: An Embeddable Command Language  (CSD-89-541) John K. Ousterhout
+Transparent Process Migration for Personal Workstations  (CSD-89-540) Frederick Douglis and John K. Ousterhout
+Read-only Sharing in Operating Systems  (CSD-89-539) Ramesh Govindan
+Managing the VLSI Design Process  (CSD-89-538) Tzi-cker F. Chiueh, Randy H. Katz and Valerie D. King
+Support for Continuous Media in the Dash System  (CSD-89-537) David P. Anderson, Shin-Yuan Tzou, Robert Wahbe, Ramesh Govindan and Martin Andrews
+The Bottom-Up Design of a Prolog Architecture  (CSD-89-536) Richard Carlson
+Performance and Reliability in Redundant Arrays of Inexpensive Disks  (CSD-89-535) Garth A. Gibson
+Multiprocessor Strategies for Ray-Tracing  (CSD-89-534) Robert Francis Boothe
+Task Specification and Management in the VLSI Design Process  (CSD-89-533) Valerie D. King
+XNUSIM -- Graphical Interface for a Multiprocessor Simulator  (CSD-89-532) Swee-Chee Pang
+Area Efficient Cells for LagerIV's DPP Library  (CSD-89-531) Georges E. Smine and Vason P. Srini
+REAL Manuals  (CSD-89-530) Srinivasan Keshav
+High Performance Microprocessor Architectures  (CSD-89-529) Randy H. Katz and John L. Hennessy
+Learning Read-Once Formulas with Queries  (CSD-89-528) Dana Angluin, Lisa Hellerstein and Marek Karpinski
+A System for Computer Music Performance  (CSD-89-527) David P. Anderson and Ron Kuivila
+Efficient Automated Protocol Implementation Using RTAG  (CSD-89-526) Diane Hernek and David P. Anderson
+Tarmac: A Language System Substrate Based on Mobile Memory  (CSD-89-525) Steven E. Lucco and David P. Anderson
+The Aquarius IIU Node: The Caches, the Address Translation Unit, and the VME bus Interface  (CSD-89-524) Georges E. Smine and Vason P. Srini
+Prolog vs. Lisp  (CSD-89-523) Carl Glen Ponder
+An Open Architecture for Improving VLSI Circuit Performance  (CSD-89-522) Fred W. Obermeier
+Goal Analysis: Plan Recognition in Dialogue Systems  (CSD-89-521) James C. Mayfield
+The Berkeley UNIX Consultant Project  (CSD-89-520) Robert Wilensky, David N. Chin, Marc Luria, James H. Martin, James Mayfield and Dekai Wu
+Ladle  (CSD-89-519) Jacob Butcher
+Procedural Generation of Geometric Objects  (CSD-89-518) Carlo H. Séquin, Seth Teller, Kevin Smith, Doris Karlson, Paul Heckbert, Brian Smith, Gabriel Cuka, William Foote, Manish Arya, Dan Dyckman, Narciso Jaramillo, Nathan Trueblood, John Boyland, Nina Amenta and Russell Lager
+On Integrated Bibliography Processing  (CSD-89-517) Michael A. Harrison and Ethan V. Munson
+Fundamentals of Texture Mapping and Image Warping  (CSD-89-516) Paul S. Heckbert
+Effective Clustering and Buffering in an Object-Oriented DBMS  (CSD-89-515) Ellis E. Chang
+Biased Anisotropic Diffusion--A Unified Regularization and Diffusion Approach to Edge Detection  (CSD-89-514) K. Niklas Nordstrom
+Performance, Resources, and Complexity:  A Systematic Approach to Microarchitectural Design  (CSD-89-513) Shing Ip Kong
+Sprite Engineering Manual  (CSD-89-512) John K. Ousterhout
+The Task of the Referee  (CSD-89-511) Alan Jay Smith
+Implicit Storage Schemes for Quick Retrieval  (CSD-89-510) Simeon Naor
+A Prolog Benchmark Suite for Aquarius  (CSD-89-509) Ralph Haygood
+The SPUR CPU Behavioral Model  (CSD-89-508) Shing Kong
+Design Synthesis of Monolithic CMOS Operational Amplifiers  (CSD-89-507) Han Young Koh
+An Evaluation of Redundant Arrays of Disks using an Amdahl 5890  (CSD-89-506) Peter M. Chen
+Clocking and Synchronization Circuits in Multiprocessor Systems  (CSD-89-505) Deog-Kyoon Jeong
+Aspects of Full-Custom VLSI Microprocessor Design and Implementation  (CSD-89-504) Daebum Lee
+Algorithms for Weakly Triangulated Graphs  (CSD-89-503) Arvind Raghunathan
+Restructuring Symbolic Programs for Concurrent Execution on Multiprocessors  (CSD-89-502) James Richard Larus
+Simulation Analysis of Data Sharing in Shared Memory Multiprocessors  (CSD-89-501) Susan J. Eggers
+A VLSI Chip Set for a Mutiprocessor Workstation  (CSD-89-500) Daebum Lee, Deog-Kyoon Jeong, David A. Wood, David A. Patterson, Mark D. Hill, Shing I. Kong, George S. Taylor, David A. Hodges, Susan J. Eggers, Garth A. Gibson and Randy H. Katz
+Pseudo-File-Systems  (CSD-89-499) Brent B. Welch and John K. Ousterhout
+A Framework for Multimedia Communication in a General-Purpose Distributed System  (CSD-89-498) David P. Anderson and Robert Wahbe
+Disk System Architectures for High Performance Computing  (CSD-89-497) Randy H. Katz, Garth A. Gibson and David A. Patterson
+The VLSI-PLM Board: Design, Construction, and Testing  (CSD-89-496) Lau T. Nguyen, Linda G. Bushnell and Vason P. Srini
+Modeling the Behavioral Substrates of Associate Learning and Memory: Adaptive Neuronal Models  (CSD-89-495) Chuen-Chien Lee
+Machine Characterization Based on an Abstract High Level Language Machine  (CSD-89-494) Rafael H. Saavedra-Barrera, Alan J. Smith and Eugene Miya
+Massive Information Storage, Management, and Use (NSF Institutional Infrastructure Proposal)  (CSD-89-493)  Computer Science Division
+A Computer Aided Design Methodology For Printed Circuit Boards  (CSD-89-492) Linda G. Bushnell and Vason P. Srini
+A computational model of texture perception  (CSD-89-491) Jitendra Malik and Pietro Perona
+Verifying a Multiprocessor Cache Controller Using Random Case Generalization  (CSD-89-490) David A. Wood, Garth A. Gibson and Randy H. Katz
+Techniques for Logic Validation of Digital Circuits  (M89/140) Hi-Keung Ma
+Electrical and Optical Test Structures for the Investigation of Lithography over Topography  (M89/139) J. Ramirez
+The Dynamic Response of a Tactile Sensor  (M89/138) E.M. Sladek and Ronald S. Fearing
+On the Interaction of Functional and Timing Behaviour of Combinational Logic Circuits  (M89/137) Patrick C. McGeer
+Numerical Error in Electron Orbits with Large omega_cc Delta t  (M89/136) S.E. Parker and Charles K. (Ned) Birdsall
+CAD for Nonlinear Control Systems  (M89/135) A. Teel
+A Viterbi Slave for a Large-Vocabulary Real-Time Speech Recognition System  (M89/134) A. Narayanaswamy
+A VLSI Word Processing Subsystem for a Real Time Large Vocabulary Continuous Speech Recognition System  (M89/133) A. Stolzle
+Extensions of Two-Level Minimization Methods with Applications to Multi-Level  (M89/132) A.A. Malik
+Optimization-Based Control System Design for Infinite-Dimensional Systems  (M89/131) Ywh-Pyng Harn
+Exploiting Cellular Automata in the Design of Cellular Neural Networks for Binary Image Processing  (M89/130) Leon O. Chua and B.E. Shi
+Architectures for Statically Scheduled Dataflow  (M89/129) Edward A. Lee
+Self-Timed Integrated Circuits for Digital Signal Processing  (M89/128) Gordon M. Jacobs
+Kinematics, Planning and Control of Dextrous Robot Hands  (M89/127) Zexiang Li
+The Application of Knowledge-Based Systems to Design Verification  (M89/126) Rick  L. Spickelmier
+Consistency in Dataflow Graphs  (M89/125) Edward A. Lee
+A Stability Result  (M89/124) S. Sheikholeslam and Charles A. Desoer
+Modeling Complex Manufacturing Processes Via Integration of Influence Diagrams and Neural Networks  (M89/123) F. Nadi
+Self-Synchronizing Concurrent Computing Systems  (M89/122) Vijay K. Madisetti
+Bias Voltage in Finite Length, Cylindrical and Coaxial RF Discharges  (M89/121) Michael A. Lieberman and S.E. Savas
+Hybrid Control Schemes for Robot Manipulators and Hands Under Contrained Motion  (M89/120) A.A. Cole
+On Rules, Procedures, Caching and Views in Data Base Systems  (M89/119) Michael Stonebraker, A. Jhingran, J. Goh and S. Potamianos
+Global Optimization: A Naive Approach  (M89/118) Leon O. Chua
+Determining the Axis of a Surface of Revolution Using Tactile Sensing  (M89/117) M. Berkemeier and Ronald S. Fearing
+Traveling-Wave-Tube Simulation; The IBC Code  (M89/116) I. Morey and Charles K. (Ned) Birdsall
+Robust Learning Control  (M89/115) G. Heinzinger, D. Fenwick, B. Paden and F. Miyazaki
+Analytic Solutions and Particle Simulation of Cross-Field Plasma Sheaths  (M89/114) M.J. Gerver, S.E. Parker and K. Theilhaber
+On the Optimal Control of System Described by Evolution Equations  (M89/113) T.E. Baker and Elijah Polak
+Rate Preserving Discretization Strategies for Semi-Infinite Programming and Optimal Control  (M89/112) Elijah Polak and L. He
+On the Rate of Convergence of Two Minimax Algorithms  (M89/111) E.J. Wiest and Elijah Polak
+Distributed Databases in a Heterogeneous Computing Environment  (M89/110) Lawrence A. Rowe
+Evolution of the Microfabrication Facility at Berkeley  (M89/109) K. Voros and P.K. Ko
+1-D Map for the Double Scroll Family  (M89/108) Leon O. Chua and I. Tichonicky
+The Global Analysis of Fuzzy Dynamical Systems  (M89/107) Yung-Yaw Chen
+Longitudinal Control of a Platoon of Vehicles I: Linear Model  (M89/106) S. Sheikholeslam and Charles A. Desoer
+Connections Between Some Criteria to Compare Fuzzy Information Systems  (M89/105) P. Gil, M.A. Gil, M.L. Menendez and L. Pardo
+The Effects of Perfect and Sample Information on Fuzzy Utilities in Decision-Making  (M89/104) M.A. Gil and P. Jain
+Comparison of Experiments in Decision Problems with Fuzzy Utilities. A Criterion Based on the Expected Value of Sample Information  (M89/103) M.A. Gil and P. Jain
+A Note on Zadeh's Probabilistic Definition  (M89/102) M.A. Gil
+Sufficiency and Fuzziness in Random Experiments  (M89/101) M.A. Gil
+Stability of a Class of Nonreciprocal Cellular Neural Networks  (M89/100) Leon O. Chua and T. Roska
+Approximate Tracking for Nonlinear Systems with Application to Flight Control  (M89/99) John E. Hauser
+Oxidation of Silicon in an ECR Oxygen Plasma: Kinetics, Physico-Chemical and Electrical Properties  (M89/98) D.A. Carl, D.W. Hess and Michael A. Lieberman
+Problems in the Control of Flexible Spacecrafts  (M89/97) Omer Morgül
+Control and Stabilization of Flexible Space Structures  (M89/96) John J. Anagnost
+Nonlinear Control Via Approximate Input-Output Linearization: The Ball and Beam Example  (M89/95) J. Hauser, S. Shankar Sastry and P. Kokotovic
+An E-Active Barrier Function Method for Solving Minimax Problems  (M89/94) J.E. Higgins and E. Polak
+Indirect Techniques for Adaptive Input Output Linearization of Nonlinear Systems  (M89/93) A. Teel, R. Kadiyala, P. Kokotovic and S. Shankar Sastry
+On the Extension of Newton's Method to Semi-Infinite Minimax Problems  (M89/92) Elijah Polak, D.Q. Mayne and J.E. Higgins
+Fuzzy Logic in Control Systems: Fuzzy Logic Controller-II  (M89/91) C-C. Lee
+Fuzzy Logic in Control Systems: Fuzzy Logic Controller-I  (M89/90) C-C. Lee
+Parallel Direct-Method Solution of a Sparse Linear System of Equations  (M89/89) A. Ghosh
+Consistency and Observability Invariance in Multi-Level Logic Synthesis  (M89/88) P. McGeer and Robert K. Brayton
+Extended Stuck-Fault Testability for Combinational Networks  (M89/87) R.C. McGeer, Robert K. Brayton, R.L. Rudell and Alberto L. Sangiovanni-Vincentelli
+Image Thinning with a Cellular Neural Network  (M89/86) T. Matsumoto, Leon O. Chua and T. Yokohama
+Multilevel Behavioral Verification for VLSI Design  (M89/85) Seung H. Hwang
+A Self-Learning Rule-Based Controller Employing Approximate Reasoning and Neural Net Concepts  (M89/84) C-C. Lee
+MARINER: A Sea of Gates Layout System  (M89/83) W.A. Christopher
+A Commentary on the POSTGRES Rules System  (M89/82) Michael Stonebraker, Marti Hearst and S. Potamianos
+GM: A New Gate Matrix Layout System  (M89/81) D-M. Xu
+Automatic Layout of Silicon-on-Silicon Hybrid Packages  (M89/80) M. Pedram
+Parametric Instabilities in the Discrete Sine-Gordon Equation  (M89/79) C.G. Goedde, Allan J. Lichtenberg and Michael A. Lieberman
+A Retargable Microcode Generator for the Lager Environment  (M89/78) M.F. Mar
+Asynchronous Dynamical Systems Part II: Non-Determinism and Realization  (M89/77) K. Inan
+Test Structures for N-Level Metal  (M89/76) D.M. Drako and D.E. Lyons
+Planar Multilevel Metallization Using Additive Pattern Transfer  (M89/75) D.E. Lyons
+An Elementary Proof of the Routh-Hurwitz Stability Criterion  (M89/74) J.J. Anagnost and Charles A. Desoer
+SCHEM: Parameterizable Schematic Entry System Using Automatic Symbol Generation  (M89/73) J.S. Min
+Extraction of Topography Dependent Electrical Characteristics From Process Simulation Using SIMPL, with Application to Planarization and Dense Interconnect Technologies  (M89/72) Edward W. Scheckler
+Simulation of Topography Scattering for Optical Lithography with the Connection Machine  (M89/71) J.K. Gamelin
+SPICE3 Implementation of a Non-Quasi-Static MOSFET Model with Level-2 DC Model  (M89/70) H.J. Park, P.K. Ko and Chenming Hu
+Separable Semantic Optimization  (M89/69) W. Hong and Eugene Wong
+Effects of Excimer Laser Radiation Properties on Condenser Illumination for Microlithography  (M89/68) W.N. Partlo
+An Integrated Graphical Environment for Operating IC Process Simulators  (M89/67) A.S. Wong
+CNN Cloning Template: Hole-Filler  (M89/66) T. Matsumoto, Leon O. Chua and R. Furukawa
+CNN Cloning Template: Connected Component Detector  (M89/65) T. Matsumoto, Leon O. Chua and H. Suzuki
+Factorization Approach to Nonlinear Feedback Systems  (M89/64) Charles A. Desoer and M.G. Kabuli
+Steady-State Methods for Simulating Analog Circuits  (M89/63) Kenneth S. Kundert
+An Empirical Study of Three Hardware Cache Consistency Schemes for Large Shared Memory Multiprocessors  (M89/62) B.W. O'Krafka
+Generalized Multi-Server Queueing Systems  (M89/61) N. Bambos and Jean Walrand
+Robotic Assembly and Hand Design  (M89/60) C.S. Sallaberger
+Asynchronous Dynamical Systems I  (M89/59) K. Inan
+MOLE - A New Template Based Router  (M89/58) A. Srinivasan
+Compile-Time Scheduling and Assignment of Dataflow Program Graphs with Data-Dependent Iteration  (M89/57) S. Ha and Edward A. Lee
+Distributed RAID - A New Multiple Copy Algorithm  (M89/56) Michael Stonebraker
+On the Linear Convergence of the Pshenichnyi Method of Linearizations  (M89/55) E.J. Wiest and Elijah Polak
+Zero Dynamics of Regularly Perturbed Systems are Singularly Perturbed  (M89/54) S. Shankar Sastry, J. Hauser and P. Kokotovic
+Canonical Realization of Chua's Circuit Family  (M89/53) Leon O. Chua and G-N. Lin
+Recurrences, Iteration, and Conditionals in Statically Scheduled Data Flow  (M89/52) Edward A. Lee
+Theoretical Aspect of Relaxation-Based and Nonlinear Frequency Domain Circuit Simulation  (M89/51) Tammy T.-C. Huang
+Algorithms for Multilevel Logic Optimization  (M89/50) Albert R. R. Wang
+Logic Synthesis for VLSI Design  (M89/49) Richard L. Rudell
+SPICE3 Distortion Analysis  (M89/48) J.S. Roychowdhury
+Benchmark Circuits: Results for SPICE3  (M89/47) T. Quarles
+SPICE3 Version 3C1 Users Guide  (M89/46) T. Quarles
+Adding Devices to SPICE3  (M89/45) T. Quarles
+The SPICE3 Implementation Guide  (M89/44) T. Quarles
+The Front End to Simulator Interface  (M89/43) T. Quarles
+Analysis of Performance and Convergence Issues for Circuit Simulation  (M89/42) Thomas L. Quarles
+SOVAR: Smart Memories for Out-of-Order Execution VLSI Architectures  (M89/41) Gregory A. Uvieghara
+Notes on Fundamentals of Optimization for Engineers  (M89/40) Elijah Polak
+FLIP: A Graphic User Interface for Management and Utilization of Facilities  (M89/39) A.C. West
+Secure Random Number Generation Using Chaotic Circuits  (M89/38) G.M. Bernstein and Michael A. Lieberman
+An Algorithm for Optimal Slewing of Flexible Structures  (M89/37) T.E. Baker and Elijah Polak
+BEAR Manual  (M89/36) W-M. Dai, M. Marek-Sadowska, B. Chen, M. Pedram and S. Solden
+Report on the 1989 Software CAD Databases Workshop  (M89/35) Lawrence A. Rowe
+Indexing Techniques for Historical Databases  (M89/34) C. Kolovson and Michael Stonebraker
+Design of a Finite Dimensional Stabilizing Compensator for a Flexible Beam with Point Actuators and Sensors  (M89/33) Y-P. Harn and Elijah Polak
+The Complete Canonical Piecewise-Linear Representation  (M89/32) C. Kahlert and Leon O. Chua
+Implementation of Algorithms for the Periodic-Steady-State Analysis  (M89/31) P.N. Ashar
+Model of Plasma Immersion Ion Implantation  (M89/30) Michael A. Lieberman
+Simulated Annealing: Theory and Applications to Layout Problems  (M89/29) Fabio I. Romeo
+Retiming and Resynthesis: Optimizing Sequential Networks with Combinational Techniques  (M89/28) S. Malik, E.M. Sentovich, Robert K. Brayton and Alberto L. Sangiovanni-Vincentelli
+Extraction of Topography Dependent Electrical Characteristics from Process Simulation Using SIMPL, with Application to Planarization and Dense Interconnect Technologies  (M89/27) E.W. Scheckler
+Ethernet on One Phone Line  (M89/26) Martin H. Graham
+Multiple Query Optimization Through State Transition and Decomposition  (M89/25) W. Hong and Eugene Wong
+High-Speed Data Transmission on Telephone Wires  (M89/24) Martin H. Graham
+A Divide-and-Conquer Algorithm for the Automatic Layout of Large Directed Graphs  (M89/23) E.B. Messinger, Lawrence A. Rowe and R.H. Henry
+Diffusion on Two Space and Time Scales  (M89/22) Allan J. Lichtenberg and B.P. Wood
+A Circuit Disassembly Technique for Synthesizing Symbolic Layouts from Mask Descriptions  (M89/21) B. Lin
+Charge-Sheet and Non-Quasi-Static MOSFET Models for SPICE  (M89/20) Hong J. Park
+A Unified Approach for the Control of Multifingered Robot Hands  (M89/19) Z. Li and S. Shankar Sastry
+Alternatives in Complex Object Representation: A Performance Perspective  (M89/18) A. Jhingran and Michael Stonebraker
+The Case for Partial Indexes  (M89/17) Michael Stonebraker
+Parallelism in XPRS  (M89/16) Michael Stonebraker, P. Aoki and M. Seltzer
+A Performance Study of Optimization Algorithms on a Database System Supporting Procedures  (M89/15) A. Jhingran
+Exact Nonlinear Attitude Control Laws for a Flexible Spacecraft  (M89/14) J.J. Anagnost and Charles A. Desoer
+Robot Motion Planning with Nonholonomic Constraints  (M89/13) Z. Li and John F. Canny
+On Motion Planning for Dexterous Manipulation, Part I: The Problem Formulation  (M89/12) Z. Li, John F. Canny and S. Shankar Sastry
+Design and Implementation of a Six Axis Robot Controller  (M89/11) G.B. Doshi
+Nonsmooth Optimization Algorithms for the Design of Controlled Flexible Structures  (M89/10) Elijah Polak
+Stochastic Neural Networks  (M89/9) Eugene Wong
+Exact Algorithms for Output Encoding, State Assignment and Four-Level Boolean Minimization  (M89/8) S. Devadas and A. Richard Newton
+A Unified Phase I-Phase II Method of Feasible Directions for Semi-Infinite Optimization  (M89/7) Elijah Polak and L. He
+On the Design of Finite Dimensional Stabilizing Compensators for Infinite Dimensional Feedback-Systems Via Semi-Infinite Optimization  (M89/6) P-Y. Harn and Elijah Polak
+Control and Stabilization of a Flexible Beam Attached to a Rigid Body  (M89/5) O. Morgul
+Modeling and Model Inversion Issues in a Nonlinear Automatic Flight Control System for the YAV-8B Harrier V/STOL Aircraft  (M89/4) J.F. Sifer and G. Meyer
+Control Experiments in Planar Manipulation and Grasping  (M89/3) R.M. Murray
+Accurate Timing Verification for Digital VLSI Designs  (M89/2) Young H. Kim
+Implementing Boltzmann Machines  (M90/1) Eugene Wong
+Optimization Techniques for Neural Networks  (M89/1) A.H. Kramer and Alberto L. Sangiovanni-Vincentelli

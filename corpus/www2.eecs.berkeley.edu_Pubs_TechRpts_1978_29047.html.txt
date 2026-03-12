@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29047.html
+On the Capability of Finite Automata in 2 and 3 Dimensional Space | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Capability of Finite Automata in 2 and 3 Dimensional Space
+On the Capability of Finite Automata in 2 and 3 Dimensional Space
+Manuel Blum and William J. Sakoda
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/35
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-35.pdf
+BibTeX citation:
+@techreport{Blum:M78/35,
+Author = {Blum, Manuel and Sakoda, William J.},
+Title = {On the Capability of Finite Automata in 2 and 3 Dimensional Space},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29047.html},
+Number = {UCB/ERL M78/35}
+}
+EndNote citation:
+%0 Report
+%A Blum, Manuel
+%A Sakoda, William J.
+%T On the Capability of Finite Automata in 2 and 3 Dimensional Space
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29047.html
+%F Blum:M78/35

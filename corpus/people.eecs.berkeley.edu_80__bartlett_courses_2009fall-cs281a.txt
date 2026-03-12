@@ -1,0 +1,242 @@
+URL: http://people.eecs.berkeley.edu:80/~bartlett/courses/2009fall-cs281a
+CS 281A / Stat 241A Fall 2009
+CS 281A / Stat 241A, Fall 2009:
+Statistical Learning Theory
+Announcements:
+Tue Dec 1:
+Peter Bartlett's office hours tomorrow (Wed, Nov 25) will be in 723 SD
+Hall.
+There will be no discussion section tomorrow (Wed, Dec 2).
+Tue Nov 24:
+The poster session on Tue Dec 1 will be in Soda 306.
+The poster session on Thu Dec 3 will be in Soda 430 (the Woz Lounge).
+If you can bring your poster on a poster board, it will make it easier
+to display (particularly for posters in the session on Thursday).
+There will be no discussion sections tomorrow (Wed, Nov 25) or next
+week (Wed, Dec 2).
+Peter Bartlett's office hours tomorrow (Wed, Nov 25) will be in 723 SD
+Hall.
+Mon Nov 23:
+The poster sessions on Tue Dec 1 and Thu Dec 3 will be in the usual
+lecture time slot (11-12:30).
+It will be just like a poster presentation at
+a conference: If you are presenting a poster, you will need to stick
+your poster up on a wall somewhere (we'll have materials to do that),
+stand beside it, and answer any questions that come up as others wander
+by and look at it. It's common to offer to give a brief overview
+of the material presented in your poster, so be prepared to do
+that. Remember it should be brief - each person will be spending
+only a small fraction (approx two minutes) of the poster session in
+front of your poster.
+If you are enrolled in Stat 241A, you will present your poster in the
+session on Tuesday, December 1.
+If you are enrolled in CS 281A, you will present it in the session on
+Thursday, December 3.
+If you cannot present your poster
+on the assigned day, please arrange to swap with someone in the other
+session and send me an email describing the swap.
+For joint projects with both course codes represented, choose a
+day and email me letting me know.
+The project report is due at 5pm on Friday December 4 (note the
+extension). Please submit the report (in hard copy) to the box
+outside 723 SD Hall. This deadline is firm; reports submitted after
+5pm on December 4 will not be accepted.
+Sun Oct 11:
+The project proposal is due on Friday, October 30.
+Information on projects is available: [ Projects ]
+Tue Sep 22:
+Chapter 16 is available  here . Username/password as
+given in class.
+Fri Sep 11:
+If you need a computer account for this course, please follow the
+instructions  here
+(if you're enrolled in CS 281A), or contact Joe Neeman by Sep 21 (if you're
+enrolled in Stat 241A).
+Mon Aug 31:
+A  Google
+discussion group  has been set up. Feel free to use it for
+discussions of the text, lectures, homeworks, projects, requests for
+discussion session review topics - anything about the course. Office
+hours start on Tue Sep 1. The discussion section starts on Thu Sep 3.
+People
+Office
+hours
+Professor
+Peter Bartlett
+bartlett@cs
+Tue 3-4, 723 Sutardja Dai.
+Wed 3-4, 399 Evans.
+GSIs
+Alekh Agarwal
+alekh@cs
+Tue, Thu 4-5, Soda 6th floor
+alcove.
+Joe Neeman
+joeneeman@gmail
+Mon, Tue 5-6, Evans 387.
+Lectures:  Soda 306. Tuesday/Thursday 11-12:30.
+Discussion section:  Wed 5-6, Evans 332.
+Course description
+This course will provide an introduction to probabilistic and
+computational methods for the statistical modeling of complex,
+multivariate data. It will concentrate on graphical models, a flexible
+and powerful approach to capturing statistical dependencies in
+complex, multivariate data. In particular, the course will focus on
+the key theoretical and methodological issues of
+representation, estimation, and inference.
+[ More
+details ]
+Prerequisites:
+Previous coursework in linear algebra,
+multivariate calculus, basic probability, statistics, and algorithms.
+Previous coursework in graph theory, information theory, and
+optimization theory would be helpful but is not required.
+Familiarity with a matrix-oriented programming language (such as
+numpy, R, Splus, or Matlab) will be necessary.
+Text book:
+An
+Introduction to Probabilistic Graphical Models , by Michael I.
+Jordan, which is available as a reader from Copy Central
+at 2483 Hearst Avenue. (Ask for the CS C281A reader).
+For an introduction, see the review paper  Michael
+I. Jordan,  Graphical models.
+.
+Google
+discussion group
+Assignments:
+There will be a substantial project (40% of the grade),
+plus regular homework assignments
+(60% of the grade; approximately one every two weeks).
+It is appropriate to discuss homework assignments with other students,
+but homeworks must be written up individually. If you discuss the
+assignment with other students, please list their names on
+your homework. See the
+policy
+on academic dishonesty .
+A late homework will have its grade reduced by 33.3% for each late
+day.
+Homework 1, due 5pm, Tuesday September 15:
+homework1.pdf
+solution1.pdf
+Homework 2, due 5pm, Wednesday September 30:
+homework2.pdf
+hw2.data
+solution2.pdf
+Homework 3, due 5pm, Friday October 16.
+homework3.pdf
+hw3-2.data
+hw3-3.data
+solution3.pdf
+Homework 4, due 5pm, Friday October 30.
+homework4.pdf (typo corrected, 10/26)
+hw4-2.data
+hw4-2.test
+hw4-3.data (for question 3)
+solution4.pdf
+Homework 5, due 5pm, Monday November 16.
+homework5.pdf
+hw5-1.data
+hw5-1.true
+solution5.pdf
+Project proposal: 1 to 2 paragraphs, due
+midnight, Friday, October 30.
+(Email preferred.)
+Project report due 5pm, Friday December 4.
+Lectures:
+The chapter numbers under 'Reading' refer to the text
+An
+Introduction to Probabilistic Graphical Models , Michael I.
+Jordan.
+Topic
+Reading
+Aug 27
+Introduction; directed graphical models
+1, 2.1
+Sep 1
+directed graphical models
+2.1
+Sep 3
+undirected graphical models. Eliminate
+2.2, 2.3, 3
+Sep 8
+Inference and chordal graphs
+3,  Notes on chordal graphs , 4.1
+Sep 10
+Factor graphs. Inference in factor trees.
+4.2, 4.3
+Sep 15
+Parameter estimation
+5, 6.3
+Sep 17
+Linear regression. Generative and discriminative classification.
+6.4, 7.1, 7.2
+Sep 22
+Logistic regression. Exponential family.
+7.3, 8.1
+Sep 24
+Exponential family. Generalized Linear Models
+8.1, 8.2, 8.4
+Sep 29
+Estimation in Completely Observed Graphical Models
+9,
+Notes on chordal graphs
+Oct 1
+IPF. Maximum likelihood. Maximum entropy
+9, Variational Inference chapter
+Oct 6
+IPF as I-projection. Generalized iterative scaling.
+9, Variational Inference chapter
+Oct 8
+EM - Alekh Agarwal
+10, 11
+Oct 13
+EM - Joe Neeman
+11
+Oct 15
+HMMs - Alekh Agarwal
+12
+Oct 22
+Multivariate Gaussians. Factor Analysis.
+13, 14.
+slides
+Oct 27
+Factor Analysis. State Space Models
+14, 15.
+vec
+notes
+slides
+Oct 29
+State Space Models. Kalman Filter.
+15.
+slides
+Nov 3
+Junction Tree Algorithm
+17.
+slides
+Nov 5
+Junction Tree in Trees, HMMs, SSMs
+18
+slides
+Nov 10
+Monte Carlo Methods
+slides
+Nov 12
+Monte Carlo Methods
+slides
+Nov 19
+Variational Methods
+Variational Inference chapter
+slides
+Nov 24
+Variational Methods
+Variational Inference chapter
+slides
+Nov 26
+Thanksgiving
+Dec 1
+Project Poster Session: Stat 241A
+In 306 Soda.
+Dec 3
+Project Poster Session CS 281A
+In 430 Soda (Woz Lounge).
+Last update: Tue Nov 24 12:55:54 PST 2009

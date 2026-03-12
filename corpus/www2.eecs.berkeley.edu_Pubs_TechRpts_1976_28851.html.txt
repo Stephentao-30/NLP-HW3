@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28851.html
+A New Shortest Path Unating Algorithm | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A New Shortest Path Unating Algorithm
+A New Shortest Path Unating Algorithm
+S. Goto and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M588
+May 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-588.pdf
+BibTeX citation:
+@techreport{Goto:M588,
+Author = {Goto, S. and Sangiovanni-Vincentelli, A.},
+Title = {A New Shortest Path Unating Algorithm},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28851.html},
+Number = {UCB/ERL M588}
+}
+EndNote citation:
+%0 Report
+%A Goto, S.
+%A Sangiovanni-Vincentelli, A.
+%T A New Shortest Path Unating Algorithm
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M588
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28851.html
+%F Goto:M588

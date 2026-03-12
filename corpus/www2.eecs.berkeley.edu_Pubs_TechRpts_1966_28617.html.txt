@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28617.html
+Biochemical Memory
+J.R. Steinhart
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M192
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-192.pdf
+BibTeX citation:
+@techreport{Steinhart:M192,
+Author= {Steinhart, J.R.},
+Title= {Biochemical Memory},
+Year= {1966},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28617.html},
+Number= {UCB/ERL M192},
+}
+EndNote citation:
+%0 Report
+%A Steinhart, J.R.
+%T Biochemical Memory
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M192
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28617.html
+%F Steinhart:M192

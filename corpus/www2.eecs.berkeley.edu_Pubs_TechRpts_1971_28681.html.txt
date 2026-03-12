@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28681.html
+On the Rate of Convergence of Certain Methods of Centers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Rate of Convergence of Certain Methods of Centers
+On the Rate of Convergence of Certain Methods of Centers
+O. Pironneau and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M296
+February 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-296.pdf
+BibTeX citation:
+@techreport{Pironneau:M296,
+Author = {Pironneau, O. and Polak, E.},
+Title = {On the Rate of Convergence of Certain Methods of Centers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28681.html},
+Number = {UCB/ERL M296}
+}
+EndNote citation:
+%0 Report
+%A Pironneau, O.
+%A Polak, E.
+%T On the Rate of Convergence of Certain Methods of Centers
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M296
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28681.html
+%F Pironneau:M296

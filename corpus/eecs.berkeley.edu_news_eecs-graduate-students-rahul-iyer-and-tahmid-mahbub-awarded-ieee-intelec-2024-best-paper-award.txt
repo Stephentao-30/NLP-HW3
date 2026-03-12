@@ -1,0 +1,14 @@
+URL: https://eecs.berkeley.edu/news/eecs-graduate-students-rahul-iyer-and-tahmid-mahbub-awarded-ieee-intelec-2024-best-paper-award
+EECS graduate students Rahul Iyer and Tahmid Mahbub awarded IEEE INTELEC-2024 Best Paper Award - EECS at Berkeley
+EECS graduate students Rahul Iyer and Tahmid Mahbub have received the prestigious IEEE INTELEC-2024 Best Paper Award for their innovative work on energy systems in communications.
+The IEEE International Communications Energy Conference (INTELEC) 2024 is a leading forum dedicated to the technical and informational exchange on energy systems for communications, covering areas such as power conversion, distribution, energy storage, renewable generation, and transportation electrification.
+Iyer and Mahbub’s award-winning work, conducted in the  Pilawa Research Group , focuses on the design of “active-balancing” controllers for high-performance Flying Capacitor Multilevel (FCML) converters. These controllers ensure safe operation during system transients by stabilizing converter dynamics and designing high-bandwidth controllers. The paper specifically addresses techniques to maintain stable converter operation at low load currents, a critical challenge in power conversion.
+Unlike previous approaches that rely on Phase-Shifted Pulse-Width Modulation, their proposed switching scheme enables active balancing even when average load currents approach zero. Their presentation at IEEE INTELEC 2024 highlighted these new switching and control methods, demonstrating their practical implementation on industry-standard digital signal processor hardware.
+Categories
+publications
+Research
+Students
+Related Links
+IEEE INTELEC 2024
+View
+Open Faculty Positions

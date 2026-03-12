@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28486.html
+Modal Analysis of Synchronous Machine Dynamics
+M.K. Inan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/65
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-65.pdf
+BibTeX citation:
+@techreport{Inan:M81/65,
+Author= {Inan, M.K.},
+Title= {Modal Analysis of Synchronous Machine Dynamics},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28486.html},
+Number= {UCB/ERL M81/65},
+}
+EndNote citation:
+%0 Report
+%A Inan, M.K.
+%T Modal Analysis of Synchronous Machine Dynamics
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28486.html
+%F Inan:M81/65

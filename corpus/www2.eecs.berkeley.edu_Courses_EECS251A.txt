@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS251A
+EECS 251A. Introduction to Digital Design and Integrated Circuits
+Catalog Description:  An introduction to digital circuit and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The class includes extensive use of industrial grade design automation and verification tools for assignments, labs, and projects.
+Units:  3
+Related Areas:
+Computer Architecture & Engineering (ARC)
+Course Objectives:  The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.
+Student Learning Outcomes:  Although the syllabus is the same as EECS151, the assignments and exams for EECS251A will have harder problems that test deeper understanding expected from a graduate level course.
+Prerequisites:  EECS 16A and EECS 16B; COMPSCI 61C; and recommended: EL ENG 105. Students must enroll concurrently in at least one the laboratory flavors EECS 251LA or EECS 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The prerequisite for “Lab-only” enrollment that term will be EECS 251A from previous terms.
+Credit Restrictions:  Students must enroll concurrently in at least one the laboratory flavors Electrical Engineering and Computer Science 251LA or Electrical Engineering and Computer Science 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The pre-requisite for “Lab-only” enrollment that term will be Electrical Engineering and Computer Science 251A from previous terms.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+EECS 151/251A –                TuTh 12:30-13:59, Soda 306 –
+Borivoje Nikolic ,  Sagar Karandikar Class Notes
+***READ THIS CAREFULLY***
+Enrollment in the 151/251A lecture and discussion is dependant on being in either the 151LA/251LA or 151LB/251LB. You MUST be in one of these labs to take the lecture.
+Students should add to the waitlist, and during the adjustment period we will enroll everyone is had a confirmed lab enrollment.
+*To waitlist in this class, select the lecture and the 999 (placeholder) discussion section. Assignment to the actual sections will be managed by teaching staff.*
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

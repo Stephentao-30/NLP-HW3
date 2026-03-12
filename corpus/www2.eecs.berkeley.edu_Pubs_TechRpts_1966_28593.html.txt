@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28593.html
+Constant Resistance One-Ports Which Include Nonlinear Time-Varying Elements
+C.A. Desoer and K.K. Wong
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M158
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-158.pdf
+BibTeX citation:
+@techreport{Desoer:M158,
+Author= {Desoer, C.A. and Wong, K.K.},
+Title= {Constant Resistance One-Ports Which Include Nonlinear Time-Varying Elements},
+Year= {1966},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28593.html},
+Number= {UCB/ERL M158},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wong, K.K.
+%T Constant Resistance One-Ports Which Include Nonlinear Time-Varying Elements
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M158
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28593.html
+%F Desoer:M158

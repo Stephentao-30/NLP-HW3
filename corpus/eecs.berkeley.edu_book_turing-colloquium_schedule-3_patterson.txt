@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/book/turing-colloquium/schedule-3/patterson
+A New Golden Age for Computer Architecture - EECS at Berkeley
+A New Golden Age for Computer Architecture
+Berkeley ACM A.M. Turing Laureate Colloquium
+David Patterson
+Wednesday, October 10, 2018
+Banatao Auditorium, Sutardja Dai Hall  4:00 – 5:00 pm
+This lecture will be livestreamed in 306 Soda Hall and at https://www.youtube.com/citris/live
+Abstract
+In the 1980s, Mead and Conway democratized chip design and high-level language programming surpassed assembly language programming, which made instruction set advances viable. Innovations like Reduced Instruction Set Computers (RISC), superscalar, and speculation ushered in a Golden Age of computer architecture, when performance doubled every 18 months.  The ending of Dennard Scaling and Moore’s Law crippled this path; microprocessor performance improved only 3% last year! In addition to poor performance gains, Spectre recently demonstrated timing attacks on modern microprocessors that leak information at high rates.
+The ending of Dennard scaling and Moore’s law and the deceleration of performance gains for standard microprocessors are not problems that must be solved but facts that if accepted offer breathtaking opportunities.  We believe high-level, domain-specific languages and architectures, freeing architects from the chains of proprietary instruction sets, and the demand from the public for improved security will usher in a new Golden Age for computer architecture. Aided by open source ecosystems, agilely developed chips will convincingly demonstrate advances and thereby accelerate commercial adoption. The instruction set philosophy of the general-purpose processors in these chips will likely be RISC, which has stood the test of time. We envision the same rapid improvement as in the last Golden Age, but this time in cost, energy, and security as well as in performance.
+Like the 1980s, the next decade will be exciting for computer architects in academia and in industry!
+Biography
+David Patterson is the Pardee Professor Emeritus of Computer Science at the University of California at Berkeley, which he joined after graduating from UCLA in 1976.  His research style is to identify critical questions for the IT industry and gather inter-disciplinary groups of faculty and graduate students to answer them. The answer is typically embodied in demonstration systems, and these demonstration systems are later mirrored in commercial products. From 1982 to 1983, Patterson led the RISC project, a collaboration between UC Berkeley and the ARPA VLSI program. This project became the foundation of the highly influential SPARC micro-architecture from Sun Microsystems and has had wide influence across the field of computer design.  Between 1989 and 1993, Patterson and Berkeley colleague Randy Katz led the Redundant Arrays of Inexpensive Disks (RAID) project, which resulted in vast improvements in disk system speed and reliability. Nearly every web server in the world now uses some form of RAID.  Patterson won the ACM A.M. Turing Award in 2017 with John Hennessey.  He was made an ACM Fellow in 1994 and served as its president from 2004 to 2006. He is also a fellow of the IEEE Computer Society, and a member of the National Academy of Engineering, the National Academy of Sciences, and the American Academy of Arts and Sciences.
+Video of Presentation
+Video of Interview
+< From Basic Idea to Impact: the story of modern cryptography
+Proofs, Knowledge, and Computation >
+View
+Open Faculty Positions

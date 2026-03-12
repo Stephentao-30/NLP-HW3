@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29017.html
+Cancellations in Multivariable Continuous-Time and Discrete-Time Feedback Systems
+C.A. Desoer and J.D. Schulman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M346
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-346.pdf
+BibTeX citation:
+@techreport{Desoer:M346,
+Author= {Desoer, C.A. and Schulman, J.D.},
+Title= {Cancellations in Multivariable Continuous-Time and Discrete-Time Feedback Systems},
+Year= {1972},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29017.html},
+Number= {UCB/ERL M346},
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Schulman, J.D.
+%T Cancellations in Multivariable Continuous-Time and Discrete-Time Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M346
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29017.html
+%F Desoer:M346

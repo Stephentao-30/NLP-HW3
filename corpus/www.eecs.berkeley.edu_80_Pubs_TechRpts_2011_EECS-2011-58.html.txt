@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-58.html
+Cryptographic Techniques for Privacy Preserving Identity
+John Bethencourt
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-58
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-58.pdf
+Advisors:  Dawn Song
+BibTeX citation:
+@phdthesis{Bethencourt:EECS-2011-58,
+Author= {Bethencourt, John},
+Title= {Cryptographic Techniques for Privacy Preserving Identity},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-58.html},
+Number= {UCB/EECS-2011-58},
+}
+EndNote citation:
+%0 Thesis
+%A Bethencourt, John
+%T Cryptographic Techniques for Privacy Preserving Identity
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-58.html
+%F Bethencourt:EECS-2011-58

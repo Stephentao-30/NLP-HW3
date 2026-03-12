@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-134.html
+Synthesis for Human-in-the-Loop Control Systems
+Wenchao Li and Dorsa Sadigh and S. Shankar Sastry and Sanjit A. Seshia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-134
+July 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-134.pdf
+Several control systems in safety-critical applications involve the interaction of an autonomous controller with one or more human operators. Examples include pilots interacting with an autopilot system in an aircraft, and a driver interacting with automated driver-assistance features in an automobile. The correctness of such systems depends not only on the autonomous controller, but also on the actions of the human controller. In this paper, we present a formalism for human-in-the-loop control systems. Particularly, we focus on the problem of synthesizing a semi-autonomous controller from high-level temporal specifications that expect occasional human intervention for correct operation. We present an algorithm for this problem, and demonstrate its operation on problems related to driver assistance in automobiles.
+BibTeX citation:
+@techreport{Li:EECS-2013-134,
+Author= {Li, Wenchao and Sadigh, Dorsa and Sastry, S. Shankar and Seshia, Sanjit A.},
+Title= {Synthesis for Human-in-the-Loop Control Systems},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-134.html},
+Number= {UCB/EECS-2013-134},
+Abstract= {Several control systems in safety-critical applications involve the interaction of an autonomous controller with one or more human operators. Examples include pilots interacting with an autopilot system in an aircraft, and a driver interacting with automated driver-assistance features in an automobile. The correctness of such systems depends not only on the autonomous controller, but also on the actions of the human controller. In this paper, we present a formalism for human-in-the-loop control systems. Particularly, we focus on the problem of synthesizing a semi-autonomous controller from high-level temporal specifications that expect occasional human intervention for correct operation. We present an algorithm for this problem, and demonstrate its operation on problems related to driver assistance in automobiles.},
+}
+EndNote citation:
+%0 Report
+%A Li, Wenchao
+%A Sadigh, Dorsa
+%A Sastry, S. Shankar
+%A Seshia, Sanjit A.
+%T Synthesis for Human-in-the-Loop Control Systems
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 17
+%@ UCB/EECS-2013-134
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-134.html
+%F Li:EECS-2013-134

@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/EDUC
+Education (EDUC)
+Overview
+We are interested both in computer science education and in the use of computing devices in education generally (K-12 and college level).  The use of case studies in teaching programming was pioneered here.  Current research interests include MOOCs, autograding, CS 0-level curriculum, equity and inclusion, and K-12 teacher preparation in computer science.
+Topics
+CS 0, equity and inclusion
+Our course for non-majors, "The Beauty and Joy of Computing" (CS 10), is a leading curriculum for "CS Principles," the nationwide framework that will inform a new computer science AP test in 2017.  The course combines programming at a rigorous level (including recursion and higher order functions) with a focus on connecting computation with social applications and social issues.  The course uses Snap!, a visual programming language based on Scratch but extended with visual metaphors for recursion and higher order functions, making these topics much more approachable than in the past.  Our goal is to attract and retain nontraditional CS students through the social content of the course; at Berkeley, the enrollment of CS 10 is half women.
+K-12 teacher preparation
+Since 2011 we have been holding workshops for high school teachers, introducing them to our "Beauty and Joy of Computing" curriculum.  We are learning how to improve retention rates (so that the teachers actually teach the curriculum at their schools), how to develop teachers' skills both with the technical lab material and with discussion of social issues, and how to support equity and inclusion both among the participants and among their students.  In 2015-18 we are partnering with the New York City Department of Education, Education Development Center, and the New York Foundation for Computer Science Education to bring BJC workshops to 100 New York public high school teachers, support them during the school year, and develop new, more teacher-friendly curriculum materials.
+MOOC-based research in online education
+MOOCs are an exciting research area because of a three-way tension: the promise of richness because of scale, the challenge of delivering a high quality learning experience despite scale, and the reach and immediacy of software-as-a-service for both conducting experimental research and deploying best practices.  We are working on a variety of projects at the intersection of education, human-computer interaction, machine learning, and software systems, both to do new research facilitated by MOOCs and to bring the benefits of that work to campus courses.  Link to learn more:  http://www.armandofox.com/online-education
+Research Centers
+Algorithms and Computing for Education
+Berkeley Institute of Design
+Faculty
+Primary
+Michael Ball
+Armando Fox  (coordinator)
+Dan Garcia
+Marti Hearst
+Joshua Hug
+Narges Norouzi
+Kay Ousterhout
+Manuel Sabin
+Lisa Yan
+Secondary
+Babak Ayazifar
+John DeNero
+Brian Harvey
+Gireeja Ranade
+Faculty Awards
+UC Berkeley Distinguished Teaching Award:
+Dan Garcia, 2025.
+Joshua Hug, 2023.
+John DeNero, 2018.
+Brian Harvey, 1995.
+Related Courses
+CS 10. The Beauty and Joy of Computing
+CS 302. Designing Computer Science Education
+CS 375. Teaching Techniques for Computer Science

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7529.html
+Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems
+Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems
+Jehan-Francois L. J. Paris
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/44
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-44.pdf
+Advisor:  Domenico Ferrari
+BibTeX citation:
+@phdthesis{Paris:M81/44,
+Author = {Paris, Jehan-Francois L. J.},
+Title = {Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7529.html},
+Number = {UCB/ERL M81/44}
+}
+EndNote citation:
+%0 Thesis
+%A Paris, Jehan-Francois L. J.
+%T Application of Restructuring Techniques to the Optimization of Program Behavior in Virtual Memory Systems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/44
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7529.html
+%F Paris:M81/44

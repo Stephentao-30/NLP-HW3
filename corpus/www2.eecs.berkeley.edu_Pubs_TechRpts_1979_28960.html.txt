@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28960.html
+A Simple Dynamic Routing Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Simple Dynamic Routing Problem
+A Simple Dynamic Routing Problem
+A. Ephremides, P. Varaiya and J. Walrand
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/37
+May 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-37.pdf
+BibTeX citation:
+@techreport{Ephremides:M79/37,
+Author = {Ephremides, A. and Varaiya, P. and Walrand, J.},
+Title = {A Simple Dynamic Routing Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28960.html},
+Number = {UCB/ERL M79/37}
+}
+EndNote citation:
+%0 Report
+%A Ephremides, A.
+%A Varaiya, P.
+%A Walrand, J.
+%T A Simple Dynamic Routing Problem
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/37
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28960.html
+%F Ephremides:M79/37

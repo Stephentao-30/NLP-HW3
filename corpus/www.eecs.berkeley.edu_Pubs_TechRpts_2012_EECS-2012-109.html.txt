@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-109.html
+A Multimodal Approach to Automatic Geo-Tagging of Video
+Jaeyoung Choi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-109
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-109.pdf
+Geo-tags provide an essential support for organizing and retrieving the rapidly growing online video contents captured by users and shared online.
+Videos present an unique opportunity for automatic geo-tagging as they combine multiple information sources, i.e., textual metadata, visual and audio cues.
+This report highlights various approaches (data-driven, semantic technology-based, and graphical model-based) to predict the geo-location of online videos.
+The algorithms make use of each or combinations of textual, visual and audio information sources. All experiments were performed with a geo-coordinate prediction benchmarking corpus containing 10,438 videos. The performance of these algorithm is analyzed, revealing that the textual metadata is particularly more useful than visual or audio contents, but the combination of multiple cues shows better overall performance. The report concludes with a discussion of the impact that the improvement of geo-coordinate prediction will have and the challenges that remain open for future research.
+Advisors:  Nelson Morgan
+BibTeX citation:
+@mastersthesis{Choi:EECS-2012-109,
+Author= {Choi, Jaeyoung},
+Title= {A Multimodal Approach to Automatic Geo-Tagging of Video},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-109.html},
+Number= {UCB/EECS-2012-109},
+Abstract= {Geo-tags provide an essential support for organizing and retrieving the rapidly growing online video contents captured by users and shared online.
+Videos present an unique opportunity for automatic geo-tagging as they combine multiple information sources, i.e., textual metadata, visual and audio cues.
+This report highlights various approaches (data-driven, semantic technology-based, and graphical model-based) to predict the geo-location of online videos.
+The algorithms make use of each or combinations of textual, visual and audio information sources. All experiments were performed with a geo-coordinate prediction benchmarking corpus containing 10,438 videos. The performance of these algorithm is analyzed, revealing that the textual metadata is particularly more useful than visual or audio contents, but the combination of multiple cues shows better overall performance. The report concludes with a discussion of the impact that the improvement of geo-coordinate prediction will have and the challenges that remain open for future research.},
+}
+EndNote citation:
+%0 Thesis
+%A Choi, Jaeyoung
+%T A Multimodal Approach to Automatic Geo-Tagging of Video
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-109
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-109.html
+%F Choi:EECS-2012-109

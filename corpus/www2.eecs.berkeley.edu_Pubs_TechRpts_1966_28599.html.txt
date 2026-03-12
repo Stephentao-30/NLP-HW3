@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28599.html
+Structure and Properties of Liquid Water
+M. Orentlicher and P.O. Vogelhut
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M165
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-165.pdf
+BibTeX citation:
+@techreport{Orentlicher:M165,
+Author= {Orentlicher, M. and Vogelhut, P.O.},
+Title= {Structure and Properties of Liquid Water},
+Year= {1966},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28599.html},
+Number= {UCB/ERL M165},
+}
+EndNote citation:
+%0 Report
+%A Orentlicher, M.
+%A Vogelhut, P.O.
+%T Structure and Properties of Liquid Water
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M165
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28599.html
+%F Orentlicher:M165

@@ -1,0 +1,36 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-4.html
+Register everyone: on the whitespace use of wireless microphone channels, channel 37, and the soon-to-be guard bands
+Kate Harrison and Anant Sahai
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-4
+January 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-4.pdf
+This report is intended as a response to some of the questions posed by the FCC regarding the upcoming TV-band incentive auction, given in their NPRM, as they relate to the television whitespaces.
+In particular, we argue (1) that channel 37 should be made available for whitespace use; (2) that the channels reserved for wireless microphones should be reserved on an as-used basis only; and (3) that the guard bands which will be created via the incentive auction must be considered as database-registration-requiring whitespace if unlicensed devices are authorized to use them.
+These three proposals have two common themes: (1) they each work toward the goal of making otherwise-wasted spectrum available as whitespace; and (2) in each case, the key concept is that the involved parties can (and in some cases must) register their devices and use geolocation of some sort.
+We will sketch each of our proposals and show how together they can make whitespace available for up to 10 million more Americans with minimal overhead while ensuring that licensed users receive the quality of service that they expect. As a result, essentially no one would be left without whitespace access.
+BibTeX citation:
+@techreport{Harrison:EECS-2013-4,
+Author= {Harrison, Kate and Sahai, Anant},
+Title= {Register everyone: on the whitespace use of wireless microphone channels, channel 37, and the soon-to-be guard bands},
+Year= {2013},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-4.html},
+Number= {UCB/EECS-2013-4},
+Abstract= {This report is intended as a response to some of the questions posed by the FCC regarding the upcoming TV-band incentive auction, given in their NPRM, as they relate to the television whitespaces.
+In particular, we argue (1) that channel 37 should be made available for whitespace use; (2) that the channels reserved for wireless microphones should be reserved on an as-used basis only; and (3) that the guard bands which will be created via the incentive auction must be considered as database-registration-requiring whitespace if unlicensed devices are authorized to use them.
+These three proposals have two common themes: (1) they each work toward the goal of making otherwise-wasted spectrum available as whitespace; and (2) in each case, the key concept is that the involved parties can (and in some cases must) register their devices and use geolocation of some sort.
+We will sketch each of our proposals and show how together they can make whitespace available for up to 10 million more Americans with minimal overhead while ensuring that licensed users receive the quality of service that they expect. As a result, essentially no one would be left without whitespace access.},
+}
+EndNote citation:
+%0 Report
+%A Harrison, Kate
+%A Sahai, Anant
+%T Register everyone: on the whitespace use of wireless microphone channels, channel 37, and the soon-to-be guard bands
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 January 25
+%@ UCB/EECS-2013-4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-4.html
+%F Harrison:EECS-2013-4

@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-240.html
+Compensation for Camera Motion on Unsteady Robots for Optical Flow
+Fernando L. Garcia Bermudez
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-240
+December 20,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-240.pdf
+Some modes of locomotion, such as legged walking and flapping flight, are inherently unsteady due to the cyclic interaction of the subject’s limbs with a changing and largely unmodelled environment. Bio-inspired robots that locomote this way, present a unique chal- lenge to indoor navigation because the sensors used for exteroception record this unsteadiness in their readings. A legged crawler’s unsteady dynamics are explored with an emphasis on how these affect optical flow estimation, which mediates navigation. A triaxial gyroscope is sampled concurrently with the on-board video and is used to disambiguate the motion estimates through image derotation. The optical flow algorithm’s gains are further tuned using policy gradient reinforcement learning so as to improve motion estimation for specific unsteady regimes. This approach is demonstrated in an obstacle avoidance scenario.
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Garcia Bermudez:EECS-2013-240,
+Author= {Garcia Bermudez, Fernando L.},
+Title= {Compensation for Camera Motion on Unsteady Robots for Optical Flow},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-240.html},
+Number= {UCB/EECS-2013-240},
+Abstract= {Some modes of locomotion, such as legged walking and flapping flight, are inherently unsteady due to the cyclic interaction of the subject’s limbs with a changing and largely unmodelled environment. Bio-inspired robots that locomote this way, present a unique chal- lenge to indoor navigation because the sensors used for exteroception record this unsteadiness in their readings. A legged crawler’s unsteady dynamics are explored with an emphasis on how these affect optical flow estimation, which mediates navigation. A triaxial gyroscope is sampled concurrently with the on-board video and is used to disambiguate the motion estimates through image derotation. The optical flow algorithm’s gains are further tuned using policy gradient reinforcement learning so as to improve motion estimation for specific unsteady regimes. This approach is demonstrated in an obstacle avoidance scenario.},
+}
+EndNote citation:
+%0 Thesis
+%A Garcia Bermudez, Fernando L.
+%T Compensation for Camera Motion on Unsteady Robots for Optical Flow
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 20
+%@ UCB/EECS-2013-240
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-240.html
+%F Garcia Bermudez:EECS-2013-240

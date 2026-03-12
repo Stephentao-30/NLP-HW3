@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28393.html
+System Transformations and the Popov Stability Criterion
+A.R. Bergen and M.A. Sapiro
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M144
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-144.pdf
+BibTeX citation:
+@techreport{Bergen:M144,
+Author= {Bergen, A.R. and Sapiro, M.A.},
+Title= {System Transformations and the Popov Stability Criterion},
+Year= {1966},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28393.html},
+Number= {UCB/ERL M144},
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Sapiro, M.A.
+%T System Transformations and the Popov Stability Criterion
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M144
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28393.html
+%F Bergen:M144

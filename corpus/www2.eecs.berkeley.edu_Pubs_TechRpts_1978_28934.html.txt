@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28934.html
+An Algorithm for Minimum Partitioning of a Transversal Matroid | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Minimum Partitioning of a Transversal Matroid
+An Algorithm for Minimum Partitioning of a Transversal Matroid
+Susumu Sasabe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/36
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-36.pdf
+BibTeX citation:
+@techreport{Sasabe:M78/36,
+Author = {Sasabe, Susumu},
+Title = {An Algorithm for Minimum Partitioning of a Transversal Matroid},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28934.html},
+Number = {UCB/ERL M78/36}
+}
+EndNote citation:
+%0 Report
+%A Sasabe, Susumu
+%T An Algorithm for Minimum Partitioning of a Transversal Matroid
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/36
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28934.html
+%F Sasabe:M78/36

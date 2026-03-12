@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28816.html
+A Fast Matrix Inversion Algorithm | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Fast Matrix Inversion Algorithm
+A Fast Matrix Inversion Algorithm
+L. Csanky
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M521
+May 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-521.pdf
+BibTeX citation:
+@techreport{Csanky:M521,
+Author = {Csanky, L.},
+Title = {A Fast Matrix Inversion Algorithm},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28816.html},
+Number = {UCB/ERL M521}
+}
+EndNote citation:
+%0 Report
+%A Csanky, L.
+%T A Fast Matrix Inversion Algorithm
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M521
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28816.html
+%F Csanky:M521

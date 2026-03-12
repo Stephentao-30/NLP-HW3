@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29099.html
+An Overview of the VERS2 Project: High Level Languages in Automatic Programming | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Overview of the VERS2 Project: High Level Languages in Automatic Programming
+An Overview of the VERS2 Project: High Level Languages in Automatic Programming
+Jay Earley
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M416
+December 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-416.pdf
+BibTeX citation:
+@techreport{Earley:M416,
+Author = {Earley, Jay},
+Title = {An Overview of the VERS2 Project: High Level Languages in Automatic Programming},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29099.html},
+Number = {UCB/ERL M416}
+}
+EndNote citation:
+%0 Report
+%A Earley, Jay
+%T An Overview of the VERS2 Project: High Level Languages in Automatic Programming
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M416
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29099.html
+%F Earley:M416

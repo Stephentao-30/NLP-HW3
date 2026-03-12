@@ -1,0 +1,31 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-230.html
+Designing Networks for Large-Scale Blackout Circumvention
+Shaddi Hasan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-230
+December 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-230.pdf
+Large-scale communications blackouts, such as those carried out by Egypt and Libya in 2011 and Syria in 2012 and 2013, have motivated a series of projects that aim to enable citizens to communicate even in the face of such heavy-handed censorship efforts. A common theme across these proposals has been the use of wireless mesh networks. We argue that such networks are poorly equipped to serve as a meaningful countermeasure against large-scale blackouts due to their intrinsically poor scaling properties. We further argue that projects in this space must consider safety of both users and network operators as a first-order design priority. From these two insights, we frame a definition of dissent networks to capture the essential requirements for blackout circumvention solutions.
+Advisors:  Eric Brewer
+BibTeX citation:
+@mastersthesis{Hasan:EECS-2013-230,
+Author= {Hasan, Shaddi},
+Title= {Designing Networks for Large-Scale Blackout Circumvention},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-230.html},
+Number= {UCB/EECS-2013-230},
+Abstract= {Large-scale communications blackouts, such as those carried out by Egypt and Libya in 2011 and Syria in 2012 and 2013, have motivated a series of projects that aim to enable citizens to communicate even in the face of such heavy-handed censorship efforts. A common theme across these proposals has been the use of wireless mesh networks. We argue that such networks are poorly equipped to serve as a meaningful countermeasure against large-scale blackouts due to their intrinsically poor scaling properties. We further argue that projects in this space must consider safety of both users and network operators as a first-order design priority. From these two insights, we frame a definition of dissent networks to capture the essential requirements for blackout circumvention solutions.},
+}
+EndNote citation:
+%0 Thesis
+%A Hasan, Shaddi
+%T Designing Networks for Large-Scale Blackout Circumvention
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 19
+%@ UCB/EECS-2013-230
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-230.html
+%F Hasan:EECS-2013-230

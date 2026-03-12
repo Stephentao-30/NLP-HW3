@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-61.html
+Learned Factorization Models to Explain Variability in Natural Image Sequences
+Benjamin Jackson Culpepper
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-61
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-61.pdf
+Robust object recognition requires computational mechanisms that compensate for variability in the appearance of objects under natural viewing conditions. Yet, these have proven to be difficult to engineer. For this reason, the development of computational models that achieve invariance to the types of transformations that occur during natural viewing will both benefit our understanding of biological systems and help to achieve the goals of computer vision. This thesis develops a set of models that learn low dimensional representations of the transformations occurring in dynamic natural scenes. Good models of these transformations allow their effect to be compensated through an inference process, which jointly estimates a stable percept and a parsimonious description of its appearance.
+I propose a series of models based on the idea of factoring apart image sequences into two types of latent variables: a stable percept, and a low dimensional time-varying representation of its transformation. Such a two component model is a general mechanism for teasing apart the causes that conspire to produce a time-varying image. First, I show that when both components are represented by linear expansions, the resulting bilinear model can achieve some degree of image stabilization by utilizing the transformation model to explain the translation motions that occur in a small window of a movie. Yet, the recovered latent factors exhibit dependencies that motivate the investigation of a richer, exponential map as a second model for the dynamics of appearance. In addition to the translation motions captured by the linear appearance model, this richer model learns transformations that can compensate for rotations, expansions, and complex distortions in the data. Lastly, I propose a hierarchical model that describes images in terms of a hierarchy of grouped lower-level features; learning parameters in this hierarchy is enabled by a procedure that maintains uncertainty in the posterior distributions over the latent variables.
+The contribution of this work is a demonstration of an adaptive mechanism that can automatically learn transformations in a structured model, which enables sources of variability to be factored out by inverting it. This is an important step, because sources of variability are the main factor causing difficulties in artificial object recognition systems, and visual invariance is also closely related to the idea of generalization, an ability that is commonly equated with intelligence. Thus, to the extent that we are able to build seeing machines that can automatically compensate for category-level variability we will have achieved some part of the goal of artificial intelligence.
+Advisors:  Jitendra Malik and Bruno Olshausen
+BibTeX citation:
+@phdthesis{Culpepper:EECS-2011-61,
+Author= {Culpepper, Benjamin Jackson},
+Title= {Learned Factorization Models to Explain Variability in Natural Image Sequences},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-61.html},
+Number= {UCB/EECS-2011-61},
+Abstract= {Robust object recognition requires computational mechanisms that compensate for variability in the appearance of objects under natural viewing conditions. Yet, these have proven to be difficult to engineer. For this reason, the development of computational models that achieve invariance to the types of transformations that occur during natural viewing will both benefit our understanding of biological systems and help to achieve the goals of computer vision. This thesis develops a set of models that learn low dimensional representations of the transformations occurring in dynamic natural scenes. Good models of these transformations allow their effect to be compensated through an inference process, which jointly estimates a stable percept and a parsimonious description of its appearance.
+I propose a series of models based on the idea of factoring apart image sequences into two types of latent variables: a stable percept, and a low dimensional time-varying representation of its transformation. Such a two component model is a general mechanism for teasing apart the causes that conspire to produce a time-varying image. First, I show that when both components are represented by linear expansions, the resulting bilinear model can achieve some degree of image stabilization by utilizing the transformation model to explain the translation motions that occur in a small window of a movie. Yet, the recovered latent factors exhibit dependencies that motivate the investigation of a richer, exponential map as a second model for the dynamics of appearance. In addition to the translation motions captured by the linear appearance model, this richer model learns transformations that can compensate for rotations, expansions, and complex distortions in the data. Lastly, I propose a hierarchical model that describes images in terms of a hierarchy of grouped lower-level features; learning parameters in this hierarchy is enabled by a procedure that maintains uncertainty in the posterior distributions over the latent variables.
+The contribution of this work is a demonstration of an adaptive mechanism that can automatically learn transformations in a structured model, which enables sources of variability to be factored out by inverting it. This is an important step, because sources of variability are the main factor causing difficulties in artificial object recognition systems, and visual invariance is also closely related to the idea of generalization, an ability that is commonly equated with intelligence. Thus, to the extent that we are able to build seeing machines that can automatically compensate for category-level variability we will have achieved some part of the goal of artificial intelligence.},
+}
+EndNote citation:
+%0 Thesis
+%A Culpepper, Benjamin Jackson
+%T Learned Factorization Models to Explain Variability in Natural Image Sequences
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-61.html
+%F Culpepper:EECS-2011-61

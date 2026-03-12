@@ -1,0 +1,71 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-6.html
+Codes and Game Theory for Key Agreement with Untrusted Participants
+Nebojsa Milosavljevic
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-6
+January 22,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-6.pdf
+In this work we study the problem of confidential communication when different resources of randomness
+are available.
+We start with the relay channel where source observations are available at each terminal. We
+study the scenario where the transmitter (Alice) sends a private message to the destination (Bob),
+which is confidential to the relay (Eve). Alice and Bob also want to agree on a secret key that is
+protected from Eve. We propose an achievable scheme and show that if the channel is degraded or
+reversely degraded, the secret message-secret key sum rate is optimal.
+Then, we consider a scenario where three terminals, Alice, Bob and Charlie, observe memoryless
+correlated observations. Alice wants to agree with Bob on a key that is secured from Charlie. At
+the same time Alice wants to agree with Charlie on a key that is secured from Bob. We further
+assume that Alice has no knowledge on how the distributed sources are correlated, and that she is
+the one who constructs the codebooks for the key agreement. In order to construct the codebooks
+which would achieve a desired level of secrecy, Alice request some information from Bob and Charlie
+about their observations. Since Bob and Charlie act like eavesdroppers to each other, they may
+not be completely honest about what they observe. Therefore, their reports are based on some
+objective that is a function of the key rate and the amount of information they can learn about the
+other user’s key, called the leakage rate. We approach this problem from a game-theoretic point of
+view. For a class of Bob and Charlie’s objective functions that are linear in the key rate and the
+leakage rate, we characterize a Nash equilibrium. Then, we propose a strategy that Alice can apply
+in order to ensure that Bob and Charlie’s honest reporting is always a Nash equilibrium. Finally,
+for the binary erasure source distributions we extend this concept to the multiple terminal case.
+Advisors:  Kannan Ramchandran and Michael Gastpar
+BibTeX citation:
+@mastersthesis{Milosavljevic:EECS-2011-6,
+Author= {Milosavljevic, Nebojsa},
+Title= {Codes and Game Theory for Key Agreement with Untrusted Participants},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-6.html},
+Number= {UCB/EECS-2011-6},
+Abstract= {In this work we study the problem of confidential communication when different resources of randomness
+are available.
+We start with the relay channel where source observations are available at each terminal. We
+study the scenario where the transmitter (Alice) sends a private message to the destination (Bob),
+which is confidential to the relay (Eve). Alice and Bob also want to agree on a secret key that is
+protected from Eve. We propose an achievable scheme and show that if the channel is degraded or
+reversely degraded, the secret message-secret key sum rate is optimal.
+Then, we consider a scenario where three terminals, Alice, Bob and Charlie, observe memoryless
+correlated observations. Alice wants to agree with Bob on a key that is secured from Charlie. At
+the same time Alice wants to agree with Charlie on a key that is secured from Bob. We further
+assume that Alice has no knowledge on how the distributed sources are correlated, and that she is
+the one who constructs the codebooks for the key agreement. In order to construct the codebooks
+which would achieve a desired level of secrecy, Alice request some information from Bob and Charlie
+about their observations. Since Bob and Charlie act like eavesdroppers to each other, they may
+not be completely honest about what they observe. Therefore, their reports are based on some
+objective that is a function of the key rate and the amount of information they can learn about the
+other user’s key, called the leakage rate. We approach this problem from a game-theoretic point of
+view. For a class of Bob and Charlie’s objective functions that are linear in the key rate and the
+leakage rate, we characterize a Nash equilibrium. Then, we propose a strategy that Alice can apply
+in order to ensure that Bob and Charlie’s honest reporting is always a Nash equilibrium. Finally,
+for the binary erasure source distributions we extend this concept to the multiple terminal case.},
+}
+EndNote citation:
+%0 Thesis
+%A Milosavljevic, Nebojsa
+%T Codes and Game Theory for Key Agreement with Untrusted Participants
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 January 22
+%@ UCB/EECS-2011-6
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-6.html
+%F Milosavljevic:EECS-2011-6

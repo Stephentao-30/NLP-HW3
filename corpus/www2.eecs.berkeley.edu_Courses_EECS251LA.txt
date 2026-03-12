@@ -1,0 +1,22 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS251LA
+Course: EECS251LA | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EECS251LA
+EECS 251LA. Introduction to Digital Design and Integrated Circuits Lab
+Catalog Description:  This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g. implementation of a 3-stage RISC-V processor with a register file and caches. The design is mapped to simulation and layout specification.
+Units:  2.0
+Course Objectives:  Software testing of digital designs is covered leading to a set of exercises that cover the design flow. Digital synthesis, floor-planning, placement and routing are covered, as well as tools to evaluate timing and power consumption. Chip-level assembly is covered, including instantiation of custom blocks: I/O pads, memories, PLLs, etc.
+Student Learning Outcomes:  Although the syllabus is the same as EECS151LA, the assignments and exams for EECS251LA will have harder problems in labs and in the project that test deeper understanding expected from a graduate level course.
+Prerequisites:  Electrical Engineering 16A & 16B; Computer Science 61C; and recommended: Electrical Engineering 105.
+Formats:  Fall: 3.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class Schedule (Spring 2019):
+We 5:00PM - 7:59PM, Cory 125 –
+Arya Bahram Reais-Parsi, Christopher Yarp, John Wawrzynek Class Schedule (Fall 2019):
+Fr 11:00AM - 1:59PM, Cory 125 –
+Class homepage on inst.eecs
+General Catalog listing

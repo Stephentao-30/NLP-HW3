@@ -1,0 +1,189 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006
+Technical Reports - 2006
+Tracking and Texturing Liquid Surfaces  (EECS-2006-196) Adam Wade Bargteil
+Unsupervised Segmentation of Natural Images via Lossy Data Compression  (EECS-2006-195) Allen Y. Yang, John Wright, S. Shankar Sastry and Yi Ma
+A General Framework for Flow Control in Wireless Networks  (EECS-2006-194) Minghua Chen
+MEMS-Based System for Particle Exposure Assessment Using Thin-Film Bulk Acoustic Wave Resonators and IR / UV Optical Discrimination  (EECS-2006-193) Justin Phelps Black
+Technologies for enhancing multi-gate Si MOSFET performance  (EECS-2006-192) Kyoungsub Shin
+Bridging the Gap Between People and Policies in Security and Privacy  (EECS-2006-191) Umesh Shankar
+Lambda Data Grid: Communications Architecture in Support of Grid Computing  (EECS-2006-190) Tal I. Lavian
+The Power of Higher-Order Composition Languages in System Design  (EECS-2006-189) James Adam Cataldo
+High-Speed Modulation of Optical Injection-Locked Semiconductor Lasers  (EECS-2006-188) Erwin K Lau
+Kernel Optimization for Support Vector Machines:  Application to Speaker Verification  (EECS-2006-187) Andrew Oliver Hatch
+Multipath Unicast and Multicast Video Communication over Wireless Ad Hoc Networks  (EECS-2006-186) Wei Wei
+The concept of Box Invariance for biologically-inspired dynamical systems  (EECS-2006-185) Alessandro Abate, Ashish Tiwari and S. Shankar Sastry
+Thin Slicing  (EECS-2006-184) Manu Sridharan, Stephen J. Fink and Ras Bodik
+The Landscape of Parallel Computing Research: A View from Berkeley  (EECS-2006-183) Krste Asanović, Ras Bodik, Bryan Christopher Catanzaro, Joseph James Gebis, Parry Husbands, Kurt Keutzer, David A. Patterson, William Lester Plishker, John Shalf, Samuel Webb Williams and Katherine A. Yelick
+Low Power Design Automation  (EECS-2006-182) David Graeme Chinnery
+The Concept of Deadlock and Livelock in Hybrid Control Systems  (EECS-2006-181) Alessandro Abate, Alessandro D'Innocenzo, Giordano Pola, Maria Domenica Di Benedetto and S. Shankar Sastry
+Quantitative and Probabilistic Modeling in Pathway Logic  (EECS-2006-180) Alessandro Abate, Yu Bai, Natalie Sznajder, Carolyn Talcott and Ashish Tiwari
+Efficient Search in File-Sharing Networks  (EECS-2006-179) Paul Burstein and Alan J. Smith
+A System Architecture for Ambient Intelligent Environments  (EECS-2006-178) Christopher R. Baker
+The Design and Implementation of Declarative Networks  (EECS-2006-177) Boon Thau Loo
+Using Criticality to Attack Performance Bottlenecks  (EECS-2006-176) Brian Allen Fields
+Advanced Pulse Width Modulation Controller ICs for Buck DC-DC Converters  (EECS-2006-175) Jianhui Zhang and Seth R. Sanders
+Probabilistic Models with Unknown Objects  (EECS-2006-174) Brian Christopher Milch
+Evaluating Glanceable Visuals for Multitasking  (EECS-2006-173) Tara Lynn Matthews, Devin Blais, Aubrey Shick, Jennifer Mankoff, Jodi Forlizzi, Stacie Rohrbach and Roberta Klatzky
+Model Driven Compression of 3-D Tele-Immersion Data  (EECS-2006-170) Jyh-Ming Lien and Ruzena Bajcsy
+Flush: A Reliable Bulk Transport Protocol for Multihop Wireless Network  (EECS-2006-169) Sukun Kim, Rodrigo Fonseca, Prabal Dutta, Arsalan Tavakoli, David E. Culler, Philip Levis, Scott Shenker and Ion Stoica
+Spectrum Sharing: Fundamental Limits, Scaling Laws, and Self-Enforcing Protocols  (EECS-2006-168) Raul Hernan Etkin
+Towards Efficient Distribution of High-Volume Content  (EECS-2006-167) Mukund Seshadri
+Classification, Customization, and Characterization: Using MILP for Task Allocation and Scheduling  (EECS-2006-166) Abhijit Davare, Jike Chong, Qi Zhu, Douglas Michael Densmore and Alberto L. Sangiovanni-Vincentelli
+A Categorical Theory of Hybrid Systems  (EECS-2006-165) Aaron David Ames
+Power - Performance Optimization for Digital Circuits  (EECS-2006-164) Radu Zlatanovici
+Replay Debugging for Distributed Applications  (EECS-2006-163) Dennis Michael Geels
+Fully Integrated CMOS Power Amplifier  (EECS-2006-162) Gang Liu
+A Dynamic Topic Model for Document Segmentation  (EECS-2006-161) John F. Canny and Tye Lawrence Rattenbury
+Automatic  Action Advisor for Storage System Performance Management  (EECS-2006-160) Li Yin
+RAMP: A Research Accelerator for Multiple Processors  (EECS-2006-158) John Wawrzynek, Mark Oskin, Christoforos Kozyrakis, Derek Chiou, David A. Patterson, Shih-Lien Lu, James C. Hoe and Krste Asanović
+Error-detection-based quantum fault tolerance against discrete Pauli noise  (EECS-2006-157) Benjamin W. Reichardt
+High Speed Deep Packet Inspection with Hardware Support  (EECS-2006-156) Fang Yu
+Short Range Pulse Based Inductive Transceiver  (EECS-2006-155) Davide Guermandi, Simone Gambini and Jan M. Rabaey
+Classes and Inheritance in Actor-Oriented Design  (EECS-2006-154) Edward A. Lee, Xiaojun Liu and Stephen Andrew Neuendorffer
+Linear Time Algorithm for Weak Parity Games  (EECS-2006-153) Krishnendu Chatterjee
+QoS in Wireless Networks  (EECS-2006-152) Teresa Sheausan Tung
+Estimation and Control Techniques in Power Converters  (EECS-2006-151) Gabriel Eirea
+Joint Modeling and Design of Wireless Networks and Sensor Node Software  (EECS-2006-150) Elaine Cheong, Edward A. Lee and Yang Zhao
+The Case for the Precision Timed (PRET) Machine  (EECS-2006-149) Stephen Edwards and Edward A. Lee
+Causality Interfaces for Actor Networks  (EECS-2006-148) Ye Zhou and Edward A. Lee
+Synthesis of On-Chip Interconnection Structures: From Point-To-Point Links to Networks-on-Chip  (EECS-2006-147) Alessandro Pinto, Luca Carloni and Alberto L. Sangiovanni-Vincentelli
+Digital Control of PWM Converters: Analysis and Application to Voltage Regulation Modules  (EECS-2006-146) Angel Vladimirov Peterchev and Seth R. Sanders
+Deploying Concurrent Applications on Heterogeneous Multiprocessors  (EECS-2006-145) Andrew Christopher Mihal
+Generalized Parity Games  (EECS-2006-144) Krishnendu Chatterjee, Thomas A. Henzinger and Nir Piterman
+Stochastic Limit-Average Games are in EXPTIME  (EECS-2006-143) Krishnendu Chatterjee, Rupak Majumdar and Thomas A. Henzinger
+Inferring nuclear movements from fixed material  (EECS-2006-142) Charless Fowlkes and Jitendra Malik
+The Complexity of Stochastic Müller Games  (EECS-2006-141) Krishnendu Chatterjee
+Reduction of Stochastic Parity to  Stochastic Mean-payoff Games  (EECS-2006-140) Krishnendu Chatterjee and Thomas A. Henzinger
+Communication-Efficient Tracking of Distributed Cumulative Triggers  (EECS-2006-139) Ling Huang, Minos Garofalakis, Anthony D. Joseph and Nina Taft
+Nanoscale thin-body MOSFET design and applications  (EECS-2006-138) Sriram Balasubramanian
+Synthesis of Low Power NOC Topologies under Bandwidth Constraints  (EECS-2006-137) Alessandro Pinto, Luca Carloni and Alberto L. Sangiovanni-Vincentelli
+A 3-10GHz Ultra-Wideband Pulser  (EECS-2006-136) Jan M. Rabaey, Simone Gambini and Davide Guermandi
+Sapheniea: Simplifying Configuration Using Classes  (EECS-2006-135) Cheng Tien Ee, Scott Shenker and Lakshminarayanan Subramanian
+A Placement Technique for Multiple-Voltage Design  (EECS-2006-133) Qi Zhu, Farhana Sheikh and Philip Chong
+The Design and Implementation of A Declarative Sensor Network System  (EECS-2006-132) David Chiyuan Chu, Lucian Popa, Arsalan Tavakoli, Joseph M. Hellerstein, Philip Levis, Scott Shenker and Ion Stoica
+Stability and Approximation of Queueing Networks  (EECS-2006-131) Antonios Dimakis
+Design and Evaluation of Distributed Wide-Area On-line Archival Storage Systems  (EECS-2006-130) Hakim Weatherspoon
+Dependent Types for Low-Level Programming  (EECS-2006-129) Jeremy Paul Condit, Matthew Thomas Harren, Zachary Ryan Anderson, David Gay and George Necula
+A Framework for Characterization and Comparison of Event Related Neuronal Activity  (EECS-2006-128) Parvez Ahammad, Ruzena Bajcsy and S. Shankar Sastry
+On-Chip Networks Modeling and Simulation  (EECS-2006-126) Qi Zhu, Zhengya Zhang, Alessandro Pinto and Alberto L. Sangiovanni-Vincentelli
+Ethno-Mining: Integrating Numbers and Words from the Ground Up  (EECS-2006-125) Ryan Aipperspach, Tye Lawrence Rattenbury, Allison Woodruff, Ken Anderson, John F. Canny and Paul Aoki
+Automated Mapping of Domain Specific Languages to Application Specific Multiprocessors  (EECS-2006-123) William Lester Plishker
+Optimal Strategy Synthesis in Stochastic Muller Games  (EECS-2006-122) Krishnendu Chatterjee
+Health Monitoring of Civil Infrastructures Using Wireless Sensor Networks  (EECS-2006-121) Sukun Kim, Shamim Pakzad, David E. Culler, James Demmel, Gregory Fenves, Steve Glaser and Martin Turon
+Scrap Your Web Application Boilerplate, or Metaprogramming with Row Types  (EECS-2006-120) Adam Chlipala
+Designing a Sub-RISC Multi-Gigabit Regular Expression Processor  (EECS-2006-119) Andrew Christopher Mihal, Christian Sauer and Kurt Keutzer
+Verification-Guided Soft Error Resilience  (EECS-2006-118) Sanjit A. Seshia, Wenchao Li and Subhasish Mitra
+Automatic Model Generation for Black Box Real-Time Systems  (EECS-2006-117) Thomas Huining Feng, Lynn Tao-Ning Wang, Wei Zheng, Sri Kanajan and Sanjit A. Seshia
+Semiconductor Nanowire Manipulation Using Optoelectronic Tweezers  (EECS-2006-116) Arash Jamshidi, Peter Pauzauskie, Aaron Takami Ohta, Pei-Yu Chiou, Hsan-yin Hsu, Peidong Yang and Ming C. Wu
+Automating Malware Detection by Inferring Intent  (EECS-2006-115) Weidong Cui
+Simulating Zeno Hybrid Systems Beyond Their Zeno Points  (EECS-2006-114) Haiyang Zheng
+Designing Glanceable Peripheral Displays  (EECS-2006-113) Tara Lynn Matthews, Jodi Forlizzi and Stacie Rohrbach
+Closing the Loop: Control and Robot Navigation in Wireless Sensor Networks  (EECS-2006-112) Shawn Michael Schaffert
+Analytical and Practical Analysis of Switched-Capacitor DC-DC Converters  (EECS-2006-111) Michael Douglas Seeman
+Computational Analyses of Eukaryotic Gene Evolution  (EECS-2006-110) Sourav Chatterji
+Effect of Slow Fading and Adaptive Modulation on TCP/UDP Performance of High-Speed Packet Wireless Networks  (EECS-2006-109) Xuanming Dong
+Structured and Parameter-Dependent Eigensolvers for Simulation-Based Design of Resonant MEMS  (EECS-2006-108) David Samuel Bindel
+Strong Optical Injection Locking of Edge-Emitting Lasers and Its Applications  (EECS-2006-107) Hyuk-Kee Sung
+Types for Deterministic Concurrency  (EECS-2006-106) Tachio Terauchi
+Automated Memory Allocation of Actor Code and Data Buffer in Heterochronous Dataflow Models to Scratchpad Memory  (EECS-2006-105) Shamik Bandyopadhyay
+Whole-Genome Alignments and Polytopes for Comparative Genomics  (EECS-2006-104) Colin Noel Dewey
+Integrated Verification for Robust Computing  (EECS-2006-103) Sanjit A. Seshia
+Enabling Technologies for Organic Memories  (EECS-2006-102) Brian Alexander Mattis and Vivek Subramanian
+Advanced Gate Technologies for Deep-Submicron CMOSFETs  (EECS-2006-101) Hiu Yung Wong
+Program Manipulation via Interactive Transformations  (EECS-2006-100) Marat Boshernitsan
+Distributed PCA and Network Anomaly Detection  (EECS-2006-99) Ling Huang, Xuanlong Nguyen, Minos Garofalakis, Michael Jordan, Anthony D. Joseph and Nina Taft
+Sharing Aggregate Computation for Distributed Queries  (EECS-2006-98) Ryan Jay Huebsch, Minos Garofalakis, Joseph M. Hellerstein and Ion Stoica
+Informal Videoconferencing and Awareness  (EECS-2006-97) Scott Alan Carter and Scott Matthew Lederer
+iVSi: Ubiquitous Exposure  (EECS-2006-96) Scott Alan Carter and Ethan Eismann
+Compile-Time Schedulability Analysis of Communicating Concurrent Programs  (EECS-2006-94) Cong Liu
+Stationary points of a real-valued function of a complex variable  (EECS-2006-93) David G. Messerschmitt
+Geometric interpretation of signals: applications  (EECS-2006-92) David G. Messerschmitt
+Geometric interpretation of signals: background  (EECS-2006-91) David G. Messerschmitt
+Autocorrelation matrix eigenvalues and the power spectrum  (EECS-2006-90) David G. Messerschmitt
+Algorithms for Omega-Regular Games with  Incomplete Information  (EECS-2006-89) Krishnendu Chatterjee, Laurent Doyen, Thomas A. Henzinger and Jean-Francois Raskin
+Portable, But Not Mobile: A Study of Wireless Laptops in the Home  (EECS-2006-88) Allison Woodruff, Ken Anderson, Scott D. Mainwaring and Ryan Aipperspach
+Compiler and Runtime Support for Scaling Adaptive Mesh Refinement Computations in Titanium  (EECS-2006-87) Jimmy Zhigang Su, Tong Wen and Katherine A. Yelick
+Analysis of Low-Level Code Using Cooperating Decompilers  (EECS-2006-86) Bor-Yuh Evan Chang, Matthew Thomas Harren and George Necula
+Joint Entropy Minimization for Learning in Nonparametric Framework  (EECS-2006-85) Parvez Ahammad
+A Capability Calculus for Concurrency and Determinism  (EECS-2006-84) Tachio Terauchi and Alex Aiken
+Reinventing Computing for Real Time  (EECS-2006-83) Edward A. Lee and Yang Zhao
+Programming Temporally Integrated Distributed Embedded Systems  (EECS-2006-82) Yang Zhao, Edward A. Lee and Jie Liu
+On the Price of Heterogeneity in Parallel Systems  (EECS-2006-81) Philip Brighten Godfrey and Richard M. Karp
+Flight Simulation of a 3 gram Autonomous Glider  (EECS-2006-80) Jon Perry Entwistle and Ronald S. Fearing
+Hierarchical Timing Language  (EECS-2006-79) Arkadeb Ghosal, Thomas A. Henzinger, Daniel Iercan, Christoph Kirsch and Alberto L. Sangiovanni-Vincentelli
+Modularly Integrated MEMS Technology  (EECS-2006-78) Marie-Ange Naida Eyoum
+Finding Celebrities in Video  (EECS-2006-77) Nazli Ikizler, Jai Vasanth, Linus Wong and David Forsyth
+Fast and Memory-Efficient Regular Expression Matching for Deep Packet Inspection  (EECS-2006-76) Fang Yu, Zhifeng Chen, Yanlei Diao, T.V. Lakshman and Randy H. Katz
+Analogies Are Like Bowling Balls, or Why Analogies to English Need Some Explanation to Help Students Learn Scheme  (EECS-2006-75) Clint Eric Ryan
+A Distributed Max-Min Fairness Rate Allocation Algorithm For Unreliable Communication Networks  (EECS-2006-73) Jingyi Shao and Jean Walrand
+Dynamic Power Supply Design for High-Efficiency Wireless Transmitters  (EECS-2006-72) Jason T. Stauth and Seth R. Sanders
+Power Efficient System and A/D Converter Design for Ultra-Wideband Radio  (EECS-2006-71) Shuo-Wei Chen
+Standby Power Management Architecture for Deep-Submicron Systems  (EECS-2006-70) Michael Alan Sheets
+Implementation of a Localization System for Sensor Networks  (EECS-2006-69) Tufan Coskun Karalar and Jan M. Rabaey
+Theory and Practice of Non-Intrusive Active Network Measurements  (EECS-2006-68) Sridhar Machiraju
+CPO Semantics of Timed Interactive Actor Networks  (EECS-2006-67) Xiaojun Liu and Edward A. Lee
+On Typability for Rank-2 Intersection Types with Polymorphic Recursion  (EECS-2006-66) Tachio Terauchi and Alex Aiken
+A Power/Area Optimal Approach to VLSI Signal Processing  (EECS-2006-65) Dejan Marko Markovic
+Convex Approximation and Optimization with Applications in Magnitude Filter Design and Radiation Pattern Synthesis  (EECS-2006-64) Peter William Kassakian
+Design Methodology for Run-time Management of Reconfigurable Digital Signal Processor Systems  (EECS-2006-63) Roy Allen Sutton
+Local Computation and Reducibility  (EECS-2006-62) Kenji Christopher Obata
+Leveraging BGP Dynamics to Reverse-Engineer Routing Policies  (EECS-2006-61) Sridhar Machiraju and Randy H. Katz
+Serial Assembly of Microstructures  (EECS-2006-60) Subramaniam Venkatraman
+Lightweight Specialized 3-Valued Logic Shape Analyzer  (EECS-2006-59) Gilad Arnold
+Improving Gradient Estimation by Incorporating Sensor Data  (EECS-2006-58) Gregory Donnell Lawrence and Stuart J. Russell
+Ultra Low Power Transmitters for Wireless Sensor Networks  (EECS-2006-57) Yuen Hui Chee, Jan M. Rabaey and Ali Niknejad
+An Improved Global Model for Electronegative Discharge and Ignition Conditions for Peripheral Plasma Connected to a Capacitive Discharge  (EECS-2006-56) Sungjin Kim
+Ultra-Low-Cost Printed Electronics  (EECS-2006-55) Steven Edward Molesa
+Design of a Multi-Channel Medium Access Control Protocol for Ad-Hoc Wireless Networks  (EECS-2006-54) Hoi-Sheung Wilson So and Jean Walrand
+Biomimetic Sensor Modeling and Simulations for Flight Control of a Micromechanical Flying Insect  (EECS-2006-53) Wei-Chung Wu
+Characterizing Polarized Illumination in High Numerical Aperture Optical Lithography with Phase Shifting Masks  (EECS-2006-52) Gregory Russell McIntyre
+A Causality Interface for Deadlock Analysis in Dataflow  (EECS-2006-51) Ye Zhou and Edward A. Lee
+Analysis and Design of Wideband LC VCOs  (EECS-2006-50) Axel Dominique Berny, Robert G. Meyer and Ali Niknejad
+Scribe4Me: Evaluating a Mobile Sound Transcription Tool for the Deaf  (EECS-2006-49) Tara Lynn Matthews, Scott Alan Carter, Carol Pai, Janette Fong and Jennifer Mankoff
+A Formalism for Higher-Order Composition Languages that Satisfies the Church-Rosser Property  (EECS-2006-48) Adam Cataldo, Elaine Cheong, Thomas Huining Feng, Edward A. Lee and Andrew Christopher Mihal
+A Baseband, Impulse Ultra-Wideband Transceiver Front-end for Low Power Applications  (EECS-2006-47) Ian David O'Donnell
+Ellipsoidal Toolbox  (EECS-2006-46) Alex A. Kurzhanskiy and Pravin Varaiya
+Modeling Timed Concurrent Systems using Generalized Ultrametrics  (EECS-2006-45) Xiaojun Liu, Eleftherios Matsikoudis and Edward A. Lee
+Using Reed-Muller RM(1,m) Codes over Channels with Synchronization and Substitution Errors  (EECS-2006-44) Lara Dolecek and Venkat Anantharam
+On structural properties of Reed-Muller codes and their use in channels with synchronization and substitution errors  (EECS-2006-43) Lara Dolecek
+Functionalized Polythiophene Thin-Film Transistors for Low-Cost Gas Sensor Arrays  (EECS-2006-42) Josephine Bea Chang
+Concurrency Analysis for Parallel Programs with Textually Aligned Barriers  (EECS-2006-41) Amir Ashraf Kamil and Katherine A. Yelick
+Concurrent Embedded Design for Multimedia: JPEG encoding on Xilinx FPGA Case Study  (EECS-2006-40) Jike Chong, Abhijit Davare and Kelvin Lwin
+Resolving BGP Disputes  (EECS-2006-39) Cheng Tien Ee, Vijay Ramachandran, Byung-Gon Chun and Scott Shenker
+Declarative Network Monitoring with an Underprovisioned Query Processor (Extended Version)  (EECS-2006-38) Frederick Ralph Reiss and Joseph M. Hellerstein
+Incremental Checkpointing with Application to Distributed Discrete Event Simulation  (EECS-2006-37) Thomas Huining Feng and Edward A. Lee
+Outage Capacity of the Fading Relay Channel in the Low SNR Regime  (EECS-2006-36) Amir Salman Avestimehr
+Prerendered User Interfaces for Higher-Assurance Electronic Voting  (EECS-2006-35) Ka-Ping Yee, David Wagner, Marti Hearst and Steven Bellovin
+Katana: A Specialized Framework for Reliable Web Servers  (EECS-2006-34) Ajeet Ganesh Shankar and William Terrence McCloskey
+Strategy Improvement for Stochastic Rabin and Streett Games  (EECS-2006-33) Krishnendu Chatterjee and Thomas A. Henzinger
+Assume Guarantee Synthesis  (EECS-2006-32) Krishnendu Chatterjee and Thomas A. Henzinger
+Refinement-Based Context-Sensitive Points-To Analysis for Java  (EECS-2006-31) Manu Sridharan and Ras Bodik
+A Platform-based Design Flow for Kahn Process Networks  (EECS-2006-30) Abhijit Davare, Qi Zhu and Alberto L. Sangiovanni-Vincentelli
+Adaptive Cleaning for RFID Data Streams  (EECS-2006-29) Shawn Ryan Jeffery, Minos Garofalakis and Michael Franklin
+Adaptive Execution of Variable-Accuracy Functions  (EECS-2006-28) Matthew Michael Denny and Michael Franklin
+Designing, Implementing, and Analyzing a System for Virus Detection  (EECS-2006-27) Blaine Alan Nelson
+The Joe-E Language Specification (draft)  (EECS-2006-26) Adrian Matthew Mettler and David Wagner
+Minimizing Churn in Distributed Systems  (EECS-2006-25) Philip Brighten Godfrey, Scott Shenker and Ion Stoica
+Composition Languages  (EECS-2006-24) Adam Cataldo and Edward A. Lee
+Measuring the Sap Flow of Eucalyptus Trees  (EECS-2006-23) Kaisen Lin, Neil Turner, Mark Kranz and Stephen Burgess
+Digital Pulse-Width Modulation Control in Power Electronic Circuits: Theory and Applications  (EECS-2006-22) Angel Vladimirov Peterchev and Seth R. Sanders
+Integration of Physical Design and Sequential Optimization  (EECS-2006-21) Philip Chong
+Proof Sketches: Verifiable Multi-Party Aggregation  (EECS-2006-20) Minos Garofalakis, Joseph M. Hellerstein and Petros Maniatis
+Routing as a Service  (EECS-2006-19) Karthik Kalambur Lakshminarayanan, Ion Stoica, Scott Shenker and Jennifer Rexford
+Design of A Multi-Channel MAC Protocol for Ad Hoc Wireless Networks  (EECS-2006-17) Hoi-Sheung Wilson So and Jean Walrand
+Data Gathering Tours in Sensor Networks  (EECS-2006-16) Alexandra Meliou, David Chiyuan Chu, Carlos Guestrin, Joseph M. Hellerstein and Wei Hong
+Viptos: A Graphical Development and Simulation Environment for TinyOS-based Wireless Sensor Networks  (EECS-2006-15) Elaine Cheong, Edward A. Lee and Yang Zhao
+Quick Motion Transitions with Cached Multi-way Blends  (EECS-2006-14) Leslie Kanani Michiko Ikemoto, Okan Arikan and David Forsyth
+Continuation of Invariant Subspaces for Large Bifurcation Problems  (EECS-2006-13) David Samuel Bindel, James Demmel and Mark Friedman
+Practical Private Computation of Vector Addition-Based Functions or: Can Privacy be for Free?  (EECS-2006-12) John F. Canny and Yitao Duan
+Probabilistic Data Aggregation In Distributed Networks  (EECS-2006-11) Ling Huang, Ben Zhao, Anthony D. Joseph and John D. Kubiatowicz
+Capturing Real Folds in Cloth  (EECS-2006-10) Ryan White, David Forsyth and Jai Vasanth
+Model-Based Synthesis and Analysis of Fault Tolerant Data Flow Models  (EECS-2006-9) Mark Lee McKelvin Jr
+Spoken Language Support for Software Development  (EECS-2006-8) Andrew Begel
+On Array-based LDPC Codes in Channels With Varying Sampling Rate  (EECS-2006-7) Lara Dolecek and Venkat Anantharam
+Case Study and Experiments of Control over Sensor Networks  (EECS-2006-6) Phoebus Wei-Chih Chen
+The NAS Parallel Benchmarks in Titanium  (EECS-2006-5) Kaushik Datta
+A Constructive Fixed-Point Theorem and the Feedback Semantics of Timed Systems  (EECS-2006-4) Adam Cataldo, Edward A. Lee, Xiaojun Liu, Eleftherios Dimitrios Matsikoudis and Haiyang Zheng
+Observation Uncertainty in Gaussian Sensor Networks  (EECS-2006-3) Anand D. Sarwate
+Remote Source Coding and AWGN CEO Problems  (EECS-2006-2) Krishnan Eswaran
+The Problem with Threads  (EECS-2006-1) Edward A. Lee

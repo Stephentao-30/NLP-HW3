@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-201.html
+Enabling Rural Connectivity with SDN
+Shaddi Hasan and Yahel Ben David and Robert Colin Scott and Eric Brewer and Scott Shenker
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-201
+October 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-201.pdf
+The Software-Defined Networking (SDN) paradigm is typically applied to data center and enterprise networks. We argue that SDN is also promising for rural wireless networks, especially those in developing regions. Operating a rural network in the developing world means coping with unpredictability, low profit margins, and resource constraints; the increased flexibility and simplified management that software-defined networks provide are a major benefit in this context. Network virtualization, also enabled by SDN, would allow rural networks to operate as infrastructure providers to existing ISPs, thus enabling cooperation rather than competition with powerful incumbent providers.
+BibTeX citation:
+@techreport{Hasan:EECS-2012-201,
+Author= {Hasan, Shaddi and Ben David, Yahel and Scott, Robert Colin and Brewer, Eric and Shenker, Scott},
+Title= {Enabling Rural Connectivity with SDN},
+Year= {2012},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-201.html},
+Number= {UCB/EECS-2012-201},
+Abstract= {The Software-Defined Networking (SDN) paradigm is typically applied to data center and enterprise networks. We argue that SDN is also promising for rural wireless networks, especially those in developing regions. Operating a rural network in the developing world means coping with unpredictability, low profit margins, and resource constraints; the increased flexibility and simplified management that software-defined networks provide are a major benefit in this context. Network virtualization, also enabled by SDN, would allow rural networks to operate as infrastructure providers to existing ISPs, thus enabling cooperation rather than competition with powerful incumbent providers.},
+}
+EndNote citation:
+%0 Report
+%A Hasan, Shaddi
+%A Ben David, Yahel
+%A Scott, Robert Colin
+%A Brewer, Eric
+%A Shenker, Scott
+%T Enabling Rural Connectivity with SDN
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 October 3
+%@ UCB/EECS-2012-201
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-201.html
+%F Hasan:EECS-2012-201

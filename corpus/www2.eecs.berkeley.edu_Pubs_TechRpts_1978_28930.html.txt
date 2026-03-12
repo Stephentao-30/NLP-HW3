@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28930.html
+Nonlinear Circuit Theory | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Circuit Theory
+Nonlinear Circuit Theory
+L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/28
+April 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-28.pdf
+BibTeX citation:
+@techreport{Chua:M78/28,
+Author = {Chua, L.O.},
+Title = {Nonlinear Circuit Theory},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28930.html},
+Number = {UCB/ERL M78/28}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%T Nonlinear Circuit Theory
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28930.html
+%F Chua:M78/28

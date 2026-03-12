@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-224.html
+Secure Virtualization with Formal Methods
+Cynthia Sturton
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-224
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-224.pdf
+Virtualization software has a variety of security-critical applications, including forming an integral part of the infrastructure behind cloud computing. The software provides isolation between guests and protects each guest from unwanted access by other co-tenants.
+In this work, we investigate the verification of isolation properties for virtualization software. We identify some of the challenges and opportunities in using traditional formal methods to verify security properties at this level of the software stack. We present a new methodology, based on model checking, for handling one of the biggest challenges: verification in the face of very large data structures. One weakness of using model checking is that the verification result is only as good as the model; we also present a framework for validating the model against the corresponding source code.
+We evaluate our methodology with a number of case studies. In our largest case study, the address translation function in the Bochs x86 emulator, verification completes successfully in 70 minutes.
+Advisors:  David Wagner
+BibTeX citation:
+@phdthesis{Sturton:EECS-2013-224,
+Author= {Sturton, Cynthia},
+Title= {Secure Virtualization with Formal Methods},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-224.html},
+Number= {UCB/EECS-2013-224},
+Abstract= {Virtualization software has a variety of security-critical applications, including forming an integral part of the infrastructure behind cloud computing. The software provides isolation between guests and protects each guest from unwanted access by other co-tenants.
+In this work, we investigate the verification of isolation properties for virtualization software. We identify some of the challenges and opportunities in using traditional formal methods to verify security properties at this level of the software stack. We present a new methodology, based on model checking, for handling one of the biggest challenges: verification in the face of very large data structures. One weakness of using model checking is that the verification result is only as good as the model; we also present a framework for validating the model against the corresponding source code.
+We evaluate our methodology with a number of case studies. In our largest case study, the address translation function in the Bochs x86 emulator, verification completes successfully in 70 minutes.},
+}
+EndNote citation:
+%0 Thesis
+%A Sturton, Cynthia
+%T Secure Virtualization with Formal Methods
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-224
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-224.html
+%F Sturton:EECS-2013-224

@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-11.html
+From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems
+From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems
+Liangpeng Guo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-11
+March 13, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-11.pdf
+As the design complexity of cyber-physical systems continues to grow, modeling the system at higher abstraction levels with formal models of computation is increasingly appealing since it enables early design verification and analysis. However, it is very challenging to analyze and verify timing at the early design stages, as the design representation is still abstract and trade-offs have to be made between the performance requirements defined in terms of system functionality and the cost of the feasible architecture that can implement the functionality. In this work, we present Metronomy, a function-architecture co-simulation framework that integrates functional modeling from Ptolemy and architectural modeling from the MetroII environment via a mapping interface. Metronomy completely separates the function and architecture modeling. It allows the function and the architecture of the system to be modeled in the most suitable design environments. At the same time, Metronomy allows designers to do timing verification and design space exploration at early design stage by exploiting contract theory and co-simulation. Two case studies on an electrical power system and a paper-feed sub-system for a high speed printing press demonstrate the effectiveness of our approach.
+Advisor:  Alberto L. Sangiovanni-Vincentelli
+BibTeX citation:
+@phdthesis{Guo:EECS-2015-11,
+Author = {Guo, Liangpeng},
+Title = {From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-11.html},
+Number = {UCB/EECS-2015-11},
+Abstract = {As the design complexity of cyber-physical systems continues to grow, modeling the system at higher abstraction levels with formal models of computation is increasingly appealing since it enables early design verification and analysis. However, it is very challenging to analyze and verify timing at the early design stages, as the design representation is still abstract and trade-offs have to be made between the performance requirements defined in terms of system functionality and the cost of the feasible architecture that can implement the functionality. In this work, we present Metronomy, a function-architecture co-simulation framework that integrates functional modeling from Ptolemy and architectural modeling from the MetroII environment via a mapping interface. Metronomy completely separates the function and architecture modeling. It allows the function and the architecture of the system to be modeled in the most suitable design environments. At the same time, Metronomy allows designers to do timing verification and design space exploration at early design stage by exploiting contract theory and co-simulation. Two case studies on an electrical power system and a paper-feed sub-system for a high speed printing press demonstrate the effectiveness of our approach.}
+}
+EndNote citation:
+%0 Thesis
+%A Guo, Liangpeng
+%T From MetroII to Metronomy, Designing Contract-based Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 March 13
+%@ UCB/EECS-2015-11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-11.html
+%F Guo:EECS-2015-11

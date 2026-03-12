@@ -1,0 +1,17 @@
+URL: https://eecs.berkeley.edu/230426-2
+DBOS: A Database-oriented Operating System - EECS at Berkeley
+DBOS: A Database-oriented Operating System
+EECS Colloquium
+Wednesday, April 26, 2023
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Michael Stonebraker
+Chief Technology Officer, Hopara, Inc.
+Professor Emeritus, UC Berkeley
+Abstract
+For the last two years, a team of us at MIT, Stanford, CMU, Google and VMware have been building a new operating system stack, based on a high-performance distributed DBMS.  In other words, all OS state (files, messages, scheduling information, etc.) is stored in the DBMS (currently VoltDB) and all OS services are written in SQL plus stored procedures.  At the present time, we have Version 2 running and have a fair amount of experience with the system.  In this talk, I report on aspects of our system, including performance, provenance, a serverless environment, early enterprise usage, algorithm improvements for VoltDB, and future plans.
+Biography
+Michael Stonebraker has been a pioneer of database research and technology for more than forty years. He was the main architect of the INGRES relational DBMS, and the object-relational DBMS, POSTGRES. These prototypes were developed at the University of California, Berkeley where Stonebraker was a professor of computer science for twenty-five years. More recently at MIT, he was the co-architect of the C-Store column-oriented DBMS, the H-Store transaction processing engine, the Data Tamer data integration system, the SciDB array processing engine and the Kyrix visualization system. He is the founder of ten venture capital-backed startups that have commercialized his prototypes. Presently he serves as Chief Technology Officer of Hopara, which is commercializing Kyrix. Professor Stonebraker is the author of scores of research papers on database technology, operating systems, and the architecture of system software services. He was awarded the ACM System Software Award in 1992 for his work on INGRES. Additionally, he was awarded the first annual Innovation award by the ACM SIGMOD special interest group in 1994 and was elected to the National Academy of Engineering in 1997. He was awarded the IEEE John Von Neumann Award in 2005, and the ACM Turing Award in 2014. Presently he is an Adjunct Professor of Computer Science at M.I.T., where he is working on a variety of future-generation data-oriented projects.
+Video of This Presentation
+View
+Open Faculty Positions

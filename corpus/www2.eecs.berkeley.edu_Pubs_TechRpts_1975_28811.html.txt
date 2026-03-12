@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28811.html
+Memristive Devices and Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Memristive Devices and Systems
+Memristive Devices and Systems
+L.O. Chua and S.M. Kang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M515
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-515.pdf
+BibTeX citation:
+@techreport{Chua:M515,
+Author = {Chua, L.O. and Kang, S.M.},
+Title = {Memristive Devices and Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28811.html},
+Number = {UCB/ERL M515}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Kang, S.M.
+%T Memristive Devices and Systems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M515
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28811.html
+%F Chua:M515

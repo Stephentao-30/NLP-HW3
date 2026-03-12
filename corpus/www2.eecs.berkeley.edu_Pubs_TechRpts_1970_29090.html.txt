@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29090.html
+Computer Evaluation of Modern Operational Amplifiers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Evaluation of Modern Operational Amplifiers
+Computer Evaluation of Modern Operational Amplifiers
+Sing-Yui James Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M292
+December 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-292.pdf
+BibTeX citation:
+@techreport{Wong:M292,
+Author = {Wong, Sing-Yui James},
+Title = {Computer Evaluation of Modern Operational Amplifiers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29090.html},
+Number = {UCB/ERL M292}
+}
+EndNote citation:
+%0 Report
+%A Wong, Sing-Yui James
+%T Computer Evaluation of Modern Operational Amplifiers
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M292
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29090.html
+%F Wong:M292

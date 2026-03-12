@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28685.html
+Rate of Convergence of a Class of Methods of Feasible Directions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Rate of Convergence of a Class of Methods of Feasible Directions
+Rate of Convergence of a Class of Methods of Feasible Directions
+O. Pironneau and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M301
+July 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-301.pdf
+BibTeX citation:
+@techreport{Pironneau:M301,
+Author = {Pironneau, O. and Polak, E.},
+Title = {Rate of Convergence of a Class of Methods of Feasible Directions},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28685.html},
+Number = {UCB/ERL M301}
+}
+EndNote citation:
+%0 Report
+%A Pironneau, O.
+%A Polak, E.
+%T Rate of Convergence of a Class of Methods of Feasible Directions
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M301
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28685.html
+%F Pironneau:M301

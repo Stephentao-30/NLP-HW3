@@ -1,0 +1,40 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-187.html
+Interference Management Techniques for Multi-Standard Wireless Receivers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Interference Management Techniques for Multi-Standard Wireless Receivers
+Interference Management Techniques for Multi-Standard Wireless Receivers
+Ashkan Borna
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-187
+December 1, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-187.pdf
+The performance of wireless standards is improving steadily for a foreseeable future. Wireless communications are used for a variety of applications from data steaming to Internet access. There is an increasing need for wireless connectivity with emerging applications. More frequency spectrum is going to be opened-up and the number of standards seems to increase even further to cover this gap and the question arises of how to design the next generation of wireless receivers. From a general perspective it is very appealing to have a single handheld device that can support a large number of wireless standards. Consequently, mobile handsets have started supporting multiple modes over the past few years. Since there are too many standards, integrating multiple dedicated radios on one platform is leading to bulky, complex designs and hence hardware sharing is becoming the only solution. One of the last hurdles in the realization of a multi-standard receiver is the elimination of off-chip SAW filters. Direct conversion receivers are widely implemented due to low cost and high-levels of integration at the cost of sensitivity to interferes and second order distortion, which are key contributors to degrading system sensitivity. This thesis describes two linearity enhancement techniques for an RF receiver. A self-calibrating even-order distortions technique is presented whereby different mecha- nisms responsible for even-order distortions, characterized by IIP2 metric (Second Harmonic Input referred Intercept Point), were independently calibrated, resulting in robust perfor- mance independent of the amplitude and frequency of the blocker. Second, an active dynamic blocker-notching scheme is proposed and tested. The filter uses the blocker frequency to up- convert a DC null to the pass-band, attenuating the blocker before entering the receiver. The prototype circuits are fabricated in a 90nm CMOS technology. Measurements were performed on a PCB with a packaged chip. IIP2 measurements were performed with the blocker frequency and power swept. The IIP2 of more than 60dBm for wide range of blockers as high as -10dBm has been achieved which satisfy the most stringent IIP2 requirements. To test the functionality of the dynamic notch, a blocker signal and a desired signal are summed and injected into the front-end receiver. The amount of desired blocker attenuation and the amount of undesired in-band signal attenuation are both measured versus the offset frequency of the blocker. Blocker attenuation as large as 20dB is observed at only 40 MHz offset while the in-band attenuation increases by only 2dB. The resulting increase in noise figure due to the blocker is 4dB. When all of this data is taken into account, the overall SNR improvement due to the notch filter is as high as 14dB. This proves that the technique may be effective for attenuating blockers.
+Advisor:  Ali Niknejad
+BibTeX citation:
+@phdthesis{Borna:EECS-2014-187,
+Author = {Borna, Ashkan},
+Title = {Interference Management Techniques for Multi-Standard Wireless Receivers},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-187.html},
+Number = {UCB/EECS-2014-187},
+Abstract = {The performance of wireless standards is improving steadily for a foreseeable future. Wireless communications are used for a variety of applications from data steaming to Internet access. There is an increasing need for wireless connectivity with emerging applications. More frequency spectrum is going to be opened-up and the number of standards seems to increase even further to cover this gap and the question arises of how to design the next generation of wireless receivers.
+From a general perspective it is very appealing to have a single handheld device that can support a large number of wireless standards. Consequently, mobile handsets have started supporting multiple modes over the past few years. Since there are too many standards, integrating multiple dedicated radios on one platform is leading to bulky, complex designs and hence hardware sharing is becoming the only solution. One of the last hurdles in the realization of a multi-standard receiver is the elimination of off-chip SAW filters. Direct conversion receivers are widely implemented due to low cost and high-levels of integration at the cost of sensitivity to interferes and second order distortion, which are key contributors to degrading system sensitivity. This thesis describes two linearity enhancement techniques for an RF receiver.
+A self-calibrating even-order distortions technique is presented whereby different mecha- nisms responsible for even-order distortions, characterized by IIP2 metric (Second Harmonic Input referred Intercept Point), were independently calibrated, resulting in robust perfor- mance independent of the amplitude and frequency of the blocker. Second, an active dynamic blocker-notching scheme is proposed and tested. The filter uses the blocker frequency to up- convert a DC null to the pass-band, attenuating the blocker before entering the receiver. The prototype circuits are fabricated in a 90nm CMOS technology. Measurements were performed on a PCB with a packaged chip.
+IIP2 measurements were performed with the blocker frequency and power swept. The IIP2 of more than 60dBm for wide range of blockers as high as -10dBm has been achieved which satisfy the most stringent IIP2 requirements. To test the functionality of the dynamic notch, a blocker signal and a desired signal are summed and injected into the front-end receiver. The amount of desired blocker attenuation and the amount of undesired in-band signal attenuation are both measured versus the offset frequency of the blocker. Blocker attenuation as large as 20dB is observed at only 40 MHz offset while the in-band attenuation increases by only 2dB. The resulting increase in noise figure due to the blocker is 4dB. When all of this data is taken into account, the overall SNR improvement due to the notch filter is as high as 14dB. This proves that the technique may be effective for attenuating blockers.}
+}
+EndNote citation:
+%0 Thesis
+%A Borna, Ashkan
+%T Interference Management Techniques for Multi-Standard Wireless Receivers
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 1
+%@ UCB/EECS-2014-187
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-187.html
+%F Borna:EECS-2014-187

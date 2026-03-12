@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28735.html
+An Asymptotic Expansion for the Quantization Error of Closely Spaced Uniform Quantizers with Gaussian Input | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Asymptotic Expansion for the Quantization Error of Closely Spaced Uniform Quantizers with Gaussian Input
+An Asymptotic Expansion for the Quantization Error of Closely Spaced Uniform Quantizers with Gaussian Input
+E.R. Berlekamp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M381
+January 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-381.pdf
+BibTeX citation:
+@techreport{Berlekamp:M381,
+Author = {Berlekamp, E.R.},
+Title = {An Asymptotic Expansion for the Quantization Error of Closely Spaced Uniform Quantizers with Gaussian Input},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28735.html},
+Number = {UCB/ERL M381}
+}
+EndNote citation:
+%0 Report
+%A Berlekamp, E.R.
+%T An Asymptotic Expansion for the Quantization Error of Closely Spaced Uniform Quantizers with Gaussian Input
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M381
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28735.html
+%F Berlekamp:M381

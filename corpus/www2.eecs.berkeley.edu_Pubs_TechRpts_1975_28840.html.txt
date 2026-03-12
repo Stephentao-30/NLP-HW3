@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28840.html
+A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices
+A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices
+A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M568
+November 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-568.pdf
+BibTeX citation:
+@techreport{Sangiovanni-Vincentelli:M568,
+Author = {Sangiovanni-Vincentelli, A.},
+Title = {A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28840.html},
+Number = {UCB/ERL M568}
+}
+EndNote citation:
+%0 Report
+%A Sangiovanni-Vincentelli, A.
+%T A Note on Bipartite Graphs and Pivot Selection in Sparse Matrices
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M568
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28840.html
+%F Sangiovanni-Vincentelli:M568

@@ -1,0 +1,223 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/csc_8h_source.html
+Compressed Sparse Blocks: csc.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+csc.h
+Go to the documentation of this file.     1   #ifndef _CSC_H_
+2   #define _CSC_H_
+3
+4   #include " triple.h "
+5   #include <iterator>
+6   #include <array>
+7
+8   using namespace  std;
+9
+10
+11   template  < class  T,  class  ITYPE>
+12   struct  Triple ;
+13
+14   template  < class  T,  class  ITYPE>
+15   class  Csc
+16  {
+17   public :
+18       Csc  ():nz(0), m(0), n(0), logicalnz(0), issym(false) {}              // default constructor
+19       Csc  (ITYPE size,ITYPE rows, ITYPE cols,  bool  isSym= false );
+20       Csc  ( const   Csc<T, ITYPE>  & rhs);         // copy constructor
+21      ~ Csc ();
+22       Csc<T, ITYPE>  & operator=( const   Csc<T, ITYPE>  & rhs);    // assignment operator
+23       Csc  ( Triple<T, ITYPE>  * triples, ITYPE size, ITYPE rows, ITYPE cols,  bool  isSym= false );
+24       Csc  (ITYPE * ri, ITYPE * ci, T * val, ITYPE size, ITYPE rows, ITYPE cols,  bool  isSym= false );
+25
+26       // we have to use another function because the compiler will reject another constructor with the same signature
+27       void   SetPointers  (ITYPE * colpointers, ITYPE * rowindices, T * vals, ITYPE size, ITYPE rows, ITYPE cols,  bool  fortran)
+28      {
+29          jc = colpointers;
+30          ir = rowindices;
+31          num = vals;
+32          nz = size;
+33          m = rows;
+34          n = cols;
+35          issym =  false ;
+36          logicalnz = size;
+37
+38           if (fortran)
+39          {
+40              transform(jc, jc+n+1, jc, bind2nd(minus<ITYPE>(),1));
+41              transform(ir, ir+nz, ir, bind2nd(minus<ITYPE>(),1));
+42          }
+43      }
+44
+45      ITYPE  colsize ()  const  {  return  n;}
+46      ITYPE  rowsize ()  const  {  return  m;}
+47      ITYPE *  getjc ()  const  {  return  jc;}
+48      ITYPE *  getir ()  const  {  return  ir;}
+49      T *  getnum ()  const  {  return  num;}
+50      ITYPE  getlogicalnnz ()  const
+51     {
+52           return  logicalnz;
+53      }
+54
+55   private :
+56       void  Resize(ITYPE nsize);
+57       bool  issym;
+58
+59      ITYPE * jc ;     // col pointers, size n+1
+60      ITYPE * ir;      // row indices, size nnz
+61      T * num;     // numerical values, size nnz
+62
+63      ITYPE logicalnz;
+64      ITYPE nz;
+65      ITYPE m;         //  number of rows
+66      ITYPE n;         //  number of columns
+67
+68       template  < class  U,  class  UTYPE>
+69       friend   class  CsbSym ;
+70       template  < class  U,  class  UTYPE>
+71       friend   class  BiCsb ;
+72       template  < class  U,  class  UTYPE,  unsigned  UDIM>
+73       friend   class  BmCsb ;
+74       template  < class  U,  class  UTYPE,  unsigned  UDIM>
+75       friend   class  BmSym ;
+76
+77       template  < typename  U,  typename  UTYPE>
+78       friend   void   csc_gaxpy  ( const   Csc<U, UTYPE>  & A, U * x, U * y);
+79
+80       template  < typename  U,  typename  UTYPE>
+81       friend   void   csc_gaxpy_trans  ( const   Csc<U, UTYPE>  & A, U * x, U * y);
+82
+83       template  < int  D,  typename  NT,  typename  IT>
+84       friend   void   csc_gaxpy_mm ( const   Csc<NT,IT>  & A, array<NT,D> * x, array<NT,D> * y);
+85
+86       template  < int  D,  typename  NT,  typename  IT>
+87       friend   void   csc_gaxpy_mm_trans ( const   Csc<NT,IT>  & A, array<NT,D> * x, array<NT,D> * y);
+88  };
+89
+90   /* y = A*x+y */
+91   template  < typename  T,  typename  ITYPE>
+92   void   csc_gaxpy  ( const   Csc<T, ITYPE>  & A, T * x, T * y)
+93  {
+94       if (A.issym)
+95      {
+96           for  (ITYPE j = 0 ; j < A.n ; ++j)    // for all columns of A
+97          {
+98               for  (ITYPE k = A.jc [j] ; k < A.jc [j+1] ; ++k)
+99              {
+100                  y [ A.ir[k] ] += A.num[k]  * x [j] ;
+101                   if ( j != A.ir[k] )
+102                      y [ j ] += A.num[k] * x[ A.ir[k] ] ;     // perform the symmetric update
+103              }
+104          }
+105      }
+106       else
+107      {
+108           for  (ITYPE j = 0 ; j < A.n ; ++j)    // for all columns of A
+109          {
+110               for  (ITYPE k = A.jc [j] ; k < A.jc [j+1] ; ++k)  // scale jth column with x[j]
+111              {
+112                  y [ A.ir[k] ] += A.num[k]  * x [j] ;
+113              }
+114          }
+115      }
+116  }
+117
+118
+119   /* y = A' x + y */
+120   template  < typename  T,  typename  ITYPE>
+121   void   csc_gaxpy_trans ( const   Csc<T,ITYPE>  & A, T * x, T * y)
+122  {
+123       if (A.issym)
+124      {
+125          cout <<  "Trying to run A'x on a symmetric matrix doesn't make sense"  << endl;
+126          cout <<  "Are you sure you're using the right data structure?"  << endl;
+127           return ;
+128      }
+129
+130       for  (ITYPE j = 0; j< A.n; ++j)
+131      {
+132           for (ITYPE k= A.jc[j]; k < A.jc[j+1]; ++k)
+133          {
+134              y[j] += A.num[k] * x [ A.ir[k] ];
+135          }
+136      }
+137  }
+138
+139
+140   /* Y = A X + Y */
+141   template  < int  D,  typename  NT,  typename  IT>
+142   void   csc_gaxpy_mm ( const   Csc<NT,IT>  & A, array<NT,D> * x, array<NT,D> * y)
+143  {
+144       if (A.issym)
+145      {
+146          cout <<  "Symmetric csc_gaxpy_mm not implemented yet"  << endl;
+147           return ;
+148      }
+149
+150       for  (IT j = 0 ; j < A.n ; ++j)   // for all columns of A
+151      {
+152           for  (IT k = A.jc[j] ; k < A.jc[j+1] ; ++k)   // scale jth column with x[j]
+153          {
+154               for ( int  i=0; i<D; ++i)
+155              {
+156                  y[A.ir[k]][i] += A.num[k] * x[j][i];
+157              }
+158          }
+159      }
+160
+161  }
+162
+163
+164   /* Y = A' X + Y */
+165   template  < int  D,  typename  NT,  typename  IT>
+166   void   csc_gaxpy_mm_trans ( const   Csc<NT,IT>  & A, array<NT,D> * x, array<NT,D> * y)
+167  {
+168       if (A.issym)
+169      {
+170          cout <<  "Trying to run A'x on a symmetric matrix doesn't make sense"  << endl;
+171          cout <<  "Are you sure you're using the right data structure?"  << endl;
+172           return ;
+173      }
+174
+175       for  (IT j = 0; j< A.n; ++j)
+176      {
+177           for (IT k= A.jc[j]; k < A.jc[j+1]; ++k)
+178          {
+179               for ( int  i=0; i<D; ++i)
+180              {
+181                  y[j][i] +=  A.num[k] * x[A.ir[k]][i];
+182              }
+183          }
+184      }
+185  }
+186
+187
+188   #include " csc.cpp "   // Template member function definitions need to be known to the compiler
+189   #endif
+190
+Csc::getir ITYPE * getir() const  Definition:   csc.h:48
+csc_gaxpy_mm void csc_gaxpy_mm(const Csc< NT, IT > &A, array< NT, D > *x, array< NT, D > *y) Definition:   csc.h:142
+BmCsb Definition:   bmcsb.h:21
+csc_gaxpy_mm_trans void csc_gaxpy_mm_trans(const Csc< NT, IT > &A, array< NT, D > *x, array< NT, D > *y) Definition:   csc.h:166
+Csc::rowsize ITYPE rowsize() const  Definition:   csc.h:46
+Csc::Csc Csc() Definition:   csc.h:18
+triple.h
+csc.cpp
+Csc::getnum T * getnum() const  Definition:   csc.h:49
+BmSym Definition:   bmsym.h:50
+CsbSym Definition:   csbsym.h:43
+Csc::getlogicalnnz ITYPE getlogicalnnz() const  Definition:   csc.h:50
+Triple Definition:   csc.h:12
+Csc::getjc ITYPE * getjc() const  Definition:   csc.h:47
+csc_gaxpy void csc_gaxpy(const Csc< T, ITYPE > &A, T *x, T *y) Definition:   csc.h:92
+Csc Definition:   csc.h:15
+Csc::SetPointers void SetPointers(ITYPE *colpointers, ITYPE *rowindices, T *vals, ITYPE size, ITYPE rows, ITYPE cols, bool fortran) Definition:   csc.h:27
+BiCsb Definition:   bicsb.h:19
+Csc::colsize ITYPE colsize() const  Definition:   csc.h:45
+csc_gaxpy_trans void csc_gaxpy_trans(const Csc< T, ITYPE > &A, T *x, T *y) Definition:   csc.h:121
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

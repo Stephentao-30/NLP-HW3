@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28727.html
+A Graph-Theoretic Approach to Linearly Orderable Sets
+Kapali P. Eswaran
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M369
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-369.pdf
+BibTeX citation:
+@techreport{Eswaran:M369,
+Author= {Eswaran, Kapali P.},
+Title= {A Graph-Theoretic Approach to Linearly Orderable Sets},
+Year= {1972},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28727.html},
+Number= {UCB/ERL M369},
+}
+EndNote citation:
+%0 Report
+%A Eswaran, Kapali P.
+%T A Graph-Theoretic Approach to Linearly Orderable Sets
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M369
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28727.html
+%F Eswaran:M369

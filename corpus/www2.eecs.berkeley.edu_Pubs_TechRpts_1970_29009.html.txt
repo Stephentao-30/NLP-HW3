@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29009.html
+On the Multiple-Input Multiple-Output Discrete Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Multiple-Input Multiple-Output Discrete Systems
+On the Multiple-Input Multiple-Output Discrete Systems
+E.I. Jury, S.M. Ahn and B.W. Lee
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M271
+January 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-271.pdf
+BibTeX citation:
+@techreport{Jury:M271,
+Author = {Jury, E.I. and Ahn, S.M. and Lee, B.W.},
+Title = {On the Multiple-Input Multiple-Output Discrete Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29009.html},
+Number = {UCB/ERL M271}
+}
+EndNote citation:
+%0 Report
+%A Jury, E.I.
+%A Ahn, S.M.
+%A Lee, B.W.
+%T On the Multiple-Input Multiple-Output Discrete Systems
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M271
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29009.html
+%F Jury:M271

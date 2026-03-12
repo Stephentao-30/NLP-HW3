@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1992/6022.html
+The Nachos Instructional Operating System | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Login
+The Nachos Instructional Operating System
+Wayne A. Christopher, Steven J. Procter and Thomas E. Anderson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-93-739
+1992
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1993/CSD-93-739.pdf
+In teaching operating systems at an undergraduate level, we believe that it is important to provide a project that is realistic enough to show how real operating systems work, yet is simple enough that the students can understand and modify it in significant ways. A number of these instructional systems have been created over the last two decades, but recent advances in hardware and software design, along with the increasing power of available computational resources, have changed the basis for many of the tradeoffs made by these systems.  We have implemented an instructional operating system, called Nachos, and designed a series of assignments to go with it. Our system includes CPU and device simulators, and it runs as a regular UNIX process. Nachos illustrates and takes advantage of modern operating systems technology, such as threads and remote procedure calls, recent hardware advances, such as RISC's and the prevalence of memory hierarchies, and modern software design techniques, such as protocol layering and object-oriented programming. Nachos has been used to teach undergraduate operating systems classes at several universities with positive results.
+BibTeX citation:
+@techreport{Christopher:CSD-93-739,
+Author = {Christopher, Wayne A. and Procter, Steven J. and Anderson, Thomas E.},
+Title = {The Nachos Instructional Operating System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1992},
+Month = {Nov},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/6022.html},
+Number = {UCB/CSD-93-739}
+}
+EndNote citation:
+%0 Report
+%A Christopher, Wayne A.
+%A Procter, Steven J.
+%A Anderson, Thomas E.
+%T The Nachos Instructional Operating System
+%I EECS Department, University of California, Berkeley
+%D 1992
+%@ UCB/CSD-93-739
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1992/6022.html
+%F Christopher:CSD-93-739
+Home
+|
+©
+UC Berkeley EECS
+|
+Dec 16, 2023 04:38
+|
+Contact Webteam

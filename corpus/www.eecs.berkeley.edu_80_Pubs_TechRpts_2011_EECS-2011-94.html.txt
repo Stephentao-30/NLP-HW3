@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-94.html
+Switched Capacitor DC-DC Converter: Superior where the Buck Converter has Dominated
+Vincent Wai-Shan Ng and Seth R. Sanders
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-94
+August 17,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-94.pdf
+The traditional inductor-based buck converter has been the default design for switched-mode voltage regulators for decades. Switched capacitor (SC) dc-dc converters, on the other hand, have traditionally been used in low power and low conversion ratio applications where neither regulation nor efficiency is critical. This work encompasses the complete successful design, fabrication, and test of a CMOS based switched capacitor dc-dc converter, addressing the ubiquitous 12 V to 1.5 V board-mounted point-of-load application, which the buck converter has dominated. In particular, the circuit developed in this work attains higher efficiency (92% peak, and >80% over a load range of 5 mA to 1 A) than surveyed competitive buck converters, while requiring less board area and less costly passive components. The topology and controller enable a wide input range of 7.5 V to 13.5 V. Controls based on feedback and feedforward provide tight regulation under worst case line and load step conditions. This work shows that the SC converter can outperform the buck converter, and thus the scope of SC converter application can and should be expanded.
+Advisors:  Seth R. Sanders
+BibTeX citation:
+@phdthesis{Ng:EECS-2011-94,
+Author= {Ng, Vincent Wai-Shan and Sanders, Seth R.},
+Title= {Switched Capacitor DC-DC Converter: Superior where the Buck Converter has Dominated},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-94.html},
+Number= {UCB/EECS-2011-94},
+Abstract= {The traditional inductor-based buck converter has been the default design for switched-mode voltage regulators for decades. Switched capacitor (SC) dc-dc converters, on the other hand, have traditionally been used in low power and low conversion ratio applications where neither regulation nor efficiency is critical. This work encompasses the complete successful design, fabrication, and test of a CMOS based switched capacitor dc-dc converter, addressing the ubiquitous 12 V to 1.5 V board-mounted point-of-load application, which the buck converter has dominated. In particular, the circuit developed in this work attains higher efficiency (92% peak, and >80% over a load range of 5 mA to 1 A) than surveyed competitive buck converters, while requiring less board area and less costly passive components. The topology and controller enable a wide input range of 7.5 V to 13.5 V. Controls based on feedback and feedforward provide tight regulation under worst case line and load step conditions. This work shows that the SC converter can outperform the buck converter, and thus the scope of SC converter application can and should be expanded.},
+}
+EndNote citation:
+%0 Thesis
+%A Ng, Vincent Wai-Shan
+%A Sanders, Seth R.
+%T Switched Capacitor DC-DC Converter: Superior where the Buck Converter has Dominated
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 17
+%@ UCB/EECS-2011-94
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-94.html
+%F Ng:EECS-2011-94

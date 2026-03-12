@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/28398.html
+DC Power Supply Design in Portable Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+DC Power Supply Design in Portable Systems
+DC Power Supply Design in Portable Systems
+Anthony J. Stratakos, Charles R. Sullivan, Seth R. Sanders and Robert W. Brodersen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M95/4
+January 1995
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/ERL-95-4.pdf
+BibTeX citation:
+@techreport{Stratakos:M95/4,
+Author = {Stratakos, Anthony J. and Sullivan, Charles R. and Sanders, Seth R. and Brodersen, Robert W.},
+Title = {DC Power Supply Design in Portable Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1995},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/28398.html},
+Number = {UCB/ERL M95/4}
+}
+EndNote citation:
+%0 Report
+%A Stratakos, Anthony J.
+%A Sullivan, Charles R.
+%A Sanders, Seth R.
+%A Brodersen, Robert W.
+%T DC Power Supply Design in Portable Systems
+%I EECS Department, University of California, Berkeley
+%D 1995
+%@ UCB/ERL M95/4
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1995/28398.html
+%F Stratakos:M95/4

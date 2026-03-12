@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28564.html
+A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems
+A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems
+E. Polak and A.L. Tits
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/50
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-50.pdf
+BibTeX citation:
+@techreport{Polak:M80/50,
+Author = {Polak, E. and Tits, A.L.},
+Title = {A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28564.html},
+Number = {UCB/ERL M80/50}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Tits, A.L.
+%T A Recursive Quadratic Programming Algorithm for Semi-Infinite Optimization Problems
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28564.html
+%F Polak:M80/50

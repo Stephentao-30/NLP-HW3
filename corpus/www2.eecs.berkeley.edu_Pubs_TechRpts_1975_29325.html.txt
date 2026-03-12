@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29325.html
+Investigation of a New Class of Binary Search Tree Insertion Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Investigation of a New Class of Binary Search Tree Insertion Algorithms
+Investigation of a New Class of Binary Search Tree Insertion Algorithms
+Robert M. MacGregor
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M523
+June 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-523.pdf
+BibTeX citation:
+@techreport{MacGregor:M523,
+Author = {MacGregor, Robert M.},
+Title = {Investigation of a New Class of Binary Search Tree Insertion Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29325.html},
+Number = {UCB/ERL M523}
+}
+EndNote citation:
+%0 Report
+%A MacGregor, Robert M.
+%T Investigation of a New Class of Binary Search Tree Insertion Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M523
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29325.html
+%F MacGregor:M523

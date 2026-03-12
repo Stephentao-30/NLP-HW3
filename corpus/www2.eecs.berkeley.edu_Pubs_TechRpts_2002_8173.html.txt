@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/8173.html
+Bidigital Teletaction System Design and Performance
+Gabriel Moy
+EECS Department, University of California, Berkeley
+2002
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Moy:8173,
+Author= {Moy, Gabriel},
+Title= {Bidigital Teletaction System Design and Performance},
+School= {EECS Department, University of California, Berkeley},
+Year= {2002},
+}
+EndNote citation:
+%0 Thesis
+%A Moy, Gabriel
+%T Bidigital Teletaction System Design and Performance
+%I EECS Department, University of California, Berkeley
+%D 2002
+%F Moy:8173

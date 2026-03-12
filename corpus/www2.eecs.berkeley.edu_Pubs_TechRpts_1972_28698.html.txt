@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28698.html
+On Fuzzy Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Fuzzy Algorithms
+On Fuzzy Algorithms
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M325
+February 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-325.pdf
+BibTeX citation:
+@techreport{Zadeh:M325,
+Author = {Zadeh, L.A.},
+Title = {On Fuzzy Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28698.html},
+Number = {UCB/ERL M325}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T On Fuzzy Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M325
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28698.html
+%F Zadeh:M325

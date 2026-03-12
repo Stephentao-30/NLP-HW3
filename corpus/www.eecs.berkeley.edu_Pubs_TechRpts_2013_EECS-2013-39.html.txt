@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-39.html
+A Succinct Control Theory Derivation and New Experiments with the Square-Root Variant of Fitts' Law for Heterogeneous Targets
+Siamak Faridani
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-39
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-39.pdf
+In this work, we present a succinct derivation for the Square-Root model based on an explicit model from optimal control theory. Our derivation is intuitive and exact,
+makes fewer assumptions, and requires far fewer steps than the two-submovement derivation presented in Meyer et al. To compare the Square-Root model with statistical significance, we performed two extensive experiments with homogeneous
+and heterogeneous targets that appear in sequence on a plane. Later, we extend the two-parameter model to a more accurate three-parameter that increases the accuracy
+of the model over the two-parameter formulation. The succinct and intuitive derivation and new experimental results may enhance the appeal of the Square-Root
+model for design of systems and interfaces with heterogeneous targets.
+Advisors:  Ken Goldberg
+BibTeX citation:
+@mastersthesis{Faridani:EECS-2013-39,
+Author= {Faridani, Siamak},
+Title= {A Succinct Control Theory Derivation and New Experiments with the Square-Root Variant of Fitts' Law for Heterogeneous Targets},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-39.html},
+Number= {UCB/EECS-2013-39},
+Abstract= {In this work, we present a succinct derivation for the Square-Root model based on an explicit model from optimal control theory. Our derivation is intuitive and exact,
+makes fewer assumptions, and requires far fewer steps than the two-submovement derivation presented in Meyer et al. To compare the Square-Root model with statistical significance, we performed two extensive experiments with homogeneous
+and heterogeneous targets that appear in sequence on a plane. Later, we extend the two-parameter model to a more accurate three-parameter that increases the accuracy
+of the model over the two-parameter formulation. The succinct and intuitive derivation and new experimental results may enhance the appeal of the Square-Root
+model for design of systems and interfaces with heterogeneous targets.},
+}
+EndNote citation:
+%0 Thesis
+%A Faridani, Siamak
+%T A Succinct Control Theory Derivation and New Experiments with the Square-Root Variant of Fitts' Law for Heterogeneous Targets
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-39.html
+%F Faridani:EECS-2013-39

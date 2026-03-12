@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-70.html
+On the Lagrangian Biduality of Sparsity Minimization Problems
+Dheeraj Singaraju and Roberto Tron and Ehsan Elhamifar and Allen Yang and S. Shankar Sastry
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-70
+June 3,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-70.pdf
+BibTeX citation:
+@techreport{Singaraju:EECS-2011-70,
+Author= {Singaraju, Dheeraj and Tron, Roberto and Elhamifar, Ehsan and Yang, Allen and Sastry, S. Shankar},
+Title= {On the Lagrangian Biduality of Sparsity Minimization Problems},
+Year= {2011},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-70.html},
+Number= {UCB/EECS-2011-70},
+}
+EndNote citation:
+%0 Report
+%A Singaraju, Dheeraj
+%A Tron, Roberto
+%A Elhamifar, Ehsan
+%A Yang, Allen
+%A Sastry, S. Shankar
+%T On the Lagrangian Biduality of Sparsity Minimization Problems
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 June 3
+%@ UCB/EECS-2011-70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-70.html
+%F Singaraju:EECS-2011-70

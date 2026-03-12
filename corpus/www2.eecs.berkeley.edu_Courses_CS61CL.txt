@@ -1,0 +1,48 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS61CL
+Course: CS61CL | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS61CL
+CS 61CL. Machine Structures
+Catalog Description:  The same material as in 61C but in a lab-centric format.
+Units:  4.0
+Prerequisites:  61A, along with 61B or 61BL, or programming experience equivalent to that gained in 9C, 9F, or 9G .
+Credit Restrictions:  Students will receive no credit for 61CL after taking 47C or 61C. Deficiency in 61C may be removed by taking 61CL.
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:    Starting this semester, Fall 2010, we are reinventing CS61C, starting with a blank page as to what makes sense to teach of computer architecture and hardware in 2010 that will give a solid foundation on the topic on which to build that should last for decades.
+Rather the be something of a catch-all, as in the past, the goal is to learn the great ideas of computer design and implementation:
+Memory Hierarchy (e.g., Caches)
+Thread Level Parallelism (e.g., Multicore)
+Data Level Parallelism (e.g., MapReduce and Graphical Processing Units or GPUs)
+Instruction Level Parallelism (e.g., Pipelining)
+The Transistor and its rate of change (e.g., Moore's Law)
+Quantitative Evaluation (e.g., GFLOPS, Clocks Per Instruction or CPI)
+Layering of Hardware Levels of Abstraction (e.g., AND gates, Arithmetic Logic Unit or ALU, Central Processing Units or CPU)
+Compilation vs. Interpretation (e.g., C compiler, Java interpreter)
+Hardware Instruction Set Interpretation (e.g., instructions as binary numbers)
+The idea is to go over the big ideas at a higher level in the first two-thirds of the course, and then go back in more depth in the last third of the course.
+We use a running example through the whole course to illustrate the ideas, and  will be the basis of a programming contest in the last third of the course to see who can make the fastest version running on the latest multicore hardware.
+We use the C programming language and MIPS assembly language
+to demonstrate these great ideas.  The course closely follows the
+Patterson and Hennessy textbook supplemented by material on
+the C programming language.
+A sample week-by-week outline follows.
+1 - Introduction - Mobile Client vs Cloud Server
+2, 3 - C programming language vs MIPS assembly language
+4 - Computer Components and Compilation vs Interpretation
+5 - Quantitative Evaluation
+6 - Memory Hierarchy
+7 - Thread Level Parallelism
+8 - Data Level Parallelism
+9 - Transistors and Logic
+10 - Layers of HW Abstraction
+11 - Instruction Level Parallelism
+12 - In More Depth: Cache associativity, Cache coherence, Locks
+13 - In More Depth: Illusion of machine to yourself - Virtual Memory, Virtual Machines
+14 - In More Depth: Dependability via Redundancy - Error Correcting Codes, Redundant Array of Inexpensive Disks
+15 - Contest Results and Conclusion
+Coursework will involve weekly two-hour in-laboratory exercises
+designed to learn the big ideas by doing experiments.

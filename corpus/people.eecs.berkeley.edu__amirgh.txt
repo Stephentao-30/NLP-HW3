@@ -1,0 +1,276 @@
+URL: https://people.eecs.berkeley.edu/~amirgh
+Amir Gholami
+About
+Amir Gholami is a research scientist jointly in RiseLab and BAIR at UC Berkeley. He
+received his PhD from UT Austin, working on large scale 3D image
+segmentation, a research topic which received UT Austin’s best
+doctoral dissertation award in 2018. He is a Melosh Medal
+finalist, the recipient of best student paper award in SC'17,
+Gold Medal in the ACM Student Research Competition,
+best student paper finalist in SC’14, as well as Amazon Machine Learning Research Award in 2020.
+He was also part of the Nvidia team that for the first time made low precision neural network training
+possible (FP16), enabling more than 10x increase in compute power through tensor cores.
+That technology has been widely adopted in GPUs today.
+Amir's current research focuses on efficient AI at the Edge, and scalable training of Neural Network models
+( resume ).
+Contact Email: "amirgh _at_ berkeley . edu".
+Open Positions:
+There is an internship opportunity for research in the area of Efficient Machine Learning (the position requires the student to be enrolled in UC Berkeley). Please email me your CV if you are interested
+with the subject of "Efficient ML Internship Application".
+Recent News
+[05/08/21]:   Two papers accepted in ICML'21 :  I-BERT (20 min long talk) , and  HAWQ-V3 (short talk) .
+[04/14/21]:  I will give a talk at  GTC'21 , discussing  Systematic Methods for Neural Network Quantization .
+[03/29/21]:  Published a brief blog on  AI and Memory Wall .
+[02/17/21]:  I will give an invited lecture in UC Berkeley's EE290 course on  Quantization Methods for Efficient Neural Networks (Slides) .
+[01/15/21]:  I am excited to share our work and give the  opening Keynote talk at Intel System Architecture Summit (ISAS)   (Slides) .
+[11/15/20]:  Will be serving as Area Chair for  ICML'21 . I will try my best to make  Reviewer #2 to be fair!
+[09/25/20]:  Two papers accepted in  NeurIPS'20 :  HAWQ-V2 , and  Boundary Thickness and Robustness .
+[06/01/20]:  Our paper on  Rethinking Batch Normalization  has been accepted in  ICML 2020 .
+[04/21/20]:  I will serve as  Supercomputing conference   chair in Machine Learning track in 2021 .
+[02/25/20]:  I will give the   opening Keynote talk for NSF Workshop on Smart Cyberinfrastructure .
+[02/10/20]:  I will give an invited lecture in UC Berkeley's EE 290 course on  Efficient Neural Network Training and Inference .
+[02/06/20]:  I will give an invited lecture in Stanford's CS 217 course on  Precision and Quantized Training for Deep Learning .
+[11/11/19]:  Two papers accepted in AAAI'20:  Q-BERT , and  Inefficiency of K-FAC for large batch size training .
+[09/30/19]:  Two papers accepted in  NeurIPS'19 :  ANODEV2  in the main conference, and our work on Trace Weighted Quantization as  spotlight  in  beyond first order methods workshop .
+[09/29/19]:  I will be presenting our work on second-order quantization ( HAWQ  and  Q-BERT ) in  BLISS seminar  on October 2nd.
+[08/15/19]:  Very excited to participate in  AI4ALL ,
+an annual teaching program for high school students from underrepresented communities to promote  diversity and inclusion in AI .
+[05/07/19]:  Congratulations to Linjian Ma (now PhD student at UIUC), Jiayu Ye (now at Google), and Gabe Montague (co-founder of Bike and Pedal)
+on successfully defending their Masters project.
+[03/21/19]:  Will be giving a talk at  BSTARS'19 .
+Many thanks to the Berkeley Statistics department for the invitation.
+[03/01/19]:  Our  Trust Region  paper has been accepted to CVPR'19!
+[02/28/19]:  Will be giving a talk in Fifth Annual Industry Day at Simons Institute
+[11/06/18]:  Three papers accepted in NeurIPS'18 (one main conference and two workshops)
+[11/01/18]:  I will be giving a talk in Stanford CME-510 lecture series
+[03/30/18]:  Just learned that my PhD thesis has won UT Austin's  2018 Outstanding Disseration Award .
+Thanks George for your great mentorship
+[03/28/18]:  We have released  SqueezeNext , the smallest neural network designed so far ( 112x smaller than AlexNet )
+[03/05/18]:  Bichen's paper is selected for spotlight in CVPR'18
+[02/26/18]:  Selected as a finalist for  Robert J. Melosh Medal . Very excited to visit Duke University
+[02/08/18]:  Will be giving a lecture in  CS267  on GPUs  [Watch Here]
+[11/21/17]:   Our paper  won the  Best Student Paper award  at SC'17!
+[05/08/17]:  Invited to will give a talk at  Stanford ICME Rising Stars .
+Students
+Over the years, I have been fortunate to have the opportunity to work with and mentor the following talented students.
+Current Students:
+Sean Lin:  Undergraduate student at UC Berkeley
+John So:  Undergraduate student at UC Berkeley
+Arvind Rajaraman:  Undergraduate student at UC Berkeley
+Shixing Yu:      Vising undergraduate from PKU
+Alumni (Gone but not forgotten):
+Daiyaan Arfeen:  Undergraduate (Now PhD Student at CMU)
+Norman Mu:  Undergraduate (Now PhD Student at Berkeley)
+Zach Zheng:      Masters student (Now at Apple)
+Eric Tan:        Masters student (Now at Google)
+Naijing Zhang:   Masters student (Now at Google Youtube)
+Yifan Bai:       Masters student (Now at Amazon)
+Tianmu Lei:      Masters student (Now at Google)
+Xinran Rui:      Masters student (Now at TensTorrent)
+Sarvagya Singh:  Masters student (Now at Forward Health)
+Hanbing Zhan:    Masters student (Now at ByteDance)
+Xing Jin:        Masters student (Now at Volume Hedge Fund)
+Vyom Kavishwar:  Masters student (Now at Hive)
+Sheng Shen:      Masters student (Now PhD Student at Berkeley)
+Jiayu Ye:        Masters student (Now at Google)
+Gabe Montague:   Masters student (Co-founder of "Park and Pedal")
+Linjian Ma:      Masters student (Now PhD student at UIUC)
+Varun Shenoy:    High school student (Now undergrad at Stanford)
+Publications
+Papers
+Learned Token Pruning for Transformers
+S. Kim, S. Sheng, D. Thorsley, A. Gholami, J. Hassoun, K. Keutzer
+arxiv:2107.00910, 2021.
+Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition
+S. Kim, A. Gholami, Z. Yao, Anirudda Nrusimha, Bohan Zhai, Tianren Gao, M. W. Mahoney, K. Keutzer
+arxiv:2103.16827, 2021.
+A Survey of Quantization Methods for Efficient Neural Network Inference
+A. Gholami*, S. Kim*, Z. Dong*, Z. Yao*, M. W. Mahoney, K. Keutzer
+Book Chapter: Low-Power Computer Vision: Improving the Efficiency of Artificial Intelligence, 2021.
+Hessian-Aware Pruning and Optimal Neural Implant
+S. Yu*, A. Gholami*, Z. Yao*, Z. Dong*, M. W. Mahoney, K. Keutzer
+arxiv:2101.08940, 2021.
+I-BERT: Integer-only BERT Quantization
+S. Kim*, A. Gholami*, Z. Yao*, M. W. Mahoney, K. Keutzer
+ICML, 2021 (Accepted, Long talk).
+HAWQ-V3: Dyadic Neural Network Quantization
+Z. Yao*, Z. Dong*, Z. Zheng*, A. Gholami*, E. Tan, J. Li, L. Yuan, Q. Huang, Y. Wang, M. W. Mahoney, K. Keutzer
+ICML, 2021 (Accepted).
+Boundary thickness and robustness in learning models
+Y. Yang, R. Khanna, Y. Yu, A. Gholami, K. Keutzer, J. Gonzalez, K. Ramchandran, M. Mahoney
+NeurIPS, 2020.
+ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning
+Z. Yao*, A. Gholami*, S. Shen, M. Mustafa, M. Mahoney, K. Keutzer
+AAAI, 2021.
+PowerNorm: Rethinking Batch Normalization in Transformers
+S. Shen, Z. Yao, A. Gholami, M. Mahoney, K. Keutzer
+ICML, 2020.
+ZeroQ: A Novel Zero Shot Quantization Framework,
+Y. Cai, Z. Yao, Z. Dong, A. Gholami, M. Mahoney, K. Keutzer
+CVPR, 2020.
+[Code]
+PyHessian: Neural Networks Through the Lens of the Hessian,
+Z. Yao*, A. Gholami*, K. Keutzer, M. Mahoney
+IEEE BigData (Oral Presentation), 2020.
+(also a  Spotlight at ICML  workshop on Beyond First-Order Optimization Methods in Machine Learning)
+[Code]
+HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks,
+Z. Dong, Z. Yao, D. Arfeen, A. Gholami, M. Mahoney, K. Keutzer
+NeurIPS, 2020.
+Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization,
+P. Jain, A. Jain, A. Nrusimha , A. Gholami, P. Abbeel, K. Keutzer, I. Stoica, J. Gonzalez
+MLSys, 2020.
+[Code]
+Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT,
+S. Shen, Z. Dong, J. Ye, L. Ma, Z. Yao, A. Gholami, M. Mahoney, K. Keutzer,
+AAAI, 2020.
+ANODEV2: A Coupled Neural ODE Evolution Framework,
+T. Zhang*, Z. Yao*, A. Gholami*, K Keutzer, J. Gonzalez, G. Biros, MW. Mahoney,
+NeurIPS, 2019.
+HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision,
+Z Dong*, Z Yao*, A Gholami*, K Keutzer, MW Mahoney,
+ICCV, 2019.
+Inefficiency of K-FAC for Large Batch Size Training,
+L. Ma, G. Montague, J. Ye, Z. Yao, A. Gholami, K. Keutzer, MW. Mahoney,
+AAAI, 2020.
+ANODE: Unconditionally AccurateMemory-Efficient Gradients for Neural ODEs,
+A. Gholami, K. Keutzer, G. Biros,
+IJCAI, 2019.
+Trust region based adversarial attack on neural networks,
+Z. Yao, A. Gholami, P. Xu, K. Keutzer, and M. Mahoney,
+CVPR, 2019.
+A Novel Domain Adaptation Framework for Medical Image Segmentation,
+A. Gholami, S. Subramanian, V. Shenoy, N. Himthani, X. Yue, S. Zhao, P. Jin, G. Biros, K. Keutzer,
+Lecture Notes in Computer Science (LNCS), Springer, 2018.
+Simulation of glioblastoma growth using a 3D multispecies tumor model with mass effect,
+S. Subramanian, A. Gholami, G. Biros,
+Journal of Mathematical Biology (JMatBio), 2019.
+Large Batch Size Training of Neural Networks with Adversarial Training and Second-Order Information,
+Z. Yao*, A. Gholami*, D. Arfeen, R. Liaw, J. Gonzalez, K. Keutzer, M. Mahoney,
+arxiv preprint, arxiv:1810.01021, 2018.
+On the Computational Inefficiency of Large Batch Sizes for Stochastic Gradient Descent,
+N. Golmant, N. Vemuri, Z. Yao, V. Feinberg, A. Gholami, K. Rothauge, M. Mahoney, J. Gonzalez,
+arxiv preprint, arxiv:1811.12941, 2018.
+Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications,
+K. Kwon, A. Amid, A. Gholami, B. Wu, K. Keutzer,
+Design Automation Conference (DAC), 2018.
+Hessian-based Analysis of Large Batch Training and Robustness to Adversaries,
+Z. Yao*, A. Gholami*, Q. Lei, K. Keutzer, M. Mahoney,
+NeurIPS, 2018.
+Integrated Model, Batch and Domain Parallelism in Training Neural Networks,
+A. Gholami, A. Azad, P. Jin, K. Keutzer, A. Buluc,
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
+Shift: A zero flop, zero parameter alternative to spatial convolutions,
+B. Wu, A. Wan, X. Yue, P. Jin, S. Zhao, N. Golmant, A. Gholami, J. Gonzalez, K. Keutzer,
+CVPR (Spotlight talk), 2018.
+Personalized Emotion Recognition by Personality-aware High-order Learning of Physiological Signals,
+S. Zhao, A. Gholami, G. Ding, J. Han, K. Keutzer,
+ACM Transactions on MultiMedia Computing, 2018.
+CLAIRE: A distributed-memory solver for constrained large deformation diffeomorphic image registration,
+A. Mang, A. Gholami, C. Davatzikos, G. Biros,
+SIAM Journal on Scientific Computing, 2019.
+Coupling brain-tumor biophysical models and diffeomorphic image registration,
+K. Scheufele, A. Mang, A. Gholami, C. Davatzikos, G. Biros, and M. Mehl,
+Computer Methods in Applied Mechanics and Engineering, 2019.
+SIBIA-GlS: Scalable biophysics-based image analysis for glioma segmentation,
+A. Mang, S. Tharakan A. Gholami, N. Himthani, S. Subramanian, J. Levitt, M. Azmat, K. Scheufele, M. Mehl, C. Davatzikos, B. Barth, and G. Biros,
+The multimodal brain tumor image segmentation benchmark (BRATS), MICCAI, 2017.
+A framework for scalable biophysics-based image analysis,
+A. Gholami, A. Mang, K. Scheufele, C. Davatzikos, M. Mehl, and G. Biros,
+Proceedings of ACM/IEEE SuperComputing Conference (SC), 2017.
+PDE constrained optimization in medical image analysis,
+A. Mang, A. Gholami, C. Davatzikos, and G. Biros,
+Optimization and Engineering, 2017.
+Distributed-memory large-deformation diffeomorphic 3D image registration,
+A. Mang, A. Gholami, and G. Biros,
+Proceedings of ACM/IEEE SuperComputing Conference (SC), 2016.
+AccFFT: A library for distributed-memory FFT on CPU and GPU architectures,
+A. Gholami, J. Hill, D. Malhotra, and G. Biros,
+arxiv preprint, arxiv:1506.07933, 2018.
+A volume integral equation Stokes solver for problems with variable coefficients,
+D. Malhotra, A. Gholami, and G. Biros,
+Proceedings of ACM/IEEE SuperComputing Conference (SC), 2014  (Best Student Paper Finalist) .
+An inverse problem formulation for parameter estimation of a reaction–diffusion model of low grade gliomas,
+A. Gholami, A. Mang, and G. Biros,
+Journal of mathematical biology, Vol. 72, pp 409-433, 2015.
+FFT, FMM, or Multigrid? A comparative Study of State-Of-the-Art Poisson Solvers for Uniform and Nonuniform Grids in the Unit Cube,
+A. Gholami, D. Malhotra, H. Sundar and G. Biros. ,
+SIAM Journal on Scientific Computing, Vol. 38 (3), 2016.
+Workshops
+Trace weighted Hessian-aware quantization,
+Z. Dong, Z. Yao, D. Arfeen, Y. Cai, A. Gholami, M. Mahoney, and K. Keutzer,
+Spotlight at NuerIPS'19  workshop on Beyond First-Order Optimization Methods in Machine Learning, 2019.
+Parameter re-initialization through cyclical batch- scheduling,
+N. Mu, Z. Yao, A. Gholami, K. Keutzer, and M. Mahoney,
+SysML Workshop at NuerIPS, 2018.
+SqueezeNext: Hardware-Aware Neural Network Design,
+A. Gholami, K. Kwon, B. Wu, Z. Tai, X. Yue, P. Jin, S. Zhao, K. Keutzer,
+ECV Workshop at CVPR, 2018.
+Communication analysis of hybrid model and data parallelism in training neural networks,
+Amir Gholami, Ariful Azad, Kurt Keutzer, and Aydin Buluc,
+Deep Learning at Supercomputer Scale, NeurIPS, 2017.
+Selected Talks
+Nvidia GTC Conference, Apr., 2021,
+Systematic Neural Network Quantization, Nvidia GTC Conference.
+Opening Keynote, Intel System Architecture Summit (ISAS), Feb., 2021,
+Emerging AI Applications: Moving Beyond ResNet50 on ImageNet.
+Google Research, Dec., 2020,
+Systematic Quantization and Pruning for Efficient Neural Network Inference.
+Keynote in NSF Cyberinfrastructure workshop, Feb., 2020,
+An Integrated Approach for Efficient Neural Network Design, Training, and Inference.
+UC Berkeley, RiseLab Retreat, Jan. 2020,
+HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks.
+UC Berkeley, BLISS Seminar, Oct. 2019,
+Systematic Quantization of Neural Networks Through Second-Order Information.
+Facebook, AI Systems Faculty Summit, Sep. 2019,
+Efficient Neural Networks through Systematic Quantization.
+BSTARS'19, Berkeley Statistics Department, Mar. 2019,
+Neural Networks Through the Lens of the Hessian.
+Berkeley Simons Institute, 5th Annual Industry Day, Feb. 2019,
+ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs.
+Simons Randomized Numerical Linear Algebra and Applications Workshop, Sep. 2018,
+Large Scale Stochastic Training of Neural Networks.
+Simons Data Science Finale Workshop, Dec. 2018,
+Towards Robust Second-order Training of Neural Networks.
+Simons Weekly Optimization Reading Group, Oct. 2018,
+Second order optimization for convex and non-convex problems.
+NERSC Data Seminar, Dec. 2018,
+Beyond SGD: Robust Optimization and Second-Order Information  for Large-Scale Training of Neural Networks
+.
+Stanford, CME 510: Linear Algebra and Optimization Seminar, Nov. 2018,
+Large-scale training of Neural Networks
+.
+UCSF Radiology Department, Oct. 2018     ,
+A Domain Adaptation framework for Neural Network Based Medical Image Segmentation.
+Intel AI Meeting, Oct. 2018,
+Autonomous Driving Challenges in Computer Vision Research.
+Facebook AI Research, Sep. 2018,
+Challenges for Distributed Training of Neural Networks.
+Microsoft Research, Aug. 2018,
+Large Scale Training of Neural Networks
+.
+Berkeley Scientific Computing and Matrix Computations Seminar, Sep. 2017,
+A Framework for Scalable Biophysics-based Image Analysis
+.
+Stanford, ICME Star Talk Series, 2017,
+Fast algorithms for inverse problems with parabolic pde constraints with application to biophysics-based image analysis,
+SIAM Minisymposium on Imaging Sciences, Albuquerque, NM, USA, 2016,
+On preconditioning Newton method for PDE constrained optimization problems.
+13th U.S. National Congress on Computational Mechanics, San Diego, CA, USA, 2015,
+Challenges for exascale scalability of elliptic solvers using a model Poisson solver and comparing state-of-the art methods.
+SIAM CSE Minisymposium, Salt Lake, Utah, USA, 2015,
+Parameter estimation for malignant brain tumors.
+12th U.S. National Congress on Computational Mechanics, Raleigh, NC, USA, 2013,
+A numerical algorithm for biophysically-constrained parameter estimation for tumor modeling and data assimilation with medical images.
+SIAM Annual Meeting, San Diego, CA, USA, 2013,
+Image-driven inverse problem for estimating initial distribution of brain tumor modeled by advection-diffusion-reaction equation.
+Patents
+Dynamic directional rounding,
+A. Fit-Florea, A. Gholami, B. Ginsburg, and P. Davoodi.
+Approved by Nvidia Patent Office (US patent pending), 2018.
+Tensor processing using low precision format,
+B. Ginsburg, S. Nikolaev, A. Kiswani, H. Wu, A. Gholami, S. Kierat, M. Houston, and A. Fit-Flores.
+United States patent application US 15/624,577. 2017 Dec 28.
+High performance inplace transpose operations,
+A. Gholami and B. Natarajan,
+United States patent US 10,067,911, 2018.

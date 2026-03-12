@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-206.html
+Coordination Avoidance in Distributed Databases | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Coordination Avoidance in Distributed Databases
+Coordination Avoidance in Distributed Databases
+Peter Bailis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-206
+October 30, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-206.pdf
+The rise of Internet-scale geo-replicated services has led to upheaval in the design of modern data management systems. Given the availability, latency, and throughput penalties associated with classic mechanisms such as serializable transactions, a broad class of systems (e.g., "NoSQL") has sought weaker alternatives that reduce the use of expensive coordination during system operation, often at the cost of application integrity. When can we safely forego the cost of this expensive coordination, and when must we pay the price?
+In this thesis, we investigate the potential for coordination avoidance---the use of as little coordination as possible while ensuring application integrity---in several modern data-intensive domains. We demonstrate how to leverage the semantic requirements of applications in data serving, transaction processing, and web services to enable more efficient distributed algorithms and system designs. The resulting prototype systems demonstrate regular order-of-magnitude speedups compared to their traditional, coordinated counterparts on a variety of tasks, including referential integrity and index maintenance, transaction execution under common isolation models, and database constraint enforcement. A range of open source applications and systems exhibit similar results.
+Advisor:  Joseph M. Hellerstein, Ion Stoica and Ali Ghodsi
+BibTeX citation:
+@phdthesis{Bailis:EECS-2015-206,
+Author = {Bailis, Peter},
+Title = {Coordination Avoidance in Distributed Databases},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-206.html},
+Number = {UCB/EECS-2015-206},
+Abstract = {The rise of Internet-scale geo-replicated services has led to upheaval in the design of modern data management systems. Given the availability, latency, and throughput penalties associated with classic mechanisms such as serializable transactions, a broad class of systems (e.g., "NoSQL") has sought weaker alternatives that reduce the use of expensive coordination during system operation, often at the cost of application integrity. When can we safely forego the cost of this expensive coordination, and when must we pay the price?
+In this thesis, we investigate the potential for coordination avoidance---the use of as little coordination as possible while ensuring application integrity---in several modern data-intensive domains. We demonstrate how to leverage the semantic requirements of applications in data serving, transaction processing, and web services to enable more efficient distributed algorithms and system designs. The resulting prototype systems demonstrate regular order-of-magnitude speedups compared to their traditional, coordinated counterparts on a variety of tasks, including referential integrity and index maintenance, transaction execution under common isolation models, and database constraint enforcement. A range of open source applications and systems exhibit similar results.}
+}
+EndNote citation:
+%0 Thesis
+%A Bailis, Peter
+%T Coordination Avoidance in Distributed Databases
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 October 30
+%@ UCB/EECS-2015-206
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-206.html
+%F Bailis:EECS-2015-206

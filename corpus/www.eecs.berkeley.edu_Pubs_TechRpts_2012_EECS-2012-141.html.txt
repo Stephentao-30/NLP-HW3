@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-141.html
+Energy Harvesting for Wireless Sensor Networks
+Vincent Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-141
+May 30,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-141.pdf
+As energy demand, electricity prices, and carbon emissions continue to rise, there is a growing public desire to curb energy consumption to save money and the environment. According to Energy Star, “the average U.S. household spends $100 per year to power devices while they are off or in standby mode. On a national basis, standby power accounts for more than 100 billion kilowatt-hours of annual U.S. electricity consumption and more than $10 billion in annual energy costs”. Based on PG&E’s analysis, the wasted electricity produces 26.2 million tons of CO2 each year in the U.S. Unfortunately, information in standard utility bills does not help consumers identify the culprit appliance responsible for their electricity waste, leaving consumers guessing for effective ways to save. Consequently, expensive hand-size devices, such as the Kill-a-Watt and Energy Hub, have emerged to identify energy consumption at a cost of ~$30 per outlet. The high cost and difficult installation of these devices limit their affordability and popularity. To address these issues, this work proposes a novel, plug-through power monitoring system for commercial and residential use. Our device detects any appliance’s power consumption via a current sense transformer, which wirelessly couples magnetic energy from the appliance to output an electromotive force voltage. The voltage signal is relayed to the analog-to-digital converter of a GINA radio mote, which wirelessly transmits the data to laptops or smart phones via the Internet using 6LoWPAN wireless protocol. This allows consumers to view their real-time power usage from the convenience of their handheld device. The optimized design cost less than $5 to make and is easily installed, since the device never requires electrical contact with the outlet but is instead powered by scavenged magnetic energy, which charges an on-board storage capacitor. For a primary current of 12.6 A RMS, the device harvests up to 7 mW. Compared to present power monitoring devices in the market, our device boasts at least 6 times reduction in size and cost, serving as a disruptive technology to the power monitoring business while promoting more conscientious electricity usage.
+Advisors:  Kristofer Pister and Bernhard Boser and Sayeef Salahuddin
+BibTeX citation:
+@mastersthesis{Lee:EECS-2012-141,
+Author= {Lee, Vincent},
+Title= {Energy Harvesting for Wireless Sensor Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-141.html},
+Number= {UCB/EECS-2012-141},
+Abstract= {As energy demand, electricity prices, and carbon emissions continue to rise, there is a growing public desire to curb energy consumption to save money and the environment. According to Energy Star, “the average U.S. household spends $100 per year to power devices while they are off or in standby mode. On a national basis, standby power accounts for more than 100 billion kilowatt-hours of annual U.S. electricity consumption and more than $10 billion in annual energy costs”. Based on PG&E’s analysis, the wasted electricity produces 26.2 million tons of CO2 each year in the U.S. Unfortunately, information in standard utility bills does not help consumers identify the culprit appliance responsible for their electricity waste, leaving consumers guessing for effective ways to save. Consequently, expensive hand-size devices, such as the Kill-a-Watt and Energy Hub, have emerged to identify energy consumption at a cost of ~$30 per outlet. The high cost and difficult installation of these devices limit their affordability and popularity. To address these issues, this work proposes a novel, plug-through power monitoring system for commercial and residential use. Our device detects any appliance’s power consumption via a current sense transformer, which wirelessly couples magnetic energy from the appliance to output an electromotive force voltage. The voltage signal is relayed to the analog-to-digital converter of a GINA radio mote, which wirelessly transmits the data to laptops or smart phones via the Internet using 6LoWPAN wireless protocol. This allows consumers to view their real-time power usage from the convenience of their handheld device. The optimized design cost less than $5 to make and is easily installed, since the device never requires electrical contact with the outlet but is instead powered by scavenged magnetic energy, which charges an on-board storage capacitor. For a primary current of 12.6 A RMS, the device harvests up to 7 mW. Compared to present power monitoring devices in the market, our device boasts at least 6 times reduction in size and cost, serving as a disruptive technology to the power monitoring business while promoting more conscientious electricity usage.},
+}
+EndNote citation:
+%0 Thesis
+%A Lee, Vincent
+%T Energy Harvesting for Wireless Sensor Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 30
+%@ UCB/EECS-2012-141
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-141.html
+%F Lee:EECS-2012-141

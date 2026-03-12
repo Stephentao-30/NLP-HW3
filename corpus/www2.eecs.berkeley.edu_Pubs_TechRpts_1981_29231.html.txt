@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29231.html
+Nonlinear Oscillation Via Volterra Series | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Nonlinear Oscillation Via Volterra Series
+Nonlinear Oscillation Via Volterra Series
+L.O. Chua and Y.S. Tang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/21
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-21.pdf
+BibTeX citation:
+@techreport{Chua:M81/21,
+Author = {Chua, L.O. and Tang, Y.S.},
+Title = {Nonlinear Oscillation Via Volterra Series},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29231.html},
+Number = {UCB/ERL M81/21}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Tang, Y.S.
+%T Nonlinear Oscillation Via Volterra Series
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/21
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29231.html
+%F Chua:M81/21

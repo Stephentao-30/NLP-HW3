@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29000.html
+The (p+q)- Port Transfer | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The (p+q)- Port Transfer
+The (p+q)- Port Transfer
+L.O. Chua, G.N. Lin and J.J. Lum
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/41
+June 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-41.pdf
+BibTeX citation:
+@techreport{Chua:M81/41,
+Author = {Chua, L.O. and Lin, G.N. and Lum, J.J.},
+Title = {The (p+q)- Port Transfer},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29000.html},
+Number = {UCB/ERL M81/41}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Lin, G.N.
+%A Lum, J.J.
+%T The (p+q)- Port Transfer
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29000.html
+%F Chua:M81/41

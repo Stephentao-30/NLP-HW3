@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29080.html
+Dealing With Errors in the Motion of a Vehicular Robot in 2-D
+Gordon C. Fossum
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/35
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-35.pdf
+BibTeX citation:
+@techreport{Fossum:M81/35,
+Author= {Fossum, Gordon C.},
+Title= {Dealing With Errors in the Motion of a Vehicular Robot in 2-D},
+Year= {1981},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29080.html},
+Number= {UCB/ERL M81/35},
+}
+EndNote citation:
+%0 Report
+%A Fossum, Gordon C.
+%T Dealing With Errors in the Motion of a Vehicular Robot in 2-D
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29080.html
+%F Fossum:M81/35

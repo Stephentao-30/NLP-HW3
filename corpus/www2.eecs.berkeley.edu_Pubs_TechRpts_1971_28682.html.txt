@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28682.html
+An Adaptive Algorithm for Unconstrained Optimization with an Application to Optimal Control | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Adaptive Algorithm for Unconstrained Optimization with an Application to Optimal Control
+An Adaptive Algorithm for Unconstrained Optimization with an Application to Optimal Control
+R. Klessig and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M297
+February 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-297.pdf
+BibTeX citation:
+@techreport{Klessig:M297,
+Author = {Klessig, R. and Polak, E.},
+Title = {An Adaptive Algorithm for Unconstrained Optimization with an Application to Optimal Control},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28682.html},
+Number = {UCB/ERL M297}
+}
+EndNote citation:
+%0 Report
+%A Klessig, R.
+%A Polak, E.
+%T An Adaptive Algorithm for Unconstrained Optimization with an Application to Optimal Control
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M297
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28682.html
+%F Klessig:M297

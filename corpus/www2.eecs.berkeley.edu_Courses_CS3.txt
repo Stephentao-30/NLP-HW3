@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS3
+CS 3. Introduction to Symbolic Programming
+Catalog Description:  Introduction to computer programming, emphasizing symbolic computation and functional programming style. Students will write a project of at least 200 lines of code, using the Scheme programming language.
+Units:  4
+Prerequisites:  High school algebra.
+Credit Restrictions:  Refer to computer science service course restrictions.
+Formats:  Summer: 14 hours of lecture per week
+Fall: 2 hours of lecture per week
+Spring: 2 hours of lecture per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage
+on inst.eecs
+Department Notes:  Topics covered are the following:
+Exploration: introduction to the course and to programming.
+Procedures and functions: evaluation, words and lists, functional
+programming.
+Variables: data types, inputs to procedures and functions, scope
+of variables, assignment.
+Predicates: conditional evaluation.
+Recursion (several models): linear- and tree-recursive operations.
+Planning and debugging.
+Functional operators.
+Other control structures, e.g. iteration, non-local exit.
+Other data structures, e.g. trees, hash tables, property lists,
+files.
+Programs as data.

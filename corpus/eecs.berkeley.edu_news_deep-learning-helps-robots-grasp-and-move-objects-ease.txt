@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/deep-learning-helps-robots-grasp-and-move-objects-ease
+Deep learning helps robots grasp and move objects with ease - EECS at Berkeley
+CS Prof. Ken Goldberg is the co-author of a study published in S cience Robotics  which describes the creation of a new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments.  He and postdoc Jeffrey Ichnowski had previously created a Grasp-Optimized Motion Planner that could compute both how a robot should pick up an object and how it should move to transfer the object from one location to another, but the motions it generated were jerky.  Then they, along with EECS graduate student Yahav Avigal and undergraduate (3rd year MS) student Vishal Satish, integrated a deep learning neural network into the motion planner, cutting the average computation time from 29 seconds to 80 milliseconds, or less than one-tenth of a second.  Goldberg predicts that, with this and other advances in robotic technology, robots could be assisting in warehouse environments in the next few years.
+Categories
+Faculty
+Industry
+publications
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29060.html
+Software Microprogramming Tools for the VAX-11/780 | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Software Microprogramming Tools for the VAX-11/780
+Software Microprogramming Tools for the VAX-11/780
+Richard D. Tuck
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/65
+September 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-65.pdf
+BibTeX citation:
+@techreport{Tuck:M79/65,
+Author = {Tuck, Richard D.},
+Title = {Software Microprogramming Tools for the VAX-11/780},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29060.html},
+Number = {UCB/ERL M79/65}
+}
+EndNote citation:
+%0 Report
+%A Tuck, Richard D.
+%T Software Microprogramming Tools for the VAX-11/780
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/65
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29060.html
+%F Tuck:M79/65

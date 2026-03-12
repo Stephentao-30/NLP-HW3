@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29167.html
+A Derivation of the Time to Failure Distribution | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Derivation of the Time to Failure Distribution
+A Derivation of the Time to Failure Distribution
+Natarajan Narasimhamurthi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/14
+December 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-14.pdf
+BibTeX citation:
+@techreport{Narasimhamurthi:M79/14,
+Author = {Narasimhamurthi, Natarajan},
+Title = {A Derivation of the Time to Failure Distribution},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29167.html},
+Number = {UCB/ERL M79/14}
+}
+EndNote citation:
+%0 Report
+%A Narasimhamurthi, Natarajan
+%T A Derivation of the Time to Failure Distribution
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29167.html
+%F Narasimhamurthi:M79/14

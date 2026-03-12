@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7180.html
+Temperature Sensitivity of Integrated Oscillators | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Temperature Sensitivity of Integrated Oscillators
+Temperature Sensitivity of Integrated Oscillators
+Richard F. Adams
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M247
+May 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-247.pdf
+Advisor:  Donald O. Pederson
+BibTeX citation:
+@phdthesis{Adams:M247,
+Author = {Adams, Richard F.},
+Title = {Temperature Sensitivity of Integrated Oscillators},
+School = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7180.html},
+Number = {UCB/ERL M247}
+}
+EndNote citation:
+%0 Thesis
+%A Adams, Richard F.
+%T Temperature Sensitivity of Integrated Oscillators
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M247
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/7180.html
+%F Adams:M247

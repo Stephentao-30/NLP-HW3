@@ -1,0 +1,60 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/garcia.html?source=post_page-----aa010b6d654d--------------------------------
+Dan Garcia
+Research Areas
+Education (EDUC)
+Graphics (GR)
+Computational Game Theory: (http://gamescrafters.berkeley.edu/)
+Research Centers
+Berkeley Center for New Media (BCNM)
+Teaching Schedule
+Fall 2024
+CS 10. The Beauty and Joy of Computing , MoWe 13:00-13:59, Hearst Field Annex A1
+CS 47C. Completion of Work in Computer Science 61C
+CS 61C. Great Ideas of Computer Architecture (Machine Structures) , MoWeFr 10:00-10:59, Dwinelle 155
+CS 194-244. STAR Assessments for Proficiency-Based Learning , Mo 14:00-15:29, Soda 606
+CS 198-2. Directed Group Studies for Advanced Undergraduates , MoWeFr 11:00-11:59, Soda 606
+CS 294-244. STAR Assessments for Proficiency-Based Learning , Mo 14:00-15:29, Soda 606
+Biography
+Dan Garcia (UC Berkeley MS 1995, PhD 2000) is a Teaching Professor in the Electrical Engineering and Computer Science department at UC Berkeley. Selected as an ACM Distinguished Educator in 2012 and ACM Distinguished Speaker in 2019, he has won all four of the department's computer science teaching awards, and holds the record for the highest teaching effectiveness ratings in the history of several of the department's courses. He is a national leader in the "CSforALL" and "A's for All (as time and interest allow)" movements, bringing engaging computer science to students normally underrepresented in the field, and supporting them to achieve proficiency. Thanks to four National Science Foundation grants, the "Beauty and Joy of Computing (BJC)" non-majors course he co-developed has been shared with over 1,000 high school teachers! He is delighted to regularly have more than 50% female enrollment in BJC, with a high mark of 63% in the Spring of 2018, shattering the record at UC Berkeley for an intro computing course, and is among the highest in the nation! He is humbled by the national exposure he and the course have received in the New York Times, PBS NewsHour, NPR's All Things Considered, USA Today, and the front pages of the San Jose Mercury News and San Francisco Chronicle. He has won the NCWIT Undergraduate Research Mentoring award, the UC Berkeley Unsung Hero award, the LPFI Lux award, the SAP Visionary Member award, and was chosen as a Google CS4HS Ambassador for his work to support teachers and diversify computing. He has served on the CRA-WP Board, ACM Education Board, the College Board Computer Science Principles Development Committee, was the ACM SIGCSE Program co-chair in 2017, and the ACM SIGCSE Symposium co-chair in 2018. He was voted ACM SIGCSE Vice-Chair from 2019-2022, and Secretary from 2022-2025. In 2019 it was announced he was the most frequent SIGCSE author in their 50-year history, with *61* submissions of all kinds: papers, panels, workshops,  posters, etc.; second place had 42. His computer science education research and development (R&D) interests are squarely centered on advancing equity through assessment transformations.  He is a vocal evangelist for the "A's for All (as time and interest allow)" initiative that provides students with the time they need to achieve proficiency through soft deadlines, multiple-chance exams, and pre-approved incomplete grades.  His GamesCrafters undergraduate computational game theory R&D group builds tools to solve and analyze abstract strategy games. He has advised 25 MS students and over a thousand undergraduates since forming his varied Research, Art, and Development (RAD) groups in 2001.
+Education
+2000, Ph.D., Computer Science, UC Berkeley
+1995, M.S., Computer Science, UC Berkeley
+1990, B.S., Computer Science, MIT
+1990, B.S., Electrical Engineering, MIT
+Selected Publications
+D. Garcia, " One size fits all?! One size fits none! A custom computer science education proposal (Foundational White Paper) ," in  Proc.  NSF Integrative Computing Education & Research Western Region (ICER 2006) , 2006, pp. 2 pg.
+D. Ginat, R. Anderson, D. Garcia, and R. Rasala, " Randomness and probability in the early CS courses ," in  Proc. of the 36th SIGCSE Technical Symposium on Computer Science Education (SIGCSE '05) , New York, NY: The Association for Computing Machinery, Inc., 2005, pp. 556-557.
+G. Ginat, O. Astrachan, D. Garcia, and M. Guzdial, " "But it looks right!": The bugs students don't see ," in  Proc. of the 35th SIGCSE Technical Symp. on Computer Science Education , New York, NY: ACM Press, 2004, pp. 284-285.
+A. Begel, D. Garcia, and S. A. Wolfman, " Kinesthetic learning in the classroom ," in  Proc. of the 35th SIGCSE Technical Symp. on Computer Science Education (SIGCSE '04) , New York, NY: The Association for Computing Machinery, Inc., 2004, pp. 183-184.
+D. Garcia, D. Ginat, and P. Henderson, " Everything you always wanted to know about game theory (But were afraid to ask) ," in  Proc. of the 34th SIGCSE Technical Symp. on Computer Science Education (SIGCSE '03) , New York, NY: The Association for Computing Machinery, Inc., 2003, pp. 96-97.
+B. A. Barsky, A. W. Bargteil, D. Garcia, and S. A. Klein, "Introducing vision-realistic rendering," in  Rendering Techniques 2002: Proc. 13th Eurographics Rendering Workshop , P. Debevec and S. Gibson, Eds., Aire-la-Ville, Switzerland: Eurographics Association, 2002, pp. 1-7.
+N. Parlante, D. Reed, D. Garcia, J. K. Estell, D. Levine, and J. Zelenski, " Nifty assignments ," in  Proc. 33rd SIGCSE Technical Symposium on Computer Science Education (SIGCSE '02) , New York, NY: The Association for Computing Machinery, Inc., 2002, pp. 319-320.
+D. Ginat, D. Garcia, O. Astrachan, and J. Bergin, " Colorful illustrations of algorithmic design techniques and problem solving ," in  Proc. of the 32nd SIGCSE Technical Symp. on Computer Science Education , New York, NY: ACM Press, 2001, pp. 425-426.
+S. A. Klein and D. Garcia, " Line of sight and alternative representations of aberrations of the eye ,"  J. Refractive Surgery , vol. 16, pp. S630-S635, Sep. 2000.
+B. A. Barsky, B. P. Chen, A. C. Berg, M. Moutet, D. Garcia, and S. A. Klein, " Incorporating camera models, ocular models, and actual patient eye data for photo-realistic and vision-realistic rendering ," in  Proc. 5th Intl. Conf. on Mathematical Methods for Curves and Surfaces, Abstract , 2000.
+S. A. Klein, D. Garcia, and B. A. Barsky, "Problems with representing wavefront aberrations, and solutions,"  Investigative Ophthalmology & Visual Science , vol. 41, no. 4, pp. S105, March 2000.
+B. A. Barsky, S. A. Klein, and D. Garcia, " Gaussian power with cylinder vector field representation for corneal topography maps ,"  Optometry and Vision Science , vol. 74, no. 11, pp. 917-925, Nov. 1997.
+D. Garcia, "GAMESMAN: A Finite, Two-Person, Perfect-Information Game Generator," University of California, Berkeley, May 1995.
+Awards, Memberships and Fellowships
+ACM Distinguished Educator ,
+2012
+Jim and Donna Gray Award for Excellence in Undergraduate Teaching of Computer Science ,
+2005
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2002
+Photo
+Larger Photo
+Links
+Personal Homepage
+Publications
+Contact Information
+777 Soda Hall
+tel:  510-517-4041
+fax:  510-642-5775
+ddgarcia@cs.berkeley.edu
+Office Hours
+CS10: W 2-3pm, 777 Soda
+Research Support
+Saleem Hasan
+3-0225
+saleemhasan@berkeley.edu

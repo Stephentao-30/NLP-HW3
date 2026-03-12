@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29321.html
+Networks, Hierarchies, and Relations in Data Base Management Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Networks, Hierarchies, and Relations in Data Base Management Systems
+Networks, Hierarchies, and Relations in Data Base Management Systems
+Michael Stonebraker and Gerald Held
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M504
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-504.pdf
+BibTeX citation:
+@techreport{Stonebraker:M504,
+Author = {Stonebraker, Michael and Held, Gerald},
+Title = {Networks, Hierarchies, and Relations in Data Base Management Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29321.html},
+Number = {UCB/ERL M504}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Held, Gerald
+%T Networks, Hierarchies, and Relations in Data Base Management Systems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M504
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29321.html
+%F Stonebraker:M504

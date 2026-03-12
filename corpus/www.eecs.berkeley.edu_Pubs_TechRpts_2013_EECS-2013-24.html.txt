@@ -1,0 +1,54 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-24.html
+Polynomial-Time Verification of PCTL Properties of MDPs with Convex Uncertainties
+Alberto Alessandro Angelo Puggelli and Wenchao Li and Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-24
+April 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-24.pdf
+We address the problem of verifying Probabilistic Computation Tree Logic (PCTL)
+properties of Markov Decision Processes (MDPs) whose state transition
+probabilities are only known to lie within uncertainty sets.
+We first introduce the model of Convex-MDPs (CMDPs), i.e., MDPs with convex uncertainty sets.
+CMDPs generalize Interval-MDPs (IMDPs) by allowing also
+more expressive (convex) descriptions of uncertainty.
+Using results on strong duality for convex programs,
+we then present a PCTL verification algorithm for CMDPs, and prove that it runs in time polynomial in the size of a CMDP for a rich subclass of convex uncertainty models.
+This result allows us to lower the previously
+known algorithmic complexity upper bound for
+IMDPs from co-NP to PTIME.
+Using the proposed approach, we verify a consensus protocol and a dynamic configuration protocol for IPv4 addresses.
+BibTeX citation:
+@techreport{Puggelli:EECS-2013-24,
+Author= {Puggelli, Alberto Alessandro Angelo and Li, Wenchao and Sangiovanni-Vincentelli, Alberto L. and Seshia, Sanjit A.},
+Title= {Polynomial-Time Verification of PCTL Properties of MDPs with Convex Uncertainties},
+Year= {2013},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-24.html},
+Number= {UCB/EECS-2013-24},
+Abstract= {We address the problem of verifying Probabilistic Computation Tree Logic (PCTL)
+properties of Markov Decision Processes (MDPs) whose state transition
+probabilities are only known to lie within uncertainty sets.
+We first introduce the model of Convex-MDPs (CMDPs), i.e., MDPs with convex uncertainty sets.
+CMDPs generalize Interval-MDPs (IMDPs) by allowing also
+more expressive (convex) descriptions of uncertainty.
+Using results on strong duality for convex programs,
+we then present a PCTL verification algorithm for CMDPs, and prove that it runs in time polynomial in the size of a CMDP for a rich subclass of convex uncertainty models.
+This result allows us to lower the previously
+known algorithmic complexity upper bound for
+IMDPs from co-NP to PTIME.
+Using the proposed approach, we verify a consensus protocol and a dynamic configuration protocol for IPv4 addresses.},
+}
+EndNote citation:
+%0 Report
+%A Puggelli, Alberto Alessandro Angelo
+%A Li, Wenchao
+%A Sangiovanni-Vincentelli, Alberto L.
+%A Seshia, Sanjit A.
+%T Polynomial-Time Verification of PCTL Properties of MDPs with Convex Uncertainties
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 April 3
+%@ UCB/EECS-2013-24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-24.html
+%F Puggelli:EECS-2013-24

@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/171129-2
+Challenges and Opportunities with Multi-Camera multimedia - EECS at Berkeley
+Challenges and Opportunities with Multi-Camera multimedia
+EECS Colloquium
+Wednesday, November 29, 2017
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Klara Nahrstedt
+University of Illinois Urbana-Champaign
+Klara Nahrstedt speaks on Challenges and Opportunities with Multi-Camera multimedia, 11/29/17
+Abstract
+Multi-camera content delivery systems are becoming an integral part of our video consumption, enabling advanced teleimmersive interactions in arts and sciences, 360-degree video viewing of YouTube content, and enhanced broadcasting experience of live events. However, multi-camera content systems generate high volume, variety and velocity data that present multiple orders of magnitude higher demands on bandwidth and latency than current network systems and their providers can accommodate. In this talk, we discuss bridging the gap between multi-camera content and network systems by multi-camera content systems providing semantic hints to network delivery systems such as users’ desired views, activities, camera locality and other sensory context information. These semantic hints improve differentiation and selection among camera sources, therefore decrease bandwidth demands, give valuable information to network systems for possible network resources adaptation and deliver desired interactive latency and high quality viewing experience for users.
+Biography
+Klara Nahrstedt is the Ralph and Catherine Fisher Professor in the Computer Science Department, and Director of Coordinated Science Laboratory in the College of Engineering at the University of Illinois at Urbana-Champaign. Her research interests are directed toward tele-immersive systems, end-to- end Quality of Service (QoS) and resource management in large scale distributed systems and networks, and real-time security and privacy in cyber-physical systems such as power grid.  She is the co-author of multimedia books `Multimedia: Computing, Communications and Applications&#39; published by Prentice Hall, and ‘Multimedia Systems’ published by Springer Verlag. She is the recipient of the IEEE Communication Society Leonard Abraham Award for Research Achievements, University Scholar, Humboldt Award, IEEE Computer Society Technical Achievement Award, ACM SIGMM Technical Achievement Award, and the former chair of the ACM Special Interest Group in Multimedia. She was the general chair of ACM Multimedia 2006, ACM NOSSDAV 2007, IEEE Percom 2009, and TPC co-chair of IEEE SMARTCOMP 2017 and IEEE IOTDI 2018. Klara Nahrstedt received her Diploma in Mathematics from Humboldt University, Berlin, Germany in numerical analysis in 1985. In 1995 she received her PhD from the University of Pennsylvania in the Department of Computer and Information Science. She is ACM Fellow, IEEE Fellow, and Member of the German National Academy of Sciences (Leopoldina Society).
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

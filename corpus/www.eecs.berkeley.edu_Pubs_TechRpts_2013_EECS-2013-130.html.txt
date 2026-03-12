@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-130.html
+Construction of a Cubist Girl Cap
+Carlo H. Séquin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-130
+July 11,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-130.pdf
+Boy’s surface is the simplest and most symmetrical way of making a compact model of the projective plane in R3 without any singular points. This surface has 3-fold rotational symmetry and a single triple point from which three loops of intersection lines emerge. It turns out that there is a second, homeomorphically different way to model the projective plane with the same set of intersection lines, though it is less symmetrical. There seems to be only one such other structure beside Boy’s surface, and it thus has been named Girl’s surface. This alternative, finite, smooth model of the projective plane is more difficult to understand. In an effort to gain more insight into the geometry of this surface, various paper models have been constructed. The C2–symmetric, “cubist” version of an open-ended Girl cap, with polyhedral facets primarily parallel to three rectilinear coordinate planes, seems particularly well suited to gain full understanding of this intriguing surface.
+BibTeX citation:
+@techreport{Séquin:EECS-2013-130,
+Author= {Séquin, Carlo H.},
+Title= {Construction of a Cubist Girl Cap},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-130.html},
+Number= {UCB/EECS-2013-130},
+Abstract= {Boy’s surface is the simplest and most symmetrical way of making a compact model of the projective plane in R3 without any singular points. This surface has 3-fold rotational symmetry and a single triple point from which three loops of intersection lines emerge. It turns out that there is a second, homeomorphically different way to model the projective plane with the same set of intersection lines, though it is less symmetrical. There seems to be only one such other structure beside Boy’s surface, and it thus has been named Girl’s surface. This alternative, finite, smooth model of the projective plane is more difficult to understand. In an effort to gain more insight into the geometry of this surface, various paper models have been constructed. The C2–symmetric, “cubist” version of an open-ended Girl cap, with polyhedral facets primarily parallel to three rectilinear coordinate planes, seems particularly well suited to gain full understanding of this intriguing surface.},
+}
+EndNote citation:
+%0 Report
+%A Séquin, Carlo H.
+%T Construction of a Cubist Girl Cap
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 11
+%@ UCB/EECS-2013-130
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-130.html
+%F Séquin:EECS-2013-130

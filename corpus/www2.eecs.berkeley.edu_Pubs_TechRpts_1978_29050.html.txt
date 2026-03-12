@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29050.html
+Programming Languages for Relational Database Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Programming Languages for Relational Database Systems
+Programming Languages for Relational Database Systems
+C.J. Prenner and L.A. Rowe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/54
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-54.pdf
+BibTeX citation:
+@techreport{Prenner:M78/54,
+Author = {Prenner, C.J. and Rowe, L.A.},
+Title = {Programming Languages for Relational Database Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29050.html},
+Number = {UCB/ERL M78/54}
+}
+EndNote citation:
+%0 Report
+%A Prenner, C.J.
+%A Rowe, L.A.
+%T Programming Languages for Relational Database Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/54
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29050.html
+%F Prenner:M78/54

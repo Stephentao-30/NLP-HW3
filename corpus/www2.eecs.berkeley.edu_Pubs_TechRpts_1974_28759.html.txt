@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28759.html
+Computable Organizations-Representation by Sequential Machine Theory | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computable Organizations-Representation by Sequential Machine Theory
+Computable Organizations-Representation by Sequential Machine Theory
+Hans W. Gottinger
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M426
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-426.pdf
+BibTeX citation:
+@techreport{Gottinger:M426,
+Author = {Gottinger, Hans W.},
+Title = {Computable Organizations-Representation by Sequential Machine Theory},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28759.html},
+Number = {UCB/ERL M426}
+}
+EndNote citation:
+%0 Report
+%A Gottinger, Hans W.
+%T Computable Organizations-Representation by Sequential Machine Theory
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M426
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28759.html
+%F Gottinger:M426

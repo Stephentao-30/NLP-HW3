@@ -1,0 +1,57 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-244.html
+Language and Framework Support for Reviewably-Secure Software Systems
+Adrian Mettler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-244
+December 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-244.pdf
+My thesis is that languages and frameworks can and should be designed to make it easier for programmers to write reviewably secure systems.
+A system is reviewably secure if its security is easy for an experienced programmer to verify, given access to the source code.
+A security reviewer should be able, with a reasonable amount of effort, to gain confidence that such a system meets its stated security goals.
+This dissertation includes work on on language subsetting and web application framework design.
+It presents Joe-E, a subset of the Java programming language designed to enforce object-capability security, simplifying the task of verifying a variety of security properties by enabling sound, local reasoning.
+Joe-E also enforces determinism-by-default, which permits functionally-pure methods to be identified by their signature.
+Functional purity is a useful property that can greatly simplify the task of correctly implementing and reasoning about application code.
+A number of applications of the Joe-E language are presented and evaluated.
+The second part of this dissertation presents tool and framework enhancements for improving the security of web applications.
+I present techniques for retrofitting existing web applications to use template
+systems effectively to prevent cross-site scripting and content injection
+vulnerabilities while preserving functionality.
+I also show how HTML templates can be rewritten to normalize their output, improving the assurance of security provided by automatic escaping and other static analyses.
+These two applications of my thesis demonstrate that practical enhancements to languages and frameworks can support developers in creating more secure software that is easier to review.  Continued improvement in language and framework support for reviewability is a promising approach toward improving the security provided by modern software.
+Advisors:  David Wagner
+BibTeX citation:
+@phdthesis{Mettler:EECS-2012-244,
+Author= {Mettler, Adrian},
+Title= {Language and Framework Support for Reviewably-Secure Software Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-244.html},
+Number= {UCB/EECS-2012-244},
+Abstract= {My thesis is that languages and frameworks can and should be designed to make it easier for programmers to write reviewably secure systems.
+A system is reviewably secure if its security is easy for an experienced programmer to verify, given access to the source code.
+A security reviewer should be able, with a reasonable amount of effort, to gain confidence that such a system meets its stated security goals.
+This dissertation includes work on on language subsetting and web application framework design.
+It presents Joe-E, a subset of the Java programming language designed to enforce object-capability security, simplifying the task of verifying a variety of security properties by enabling sound, local reasoning.
+Joe-E also enforces determinism-by-default, which permits functionally-pure methods to be identified by their signature.
+Functional purity is a useful property that can greatly simplify the task of correctly implementing and reasoning about application code.
+A number of applications of the Joe-E language are presented and evaluated.
+The second part of this dissertation presents tool and framework enhancements for improving the security of web applications.
+I present techniques for retrofitting existing web applications to use template
+systems effectively to prevent cross-site scripting and content injection
+vulnerabilities while preserving functionality.
+I also show how HTML templates can be rewritten to normalize their output, improving the assurance of security provided by automatic escaping and other static analyses.
+These two applications of my thesis demonstrate that practical enhancements to languages and frameworks can support developers in creating more secure software that is easier to review.  Continued improvement in language and framework support for reviewability is a promising approach toward improving the security provided by modern software.},
+}
+EndNote citation:
+%0 Thesis
+%A Mettler, Adrian
+%T Language and Framework Support for Reviewably-Secure Software Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 13
+%@ UCB/EECS-2012-244
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-244.html
+%F Mettler:EECS-2012-244

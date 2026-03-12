@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29322.html
+A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks
+A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks
+L.O. Chua and D.N. Green
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M508
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-508.pdf
+BibTeX citation:
+@techreport{Chua:M508,
+Author = {Chua, L.O. and Green, D.N.},
+Title = {A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29322.html},
+Number = {UCB/ERL M508}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Green, D.N.
+%T A Qualitative Analysis of the Behavior of Nonlinear Dynamic Networks: Stability of Autonomous Networks
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M508
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29322.html
+%F Chua:M508

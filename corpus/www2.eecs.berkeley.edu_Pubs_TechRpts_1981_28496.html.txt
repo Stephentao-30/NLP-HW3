@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28496.html
+An Algorithm for Two-Layer Channel Routing with Cyclic Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Algorithm for Two-Layer Channel Routing with Cyclic Constraints
+An Algorithm for Two-Layer Channel Routing with Cyclic Constraints
+M.L. Liu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/82
+November 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-82.pdf
+";
+?>
+BibTeX citation:
+@techreport{Liu:M81/82,
+Author = {Liu, M.L.},
+Title = {An Algorithm for Two-Layer Channel Routing with Cyclic Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28496.html},
+Number = {UCB/ERL M81/82}
+}
+EndNote citation:
+%0 Report
+%A Liu, M.L.
+%T An Algorithm for Two-Layer Channel Routing with Cyclic Constraints
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/82
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28496.html
+%F Liu:M81/82

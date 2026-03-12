@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-147.html
+Contention Bounds for Combinations of Computation Graphs and Network Topologies | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Contention Bounds for Combinations of Computation Graphs and Network Topologies
+Contention Bounds for Combinations of Computation Graphs and Network Topologies
+Grey Ballard, James Demmel, Andrew Gearhart, Benjamin Lipshitz, Oded Schwartz and Sivan Toledo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-147
+August 8, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-147.pdf
+Network topologies can have significant effect on the costs of algorithms due to inter-processor communication. Parallel algorithms that ignore network topology can suffer from contention along network links. However, for particular combinations of computations and network topologies, costly network contention may inevitably become a bottleneck, even for optimally designed algorithms. We obtain a novel contention lower bound that is a function of the network and the computation graph parameters. To this end, we compare the communication bandwidth needs of subsets of processors and the available network capacity (as opposed to per-processor analysis in most previous studies). Applying this analysis we improve communication cost lower bounds for several combinations of fundamental computations on common network topologies.
+BibTeX citation:
+@techreport{Ballard:EECS-2014-147,
+Author = {Ballard, Grey and Demmel, James and Gearhart, Andrew and Lipshitz, Benjamin and Schwartz, Oded and Toledo, Sivan},
+Title = {Contention Bounds for Combinations of Computation Graphs and Network Topologies},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-147.html},
+Number = {UCB/EECS-2014-147},
+Abstract = {Network topologies can have significant effect on the costs of algorithms due to inter-processor communication. Parallel algorithms that ignore network topology can suffer from contention along network links. However, for particular combinations of computations and network topologies, costly network contention may inevitably become a bottleneck, even for optimally designed algorithms. We obtain a novel contention lower bound that is a function of the network and the computation graph parameters. To this end, we compare the communication bandwidth needs of subsets of processors and the available network capacity (as opposed to per-processor analysis in most previous studies). Applying this analysis we improve communication cost lower bounds for several combinations of fundamental computations on common network topologies.}
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Gearhart, Andrew
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%A Toledo, Sivan
+%T Contention Bounds for Combinations of Computation Graphs and Network Topologies
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 August 8
+%@ UCB/EECS-2014-147
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-147.html
+%F Ballard:EECS-2014-147

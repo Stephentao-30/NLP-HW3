@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7450.html
+High-Order Continuous-Time Monolithic Analog Filters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+High-Order Continuous-Time Monolithic Analog Filters
+High-Order Continuous-Time Monolithic Analog Filters
+Khen-Sang Tan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/68
+October 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-68.pdf
+Advisor:  Paul R. Gray
+BibTeX citation:
+@phdthesis{Tan:M78/68,
+Author = {Tan, Khen-Sang},
+Title = {High-Order Continuous-Time Monolithic Analog Filters},
+School = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7450.html},
+Number = {UCB/ERL M78/68}
+}
+EndNote citation:
+%0 Thesis
+%A Tan, Khen-Sang
+%T High-Order Continuous-Time Monolithic Analog Filters
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/68
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7450.html
+%F Tan:M78/68

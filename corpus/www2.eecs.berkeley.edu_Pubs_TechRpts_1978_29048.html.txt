@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29048.html
+A Nonlinear Lumped Circuit Model for SCR | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Nonlinear Lumped Circuit Model for SCR
+A Nonlinear Lumped Circuit Model for SCR
+L.O. Chua and Y.W. Sing
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/41
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-41.pdf
+BibTeX citation:
+@techreport{Chua:M78/41,
+Author = {Chua, L.O. and Sing, Y.W.},
+Title = {A Nonlinear Lumped Circuit Model for SCR},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29048.html},
+Number = {UCB/ERL M78/41}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Sing, Y.W.
+%T A Nonlinear Lumped Circuit Model for SCR
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29048.html
+%F Chua:M78/41

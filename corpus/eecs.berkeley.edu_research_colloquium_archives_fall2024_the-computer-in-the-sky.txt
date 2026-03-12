@@ -1,0 +1,20 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2024/the-computer-in-the-sky
+The Computer in the Sky - EECS at Berkeley
+The Computer in the Sky
+Tim Roughgarden gives his talk “The Computer in the Sky” on Nov. 20, 2024.
+EECS Colloquium
+Wednesday, November 20, 2024
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Tim Roughgarden
+Professor of Computer Science at Columbia University
+Founding Head of Research at a16z crypto.
+Abstract
+Turing-complete blockchain protocols such as Ethereum approximate the idealized abstraction of a shared “computer in the sky” that is open access (anyone can install software or interact with already-installed software), runs in plain view, and, in effect, has no owner or operator.  This technology can, among other things, enable stronger notions of ownership of digital possessions than we have ever had before. Building the computer in the sky is hard (and scientifically fascinating), and requires the synthesis of multiple disciplines, both within computer science (distributed computing, cryptography, algorithmic game theory) and beyond (mechanism design, macroeconomics, finance, political science).  This talk will survey some of Tim Roughgarden’s work in the area and the practical impact it has had.
+Biography
+Tim Roughgarden is a Professor in the Computer Science Department at Columbia University and the Founding Head of Research at a16z crypto. Prior to joining Columbia, he spent 15 years on the computer science faculty at Stanford, following a Ph.D. at Cornell and a postdoc at UC Berkeley. His research interests include the many connections between computer science and economics, as well as the design, analysis, applications and limitations of algorithms. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Kalai Prize in Computer Science and Game Theory, the Social Choice and Welfare Prize, the Mathematical Programming Society’s Tucker Prize, the INFORMS Lanchester Prize and the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 International Congress of Mathematicians and the Shapley Lecturer at the 2008 World Congress of the Game Theory Society. He is a Fellow of the Guggenheim Foundation, the ACM, the Game Theory Society and the Society for the Advancement of Economic Theory. He has written or edited ten books and monographs, including Twenty Lectures on Algorithmic Game Theory (2016), Beyond the Worst-Case Analysis of Algorithms (2020) and the Algorithms Illuminated book series (2017-2020).
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28584.html
+Comparing User Response Times on Paged and Swapped Unix
+Luis Felipe Cabrera and Jehan-Francois Paris
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/39
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-39.pdf
+BibTeX citation:
+@techreport{Cabrera:M81/39,
+Author= {Cabrera, Luis Felipe and Paris, Jehan-Francois},
+Title= {Comparing User Response Times on Paged and Swapped Unix},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28584.html},
+Number= {UCB/ERL M81/39},
+}
+EndNote citation:
+%0 Report
+%A Cabrera, Luis Felipe
+%A Paris, Jehan-Francois
+%T Comparing User Response Times on Paged and Swapped Unix
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28584.html
+%F Cabrera:M81/39

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-125.html
+Transformation-Aware Symbolic Execution for System Test Generation
+Stephen McCamant and Mathias Payer and Dan Caselden and Alex Bazhanyuk and Dawn Song
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-125
+June 21,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-125.pdf
+A common development task is to take a behavior exercised in a single function (e.g., a failing unit test), and to produce an input to the entire program (a system test) with the same behavior. In security, when the behavior is a potential vulnerability, this is constructing a proof-of-concept exploit. This task is challenging because it requires precise reasoning over an entire program. To automate instances of this task, our approach uses symbolic execution to generate program inputs that undergo transformations before they are used. Using information about the relationship of data structures and transformations in a program, our approach works backward, one transformation at a time, and applies optimized symbolic execution to search for transformation pre-images. Our techniques out-perform standard symbolic execution by several orders of magnitude, and construct exploits against two vulnerable document-processing applications without using source code.
+BibTeX citation:
+@techreport{McCamant:EECS-2013-125,
+Author= {McCamant, Stephen and Payer, Mathias and Caselden, Dan and Bazhanyuk, Alex and Song, Dawn},
+Title= {Transformation-Aware Symbolic Execution for System Test Generation},
+Year= {2013},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-125.html},
+Number= {UCB/EECS-2013-125},
+Abstract= {A common development task is to take a behavior exercised in a single function (e.g., a failing unit test), and to produce an input to the entire program (a system test) with the same behavior. In security, when the behavior is a potential vulnerability, this is constructing a proof-of-concept exploit. This task is challenging because it requires precise reasoning over an entire program. To automate instances of this task, our approach uses symbolic execution to generate program inputs that undergo transformations before they are used. Using information about the relationship of data structures and transformations in a program, our approach works backward, one transformation at a time, and applies optimized symbolic execution to search for transformation pre-images. Our techniques out-perform standard symbolic execution by several orders of magnitude, and construct exploits against two vulnerable document-processing applications without using source code.},
+}
+EndNote citation:
+%0 Report
+%A McCamant, Stephen
+%A Payer, Mathias
+%A Caselden, Dan
+%A Bazhanyuk, Alex
+%A Song, Dawn
+%T Transformation-Aware Symbolic Execution for System Test Generation
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 June 21
+%@ UCB/EECS-2013-125
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-125.html
+%F McCamant:EECS-2013-125

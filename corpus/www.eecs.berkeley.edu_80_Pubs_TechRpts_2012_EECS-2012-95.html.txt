@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-95.html
+Auto-tuning the Matrix Powers Kernel with SEJITS
+Jeffrey Morlan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-95
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-95.pdf
+The matrix powers kernel, used in communication-avoiding Krylov subspace methods, requires runtime auto-tuning for best performance. We demonstrate how the SEJITS (Selective Embedded Just-In-Time Specialization) approach can be used to deliver a high-performance and performance-portable implementation of the matrix powers kernel to application authors, while separating their high-level concerns from those of auto-tuner implementers involving low-level optimizations. The benefits of delivering this kernel in the form of a specializer, rather than a traditional library, are discussed. Performance of the matrix powers kernel specializer is evaluated in the context of a communication-avoiding conjugate gradient (CA-CG) solver, which compares favorably to traditional CG.
+Advisors:  Armando Fox
+BibTeX citation:
+@mastersthesis{Morlan:EECS-2012-95,
+Author= {Morlan, Jeffrey},
+Title= {Auto-tuning the Matrix Powers Kernel with SEJITS},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-95.html},
+Number= {UCB/EECS-2012-95},
+Abstract= {The matrix powers kernel, used in communication-avoiding Krylov subspace methods, requires runtime auto-tuning for best performance. We demonstrate how the SEJITS (Selective Embedded Just-In-Time Specialization) approach can be used to deliver a high-performance and performance-portable implementation of the matrix powers kernel to application authors, while separating their high-level concerns from those of auto-tuner implementers involving low-level optimizations. The benefits of delivering this kernel in the form of a specializer, rather than a traditional library, are discussed. Performance of the matrix powers kernel specializer is evaluated in the context of a communication-avoiding conjugate gradient (CA-CG) solver, which compares favorably to traditional CG.},
+}
+EndNote citation:
+%0 Thesis
+%A Morlan, Jeffrey
+%T Auto-tuning the Matrix Powers Kernel with SEJITS
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-95
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-95.html
+%F Morlan:EECS-2012-95

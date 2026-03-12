@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EEC220D
+EE C220D. Input/Output Methods for Compositional System Analysis
+Catalog Description:  Introduction to input/output concepts from control theory, systems as operators in signal spaces, passivity and
+small-gain theorems, dissipativity theory, integral quadratic constraints. Compositional stabilility and
+performance certification for interconnected systems from subsystems input/output properties. Case studies in
+multi-agent systems, biological networks, Internet congestion control, and adaptive control.
+Units:  2
+Course Objectives:  Standard computational tools for control synthesis and verification do not scale well to large-scale, networked
+systems in emerging applications. This course presents a compositional methodology suitable when the
+subsystems are amenable to analytical and computational methods but the interconnection, taken as a whole, is
+beyond the reach of these methods. The main idea is to break up the task of certifying desired stability and
+performance properties into subproblems of manageable size using input/output properties. Students learn about
+the fundamental theory, as well as relevant algorithms and applications in several domains.
+Formats:  Spring: 3.0 hours of lecture per week
+Fall: 3.0 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Also listed as:  MEC ENG C220D
+Class homepage
+on inst.eecs

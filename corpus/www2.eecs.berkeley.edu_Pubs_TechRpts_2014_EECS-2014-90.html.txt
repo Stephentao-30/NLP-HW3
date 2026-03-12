@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-90.html
+NEM Relay Scaling for Ultra-low Power Digital Logic | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+NEM Relay Scaling for Ultra-low Power Digital Logic
+NEM Relay Scaling for Ultra-low Power Digital Logic
+Jack Yaung
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-90
+May 16, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-90.pdf
+Advisor:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Yaung:EECS-2014-90,
+Author = {Yaung, Jack},
+Title = {NEM Relay Scaling for Ultra-low Power Digital Logic},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-90.html},
+Number = {UCB/EECS-2014-90}
+}
+EndNote citation:
+%0 Thesis
+%A Yaung, Jack
+%T NEM Relay Scaling for Ultra-low Power Digital Logic
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 16
+%@ UCB/EECS-2014-90
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-90.html
+%F Yaung:EECS-2014-90

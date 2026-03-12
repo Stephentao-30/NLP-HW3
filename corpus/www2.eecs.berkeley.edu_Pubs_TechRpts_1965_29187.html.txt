@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29187.html
+A Frequency-Domain Stability Criterion for Feedback Systems Containing a Single Linear Time-Varying Element | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Frequency-Domain Stability Criterion for Feedback Systems Containing a Single Linear Time-Varying Element
+A Frequency-Domain Stability Criterion for Feedback Systems Containing a Single Linear Time-Varying Element
+Y.L. Kuo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M139
+November 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-139.pdf
+BibTeX citation:
+@techreport{Kuo:M139,
+Author = {Kuo, Y.L.},
+Title = {A Frequency-Domain Stability Criterion for Feedback Systems Containing a Single Linear Time-Varying Element},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29187.html},
+Number = {UCB/ERL M139}
+}
+EndNote citation:
+%0 Report
+%A Kuo, Y.L.
+%T A Frequency-Domain Stability Criterion for Feedback Systems Containing a Single Linear Time-Varying Element
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M139
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/29187.html
+%F Kuo:M139

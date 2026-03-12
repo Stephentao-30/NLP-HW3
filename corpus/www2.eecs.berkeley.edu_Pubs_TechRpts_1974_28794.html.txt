@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28794.html
+On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding
+On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M491
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-491.pdf
+BibTeX citation:
+@techreport{Polak:M491,
+Author = {Polak, E.},
+Title = {On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28794.html},
+Number = {UCB/ERL M491}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T On the Global Stabilization of Locally Convergent Algorithms for Optimization and Root Finding
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M491
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28794.html
+%F Polak:M491

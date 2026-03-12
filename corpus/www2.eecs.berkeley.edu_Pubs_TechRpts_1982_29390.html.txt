@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29390.html
+Bipolar-JFET-MOSFET Negative Resistance Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Bipolar-JFET-MOSFET Negative Resistance Devices
+Bipolar-JFET-MOSFET Negative Resistance Devices
+L.O. Chua, J. Yu and Y. Yu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/84
+November 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-84.pdf
+BibTeX citation:
+@techreport{Chua:M82/84,
+Author = {Chua, L.O. and Yu, J. and Yu, Y.},
+Title = {Bipolar-JFET-MOSFET Negative Resistance Devices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29390.html},
+Number = {UCB/ERL M82/84}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Yu, J.
+%A Yu, Y.
+%T Bipolar-JFET-MOSFET Negative Resistance Devices
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/84
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29390.html
+%F Chua:M82/84

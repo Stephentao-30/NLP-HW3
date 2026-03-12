@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29267.html
+Design of Precompensator for Decoupling Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design of Precompensator for Decoupling Problem
+Design of Precompensator for Decoupling Problem
+S.H. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M275
+April 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-275.pdf
+BibTeX citation:
+@techreport{Wang:M275,
+Author = {Wang, S.H.},
+Title = {Design of Precompensator for Decoupling Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29267.html},
+Number = {UCB/ERL M275}
+}
+EndNote citation:
+%0 Report
+%A Wang, S.H.
+%T Design of Precompensator for Decoupling Problem
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M275
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29267.html
+%F Wang:M275

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29302.html
+Analysis of Calendaring Strategies for Criminal Jury Trials in Court Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analysis of Calendaring Strategies for Criminal Jury Trials in Court Systems
+Analysis of Calendaring Strategies for Criminal Jury Trials in Court Systems
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M423
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-423.pdf
+BibTeX citation:
+@techreport{Stonebraker:M423,
+Author = {Stonebraker, Michael},
+Title = {Analysis of Calendaring Strategies for Criminal Jury Trials in Court Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29302.html},
+Number = {UCB/ERL M423}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Analysis of Calendaring Strategies for Criminal Jury Trials in Court Systems
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M423
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/29302.html
+%F Stonebraker:M423

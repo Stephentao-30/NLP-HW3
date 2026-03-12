@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28791.html
+CUPID- The Friendly Query Language | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+CUPID- The Friendly Query Language
+CUPID- The Friendly Query Language
+Nancy McDonald and Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M487
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-487.pdf
+BibTeX citation:
+@techreport{McDonald:M487,
+Author = {McDonald, Nancy and Stonebraker, Michael},
+Title = {CUPID- The Friendly Query Language},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28791.html},
+Number = {UCB/ERL M487}
+}
+EndNote citation:
+%0 Report
+%A McDonald, Nancy
+%A Stonebraker, Michael
+%T CUPID- The Friendly Query Language
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M487
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28791.html
+%F McDonald:M487

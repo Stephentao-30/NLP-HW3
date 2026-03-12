@@ -1,0 +1,11 @@
+URL: https://eecs.berkeley.edu/news/nir-shavit-appointed-visiting-professor
+Nir Shavit Appointed as Visiting Professor - EECS at Berkeley
+The Department of EECS is pleased to announce the appointment of Nir Shavit as Visiting Professor, effective July 1, 2018. Shavit is a leading researcher in the field of distributed and parallel computation. The central issue in this area is managing a shared memory across a number of processors while maintaining consistency and avoiding conflicts. Shavit has made foundational contributions to this field, ranging from abstract theorems introducing a topological framework for analyzing these issues to providing a practical, and widely used, realization of a transactional memory technique for multiprocessor synchronization. A recent focus of Shavit’s work has been the application of parallel computation to “connectomics”: the creation of detailed maps of the connections in the brain.
+Shavit received the M.Sc. in 1985 from Technion and the Ph.D. in Computer Science in 1990 from the Hebrew University of Jerusalem. He is on the faculty of  Tel Aviv University, where he began as a Lecturer in 1992 and rose through the ranks to full professor in 2007. Since 2011, he has also been a full professor at MIT .
+Two of Shavit’s co-authored papers have received distinguished prizes from the European Association for Theoretical Computer Science and the Association for Computing Machinery: The Gödel Prize in 2004 for the paper “The Topological Structure  of Asynchronous Computation”  and the Dijkstra Prize in 2012 for the paper “Software Transactional Memory.” The massive textbook,  The Art of Multiprocessor Programming, ” by Maurice Herlihy and Shavit (2008) is the most authoritative treatment of this subject.
+In view of his outstanding conceptual and practical achievements and his exceptional skills as an expositor Shavit will be a major contributor to Berkeley’s efforts in parallel and distributed computing.
+Categories
+Faculty
+Research
+View
+Open Faculty Positions

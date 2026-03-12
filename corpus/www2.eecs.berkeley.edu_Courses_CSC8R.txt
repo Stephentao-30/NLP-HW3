@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC8R
+Course: CSC8R | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CSC8R
+CS C8R. Introduction to Computational Thinking with Data
+Catalog Description:  An introduction to computational thinking and quantitative reasoning, preparing students for further coursework, especially Foundations of Data Science (CS/Info/Stat C8).  Emphasizes the use of computation to gain insight about quantitative problems with real data. Expressions, data types, collections, and tables in Python. Programming practices, abstraction, and iteration.  Visualizing univariate and bivariate data with bar charts, histograms, plots, and maps. Introduction to statistical concepts including averages and distributions, predicting one variable from another, association and causality, probability and probabilistic simulation. Relationship between numerical functions and graphs. Sampling and introduction to inference.
+Units:  3.0
+Course Objectives:  C8R also includes quantitative reasoning concepts that aren’t covered in Data 8.  These include certain topics in: principles of data visualization; simulation of random processes; and understanding numerical functions through their graphs. This will help prepare students for computational and quantitative courses other than Data 8., C8R takes advantage of the complementarity of computing and quantitative reasoning to enliven abstract ideas and build students’ confidence in their ability to solve real problems with quantitative tools.  Students learn computer science concepts and immediately apply them to plot functions, visualize data, and simulate random events.
+, Foundations of Data Science (CS/Info/Stat C8, a.k.a. Data 8) is an increasingly popular class for entering students at Berkeley.  Data 8 builds students’ computing skills in the first month of the semester, and students rely on these skills as the course progresses.  For some students, particularly those with little prior exposure to computing, developing these skills benefits from further time and practice.  C8R is a rapid introduction to Python programming, visualization, and data analysis, which will prepare students for success in Data 8.
+Student Learning Outcomes:  Students will be able to perform basic computations in Python, including working with tabular data., Students will be able to understand basic probabilistic simulations., Students will be able to use visualizations to understand univariate data and to identify associations or causal relationships in bivariate data., Students will be able to use good practices in Python programming., Students will be able to understand the syntactic structure of Python code.
+Credit Restrictions:  Students who have taken COMPSCI/INFO/STAT C8 will receive no credit for COMPSCI/STAT C8R.
+Formats:  Summer: 4.0 hours of lecture, 2.0 hours of discussion, and 4.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  STAT C8R
+Class homepage on inst.eecs
+General Catalog listing

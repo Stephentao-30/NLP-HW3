@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28558.html
+Optimal Control of Service in Tandem Queues | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimal Control of Service in Tandem Queues
+Optimal Control of Service in Tandem Queues
+Z. Rosberg, P. Veraiya and J. Walrand
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/42
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-42.pdf
+BibTeX citation:
+@techreport{Rosberg:M80/42,
+Author = {Rosberg, Z. and Veraiya, P. and Walrand, J.},
+Title = {Optimal Control of Service in Tandem Queues},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28558.html},
+Number = {UCB/ERL M80/42}
+}
+EndNote citation:
+%0 Report
+%A Rosberg, Z.
+%A Veraiya, P.
+%A Walrand, J.
+%T Optimal Control of Service in Tandem Queues
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/42
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28558.html
+%F Rosberg:M80/42

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29151.html
+Enhancement of Classical Transport Processes Along Resonances in Near Integrable Systems with Many Degrees of Freedom
+Jeffrey Tennyson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/7
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-7.pdf
+BibTeX citation:
+@techreport{Tennyson:M81/7,
+Author= {Tennyson, Jeffrey},
+Title= {Enhancement of Classical Transport Processes Along Resonances in Near Integrable Systems with Many Degrees of Freedom},
+Year= {1981},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29151.html},
+Number= {UCB/ERL M81/7},
+}
+EndNote citation:
+%0 Report
+%A Tennyson, Jeffrey
+%T Enhancement of Classical Transport Processes Along Resonances in Near Integrable Systems with Many Degrees of Freedom
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/7
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29151.html
+%F Tennyson:M81/7

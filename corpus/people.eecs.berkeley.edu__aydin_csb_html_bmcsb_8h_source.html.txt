@@ -1,0 +1,118 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/bmcsb_8h_source.html
+Compressed Sparse Blocks: bmcsb.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+bmcsb.h
+Go to the documentation of this file.     1   #ifndef _BMCSB_H
+2   #define _BMCSB_H
+3
+4   #include <cmath>
+5   #include <vector>
+6   #include <algorithm>
+7   #include <numeric>   // for std:accumulate()
+8   #include <limits>   // C++ style numeric_limits<T>
+9   #include " csc.h "
+10   #include " mortoncompare.h "
+11
+12   using namespace  std;
+13
+14   void   SSEspmv ( const   double  * __restrict V,  const  uint64_t * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits);
+15
+16   void   SSEspmv ( const   double  * __restrict V,  const   unsigned   short  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits);
+17
+18   void   SSEspmv ( const   double  * __restrict V,  const   unsigned   char  * __restrict M,  const   unsigned  * __restrict bot,  const   unsigned  nrb,  const   double  * __restrict X,  double  * Y,  unsigned  lcmask,  unsigned  lrmask,  unsigned  clbits);
+19
+20   template  < class  NT,  class  IT,  unsigned  TTDIM>
+21   class  BmCsb
+22  {
+23   public :
+24       BmCsb  ():nz(0), m(0), n(0), nbc(0), nbr(0) {}    // default constructor (dummy)
+25
+26       BmCsb  ( const   BmCsb<NT, IT, TTDIM>  & rhs);            // copy constructor
+27      ~ BmCsb ();
+28       BmCsb<NT,IT,TTDIM>  & operator=( const   BmCsb<NT,IT,TTDIM>  & rhs);  // assignment operator
+29       BmCsb  ( Csc<NT, IT>  & csc,  int  workers);
+30
+31      ofstream & PrintStats(ofstream & outfile)  const ;
+32      IT  colsize ()  const  {  return  n;}
+33      IT  rowsize ()  const  {  return  m;}
+34      IT  numregb ()  const  {  return  nrb;}
+35       bool   isPar ()  const  {  return  ispar; }
+36
+37   private :
+38       typedef   typename   int_least_helper<TTDIM>::least  MTYPE;
+39
+40       void  Init( int  workers, IT forcelogbeta = 0);
+41
+42       void  SubSpMV(IT * btop, IT bstart, IT bend,  const  NT * __restrict x, NT * __restrict suby, IT * __restrict sumscan)  const ;
+43
+44       void  BMult(IT** chunks, IT start, IT end,  const  NT * __restrict x, NT * __restrict y, IT ysize, IT * __restrict sumscan)  const ;
+45
+46
+47       void  BlockPar(IT start, IT end,  const  NT * __restrict subx, NT * __restrict suby,
+48                      IT rangebeg, IT rangeend, IT cutoff, IT * __restrict sumscan)  const ;
+49
+50       void  SortBlocks(pair<IT, pair<IT,IT> > * pairarray, NT * val);
+51
+52      IT ** top ;  // pointers array (indexed by higher-order bits of the coordinate index), size = nbr*(nbc+1)
+53      IT * bot;    // contains lower-order bits of the coordinate index, size nrb
+54      MTYPE * masks;   // array of masks, size nrb
+55      NT * num;    // contains numerical values, size nnz
+56
+57       bool  ispar;
+58      IT nz;       // # nonzeros
+59      IT m;        // # rows
+60      IT n;        // # columns
+61      IT blcrange;     // range indexed by one block
+62
+63      IT nbc;      // #{column blocks} = #{blocks in any block row}
+64      IT nbr;      // #{block rows)
+65      IT nrb;      // #{register blocks}
+66
+67      IT rowlowbits;   // # lower order bits for rows
+68      IT rowhighbits;
+69      IT highrowmask;  // mask with the first log(m)/2 bits = 1 and the other bits = 0
+70      IT lowrowmask;
+71
+72      IT collowbits;   // # lower order bits for columns
+73      IT colhighbits;
+74      IT highcolmask;  // mask with the first log(n)/2 bits = 1 and the other bits = 0
+75      IT lowcolmask;
+76
+77       MortonCompare<IT>  mortoncmp;     // comparison operator w.r.t. the (inverted N)-morton layout
+78
+79       template  < typename  NU,  typename  IU,  unsigned  UUDIM>
+80       friend   void   bmcsb_gespmv  ( const   BmCsb<NU, IU, UUDIM>  & A,  const  NU * x, NU * y);
+81
+82       template  < class  CSB>
+83       friend   float   RowImbalance ( const  CSB & A);    // befriend any CSB instantiation
+84  };
+85
+86
+87   #include " friends.h "
+88   #include " bmcsb.cpp "
+89   #endif
+BmCsb::rowsize IT rowsize() const  Definition:   bmcsb.h:33
+BmCsb Definition:   bmcsb.h:21
+bmcsb.cpp
+mortoncompare.h
+BmCsb::colsize IT colsize() const  Definition:   bmcsb.h:32
+BmCsb::isPar bool isPar() const  Definition:   bmcsb.h:35
+bmcsb_gespmv void bmcsb_gespmv(const BmCsb< NT, IT, TTDIM > &A, const NT *__restrict x, NT *__restrict y) Definition:   friends.h:33
+int_least_helper Definition:   utility.h:68
+BmCsb::numregb IT numregb() const  Definition:   bmcsb.h:34
+SSEspmv void SSEspmv(const double *__restrict V, const uint64_t *__restrict M, const unsigned *__restrict bot, const unsigned nrb, const double *__restrict X, double *Y, unsigned lcmask, unsigned lrmask, unsigned clbits) Definition:   SSEspmv.cpp:1120
+Csc Definition:   csc.h:15
+RowImbalance float RowImbalance(const CSB &A) Definition:   friends.h:400
+BmCsb::BmCsb BmCsb() Definition:   bmcsb.h:24
+friends.h
+csc.h
+MortonCompare< IT >
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

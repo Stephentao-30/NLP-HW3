@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-220.html
+Community Cellular Networks
+Kurtis Heimerl
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-220
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-220.pdf
+There are over six billion active cellular subscribers, spending a total of over a trillion dollars a year on communications. Despite this, hundreds of millions of people, primarily in rural areas, are still without network connectivity. There are two primary reasons for this: First, it is too expensive for traditional carriers to install equipment in far flung regions with small markets. Second, traditional carriers are the only organizations allowed to provide coverage; local people cannot.
+To bring network connectivity to these remaining hundreds of millions of people, we introduce the concept of community cellular networks: small-scale, locally operated networks independent from traditional telecommunication firms. In support of these networks, we also introduce virtual coverage, a novel power saving mechanism in GSM networks. Virtual coverage allows us to reduce the total install cost of the network to the point where individual operators can run their own full-scale telecommunication firms.
+We deployed the first community cellular network in the community of Desa in rural Papua, Indonesia. This community of approximately 1500 people is far from existing network coverage. We developed numerous services for the community including a credit system, singing competition, and others. The network also made use of virtual coverage.
+We evaluated community cellular and virtual coverage through this real-world installation in Desa. Over a six-month period, we saw over 100000 communications, reduced the night power draw by 56.6%, and generated over US$5000 in revenue for the local operator. This network is sustainable, generating over US$368 per month in profit for the local operator, even assuming complete financing of the install. We interviewed users of the system, discovering that most of their communication is with family and friends in other Indonesian areas. Lastly, we show that this network is significantly more locally-focused than a traditional firm in sub-Saharan Africa.
+These results validate the community cellular model. We explore future work needed for this model to flourish, including more technological innovations in power saving and alternative models for regulating these small networks.
+Advisors:  Eric Brewer and Tapan S. Parikh
+BibTeX citation:
+@phdthesis{Heimerl:EECS-2013-220,
+Author= {Heimerl, Kurtis},
+Title= {Community Cellular Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-220.html},
+Number= {UCB/EECS-2013-220},
+Abstract= {There are over six billion active cellular subscribers, spending a total of over a trillion dollars a year on communications. Despite this, hundreds of millions of people, primarily in rural areas, are still without network connectivity. There are two primary reasons for this: First, it is too expensive for traditional carriers to install equipment in far flung regions with small markets. Second, traditional carriers are the only organizations allowed to provide coverage; local people cannot.
+To bring network connectivity to these remaining hundreds of millions of people, we introduce the concept of community cellular networks: small-scale, locally operated networks independent from traditional telecommunication firms. In support of these networks, we also introduce virtual coverage, a novel power saving mechanism in GSM networks. Virtual coverage allows us to reduce the total install cost of the network to the point where individual operators can run their own full-scale telecommunication firms.
+We deployed the first community cellular network in the community of Desa in rural Papua, Indonesia. This community of approximately 1500 people is far from existing network coverage. We developed numerous services for the community including a credit system, singing competition, and others. The network also made use of virtual coverage.
+We evaluated community cellular and virtual coverage through this real-world installation in Desa. Over a six-month period, we saw over 100000 communications, reduced the night power draw by 56.6%, and generated over US$5000 in revenue for the local operator. This network is sustainable, generating over US$368 per month in profit for the local operator, even assuming complete financing of the install. We interviewed users of the system, discovering that most of their communication is with family and friends in other Indonesian areas. Lastly, we show that this network is significantly more locally-focused than a traditional firm in sub-Saharan Africa.
+These results validate the community cellular model. We explore future work needed for this model to flourish, including more technological innovations in power saving and alternative models for regulating these small networks.},
+}
+EndNote citation:
+%0 Thesis
+%A Heimerl, Kurtis
+%T Community Cellular Networks
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-220
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-220.html
+%F Heimerl:EECS-2013-220

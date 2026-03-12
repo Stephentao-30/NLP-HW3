@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-83.html
+Torus Immersions and Transformations
+Carlo H. Séquin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-83
+July 20,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-83.pdf
+All possible immersions of a torus in 3D Euclidean space can be grouped into four regular homotopy classes. All possible immersions within one such class can be transfigured into one another through continuous smooth transformations that will put no tears, creases, or other regions of infinite curvature into the surface. This report introduces four simple, easy-to-understand representatives for these four homotopy classes and describes several transformations that convert a more complex immersion of some torus into one of these representatives. Among them are transformations that turn a torus inside out and others that will rotate its surface parameterization by 90 degrees.
+BibTeX citation:
+@techreport{Séquin:EECS-2011-83,
+Author= {Séquin, Carlo H.},
+Title= {Torus Immersions and Transformations},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-83.html},
+Number= {UCB/EECS-2011-83},
+Abstract= {All possible immersions of a torus in 3D Euclidean space can be grouped into four regular homotopy classes. All possible immersions within one such class can be transfigured into one another through continuous smooth transformations that will put no tears, creases, or other regions of infinite curvature into the surface. This report introduces four simple, easy-to-understand representatives for these four homotopy classes and describes several transformations that convert a more complex immersion of some torus into one of these representatives. Among them are transformations that turn a torus inside out and others that will rotate its surface parameterization by 90 degrees.},
+}
+EndNote citation:
+%0 Report
+%A Séquin, Carlo H.
+%T Torus Immersions and Transformations
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 20
+%@ UCB/EECS-2011-83
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-83.html
+%F Séquin:EECS-2011-83

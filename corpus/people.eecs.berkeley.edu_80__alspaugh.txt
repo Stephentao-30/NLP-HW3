@@ -1,0 +1,141 @@
+URL: http://people.eecs.berkeley.edu:80/~alspaugh
+S. Alspaugh: Graduate Student - University of California, Berkeley - Computer Science Division
+S. Alspaugh
+PhD Candidate, AMPLab, EECS Department, UC Berkeley
+I'm a PhD candidate in the EECS Department at the University of California, Berkeley. I work in the  AMPLab .  My co-advisors are  Randy Katz  and  Marti Hearst .
+I'm happy to announce that in January 2015 I received a Tableau Fellowship!
+Please email me if you would like a copy of my CV. Follow me on Twitter!  @salspaugh
+PUBLICATIONS
+Analyzing Log Analysis: An Empirical Study of User Log Mining.   [BEST STUDENT PAPER]
+S. Alspaugh, B. Chen, J. Lin, A. Ganapathi, M. Hearst, and R. Katz.
+Large Installation System Administration Conference
+( LISA ).
+November 2014.
+[paper]   [slides]
+Better Logging to Improve Interactive Data Analysis Tools.
+S. Alspaugh, A. Ganapathi, M. Hearst, and R. Katz.
+Workshop on Interactive Data Exploration and Analytics
+( IDEA ).
+Co-located with  KDD .
+August 2014.
+[paper]   [slides]
+Building Blocks for Exploratory Data Analysis Tools.
+S. Alspaugh, A. Ganapathi, M. Hearst, and R. Katz.
+Workshop on Interactive Data Exploration and Analytics
+( IDEA ).
+Co-located with  KDD .
+August 2013.
+[paper]
+Towards a Data Analysis Recommendation System.
+S. Alspaugh and A. Ganapathi.
+Workshop on Managing Systems Automatically and Dynamically
+( MAD ).
+Co-located with  OSDI .
+October 2012.
+[paper]
+Cake: Enabling High-level SLOs on Shared Storage Systems.
+A. Wang, S. Venkataraman, S. Alspaugh, R. Katz, and I. Stoica.
+Symposium on Cloud Computing
+( SoCC ).
+October 2012.
+[paper]   [slides]  (slides by A. Wang)
+Interactive Query Processing in Big Data Systems: A Cross-Industry Study of MapReduce Workloads.
+Y. Chen, S. Alspaugh, and R. Katz.
+International Conference on Very Large Data Bases
+( VLDB ).
+August 2012.
+[paper]
+Sweet Storage SLOs with Frosting.
+A. Wang, S. Venkataraman, S. Alspaugh, R. Katz, and I. Stoica.
+Workshop on Hot Topics in Cloud Computing
+( HotCloud ).
+Co-located with  USENIX ATC .
+June 2012.
+[paper]   [slides]  (slides by A. Wang)
+Reducing Cluster Energy Consumption through Workload Management.
+S. Alspaugh.
+Master's Thesis.   May 2012.
+[paper]
+Energy Efficiency for Large-Scale MapReduce Workloads with Significant Interactive Analysis.
+Y. Chen, S. Alspaugh, D. Borthakur, and R. Katz.
+European Conference on Computer Systems
+( EuroSys ).
+April 2012.
+[paper]
+Design and Evaluation of an Energy Agile Computing Cluster.
+A. Krioukov, S. Alspaugh, P. Mohan, S. Dawson-Haggerty, D. Culler and R. Katz.
+UC Berkeley EECS Tech Report.   January 2012.
+[paper]
+Integrating Renewable Energy Using Data Analytics Systems: Challenges and Opportunities.
+A. Krioukov, C. Goebel, S. Alspaugh, Y. Chen, D. Culler, and R. Katz.
+IEEE Computer Society Technical Committee Bulletin on Data Engineering.   March 2011.
+[paper]
+An Information-Centric Energy Infrastructure: The Berkeley View.
+R. Katz, D. Culler, S. Sanders, S. Alspaugh, Y. Chen, S. Dawson-Haggerty, P. Dutta, M. He, X. Jifang, L. Keys, A. Krioukov, K. Lutz, J. Ortiz, P. Mohan, E. Reutzel, J. Taneja, J. Hsu, and S. Shankar.
+Journal of Sustainable Computing.   January 2011.
+[paper]
+Napsac: Design and Implementation of a Power-Proportional Web Cluster.
+A. Krioukov, P. Mohan, S. Alspaugh, L. Keys, D. Culler, and R. Katz.
+Workshop on Green Networking .
+Co-located with  SIGCOMM .
+August 2010.
+[paper]
+Policy-Driven Data Management for Distributed Scientific Collaborations Using a Rule Engine.
+S. Alspaugh, A. Chervenak and E. Deelman.
+ACM Student Research Competition Best Undergraduate Student Poster.
+Co-located with  SC .
+November 2008.
+[summary]   [poster]
+Policy-Driven Data Management for Distributed Scientific Collaborations Using a Rule Engine.
+S. Alspaugh and A. Chervenak. CRA-W Distributed Mentor Project Final Report.  September 2008.
+[paper]
+Efficient Time-Aware Prioritization with Knapsack Solvers.
+S. Alspaugh, K. Walcott, M. Belanich, G. Kapfhammer, and M. Soffa.
+Workshop on Empirical Assessment of Software Engineering Languages and Technologies ( WEASELTech ).
+Co-located with  ASE .
+November 2007.
+[paper]   [slides]
+INVITED TALKS
+Exploring data exploration: pilot studies to characterize EDA activity in Tableau.
+Tableau . 18 December 2014.
+[slides]
+Improving data analysis systems by studying interaction data from logs.
+IBM Watson Research Center . 17 October 2014.
+[slides]
+Understanding the process of data analysis by studying interaction records.
+Trifacta . 2 October 2014.
+[slides]
+Design and analysis of an energy agile cluster computing system.
+Variaya Energy Group (VEG) . 30 November 2011.
+[slides]
+MENTORING
+I've had the privilege of working with several excellent undergraduate students on my research.
+Jessica Lin, BA Computer Science, Cognitive Science, May 2013—Dec 2014, now a Software Engineer at Redfin
+Beidi Chen, BS Computer Science, Jan 2013—Dec 2014, now a PhD student at Rice University
+TEACHING
+University of California, Berkeley
+Fall 2014: INFO 290, Research Seminar on Exploratory Data Analysis (co-taught with  Marti Hearst )
+Fall 2012: CS 9*, Self-Paced Learning Center (administered by  Dan Garcia )
+Fall 2010: EE 122, Introduction to Communication Networks (taught by  Scott Shenker )
+University of Virginia
+Fall 2008: CS 202, Discrete Math (taught by  John Knight ]
+Spring 2008: CS 101, Introduction to Computer Science (taught by  Jim Cohoon )
+Fall 2007: CS 101, Introduction to Computer Science (taught by  Kevin Sullivan )
+BLOG
+Notes on "Theories with a Purpose"
+CONTACT
+Email: alspaugh@eecs.berkeley.edu
+Twitter:  @salspaugh
+GitHub:  github.com/salspaugh
+LinkedIn:  linkedin.com/in/salspaugh
+RESEARCH
+Tools for exploratory data analysis
+Systems for heterogenous workloads
+Power-proportional clusters
+Policy-driven data management
+Time-aware regression suite prioritization
+OTHER
+Invited Talks
+Mentoring
+Teaching
+Blog

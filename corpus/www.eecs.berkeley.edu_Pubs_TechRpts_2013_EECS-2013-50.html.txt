@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-50.html
+Design of a Configurable Ultrasound Scanner and Application to Imaging with Gas Vesicle Contrast Agents
+THIS REPORT HAS BEEN WITHDRAWN
+Arkosnato Neogy
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-50
+May 8, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2013-50.pdf
+Modern ultrasound imaging has superseded radiation-based (X-ray, CT, MRI) imaging modal-
+ities in applications that have high safety requirements. The low budget, both in cost and hospital
+real-estate, and real-time imaging possibilities in ultrasound have further increased the attractive-
+ness of this modality.
+Ultrasound faces one primary drawback today - the lack of a range of contrast agents, that can
+suitably highlight selected tissues as opposed to the background. Since the acoustic impedance of
+most tissues in the human body is close to water, production of natural contrast cannot be expected.
+Therefore, standard contrasts agents such as microbubbles are used. These agents have their limi-
+tations. Specifically, the size of microbubbles makes it difficult for them to perfuse into capillary
+beds which is an important imaging target in various pathological conditions. In addition, cavi-
+tation based non-linear imaging physics for microbubbles increases risks of microbubbles being
+destroyed under ultrasound pressure unexpectedly, causing damage to surrounding healthy tissues.
+To counter these drawbacks, our project focuses on proposing an alternative contrast agent for
+ultrasound imaging. Specifically, the target agent should be smaller in size, predominantly linear
+in its imaging response, while not losing out either in image quality (as measured by resolution,
+contrast and SNR) or in medical relevance (controlled sonication, drug delivery, controlled non-
+linear response). We discovered an unusual candidate to fit the above requirements - gas vesicles.
+Gas vesicles are sub-micron scale protein cages produced by photosynthetic bacteria and algae in
+aquatic environments to maintain buoyancy and receive optimal amount of sunlight.
+Through the experiments described in this thesis, we establish the viability of gas vesicles as
+potential ultrasound contrast agents for future medical applications at a proof of concept level. A
+significant contributor to the success of using gas vesicles to produce imaging contrast is an auto-
+mated ultrasound apparatus developed indigenously for the purpose of experiments. The interplay
+of hardware functionality and flexible software control was designed so as to facilitate the choice
+of best-practice parameters to generate images of diagnostically acceptable quality. Using this ap-
+paratus, we establish the linearity of gas vesicles, and move on to demonstrate high quality images
+in terms of resolution, contrast and SNR. We extend our exploration further to advanced imaging techniques to ensure gas vesicles do not lose out on advantages offered by microbubble-like non-linear contrast agents. Specifically, we show that it is possible to use gas vesicles in non-linear regions for harmonic imaging, sonication and bio-functionalized imaging to establish its biological potential in future applications.
+Advisors:  Steven Conolly
+Author Comments:

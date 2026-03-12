@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-35.html
+Sweet Storage SLOs with Frosting
+Andrew Wang and Shivaram Venkataraman and Sara Alspaugh and Ion Stoica and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-35
+March 27,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-35.pdf
+Modern datacenters support a large number of applications with diverse performance requirements. These performance requirements are expressed at the application layer as high-level service-level objectives} (SLOs). However, large-scale distributed storage systems are unaware of these high-level SLOs. This lack of awareness results in poor performance when workloads from multiple applications are consolidated onto the same storage cluster to increase utilization.
+In this paper, we argue that because SLOs are expressed at a high level, a high-level control mechanism is required. This is in contrast to existing approaches, which use block- or disk-level mechanisms. These require manual translation of high-level requirements into low-level parameters.
+We present Frosting, a request scheduling layer on top of a distributed storage system that allows application programmers to specify their high-level SLOs directly. Frosting improves over the state-of-the-art by automatically translating high-level SLOs into internal scheduling parameters and uses feedback control to adapt these parameters to changes in the workload. Our preliminary results demonstrate that our overlay approach can multiplex both latency-sensitive and batch applications to increase utilization, while still maintaining a 100ms 99th percentile latency SLO for latency-sensitive clients.
+BibTeX citation:
+@techreport{Wang:EECS-2012-35,
+Author= {Wang, Andrew and Venkataraman, Shivaram and Alspaugh, Sara and Stoica, Ion and Katz, Randy H.},
+Title= {Sweet Storage SLOs with Frosting},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-35.html},
+Number= {UCB/EECS-2012-35},
+Abstract= {Modern datacenters support a large number of applications with diverse performance requirements. These performance requirements are expressed at the application layer as high-level service-level objectives} (SLOs). However, large-scale distributed storage systems are unaware of these high-level SLOs. This lack of awareness results in poor performance when workloads from multiple applications are consolidated onto the same storage cluster to increase utilization.
+In this paper, we argue that because SLOs are expressed at a high level, a high-level control mechanism is required. This is in contrast to existing approaches, which use block- or disk-level mechanisms. These require manual translation of high-level requirements into low-level parameters.
+We present Frosting, a request scheduling layer on top of a distributed storage system that allows application programmers to specify their high-level SLOs directly. Frosting improves over the state-of-the-art by automatically translating high-level SLOs into internal scheduling parameters and uses feedback control to adapt these parameters to changes in the workload. Our preliminary results demonstrate that our overlay approach can multiplex both latency-sensitive and batch applications to increase utilization, while still maintaining a 100ms 99th percentile latency SLO for latency-sensitive clients.},
+}
+EndNote citation:
+%0 Report
+%A Wang, Andrew
+%A Venkataraman, Shivaram
+%A Alspaugh, Sara
+%A Stoica, Ion
+%A Katz, Randy H.
+%T Sweet Storage SLOs with Frosting
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 27
+%@ UCB/EECS-2012-35
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-35.html
+%F Wang:EECS-2012-35

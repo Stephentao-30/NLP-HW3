@@ -1,0 +1,21 @@
+URL: http://people.eecs.berkeley.edu:80/~alexlee_gk/research_projects.html
+Alex Lee: Research Projects
+Alex X. Lee
+Home
+Publications
+Projects
+Research Projects
+Class Projects
+Side Projects
+Internship Projects
+Contact:
+alexleegk [at] gmail [dot] com
+These are selected projects that I have worked on in Professor Abbeel's research group.
+Learning from Demonstrations for Robotics Manipulation
+TBD. Check out  lfd , our Learning from Demonstrations library.
+Finding Locally Optimal, Collision-Free Trajectories with Sequential Convex Optimization
+We were able to formulate a collision penalty procedure that returns collision-free trajectories (even in continuous-time). In addition, we can easily impose additional constraints, such as following a sequence of waypoints, picking and moving boxes without turning them over, or constraining the center of mass of a bipedal robot for static stability. We tested our algorithm with various robots in simulation, and with a real robot, the Willow Garage PR2. The video below shows the planning and execution of the PR2 picking up a crumpled piece of paper and dropping it in the recycle bin. More videos can be found at the project's website  here . The software package can be found  here .
+Tracking Deformable Objects with Point Clouds
+The proposed tracking algorithm is based on a probabilistic generative model that incorporates point cloud sensor measurements and the physical properties of the tracked objects and its environment. The following video (4X speed) shows the camera image of the deformable object being tracked (left) and a rendering of our state estimate when using our tracking algorithm (right).
+Tying Surgical Knots From Demonstration: Enhancing Demonstrations and Correcting Errors During Execution
+I worked on using sequential quadratic programming (SQP) to plan a sequence of control inputs to correct for perturbations during the execution of a suture trajectory. The following video shows the original trajectory of a human attempting to tie a knot (left) and the trajectory returned by our trajectory enhancer (right).

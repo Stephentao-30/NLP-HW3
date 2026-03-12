@@ -1,0 +1,61 @@
+URL: https://people.eecs.berkeley.edu/~banghua/publication.html
+Menu
+Home
+Publication
+Teaching and Services
+CV
+Publications
+1. Fine-Tuning Language Models with Advantage-Induced Policy Alignment
+Banghua Zhu , Hiteshi Sharma, Felipe Vieira Frujeri, Shi Dong, Chenguang Zhu, Michael I. Jordan,  Jiantao Jiao
+In submission.  [arxiv]   [code]
+2. On Optimal Caching and Model Switching for Large Model Inference
+Banghua Zhu , Ying Sheng, Lianmin Zheng, Clark Barrett, Michael I. Jordan, Jiantao Jiao
+In submission.  [arxiv]   [code]
+3. Doubly Robust Self-Training
+Banghua Zhu , Mingyu Ding, Philip Jacobson, Ming Wu, Wei Zhan, Michael I. Jordan, Jiantao Jiao
+In submission  [arxiv]   [code]
+4. Online Learning in a Creator Economy
+Banghua Zhu , Sai Praneeth Karimireddy, Jiantao Jiao, Michael I. Jordan
+In submission.  [arxiv]
+5. Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons
+Banghua Zhu , Jiantao Jiao, Michael I. Jordan
+ICML 2023.  [arxiv]
+6. Online Learning in Stackelberg Games with an Omniscient Follower
+Geng Zhao*,  Banghua Zhu *, Jiantao Jiao, Michael I. Jordan
+ICML 2023.  [arxiv]
+7. Jump-Start Reinforcement Learning
+Ikechukwu Uchendu, Ted Xiao, Yao Lu,  Banghua Zhu , Mengyuan Yan, Joséphine Simon, Matthew Bennice, Chuyuan Fu, Cong Ma, Jiantao Jiao, Sergey Levine, Karol Hausman
+ICML 2023.  [arxiv]
+8. The Sample Complexity of Online Contract Design
+Banghua Zhu ,  Stephen Bates, Zhuoran Yang, Yixin Wang, Jiantao Jiao, Michael I. Jordan
+EC 2023.  [arxiv]
+9. On the Optimal Bounds for Noisy Computing
+Banghua Zhu , Ziao Wang, Nadim Ghaddar, Jiantao Jiao, Lele Wang
+ISIT 2023.  [arxiv]
+10. Noisy Sorting Capacity
+Ziao Wang, Nadim Ghaddar,  Banghua Zhu , Lele Wang
+ISIT 2023.  [arxiv]
+11. Byzantine-Robust Federated Learning with Optimal Rates and Privacy Guarantee
+Banghua Zhu *, Qi Pang*, Lun Wang*, Shuai Wang, Jiantao Jiao, Dawn Song, Michael I. Jordan
+AISTATS 2023.  [arxiv]
+12. Generalized Resilience and Robust Statistics
+Banghua Zhu , Jiantao Jiao, Jacob Steinhardt
+Annals of Statistics.   [arxiv]
+13. Robust Estimation for Nonparametric Families via Generative Adversarial Networks
+Banghua Zhu , Jiantao Jiao, Michael I Jordan
+ISIT 2022.   [arxiv]   [Slides]
+14. Bridging Offline Reinforcement Learning and Imitation Learning: A Tale of Pessimism
+Paria Rashidinejad,  Banghua Zhu , Cong Ma, Jiantao Jiao, Stuart Russell
+Neurips 2021.   [arxiv]
+15. Minimax Off-Policy Evaluation for Multi-Armed Bandits
+Cong Ma,  Banghua Zhu , Jiantao Jiao, Martin J. Wainwright
+IEEE Transactions on Information Theory.   [arxiv]
+16. Robust estimation via generalized quasi-gradients
+Banghua Zhu , Jiantao Jiao, Jacob Steinhardt
+Information and Inference: A Journal of the IMA.   [arxiv]
+17. When does the Tukey Median work?
+Banghua Zhu , Jiantao Jiao, Jacob Steinhardt
+ISIT 2020.   [arxiv]
+18. Deconstructing Generative Adversarial Networks
+Banghua Zhu , Jiantao Jiao, David Tse
+IEEE Transactions on Information Theory.  [https: arxiv.org pdf 1901.09465 [arxiv]

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28765.html
+Access Control in a Relational Data Base Management System by Query Modification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Access Control in a Relational Data Base Management System by Query Modification
+Access Control in a Relational Data Base Management System by Query Modification
+Michael Stonebraker and Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M438
+May 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-438.pdf
+BibTeX citation:
+@techreport{Stonebraker:M438,
+Author = {Stonebraker, Michael and Wong, Eugene},
+Title = {Access Control in a Relational Data Base Management System by Query Modification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28765.html},
+Number = {UCB/ERL M438}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Wong, Eugene
+%T Access Control in a Relational Data Base Management System by Query Modification
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M438
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28765.html
+%F Stonebraker:M438

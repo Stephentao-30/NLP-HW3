@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-112.html
+Automatic Gesture Recognition and Tracking System for Physiotherapy
+Aarthi Ravi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-112
+May 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-112.pdf
+Physical Therapy is a branch of rehabilitative health that uses specially designed exercises and equipment to help patients regain or improve their physical abilities. Researchers have explored the use of software based rehabilitation tools based on video game consoles like Nintendo Wii Fit and Microsoft Kinect to provide remote rehabilitation facilities to patients. We propose a Kinect based Physical Therapy Application that guides patients to perform exercises and assists therapists to monitor as well as teach the specially designed exercises to patients. The application includes an Automated Exercise Generator for therapists to define exercises, an Automated Gesture Recognition and Tracking System to track and guide the patients while they perform the exercises and a Visual Feedback System for patients to correct the position and movement of their Joints. In this paper, we investigate how to enable continuous tracking of patients for pre-authored physiotherapy exercises. We introduce a state-machine-based approach that tracks a patient's progress and provides continuous feedback indicating whether the patient is doing an exercise correctly or not.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Ravi:EECS-2013-112,
+Author= {Ravi, Aarthi},
+Title= {Automatic Gesture Recognition and Tracking System for Physiotherapy},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-112.html},
+Number= {UCB/EECS-2013-112},
+Abstract= {Physical Therapy is a branch of rehabilitative health that uses specially designed exercises and equipment to help patients regain or improve their physical abilities. Researchers have explored the use of software based rehabilitation tools based on video game consoles like Nintendo Wii Fit and Microsoft Kinect to provide remote rehabilitation facilities to patients. We propose a Kinect based Physical Therapy Application that guides patients to perform exercises and assists therapists to monitor as well as teach the specially designed exercises to patients. The application includes an Automated Exercise Generator for therapists to define exercises, an Automated Gesture Recognition and Tracking System to track and guide the patients while they perform the exercises and a Visual Feedback System for patients to correct the position and movement of their Joints. In this paper, we investigate how to enable continuous tracking of patients for pre-authored physiotherapy exercises. We introduce a state-machine-based approach that tracks a patient's progress and provides continuous feedback indicating whether the patient is doing an exercise correctly or not.},
+}
+EndNote citation:
+%0 Thesis
+%A Ravi, Aarthi
+%T Automatic Gesture Recognition and Tracking System for Physiotherapy
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 18
+%@ UCB/EECS-2013-112
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-112.html
+%F Ravi:EECS-2013-112

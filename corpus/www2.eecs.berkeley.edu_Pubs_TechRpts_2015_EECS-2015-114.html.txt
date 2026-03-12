@@ -1,0 +1,44 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-114.html
+Low-Latency, High-Reliability Wireless Networks for Control Applications | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Low-Latency, High-Reliability Wireless Networks for Control Applications
+Low-Latency, High-Reliability Wireless Networks for Control Applications
+Matthew Weiner
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-114
+May 14, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-114.pdf
+In the near future, the number of wireless devices will outnumber humans by an order of magnitude, and most of these devices will communicate with each other instead of people. They will not only sense the environment, as most do today, but they will also manipulate it. This closed loop operation will not require the high data rates that today’s people-centric networks provide; instead it will require low-latency and high-reliability communication at moderate overall data rates. Currently, high-performance industrial control is one of the few applications that has similar requirements to the IoT of the future. However, control systems exclusively use wired networks because existing wireless systems and standards cannot achieve the latency and reliability required since they are designed for either high- throughput or low-power communication between a small number of terminals.
+The first part of this work focuses on the design and evaluation of a wireless system architecture appropriate for high-performance control systems with a large number of sensors and actuators. Based on a model and representative set of specifications, an initial wireless system architecture is developed that is aimed at addressing the issues current WLAN and cellular systems have with supporting low-latency and high-reliability operation for a large number of users. The initial architecture’s achievable latency is a strong function of the available diversity, so it requires a scheme to generate the diversity in a low-latency manner without relying heavily on the channels provided by nature. One option is to use multiple, cooperating access points that are distributed around the system, as is done with coordinated multipoint in cellular systems. This has limited usefulness in many IoT and control systems since additional infrastructure is not possible or desirable, especially in the likely case that the access points are connected with wires. As an alternative option, a cooperative relaying system is developed that is based on decentralized relaying with semi-scheduled transmissions where relays can transmit simultaneously using a distributed space-time code, such as cyclic delay diversity. The proposed cooperative relaying system and other baseline schemes are analyzed using a simplified link level analysis, and the proposed system significantly outperforms the other schemes.
+The second part of this work looks at aspects of implementing the physical layer of the proposed cooperative relaying system architecture, including the analog front end, modulation, baseband processing, and multiple access protocol. An emphasis is put on reusing as many blocks from current systems as possible. Low-latency systems require efficient hardware, and error control decoders are an essential part of high-reliability wireless systems.
+The third part of this work looks at the implementation of a low-latency, low-power LDPC decoder for the IEEE 802.11ad standard, whose LDPC codes have many features applicable to wireless control. The decoder’s highly parallel, deeply pipelined, flooding architecture balances latency and power. Row-merging, simultaneous processing of multiple codewords, reduced marginalization memory precision, and using back-biasing to optimally trade off active and leakage power further reduce latency and power. The decoder is implemented in a 28nm FDSOI technology, has sub-microsecond level latency, and consumes only 6.2mW at a throughput of 1.5Gb/s and 38.1mW at 6Gb/s.
+Advisor:  Borivoje Nikolic
+BibTeX citation:
+@phdthesis{Weiner:EECS-2015-114,
+Author = {Weiner, Matthew},
+Title = {Low-Latency, High-Reliability Wireless Networks for Control Applications},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-114.html},
+Number = {UCB/EECS-2015-114},
+Abstract = {In the near future, the number of wireless devices will outnumber humans by an order of magnitude, and most of these devices will communicate with each other instead of people. They will not only sense the environment, as most do today, but they will also manipulate it. This closed loop operation will not require the high data rates that today’s people-centric networks provide; instead it will require low-latency and high-reliability communication at moderate overall data rates. Currently, high-performance industrial control is one of the few applications that has similar requirements to the IoT of the future. However, control systems exclusively use wired networks because existing wireless systems and standards cannot achieve the latency and reliability required since they are designed for either high- throughput or low-power communication between a small number of terminals.
+The first part of this work focuses on the design and evaluation of a wireless system architecture appropriate for high-performance control systems with a large number of sensors and actuators. Based on a model and representative set of specifications, an initial wireless system architecture is developed that is aimed at addressing the issues current WLAN and cellular systems have with supporting low-latency and high-reliability operation for a large number of users. The initial architecture’s achievable latency is a strong function of the available diversity, so it requires a scheme to generate the diversity in a low-latency manner without relying heavily on the channels provided by nature. One option is to use multiple, cooperating access points that are distributed around the system, as is done with coordinated multipoint in cellular systems. This has limited usefulness in many IoT and control systems since additional infrastructure is not possible or desirable, especially in the likely case that the access points are connected with wires. As an alternative option, a cooperative relaying system is developed that is based on decentralized relaying with semi-scheduled transmissions where relays can transmit simultaneously using a distributed space-time code, such as cyclic delay diversity. The proposed cooperative relaying system and other baseline schemes are analyzed using a simplified link level analysis, and the proposed system significantly outperforms the other schemes.
+The second part of this work looks at aspects of implementing the physical layer of the proposed cooperative relaying system architecture, including the analog front end, modulation, baseband processing, and multiple access protocol. An emphasis is put on reusing as many blocks from current systems as possible.
+Low-latency systems require efficient hardware, and error control decoders are an essential part of high-reliability wireless systems.
+The third part of this work looks at the implementation of a low-latency, low-power LDPC decoder for the IEEE 802.11ad standard, whose LDPC codes have many features applicable to wireless control. The decoder’s highly parallel, deeply pipelined, flooding architecture balances latency and power. Row-merging, simultaneous processing of multiple codewords, reduced marginalization memory precision, and using back-biasing to optimally trade off active and leakage power further reduce latency and power. The decoder is implemented in a 28nm FDSOI technology, has sub-microsecond level latency, and consumes only 6.2mW at a throughput of 1.5Gb/s and 38.1mW at 6Gb/s.}
+}
+EndNote citation:
+%0 Thesis
+%A Weiner, Matthew
+%T Low-Latency, High-Reliability Wireless Networks for Control Applications
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 14
+%@ UCB/EECS-2015-114
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-114.html
+%F Weiner:EECS-2015-114

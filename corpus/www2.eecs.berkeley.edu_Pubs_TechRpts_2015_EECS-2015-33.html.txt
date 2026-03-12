@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-33.html
+Development of an air-stable, high energy density printed silver oxide battery for printed electronics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Development of an air-stable, high energy density printed silver oxide battery for printed electronics
+Development of an air-stable, high energy density printed silver oxide battery for printed electronics
+Kyle Braam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-33
+May 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-33.pdf
+Printed batteries are an emerging battery technology that has the potential to enable the production of cheap, small form factor, flexible batteries capable of powering a diverse set of existing and emerging applications such as RFID tags, flexible displays, and distributed sensors. Partially printed battery systems have been demonstrated with various chemistries, but what is needed is a low cost, air stable method of fully printing a high energy density battery. The silver oxide chemistry is attractive for developing a printed battery as this chemistry has demonstrated high energy densities and is capable of air stable fabrication processes due to its aqueous based chemistry. To facilitate the advancement of this technology, material components and printing techniques need to be developed to demonstrate a printed silver oxide battery. In this thesis, I will present a printed, high energy density silver oxide battery using stencil printing. A key development of this work is the demonstration of a novel photopolymerized polyacrylic acid separator layer. The mechanical and conductivity properties of this layer are characterized and optimized for an alkaline silver oxide battery. The incorporation of this layer has enabled a printed battery capable of high rates of discharge. The batteries show no difference in discharge upon flexing at a bend radius of 1.0 cm, indicating their potential in flexible applications. The fabricated batteries have demonstrated high energy densities of 10 mWhr cm^-3 and areal capacities of 5.4 mAhr cm^-2, which satisfies the power and capacity requirements for most of the proposed applications. In addition, we have examined several printed encapsulation schemes (epoxy and silicone caulk) for encapsulating an alkaline battery.
+Advisor:  Vivek Subramanian
+BibTeX citation:
+@phdthesis{Braam:EECS-2015-33,
+Author = {Braam, Kyle},
+Title = {Development of an air-stable, high energy density printed silver oxide battery for printed electronics},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-33.html},
+Number = {UCB/EECS-2015-33},
+Abstract = {Printed batteries are an emerging battery technology that has the potential to enable the production of cheap, small form factor, flexible batteries capable of powering a diverse set of existing and emerging applications such as RFID tags, flexible displays, and distributed sensors. Partially printed battery systems have been demonstrated with various chemistries, but what is needed is a low cost, air stable method of fully printing a high energy density battery.  The silver oxide chemistry is attractive for developing a printed battery as this chemistry has demonstrated high energy densities and is capable of air stable fabrication processes due to its aqueous based chemistry. To facilitate the advancement of this technology, material components and printing techniques need to be developed to demonstrate a printed silver oxide battery.
+In this thesis, I will present a printed, high energy density silver oxide battery using stencil printing. A key development of this work is the demonstration of a novel photopolymerized polyacrylic acid separator layer. The mechanical and conductivity properties of this layer are characterized and optimized for an alkaline silver oxide battery. The incorporation of this layer has enabled a printed battery capable of high rates of discharge. The batteries show no difference in discharge upon flexing at a bend radius of 1.0 cm, indicating their potential in flexible applications. The fabricated batteries have demonstrated high energy densities of 10 mWhr cm^-3 and areal capacities of 5.4 mAhr cm^-2, which satisfies the power and capacity requirements for most of the proposed applications. In addition, we have examined several printed encapsulation schemes (epoxy and silicone caulk) for encapsulating an alkaline battery.}
+}
+EndNote citation:
+%0 Thesis
+%A Braam, Kyle
+%T Development of an air-stable, high energy density printed silver oxide battery for printed electronics
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 May 1
+%@ UCB/EECS-2015-33
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-33.html
+%F Braam:EECS-2015-33

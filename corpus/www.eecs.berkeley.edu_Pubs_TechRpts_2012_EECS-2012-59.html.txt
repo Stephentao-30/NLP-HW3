@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-59.html
+Symbolic Grey-Box Learning of Input-Output Relations
+Domagoj Babic and Matko Botincan and Dawn Song
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-59
+May 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-59.pdf
+Learning of stateful models has been extensively used in verification.  Some applications include inference of interface invariants, learning-guided concolic execution, compositional verification, and regular model checking.  Learning shows a great promise for verification, but suffers from two fundamental limitations. First, learning stateful models over concrete alphabets does not scale in practice, as alphabets can be large or even infinite in size. Second, learning techniques produce conjectures, which might be neither over- nor under-approximations, but rather some mix of the two.  The new technique we propose --- Sigma* --- overcomes these problems by combining black- and white-box analysis techniques: learning and abstraction.  Such grey-box setting allows inspection of the internal symbolic state of the program, allowing us to learn symbolic transducers with input and output alphabets ranging over finite sets of symbolic terms.  The technique alternates between symbolic conjectures and sound over-approximations of the program.  As such, the technique presents a novel twist to the more standard alternation among under- and over-approximations often used in verification.  Sigma* is parameterized by an abstraction function and a class of symbolic transducers.  In this paper, we develop Sigma* parameterized by a variant of predicate abstraction, and $k$-lookback symbolic transducers --- a new variant of symbolic transducers, for which we present learning and separation sequence computation algorithms.  Verification of such transducers is, for instance, important for security of web applications and might find its applications in other areas of verification. The main technical result we present is that Sigma* is complete relative to abstraction function.
+BibTeX citation:
+@techreport{Babic:EECS-2012-59,
+Author= {Babic, Domagoj and Botincan, Matko and Song, Dawn},
+Title= {Symbolic Grey-Box Learning of Input-Output Relations},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-59.html},
+Number= {UCB/EECS-2012-59},
+Abstract= {Learning of stateful models has been extensively used in verification.  Some applications include inference of interface invariants, learning-guided concolic execution, compositional verification, and regular model checking.  Learning shows a great promise for verification, but suffers from two fundamental limitations. First, learning stateful models over concrete alphabets does not scale in practice, as alphabets can be large or even infinite in size. Second, learning techniques produce conjectures, which might be neither over- nor under-approximations, but rather some mix of the two.  The new technique we propose --- Sigma* --- overcomes these problems by combining black- and white-box analysis techniques: learning and abstraction.  Such grey-box setting allows inspection of the internal symbolic state of the program, allowing us to learn symbolic transducers with input and output alphabets ranging over finite sets of symbolic terms.  The technique alternates between symbolic conjectures and sound over-approximations of the program.  As such, the technique presents a novel twist to the more standard alternation among under- and over-approximations often used in verification.  Sigma* is parameterized by an abstraction function and a class of symbolic transducers.  In this paper, we develop Sigma* parameterized by a variant of predicate abstraction, and $k$-lookback symbolic transducers --- a new variant of symbolic transducers, for which we present learning and separation sequence computation algorithms.  Verification of such transducers is, for instance, important for security of web applications and might find its applications in other areas of verification. The main technical result we present is that Sigma* is complete relative to abstraction function.},
+}
+EndNote citation:
+%0 Report
+%A Babic, Domagoj
+%A Botincan, Matko
+%A Song, Dawn
+%T Symbolic Grey-Box Learning of Input-Output Relations
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 3
+%@ UCB/EECS-2012-59
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-59.html
+%F Babic:EECS-2012-59

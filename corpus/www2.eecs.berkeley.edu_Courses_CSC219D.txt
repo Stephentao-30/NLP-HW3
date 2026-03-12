@@ -1,0 +1,13 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CSC219D
+CS C219D. Concurrent Models of Computation
+Catalog Description:  Theory and practice of concurrent models of computation (MoCs) with applications to software systems, embedded systems, and cyber-physical systems. Analysis for boundedness, deadlock, and determinacy; formal semantics (fixed point semantics and metric-space models); composition; heterogeneity; and model-based design. MoCs covered may include process networks, threads, message passing, synchronous/reactive, dataflow, rendezvous, time-triggered, discrete events, and continuous time.
+Units:  3
+Formats:  Spring: 3 hours of lecture per week
+Fall: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Also listed as:  EL ENG C219D
+Class homepage
+on inst.eecs
+Department Notes:  This course studies concurrent models of computation (MoCs). The topics will include how to use concurrent MoCs to design software systems, how to implement concurrent MoCs, how to analyze designs for boundedness, deadlock, and determinacy, formal semantics (fixed point semantics and metric-space models), and a bit of language design (type systems, higher-order components, structured design). The MoCs we will cover include process networks (PN), threads, message passing, synchronous/reactive (SR), concurrent state machines (statecharts and ERG), dataflow (several variants), rendezvous (like CSP, CCS), time-triggered models (like Giotto), discrete-event (DE), and continuous-time (CT). We will study heterogeneous models, including hybrid systems. We will study how these MoCs are used in languages such as StreamIt, LabVIEW, Lustre/SCADE, Esterel, Signal, and Simulink. Applications to embedded systems design, cyber-physical systems modeling, and parallel and distributed software will be considered.
+Class web page:  http://embedded.eecs.berkeley.edu/concurrency

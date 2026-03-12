@@ -1,0 +1,24 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS274
+Course: CS274 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS274
+CS 274. Computational Geometry
+Catalog Description:  <Formerly 292T>. Constructive problems in computational geometry: convex hulls, triangulations, Voronoi diagrams, arrangements of hyperplanes; relationships among these problems. Search problems: advanced data structures; subdivision search; various kinds of range searches. Models of computation; lower bounds.
+Units:  3.0
+Prerequisites:  170 or equivalent.
+Formats:  Fall: 3 hours of lecture per week
+Spring: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:  Combinatorial geometry: Polygons, polytopes, triangulations, planar and spatial subdivisions. Constructions: triangulations of polygons, convex hulls, intersections of halfspaces, Voronoi diagrams, Delaunay triangulations, arrangements of lines and hyperplanes, Minkowski sums; relationships among them. Geometric duality and polarity. Numerical predicates and constructors. Upper Bound Theorem, Zone Theorem.
+Algorithms and analyses: Sweep algorithms, incremental construction, divide-and-conquer algorithms, randomized algorithms, backward analysis, geometric robustness. Construction of triangulations, convex hulls, halfspace intersections, Voronoi diagrams, Delaunay triangulations, arrangements, Minkowski sums.
+Geometric data structures: Doubly-connected edge lists, quad-edges, face lattices, trapezoidal maps, history DAGs, spatial search trees (a.k.a. range search), binary space partitions, visibility graphs.
+Applications: Line segment intersection and overlay of subdivisions for cartography and solid modeling. Triangulation for graphics, interpolation, and terrain modeling. Nearest neighbor search, small-dimensional linear programming, database queries, point location queries, windowing queries, discrepancy and sampling in ray tracing, robot motion planning.
+http://www.cs.berkeley.edu/~jrs/274/
+Related Areas:
+Graphics (GR)   Scientific Computing (SCI)   Theory (THY)

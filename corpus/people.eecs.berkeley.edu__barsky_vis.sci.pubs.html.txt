@@ -1,0 +1,410 @@
+URL: https://people.eecs.berkeley.edu/~barsky/vis.sci.pubs.html
+Some OPTICAL and BLUR papers
+Some OPTICAL and BLUR papers
+Barsky, Brian A. (1996)
+"Computer Aided Contact Lens Design and Fabrication Based on Spline Mathematics",
+Contact Lens Spectrum , Vol. 11, No. 4, April 1996, pp. 39-49.
+Barsky, Brian A. (2000)
+"The OPTICAL Project at Berkeley:  Enhancing Optometry through Geometric
+Modeling and Improving Computer Graphics Rendering Using Optics",
+International Conference on Information Visualisation, IV'2000,
+19-21 July 2000, London, England, supplement.
+Barsky, Brian A. (2003)
+"Geometry for Analysis of Corneal Shape," in
+Lectures on Computational Geometry,
+Morningside Center of Mathematics Lectures on Computational Geometry ,
+joint publication Series in Advanced Mathematics,
+International Press (Providence, Rhode Island) / American Mathematical Society
+(Somerville, Mass.),
+2003,  pp. 33 - 56.
+Barsky, Brian A. (2004)
+"Vision-Realistic Rendering:
+Simulation of the Scanned Foveal Image
+from Wavefront Data of Human Subjects",
+First Symposium on Applied Perception in Graphics and Visualization ,
+co-located with ACM SIGGRAPH,
+Los Angeles, 7-8 August 2004, pp. 73-81.
+Click here for ACM Digital Library version of paper
+Barsky, Brian A. (2011)
+"Vision-Realistic Rendering:
+Simulation of the Scanned Foveal Image
+with Elimination of Artifacts due to Occlusion and Discretization",
+Computer Vision, Imaging and Computer Graphics:  Theory and Applications ,
+Series: Communications in Computer and Information Science, Vol. 229,
+Richard, Paul and Braz, José (Eds.),
+Springer-Verlag,
+pp. 3-27.
+Conference held 17-21 May 2010 in Angers, France.
+Click here for PDF version of paper
+Barsky, Brian A. (2015)
+"An Overview of Vision Realistic Rendering and Vision Correcting
+Displays",  Society for Information Display, Display Week 2015 ,
+May 31 - June 5, 2015, San Jose, California.
+Barsky, Brian A.; Bargteil, Adam W.; Garcia, Daniel D.; and Klein, Stanley A.,
+(2002)
+"Introducing Vision-Realistic Rendering",
+Eurographics Rendering Workshop,
+Pisa, 26-28 June 2002, pp. 1-7.
+Click here for PDF version of paper
+Barsky, Brian, A.; Chen, Billy P.; Berg, Alexander C.; Moutet, Maxence; Garcia,
+Daniel D.; and Klein, Stanley A. (2000)
+"Incorporating Camera Models, Ocular Models, and Actual Patient
+Eye Data for Photo-Realistic and Vision-Realistic Rendering,"
+Abstract in the Fifth International Conference on Mathematical Methods
+for Curves and Surfaces, June 29 - July 4, 2000, Oslo, Norway.
+Barsky, Brian, A.; Downes, Michael S.; and Tendick, Frank (2001)
+"The OPTICAL and VESTA Projects:  Ophthalmic Visualization and Virtual Surgery",
+The International Journal of Virtual Reality, Vol. 5, No. 1, 2001.
+Click here for paper in IJVR
+Barsky, Brian A.; Garcia, Daniel D.; Klein, Stanley A.; and van de Pol, Corina (1998)
+"Wavefront Coherence Area for Predicting Visual Acuity of Post-Corneal Refractive Surgery Patients",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 10-15 May 1998.  Abstract.
+Barsky, Brian A.; Garcia, Daniel D.; and Klein, Stanley A. (2001)
+"Computer Simulation of Vision-Based Synthetic Images Using Hartmann-Shack-Derived Wavefront Aberrations",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 29 April - 4 May 2001.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 42, No. 4, March 15, 2001, pp. S162.
+Barsky, Brian A.; Horn, Daniel R.; Klein, Stanley A.; Pang, Jeffrey A.; and Yu, Meng (2003)
+"Camera Models and Optical Systems Used in Computer Graphics: Part I,
+Object Based Techniques".
+In Proceedings of the 2003 International Conference on
+Computational Science and its Applications (ICCSA'03), Montreal, May 18-21
+2003. Second International Workshop on Computer Graphics and Geometric
+Modeling (CGGM'2003), Springer-Verlag Lecture Notes in Computer Science (LNCS) #4707,
+Berlin/Heidelberg, pages 246-255 (Invited paper).
+Click here for PDF version of paper
+Barsky, Brian A.; Horn, Daniel R.; Klein, Stanley A.; Pang, Jeffrey A.; and Yu, Meng (2003)
+"Camera Models and Optical Systems Used in Computer Graphics: Part II,
+Image Based Techniques". In Proceedings of the 2003 International Conference on
+Computational Science and its Applications (ICCSA'03), Montreal, May 18-21
+2003. Second International Workshop on Computer Graphics and Geometric
+Modeling (CGGM'2003), Springer-Verlag Lecture Notes in Computer Science (LNCS),
+Berlin/Heidelberg, pages 256-265 (Invited paper).
+Click here for PDF version of paper
+Barsky, Brian A.; Huang, Fu-Chung; Lanman, Douglas; Wetzstein, Gordon; and Raskar, Ramesh (2014)
+"Vision Correcting Displays Based on Inverse Blurring
+and Aberration Compensation",
+Computer Vision -- ECCV 2014 13th European Conference, Zurich, Switzerland,
+September 6-12, 2014, Proceedings
+,
+Tinne Tuytelaars, Bernt Schiel, Tomas Pajdla, and David Fleet (Eds.),
+Springer-Verlag, 2014.
+Click here for PDF version of paper
+Barsky, Brian A.; Klein, Stanley A.; and Garcia, Daniel D. (1996)
+"Gaussian Power, Mean Sphere, and Cylinder Representations for Corneal Maps with Applications to the Diagnosis of Keratoconus",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 21-26 April 1996.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 37, No. 3, Feb. 15, 1996, pp. S558.
+Barsky, Brian A.; Klein, Stanley A.; and Garcia, Daniel D. (1997)
+"Gaussian Power with Cylinder Vector Field Representation for Corneal Topography Maps",
+Optometry and Vision Science ,
+Vol. 74, No. 11, Nov. 1997, pp. 917-925.
+Click here for Optometry and Vision Science version of paper
+Barsky, Brian A.; Klein, Stanley A.; and Kung, Jonathan A. (1997)
+"Simulation of the Position and Tilt of a Contact Lens on the Cornea Using Tear Volume Minimization",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 11-16 May 1997.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 38, No. 4, Mar. 15, 1997, pp. S135.
+Brian A. Barsky; Kosloff, Todd J.; and Upstill, Steven D. (2004)
+"An Opponent Process Approach to Modeling the Blue Shift of the Human Color Vision System",
+First Symposium on Applied Perception in Graphics and Visualization ,
+co-located with ACM SIGGRAPH,
+Los Angeles, 7-8 August 2004, p. 163.
+Click here for ACM Digital Library version of paper
+Barsky, Brian A.; Mandell, Robert B.; and Klein, Stanley A. (1995)
+"Corneal Shape Illusion in Keratoconus",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 14-19 May 1995. Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 36, No. 4, March 15, 1995, pp. 308.
+Barsky, Brian A. and Pasztor, Egon.  (2004)
+"Rendering Skewed Plane of Sharp Focus and Associated Depth of Field",
+ACM/SIGGRAPH 2004 , ACM SIGGRAPH, Los Angeles, 7-8 August 2004.
+Click here for ACM Digital Library version of paper
+Barsky, Brian A.; Tobias, Michael J.; Horn, Daniel R.; and Chu, Derrick P.  (2003)
+"Investigating Occlusion and Discretization Problems in Image Space Blurring Techniques",
+First International Conference on Vision, Video, and Graphics ,
+Peter Hall and Philip Willis (editors),
+Bath, 10-11 July 2003, pp. 97-102.
+Barsky, Brian A.; Tobias, Michael J.; Chu, Derrick P.; and Horn, Daniel R.  (2005)
+"Elimination of Artifacts Due to Occlusion and Discretization Problems in Image Space
+Blurring Techniques",
+Graphical Models , Vol. 67, No. 6, Nov. 2005, pp. 584-599.
+Click here for PDF version of paper
+Click here for ACM Digital Library version of paper
+Chu, Lillian (1997)
+Surface Representations in Corneal Topography ,
+Master's Thesis, May 1997.
+Chu, Lillian; Barsky, Brian A., and Klein, Stanley A. (1999)
+"Cylindrical Coordinate Representations for Modeling Surfaces of the Cornea
+and Contact Lenses",
+Shape Modeling International '99, Aizu-Wakamatsu, Japan, 1-4 March 1999,
+pp. 98-113.
+Chung, Scott; Sammartino, Jonathan; Bai, Jiamin; and Barsky, Brian A. (2012)
+Can Motion Features Inform Video Aesthetic Preferences? ,
+Technical Report No. UCB/EECS-2012-172,
+Computer Science Division, Electrical Engineering and Computer Sciences Department, University of California, Berkeley, California, USA, 29 June 2012.
+Claver, Vivek (2017)
+Vision Correcting Display ,
+M.Eng. Capstone Report, May 2017.
+Cui, Zhaoxiong (Leo); Ren, Hanfei; and Wang, Siqi (2019)
+Improved Prefiltering for Vision Correcting Display Using Wave Propagation Model ,
+M.Eng., Capstone Report, May 2019.
+Curan, Antoine; Brieu, Mathias; Barsky, Brian A.; Dubois, Patrick; and Rouland, Jean-Francois (2007)
+"Stress-Strain Corneal Study For Biomechanical Contribution To Model And Simulate Corneal Suturing",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 6-10 May 2007.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 48, 2007, Abstract 3523.
+Curan, Antoine; Contraires, G.; Barsky, Brian A.; Dubois, Patrick; and Rouland, Jean-Francois (2008)
+"Contribution Biophysique a la Modelisation et a la Simulation de la Suture Corneene",  Journal Francais d'Ophtalmologie ,
+Volume 31, Supplement 1, April 2008, page 40.
+Dalal, Sarang S.; Klein, Stanley A.; Barsky, Brian A.; and Corzine, John C. (2001)
+"Limitations to the Zernike Representation of Cornea and Wavefront for Post-Refractive Surgery Eyes",
+Association for Research in Vision and Ophthalmology , Fort Lauderdale,
+Florida, 29 April - 4 May 2001.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 42, No. 4, March 15, 2001, pp. S603.
+Daniel, Marc and Barsky, Brian (1997)
+"Discrete Gaussian Curvature for Analysis of a B-spline Modeled Cornea",
+SIAM Conference on Geometric Design , Nashville, Nov. 3-6, 1997.
+Di, Weiwen and Kobayashi, Ken (2019)
+Parallax Barrier Model ,
+M.Eng., Capstone Report, May 2019.
+Ding, Charles (2017)
+Algorithms and Applications of the Vision Correcting Display ,
+Master's Research Project Report, May 2017.
+Garcia, Daniel D. and Barsky, Brian A. (1996)
+The OPTICAL Project at UC Berkeley: Computer Aided Cornea Modeling and
+Visualization ,
+video in the Electronic Theatre,
+ACM/SIGGRAPH '96 , New Orleans, 4-9 August 1996.
+Nominated for an Award in the Research category at the
+London Effects & Animation Festival, 19-21 November 1996.
+Being shown in a self-repeating videotape in a theater at
+Fujita Corporation, Tokyo.
+Garcia, Daniel D.; Barsky, Brian A.; and Klein, Stanley A. (1998)
+"The OPTICAL Project at UC Berkeley:  Simulating Visual Acuity",
+Medicine Meets Virtual Reality:  6
+(Art, Science, Technology:  Healthcare (r)Evolution) ,
+San Diego,
+January 28-31, 1998.
+Garcia, Daniel D.; Barsky, Brian A.; and Klein, Stanley A. (1998)
+"CWhatUC : A Visual Acuity Simulator",
+Conference on Human Vision and Electronic Imaging,
+SPIE/IS&T Symposium on Electronic Imaging:  Science and Technology ,
+San Jose, California,
+January 24-30, 1998.
+Click here for PDF version of paper
+Garcia, Daniel D.; van de Pol, Corina; Klein, Stanley A.; and Barsky, Brian A.  (1999)
+"Wavefront Coherence Area for Predicting Visual Acuity of Post-PRK and Post-PARK Refractive Surgery Patients",
+Ophthalmic Technologies IX, SPIE International Symposium on Biomedical Optics , San Jose, California, January 23-29, 1999.
+Click here for summary and information of paper
+Halstead, Mark A. (1996)
+Efficient Techniques for Surface Design Using Constrained Optimization ,
+Ph.D. Thesis, May 1996.
+Click here for summary and Postscript version of this Ph.D. Thesis
+Halstead, Mark A.; Barsky, Brian A.; Klein, Stanley A.; and Mandell, Robert B. (1995)
+"Geometric Modeling of the Cornea Using Videokeratography",
+in: Daelhen, Morton; Lyche, Tom; and Schumaker, Larry L., editors,
+Mathematical Methods for Curves and Surfaces ,
+Nashville: Vanderbilt University Press, 1995, pp. 213-223.
+Click here for summaries and Postscript versions of paper
+Halstead, Mark A.; Barsky, Brian A.; Klein, Stanley A.; and Mandell, Robert B. (1995)
+"A Spline Surface Algorithm for Reconstruction of Corneal Topography from a Videokeratographic Reflection Pattern",
+Optometry and Vision Science , Vol. 72, No. 11,
+November 1995, pp. 821-827.
+Click here for Optometry and Vision Science version of paper
+Click here for summaries and Postscript versions of paper
+Halstead, Mark A.; Barsky, Brian A.; Klein, Stanley A.; and Mandell, Robert B. (1996)
+"Reconstructing Curved Surfaces From Specular Reflection Patterns Using Spline Surface Fitting of Normals",
+ACM/SIGGRAPH '96 , New Orleans, 4-9 August 1996, pp. 335-342.
+Click here for ACM Digital Library version of paper
+Hong, Aaron (2011)
+Figure-Ground Saturation Preferences in Photographs ,
+Master's Research Project Report, August 2011.
+Huang, Fu-Chung and Barsky, Brian A. (2011)
+A Framework for Aberration Compensated Displays , Technical Report
+No. UCB/EECS-2011-162, Computer Science Division, Electrical Engineering and
+Computer Sciences  Department, University of California, Berkeley, California,
+USA, Dec. 2011.
+Click here
+for PDF version of Technical Report
+Huang, Fu-Chung and Barsky, Brian A. (2014)
+"Computational Approaches to Aberration Compensation for Vision Correcting
+Displays",  Society for Information Display, Display Week 2014 , June 1-6,
+2014, San Diego, California.
+Huang, Fu-Chung; Lanman, Douglas; Barsky, Brian A.; and Raskar, Ramesh (2012)
+"Correcting for Optical Aberrations using Multilayer Displays",
+Proceedings of ACM SIGGRAPH Asia 2012 ,
+Singapore, 28 November - 1 December 2012,
+ACM Transactions on Graphics (TOG) ,
+Volume 31, Issue 6, November 2012, Article No. 185.
+Click here to download SIGGRAPH Asia 2012 paper
+Huang, Fu-Chung; Wetzstein, Gordon; Barsky, Brian A.; and Raskar, Ramesh (2013)
+"Computational Light Field Display for Correcting Visual Aberrations", poster, ACM SIGGRAPH 2013, Anaheim, California, 21-25 July 2013.
+Huang, Fu-Chung; Wetzstein, Gordon; Barsky, Brian A.; and Raskar, Ramesh (2014)
+"Eyeglasses-free Display:  Towards Correcting Visual Aberrations
+with Computational Light Field Displays",
+Proceedings of ACM SIGGRAPH 2014 ,
+Vancouver, 10-14 August 2014,
+ACM Transactions on Graphics (TOG) ,
+Volume 33, Issue 4, July 2014, Article No. 59.
+Click here to download SIGGRAPH 2014 paper
+Kim, Jinkyu; Zhang, Xuaner; Waller, Laura; Barsky, Brian, and Ng, Ren (2016),
+"Free Your Eyes:  Retinal Image Deblurring Display with Enlarged Viewing Zone",
+Poster 57, International Conference on Computational Photography 2016,
+Evanston, Illinois, 13-15 May 2016.
+Klein, Stanley A. and Barsky, Brian A. (1995)
+"Method for Generating the Anterior Surface of an Aberration-Free Contact Lens for an Arbitrary Posterior Surface",
+Optometry and Vision Science , Vol. 72, No. 11,
+November 1995, pp. 816-820.
+Click here for Optometry and Vision Science version of paper
+Klein, Stanley A.; Garcia, Daniel D.; and Barsky, Brian A. (2000)
+"Problems with Representing Wavefront Aberrations, and Solutions",
+Association for Research in Vision and Ophthalmology ,
+Fort Lauderdale, Florida, 30 April - 5 May 2000.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 41, No. 4, March 15, 2000, pp. S105.
+Klein, Stanley A.; Halstead, Mark A.; Mandell, Robert B.; and Barsky, Brian A. (1994)
+"Corneal Topography for General Surfaces",
+Association for Research in Vision and Ophthalmology ,
+Sarasota, Florida, 1-6 May 1994.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 35, No. 4, March 15, 1994, pp. 2079.
+Klein, Stanley A. and Mandell, Robert B. (1995)
+"Axial and Instantaneous Power Conversion in Corneal Topography",
+Invest. Ophthalmol. Vis. Sci. , Vol. 36, No. 10, Sept. 1995, pp. 2155-2159.
+Klein, Stanley A.; Mandell, Robert B.; and Barsky, Brian A. (1995)
+"Representing  Corneal Shape",
+Vision Science and its Applications , Vol. 1, 1995, OSA; Technical Digest  Series  (Optical Society  of  America,  Washington,  D.C., 1995) pp. 37 - 40.  (Santa Fe, February 1995.)
+Klein, Stanley A.; Mandell, Robert B.; and Barsky, Brian A. (1995)
+"Shape and Refractive Powers in Corneal Topography",
+Association for Research in Vision and Ophthalmology . Fort Lauderdale,
+Florida, 14-19 May 1995. Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 36, No. 4, March 15, 1995, pp. 1032.
+Kosloff, Todd J. (2010)
+Fast Image Filters for Depth of Field Post-Processing ,
+Ph.D. Thesis, May 2010.
+Kosloff, Todd J. and Barsky, Brian A. (2007)
+"An Algorithm for Rendering Generalized Depth of Field Effects Based on Simulated Heat Diffusion",
+In Proceedings of the
+2007 International Conference on Computational Science and Its Applications (ICCSA 2007),
+Kuala Lumpur, 26-29 August 2007.
+Seventh International Workshop on Computational Geometry and Applications (CGA'07)
+Springer-Verlag Lecture Notes in Computer Science (LNCS),
+Berlin/Heidelberg, pp. 1124-1140 (Invited paper).
+Click here for PDF of Tech. Report version of paper
+Kosloff, Todd J., Hensley, Justin and Barsky, Brian A. (2009)
+"Faster Filter Spreading and its Applications",
+I3D 2009: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,
+Boston, 27 Feb. - 1 Mar. 2009.
+Kosloff, Todd J., Hensley, Justin and Barsky, Brian A. (2009)
+Fast Filter Spreading and its Applications ,
+Technical Report No. UCB/EECS-2009-54, Computer Science Division, Electrical Engineering and Computer Sciences  Department, University of California, Berkeley, California, USA, Apr. 2009.
+Kosloff, Todd J.; Tao, Michael W.; and Barsky, Brian A. (2009)
+"Depth of Field Postprocessing For Layered Scenes Using Constant-Time Rectangle Spreading",
+ACM International Conference Proceeding Series; Vol. 324,
+Graphics Interface 2009, Kelowna, British Columbia, Canada, 25-27 May 2009, pp. 39-46.
+Click here for Graphics Interface version of paper
+Earlier version published as Technical Report No. UCB/EECS-2008-187,
+Computer Science Division, Electrical Engineering and Computer Sciences
+Department, University of California, Berkeley, California, USA,
+Dec. 2008.
+Click here for PDF of Tech. Report version of paper
+Kosloff, Todd J. and Barsky, Brian A. (2009)
+"Three Techniques for Rendering Generalized Depth of Field Effects", Proceedings of the Fourth SIAM Conference on Mathematics for Industry : Challenges and Frontiers (MI09), October 9-10, 2009, San Francisco, California, pp. 42-48.
+Click here for PDF version of SIAM MI09 paper
+Kosloff, Todd J. and Barsky, Brian A. (2010)
+"Two New Approaches to Depth of Field Post-Processing:  Pyramid Spreading and Tensor Filtering",
+VISIGRAPP International Joint Conference, Angers, France, 17-21 May 2010,
+(pp. IS-9 to IS-18 in proceedings).
+Click here for PDF version of paper
+Kumpf, Roger W. (1995)
+Multiparameter Corneal Visualization in the EyeView System ,
+Master's Report, May 1995.
+Kumpf, Roger W.; Barsky, Brian A.; and Garcia, Daniel D. (1996)
+"Scientific Visualization Techniques for Displaying Corneal Shape",
+Mopane 1996: Refraction and Keratometry: The Mathematics and Statistics ,
+Mopani, South Africa, 3-5 August 1996.
+Lin, Zhaoyan and Gu, Echo (2019)
+Vision Correcting Display: Astigmatism ,
+M.Eng., Capstone Report, May 2019.
+Lozano, Diana; Kosloff, Todd J.; and Barsky, Brian A. (2004)
+"Simulation of Higher Order Aberrations in Human Vision",
+Annual Biomedical Research Conference for Minority Students (AMRCMS),
+No. 10-13, 2004, Dallas.
+Mandell, Robert B.; Barsky, Brian A.; and Klein, Stanley A. (1994)
+"Taking A New Angle on Keratoconus",
+Contact Lens Spectrum , Vol. 9, No. 4, April 1994, pp. 44-47.
+Mandell, Robert B.; Barsky, Brian A.; and Moore, Carl (1995)
+"A New Lens for Keratoconus",
+Contact Lens Spectrum , Vol. 10, No. 12, December 1995, pp. 17-22.
+Mandell, Robert B.; Barsky, Brian A.; and Yang, Zijiang. (1993)
+"Videokeratoscopy of the Peripheral Cornea",
+Association for Research in Vision and Ophthalmology , Sarasota, Florida,
+May 2-7, 1993. Abstract.
+Mandell, Robert B.; Klein, Stanley A.; Shie, Christine H.; Barsky, Brian A.; and Yang, Zijiang. (1994)
+"Axial and Instantaneous Radii in Videokeratography",
+Association for Research in Vision and Ophthalmology ,
+Sarasota, Florida, 1-6 May 1994.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 35, No. 4, March 15, 1994, pp. 2079.
+Sequeira, Jean and Barsky, Brian A. (1997)
+"Geometrical Modeling of Anatomical Structures",
+in  Medical Image Processing:  From Pixel to
+Structure , edited by Yves Goussard, 1997, pp. 141-162.
+Proceedings of IEEE Engineering in Medicine and Biology meeting , Montreal, 20-23 September 1995.
+Click here for summary of paper
+Teng, Sijia (Scarlett) (2017)
+Vision Correcting Display ,
+M.Eng., Capstone Report, May 2017.
+Tran, Henry H.; Klein, Stanley A.; and Barsky, Brian A. (2000)
+"The Mechanics of Contact Lens Deformation on the Eye Using Finite Element
+Analysis",
+Association for Research in Vision and Ophthalmology ,
+Fort Lauderdale, Florida, 30 April - 5 May 2000.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 41, No. 4, March 15, 2000, pp. S72.
+Tran, Henry H.; Klein, Stanley A.; and Barsky, Brian A. (2001)
+"Three-Dimensional Finite Element Analyses of Contact Lens Deformation and Lens-Eye Interactions"
+Association for Research in Vision and Ophthalmology ,
+Fort Lauderdale, Florida, 29 April - 4 May 2001.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 42, No. 4, March 15, 2001, pp. S940.
+Klein, Stanley A.; Garcia, Daniel D.; and Barsky, Brian A. (2000)
+"Problems with Representing Wavefront Aberrations, and Solutions",
+Association for Research in Vision and Ophthalmology ,
+Fort Lauderdale, Florida, 30 April - 5 May 2000.  Abstract in
+Investigative Ophthalmology & Visual Science ,
+Vol. 41, No. 4, March 15,2000, pp . S105.
+van de Pol, Corina; Klein, Stanley A; Garcia, Daniel D.; and Brian A. Barsky (1997)
+"New Representations of Corneal Refractive Error and Aberrations",
+Optical Society of America , Long Beach, California, Oct. 1997, page 108.
+Wu, Zehao (Peter) (2016)
+Investigating Computational Approaches and Proposing Hardware Improvement to the Vision Correcting Display ,
+Master's Research Project Report, May 2016.
+Yeh, Che-Hua; Barsky, Brian A.; and Ouhyoung, Ming (2014) "Personalized Photograph
+Ranking and Selection System Considering Positive and Negative User Feedback",
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) ,
+Vol. 10, No. 4, June 2014, Article
+No. 36.
+Click here for ACM Digital Library version of paper
+Yeh, Che-Hua; Ng, Wai-Seng; Barsky, Brian A.; and Ouhyoung, Ming (2009) "An Esthetics Rule Based Ranking System for Amateur Photos", SIGGRAPH Asia 2009 Sketches, Yokohama, Japan, 17-19 December 2009, Article 24, pages 1-1.
+Click here for PDF version of paper
+Yeh, Che-Hua; Ho, Yuan-Chen; Barsky, Brian A.; and Ouhyoung, Ming (2010) "Personalized Photograph Ranking and Selection System", ACM Multimedia 2010, Florence, Italy, 25-29 Oct. 2010, pp. 211-220.
+Click here for ACM
+Digital Library version of paper
+Yu, Woojin Matthew (2001)  "Simulation of Vision through an Actual Human Optical System", Master's Thesis, Fall 2001.
+Zeng, Jia (Sophie) (2017)
+Vision Correcting Display ,
+M.Eng., Capstone Report, May 2017.
+Zhen, Yirong (2019)
+New Algorithms for the Vision Correcting Display ,
+Master's Thesis, May 2019.
+Brian A. Barsky  ( barsky@berkeley.edu )

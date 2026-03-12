@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28760.html
+Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum
+Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum
+J. Rissanen and P.E. Caines
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M428
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-428.pdf
+BibTeX citation:
+@techreport{Rissanen:M428,
+Author = {Rissanen, J. and Caines, P.E.},
+Title = {Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28760.html},
+Number = {UCB/ERL M428}
+}
+EndNote citation:
+%0 Report
+%A Rissanen, J.
+%A Caines, P.E.
+%T Consistency of Maximum Likelihood Estimators For Multivariate Gaussian Processes With Rational Spectrum
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M428
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28760.html
+%F Rissanen:M428

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-123.html
+How to Build a Bad Research Center
+David A. Patterson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-123
+June 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-123.pdf
+This paper contains my advice on building and running research centers based on being involved in a dozen of them over nearly 40 years. In keeping with my past advice pieces on talks and careers, where the goal was to be informative and entertaining, I first lay down eight commandments to create a bad research center before describing how to do the opposite: multidisciplinary, five-year centers that rely on biannual retreats and shared open space to guide the research.
+Be forewarned that to persuade readers of the benefits of this approach I see no option but to cite impact on research results and on student and faculty careers I have witnessed in my decades at UC Berkeley.  (Hint: the impact was positive.)
+My intent is to publish this piece in a journal, but early feedback is that it will have to be less satirical and a lot shorter, hence this technical report to share the full history.
+BibTeX citation:
+@techreport{Patterson:EECS-2013-123,
+Author= {Patterson, David A.},
+Title= {How to Build a Bad Research Center},
+Year= {2013},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-123.html},
+Number= {UCB/EECS-2013-123},
+Abstract= {This paper contains my advice on building and running research centers based on being involved in a dozen of them over nearly 40 years. In keeping with my past advice pieces on talks and careers, where the goal was to be informative and entertaining, I first lay down eight commandments to create a bad research center before describing how to do the opposite: multidisciplinary, five-year centers that rely on biannual retreats and shared open space to guide the research.
+Be forewarned that to persuade readers of the benefits of this approach I see no option but to cite impact on research results and on student and faculty careers I have witnessed in my decades at UC Berkeley.  (Hint: the impact was positive.)
+My intent is to publish this piece in a journal, but early feedback is that it will have to be less satirical and a lot shorter, hence this technical report to share the full history.},
+}
+EndNote citation:
+%0 Report
+%A Patterson, David A.
+%T How to Build a Bad Research Center
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 June 15
+%@ UCB/EECS-2013-123
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-123.html
+%F Patterson:EECS-2013-123

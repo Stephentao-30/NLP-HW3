@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/nlp-team-helps-computer-win-2021-american-crossword-puzzle-tournament
+NLP team helps a computer win the 2021 American Crossword Puzzle Tournament - EECS at Berkeley
+A team at the Berkeley Natural Language Processing Group (NLP) helped augment an AI system named “Dr. Fill” that has won the 2021 American Crossword Puzzle Tournament (ACPT).  This is the first time in the contest’s history that an AI has trumped its human competitors.  The team, which included CS Prof. Dan Klein, graduate students Nicholas Tomlin, Eric Wallace, and Kevin Yang, and undergraduate students Albert Xu and Eshaan Pathak, approached Matthew Ginsberg, who created the Dr. Fill algorithm in 2012, and offered to join forces by contributing their machine learning system  called the Berkeley Crossword Solver (BCS).  BCS employs a neural network model to combine general language understanding with more “creative” crossword puzzle clues, then applies its knowledge to practice puzzles, improving as it learns.  “We had a state-of-the-art natural language understanding and question-answering component but a pretty basic crossword handler, while Matt had the best crossword system around and a bunch of domain expertise, so it was natural to join forces,” said Klein. “As we talked, we realized that our systems were designed in a way that made it very easy to interoperate because they both speak the language of probabilities.”  ACPT is the oldest and biggest tournament of its kind, consisting of seven qualifying puzzles and a final playoff puzzle; solvers are ranked using a formula that balances accuracy and speed. Although Dr. Fill made three errors, it completed most puzzles in well under a minute, and ultimately outscored its top human competitor, who made zero errors, by 15 points.  The contest was held online this year and attracted more than 1,100 contestants vying for the $3K grand prize.
+Categories
+Faculty
+Honors
+Research
+Students
+View
+Open Faculty Positions

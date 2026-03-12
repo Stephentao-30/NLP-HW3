@@ -1,0 +1,51 @@
+URL: http://people.eecs.berkeley.edu:80/~bartlett/courses/281b-sp08/syllabus.html
+CS 281B / Stat 241B Spring 2008 Syllabus
+CS 281B / Stat 241B, Spring 2008:
+Statistical Learning Theory
+Syllabus
+Course description
+This course will provide an introduction to the design and
+theoretical analysis of prediction methods, focusing on statistical
+and computational aspects.  It will cover
+methods such as kernel methods and boosting algorithms, and
+probabilistic and game theoretic formulations of prediction
+problems.  We will examine questions about the guarantees
+we can prove about the performance of learning algorithms
+and the inherent difficulty of learning problems.
+Prerequisites: CS281A/Stat241A, or advanced training in
+probability or statistics, for example at the level of Stat 205A or
+Stat 210A.
+Outline:
+Probabilistic formulation of prediction problems
+Kernel methods
+Perceptron algorithm
+Support vector machines
+Constrained optimization, duality
+Hinge loss
+Reproducing kernel Hilbert spaces
+Representer theorem
+Kernel methods for regression
+AdaBoost
+Optimization
+Margins analysis
+Logistic regression
+Risk Bounds
+Overfitting
+Uniform convergence
+Concentration inequalities
+Finite classes
+Rademacher averages
+Vapnik-Chervonenkis dimension
+Covering numbers
+Online prediction
+Mistake bounds: halving, weighted majority
+Prediction with expert advice
+Online optimization
+Potential function methods
+Log loss; Bayesian methods
+Portfolio selection
+Model selection
+Approximation-estimation trade-off
+Method of sieves, Regularization
+Oracle inequalities
+Back to course home page

@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-13.html
+Communication Optimal Parallel Multiplication of Sparse Random Matrices
+Grey Ballard and Aydin Buluc and James Demmel and Laura Grigori and Benjamin Lipshitz and Oded Schwartz and Sivan Toledo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-13
+February 21,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-13.pdf
+Parallel algorithms for sparse matrix-matrix multiplication typically spend most of their time on inter-processor communication rather than on computation, and hardware trends predict the relative cost of communication will only increase. Thus, sparse matrix multiplication algorithms must minimize communication costs in order to scale to large processor counts.
+In this paper, we consider multiplying sparse matrices corresponding to Erdos-Renyi random graphs on distributed-memory parallel machines. We prove a new lower bound on the expected communication cost for a wide class of algorithms. Our analysis of existing algorithms shows that, while some are optimal for a limited range of matrix density and number of processors, none is optimal in general. We obtain two new parallel algorithms and prove that they match the expected communication cost lower bound, and hence they are optimal.
+BibTeX citation:
+@techreport{Ballard:EECS-2013-13,
+Author= {Ballard, Grey and Buluc, Aydin and Demmel, James and Grigori, Laura and Lipshitz, Benjamin and Schwartz, Oded and Toledo, Sivan},
+Title= {Communication Optimal Parallel Multiplication of Sparse Random Matrices},
+Year= {2013},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-13.html},
+Number= {UCB/EECS-2013-13},
+Abstract= {Parallel algorithms for sparse matrix-matrix multiplication typically spend most of their time on inter-processor communication rather than on computation, and hardware trends predict the relative cost of communication will only increase. Thus, sparse matrix multiplication algorithms must minimize communication costs in order to scale to large processor counts.
+In this paper, we consider multiplying sparse matrices corresponding to Erdos-Renyi random graphs on distributed-memory parallel machines. We prove a new lower bound on the expected communication cost for a wide class of algorithms. Our analysis of existing algorithms shows that, while some are optimal for a limited range of matrix density and number of processors, none is optimal in general. We obtain two new parallel algorithms and prove that they match the expected communication cost lower bound, and hence they are optimal.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Buluc, Aydin
+%A Demmel, James
+%A Grigori, Laura
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%A Toledo, Sivan
+%T Communication Optimal Parallel Multiplication of Sparse Random Matrices
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 February 21
+%@ UCB/EECS-2013-13
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-13.html
+%F Ballard:EECS-2013-13

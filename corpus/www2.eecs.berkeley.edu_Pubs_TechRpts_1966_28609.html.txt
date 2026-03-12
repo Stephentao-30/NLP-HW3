@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28609.html
+On the Trajectories of a Differential System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Trajectories of a Differential System
+On the Trajectories of a Differential System
+P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M178
+August 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-178.pdf
+BibTeX citation:
+@techreport{Varaiya:M178,
+Author = {Varaiya, P.P.},
+Title = {On the Trajectories of a Differential System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28609.html},
+Number = {UCB/ERL M178}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.P.
+%T On the Trajectories of a Differential System
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M178
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28609.html
+%F Varaiya:M178

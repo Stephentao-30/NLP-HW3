@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28839.html
+Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision
+Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision
+M.J. Chien and E.S. Kuh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M567
+December 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-567.pdf
+BibTeX citation:
+@techreport{Chien:M567,
+Author = {Chien, M.J. and Kuh, E.S.},
+Title = {Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28839.html},
+Number = {UCB/ERL M567}
+}
+EndNote citation:
+%0 Report
+%A Chien, M.J.
+%A Kuh, E.S.
+%T Solving Nonlinear Resistive Networks Using Piecewise-Linear Analysis and Simplicial Subdivision
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M567
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28839.html
+%F Chien:M567

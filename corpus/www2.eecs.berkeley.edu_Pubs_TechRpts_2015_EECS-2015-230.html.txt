@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-230.html
+Privacy-preserving Messaging and Search: A Collaborative Approach | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Privacy-preserving Messaging and Search: A Collaborative Approach
+Privacy-preserving Messaging and Search: A Collaborative Approach
+Giulia Fanti
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-230
+December 10, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-230.pdf
+In a free society, people have the right to interact with public data without fear of retribution. However, today’s technological landscape enables large-scale monitoring by powerful entities (e.g., totalitarian governments); at worst, these entities may punish people for consuming or distributing objectionable content. This thesis considers two technical problems related to freedom of information: (1) anonymous message spreading and (2) privacy-preserving database searches. In the area of anonymous messaging, we present adaptive diffusion: a scalable, distributed messaging protocol with strong theoretical anonymity guarantees against global adversaries. In the area of private search, we present new algorithms for searching public databases without revealing one's query to the server, while meeting strict efficiency constraints. For both problems, we focus on distributed algorithms that harness cooperation and resource-sharing among privacy-conscious individuals. We analyze the performance of these algorithms theoretically and through simulation to show improvement over prior art.
+Advisor:  Kannan Ramchandran
+BibTeX citation:
+@phdthesis{Fanti:EECS-2015-230,
+Author = {Fanti, Giulia},
+Title = {Privacy-preserving Messaging and Search: A Collaborative Approach},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-230.html},
+Number = {UCB/EECS-2015-230},
+Abstract = {In a free society, people have the right to interact with public data without fear of retribution. However, today’s technological landscape enables large-scale monitoring by powerful entities (e.g., totalitarian governments); at worst, these entities may punish people for consuming or distributing objectionable content. This thesis considers two technical problems related to freedom of  information: (1) anonymous message spreading and (2) privacy-preserving database searches. In the area of anonymous messaging, we present adaptive diffusion: a scalable, distributed messaging protocol with strong theoretical anonymity guarantees against global adversaries. In the area of private search, we present new algorithms for searching public databases without revealing one's query to the server, while meeting strict efficiency constraints. For both problems, we focus on distributed algorithms that harness cooperation and resource-sharing among privacy-conscious individuals. We analyze the performance of these algorithms theoretically and through simulation to show improvement over prior art.}
+}
+EndNote citation:
+%0 Thesis
+%A Fanti, Giulia
+%T Privacy-preserving Messaging and Search: A Collaborative Approach
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 10
+%@ UCB/EECS-2015-230
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-230.html
+%F Fanti:EECS-2015-230

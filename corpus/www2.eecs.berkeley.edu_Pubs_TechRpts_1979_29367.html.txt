@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29367.html
+Solver: An Analytic Function Root Solving and Plotting Package | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solver: An Analytic Function Root Solving and Plotting Package
+Solver: An Analytic Function Root Solving and Plotting Package
+H. Stephen Au-Yeung and Alex Friedman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/55
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-55.pdf
+BibTeX citation:
+@techreport{Au-Yeung:M79/55,
+Author = {Au-Yeung, H. Stephen and Friedman, Alex},
+Title = {Solver: An Analytic Function Root Solving and Plotting Package},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29367.html},
+Number = {UCB/ERL M79/55}
+}
+EndNote citation:
+%0 Report
+%A Au-Yeung, H. Stephen
+%A Friedman, Alex
+%T Solver: An Analytic Function Root Solving and Plotting Package
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/55
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29367.html
+%F Au-Yeung:M79/55

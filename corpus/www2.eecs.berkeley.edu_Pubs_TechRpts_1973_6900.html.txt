@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/6900.html
+Consecutive Retrieval Information System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Consecutive Retrieval Information System
+Consecutive Retrieval Information System
+Kapali P. Eswaran
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M384
+May 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-384.pdf
+Advisor:  Lotfi A. Zadeh
+BibTeX citation:
+@phdthesis{Eswaran:M384,
+Author = {Eswaran, Kapali P.},
+Title = {Consecutive Retrieval Information System},
+School = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/6900.html},
+Number = {UCB/ERL M384}
+}
+EndNote citation:
+%0 Thesis
+%A Eswaran, Kapali P.
+%T Consecutive Retrieval Information System
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M384
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/6900.html
+%F Eswaran:M384

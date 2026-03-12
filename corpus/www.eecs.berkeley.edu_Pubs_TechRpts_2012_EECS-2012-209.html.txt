@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-209.html
+Mid-level Features Improve Recognition of Interactive Activities
+Kate Saenko and Ben Packer and C.-Y. Chen and S. Bandla and Y. Lee and Yangqing Jia and J.-C. Niebles and D. Koller and L. Fei-Fei and K. Grauman and Trevor Darrell
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-209
+November 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-209.pdf
+We argue that mid-level representations can bridge the gap between existing low-level models, which are incapable of capturing the structure of interactive verbs, and contemporary high-level schemes, which rely on the output of potentially brittle intermediate detectors and trackers. We develop a novel descriptor based on generic object foreground segments; our representation forms a histogram-of-gradient representation that is grounded to the frame of detected key-segments. Importantly, our method does not require objects to be identified reliably in order to compute a robust representation. We evaluate an integrated system including novel key-segment activity descriptors on a large-scale video dataset containing 48 common verbs, for which we present a comprehensive evaluation protocol. Our results con
+firm that a descriptor defined on mid-level primitives, operating at a higher-level than local spatio-temporal features, but at a lower-level than trajectories of detected objects, can provide a substantial improvement relative to either alone or to their combination.
+BibTeX citation:
+@techreport{Saenko:EECS-2012-209,
+Author= {Saenko, Kate and Packer, Ben and Chen, C.-Y. and Bandla, S. and Lee, Y. and Jia, Yangqing and Niebles, J.-C. and Koller, D. and Fei-Fei, L. and Grauman, K. and Darrell, Trevor},
+Title= {Mid-level Features Improve Recognition of Interactive Activities},
+Year= {2012},
+Month= {Nov},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-209.html},
+Number= {UCB/EECS-2012-209},
+Abstract= {We argue that mid-level representations can bridge the gap between existing low-level models, which are incapable of capturing the structure of interactive verbs, and contemporary high-level schemes, which rely on the output of potentially brittle intermediate detectors and trackers. We develop a novel descriptor based on generic object foreground segments; our representation forms a histogram-of-gradient representation that is grounded to the frame of detected key-segments. Importantly, our method does not require objects to be identified reliably in order to compute a robust representation. We evaluate an integrated system including novel key-segment activity descriptors on a large-scale video dataset containing 48 common verbs, for which we present a comprehensive evaluation protocol. Our results con
+firm that a descriptor defined on mid-level primitives, operating at a higher-level than local spatio-temporal features, but at a lower-level than trajectories of detected objects, can provide a substantial improvement relative to either alone or to their combination.},
+}
+EndNote citation:
+%0 Report
+%A Saenko, Kate
+%A Packer, Ben
+%A Chen, C.-Y.
+%A Bandla, S.
+%A Lee, Y.
+%A Jia, Yangqing
+%A Niebles, J.-C.
+%A Koller, D.
+%A Fei-Fei, L.
+%A Grauman, K.
+%A Darrell, Trevor
+%T Mid-level Features Improve Recognition of Interactive Activities
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 November 14
+%@ UCB/EECS-2012-209
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-209.html
+%F Saenko:EECS-2012-209

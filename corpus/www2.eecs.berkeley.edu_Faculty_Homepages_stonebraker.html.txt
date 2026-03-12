@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/stonebraker.html
+Michael Stonebraker: Faculty Home Page
+Michael Stonebraker
+Professor Emeritus
+Biography
+Michael Stonebraker is a pioneer of data base research and technology.  He joined the University of California, Berkeley, as an assistant professor in 1971, and taught in the computer science and EECS departments for twenty-nine years. While at Berkeley, he developed prototypes for the INGRES relational data management system (DBMS), the object-relational DBMS, POSTGRES, and the federated data system, Mariposa. He is the founder of three successful Silicon Valley startups, whose objective was to commercialize these prototypes.  Professor Stonebraker is the author of scores of research papers on data base technology, operating systems and the architecture of system software services.  He was awarded the prestigious ACM System Software Award in 1992, for his work on INGRES.  Additionally, he was awarded the first annual Innovation award by the ACM SIGMOD special interest group in 1994, and has been recognized by Computer Reseller News as one of the top five software developers of the century.  Moreover, Forbes magazine named him one of the 8 innovators driving the Silicon Valley wealth explosion during their 80th anniversary edition in 1998.  He was elected to the National Academy of Engineering in 1998 and is presently an Adjunct Professor of Computer Science at M.I.T.
+Education
+1971, Ph.D., Computer, Information and Control Engineering, University of Michigan
+1966, M.S.E., Electrical Engineering, University of Michigan
+1965, B.S.E., Electrical Engineering, Princeton
+J. Hammer, M. Stonebraker, and O. Topsakal, " THALIA: Test Harness for the Assessment of Legacy Information Integration Approaches ," in  Proc. 21st Intl. Conf. on Data Engineering , Los Alamitos, CA: IEEE Computer Society, 2005, pp. 485-486.
+D. J. Abadi, D. Carney, U. Cetintemel, M. Cherniack, C. Convey, S. Lee, M. Stonebraker, N. Tatbul, and S. Zdonik, " Aurora: A new model and architecture for data stream management ,"  The VLDB Journal -- The Intl. J. on Very Large Data Bases , vol. 12, no. 2, pp. 120-139, Aug. 2003.
+M. Stonebraker, " Too much middleware ,"  SIGMOD Record , vol. 31, no. 1, pp. 97-106, March 2002.
+A. G. Woodruff, C. Olston, A. Aiken, M. Chu, V. Ercegovac, M. Lin, M. Spalding, and M. Stonebraker, " DataSplash: A direct manipulation environment for programming semantic zoom visualizations of tabular data ,"  J. Visual Languages & Computing , vol. 12, no. 5, pp. 551-571, Oct. 2001.
+M. Stonebraker, P. M. Aoki, W. Litwin, A. Pfeffer, A. D. Sah, J. P. Sidell, C. Staelin, and A. K. Yu, " Mariposa: A wide-area distributed database system ,"  The VLDB J. -- The International J. on Very Large Data Bases , vol. 5, no. 1, pp. 48-63, Jan. 1996.
+M. Stonebraker, P. M. Aoki, R. Devine, W. Litwin, and M. A. Olson, " Mariposa: A new architecture for distributed data ," in  Proc. 10th Intl. Conf. on Data Engineering , Los Alamitos, CA: IEEE Computer Society, 1994, pp. 54-65.
+M. Stonebraker, J. Chen, N. Nathan, C. Paxson, and J. Wu, " Tioga: Providing data management support for scientific visualization applications ," in  Proc. 19th Intl. Conf. on Very Large Data Bases , R. Agrawal, S. Baker, and D. A. Bell, Eds., San Francisco, CA: Morgan Kaufmann Publishers Inc., 1993, pp. 25-38.
+M. I. Seltzer and M. Stonebraker, " Transaction support in read optimized and write optimized file systems ," in  Proc. 16th Intl. Conf. on Very Large Data Bases , D. McLeod, R. Sacks-Davis, and H. Schek, Eds., San Francisco, CA: Morgan Kaufmann Publishers Inc., 1990, pp. 174-185.
+M. Stonebraker and G. A. Schloss, " Distributed RAID -- A new multiple copy algorithm ," in  Proc. 6th Intl. Conf. on Data Engineering , Los Alamitos, CA: IEEE Computer Society, 1990, pp. 430-437.
+M. Stonebraker, R. H. Katz, D. A. Patterson, and J. Ousterhout, " The design of XPRS ," in  Proc. 14th Intl. Conf. on Very Large Data Bases , F. Bancilhon and D. J. DeWitt, Eds., San Francisco, CA: Morgan Kaufmann Publishers Inc., 1988, pp. 318-330.
+M. Stonebraker, " The design of the POSTGRES storage system ," in  Proc. 13th Intl. Conf. on Very Large Data Bases , P. M. Stocker, W. Kent, and P. Hammersley, Eds., San Francisco, CA: Morgan Kaufmann Publishers Inc., 1987, pp. 289-300.
+L. A. Rowe and M. Stonebraker, " The POSTGRES data model ," in  Proc. 13th Intl. Conf. on Very Large Data Bases , P. M. Stocker, W. Kent, and P. Hammersley, Eds., San Francisco, CA: Morgan Kaufmann Publishers Inc., 1987, pp. 83-96.
+M. Stonebraker, " Retrospection on a database system ,"  ACM Trans. Database Systems , vol. 5, no. 2, pp. 225-240, June 1980.
+D. R. Ries and M. Stonebraker, " Effects of locking granularity in a database management system ,"  ACM Trans. Database Systems , vol. 2, no. 3, pp. 233-246, Sep. 1977.
+Computers and Communications (C&C) Prize ,
+2020
+MIT Tech Review Top 7 Innovators Over 70 (TR7) ,
+2016
+ACM SIGMOD Systems Award ,
+2015
+ACM A.M. Turing Award ,
+2014
+IEEE John von Neumann Medal ,
+2005
+National Academy of Engineering (NAE) Member ,
+1997
+Association for Computing Machinery (ACM) Fellow ,
+1994
+ACM SIGMOD Edgar F. Codd Innovations Award ,
+1992
+ACM Software System Award ,
+1988

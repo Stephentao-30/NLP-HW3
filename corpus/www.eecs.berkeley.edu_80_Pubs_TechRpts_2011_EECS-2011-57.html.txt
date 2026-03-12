@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-57.html
+Interactive Text Recognition and Translation on a Mobile Device
+Michael Hsueh
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-57
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-57.pdf
+The convergence of powerful processors and high resolution cameras on mobile devices has made them an attractive platform for optical character recognition (OCR) software. Most traditional OCR applications have been designed to be highly automated and used on desktop machines. These recognition engines perform well but usually require high quality input images that are reliably obtained. In adapting recognition systems for use on mobile devices, conventional assumptions about the need for automation, available processing power, and input image quality should be re-evaluated. This paper presents a mobile text recognition and translation system that is designed with consideration for these factors. The application presented runs on the Nokia N900 smartphone and introduces human-assisted elements into the OCR pipeline to enhance accuracy. These elements include manual cropping, classification, segmentation, and thresholding. The system also employs vignetting correction and a web-based recognition service in order to address the camera and performance limitations of the N900. The completed application was deployed publicly for testing by the Maemo community under the name MIR Translator. Feedback for the system was positive overall and confirms the utility of text recognition software on mobile devices.
+Advisors:  Eric Brewer
+BibTeX citation:
+@mastersthesis{Hsueh:EECS-2011-57,
+Author= {Hsueh, Michael},
+Title= {Interactive Text Recognition and Translation on a Mobile Device},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-57.html},
+Number= {UCB/EECS-2011-57},
+Abstract= {The convergence of powerful processors and high resolution cameras on mobile devices has made them an attractive platform for optical character recognition (OCR) software. Most traditional OCR applications have been designed to be highly automated and used on desktop machines. These recognition engines perform well but usually require high quality input images that are reliably obtained. In adapting recognition systems for use on mobile devices, conventional assumptions about the need for automation, available processing power, and input image quality should be re-evaluated. This paper presents a mobile text recognition and translation system that is designed with consideration for these factors. The application presented runs on the Nokia N900 smartphone and introduces human-assisted elements into the OCR pipeline to enhance accuracy. These elements include manual cropping, classification, segmentation, and thresholding. The system also employs vignetting correction and a web-based recognition service in order to address the camera and performance limitations of the N900. The completed application was deployed publicly for testing by the Maemo community under the name MIR Translator. Feedback for the system was positive overall and confirms the utility of text recognition software on mobile devices.},
+}
+EndNote citation:
+%0 Thesis
+%A Hsueh, Michael
+%T Interactive Text Recognition and Translation on a Mobile Device
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-57.html
+%F Hsueh:EECS-2011-57

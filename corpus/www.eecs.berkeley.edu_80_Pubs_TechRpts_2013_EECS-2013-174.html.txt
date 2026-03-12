@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-174.html
+NbQ-CLOCK: A Non-blocking Queue-based CLOCK Algorithm for Web-Object Caching
+Gage Eads
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-174
+October 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-174.pdf
+Major Internet-based service providers rely on high-throughput web-object caches to serve millions of daily accesses to frequently viewed web content. A web-object cache’s ability to reduce user access time is dependent on its replacement algorithm and the cache hit rate it yields. In this report, I present NbQ-CLOCK, a novel, lock-free variant of the Generalized CLOCK algorithm particularly suited for web-object caching. NbQ-CLOCK is based on an unbounded non-blocking queue with no internal dynamic memory management, instead of the traditional circular buffer. My solution benefits from Generalized CLOCK’s low-latency updates and high hit rates, and its non-blocking implementation makes it scalable with only 10 bytes per-object space overhead.
+I compare the solution to existing algorithms, including Intel’s Bag-LRU, and demonstrate that NbQ-CLOCK’s fast update operation scales well with the number of threads and in a in-memory key-value store prototype, NbQ-CLOCK offers an overall throughput improvement of as much as 9.20% over the best of the other algorithms. In addition, NbQ-CLOCK’s hit rate exceeds the next best algorithm’s hit rate by as much as 1.40%.
+Advisors:  John D. Kubiatowicz
+BibTeX citation:
+@mastersthesis{Eads:EECS-2013-174,
+Author= {Eads, Gage},
+Title= {NbQ-CLOCK: A Non-blocking Queue-based CLOCK Algorithm for Web-Object Caching},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-174.html},
+Number= {UCB/EECS-2013-174},
+Abstract= {Major Internet-based service providers rely on high-throughput web-object caches to serve millions of daily accesses to frequently viewed web content. A web-object cache’s ability to reduce user access time is dependent on its replacement algorithm and the cache hit rate it yields. In this report, I present NbQ-CLOCK, a novel, lock-free variant of the Generalized CLOCK algorithm particularly suited for web-object caching. NbQ-CLOCK is based on an unbounded non-blocking queue with no internal dynamic memory management, instead of the traditional circular buffer. My solution benefits from Generalized CLOCK’s low-latency updates and high hit rates, and its non-blocking implementation makes it scalable with only 10 bytes per-object space overhead.
+I compare the solution to existing algorithms, including Intel’s Bag-LRU, and demonstrate that NbQ-CLOCK’s fast update operation scales well with the number of threads and in a in-memory key-value store prototype, NbQ-CLOCK offers an overall throughput improvement of as much as 9.20% over the best of the other algorithms. In addition, NbQ-CLOCK’s hit rate exceeds the next best algorithm’s hit rate by as much as 1.40%.},
+}
+EndNote citation:
+%0 Thesis
+%A Eads, Gage
+%T NbQ-CLOCK: A Non-blocking Queue-based CLOCK Algorithm for Web-Object Caching
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 25
+%@ UCB/EECS-2013-174
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-174.html
+%F Eads:EECS-2013-174

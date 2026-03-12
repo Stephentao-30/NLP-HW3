@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29011.html
+Discrete-Time Convolution Feedback Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Discrete-Time Convolution Feedback Systems
+Discrete-Time Convolution Feedback Systems
+F.M. Callier and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M313
+October 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-313.pdf
+BibTeX citation:
+@techreport{Callier:M313,
+Author = {Callier, F.M. and Desoer, C.A.},
+Title = {Discrete-Time Convolution Feedback Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29011.html},
+Number = {UCB/ERL M313}
+}
+EndNote citation:
+%0 Report
+%A Callier, F.M.
+%A Desoer, C.A.
+%T Discrete-Time Convolution Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M313
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/29011.html
+%F Callier:M313

@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7303.html
+The Evolution and Evaluation of a Clinical Laboratory Computer System
+Rudolph S. Langer
+EECS Department, University of California, Berkeley
+1972
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Langer:7303,
+Author= {Langer, Rudolph S.},
+Title= {The Evolution and Evaluation of a Clinical Laboratory Computer System},
+School= {EECS Department, University of California, Berkeley},
+Year= {1972},
+}
+EndNote citation:
+%0 Thesis
+%A Langer, Rudolph S.
+%T The Evolution and Evaluation of a Clinical Laboratory Computer System
+%I EECS Department, University of California, Berkeley
+%D 1972
+%F Langer:7303

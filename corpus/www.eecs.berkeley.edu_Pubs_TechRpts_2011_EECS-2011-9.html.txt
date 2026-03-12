@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-9.html
+Towards a societal scale, mobile sensing system
+Richard Edward Honicky
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-9
+February 1,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-9.pdf
+With the proliferation of sensor equipped smart phones, and augmented reality applications fast appearing, the mobile phone is becoming something much more than a scaled-down, connected IO and processing device. In addition to these standard PC traits, a cell phone is situated in an
+environment, mobile, and typically co-located with a user. These traits make the cell-phone ideally suited to track and understand the impact that the environment has on individuals, communities and cities, as well as to understand how humans effect their environment.
+In this dissertation, I explore the possibility of building a societal-scale, mobile sensing system to monitor pollution and other environmental factors, using low cost-sensors embedded into mobile phones. I will discuss several hardware platforms we used to study mobile sensing over the course of three field campaigns, models of pollution dispersion, sensor characterization and its impact on model parameters, automatic calibration and increasing precision in densely sampled regions.
+Advisors:  John F. Canny and Eric Brewer
+BibTeX citation:
+@phdthesis{Honicky:EECS-2011-9,
+Author= {Honicky, Richard Edward},
+Title= {Towards a societal scale, mobile sensing system},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-9.html},
+Number= {UCB/EECS-2011-9},
+Abstract= {With the proliferation of sensor equipped smart phones, and augmented reality applications fast appearing, the mobile phone is becoming something much more than a scaled-down, connected IO and processing device. In addition to these standard PC traits, a cell phone is situated in an
+environment, mobile, and typically co-located with a user. These traits make the cell-phone ideally suited to track and understand the impact that the environment has on individuals, communities and cities, as well as to understand how humans effect their environment.
+In this dissertation, I explore the possibility of building a societal-scale, mobile sensing system to monitor pollution and other environmental factors, using low cost-sensors embedded into mobile phones. I will discuss several hardware platforms we used to study mobile sensing over the course of three field campaigns, models of pollution dispersion, sensor characterization and its impact on model parameters, automatic calibration and increasing precision in densely sampled regions.},
+}
+EndNote citation:
+%0 Thesis
+%A Honicky, Richard Edward
+%T Towards a societal scale, mobile sensing system
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 February 1
+%@ UCB/EECS-2011-9
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-9.html
+%F Honicky:EECS-2011-9

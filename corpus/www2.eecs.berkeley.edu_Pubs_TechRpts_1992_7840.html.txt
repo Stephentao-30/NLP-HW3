@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1992/7840.html
+Hinged Polysilicon Structures with Integrated CMOS Thin Film Transistors
+Kristofer S.J. Pister
+EECS Department, University of California, Berkeley
+1992
+Advisors:  Shankar Sastry and Roger Howe and Ronald Fearing
+BibTeX citation:
+@phdthesis{Pister:7840,
+Author= {Pister, Kristofer S.J.},
+Title= {Hinged Polysilicon Structures with Integrated CMOS Thin Film Transistors},
+School= {EECS Department, University of California, Berkeley},
+Year= {1992},
+}
+EndNote citation:
+%0 Thesis
+%A Pister, Kristofer S.J.
+%T Hinged Polysilicon Structures with Integrated CMOS Thin Film Transistors
+%I EECS Department, University of California, Berkeley
+%D 1992
+%F Pister:7840

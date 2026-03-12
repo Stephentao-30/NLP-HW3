@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29169.html
+Recursive Linear Smoothing of Two-Dimensional Random Fields | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Recursive Linear Smoothing of Two-Dimensional Random Fields
+Recursive Linear Smoothing of Two-Dimensional Random Fields
+Richard G. Ogier and Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/22
+January 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-79-22.pdf
+BibTeX citation:
+@techreport{Ogier:M79/22,
+Author = {Ogier, Richard G. and Wong, Eugene},
+Title = {Recursive Linear Smoothing of Two-Dimensional Random Fields},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29169.html},
+Number = {UCB/ERL M79/22}
+}
+EndNote citation:
+%0 Report
+%A Ogier, Richard G.
+%A Wong, Eugene
+%T Recursive Linear Smoothing of Two-Dimensional Random Fields
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M79/22
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29169.html
+%F Ogier:M79/22

@@ -1,0 +1,67 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-116.html
+The Internals of GameTime: Implementation and Evaluation of a Timing Analyzer for Embedded Software
+Jonathan Prakash Kotker
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-116
+May 24,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-116.pdf
+Timing analysis is central to the design and implementation
+of cyber-physical systems. This thesis presents GameTime,
+a timing analysis toolkit that is based on a combination of
+game-theoretic online learning and systematic testing using
+satisfiability modulo theories (SMT) solvers. GameTime can
+be used to tackle a range of problems related to program
+timing, including estimating the worst-case execution time,
+predicting the distribution of execution times, and
+detecting timing-related anomalies.
+This thesis describes the details of the implementation of
+GameTime. The notion of basis paths is used to handle
+the exponentially many paths in a program. The issues that
+arise during the translation of statements in C programs to
+the equivalent clauses in SMT queries are presented, and
+the techniques used by GameTime to address these issues
+are elaborated through examples. Finally, experimental
+results demonstrate the speed of GameTime analysis and
+the accuracy of the predictions made by GameTime, with
+a relative error margin of less than 5% on most of
+the benchmarks measured.
+BibTeX citation:
+@techreport{Kotker:EECS-2013-116,
+Author= {Kotker, Jonathan Prakash},
+Title= {The Internals of GameTime: Implementation and Evaluation of a Timing Analyzer for Embedded Software},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-116.html},
+Number= {UCB/EECS-2013-116},
+Abstract= {Timing analysis is central to the design and implementation
+of cyber-physical systems. This thesis presents GameTime,
+a timing analysis toolkit that is based on a combination of
+game-theoretic online learning and systematic testing using
+satisfiability modulo theories (SMT) solvers. GameTime can
+be used to tackle a range of problems related to program
+timing, including estimating the worst-case execution time,
+predicting the distribution of execution times, and
+detecting timing-related anomalies.
+This thesis describes the details of the implementation of
+GameTime. The notion of basis paths is used to handle
+the exponentially many paths in a program. The issues that
+arise during the translation of statements in C programs to
+the equivalent clauses in SMT queries are presented, and
+the techniques used by GameTime to address these issues
+are elaborated through examples. Finally, experimental
+results demonstrate the speed of GameTime analysis and
+the accuracy of the predictions made by GameTime, with
+a relative error margin of less than 5% on most of
+the benchmarks measured.},
+}
+EndNote citation:
+%0 Report
+%A Kotker, Jonathan Prakash
+%T The Internals of GameTime: Implementation and Evaluation of a Timing Analyzer for Embedded Software
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 24
+%@ UCB/EECS-2013-116
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-116.html
+%F Kotker:EECS-2013-116

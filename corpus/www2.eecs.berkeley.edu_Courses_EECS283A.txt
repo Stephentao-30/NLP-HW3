@@ -1,0 +1,14 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EECS283A
+EECS 283A. Natural Language Processing
+Catalog Description:  This course provides a hands-on introduction to language technologies, covering methods for processing speech and text. This includes: statistical models, early neural models, and transformer-based LLMs; model architectures, training, evaluation, and social impacts; core tasks and methods like machine translation, parsing, and prompting; analysis and representation of speech and speech recognition models. Weekly assignments provide practical experience in building systems and understanding their strengths and limitations.
+Units:  4
+Prerequisites:  COMPSCI C182, COMPSCI 188, or COMPSCI 189
+Credit Restrictions:  Students will receive no credit for EECS 283A after completing COMPSCI 288. A deficient grade in EECS 283A may be removed by taking COMPSCI 288.
+Formats:  Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Links:
+CS enrollment policies
+EE enrollment policies
+HKN course maps

@@ -1,0 +1,198 @@
+URL: https://people.eecs.berkeley.edu/~barsky/perspective.html?ref=savageevan.com
+The Mathematics of Two- and Three-Point Perspective
+A Note on the Mathematics of Two- and Three- Point Perspective
+Brian A. Barsky
+Review of One-point Perspective
+Two-Point Perspective
+Steps to obtain a two-point perspective
+What is the two-point transformation?
+Rotating points instead of axes
+The derivation of P.2
+Vanishing points in two-point-projection
+Geometric check for two-point
+Three-point Perspective
+Steps to obtain a three-point perspective
+What is the three-point transformation?
+The derivation of P.3
+Vanishing points in three-point projection
+Geometric check for three-point.
+Final wrap-up
+Review of One-point Perspective
+Recall the matrix for one point perspective:
+_                   _
+|  1   0   0   0  |
+P    = |  0   1   0   0  |
+eye   |  0   0   1  1/d |
+|_ 0   0   0   0 _|
+This matrix projects points onto the eye-based projection plane as in the following picture.
+Note that only
+one
+principal axis (Z 1 ) pierces the projection plane, so we have
+one -point perspective.
+Figure 1: The one-point projection axes.
+Two-point Perspective
+Suppose we wish to view the object such that
+two
+principal axises pierce the projection plane.  This
+two -point projection looks as follows.  Note that the Z 2
+and
+X 2
+axises pierce the projection plane, but the
+Y 2
+axis does not.
+Figure 2:  1 .  Since we rotate about Y 2 , it does not move.  So, Y 2 =Y 1 .
+(Note on axis terminology:  The number that appears after the the axis name
+tells us which point system we are refering to.  That is, the
+X 2  axis is the X-axis in two-point perspective coordinates.  Similarily,
+Y 1  refers to the Y-axis in one-point perspective, and
+Z 3  will refer to the Z-axis in three-point perspective.)
+Rotating points instead of axes.
+It is easier to think of this as a rotation of axes; however, in this class, we have been
+assuming that we will move the points, while keeping a fixed coordinate system.
+So, instead of rotating the axes by Theta, we will rotate the points by negative Theta.
+Since we rotate the points back in the end, the effect will be the same.
+So, we need to rotate the points through an angle negative Theta
+(or the axes through an angle positive Theta).
+In the picture below, Theta is defined positive according to the X->Y->Z->X convention.
+Theta is positive if it points from Z 2  towards X 2 .
+Figure 3:  Rotation of the two-point projection axes.
+The derivation of P 2
+The transformation is:
+P 2 =R y (-q)*P 1 *R y (q)
+(q replaces Theta because that is the letter which maps to Theta in the symbol font)
+where:
+P 1 =P eye
+_                       _
+|  cos(q)  0  +sin(q)  0  |
+R (-q) = |    0     1     0     0  |
+y       | -sin(q)  0   cos(q)  0  |
+|_   0     0     0     1 _|
+_                       _
+|  cos(q)  0  +sin(q)  0  |
+R (-q) = |    0     1     0     0  |
+y       | -sin(q)  0   cos(q)  0  |
+|_   0     0     0     1 _|
+Note: q is substituted for Theta because at the time of creation for this document,
+there was no HTML theta.
+When we make these substitutions:
+_                      _  _               _  _                      _
+|  cos(q)  0  sin(q)  0  ||  1   0   0   0  ||  cos(q)  0 -sin(q)  0  |
+|    0     1    0     0  ||  0   1   0   0  ||    0     1    0     1  |
+| -sin(q)  0  cos(q)  0  ||  0   0   1  1/d ||  sin(q)  0  cos(q)  0  |
+|_   0     0    0     1 _||_ 0   0   0   0 _||_   0     0    0     1 _|
+_                            _  _                      _
+|  cos(q)  0  sin(q)  sin(q)/d ||  cos(q)  0 -sin(q)  0  |
+|    0     1    0         0    ||    0     1    0     1  |
+| -sin(q)  0  cos(q)  cos(q)/d ||  sin(q)  0  cos(q)  0  |
+|_   0     0    0         0   _||_   0     0    0     1 _|
+_                    _
+|  1   0   0 sin(q)/d  |
+P  = |  0   1   0     0     |
+2   |  0   0   1 cos(q)/d  |
+|_ 0   0   0     0    _|
+So,  P 2  is the projection transformation matrix which projects a point into a two-point projection.
+Vanishing points in two-point-projection
+To illustrate the vanishing points, we can take points at infinity on the X 2 ,  Y 2 , and Z 2 , and see how they are mapped when  P 2  is applied.  In homogeneous coordinates, a point at infinity is represented by placing zero in the W coordinate of a point vector.
+So, a point at infinity on the X 2  axis is represented as:
+[  1   0   0   0  ]
+When we apply  P 2  to this point, we get:
+[  1   0   0  sin(q)/d ]
+In non-homogeneous coordinates, this point becomes:
+[ d/sin(q)  0   0  ]
+So, the vanishing point for X 2  lies at the above coordinates (in the original two-point coordinate system)
+Similarily, the vanishing point for Z 2  lies at:
+[  0   0   d/cos(q) ]
+However, when we apply  P 2  to a point at infinity on Y 2  we get (in homogeneous coordinates):
+[  0   1   0   0  ]
+This point remains at infinity.  Since we are in a  two -point projection system, it makes sense that only  two  axes (X 2  and Z 2  maps to vanishing points, while  one  still approaches infinity.
+Note that when Theta equals zero,  P 2  reduces to  P 1 .
+Geometric check for two-point.
+Also of note, we can verify our location of the vanishing points by using a geometric check:
+Figure 4:  Geometric check of P 2
+Theta is the angle between X 2  and X 1 .
+Because of the projection plane is parallel to X 1 ,
+the angle between the plane and X 2  is also Theta.
+Since the sine of an angle is equal to opposite/hypotenuse (sin(theta)=opp/hyp),
+the length of the hypotenuse = opp/sin(Theta).
+opp=d, so hyp=d/sin(Theta), where hyp points along the X 2  axis.
+This is the same as we derived for the X 2  vanishing point using the matricies.
+Similarily, Z 2  is rotated 90 degrees from X 2  and Z 1
+is rotated 90 degrees from X 1 .
+So, the angle between X 1  and X 2  is the same as the one between Z 1
+and Z 2 .  cos(theta)=adjacent/hypotenuse, so hyp=adj/cos(Theta).
+adj=d, so hyp=d/cos(theta), and it points along Z 2 .
+This is what we derived for the Z 2  vanishing point using matricies.
+Three-point Perspective
+Now, we would also like a transformation matrix for three-point perspective.
+Three-point perspective occurs when three principal axes pierce the projection plane.
+In the following picture, X 3 , Y 3 , and Z 3  all pierce the project plane.
+Figure 5:  The three-point projection axes
+Like the two-point matrix  P 2 ,  P 3  can be
+obtained by transforming from a three-point perspective system into a one-point perpective system.
+Steps to obtain a three-point perspective:
+transform point into 2 point system
+apply perspective matrix for 2 point system
+transform back
+What is the three-point transformation?
+Again, as with the two-point system, we need a rotation.
+This particular rotation is one about X 3  in the YZ plane.
+If we think of rotating the coordinate axes, we rotate Y 3  to Y 2
+by an angle -Phi about the X 3  axis.
+Z 3  is rotated by an equal angle -Phi about X 3  until it lines up
+with Z 2 .
+Note:  We rotate the axes by -Phi because we are using the X->Y->Z->X rotation convention.
+That is, since we are rotating from Z 3  towards Y 3 ,
+we are rotating by a  negative  angle.
+Because we are going to be rotating the points instead of the coordinates,
+we will rotate the points in the opposite direction ( why? ).
+So, when we rotate the axes by -Phi, we rotate the points by +Phi.
+The derivation of P 3
+The point transformation matrix that we need is:
+P 3 =R x (j)*P 2 *R x (-j)
+(we use j instead of Phi because that is the letter used in the Symbol font)
+So substitution  R x  into the equation for  P 3 :
+_                       _
+|  1     0       0     0  |
+R (j) = |  0   cos(j)  sin(j)  0  |
+x      |  0  -sin(j)  cos(j)  0  |
+|_ 0     0       0     1 _|
+_                       _  _                       _n
+As we did in two-point projection, we will illustrate what happens to the vanishing points by
+applying  P 3  to points at infinity on the X 3 , Y 3 ,
+and  Z 3  axes.  As before, in homogeneous coordingates, a point at infinity is represented
+by placing a zero in the W coordinate of a point vector.
+So, a points at infinity on the X 3 , Y 3 , and Z 3  axes:
+x: [  1   0   0   0  ]
+y: [  0   1   0   0  ]
+z: [  0   0   1   0  ]
+become (in homogeneous coordinates):
+x: [  1   0   0   sin(q)/d ] eck.
+Verifing X vanishing point
+2  from the  geometric check for two-points .
+Final wrap-up.
+If we look at the matrix for perpective projection in three points  P 3 :
+_                              _
+|   1    0    0      sin(q)/d    |
+P  =  |   0    1    0   cos(q)sin(j)/d |
+3    |   0    0    1   cos(q)cos(j)/d |
+|_  0    0    0         0       _|
+and compare it with the coordinates of the vanishing points in non-homogeneous coordinates:
+x: [  d/sin(q)  0   0  ]
+y: [  0  d/cos(q)sin(j)  0  ]
+z: [  0   0   d/cos(q)cos(j) ]
+we notice that the X coordinate of the X vanishing point is the inverse of the W coordinate of the
+X row (first row) of  P 3 .  Similarily, the Y coordinate of the Y vanishing
+point is the inverse of the W coordinate of the Y row (second row) of  P 3 ,
+and the Z coordinate of the Z vanishing point is the inverse of the W coordinate of the Z row
+(third row) of  P 3 .
+Thus, if the projection planes intersects the X-, Y-, and Z- axes at (repectively):
+[ d x  0 0 ], [ 0 d y  0 ], [ 0 0 d z  ]
+Then the matrix for this 3-point perspective is:
+_                     _
+|   1    0    0   1/dx  |
+P  =  |   0    1    0   1/dy  |
+3    |   0    0    1   1/dz  |
+|_  0    0    0    0   _|
+where  dx  =  d x ,  dy  =  d y , and  dz  =  d z .
+And, the 1 point and 2 point perspective matrices are special cases with  1/d x  and/or  1/d y  equal to zero.
+Thanks to Aaron Isaksen / EECS '98 for this html formating!

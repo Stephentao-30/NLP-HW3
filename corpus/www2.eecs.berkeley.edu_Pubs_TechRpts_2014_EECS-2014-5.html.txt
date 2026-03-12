@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-5.html
+First Draft of the act Programming Language | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+First Draft of the act Programming Language
+First Draft of the act Programming Language
+Eleftherios Matsikoudis and Christos Stergiou
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-5
+January 22, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-5.pdf
+The purpose of this report is to document the first complete attempt at the design of a high-level programming language for timed systems called act. We define the lexical grammar and the syntactic grammar of act, and include an example of a simple actor written in act, demonstrating some of the syntactic features of the language.
+BibTeX citation:
+@techreport{Matsikoudis:EECS-2014-5,
+Author = {Matsikoudis, Eleftherios and Stergiou, Christos},
+Title = {First Draft of the act Programming Language},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-5.html},
+Number = {UCB/EECS-2014-5},
+Abstract = {The purpose of this report is to document the first complete attempt at the design of a high-level programming language for timed systems called act. We define the lexical grammar and the syntactic grammar of act, and include an example of a simple actor written in act, demonstrating some of the syntactic features of the language.}
+}
+EndNote citation:
+%0 Report
+%A Matsikoudis, Eleftherios
+%A Stergiou, Christos
+%T First Draft of the act Programming Language
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 January 22
+%@ UCB/EECS-2014-5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-5.html
+%F Matsikoudis:EECS-2014-5

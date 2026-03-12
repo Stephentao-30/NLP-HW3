@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28562.html
+Operating System Support for Data Base Management | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Operating System Support for Data Base Management
+Operating System Support for Data Base Management
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/47
+November 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-47.pdf
+BibTeX citation:
+@techreport{Stonebraker:M80/47,
+Author = {Stonebraker, Michael},
+Title = {Operating System Support for Data Base Management},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28562.html},
+Number = {UCB/ERL M80/47}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Operating System Support for Data Base Management
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28562.html
+%F Stonebraker:M80/47

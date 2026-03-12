@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28822.html
+Solution of Large-Scale Networks by Tearing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Solution of Large-Scale Networks by Tearing
+Solution of Large-Scale Networks by Tearing
+Felix F. Wu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M532
+July 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-532.pdf
+BibTeX citation:
+@techreport{Wu:M532,
+Author = {Wu, Felix F.},
+Title = {Solution of Large-Scale Networks by Tearing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28822.html},
+Number = {UCB/ERL M532}
+}
+EndNote citation:
+%0 Report
+%A Wu, Felix F.
+%T Solution of Large-Scale Networks by Tearing
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M532
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28822.html
+%F Wu:M532

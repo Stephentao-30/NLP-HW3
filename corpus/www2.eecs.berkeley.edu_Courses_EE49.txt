@@ -1,0 +1,23 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE49
+Course: EE49 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EE49
+EE 49. Electronics for the Internet of Things
+Catalog Description:  Electronics has become pervasive in our lives as a powerful technology with applications in a wide range of fields including healthcare, environmental monitoring, robotics, or entertainment. This course teaches how to build electronic circuits that interact with the environment through sensors and actuators and how to communicate wirelessly with the internet to cooperate with other devices and with humans. In the laboratory students design and build representative samples such as solar harvesters, robots, that exchange information with or are controlled from the cloud.
+Units:  4.0
+Course Objectives:  Electronics has become a powerful and ubiquitous technology supporting solutions to a wide range of applications in fields ranging from science, engineering, healthcare, environmental monitoring, transportation, to entertainment. The objective of this course is to teach students majoring in these and related subjects how to use electronic devices to solve problems in their areas of expertise., Through the lecture and laboratory, students gain insight into the possibilities and limitations of the technology and how to use electronics to help solve problems. Students learn to use electronics to interact with the environment through sound, light, temperature, motion using sensors and actuators, and how to use electronic computation to orchestrate the interactions and exchange information wirelessly over the internet.
+Student Learning Outcomes:  To use and program low-cost and low-power microcontrollers for sensing, actuation, and information processing, and find and use program libraries supporting these tasks, Design, build and test electronic devices leveraging these concepts., Deploy electronic sensors and interface them to microcontrollers through digital and analog channels as well as common protocols (I2C, SPI),, Interact with the internet and cloud services using protocols such as http, MQTT, Blynk,, Interface DC motors, steppers and servos to microcontrollers,, Use electronics to sense and actuate physical parameters such as temperature, humidity, sound, light, and motion,, Represent information with voltage, current, power, and energy and how to measure these quantities with laboratory equipment,, Understand and make basic low-pass and high-pass filters, Wheatstone bridge etc.
+Prerequisites:  Engineering 7 or Computer Science 10 or equivalent background in computer programming (including Computer Science 61A, Data Science 8) Math 1a or equivalent background in Calculus.
+Formats:  Fall: 3.0 hours of lecture, 2.0 hours of discussion, and 3.0 hours of laboratory per week
+Spring: 3.0 hours of lecture, 2.0 hours of discussion, and 3.0 hours of laboratory per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Also listed as:  EL ENG 49
+Class Schedule (Spring 2019):
+TuTh 5:00PM - 6:29PM, Cory 277 –
+Bernhard Boser
+Class homepage on inst.eecs
+General Catalog listing

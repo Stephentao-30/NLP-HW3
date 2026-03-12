@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28600.html
+Cyclotron Wave Instabilties in a Plasma
+J.E. Scharer and A.W. Trivelpiece
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M167
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-167.pdf
+BibTeX citation:
+@techreport{Scharer:M167,
+Author= {Scharer, J.E. and Trivelpiece, A.W.},
+Title= {Cyclotron Wave Instabilties in a Plasma},
+Year= {1966},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28600.html},
+Number= {UCB/ERL M167},
+}
+EndNote citation:
+%0 Report
+%A Scharer, J.E.
+%A Trivelpiece, A.W.
+%T Cyclotron Wave Instabilties in a Plasma
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M167
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28600.html
+%F Scharer:M167

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29224.html
+A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range
+A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range
+E. Polak and Y. Wardi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/41
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-41.pdf
+BibTeX citation:
+@techreport{Polak:M80/41,
+Author = {Polak, E. and Wardi, Y.},
+Title = {A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29224.html},
+Number = {UCB/ERL M80/41}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Wardi, Y.
+%T A Non-differentiable Optimization Algorithm for the Design of Control Systems Subject to Singular Value Inequalities Over a Frequency Range
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29224.html
+%F Polak:M80/41

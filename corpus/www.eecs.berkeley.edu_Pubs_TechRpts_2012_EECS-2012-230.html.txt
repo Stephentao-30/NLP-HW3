@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-230.html
+Private Media Search on Public Databases
+Giulia Fanti
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-230
+December 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-230.pdf
+Automated media classification techniques like speech processing and face recognition are becoming increasingly commonplace and sophisticated. While such tools can add great value to the public sphere, media searches often process sensitive information, leading to a potential breach of client privacy. Thus, there is great potential for applications involving privacy-preserving searches on public databases like Google Images, Flickr, or ``Wanted Persons" directories put forth by various police agencies. The objective of this thesis is to argue that private media searches masking the client's query from the server are both important and practically feasible. The main contributions include an audio search tool that uses private queries to identify a noisy sound clip from a database without giving the database information about the query. The proposed scheme is shown to have computation and communication costs that are sublinear in database size. An important message of this work is that good private search schemes will typically require special algorithms that are designed for the private domain. To that end, some techniques used in the private audio search tool are generalized to adapt nearest-neighbor searches to the private domain. The resulting private nearest-neighbor algorithm is demonstrated in the context of a privacy-preserving face recognition tool.
+Advisors:  Kannan Ramchandran
+BibTeX citation:
+@mastersthesis{Fanti:EECS-2012-230,
+Author= {Fanti, Giulia},
+Title= {Private Media Search on Public Databases},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-230.html},
+Number= {UCB/EECS-2012-230},
+Abstract= {Automated media classification techniques like speech processing and face recognition are becoming increasingly commonplace and sophisticated. While such tools can add great value to the public sphere, media searches often process sensitive information, leading to a potential breach of client privacy. Thus, there is great potential for applications involving privacy-preserving searches on public databases like Google Images, Flickr, or ``Wanted Persons" directories put forth by various police agencies. The objective of this thesis is to argue that private media searches masking the client's query from the server are both important and practically feasible. The main contributions include an audio search tool that uses private queries to identify a noisy sound clip from a database without giving the database information about the query. The proposed scheme is shown to have computation and communication costs that are sublinear in database size. An important message of this work is that good private search schemes will typically require special algorithms that are designed for the private domain. To that end, some techniques used in the private audio search tool are generalized to adapt nearest-neighbor searches to the private domain. The resulting private nearest-neighbor algorithm is demonstrated in the context of a privacy-preserving face recognition tool.},
+}
+EndNote citation:
+%0 Thesis
+%A Fanti, Giulia
+%T Private Media Search on Public Databases
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 10
+%@ UCB/EECS-2012-230
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-230.html
+%F Fanti:EECS-2012-230

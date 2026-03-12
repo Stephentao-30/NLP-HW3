@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-112.html
+Fantasktic: Improving Quality of Results for Novice Crowdsourcing Users
+Philipp Gutheim and Björn Hartmann
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-112
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-112.pdf
+Crowdsourcing platforms such as Amazon’s Mechanical Turk and MobileWorks offer great potential for users to solve computationally difficult problems with human agents. However, the quality of crowdsourcing responses is directly tied to the task description. Creating high-quality tasks today requires significant expertise, which prevents novice users from receiving reasonable results without iterating multiple times over their description. This paper asks the following research question: How can automated task design techniques help novice users create better tasks and receive higher quality responses from the crowd? We investigate this question by introducing “Fantasktic”, a system to explore how to better support end users in creating successful crowdsourcing tasks. Fantasktic introduces three major task design techniques: 1) a guided task specification interface that provides guidelines and recommendations to end users throughout the process, 2) a preview interface that presents users their task from the perspective of an agent, and 3) an automated way to generate task tutorials for agents based on sample answers provided by end users. Our evaluation investigates the impact of each of these techniques on result quality by comparing their performance with one another and against expert task specifications taken from a business which crowdsouces these tasks on MobileWorks. We tested two common crowdsourcing tasks, digitizing business cards and contact email address search on websites, with ten users who had no prior crowdsourcing experience. We generated a total of 8800 tasks based the users instructions which we submitted to a crowdsourcing platform where they were completed by 440 unique agents. We find a significant improvement for instructions based on the guided task interface which show a reduced variation of answer formats and a more frequent agreement on answers among agents. We do not find evidence for significant improvements of instructions for the task preview and the agent tutorials. Although expert tasks still perform comparably better, we show that novice users can receive higher quality results when being supported by a guided task specification interface.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Gutheim:EECS-2012-112,
+Author= {Gutheim, Philipp and Hartmann, Björn},
+Title= {Fantasktic: Improving Quality of Results for Novice Crowdsourcing Users},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-112.html},
+Number= {UCB/EECS-2012-112},
+Abstract= {Crowdsourcing platforms such as Amazon’s Mechanical Turk and MobileWorks offer great potential for users to solve computationally difficult problems with human agents. However, the quality of crowdsourcing responses is directly tied to the task description. Creating high-quality tasks today requires significant expertise, which prevents novice users from receiving reasonable results without iterating multiple times over their description. This paper asks the following research question: How can automated task design techniques help novice users create better tasks and receive higher quality responses from the crowd? We investigate this question by introducing “Fantasktic”, a system to explore how to better support end users in creating successful crowdsourcing tasks. Fantasktic introduces three major task design techniques: 1) a guided task specification interface that provides guidelines and recommendations to end users throughout the process, 2) a preview interface that presents users their task from the perspective of an agent, and 3) an automated way to generate task tutorials for agents based on sample answers provided by end users. Our evaluation investigates the impact of each of these techniques on result quality by comparing their performance with one another and against expert task specifications taken from a business which crowdsouces these tasks on MobileWorks. We tested two common crowdsourcing tasks, digitizing business cards and contact email address search on websites, with ten users who had no prior crowdsourcing experience. We generated a total of 8800 tasks based the users instructions which we submitted to a crowdsourcing platform where they were completed by 440 unique agents. We find a significant improvement for instructions based on the guided task interface which show a reduced variation of answer formats and a more frequent agreement on answers among agents. We do not find evidence for significant improvements of instructions for the task preview and the agent tutorials. Although expert tasks still perform comparably better, we show that novice users can receive higher quality results when being supported by a guided task specification interface.},
+}
+EndNote citation:
+%0 Thesis
+%A Gutheim, Philipp
+%A Hartmann, Björn
+%T Fantasktic: Improving Quality of Results for Novice Crowdsourcing Users
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-112
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-112.html
+%F Gutheim:EECS-2012-112

@@ -1,0 +1,14 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/parlett.html
+Beresford N. Parlett: Faculty Home Page
+Larger Photo
+Beresford N. Parlett
+Professor Emeritus
+Biography
+Born in London in 1932, Parlett received his bachelor’s degree in mathematics from the University of Oxford in 1955, then moved to Stanford University for graduate school in 1958. There, he earned his Ph.D. in mathematics in 1962 under George Forsythe. Parlett joined the UC Berkeley faculty in 1965 and became a central figure in the expansion of computer science on campus. In 1967, he was named the inaugural chair of the newly formed Department of Computer Science in the College of Letters and Science. He later served as a key bridge during the eventual merger that created the EECS department as it stands today, now shared between the College of Engineering and the College of Computing, Data Science, and Society. His research made monumental contributions to numerical linear algebra, particularly the symmetric eigenvalue problem. Parlett was a leader in the search for the "Holy Grail" of matrix eigenvalue computation—an algorithm with O(n) time complexity—a quest that led to the development of the MRRR algorithm by his student, Inderjit Dhillon. His 1980 book, The Symmetric Eigenvalue Problem, remains a definitive text in the field. His work continues to impact modern computing; for example, the LAPACK routines contributed by Parlett and his students are still utilized today for eigenvalue calculations in the Julia programming language. Beyond his research, Parlett was known throughout the department for his wry sense of humor. His colleague, Richard Karp, fondly recalls Parlett’s unique "words to live by": “If it's not worth doing, it's not worth doing well.” Parlett retired in 1994 but remained an admired member of the campus community. His legacy lives on through his groundbreaking algorithms, his influential textbooks, and the generations of students he mentored. Beresford Parlett passed away on February 7, 2026.
+W. M. Kahan, B. N. Parlett, and E. Jiang, " Residual bounds on approximate eigensystems of nonnormal matrices ,"  SIAM J. Numerical Analysis , vol. 19, no. 3, pp. 470-484, June 1982.
+Society for Industrial & Applied Mathematics (SIAM) Fellow ,
+2011
+Hans Schneider Prize ,
+2010
+SIAM Activity Group Linear Algebra Best Paper Prize ,
+2006

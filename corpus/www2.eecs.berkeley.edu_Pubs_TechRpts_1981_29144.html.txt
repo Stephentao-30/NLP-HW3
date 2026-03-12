@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29144.html
+The Partial Order Dimension Problem is NP-Complete
+E.L. Lawler and O. Vornberger
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/46
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-46.pdf
+BibTeX citation:
+@techreport{Lawler:M81/46,
+Author= {Lawler, E.L. and Vornberger, O.},
+Title= {The Partial Order Dimension Problem is NP-Complete},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29144.html},
+Number= {UCB/ERL M81/46},
+}
+EndNote citation:
+%0 Report
+%A Lawler, E.L.
+%A Vornberger, O.
+%T The Partial Order Dimension Problem is NP-Complete
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/46
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29144.html
+%F Lawler:M81/46

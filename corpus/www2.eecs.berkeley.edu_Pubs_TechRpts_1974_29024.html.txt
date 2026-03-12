@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29024.html
+Prefix Precedence Grammar | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Prefix Precedence Grammar
+Prefix Precedence Grammar
+Jeff Nee Yang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M451
+July 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-451.pdf
+BibTeX citation:
+@techreport{Yang:M451,
+Author = {Yang, Jeff Nee},
+Title = {Prefix Precedence Grammar},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29024.html},
+Number = {UCB/ERL M451}
+}
+EndNote citation:
+%0 Report
+%A Yang, Jeff Nee
+%T Prefix Precedence Grammar
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M451
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29024.html
+%F Yang:M451

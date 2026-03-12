@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/simit-brand-new-language-more-efficient-simulations
+Simit: a brand new language for more efficient simulations - EECS at Berkeley
+Incoming CS Assistant Professor Jonathan Ragan-Kelley, alumnus Shoaib Kamil (Ph.D. CS 2012 under Profs. Armando Fox and Kathy Yelick) and alumnus Wojciech Matusik (B.S. EECS 1997), along with other researchers at MIT CSAIL, Adobe, U. of Toronto, Texas A&M, and U. of Texas have developed Simit,  a  programming language that can speed up computer simulations 200-fold or reduce the code they require by 90 percent.
+The language has applications outside simulations, and there are even plans for it to augment machine learning, data analytics, optimization and robotics in addition to a version of Google’s PageRank algorithm.
+Categories
+Alumni
+Faculty
+Research
+View
+Open Faculty Positions

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28767.html
+Augmentation Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Augmentation Problem
+Augmentation Problem
+Kapali P. Eswaran and R. Endre Tarjan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M441
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-441.pdf
+BibTeX citation:
+@techreport{Eswaran:M441,
+Author = {Eswaran, Kapali P. and Tarjan, R. Endre},
+Title = {Augmentation Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28767.html},
+Number = {UCB/ERL M441}
+}
+EndNote citation:
+%0 Report
+%A Eswaran, Kapali P.
+%A Tarjan, R. Endre
+%T Augmentation Problem
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M441
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28767.html
+%F Eswaran:M441

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29162.html
+A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems
+A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems
+R. Trahan and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/75
+September 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-75.pdf
+BibTeX citation:
+@techreport{Trahan:M78/75,
+Author = {Trahan, R. and Polak, E.},
+Title = {A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29162.html},
+Number = {UCB/ERL M78/75}
+}
+EndNote citation:
+%0 Report
+%A Trahan, R.
+%A Polak, E.
+%T A Derivative-Free Algorithm for a Class of Infinitely Constrained Problems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/75
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29162.html
+%F Trahan:M78/75

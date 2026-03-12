@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-66.html
+Economics and Computation: Ad Auctions and Other Stories
+Christopher Wilkens
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-66
+May 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-66.pdf
+There is a growing research tradition in the interface between Economics and Computer Science:  Economic insights and questions about incentives inform the design of systems, while concepts from the theory of computation help illuminate classical Economics problems.  This dissertation presents results in both directions of the intellectual exchange.
+Originally designed by industry engineers, the sponsored search auction has raised many interesting questions and spurred much research in auction design. For example, early auctions were based on a first-price payment model and proved to be highly unstable --- this dissertation explores how improvements in the bidding language could restore stability. We also show that a first-price auction offers substantially better performance guarantees when a single advertiser may benefit from multiple ads. Another interesting problem arises because sponsored search auctions must operate with limited information about a user's behavior --- we show how sampling can maintain incentive compatibility even when the auctioneer incorrectly predicts the user's behavior.
+Computational tools also offer novel ways to understand the limits of complex economic systems. For example, a fundamental observation in this intellectual exchange is that people cannot be expected to solve computationally intractable problems. We show that this insight engenders a new form of stability we call complexity equilibria: when production has economies of scale, markets may be stable because finding a good deviation is computationally intractable. We also use techniques from communication complexity to show that equilibrium prices, even when they exist, may need to encode an impractical amount of information to guarantee that a market clears.
+Advisors:  Christos Papadimitriou
+BibTeX citation:
+@phdthesis{Wilkens:EECS-2013-66,
+Author= {Wilkens, Christopher},
+Title= {Economics and Computation: Ad Auctions and Other Stories},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-66.html},
+Number= {UCB/EECS-2013-66},
+Abstract= {There is a growing research tradition in the interface between Economics and Computer Science:  Economic insights and questions about incentives inform the design of systems, while concepts from the theory of computation help illuminate classical Economics problems.  This dissertation presents results in both directions of the intellectual exchange.
+Originally designed by industry engineers, the sponsored search auction has raised many interesting questions and spurred much research in auction design. For example, early auctions were based on a first-price payment model and proved to be highly unstable --- this dissertation explores how improvements in the bidding language could restore stability. We also show that a first-price auction offers substantially better performance guarantees when a single advertiser may benefit from multiple ads. Another interesting problem arises because sponsored search auctions must operate with limited information about a user's behavior --- we show how sampling can maintain incentive compatibility even when the auctioneer incorrectly predicts the user's behavior.
+Computational tools also offer novel ways to understand the limits of complex economic systems. For example, a fundamental observation in this intellectual exchange is that people cannot be expected to solve computationally intractable problems. We show that this insight engenders a new form of stability we call complexity equilibria: when production has economies of scale, markets may be stable because finding a good deviation is computationally intractable. We also use techniques from communication complexity to show that equilibrium prices, even when they exist, may need to encode an impractical amount of information to guarantee that a market clears.},
+}
+EndNote citation:
+%0 Thesis
+%A Wilkens, Christopher
+%T Economics and Computation: Ad Auctions and Other Stories
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 15
+%@ UCB/EECS-2013-66
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-66.html
+%F Wilkens:EECS-2013-66

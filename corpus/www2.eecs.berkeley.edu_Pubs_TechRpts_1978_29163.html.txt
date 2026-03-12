@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29163.html
+On the Finite Solution of Nonlinear Inequalities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Finite Solution of Nonlinear Inequalities
+On the Finite Solution of Nonlinear Inequalities
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/80
+September 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-80.pdf
+BibTeX citation:
+@techreport{Polak:M78/80,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {On the Finite Solution of Nonlinear Inequalities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29163.html},
+Number = {UCB/ERL M78/80}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T On the Finite Solution of Nonlinear Inequalities
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/80
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29163.html
+%F Polak:M78/80

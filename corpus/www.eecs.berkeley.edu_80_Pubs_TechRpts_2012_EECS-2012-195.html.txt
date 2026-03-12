@@ -1,0 +1,41 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-195.html
+Using Mobile Technology and Social Networking to Crowdsource Citizen Science
+Christine Robson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-195
+September 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-195.pdf
+This dissertation explores the application of computer science methodologies, techniques, and technologies to citizen science. Citizen science can be broadly defined as scientific research performed in part or in whole by volunteers who are not professional scientists. Such projects are increasingly making use of mobile and Internet technologies and social networking systems to collect or categorize data, and to coordinate efforts with other participants.
+The dissertation focuses on observations and experiences from the design, deployment, and testing of a citizen science project, Creek Watch. Creek Watch is a collaboration between an HCI research group and a government agency. The project allows anyone with an iPhone to submit photos and observations of their local waterways to authorities who use the data for water management, environmental programs, and cleanup events.
+The first version of Creek Watch was designed by a user-centered iterative design method, in collaboration with scientists who need data on waterways. As a result, the data collected by Creek Watch is useful to scientists and water authorities, while the App is usable by untrained novices. Users of Creek Watch submit reports on their local creek, stream, or other water body that include simple observations about water level, water flow rate, and trash. Observations are automatically time stamped and GPS tagged. Reports are submitted to a database at creekwatch.org, where scientists and members of the public alike can view reports and download data.
+The deployment of Creek Watch provided several lessons in the launch of an international citizen science mobile App. Subsequent versions of the iPhone App solved emergent problems with data quality by providing international translations, an instructional walk-through, and a confirmation screen for first-time submissions.
+This dissertation further examines how social networks can be used for recruitment and promotion of a crowdsourced citizen science project and compares this recruiting method to the use of traditional media channels. Results are presented from a series of campaigns to promote Creek Watch, including a press release with news pickups, a participation campaign through local organizations, and a social networking campaign through Facebook and Twitter. This dissertation also presents results from the trial of a feature that allows users to post Creek Watch reports automatically to Facebook or Twitter.
+Social networking was a worthwhile avenue for increasing awareness of the project, which increased the conversion rate from browsers to participants. The Facebook and Twitter campaign increased participation and was a better recruitment strategy than the participation campaign. However, targeting existing communities resulted in the largest increase in data submissions.
+Advisors:  Marti Hearst
+BibTeX citation:
+@phdthesis{Robson:EECS-2012-195,
+Author= {Robson, Christine},
+Title= {Using Mobile Technology and Social Networking to Crowdsource Citizen Science},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-195.html},
+Number= {UCB/EECS-2012-195},
+Abstract= {This dissertation explores the application of computer science methodologies, techniques, and technologies to citizen science. Citizen science can be broadly defined as scientific research performed in part or in whole by volunteers who are not professional scientists. Such projects are increasingly making use of mobile and Internet technologies and social networking systems to collect or categorize data, and to coordinate efforts with other participants.
+The dissertation focuses on observations and experiences from the design, deployment, and testing of a citizen science project, Creek Watch. Creek Watch is a collaboration between an HCI research group and a government agency. The project allows anyone with an iPhone to submit photos and observations of their local waterways to authorities who use the data for water management, environmental programs, and cleanup events.
+The first version of Creek Watch was designed by a user-centered iterative design method, in collaboration with scientists who need data on waterways. As a result, the data collected by Creek Watch is useful to scientists and water authorities, while the App is usable by untrained novices. Users of Creek Watch submit reports on their local creek, stream, or other water body that include simple observations about water level, water flow rate, and trash. Observations are automatically time stamped and GPS tagged. Reports are submitted to a database at creekwatch.org, where scientists and members of the public alike can view reports and download data.
+The deployment of Creek Watch provided several lessons in the launch of an international citizen science mobile App. Subsequent versions of the iPhone App solved emergent problems with data quality by providing international translations, an instructional walk-through, and a confirmation screen for first-time submissions.
+This dissertation further examines how social networks can be used for recruitment and promotion of a crowdsourced citizen science project and compares this recruiting method to the use of traditional media channels. Results are presented from a series of campaigns to promote Creek Watch, including a press release with news pickups, a participation campaign through local organizations, and a social networking campaign through Facebook and Twitter. This dissertation also presents results from the trial of a feature that allows users to post Creek Watch reports automatically to Facebook or Twitter.
+Social networking was a worthwhile avenue for increasing awareness of the project, which increased the conversion rate from browsers to participants. The Facebook and Twitter campaign increased participation and was a better recruitment strategy than the participation campaign. However, targeting existing communities resulted in the largest increase in data submissions.},
+}
+EndNote citation:
+%0 Thesis
+%A Robson, Christine
+%T Using Mobile Technology and Social Networking to Crowdsource Citizen Science
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 September 11
+%@ UCB/EECS-2012-195
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-195.html
+%F Robson:EECS-2012-195

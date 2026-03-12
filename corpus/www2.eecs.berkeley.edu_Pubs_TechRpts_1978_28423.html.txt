@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28423.html
+The Construction and Evaluation of Fuzzy Models | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Construction and Evaluation of Fuzzy Models
+The Construction and Evaluation of Fuzzy Models
+R.M. Tong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/18
+November 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-79-18.pdf
+BibTeX citation:
+@techreport{Tong:M79/18,
+Author = {Tong, R.M.},
+Title = {The Construction and Evaluation of Fuzzy Models},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28423.html},
+Number = {UCB/ERL M79/18}
+}
+EndNote citation:
+%0 Report
+%A Tong, R.M.
+%T The Construction and Evaluation of Fuzzy Models
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M79/18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28423.html
+%F Tong:M79/18

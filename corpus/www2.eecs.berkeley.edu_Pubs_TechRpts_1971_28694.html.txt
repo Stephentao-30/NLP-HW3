@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28694.html
+A Sparse Matrix Method For Analysis of Piecewise-Linear Resistive Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Sparse Matrix Method For Analysis of Piecewise-Linear Resistive Networks
+A Sparse Matrix Method For Analysis of Piecewise-Linear Resistive Networks
+T. Fujisawa, E.S. Kuh and T. Ohtsuki
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M316
+December 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-316.pdf
+BibTeX citation:
+@techreport{Fujisawa:M316,
+Author = {Fujisawa, T. and Kuh, E.S. and Ohtsuki, T.},
+Title = {A Sparse Matrix Method For Analysis of Piecewise-Linear Resistive Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28694.html},
+Number = {UCB/ERL M316}
+}
+EndNote citation:
+%0 Report
+%A Fujisawa, T.
+%A Kuh, E.S.
+%A Ohtsuki, T.
+%T A Sparse Matrix Method For Analysis of Piecewise-Linear Resistive Networks
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M316
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28694.html
+%F Fujisawa:M316

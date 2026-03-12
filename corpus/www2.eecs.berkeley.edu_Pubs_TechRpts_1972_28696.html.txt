@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28696.html
+A System-Theoretic View of Behavior Modification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A System-Theoretic View of Behavior Modification
+A System-Theoretic View of Behavior Modification
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M320
+January 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-320.pdf
+BibTeX citation:
+@techreport{Zadeh:M320,
+Author = {Zadeh, L.A.},
+Title = {A System-Theoretic View of Behavior Modification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28696.html},
+Number = {UCB/ERL M320}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T A System-Theoretic View of Behavior Modification
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M320
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28696.html
+%F Zadeh:M320

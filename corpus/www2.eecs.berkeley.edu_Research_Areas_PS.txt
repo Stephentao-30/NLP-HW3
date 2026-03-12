@@ -1,0 +1,72 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/PS
+Programming Systems (PS)
+Overview
+Many major projects carried out by the group in the past have had a big impact. UNIX. The PASCAL compiler was built here. Split C, a parallel version of C was done here. CCured, secure C, was done here. GPROF: profiling software.
+Topics
+Programming Language Design and Implementation:
+Compiler optimization. Semantics.  JIT compilers. Domain-specific languages.
+Programming Environments and Tools:
+Monitoring.  Programmer search engines. Model-based design.
+Program Analysis and Verification:
+Model checking. Static and dynamic analysis. Theorem proving. Schedulability analysis for real-time systems.
+Software design, synthesis, and testing:
+Software design for parallel computing; for embedded systems; for numerical computing; for symbolic computing; for distributed computing. Software Testing.  Sketching-based synthesis.
+Research Centers
+EPIC Data lab
+Sky Computing Lab
+Faculty
+Primary
+Sarah Chasins
+Alvin Cheung
+Armando Fox
+Jiantao Jiao
+Koushik Sen
+Sanjit A. Seshia
+Max Willsey
+Katherine A. Yelick  (coordinator)
+Secondary
+Aydin Buluç
+David E. Culler
+Richard J. Fateman
+Susan L. Graham
+Björn Hartmann
+Paul N. Hilfinger
+Rishabh Iyer
+Edward A. Lee
+Michael Lustig
+Pierluigi Nuzzo
+Dawn Song
+Faculty Awards
+MacArthur Fellow:
+Dawn Song, 2010.
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Engineering (NAE) Member:
+Katherine A. Yelick, 2017.
+David E. Culler, 2005.
+Susan L. Graham, 1993.
+American Academy of Arts and Sciences Member:
+Dawn Song, 2025.
+Katherine A. Yelick, 2017.
+Susan L. Graham, 1995.
+Berkeley Citation:
+David E. Culler, 2021.
+Edward A. Lee, 2018.
+Susan L. Graham, 2009.
+Sloan Research Fellow:
+Sarah Chasins, 2026.
+Alvin Cheung, 2019.
+Björn Hartmann, 2013.
+Michael Lustig, 2013.
+Koushik Sen, 2011.
+Sanjit A. Seshia, 2008.
+Dawn Song, 2007.
+Related Courses
+CS 61A. The Structure and Interpretation of Computer Programs
+CS 61B. Data Structures
+CS 164. Programming Languages and Compilers
+CS 169. Software Engineering
+CS 263. Design of Programming Languages
+CS 264. Implementation of Programming Languages
+CS 265. Compiler Optimization and Code Generation
+CS C267. Applications of Parallel Computers

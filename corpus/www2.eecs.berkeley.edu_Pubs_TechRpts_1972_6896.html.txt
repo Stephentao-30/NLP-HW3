@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/6896.html
+Computer Learning from English Text | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Learning from English Text
+Computer Learning from English Text
+Nagib A. Badre
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M372
+December 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-372.pdf
+Advisor:  Lotfi A. Zadeh and L. Stephen Coles
+BibTeX citation:
+@phdthesis{Badre:M372,
+Author = {Badre, Nagib A.},
+Title = {Computer Learning from English Text},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/6896.html},
+Number = {UCB/ERL M372}
+}
+EndNote citation:
+%0 Thesis
+%A Badre, Nagib A.
+%T Computer Learning from English Text
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M372
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/6896.html
+%F Badre:M372

@@ -1,0 +1,89 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/katz.html
+Randy H. Katz: Faculty Home Page
+Larger Photo
+Randy H. Katz
+Professor Emeritus
+Contact Information
+751 Soda Hall
+tel:  510-642-8778
+fax:  510-643-7352
+randy@cs.berkeley.edu
+Office Hours
+By appointment. Contact iaortega657@eecs.berkeley.edu
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Damon Hinson
+damonh@berkeley.edu
+Biography
+Katz was born in Brooklyn, New York. He was first exposed to computers in his high school's well equipped laboratory. Katz received an A.B. from Cornell University (May 1976), where he was a Cornell College Scholar majoring in Computer Science and Mathematics, an M.S. from UC Berkeley (June 1978), under the direction of Larry Rowe, and a Ph.D., from UC Berkeley (June 1980), under the direction of Eugene Wong. He was a member of the Ingres Database Project. After a postdoctoral year in industry, Katz was an Assistant Professor in the Computer Sciences Department at the University of Wisconsin-Madison from 1981 to 1983. In 1983, he joined the Electrical Engineering and Computer Science Department at the University of California, Berkeley. He was promoted to Associate Professor in 1985 and Full Professor in 1988. He was appointed the United Microelectronics Corporation Distinguished Professor in EECS in 1996. From 1996 to 1999, he served as Chair of the EECS Department, the first computer scientist to do so. In 2015, he served as Chair of the Department's Computer Science Division. In 2018, he was appointed Berkeley's Vice Chancellor for Research. He has supervised 52 Ph.D. dissertations and 59 M.S. theses. Along with David A. Patterson and Garth Gibson, he developed the redundant array of inexpensive disks (RAID) concept for computer storage in their 1988 SIGMOD Conference paper. He also led the effort to connect the Whitehouse to the Internet in 1994. He retired from the university in December 2021. Katz is a fellow of the Association for Computing Machinery (ACM), Institute of Electrical and Electronics Engineers (IEEE), the American Academy of Arts and Sciences (AAAS), and the American Association for the Advancement of Science (AAAS). He is also a member of the National Academy of Engineering (2000) for "contributions to high-performance input/output systems, engineering education, and government service". He has published over 350 refereed technical papers, book chapters, and books. His textbook, Contemporary Logic Design, has sold over 85,000 copies, and has been used at over 200 colleges and universities. His academic recognitions include the Computer Science Division's Diane S. McEntyre Award for Excellence in Teaching Award, the Jim and Donna Gray Faculty Award for Excellence in Undergraduate Teaching, the Berkeley Academic Senate Distinguished Teaching Award, the ASEE Frederic E. Terman Award, the IEEE James H. Mulligan Jr. Education Medal, the ACM Karl V. Karlstrom Outstanding Educator Award, the ACM Sigmobile Outstanding Contributor Award, the IEEE Reynolds Johnson Information Storage Award, the Outstanding Alumni Award of the Computer Science Division, the CRA Distinguished Service Award, the United States Department of the Air Force Decoration for Exceptional Civilian Service, and the Pingat Bakti Masyarakat of the Government of Singapore.
+Education
+1980, PhD, Computer Science, UC Berkeley
+1978, MS, Computer Science, UC Berkeley
+1976, AB, Computer Science & Math, Cornell University
+Research Areas
+Computer Architecture & Engineering (ARC)
+Operating Systems & Networking (OSNT)
+Distributed and networked systems design and implementation
+I. Stoica, D. Song, R. A. Popa, D. A. Patterson, M. W. Mahoney, R. H. Katz, A. D. Joseph, M. Jordan, J. M. Hellerstein, J. Gonzalez, K. Goldberg, A. Ghodsi, D. E. Culler, and P. Abbeel, " A Berkeley View of Systems Challenges for AI ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2017-159, Oct. 2017.
+S. Alspaugh, B. Chen, J. Lin, A. Ganapathi, M. Hearst, and R. H. Katz, "Best Student Paper Award: Analyzing log analysis: an empirical study of user log mining," in  USENIX Conference on Large Installation System Administration (LISA) , 2014.
+C. Reiss, A. Tumanov, G. R. Ganger, R. H. Katz, and M. A. Kozuch, "Test of Time Award: Heterogeneity and dynamicity of clouds at scale: Google trace analysis," in  Proceedings of the Third ACM Symposium on Cloud Computing , 2012, pp. 7.
+B. Hindman, A. Konwinski, M. Zaharia, A. Ghodsi, A. D. Joseph, R. H. Katz, S. Shenker, and I. Stoica, " Test of Time Award: Mesos: Flexible Resource Sharing for the Cloud ,"  ;login: , vol. 36, no. 4, pp. 37-45, Aug. 2011.
+M. Armbrust, A. Fox, R. Griffith, A. D. Joseph, R. H. Katz, A. Konwinski, G. Lee, D. A. Patterson, A. Rabkin, I. Stoica, and M. Zaharia, " Above the Clouds: A Berkeley View of Cloud Computing ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2009-28, Feb. 2009.
+R. Fonseca, G. Porter, R. H. Katz, S. Shenker, and I. Stoica, " Test of Time Award: X-Trace: A pervasive network tracing framework ," in  Proc. 4th USENIX Symp. on Networked Systems Design & Implementation (NSDI 2007) , Berkeley, CA: USENIX Association, 2007, pp. 271-284.
+F. Yu, R. H. Katz, and T. V. Lakshman, " Best Paper Award: Gigabit rate packet pattern-matching using TCAM ," in  Proc. 12th IEEE Intl. Conf. on Network Protocols (ICNP 2004) , Los Alamitos, CA: IEEE Computer Society, 2004, pp. 174-183.
+F. Yu and R. H. Katz, " Best Paper Award: Efficient multi-match packet classification with TCAM ," in  Hot Interconnects 12: Proc. Annual IEEE Symp. on High Performance Interconnects , Los Alamitos, CA: IEEE Computer Society, 2004, pp. 28-34.
+Z. M. Mao and R. H. Katz, " Best Student Paper Award: A framework for universal service access using device ensemble ," in  Proc. 4th Grace Hopper Celebration of Women in Computing , Palo Alto, CA: Institute for Women and Technology, 2002, pp. 5 pg.
+R. H. Katz, " Landmark 10 Article: Adaptation and mobility in wireless information systems ,"  IEEE Communications Magazine: 50th Anniversary Issue , vol. 40, no. 5, pp. 102-114, May 2002.
+S. D. Gribble, M. Welsh, R. von Behren, E. Brewer, D. E. Culler, N. Borisov, S. Czerwinski, R. Gummadi, J. Hill, A. D. Joseph, R. H. Katz, Z. M. Mao, S. Ross, and B. Zhao, " Recipient of Computer Networks' Best Article of the Year Award: The Ninja architecture for robust internet-scale systems and services (Invited Paper) ,"  Computer Networks: The Intl. J. Distributed Informatique (Special Issue on Pervasive Computing) , vol. 35, no. 4, pp. 473-497, March 2001.
+E. Amir, S. McCanne, and R. H. Katz, " Best Paper Award: An active service framework and its application to real-time multimedia transcoding ," in  Proc. ACM SIGCOMM 1998 Conf. on Applications, Technologies, Architectures, and Protocols for Computer Communication (SIGCOMM '98) , M. Steenstrup, Ed., New York, NY: The Association for Computing Machinery, Inc., 1998, pp. 178-189.
+E. Amir, S. McCanne, and R. H. Katz, " Best Paper Award: Receiver-driven bandwidth adaptation for light-weight sessions ," in  Proc. 5th ACM Intl. Conf. on Multimedia (MULTIMEDIA '97) , New York, NY: The Association for Computing Machinery, Inc., 1997, pp. 415-426.
+A. Mehrotra, S. Qadeer, R. K. Ranjan, and R. H. Katz, " Best Paper Award: Benchmarking and analysis of architectures for CAD applications ," in  Proc. 1997 Intl. Conf. on Computer Design: VLSI in Computers & Processors (ICCD '97) , Los Alamitos, CA: IEEE Computer Society, 1997, pp. 670-675.
+T. D. Hodes, R. H. Katz, E. Servan-Schreiber, and L. A. Rowe, " Best Paper Award: Composable ad-hoc mobile services for universal interaction ," in  Proc. 3rd Annual ACM/IEEE Intl. Conf. on Mobile Computing and Networking (MOBICOM '97) , New York, NY: The Association for Computing Machinery, Inc., 1997, pp. 1-12.
+H. Balakrishnan, S. Seshan, E. Amir, and R. H. Katz, " Best Paper Award: Improving TCP/IP performance over wireless networks ," in  Proc. ACM 1st Annual Intl. Conf. on Mobile Computing and Networking (MOBICOM '95) , New York, NY: The Association for Computing Machinery, Inc., 1995, pp. 2-11.
+R. H. Katz,  Contemporary Logic Design , Redwood City, CA: Benjamin-Cummings Publishing Co., 1994.
+R. H. Katz, D. W. Gordon, and J. A. Tuttle, " Best Paper Award: Storage system metrics for evaluating disk array organizations ," in  Proc. U.S. Decus Symposia , Marlboro, MA: Digital Equipment Corporation User Society, 1991.
+D. A. Patterson, G. Gibson, and R. H. Katz, " Triple Test of Time Award: A case for Redundant Arrays of Inexpensive Disks (RAID) ," in  Proc. 1988 ACM SIGMOD Intl. Conf. on Management of Data (SIGMOD '88) , H. Boral and P. Larson, Eds., New York, NY: The Association for Computing Machinery, Inc., 1988, pp. 109-116.
+R. H. Katz, M. Anwarrudin, and E. Chang, " Best Paper and Best Presentation Awards: A version server for computer-aided design data ," in  Proc. 23rd ACM/IEEE Conf. on Design Automation (DAC '86) , Los Alamitos, CA: IEEE Computer Society, 1986, pp. 27-33.
+Berkeley Citation ,
+2026
+Silicon Valley Engineering Hall of Fame ,
+2018
+Jim and Donna Gray Award for Excellence in Undergraduate Teaching of Computer Science ,
+2012
+American Association for the Advancement of Science (AAAS) Fellow ,
+2011
+ACM SIGOPS Hall of Fame Award ,
+2011
+IEEE James H. Mulligan Jr. Education Medal ,
+2010
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2008
+ACM SIGMOBILE Outstanding Contribution Award ,
+2002
+National Academy of Engineering (NAE) Member ,
+2000
+Frederick Emmons Terman Award of the Electrical and Computer Engineering Division ,
+1999
+Tau Beta Pi Eminent Engineer ,
+1999
+IEEE Reynold B. Johnson Information Storage Systems Award ,
+1999
+Karl V. Karlstrom Outstanding Educator Award ,
+1999
+ACM SIGMOD Test of Time Award ,
+1999
+Association for Computing Machinery (ACM) Fellow ,
+1995
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1995
+CRA Distinguished Service Award ,
+1995
+UC Berkeley Distinguished Teaching Award ,
+1992
+American Academy of Arts and Sciences Member ,
+1990
+NSF Presidential Young Investigator (PYI) ,
+1984

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29304.html
+Two Special Cases of the Assignment Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Two Special Cases of the Assignment Problem
+Two Special Cases of the Assignment Problem
+Richard M. Karp and Shuo-Yen R. Li
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M429
+March 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-429.pdf
+BibTeX citation:
+@techreport{Karp:M429,
+Author = {Karp, Richard M. and Li, Shuo-Yen R.},
+Title = {Two Special Cases of the Assignment Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29304.html},
+Number = {UCB/ERL M429}
+}
+EndNote citation:
+%0 Report
+%A Karp, Richard M.
+%A Li, Shuo-Yen R.
+%T Two Special Cases of the Assignment Problem
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M429
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/29304.html
+%F Karp:M429

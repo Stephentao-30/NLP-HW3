@@ -1,0 +1,16 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EE42
+Course: EE42 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EE42
+EE 42. Introduction to Digital Electronics
+Catalog Description:  This course serves as an introduction to the principles of electrical engineering, starting from the basic concepts of voltage and current and circuit elements of resistors, capacitors, and inductors. Circuit analysis is taught using Kirchhoff's voltage and current laws with Thevenin and Norton equivalents. Operational amplifiers with feedback are introduced as basic building blocks for amplication and filtering. Semiconductor devices including diodes and MOSFETS and their IV characteristics are covered. Applications of diodes for rectification, and design of MOSFETs in common source amplifiers are taught. Digital logic gates and design using CMOS as well as simple flip-flops are introduced. Speed and scaling issues for CMOS are considered. The course includes as motivating examples designs of high level applications including logic circuits, amplifiers, power supplies, and communication links.
+Units:  3.0
+Prerequisites:  Mathematics 1B.
+Credit Restrictions:  Students will receive no credit for 42 after taking 40 or 100.
+Class homepage on inst.eecs
+General Catalog listing
+Related Areas:
+Integrated Circuits (INC)

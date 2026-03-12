@@ -1,0 +1,19 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-11.html
+An Architecture for and Fast and General Data Processing on Large Clusters | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Architecture for and Fast and General Data Processing on Large Clusters
+An Architecture for and Fast and General Data Processing on Large Clusters
+THIS REPORT HAS BEEN WITHDRAWN
+Matei Zaharia
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-11
+January 31, 2014
+The past few years have seen a major change in computing systems, as growing data volumes and stalling processor speeds require more and more applications to scale out to distributed systems. Today, a myriad data sources, from the Internet to business operations to scientific instruments, produce large and valuable data streams. However, the processing capabilities of single machines have not kept up with the size of data, making it harder and harder to put to use. As a result, a growing number of organizations---not just web companies, but traditional enterprises and research labs---need to scale out their most important computations to clusters of hundreds of machines.
+At the same time, the speed and sophistication required of data processing have grown. In addition to simple queries, complex algorithms like machine learning and graph analysis are becoming common in many domains. And in addition to batch processing, streaming analysis of new real-time data sources is required to let organizations take timely action. Future computing platforms will need to not only scale out traditional workloads, but support these new applications as well.
+This dissertation proposes an architecture for cluster computing systems that can tackle emerging data processing workloads while coping with larger and larger scales. Whereas early cluster computing systems, like MapReduce, handled batch processing, our architecture also enables streaming and interactive queries, while keeping the scalability and fault tolerance of previous systems. And whereas most deployed systems only support simple one-pass computations (e.g. aggregation or SQL queries), ours also extends to the multi-pass algorithms required for more complex analytics (e.g. iterative algorithms for machine learning). Finally, unlike the specialized systems proposed for some of these workloads, our architecture allows these computations to be combined, enabling rich new applications that intermix, for example, streaming and batch processing, or SQL and complex analytics.
+We achieve these results through a simple extension to MapReduce that adds primitives for data sharing, called Resilient Distributed Datasets (RDDs). We show that this is enough to efficiently capture a wide range of workloads. We implement RDDs in the open source Spark system, which we evaluate using both synthetic benchmarks and real user applications. Spark matches or exceeds the performance of specialized systems in many application domains, while offering stronger fault tolerance guarantees and allowing these workloads to be combined. We explore the generality of RDDs from both a theoretical modeling perspective and a practical perspective to see why this extension can capture a wide range of previously disparate workloads.
+Advisor:  Scott Shenker and Ion Stoica

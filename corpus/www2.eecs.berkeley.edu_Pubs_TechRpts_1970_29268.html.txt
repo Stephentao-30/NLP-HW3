@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29268.html
+Efficient Implementations of the Polak-Ribiere Conjugate Gradient Algorithm | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Efficient Implementations of the Polak-Ribiere Conjugate Gradient Algorithm
+Efficient Implementations of the Polak-Ribiere Conjugate Gradient Algorithm
+R. Klessig and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M279
+August 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-279.pdf
+BibTeX citation:
+@techreport{Klessig:M279,
+Author = {Klessig, R. and Polak, E.},
+Title = {Efficient Implementations of the Polak-Ribiere Conjugate Gradient Algorithm},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29268.html},
+Number = {UCB/ERL M279}
+}
+EndNote citation:
+%0 Report
+%A Klessig, R.
+%A Polak, E.
+%T Efficient Implementations of the Polak-Ribiere Conjugate Gradient Algorithm
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M279
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/29268.html
+%F Klessig:M279

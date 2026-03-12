@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29318.html
+Costs of Data Encipherment on Computers of Varying Power | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Costs of Data Encipherment on Computers of Varying Power
+Costs of Data Encipherment on Computers of Varying Power
+James Jatczynski
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M493
+January 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-493.pdf
+BibTeX citation:
+@techreport{Jatczynski:M493,
+Author = {Jatczynski, James},
+Title = {Costs of Data Encipherment on Computers of Varying Power},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29318.html},
+Number = {UCB/ERL M493}
+}
+EndNote citation:
+%0 Report
+%A Jatczynski, James
+%T Costs of Data Encipherment on Computers of Varying Power
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M493
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29318.html
+%F Jatczynski:M493

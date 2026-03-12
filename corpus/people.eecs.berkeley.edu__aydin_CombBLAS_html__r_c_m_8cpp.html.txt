@@ -1,0 +1,183 @@
+URL: https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/_r_c_m_8cpp.html
+COMBINATORIAL_BLAS: Ordering/RCM.cpp File Reference
+COMBINATORIAL_BLAS
+1.6
+Classes  |
+Macros  |
+Typedefs  |
+Functions  |
+Variables
+RCM.cpp File Reference
+#include " CombBLAS/CombBLAS.h "
+#include <mpi.h>
+#include <sys/time.h>
+#include <iostream>
+#include <functional>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <sstream>
+Go to the source code of this file.
+Classes
+struct     VertexType
+struct     SelectMinSR
+Macros
+#define    EDGEFACTOR    16
+Typedefs
+typedef  SpParMat <  int64_t , bool,  SpDCCols <  int64_t , bool > >    Par_DCSC_Bool
+typedef  SpParMat <  int64_t ,  int64_t ,  SpDCCols <  int64_t ,  int64_t  > >    Par_DCSC_int64_t
+typedef  SpParMat <  int64_t , double,  SpDCCols <  int64_t , double > >    Par_DCSC_Double
+typedef  SpParMat <  int64_t , bool,  SpCCols <  int64_t , bool > >    Par_CSC_Bool
+Functions
+template<typename PARMAT >
+void    Symmetricize  (PARMAT & A )
+FullyDistSpVec <  int64_t ,  int64_t  >    getOrder  ( FullyDistSpVec <  int64_t ,  VertexType  > &fringeRow,  int64_t  startLabel,  int64_t  endLabel)
+template<typename PARMAT >
+void    RCMOrder  (PARMAT & A ,  int64_t  source,  FullyDistVec <  int64_t ,  int64_t  > &order,  int64_t  startOrder,  FullyDistVec <  int64_t ,  int64_t  > degrees,  PreAllocatedSPA <  int64_t  > &SPA)
+template<typename PARMAT >
+int64_t     PseudoPeripheralVertex  (PARMAT & A ,  FullyDistSpVec <  int64_t , pair<  int64_t ,  int64_t  >> &unvisitedVertices,  FullyDistVec <  int64_t ,  int64_t  > degrees,  PreAllocatedSPA <  int64_t  > &SPA)
+template<typename PARMAT >
+FullyDistVec <  int64_t ,  int64_t  >    RCM  (PARMAT & A ,  FullyDistVec <  int64_t ,  int64_t  > degrees,  PreAllocatedSPA <  int64_t  > &SPA)
+int    main  (int argc, char *argv[])
+Variables
+MTRand     GlobalMT
+double    cblas_alltoalltime
+double    cblas_allgathertime
+double    cblas_localspmvtime
+double    cblas_mergeconttime
+double    cblas_transvectime
+int    threads
+int    processors
+string    base_filename
+double    torderSpMV  =0
+double    torderSort  =0
+double    torderOther  =0
+Macro Definition Documentation
+◆  EDGEFACTOR
+#define EDGEFACTOR   16
+Definition at line  19  of file  RCM.cpp .
+Typedef Documentation
+◆  Par_CSC_Bool
+typedef  SpParMat <  int64_t , bool,  SpCCols < int64_t ,bool> >  Par_CSC_Bool
+Definition at line  122  of file  RCM.cpp .
+◆  Par_DCSC_Bool
+typedef  SpParMat <  int64_t , bool,  SpDCCols < int64_t ,bool> >  Par_DCSC_Bool
+Definition at line  119  of file  RCM.cpp .
+◆  Par_DCSC_Double
+typedef  SpParMat <  int64_t , double,  SpDCCols < int64_t , double> >  Par_DCSC_Double
+Definition at line  121  of file  RCM.cpp .
+◆  Par_DCSC_int64_t
+typedef  SpParMat <  int64_t ,  int64_t ,  SpDCCols < int64_t ,  int64_t > >  Par_DCSC_int64_t
+Definition at line  120  of file  RCM.cpp .
+Function Documentation
+◆  getOrder()
+FullyDistSpVec < int64_t ,  int64_t > getOrder
+(
+FullyDistSpVec <  int64_t ,  VertexType  > &
+fringeRow ,
+int64_t
+startLabel ,
+int64_t
+endLabel
+)
+Definition at line  127  of file  RCM.cpp .
+◆  main()
+int main
+(
+int
+argc ,
+char *
+argv []
+)
+Definition at line  610  of file  RCM.cpp .
+◆  PseudoPeripheralVertex()
+template<typename PARMAT >
+int64_t  PseudoPeripheralVertex
+(
+PARMAT &
+A ,
+FullyDistSpVec <  int64_t , pair<  int64_t ,  int64_t  >> &
+unvisitedVertices ,
+FullyDistVec <  int64_t ,  int64_t  >
+degrees ,
+PreAllocatedSPA <  int64_t  > &
+SPA
+)
+Definition at line  390  of file  RCM.cpp .
+◆  RCM()
+template<typename PARMAT >
+FullyDistVec < int64_t ,  int64_t > RCM
+(
+PARMAT &
+A ,
+FullyDistVec <  int64_t ,  int64_t  >
+degrees ,
+PreAllocatedSPA <  int64_t  > &
+SPA
+)
+Definition at line  480  of file  RCM.cpp .
+◆  RCMOrder()
+template<typename PARMAT >
+void RCMOrder
+(
+PARMAT &
+A ,
+int64_t
+source ,
+FullyDistVec <  int64_t ,  int64_t  > &
+order ,
+int64_t
+startOrder ,
+FullyDistVec <  int64_t ,  int64_t  >
+degrees ,
+PreAllocatedSPA <  int64_t  > &
+SPA
+)
+Definition at line  332  of file  RCM.cpp .
+◆  Symmetricize()
+template<typename PARMAT >
+void Symmetricize
+(
+PARMAT &
+A   )
+Definition at line  47  of file  RCM.cpp .
+Variable Documentation
+◆  base_filename
+string base_filename
+Definition at line  41  of file  RCM.cpp .
+◆  cblas_allgathertime
+double cblas_allgathertime
+Definition at line  28  of file  RCM.cpp .
+◆  cblas_alltoalltime
+double cblas_alltoalltime
+Definition at line  27  of file  RCM.cpp .
+◆  cblas_localspmvtime
+double cblas_localspmvtime
+Definition at line  29  of file  RCM.cpp .
+◆  cblas_mergeconttime
+double cblas_mergeconttime
+Definition at line  30  of file  RCM.cpp .
+◆  cblas_transvectime
+double cblas_transvectime
+Definition at line  31  of file  RCM.cpp .
+◆  GlobalMT
+MTRand  GlobalMT
+Definition at line  24  of file  RCM.cpp .
+◆  processors
+int processors
+Definition at line  40  of file  RCM.cpp .
+◆  threads
+int threads
+Definition at line  40  of file  RCM.cpp .
+◆  torderOther
+double torderOther =0
+Definition at line  329  of file  RCM.cpp .
+◆  torderSort
+double torderSort =0
+Definition at line  329  of file  RCM.cpp .
+◆  torderSpMV
+double torderSpMV =0
+Definition at line  329  of file  RCM.cpp .
+Ordering   RCM.cpp
+Generated by
+1.8.13

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28689.html
+The k-Factor Conjecture is True | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The k-Factor Conjecture is True
+The k-Factor Conjecture is True
+Sukhamay Kundu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M308
+August 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-308.pdf
+BibTeX citation:
+@techreport{Kundu:M308,
+Author = {Kundu, Sukhamay},
+Title = {The k-Factor Conjecture is True},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28689.html},
+Number = {UCB/ERL M308}
+}
+EndNote citation:
+%0 Report
+%A Kundu, Sukhamay
+%T The k-Factor Conjecture is True
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M308
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28689.html
+%F Kundu:M308

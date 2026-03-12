@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28513.html
+Designing a Database for Ingres | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Designing a Database for Ingres
+Designing a Database for Ingres
+Lorna E. DuMont
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/23
+February 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-23.pdf
+BibTeX citation:
+@techreport{DuMont:M82/23,
+Author = {DuMont, Lorna E.},
+Title = {Designing a Database for Ingres},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28513.html},
+Number = {UCB/ERL M82/23}
+}
+EndNote citation:
+%0 Report
+%A DuMont, Lorna E.
+%T Designing a Database for Ingres
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/23
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28513.html
+%F DuMont:M82/23

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29087.html
+Existence of Saddle Points in Differential Games | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Existence of Saddle Points in Differential Games
+Existence of Saddle Points in Differential Games
+P. Varaiya and J. Lin
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M241
+February 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-241.pdf
+BibTeX citation:
+@techreport{Varaiya:M241,
+Author = {Varaiya, P. and Lin, J.},
+Title = {Existence of Saddle Points in Differential Games},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29087.html},
+Number = {UCB/ERL M241}
+}
+EndNote citation:
+%0 Report
+%A Varaiya, P.
+%A Lin, J.
+%T Existence of Saddle Points in Differential Games
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M241
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29087.html
+%F Varaiya:M241

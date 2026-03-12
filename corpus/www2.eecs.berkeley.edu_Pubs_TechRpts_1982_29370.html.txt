@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29370.html
+Document Processing in a Relational Data Base System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Document Processing in a Relational Data Base System
+Document Processing in a Relational Data Base System
+Michael Stonebraker, Heidi Stettner, Joseph Kalash, Antonin Guttman and Nadene Lynn
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/32
+May 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-32.pdf
+BibTeX citation:
+@techreport{Stonebraker:M82/32,
+Author = {Stonebraker, Michael and Stettner, Heidi and Kalash, Joseph and Guttman, Antonin and Lynn, Nadene},
+Title = {Document Processing in a Relational Data Base System},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29370.html},
+Number = {UCB/ERL M82/32}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%A Stettner, Heidi
+%A Kalash, Joseph
+%A Guttman, Antonin
+%A Lynn, Nadene
+%T Document Processing in a Relational Data Base System
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29370.html
+%F Stonebraker:M82/32

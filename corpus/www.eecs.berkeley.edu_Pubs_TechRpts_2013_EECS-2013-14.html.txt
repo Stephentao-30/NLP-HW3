@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-14.html
+Enabling Advanced Environmental Conditioning with a Building Application Stack
+Jay Taneja and Andrew Krioukov and Stephen Dawson-Haggerty and David E. Culler
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-14
+February 28,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-14.pdf
+Buildings are an important venue in which to apply information technology to increase sustainability. There is enormous potential for building-focused applications, both for classical uses like modeling or fault detection as well as innovative ones like occupant-driven control or grid-aware energy management. However, existing building control systems suffer from antiquated, architectures that hinder application development by siloing valuable sensing data, limiting extensibility via custom designs, and perpetuating arcane and inconsistent naming schemes. To address these deficiencies, a new architecture is emerging to enable application development for buildings by democratizing sensor data, constructing a framework for reliable, fault-tolerant operation of applications, and establishing an application programming interface for encouraging portability throughout the building stock. In this paper, we show that this building application stack enables advanced environmental conditioning applications. We observe the growing importance of applications that integrate sensors and actuators from the building infrastructure with those from ``add-on'' networks, and show how this design pattern is further empowered by the architecture. To prove the efficacy of the approach, we implement two advanced environmental conditioning applications on a large, commercial building that was not designed for either of them: a demand-controlled ventilation (DCV) system for balancing air quality considerations and energy use in conference and class room settings and a demand-controlled filtration (DCF) system for conserving recirculating fan energy in an intermittently occupied cleanroom setting. The DCV application is able to reduce air quality threshold violations by over 95% and concurrently reduce energy consumption by over 80%, while the DCF application can reduce recirculating fan power consumption by half with no repercussions on air quality when the room is occupied. Further, the portability of these applications highlights the potential of the architecture to enable widespread and rapid application development throughout the building stock.
+BibTeX citation:
+@techreport{Taneja:EECS-2013-14,
+Author= {Taneja, Jay and Krioukov, Andrew and Dawson-Haggerty, Stephen and Culler, David E.},
+Title= {Enabling Advanced Environmental Conditioning with a Building Application Stack},
+Year= {2013},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-14.html},
+Number= {UCB/EECS-2013-14},
+Abstract= {Buildings are an important venue in which to apply information technology to increase sustainability. There is enormous potential for building-focused applications, both for classical uses like modeling or fault detection as well as innovative ones like occupant-driven control or grid-aware energy management. However, existing building control systems suffer from antiquated, architectures that hinder application development by siloing valuable sensing data, limiting extensibility via custom designs, and perpetuating arcane and inconsistent naming schemes. To address these deficiencies, a new architecture is emerging to enable application development for buildings by democratizing sensor data, constructing a framework for reliable, fault-tolerant operation of applications, and establishing an application programming interface for encouraging portability throughout the building stock. In this paper, we show that this building application stack enables advanced environmental conditioning applications. We observe the growing importance of applications that integrate sensors and actuators from the building infrastructure with those from ``add-on'' networks, and show how this design pattern is further empowered by the architecture. To prove the efficacy of the approach, we implement two advanced environmental conditioning applications on a large, commercial building that was not designed for either of them: a demand-controlled ventilation (DCV) system for balancing air quality considerations and energy use in conference and class room settings and a demand-controlled filtration (DCF) system for conserving recirculating fan energy in an intermittently occupied cleanroom setting. The DCV application is able to reduce air quality threshold violations by over 95% and concurrently reduce energy consumption by over 80%, while the DCF application can reduce recirculating fan power consumption by half with no repercussions on air quality when the room is occupied. Further, the portability of these applications highlights the potential of the architecture to enable widespread and rapid application development throughout the building stock.},
+}
+EndNote citation:
+%0 Report
+%A Taneja, Jay
+%A Krioukov, Andrew
+%A Dawson-Haggerty, Stephen
+%A Culler, David E.
+%T Enabling Advanced Environmental Conditioning with a Building Application Stack
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 February 28
+%@ UCB/EECS-2013-14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-14.html
+%F Taneja:EECS-2013-14

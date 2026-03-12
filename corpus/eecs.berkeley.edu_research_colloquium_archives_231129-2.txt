@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/231129-2
+Causal Representation Learning and Optimal Intervention Design - EECS at Berkeley
+Causal Representation Learning and Optimal Intervention Design
+EECS Colloquium
+Wednesday, November 29, 2023
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Caroline Uhler
+Professor
+Institute for Data, Systems, and Society
+MIT EECS
+Caroline Uhler speaks on "Causal Representation Learning and Optimal Intervention Design," 11/29/23
+Abstract
+Massive data collection holds the promise of a better understanding of complex phenomena and ultimately, of better decisions. Representation learning has become a key driver of deep learning applications, since it allows learning latent spaces that capture important properties of the data without requiring any supervised annotations. While representation learning has been hugely successful in predictive tasks, it can fail miserably in causal tasks including predicting the effect of an intervention. This calls for a marriage between representation learning and causal inference. An exciting opportunity in this regard stems from the growing availability of interventional data (in medicine, advertisement, education, etc.). However, these datasets are still miniscule compared to the action spaces of interest in these applications (e.g. interventions can take on continuous values like the dose of a drug or can be combinatorial as in combinatorial drug therapies). In this talk, we will present initial ideas towards building a statistical and computational framework for causal representation learning and discuss its applications to optimal intervention design in the context of drug design and single-cell biology.
+Biography
+Caroline Uhler is a Full Professor in the Department of Electrical Engineering and Computer Science and the Institute for Data, Systems, and Society at MIT. In addition, she is a core institute member of the Broad Institute, where she co-directs the Eric and Wendy Schmidt Center. She holds an MSc in mathematics, a BSc in biology, and an MEd all from the University of Zurich. She obtained her Ph.D. in statistics from UC Berkeley in 2011 and then spent three years as an assistant professor at IST Austria before joining MIT in 2015. She is a SIAM Fellow, a Simons Investigator, a Sloan Research Fellow, and an elected member of the International Statistical Institute. In addition, she received an NIH New Innovator Award, an NSF Career Award, a Sofja Kovalevskaja Award from the Humboldt Foundation, and a START Award from the Austrian Science Foundation. Her research lies at the intersection of machine learning, statistics, and genomics, with a particular focus on causal inference, representation learning, and gene regulation.
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

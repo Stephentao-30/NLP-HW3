@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-60.html
+Software Synthesis for Distributed Embedded Systems
+Yang Yang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-60
+May 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-60.pdf
+The amount and complexity of software in embedded control systems is increasing rapidly. This factor, together with the wide use of distributed platforms and the tight design requirements, raises great challenges to software design and development in these systems. However, the current design practice is largely manual and ad-hoc, especially at the system level, which produces suboptimal and unreliable systems. In this dissertation, we propose a systematic software synthesis flow to address some of the pressing issues in software design, in particular the heterogenity of the design inputs, the complexity of the design space, and the semantic difference between the functional specification and the implementation platform.
+The flow consists of a front-end that translates heterogeneous input specification into a unified representation, and a back-end that conducts automatic design space exploration and code generation. We define an intermediate format (IF) as the unified representation, and develop translators from input models to IF and from IF to output code. We design algorithms to explore the design space during mapping from the functional specification to the architectural platform, with respect to design metrics such as cost, latency and extensibility. We also propose approaches to synthesize the communication interfaces between software tasks to guarantee the semantic equivalence of the distributed implementation with respect to the synchronous specification.
+The applicability of the synthesis flow is illustrated with case studies from the building automation and automotive domains. The results showed that the flow can be effectively applied to widely different applications in different domains.
+Advisors:  Alberto L. Sangiovanni-Vincentelli
+BibTeX citation:
+@phdthesis{Yang:EECS-2012-60,
+Author= {Yang, Yang},
+Title= {Software Synthesis for Distributed Embedded Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-60.html},
+Number= {UCB/EECS-2012-60},
+Abstract= {The amount and complexity of software in embedded control systems is increasing rapidly. This factor, together with the wide use of distributed platforms and the tight design requirements, raises great challenges to software design and development in these systems. However, the current design practice is largely manual and ad-hoc, especially at the system level, which produces suboptimal and unreliable systems. In this dissertation, we propose a systematic software synthesis flow to address some of the pressing issues in software design, in particular the heterogenity of the design inputs, the complexity of the design space, and the semantic difference between the functional specification and the implementation platform.
+The flow consists of a front-end that translates heterogeneous input specification into a unified representation, and a back-end that conducts automatic design space exploration and code generation. We define an intermediate format (IF) as the unified representation, and develop translators from input models to IF and from IF to output code. We design algorithms to explore the design space during mapping from the functional specification to the architectural platform, with respect to design metrics such as cost, latency and extensibility. We also propose approaches to synthesize the communication interfaces between software tasks to guarantee the semantic equivalence of the distributed implementation with respect to the synchronous specification.
+The applicability of the synthesis flow is illustrated with case studies from the building automation and automotive domains. The results showed that the flow can be effectively applied to widely different applications in different domains.},
+}
+EndNote citation:
+%0 Thesis
+%A Yang, Yang
+%T Software Synthesis for Distributed Embedded Systems
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 4
+%@ UCB/EECS-2012-60
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-60.html
+%F Yang:EECS-2012-60

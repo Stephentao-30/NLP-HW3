@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6941.html
+A Study of Limitations on the Characteristics of Network Functions | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Study of Limitations on the Characteristics of Network Functions
+A Study of Limitations on the Characteristics of Network Functions
+John D. Patterson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M14
+March 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-14.pdf
+Advisor:  Ernest S. Kuh
+BibTeX citation:
+@phdthesis{Patterson:M14,
+Author = {Patterson, John D.},
+Title = {A Study of Limitations on the Characteristics of Network Functions},
+School = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6941.html},
+Number = {UCB/ERL M14}
+}
+EndNote citation:
+%0 Thesis
+%A Patterson, John D.
+%T A Study of Limitations on the Characteristics of Network Functions
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/6941.html
+%F Patterson:M14

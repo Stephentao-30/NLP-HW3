@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-159.html
+Crowdsourced Rotoscoping
+Hanzhong Ye
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-159
+June 3,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-159.pdf
+Rotoscoping is a technology used to create a mask for an element on an image or a video so it may be composited over another background, which has been a slow, process-intensive and costly manual task, especially on mobile devices where the screen is smaller than traditional screens and thus the user interface is limited. Given the current state-of-the-art, people still cannot fully automate the process of
+rotoscoping by computer vision techniques. We solve this problem by leveraging the power of crowdsourcing, which refers to the act of sourcing tasks to a large group of people or a community online.
+Specifically, we design a system which consists of a client-side mobile application to collect photos and a server-side pipeline for crowdsourcing. The client-side mobile application provides a user interface for smart phone users to take, upload, manipulate and save their photos. The server-side automated pipeline is built on Amazon’s Mechanical Turk platform to generate masks from online crowd workers for pictures uploaded by application users. By connecting mobile devices to online crowd workers, our system manages to produce masks for different inputs and allows application users to generate various special effects using these masks. Experiments show that our system can produce acceptable results within reasonable waiting time. We finally make a discussion based on the experimental data and the user feedback collected from our user study for the mobile application.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Ye:EECS-2012-159,
+Author= {Ye, Hanzhong},
+Title= {Crowdsourced Rotoscoping},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-159.html},
+Number= {UCB/EECS-2012-159},
+Abstract= {Rotoscoping is a technology used to create a mask for an element on an image or a video so it may be composited over another background, which has been a slow, process-intensive and costly manual task, especially on mobile devices where the screen is smaller than traditional screens and thus the user interface is limited. Given the current state-of-the-art, people still cannot fully automate the process of
+rotoscoping by computer vision techniques. We solve this problem by leveraging the power of crowdsourcing, which refers to the act of sourcing tasks to a large group of people or a community online.
+Specifically, we design a system which consists of a client-side mobile application to collect photos and a server-side pipeline for crowdsourcing. The client-side mobile application provides a user interface for smart phone users to take, upload, manipulate and save their photos. The server-side automated pipeline is built on Amazon’s Mechanical Turk platform to generate masks from online crowd workers for pictures uploaded by application users. By connecting mobile devices to online crowd workers, our system manages to produce masks for different inputs and allows application users to generate various special effects using these masks. Experiments show that our system can produce acceptable results within reasonable waiting time. We finally make a discussion based on the experimental data and the user feedback collected from our user study for the mobile application.},
+}
+EndNote citation:
+%0 Thesis
+%A Ye, Hanzhong
+%T Crowdsourced Rotoscoping
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 3
+%@ UCB/EECS-2012-159
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-159.html
+%F Ye:EECS-2012-159

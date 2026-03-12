@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/6906.html
+Storage Structures for Relational Data Base Management Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Storage Structures for Relational Data Base Management Systems
+Storage Structures for Relational Data Base Management Systems
+Gerald D. Held
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M533
+August 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-533.pdf
+Advisor:  Michael R. Stonebraker
+BibTeX citation:
+@phdthesis{Held:M533,
+Author = {Held, Gerald D.},
+Title = {Storage Structures for Relational Data Base Management Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/6906.html},
+Number = {UCB/ERL M533}
+}
+EndNote citation:
+%0 Thesis
+%A Held, Gerald D.
+%T Storage Structures for Relational Data Base Management Systems
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M533
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/6906.html
+%F Held:M533

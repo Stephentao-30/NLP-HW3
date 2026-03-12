@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-172.html
+FlexPRET: A Processor Platform for Mixed-Criticality Systems
+Michael Zimmer and David Broman and Christopher Shaver and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-172
+October 23,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-172.pdf
+Mixed-criticality systems, in which multiple tasks of varying criticality are executed on a single hardware platform, are an emerging research area in real-time embedded systems. High-criticality tasks require spatial and temporal isolation guarantees, whereas low-criticality tasks should efficiently utilize hardware resources. Hardware-based isolation is desirable, but commonly underutilizes hardware resources, which can consist of multiple single-core, multicore, or multithreaded processors. We present FlexPRET, a processor designed specifically for mixed-criticality systems by allowing each task to make a trade-off between hardware-based isolation and efficient processor utilization. FlexPRET uses fine-grained multithreading with flexible scheduling and timing instructions to provide this functionality.
+BibTeX citation:
+@techreport{Zimmer:EECS-2013-172,
+Author= {Zimmer, Michael and Broman, David and Shaver, Christopher and Lee, Edward A.},
+Title= {FlexPRET: A Processor Platform for Mixed-Criticality Systems},
+Year= {2013},
+Month= {Oct},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-172.html},
+Number= {UCB/EECS-2013-172},
+Abstract= {Mixed-criticality systems, in which multiple tasks of varying criticality are executed on a single hardware platform, are an emerging research area in real-time embedded systems. High-criticality tasks require spatial and temporal isolation guarantees, whereas low-criticality tasks should efficiently utilize hardware resources. Hardware-based isolation is desirable, but commonly underutilizes hardware resources, which can consist of multiple single-core, multicore, or multithreaded processors. We present FlexPRET, a processor designed specifically for mixed-criticality systems by allowing each task to make a trade-off between hardware-based isolation and efficient processor utilization. FlexPRET uses fine-grained multithreading with flexible scheduling and timing instructions to provide this functionality.},
+}
+EndNote citation:
+%0 Report
+%A Zimmer, Michael
+%A Broman, David
+%A Shaver, Christopher
+%A Lee, Edward A.
+%T FlexPRET: A Processor Platform for Mixed-Criticality Systems
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 October 23
+%@ UCB/EECS-2013-172
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-172.html
+%F Zimmer:EECS-2013-172

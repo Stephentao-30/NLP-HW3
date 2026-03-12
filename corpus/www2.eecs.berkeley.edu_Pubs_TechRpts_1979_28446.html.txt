@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28446.html
+Approximate Solution for the Conversion of Decision Tables Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Approximate Solution for the Conversion of Decision Tables Problem
+Approximate Solution for the Conversion of Decision Tables Problem
+Malik Ghallab
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/60
+September 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-60.pdf
+BibTeX citation:
+@techreport{Ghallab:M79/60,
+Author = {Ghallab, Malik},
+Title = {Approximate Solution for the Conversion of Decision Tables Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28446.html},
+Number = {UCB/ERL M79/60}
+}
+EndNote citation:
+%0 Report
+%A Ghallab, Malik
+%T Approximate Solution for the Conversion of Decision Tables Problem
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/60
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28446.html
+%F Ghallab:M79/60

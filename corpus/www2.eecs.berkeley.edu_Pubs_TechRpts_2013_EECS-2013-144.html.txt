@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-144.html
+Nanomaterials processing toward large-scale flexible/stretchable electronics
+Toshitake Takahashi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-144
+August 13,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-144.pdf
+BibTeX citation:
+@techreport{Takahashi:EECS-2013-144,
+Author= {Takahashi, Toshitake},
+Title= {Nanomaterials processing toward large-scale flexible/stretchable electronics},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-144.html},
+Number= {UCB/EECS-2013-144},
+}
+EndNote citation:
+%0 Report
+%A Takahashi, Toshitake
+%T Nanomaterials processing toward large-scale flexible/stretchable electronics
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 13
+%@ UCB/EECS-2013-144
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-144.html
+%F Takahashi:EECS-2013-144

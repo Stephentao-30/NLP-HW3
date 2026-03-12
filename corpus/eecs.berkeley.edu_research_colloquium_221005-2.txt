@@ -1,0 +1,29 @@
+URL: https://eecs.berkeley.edu/research/colloquium/221005-2
+When should we make our models continuous in time? - EECS at Berkeley
+When should we make our models continuous in time?
+EECS Colloquium
+Wednesday, October 5, 2022
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+David Duvenaud
+Associate Professor
+Computer Science and Statistics
+University of Toronto
+David Duvenaud speaks on "When should we make our models continuous in time?" (10/05/22)
+Abstract
+The world is a continuous-time latent variable model, which makes such models a natural fit for all kinds of messy scientific data that comes at irregular intervals, such as patient records or astronomical observations.  It has recently become more practical to use more sophisticated versions of such models, by using neural networks to aid in approximate inference.  But practical use of such models is still in its infancy, partly because differential equation solvers can be slow compared to discrete-time models.
+In this talk, I’ll give an introduction to continuous-time latent variable models, specifically neural stochastic differential equations, and show an application to astrophysics.  I’ll also show recent advances in training and inference in such models that allow them to “learn to be fast”, such as:
+A) The ability to tune dynamics to be easy to simulate,
+B) The ability to “skip the boring details”, and ignore the quickly-mixing parts of a system, and
+C) A family of variational posteriors over trajectories can give asymptotically zero-variance gradients.
+Finally, I’ll sketch connections between these ideas and heuristics already used in large-scale weather simulations, and outline an approach for replacing those heuristics with adaptive and end-to-end-tuned approximations.
+Biography
+David Duvenaud is an Associate Professor in Computer Science and Statistics at the University of Toronto. He holds a Sloan Research Fellowship, a Canada Research Chair in Generative Models, and a CIFAR AI chair.  His research focuses on continuous-time models, approximate inference, and deep learning.  His postdoc was done at Harvard University, working mainly on convolutional networks for graphs.  He did his Ph.D. at the University of Cambridge, working mainly on Bayesian nonparametrics.  His undergraduate degree is from the University of Manitoba.  David also co-founded Invenia, an energy forecasting company, and is a Founding Member of the Vector Institute for Artificial Intelligence.
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

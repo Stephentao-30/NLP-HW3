@@ -1,0 +1,21 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS171
+Course: CS171 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS171
+CS 171. Cryptography
+Catalog Description:  Cryptography or cryptology is the science of designing algorithms and protocols for enabling parties to communicate and compute securely in an untrusted environment (e.g. secure communication, digital signature, etc.) Over the last four decades, cryptography has transformed from an ad hoc collection of mysterious tricks into a rigorous science based on firm complexity-theoretic foundations.  This modern complexity-theoretic approach to cryptography will be the focus. E.g., in the context of encryption we will begin by giving a precise mathematical definition for what it means to be a secure encryption scheme and then give a construction (realizing this security notion) assuming various computational hardness assumptions (e.g. factoring).
+Units:  4.0
+Prerequisites:  COMPSCI 70
+Formats:  Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2021):
+MoWe 1:00PM - 2:29PM, Internet/Online –
+Sanjam Garg
+Class homepage on inst.eecs
+General Catalog listing

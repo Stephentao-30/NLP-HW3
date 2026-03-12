@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28653.html
+Computer Studies of Temperature Compensation in Selective Amplifiers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Studies of Temperature Compensation in Selective Amplifiers
+Computer Studies of Temperature Compensation in Selective Amplifiers
+William J. McCalla
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M250
+June 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-250.pdf
+BibTeX citation:
+@techreport{McCalla:M250,
+Author = {McCalla, William J.},
+Title = {Computer Studies of Temperature Compensation in Selective Amplifiers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28653.html},
+Number = {UCB/ERL M250}
+}
+EndNote citation:
+%0 Report
+%A McCalla, William J.
+%T Computer Studies of Temperature Compensation in Selective Amplifiers
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M250
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/28653.html
+%F McCalla:M250

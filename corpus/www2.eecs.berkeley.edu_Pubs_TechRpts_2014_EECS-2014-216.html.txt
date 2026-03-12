@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-216.html
+High Quality Factor Lamb Wave Resonators | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+High Quality Factor Lamb Wave Resonators
+High Quality Factor Lamb Wave Resonators
+Jie Zou
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-216
+December 15, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-216.pdf
+The small-in-size and CMOS compatible micro-electromechanical system (MEMS) resonators are likely to be the driving core of a new generation of devices such as radio frequency (RF) filters and timing references. Thanks to the CMOS compatibility, ability of high frequencies, low motional impedances (Rm), small frequency-induced drifts, and capability of multiple frequencies operation on a single chip, the aluminum nitride (AlN) Lamb wave resonators have attracted attention among various micromechanical resonator technologies. The lowest-order symmetric (S0) Lamb wave mode in an AlN thin plate is particularly preferred because it exhibits high acoustic phase velocity, a low dispersive phase velocity characteristic, and a moderate electromechanical coupling coefficient. In this report, basic analysis of the Lamb waves propagating in AlN and the device design techniques are presented in detail. Then, a novel technique to enhance the quality factor (Q) of Lamb wave resonator by utilizing an AlN plate formed in a butterfly shape is investigated in this paper. In the conventional design, the Q’s of the micromachined Lamb wave resonators are largely harmed by the energy dissipation through the support tethers. The finite element analysis (FEA) simulation results show that the butterfly-shaped topology can efficiently change the displacement field in the AlN plate and reduce the vibration in the support tethers. The unloaded Q of the resonator is raised from 3,360 to 4,758 by simply using of the butterfly-shaped AlN plate with a tether-to-plate angle α = 59º, representing a 1.42× increase. The experimental Q’s are also in good agreement with the anchor loss Q’s computed using the PML-based FEA method.
+BibTeX citation:
+@techreport{Zou:EECS-2014-216,
+Author = {Zou, Jie},
+Title = {High Quality Factor Lamb Wave Resonators},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-216.html},
+Number = {UCB/EECS-2014-216},
+Abstract = {The small-in-size and CMOS compatible micro-electromechanical system (MEMS) resonators are likely to be the driving core of a new generation of devices such as radio frequency (RF) filters and timing references. Thanks to the CMOS compatibility, ability of high frequencies, low motional impedances (Rm), small frequency-induced drifts, and capability of multiple frequencies operation on a single chip, the aluminum nitride (AlN) Lamb wave resonators have attracted attention among various micromechanical resonator technologies. The lowest-order symmetric (S0) Lamb wave mode in an AlN thin plate is particularly preferred because it exhibits high acoustic phase velocity, a low dispersive phase velocity characteristic, and a moderate electromechanical coupling coefficient.
+In this report, basic analysis of the Lamb waves propagating in AlN and the device design techniques are presented in detail. Then, a novel technique to enhance the quality factor (Q) of Lamb wave resonator by utilizing an AlN plate formed in a butterfly shape is investigated in this paper. In the conventional design, the Q’s of the micromachined Lamb wave resonators are largely harmed by the energy dissipation through the support tethers. The finite element analysis (FEA) simulation results show that the butterfly-shaped topology can efficiently change the displacement field in the AlN plate and reduce the vibration in the support tethers. The unloaded Q of the resonator is raised from 3,360 to 4,758 by simply using of the butterfly-shaped AlN plate with a tether-to-plate angle α = 59º, representing a 1.42× increase. The experimental Q’s are also in good agreement with the anchor loss Q’s computed using the PML-based FEA method.}
+}
+EndNote citation:
+%0 Report
+%A Zou, Jie
+%T High Quality Factor Lamb Wave Resonators
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 15
+%@ UCB/EECS-2014-216
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-216.html
+%F Zou:EECS-2014-216

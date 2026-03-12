@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-138.html
+Eliciting Private Information from Selfish Agents
+Rafael Frongillo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-138
+August 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-138.pdf
+Ever since the Internet opened the floodgates to millions of users, each looking after their own interests, modern algorithm design has needed to be increasingly robust to strategic manipulation.  Often, it is the inputs to these algorithms which are provided by strategic agents, who may lie for their own benefit, necessitating the design of algorithms which incentivize the truthful revelation of private information -- but how can this be done?  This is a fundamental question with answers from many disciplines, from mechanism design to scoring rules and prediction markets.  Each domain has its own model with its own assumptions, yet all seek schemes to gather private information from selfish agents, by leveraging incentives.  Together, we refer to such models as elicitation.
+This dissertation unifies and advances the theory of incentivized information elicitation.  Using tools from convex analysis, we introduce a new model of elicitation with a matching characterization theorem which together encompass mechanism design, scoring rules, prediction markets, and other models.  This lays a firm foundation on which the rest of the dissertation is built.
+It is natural to consider a setting where agents report some alternate representation of their private information, called a property, rather than reporting it directly.  We extend our model and characterization to this setting, revealing even deeper ties to convex analysis and convex duality, and we use these connections to prove new results for linear, smooth nonlinear, and finite-valued properties.  Exploring the linear case further, we show a new four-fold equivalence between scoring rules, prediction markets, Bregman divergences, and generalized exponential families.
+Applied to mechanism design, our framework offers a new perspective.  By focusing on the (convex) consumer surplus function, we simplify a number of existing results, from the classic revenue equivalence theorem, to more recent characterizations of mechanism implementability.
+Finally, we follow a line of research on the interpretation of prediction markets, relating a new stochastic framework to the classic Walrasian equilibrium and to stochastic mirror descent, thereby strengthening ties between prediction markets and machine learning.
+Advisors:  Christos Papadimitriou
+BibTeX citation:
+@phdthesis{Frongillo:EECS-2013-138,
+Author= {Frongillo, Rafael},
+Title= {Eliciting Private Information from Selfish Agents},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-138.html},
+Number= {UCB/EECS-2013-138},
+Abstract= {Ever since the Internet opened the floodgates to millions of users, each looking after their own interests, modern algorithm design has needed to be increasingly robust to strategic manipulation.  Often, it is the inputs to these algorithms which are provided by strategic agents, who may lie for their own benefit, necessitating the design of algorithms which incentivize the truthful revelation of private information -- but how can this be done?  This is a fundamental question with answers from many disciplines, from mechanism design to scoring rules and prediction markets.  Each domain has its own model with its own assumptions, yet all seek schemes to gather private information from selfish agents, by leveraging incentives.  Together, we refer to such models as elicitation.
+This dissertation unifies and advances the theory of incentivized information elicitation.  Using tools from convex analysis, we introduce a new model of elicitation with a matching characterization theorem which together encompass mechanism design, scoring rules, prediction markets, and other models.  This lays a firm foundation on which the rest of the dissertation is built.
+It is natural to consider a setting where agents report some alternate representation of their private information, called a property, rather than reporting it directly.  We extend our model and characterization to this setting, revealing even deeper ties to convex analysis and convex duality, and we use these connections to prove new results for linear, smooth nonlinear, and finite-valued properties.  Exploring the linear case further, we show a new four-fold equivalence between scoring rules, prediction markets, Bregman divergences, and generalized exponential families.
+Applied to mechanism design, our framework offers a new perspective.  By focusing on the (convex) consumer surplus function, we simplify a number of existing results, from the classic revenue equivalence theorem, to more recent characterizations of mechanism implementability.
+Finally, we follow a line of research on the interpretation of prediction markets, relating a new stochastic framework to the classic Walrasian equilibrium and to stochastic mirror descent, thereby strengthening ties between prediction markets and machine learning.},
+}
+EndNote citation:
+%0 Thesis
+%A Frongillo, Rafael
+%T Eliciting Private Information from Selfish Agents
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 8
+%@ UCB/EECS-2013-138
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-138.html
+%F Frongillo:EECS-2013-138

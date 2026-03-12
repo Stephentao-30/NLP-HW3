@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28548.html
+On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis
+On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis
+C.L. DeMarco and A.R. Bergen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/88
+August 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-88.pdf
+BibTeX citation:
+@techreport{DeMarco:M82/88,
+Author = {DeMarco, C.L. and Bergen, A.R.},
+Title = {On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28548.html},
+Number = {UCB/ERL M82/88}
+}
+EndNote citation:
+%0 Report
+%A DeMarco, C.L.
+%A Bergen, A.R.
+%T On Locating Unstable Equilibrium Points for Power System Transient Stability Analysis
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/88
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28548.html
+%F DeMarco:M82/88

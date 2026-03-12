@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28937.html
+Analysis of the Symmetric Lanczos Process | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analysis of the Symmetric Lanczos Process
+Analysis of the Symmetric Lanczos Process
+David St. Clair Scott
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/40
+June 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-40.pdf
+BibTeX citation:
+@techreport{Scott:M78/40,
+Author = {Scott, David St. Clair},
+Title = {Analysis of the Symmetric Lanczos Process},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28937.html},
+Number = {UCB/ERL M78/40}
+}
+EndNote citation:
+%0 Report
+%A Scott, David St. Clair
+%T Analysis of the Symmetric Lanczos Process
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28937.html
+%F Scott:M78/40

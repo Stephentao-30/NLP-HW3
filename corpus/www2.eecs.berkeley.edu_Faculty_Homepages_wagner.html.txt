@@ -1,0 +1,74 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/wagner.html
+David Wagner: Faculty Home Page
+Larger Photo
+David Wagner
+Professor
+Contact Information
+733 Soda Hall
+tel:  510-642-2758
+daw@cs.berkeley.edu
+Office Hours
+Mondays, Wednesdays 2:30-3pm, 733/405 Soda
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Amy Frithsen
+frithsen@berkeley.edu
+Biography
+David Wagner earned an A. B. in Mathematics from Princeton, and M.S./Ph.D. degrees from UC Berkeley where he was advised by Eric Brewer.  His research interests include computer security, systems security, usable security, and program analysis for security. He has previously worked on security for wearable devices, smartphone security, software security, electronic voting, wireless security, sensor network security, and applied cryptography.  He has published two books and over 90 peer-reviewed scientific papers. Wagner is part of Berkeley's security research group. He was a PI for the Intel Science and Technology Center for Secure Computing and an active member of the TRUST and ACCURATE centers, is part of the Science of Security project.  His software includes: OpenCount, a tool to help with auditing of elections conducted using optical-scan paper ballots; Joe-E, a Java-based programming language for secure programming; html-sanitizer-testbed, a suite of tests to probe the security of a HTML sanitizer; and CQual++, a tool for type inference analysis of C and C++ code.  Wagner is a member of the U.S. Election Assistance Commission (EAC)'s Technical Guidelines Development Committee, tasked with assisting the EAC in drafting the Voluntary Voting System Guidelines. He was on the program committees of NDSS (2015, 2016), the WWW Security and Privacy track (2016), Usenix Security (2015), MObile Security Technologies (2015), and the Symposium On Usable Privacy and Security (2015). Wagner also served on the committee for the NSA Award for the Best Scientific Cybersecurity Paper, and on the editorial boards for CACM Research Highlights, and the Journal of Election Technology and Systems (JETS). He is a committed and active member of the open-access publication community.
+Education
+2000, Ph.D., Computer Science, UC Berkeley
+1999, M.S., Computer Science, UC Berkeley
+1995, A.B., Mathematics, Princeton University
+Research Areas
+Security (SEC)
+Teaching Schedule
+CS 261. Security in Computer Systems , MoWe 13:00-14:29, Soda 405
+L. Tsai, P. Wijesekera, J. Reardon, I. Reyes, J. Chen, N. Good, S. Egelman, and D. Wagner, " TurtleGuard: Helping Android Users Apply Contextual Privacy Preferences ," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2017-44, May 2017.
+C. Sturton, R. Sinha, T. Dang, S. Jain, M. McCoyd, W. Y. Tan, P. Maniatis, S. A. Seshia, and D. Wagner, "Symbolic Software Model Validation," in  Proceedings of the 10th ACM/IEEE International Conference on Formal Methods and Models for Codesign (MEMOCODE) , M. Roncken and J. Talpin, Eds., 2013.
+A. P. Felt, M. Finifter, J. Weinberger, and D. Wagner, "Diesel: Applying Privilege Separation to Database Access," in  ACM Symposium on Information, Computer and Communications Security , 2011.
+M. Finifter, A. Mettler, N. Sastry, and D. Wagner, " Verifiable Functional Purity in Java ," in  15th ACM Conference on Computer and Communications Security (CCS 2008) , 2008.
+D. Wagner, " Written testimony before the U.S. House of Representatives Committee on Oversight and Government Reform ," May 2007.
+D. Wagner, " Written testimony before the U.S. House of Representatives Committee on House Administration, Elections Subcommittee ," March 2007.
+K. Yee, D. Wagner, M. Hearst, and S. M. Bellovin, " Prerendered User Interfaces for Higher-Assurance Electronic Voting ," in  USENIX/ACCURATE Electronic Voting Technology Workshop , 2006.
+N. Sastry, T. Kohno, and D. Wagner, " Designing voting machines for verification ," in  Usenix Security 2006 , 2006.
+A. Cordero, D. Wagner, and D. Dill, " The Role of Dice in Election Audits -- Extended Abstract ," in  IAVoSS Workshop On Trustworthy Elections (WOTE 2006) , 2006.
+P. Hawthorne, B. Simons, C. Clifton, D. Wagner, S. Bellovin, R. Wright, A. Rosenthal, R. Spencer Poore, L. Coney, R. Gellman, and H. Hochheiser, " Statewide Databases of Registered Voters: Study Of Accuracy, Privacy, Usability, Security, and Reliability Issues ," Feb. 2006.
+D. Wagner, D. Jefferson, M. Bishop, C. Karlof, and N. Sastry, " Security Analysis of the Diebold AccuBasic Interpreter ," Feb. 2006.
+B. Schwarz, H. Chen, D. Wagner, G. Morrison, J. West, J. Lin, and W. Tu, " Model checking an entire Linux distribution for security violations ," in  Proc. 21st Annual Computer Security Applications Conf. , Los Alamitos, CA: IEEE Computer Society, 2005, pp. 13-22.
+A. Juels, D. Molnar, and D. Wagner, " Security and privacy issues in e-passports ," in  Proc. 1st Intl. Conf. on Security and Privacy for Emerging Areas in Communications Networks , Los Alamitos, CA: IEEE Computer Society, 2005, pp. 74-85.
+H. Chen, D. Wagner, and D. Dean, " Setuid demystified ," in  Proc. 11th USENIX Security Symp. , Berkeley, CA: USENIX Association, 2002, pp. 171-190.
+N. Borisov, I. Goldberg, and D. Wagner, " Intercepting mobile communications: The insecurity of 802.11 ," in  Proc. 7th Annual Intl. Conf. on Mobile Computing and Networking , New York, NY: ACM Press, 2001, pp. 180-189.
+D. Wagner, J. S. Foster, E. Brewer, and A. Aiken, " A first step towards automated detection of buffer overrun vulnerabilities ," in  Proc. Network and Distributed System Security Symp. , Reston, VA: Internet Society, 2000, pp. 15 pp..
+ACM SIGSAC Test of Time Award,
+2022
+IEEE Symposium on Security and Privacy Test of Time Award ,
+2020
+USENIX Test of Time Award ,
+2019
+Google Faculty Research Award ,
+2018
+Internet Defense Prize ,
+2017
+ACM SIGSAC Outstanding Innovation Award ,
+2016
+IBM Pat Goldberg Memorial Best Paper Award ,
+2008
+UC Berkeley Distinguished Teaching Award ,
+2006
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2004
+Sloan Research Fellow ,
+2003
+Jim and Donna Gray Award for Excellence in Undergraduate Teaching of Computer Science ,
+2003
+Brilliant 10 ,
+2002
+NSF Faculty Early Career Development Award (CAREER) ,
+2001
+ACM Doctoral Dissertation Award ,
+2001
+Okawa Research Grant ,
+2000

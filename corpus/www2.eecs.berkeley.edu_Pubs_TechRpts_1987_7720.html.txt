@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/7720.html
+Automation of the Maxam and Gilbert Phosphorous-32 Based DNA Sequencing Technique
+Thomas J. Conroy
+EECS Department, University of California, Berkeley
+1987
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Conroy:7720,
+Author= {Conroy, Thomas J.},
+Title= {Automation of the Maxam and Gilbert Phosphorous-32 Based DNA Sequencing Technique},
+School= {EECS Department, University of California, Berkeley},
+Year= {1987},
+}
+EndNote citation:
+%0 Thesis
+%A Conroy, Thomas J.
+%T Automation of the Maxam and Gilbert Phosphorous-32 Based DNA Sequencing Technique
+%I EECS Department, University of California, Berkeley
+%D 1987
+%F Conroy:7720

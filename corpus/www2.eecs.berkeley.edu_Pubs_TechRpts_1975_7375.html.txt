@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7375.html
+Analog-to-Digital Conversion in MOS Integrated Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analog-to-Digital Conversion in MOS Integrated Circuits
+Analog-to-Digital Conversion in MOS Integrated Circuits
+Ricardo E. Suárez-Gärtner
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M494
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-494.pdf
+Advisor:  Paul R. Gray
+BibTeX citation:
+@phdthesis{Suárez-Gärtner:M494,
+Author = {Suárez-Gärtner, Ricardo E.},
+Title = {Analog-to-Digital Conversion in MOS Integrated Circuits},
+School = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7375.html},
+Number = {UCB/ERL M494}
+}
+EndNote citation:
+%0 Thesis
+%A Suárez-Gärtner, Ricardo E.
+%T Analog-to-Digital Conversion in MOS Integrated Circuits
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M494
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/7375.html
+%F Suárez-Gärtner:M494

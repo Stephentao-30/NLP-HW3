@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29319.html
+A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits
+A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits
+L.O. Chua and A. Ushida
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M497
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-497.pdf
+BibTeX citation:
+@techreport{Chua:M497,
+Author = {Chua, L.O. and Ushida, A.},
+Title = {A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29319.html},
+Number = {UCB/ERL M497}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Ushida, A.
+%T A Switching-Parameter Algorithm for Finding Multiple Solutions of Nonlinear Resistive Circuits
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M497
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/29319.html
+%F Chua:M497

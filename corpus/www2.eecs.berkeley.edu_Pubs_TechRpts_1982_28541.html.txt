@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28541.html
+Synchronization and Chaos | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Synchronization and Chaos
+Synchronization and Chaos
+Y.S. Tang, A.I. Mees and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/70
+September 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-70.pdf
+BibTeX citation:
+@techreport{Tang:M82/70,
+Author = {Tang, Y.S. and Mees, A.I. and Chua, L.O.},
+Title = {Synchronization and Chaos},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28541.html},
+Number = {UCB/ERL M82/70}
+}
+EndNote citation:
+%0 Report
+%A Tang, Y.S.
+%A Mees, A.I.
+%A Chua, L.O.
+%T Synchronization and Chaos
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/70
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28541.html
+%F Tang:M82/70

@@ -1,0 +1,11 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-30.html
+Graph Expansion Analysis for Communication Costs of Fast Rectangular Matrix Multiplication
+THIS REPORT HAS BEEN WITHDRAWN
+Grey Ballard and James Demmel and Olga Holtz and Benjamin Lipshitz and Oded Schwartz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-30
+March 13, 2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2012-30.pdf
+Graph expansion analysis of computational DAGs is useful for obtaining communication cost lower bounds where previous methods, such as geometric embedding, are not applicable. This has recently been demonstrated for Strassen’s and Strassen-like fast square matrix multiplication algorithms. Here we extend the expansion analysis approach to fast algorithms for rectangular matrix multiplication, obtaining a new class of communication cost lower bounds. These apply, for example to the algorithms of Bini et al. (1979) and the algorithms of Hopcroft and Kerr (1971). Some of our bounds are proved to be optimal.
+Author Comments:  The updated version can be found here:
+http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-194.html

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-171.html
+Confluence Analysis for Distributed Programs: A Model-Theoretic Approach
+William Marczak and Peter Alvaro and Neil Conway and Joseph M. Hellerstein and David Maier
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-171
+June 29,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-171.pdf
+Abstract. Building on recent interest in distributed logic programming, we take a model-theoretic approach to analyzing confluence of asynchronous distributed programs. We begin with a model-theoretic semantics for Dedalus and introduce the ultimate model, which captures non-deterministic eventual outcomes of distributed programs. After showing the question of confluence undecidable for Dedalus, we identify restricted sub-languages that guarantee confluence while providing adequate expressivity. We observe that the semipositive restriction Dedalus+ guarantees confluence while capturing PTIME, but show that its restriction of negation makes certain simple and practical programs difficult to write. To remedy this, we introduce DedalusS, a restriction of Dedalus that allows a kind of stratified negation, but retains the confluence of Dedalus+ and similarly captures PTIME.
+BibTeX citation:
+@techreport{Marczak:EECS-2012-171,
+Author= {Marczak, William and Alvaro, Peter and Conway, Neil and Hellerstein, Joseph M. and Maier, David},
+Title= {Confluence Analysis for Distributed Programs: A Model-Theoretic Approach},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-171.html},
+Number= {UCB/EECS-2012-171},
+Abstract= {Abstract. Building on recent interest in distributed logic programming, we take a model-theoretic approach to analyzing confluence of asynchronous distributed programs. We begin with a model-theoretic semantics for Dedalus and introduce the ultimate model, which captures non-deterministic eventual outcomes of distributed programs. After showing the question of confluence undecidable for Dedalus, we identify restricted sub-languages that guarantee confluence while providing adequate expressivity. We observe that the semipositive restriction Dedalus+ guarantees confluence while capturing PTIME, but show that its restriction of negation makes certain simple and practical programs difficult to write. To remedy this, we introduce DedalusS, a restriction of Dedalus that allows a kind of stratified negation, but retains the confluence of Dedalus+ and similarly captures PTIME.},
+}
+EndNote citation:
+%0 Report
+%A Marczak, William
+%A Alvaro, Peter
+%A Conway, Neil
+%A Hellerstein, Joseph M.
+%A Maier, David
+%T Confluence Analysis for Distributed Programs: A Model-Theoretic Approach
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 29
+%@ UCB/EECS-2012-171
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-171.html
+%F Marczak:EECS-2012-171

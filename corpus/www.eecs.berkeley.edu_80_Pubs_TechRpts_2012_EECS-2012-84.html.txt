@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-84.html
+Organic and Printed Electronics for Biological Microfluidic Applications
+Lakshmi Jagannathan
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-84
+May 10,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-84.pdf
+Advances in research and technology are happening now more than ever in the biotechnology industry.  Efficient methods for biological processes and better detection and treatment methods are constantly being sought by researchers. Collaboration among different fields of science and technology has brought us one step closer towards achieving this goal in this work.  One such technology that has the capability of providing efficient methods and processes for biology is printed electronics.  Printed electronics is an attractive paradigm for realization of biological microfluidic systems. The large area of these systems makes printing valuable from a cost perspective.  Furthermore, since printing allows for easy integration of disparate materials on the same substrate through spatially-specific deposition, printed electronics is particularly useful for integration of diverse biological microfluidic functionality on the same substrate.
+While there have been instances of printed transistors and passive components, there have been no demonstrations to date of the critical components required for biological microfluidic applications or lab on a chip (LOC) devices.   In this work, for the first time, we present all-printed gold heaters, gold resistive temperature detectors, and electrostatically actuated PDMS microfluidic valves designed for biological microfluidic applications.  In addition, work on DNA sensors using printable organic (pentacene) thin film transistors (OTFTs) is also presented for use in LOC devices.
+Many biological applications require precise control and stability of temperature, which is demonstrated here through the integration of printed heaters and printed RTDs into a microchip bioprocessor system capable of polymerase chain reaction (PCR).   Flow rate measurements and dynamic characteristics of printed PDMS valves are also presented to demonstrate the effectiveness of these devices.   With the 440m wide and 16m deep microfluidic channels used in this project, the valve with the thinnest PDMS membrane (55m) closed the channel completely (i.e. flow rate = 0) at a pull-in voltage of 250V.   This valve closed and opened in approximately 1.5 and 5.5 seconds, respectively.  Pentacene surface has also been optimized to arrive at the best sensitivity for DNA immobilization and hybridization, bringing us a step closer in realizing printed OTFT DNA sensors for ‘tag-free’ electrical detection. To summarize the sensor results, thinner films, higher substrate temperature, and higher input current during pentacene evaporation ensured that DNA immobilized in the channel part of the transistor and therefore provided for highest sensitivity of pentacene film to DNA.
+This work has thus successfully revealed the potential of printed electronics in real-world biological applications and has also paved the way for exciting future research areas for this technology.
+Advisors:  Vivek Subramanian
+BibTeX citation:
+@phdthesis{Jagannathan:EECS-2012-84,
+Author= {Jagannathan, Lakshmi},
+Title= {Organic and Printed Electronics for Biological Microfluidic Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-84.html},
+Number= {UCB/EECS-2012-84},
+Abstract= {   Advances in research and technology are happening now more than ever in the biotechnology industry.  Efficient methods for biological processes and better detection and treatment methods are constantly being sought by researchers. Collaboration among different fields of science and technology has brought us one step closer towards achieving this goal in this work.  One such technology that has the capability of providing efficient methods and processes for biology is printed electronics.  Printed electronics is an attractive paradigm for realization of biological microfluidic systems. The large area of these systems makes printing valuable from a cost perspective.  Furthermore, since printing allows for easy integration of disparate materials on the same substrate through spatially-specific deposition, printed electronics is particularly useful for integration of diverse biological microfluidic functionality on the same substrate.
+While there have been instances of printed transistors and passive components, there have been no demonstrations to date of the critical components required for biological microfluidic applications or lab on a chip (LOC) devices.   In this work, for the first time, we present all-printed gold heaters, gold resistive temperature detectors, and electrostatically actuated PDMS microfluidic valves designed for biological microfluidic applications.  In addition, work on DNA sensors using printable organic (pentacene) thin film transistors (OTFTs) is also presented for use in LOC devices.
+Many biological applications require precise control and stability of temperature, which is demonstrated here through the integration of printed heaters and printed RTDs into a microchip bioprocessor system capable of polymerase chain reaction (PCR).   Flow rate measurements and dynamic characteristics of printed PDMS valves are also presented to demonstrate the effectiveness of these devices.   With the 440m wide and 16m deep microfluidic channels used in this project, the valve with the thinnest PDMS membrane (55m) closed the channel completely (i.e. flow rate = 0) at a pull-in voltage of 250V.   This valve closed and opened in approximately 1.5 and 5.5 seconds, respectively.  Pentacene surface has also been optimized to arrive at the best sensitivity for DNA immobilization and hybridization, bringing us a step closer in realizing printed OTFT DNA sensors for ‘tag-free’ electrical detection. To summarize the sensor results, thinner films, higher substrate temperature, and higher input current during pentacene evaporation ensured that DNA immobilized in the channel part of the transistor and therefore provided for highest sensitivity of pentacene film to DNA.
+This work has thus successfully revealed the potential of printed electronics in real-world biological applications and has also paved the way for exciting future research areas for this technology.},
+}
+EndNote citation:
+%0 Thesis
+%A Jagannathan, Lakshmi
+%T Organic and Printed Electronics for Biological Microfluidic Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 10
+%@ UCB/EECS-2012-84
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-84.html
+%F Jagannathan:EECS-2012-84

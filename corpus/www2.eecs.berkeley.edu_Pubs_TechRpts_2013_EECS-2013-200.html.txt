@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-200.html
+A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting
+Yu-Hsiang Chen and Ben Zhang and Claire Tuna and Yang Li and Edward A. Lee and Björn Hartmann
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-200
+December 10,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-200.pdf
+We introduce a novel method for selecting and controlling smart appliances in physical spaces through a head-worn computing device with near-eye display and wireless communication. We augment a commercial wearable computing device, Google Glass, with a narrow-beam IR emitter for this purpose. This configuration yields a usable beam width of 2 to 4 feet (60 to 120cm) for targeting at room scale. We describe a disambiguation technique if infrared targeting hits multiple targets simultaneously. A target acquisition study with 14 participants shows that selection using head orientation with our device outperforms list selection on a wearable device. We also report qualitative data from using our device to control multiple appliances in a smart home scenario.
+BibTeX citation:
+@techreport{Chen:EECS-2013-200,
+Author= {Chen, Yu-Hsiang and Zhang, Ben and Tuna, Claire and Li, Yang and Lee, Edward A. and Hartmann, Björn},
+Title= {A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-200.html},
+Number= {UCB/EECS-2013-200},
+Abstract= {We introduce a novel method for selecting and controlling smart appliances in physical spaces through a head-worn computing device with near-eye display and wireless communication. We augment a commercial wearable computing device, Google Glass, with a narrow-beam IR emitter for this purpose. This configuration yields a usable beam width of 2 to 4 feet (60 to 120cm) for targeting at room scale. We describe a disambiguation technique if infrared targeting hits multiple targets simultaneously. A target acquisition study with 14 participants shows that selection using head orientation with our device outperforms list selection on a wearable device. We also report qualitative data from using our device to control multiple appliances in a smart home scenario.},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yu-Hsiang
+%A Zhang, Ben
+%A Tuna, Claire
+%A Li, Yang
+%A Lee, Edward A.
+%A Hartmann, Björn
+%T A Context Menu for the Real World: Controlling Physical Appliances Through Head-Worn Infrared Targeting
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 10
+%@ UCB/EECS-2013-200
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-200.html
+%F Chen:EECS-2013-200

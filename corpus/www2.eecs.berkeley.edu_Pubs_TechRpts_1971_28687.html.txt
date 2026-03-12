@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28687.html
+Dynamic Programming Conditions for Partially Observable Stochastic Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Dynamic Programming Conditions for Partially Observable Stochastic Systems
+Dynamic Programming Conditions for Partially Observable Stochastic Systems
+M.H.A. Davis and P.P. Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M304
+August 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-304.pdf
+BibTeX citation:
+@techreport{Davis:M304,
+Author = {Davis, M.H.A. and Varaiya, P.P.},
+Title = {Dynamic Programming Conditions for Partially Observable Stochastic Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28687.html},
+Number = {UCB/ERL M304}
+}
+EndNote citation:
+%0 Report
+%A Davis, M.H.A.
+%A Varaiya, P.P.
+%T Dynamic Programming Conditions for Partially Observable Stochastic Systems
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M304
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28687.html
+%F Davis:M304

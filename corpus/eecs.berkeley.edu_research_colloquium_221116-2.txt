@@ -1,0 +1,24 @@
+URL: https://eecs.berkeley.edu/research/colloquium/221116-2
+Learning to see without real images - EECS at Berkeley
+Learning to see without real images
+EECS Colloquium
+Wednesday, November 16, 2022
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Youtube Webinar
+Antonio Torralba
+Delta Electronics Professor
+Head of the AI+D
+MIT
+Antonio Torralba speaks on "Learning to see without real images," 11/16/22
+Abstract
+The importance of large databases of images in modern computer vision is hard to overstate. In the last decade, the scale of vision datasets has been increasing at a rapid pace, but these datasets come with costs: curation is expensive, and they inherit human biases.  To counter these costs, interest has surged in learning with unlabeled images as it avoids curation efforts,  but images are still hard to collect. An alternative to real images is to use simulations with graphic engines, but content creation is also costly. In this talk, we will go a step further and ask if we can do away with real image datasets, or simulations, entirely, instead of learning from noise processes. I will describe several noise processes, inspired by early computer vision work, which produce images that are reminiscent of abstract art, where images contain textures and shapes, but there are no recognizable objects. Surprisingly, we will show that good performance on real images can be achieved even if the training images are far from realistic. In the last part of the talk, I will go back to using real images, but instead of just using images captured by a camera I will talk about tactile images captured by tactile sensors.
+Biography
+Antonio Torralba is the Delta Electronics Professor and head of the AI+D faculty at the Department of Electrical Engineering and Computer Science (EECS) at the Massachusetts Institute of Technology (MIT). From 2017 to 2020, he was the MIT director of the MIT-IBM Watson AI Lab, and, from 2018 to 2020, the inaugural director of the MIT Quest for Intelligence, an MIT campus-wide initiative to discover the foundations of intelligence. He is also a member of CSAIL and the Center for Brains, Minds and Machines. He received a degree in telecommunications engineering from Telecom BCN, Spain, in 1994 and a Ph.D. degree in signal, image, and speech processing from the Institut National Polytechnique de Grenoble, France, in 2000. From 2000 to 2005, he spent postdoctoral training at the Brain and Cognitive Science Department and the Computer Science and Artificial Intelligence Laboratory, MIT, where he is now a professor. Prof. Torralba served as program chair for the Computer Vision and Pattern Recognition conference in 2015. He received the 2008 National Science Foundation (NSF) Career award, the best student paper award at the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) in 2009, the 2010 J. K. Aggarwal Prize from the International Association for Pattern Recognition (IAPR), the 2017 Frank Quick Faculty Research Innovation Fellowship, the Louis D. Smullin (’39) Award for Teaching Excellence, the 2020 PAMI Mark Everingham Prize, and was named 2021 AAAI fellow. In 2021, he was awarded the Inaugural Thomas Huang Memorial Prize by the PAMITC. In 2022, he was invested Honoris Causa doctor by the Universitat Politècnica de Catalunya – BarcelonaTech (UPC).
+Video of This Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

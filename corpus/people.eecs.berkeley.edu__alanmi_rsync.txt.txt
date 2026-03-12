@@ -1,0 +1,3 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/rsync.txt
+[alanmi@drone0] ~> rsync index.html login.eecs.berkeley.edu:/home/eecs/alanmi/public_html/publications/
+[alanmi@drone0] ~> ssh alanmi@login.eecs.berkeley.edu "rm /home/eecs/alanmi/public_html/presentations/iwls23_integr.ppt"

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28453.html
+A Property of Certain Multistage Linear Programs | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Property of Certain Multistage Linear Programs
+A Property of Certain Multistage Linear Programs
+J.B. Lasserre
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/7
+February 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-7.pdf
+BibTeX citation:
+@techreport{Lasserre:M79/7,
+Author = {Lasserre, J.B.},
+Title = {A Property of Certain Multistage Linear Programs},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28453.html},
+Number = {UCB/ERL M79/7}
+}
+EndNote citation:
+%0 Report
+%A Lasserre, J.B.
+%T A Property of Certain Multistage Linear Programs
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/7
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28453.html
+%F Lasserre:M79/7

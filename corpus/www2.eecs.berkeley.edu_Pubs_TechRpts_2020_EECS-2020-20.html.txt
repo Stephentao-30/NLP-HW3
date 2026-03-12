@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-20.html
+Reinforcement Learning for Robotic Assembly with Force Control
+Jianlan Luo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2020-20
+February 26,
+2020
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-20.pdf
+Precise robotic manipulation skills are desirable in many industrial settings, reinforcement learning (RL) methods hold the promise of acquiring these skills autonomously. In this paper, we explicitly consider incorporating operational space force/torque information into reinforcement learning; this is motivated by humans heuristically mapping perceived forces to control actions, which results in completing high-precision tasks in a fairly easy manner. Our approach combines RL with force/torque information by incorporating a proper operational space force controller; where we also explore different ablations on processing this information. Our method can be used in both inherently compliant and non-compliant robots; we tackle two specific use-cases: 1)deformable object manipulation 2)the open-source Siemens Robot Learning Challenge; both of them requires precise and delicate force-controlled robotic behavior. Video results are available at: https://sites.google.com/berkeley.edu/rl-robotic-assembly/.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Luo:EECS-2020-20,
+Author= {Luo, Jianlan},
+Editor= {Abbeel, Pieter},
+Title= {Reinforcement Learning for Robotic Assembly with Force Control},
+School= {EECS Department, University of California, Berkeley},
+Year= {2020},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-20.html},
+Number= {UCB/EECS-2020-20},
+Abstract= {	Precise robotic manipulation skills are desirable in many industrial settings, reinforcement learning (RL) methods hold the promise of acquiring these skills autonomously. In this paper, we explicitly consider incorporating operational space force/torque information into reinforcement learning; this is motivated by humans heuristically mapping perceived forces to control actions, which results in completing high-precision tasks in a fairly easy manner. Our approach combines RL with force/torque information by incorporating a proper operational space force controller; where we also explore different ablations on processing this information. Our method can be used in both inherently compliant and non-compliant robots; we tackle two specific use-cases: 1)deformable object manipulation 2)the open-source Siemens Robot Learning Challenge; both of them requires precise and delicate force-controlled robotic behavior. Video results are available at: https://sites.google.com/berkeley.edu/rl-robotic-assembly/.},
+}
+EndNote citation:
+%0 Thesis
+%A Luo, Jianlan
+%E Abbeel, Pieter
+%T Reinforcement Learning for Robotic Assembly with Force Control
+%I EECS Department, University of California, Berkeley
+%D 2020
+%8 February 26
+%@ UCB/EECS-2020-20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-20.html
+%F Luo:EECS-2020-20

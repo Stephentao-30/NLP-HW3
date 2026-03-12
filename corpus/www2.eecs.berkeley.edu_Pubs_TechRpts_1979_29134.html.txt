@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29134.html
+Asymptotic Unbounded Root Loci by the Singular Value Decomposition | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Asymptotic Unbounded Root Loci by the Singular Value Decomposition
+Asymptotic Unbounded Root Loci by the Singular Value Decomposition
+S.S. Sastry and C.A. Desoer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/63
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-63.pdf
+BibTeX citation:
+@techreport{Sastry:M79/63,
+Author = {Sastry, S.S. and Desoer, C.A.},
+Title = {Asymptotic Unbounded Root Loci by the Singular Value Decomposition},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29134.html},
+Number = {UCB/ERL M79/63}
+}
+EndNote citation:
+%0 Report
+%A Sastry, S.S.
+%A Desoer, C.A.
+%T Asymptotic Unbounded Root Loci by the Singular Value Decomposition
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/63
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29134.html
+%F Sastry:M79/63

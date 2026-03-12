@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28740.html
+On Multimachine Power System Representations
+A.R. Bergen and G. Gross
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M392
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-392.pdf
+BibTeX citation:
+@techreport{Bergen:M392,
+Author= {Bergen, A.R. and Gross, G.},
+Title= {On Multimachine Power System Representations},
+Year= {1972},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28740.html},
+Number= {UCB/ERL M392},
+}
+EndNote citation:
+%0 Report
+%A Bergen, A.R.
+%A Gross, G.
+%T On Multimachine Power System Representations
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M392
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28740.html
+%F Bergen:M392

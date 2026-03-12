@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7496.html
+The Simulation of Large Scale Integrated Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Simulation of Large Scale Integrated Circuits
+The Simulation of Large Scale Integrated Circuits
+Arthur R. Newton
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/52
+July 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-52.pdf
+Advisor:  Donald O. Pederson
+BibTeX citation:
+@phdthesis{Newton:M78/52,
+Author = {Newton, Arthur R.},
+Title = {The Simulation of Large Scale Integrated Circuits},
+School = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7496.html},
+Number = {UCB/ERL M78/52}
+}
+EndNote citation:
+%0 Thesis
+%A Newton, Arthur R.
+%T The Simulation of Large Scale Integrated Circuits
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/7496.html
+%F Newton:M78/52

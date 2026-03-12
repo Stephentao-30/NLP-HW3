@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-53.html
+Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers
+Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers
+Meriem Ben Salah Ep Akin, Lutz Rissing and Wolfgang Heumann
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-53
+May 3, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-53.pdf
+We present a cost-efficient and reproducible technique for assembling 3D components to mechanically bendable low glass transition temperature (Tg) polymeric interposers. First, we propose localized soldering using a focused hot air gun. Second, we use eutectic solders, which permit reflow at temperatures close to the Tg of the interposer. Then, we adopt differential heating and cooling in order to enable rapid heat dissipation through the interposer during soldering. Furthermore, we apply a metal jig as a load to maintain contact between the interposer and the 3D component during soldering. Also, the jig serves as a shield to protect the interposer surface outside the soldering zone from thermal loading, and more importantly as a passive heat sink. We showcase our approach by manufacturing a test vehicle on a polyethylene terephthalate (PET) interposer having a Tg of 71 deg. C. We solder a 30 mA DC current SMD LED by means of a eutectic compound of 48 w. % Sn and 52 w. % In at 118 deg. C.
+BibTeX citation:
+@techreport{Ben Salah Ep Akin:EECS-2014-53,
+Author = {Ben Salah Ep Akin, Meriem and Rissing, Lutz and Heumann, Wolfgang},
+Title = {Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-53.html},
+Number = {UCB/EECS-2014-53},
+Abstract = {We present a cost-efficient and reproducible technique for assembling 3D components to mechanically bendable low glass transition temperature (Tg) polymeric interposers. First, we propose localized soldering using a focused hot air gun. Second, we use eutectic solders, which permit reflow at temperatures close to the Tg of the interposer. Then, we adopt differential heating and cooling in order to enable rapid heat dissipation through the interposer during soldering. Furthermore, we apply a metal jig as a load to maintain contact between the interposer and the 3D component during soldering. Also, the jig serves as a shield to protect the interposer surface outside the soldering zone from thermal loading, and more importantly as a passive heat sink. We showcase our approach by manufacturing a test vehicle on a polyethylene terephthalate (PET) interposer having a Tg of 71 deg. C. We solder a 30 mA DC current SMD LED by means of a eutectic compound of 48 w. % Sn and 52 w. % In at 118 deg. C.}
+}
+EndNote citation:
+%0 Report
+%A Ben Salah Ep Akin, Meriem
+%A Rissing, Lutz
+%A Heumann, Wolfgang
+%T Enabling Eutectic Soldering of 3D Opto-Electronics onto Low Tg Flexible Polymers
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 3
+%@ UCB/EECS-2014-53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-53.html
+%F Ben Salah Ep Akin:EECS-2014-53

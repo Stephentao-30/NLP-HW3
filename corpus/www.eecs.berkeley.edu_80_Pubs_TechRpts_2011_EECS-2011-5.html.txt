@@ -1,0 +1,51 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-5.html
+Convex formulations of inverse modeling problems on systems modeled by Hamilton-Jacobi equations: applications to traffic  flow engineering
+Christian Claudel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-5
+January 20,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-5.pdf
+This dissertation presents a new convex optimization-based estimation framework for systems modeled by scalar Hamilton-Jacobi equations. Leveraging the control framework of viability theory, we characterize the solutions to the Hamilton-Jacobi equation by a Lax-Hopf formula, and show that the solution satisfies an inf-morphism property. These two properties enable us to construct a semi-analytic formula for the solution associated with piecewise affine initial, boundary and internal conditions. The semi-analytic solution is the
+first major contribution of the thesis. This enables the construction of a scheme which
+provides numerical solutions of the partial
+differential equation. In addition to being gridless, the semi-analytic numerical scheme has two main advantages over standard computational methods: it is both exact and very fast.
+Using the semi-analytic formulation of the solution, we also prove that the Hamilton-Jacobi equation restricts the possible values that the piecewise affine initial, boundary and internal conditions can take, and that the corresponding set of possible values can be expressed
+in the form of convex constraints. This enables the creation of a framework for solving inverse modeling problems on systems modeled by Hamilton-Jacobi equations using linear programming, which is a contribution of the thesis. The formulation of these inverse modeling problems as convex programs was previously unknown. More generally, the thesis outlines a series of problems, which can now be cast in convex form, thanks to the semi-analytic
+solution proposed in the
+first part of the thesis. We apply this framework to solving several inverse modeling and estimation problems arising in transportation engineering, using experimental data from
+fixed sensors and mobile GPS devices. The problems that can be solved using linear programming include four classes of problems: data consistency verification, data assimilation, data reconciliation, and coefficient estimation. Data consistency verification is used to check if the measurements are compatible with the model assumptions,
+and are applied to sensor fault detection for instance. Data assimilation and data reconciliation techniques enable the estimation of the state of the system in situations for
+which the model constraints are incompatible with the measurement constraints. When the model and data constraints are compatible, some quantities related to the state (for instance travel time in the context of transportation engineering) can be estimated using coefficient estimation.
+Advisors:  Claire Tomlin and Alexandre Bayen
+BibTeX citation:
+@phdthesis{Claudel:EECS-2011-5,
+Author= {Claudel, Christian},
+Title= {Convex formulations of inverse modeling problems on systems modeled by Hamilton-Jacobi equations: applications to traffic  flow engineering},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-5.html},
+Number= {UCB/EECS-2011-5},
+Abstract= {This dissertation presents a new convex optimization-based estimation framework for systems modeled by scalar Hamilton-Jacobi equations. Leveraging the control framework of viability theory, we characterize the solutions to the Hamilton-Jacobi equation by a Lax-Hopf formula, and show that the solution satisfies an inf-morphism property. These two properties enable us to construct a semi-analytic formula for the solution associated with piecewise affine initial, boundary and internal conditions. The semi-analytic solution is the
+first major contribution of the thesis. This enables the construction of a scheme which
+provides numerical solutions of the partial
+differential equation. In addition to being gridless, the semi-analytic numerical scheme has two main advantages over standard computational methods: it is both exact and very fast.
+Using the semi-analytic formulation of the solution, we also prove that the Hamilton-Jacobi equation restricts the possible values that the piecewise affine initial, boundary and internal conditions can take, and that the corresponding set of possible values can be expressed
+in the form of convex constraints. This enables the creation of a framework for solving inverse modeling problems on systems modeled by Hamilton-Jacobi equations using linear programming, which is a contribution of the thesis. The formulation of these inverse modeling problems as convex programs was previously unknown. More generally, the thesis outlines a series of problems, which can now be cast in convex form, thanks to the semi-analytic
+solution proposed in the
+first part of the thesis. We apply this framework to solving several inverse modeling and estimation problems arising in transportation engineering, using experimental data from
+fixed sensors and mobile GPS devices. The problems that can be solved using linear programming include four classes of problems: data consistency verification, data assimilation, data reconciliation, and coefficient estimation. Data consistency verification is used to check if the measurements are compatible with the model assumptions,
+and are applied to sensor fault detection for instance. Data assimilation and data reconciliation techniques enable the estimation of the state of the system in situations for
+which the model constraints are incompatible with the measurement constraints. When the model and data constraints are compatible, some quantities related to the state (for instance travel time in the context of transportation engineering) can be estimated using coefficient estimation.},
+}
+EndNote citation:
+%0 Thesis
+%A Claudel, Christian
+%T Convex formulations of inverse modeling problems on systems modeled by Hamilton-Jacobi equations: applications to traffic  flow engineering
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 January 20
+%@ UCB/EECS-2011-5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-5.html
+%F Claudel:EECS-2011-5

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28678.html
+Algorithm Verification | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Algorithm Verification
+Algorithm Verification
+W.D. Maurer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M290
+January 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-290.pdf
+BibTeX citation:
+@techreport{Maurer:M290,
+Author = {Maurer, W.D.},
+Title = {Algorithm Verification},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28678.html},
+Number = {UCB/ERL M290}
+}
+EndNote citation:
+%0 Report
+%A Maurer, W.D.
+%T Algorithm Verification
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M290
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28678.html
+%F Maurer:M290

@@ -1,0 +1,42 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-96.html
+Building Operating Systems Services: An Architecture for Programmable Buildings | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Building Operating Systems Services: An Architecture for Programmable Buildings
+Building Operating Systems Services: An Architecture for Programmable Buildings
+Stephen Dawson-Haggerty
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-96
+May 16, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-96.pdf
+Commercial buildings use 73% of all electricity consumed in the United States, and numerous studies suggest that there is a significant unrealized opportunity for savings. One of the many reasons this problem persists in the face of financial incentives is that owners and operators have very poor visibility into the operation of their buildings. Making changes to operations often requires expensive consultants, and the technological capacity for change is unnecessarily limited. Our thesis is that some of these issues are not simply failures of incentives and organization but failures of technology and imagination: with a better software framework, many aspects of building operation would be improved by innovative software applications.
+To evaluate this hypothesis, we develop an architecture for implementing building applications in a flexible and portable way, called the Building Operating System Services. BOSS allows software to reliability and portably collect, process, and act on the large volumes of data present in a large building. The minimal elements of this architecture are hardware abstraction, data management and processing, and control design; in this thesis we present a detailed design study for each of these components and consider various tradeoffs and findings. Unlike previous systems, we directly tackle the challenges of opening the building control stack at each level, providing interfaces for programming and extensibility while considering properties like scale and fault-tolerance.
+Our contributions consist of a principled factoring of functionality onto an architecture which permits the type of application we are interested in, and the implementation and evaluation of the three key components. This work has included significant real-world experience, collecting over 45,000 streams of data from a large variety of instrumentation sources in multiple buildings, and taking direct control of several test buildings for a period of time. We evaluate our approach using focused benchmarks and case studies on individual architectural components, and holistically by looking at applications built using the framework.
+Advisor:  David E. Culler
+BibTeX citation:
+@phdthesis{Dawson-Haggerty:EECS-2014-96,
+Author = {Dawson-Haggerty, Stephen},
+Title = {Building Operating Systems Services: An Architecture for Programmable Buildings},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-96.html},
+Number = {UCB/EECS-2014-96},
+Abstract = {Commercial buildings use 73% of all electricity consumed in the United States, and numerous studies suggest that there is a significant unrealized opportunity for savings.  One of the many reasons this problem persists in the face of financial incentives is that owners and operators have very poor visibility into the operation of their buildings.  Making changes to operations often requires expensive consultants, and the technological capacity for change is unnecessarily limited.  Our thesis is that some of these issues are not simply failures of incentives and organization but failures of technology and imagination: with a better software framework, many aspects of building operation would be improved by innovative software applications.
+To evaluate this hypothesis, we develop an architecture for implementing building applications in a flexible and portable way, called the Building Operating System Services.  BOSS allows software to reliability and portably collect, process, and act on the large volumes of data present in a large building.
+The minimal elements of this architecture are hardware abstraction, data management and processing, and control design; in this thesis we present a detailed design study for each of these components and consider various tradeoffs and findings.  Unlike previous systems, we directly tackle the challenges of opening the building control stack at each level, providing interfaces for programming and extensibility while considering properties like scale and fault-tolerance.
+Our contributions consist of a principled factoring of functionality onto an architecture which permits the type of application we are interested in, and the implementation and evaluation of the three key components.  This work has included significant real-world experience, collecting over 45,000 streams of data from a large variety of instrumentation sources in multiple buildings, and taking direct control of several test buildings for a period of time.  We evaluate our approach using focused benchmarks and case studies on individual architectural components, and holistically by looking at applications built using the framework.}
+}
+EndNote citation:
+%0 Thesis
+%A Dawson-Haggerty, Stephen
+%T Building Operating Systems Services: An Architecture for Programmable Buildings
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 16
+%@ UCB/EECS-2014-96
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-96.html
+%F Dawson-Haggerty:EECS-2014-96

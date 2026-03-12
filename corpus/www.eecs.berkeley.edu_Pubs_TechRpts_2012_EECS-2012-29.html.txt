@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.html
+A preliminary analysis of Cyclops Tensor Framework
+Edgar Solomonik and Jeff Hammond and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-29
+March 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.pdf
+Cyclops (cyclic-operations) Tensor Framework (CTF)is a distributed library for tensor contractions. CTF aims to scale high-dimensional tensor contractions done in Coupled Cluster calculations on massively-parallel supercomputers. The framework preserves tensor symmetry by subdividing tensors cyclically, producing a highly regular parallel decomposition. The parallel decomposition effectively hides any high dimensional structure of tensors reducing the complexity of the distributed contraction algorithm to known linear algebra methods for matrix multiplication. We also detail the automatic topology-aware mapping framework deployed by CTF, which maps tensors of any dimension and structure onto torus networks of any dimension. We employ virtualization to provide completely general mapping support while maintaining perfect load balance. Performance of a preliminary version of CTF on the IBM Blue Gene/P and Cray XE6 supercomputers shows highly efficient weak scaling, demonstrating the viability of our approach.
+BibTeX citation:
+@techreport{Solomonik:EECS-2012-29,
+Author= {Solomonik, Edgar and Hammond, Jeff and Demmel, James},
+Title= {A preliminary analysis of Cyclops Tensor Framework},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.html},
+Number= {UCB/EECS-2012-29},
+Abstract= {Cyclops (cyclic-operations) Tensor Framework (CTF)is a distributed library for tensor contractions. CTF aims to scale high-dimensional tensor contractions done in Coupled Cluster calculations on massively-parallel supercomputers. The framework preserves tensor symmetry by subdividing tensors cyclically, producing a highly regular parallel decomposition. The parallel decomposition effectively hides any high dimensional structure of tensors reducing the complexity of the distributed contraction algorithm to known linear algebra methods for matrix multiplication. We also detail the automatic topology-aware mapping framework deployed by CTF, which maps tensors of any dimension and structure onto torus networks of any dimension. We employ virtualization to provide completely general mapping support while maintaining perfect load balance. Performance of a preliminary version of CTF on the IBM Blue Gene/P and Cray XE6 supercomputers shows highly efficient weak scaling, demonstrating the viability of our approach.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Hammond, Jeff
+%A Demmel, James
+%T A preliminary analysis of Cyclops Tensor Framework
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 9
+%@ UCB/EECS-2012-29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.html
+%F Solomonik:EECS-2012-29

@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28596.html
+Contrast Formation in the Scanning Electron Microscope
+T.E. Everhart
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M161
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-161.pdf
+BibTeX citation:
+@techreport{Everhart:M161,
+Author= {Everhart, T.E.},
+Title= {Contrast Formation in the Scanning Electron Microscope},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28596.html},
+Number= {UCB/ERL M161},
+}
+EndNote citation:
+%0 Report
+%A Everhart, T.E.
+%T Contrast Formation in the Scanning Electron Microscope
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M161
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28596.html
+%F Everhart:M161

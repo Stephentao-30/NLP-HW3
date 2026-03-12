@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28439.html
+Data Abstraction, Views and Updates in Rigel | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Data Abstraction, Views and Updates in Rigel
+Data Abstraction, Views and Updates in Rigel
+Lawrence A. Rowe and Kurt A. Shoens
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/5
+January 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-5.pdf
+BibTeX citation:
+@techreport{Rowe:M79/5,
+Author = {Rowe, Lawrence A. and Shoens, Kurt A.},
+Title = {Data Abstraction, Views and Updates in Rigel},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28439.html},
+Number = {UCB/ERL M79/5}
+}
+EndNote citation:
+%0 Report
+%A Rowe, Lawrence A.
+%A Shoens, Kurt A.
+%T Data Abstraction, Views and Updates in Rigel
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28439.html
+%F Rowe:M79/5

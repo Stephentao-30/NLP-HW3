@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28502.html
+Cifplot: Plotting Software for IC Layouts
+Daniel T. Fitzpatrick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/96
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-96.pdf
+BibTeX citation:
+@techreport{Fitzpatrick:M81/96,
+Author= {Fitzpatrick, Daniel T.},
+Title= {Cifplot: Plotting Software for IC Layouts},
+Year= {1981},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28502.html},
+Number= {UCB/ERL M81/96},
+}
+EndNote citation:
+%0 Report
+%A Fitzpatrick, Daniel T.
+%T Cifplot: Plotting Software for IC Layouts
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/96
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28502.html
+%F Fitzpatrick:M81/96

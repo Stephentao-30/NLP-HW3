@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28395.html
+Equivalence Relations for the Classification and Solution of Optimal Control Problems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Equivalence Relations for the Classification and Solution of Optimal Control Problems
+Equivalence Relations for the Classification and Solution of Optimal Control Problems
+C.D. Cullum and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M147
+January 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-147.pdf
+BibTeX citation:
+@techreport{Cullum:M147,
+Author = {Cullum, C.D. and Polak, E.},
+Title = {Equivalence Relations for the Classification and Solution of Optimal Control Problems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28395.html},
+Number = {UCB/ERL M147}
+}
+EndNote citation:
+%0 Report
+%A Cullum, C.D.
+%A Polak, E.
+%T Equivalence Relations for the Classification and Solution of Optimal Control Problems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M147
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28395.html
+%F Cullum:M147

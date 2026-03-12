@@ -1,0 +1,30 @@
+URL: https://eecs.berkeley.edu/research/colloquium/190424-2
+Memcomputing: leveraging memory and physics to compute efficiently - EECS at Berkeley
+Memcomputing: leveraging memory and physics to compute efficiently
+EECS Colloquium
+Wednesday, April 24, 2019
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Massimiliano Di Ventra
+Professor of Physics
+University of California, San Diego
+Massimiliano Di Ventra speaks on Memcomputing: leveraging memory and physics to compute efficiently, 4/24/19
+Abstract:
+It is well known that physical phenomena may be of great help in computing some difficult problems efficiently. A typical example is prime factorization that may be solved in polynomial time by exploiting quantum entanglement on a quantum computer. There are, however, other types of (non-quantum) physical properties that one may leverage to compute efficiently a wide range of hard problems. In this talk, I will discuss how to employ one such property, memory (time non-locality), in a novel physics-based approach to computation: Memcomputing [1, 2, 3]. As examples, I will show the efficient solution of prime factorization, the search version of the subset-sum problem [4], approximations to the Max- SAT [5], and the ground state of Ising spin glasses [6], using self-organizing logic gates, namely gates that self-organize to satisfy their logical proposition [4]. I will also show that these machines take advantage of the long-range order that develops during their transient dynamics in order to tackle the above problems, and are robust against noise and disorder [7].  The digital memcomputing machines we propose can be efficiently simulated, are scalable and can be easily realized with available nanotechnology components. Work supported in part by MemComputing, Inc. (http://memcpu.com/) and CMRR.
+[1] M. Di Ventra and Y.V. Pershin,  Computing: the Parallel Approach , Nature Physics 9, 200 (2013).
+[2] F. L. Traversa and M. Di Ventra,  Universal Memcomputing Machines , IEEE Transactions on Neural Networks and Learning Systems  26 , 2702 (2015).
+[3] M. Di Ventra and F.L. Traversa,  Memcomputing: leveraging memory and physics to compute efficiently , J. Appl. Phys. 123, 180901 (2018).
+[4] F. L. Traversa and M. Di Ventra,  Polynomial-time solution of prime factorization and NP-complete problems with digital memcomputing machines , Chaos: An Interdisciplinary Journal of Nonlinear Science 27, 023107 (2017).
+[5] F. L. Traversa, P. Cicotti, F. Sheldon, and M. Di Ventra,  Evidence of an exponential speed-up in the solution of hard optimization problems , Complexity 2018, 7982851 (2018).
+[6] F. Sheldon, F.L. Traversa, and M. Di Ventra,  Taming a non-convex landscape with dynamical long-range order: memcomputing the Ising spin-glass , arXiv:1810.03712 (2018).
+[7] M. Di Ventra, F. L. Traversa and I.V. Ovchinnikov,  Topological field theory and computing with instantons , Annalen der Physik 529,1700123 (2017).
+Biography
+Massimiliano Di Ventra obtained his undergraduate degree in Physics summa cum laude from the University of Trieste (Italy) in 1991 and did his PhD studies at the Ecole Polytechnique Federale de Lausanne (Switzerland) in 1993-1997. He is now professor of Physics at the University of California, San Diego.
+Di Ventra’s research interests are in the theory of quantum transport in nanoscale systems, non-equilibrium statistical mechanics, DNA sequencing/polymer dynamics in nanopores, and memory effects in nanostructures for applications in unconventional computing and biophysics. He is the author of more than 200 scientific publications (he was named 2018 Highly Cited Researcher by Clarivate Analytics), three textbooks, and holds four U.S. patents. He has delivered more than 300 invited talks worldwide on his research, including 14 plenary/keynote presentations and 10 talks at the March Meeting of the American Physical Society.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

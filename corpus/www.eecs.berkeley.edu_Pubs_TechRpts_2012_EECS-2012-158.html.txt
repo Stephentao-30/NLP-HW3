@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-158.html
+NetApp Autosupport Analysis
+Junwei Da
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-158
+June 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-158.pdf
+Big data has taken the tech industry by storm as storage costs go down and analytics tools improve to enable businesses to make better decisions faster. NetApp is one such company that collects customer machine configurations through NetApp Autosupport to help customers troubleshoot errors. This project leverages the Autosupport data to gain insights into the production environment as well as the QA environment in terms of their relationships to each other. Using the K-Means algorithm and direct matching method, we have identified eight common customer configuration groups, top customer configurations not tested by any QA machines, and top QA machines not testing any customer configurations. The methodology is still maturing, and requires input from both developers and subject area experts. The results we found can be used to enhance the test environment for QA, target development of features for developers, and increase confidence in product and services for customers.
+Advisors:  Philip M. Kaminsky and Pieter Abbeel and Ikhlaq Sidhu
+BibTeX citation:
+@mastersthesis{Da:EECS-2012-158,
+Author= {Da, Junwei},
+Title= {NetApp Autosupport Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-158.html},
+Number= {UCB/EECS-2012-158},
+Abstract= {Big data has taken the tech industry by storm as storage costs go down and analytics tools improve to enable businesses to make better decisions faster. NetApp is one such company that collects customer machine configurations through NetApp Autosupport to help customers troubleshoot errors. This project leverages the Autosupport data to gain insights into the production environment as well as the QA environment in terms of their relationships to each other. Using the K-Means algorithm and direct matching method, we have identified eight common customer configuration groups, top customer configurations not tested by any QA machines, and top QA machines not testing any customer configurations. The methodology is still maturing, and requires input from both developers and subject area experts. The results we found can be used to enhance the test environment for QA, target development of features for developers, and increase confidence in product and services for customers.},
+}
+EndNote citation:
+%0 Thesis
+%A Da, Junwei
+%T NetApp Autosupport Analysis
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 2
+%@ UCB/EECS-2012-158
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-158.html
+%F Da:EECS-2012-158

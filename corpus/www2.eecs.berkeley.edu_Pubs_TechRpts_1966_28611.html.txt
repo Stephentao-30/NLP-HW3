@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28611.html
+Invertibility, Equivalence, and Decomposition Property of Abstract Systems
+K. Doty and H. Frank
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M181
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-181.pdf
+BibTeX citation:
+@techreport{Doty:M181,
+Author= {Doty, K. and Frank, H.},
+Title= {Invertibility, Equivalence, and Decomposition Property of Abstract Systems},
+Year= {1966},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28611.html},
+Number= {UCB/ERL M181},
+}
+EndNote citation:
+%0 Report
+%A Doty, K.
+%A Frank, H.
+%T Invertibility, Equivalence, and Decomposition Property of Abstract Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M181
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28611.html
+%F Doty:M181

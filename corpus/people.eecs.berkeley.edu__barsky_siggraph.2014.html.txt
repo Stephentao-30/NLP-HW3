@@ -1,0 +1,37 @@
+URL: https://people.eecs.berkeley.edu/~barsky/siggraph.2014.html
+Eyeglasses-free Display: Towards Correcting Visual Aberrations with Computational Light Field Displays
+Proceedings of ACM SIGGRAPH 2014 ,
+Vancouver, 10-14 August 2014,
+ACM Transactions on Graphics (TOG) ,
+Volume 33, Issue 4, July 2014, Article No. 59.
+Authors
+Fu-Chung Huang
+Gordon Wetzstein
+Brian A. Barsky
+Ramesh Raskar
+Abstract
+Millions of people worldwide need glasses or contact lenses to see or read
+properly. We introduce a computational display technology that predistorts
+the presented content for an observer, so that the target image is perceived
+without the need for eyewear. By designing optics in concert with
+prefiltering algorithms, the proposed display architecture achieves
+significantly higher resolution and contrast than prior approaches to
+vision-correcting image display. We demonstrate that inexpensive light field
+displays driven by efficient implementations of 4D prefiltering algorithms
+can produce the desired vision-corrected imagery, even for higher-order
+aberrations that are difficult to be corrected with glasses. The proposed
+computational display architecture is evaluated in simulation and with a
+low-cost prototype device.
+Citation
+Fu-Chung Huang, Gordon Wetzstein, Brian A. Barsky, and Ramesh Raskar.
+" Eyeglasses-free Display: Towards Correcting Visual Aberrations with
+Computational Light Field Displays ",
+Proceedings of ACM SIGGRAPH 2014 ,
+Vancouver, 10-14 August 2014,
+ACM Transactions on Graphics (TOG) ,
+Volume 33, Issue 4, July 2014, Article No. 59.
+Download Bibtex
+Paper
+Click here to download paper
+Video
+Click here to download video

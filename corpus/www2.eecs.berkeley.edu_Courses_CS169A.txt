@@ -1,0 +1,17 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS169A
+CS 169A. Introduction to Software Engineering
+Catalog Description:  Ideas and techniques for designing, developing, and modifying large software systems. Service-oriented architecture, behavior-driven design with user stories, cloud computing, test-driven development, automated testing, cost and quality metrics for maintainability and effort estimation, practical performance and security in software operations, design patterns and refactoring, specification and documentation, agile project team organization and management.
+Units:  4
+Student Learning Outcomes:  Students will learn the architecture and machinery of software as a service; the agile/XP methodology for software development and how it compares with other methodologies, including "Plan-and-document" methodologies; , Students will learn practical security and performance considerations for SaaS applications., Students will learn the role of software design patterns in refactoring, and how to identify opportunities to use them; , Students will learn how to approach and add functionality to a legacy code base; , Students will learn how to identify, measure, and resolve maintainability problems in code; , Students will learn how to write automated tests and measure test coverage; , Students will learn how to work with nontechnical customers and convert customer requirements into a software plan that can be effort-estimated, built, and deployed to the public cloud, including the use of behavior-driven design, user stories, and velocity;
+Prerequisites:  COMPSCI C88C or DATA C88C or COMPSCI 61A or COMPSCI 47A; and COMPSCI 61B or COMPSCI 61BL or COMPSCI 47B.
+Credit Restrictions:  Students will receive no credit for COMPSCI 169A after completing COMPSCI 169, or COMPSCI W169A. A deficient grade in COMPSCI 169A may be removed by taking COMPSCI 169, or COMPSCI W169A.
+Formats:  Summer: 6.0 hours of lecture and  2.0 hours of discussion per week
+Spring: 3.0 hours of lecture and  1.0 hours of discussion per week
+Fall: 3.0 hours of lecture and  1.0 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps

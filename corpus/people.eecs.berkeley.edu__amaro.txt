@@ -1,0 +1,13 @@
+URL: https://people.eecs.berkeley.edu/~amaro
+Emmanuel Amaro
+I'm a Computer Science PhD student at UC Berkeley. I work at the  NetSys lab , where I am advised by  Scott Shenker . I am broadly interested in systems, networking, and computer architecture. Before UC Berkeley, I received my Masters degree at Georgia Tech where I was advised by  Hadi Esmaeilzadeh .
+Publications
+2020
+Can far memory improve job throughput? .  Emmanuel Amaro , Christopher Branner-Augmon, Zhihong Luo, Amy Ousterhout, Marcos K Aguilera, Aurojit Panda, Sylvia Ratnasamy, Scott Shenker. Eurosys 2020.
+2018
+FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud . Sagar Karandikar, Howard Mao, Donggyu Kim, David Biancolin, Alon Amid, Dayeol Lee, Nathan Pemberton,  Emmanuel Amaro , Colin Schmidt, Aditya Chopra, Qijing Huang, Kyle Kovacs, Borivoje Nikolic, Randy Katz, Jonathan Bachrach, Krste Asanovic. ISCA 2018.
+2017
+From high-level deep neural models to FPGAs . Hardik Sharma, Jongse Park, Divya Mahajan,  Emmanuel Amaro , Joon Kyung Kim, Chenkai Shao, Asit Mishra, Hadi Esmaeilzadeh. MICRO 2017.
+2016
+AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing . Jongse Park,  Emmanuel Amaro , Divya Mahajan, Bradley Thwaites, Hadi Esmaeilzadeh. ASPLOS 2016.
+Tabla: A unified template-based framework for accelerating statistical machine learning . Divya Mahajan, Jongse Park,  Emmanuel Amaro , Hardik Sharma, Amir Yazdanbakhsh, Joon Kyung Kim, Hadi Esmaeilzadeh. HPCA 2016.

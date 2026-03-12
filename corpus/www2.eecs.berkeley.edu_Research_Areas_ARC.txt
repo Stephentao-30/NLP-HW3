@@ -1,0 +1,82 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/ARC
+Computer Architecture & Engineering (ARC)
+Overview
+Research to address next generation issues in computer architecture to address the grand challenge of parallel computation, bringing in techniques from other fields (e.g. machine learning for high impact optimizations), ideas for architecture based on novel substrates, power budget issues, micro-architectural circuit level issues, and architectural issues in the development of sensor networks.
+Research Centers
+Agile Design of Efficient Processing Technologies
+Berkeley Wireless Research Center
+SpeciaLIzed Computing Ecosystems
+Faculty
+Primary
+Krste Asanović
+David E. Culler
+Prabal Dutta
+Christopher Fletcher
+Sagar Karandikar
+Borivoje Nikolic
+Pierluigi Nuzzo
+David A. Patterson
+Sophia Shao
+John Wawrzynek  (coordinator)
+Secondary
+Elad Alon
+Aydin Buluç
+Zaijun Chen
+James Demmel
+Rishabh Iyer
+William M. Kahan
+Randy H. Katz
+Kurt Keutzer
+John D. Kubiatowicz
+Edward A. Lee
+Michael Lustig
+Jan M. Rabaey
+Jaijeet Roychowdhury
+Alan J. Smith
+Vladimir Stojanovic
+Katherine A. Yelick
+Faculty Awards
+ACM A.M. Turing Award:
+David A. Patterson, 2017.
+William M. Kahan, 1989.
+SIAM John von Neumann Lecture Prize:
+William M. Kahan, 1997.
+Computers and Communications (C&C) Prize:
+David A. Patterson, 2004.
+Silicon Valley Engineering Hall of Fame:
+Randy H. Katz, 2018.
+David A. Patterson, 2005.
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Sciences (NAS) Member:
+James Demmel, 2011.
+David A. Patterson, 2006.
+National Academy of Engineering (NAE) Member:
+Katherine A. Yelick, 2017.
+David E. Culler, 2005.
+William M. Kahan, 2005.
+Randy H. Katz, 2000.
+James Demmel, 1999.
+David A. Patterson, 1993.
+American Academy of Arts and Sciences Member:
+James Demmel, 2018.
+Katherine A. Yelick, 2017.
+David A. Patterson, 2006.
+William M. Kahan, 2003.
+Randy H. Katz, 1990.
+Berkeley Citation:
+Randy H. Katz, 2026.
+David E. Culler, 2021.
+Edward A. Lee, 2018.
+David A. Patterson, 2016.
+UC Berkeley Distinguished Teaching Award:
+Randy H. Katz, 1992.
+David A. Patterson, 1982.
+Sloan Research Fellow:
+Sophia Shao, 2024.
+Prabal Dutta, 2017.
+Michael Lustig, 2013.
+Related Courses
+CS 152. Computer Architecture and Engineering
+EECS 151. Introduction to Digital Design and Integrated Circuits
+EECS 251A. Introduction to Digital Design and Integrated Circuits

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28582.html
+Passivity Criterion for LTI N-Ports | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Passivity Criterion for LTI N-Ports
+Passivity Criterion for LTI N-Ports
+S. Boyd and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/32
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-32.pdf
+BibTeX citation:
+@techreport{Boyd:M81/32,
+Author = {Boyd, S. and Chua, L.O.},
+Title = {Passivity Criterion for LTI N-Ports},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28582.html},
+Number = {UCB/ERL M81/32}
+}
+EndNote citation:
+%0 Report
+%A Boyd, S.
+%A Chua, L.O.
+%T Passivity Criterion for LTI N-Ports
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28582.html
+%F Boyd:M81/32

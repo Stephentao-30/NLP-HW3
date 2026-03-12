@@ -1,0 +1,17 @@
+URL: https://people.eecs.berkeley.edu/~alonamid/talk/chipyard-rv-summit19
+Tutorial: Chipyard and FireSim: End-to-End Architecture Exploration with RISC-V SoC Generators, FPGA-Accelerated Simulation and Agile Test Chips | Alon Amid
+Search
+Tutorial: Chipyard and FireSim: End-to-End Architecture Exploration with RISC-V SoC Generators, FPGA-Accelerated Simulation and Agile Test Chips
+Abstract
+This tutorial will introduce the Chipyard and FireSim frameworks for the purposes of full-stack architecture exploration and digital system design. The Chipyard framework incorporates multiple open-source Chisel-based generators within the Rocket-Chip SoC generator ecosystem into a single “one-stop-shop” framework enabling design, simulation, and physical design flows. Simulation flows include integration with the open-source Verilator RTL simulator, as well as the FireSim FPGA-Accelerated simulation platform on the AWS public cloud for full-system end-to-end evaluation. The tutorial will demonstrate basic heterogeneous Rocket/BOOM-based SoC system design using the Rocket Chip parameter system with accelerator interfaces, as well as full system evaluation of such SoCs using the various design-cycle flows within the Chipyard framework. In particular, it will spotlight end-to-end HW/SW evaluation using the FireSim FPGA-accelerated simulation framework. Presented by Jerry Zhao, Abraham Gonzalez, David Biancolin, Alon Amid and Colin Schmidt
+Date
+Dec 12, 2019 12:00 AM
+Event
+2019 RISC-V Summit
+Location
+San Jose, CA, USA
+Alon Amid
+EECS Graduate Student
+Cite
+Copy
+Download

@@ -1,0 +1,89 @@
+URL: http://people.eecs.berkeley.edu/~akothapalli
+Abhiram Kothapalli
+Abhiram Kothapalli
+Postdoctoral Scholar
+University of California, Berkeley
+Email: akothapalli at berkeley dot edu
+CV
+|
+Google Scholar
+I am a
+postdoctoral scholar
+at University of California, Berkeley
+hosted by Sanjam Garg.
+I earned my Ph.D. in Computer Science
+at Carnegie Mellon University,
+advised by Bryan Parno.
+My research develops
+fundamental
+technologies
+aimed at
+scaling expressive privacy and integrity guarantees
+across the internet.
+I am currently focused on designing
+performant zero-knowledge proofs,
+which are
+are short certificates that attest to the correctness of a computation without revealing any secret inputs.
+Today,
+zero-knowledge proofs enable a wide variety of applications
+such as anonymous credentials,
+verifiable databases,
+and
+private cryptocurrencies,
+making them a central tool in modern secure systems.
+I am best known for my work on
+bringing
+memory-efficient zero-knowledge proofs
+to practice,
+overcoming a key bottleneck in the last decade.
+Memory-efficient proofs have the potential to significantly scale secure computation due to their unique ability to handle large computations with dynamic control flow.
+I am on the 2025-2026 academic job market for tenure-track positions in computer science.
+Research News
+October 2025:  HyperNova is  integrated into the Aztec network ,
+a privacy-preserving layer on Ethereum
+that enables confidential transactions.
+April 2025:  Our  reductions of knowledge framework  for composing zero-knowledge proofs has been adopted and extended by over a dozen academic works, both to manage complexity and to precisely formulate new techniques.
+July 2024:   Nexus , a $25M series-A company,  adopts our work HyperNova  to
+verifiably outsource computations to untrusted computers at scale.
+July 2024:  A zero-knowledge proof system based on our work Nova is helping the Brazilian central bank  pilot a digital currency  with built-in privacy protections.
+August 2023:  Privacy Stewards of Ethereum (PSE) and 0xPARC jointly develop  Sonobe , an ongoing community implementation of our Nova line of work.
+March 2023:  An online course on zero-knowledge proofs
+hosted by Stanford University, UC Berkeley, Georgetown University, and Texas A&M University
+features a  lecture  on our works Nova and SuperNova.
+April 2022:
+The textbook
+Proofs, Arguments, and Zero-Knowledge
+by Justin Thaler
+includes a detailed treatment of our work Nova.
+Publications
+A Framework for Witness Encryption from Linearly Verifiable SNARKs and Applications
+Sanjam Garg, Mohammad Hajiabadi, Dimitris Kolonelos, Abhiram Kothapalli, Guru Vamsi Policharla
+IACR Annual International Cryptology Conference (Crypto) 2025
+ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs
+Jiwon Kim, Abhiram Kothapalli, Orestis Chardouvelis, Riad S. Wahby, Paul Grubbs
+IEEE Symposium on Security and Privacy 2025
+NeutronNova: Folding everything that reduces to zero-check
+Abhiram Kothapalli, Srinath Setty
+Cryptology ePrint Archive 2024
+HyperNova: Recursive arguments for customizable constraint systems
+Abhiram Kothapalli, Srinath Setty
+IACR Annual International Cryptology Conference (Crypto) 2024  [Talk]
+Algebraic Reductions of Knowledge
+Abhiram Kothapalli, Bryan Parno
+IACR Annual International Cryptology Conference (Crypto) 2023  [Talk]
+Nova: Recursive Zero-Knowledge Arguments from Folding
+Schemes
+Abhiram Kothapalli, Srinath Setty, Ioanna Tzialla
+IACR Annual International Cryptology Conference (Crypto) 2022  [Talk]
+Transparency Dictionaries with Succinct Proofs of Correct Operation
+Ioanna Tzialla, Abhiram Kothapalli, Bryan Parno, Srinath Setty
+Network and Distributed System Security (NDSS) Symposium 2022
+Storing and retrieving secrets on a Blockchain
+Vipul Goyal, Abhiram Kothapalli, Elisaweta Masserova, Bryan Parno, Yifan Song
+IACR International Conference on Public-Key Cryptography (PKC) 2022
+Regex-Based Linkography Abstraction Refinement for Information Security
+Abhiram Kothapalli, Robert Mitchell
+Proceedings of the Fourth ACM International Workshop on Security and Privacy Analytics (IWSPA) 2018
+Smartcast: An incentive compatible consensus protocol using smart contracts
+Abhiram Kothapalli, Andrew Miller, Nikita Borisov
+International Conference on Financial Cryptography and Data Security (FC) 2017

@@ -1,0 +1,15 @@
+URL: https://eecs.berkeley.edu/news/eecs-researchers-win-most-influential-paper-award-from-design-automation-conference
+EECS Researchers win Most Influential Paper Award from Design Automation Conference - EECS at Berkeley
+Figure #5 from the seminal paper.
+EECS researchers  Jonathan Bachrach ,  John Wawrzynek ,  Krste Asanovic , and their students and collaborators  Huy Vo ,  Brian Richards ,  Yunsup Lee ,  Andrew Waterman , and  Rimas Aviženis  have received the Design Automation Conference’s (DAC) Most Influential Paper Award for the decade 2010–2020. Their groundbreaking paper, “Chisel: Constructing Hardware in a Scala Embedded Language” (2012), introduced a domain-specific hardware construction language that has since transformed how digital hardware systems are designed and prototyped. By embedding hardware design in Scala, Chisel brought modern programming paradigms, such as parameterization, abstraction, and reuse, to circuit design, making a lasting impact on electronic design automation and education. The DAC Most Influential Paper Award honors papers that have made significant and/or industrial impact since their publication. The award was first introduced at the 60th DAC, recognizing outstanding papers from the conference’s first four decades.
+Categories
+Faculty
+Honors
+publications
+Research
+Students
+Related Links
+Chisel: Constructing Hardware in a Scala Embedded Language
+DAC's Most Influential Paper Award
+View
+Open Faculty Positions

@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-220.html
+Architectural Principles of Phosphorelay Signaling Networks
+Josh Hug
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-220
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-220.pdf
+The phosphorelay is a ubiquitous biological module that plays a fundamental role in signal transduction and stress response coordination in organisms ranging from bacteria to plants. Despite their central role, the manner in which they integrate information is poorly understood. Furthermore, naturally occurring systems have a number of key architectural variations whose purpose remains mysterious. These variations include the number of stages in the relay, the number of proteins from which the relay is built, and the set of stages which are targeted by phosphatases and kinases.
+In this work, I create a unified framework for understanding the function of phosphorelays and their architectural variations. Central to this investigation are a pair of models for the phosphorelay, one of which is an Ordinary Differential Equations based model, and the other of which is a Chemical Master Equation based model. The ODE based model is used to rigorously demonstrate that a phosphorelay is monotone, and thus converges to some steady state. In turn, the steady state output is elucidated in terms of the parameters that determine the net influx and net efflux at each stage as well as the growth rate.
+This steady state output function provides an elaboration on a prior hypothesis which suggests that a long phosphorelay provides additional phosphoregulation targets. Specifically, we find that the output of a phosphorelay is proportional to the net influx rate divided by the sum of various products of efflux signals. In the large efflux signal limit, effluxes are effectively multiplied to generate the final output. In this way, the activity of phosphatases which act on multiple stages in the relay are multiplied, allowing the phosphorelay to act as an analog computation device for this specific function.
+Growth is shown to have an unexpectedly powerful effect on relay output. In the most extreme cases, the phosphorelay output is shown to obey a power law with respect to growth, with an exponent which can be as large as the length of the relay, and which is also mediated by other key architectural variations. Thus, the phosphorelay can be utilized as a device which allows an organism to select behavior by comparing its growth rate to a threshold, where the level and sharpness of this threshold can be controlled by architectural and parametric changes. These results also provide design laws for building phosphorelays which are robust to growth rate variation.
+Phosphorelays are also known to have a substantial effect on growth rate, and thus the relay and growth rate form a cross inhibitory loop. We show that under reasonable parametric conditions, a phosphorelay can thus be used as a hysteretic growth switch, and discuss the implications of this idea. Many of these ideas are then supported through numerical simulation of the ODE outside of the parametric conditions which allowed these ideas to be derived. They are further supported through investigation of a CME based model, and biological experiments are suggested that could validate these ideas. Finally, we discuss these results in the context of the Bacillus subtilis phosphorelay, whose output is known to affect the production of every relay protein but one. We hypothesize that this single feedback is missing in order to preserve the analog computation function.
+Advisors:  Laurent El Ghaoui
+BibTeX citation:
+@phdthesis{Hug:EECS-2012-220,
+Author= {Hug, Josh},
+Title= {Architectural Principles of Phosphorelay Signaling Networks},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-220.html},
+Number= {UCB/EECS-2012-220},
+Abstract= {The phosphorelay is a ubiquitous biological module that plays a fundamental role in signal transduction and stress response coordination in organisms ranging from bacteria to plants. Despite their central role, the manner in which they integrate information is poorly understood. Furthermore, naturally occurring systems have a number of key architectural variations whose purpose remains mysterious. These variations include the number of stages in the relay, the number of proteins from which the relay is built, and the set of stages which are targeted by phosphatases and kinases.
+In this work, I create a unified framework for understanding the function of phosphorelays and their architectural variations. Central to this investigation are a pair of models for the phosphorelay, one of which is an Ordinary Differential Equations based model, and the other of which is a Chemical Master Equation based model. The ODE based model is used to rigorously demonstrate that a phosphorelay is monotone, and thus converges to some steady state. In turn, the steady state output is elucidated in terms of the parameters that determine the net influx and net efflux at each stage as well as the growth rate.
+This steady state output function provides an elaboration on a prior hypothesis which suggests that a long phosphorelay provides additional phosphoregulation targets. Specifically, we find that the output of a phosphorelay is proportional to the net influx rate divided by the sum of various products of efflux signals. In the large efflux signal limit, effluxes are effectively multiplied to generate the final output. In this way, the activity of phosphatases which act on multiple stages in the relay are multiplied, allowing the phosphorelay to act as an analog computation device for this specific function.
+Growth is shown to have an unexpectedly powerful effect on relay output. In the most extreme cases, the phosphorelay output is shown to obey a power law with respect to growth, with an exponent which can be as large as the length of the relay, and which is also mediated by other key architectural variations. Thus, the phosphorelay can be utilized as a device which allows an organism to select behavior by comparing its growth rate to a threshold, where the level and sharpness of this threshold can be controlled by architectural and parametric changes. These results also provide design laws for building phosphorelays which are robust to growth rate variation.
+Phosphorelays are also known to have a substantial effect on growth rate, and thus the relay and growth rate form a cross inhibitory loop. We show that under reasonable parametric conditions, a phosphorelay can thus be used as a hysteretic growth switch, and discuss the implications of this idea. Many of these ideas are then supported through numerical simulation of the ODE outside of the parametric conditions which allowed these ideas to be derived. They are further supported through investigation of a CME based model, and biological experiments are suggested that could validate these ideas. Finally, we discuss these results in the context of the Bacillus subtilis phosphorelay, whose output is known to affect the production of every relay protein but one. We hypothesize that this single feedback is missing in order to preserve the analog computation function.},
+}
+EndNote citation:
+%0 Thesis
+%A Hug, Josh
+%T Architectural Principles of Phosphorelay Signaling Networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-220
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-220.html
+%F Hug:EECS-2012-220

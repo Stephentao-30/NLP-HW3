@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28901.html
+Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages
+Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages
+M. Stonebraker and L.A. Rowe
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/53
+July 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-53.pdf
+BibTeX citation:
+@techreport{Stonebraker:M77/53,
+Author = {Stonebraker, M. and Rowe, L.A.},
+Title = {Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28901.html},
+Number = {UCB/ERL M77/53}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, M.
+%A Rowe, L.A.
+%T Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28901.html
+%F Stonebraker:M77/53

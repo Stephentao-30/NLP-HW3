@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-39.html
+High Optical Quality Polycrystalline Indium Phosphide Grown on Metal Substrates by MOCVD for Photovoltaic Applications
+Maxwell Zheng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-39
+April 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-39.pdf
+III-V semiconductor solar cells have demonstrated the highest power conversion efficiencies to date. However, the cost of III-V solar cells has historically been too high to be practical outside of specialty applications. This stems from the cost of raw materials, need for a lattice-matched substrate for single-crystal growth, and complex epitaxial growth processes. To address these challenges, here, we explore the direct non-epitaxial growth of thin poly-crystalline films of III-Vs on metal substrates by using MOCVD. This method minimizes the amount of raw material used while utilizing a low cost substrate. Specifically, we focus on InP which is known to have a low surface recombination velocity of carriers, thereby, making it an ideal candidate for efficient poly-crystalline cells where surface/interface properties at the grain boundaries are critical. The grown InP films are 1-3 microns thick and are composed of micron-sized grains that generally extend from the surface to the Mo substrate. They exhibit similar photoluminescence peak widths and positions as single-crystalline InP, as well as excellent crystallinity as examined through TEM and XRD analysis. This work presents poly-InP as a promising absorber layer for future photovoltaics.
+Advisors:  Ali Javey
+BibTeX citation:
+@mastersthesis{Zheng:EECS-2012-39,
+Author= {Zheng, Maxwell},
+Title= {High Optical Quality Polycrystalline Indium Phosphide Grown on Metal Substrates by MOCVD for Photovoltaic Applications},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-39.html},
+Number= {UCB/EECS-2012-39},
+Abstract= {III-V semiconductor solar cells have demonstrated the highest power conversion efficiencies to date. However, the cost of III-V solar cells has historically been too high to be practical outside of specialty applications. This stems from the cost of raw materials, need for a lattice-matched substrate for single-crystal growth, and complex epitaxial growth processes. To address these challenges, here, we explore the direct non-epitaxial growth of thin poly-crystalline films of III-Vs on metal substrates by using MOCVD. This method minimizes the amount of raw material used while utilizing a low cost substrate. Specifically, we focus on InP which is known to have a low surface recombination velocity of carriers, thereby, making it an ideal candidate for efficient poly-crystalline cells where surface/interface properties at the grain boundaries are critical. The grown InP films are 1-3 microns thick and are composed of micron-sized grains that generally extend from the surface to the Mo substrate. They exhibit similar photoluminescence peak widths and positions as single-crystalline InP, as well as excellent crystallinity as examined through TEM and XRD analysis. This work presents poly-InP as a promising absorber layer for future photovoltaics.},
+}
+EndNote citation:
+%0 Thesis
+%A Zheng, Maxwell
+%T High Optical Quality Polycrystalline Indium Phosphide Grown on Metal Substrates by MOCVD for Photovoltaic Applications
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 April 4
+%@ UCB/EECS-2012-39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-39.html
+%F Zheng:EECS-2012-39

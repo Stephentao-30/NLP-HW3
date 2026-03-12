@@ -1,0 +1,92 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2002
+Technical Reports - 2002
+Conditional Scheduling with Varying Deadlines  (CSD-02-1220) Benjamin Horowitz
+An Introspective Approach to Speculative Execution  (CSD-02-1219) Nemanja Isailovic
+A Robust Minimax Approach to Classification  (CSD-02-1218) Gert R. G. Lanckriet, Laurent El Ghaoui, Chiranjib Bhattacharyya and Michael I. Jordan
+Data Replication in OceanStore  (CSD-02-1217) Dennis Geels
+Supporting Rapid Mobility via Locality in an Overlay Network  (CSD-02-1216) Ben Y. Zhao, Anthony D. Joseph and John D. Kubiatowicz
+Exploiting Routing Redundancy Using a Wide-area Overlay  (CSD-02-1215) Ben Y. Zhao, Ling Huang, Anthony D. Joseph and John D. Kubiatowicz
+Elkhound: A Fast, Practical GLR Parser Generator  (CSD-02-1214) Scott G. McPeak
+Counterexample Guided Control  (CSD-02-1213) Thomas A. Henzinger, Ranjit Jhala and Rupak Majumdar
+Caching the Web with OceanStore  (CSD-02-1212) Patrick R. Eaton
+Description of Design Dimensions and Evaluation for Ambient Displays  (CSD-02-1211) Morgan Ames and Anind K. Dey
+OPCA: Fault-Tolerant Routing and Load-Balancing  (CSD-02-1210) Sharad Agarwal, Chen-Nee Chuah and Randy H. Katz
+Finding Clusters in Independent Component Analysis  (CSD-02-1209) Francis R. Bach and Michael I. Jordan
+GASNet Specification, v1.1  (CSD-02-1207) Dan Bonachea
+Learning the Kernel Matrix with Semi-Definite Programming  (CSD-02-1206) Gert R. G. Lanckriet, Nello Cristianini, Peter Bartlett, Laurent El Ghaoui and Michael I. Jordan
+Flux: An Adaptive Partitioning Operator for Continuous Query Systems  (CSD-02-1205) Mehul A. Shah, Joseph M. Hellerstein, Sirish Chandrasekaran and Michael J. Franklin
+From Data to Display: the Design and Evaluation of a Peripheral Sound Display for the Deaf  (CSD-02-1204) F. Wai-ling Ho-Ching, Jennifer Mankoff and James A. Landay
+Building a Better Backtrace: Techniques for Postmortem Program Analysis  (CSD-02-1203) Ben Liblit and Alex Aiken
+Two Worlds Apart: Bridging the Gap Between Physical and Virtual Media for Distributed Design Collaboration  (CSD-02-1201) Katherine M. Everitt, Scott R. Klemmer, Robert Lee and James A. Landay
+Toward Geometric Visual Servoing  (CSD-02-1200) Noah John Cowan and Dong Eui Chang
+Books with Voices: Paper Transcripts as a Tangible Interface to Oral Histories  (CSD-02-1199) Scott R. Klemmer, Jamey Graham, Gregory J. Wolff and James A. Landay
+Thin Junction Tree Filters for Simultaneous Localization and Mapping  (CSD-02-1198) Mark A. Paskin
+MOPS: an Infrastructure for Examining Security Properties of Software  (CSD-02-1197) Hao Chen and David A. Wagner
+Efficient Reconstruction of Haplotype Structure via Perfect Phylogeny  (CSD-02-1196) Eleazar Eskin, Eran Halperin and Richard M. Karp
+Large Scale Recovery of Haplotypes from Genotype Data using Imperfect Phylogeny  (CSD-02-1195) Eran Halperin and Eleazar Eskin
+On the Clustering of Web Content for Efficient Replication  (CSD-02-1193) Yan Chen, Lili Qiu, Weiyu Chen, Luan Nguyen and Randy H. Katz
+Handling the Complexities of a Real-World Language: A Harmonia Language Module for C  (CSD-02-1192) Stephen McCamant
+Task-Based Speed and Voltage Scheduling on Windows 2000  (CSD-02-1191) Jacob R. Lorch and Alan Jay Smith
+Using User Interface Event Information in Dynamic Voltage Scaling Algorithms  (CSD-02-1190) Jacob R. Lorch and Alan Jay Smith
+Route Flap Damping Exacerbates Internet Routing Convergence  (CSD-02-1189) Zhuoqing Morley Mao, Ramesh Govindan, George Varghese and Randy H. Katz
+A Conceptual Model and a Metaphor of Everyday Privacy in Ubiquitous Computing Environments  (CSD-02-1188) Scott Lederer, Anind K. Dey and Jennifer Mankoff
+Flexible and Robust Large Scale Multicast Using i3  (CSD-02-1187) Ananth Rao, Karthik Lakshminarayanan, Ion Stoica and Scott Shenker
+Host Mobility Using an Internet Indirection Infrastructure  (CSD-02-1186) Shelley Zhuang, Kevin Lai, Ion Stoica, Randy Katz and Scott Shenker
+Why Do Internet Services Fail, and What Can Be Done About It?  (CSD-02-1185) David Oppenheimer
+User Interaction Design for Secure Systems  (CSD-02-1184) Ka-Ping Yee
+Scalable Vector Media-processors for Embedded Systems  (CSD-02-1183) Christoforos Kozyrakis
+Metric Embeddings - Beyond One-dimensional Distortion  (CSD-02-1181) Robert Krauthgamer, Nathan Linial and Avner Magen
+Accurate Floating Point Summation  (CSD-02-1180) James Demmel and Yozo Hida
+Characteristics of I/O Traffic in Personal Computer and Server Workloads  (CSD-02-1179) Windsor W. Hsu and Alan Jay Smith
+Distributed Data Location in a Dynamic Network  (CSD-02-1178) Kirsten Hildrum, John D. Kubiatowicz, Satish Rao and Ben Y. Zhao
+A Scalable and Robust Solution for Bandwidth Allocation  (CSD-02-1176) Sridhar Machiraju, Mukund Seshadri and Ion Stoica
+Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies  (CSD-02-1175) David Patterson, Aaron Brown, Pete Broadwell, George Candea, Mike Chen, James Cutler, Patricia Enriquez, Armando Fox, Emre Kiciman, Matthew Merzbacher, David Oppenheimer, Naveen Sastry, William Tetzlaff, Jonathan Traupman and Noah Treuhaft
+Boolean Bounding Predicates for Spatial Access Methods  (CSD-02-1174) Megan Thomas and Joseph M. Hellerstein
+On Using Correlation-based Synopses during Query Optimization  (CSD-02-1173) Amol Deshpande and Joseph Hellerstein
+Turbo Recognition: An Approach to Decoding Page Layout  (CSD-02-1172) Taku Andrew Tokuyasu
+Shape-Time Photography  (CSD-02-1171) William T. Freeman and Hao Zhang
+Bayeaux: An Architecture for Scalable and Fault-tolerant Wide-area Data Dissemination  (CSD-02-1170) Shelley Q. Zhuang
+Characterization of Systematic Spatial Variation in Photolithography  (M02/43) J. P. Cain
+Ultra Wide-Band Baseband Design and Implementation  (M02/42) M. S.-W. Chen
+Automatic Specialization of Actor-Oriented Models in Ptolemy II  (M02/41) S. Neuendorffer
+An International Standard Model for SOI Circuit Design  (M02/40) Pin Su
+Six-Inch CMOS Baseline Process in the UC Berkeley Microfabrication Laboratory  (M02/39) L. Voros and S. Parsa
+Synthesis of Petri Nets from MSC-based Specifications  (M02/38) M. Sgroi, A. Kondratyev, Y. Watanabe and Alberto L. Sangiovanni-Vincentelli
+Actors and Their Composition  (M02/37) J. W. Janneck
+Simulation and Analysis of a Low-Power Radio Link for Sensor Node Networks  (M02/36) U. G. Schuster
+A Programming Model for Network Processors  (M02/35) N. Shah, W. Plishker and Kurt Keutzer
+Mica High Speed Radio Stack  (M02/34) N. Lee, P. Levis and J. Hill
+Static Arbitrage Bounds on Basket Option Price  (M02/33) A. d'Aspremont and Laurent El Ghaoui
+The Design and Implementation of an Ultra Low Power RF Oscillator Using Micromachined Resonators  (M02/32) Brian P. Otis
+Robust Solutions to Markov Decision Problems with Uncertain Transition Matrices The Design and Implementation of an Ultra Low Power RF Oscillator Using Micromachined Resonators  (M02/31) Laurent El Ghaoui, A. Nilim and P. Otis
+Lightweight Component Models for Embedded Systems  (M02/30) H. J. Reekie and Edward A. Lee
+Behavioral Types for Component-based Design  (M02/29) Edward A. Lee and Y. Xiong
+A New Method of Specifying Dataflow Actors  (M02/28) C. Chang, J. Eker, J. W. Janneck and Y. Zhao
+Causal Analysis of Systematic Spatial Variation in Optical Lithography  (M02/27) Haolin Zhang
+Distributed Localization in Wireless Ad Hoc Networks  (M02/26) Slobodan Simić and S. Shankar Sastry
+Distributed Gradient Estimation Using Random Sensor Networks  (M02/25) Slobodan Simić and S. Shankar Sastry
+Joystick Control for TinyOS Robot  (M02/24) M. Chiri, S. Bergbreiter and Kris Pister
+Ptolemy II: Heterogeneous Concurrent Modeling and Design in Java  (M02/23)
+PRISM: A Realtime Multimedia Coding Architecture for Wireless  (M02/22) R. Puri and Kannan Ramchandran
+Logical Analysis of Combinational Cycles  (M02/21) T. R. Shiple, Robert K. Brayton, G. Berry and Alberto L. Sangiovanni-Vincentelli
+A Methodology for the Computation of an Upper Bound on Noise Current Spectrum of CMOS Switching Activity  (M02/20) Alessandra Nardi, L. Daniel and Alberto L. Sangiovanni-Vincentelli
+Gate Stack for Sub-50nm CMOS Devices: Materials, Engineering, and Modeling  (M02/19) Igor Polishchuk
+Multi-Valued Optimization and Post Networks  (M02/18) Y. Li
+SPFDs: A New Approach to Flexibility in Logic Synthesis  (M02/17) Subarnarekha Sinha
+The Time-based Approach to Embedded Programming: A Hardware-in-the-Loop Simulation  (M02/16) J. Liebman
+Generalized Principal Component Analysis(GPCA)  (M02/15) R. Vidal, Y. Ma and S. Shankar Sastry
+Towards a Complete Plasma Diagnostic System  (M02/14) D. W. Zhao
+An Extensible Type System for Component-Based Design  (M02/13) Yuhong Xiong
+Constraint-driven Communications Synthesis  (M02/12) A. Pinto, L. P. Carloni and Alberto L. Sangiovanni-Vincentelli
+Two-View Multibody Structure from Motion  (M02/11) R. Vidal, Y. Ma, S. Soatto and S. Shankar Sastry
+Designing a Contact Process: The Piecewise-Homogeneous Process on a Finite Set with Applications  (M02/10) Aaron B. Wagner and Venkat Anantharam
+Preliminary Version of a Two-Dimensional Technical Specification for Softwalls. Designing a Contact Process: The Piecewise-Homogeneous Process on a Finite Set with Applications  (M02/9) J. A. Cataldo, Edward A. Lee, X. Liu, A. B. Wagner and Venkat Anantharam
+Mitigation of Electrical Pollution in the Home  (M02/8) Martin H. Graham
+Data Handling Circuitry for Maskless Lithography Systems  (M02/7) B. Wild
+Using Dual-Supply, Dual-Threshold and Tansisto Sizing to Reduce Power in Digital Integrated Circuits  (M02/6) S. A. Augsburger
+Design and Implementation of a Code Generator for the Cal Actor Language  (M02/5) L. Wernli
+Advanced Gate Stack Materials and Processes for Sub-100nm CMOS Appliciations  (M03/4) Qiang Lu
+Coulomb Interactions in High Throughput Electron Beam Lithography  (M02/4) B. Wu
+A Factorization Method for 3D Multi-Body Motion Estimation and Segmentation  (M02/3) R. Vidal, S. Soatto and S. Shankar Sastry
+Two-View Segmentation of Dynamic Scenes from the Multibody Fundamental Matrix  (M02/2) R. Vidal, S. Soatto and S. Shankar Sastry
+Comprehensive Model for Projection Photolithography: Rigorous, Fast and Novel Processing  (M02/1) Mosong Cheng

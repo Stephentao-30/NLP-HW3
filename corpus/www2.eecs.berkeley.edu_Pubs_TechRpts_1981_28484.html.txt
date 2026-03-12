@@ -1,0 +1,29 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28484.html
+Ingres Version 7 Reference Manual
+John Woodfill and Polly Siegal and Jeff Ranstrom and Marc Meyer and Eric Allman
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/61
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-61.pdf
+BibTeX citation:
+@techreport{Woodfill:M81/61,
+Author= {Woodfill, John and Siegal, Polly and Ranstrom, Jeff and Meyer, Marc and Allman, Eric},
+Title= {Ingres Version 7 Reference Manual},
+Year= {1981},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28484.html},
+Number= {UCB/ERL M81/61},
+}
+EndNote citation:
+%0 Report
+%A Woodfill, John
+%A Siegal, Polly
+%A Ranstrom, Jeff
+%A Meyer, Marc
+%A Allman, Eric
+%T Ingres Version 7 Reference Manual
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28484.html
+%F Woodfill:M81/61

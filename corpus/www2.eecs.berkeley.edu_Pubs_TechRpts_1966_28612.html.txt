@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28612.html
+Self-Duality and Constant Resistance One-Ports
+C.A. Dosoer and K.K. Wong
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M184
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-184.pdf
+BibTeX citation:
+@techreport{Dosoer:M184,
+Author= {Dosoer, C.A. and Wong, K.K.},
+Title= {Self-Duality and Constant Resistance One-Ports},
+Year= {1966},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28612.html},
+Number= {UCB/ERL M184},
+}
+EndNote citation:
+%0 Report
+%A Dosoer, C.A.
+%A Wong, K.K.
+%T Self-Duality and Constant Resistance One-Ports
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M184
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28612.html
+%F Dosoer:M184

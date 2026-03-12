@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2000/8120.html
+Access Methods for Next-Generation Database Systems
+Marcel Kornacker
+EECS Department, University of California, Berkeley
+2000
+Advisors:  Joseph M. Hellerstein
+BibTeX citation:
+@phdthesis{Kornacker:8120,
+Author= {Kornacker, Marcel},
+Title= {Access Methods for Next-Generation Database Systems},
+School= {EECS Department, University of California, Berkeley},
+Year= {2000},
+}
+EndNote citation:
+%0 Thesis
+%A Kornacker, Marcel
+%T Access Methods for Next-Generation Database Systems
+%I EECS Department, University of California, Berkeley
+%D 2000
+%F Kornacker:8120

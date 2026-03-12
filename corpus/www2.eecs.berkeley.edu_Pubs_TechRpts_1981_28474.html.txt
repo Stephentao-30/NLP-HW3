@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28474.html
+The Code Generator Generators' Work Station: Reimplementation and Experimentation with the Graham-Glanville Machine Independent Algorithms for Code Generation
+Robert R. Henry
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/47
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-47.pdf
+BibTeX citation:
+@techreport{Henry:M81/47,
+Author= {Henry, Robert R.},
+Title= {The Code Generator Generators' Work Station: Reimplementation and Experimentation with the Graham-Glanville Machine Independent Algorithms for Code Generation},
+Year= {1981},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28474.html},
+Number= {UCB/ERL M81/47},
+}
+EndNote citation:
+%0 Report
+%A Henry, Robert R.
+%T The Code Generator Generators' Work Station: Reimplementation and Experimentation with the Graham-Glanville Machine Independent Algorithms for Code Generation
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28474.html
+%F Henry:M81/47

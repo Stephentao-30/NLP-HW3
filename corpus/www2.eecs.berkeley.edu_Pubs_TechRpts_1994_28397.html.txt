@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1994/28397.html
+The Postgres User Manual
+The POSTGRES Group
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M92/120-v2
+1994
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1994/ERL-92-120-v2.pdf
+BibTeX citation:
+@techreport{The POSTGRES Group:M92/120-v2,
+Author= {The POSTGRES Group,},
+Title= {The Postgres User Manual},
+Year= {1994},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1994/28397.html},
+Number= {UCB/ERL M92/120-v2},
+}
+EndNote citation:
+%0 Report
+%A The POSTGRES Group,
+%T The Postgres User Manual
+%I EECS Department, University of California, Berkeley
+%D 1994
+%@ UCB/ERL M92/120-v2
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1994/28397.html
+%F The POSTGRES Group:M92/120-v2

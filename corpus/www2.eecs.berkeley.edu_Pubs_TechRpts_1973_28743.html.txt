@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28743.html
+Optimizing Models for Urban Development | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Optimizing Models for Urban Development
+Optimizing Models for Urban Development
+Mario Ripper and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M399
+August 1973
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/ERL-m-399.pdf
+BibTeX citation:
+@techreport{Ripper:M399,
+Author = {Ripper, Mario and Varaiya, Pravin},
+Title = {Optimizing Models for Urban Development},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1973},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28743.html},
+Number = {UCB/ERL M399}
+}
+EndNote citation:
+%0 Report
+%A Ripper, Mario
+%A Varaiya, Pravin
+%T Optimizing Models for Urban Development
+%I EECS Department, University of California, Berkeley
+%D 1973
+%@ UCB/ERL M399
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1973/28743.html
+%F Ripper:M399

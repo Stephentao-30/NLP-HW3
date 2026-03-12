@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-248.html
+Inverse Electromagnetic Design of Optical Antennas for Heat-Assisted Magnetic Recording
+Samarth Bhargava
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-248
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-248.pdf
+An Inverse Electromagnetic Design algorithm is presented that can efficiently solve for optimal shapes of electromagnetic devices, such as antennas, surface textures and gratings. The algorithm was implemented in software along with techniques to represent non-parametric or freeform shapes, which allow the optimization to explore non-intuitive solutions. This Inverse Design Software was then used to design optical antennas for Heat-Assisted Magnetic Recording to efficiently deliver energy to a sub-wavelength spot. The optical system that is proposed here consists merely of a rectangular waveguide and a planar antenna, a simple and inexpensive solution that outperforms the complicated designs from the key players in the data storage industry.
+Advisors:  Eli Yablonovitch
+BibTeX citation:
+@mastersthesis{Bhargava:EECS-2012-248,
+Author= {Bhargava, Samarth},
+Title= {Inverse Electromagnetic Design of Optical Antennas for Heat-Assisted Magnetic Recording},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-248.html},
+Number= {UCB/EECS-2012-248},
+Abstract= {An Inverse Electromagnetic Design algorithm is presented that can efficiently solve for optimal shapes of electromagnetic devices, such as antennas, surface textures and gratings. The algorithm was implemented in software along with techniques to represent non-parametric or freeform shapes, which allow the optimization to explore non-intuitive solutions. This Inverse Design Software was then used to design optical antennas for Heat-Assisted Magnetic Recording to efficiently deliver energy to a sub-wavelength spot. The optical system that is proposed here consists merely of a rectangular waveguide and a planar antenna, a simple and inexpensive solution that outperforms the complicated designs from the key players in the data storage industry.},
+}
+EndNote citation:
+%0 Thesis
+%A Bhargava, Samarth
+%T Inverse Electromagnetic Design of Optical Antennas for Heat-Assisted Magnetic Recording
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-248
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-248.html
+%F Bhargava:EECS-2012-248

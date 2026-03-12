@@ -1,0 +1,15 @@
+URL: https://eecs.berkeley.edu/book/turing-colloquium/schedule-3/kahan
+A Numerical Analyst Thinks about Deep Learning - EECS at Berkeley
+A Numerical Analyst Thinks about Deep Learning
+Berkeley ACM A.M. Turing Laureate Colloquium
+William Kahan
+Wednesday, November 7, 2018
+HP Auditorium, 306 Soda Hall  4:00 – 5:00 pm
+Biography
+William “Velvel” Kahan, professor emeritus of EECS and Mathematics, received his B.S., M.S., and Ph.D. in mathematics from the University of Toronto.   Kahan is widely known as “The Father of Floating Point.”  He was the primary architect behind the IEEE 754-1985 standard for floating-point computation and contributed to the revision that led to the IEEE 754 standard used today.  He developed a program in the 1980s called “paranoia”, a benchmark that tests for a wide range of potential floating point bugs.  He also developed the Kahan summation algorithm, an important algorithm for minimizing error introduced when adding a sequence of finite precision floating point numbers. He coined the term “The Table Maker’s Dilemma” for the unknown cost of correctly rounding transcendental functions to some preassigned number of digits. The Davis–Kahan–Weinberger dilation theorem is one of the landmark results in the dilation theory of Hilbert space operators and has found applications in many different areas.  He received the Turing Award in 1989.
+Video of Presentation
+Video of Interview
+< The Land Sharks are on the Squawk Box
+Game Theory in Auction and Blockchain >
+View
+Open Faculty Positions

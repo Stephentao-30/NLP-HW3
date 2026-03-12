@@ -1,0 +1,9 @@
+URL: https://eecs.berkeley.edu/news/nick-carlini-embeds-hidden-commands-alexa-and-siri-recordings-music-and-spoken-text
+Nick Carlini embeds hidden commands to Alexa and Siri in recordings of music and spoken text - EECS at Berkeley
+CS graduate student Nicholas Carlini  is featured in a New York Times article titled “Alexa and Siri Can Hear This Hidden Command. You Can’t.” He and his advisor, David Wagner, have published a paper showing they can embed audio instructions, undectable by human beings, directly into recordings of music or spoken text. They can secretly activate the artificial intelligence systems on smartphones and smart speakers, making them dial phone numbers or open websites. In the wrong hands, the technology could be used to unlock doors, wire money or buy stuff online — simply with music playing over the radio.  “We want to demonstrate that it’s possible,” he said, “and then hope that other people will say, ‘O.K. this is possible, now let’s try and fix it.’ ”  Carlini was among a group of researchers who showed in 2016 that they could hide commands in white noise played over loudspeakers and through YouTube videos to get smart devices to turn on airplane mode or open a website.
+Categories
+Faculty
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,68 @@
+URL: https://people.eecs.berkeley.edu/~akrentsel
+Alexander Krentsel - Networked Systems Researcher
+Interests
+I am drawn to problems that touch on control systems, decentralization, and usable and practical systems, which taken together have led me to networking. I enjoy systems thinking and the problems that come along with it. Outside of systems, I am very interested in computer science education and pedagogy.
+News
+Sep 14, 2024: Our paper on validating inputs to SDN controllers will appear in  HotNets '24
+Aug 15, 2024: dSDN  patent 1  and  patent 2  published
+Aug 02, 2024: Our paper on  A Decentralized SDN Architecture  appears at  SIGCOMM '24
+Publications
+Bandwidth Allocation for Cloud-Connected Autonomous Driving
+Peter Schafhalter*,  Alexander Krentsel* , Joseph E Gonzalez, Sylvia Ratnasamy, Scott Shenker, Ion Stoica.
+Under Submission, Conference paper
+Managing Bandwidth: The Key to Cloud-Assisted Autonomous Driving
+Alexander Krentsel* , Peter Schafhalter*, Joseph E Gonzalez, Sylvia Ratnasamy, Scott Shenker, Ion Stoica.
+[  Arxiv  ]
+The Case for Validating Inputs in Software-Defined WANs
+Alexander Krentsel , Rishabh Iyer, Isaac Keslassy, Sylvia Ratnasamy, Rob Shakir, Anees Shaikh.
+HotNets 2024, Irvine, CA
+[  Paper |  Slides |  Conference Program  ]
+A Decentralized SDN Architecture for the WAN
+Alexander Krentsel , Nitika Saran, Bikash Koley, Subhasree Mandal, Ashok Narayanan, Sylvia Ratnasamy, Ali Al-Shabibi, Anees Shaikh, Rob Shakir, Ankit Singla, Hakim Weatherspoon.
+SIGCOMM 2024, Sydney, Australia
+[  Paper |  Slides |  Poster |  Patent 1 |  Patent 2 |  Conference Program  ]
+The Sky is the Limit: Cloud-Assisted Autonomous Driving via Service Tiers
+Alexander Krentsel , Peter Schafhalter, Joseph E Gonzalez, Sylvia Ratnasamy, Scott Shenker, Ion Stoica.
+Compound AI Systems Workshop, Databricks Data + AI Summit 2024
+[  Extended Abstract |  Poster |  Workshop Program  ]
+Talks
+The Case for Validating SDN Inputs
+[  Slides  ]
+Oct 31, 2024 - UC Berkeley, Berkeley, CA
+Nov 12, 2024 - Google, Sunnyvale, CA
+Nov 19, 2024 - HotNets Conference, UC Irvine, CA
+Grad School 101: What, Why, and How
+[  Slides  ]
+Oct 16, 2024 - Berkeley, CA
+Decentralizing the SDN WAN Control Plane
+[  Slides  ]
+Jul 30, 2024 - Google, Sunnyvale, CA
+Aug 8, 2024 - SIGCOMM Conference, Sydney, Australia
+Aug 12, 2024 - KAIST, Daejeon, South Korea
+Nov 4, 2024 - University of Houston, TX
+Nov 20, 2024 - SF Systems Meetup, San Francisco, CA
+From Google to Berkeley PhD, Systems Research, and Teaching
+[  Recording  ]
+May 2024 - Thinking about Computers Podcast, Berkeley, CA
+Lessons Learned from a 10-Year Cal Journey
+[  Slides  ]
+Apr 20, 2024 - UC Berkeley, Berkeley, CA
+How to Write Letters of Recommendation
+[  Slides  ]
+Dec 22, 2022 - Googler-in-Residence Summit, Washington, DC
+Oct 9, 2023 - Googler-in-Residence Summit, San Francisco, CA
+Aug 19, 2024 - Google, Sunnyvale, CA
+Ethics Questions are Everywhere in Computer Science
+[  Slides  ]
+Nov 3, 2022 - Fisk University, Nashville, TN
+Teaching
+Su '23:  Lecturer ,  AddisCoder: Accelerated Intro to CS , Ethiopia [  Materials (Week 2)  ]
+Fa '22:  Head TA ,  CS168: Internet Architecture , UC Berkeley
+Fa '21:  Lecturer ,  CSCI100: Intro to Computer Science , Howard University [  Syllabus  |  Videos  |  Slides  ]
+Sp '21:  TA ,  CS106A Online: Code-in-Place , Stanford
+Sp '20:  TA ,  CS106A Online: Code-in-Place , Stanford
+Sp '19:  TA ,  CS189/CS289: Machine Learning , UC Berkeley
+Fa '18:  TA ,  CS168: Internet Architecture , UC Berkeley
+Sp '18:  TA ,  CS61B: Data Structures and Algorithms , UC Berkeley [  New Project Designed  ]
+Sp '17:  TA ,  EE16A: Introduction to Electrical Engineering , UC Berkeley
+Fa '16:  TA ,  EE16A: Introduction to Electrical Engineering , UC Berkeley

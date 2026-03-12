@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-40.html
+Exploiting Memory-level Parallelism in Reconfigurable Accelerators
+Shaoyi Cheng
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-40
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-40.pdf
+As memory accesses increasingly limit the overall performance of reconfigurable accelerators, it is important for high-level synthesis (HLS) flows to adopt a systematic way to discover and exploit memory-level parallelism. This work develops 1) a framework where parallelism between memory
+accesses can be revealed from runtime profiles of applications and provided to a high level synthesis flow, and 2) a novel multiaccelerator/multi-cache architecture to support parallel memory accesses, taking advantage of the high aggregated memory bandwidth found in modern FPGA devices. Our
+experimental results have shown that for 10 accelerators generated from 9 benchmark applications, circuits using our proposed memory structure achieve on average 51% improved performance over accelerators using a traditional memory interface. We believe that our study represents a solid advance towards achieving memory-parallel embedded computing on hybrid CPU+FPGA platforms.
+Advisors:  John Wawrzynek
+BibTeX citation:
+@mastersthesis{Cheng:EECS-2013-40,
+Author= {Cheng, Shaoyi},
+Title= {Exploiting Memory-level Parallelism in Reconfigurable Accelerators},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-40.html},
+Number= {UCB/EECS-2013-40},
+Abstract= {As memory accesses increasingly limit the overall performance of reconfigurable accelerators, it is important for high-level synthesis (HLS) flows to adopt a systematic way to discover and exploit memory-level parallelism. This work develops 1) a framework where parallelism between memory
+accesses can be revealed from runtime profiles of applications and provided to a high level synthesis flow, and 2) a novel multiaccelerator/multi-cache architecture to support parallel memory accesses, taking advantage of the high aggregated memory bandwidth found in modern FPGA devices. Our
+experimental results have shown that for 10 accelerators generated from 9 benchmark applications, circuits using our proposed memory structure achieve on average 51% improved performance over accelerators using a traditional memory interface. We believe that our study represents a solid advance towards achieving memory-parallel embedded computing on hybrid CPU+FPGA platforms.},
+}
+EndNote citation:
+%0 Thesis
+%A Cheng, Shaoyi
+%T Exploiting Memory-level Parallelism in Reconfigurable Accelerators
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-40
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-40.html
+%F Cheng:EECS-2013-40

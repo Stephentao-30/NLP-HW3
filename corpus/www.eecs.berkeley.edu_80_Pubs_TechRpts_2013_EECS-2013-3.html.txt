@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-3.html
+Object Detection in RGB-D Indoor Scenes
+Edmund Shanming Ye
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-3
+January 14,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-3.pdf
+Object detection is a well-studied problem in computer vision. One of the basic tasks is to draw tight bounding boxes around instances of various target classes in a set of images. Computer vision literature has primarily focused on intensity, with less emphasis on depth data. In this report we address the challenge of detecting 10 common household items (bed, chair, etc) in RGB-D images obtained using the Kinect. We operate on the recently released NYU-Depth V2 dataset. Our algorithm augments the deformable parts model by adding a set of vector quantized depth features that are, to the best of our knowledge, novel on this dataset.
+Advisors:  Jitendra Malik
+BibTeX citation:
+@mastersthesis{Ye:EECS-2013-3,
+Author= {Ye, Edmund Shanming},
+Editor= {Malik, Jitendra},
+Title= {Object Detection in RGB-D Indoor Scenes},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-3.html},
+Number= {UCB/EECS-2013-3},
+Abstract= {Object detection is a well-studied problem in computer vision. One of the basic tasks is to draw tight bounding boxes around instances of various target classes in a set of images. Computer vision literature has primarily focused on intensity, with less emphasis on depth data. In this report we address the challenge of detecting 10 common household items (bed, chair, etc) in RGB-D images obtained using the Kinect. We operate on the recently released NYU-Depth V2 dataset. Our algorithm augments the deformable parts model by adding a set of vector quantized depth features that are, to the best of our knowledge, novel on this dataset.},
+}
+EndNote citation:
+%0 Thesis
+%A Ye, Edmund Shanming
+%E Malik, Jitendra
+%T Object Detection in RGB-D Indoor Scenes
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 January 14
+%@ UCB/EECS-2013-3
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-3.html
+%F Ye:EECS-2013-3

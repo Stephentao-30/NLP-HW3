@@ -1,0 +1,14 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS61AS
+Course: CS61AS | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS61AS
+CS 61AS. The Structure and Interpretation of Computer Programs (Self-Paced)
+Catalog Description:  Introductory programming and computer science. Abstraction as means to control program complexity. Programming paradigms: functional, object-oriented, client/server, and declarative (logic). Control abstraction: recursion and higher order functions. Introduction to asymptotic analysis of algorithms. Data abstraction: abstract data types, type-tagged data, first class data types, sequences implemented as lists and as arrays, generic operators implemented with data-directed programming and with message passing. Implementation of object-oriented programming with closures over dispatch procedures. Introduction to interpreters and compilers. There are several significant programming projects. Course may be completed in one or two semesters. Students must complete a mimimum of two units during their first semester of 61AS.
+Units:  1-4
+Prerequisites:  Mathematics 1A (may be taken concurrently). Programming experience equivalent to that gained in 10 or the Advanced Placement Computer Science A course is recommended, but is not essential; students without this experience will begin at an earlier point in the online course.
+Credit Restrictions:  Students will receive no credit for Computer Science 61AS after completing Computer Science 47A or Computer Science 61A. A deficient grade in Computer Science 61A may be removed by taking Computer Science 61AS.
+Class homepage on inst.eecs
+General Catalog listing

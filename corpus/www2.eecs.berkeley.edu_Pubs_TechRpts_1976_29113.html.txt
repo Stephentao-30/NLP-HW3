@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29113.html
+N-Mos Operational Amplifier Study
+Bedrich Hostica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M578
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-578.pdf
+BibTeX citation:
+@techreport{Hostica:M578,
+Author= {Hostica, Bedrich},
+Title= {N-Mos Operational Amplifier Study},
+Year= {1976},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29113.html},
+Number= {UCB/ERL M578},
+}
+EndNote citation:
+%0 Report
+%A Hostica, Bedrich
+%T N-Mos Operational Amplifier Study
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M578
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/29113.html
+%F Hostica:M578

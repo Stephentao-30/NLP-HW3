@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/191009-2
+Metric Telepresence - EECS at Berkeley
+Metric Telepresence
+EVENT CANCELLED
+This event has been cancelled due to a campus-wide power shutdown.  We hope to reschedule this talk for the Spring series.
+EECS Colloquium
+Wednesday, October 9, 2019
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Yaser Sheikh
+Facebook Reality Labs
+Yaser Sheikh speaks on "Metric Telepresence," 10/9/19
+Abstract:
+Telepresence has the potential to bring billions of people into AR and VR. It is the next step in the evolution from telegraphy to telephony to videoconferencing. Just like telephony and video-conferencing, the key attribute of success will be “authenticity”: users’ trust that received signals (e.g., audio for the telephone and video/audio for VC) are truly those transmitted by their friends, colleagues, or family. The challenge arises from this seeming contradiction: how do we enable authentic interactions in artificial environments?
+In this talk, I will describe early steps taken at FRL Pittsburgh in achieving  metric  telepresence: telepresence that aims to create a metrically accurate reproduction of your interaction in artificial reality. Our approach to this problem centers around codec avatars: the use of neural networks to address the computer vision (encoding) and computer graphics (decoding) problems in signal transmission and reception. The creation of codec avatars require capture systems of unprecedented 3D sensing resolution and a new generation of algorithms, which I will also describe.
+Biography
+Yaser Sheikh directs the Facebook Reality Lab in Pittsburgh, which is devoted to achieving photorealistic social interactions in AR and VR, and is an adjunct professor at Carnegie Mellon University. His research broadly focuses on machine perception and rendering of social behavior, spanning sub-disciplines in computer vision, computer graphics, and machine learning. With colleagues and students, he has won the Honda Initiation Award (2010), Popular Science’s “Best of What’s New” Award, best student paper award at CVPR (2018), best paper finalists at (CVPR 2019), best paper awards at WACV (2012), SAP (2012), SCA (2010), ICCV THEMIS (2009), best demo award at ECCV (2016), and he received the Hillman Fellowship for Excellence in Computer Science Research (2004). Yaser has served as a senior committee member at leading conferences in computer vision, computer graphics, and robotics including SIGGRAPH (2013, 2014), CVPR (2014, 2015, 2018), ICRA (2014, 2016), ICCP (2011), and served as an Associate Editor of CVIU. His research has been featured by various media outlets including The New York Times, BBC, MSNBC, Popular Science, and in technology media such as WIRED, The Verge, and New Scientist.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

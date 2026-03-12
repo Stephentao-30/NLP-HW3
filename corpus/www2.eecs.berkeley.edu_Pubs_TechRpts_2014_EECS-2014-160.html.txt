@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-160.html
+Dynamic and Interactive Synthesis of Code Snippets | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Dynamic and Interactive Synthesis of Code Snippets
+Dynamic and Interactive Synthesis of Code Snippets
+Joel Galenson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-160
+August 20, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-160.pdf
+Many code fragments are difficult to write. For example, using new and unfamiliar APIs can be a complex task with a steep learning curve. In addition, implementing a complex data structure requires discovering and understanding all of the corner cases. And more and more end users with little to no formal training are trying to write code, whether they be scientists writing simulations or kids writing mobile apps. For all of these reasons and more, programming is a difficult task, which leads to bugs and delays in software.
+There are many tools that help programmers find code fragments involving complex APIs, but many are somewhat inexpressive and rely on static information. We present a new technique, which we call CodeHint, that generates and evaluates code at runtime and hence can synthesize real-world Java code that involves I/O, reflection, native calls, and other advanced language features. Our approach is dynamic (giving accurate results and allowing programmers to reason about concrete executions), easy-to-use (supporting a wide range of correctness specifications), and interactive (allowing users to refine the candidate code snippets). We evaluate CodeHint and show that its algorithms are efficient and that in two user studies it improves programmer productivity by more than a factor of two.
+As the second contribution, programmers and end users often find it easy to explain an algorithm on a whiteboard or with pictures in a textbook but struggle to write the code correctly. We propose a new methodology that allows users to program by demonstrating how an algorithm proceeds on concrete inputs. To reduce the burden of these demonstrations on the user, we have developed pruning algorithms to remove ambiguities in the demonstrations and control flow inference algorithms to infer missing conditionals in demonstrations. These two techniques take advantage of the knowledge encoded in the user's partial correctness condition. We show that this approach is effective in practice by analyzing its performance on several common algorithms.
+Advisor:  Ras Bodik and Koushik Sen
+BibTeX citation:
+@phdthesis{Galenson:EECS-2014-160,
+Author = {Galenson, Joel},
+Title = {Dynamic and Interactive Synthesis of Code Snippets},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-160.html},
+Number = {UCB/EECS-2014-160},
+Abstract = {Many code fragments are difficult to write.  For example, using new and unfamiliar APIs can be a complex task with a steep learning curve.  In addition, implementing a complex data structure requires discovering and understanding all of the corner cases.  And more and more end users with little to no formal training are trying to write code, whether they be scientists writing simulations or kids writing mobile apps.  For all of these reasons and more, programming is a difficult task, which leads to bugs and delays in software.
+There are many tools that help programmers find code fragments involving complex APIs, but many are somewhat inexpressive and rely on static information.  We present a new technique, which we call CodeHint, that generates and evaluates code at runtime and hence can synthesize real-world Java code that involves I/O, reflection, native calls, and other advanced language features.  Our approach is dynamic (giving accurate results and allowing programmers to reason about concrete executions), easy-to-use (supporting a wide range of correctness specifications), and interactive (allowing users to refine the candidate code snippets).  We evaluate CodeHint and show that its algorithms are efficient and that in two user studies it improves programmer productivity by more than a factor of two.
+As the second contribution, programmers and end users often find it easy to explain an algorithm on a whiteboard or with pictures in a textbook but struggle to write the code correctly.  We propose a new methodology that allows users to program by demonstrating how an algorithm proceeds on concrete inputs.  To reduce the burden of these demonstrations on the user, we have developed pruning algorithms to remove ambiguities in the demonstrations and control flow inference algorithms to infer missing conditionals in demonstrations.  These two techniques take advantage of the knowledge encoded in the user's partial correctness condition.  We show that this approach is effective in practice by analyzing its performance on several common algorithms.}
+}
+EndNote citation:
+%0 Thesis
+%A Galenson, Joel
+%T Dynamic and Interactive Synthesis of Code Snippets
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 August 20
+%@ UCB/EECS-2014-160
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-160.html
+%F Galenson:EECS-2014-160

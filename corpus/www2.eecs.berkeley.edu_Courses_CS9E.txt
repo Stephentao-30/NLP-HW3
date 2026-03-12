@@ -1,0 +1,32 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS9E
+Course: CS9E | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS9E
+CS 9E. Productive Use of the UNIX Environment
+Catalog Description:  Use of UNIX utilities and scripting facilities for customizing the programming environment, organizing files (possibly in more than one computer account), implementing a personal database, reformatting text, and searching for online resources.
+Units:  2.0
+Prerequisites:  Programming experience similar to that gained in COMPSCI 61A or ENGIN 7; DOS or UNIX experience.
+Credit Restrictions:  Refer to computer science service course restrictions.
+Formats:  Fall: 2 hours of self-paced per week
+Spring: 2 hours of self-paced per week
+Grading basis:  passFail
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: We intend in this course to provide students with experience with a variety of UNIX utilities (including awk and sed), the UNIX shell command language, and facilities for managing directories on multiple computers. In the process of learning the UNIX operating system, they will be applying knowledge of mathematics, science and engineering. As many of their projects require a fair bit of software engineering, they will also be making design decisions (algorithm, data structure, time-vs-space, etc) and considering various implementation trade-offs.
+Topics covered:
+Use of several utilities (comm, cut, head, tail, sort, tr, wc) alone and in combination
+Customization of one's .login and X initialization files
+Navigation through the UNIX file directory and through various online documentation resources
+Job control
+Shell scripting
+Network use (ssh, scp, rlogin, rcp, rsh, telnet, ftp, mail) and web browsing
+Using and comparing compression and archiving utilities
+Sed used in combination with shell scripts
+Regular expressions
+Make
+Find
+Awk

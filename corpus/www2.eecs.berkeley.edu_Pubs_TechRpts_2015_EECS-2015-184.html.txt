@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-184.html
+Refinements in Syntactic Parsing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Refinements in Syntactic Parsing
+Refinements in Syntactic Parsing
+David Hall
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-184
+August 10, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-184.pdf
+yntactic parsing is one of the core tasks of natural language processing, with many appli- cations in downstream NLP tasks, from machine translation and summarization to relation extraction and coreference resolution. Parsing performance on English texts, particularly well-edited newswire text, is generally regarded as quite good. However, state-of-the-art constituency parsers produce incorrect parses for more than half of sentences. Moreover, parsing performance on other genres or in other languages is still quite hit-or-miss, mostly miss. Many approaches have been developed for building constituency parsers over the years, in- cluding lexicalization (Collins 1997; Charniak 2000), structural annotation (Johnson 1998a; Klein and Manning 2003), and latent variable annotation (Matsuzaki, Miyao, and Tsujii 2005; Petrov et al. 2006). Each of these kinds of models have different strengths and weak- nesses. In this thesis, we develop a model of constituency parsing that attempts to unify these earlier parsing models. This approach centers around the idea of refinement of a simple underlying grammar. We show how latent variable modeling, structural annotation, and lexicalization can all be expressed as grammar refinements. These kinds of refinements capture different phenomena, but systems have generally chosen one kind or another. This is because grammars can grow exponentially as additional refinements are added. We present an approach where multiple refinements coexist, but in a factored manner that avoids this combinatorial explosion. Our method works with linguistically-motivated annotations, induced latent structure, lexicalization, or any mix of the three. By using the approximate inference algorithm expectation propagation (Minka 2001), we are able to use many refinements at the same time, without incurring substantial overhead in terms of parsing speed. With this system in hand, we examine the extent to which using many kinds of refinements can improve performance. From there, we question whether grammar refinements are necessary at all. We present a parser that largely eschews refinements in favor of simple surface configurations. We show that it works quite well on ten different languages from several different language families.
+Finally, we show how to take advantage of the refinement structure of latent variable grammars to double the speed of an already extremely fast parser for graphics processing units (GPUs). Our resulting GPU parser is around 40 times faster than the original CPU implementation, parsing over 400 sentences per second on a commodity consumer-grade GPU.
+Advisor:  Daniel Klein
+BibTeX citation:
+@phdthesis{Hall:EECS-2015-184,
+Author = {Hall, David},
+Title = {Refinements in Syntactic Parsing},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-184.html},
+Number = {UCB/EECS-2015-184},
+Abstract = {yntactic parsing is one of the core tasks of natural language processing, with many appli- cations in downstream NLP tasks, from machine translation and summarization to relation extraction and coreference resolution. Parsing performance on English texts, particularly well-edited newswire text, is generally regarded as quite good. However, state-of-the-art constituency parsers produce incorrect parses for more than half of sentences. Moreover, parsing performance on other genres or in other languages is still quite hit-or-miss, mostly miss.
+Many approaches have been developed for building constituency parsers over the years, in- cluding lexicalization (Collins 1997; Charniak 2000), structural annotation (Johnson 1998a; Klein and Manning 2003), and latent variable annotation (Matsuzaki, Miyao, and Tsujii 2005; Petrov et al. 2006). Each of these kinds of models have different strengths and weak- nesses.
+In this thesis, we develop a model of constituency parsing that attempts to unify these earlier parsing models. This approach centers around the idea of refinement of a simple underlying grammar. We show how latent variable modeling, structural annotation, and lexicalization can all be expressed as grammar refinements.
+These kinds of refinements capture different phenomena, but systems have generally chosen one kind or another. This is because grammars can grow exponentially as additional refinements are added. We present an approach where multiple refinements coexist, but in a factored manner that avoids this combinatorial explosion. Our method works with linguistically-motivated annotations, induced latent structure, lexicalization, or any mix of the three. By using the approximate inference algorithm expectation propagation (Minka 2001), we are able to use many refinements at the same time, without incurring substantial overhead in terms of parsing speed. With this system in hand, we examine the extent to which using many kinds of refinements can improve performance.
+From there, we question whether grammar refinements are necessary at all. We present a parser that largely eschews refinements in favor of simple surface configurations. We show that it works quite well on ten different languages from several different language families.
+Finally, we show how to take advantage of the refinement structure of latent variable grammars to double the speed of an already extremely fast parser for graphics processing units (GPUs). Our resulting GPU parser is around 40 times faster than the original CPU implementation, parsing over 400 sentences per second on a commodity consumer-grade GPU.}
+}
+EndNote citation:
+%0 Thesis
+%A Hall, David
+%T Refinements in Syntactic Parsing
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 10
+%@ UCB/EECS-2015-184
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-184.html
+%F Hall:EECS-2015-184

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28785.html
+INGRES- A Relational Data Base System (Revised) | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+INGRES- A Relational Data Base System (Revised)
+INGRES- A Relational Data Base System (Revised)
+G.D. Held, M.R. Stonebraker and E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M477
+November 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-477.pdf
+BibTeX citation:
+@techreport{Held:M477,
+Author = {Held, G.D. and Stonebraker, M.R. and Wong, E.},
+Title = {INGRES- A Relational Data Base System (Revised)},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28785.html},
+Number = {UCB/ERL M477}
+}
+EndNote citation:
+%0 Report
+%A Held, G.D.
+%A Stonebraker, M.R.
+%A Wong, E.
+%T INGRES- A Relational Data Base System (Revised)
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M477
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28785.html
+%F Held:M477

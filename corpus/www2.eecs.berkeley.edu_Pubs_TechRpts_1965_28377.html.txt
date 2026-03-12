@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28377.html
+A Note on Alzerman's Conjecture | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Note on Alzerman's Conjecture
+A Note on Alzerman's Conjecture
+A.G. Dewey and E.I. Jury
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M115
+May 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-115.pdf
+BibTeX citation:
+@techreport{Dewey:M115,
+Author = {Dewey, A.G. and Jury, E.I.},
+Title = {A Note on Alzerman's Conjecture},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28377.html},
+Number = {UCB/ERL M115}
+}
+EndNote citation:
+%0 Report
+%A Dewey, A.G.
+%A Jury, E.I.
+%T A Note on Alzerman's Conjecture
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M115
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28377.html
+%F Dewey:M115

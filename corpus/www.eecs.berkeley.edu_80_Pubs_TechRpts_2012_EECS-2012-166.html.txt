@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-166.html
+Multi-Resource Fair Queueing for Packet Processing
+Ali Ghodsi and Vyas Sekar and Matei Zaharia and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-166
+June 19,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-166.pdf
+Middleboxes are ubiquitous in today's networks and perform a variety of important functions, including IDS, VPN, firewalling, and WAN optimization. These functions differ vastly in their requirements for hardware resources (e.g., CPU cycles and memory bandwidth). Thus, depending on the functions they go through, different flows can consume different amounts of a middlebox's resources. While there is much literature on weighted fair sharing of link bandwidth to isolate flows, it is unclear how to schedule multiple resources in a middlebox to achieve similar guarantees. In this paper, we analyze several natural packet scheduling algorithms for multiple resources and show that they have undesirable properties. We propose a new algorithm, Dominant Resource Fair Queuing (DRFQ), that retains the attractive properties that fair sharing provides for one resource. In doing so, we generalize the concept of virtual time in classical fair queuing to multi-resource settings. The resulting algorithm is also applicable in other contexts where several resources need to be multiplexed in the time domain.
+BibTeX citation:
+@techreport{Ghodsi:EECS-2012-166,
+Author= {Ghodsi, Ali and Sekar, Vyas and Zaharia, Matei and Stoica, Ion},
+Title= {Multi-Resource Fair Queueing for Packet Processing},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-166.html},
+Number= {UCB/EECS-2012-166},
+Abstract= {Middleboxes are ubiquitous in today's networks and perform a variety of important functions, including IDS, VPN, firewalling, and WAN optimization. These functions differ vastly in their requirements for hardware resources (e.g., CPU cycles and memory bandwidth). Thus, depending on the functions they go through, different flows can consume different amounts of a middlebox's resources. While there is much literature on weighted fair sharing of link bandwidth to isolate flows, it is unclear how to schedule multiple resources in a middlebox to achieve similar guarantees. In this paper, we analyze several natural packet scheduling algorithms for multiple resources and show that they have undesirable properties. We propose a new algorithm, Dominant Resource Fair Queuing (DRFQ), that retains the attractive properties that fair sharing provides for one resource. In doing so, we generalize the concept of virtual time in classical fair queuing to multi-resource settings. The resulting algorithm is also applicable in other contexts where several resources need to be multiplexed in the time domain.},
+}
+EndNote citation:
+%0 Report
+%A Ghodsi, Ali
+%A Sekar, Vyas
+%A Zaharia, Matei
+%A Stoica, Ion
+%T Multi-Resource Fair Queueing for Packet Processing
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 19
+%@ UCB/EECS-2012-166
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-166.html
+%F Ghodsi:EECS-2012-166

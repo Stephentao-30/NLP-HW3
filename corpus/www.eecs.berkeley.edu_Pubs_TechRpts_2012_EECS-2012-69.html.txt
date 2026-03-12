@@ -1,0 +1,45 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-69.html
+Optimal Camera Placement
+Avital Steinitz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-69
+May 9,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-69.pdf
+Optimal Camera Placement is a task shared by applications such as Next Best View planning and Camera Network planning, and it is used in exploration of unknown environments, surveillance cameras placement and scene reconstruction.
+More specifically, Optimal Camera Placement consists of evaluating a visibility objective that depends on the scene and the camera placement and optimizing it with respect to to the camera variable, where different applications give rise to different visibility objectives.
+Despite its wide applicability, many of the application listed above are limited in scale, efficiency and the complexity of the scene and sensor model they can handle.
+This limitation stems primarily from the common practice to discretize the space of camera configurations, thus viewing the problem as a combinatorial optimization problem whose size grows exponentially with the number of cameras and which is known to be NP-hard.
+Another drawback of the "early-discretization" approach is its inherent inaccuracy with respect to objectives that are continuous by nature, such as visible surface area.
+In this work we propose an expressive formalization of the visibility objective which is amenable to continuous optimization techniques.
+The formalism we propose is generic and may be used for many of the existing applications; it is inherently more accurate than the discrete approaches as it views both the objects' and the cameras' configuration spaces as continuous and it can handle complex scenes with occlusions and camera placement constraints as well as sophisticated camera models.
+We describe an algorithm for evaluating the proposed objective and its gradient, and present simulation results showing the quality of the obtained camera placements and their efficient computation.
+Advisors:  Ruzena Bajcsy
+BibTeX citation:
+@mastersthesis{Steinitz:EECS-2012-69,
+Author= {Steinitz, Avital},
+Title= {Optimal Camera Placement},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-69.html},
+Number= {UCB/EECS-2012-69},
+Abstract= {Optimal Camera Placement is a task shared by applications such as Next Best View planning and Camera Network planning, and it is used in exploration of unknown environments, surveillance cameras placement and scene reconstruction.
+More specifically, Optimal Camera Placement consists of evaluating a visibility objective that depends on the scene and the camera placement and optimizing it with respect to to the camera variable, where different applications give rise to different visibility objectives.
+Despite its wide applicability, many of the application listed above are limited in scale, efficiency and the complexity of the scene and sensor model they can handle.
+This limitation stems primarily from the common practice to discretize the space of camera configurations, thus viewing the problem as a combinatorial optimization problem whose size grows exponentially with the number of cameras and which is known to be NP-hard.
+Another drawback of the "early-discretization" approach is its inherent inaccuracy with respect to objectives that are continuous by nature, such as visible surface area.
+In this work we propose an expressive formalization of the visibility objective which is amenable to continuous optimization techniques.
+The formalism we propose is generic and may be used for many of the existing applications; it is inherently more accurate than the discrete approaches as it views both the objects' and the cameras' configuration spaces as continuous and it can handle complex scenes with occlusions and camera placement constraints as well as sophisticated camera models.
+We describe an algorithm for evaluating the proposed objective and its gradient, and present simulation results showing the quality of the obtained camera placements and their efficient computation.},
+}
+EndNote citation:
+%0 Thesis
+%A Steinitz, Avital
+%T Optimal Camera Placement
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 9
+%@ UCB/EECS-2012-69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-69.html
+%F Steinitz:EECS-2012-69

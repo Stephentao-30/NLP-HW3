@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-101.html
+Design a Natural User Interface for Gesture Recognition Application
+Zhaochen Liu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-101
+May 17,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-101.pdf
+Gesture recognition allows users to interact with their electronic devices in a manner that mimics their interaction with the physical world, thus making devices easier to use for all users.  Interacting with the software, using gesture and body motion is definitely a cool ideal.  However, designing effective interactions is a challenge on a gesture-controlled application.
+We partnered with the Microsoft Windows Phone Team to develop a Kinect physiotherapy application.  This application enables the patients to perform recovery exercises remotely at home.  It checks the patient’s body movements against doctors’ instructions and provides real-time instructions to the patients.  In order to validate the market value for such an application and further enhance this prototype, we conducted market studies and user tests.  In particular, I was in charge of the development of the user interface in this project.  Also, I developed guidelines for designing the user interaction of gesture-controlled applications.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Liu:EECS-2013-101,
+Author= {Liu, Zhaochen},
+Title= {Design a Natural User Interface for Gesture Recognition Application},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-101.html},
+Number= {UCB/EECS-2013-101},
+Abstract= {Gesture recognition allows users to interact with their electronic devices in a manner that mimics their interaction with the physical world, thus making devices easier to use for all users.  Interacting with the software, using gesture and body motion is definitely a cool ideal.  However, designing effective interactions is a challenge on a gesture-controlled application.
+We partnered with the Microsoft Windows Phone Team to develop a Kinect physiotherapy application.  This application enables the patients to perform recovery exercises remotely at home.  It checks the patient’s body movements against doctors’ instructions and provides real-time instructions to the patients.  In order to validate the market value for such an application and further enhance this prototype, we conducted market studies and user tests.  In particular, I was in charge of the development of the user interface in this project.  Also, I developed guidelines for designing the user interaction of gesture-controlled applications.},
+}
+EndNote citation:
+%0 Thesis
+%A Liu, Zhaochen
+%T Design a Natural User Interface for Gesture Recognition Application
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-101
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-101.html
+%F Liu:EECS-2013-101

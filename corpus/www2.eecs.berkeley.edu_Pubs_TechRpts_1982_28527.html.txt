@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28527.html
+Negative Resistance Devices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Negative Resistance Devices
+Negative Resistance Devices
+Leon O. Chua, Juebang Yu and Youying Yu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/43
+April 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-43.pdf
+BibTeX citation:
+@techreport{Chua:M82/43,
+Author = {Chua, Leon O. and Yu, Juebang and Yu, Youying},
+Title = {Negative Resistance Devices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28527.html},
+Number = {UCB/ERL M82/43}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Yu, Juebang
+%A Yu, Youying
+%T Negative Resistance Devices
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/43
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28527.html
+%F Chua:M82/43

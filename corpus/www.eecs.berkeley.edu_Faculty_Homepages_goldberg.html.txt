@@ -1,0 +1,87 @@
+URL: http://www.eecs.berkeley.edu/Faculty/Homepages/goldberg.html
+Ken Goldberg: Faculty Home Page
+Ken Goldberg
+Professor
+Contact Information
+425 Sutardja Dai Hall
+tel:  510-643-9565
+goldberg@berkeley.edu
+Office Hours
+see personal homepage
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Thomas Parsons
+tparsons@berkeley.edu
+Biography
+Ken Goldberg supervises research in Robotics and Automation.  Ken holds dual degrees in Electrical Engineering and Economics from the University of Pennsylvania (1984) and a PhD from Carnegie Mellon University (1990). He joined the UC Berkeley faculty in 1995 and is Professor of Industrial Engineering and Operations Research, with secondary appointments in EECS, the School of Information, Art Practice, and the UCSF Dept of Radiation Oncology. Ken and his co-authors have published over 300 peer-reviewed technical papers on algorithms for robotics, automation, and social information filtering, and he holds ten U.S. patents. He served as Editor-in-Chief of the  IEEE Transactions on Automation Science and Engineering  (T-ASE), Co-Founder of the Berkeley Center for New Media, Co-Founder and CTO of Ambidextrous Robotics, Co-Founder of the Moxie Institute, and Founding Director of UC Berkeley's Art, Technology, and Culture Lecture Series. Ken's art installations, based on his research, have been exhibited internationally at venues such as the Whitney Biennial, the Berkeley Art Museum, the SF Contemporary Jewish Museum, the Pompidou Center, the Buenos Aires Biennial, and the ICC in Tokyo. Ken has co-written three award-winning Sundance documentary films, "The Tribe", "Yelp", and "Connected: An Autoblogography of Love, Death, and Technology." He is represented by the Catharine Clark Gallery in San Francisco. Ken was awarded the Presidential Faculty Fellowship by President Clinton in 1995, the National Science Foundation Faculty Fellowship in 1994, the Joseph Engelberger Robotics Award in 2000, and was elected IEEE Fellow in 2005.
+Education
+1990, PhD, Computer Science, Carnegie Mellon University
+1984, BSEE, Electrical Engineering, University of Pennsylvania
+1984, BSE, Economics, UPenn - Wharton
+Research Areas
+Artificial Intelligence (AI) , Deep Reinforcement Learning, Learning from Demonstrations, Inverse Reinforcement Learning
+Control, Intelligent Systems, and Robotics (CIR) , Cloud Robotics; Robot-Assisted Surgery, Manufacturing, Home Robots; Design of parts and devices for automation
+Human-Computer Interaction (HCI)
+Art and technology
+Research Centers
+Arts Research Center (ARC)
+Berkeley Artificial Intelligence Research Lab (BAIR)
+Berkeley Center for New Media (BCNM)
+Berkeley Deep Drive (BDD)
+Berkeley Laboratory for Automation Science and Engineering (AUTOLab)
+Center for Automation and Learning for Medical Robotics (Cal-MR)
+Center for Human Compatible Artificial Intelligence (CHAI)
+Center for Information Technology Research in the Interest of Society - The Banatao Institute (CITRIS)
+CITRIS People and Robots (CPAR)
+Industrial Engineering and Operations Research (IEOR)
+Laboratory for Automation Science and Engineering (AUTOLAB)
+A. Adeniji, " Toward Robots that Learn from Everyday Human Experience ," P. Abbeel, S. Levine, and K. Goldberg, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2025-200, Dec. 2025.
+K. Goldberg, " For updated list of Prof. Goldberg's papers, please see: https://goldberg.berkeley.edu/pubs/ ,"  WWW , Aug. 2020.
+B. Nonnecke, S. Krishnan, J. Patel, M. Zhou, L. Byaruhanga, D. Masinde, M. E. Meneses, A. M. del Campo, C. Crittenden, and K. Goldberg, " DevCAFE 1.0: A Participatory Platform for Assessing Development Initiatives in the Field ," in  EEE Global Humanitarian Technology Conference (GHTC) , 2015.
+M. Zhou, A. Cliff, S. Krishnan, B. Nonnecke, C. Cirittenden, K. Uchino, and K. Goldberg, " M-CAFE 1.0: Motivating and Prioritizing Ongoing Student Feedback During MOOCs and Large on-Campus Courses using Collaborative Filtering ," in  16th Annual ACM Conference on Information Technology Education, SIGITE 15 , 2015.
+S. Krishnan, A. Garg, S. Patil, C. Lea, G. Hager, P. Abbeel, and K. Goldberg, " Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning ," in  International Symposium on Robotics Research (ISRR) , 2015.
+S. McKinley, A. Garg, S. Sen, R. Kapadia, A. Murali, K. Nichols, S. Lim, S. Patil, P. Abbeel, A. M. Okamura, and K. Goldberg, " A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery ," in   IEEE International Conference on Automation Science and Engineering (CASE) , 2015.
+M. Laskey, J. Mahler, Z. McCarthy, F. T. Pokorny, S. Patil, J. Van Den Berg, D. Kragic, P. Abbeel, and K. Goldberg, " Multi-Arm Bandit Models for 2D Sample Based Grasp Planning with Uncertainty ," in  IEEE International Conference on Automation Science and Engineering (CASE) , 2015.
+B. Charrow, G. Kahn, S. Patil, S. Liu, K. Goldberg, P. Abbeel, N. Michael, and V. Kumar, " Information-Theoretic Planning with Trajectory Optimization for Dense 3D Mapping ," in  Robotics: Science and Systems (RSS) Conference , 2015.
+A. Murali, S. Sen, B. Kehoe, A. Garg, S. McFarland, S. Patil, W. D. Boyd, S. Lim, P. Abbeel, and K. Goldberg, " Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms ," 2015.
+J. Mahler, S. Patil, B. Kehoe, J. Van Den Berg, M. Ciocarlie, P. Abbeel, and K. Goldberg, " GP-GPIS-OPT: Grasp Planning Under Shape Uncertainty Using Gaussian Process Implicit Surfaces and Sequential Convex Programming ," in  IEEE International Conference on Robotics and Automation , 2015.
+B. Kehoe, S. Patil, P. Abbeel, and K. Goldberg, " A Survey of Research on Cloud Robotics and Automation ,"  IEEE Trans. on Automation Science and Engineering: Special Issue on Cloud Robotics and Automation , vol. 12, no. 2, April 2015.
+K. Goldberg, S. Faridani, and R. Alterovitz, " Two Large Open-Access Datasets for Fitts' Law of Human Motion and a Succinct Derivation of the Square-Root Variant ,"  IEEE Transactions on Human-Machine Systems , vol. 45, no. 1, pp. 62-73, Feb. 2015.
+J. van den Berg, P. Abbeel, and K. Goldberg, " LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information ," in  Proceedings of Robotics: Science and Systems (RSS) , 2010.
+J. van den Berg, S. Miller, D. Duckworth, H. Hu, X. Fu, K. Goldberg, and P. Abbeel, " Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from Human-Guided Demonstrations (Best Medical Robotics Paper Award) ," in  Proceedings 2010 Conference on Robotics and Automation (ICRA) , 2010.
+R. Alterovitz, E. Lessard, J. Pouliot, I. J. Hsu, J. O'Brien, and K. Goldberg, " Optimization of HDR brachytherapy dose distributions using linear programming with penalty costs ,"  Medical Physics , vol. 33, no. 11, pp. 4012-4019, Nov. 2006.
+K. Goldberg, D. Song, and A. Levandowski, " Collaborative teleoperation using networked spatial dynamic voting ,"  Proc. IEEE , vol. 91, no. 3, pp. 430-439, March 2003.
+K. F. Bohringer, V. Bhatt, B. R. Donald, and K. Goldberg, " Algorithms for sensorless manipulation using a vibrating surface ,"  Algorithmica , vol. 26, no. 3-4, pp. 389-429, April 2000.
+A. F. van der Stappen, K. Goldberg, and M. H. Overmars, " Geometric eccentricity and the complexity of manipulation plans ,"  Algorithmica , vol. 26, no. 3-4, pp. 494-514, April 2000.
+K. Goldberg, B. V. Mirtich, Y. Zhuang, J. Craig, B. R. Carlisle, and J. F. Canny, " Part pose statistics: Estimators and experiments ,"  IEEE Trans. Robotics and Automation , vol. 15, no. 5, pp. 849-857, Oct. 1999.
+National Academy of Engineering (NAE) Member ,
+2026
+IEEE ICRA Best Paper Award on Robotic Learning ,
+2025
+Chancellor's Faculty Award for Research in the Public Interest ,
+2018
+ACM SIGMOD Best Demonstration Award ,
+2016
+IEEE GHTC Best Paper Award ,
+2015
+Most Educational Film Award (Botsker) ,
+2015
+Tribeca Disruptive Innovation Award ,
+2013
+RAS Distinguished Service Award ,
+2011
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2005
+RAS Distinguished Lecturer ,
+2005
+EAB Major Educational Innovation Award ,
+2001
+Joseph F. Engelberger Robotics Award for Excellence in Education ,
+2000
+NSF Young Investigator (NYI) ,
+1996
+NSF Presidential Faculty Fellow (PFF) ,
+1995

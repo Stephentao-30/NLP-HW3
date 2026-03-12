@@ -1,0 +1,53 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-6.html
+Provably stable, distributed file sharing protocols
+Barlas Oguz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-6
+January 6,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-6.pdf
+P2P systems provide a scalable solution for distributing large files in a network. The
+file is split into many chunks, and peers contact other peers to collect missing chunks
+to eventually complete the entire file. The so-called ‘rare chunk’ phenomenon, where a
+single chunk becomes rare and prevents peers from completing the file, is a threat to the
+stability of such systems. A protocol that forces peers to download the rarest chunk in the
+network first would solve this issue, however this solution requires global chunk availability
+information that is not readily available. We look for a distributed approximation to this
+solution. Although heuristics exist which perform well in practice, formal proofs of stability
+of such systems were lacking. In this document, we demonstrate a new system based on an
+approximate rare-chunk rule, allowing for completely distributed file sharing while retaining
+scalability and stability. We assume non-altruistic peers and the seed is required to make
+only a minimal contribution.
+Advisors:  Venkat Anantharam
+BibTeX citation:
+@mastersthesis{Oguz:EECS-2012-6,
+Author= {Oguz, Barlas},
+Title= {Provably stable, distributed file sharing protocols},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-6.html},
+Number= {UCB/EECS-2012-6},
+Abstract= {P2P systems provide a scalable solution for distributing large files in a network. The
+file is split into many chunks, and peers contact other peers to collect missing chunks
+to eventually complete the entire file. The so-called ‘rare chunk’ phenomenon, where a
+single chunk becomes rare and prevents peers from completing the file, is a threat to the
+stability of such systems. A protocol that forces peers to download the rarest chunk in the
+network first would solve this issue, however this solution requires global chunk availability
+information that is not readily available. We look for a distributed approximation to this
+solution. Although heuristics exist which perform well in practice, formal proofs of stability
+of such systems were lacking. In this document, we demonstrate a new system based on an
+approximate rare-chunk rule, allowing for completely distributed file sharing while retaining
+scalability and stability. We assume non-altruistic peers and the seed is required to make
+only a minimal contribution.},
+}
+EndNote citation:
+%0 Thesis
+%A Oguz, Barlas
+%T Provably stable, distributed file sharing protocols
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 6
+%@ UCB/EECS-2012-6
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-6.html
+%F Oguz:EECS-2012-6

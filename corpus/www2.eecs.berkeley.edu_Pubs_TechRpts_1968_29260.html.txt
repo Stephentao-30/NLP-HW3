@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29260.html
+The Distribution of Intervals Between Zeros For a Stationary Gaussian Process | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Distribution of Intervals Between Zeros For a Stationary Gaussian Process
+The Distribution of Intervals Between Zeros For a Stationary Gaussian Process
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M245
+March 1968
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/ERL-m-245.pdf
+BibTeX citation:
+@techreport{Wong:M245,
+Author = {Wong, E.},
+Title = {The Distribution of Intervals Between Zeros For a Stationary Gaussian Process},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1968},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29260.html},
+Number = {UCB/ERL M245}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T The Distribution of Intervals Between Zeros For a Stationary Gaussian Process
+%I EECS Department, University of California, Berkeley
+%D 1968
+%@ UCB/ERL M245
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1968/29260.html
+%F Wong:M245

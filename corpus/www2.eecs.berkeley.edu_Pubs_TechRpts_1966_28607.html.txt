@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28607.html
+Two-Dimensional Random Fields and Representation of Images | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Two-Dimensional Random Fields and Representation of Images
+Two-Dimensional Random Fields and Representation of Images
+E. Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M176
+October 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-176.pdf
+BibTeX citation:
+@techreport{Wong:M176,
+Author = {Wong, E.},
+Title = {Two-Dimensional Random Fields and Representation of Images},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28607.html},
+Number = {UCB/ERL M176}
+}
+EndNote citation:
+%0 Report
+%A Wong, E.
+%T Two-Dimensional Random Fields and Representation of Images
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M176
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28607.html
+%F Wong:M176

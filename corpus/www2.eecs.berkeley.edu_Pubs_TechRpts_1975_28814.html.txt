@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28814.html
+INGRES- Reference Manual | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+INGRES- Reference Manual
+INGRES- Reference Manual
+W. Zook, K. Youssefi, P. Kreps, G. Held and J. Ford
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M519
+April 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-519.pdf
+BibTeX citation:
+@techreport{Zook:M519,
+Author = {Zook, W. and Youssefi, K. and Kreps, P. and Held, G. and Ford, J.},
+Title = {INGRES- Reference Manual},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28814.html},
+Number = {UCB/ERL M519}
+}
+EndNote citation:
+%0 Report
+%A Zook, W.
+%A Youssefi, K.
+%A Kreps, P.
+%A Held, G.
+%A Ford, J.
+%T INGRES- Reference Manual
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M519
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28814.html
+%F Zook:M519

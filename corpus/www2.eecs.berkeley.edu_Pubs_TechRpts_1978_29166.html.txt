@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29166.html
+Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers
+Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers
+Robert Steven Glanville
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/9
+December 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-9.pdf
+BibTeX citation:
+@techreport{Glanville:M78/9,
+Author = {Glanville, Robert Steven},
+Title = {Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29166.html},
+Number = {UCB/ERL M78/9}
+}
+EndNote citation:
+%0 Report
+%A Glanville, Robert Steven
+%T Computer Science: A Machine Independent Algorithm for Code Generation and Its Use in Retargetable Compilers
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/9
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29166.html
+%F Glanville:M78/9

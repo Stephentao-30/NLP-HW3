@@ -1,0 +1,85 @@
+URL: http://people.eecs.berkeley.edu:80/~barsky/DailyCal.article/The.Daily.Californian.htm
+The Daily Californian
+Today's
+Paper
+News Sports Opinion Columns Review Sci-Tech
+Search
+Recent
+Issues
+The Daily
+Cal
+About the Daily
+Cal Daily Cal
+Staff Contacting Us   Advertising Info
+Daily Cal Alumni
+Association
+Scientists
+Model Defective Corneas Professor�s
+Own Condition Is Inspiration for �Eye-Opening� Vision
+Research
+By DAVID BOYK Contributing
+Writer Wednesday, October 23, 2002
+Brian Barsky is not like most people who suffer
+from vision problems�stuck living with what their doctor prescribes
+or picking from a narrow set of options.
+As a professor of computer science, optometry and vision science
+at UC Berkeley, he has taken matters into his own hands when it
+comes to treating an eye disorder from which he suffers.
+Called keratoconus, the condition is characterized by bulges in
+the eye that occur where the cornea is too thin.
+To illustrate how a thin area causes a bulge rather than a dent,
+Barsky used the analogy of a balloon bulging out from pressure in an
+area where its skin is thinner.
+The effects of keratoconus are somewhat like those of
+nearsightedness, but with a faint double image.
+"One of the problems I've observed is that if I look at the edge
+of an object, I might see two edges," Barsky said.
+Glasses and standard contact lenses, which rely on a spherical
+eye surface, do not deal well with keratoconus, and it is often
+difficult and time consuming for doctors to find lenses for a
+patient with the condition.
+To alleviate these problems, Barsky created computer simulations
+of vision, both with normal and defective eyes, using measurements
+from real patients.
+"We're successful the vast majority of the time, but when
+someone's keratoconus becomes more advanced, it becomes more
+difficult to find a contact lens that fits them," said clinical
+optometry professor Michael Harris. "Barsky's custom lenses help
+solve that problem."
+These artificial images Barsky has created can help doctors see
+what their patients see, and better treat them.
+They can also be used to visualize the results of a successful
+surgical operation ahead of time.
+Barsky applied his background in computer science to the design
+of contact lenses to help his own keratoconus.
+By using a type of mathematical curve called a spline, he
+distilled the irregularity in a karatoconus-afflicted eyes down to a
+few equations.
+"The salient feature of splines is that, rather than trying to
+find a single equation to describe the entire curve or surface, they
+break it into smaller pieces and define an equation to describe each
+of the pieces," Barsky said.
+In order to measure the cornea so that he could fit contacts to
+it though, the measurement tools needed to be refined.
+Physicians typically use a machine called a corneal topography
+device to measure the cornea and determine its shape.
+Unsatisfied with the inadequacies of existing devices, Barsky and
+his collaborators took the raw data from the device, before it had
+done its own calculations, and manipulated the data themselves, so
+the direction in which the eye was looking would not matter.
+With this precise data, doctors can create contact lenses
+custom-fit to a patient's eyes.
+Since keratoconus involves a thinning of the cornea, procedures
+like Lasik surgery, which correct vision by carving away pieces of
+the cornea with a laser, may be inadvisable.
+"One of the applications of the measurement is to detect if a
+person has keratoconus, to suggest that they should not get Lasik
+surgery," Barsky said.
+These techniques may also show up in Holllywood�they could be
+used for making computer-generated scenes closer to those captured
+by real cameras and eyes, Barsky said.
+"I think it's a very interesting and innovative approach to
+solving a problem that affect the vision of a significant number of
+people," Harris said.
+(c) 2002  Berkeley,
+California Email:  dailycal@dailycal.org

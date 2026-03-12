@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28591.html
+Coffee Machinese and a Quadratic Equation
+E.R. Berlekamp
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M154
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-154.pdf
+BibTeX citation:
+@techreport{Berlekamp:M154,
+Author= {Berlekamp, E.R.},
+Title= {Coffee Machinese and a Quadratic Equation},
+Year= {1966},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28591.html},
+Number= {UCB/ERL M154},
+}
+EndNote citation:
+%0 Report
+%A Berlekamp, E.R.
+%T Coffee Machinese and a Quadratic Equation
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M154
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28591.html
+%F Berlekamp:M154

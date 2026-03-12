@@ -1,0 +1,66 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-7.html
+On-chip Benchmarking and Calibration without External References
+Cheol-Woong Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-7
+January 7,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-7.pdf
+The strong market demand for mobile applications such as iPhone makes value on the form
+factor of the mobile devices. The form factor means how much we can integrate many functions
+in a given size of the mobile devices. The external component size is almost comparable to a
+chip size so that elimination of external component is crucial to the success of mobile devices in
+addition to the cost issues of the external components. External reference resistors are often used
+as the standard for calibrating voltage sources, current sources, and other component values
+within a circuit. Often these calibrations occur at a factory, but may also occur on an electronic
+device as it is used. However, external reference resistors consume area and cost and it is
+desirable to eliminate them.
+This work introduces a new way to calibrate on-chip resistance and capacitance without the
+external reference resistors. An integrated circuit includes a benchmarking circuitry and a
+tunable circuitry. The benchmarking circuit includes a target component and an internal
+reference component. The internal reference component exhibits a lower sensitivity to the
+changes in test conditions than the target component. Benchmarking Metric Measurement
+Module (BMMM) measures benchmarking metrics for the internal reference component and the
+target component. A benchmark value is calculated based on the benchmarking metrics. The
+novelty of this work is the powerful way to cancel the parasitic and systemic errors caused by
+operational amplifiers in RC tuner circuitry. This technique is broadly applicable to any RF and
+analog circuits that need the calibration of tunable circuit elements without external references.
+BibTeX citation:
+@phdthesis{Lee:EECS-2012-7,
+Author= {Lee, Cheol-Woong},
+Title= {On-chip Benchmarking and Calibration without External References},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-7.html},
+Number= {UCB/EECS-2012-7},
+Abstract= {The strong market demand for mobile applications such as iPhone makes value on the form
+factor of the mobile devices. The form factor means how much we can integrate many functions
+in a given size of the mobile devices. The external component size is almost comparable to a
+chip size so that elimination of external component is crucial to the success of mobile devices in
+addition to the cost issues of the external components. External reference resistors are often used
+as the standard for calibrating voltage sources, current sources, and other component values
+within a circuit. Often these calibrations occur at a factory, but may also occur on an electronic
+device as it is used. However, external reference resistors consume area and cost and it is
+desirable to eliminate them.
+This work introduces a new way to calibrate on-chip resistance and capacitance without the
+external reference resistors. An integrated circuit includes a benchmarking circuitry and a
+tunable circuitry. The benchmarking circuit includes a target component and an internal
+reference component. The internal reference component exhibits a lower sensitivity to the
+changes in test conditions than the target component. Benchmarking Metric Measurement
+Module (BMMM) measures benchmarking metrics for the internal reference component and the
+target component. A benchmark value is calculated based on the benchmarking metrics. The
+novelty of this work is the powerful way to cancel the parasitic and systemic errors caused by
+operational amplifiers in RC tuner circuitry. This technique is broadly applicable to any RF and
+analog circuits that need the calibration of tunable circuit elements without external references.},
+}
+EndNote citation:
+%0 Thesis
+%A Lee, Cheol-Woong
+%T On-chip Benchmarking and Calibration without External References
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 7
+%@ UCB/EECS-2012-7
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-7.html
+%F Lee:EECS-2012-7

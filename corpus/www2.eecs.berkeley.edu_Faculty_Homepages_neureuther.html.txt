@@ -1,0 +1,50 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/neureuther.html
+Andrew R. Neureuther: Faculty Home Page
+Larger Photo
+Andrew R. Neureuther
+Professor Emeritus
+Biography
+He received the B.S., M.S., and Ph.D. degrees in Electrical Engineering from the University of Illinois, Urbana, in 1963, 1964 and 1966, respectively, as a member of the Antenna Laboratory. Dr. Neureuther joined the Department of Electrical Engineering and Computer Sciences, UC Berkeley as a faculty member in 1966 where he is the Conexant Systems Distinguished Professor. Dr. Neureuther has pioneered modeling and simulation of integrated circuit processing for many physical process effects as well as the use of these tools to explore innovation and manufacturing issues in emerging technologies. His work includes models for chemically amplified imaging materials (STORM); simulation of optical, electron, ion beam and x-ray lithography (SAMPLE); assessment of residual effects of defects and lens aberrations (SPLAT); electromagnetic scattering (TEMPEST); time-evolution of topography (SAMPLE3D); environments for integrating simulators with process flow (SIMPL); and remote web-based simulation (LAVA). Dr. Neureuther is a Fellow of the IEEE. He has published 250 papers and has advised 35 M.S. and 30 Ph.D. students. He was elected to the National Academy of Engineering (1995).  He received the IEEE 2003 Cledo Brunetti field award which is given for contributions to miniaturization in electronics. He was awarded the Berkeley Citation in 2007.  In 2011, he won the Frits Zernike Award for Microlithography. Dr. Neureuther passed away September 2025.
+Education
+1966, Ph.D., Electrical Engineering, UI Urbana-Champaign
+1964, M.S., Electrical Engineering, UI Urbana-Champaign
+1963, B.S., Electrical Engineering, University of Illinois, Urbana-Champaign
+Research Areas
+Integrated Circuits (INC)
+Solid-State Devices
+Research Centers
+Integrated Modeling Process and Computation for Technology (IMPACT)
+N. Xu, X. Sun, L. Wang, A. R. Neureuther, and T. King Liu, "Predictive compact modeling for strain effects in nanoscale transistors," in  2009 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD 2009) , 2009.
+A. R. Neureuther, K. Adam, G. C. Robins, and E. F. Gennari, " Characterizing aberrations in an imaging lens and applications to visual testing and integrated circuit mask analysis ," U.S. Patent 7,030,997. April 2006.
+A. R. Neureuther and D. Ceperley, " Modeling and simulation for nanometrics (Invited Paper) ,"  J. Vacuum Science & Technology B: Microelectronics and Nanometer Structures , vol. 23, no. 6, pp. 2578-2583, Nov. 2005.
+L. Yuan, S. Nagahara, and A. R. Neureuther, " Applying double exposed sharp tip technique (DEST) to characterize material phenomena in DUV photoresist ," in  Proc. SPIE: Advances in Resist Technology and Processing XXII , J. L. Sturtevant, Ed., Vol. 5753, Bellingham, WA: SPIE, 2005, pp. 1108-1118.
+M. C. Lam and A. R. Neureuther, " Fast simulation methods for defective EUV mask blank inspection ," in  Proc. SPIE: 24th Annual BACUS Symp. on Photomask Technology , W. Staud and J. T. Weed, Eds., Vol. 5567, Bellingham, WA: SPIE, 2004, pp. 741-750.
+G. C. Robins and A. R. Neureuther, " Characterizing the demons in high-NA phase-shifting masks (Conference Best Paper Award) ," in  Proc. SPIE: 24th Annual BACUS Symp. on Photomask Technology , W. Staud and J. T. Weed, Eds., Vol. 5567, Bellingham, WA: SPIE, 2004, pp. 445-455.
+C. F. R. Mateus, M. C. Y. Huang, Y. Deng, A. R. Neureuther, and C. Chang-Hasnain, " Ultrabroadband mirror using low-index cladded subwavelength grating ,"  IEEE Photonics Technology Letters , vol. 16, no. 2, pp. 518-520, Feb. 2004.
+K. Adam and A. R. Neureuther, " Methodology for accurate and rapid simulation of large arbitrary 2D layouts of advanced photomasks ," in  Proc. SPIE: 21st Annual BACUS Symp. on Photomask Technology , G. T. Dao and B. J. Grenon, Eds., Vol. 4562, Bellingham, WA: SPIE, 2002, pp. 1051-1067.
+F. E. Gennari and A. R. Neureuther, " Aberrations are a big part of OPC for phase-shifting masks ," in  Proc. SPIE: 21st Annual BACUS Symp. on Photomask Technology , G. T. Dao and B. J. Grenon, Eds., Vol. 4562, Bellingham, WA: SPIE, 2002, pp. 1077-1086.
+G. Robins, K. Adam, and A. R. Neureuther, " Measuring optical image aberrations with pattern and probe based targets ,"  J. Vacuum Science & Technology B: Microelectronics and Nanometer Structures , vol. 20, no. 1, pp. 338-343, Jan. 2002.
+K. Adam and A. R. Neureuther, " Simplified models for edge transitions in rigorous mask modeling ," in  Proc. SPIE: Optical Microlithography XIV , C. J. Progler, Ed., Vol. 4346, Bellingham, WA: SPIE, 2001, pp. 331-344.
+N. Rau, F. Stratton, C. Fields, T. Ogawa, A. R. Neureuther, R. Kubena, and G. Willson, " Shot-noise and edge roughness effects in resists patterned at 10 nm exposure ,"  J. Vacuum Science & Technology B: Microelectronics and Nanometer Structures , vol. 16, no. 6, pp. 3784-3788, Nov. 1998.
+A. R. Neureuther, R. H. Wang, J. J. Helmsen, J. F. Sefler, E. W. Scheckler, R. Gunturi, and R. Winterbottom, "3D topography simulation using surface representation and central utilities," in  3-Dimensional Process Simulation: Proc. Intl. Workshop on 3D Process Simulation , J. Lorenz, Ed., Wien, Austria: Springer-Verlag, 1995, pp. 57-76.
+R. Guerrieri, K. H. Tadros, J. Gamelin, and A. R. Neureuther, " Massively parallel algorithms for scattering in optical lithography ,"  IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems , vol. 10, no. 9, pp. 1091-1100, Sep. 1991.
+A. R. Neureuther and C. G. Willson, " Reduction in x-ray lithography shot noise exposure limit by dissolution phenomena ,"  J. Vacuum Science & Technology B: Microelectronics -- Processing and Phenomena , vol. 6, no. 1, pp. 167-173, Jan. 1988.
+K. H. Toh and A. R. Neureuther, "Identifying and monitoring effects of lens aberrations in projection printing," in  Proc. SPIE: Optical Microlithography VI , H. L. Stover, Ed., Vol. 772, Bellingham, WA: SPIE, 1987, pp. 202-209.
+A. R. Neureuther, P. Flanner, III, and S. Shen, " Coherence of defect interactions with features in optical imaging ,"  J. Vacuum Science & Technology B: Microelectronics and Nanometer Structures , vol. 5, no. 1, pp. 308-312, Jan. 1987.
+M. D. Prouty and A. R. Neureuther, "Optical imaging with phase shift masks," in  Proc. of the SPIE: Optical Microlithography III: Technology for the Next Decade , H. L. Stover, Ed., Vol. 470, Bellingham, WA: SPIE, 1984, pp. 228-232.
+F. H. Dill, A. R. Neureuther, J. A. Tuttle, and E. J. Walker, " Modeling projection printing of positive photoresists ,"  IEEE Trans. Electron Devices , vol. ED-22, no. 7, pp. 456-464, July 1975.
+A. R. Neureuther and K. Zaki, "Numerical methods for the analysis of scattering from non-planar periodic structures," in  Selected Papers from the URSI Symp. on Electromagnetic Waves, Alta Frequenza, Special Issue , Vol. 38, Maggio, 1969, pp. 282-285.
+SRC Aristotle Award ,
+2012
+SRC Inventor Recognition Award ,
+2010
+Berkeley Citation ,
+2007
+SIA University Research Award ,
+2007
+IEEE Cledo Brunetti Award ,
+2003
+National Academy of Engineering (NAE) Member ,
+1995
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+1989

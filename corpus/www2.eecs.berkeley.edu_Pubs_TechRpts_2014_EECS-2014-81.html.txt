@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-81.html
+Image patch modeling in a light field | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Image patch modeling in a light field
+Image patch modeling in a light field
+Zeyu Li
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-81
+May 15, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-81.pdf
+Understanding image content is one of the ultimate goals of computer vision, and effectively and efficiently extracting features from images is a key component of all vision research. This thesis discusses methods related to an image-patch based approach to this feature analysis. Image-patch based methods have attracted a lot of interest for the analysis of a single images in application areas such as visual object recognition, image denoising, and super-resolution computation. The basic idea is to treat a single image as a collection of independent image patches, each of which can be encoded by, for example, a sparse coding model. The global characterization of that image is attained by aggregating the patch codes, which brings some level of shift-invariance and robustness to image noise and signal degradation.
+In this thesis, a new scheme, \textit{scene geometry-aware image-patch modeling}, based on the concept of a \textbf{patch-cube}, is proposed to model image patches in a light field, rather than in a single image. A light field is a collection of images all acquired at the same instant, providing a set of perspectives on the scene as though observing all of the light information that passes through a windowing portal (clearly with some discretization and sampling). The scene geometric information is implicitly incorporated in our modeling process, including depth and occlusion, without explicit knowledge of 3D scene structure. These extra constraints on the scene geometry empower our learned features to be less affected by image noise, lighting conditions, etc. As demonstration, we apply our method to joint image denoising and joint spatial/angular image super-resolution tasks, where its use of the light field will be seen to permit it to outperform its image-patch based counterparts. Here, a 2D camera array with small incremental baselines is used to capture the light field data, and this analysis is the majority of what we report. Additionally, working with real data from real light-field cameras, we present novel and highly effective methods for the calibration of these camera arrays.
+In common with the single-image model, learning a good "dictionary" plays a very important role in our work -- selecting an appropriate set of features that can provide succinct representations of a scene. Inspired by the success of the image patch-based method \cite{NGSingle}, we show that feature extraction for image patches is closely related to the low-rank kernel matrix approximation using the Nystrom method. The dictionary in sparse coding, or cluster centers in K-means clustering, are actually landmark points which can better capture the underlying higher-dimensional (manifold) structure of the data. Based upon this observation, our contribution is two fold: 1) an efficient algorithm to perform Kernel Principle Component Analysis feature extraction using landmark points, and 2) an alternative method for finding better landmark points based on \textit{Generalized Extreme Value distribution}s, GEV-Kmeans.
+Advisor:  Ruzena Bajcsy
+BibTeX citation:
+@phdthesis{Li:EECS-2014-81,
+Author = {Li, Zeyu},
+Title = {Image patch modeling in a light field},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-81.html},
+Number = {UCB/EECS-2014-81},
+Abstract = {Understanding image content is one of the ultimate goals of computer vision, and effectively and efficiently extracting features from images is a key component of all vision research. This thesis discusses methods related to an image-patch based approach to this feature analysis.  Image-patch based methods have attracted a lot of interest for the analysis of a single images in application areas such as visual object recognition, image denoising, and super-resolution computation. The basic idea is to treat a single image as a collection of independent image patches, each of which can be encoded by, for example, a sparse coding model. The global characterization of that image is attained by aggregating the patch codes, which brings some level of shift-invariance and robustness to image noise and signal degradation.
+In this thesis, a new scheme, \textit{scene geometry-aware image-patch modeling}, based on the concept of a \textbf{patch-cube}, is proposed to model image patches in a light field, rather than in a single image. A light field is a collection of images all acquired at the same instant, providing a set of perspectives on the scene as though observing all of the light information that passes through a windowing portal (clearly with some discretization and sampling).  The scene geometric information is implicitly incorporated in our modeling process, including depth and occlusion, without explicit knowledge of 3D scene structure. These extra constraints on the scene geometry empower our learned features to be less affected by image noise, lighting conditions, etc.  As demonstration, we apply our method to joint image denoising and joint spatial/angular image super-resolution tasks, where its use of the light field will be seen to permit it to outperform its image-patch based counterparts.  Here, a 2D camera array with small incremental baselines is used to capture the light field data, and this analysis is the majority of what we report.  Additionally, working with real data from real light-field cameras, we present novel and highly effective methods for the calibration of these camera arrays.
+In common with the single-image model, learning a good "dictionary" plays a very important role in our work -- selecting an appropriate set of features that can provide succinct representations of a scene.  Inspired by the success of the image patch-based method \cite{NGSingle}, we show that feature extraction for image patches is closely related to the low-rank kernel matrix approximation using the Nystrom method. The dictionary in sparse coding, or cluster centers in K-means clustering, are actually landmark points which can better capture the underlying higher-dimensional (manifold) structure of the data. Based upon this observation, our contribution is two fold: 1) an efficient algorithm to perform Kernel Principle Component Analysis feature extraction using landmark points, and 2) an alternative method for finding better landmark points based on \textit{Generalized Extreme Value distribution}s, GEV-Kmeans.}
+}
+EndNote citation:
+%0 Thesis
+%A Li, Zeyu
+%T Image patch modeling in a light field
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 15
+%@ UCB/EECS-2014-81
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-81.html
+%F Li:EECS-2014-81

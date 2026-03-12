@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29137.html
+Symbolic Layout and Compaction of Integrated Circuits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Symbolic Layout and Compaction of Integrated Circuits
+Symbolic Layout and Compaction of Integrated Circuits
+Min-Yu Hsueh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/80
+December 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-80.pdf
+BibTeX citation:
+@techreport{Hsueh:M79/80,
+Author = {Hsueh, Min-Yu},
+Title = {Symbolic Layout and Compaction of Integrated Circuits},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29137.html},
+Number = {UCB/ERL M79/80}
+}
+EndNote citation:
+%0 Report
+%A Hsueh, Min-Yu
+%T Symbolic Layout and Compaction of Integrated Circuits
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/80
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29137.html
+%F Hsueh:M79/80

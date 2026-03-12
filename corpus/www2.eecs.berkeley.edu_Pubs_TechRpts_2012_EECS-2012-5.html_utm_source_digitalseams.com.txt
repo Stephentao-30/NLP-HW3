@@ -1,0 +1,64 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.html?utm_source=digitalseams.com
+HTTP: An Evolvable Narrow Waist for the Future Internet
+Lucian Popa and Patrick Wendell and Ali Ghodsi and Ion Stoica
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-5
+January 4,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.pdf
+While the Internet is designed to accommodate multiple
+transport and application layer protocols, a large and
+growing fraction of Internet traffic runs directly over
+HTTP. Observing that HTTP is poised to become the
+de-facto “narrow waist” of the modern Internet, this
+paper asks whether an HTTP narrow waist, compared
+with the an IP-layer waist, facilitates a more evolvable
+Internet. Evolvability is highly desirable for the Internet,
+since communication patterns change must faster than
+the underlying infrastructure. Furthermore, the narrow
+waist plays in important role in enabling or preventing
+architectural evolvability. We argue that HTTP is highly
+evolvable, due to (i) naming flexibility, (ii) indirection
+support, and (iii) explicit middleboxes. We point to
+evolving uses of HTTP on today’s Internet, and designing
+our own publisher/subscribe service, HTTP Relay
+Service (HTTP-RS), on top of HTTP.
+BibTeX citation:
+@techreport{Popa:EECS-2012-5,
+Author= {Popa, Lucian and Wendell, Patrick and Ghodsi, Ali and Stoica, Ion},
+Title= {HTTP: An Evolvable Narrow Waist for the Future Internet},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.html},
+Number= {UCB/EECS-2012-5},
+Abstract= {While the Internet is designed to accommodate multiple
+transport and application layer protocols, a large and
+growing fraction of Internet traffic runs directly over
+HTTP. Observing that HTTP is poised to become the
+de-facto “narrow waist” of the modern Internet, this
+paper asks whether an HTTP narrow waist, compared
+with the an IP-layer waist, facilitates a more evolvable
+Internet. Evolvability is highly desirable for the Internet,
+since communication patterns change must faster than
+the underlying infrastructure. Furthermore, the narrow
+waist plays in important role in enabling or preventing
+architectural evolvability. We argue that HTTP is highly
+evolvable, due to (i) naming flexibility, (ii) indirection
+support, and (iii) explicit middleboxes. We point to
+evolving uses of HTTP on today’s Internet, and designing
+our own publisher/subscribe service, HTTP Relay
+Service (HTTP-RS), on top of HTTP.},
+}
+EndNote citation:
+%0 Report
+%A Popa, Lucian
+%A Wendell, Patrick
+%A Ghodsi, Ali
+%A Stoica, Ion
+%T HTTP: An Evolvable Narrow Waist for the Future Internet
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 4
+%@ UCB/EECS-2012-5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-5.html
+%F Popa:EECS-2012-5

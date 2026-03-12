@@ -1,0 +1,234 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025
+Technical Reports - 2025
+SkyServe: Serving AI Models across Regions and Clouds with Spot Instances  (EECS-2025-227) Ziming Mao, Tian Xia, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker and Ion Stoica
+A Method for Optimal Passive Component Sizing in Phase-Shifted Pulse Width Modulated Flying Capacitor Multilevel Converters Applied to Space Robotics  (EECS-2025-226) Elisa Krause
+Efficient LLM System with Speculative Decoding  (EECS-2025-224) Xiaoxuan Liu
+Generative Models for Real-World Drug Discovery  (EECS-2025-223) Amy Lu
+Scalable Specialization for Domain-Specific SoCs  (EECS-2025-222) Seah Kim
+Bridging Information Asymmetries Through Learning  (EECS-2025-221) Anand Kumar Siththaranjan
+Prediction, Allocation, and Alignment: Individual Preferences and Group Objectives  (EECS-2025-220) Ali Shirali
+Managing Contention in Large-scale Systems  (EECS-2025-219) Lloyd Brown
+Building Language Technologies for Low-Resourced Languages  (EECS-2025-218) Hellina Hailu Nigatu
+LLM Post-Training: Data Synthesis and Algorithms  (EECS-2025-216) Tianhao Wu
+Constraint-Efficient Techniques for Zero-Knowledge Virtual Machines  (EECS-2025-215) Zhang Yinuo
+High-Effort Logic Synthesis  (EECS-2025-214) Yukio Miyasaka
+Microarchitectural Techniques for Instruction-driven Specialization  (EECS-2025-210) Jerry Zhao
+Robust Perception for Embodied AI through Symmetry Across Representations and Instances  (EECS-2025-209) Utkarsh Singhal
+Open-source, Accessible, and Customizable 3D-printed Humanoid Robot Platform  (EECS-2025-207) Yufeng Chi
+SledgeHammer: Scalable, Collaborative, Physical Design Flow Orchestration for Agile Hardware Teams  (EECS-2025-206) Andre Green
+From Serving to Training: Efficient Systems for LLM Agents at Scale  (EECS-2025-203) Michael Luo
+Design and Characterization of High Performance and Energy-efficient Devices Using Negative Capacitance High-K Gate Stack  (EECS-2025-202) Jong Ho Park
+Toward Robots that Learn from Everyday Human Experience  (EECS-2025-200) Ademiloluwa Adeniji
+Cinematographic Camera Trajectory Generation in 3D Scenes  (EECS-2025-198) Gina Wu
+Strain-Induced Flat Bands and Lateral Heterostructures: Hole Localization in Rippled Monolayer TMDs  (EECS-2025-197) Meshal Alawein
+vLLM: An Efficient Inference Engine for Large Language Models  (EECS-2025-192) Woosuk Kwon
+Binding Large Language Models to Virtual Personas for Human Simulation  (EECS-2025-191) Suhong Moon
+Accelerating Randomized Numerical Linear Algebra on a Short-Vector Machine  (EECS-2025-190) Jingyi Xu, Borivoje Nikolic and Sophia Shao
+Scaling Graph Neural Networks for Sciences  (EECS-2025-189) Alok Tripathy
+Accented Non-Autoregressive Text to Speech via Articulatory Features  (EECS-2025-188) Xavier Yin
+Interpretable Quantification of Molecular Heterogeneity and Sample Effects in Single-cell Omics  (EECS-2025-187) Pierre Boyeau
+FogROS: A Cloud Robotics System  (EECS-2025-186) Eric Chen
+Scaling Graph Neural Network Training for Sciences  (EECS-2025-185) Alok Tripathy
+A Function Calling Perspective on Scalable Large Language Model Agent Evaluation  (EECS-2025-184) Fanjia Yan
+Chip Placement with Diffusion Models  (EECS-2025-183) Vint Lee, Minh Nguyen, Leena Elzeiny and Chun Deng
+Reinforcement Learning for Adaptive Traffic Control in Mixed-Autonomy Environments  (EECS-2025-182) Han Wang
+A Lab-on-Chip Impedance Flow Cytometer Utilizing a CMOS Electrode Array  (EECS-2025-181) Venkata Alapati
+Human level information extraction from clinical reports with finetuned  language models  (EECS-2025-180) Joy Liu and Tony Lian
+Rethinking Networking Abstractions for Cloud Tenants  (EECS-2025-178) Sarah McClure
+Search Arena: Analyzing Search-Augmented Large Language Models  (EECS-2025-177) Patrick Wu, Jiayi Pan, Xinyan Hu, Wei-Lin Chiang, Anastasios Angelopoulos, Trevor Darrell, Narges Norouzi and Joseph Gonzalez
+The Language of Creation: Understanding and Overcoming Alignment Challenges in Designing with Generative AI  (EECS-2025-175) J.D. Zamfirescu-Pereira
+LLM-Based Code Translation Needs Formal Compositional Reasoning  (EECS-2025-174) Alvin Cheung and Sanjit A. Seshia
+Algorithmic Foundations for Multi-Objective Learning and Decision-Making  (EECS-2025-173) Eric Zhao
+Autonomous Frontier-Based Exploration with High-Level VLM Guidance  (EECS-2025-172) Aarush Aitha
+Deep Generative Priors for View Synthesis at Scale  (EECS-2025-170) Hang Gao, Angjoo Kanazawa, Jitendra Malik, Alexei (Alyosha) Efros and Shubham Tulsiani
+Abstracting Architectures: Two Techniques in Formal Hardware Security Verification  (EECS-2025-169) Alejandro Sanchez Ocegueda
+ScenicGym: Reinforcement Learning with Data Generation Using Scenic  (EECS-2025-168) Kai Xu
+Test-Time Training on Video Streams  (EECS-2025-167) Ren Wang
+Towards Robust Algorithms against Uncertainty in Learning Systems  (EECS-2025-166) Jichan Chung
+Hybrid Baud-Rate CDR and Clock Distribution Techniques for High-Speed 100Gbps Wireline Receiver  (EECS-2025-165) Yi-Hsuan Shih
+From Local Coordination to System-Level Strategies: Designing Reliable, Societal-Scale Multi-Agent Autonomy Across Scales  (EECS-2025-164) Victoria Tuck
+Scalable and Usable Domain-Specific Automated Reasoning  (EECS-2025-163) Federico Mora
+Towards Cloud-Assisted Autonomous Driving  (EECS-2025-162) Peter Schafhalter
+Perspectives on Multi-Agent Systems: From Characterization to Intervention  (EECS-2025-161) Geng Zhao
+Multisensory Dexterity for Robotics  (EECS-2025-158) Haozhi Qi
+Towards Safe, Strategic Multi-Agent Autonomy: A Game-Theoretic Perspective  (EECS-2025-157) Jingqi Li
+Design of High-Performance Hybrid Switched Capacitor Converters: Modeling, Layout, and Thermal Management  (EECS-2025-156) Logan Horowitz
+Between pixels and policies: Toward interpretable representations for (inter)action  (EECS-2025-155) Kaylene Stocking
+Analysis and stability of modern power systems using high fidelity modeling  (EECS-2025-154) Gabriel Colon-Reyes
+Representation Learning for Active Perception  (EECS-2025-153) Jerome Quenum
+Locomotion Skills for Reconfigurable Hexapod Robots  (EECS-2025-150) Tomson Qu
+Sensitive-data Protection for Today's Web Applications  (EECS-2025-149) Wen Zhang
+Visual Intelligence Beyond Human Supervision  (EECS-2025-148) Xudong Wang
+AI-Driven Speech Neuroprostheses for Restoring Naturalistic Communication and Embodiment  (EECS-2025-147) Kaylo Littlejohn
+Accelerating Multilinear Maps and Structured Sparse Tensor Kernels  (EECS-2025-146) Vivek Bharadwaj
+Language Models as Rational Agents  (EECS-2025-145) Nicholas Tomlin
+Perception and Reasoning in Chaotic and Uncertain Environments  (EECS-2025-143) Ritwik Gupta
+Bridging Demonstrations and Decisions: Theory and Algorithms for Provable Imitation Learning  (EECS-2025-142) Nived Rajaraman
+Monitoring Latent World States in Language Models with Propositional Probes  (EECS-2025-141) Jiahai Feng, Stuart J. Russell and Jacob Steinhardt
+The Innovation Engine: Government-Funded Academic Research  (EECS-2025-140) David A. Patterson
+Pre-Training on Observational Data with Reinforcement Learning  (EECS-2025-139) Dibya Ghosh
+Dynamic Multi-agent Autonomous Systems for Societal Transformation  (EECS-2025-138) Chinmay Maheshwari
+Generalizing Beyond the Training Data: New Theory and Algorithms for Optimal Transfer Learning  (EECS-2025-137) Reese Pathak
+GamesPlane: Augmented Reality Gamesman  (EECS-2025-136) Miller Hollinger
+Forecasting and Control of Peak Power at EV Charging Stations  (EECS-2025-135) Samuel Bobick
+Efficient 3D Perception from Images  (EECS-2025-134) Ruilong Li
+Scalable Verification with Applications to Hardware Security  (EECS-2025-133) Sushant Dinesh
+Vision-Guided Outdoor Obstacle Evasion for UAVs via Reinforcement Learning  (EECS-2025-132) Shiladitya Dutta
+Investigations in Optimal Transaction Scheduling  (EECS-2025-131) Darren Teh and Jianzhi Wang
+Towards Controllable Language Models With Instruction Hierarchies  (EECS-2025-130) Jonathan Lu, Norman Mu and Michael Lavery
+GamesmanROS: A Generalized Game-Playing Robotic System  (EECS-2025-128) Nakul Srikanth
+The Development and Management of GradeSuite: A Microservice LMS for Mastery Learning  (EECS-2025-127) Connor Bernard
+Controlled Preemption: Amplifying Side-Channel Attacks from Userspace  (EECS-2025-125) Yongye Zhu
+Improving Energy Efficiency of Machine Learning Software with an Instruction-Level Dynamic Energy Model for DNN Accelerators  (EECS-2025-124) Jonathan Wang
+Reinforcement Learning for Safe LLM Code Generation  (EECS-2025-123) Roy Huang
+Modeling Diversity Dynamics in Time-Evolving Collaboration Networks  (EECS-2025-122) Christopher Archer
+Benchmarking LLMs on Advanced Mathematical Reasoning  (EECS-2025-121) Jonathan Yue and Daniel Klein
+Learning to Race Full-Scale Autonomous Racecars  (EECS-2025-120) Eric Berndt
+Toward Pedagogically Effective AI for Introductory Computer Science  (EECS-2025-119) Michael Wu
+Buyer-Side Recommendation Agents  (EECS-2025-118) Andrew Qin, Landon Butler, Yigit Efe Erginbas and Kannan Ramchandran
+A Foundational Framework for Joint Speech and 4D Avatar Generation from Syllabic Tokens  (EECS-2025-117) Rishi Jain
+Protein Language Model Fitness is a Matter of Preference  (EECS-2025-116) Cade Gordon, Amy Lu and Pieter Abbeel
+Improving Auto-Formalization to UCLID5 with LLMs and Formal Methods  (EECS-2025-115) Anirudh Chaudhary
+Auxiliary States for Decentralized Optimization in Probabilistic Communication Networks  (EECS-2025-114) Noah Adhikari
+AI-Assisted Dataset Discovery with DATASCOUT  (EECS-2025-113) Rachel Lin, Bhavya Chopra, Wenjing Lin, Shreya Shankar, Madelon Hulsebos and Aditya Parameswaran
+On Unsupervised Object-Centric Representation Learning: Advantages and Shortcomings  (EECS-2025-112) Yarden Goraly
+Learning to Open Deformable Bags with a Bimanual Robot  (EECS-2025-111) Lawrence Chen
+Robust Multimodal Perception Stack for High-Speed Autonomous Racecars  (EECS-2025-110) Kaushik Singh
+Monocular Depth Estimation for 3D Scene Completion in Autonomous Racing  (EECS-2025-109) Wei Xun Lai
+Enabling Robot Autonomy Through Real-World Practice  (EECS-2025-108) Laura Smith
+Predicting Degradation of Fuel Cell Membrane Electrode Assemblies from Buses  (EECS-2025-107) Harsh Srivastav and Alexandre Bayen
+Adopting and Scaling Secure Systems with Distributed Trust  (EECS-2025-106) Vivian Fang
+Dynamical Modeling and Control of the Flying Capacitor Multilevel Converter  (EECS-2025-105) Rahul Iyer, Robert Pilawa-Podgurski, Claire Tomlin, Seth R. Sanders and Thierry Meynard
+Improving LLM Performance in Generating Verilog by Fine Tuning with a Translated Code Dataset  (EECS-2025-104) Brendan Roberts
+Algebraic Approaches to Distributed Data Systems  (EECS-2025-103) Conor Power
+Multimodal Differential Phase Contrast and Fluorescence Microscopy For Characterizing Protein Aggregation  (EECS-2025-101) William Xu
+Control of a 7-DOF MRI Compatible Robot Arm  (EECS-2025-100) Naichen Zhao
+Bimanual Dexterity: 3D Object Reconstruction and Cross-Embodiment Learning for Generalizable Manipulation  (EECS-2025-98) Zehan Ma
+Extending Delayed Fair Sharing: A Generalizable Framework for Multi-Resource Performance Isolation  (EECS-2025-97) James DeLoye, Tyler Griggs, Dev Bali, Wenjie Ma, Audrey Cheng, Jae Hong, Soujanya Ponnapalli, Natacha Crooks, Scott Shenker, Ion Stoica and Matei Zaharia
+3D Part Scanning, Inspection, and Representation  (EECS-2025-96) Tianshuang Qiu
+Predicting and regulating gene expression using sequence-based deep learning models  (EECS-2025-95) Aniketh Janardhan Reddy
+Tips and Tricks for Building Controllable Artificial Intelligence  (EECS-2025-94) Norman Mu
+On Proofs and Translation  (EECS-2025-92) Orr Paradise
+Steering How Deep Neural Networks Generalize  (EECS-2025-91) Katie Kang
+Topics in Extreme System Design  (EECS-2025-89) Zhihong Luo
+From Recovery to Locomotion: Learning Robust Humanoid Control via Curriculum and Policy Distillation  (EECS-2025-87) Stefanie Theodora Karolina Gschwind
+Delay-Locked Loops for Multiphase Clock Generation  (EECS-2025-86) Oliver Yu
+Programming Models for Correct and Modular Distributed Systems  (EECS-2025-85) Shadaj Laddad
+Automating Contract-based Design for Cyber-Physical Systems  (EECS-2025-84) Sheng-Jung Yu
+Computational Hyperspectral Microscopy for Bioimaging  (EECS-2025-83) Neerja Aggarwal
+Reward Modeling for Human Preferences  (EECS-2025-82) Evan Frick
+FlowFusion: Optimizing Cloud Workflows Through Fusion and Parallelization  (EECS-2025-80) Nithin Tatikonda
+Behavioral Alignment and Verifiable Explainability in Autonomous Driving  (EECS-2025-79) Ashish Pandian
+Natural Language Explanations of Dataset Patterns  (EECS-2025-78) Ruiqi Zhong
+Benchmarking Extraction of Structured Data from Templatized Documents  (EECS-2025-77) Mawil Hasan
+Precision Placement of DNA Origami onto Patterned Silicon Wafer Surfaces  (EECS-2025-76) Leo Huang
+Recovering and Creating 3D Experiences from Casual Data  (EECS-2025-75) Ethan Weber
+UPSC2M: Benchmarking Adaptive Learning from Two Million MCQ Attempts  (EECS-2025-74) Kevin Shi
+Multimodal Task Vectors Enable Many-Shot Multimodal In-Context  Learning  (EECS-2025-71) Brandon Huang, Chancharik Mitra,  Assaf Arbelle,  Leonid Karlinsky, Trevor Darrell and Roei Herzig
+Transmission Line Transformers for Broadband K/Ka Power Amplifiers in Bulk CMOS  (EECS-2025-70) Rohit Braganza
+Multi-Modal Perception with Vision, Language, and Touch for Robot Manipulation  (EECS-2025-68) Huang Huang
+Safety, Robustness, and Interpretability in Machine Learning  (EECS-2025-67) Samuel Pfrommer
+Video Models of People and Pixels  (EECS-2025-65) Jathushan Rajasegaran
+FALCON: Full Stack Evaluation Testbed of Compute Offloaded Extended Reality Systems  (EECS-2025-64) Zekai Lin
+Training and Analyzing Language Agents in Socially Complex Dialogues  (EECS-2025-63) Jessica Lin
+Steering Machine Learning Ecosystems of Interacting Agents  (EECS-2025-62) Meena Jagadeesan
+Enforcing Least Privilege Cross-Cloud Resource Access for Cloud Orchestrators  (EECS-2025-61) Alec Li
+Measuring General Intelligence with Generated Games  (EECS-2025-60) Vivek Verma, David Huang, William Chen, Daniel Klein and Nicholas Tomlin
+Designing LLM based agents to interact with the embodied world  (EECS-2025-59) Dylan Goetting
+Kokkos GPU Implementation of CPU-Based BLAS/LAPACK Operations and RandBLAS Randomization  (EECS-2025-58) Rahul Shah and James Demmel
+Toward Trustworthy Language Models: Interpretation Methods and Clinical Decision Support Applications  (EECS-2025-57) Aliyah Hsu
+Scalable Auditing for AI Safety  (EECS-2025-56) Erik Jones
+Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media  (EECS-2025-55) Yuchen Wu, Mingduo Zhao and John F. Canny
+Network Fault Localization for the InterEdge  (EECS-2025-54) Matthew Fogel
+Towards Wideband Linear RF Transmitters for Millimeter-Wave Arrays  (EECS-2025-53) Yikuan Chen
+Scalable Requirements Elicitation Education Through Simulated Interview Practice with Large Language Models  (EECS-2025-52) Nelson Lojo
+Demystifying Decision-Making of Deep RL through Validated Language Explanations  (EECS-2025-51) Ashwin Dara
+Advancing Large Language Models for Code Using Code-Structure-Aware Methods  (EECS-2025-50) Linyuan Gong
+Exploring the Security and Privacy Impacts of Using 2FA Apps  (EECS-2025-49) Conor Gilsenan
+LLM-Powered EDA Log Analysis for Effective Design Debugging  (EECS-2025-48) Rohit Kanagal
+Resonant Switch Receivers  (EECS-2025-47) Qiutong Jin
+DiT-Serve and DeepCoder: Enabling Video and Code Generation at Scale  (EECS-2025-46) Rachel Xin
+Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations  (EECS-2025-45) Anish Kachinthaya, Nick Jiang, Suzanne Petryk and Yossi Gandelsman
+Interpreting the Inner-Workings of Vision Models  (EECS-2025-44) Yossi Gandelsman
+DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning  (EECS-2025-43) Hao Bai, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine and Aviral Kumar
+AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World  (EECS-2025-42) Paul Zhiyuan Zhou, Pranav Atreya, You Liang Tan, Karl Pertsch and Sergey Levine
+Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians  (EECS-2025-41) Ishan Amin, Sanjeev Raja and Aditi Krishnapriyan
+Wideband mm-Wave and sub-THz Chip-to-Package Interfaces in Low Cost Organic Substrates  (EECS-2025-40) Rami Hijab
+Quantum Advantages via Fourier Growth Analysis of Boolean Functions  (EECS-2025-39) Kewen Wu
+Scaling Properties of Diffusion Models for Perceptual Tasks  (EECS-2025-38) Zeeshan Patel, Rahul Ravishankar, Jathushan Rajasegaran and Jitendra Malik
+Ensuring Data Freshness Across Clouds for Model Serving  (EECS-2025-36)
+Compact Device Technologies for Compact Integrated Systems  (EECS-2025-35) Lars Tatum
+A Data Converter Assisted Beamforming Technique  (EECS-2025-34) Zhenghan Lin
+High-Performance Hybrid Switched-Capacitor Power Converters: Circuit Topologies, Control Techniques, and Analytical Models  (EECS-2025-33) Yicheng Zhu
+Scaling Zero Knowledge Proofs Through Application and Proof System Co-Design  (EECS-2025-32) Yuwen Zhang
+Towards a Wireless Fluorescence Microscope on A Chip  (EECS-2025-31) Rozhan Rabbani
+Cryogenic and RF Performance of Negative Capacitance Field-Effect Transistors  (EECS-2025-30) Aditya Varma
+Hardware Accelerator for Convolutional Restricted Boltzmann Machines  (EECS-2025-29) Junghoon Han
+Cryogenic Optical Link: Device, Circuit, and System  (EECS-2025-28) Bozhi Yin
+From Simulation to the Real World: Deep Reinforcement Learning for Training Robust, Wave-Smoothing Policies for Autonomous Vehicles  (EECS-2025-26) Kathy Jang
+Printed Interlayers for Organic Solar Cells  (EECS-2025-25) Sophie Koh
+Sub-THz Transmitter Design Techniques for High Speed Wireless Communication  (EECS-2025-24) Meng Wei
+High Throughput Mechanical Phenotyping Using Custom IC Current Sensor  (EECS-2025-23) Khashayar Pirouzmand
+Unsupervised Online Learning for Seizure Detection and Prediction  (EECS-2025-22) Adelson Chua
+Automated and Process-Portable Generation of Data Converters  (EECS-2025-21) Zhaokai Liu
+Efficient Zero-Knowledge Proofs: Theory and Practice  (EECS-2025-20) Jiaheng Zhang
+Integrated Optical MEMS for Scalable Trapped Ion Quantum Computing  (EECS-2025-19) Daniel Klawson and Ming C. Wu
+MEMS Mirror-Based High-Speed Spatial Light Modulators  (EECS-2025-18) Cem Yalcin
+Harnessing Alpha Radiation to Power Miniaturized Implantable Medical Devices  (EECS-2025-17) Averal Kandala
+Design of Linear mmWave Wideband Mixer-first Receivers  (EECS-2025-16) Rawan Al Kubaisy
+High-Performance Bio-sensing ICs  (EECS-2025-15) Sina Faraji Alamouti and Rikky Muller
+Learning to Drive by Imitating Surrounding Vehicles  (EECS-2025-14) Yasin Sonmez, Hanna Krasowski and Murat Arcak
+Modeling and Design Enablement for Future Computing  (EECS-2025-13) Chien-Ting Tung
+Incentive-Compatible Vertiport Reservation in Advanced Air Mobility: An Auction-Based Approach  (EECS-2025-12) Pan-Yang Su
+To tile or not to tile, that is the question  (EECS-2025-11) Altan Haan, Doru Thom Popovici, Koushik Sen, Costin Iancu and Alvin Cheung
+Towards Vision-LanguageFoundationModels: Limitations,Improvements, and Generalization  (EECS-2025-9) Simon Zhai
+Vulnerabilities of Language Models  (EECS-2025-8) Eric Wallace
+The Free Termination Property of Queries Over Time  (EECS-2025-7) Conor Power, Paraschos Koutris and Joseph M. Hellerstein
+Towards Principled Training and Serving of Large Language Models  (EECS-2025-6) Banghua Zhu
+System Architecture for Agentic Large Language Models  (EECS-2025-5) Tianjun Zhang
+Structured Representations for Goal-Directed Decision Making  (EECS-2025-2) Vivek Myers
+The Alignment Problem Under Partial Observability  (EECS-2025-1) Scott Emmons
+Integrated Circuit Implementation of Oscillator Ising Machines  () Shreesha Sreedhara
+Self-Powered Oxygen Sensing Using Zinc–Air Systems  () Philothei Sahinidis
+Scalable Multiplexed Machine Learning Gas Sensor Chips for Food Classification  () Carla Bassil and Ali Javey
+High Speed Coherent Transmitters for Intra-Data Center Co-Packaged Optical Interfaces  () Antroy Roy Chowdhury
+Controllable Protein Sequence Generation Through Latent Space Perturbation  () Shafeeq Ibraheem
+Fabrication of Scalable and Electrically Injected Photonic Crystal Surface-Emitting Lasers  () Emma Martin
+Towards Automated Analog-Mixed Signal Circuit Design: Reinforcement Learning and Codified Generator Frameworks  () Felicia Guo
+Nonlinear Feed-Forward Equalization and ADC-based Receiver Architecture for High-Speed Serial Links  () Kunmo Kim
+First principles studies of emergent magnetism in layered and disordered quantum materials  () Tyler Reichanadter
+2D-3D Photonics for Scalable Quantum Computing  () Daniel Klawson
+Robust Computational Imaging Under Aberrations and Algorithmic Uncertainty  () Amit Kohli
+Agile Inverse Design Framework for mmWave Devices  () Yueting Li
+High Efficiency Power Amplifiers for mm-Wave Communication Systems  () Yahia Ibrahim
+End-to-end Heterogeneous System Design for Hyperscale Big-Data Processing  () Abraham Gonzalez
+Design Techniques for Specialized Short-Vector Machines  () Daniel Grubb
+Miniature Wireless Sensor Implant with Data Communication and Localization via Magnetic Resonance Imaging  () Biqi Rebekah Zhao
+Algorithmic Pursuits of Structure: Monotone Operators, Robust Estimation, and Automated Discovery  () Zihao Chen
+Deep Reinforcement Learning for Autonomous Vehicle Traffic Control and Stabilization: From Simulation to a 100-Vehicle Highway Field Deployment  () Nathan Lichtle
+A High-Efficiency Transmitter Architecture Based on Envelope Tracking Supply Modulation  () Jongbeom Baek
+Accelerating Atomistic Simulations Using Neural Networks and Ising Computing  () Pratik Brahma
+Inferring Perturbation Effects on Gene Regulation and Disease  () Ruchir Rastogi
+Wearable, User-Centric Sweat Sensing Platforms with Scalable Fabrication  () Noelle Davis
+Inferring Perturbation Effects on Gene Regulation and Disease  () Ruchir Rastogi
+Sub-THz Integrated Circuits for Sensing and Imaging  () Ali Ameri
+Squint-Free sub-THz Massive MIMO Arrays  () Hesham Beshary
+Quantum Emitters in Silicon for Scalable Quantum Photonics  () Yertay Zhiyenbayev
+Optimizing LLM Queries in Relational Data Analytics Workloads  () Shu Liu, Asim Biswal, Amog Kamsetty, Audrey Cheng, Luis Gaspar Schroeder, Liana Patel, Shiyi Cao, Simon Mo, Ion Stoica, Joseph Gonzalez and Matei Zaharia
+Quantum emitters in silicon for scalable quantum photonics  () Yertay Zhiyenbayev
+Towards Integrating Evolutionary Information into Inverse Folding Models  () Juno Lee
+Towards Integrating Evolutionary Information into  Inverse Folding Models  () Juno Lee
+Modeling and Interpreting Genome Evolution at Multiple Timescales  () Milind Jagota
+Point Track Prediction Models Enable Imitation from Action-less Datasets  () Aryan Jain and Pieter Abbeel
+Towards a TMS- and MRI- Compatible Wireless EEG System  () Yu-Chi Lin
+Application Specific and Resolution Reconfigurable Neural Recording Devices  () Aviral Pandey
+Large-Scale Silicon Photonic Switches with Sub-Microsecond Switching Time  () Johannes Henriksson
+Articulatory Voice-to-Instrument Timbre Transfer in Real-Time with Audio-Conditioned DDSP  () David Babazadeh
+Wearable, Integrated Sparse-SPECT for Continuous, Real-Time Dosimetry in Cancer Radiopharmaceutical Therapy  () Rahul Lall
+A 140 GHz FMCW Radar with RF Self-Interference Cancellation  () Yikuan Chen
+Scalable and Accurate Models of Molecular Evolution  () Sebastian Prillo
+Designing a DNA-Based “Smart Photoresist” Procedure for Electronics Self-Assembly  () Erina Iwasa
+Dense integration of compact topological photonic crystal cavities  () Yertay Zhiyenbayev
+Fundamental Resolution Limits of Magnetic Particle Imaging  () Chinmoy Saayujya
+Scaling Reasoning Agents Through Learning and Search  () Jiayi Pan
+Enhancing User Interface Design Tools with AI-Driven Evaluation  () Peitong Duan

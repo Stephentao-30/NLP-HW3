@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28848.html
+The Probabilistic Analysis of some Combinational Search Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Probabilistic Analysis of some Combinational Search Algorithms
+The Probabilistic Analysis of some Combinational Search Algorithms
+Richard M. Karp
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M581
+April 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-581.pdf
+BibTeX citation:
+@techreport{Karp:M581,
+Author = {Karp, Richard M.},
+Title = {The Probabilistic Analysis of some Combinational Search Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1976},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28848.html},
+Number = {UCB/ERL M581}
+}
+EndNote citation:
+%0 Report
+%A Karp, Richard M.
+%T The Probabilistic Analysis of some Combinational Search Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M581
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28848.html
+%F Karp:M581

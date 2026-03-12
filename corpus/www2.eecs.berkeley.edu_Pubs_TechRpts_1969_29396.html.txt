@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29396.html
+Optimization of Nonlinear Characteristics
+M.K. Inan and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M267
+, 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-267.pdf
+BibTeX citation:
+@techreport{Inan:M267,
+Author= {Inan, M.K. and Desoer, C.A.},
+Title= {Optimization of Nonlinear Characteristics},
+Year= {1969},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29396.html},
+Number= {UCB/ERL M267},
+}
+EndNote citation:
+%0 Report
+%A Inan, M.K.
+%A Desoer, C.A.
+%T Optimization of Nonlinear Characteristics
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M267
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/29396.html
+%F Inan:M267

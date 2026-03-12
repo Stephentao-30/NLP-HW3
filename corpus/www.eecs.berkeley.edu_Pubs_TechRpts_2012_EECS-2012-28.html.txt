@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-28.html
+Matrix multiplication on multidimensional torus networks
+Edgar Solomonik and James Demmel
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-28
+February 22,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-28.pdf
+Blocked matrix multiplication algorithms such as Cannon’s algorithm and SUMMA have a 2-dimensional communication structure. We introduce a generalized ’Split-Dimensional’ version of Cannon’s algorithm (SD-Cannon) with higher-dimensional and bidirectional communication structure. This algorithm is useful for higher-dimensional torus interconnects that can achieve more injection bandwidth than single-link bandwidth. On a bidirectional torus network of dimension d, SD-Cannon can lower the algorithmic bandwidth cost by a factor of up to d. With rectangular collectives, SUMMA also achieves the lower bandwidth cost but has a higher latency cost. We use Charm++ virtualization to efficiently map SD-Cannon on unbalanced and odd-dimensional torus network partitions. Our performance study on Blue Gene/P demonstrates that an MPI version of SD-Cannon can exploit multiple communication links and improve performance.
+BibTeX citation:
+@techreport{Solomonik:EECS-2012-28,
+Author= {Solomonik, Edgar and Demmel, James},
+Title= {Matrix multiplication on multidimensional torus networks},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-28.html},
+Number= {UCB/EECS-2012-28},
+Abstract= {Blocked matrix multiplication algorithms such as Cannon’s algorithm and SUMMA have a 2-dimensional communication structure. We introduce a generalized ’Split-Dimensional’ version of Cannon’s algorithm (SD-Cannon) with higher-dimensional and bidirectional communication structure. This algorithm is useful for higher-dimensional torus interconnects that can achieve more injection bandwidth than single-link bandwidth. On a bidirectional torus network of dimension d, SD-Cannon can lower the algorithmic bandwidth cost by a factor of up to d. With rectangular collectives, SUMMA also achieves the lower bandwidth cost but has a higher latency cost. We use Charm++ virtualization to efficiently map SD-Cannon on unbalanced and odd-dimensional torus network partitions. Our performance study on Blue Gene/P demonstrates that an MPI version of SD-Cannon can exploit multiple communication links and improve performance.},
+}
+EndNote citation:
+%0 Report
+%A Solomonik, Edgar
+%A Demmel, James
+%T Matrix multiplication on multidimensional torus networks
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 22
+%@ UCB/EECS-2012-28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-28.html
+%F Solomonik:EECS-2012-28

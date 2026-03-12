@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29240.html
+Frequency Criteria for Bounded-Input- Bounded-Output Stability of Nonlinear Sampled-Data Systems
+R.P. Iwens and A.R. Bergen
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M163
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-163.pdf
+BibTeX citation:
+@techreport{Iwens:M163,
+Author= {Iwens, R.P. and Bergen, A.R.},
+Title= {Frequency Criteria for Bounded-Input- Bounded-Output Stability of Nonlinear Sampled-Data Systems},
+Year= {1966},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29240.html},
+Number= {UCB/ERL M163},
+}
+EndNote citation:
+%0 Report
+%A Iwens, R.P.
+%A Bergen, A.R.
+%T Frequency Criteria for Bounded-Input- Bounded-Output Stability of Nonlinear Sampled-Data Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M163
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29240.html
+%F Iwens:M163

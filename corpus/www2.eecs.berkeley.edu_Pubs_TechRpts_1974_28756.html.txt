@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28756.html
+Filtering of Processes Which Have Continuous Noise | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Filtering of Processes Which Have Continuous Noise
+Filtering of Processes Which Have Continuous Noise
+Jan Van Schuppen and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M421
+January 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-421.pdf
+BibTeX citation:
+@techreport{Schuppen:M421,
+Author = {Schuppen, Jan Van and Varaiya, Pravin},
+Title = {Filtering of Processes Which Have Continuous Noise},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28756.html},
+Number = {UCB/ERL M421}
+}
+EndNote citation:
+%0 Report
+%A Schuppen, Jan Van
+%A Varaiya, Pravin
+%T Filtering of Processes Which Have Continuous Noise
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M421
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28756.html
+%F Schuppen:M421

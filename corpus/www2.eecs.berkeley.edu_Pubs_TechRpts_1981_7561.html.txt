@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7561.html
+The Relationship Between Signal Representation and Learning in ECG Analysis
+Kenneth P. Birman
+EECS Department, University of California, Berkeley
+1981
+Advisors:  Martin H. Graham
+BibTeX citation:
+@phdthesis{Birman:7561,
+Author= {Birman, Kenneth P.},
+Title= {The Relationship Between Signal Representation and Learning in ECG Analysis},
+School= {EECS Department, University of California, Berkeley},
+Year= {1981},
+}
+EndNote citation:
+%0 Thesis
+%A Birman, Kenneth P.
+%T The Relationship Between Signal Representation and Learning in ECG Analysis
+%I EECS Department, University of California, Berkeley
+%D 1981
+%F Birman:7561

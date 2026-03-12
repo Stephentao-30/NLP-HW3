@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28409.html
+Foundations of Feedback Theory for Nonlinear Dynamical Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Foundations of Feedback Theory for Nonlinear Dynamical Systems
+Foundations of Feedback Theory for Nonlinear Dynamical Systems
+C.A. Desoer and Y.T. Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/77
+August 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-77.pdf
+BibTeX citation:
+@techreport{Desoer:M78/77,
+Author = {Desoer, C.A. and Wang, Y.T.},
+Title = {Foundations of Feedback Theory for Nonlinear Dynamical Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28409.html},
+Number = {UCB/ERL M78/77}
+}
+EndNote citation:
+%0 Report
+%A Desoer, C.A.
+%A Wang, Y.T.
+%T Foundations of Feedback Theory for Nonlinear Dynamical Systems
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/77
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28409.html
+%F Desoer:M78/77

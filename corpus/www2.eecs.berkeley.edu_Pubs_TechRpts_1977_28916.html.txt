@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28916.html
+A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps
+A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps
+S. Tishyadhigama, E. Polak and R. Klessig
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/78
+November 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-78.pdf
+BibTeX citation:
+@techreport{Tishyadhigama:M77/78,
+Author = {Tishyadhigama, S. and Polak, E. and Klessig, R.},
+Title = {A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28916.html},
+Number = {UCB/ERL M77/78}
+}
+EndNote citation:
+%0 Report
+%A Tishyadhigama, S.
+%A Polak, E.
+%A Klessig, R.
+%T A Comparative Study of Several General Convergence Conditions for Algorithms Modeled by Point-to-Set Maps
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/78
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28916.html
+%F Tishyadhigama:M77/78

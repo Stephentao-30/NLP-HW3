@@ -1,0 +1,34 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-114.html
+Composable Flexible Real-time Packet Scheduling for Networks on-Chip
+Dai Bui and Edward A. Lee
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-114
+May 16,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-114.pdf
+Network on chip is an emerging interconnection paradigm to address the scalability of traditional bus architecture. Time-critical systems need the capability to control packet delays in a network on-chip. The inflexibility and/or non-composability reduce the scalability of several proposed real-time service approaches for hard real-time networks on-chip.
+In the era of "dark silicon" when large portions of multicore chips are turned off to save energy and control temperature, the incremental deployment capability of applications is crucial. In incremental deployment, application components are turned on and off. For time-critical applications, these components need to be composable in the sense that new incoming applications should not affect the behaviors of existing applications.
+In this paper, we propose a composable and flexible work-conserving packet scheduling discipline for hard real-time networks on chip. Our scheduling discipline employs an earliest deadline first (EDF) scheduler, which reduces average packet delays by 80% in comparison with a previous non-work-conserving EDF scheduling discipline running on the same 8x8 network with various popular traffic patterns. Our proposed scheduling discipline provides guaranteed service without sacrificing high consistent average performance. We also derive sufficient buffer sizes for our scheduling discipline. However, our scheduling discipline incurs a reasonable communication overhead.
+BibTeX citation:
+@techreport{Bui:EECS-2012-114,
+Author= {Bui, Dai and Lee, Edward A.},
+Title= {Composable Flexible Real-time Packet Scheduling for Networks on-Chip},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-114.html},
+Number= {UCB/EECS-2012-114},
+Abstract= {Network on chip is an emerging interconnection paradigm to address the scalability of traditional bus architecture. Time-critical systems need the capability to control packet delays in a network on-chip. The inflexibility and/or non-composability reduce the scalability of several proposed real-time service approaches for hard real-time networks on-chip.
+In the era of "dark silicon" when large portions of multicore chips are turned off to save energy and control temperature, the incremental deployment capability of applications is crucial. In incremental deployment, application components are turned on and off. For time-critical applications, these components need to be composable in the sense that new incoming applications should not affect the behaviors of existing applications.
+In this paper, we propose a composable and flexible work-conserving packet scheduling discipline for hard real-time networks on chip. Our scheduling discipline employs an earliest deadline first (EDF) scheduler, which reduces average packet delays by 80% in comparison with a previous non-work-conserving EDF scheduling discipline running on the same 8x8 network with various popular traffic patterns. Our proposed scheduling discipline provides guaranteed service without sacrificing high consistent average performance. We also derive sufficient buffer sizes for our scheduling discipline. However, our scheduling discipline incurs a reasonable communication overhead.},
+}
+EndNote citation:
+%0 Report
+%A Bui, Dai
+%A Lee, Edward A.
+%T Composable Flexible Real-time Packet Scheduling for Networks on-Chip
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 16
+%@ UCB/EECS-2012-114
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-114.html
+%F Bui:EECS-2012-114

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-95.html
+Linear Propagation Methodology in Compact Variability Modeling
+Ying Qiao
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-95
+August 22,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-95.pdf
+As integrated circuit manufacturing enters the nanometer regime, system performance variations are increasingly introduced through the growing complexity of the processing steps. Compact variability modeling has been widely studied for statistical circuit simulation to connect technology and design activities. Conventional statistical compact model parameter extraction methodology is not aware of the hybrid-hierarchical variation structure in the manufacturing processes. In this work we propose an efficient variability aware compact model characterization methodology based on variance linear propagation. Hierarchical spatial variability patterns of selected compact model parameters are directly calculated from transistor array test structure current/voltage measurements.
+In our implementation, spatial variability models of selected compact model parameters are created by linear regression on spatial pattern fitting coefficients with spatially modified sensitivity matrix. Good match is realized between our results and compact model parameter reference set obtained by full-wafer, direct model parameter extraction on a simple compact model and 65nm SOI industrial measurement data. Proper selection of both variability-aware model parameters and sensitive electrical measurements are also studied in this thesis work. Extensions on the proposed methodology can be applied to more complex compact models and more advanced hybrid-hierarchical variability models.
+Advisors:  Costas J. Spanos
+BibTeX citation:
+@mastersthesis{Qiao:EECS-2011-95,
+Author= {Qiao, Ying},
+Title= {Linear Propagation Methodology in Compact Variability Modeling},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-95.html},
+Number= {UCB/EECS-2011-95},
+Abstract= {As integrated circuit manufacturing enters the nanometer regime, system performance variations are increasingly introduced through the growing complexity of the processing steps. Compact variability modeling has been widely studied for statistical circuit simulation to connect technology and design activities. Conventional statistical compact model parameter extraction methodology is not aware of the hybrid-hierarchical variation structure in the manufacturing processes. In this work we propose an efficient variability aware compact model characterization methodology based on variance linear propagation. Hierarchical spatial variability patterns of selected compact model parameters are directly calculated from transistor array test structure current/voltage measurements.
+In our implementation, spatial variability models of selected compact model parameters are created by linear regression on spatial pattern fitting coefficients with spatially modified sensitivity matrix. Good match is realized between our results and compact model parameter reference set obtained by full-wafer, direct model parameter extraction on a simple compact model and 65nm SOI industrial measurement data. Proper selection of both variability-aware model parameters and sensitive electrical measurements are also studied in this thesis work. Extensions on the proposed methodology can be applied to more complex compact models and more advanced hybrid-hierarchical variability models.},
+}
+EndNote citation:
+%0 Thesis
+%A Qiao, Ying
+%T Linear Propagation Methodology in Compact Variability Modeling
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 August 22
+%@ UCB/EECS-2011-95
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-95.html
+%F Qiao:EECS-2011-95

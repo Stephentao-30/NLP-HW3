@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28857.html
+Application of the Theory of Stochastic Control to Financial and Economic Systems
+Caro Lucas
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M597
+, 1976
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/ERL-m-597.pdf
+BibTeX citation:
+@techreport{Lucas:M597,
+Author= {Lucas, Caro},
+Title= {Application of the Theory of Stochastic Control to Financial and Economic Systems},
+Year= {1976},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28857.html},
+Number= {UCB/ERL M597},
+}
+EndNote citation:
+%0 Report
+%A Lucas, Caro
+%T Application of the Theory of Stochastic Control to Financial and Economic Systems
+%I EECS Department, University of California, Berkeley
+%D 1976
+%@ UCB/ERL M597
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1976/28857.html
+%F Lucas:M597

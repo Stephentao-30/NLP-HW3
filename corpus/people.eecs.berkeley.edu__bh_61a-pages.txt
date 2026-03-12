@@ -1,0 +1,34 @@
+URL: https://people.eecs.berkeley.edu/~bh/61a-pages
+CS 61A Home Page
+Former CS61A: Structure and Interpretation of Computer Programs
+This is an archive of Berkeley's CS 61A as it was before the switch to a
+Python-based version in 2011.  It's here as a resource for people who find my
+old lecture videos online and enjoy them.
+The course title is taken from the book  Structure and Interpretation of
+Computer Programs  by Harold Abelson and Gerald Jay Sussman with Julie
+Sussman, still the best computer science book ever.
+This semester-long course was organized by weeks; each week included three
+lectures, a discussion section meeting, and a lab meeting, as well as weekly
+homework.  As a rule of thumb, the lab exercises were meant to be
+straightforward and not time-consuming, while the homework was harder.
+Students reported spending anywhere from zero to 40 hours/week on the
+homeworks, but with a strong mode at 4 hours/week.  My lecture notes are
+here, along with solutions to the homeworks and labs.
+The course reader was in two volumes, because the skinny first volume
+changed each semester, mostly because of dates of lectures and assignments.
+The fat second volume was unchanging, so could be bought used.
+Course Resources
+Start Here
+Textbook and Readers
+Programs
+First-day handout (PDF)
+Online
+SICP  textbook
+Library
+programs
+Install STk (Scheme)
+Simply Scheme  online
+Programs from lectures
+Course Reader vol 1
+Solutions to homeworks and labs
+Course Reader vol 2

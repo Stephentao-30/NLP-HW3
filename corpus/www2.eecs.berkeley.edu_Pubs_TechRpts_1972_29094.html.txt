@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29094.html
+Outline of a New Approach to the Analysis of Complex Systems and Decision Processes | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Outline of a New Approach to the Analysis of Complex Systems and Decision Processes
+Outline of a New Approach to the Analysis of Complex Systems and Decision Processes
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M342
+July 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-342.pdf
+BibTeX citation:
+@techreport{Zadeh:M342,
+Author = {Zadeh, L.A.},
+Title = {Outline of a New Approach to the Analysis of Complex Systems and Decision Processes},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29094.html},
+Number = {UCB/ERL M342}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Outline of a New Approach to the Analysis of Complex Systems and Decision Processes
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M342
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/29094.html
+%F Zadeh:M342

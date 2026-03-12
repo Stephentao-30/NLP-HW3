@@ -1,0 +1,45 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-186.html
+Statistical Models for Genome Assembly and Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Statistical Models for Genome Assembly and Analysis
+Statistical Models for Genome Assembly and Analysis
+Atif Rahman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-186
+August 12, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-186.pdf
+Genome assembly is the process of merging fragments of DNA sequences produced by shotgun sequencing in order to reconstruct the original genome. It is complicated by repeated regions in genomes, sequencing errors, and experimental biases. Here we focus on our efforts to confront some of the challenges in genome assembly and analysis of genomes to find regions associated with phenotypes using statistical models.
+Assembly algorithms have been extensively benchmarked using simulated data so that results can be compared to ground truth. However, in  de novo  assembly, only crude metrics such as contig number and size are typically used to evaluate assembly quality. We present CGAL, a novel likelihood-based approach to assembly assessment in the absence of a ground truth. We show that likelihood is more accurate than other metrics currently used for evaluating assemblies, and describe its application to the optimization and comparison of assembly algorithms.
+We then extend this to develop a method for ''scaffolding'' i.e. linking contigs using read pairs based on optimizing assembly likelihood. It uses generative models to approximate whether joining contigs would result in an increase in assembly likelihood. The methods are grounded in a rigorous statistical model yet proper approximations make the implementation named SWALO efficient and applicable to practical datasets. We analyze SWALO on real and simulated datasets used previously to evaluate other scaffolding methods and find that it consistently outperforms all other scaffolders.
+Finally, we focus on the problem of analyzing genomic data to associate regions in the genome to traits or diseases. We present an alignment free method for association studies that is based on counting k-mers in sequencing read, testing for associations directly between k-mers and the trait of interest, and local assembly of the statistically significant k-mers to identify sequence differences. Results with simulated data and an analysis of the 1000 genomes data provide a proof of principle for the approach. In a pairwise comparison of the Toscani in Italia (TSI) and the Yoruba in Ibadan, Nigeria (YRI) populations we find that sequences identified by our method largely agree with results obtained using standard GWAS based on variant calling from mapped reads. However unlike standard GWAS, we find that our method identifies associations with structural variations and sites not present in the reference genome.
+We also analyze the data from the Bengali from Bangladesh (BEB) population to explore possible genetic basis of high rate of mortality due to cardiovascular diseases (CVD) among South Asians and find significant differences in frequencies of a number of non-synonymous variants in genes linked to CVDs between BEB and TSI samples, including the site rs1042034, which has been associated with higher risk of CVDs previously and the nearby rs676210 in the  Apolipoprotein B (ApoB)  gene.
+Advisor:  Lior Pachter
+BibTeX citation:
+@phdthesis{Rahman:EECS-2015-186,
+Author = {Rahman, Atif},
+Title = {Statistical Models for Genome Assembly and Analysis},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-186.html},
+Number = {UCB/EECS-2015-186},
+Abstract = {Genome assembly is the process of merging fragments of DNA sequences produced by shotgun sequencing in order to reconstruct the original genome. It is complicated by repeated regions in genomes, sequencing errors, and experimental biases. Here we focus on our efforts to confront some of the challenges in genome assembly and analysis of genomes to find regions associated with phenotypes using statistical models.
+Assembly algorithms have been extensively benchmarked using simulated data so that results can be compared to ground truth.  However, in <i>de novo</i> assembly, only crude metrics such as contig number and size are typically used to evaluate assembly quality. We present CGAL, a novel likelihood-based approach to assembly assessment in the absence of a ground truth. We show that likelihood is more accurate than other metrics currently used for evaluating assemblies, and describe its application to the optimization and comparison of assembly algorithms.
+We then extend this to develop a method for ''scaffolding'' i.e. linking contigs using read pairs based on optimizing assembly likelihood. It uses generative models to approximate whether joining contigs would result in an increase in assembly likelihood. The methods are grounded in a rigorous statistical model yet proper approximations make the implementation named SWALO efficient and applicable to practical datasets. We analyze SWALO on real and simulated datasets used previously to evaluate other scaffolding methods and find that it consistently outperforms all other scaffolders.
+Finally, we focus on the problem of analyzing genomic data to associate regions in the genome to traits or diseases. We present an alignment free method for association studies that is based on counting k-mers in sequencing read, testing for associations directly between k-mers and the trait of interest, and local assembly of the statistically significant k-mers to identify sequence differences. Results with simulated data and an analysis of the 1000 genomes data provide a proof of principle for the approach. In a pairwise comparison of the Toscani in Italia (TSI) and the Yoruba in Ibadan, Nigeria (YRI) populations we find that sequences identified by our method largely agree with results obtained using standard GWAS based on variant calling from mapped reads. However unlike standard GWAS, we find that our method identifies associations with structural variations and sites not present in the reference genome.
+We also analyze the data from the Bengali from Bangladesh (BEB) population to explore possible genetic basis of high rate of mortality due to cardiovascular diseases (CVD) among South Asians and find significant differences in frequencies of a number of non-synonymous variants in genes linked to CVDs between BEB and TSI samples, including the site rs1042034, which has been associated with higher risk of CVDs previously and the nearby rs676210 in the <i>Apolipoprotein B (ApoB)</i> gene.}
+}
+EndNote citation:
+%0 Thesis
+%A Rahman, Atif
+%T Statistical Models for Genome Assembly and Analysis
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 August 12
+%@ UCB/EECS-2015-186
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-186.html
+%F Rahman:EECS-2015-186

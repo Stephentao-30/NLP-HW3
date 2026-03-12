@@ -1,0 +1,106 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/spa_8cpp_source.html
+Compressed Sparse Blocks: spa.cpp Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+spa.cpp
+Go to the documentation of this file.     1   #include " spa.h "
+2   #include " utility.h "
+3   #include <cassert>
+4
+5
+6   // copy constructor
+7   template  < class  T,  class  ITYPE>
+8   Spa<T, ITYPE>::Spa  ( const   Spa<T,ITYPE>  & rhs)
+9  : length(rhs.length)
+10  {
+11       if (length > 0)
+12      {
+13          indices = rhs.indices;
+14          bitmap =  new   bool [length];
+15          values =  new  T[length];
+16
+17           for (ITYPE i=0; i< length; ++i)
+18              bitmap[i]= rhs.bitmap[i];
+19           for (ITYPE i=0; i< length; ++i)
+20              values[i]= rhs.values[i];
+21      }
+22  }
+23
+24   template  < class  T,  class  ITYPE>
+25   Spa<T, ITYPE>  &  Spa<T, ITYPE>::operator=  ( const   Spa<T, ITYPE>  & rhs)
+26  {
+27       if ( this  != &rhs)
+28      {
+29           if (length > 0)   // if the existing object is not empty, make it empty
+30          {
+31               delete  [] bitmap;
+32               delete  [] values;
+33          }
+34          length = rhs.length;
+35
+36           if (length > 0)
+37          {
+38              indices = rhs.indices;
+39              bitmap =  new   bool [length];
+40              values =  new  T[length];
+41
+42               for (ITYPE i=0; i< length; ++i)
+43                  bitmap[i]= rhs.bitmap[i];
+44               for (ITYPE i=0; i< length; ++i)
+45                  values[i]= rhs.values[i];
+46          }
+47      }
+48       return  * this ;
+49  }
+50
+51   template  < class  T,  class  ITYPE>
+52   Spa<T, ITYPE>::~Spa ()
+53  {
+54       if ( length > 0)
+55      {
+56           delete  [] bitmap;
+57           delete  [] bitmap;
+58      }
+59  }
+60
+61   template  < class  T,  class  ITYPE>
+62   Spa<T, ITYPE>::Scatter (T value, ITYPE pos)
+63  {
+64       if (bitmap[pos])
+65          values[pos] += value;
+66       else
+67      {
+68          bitmap[pos] =  true ;
+69          values[pos] = value;
+70          indices.push_back(pos);
+71      }
+72  }
+73
+74   template  < class  T,  class  ITYPE>
+75   Spa<T, ITYPE>::Gather (T * y)
+76  {
+77      ITYPE nnz = indices.size();
+78       for (ITYPE =0; i<nnz; ++i)
+79      {
+80          y[indices[i]] += values[indices[i]];
+81          values[indices[i]] = 0;
+82          bitmap[indices[i]] =  false ;
+83      }
+84      indices.clear();     // free vector, and set size() to 0
+85  }
+Spa::Spa Spa() Definition:   spa.h:9
+Spa::Scatter Scatter(T value, ITYPE pos) Definition:   spa.cpp:62
+Spa::~Spa ~Spa() Definition:   spa.cpp:52
+spa.h
+utility.h
+Spa::operator= Spa< T, ITYPE > & operator=(const Spa< T, ITYPE > &rhs) Definition:   spa.cpp:25
+Spa::Gather Gather(T *y) Definition:   spa.cpp:75
+Spa Definition:   spa.h:6
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

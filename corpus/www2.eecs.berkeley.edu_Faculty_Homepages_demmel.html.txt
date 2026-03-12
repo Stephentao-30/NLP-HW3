@@ -1,0 +1,80 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/demmel.html
+James Demmel: Faculty Home Page
+Larger Photo
+James Demmel
+Professor Emeritus, Professor in the Graduate School
+Professor Emeritus and Professor in the Graduate School
+Contact Information
+564 Soda Hall
+tel:  510-643-5386
+demmel@cs.berkeley.edu
+Office Hours
+By Appointment Only, 564 Soda
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Miriam Kader
+mkader@berkeley.edu
+Biography
+He received his B.S. in Mathematics from Caltech in 1975 and his Ph.D. in Computer Science from UC Berkeley in 1983. After spending six years on the faculty of the Courant Institute, New York University; he joined the Computer Science Division and Mathematics Departments at Berkeley in 1990, where he holds joint appointments. Professor Demmel is an ACM Fellow, a SIAM Fellow, an IEEE Fellow, and a member of both the National Academy of Engineering and the National Academy of Science.  He has also won the IEEE Computer Society Sydney Fernbach Award for  "computational science leadership in creating adaptive, innovative, high performance linear algebra software."
+Education
+1983, Ph.D., Computer Science, UC Berkeley
+1975, B.S., Mathematics, Caltech
+Research Areas
+Computer Architecture & Engineering (ARC)
+Scientific Computing (SCI)
+Numerical analysis; Linear algebra
+Research Centers
+Berkeley Benchmarking and Optimization Group (BeBOP)
+SpeciaLIzed Computing Ecosystems (SLICE)
+Y. You, A. Buluç, and J. Demmel, " Scaling Deep Learning on GPU and Knights Landing Clusters ," in  Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17) , 2017.
+H. Choo, D. Garmire, R. S. Muller, and J. Demmel, " CMOS-compatible high-performance microscanners, including structures, high-yield simplified fabrication methods, and applications ," U.S. Patent Application. Feb. 2007.
+E. Anderson, Z. Bai, C. Bischof, J. Demmel, J. Dongarra, J. Du Croz, A. Greenbaum, S. Hammarling, J. Langou, J. Langou, A. McKenney, S. Ostrouchov, and S. Sorenson, " LAPACK, Linear Algebra PACKage ," 2006.
+S. Li, J. Demmel, and J. Gilbert, " SuperLU -- High Performance Sparse Gaussian Elimination ," 2006.
+J. Demmel, J. R. Gilbert, and X. S. Li, " SuperLU Users' Guide ," 2003.
+A. Agogino, D. Bindel, J. Clark, J. Demmel, S. Govindjee, M. Gu, Z. Bai, K. Pister, C. H. Séquin, N. Zhou, and J. Nie, " SUGAR -- Simulation tool for micro-electro-mechanical systems (MEMS) ," 2002.
+J. Demmel, " The complexity of accurate floating point computation ," in  Proc. Intl. Congress of Mathematicians , T. Li, Ed., Vol. 3, Beijing, China: The Higher Education Press of China, 2002, pp. 697-706.
+J. V. Clark, D. Bindel, W. Kao, E. Zhu, A. Kuo, N. Zhou, J. Nie, J. Demmel, Z. Bai, S. Govindjee, K. Pister, M. Gu, and A. Agogino, " Addressing the needs of complex MEMS design ," in  Proc. 15th IEEE Intl. Conf. on Micro Electro Mechanical Systems , Piscataway, NJ: IEEE Press, 2002, pp. 204-209.
+E. Anderson, Z. Bai, C. Bischof, S. Blackford, J. Demmel, J. Dongarra, J. Du Croz, A. Greenbaum, S. Hammarling, A. McKenney, and D. Sorensen, " LAPACK Users' Guide (3rd. ed., 407 pp., ISBN:0-89871-447-8) ," 1999.
+X. S. Li and J. Demmel, " Making sparse Gaussian elimination scalable by static pivoting ," in  Proc. of the 1998 ACM/IEEE Supercomputing Conf. , Washington, D.C.: IEEE Computer Society, 1998, pp. 19 pp..
+J. Demmel,  Applied Numerical Linear Algebra , Philadelphia, PA: Society for Industrial and Applied Mathematics, 1997.
+L. S. Blackford, J. Choi, A. Cleary, E. D'Azevedo, J. Demmel, I. Dhillon, J. Dongarra, S. Hammarling, G. Henry, A. Petitet, K. Stanley, D. Walker, and R. C. Whaley, " ScaLAPACK Users' Guide (325 pp., ISBN 0-89871-397-8) ," 1997.
+J. Choi, I. Dhillon, J. Demmel, J. Dongarra, A. Petitet, S. Ostrouchov, K. Stanley, D. Walker, and C. Whaley, " ScaLAPACK, Scalable Linear Algebra Package ," 1997.
+J. Demmel and W. M. Kahan, " Accurate singular values of bidiagonal matrices ,"  SIAM Journal on Scientific and Statistical Computing , vol. 11, no. 5, pp. 873-912, Sep. 1990.
+J. Demmel, " On condition numbers and the distance to the nearest ill-posed problem ,"  Numerische Mathematik , vol. 51, no. 3, pp. 251-289, May 1987.
+ACM-IEEE Supercomputing Conference Test of Time Award ,
+2019
+American Academy of Arts and Sciences Member ,
+2018
+American Association for the Advancement of Science (AAAS) Fellow ,
+2015
+Paris Kanellakis Theory and Practice Award ,
+2014
+CS Charles Babbage Award ,
+2013
+National Academy of Sciences (NAS) Member ,
+2011
+American Mathematical Society (AMS) Fellow ,
+2011
+CS Sidney Fernbach Award ,
+2010
+Society for Industrial & Applied Mathematics (SIAM) Fellow ,
+2009
+EECS Distinguished Alumni ,
+2004
+Institute of Electrical & Electronics Engineers (IEEE) Fellow ,
+2002
+Association for Computing Machinery (ACM) Fellow ,
+1999
+National Academy of Engineering (NAE) Member ,
+1999
+James H. Wilkinson Prize in Numerical Analysis and Scientific Computing ,
+1993
+SIAM Activity Group Linear Algebra Best Paper Prize ,
+1991
+SIAM Activity Group Linear Algebra Best Paper Prize ,
+1988
+NSF Presidential Young Investigator (PYI) ,
+1986

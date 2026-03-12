@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-226.html
+Steep On/Off Transistors for Future Low Power Electronics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Steep On/Off Transistors for Future Low Power Electronics
+Steep On/Off Transistors for Future Low Power Electronics
+Chun Wing Yeung
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-226
+December 18, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-226.pdf
+In the last couple decades, the phenomenal growth of mobile electronics is fueling the demand for multi-functional, high performance and ultra-low power integrated circuits. Reduction in Vdd to achieve orders of magnitude reduction of energy consumption is crucial if the promise of many more decades of growth of electronics usage is to be realized. For MOSFETs, Vdd reduction can only be achieved at the expense of speed loss and/or off-state leakage increase because the subthreshold slope is fundamentally limited to 60mV/decade. New transistors with sub-60mV/dec swing allowing Vdd scaling to 0.3V and below are therefore highly desirable. In this research, two approaches to achieve transistors with sub-60mV/dec swing are explored. Feedback FET (FBFET) uses positive feedback to induce an abrupt change in current with a small change in the gate voltage. Experimental results show FBFET can achieve less than 2mV/dec swing, with Ion/Ioff ratio larger than six-orders-of-magnitude. Simulation is used to illustrate the operating principle, and to evaluate the potential of FBFET. Another approach is to integrate negative capacitance element onto the gate stack of MOSFETs. The negative capacitance does not change the transport physics, but rather seeks to “amplify” the gate voltage electrostatically to achieve less than 60mV/dec swing. Design considerations and optimizations of Negative Capacitance FET (NCFET) are explored using simulations. Simulation shows the possibility of achieving hysteresis free, sub-30mV/dec operation of NCFET based on an UTBSOI design. The experimental NCFET result of epitaxial ferroelectric thin film on SOI substrate is presented.
+Advisor:  Chenming Hu
+BibTeX citation:
+@phdthesis{Yeung:EECS-2014-226,
+Author = {Yeung, Chun Wing},
+Title = {Steep On/Off Transistors for Future Low Power Electronics},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-226.html},
+Number = {UCB/EECS-2014-226},
+Abstract = {In the last couple decades, the phenomenal growth of mobile electronics is fueling the demand for multi-functional, high performance and ultra-low power integrated circuits. Reduction in Vdd to achieve orders of magnitude reduction of energy consumption is crucial if the promise of many more decades of growth of electronics usage is to be realized. For MOSFETs, Vdd reduction can only be achieved at the expense of speed loss and/or off-state leakage increase because the subthreshold slope is fundamentally limited to 60mV/decade. New transistors with sub-60mV/dec swing allowing Vdd scaling to 0.3V and below are therefore highly desirable. In this research, two approaches to achieve transistors with sub-60mV/dec swing are explored. Feedback FET (FBFET) uses positive feedback to induce an abrupt change in current with a small change in the gate voltage. Experimental results show FBFET can achieve less than 2mV/dec swing, with Ion/Ioff ratio larger than six-orders-of-magnitude. Simulation is used to illustrate the operating principle, and to evaluate the potential of FBFET. Another approach is to integrate negative capacitance element onto the gate stack of MOSFETs. The negative capacitance does not change the transport physics, but rather seeks to “amplify” the gate voltage electrostatically to achieve less than 60mV/dec swing. Design considerations and optimizations of Negative Capacitance FET (NCFET) are explored using simulations. Simulation shows the possibility of achieving hysteresis free, sub-30mV/dec operation of NCFET based on an UTBSOI design. The experimental NCFET result of epitaxial ferroelectric thin film on SOI substrate is presented.}
+}
+EndNote citation:
+%0 Thesis
+%A Yeung, Chun Wing
+%T Steep On/Off Transistors for Future Low Power Electronics
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 18
+%@ UCB/EECS-2014-226
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-226.html
+%F Yeung:EECS-2014-226

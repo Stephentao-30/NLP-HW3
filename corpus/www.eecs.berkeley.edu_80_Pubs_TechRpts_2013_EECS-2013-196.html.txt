@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-196.html
+A Platform Architecture for Sensor Data Processing and Verification in Buildings
+Jorge Ortiz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-196
+December 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-196.pdf
+This thesis examines the state of the art of building information systems and evaluates their architecture in the context of emerging technologies and applications for deep analysis of the built environment. We observe that modern building information systems are difficult to extend, do not provide general services for application development, do not scale, and are difficult to set up and manage. We assert that a new architecture must be designed with four system properties – extensibility, generalizability, scalability, ease of management – in order to address these shortcomings. Our system, StreamFS, embodies these system properties through a filesystem abstraction and a set of data services. Data services are made available to applications through an overloaded pipe abstraction. This allows for dataflow specification of processing streams to clean and analyze the streaming sensor data.
+We deploy StreamFS in seven different buildings and compose several applications on top of it. One of the driving applications is a phone application called the Mobile Energy Lens. The Energy Lens provides occupants with mechanisms for collecting building information in a unified platform and provides a way to view aggregate energy consumption data associated with the spatial deployment configuration of plug-load devices. We present a three-layer architecture, where one of the main layers is implemented entirely with the data management and processing services offered by StreamFS.
+We introduce the notion of verification of physical relationships through empiricial data. We partition the verification problem into three sub problems: 1) functional verification, 2) spatial verification, and 3) categorical verification. We show how empirical mode decompo- sition, correlation, and standard machine learning techniques can give us information about how the sensors are related to each other, statistically and physically. We demonstate an ex- tensible, generalizable, scalable, and easy-to-manage system for supporting the “appification” of the built environment.
+Advisors:  David E. Culler
+BibTeX citation:
+@phdthesis{Ortiz:EECS-2013-196,
+Author= {Ortiz, Jorge},
+Title= {A Platform Architecture for Sensor Data Processing and Verification in Buildings},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-196.html},
+Number= {UCB/EECS-2013-196},
+Abstract= {This thesis examines the state of the art of building information systems and evaluates their architecture in the context of emerging technologies and applications for deep analysis of the built environment. We observe that modern building information systems are difficult to extend, do not provide general services for application development, do not scale, and are difficult to set up and manage. We assert that a new architecture must be designed with four system properties – extensibility, generalizability, scalability, ease of management – in order to address these shortcomings. Our system, StreamFS, embodies these system properties through a filesystem abstraction and a set of data services. Data services are made available to applications through an overloaded pipe abstraction. This allows for dataflow specification of processing streams to clean and analyze the streaming sensor data.
+We deploy StreamFS in seven different buildings and compose several applications on top of it. One of the driving applications is a phone application called the Mobile Energy Lens. The Energy Lens provides occupants with mechanisms for collecting building information in a unified platform and provides a way to view aggregate energy consumption data associated with the spatial deployment configuration of plug-load devices. We present a three-layer architecture, where one of the main layers is implemented entirely with the data management and processing services offered by StreamFS.
+We introduce the notion of verification of physical relationships through empiricial data. We partition the verification problem into three sub problems: 1) functional verification, 2) spatial verification, and 3) categorical verification. We show how empirical mode decompo- sition, correlation, and standard machine learning techniques can give us information about how the sensors are related to each other, statistically and physically. We demonstate an ex- tensible, generalizable, scalable, and easy-to-manage system for supporting the “appification” of the built environment.},
+}
+EndNote citation:
+%0 Thesis
+%A Ortiz, Jorge
+%T A Platform Architecture for Sensor Data Processing and Verification in Buildings
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 3
+%@ UCB/EECS-2013-196
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-196.html
+%F Ortiz:EECS-2013-196

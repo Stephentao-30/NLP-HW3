@@ -1,0 +1,49 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS174
+Course: CS174 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS174
+CS 174. Combinatorics and Discrete Probability
+Catalog Description:  Permutations, combinations, principle of inclusion and exclusion, generating functions, Ramsey theory. Expectation and variance, Chebychev's inequality, Chernov bounds. Birthday paradox, coupon collector's problem, Markov chains and entropy computations, universal hashing, random number generation, random graphs and probabilistic existence bounds.
+Units:  4.0
+Prerequisites:  170.
+Formats:  Fall: 3 hours of lecture and  1 hour of discussion per week
+Spring: 3 hours of lecture and  1 hour of discussion per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2019):
+MoWe 5:00PM - 6:29PM, Soda 310 –
+Eric Friedman Class Schedule (Fall 2019):
+MoWe 5:00PM - 6:29PM, Soda 310 –
+Eric Friedman
+Spring 2016 class homepage on bCourses
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives: Provide familiarity with basic tools in discrete probability and their applications to the design and analysis of randomized algorithms and data structures.  Learn how probabilistic ideas and techniques can lead to more efficient and conceptually simpler algorithms for many problems.  Develop an understanding of randomness as a computational resource.
+Topics covered:
+Events and probability
+Random Variables, Expectation, conditional expectation
+Bernoulli, binomial, geometric distributions
+Program Checking/Polynomial Identities
+Coupon collector¿s problem
+Variance and moments
+Markov¿s inequality, Chebyshev¿s inequality
+Chernoff bounds, moment generating functions
+Hoeffding-Azuma inequality
+Balls and bins, the birthday paradox
+Routing in a Parallel Computer
+The Poisson distribution, the Poisson approximation
+Hashing, Bloom filters
+Random Graphs
+The probabilistic method, Lovasz local lemma
+Markov chains
+Stationary distributions, classification of states
+Random walks
+The Monte Carlo method, Markov chain Monte Carlo
+Coupling of Markov chains
+Graph Algorithms: Minimum cut, independent sets, Hamiltonian cycles
+Randomized algorithms for satisfiability
+Related Areas:
+Security (SEC)   Theory (THY)

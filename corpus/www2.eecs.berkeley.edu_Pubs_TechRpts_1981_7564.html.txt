@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7564.html
+Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System
+Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System
+Ellis Cohen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/29
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-29.pdf
+Advisor:  Donald O. Pederson
+BibTeX citation:
+@phdthesis{Cohen:M81/29,
+Author = {Cohen, Ellis},
+Title = {Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7564.html},
+Number = {UCB/ERL M81/29}
+}
+EndNote citation:
+%0 Thesis
+%A Cohen, Ellis
+%T Performance Limits of Integrated Circuit Simulation on a Dedicated Minicomputer System
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7564.html
+%F Cohen:M81/29

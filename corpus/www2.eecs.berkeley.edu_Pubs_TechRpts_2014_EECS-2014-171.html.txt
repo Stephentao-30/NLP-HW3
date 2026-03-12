@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-171.html
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+Michael Pradel, Parker Schuh and Koushik Sen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-171
+October 7, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-171.pdf
+Dynamic languages, such as JavaScript, give programmers the freedom to ignore types, and enable them to write concise code in short time. Despite this freedom, many programs follow implicit type rules, for example, that a function has a particular signature or that a property has a particular type. Violations of such implicit type rules often correlate with problems in the program. This paper presents TypeDevil, a mostly dynamic analysis that warns developers about inconsistent types. The key idea is to assign a set of observed types to each variable, property, and function, to merge types based in their structure, and to warn developers about variables, properties, and functions that have inconsistent types. To deal with the pervasiveness of polymorphic behavior in real-world JavaScript programs, we present a set of techniques to remove spurious warnings and to merge related warnings. Applying TypeDevil to widely used benchmark suites and real-world web applications reveals 15 problematic type inconsistencies, including correctness problems, performance problems, and dangerous coding practices.
+BibTeX citation:
+@techreport{Pradel:EECS-2014-171,
+Author = {Pradel, Michael and Schuh, Parker and Sen, Koushik},
+Title = {TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-171.html},
+Number = {UCB/EECS-2014-171},
+Abstract = {Dynamic languages, such as JavaScript, give programmers the freedom to ignore types, and enable them to write concise code in short time. Despite this freedom, many programs follow implicit type rules, for example, that a function has a particular signature or that a property has a particular type. Violations of such implicit type rules often correlate with problems in the program. This paper presents TypeDevil, a mostly dynamic analysis that warns developers about inconsistent types. The key idea is to assign a set of observed types to each variable, property, and function, to merge types based in their structure, and to warn developers about variables, properties, and functions that have inconsistent types. To deal with the pervasiveness of polymorphic behavior in real-world JavaScript programs, we present a set of techniques to remove spurious warnings and to merge related warnings. Applying TypeDevil to widely used benchmark suites and real-world web applications reveals 15 problematic type inconsistencies, including correctness problems, performance problems, and dangerous coding practices.}
+}
+EndNote citation:
+%0 Report
+%A Pradel, Michael
+%A Schuh, Parker
+%A Sen, Koushik
+%T TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 October 7
+%@ UCB/EECS-2014-171
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-171.html
+%F Pradel:EECS-2014-171

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29199.html
+Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres
+Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/24
+May 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-24.pdf
+BibTeX citation:
+@techreport{Stonebraker:M78/24,
+Author = {Stonebraker, Michael},
+Title = {Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29199.html},
+Number = {UCB/ERL M78/24}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Concurrency Control and Consistency of Multiple Copies of Data in Distributed Ingres
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/24
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29199.html
+%F Stonebraker:M78/24

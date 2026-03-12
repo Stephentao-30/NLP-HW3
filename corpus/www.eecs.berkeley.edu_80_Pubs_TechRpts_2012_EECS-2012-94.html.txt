@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-94.html
+Image Cropping: Collection and Analysis of Crowdsourced Data
+Sally Ahn
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-94
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-94.pdf
+There has been much interest in automated cropping and retargeting in the field of computer graphics and vision because composition plays a vital role in the visual appeal of photographs. Although image cropping requires minimal physical manipulation, the decisions users must make in order to complete the manipulation is complex. Understanding the pattern (if any exists) of these decisions is an important prerequisite to automated cropping that has been overlooked by current cropping algorithms. In this report, we take a step back from numerous works in automated cropping and retargeting to analyze real cropping behaviors of real people. We do this by employing crowdsourcing techniques to collect many crops for a set of 68 photographs and then analyze them with respect to three composition guidelines recommended in photography and art literature: 1) Rule of Thirds, 2) Filling the Frame, 3) and Leading Lines. We found that people most consistently followed the Rule of Thirds. While a positive correlation also existed for Filling the Frame, the findings were not conclusive. No correlation was found for between the first two guidelines and Leading Lines.
+Advisors:  Maneesh Agrawala
+BibTeX citation:
+@mastersthesis{Ahn:EECS-2012-94,
+Author= {Ahn, Sally},
+Editor= {Agrawala, Maneesh and Hartmann, Björn and Barsky, Brian A.},
+Title= {Image Cropping: Collection and Analysis of Crowdsourced Data},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-94.html},
+Number= {UCB/EECS-2012-94},
+Abstract= {There has been much interest in automated cropping and retargeting in the field of computer graphics and vision because composition plays a vital role in the visual appeal of photographs. Although image cropping requires minimal physical manipulation, the decisions users must make in order to complete the manipulation is complex. Understanding the pattern (if any exists) of these decisions is an important prerequisite to automated cropping that has been overlooked by current cropping algorithms. In this report, we take a step back from numerous works in automated cropping and retargeting to analyze real cropping behaviors of real people. We do this by employing crowdsourcing techniques to collect many crops for a set of 68 photographs and then analyze them with respect to three composition guidelines recommended in photography and art literature: 1) Rule of Thirds, 2) Filling the Frame, 3) and Leading Lines. We found that people most consistently followed the Rule of Thirds. While a positive correlation also existed for Filling the Frame, the findings were not conclusive. No correlation was found for between the first two guidelines and Leading Lines.},
+}
+EndNote citation:
+%0 Thesis
+%A Ahn, Sally
+%E Agrawala, Maneesh
+%E Hartmann, Björn
+%E Barsky, Brian A.
+%T Image Cropping: Collection and Analysis of Crowdsourced Data
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-94
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-94.html
+%F Ahn:EECS-2012-94

@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29244.html
+Microwave X-band Faraday Rotation of Hemoglobin with Adsorbed Water
+Soo-Young Chai and Paul O. Vogelhut
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M179
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-179.pdf
+BibTeX citation:
+@techreport{Chai:M179,
+Author= {Chai, Soo-Young and Vogelhut, Paul O.},
+Title= {Microwave X-band Faraday Rotation of Hemoglobin with Adsorbed Water},
+Year= {1966},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29244.html},
+Number= {UCB/ERL M179},
+}
+EndNote citation:
+%0 Report
+%A Chai, Soo-Young
+%A Vogelhut, Paul O.
+%T Microwave X-band Faraday Rotation of Hemoglobin with Adsorbed Water
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M179
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29244.html
+%F Chai:M179

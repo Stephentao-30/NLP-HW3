@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29238.html
+On Determinable Classes of signals and Linear Channels
+P.P. Variya
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M157
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-157.pdf
+BibTeX citation:
+@techreport{Variya:M157,
+Author= {Variya, P.P.},
+Title= {On Determinable Classes of signals and Linear Channels},
+Year= {1966},
+Month= {Apr},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29238.html},
+Number= {UCB/ERL M157},
+}
+EndNote citation:
+%0 Report
+%A Variya, P.P.
+%T On Determinable Classes of signals and Linear Channels
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M157
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29238.html
+%F Variya:M157

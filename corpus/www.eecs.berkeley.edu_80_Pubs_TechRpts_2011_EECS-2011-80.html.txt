@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-80.html
+Proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-80
+July 4,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-80.pdf
+This technical report is the proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011, held in Snowbird, Utah. The workshop is co-located with the 23rd International Conference on
+Computer-Aided Verification (CAV).
+BibTeX citation:
+@techreport{EECS-2011-80,
+Editor= {Lahiri, Shuvendu and Seshia, Sanjit A.},
+Title= {Proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011},
+Year= {2011},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-80.html},
+Number= {UCB/EECS-2011-80},
+Abstract= {This technical report is the proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011, held in Snowbird, Utah. The workshop is co-located with the 23rd International Conference on
+Computer-Aided Verification (CAV).},
+}
+EndNote citation:
+%0 Report
+%E Lahiri, Shuvendu
+%E Seshia, Sanjit A.
+%T Proceedings of the 9th International Workshop on Satisfiability Modulo Theories (SMT) 2011
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 July 4
+%@ UCB/EECS-2011-80
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-80.html
+%F EECS-2011-80

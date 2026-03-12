@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-216.html
+Replay Debugging for the Datacenter
+Gautam Altekar
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-216
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-216.pdf
+Debugging large-scale, data-intensive, distributed applications running in a datacenter (“datacenter applications”) is complex and time-consuming. The key obstacle is non-deterministic failures—hard-to-reproduce program misbehaviors that are immune to traditional cyclic debugging techniques. Datacenter applications are rife with such failures because they operate in highly non-deterministic environments: a typical setup employs thousands of nodes, spread across multiple datacenters, to process terabytes of data per day. In these environments, existing methods for debugging non-deterministic failures are of limited use. They either incur excessive production overheads or don’t scale to multi-node, terabyte-scale processing.
+To help remedy the situation, we have built a new deterministic replay tool. Our tool, called DCR, enables the reproduction and debugging of non-deterministic failures in production datacenter runs. The key observation behind DCR is that debugging does not always require a precise replica of the original datacenter run. Instead, it often suffices to produce some run that exhibits the original behavior of the control-plane—the most error-prone component of datacenter applications. DCR leverages this observation to relax the determinism guarantees offered by the system, and consequently, to address key requirements of production datacenter applications: lightweight recording of long running programs, causally consistent replay of large-scale clusters, and out-of-the box operation with existing, real world applications running on commodity multiprocessors.
+Advisors:  Ion Stoica
+BibTeX citation:
+@phdthesis{Altekar:EECS-2012-216,
+Author= {Altekar, Gautam},
+Title= {Replay Debugging for the Datacenter},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-216.html},
+Number= {UCB/EECS-2012-216},
+Abstract= {Debugging large-scale, data-intensive, distributed applications running in a datacenter (“datacenter applications”) is complex and time-consuming. The key obstacle is non-deterministic failures—hard-to-reproduce program misbehaviors that are immune to traditional cyclic debugging techniques. Datacenter applications are rife with such failures because they operate in highly non-deterministic environments: a typical setup employs thousands of nodes, spread across multiple datacenters, to process terabytes of data per day. In these environments, existing methods for debugging non-deterministic failures are of limited use. They either incur excessive production overheads or don’t scale to multi-node, terabyte-scale processing.
+To help remedy the situation, we have built a new deterministic replay tool. Our tool, called DCR, enables the reproduction and debugging of non-deterministic failures in production datacenter runs. The key observation behind DCR is that debugging does not always require a precise replica of the original datacenter run. Instead, it often suffices to produce some run that exhibits the original behavior of the control-plane—the most error-prone component of datacenter applications. DCR leverages this observation to relax the determinism guarantees offered by the system, and consequently, to address key requirements of production datacenter applications: lightweight recording of long running programs, causally consistent replay of large-scale clusters, and out-of-the box operation with existing, real world applications running on commodity multiprocessors.},
+}
+EndNote citation:
+%0 Thesis
+%A Altekar, Gautam
+%T Replay Debugging for the Datacenter
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-216
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-216.html
+%F Altekar:EECS-2012-216

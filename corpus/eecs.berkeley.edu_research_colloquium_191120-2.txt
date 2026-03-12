@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/191120-2
+Representation, Modeling, and Optimization in Reinforcement Learning - EECS at Berkeley
+Representation, Modeling, and Optimization in Reinforcement Learning
+EECS Colloquium
+Wednesday, November 20, 2019
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Sham Kakade
+Professor of Computer Science and Statistics
+University of Washington
+Sham Kakade speaks on "Representation, Modeling, and Optimization in Reinforcement Learning," 11/20/19
+Abstract:
+Reinforcement learning is now the dominant paradigm for how an agent learns to interact with the world. The approach has lead to successes ranging across numerous domains, including game playing and robotics, and it holds much promise in new domains, from self driving cars to interactive medical applications. Some of the central challenges  are:  – Representational learning: does having a good representation of the environment permit efficient reinforcement learning?   – Modeling: should we explicitly build a model of our environment or, alternatively, should we directly learn how to act?  – Optimization: in practice, deployed algorithms often use local search heuristics. Can we provably understand  when these approaches are effective and provide faster alternatives?  This talk will survey a number of results on these basic questions. Throughout, we will  highlight the interplay of theory, algorithm design, and practice.
+Biography
+Sham Kakade is a Washington Research Foundation Data Science Chair, with a joint appointment in the Department of Computer Science and the Department of Statistics at the University of Washington, and a co-director for the Algorithmic Foundations of Data Science Institute. He works on the mathematical foundations of machine learning. Sham’s thesis helped in laying the foundations of the PAC-MDP framework for reinforcement learning. With his collaborators, his additional contributions include: one of the first provably efficient policy search methods, Conservative Policy Iteration, for reinforcement learning; developing the mathematical foundations for the widely used linear bandit models and the Gaussian process bandit models; the tensor and spectral methodologies for provable estimation of latent variable models (applicable to mixture of Gaussians, HMMs, and LDA); the first sharp analysis of the perturbed gradient descent algorithm, along with the design and analysis of numerous other convex and non-convex algorithms. He is the recipient of the IBM Goldberg best paper award (in 2007) for contributions to fast nearest neighbor search and the best paper, INFORMS Revenue Management and Pricing Section Prize (2014). He has been program chair for COLT 2011.
+Sham was an undergraduate at Caltech, where he studied physics and worked under the guidance of John Preskill in quantum computing. He then completed his Ph.D. in computational neuroscience at the Gatsby Unit, under the supervision of Peter Dayan. He was a postdoc at the University of Pennsylvania, where he broadened his studies to include computational game theory and economics from the guidance of Michael Kearns. Sham has been a Principal Research Scientist at Microsoft Research, New England, an associate professor at the Department of Statistics, Wharton, UPenn, and an assistant professor at the Toyota Technological Institute at Chicago.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28568.html
+On the Solution of Singular Value Inequalities Over a Continuum of Frequencies | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Solution of Singular Value Inequalities Over a Continuum of Frequencies
+On the Solution of Singular Value Inequalities Over a Continuum of Frequencies
+E. Polak and D.Q. Mayne
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/8
+January 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-8.pdf
+BibTeX citation:
+@techreport{Polak:M80/8,
+Author = {Polak, E. and Mayne, D.Q.},
+Title = {On the Solution of Singular Value Inequalities Over a Continuum of Frequencies},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28568.html},
+Number = {UCB/ERL M80/8}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%A Mayne, D.Q.
+%T On the Solution of Singular Value Inequalities Over a Continuum of Frequencies
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/8
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28568.html
+%F Polak:M80/8

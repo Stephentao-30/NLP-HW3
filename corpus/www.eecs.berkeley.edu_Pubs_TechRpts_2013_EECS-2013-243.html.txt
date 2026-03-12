@@ -1,0 +1,62 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-243.html
+First-Order Open-Universe POMDPs: Formulation and Algorithms
+Siddharth Srivastava and Xiang Cheng and Stuart J. Russell and Avi Pfeffer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-243
+December 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-243.pdf
+Interest in relational and first-order languages for probability
+models has grown rapidly in recent years, and with it the
+possibility of extending such languages to handle decision
+processes---both fully and partially observable.  We examine the
+problem of extending a first-order, open-universe language to
+describe POMDPs and identify non-trivial representational issues in
+describing an agent's capability for observation and action---issues
+that were avoided in previous work only by making strong and
+restrictive assumptions. We present a method for representing
+actions and observations that respects formal specifications of the
+sensors and actuators available to an agent, and show how to handle
+cases---such as seeing an object and picking it up---that could not
+previously be represented. Finally, we argue that in many cases
+open-universe POMDPs require belief-state policies rather than
+automata policies. We present an algorithm and experimental results
+for evaluating such policies for open-unverse POMDPs.
+BibTeX citation:
+@techreport{Srivastava:EECS-2013-243,
+Author= {Srivastava, Siddharth and Cheng, Xiang and Russell, Stuart J. and Pfeffer, Avi},
+Title= {First-Order Open-Universe POMDPs: Formulation and Algorithms},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-243.html},
+Number= {UCB/EECS-2013-243},
+Abstract= { Interest in relational and first-order languages for probability
+models has grown rapidly in recent years, and with it the
+possibility of extending such languages to handle decision
+processes---both fully and partially observable.  We examine the
+problem of extending a first-order, open-universe language to
+describe POMDPs and identify non-trivial representational issues in
+describing an agent's capability for observation and action---issues
+that were avoided in previous work only by making strong and
+restrictive assumptions. We present a method for representing
+actions and observations that respects formal specifications of the
+sensors and actuators available to an agent, and show how to handle
+cases---such as seeing an object and picking it up---that could not
+previously be represented. Finally, we argue that in many cases
+open-universe POMDPs require belief-state policies rather than
+automata policies. We present an algorithm and experimental results
+for evaluating such policies for open-unverse POMDPs.},
+}
+EndNote citation:
+%0 Report
+%A Srivastava, Siddharth
+%A Cheng, Xiang
+%A Russell, Stuart J.
+%A Pfeffer, Avi
+%T First-Order Open-Universe POMDPs: Formulation and Algorithms
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 25
+%@ UCB/EECS-2013-243
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-243.html
+%F Srivastava:EECS-2013-243

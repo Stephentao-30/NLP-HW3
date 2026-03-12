@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28789.html
+The Theory and Applications of the Inners | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Theory and Applications of the Inners
+The Theory and Applications of the Inners
+E. I. Jury
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M484
+October 1974
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-484.pdf
+BibTeX citation:
+@techreport{Jury:M484,
+Author = {Jury, E. I.},
+Title = {The Theory and Applications of the Inners},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1974},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28789.html},
+Number = {UCB/ERL M484}
+}
+EndNote citation:
+%0 Report
+%A Jury, E. I.
+%T The Theory and Applications of the Inners
+%I EECS Department, University of California, Berkeley
+%D 1974
+%@ UCB/ERL M484
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/28789.html
+%F Jury:M484

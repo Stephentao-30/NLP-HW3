@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7294.html
+Analysis of Computational Techniques for Circuit Theory | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Analysis of Computational Techniques for Circuit Theory
+Analysis of Computational Techniques for Circuit Theory
+Hiromasa Haneda
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M323
+February 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-323.pdf
+Advisor:  Charles A. Desoer
+BibTeX citation:
+@phdthesis{Haneda:M323,
+Author = {Haneda, Hiromasa},
+Title = {Analysis of Computational Techniques for Circuit Theory},
+School = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7294.html},
+Number = {UCB/ERL M323}
+}
+EndNote citation:
+%0 Thesis
+%A Haneda, Hiromasa
+%T Analysis of Computational Techniques for Circuit Theory
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M323
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/7294.html
+%F Haneda:M323

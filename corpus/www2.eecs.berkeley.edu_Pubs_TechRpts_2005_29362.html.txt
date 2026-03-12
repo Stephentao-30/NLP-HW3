@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/29362.html
+Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization
+Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization
+Nadathur Satish, Kaushik Ravindran, Matthew Moskewicz, David Chinnery and Kurt Keutzer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M05/28
+August 2005
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/ERL-05-28.pdf
+BibTeX citation:
+@techreport{Satish:M05/28,
+Author = {Satish, Nadathur and Ravindran, Kaushik and Moskewicz, Matthew and Chinnery, David and Keutzer, Kurt},
+Title = {Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2005},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/29362.html},
+Number = {UCB/ERL M05/28}
+}
+EndNote citation:
+%0 Report
+%A Satish, Nadathur
+%A Ravindran, Kaushik
+%A Moskewicz, Matthew
+%A Chinnery, David
+%A Keutzer, Kurt
+%T Evaluating the Effectiveness of Statistical Gate Sizing for Power Optimization
+%I EECS Department, University of California, Berkeley
+%D 2005
+%@ UCB/ERL M05/28
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/29362.html
+%F Satish:M05/28

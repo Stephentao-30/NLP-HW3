@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28683.html
+A Dual Method for Optimal Control Problems with Initial and Final Boundary Constraints | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Dual Method for Optimal Control Problems with Initial and Final Boundary Constraints
+A Dual Method for Optimal Control Problems with Initial and Final Boundary Constraints
+O. Pironneau and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M299
+March 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-299.pdf
+BibTeX citation:
+@techreport{Pironneau:M299,
+Author = {Pironneau, O. and Polak, E.},
+Title = {A Dual Method for Optimal Control Problems with Initial and Final Boundary Constraints},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28683.html},
+Number = {UCB/ERL M299}
+}
+EndNote citation:
+%0 Report
+%A Pironneau, O.
+%A Polak, E.
+%T A Dual Method for Optimal Control Problems with Initial and Final Boundary Constraints
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M299
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28683.html
+%F Pironneau:M299

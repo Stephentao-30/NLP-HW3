@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28441.html
+A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation
+A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation
+E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/52
+June 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-52.pdf
+BibTeX citation:
+@techreport{Polak:M79/52,
+Author = {Polak, E.},
+Title = {A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28441.html},
+Number = {UCB/ERL M79/52}
+}
+EndNote citation:
+%0 Report
+%A Polak, E.
+%T A Globally Convergent, Implementable Multiplier Method with Automatic Penalty Limitation
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28441.html
+%F Polak:M79/52

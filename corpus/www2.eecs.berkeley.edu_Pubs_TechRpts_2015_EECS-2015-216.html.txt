@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-216.html
+Robust Optimization and Data Approximation in Machine Learning | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Robust Optimization and Data Approximation in Machine Learning
+Robust Optimization and Data Approximation in Machine Learning
+Gia Vinh Anh Pham
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-216
+December 1, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-216.pdf
+Modern learning problems in nature language processing, computer vision, computational biology, etc. often involve large-scale datasets with millions of samples and/or millions of features, thus are challenging to solve. Simply replacing the original data with a simpler approximation such as a sparse matrix or a low-rank matrix does allow a dramatic reduction in the computational effort required to solve the problem, however some information of the original data will be lost during the approximation process. In some cases, the solution obtained by directly solving the learning problem with approximated data might be infeasible for the original problem or might have undesired properties. In this thesis, we present a new approach that utilizes data approximation techniques and takes into account, via robust optimization the error made during the approximation process in order to obtain learning algorithms that could solve large-scale learning problems efficiently while preserving the learning quality.
+In the first part of this thesis, we give a brief review of robust optimization and its appearance in machine learning literature. In the second part of this thesis, we examine two data approximation techniques, namely data thresholding and low-rank approximation, and then discuss their connection to robust optimization.
+Advisor:  Laurent El Ghaoui
+BibTeX citation:
+@phdthesis{Pham:EECS-2015-216,
+Author = {Pham, Gia Vinh Anh},
+Title = {Robust Optimization and Data Approximation in Machine Learning},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-216.html},
+Number = {UCB/EECS-2015-216},
+Abstract = {Modern learning problems in nature language processing, computer vision, computational biology, etc. often involve large-scale datasets with millions of samples and/or millions of features, thus are challenging to solve. Simply replacing the original data with a simpler approximation such as a sparse matrix or a low-rank matrix does allow a dramatic reduction in the computational effort required to solve the problem, however some information of the original data will be lost during the approximation process. In some cases, the solution obtained by directly solving the learning problem with approximated data might be infeasible for the original problem or might have undesired properties. In this thesis, we present a new approach that utilizes data approximation techniques and takes into account, via robust optimization the error made during the approximation process in order to obtain learning algorithms that could solve large-scale learning problems efficiently while preserving the learning quality.
+In the first part of this thesis, we give a brief review of robust optimization and its appearance in machine learning literature. In the second part of this thesis, we examine two data approximation techniques, namely data thresholding and low-rank approximation, and then discuss their connection to robust optimization.}
+}
+EndNote citation:
+%0 Thesis
+%A Pham, Gia Vinh Anh
+%T Robust Optimization and Data Approximation in Machine Learning
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 December 1
+%@ UCB/EECS-2015-216
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-216.html
+%F Pham:EECS-2015-216

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28949.html
+Microcode Compression for TIPI | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Microcode Compression for TIPI
+Microcode Compression for TIPI
+Nadathur R. Satish and Pierre-Yves Droz
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M05/29
+August 2005
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/ERL-05-29.pdf
+BibTeX citation:
+@techreport{Satish:M05/29,
+Author = {Satish, Nadathur R. and Droz, Pierre-Yves},
+Title = {Microcode Compression for TIPI},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2005},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28949.html},
+Number = {UCB/ERL M05/29}
+}
+EndNote citation:
+%0 Report
+%A Satish, Nadathur R.
+%A Droz, Pierre-Yves
+%T Microcode Compression for TIPI
+%I EECS Department, University of California, Berkeley
+%D 2005
+%@ UCB/ERL M05/29
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2005/28949.html
+%F Satish:M05/29

@@ -1,0 +1,36 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28567.html
+Viscous Plasma Flow in a Multiple-Mirror Configuration | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Viscous Plasma Flow in a Multiple-Mirror Configuration
+Viscous Plasma Flow in a Multiple-Mirror Configuration
+R.V. Bravenec, A.J. Lichtenberg, M.A. Lieberman and H.L. Berk
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/56
+January 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-56.pdf
+BibTeX citation:
+@techreport{Bravenec:M80/56,
+Author = {Bravenec, R.V. and Lichtenberg, A.J. and Lieberman, M.A. and Berk, H.L.},
+Title = {Viscous Plasma Flow in a Multiple-Mirror Configuration},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28567.html},
+Number = {UCB/ERL M80/56}
+}
+EndNote citation:
+%0 Report
+%A Bravenec, R.V.
+%A Lichtenberg, A.J.
+%A Lieberman, M.A.
+%A Berk, H.L.
+%T Viscous Plasma Flow in a Multiple-Mirror Configuration
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/56
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28567.html
+%F Bravenec:M80/56

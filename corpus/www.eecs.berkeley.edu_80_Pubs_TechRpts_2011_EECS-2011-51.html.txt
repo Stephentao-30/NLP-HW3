@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-51.html
+Automatic Term-Level Abstraction
+Bryan Brady
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-51
+May 13,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-51.pdf
+Recent advances in decision procedures for Boolean satisfiability (SAT) and  Satisfiability Modulo Theories (SMT) have increased the performance and capacity of  formal verification techniques. Even with these advances, formal methods often do  not scale to industrial-size designs, due to the gap between the level of  abstraction at which designs are described and the level at which SMT solvers can be  applied. In order to fully exploit the power of state-of-the-art SMT solvers,  abstraction is necessary. However, applying abstraction to industrial-size designs  is currently a daunting task, typically requiring major manual efforts. This thesis  aims to bridge the gap between the level at which designs are described and the  level at which SMT solvers can reason efficiently, referred to as the term level.
+This thesis presents automatic term-level abstraction techniques in the context of  formal verification applied to hardware designs. The techniques aim to perform  abstraction as automatically as possible, while requiring little to no user  guidance. Data abstraction and function abstraction are the foci of this work. The  abstraction techniques presented herein rely on combining static analysis, random  simulation, machine learning, and abstraction-refinement in novel ways, resulting in  more intelligent and scalable formal verification methodologies.
+The data abstraction procedure presented in this work uses static analysis to  identify portions of a hardware design that can be re-encoded in a theory other than  the theory of bit vectors, with the goal of creating an easier to reason about  verification model. In addition, the data abstraction procedure can provide feedback  that can help the designer create hardware designs that are easier to verify.
+The function abstraction procedures described in this work rely on static analysis,  random simulation, machine learning, and counterexample-guided  abstraction-refinement to identify and abstract functional blocks that are hard for  formal tools to reason about. Random simulation is used to identify functional  blocks that will likely yield substantial performance increases if they were to be  abstracted. A static analysis-based technique, ATLAS, and a separate technique, CAL,  based on a combination of machine learning and counterexample-guided  abstraction-refinement, are then used to compute conditions under which it is  precise to abstract. That is, functional blocks are abstracted in a manner that  avoids producing spurious counterexamples.
+Experimental evidence is presented that proves the efficacy and efficiency of the  data and function abstraction procedures. The experimental benchmarks are drawn from  a wide range of hardware designs including network-on-chip routers, low-power  circuits, and microprocessor designs.
+Advisors:  Sanjit A. Seshia
+BibTeX citation:
+@phdthesis{Brady:EECS-2011-51,
+Author= {Brady, Bryan},
+Title= {Automatic Term-Level Abstraction},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-51.html},
+Number= {UCB/EECS-2011-51},
+Abstract= {Recent advances in decision procedures for Boolean satisfiability (SAT) and  Satisfiability Modulo Theories (SMT) have increased the performance and capacity of  formal verification techniques. Even with these advances, formal methods often do  not scale to industrial-size designs, due to the gap between the level of  abstraction at which designs are described and the level at which SMT solvers can be  applied. In order to fully exploit the power of state-of-the-art SMT solvers,  abstraction is necessary. However, applying abstraction to industrial-size designs  is currently a daunting task, typically requiring major manual efforts. This thesis  aims to bridge the gap between the level at which designs are described and the  level at which SMT solvers can reason efficiently, referred to as the term level.
+This thesis presents automatic term-level abstraction techniques in the context of  formal verification applied to hardware designs. The techniques aim to perform  abstraction as automatically as possible, while requiring little to no user  guidance. Data abstraction and function abstraction are the foci of this work. The  abstraction techniques presented herein rely on combining static analysis, random  simulation, machine learning, and abstraction-refinement in novel ways, resulting in  more intelligent and scalable formal verification methodologies.
+The data abstraction procedure presented in this work uses static analysis to  identify portions of a hardware design that can be re-encoded in a theory other than  the theory of bit vectors, with the goal of creating an easier to reason about  verification model. In addition, the data abstraction procedure can provide feedback  that can help the designer create hardware designs that are easier to verify.
+The function abstraction procedures described in this work rely on static analysis,  random simulation, machine learning, and counterexample-guided  abstraction-refinement to identify and abstract functional blocks that are hard for  formal tools to reason about. Random simulation is used to identify functional  blocks that will likely yield substantial performance increases if they were to be  abstracted. A static analysis-based technique, ATLAS, and a separate technique, CAL,  based on a combination of machine learning and counterexample-guided  abstraction-refinement, are then used to compute conditions under which it is  precise to abstract. That is, functional blocks are abstracted in a manner that  avoids producing spurious counterexamples.
+Experimental evidence is presented that proves the efficacy and efficiency of the  data and function abstraction procedures. The experimental benchmarks are drawn from  a wide range of hardware designs including network-on-chip routers, low-power  circuits, and microprocessor designs.},
+}
+EndNote citation:
+%0 Thesis
+%A Brady, Bryan
+%T Automatic Term-Level Abstraction
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 13
+%@ UCB/EECS-2011-51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-51.html
+%F Brady:EECS-2011-51

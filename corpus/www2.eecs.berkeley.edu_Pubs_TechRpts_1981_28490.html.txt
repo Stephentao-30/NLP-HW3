@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28490.html
+Quasineutral Hybrid Simultation of Macroscopic Plasma
+Douglas S. Harned
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/71
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-71.pdf
+BibTeX citation:
+@techreport{Harned:M81/71,
+Author= {Harned, Douglas S.},
+Title= {Quasineutral Hybrid Simultation of Macroscopic Plasma},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28490.html},
+Number= {UCB/ERL M81/71},
+}
+EndNote citation:
+%0 Report
+%A Harned, Douglas S.
+%T Quasineutral Hybrid Simultation of Macroscopic Plasma
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/71
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28490.html
+%F Harned:M81/71

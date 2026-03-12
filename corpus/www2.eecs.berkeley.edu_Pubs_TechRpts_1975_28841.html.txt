@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28841.html
+A Two levels Algorithm for Tearing | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Two levels Algorithm for Tearing
+A Two levels Algorithm for Tearing
+G. Guardabassi and A. Sangiovanni-Vincentelli
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M569
+December 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-569.pdf
+BibTeX citation:
+@techreport{Guardabassi:M569,
+Author = {Guardabassi, G. and Sangiovanni-Vincentelli, A.},
+Title = {A Two levels Algorithm for Tearing},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28841.html},
+Number = {UCB/ERL M569}
+}
+EndNote citation:
+%0 Report
+%A Guardabassi, G.
+%A Sangiovanni-Vincentelli, A.
+%T A Two levels Algorithm for Tearing
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M569
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28841.html
+%F Guardabassi:M569

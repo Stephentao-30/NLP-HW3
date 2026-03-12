@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29079.html
+Hypothetical Data Bases as Views | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Hypothetical Data Bases as Views
+Hypothetical Data Bases as Views
+Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/27
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-27.pdf
+BibTeX citation:
+@techreport{Stonebraker:M81/27,
+Author = {Stonebraker, Michael},
+Title = {Hypothetical Data Bases as Views},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29079.html},
+Number = {UCB/ERL M81/27}
+}
+EndNote citation:
+%0 Report
+%A Stonebraker, Michael
+%T Hypothetical Data Bases as Views
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/27
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29079.html
+%F Stonebraker:M81/27

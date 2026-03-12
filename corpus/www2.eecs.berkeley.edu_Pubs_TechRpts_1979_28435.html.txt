@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28435.html
+Ergodic Orbits in Particle Simulations of Strong Ion Rings | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Ergodic Orbits in Particle Simulations of Strong Ion Rings
+Ergodic Orbits in Particle Simulations of Strong Ion Rings
+Alex Friedman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/41
+June 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-41.pdf
+BibTeX citation:
+@techreport{Friedman:M79/41,
+Author = {Friedman, Alex},
+Title = {Ergodic Orbits in Particle Simulations of Strong Ion Rings},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28435.html},
+Number = {UCB/ERL M79/41}
+}
+EndNote citation:
+%0 Report
+%A Friedman, Alex
+%T Ergodic Orbits in Particle Simulations of Strong Ion Rings
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28435.html
+%F Friedman:M79/41

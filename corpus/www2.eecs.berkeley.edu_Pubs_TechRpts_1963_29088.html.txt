@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29088.html
+Stability of Linear, Time-varying Networks From Energy Fuction Analysis | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Stability of Linear, Time-varying Networks From Energy Fuction Analysis
+Stability of Linear, Time-varying Networks From Energy Fuction Analysis
+R.A. Rohrer
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M26
+May 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-26.pdf
+BibTeX citation:
+@techreport{Rohrer:M26,
+Author = {Rohrer, R.A.},
+Title = {Stability of Linear, Time-varying Networks From Energy Fuction Analysis},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29088.html},
+Number = {UCB/ERL M26}
+}
+EndNote citation:
+%0 Report
+%A Rohrer, R.A.
+%T Stability of Linear, Time-varying Networks From Energy Fuction Analysis
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29088.html
+%F Rohrer:M26

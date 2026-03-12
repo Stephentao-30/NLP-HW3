@@ -1,0 +1,27 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28489.html
+The Design of Digital Filters Using Interactive Optimization
+T.P. Lee and W.T. Nye and A.L. Tits
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/69
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-69.pdf
+BibTeX citation:
+@techreport{Lee:M81/69,
+Author= {Lee, T.P. and Nye, W.T. and Tits, A.L.},
+Title= {The Design of Digital Filters Using Interactive Optimization},
+Year= {1981},
+Month= {Sep},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28489.html},
+Number= {UCB/ERL M81/69},
+}
+EndNote citation:
+%0 Report
+%A Lee, T.P.
+%A Nye, W.T.
+%A Tits, A.L.
+%T The Design of Digital Filters Using Interactive Optimization
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/69
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28489.html
+%F Lee:M81/69

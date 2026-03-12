@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28425.html
+The Effects of Concurrency Control on Database Management System Performance | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Effects of Concurrency Control on Database Management System Performance
+The Effects of Concurrency Control on Database Management System Performance
+Daniel R. Ries
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/20
+April 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-20.pdf
+BibTeX citation:
+@techreport{Ries:M79/20,
+Author = {Ries, Daniel R.},
+Title = {The Effects of Concurrency Control on Database Management System Performance},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28425.html},
+Number = {UCB/ERL M79/20}
+}
+EndNote citation:
+%0 Report
+%A Ries, Daniel R.
+%T The Effects of Concurrency Control on Database Management System Performance
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28425.html
+%F Ries:M79/20

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28642.html
+On Second-Order Necessary Conditions of Optimality | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On Second-Order Necessary Conditions of Optimality
+On Second-Order Necessary Conditions of Optimality
+E.J. Messerli and E. Polak
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M234
+December 1967
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/ERL-m-234.pdf
+BibTeX citation:
+@techreport{Messerli:M234,
+Author = {Messerli, E.J. and Polak, E.},
+Title = {On Second-Order Necessary Conditions of Optimality},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1967},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28642.html},
+Number = {UCB/ERL M234}
+}
+EndNote citation:
+%0 Report
+%A Messerli, E.J.
+%A Polak, E.
+%T On Second-Order Necessary Conditions of Optimality
+%I EECS Department, University of California, Berkeley
+%D 1967
+%@ UCB/ERL M234
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1967/28642.html
+%F Messerli:M234

@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28671.html
+Quantitative Fuzzy Semantics | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Quantitative Fuzzy Semantics
+Quantitative Fuzzy Semantics
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M281
+August 1970
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/ERL-m-281.pdf
+BibTeX citation:
+@techreport{Zadeh:M281,
+Author = {Zadeh, L.A.},
+Title = {Quantitative Fuzzy Semantics},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1970},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28671.html},
+Number = {UCB/ERL M281}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Quantitative Fuzzy Semantics
+%I EECS Department, University of California, Berkeley
+%D 1970
+%@ UCB/ERL M281
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1970/28671.html
+%F Zadeh:M281

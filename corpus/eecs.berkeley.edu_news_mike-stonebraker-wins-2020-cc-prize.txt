@@ -1,0 +1,12 @@
+URL: https://eecs.berkeley.edu/news/mike-stonebraker-wins-2020-cc-prize
+Mike Stonebraker wins 2020 C&C Prize - EECS at Berkeley
+EECS Prof. Emeritus Michael Stonebraker has won the prestigious NEC Computers and Communications (C&C) Prize “For Pioneering Contributions to Relational Database Systems.” The prize is awarded “to distinguished persons in recognition of outstanding contributions to research and development and/or pioneering work in the fields of semiconductors, computers, and/or telecommunications and in their integrated technologies.”  In the early 1970’s, Stonebraker and Prof. Eugene Wong began researching Relational Database Management Systems (RDBMS), which culminated in the creation of the Interactive Graphics and Retrieval System (INGRES), a practical and efficient implementation of the relational model running on Unix-based DEC machines.  It included a number of key ideas still widely used today, including B-trees, primary-copy replication, the query rewrite approach to views and integrity constraints, and the idea of rules/triggers for integrity checking in an RDBMS.  Stonebraker, Wong, and Prof. Larry Rowe, founded a startup called Relational Technology, Inc. (renamed Ingres Corporation), which they sold to Computer Associates in the early 1990’s for $311M.  Stonebraker’s student, Robert Epstein (Ph.D. ’80), founded the startup Sybase, which created the code used as a basis for the Microsoft SQL Server.  Stonebraker also created Postgres in the late 1980’s, which made it easier for programmers to modify or add to the optimizer, query language, runtime, and indexing frameworks.  It broadened the commercial database market by improving both database programmability and performance, making it possible to push large portions of a number of applications inside the database, including geographic information systems and time series processing.  Stonebraker retired from Berkeley in 2000 to found more companies and become an adjunct professor at MIT.  His achievements have been recognized with an IEEE John von Neumann Medal in 2005, ACM A.M. Turing Award in 2014, and ACM SIGMOD Systems Award in 2015.
+Categories
+Alumni
+Entrepreneurship
+Faculty
+Honors
+Industry
+Research
+View
+Open Faculty Positions

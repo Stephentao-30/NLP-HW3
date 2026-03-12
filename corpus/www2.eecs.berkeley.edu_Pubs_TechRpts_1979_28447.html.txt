@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28447.html
+No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do? | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do?
+No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do?
+W. Kahan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/61
+October 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-61.pdf
+BibTeX citation:
+@techreport{Kahan:M79/61,
+Author = {Kahan, W.},
+Title = {No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do?},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28447.html},
+Number = {UCB/ERL M79/61}
+}
+EndNote citation:
+%0 Report
+%A Kahan, W.
+%T No Period Two Implies Convergence, OR Why Use Tangents When Secants Will Do?
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/61
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28447.html
+%F Kahan:M79/61

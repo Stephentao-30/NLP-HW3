@@ -1,0 +1,173 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019
+Technical Reports - 2019
+Speed Advisory System Using Real-Time Actuated Traffic Light Phase Length Prediction  (EECS-2019-184) Mikhail Burov
+Frequency Regulation for Power System Dynamics with Variable and Low Inertia due to Renewable Energy  (EECS-2019-183) Patricia Hidalgo-Gonzalez
+Compiling Communication-Minimizing Query Plans  (EECS-2019-181) Eric Love
+e-mission: an open source, extensible platform for human mobility systems  (EECS-2019-180) KALYANARAMAN SHANKARI
+Scalable Systems for Large Scale Dynamic Connected Data Processing  (EECS-2019-178) Anand Padmanabha Iyer
+Oxygen-insertion Technology for CMOS Performance Enhancement  (EECS-2019-177) Xi Zhang
+Remedying Security Concerns at an Internet Scale  (EECS-2019-176) Frank Li
+Towards More Scalable and Robust Machine Learning  (EECS-2019-175) Dong Yin
+Learning to Segment Every Thing  (EECS-2019-174) Ronghang Hu
+Sharp and Practical Performance Bounds for MCMC and Multiple Testing  (EECS-2019-173) Maxim Rabinovich
+Abstract Syntax Networks for Code Generation and Semantic Parsing  (EECS-2019-172) Maxim Rabinovich, Mitchell Stern and Daniel Klein
+The Design and Implementation of Low-Latency Prediction Serving Systems  (EECS-2019-171) Daniel Crankshaw
+Converting a Möbius-Torus Into a Walkable Sculpture  (EECS-2019-170) Brian Aronowitz and Carlo H. Séquin
+Bayesian Posterior Sampling via Stochastic Gradient Descent with Collisions  (EECS-2019-169) Quico Spaen
+Unlocking Design Reuse with Hardware Compiler Frameworks  (EECS-2019-168) Adam Izraelevitz
+Efficient Sampling of SAT and SMT Solutions for Testing and Verification  (EECS-2019-167) Rafael Dutra
+MEMS-Actuated Carbon Fibers  (EECS-2019-166) Rachel Zoll
+Risk Averse Robust Adversarial Reinforcement Learning  (EECS-2019-165) Xinlei Pan, Daniel Seita, Yang Gao and John Canny
+Risk Averse Robust Adversarial Reinforcement Learning  (EECS-2019-164) Xinlei Pan, Daniel Seita, Yang Gao and John Canny
+A Hierarchical Approach to the Design and Optimization of Photonics  (EECS-2019-163) Andrew Michaels
+Flexible Hybrid Electronics for Wireless Communication  (EECS-2019-162) Carol Baumbauer
+Deep learning for single-shot autofocus microscopy  (EECS-2019-161) Henry Pinkard, Zachary Phillips, Arman Babakhani, Daniel Fletcher and Laura Waller
+Expanding the Scalability and Applications of III-V Optoelectronic Devices by Evolution of Thin-Film Vapor-Liquid-Solid Growth  (EECS-2019-160) Mark Hettick
+A Multi-Parametric Microwave-Optical Biomolecular Sensor  (EECS-2019-159) Luya Zhang and Ali Niknejad
+New RF Transmitter Techniques for RFID, Cellular, and mmW Applications  (EECS-2019-158) NaiChung Kuo and Ali Niknejad
+Neuromodulation IC for System Integration and Self-Interference Cancellation  (EECS-2019-157) Seobin Jung
+Configurable Data Converters for Digitally Adaptive Radio  (EECS-2019-156) Amy Whitcombe
+Design, Modeling and Control of the Integrated Stacked Resonant Switched Capacitor DC-DC Converter  (EECS-2019-155) Yongjun Li
+Enabling Efficient and Transparent Remote Memory Access in Disaggregated Datacenters  (EECS-2019-154) Nathan Pemberton
+Personalized Modeling for Human-Robot Collaborative Manipulation  (EECS-2019-153) Aaron Bestick
+High Performance FM Gyroscopes  (EECS-2019-152) Burak Eminoglu
+All-Mechanical Receivers  (EECS-2019-151) Ruonan Liu
+Reconfigurable Micromechanical Filters  (EECS-2019-150) Jalal Naghsh Nilchi
+System Architecture and Signal Processing Techniques for Massive Multi-user Antenna Arrays  (EECS-2019-149) Antonio Puglielli, Borivoje Nikolic and Elad Alon
+FMCW Lidar: Scaling to the Chip-Level and Improving Phase-Noise-Limited Performance  (EECS-2019-148) Phillip Sandborn
+Ultra-Low Power Inductively-Coupled Wireless Transcranial Links  (EECS-2019-147) Wen Li
+Energy-Efficient System Design Through Adaptive Voltage Scaling  (EECS-2019-146) Ben Keller
+Design of a Two-Wheeled Mars Rover with Sprawl Ability and Metal Brush Traction  (EECS-2019-145) Ivan Davydychev
+Design and Automatic Generation of 60Gb/s Wireline Transceivers  (EECS-2019-143) Jaeduk Han
+Acoustically Driven Ferromagnetic Resonance for Device Applications  (EECS-2019-142) Dominic Labanowski
+Queries on Compressed Data  (EECS-2019-141) Anurag Khandelwal
+Haptic Perception of Liquids Enclosed in Containers  (EECS-2019-140) Carolyn Chen
+Democratizing Web Automation: Programming for Social Scientists and Other Domain Experts  (EECS-2019-139) Sarah Chasins
+Deep learing for single-shot autofocus microscopy  (EECS-2019-138) Henry Pinkard, Zachary Phillips, Arman Babakhani, Daniel Fletcher and Laura Waller
+Closed Loop Digital LDO Linear Controller  (EECS-2019-137) Zinia Tuli
+Faster Algorithms and Graph Structure via Gaussian Elimination  (EECS-2019-136) Aaron Schild
+Advances in Machine Learning: Nearest Neighbour Search, Learning to Optimize and Generative Modelling  (EECS-2019-135) Ke Li
+TripAware: Separate Related Works Document  (EECS-2019-134) Jesse Zhang, Jack Sullivan, Vasudev Venkatesh P. B., Kyle Tse, Andy Yan, John Leyden, Kalyanaraman Shankari and Randy H. Katz
+Algorithmic Improvisation  (EECS-2019-133) Daniel J. Fremont
+Learning to Generalize via Self-Supervised Prediction  (EECS-2019-132) Deepak Pathak
+Complex-valued Deep Learning with Applications to Magnetic Resonance Image Synthesis  (EECS-2019-130) Pat Virtue
+Effect of Model Dissimilarity on Learning to Communicate in a Wireless Setting with Limited Information  (EECS-2019-129) Caryn Tran, Vignesh Subramanian, Kailas Vodrahalli and Anant Sahai
+Untethered Microrobots of the Rolling, Jumping & Flying kinds  (EECS-2019-128) Palak Bhushan and Claire Tomlin
+Complex-valued Deep Learning with Applications to Magnetic Resonance Image Synthesis  (EECS-2019-126) Patrick Virtue
+Stochastic Local Search and the Lovasz Local Lemma  (EECS-2019-125) Fotios Iliopoulos
+Ray: A Distributed Execution Engine for the Machine Learning Ecosystem  (EECS-2019-124) Philipp Moritz
+Towards Automatic Machine Learning Pipeline Design  (EECS-2019-123) Mitar Milutinovic
+Anna: A KVS For Any Scale  (EECS-2019-122) Chenggang Wu, Jose Faleiro, Yihan Lin and Joseph M. Hellerstein
+Visual Dynamics Models for Robotic Planning and Control  (EECS-2019-121) Alex Lee
+Efficient Deep Neural Networks  (EECS-2019-120) Bichen Wu
+Learning Robotic Grasping Policies for Suction Cups and Parallel Jaws in Simulation  (EECS-2019-119) Matthew Matl
+Constructive Formal Control Synthesis through Abstraction and Decomposition  (EECS-2019-118) Eric Kim
+Optimizing for Robot Transparency  (EECS-2019-115) Sandy Huang
+Context and Interaction in the Internet of Things  (EECS-2019-114) Matthew Weber
+Decentralized Authorization with Private Delegation  (EECS-2019-113) Michael P Andersen
+System Design for Software Packet Processing  (EECS-2019-112) Sangjin Han
+Approximate counting, phase transitions and geometry of polynomials  (EECS-2019-110) Jingcheng Liu
+Hybrid Aesthetics: Bridging Material Practices and Digital Fabrication through Computational Crafting Proxies  (EECS-2019-109) Cesar Torres
+Model-Free Cooperative Step Climbing for Under-actuated Legged Millirobots  (EECS-2019-108) Guangzhao Yang
+Reduce Static Code Size and Improve RISC-V Compression  (EECS-2019-107) Peijie Li
+Design of an Effective Ontology and Query Processor Enabling Portable Building Applications  (EECS-2019-106) Gabriel Fierro
+Towards Practical Serverless Analytics  (EECS-2019-105) Qifan Pu
+Real-World Robotic Perception and Control Using Synthetic Data  (EECS-2019-104) Joshua Tobin
+Large Batch Optimization for Deep Learning: Training BERT in 76 minutes  (EECS-2019-103) Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv  Kumar, Srinadh  Bhojanapalli, Xiaodan  Song, James Demmel and Cho-Jui Hsieh
+Measuring Generalization and Overfitting in Machine Learning  (EECS-2019-102) Rebecca Roelofs
+Daily Data Assimilation of a Hydrologic Model Using the Ensemble Kalman Filter  (EECS-2019-101) Sami Andrew Malek
+Monolayer Transition Metal Dichalcogenide NanoLEDs: Towards High Speed and High Efficiency  (EECS-2019-100) Kevin Han
+A Berkeley View of Teaching CS at Scale  (EECS-2019-99) Kevin Lin
+Inverse Reinforcement Learning for Dynamics  (EECS-2019-98) McKane Andrus
+Online One-Shot Learning for Indoor Asset Detection  (EECS-2019-97) Adith Balamurugan and Avideh Zakhor
+An Analysis of Introductory Courses Affect on Student Sentiment and Stereotype Toward Computer Science  (EECS-2019-96) Lara McConnaughey
+Secure Speculation: From Vulnerability to Assurances with UCLID5  (EECS-2019-95) Cameron Rasmussen
+Building a Target Recognition Pipeline for Mechanical Search and Algorithmically Generating Adversarial Grasp Objects with Minimal Random Perturbations  (EECS-2019-94) David Wang
+Addressing and Understanding Shortcomings in Vision and Language  (EECS-2019-93) Kaylee Burns
+Computing and Evaluating Adversarial Grasp Objects with Systematic Face Rotations and Applications of Dense Object Descriptors to Mechanical Search  (EECS-2019-92) David Tseng
+A Secure Message Broker in an Untrusted Environment  (EECS-2019-91) Dylan Dreyer
+Narrative Generation Using Learned Event Representations  (EECS-2019-90) Brenton Chu
+Underpinnings of Political Leaning: Using Collocation Extraction and Semantic Analysis to Categorize Ideological Frames  (EECS-2019-89) Kavi Mehta
+em-arch: A system architecture for reproducible and extensible collection of human mobility data  (EECS-2019-88) Kalyanaraman Shankari, Pavan Yedavalli, Ipsita Banerjee, Taha Rashidi, Randy H. Katz, Paul Waddell and David E. Culler
+Tracking of Deformable Human Avatars through Fusion of Low-Dimensional 2D and 3D Kinematic Models  (EECS-2019-87) Ningjian Zhou and S. Shankar Sastry
+A Low Power Mutual Noise-Canceling Receiver Front-End with Blocker Tolerance for IoT Applications  (EECS-2019-86) Tian Liu and Ali Niknejad
+A Hardware Implementation of the Snappy Compression Algorithm  (EECS-2019-85) Kyle Kovacs
+Capturing the impact of navigational app usage on road traffic from a gametheory point of view  (EECS-2019-83) Theophile Cabannes
+Neural-Backed Generators for Program Synthesis  (EECS-2019-82) Rohan Bavishi
+Goal-Induced Inverse Reinforcement Learning  (EECS-2019-81) Katie Luo
+Facilitating Robotic Grasping using Pushing and Toppling  (EECS-2019-80) Christopher Correa
+Eye Gaze Tracking for Assistive Devices  (EECS-2019-79) Evan Finnigan
+Navigating Video Using Structured Text  (EECS-2019-78) Amy Pavel
+Sentinel: A System for Decentralized Data Governance  (EECS-2019-77) Nikhil Sharma
+On The Ridiculousness of Notice and Consent: Contradictions in App Privacy Policies  (EECS-2019-76) Ehimare Okoyomon
+Emergency Broadcast Architecture  (EECS-2019-75) Michael Dong and Ian Rodney
+Optoelectronics for refrigeration and analog circuits for combinatorial optimization  (EECS-2019-74) Patrick Xiao
+Gaze Tracking in the Plane  (EECS-2019-73) Forest Finnigan
+Jupyter’s Archive: Searchable Output Histories for Computational Notebooks  (EECS-2019-72) Kunal Chaudhary
+Turn-by-WiAR: A Computationally-Mediated Approach to Rapid Prototyping of Physical Objects  (EECS-2019-70) Vedant Saran and Eric Paulos
+An Approach to Privacy Preserving Queries for Spatio-Temporal Data  (EECS-2019-69) John Sullivan
+Local and Adaptive Image-to-Image Learning and Inference  (EECS-2019-68) Evan Shelhamer
+Towards Scalable Community Networks  (EECS-2019-67) Shaddi Hasan
+Learning to Predict Human Behavior from Video  (EECS-2019-66) Panna Felsen
+Compression of Molecular Dynamics Simulation Data  (EECS-2019-65) Shuai Liu
+Designing High Speed Current Steering Digital to Analog Converter Using Berkeley Analog Generator  (EECS-2019-64) Mohammadamin Torabi
+Proactive Secret Sharing in Dynamic Environments  (EECS-2019-62) Andrew Low, Deepak Krishna, Fan Zhang, Lun Wang, Yupeng Zhang, Ari Juels and Dawn Song
+Near-Linear Time Edit Distance for Indel Channels  (EECS-2019-60) Aaron Sy and Arun Ganesh
+Temporal IK: Data-Driven Pose Estimation for Virtual Realiity  (EECS-2019-59) James Lin
+LabelAR: A spatial guidance interface for fast computer vision image collection  (EECS-2019-58) James Smith, Michael Laielli, Giscard Biamby, Trevor Darrell and Björn Hartmann
+FPGA-Accelerated Evaluation and Verification of RTL Designs  (EECS-2019-57) Donggyu Kim
+Visual Understanding through Natural Language  (EECS-2019-56) Lisa Hendricks
+Stateful detection of black box adversarial attacks  (EECS-2019-55) Steven Chen
+Policy Transfer Algorithms for Meta Inverse Reinforcement Learning  (EECS-2019-54) Benjamin Kha
+Machine Learning: Why Do Simple Algorithms Work So Well?  (EECS-2019-53) Chi Jin
+Evaluation of Methods for Data-Driven Tools that Empower Mental Health Professionals  (EECS-2019-52) Orianna DeMasi
+A Model-Predictive Controller for Joint Smart Building Systems  (EECS-2019-51) Prashanth Ganesh
+Practical Volume-Based Attacks on Encrypted Databases  (EECS-2019-50) Stephanie Wang, Rishabh Poddar, Jianan Lu and Raluca Ada Popa
+Approximation and Hardness: Beyond P and NP  (EECS-2019-49) Pasin Manurangsi
+"My Videos are at the Mercy of the YouTube Algorithm": How Content Creators Craft Algorithmic Personas and Perceive the Algorithm that Dictates their Work  (EECS-2019-48) Emily Pedersen
+Towards Secure Computation with Optimal Complexity  (EECS-2019-47) Peihan Miao
+Reduce Static Code Size and Improve RISC-V Compression  (EECS-2019-46) Peijie Li
+Leveraging Mobility for Robot Grasping Tasks  (EECS-2019-45) Samantha Wathugala
+Multiple Domain Question-Answer Generation  (EECS-2019-44) Kimberly Lu
+Model-Free Cooperative Step Climbing for Under-actuated Legged Millirobots  (EECS-2019-43) Guangzhao Yang
+Sample Complexity Bounds for the Linear Quadratic Regulator  (EECS-2019-42) Stephen Tu
+Safely Learning to Control the Linear Quadratic Regulator  (EECS-2019-41) Sarah Dean, Stephen Tu, Nikolai Matni and Benjamin Recht
+End-to-End Robotic Reinforcement Learning without Reward Engineering  (EECS-2019-40) Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn and Sergey Levine
+Time Constraints and Fault Tolerance in Autonomous Driving Systems  (EECS-2019-39) Yujia Luo
+Using Reinforcement Learning to Learn Input Viewpoints for Scene Representation  (EECS-2019-38) Kevin Chiang
+On Collaborative Intelligence  (EECS-2019-37) Ramasubramanian Balasubramanian
+Low Power, Crystal-Free Design for Monolithic Receivers  (EECS-2019-36) Bradley Wheeler
+Zero-Voltage Switching for Flying Capacitor Multi-Level Converters  (EECS-2019-35) Margaret Blackwell
+Characterization and Modeling of Ceramic Capacitor Losses in High Density Power Converters  (EECS-2019-34) Samantha Coday
+A Lower Bound for Identifying the Best Markovian Arm with Fixed Confidence  (EECS-2019-33) Vrettos Moulos
+Performance Guarantees in Learning and Robust Control  (EECS-2019-32) Ross Boczar
+Chip-Scale Fluorescence Microscope  (EECS-2019-31) Efthymios Papageorgiou
+On Systems and Algorithms for Distributed Machine Learning  (EECS-2019-30) Robert Nishihara
+Design of an Effective Ontology and Query Processor Enabling Portable Building Applications  (EECS-2019-29) Gabe Fierro
+Compact Modeling of Advanced CMOS and Emerging Devices for Circuit Simulation  (EECS-2019-28) Yen-Kai Lin
+Private Queries on Public Certificate Transparency Data  (EECS-2019-27) Vy An Phan
+BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks  (EECS-2019-25) kourosh hakhamaneshi
+Combined Detection and Tracking Impacts on Vehicle Specific Data  (EECS-2019-24) David Zhang
+Closing the Analog Design Loop with the Berkeley Analog Generator  (EECS-2019-23) Nicholas Werblun
+Teaching with Reinforcement Learning: A Smarter AutoQuiz  (EECS-2019-22) Steven Hewitt
+Path-Based Neural Constituency Parsing  (EECS-2019-21) Katia Patkin
+An Optics-Free Ultra-Thin Time-Resolved Intraoperative Imaging Platform for Deep Infrared Imaging of Alloyed Upconverting Nanoparticles  (EECS-2019-20) Hossein Najafiaghdam
+A Binary, 2048-dim. Generic Hyper-Dimensional Processor  (EECS-2019-19) Sohum Datta
+Walking Silicon: Actuators and Legs for Small-Scale Terrestrial Robots  (EECS-2019-18) Daniel Contreras
+An Architecture for Network Function Virtualization  (EECS-2019-17) Chang Lan
+StimDust: Miniaturized Ultrasonic Peripheral Nerve Stimulator  (EECS-2019-16) Ka Yiu Li
+Agile Design of Generator-Based Signal Processing Hardware  (EECS-2019-15) Angie Wang
+Learning audio-visual correspondences for music-video recommendation  (EECS-2019-14) Thomas Langlois
+2-D Materials: Low Power Electronics and Novel Device Possibilities  (EECS-2019-13) Varun Mishra
+Perturbed Iterate Analysis for Asynchronous Stochastic Optimization  (EECS-2019-12) Horia Mania, Xinghao Pan, Dimitris Papailiopoulos, Benjamin Recht, Kannan Ramchandran and Michael Jordan
+Link-Adaptive Antenna Systems  (EECS-2019-11) Michael Roe
+Variability Analysis and Yield Optimization in Deep-Submicron Mixed-Signal Circuits  (EECS-2019-10) Katerina Papadopoulou
+Making Edge-Computing Resilient  (EECS-2019-9) Yotam Harchol, Aisha Mushtaq, Vivian Fang, James McCauley, Aurojit Panda and Scott Shenker
+Photonic Links -- From Theory to Automated Design  (EECS-2019-8) Krishna Settaluri
+Photonic Links -- From Theory to Automated Design  (EECS-2019-7) Vladimir Stojanovic
+Nested-Parallelism PageRank on RISC-V Vector Multi-Processors  (EECS-2019-6) Alon Amid
+Crystal-free wireless communication with relaxation oscillators and its applications  (EECS-2019-5) David Burnett
+Low Power ISM band receiver front end  (EECS-2019-4) Ali Niknejad and Hari VEMURI
+Cloud Programming Simplified: A Berkeley View on Serverless Computing  (EECS-2019-3) Eric Jonas, Johann Schleier-Smith, Vikram Sreekanti, Chia-Che Tsai, Anurag Khandelwal, Qifan Pu, Vaishaal Shankar, Joao Menezes Carreira, Karl Krauth, Neeraja Yadwadkar, Joseph Gonzalez, Raluca Ada Popa, Ion Stoica and David A. Patterson
+TripAware: Emotional and Informational Approaches to Encourage Sustainable Transportation via Mobile Applications  (EECS-2019-2) Jesse Zhang, John Sullivan, Vasudev Venkatesh P. B., Kyle Tse, Andy Yan, John Leyden, Kalyanaraman Shankari and Randy H. Katz
+Gordian: Formal Reasoning Based Outlier Detection for Secure Localization  (EECS-2019-1) Matthew Weber, Baihong Jin, Gil Lederman, Yasser Shoukry, Edward A. Lee, Sanjit A. Seshia and Alberto L. Sangiovanni-Vincentelli

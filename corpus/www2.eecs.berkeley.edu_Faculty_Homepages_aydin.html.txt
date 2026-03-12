@@ -1,0 +1,51 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/aydin.html
+Aydin Buluç | EECS at UC Berkeley
+Skip to main content
+Home
+People
+Faculty
+Aydin Buluç
+Larger
+Photo
+Info Links
+Research Areas
+Scientific Computing (SCI)
+Computer Architecture & Engineering (ARC)
+Biosystems & Computational Biology (BIO)
+Biography
+Aydın Buluç is a computational staff scientist at the Lawrence Berkeley National Laboratory (LBNL) and an adjunct assistant professor of EECS at UC Berkeley. His research interests include parallel computing, combinatorial scientific computing, high performance graph analysis, sparse matrix computations, computational genomics and neuroscience. Previously, he was a Luis W. Alvarez postdoctoral fellow at LBNL and a visiting scientist at the Simons Institute for the Theory of Computing. He received his PhD in Computer Science from the University of California, Santa Barbara in 2010 and his BS in Computer Science and Engineering from Sabanci University, Turkey in 2005. Dr. Buluç is a recipient of the DOE Early Career Award in 2013 and the IEEE TCSC Award for Excellence for Early Career Researchers in 2015. He is also a founding associate editor of the ACM Transactions on Parallel Computing. As a graduate student, he spent a semester at the Mathematics Department of MIT, and a summer at the CSRI institute of Sandia National Labs, in New Mexico.
+Education
+2010, Ph.D., Computer Science, University of California, Santa Barbara
+Selected Publications
+E. Georganas, R. Egan, S. Hofmeyr, E. Goltsman, B. Arndt, A. Tritt, A. Buluç, L. Oliker, and K. A. Yelick, "Extreme scale de novo metagenome assembly," in  Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'18) , 2018, pp. 10.
+P. Koanantakool, A. Ali, A. Azad, A. Buluç, D. Morozov, S. Oh, L. Oliker, and K. A. Yelick, " Communication-Avoiding Optimization Methods for Distributed Massive-Scale Sparse Inverse Covariance Estimation ," in  The 21st International Conference on Artificial Intelligence and Statistics (AISTATS) , 2018.
+A. Gholami, A. Azad, P. Jin, K. Keutzer, and A. Buluç, " Integrated Model, Batch, and Domain Parallelism in Training Neural Networks ," in  SPAA'18: 30th ACM Symposium on Parallelism in Algorithms and Architectures , 2018.
+A. Azad, G. A. Pavlopoulos, C. A. Ouzounis, N. C. Kyrpides, and A. Buluç, "HipMCL: A high-performance parallel implementation of the Markov clustering algorithm for large-scale                  networks,"  Nucleic Acids Research (NAR) , 2018.
+Y. You, A. Buluç, and J. Demmel, " Scaling Deep Learning on GPU and Knights Landing Clusters ," in  Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17) , 2017.
+A. Azad, A. Buluç, and A. Pothen, " Computing Maximum Cardinality Matchings in Parallel on Bipartite Graphs via Tree-Grafting ,"  IEEE Transactions on Parallel and Distributed Systems (TPDS)) , 2016.
+A. Azad, G. Ballard, A. Buluç, J. Demmel, L. Grigori, O. Schwartz, S. Toledo, and S. Williams, "Exploiting multiple levels of parallelism in sparse matrix-matrix multiplication,"  SIAM Journal on Scientific Computing , vol. 38, no. 6, pp. C624--C651, 2016.
+J. Chapman, M. Mascher, A. Buluç, K. Barry, E. Georganas, A. Session, V. Strnadova, J. Jenkins, S. Sehgal, L. Oliker, J. Schmutz, K. A. Yelick, U. Scholz, R. Waugh, J. Poland, G. Muehlbauer, N. Stein, and D. Rokhsar, " A whole-genome shotgun approach for assembling and anchoring the
+hexaploid bread wheat genome ,"  Genome Biology , vol. 16, no. 26, 2015.
+H. M. Aktulga, A. Buluç, S. Williams, and C. Yang, "Optimizing sparse matrix-multiple vectors multiplication for nuclear configuration interaction calculations," in  Parallel and Distributed Processing Symposium, 2014 IEEE 28th International , 2014, pp. 1213--1222.
+E. Georganas, A. Buluç, J. Chapman, L. Oliker, D. Rokhsar, and K. A. Yelick, "Parallel de bruijn graph construction and traversal for de novo genome assembly," in  Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis , 2014, pp. 437--448.
+A. Buluç, E. Duriakova, A. Fox, J. R. Gilbert, S. Kamil, A. Lugowski, L. Oliker, and S. Williams, "High-Productivity and High-Performance Analysis of Filtered Semantic Graphs," in  Proceedings of the IPDPS , 2013, pp. 237--248.
+A. Buluç and J. R. Gilbert, "Parallel sparse matrix-matrix multiplication and indexing: Implementation and experiments,"  SIAM Journal on Scientific Computing , vol. 34, no. 4, pp. C170--C191, 2012.
+A. Buluç and K. Madduri, "Parallel breadth-first search on distributed memory systems," in  Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis , 2011, pp. 65.
+A. Buluç and J. R. Gilbert, "The Combinatorial BLAS: Design, implementation, and applications,"  The International Journal of High Performance Computing Applications , vol. 25, no. 4, pp. 496--509, 2011.
+A. Buluç, J. T. Fineman, M. Frigo, J. R. Gilbert, and C. E. Leiserson, "Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks," in  Proceedings of the twenty-first annual symposium on Parallelism in algorithms and architectures , 2009, pp. 233--244.
+Awards, Memberships and Fellowships
+TCHPC Award for Excellence for Early Career Researchers in High Performance Computing ,
+2015
+DOE Early Career Research Award ,
+2013
+Links and Contact Info
+Links
+Personal Homepage
+Projects
+Contact Information
+aydin@eecs.berkeley.edu
+Research Support
+Miriam Kader
+353 Cory
+3-9665
+mkader@berkeley.edu

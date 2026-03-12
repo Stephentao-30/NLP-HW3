@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-32.html
+Communication-Optimal Parallel Algorithm for Strassen’s Matrix Multiplication
+Grey Ballard and James Demmel and Olga Holtz and Benjamin Lipshitz and Oded Schwartz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-32
+March 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-32.pdf
+Parallel matrix multiplication is one of the most studied fundamental problems in distributed and high performance computing. We obtain a new parallel algorithm that is based on Strassen’s fast matrix multiplication and minimizes communication. The algorithm outperforms all known parallel matrix multiplication algorithms, classical and Strassen-based, both asymptotically and in practice.
+A critical bottleneck in parallelizing Strassen’s algorithm is the communication between the processors. Ballard, Demmel, Holtz, and Schwartz (SPAA’11) prove lower bounds on these communication costs, using expansion properties of the underlying computation graph. Our algorithm matches these lower bounds, and so is communication-optimal. It exhibits perfect strong scaling within the maximum possible range.
+Benchmarking our implementation on a Cray XT4, we obtain speedups over classical and Strassen-based algorithms ranging from 24% to 184% for a fixed matrix dimension n = 94080, where the number of nodes ranges from 49 to 7203.
+Our parallelization approach generalizes to other fast matrix multiplication algorithms.
+BibTeX citation:
+@techreport{Ballard:EECS-2012-32,
+Author= {Ballard, Grey and Demmel, James and Holtz, Olga and Lipshitz, Benjamin and Schwartz, Oded},
+Title= {Communication-Optimal Parallel Algorithm for Strassen’s Matrix Multiplication},
+Year= {2012},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-32.html},
+Number= {UCB/EECS-2012-32},
+Abstract= {Parallel matrix multiplication is one of the most studied fundamental problems in distributed and high performance computing. We obtain a new parallel algorithm that is based on Strassen’s fast matrix multiplication and minimizes communication. The algorithm outperforms all known parallel matrix multiplication algorithms, classical and Strassen-based, both asymptotically and in practice.
+A critical bottleneck in parallelizing Strassen’s algorithm is the communication between the processors. Ballard, Demmel, Holtz, and Schwartz (SPAA’11) prove lower bounds on these communication costs, using expansion properties of the underlying computation graph. Our algorithm matches these lower bounds, and so is communication-optimal. It exhibits perfect strong scaling within the maximum possible range.
+Benchmarking our implementation on a Cray XT4, we obtain speedups over classical and Strassen-based algorithms ranging from 24% to 184% for a fixed matrix dimension n = 94080, where the number of nodes ranges from 49 to 7203.
+Our parallelization approach generalizes to other fast matrix multiplication algorithms.},
+}
+EndNote citation:
+%0 Report
+%A Ballard, Grey
+%A Demmel, James
+%A Holtz, Olga
+%A Lipshitz, Benjamin
+%A Schwartz, Oded
+%T Communication-Optimal Parallel Algorithm for Strassen’s Matrix Multiplication
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 March 13
+%@ UCB/EECS-2012-32
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-32.html
+%F Ballard:EECS-2012-32

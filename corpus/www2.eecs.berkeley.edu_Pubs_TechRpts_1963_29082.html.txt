@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29082.html
+On the Convergence of a Series of Solution of Certain Nonlinear Difference Equations | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+On the Convergence of a Series of Solution of Certain Nonlinear Difference Equations
+On the Convergence of a Series of Solution of Certain Nonlinear Difference Equations
+A.G. Dewey
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M18
+July 1963
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/ERL-m-18.pdf
+BibTeX citation:
+@techreport{Dewey:M18,
+Author = {Dewey, A.G.},
+Title = {On the Convergence of a Series of Solution of Certain Nonlinear Difference Equations},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1963},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29082.html},
+Number = {UCB/ERL M18}
+}
+EndNote citation:
+%0 Report
+%A Dewey, A.G.
+%T On the Convergence of a Series of Solution of Certain Nonlinear Difference Equations
+%I EECS Department, University of California, Berkeley
+%D 1963
+%@ UCB/ERL M18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1963/29082.html
+%F Dewey:M18

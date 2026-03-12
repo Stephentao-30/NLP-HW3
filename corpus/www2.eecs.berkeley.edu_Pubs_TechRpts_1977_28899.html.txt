@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28899.html
+A Set of Strategy-Independent Restructuring Algorithms
+M. Kobayashi
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M77/5
+, 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-5.pdf
+BibTeX citation:
+@techreport{Kobayashi:M77/5,
+Author= {Kobayashi, M.},
+Title= {A Set of Strategy-Independent Restructuring Algorithms},
+Year= {1977},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28899.html},
+Number= {UCB/ERL M77/5},
+}
+EndNote citation:
+%0 Report
+%A Kobayashi, M.
+%T A Set of Strategy-Independent Restructuring Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/5
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28899.html
+%F Kobayashi:M77/5

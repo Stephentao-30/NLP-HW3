@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-17.html
+Carat: Collaborative Energy Diagnosis for Mobile Devices
+Adam Oliner and Anand Padmanabha Iyer and Ion Stoica and Eemil Lagerspetz and Sasu Tarkoma
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-17
+March 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-17.pdf
+We aim to detect and diagnose energy anomalies, abnormally heavy battery use. This paper describes a collaborative black-box method, and an  implementation called Carat, for performing such diagnosis on mobile devices. A client app sends intermittent, coarse-grained measurements to a server, which identifies correlations between higher expected energy use and client properties like the running apps, device model, and operating system. The analysis quantifies the error and confidence associated with a diagnosis, suggests actions the user could take to improve battery life, and projects the amount of improvement. Carat detected all anomalies in a controlled experiment and, during a deployment to a community of more than 340,000 devices, identified thousands of energy anomalies in the wild. On average, a Carat user’s battery life increased by 10% after 10 days.
+BibTeX citation:
+@techreport{Oliner:EECS-2013-17,
+Author= {Oliner, Adam and Padmanabha Iyer, Anand and Stoica, Ion and Lagerspetz, Eemil and Tarkoma, Sasu},
+Title= {Carat: Collaborative Energy Diagnosis for Mobile Devices},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-17.html},
+Number= {UCB/EECS-2013-17},
+Abstract= {We aim to detect and diagnose energy anomalies, abnormally heavy battery use. This paper describes a collaborative black-box method, and an  implementation called Carat, for performing such diagnosis on mobile devices. A client app sends intermittent, coarse-grained measurements to a server, which identifies correlations between higher expected energy use and client properties like the running apps, device model, and operating system. The analysis quantifies the error and confidence associated with a diagnosis, suggests actions the user could take to improve battery life, and projects the amount of improvement. Carat detected all anomalies in a controlled experiment and, during a deployment to a community of more than 340,000 devices, identified thousands of energy anomalies in the wild. On average, a Carat user’s battery life increased by 10% after 10 days.},
+}
+EndNote citation:
+%0 Report
+%A Oliner, Adam
+%A Padmanabha Iyer, Anand
+%A Stoica, Ion
+%A Lagerspetz, Eemil
+%A Tarkoma, Sasu
+%T Carat: Collaborative Energy Diagnosis for Mobile Devices
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 8
+%@ UCB/EECS-2013-17
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-17.html
+%F Oliner:EECS-2013-17

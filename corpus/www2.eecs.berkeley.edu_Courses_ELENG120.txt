@@ -1,0 +1,64 @@
+URL: https://www2.eecs.berkeley.edu/Courses/ELENG120
+Course: ELENG120 | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+ELENG120
+ELENG 120. Signals and Systems
+Catalog Description:  Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems.
+Units:  4
+Prerequisites:  EECS 16A and EECS 16B.
+Formats:  Spring: 4 hours of lecture and  1 hour of recitation per week
+Fall: 4 hours of lecture and  1 hour of recitation per week
+Grading basis:  letter
+Final exam status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Fall 2022):
+TuTh 14:00-15:59, North Gate 105 –
+Babak AYAZIFAR Class Schedule (Spring 2023):
+TuTh 14:00-15:59, Valley Life Sciences 2060 –
+Babak AYAZIFAR
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives:  This course introduces mathematical techniques used in the design and analysis of signals and systems.  The intention is to promote an understanding of the fundamental systems concepts in electrical engineering fields such as communications, control, and signal processing.
+Topics Covered:
+Signals and Systems
+Linearity, causality, BIBO stability, time invariance, memory, invertibility
+Linear Time-Invariant Systems
+Convolution integral and convolution summation
+Impulse response, frequency response
+Differential equations, homogeneous and particular solutions
+Difference equations
+Fourier Series
+Continuous-time Fourier series, Gibbs phenomenon
+Discrete-time Fourier series, Discrete Fourier Transform, matrix representation
+Fourier Transform
+Continuous-time Fourier transform
+Discrete-time Fourier transform
+Relation of four Fourier series/transforms
+Sampling
+Sampling theorem
+Analog-to-digital conversion, aliasing
+Upsampling and downsampling
+Digital-to-analog conversion, zero-order hold and first-order hold
+Digital processing of continuous-time signals
+Bandpass sampling
+Communication
+Pulse amplitude modulation, Nyquist pulses, synchronization
+Frequency modulation, narrowband approximation
+Discrete tone modulation
+Control
+Laplace Transform, region of convergence
+Feedback systems, pole-zero plots, stability, root locus
+Geometric evaluation of Fourier transform
+Bode Plots
+Z Transform
+Two-sided z-transform, region of convergence, relation of z-transform to discrete time Fourier transform
+Stability of discrete-time systems
+One-sided z-transform, application to solving difference equations
+Filter Design
+Analog prototype, Bilinear transform
+Stability, causality, selection of poles and zeros
+Non-ideal filter effects
+Related Areas:
+Biosystems & Computational Biology (BIO)   Control, Intelligent Systems, and Robotics (CIR)   Information, Data, Network, and Communication Sciences (IDNCS)   Signal Processing (SP)

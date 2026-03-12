@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1985/6007.html
+Interpolating Patches Between Cubic Boundaries | EECS at UC Berkeley
+Electrical Engineering and Computer Sciences
+COLLEGE OF ENGINEERING
+UC Berkeley
+Login
+Interpolating Patches Between Cubic Boundaries
+Lucia Longhi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/CSD-87-313
+1985
+http://www.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-313.pdf
+We describe the theoretical frame for a method of creating and describing rounded objects of arbitrary topology in CAD, and its implementation for UNIGRAFIX, a polygon-based modeler developed at UC Berkeley that generates black-and-white, smooth-shaded images on several output devices. The mathematical foundation for building triangular patches interpolating cubic edges and blending with geometric continuity is given, and various approaches are discussed. To represent curvature information, we extended the UNIGRAFIX language to UniCubix, and we implemented uci, an interactive shell that interprets a UniCubix description and converts it into UNIGRAFIX wireframes or polyhedral nets that approximate curved patches. Uci also provides a prototype of a global smoothing operation, that takes a polyhedral object of arbitrary topology and creates the UniCubix representation of a smooth object interpolating the input vertices.
+BibTeX citation:
+@techreport{Longhi:CSD-87-313,
+Author = {Longhi, Lucia},
+Title = {Interpolating Patches Between Cubic Boundaries},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1985},
+Month = {Dec},
+URL = {http://www.eecs.berkeley.edu/Pubs/TechRpts/1985/6007.html},
+Number = {UCB/CSD-87-313}
+}
+EndNote citation:
+%0 Report
+%A Longhi, Lucia
+%T Interpolating Patches Between Cubic Boundaries
+%I EECS Department, University of California, Berkeley
+%D 1985
+%@ UCB/CSD-87-313
+%U http://www.eecs.berkeley.edu/Pubs/TechRpts/1985/6007.html
+%F Longhi:CSD-87-313
+Home
+|
+©
+UC Berkeley EECS
+|
+Dec 15, 2023 20:38
+|
+Contact Webteam

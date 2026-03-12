@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28662.html
+Representing Martingales as Stochastic Integrals | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Representing Martingales as Stochastic Integrals
+Representing Martingales as Stochastic Integrals
+Eugene Wong
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M266
+September 1969
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/ERL-m-266.pdf
+BibTeX citation:
+@techreport{Wong:M266,
+Author = {Wong, Eugene},
+Title = {Representing Martingales as Stochastic Integrals},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1969},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28662.html},
+Number = {UCB/ERL M266}
+}
+EndNote citation:
+%0 Report
+%A Wong, Eugene
+%T Representing Martingales as Stochastic Integrals
+%I EECS Department, University of California, Berkeley
+%D 1969
+%@ UCB/ERL M266
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1969/28662.html
+%F Wong:M266

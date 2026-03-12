@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-149.html
+HydraScope: Interaction and Application of Wall Sized Display
+Hong Wu
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-149
+June 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-149.pdf
+High resolution wall sized displays are becoming increasingly popular due to falling price. A lot of wall sized displays are set in the public space such as shopping malls and airports. However, there are few applications which allow users to interact with the contents on the wall sized displays. In this paper, we first introduce and compare four remote interaction control techniques,involving smart phones and Microsoft’s Kinect controller. A user study of these interaction techniques revealed that a remote touchpad controller outperforms other interaction techniques in term of speed and accuracy. The second part of the paper focuses on developing applications for multi-display walls.Developing custom software for wall-sized displays today is time- and resource-intensive. We develop HydraScope, a framework for generating the applications by reusing and transforming the existing applications. This paper focuses on the design and implementation of one of the applications for HydraScope. The wall search application enables users to have a big picture of the search results and automatically open the links for users. A user study with ten participants reveals that the searching becomes more efficient by using HydraScope’s search application.
+Advisors:  Björn Hartmann
+BibTeX citation:
+@mastersthesis{Wu:EECS-2012-149,
+Author= {Wu, Hong},
+Editor= {Hartmann, Björn},
+Title= {HydraScope: Interaction and Application of Wall Sized Display},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-149.html},
+Number= {UCB/EECS-2012-149},
+Abstract= {High resolution wall sized displays are becoming increasingly popular due to falling price. A lot of wall sized displays are set in the public space such as shopping malls and airports. However, there are few applications which allow users to interact with the contents on the wall sized displays. In this paper, we first introduce and compare four remote interaction control techniques,involving smart phones and Microsoft’s Kinect controller. A user study of these interaction techniques revealed that a remote touchpad controller outperforms other interaction techniques in term of speed and accuracy. The second part of the paper focuses on developing applications for multi-display walls.Developing custom software for wall-sized displays today is time- and resource-intensive. We develop HydraScope, a framework for generating the applications by reusing and transforming the existing applications. This paper focuses on the design and implementation of one of the applications for HydraScope. The wall search application enables users to have a big picture of the search results and automatically open the links for users. A user study with ten participants reveals that the searching becomes more efficient by using HydraScope’s search application.},
+}
+EndNote citation:
+%0 Thesis
+%A Wu, Hong
+%E Hartmann, Björn
+%T HydraScope: Interaction and Application of Wall Sized Display
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 June 1
+%@ UCB/EECS-2012-149
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-149.html
+%F Wu:EECS-2012-149

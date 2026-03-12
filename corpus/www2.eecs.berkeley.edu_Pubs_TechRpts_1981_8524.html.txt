@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/8524.html
+Design of a Multi-Language Editor with Static Error Detection Capabilities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design of a Multi-Language Editor with Static Error Detection Capabilities
+Design of a Multi-Language Editor with Static Error Detection Capabilities
+Mark R. Horton
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/53
+July 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-53.pdf
+Advisor:  Susan L. Graham
+BibTeX citation:
+@phdthesis{Horton:M81/53,
+Author = {Horton, Mark R.},
+Title = {Design of a Multi-Language Editor with Static Error Detection Capabilities},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/8524.html},
+Number = {UCB/ERL M81/53}
+}
+EndNote citation:
+%0 Thesis
+%A Horton, Mark R.
+%T Design of a Multi-Language Editor with Static Error Detection Capabilities
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/53
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/8524.html
+%F Horton:M81/53

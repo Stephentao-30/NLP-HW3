@@ -1,0 +1,29 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-11.html
+Characterization of Variability in Deeply-Scaled Fully Depleted SOI Devices
+Aikaterini Papadopoulou
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-11
+January 13,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-11.pdf
+Advisors:  Borivoje Nikolic
+BibTeX citation:
+@mastersthesis{Papadopoulou:EECS-2012-11,
+Author= {Papadopoulou, Aikaterini},
+Title= {Characterization of Variability in Deeply-Scaled Fully Depleted SOI Devices},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-11.html},
+Number= {UCB/EECS-2012-11},
+}
+EndNote citation:
+%0 Thesis
+%A Papadopoulou, Aikaterini
+%T Characterization of Variability in Deeply-Scaled Fully Depleted SOI Devices
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 13
+%@ UCB/EECS-2012-11
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-11.html
+%F Papadopoulou:EECS-2012-11

@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28803.html
+Multi-Dimensional Directory for Retrielval on Secondary Keys | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Multi-Dimensional Directory for Retrielval on Secondary Keys
+Multi-Dimensional Directory for Retrielval on Secondary Keys
+Jenn-Hann Liou
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M503
+February 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-503.pdf
+BibTeX citation:
+@techreport{Liou:M503,
+Author = {Liou, Jenn-Hann},
+Title = {Multi-Dimensional Directory for Retrielval on Secondary Keys},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28803.html},
+Number = {UCB/ERL M503}
+}
+EndNote citation:
+%0 Report
+%A Liou, Jenn-Hann
+%T Multi-Dimensional Directory for Retrielval on Secondary Keys
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M503
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28803.html
+%F Liou:M503

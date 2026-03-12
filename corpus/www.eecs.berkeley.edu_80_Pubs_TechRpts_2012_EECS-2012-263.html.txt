@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-263.html
+Database Operations Using Asynchronous Remote Method Invocation
+James Sproch
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-263
+December 14,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-263.pdf
+Today’s highly scalable Internet applications are largely bound by speed-of-light communication delays between geographically disparate data centers.  This latency is particularly problematic when writing to distributed database systems because waiting for messages to travel halfway around the world is often unacceptable, and maintaining any notion of consistency is exceedingly difficult when using modern asynchronous architectures.  We present a novel architecture, based on asynchronous remote method invocation, that achieves interesting consistency guarantees, even when performing write operations asynchronously.  An analysis of our implementation demonstrates that this solution can provide an intuitive interface to developers, and doesn’t require any specialized knowledge of databases, SQL (Standard Query Language), or transactions.
+Advisors:  Michael Franklin
+BibTeX citation:
+@mastersthesis{Sproch:EECS-2012-263,
+Author= {Sproch, James},
+Title= {Database Operations Using Asynchronous Remote Method Invocation},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-263.html},
+Number= {UCB/EECS-2012-263},
+Abstract= {Today’s highly scalable Internet applications are largely bound by speed-of-light communication delays between geographically disparate data centers.  This latency is particularly problematic when writing to distributed database systems because waiting for messages to travel halfway around the world is often unacceptable, and maintaining any notion of consistency is exceedingly difficult when using modern asynchronous architectures.  We present a novel architecture, based on asynchronous remote method invocation, that achieves interesting consistency guarantees, even when performing write operations asynchronously.  An analysis of our implementation demonstrates that this solution can provide an intuitive interface to developers, and doesn’t require any specialized knowledge of databases, SQL (Standard Query Language), or transactions.},
+}
+EndNote citation:
+%0 Thesis
+%A Sproch, James
+%T Database Operations Using Asynchronous Remote Method Invocation
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 14
+%@ UCB/EECS-2012-263
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-263.html
+%F Sproch:EECS-2012-263

@@ -1,0 +1,133 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1983
+Technical Reports - 1983
+PUBLISHING: A Reliable Broadcast Communication Mechanism  (CSD-83-165) David Leo Presotto
+Queries and Views of Programs Using a Relational Database System  (CSD-83-164) Mark A. Linton
+TEMPO: A Network Time Controller for a Distributed Berkeley UNIX System  (CSD-83-163) Riccardo Gusella and Stefano Zatti
+Creative Geometric Modeling with UNIGRAFIX  (CSD-83-162) Carlo H. Séquin
+UNIGRAFIX 2.0 User's Manual and Tutorial  (CSD-83-161) Carlo H. Séquin, Mark Gordon Segal and Paul Wensley
+The Design of a Language for Algebraic Computation Systems  (CSD-83-160) John K. Foderaro
+Implementation of Network Primitives for a Network Monitor/Debugger  (CSD-83-159) Brendan A. Voge
+A Simplex Variant Solving An m x d Linear Program in O(min(m squared, d squared)) Expected Number of Pivot Steps  (CSD-83-158) Ilan Adler, Richard Karp and Ron Shamir
+A Family of Simplex Variants Solving An m x d Linear Program in Expected Number of Pivot Steps Depending on d Only  (CSD-83-157) Ilan Adler, Richard Karp and Ron Shamir
+An Analysis of Naming Conventions for Distributed Computer Systems  (CSD-83-156) Douglas B. Terry
+The Evolution of Berkeley UNIX  (CSD-83-155) Domenico Ferrari
+A Collection of Papers on Magic  (CSD-83-154) John K. Ousterhout, Gordon T. Hamachi, Robert N. Mayo, Walter S. Scott and George S. Taylor
+On the Modeling of Shared Resources by Queuing Networks with Serialization Delays  (CSD-83-153) Anna Hac
+The Beta2-spline: A Special Case of the Beta-spline Curve and Surface Representation  (CSD-83-152) Brian A. Barsky and Anthony D. DeRose
+Implementation of Rules in Relational Data Base Systems  (CSD-83-151) Michael Stonebraker, John Woodfill and Erika Andersen
+An Implementation of Hypothetical Relations  (CSD-83-150) John Woodfill and Michael Stonebraker
+Data Base Portals: A New Application Program Interface  (CSD-83-149) Michael Stonebraker and Lawrence A. Rowe
+Finding Files Fast  (CSD-83-148) James A. Woods
+A Fast File System for UNIX  (Revised July 27, 1983)  (CSD-83-147) Marshall Kirk McKusick, William N. Joy, Samuel J. Leffler and Robert S. Fabry
+4.2bsd Networking Implementation Notes  (Revised July, 1983)  (CSD-83-146) Samuel J. Leffler, William N. Joy and Robert S. Fabry
+A 4.2bsd Interprocess Communication Primer, Draft of July 27, 1983  (CSD-83-145) Samuel J. Leffler, Robert S. Fabry and William N. Joy
+Performance Analysis of Distributed Data Base Systems  (CSD-83-144) Michael Stonebraker, John Woodfill, Jeff Ranstrom, Joseph Kalash, Kenneth Arnold and Erika Andersen
+A Big RISC  (CSD-83-143) Richard A. Blomseth
+Modeling File System Organizations in a Local Area Network Environment  (CSD-83-142) Domenico Ferrari and Tzong-yu Paul Lee
+Reduced Instruction Set Computer Architectures for VLSI  (CSD-83-141) Emmanuel-Manolis George Katevenis
+SIMON: A Simulator of Multicomputer Networks  (CSD-83-140) Richard M. Fujimoto
+Scheduling a Single Machine to Minimize the Number of Late Jobs  (CSD-83-139) Eugene L. Lawler
+On Estimating the Performance of VLSI Circuits  (CSD-83-138) Clark D. Thompson and Prabhakar Raghavan
+VLSI Communication Components for Multicomputer Networks  (CSD-83-137) Richard M. Fujimoto
+The VLSI Circuitry of RISC I  (CSD-83-135) James B. Peek
+Database Support for Programming Environments  (CSD-83-134) Michael L. Powell and Mark A. Linton
+PUBLISHING: A Reliable Broadcast Communication Mechanism  (CSD-83-133) Michael L. Powell and David L. Presotto
+Process Migration in DEMOS/MP  (CSD-83-132) Michael L. Powell and Barton P. Miller
+The User Interface and Implementation of Caesar  (CSD-83-131) John K. Ousterhout
+Exploiting Structure in the Analysis of Integrated Circuit Artwork  (CSD-83-130) Daniel T. Fitzpatrick
+Inverse Currying Transformation on Attribute Grammars  (CSD-83-129) Reinhard Wilhelm
+Effects of Underflow on Solving Linear Systems  (CSD-83-128) James W. Demmel
+The Condition Number of Similarities that Diagonalize Matrices  (CSD-83-127) James W. Demmel
+An Interval Algorithm for Solving Systems of Linear Equations to Prespecified Accuracy  (CSD-83-126) James W. Demmel and Fritz Kruckeberg
+Paging on an Object-oriented Personal Computer for Smalltalk  (CSD-83-125) Ricki Blau
+Performance Analysis of Several Backend Database Architectures  (CSD-83-124) Robert Brian Hagmann
+On the Performance of Courier Remote Procedure Calls Under 4.1c BSD  (CSD-83-123) James R Larus
+"... but will RISC run LISP??" (a feasibility study)  (CSD-83-122) Carl Glen Ponder
+Analysis of Branch Prediction Strategies and Branch Target Buffer Design  (CSD-83-121) Johnny K. F. Lee and Alan Jay Smith
+Disk Cache - Miss Ratio Analysis and Design Considerations  (CSD-83-120) Alan J. Smith
+Crystal: A Timing Analyzer for nMOS VLSI Circuits  (CSD-83-119) John K. Ousterhout
+A Study of the Parametric Uniform B-spline Curve and Surface Representations  (CSD-83-118) Brian A. Barsky
+A New Monte-Carlo Method for Estimating the Failure Probability of an n-Component System  (CSD-83-117) Richard M. Karp and Michael G. Luby
+A Simplified Version of H. W. Lenstra's Integer Programming Algorithm and Some Applications  (CSD-83-116) A. Paz
+1983 VLSI Tools: Selected Works by the Original Artists  (CSD-83-115) Robert N. Mayo, John K. Ousterhout and Walter S. Scott
+Corner Stitching: a Data Structuring Technique for VLSI Layout Tools  (CSD-83-114) John K. Ousterhout
+The Differencing Method of Set Partitioning  (CSD-83-113) Narenda Karmarker and Richard M. Karp
+Varying the Betas in Beta-splines  (CSD-83-112) Brian A. Barsky and John C. Beatty
+An Integrated Circuit Based Speech-Recognition System  (M83/80) Hyman J. Murveit
+SIMPL (SIMulated Profiles from the Layout)  (M83/79) M.A. Grimm
+Characterization of Plasma Etched Structures in IC Processing  (M83/78) John L. Reynolds
+Input-Output Description of Linear Systems with Multiple Time Scales  (M83/77) R. Silva-Madriz and S. Shankar Sastry
+Absolute k-Stability of Linear Distributed n-Ports  (M83/76) A. Bhaya and Charles A. Desoer
+Negative Resistance Devices: Part II  (M83/75) Leon O. Chua and A-C. Deng
+Virtual Memory Transaction Management  (M83/74) Michael Stonebraker
+QUEL as a Data Type  (M83/73) Michael Stonebraker, Erik Anderson, E. Hanson and B. Rubenstein
+Low Sample-Rate Timing Recovery Using Switched-Capacitor Techniques  (M83/72) N-S. Lin
+Timing Recovery in Digital Subscriber Loops  (M83/71) O. Agazzi, C-P.J. Tzeng, David G. Messerschmitt and David A. Hodges
+High Speed Digital-to-Analog Conversion  (M83/70) Vivian W.-K. Shen
+The Complete Dynamics of the Forced Josephson Junction Circuit: The Regions of Chaos  (M83/69) F. Abdel Salam and S. Shankar Sastry
+BBL User's Manual  (M83/68) N-P. Chen, C-P. Hsu, H.H. Chen, Ernest S. Kuh and M. Marek-Sadowska
+Stability, Security and Reliability of Interconnected Power Systems  (M83/67) Felix F. Wu
+Verification of Circuit Interconnectivity  (M83/66) R. Spickelmeier
+Collisionless Diffusion in Two-Frequency Electron Cyclotron Resonance Heating  (M83/65) J.E. Howard, Allan J. Lichtenberg, Michael A. Lieberman and R.H. Cohen
+R-Trees: A Dynamic Index Structure for Spatial Searching  (M83/64) A. Guttman and Michael Stonebraker
+High Precision Analog Circuits Using MOS VLSI Technology  (M83/63) Robert C.-T. Yen
+Program Reference for KIC  (M83/62) G. Billingsley
+Linear Longitudinal Oscillations in Collisionless Plasma Diodes with Thin Sheaths, Part II: Application to an Extended Pierce-Type Problem  (M83/61) S. Kuhn
+Global Router for Gate Array  (M83/60) J-T. Li and M. Marek-Sadowska
+Model Reference Adaptive Control-Stability, Parametric Convergence and Robustness  (M83/59) S. Shankar Sastry
+Strong Law of Large Numbers for Random Variables with Values in the Fuzzy Real Line  (M83/58) E.P. Klement
+General Path-Integral Successive-Collision Solution of the Bounded Dynamic Multi-Swarm Problem  (M83/57) S. Kuhn
+Modeling and Evaluation of Database Concurrency Control Algorithms  (M83/56) Michael J. Carey
+Performance Analysis of Distributed Database Systems  (M83/55) Michael Stonebraker, J. Woodfill, J. Ranstrom, J. Kalash, K. Arnold and E. Andersen
+Implementation of Rules in Relational Database Systems  (M83/54) Michael Stonebraker, J. Woodfill and E. Andersen
+A CAD Methodology for Linear Multivariable Feedback Systems Based on Algebraic Theory  (M83/53) C.L. Gustafson and Charles A. Desoer
+Linear Longitudinal Oscillations in Collisionless Plasma Diodes with Thin Sheaths, Part I: Method  (M83/52) S. Kuhn
+An MOS-LSI Autocorrelation Linear Prediction System  (M83/51) Paul J. Hurst
+Design Considerations of a Speech Recognition System Using Special Purpose Integrated Circuits  (M83/50) Menahem Lowy
+Final Report - Interchange No. NCA2-OR050- 006, Microwave Measurement of Snow Wetness Accumulation  (M83/49) D.J. Angelakos, William I. Linlor and Fred Clapp
+Nonlinear Unity-Feedback Systems and Q-Parametrization  (M83/48) Charles A. Desoer and C.A. Lin
+Behavioral-Level Simulation and Synthesis of Digital Systems  (M83/47) J.T. Deutsch
+A Critical Review on External Network Modeling for On-line Security Analysis  (M83/46) Felix F. Wu and A. Monticelli
+Theory of Asymmetric Double Layers  (M83/45) K.Y. Kim
+Using a Relational Database System to Store Text  (M83/44) G.M. Pavlovic
+Nonlinear Circuits  (M83/43) Leon O. Chua
+Circuit and Technology Considerations for High Frequency Switched-Capacitor Filters  (M83/42) Ronald T. Kaneshiro
+The Role of Fuzzy Logic in the Management of Uncertainty in Expert Systems  (M83/41) Lotfi A. Zadeh
+Outer Approximation Algorithm for Non- Differentiable Optimization Problems  (M83/40) D.Q. Mayne and Elijah Polak
+Time-Dependent Child-Langmuir Diode Simulation  (M83/39) S. Rousset
+Persistent Behavior, Sufficient Richness and Parameter Convergence in Adaptive Control  (M83/38) S. Boyd and S. Shankar Sastry
+Weak Monotonic Double Layers  (M83/37) K.Y. Kim
+A Switched-Capacitor Synchronous Detector  (M83/36) K.S. Kundert
+Module Placement Based on Resistive Network Optimization  (M83/35) C.K. Cheng and Ernest S. Kuh
+An Efficient Single-Row Routing Algorithm  (M83/34) T. T-S. Tarng, M. Marek-Sadowska and Ernest S. Kuh
+DELIGHT: An Interactive System for Optimization-Based Engineering Design  (M83/33) William T. Nye
+Nonlinear Op-Amp Circuits: Existence and Uniqueness of Solution by Inspection  (M83/32) T. Nishi and Leon O. Chua
+High Frequency CMOS Switched-Capacitor Filters  (M83/31) Tat C. Choi
+Uniqueness of Circuits and Systems Containing One Nonlinearity  (M83/30) S. Boyd and Leon O. Chua
+Ratio Independent A/D and D/A Conversion Using a Recirculating Reference Approach  (M83/29) C-C. Shih, P-W. Li and Paul R. Gray
+VICTOR: Global Redundancy Identification and Test Generation for VLSI Circuits  (M83/27) Ion M. Ratiu
+Common Sense Knowledge Representation Based on Fuzzy Logic  (M83/26) Lotfi A. Zadeh
+Stochasticity and Reconnection in Two- Dimensional Mappings  (M83/25) J.E. Howard and S.M. Hohs
+A Fuzzy-Set Theoretic Approach to the Compositionality of Meaning: Propositions, Dispositions and Canonical Form  (M83/24) Lotfi A. Zadeh
+Attaching an Array Processor in the UNIX Environment  (M83/23) C.T. Cole
+Potential Barrier Decoupling of Stable and Unstable Regions of Average Minimum B Magnetic Mirrors  (M83/22) J. Fernandez, Allan J. Lichtenberg, Michael A. Lieberman and N. Benjamin
+Topological Criteria for Nonlinear Resistive Circuits Containing Controlled Sources to Have a Unique Solution  (M83/21) T. Nishi and Leon O. Chua
+Extracting BJT Small-Signal Parameters for S. Parameter Measurements  (M83/20) M. Heising
+Analytical Calculation of Invariant Distributions on Strange Attractors  (M83/19) K.Y. Tsang and Michael A. Lieberman
+Precision Voltage Referencing Techniques in MOS Technology  (M83/17) Bang-Sup Song
+Optimization-Based Design of SISO Control Systems with Uncertain Plant: Problem Formulation  (M83/16) Elijah Polak and D.M. Stimler
+Integral Manifolds for Nonlinear Circuits  (M83/15) M. Odyniec and Leon O. Chua
+Extensions of the Multi-Armed Bandit Problem  (M83/14) Pravin Varaiya, Jean Walrand and C. Buyukkoc
+Arnold Diffusion in Swing Equations of Power Systems  (M83/13) F. Abdel Salam, Jerrold Marsden and Pravin Varaiya
+Josephson Junction Circuit Analysis via Integral Manifolds: Part II  (M83/12) M. Odyniec and Leon O. Chua
+A Modified Nyquist Stability Test for Use in Computer-Aided Design  (M83/11) Elijah Polak
+Berkeley Building-Block Layout System for VLSI Design  (M83/10) N.P. Chen, C.P. Hsu and Ernest S. Kuh
+A Physical Design Tool for Relational Databases  (M83/9) K. Youssefi
+Uniqueness of a Basic Nonlinear Structure  (M83/8) S. Boyd and Leon O. Chua
+Measuring Volterra Kernels  (M83/7) S. Boyd, Y.S. Tang and Leon O. Chua
+An Abstract Model of Database Concurrency Control Algorithms  (M83/6) M. Carey
+Deadlock Detection is Cheap  (M83/5) R. Agrawal, M. Carey and D. DeWitt
+Nonlinear Oscillations in Power Systems  (M83/4) E. Abed and Pravin Varaiya
+Application of Abstract Data Types and Abstract Indices to CAD Data Bases  (M83/3) Michael Stonebraker, B. Rubenstein and T. Guttman
+An Implementation of Hypothetical Relations  (M83/2) J. Woodfill and Michael Stonebraker
+Granularity Hierarchies in Concurrency Control  (M83/1) M.J. Carey

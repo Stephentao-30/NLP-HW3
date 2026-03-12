@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7560.html
+Virtual Storage Management in the Absence of Reference Bits | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Virtual Storage Management in the Absence of Reference Bits
+Virtual Storage Management in the Absence of Reference Bits
+Ozalp Babaoglu
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/92
+November 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-92.pdf
+Advisor:  Domenico Ferrari
+BibTeX citation:
+@phdthesis{Babaoglu:M81/92,
+Author = {Babaoglu, Ozalp},
+Title = {Virtual Storage Management in the Absence of Reference Bits},
+School = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Nov},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7560.html},
+Number = {UCB/ERL M81/92}
+}
+EndNote citation:
+%0 Thesis
+%A Babaoglu, Ozalp
+%T Virtual Storage Management in the Absence of Reference Bits
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/92
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/7560.html
+%F Babaoglu:M81/92

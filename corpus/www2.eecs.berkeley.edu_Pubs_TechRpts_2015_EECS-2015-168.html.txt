@@ -1,0 +1,41 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-168.html
+Scalable Transactions for Scalable Distributed Database Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Scalable Transactions for Scalable Distributed Database Systems
+Scalable Transactions for Scalable Distributed Database Systems
+Gene Pang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2015-168
+June 21, 2015
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-168.pdf
+With the advent of the Internet and Internet-connected devices, modern applications can experience very rapid growth of users from all parts of the world. A growing user base leads to greater usage and large data sizes, so scalable database systems capable of handling the great demands are critical for applications. With the emergence of cloud computing, a major movement in the industry, modern applications depend on distributed data stores for their scalable data management solutions. Many large-scale applications utilize NoSQL systems, such as distributed key-value stores, for their scalability and availability properties over traditional relational database systems. By simplifying the design and interface, NoSQL systems can provide high scalability and performance for large data sets and high volume workloads. However, to provide such benefits, NoSQL systems sacrifice traditional consistency models and support for transactions typically available in database systems. Without transaction semantics, it is harder for developers to reason about the correctness of the interactions with the data. Therefore, it is important to support transactions for distributed database systems without sacrificing scalability.
+In this thesis, I present new techniques for scalable transactions for scalable database systems. Distributed data stores need scalable transactions to take advantage of cloud computing, and to meet the demands of modern applications. Traditional techniques for transactions may not be appropriate in a large, distributed environment, so in this thesis, I describe new techniques for distributed transactions, without having to sacrifice traditional semantics or scalability.
+I discuss three facets to improving transaction scalability and support in distributed database systems. First, I describe a new transaction commit protocol that reduces the response times for distributed transactions. Second, I propose a new transaction programming model that allows developers to better deal with the unexpected behavior of distributed transactions. Lastly, I present a new scalable view maintenance algorithm for convergent join views. Together, the new techniques in this thesis contribute to providing scalable transactions for modern, distributed database systems.
+Advisor:  Michael Franklin
+BibTeX citation:
+@phdthesis{Pang:EECS-2015-168,
+Author = {Pang, Gene},
+Title = {Scalable Transactions for Scalable Distributed Database Systems},
+School = {EECS Department, University of California, Berkeley},
+Year = {2015},
+Month = {Jun},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-168.html},
+Number = {UCB/EECS-2015-168},
+Abstract = {With the advent of the Internet and Internet-connected devices, modern applications can experience very rapid growth of users from all parts of the world. A growing user base leads to greater usage and large data sizes, so scalable database systems capable of handling the great demands are critical for applications. With the emergence of cloud computing, a major movement in the industry, modern applications depend on distributed data stores for their scalable data management solutions. Many large-scale applications utilize NoSQL systems, such as distributed key-value stores, for their scalability and availability properties over traditional relational database systems. By simplifying the design and interface, NoSQL systems can provide high scalability and performance for large data sets and high volume workloads. However, to provide such benefits, NoSQL systems sacrifice traditional consistency models and support for transactions typically available in database systems. Without transaction semantics, it is harder for developers to reason about the correctness of the interactions with the data. Therefore, it is important to support transactions for distributed database systems without sacrificing scalability.
+In this thesis, I present new techniques for scalable transactions for scalable database systems. Distributed data stores need scalable transactions to take advantage of cloud computing, and to meet the demands of modern applications. Traditional techniques for transactions may not be appropriate in a large, distributed environment, so in this thesis, I describe new techniques for distributed transactions, without having to sacrifice traditional semantics or scalability.
+I discuss three facets to improving transaction scalability and support in distributed database systems. First, I describe a new transaction commit protocol that reduces the response times for distributed transactions. Second, I propose a new transaction programming model that allows developers to better deal with the unexpected behavior of distributed transactions. Lastly, I present a new scalable view maintenance algorithm for convergent join views. Together, the new techniques in this thesis contribute to providing scalable transactions for modern, distributed database systems.}
+}
+EndNote citation:
+%0 Thesis
+%A Pang, Gene
+%T Scalable Transactions for Scalable Distributed Database Systems
+%I EECS Department, University of California, Berkeley
+%D 2015
+%8 June 21
+%@ UCB/EECS-2015-168
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-168.html
+%F Pang:EECS-2015-168

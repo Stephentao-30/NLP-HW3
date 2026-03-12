@@ -1,0 +1,22 @@
+URL: https://eecs.berkeley.edu/research/colloquium/191106-2
+Machine Learning: a New Approach to Drug Discovery - EECS at Berkeley
+Machine Learning: a New Approach to Drug Discovery
+EECS Colloquium
+Wednesday, November 6, 2019
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Daphne Koller
+CEO and Founder
+insitro
+Daphne Koller speaks on "Machine Learning: a New Approach to Drug Discovery ," 11/06/19
+Abstract:
+Modern medicine has given us effective tools to treat some of the most significant and burdensome diseases. At the same time, it is becoming consistently more challenging to develop new therapeutics: clinical trial success rates hover around the mid-single-digit range; the pre-tax R&D cost to develop a new drug (once failures are incorporated) is estimated to be greater than $2.5B; and the rate of return on drug development investment has been decreasing linearly year by year, and some analyses estimate that it will hit 0% before 2020. A key contributor to this trend is that the drug development process involves multiple steps, each of which involves a complex and protracted experiment that often fails. We believe that, for many of these phases, it is possible to develop machine learning models to help predict the outcome of these experiments, and that those models, while inevitably imperfect, can outperform predictions based on traditional heuristics. The key will be to train powerful ML techniques on sufficient amounts of high-quality, relevant data. To achieve this goal, we are bringing together cutting edge methods in functional genomics and lab automation to build a bio-data factory that can produce relevant biological data at scale, allowing us to create large, high-quality datasets that enable the development of novel ML models. Our first goal is to engineer in vitro models of human disease that, via the use of appropriate ML models, are able to provide good predictions regarding the effect of interventions on human clinical phenotypes. Our ultimate goal is to develop a new approach to drug development that uses high-quality data and ML models to design novel, safe, and effective therapies that help more people, faster, and at a lower cost.
+Biography
+Daphne Koller is the CEO and Founder of insitro, a startup company that aims to rethink drug development using machine learning. She is also the Co-Chair of the Board and Co-Founder of Coursera, the largest platform for massive open online courses (MOOCs). Daphne was the Rajeev Motwani Professor of Computer Science at Stanford University, where she served on the faculty for 18 years. She has also been the Chief Computing Officer of Calico, an Alphabet company in the healthcare space. She is the author of over 200-refereed publications appearing in venues such as Science, Cell, and Nature Genetics. Daphne was recognized as one of TIME Magazine’s 100 most influential people in 2012 and Newsweek’s 10 most important people in 2010. She has been honored with multiple awards and fellowships during her career including the Sloan Foundation Faculty Fellowship in 1996, the ONR Young Investigator Award in 1998, the Presidential Early Career Award for Scientists and Engineers (PECASE) in 1999, the IJCAI Computers and Thought Award in 2001, the MacArthur Foundation Fellowship in 2004, and the ACM Prize in Computing in 2008. Daphne was inducted into the National Academy of Engineering in 2011 and elected a fellow of the American Academy of Arts and Sciences in 2014 and of the International Society of Computational Biology in 2017. Her teaching was recognized via the Stanford Medal for Excellence in Fostering Undergraduate Research, and as a Bass University Fellow in Undergraduate Education.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-146.html
+Control and Optimization of Power Systems with Renewables: Voltage Regulation and Generator Dispatch
+Baosen Zhang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-146
+August 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-146.pdf
+The electric power system is undergoing dramatic transformations due to the emergence of renewable resources. However, integrating these resources into the electric grid has proven to be difficult for two main reasons: these resources are uncertain and distributed. This thesis discusses how uncertainty and distributedness of the new resources are manifested as challenges in time and spatial scales, and how we can optimally control the power grid to overcome these challenges.
+The theme of this thesis is that in order to control the new resources, we need a better understanding of the physical power flow in the system. To illustrate the spatial-scale challenge, we consider the voltage regulation problem for distribution networks. With a deep penetration of distributed energy resources the voltage magnitudes in a distribution system can fluctuate significantly. To control these resources such that voltage profiles remain flat, we need to coordinate the tens of thousands of households in the distribution network.  By studying the geometry of power flows in the network, we show that even though the voltage regulation problem is non-convex, it can be convexified exactly through a semidefinite relaxation . Based on this insight, we an optimal and decentralized algorithm for this problem. Only communication between electrical neighbors are required in the algorithm, thus allowing it to scale to problem of large sizes.
+Advisors:  David Tse
+BibTeX citation:
+@phdthesis{Zhang:EECS-2013-146,
+Author= {Zhang, Baosen},
+Title= {Control and Optimization of Power Systems with Renewables: Voltage Regulation and Generator Dispatch},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-146.html},
+Number= {UCB/EECS-2013-146},
+Abstract= {The electric power system is undergoing dramatic transformations due to the emergence of renewable resources. However, integrating these resources into the electric grid has proven to be difficult for two main reasons: these resources are uncertain and distributed. This thesis discusses how uncertainty and distributedness of the new resources are manifested as challenges in time and spatial scales, and how we can optimally control the power grid to overcome these challenges.
+The theme of this thesis is that in order to control the new resources, we need a better understanding of the physical power flow in the system. To illustrate the spatial-scale challenge, we consider the voltage regulation problem for distribution networks. With a deep penetration of distributed energy resources the voltage magnitudes in a distribution system can fluctuate significantly. To control these resources such that voltage profiles remain flat, we need to coordinate the tens of thousands of households in the distribution network.  By studying the geometry of power flows in the network, we show that even though the voltage regulation problem is non-convex, it can be convexified exactly through a semidefinite relaxation . Based on this insight, we an optimal and decentralized algorithm for this problem. Only communication between electrical neighbors are required in the algorithm, thus allowing it to scale to problem of large sizes.},
+}
+EndNote citation:
+%0 Thesis
+%A Zhang, Baosen
+%T Control and Optimization of Power Systems with Renewables: Voltage Regulation and Generator Dispatch
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 15
+%@ UCB/EECS-2013-146
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-146.html
+%F Zhang:EECS-2013-146

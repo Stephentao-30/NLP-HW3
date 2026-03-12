@@ -1,0 +1,203 @@
+URL: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp06/readings.html
+CS 281B / Stat 241B Spring 2006 Readings
+CS 281B / Stat 241B, Spring 2006:
+Statistical Learning Theory
+Readings
+Pattern Classification and Analysis of the Perceptron Algorithm
+The argument giving the minimax lower bound for linear
+threshold functions is similar to the proof of the main
+result in the following paper.
+`A General Lower Bound on the Number of Examples Needed for Learning.'
+A. Ehrenfeucht, D. Haussler, M. Kearns and L. Valiant.
+The following book is an old (1987) revision of an older (1969) book
+on linear threshold functions and the perceptron algorithm.
+Perceptrons: An Introduction to Computational Geometry
+Marvin L. Minsky, Seymour A. Papert,
+MIT Press, 1987.
+That book and the following book discuss the perceptron
+convergence theorem.
+Nilsson, N., The Mathematical Foundations of Learning Machines,
+San Francisco: Morgan Kaufmann, 1990.
+(Reprint of N.J. Nilsson, Learning machines, McGraw-Hill, New York, 1965.)
+The upper bound on risk for the perceptron algorithm that we saw
+in lectures follows from
+the perceptron convergence theorem and results converting mistake
+bounded algorithms to average risk bounds.
+The following paper reviews these results.
+Large margin classification using the perceptron algorithm.
+Yoav Freund and Robert E. Schapire.
+`Pattern classification and learning theory.'
+G. Lugosi
+(See also the text book, L. Devroye, L. Gyorfi, G. Lugosi,
+`A Probabilistic Theory of Pattern Recognition,'
+Springer, New York, 1996.)
+`Learning Pattern Classification---A Survey.'
+S. Kulkarni, G. Lugosi, and S. Venkatesh
+Kernel Methods, Support Vector Machines
+`An introduction to kernel-based learning algorithms.'
+K.-R. Mueller, S. Mika, G. Raetsch, K. Tsuda, and B. Schoelkopf.
+`A Tutorial on Support Vector Machines for Pattern Recognition.'
+C. J. C. Burges.
+A Tutorial on Support Vector Regression.'
+A. J. Smola and B. Schoelkopf.
+See also the text books:
+`An Introduction to Support Vector Machines.'
+Nello Cristianini and John Shawe-Taylor.
+Cambridge University Press, Cambridge, UK, 2000.
+(see the  web page )
+`Kernel Methods for Pattern Analysis.'
+John Shawe-Taylor and Nello Cristianini.
+Cambridge University Press, Cambridge, UK, 2004.
+(see the  web page )
+`Learning with Kernels.'
+Bernhard Schoelkopf and Alex Smola.
+MIT Press, Cambridge, MA, 2002.
+(see the  web page )
+The following text book (in draft form) is available on the web.
+Chapter 5 gives a good treatment of constrained optimization problems
+and Lagrangian duality.
+`Convex Optimization.'
+Stephen Boyd and Lieven Vandenberghe.
+`Support Vector Networks.'
+Corinna Cortes and Vladimir Vapnik.
+The following papers describe a geometric view of
+SVM optimization problems.
+`A fast iterative nearest point algorithm for support vector
+machine classifier design.'
+S.S. Keerthi, S.K. Shevade, C. Bhattacharyya and K.R.K. Murthy.
+`Duality and Geometry in SVM Classifiers.'
+Kristin P. Bennett and Erin J. Bredensteiner.
+`A Geometric Interpretation of nu-SVM Classifiers.'
+D.J. Crisp and C.J.C. Burges
+The following papers present relationships between convex cost
+functions and discrete loss (for two-class pattern classification).
+The first paper generalizes and simplifies results of the second.
+The third paper considers a general situations, including weighted
+classification, regression, quantile estimation and density estimation.
+`Convexity, classification, and risk bounds.'
+Peter Bartlett, Mike Jordan and Jon McAuliffe.
+`Statistical behavior and consistency of classification methods based
+on convex risk minimization.'
+Tong Zhang.
+`How to compare different loss functions and their risks.'
+Ingo Steinwart.
+These papers investigate the RKHS of Gaussian kernels.
+`Consistency and convergence rates of one-class SVM and related
+algorithms.'  (See Section 3.)
+R. Vert and J.-P. Vert.
+`An Explicit Description of the Reproducing Kernel Hilbert
+Spaces of Gaussian RBF Kernels .'
+I. Steinwart, D. Hush, and C. Scovel.
+The following papers describe kernels defined on structures, such as
+sequences and trees. The first describes a number of operations that
+can be used in constructing kernels.
+`Convolution Kernels on discrete structures'
+D. Haussler
+`Dynamic alignment kernels'
+C. Watkins
+`Convolution kernels for natural language'
+Michael Collins and Nigel Duffy.
+`Text classification using string kernels'
+H. Lodhi, C. Saunders, J. Sahwe-Taylor, N. Cristianini, and C. Watkins
+Another good resource is the kernel machines web site:
+http://www.kernel-machines.org
+Ensemble Methods
+`Bagging predictors'
+Leo Breiman.
+`The boosting approach to machine learning: An overview.' .'
+Robert E. Schapire.
+Slides from tutorial on boosting:
+Part 1  and
+Part 2
+Yoav Freund and Robert E. Schapire.
+`A decision-theoretic generalization of on-line learning
+and an application to boosting.'
+Yoav Freund and Robert E. Schapire.
+`Experiments with a new boosting algorithm.'
+Yoav Freund and Robert E. Schapire.
+`Boosting the margin: A new explanation for the
+effectiveness of voting methods.'
+Robert E. Schapire, Yoav Freund, Peter Bartlett and Wee Sun Lee.
+`Arcing classifiers.'
+Leo Breiman.
+`Additive logistic regression: a statistical view of boosting.'
+Jerome Friedman, Trevor Hastie and Robert Tibshirani.
+Risk Bounds
+`Concentration-of-measure inequalities.'
+Gabor Lugosi.
+` A few notes on Statistical Learning Theory.'
+Shahar Mendelson
+Review paper on Rademacher averages and local Rademacher averages:
+`New Approaches to Statistical Learning Theory.'
+Olivier Bousquet.
+The following paper collects some useful properties of
+Rademacher averages.
+`Rademacher and Gaussian complexities:
+risk bounds and structural results'
+P. L. Bartlett and S. Mendelson.
+Rademacher averages for large margin classifiers:
+`Empirical margin distributions and bounding the generalization error
+of combined classifiers.'
+Vladimir Koltchinskii and Dmitriy Panchenko.
+The `finite lemma' (Rademacher averages of finite sets) is Lemma 5.2
+in this paper, which also introduces local Rademacher averages.
+`Some applications of concentration inequalities to statistics.'
+Pascal Massart.
+The growth function, VC-dimension, and pseudodimension
+are described in the following text (see chapter 3).
+Estimates of these quantities for parameterized
+function classes is covered in chapters 7 and 8.
+`Neural network learning: Theoretical foundations.' Martin Anthony and
+Peter Bartlett. Cambridge University Press. 1999.
+Model Selection
+`An experimental and theoretical comparison of model selection
+methods.'
+M. Kearns, Y. Mansour, A. Ng, and D. Ron
+`Risk bounds for model selection via penalisation.' .
+Andrew Barron, Lucien Birge and Pascal Massart.
+`Model
+selection and error estimation.'
+P.  L. Bartlett, S. Boucheron, and G. Lugosi.
+`Some applications of concentration inequalities to statistics.'
+Pascal Massart.
+`A consistent strategy for boosting algorithms.'
+Gabor Lugosi and Nicolas Vayatis.
+`Consistency of support vector machines and other regularized kernel
+classifiers.'
+I. Steinwart.
+`The
+consistency of greedy algorithms for classification.'
+Shie Mannor, Ron Meir, Tong Zhang.
+`Concentration
+inequalities and model selection.'
+Pascal Massart.
+For Bernstein's inequality, and generalizations, see:
+`Concentration-of-measure inequalities.'
+Gabor Lugosi.
+`A Bennett concentration inequality and its application
+to suprema of empirical processes',
+Olivier Bousquet.
+`Concentration inequalities using the entropy method.'
+S. Boucheron, G. Lugosi and P. Massart.
+`A sharp concentration inequality with applications.'
+Stephane Boucheron, Gabor Lugosi and Pascal Masssart.
+Bounding the variance for excess loss classes:
+`Improving the sample complexity using global data.'
+S. Mendelson.
+`Convexity, classification, and risk bounds.'
+P. Bartlett, M. Jordan, J. McAuliffe.
+Local Rademacher averages:
+`Some applications of concentration inequalities to statistics.'
+Pascal Massart.
+`Rademacher processes and bounding the risk of function learning.'
+V. Koltchinskii and D. Panchenko.
+`Complexity
+regularization via localized random penalties.'
+G. Lugosi and M. Wegkamp
+Local Rademacher complexities.'
+P.L. Bartlett, O. Bousquet, S. Mendelson.
+`Geometric parameters of kernel machines,'
+S. Mendelson.
+`Complexity of convex hulls and generalization bounds'
+O. Bousquet, V. Koltchinskii and D. Panchenko.
+Back to course home page

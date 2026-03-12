@@ -1,0 +1,66 @@
+URL: https://www2.eecs.berkeley.edu/Faculty/Homepages/brewer.html
+Eric Brewer: Faculty Home Page
+Larger Photo
+Eric Brewer
+Professor Emeritus
+Contact Information
+417 Sutardja Dai Hall
+tel:  510-642-8143
+brewer@cs.berkeley.edu
+Office Hours
+M 2:30-3:30, Th 1-2, 623 Soda
+Links
+Personal Homepage
+Publications
+Dissertations
+Research Support
+Damon Hinson
+damonh@berkeley.edu
+Biography
+He received his M.S. and Ph.D. in EECS from MIT, and a B.S. in EECS from UC Berkeley. He was named a "Global Leader for Tomorrow" by the World Economic Forum, by the Industry Standard as the "most influential person on the architecture of the Internet" by InfoWorld as one of their top ten innovators, by Technology Review as one of the top 100 most influential people for the 21st century (the "TR100"), and by Forbes as one of their 12 "e-mavericks", for which he appeared on the cover. Dr. Brewer focuses on all aspects of Internet-based systems; including technology, strategy, and government. As a researcher, he has led projects on scalable servers, search engines, network infrastructure, sensor networks, and security. His current focus is on (high) technology for developing regions, with projects in Cambodia, India, Ghana, Mexico, Sri Lanka and Bangladesh (so far), and including communications, health, education, and e-government. In 1996, he co-founded Inktomi Corporation with a Berkeley grad student based on their research prototype, and helped lead it onto the Nasdaq 100 before it was bought by Yahoo! in March 2003. In 2000, he founded the Federal Search Foundation, a 501-3(c) organization focused on improving consumer access to government information. Working with President Clinton, Dr. Brewer helped to create FirstGov.gov, the official portal of the Federal government, which launched in September 2000. Effective July 1, 2014, Professor Brewer is 50%-time with the University and also serving as a leader at Google.
+Education
+1994, Ph.D., EECS, MIT
+1989, B.S., EECS, UC Berkeley
+Research Areas
+Operating Systems & Networking (OSNT)
+Power and Energy (ENE)
+Security (SEC)
+Developing regions; Programming languages
+A. Madduri, J. Rosa, S. R. Sanders, E. Brewer, and P. Matthew, "Design and verification of smart and scalable DC microgrids for emerging regions," in  Energy Conversion Congress and Exposition (ECCE), 2013 IEEE , 2013, pp. 73--79.
+L. Hodgkinson, J. Rosa, and E. Brewer, " Parallel Software Architecture for Experimental Workflows in Computational Biology on Clouds ," in  Parallel Processing and Applied Mathematics , R. Wyrzykowski, J. Dongarra, K. Karczewski, and J. Wasniewski, Eds., Lecture Notes in Computer Science, Vol. 7204, Springer Berlin / Heidelberg, 2012, pp. 281-291.
+Y. Ben-David, M. Vallentin, S. Fowler, and E. Brewer, " JaldiMAC: taking the distance further ," in  NSDR '10: Proceedings of the 4th ACM Workshop on Networked Systems for Developing Regions , New York, NY, USA: ACM, 2010, pp. 1--6.
+R. E. Honicky, O. Bakr, M. Demmer, and E. Brewer, " A message oriented phone system for low cost connectivity ," in  Hot Topics in Networking 2007 (HOTNETS) , 2007.
+J. Pal, U. S. Pawar, E. Brewer, and K. Toyama, " The case for multi-user design for computer aided learning in developing regions ," in  Proc. 15th Intl. Conf. on World Wide Web , L. Carr, D. De Roure, A. Iyengar, C. A. Goble, and M. Dahlin, Eds., New York, NY: The Association for Computing Machinery, Inc., 2006, pp. 781-789.
+R. C. Sears and E. Brewer, " Stasis: Flexible transactional storage ," in  Proc. 7th USENIX Symp. on Operating Systems Design and Implementation , Berkeley, CA: USENIX Association, 2006, pp. 29-44.
+F. Zhou, J. P. Condit, Z. R. Anderson, I. Bagrak, R. Ennals, M. T. Harren, G. Necula, and E. Brewer, " SafeDrive: Safe and recoverable extensions using language-based techniques ," in  Proc. 7th USENIX Symp. on Operating Systems Design and Implementation (OSDI '06) , Berkeley, CA: USENIX Association, 2006, pp. 45-60.
+E. Brewer, M. Demmer, M. Ho, R. E. Honicky, J. Pal, M. Plauche, and S. Surana, " The challenges of technology research for developing regions ,"  IEEE Pervasive Computing , vol. 5, no. 2, pp. 15-23, April 2006.
+W. T. McCloskey, F. Zhou, D. Gay, and E. Brewer, " Autolocker: Synchronization inference for atomic sections ," in  Conference Record of the 33rd ACM SIGPLAN-SIGACT Symp. on Principles of Programming Languages , New York, NY: ACM Press, 2006, pp. 346-358.
+E. Brewer, M. Demmer, B. Du, M. Ho, M. Kam, S. Nedevschi, J. Pal, R. Patra, S. Surana, and K. Fall, " The case for technology for developing regions ,"  IEEE Computer , vol. 38, no. 6, pp. 25-38, May 2005.
+P. A. Levis, S. Madden, D. Gay, J. R. Polastre, R. Szewczyk, A. L. C. Woo, E. Brewer, and D. E. Culler, " The emergence of networking abstractions and techniques for TinyOS ," in  Proc. 1st Symp. on Networked Systems Design and Implementation (NSDI '04) , Berkeley, CA: USENIX Association, 2004, pp. 1-14.
+J. R. Von Behren, J. P. Condit, F. Zhou, G. Necula, and E. Brewer, " Capriccio: Scalable threads for internet services ," in  Proc. 19th ACM Symp. on Operating Systems Principles (SOSP '03) , New York, NY: The Association for Computing Machinery, Inc., 2003, pp. 268-281.
+D. Gay, P. A. Levis, J. R. Von Behren, M. Walsh, E. Brewer, and D. E. Culler, " The nesC language: A holistic approach to networked embedded systems ," in  Proc. ACM SIGPLAN 2003 Conf. on Programming Language Design and Implementation , New York, NY: The Association for Computing Machinery, Inc., 2003, pp. 1-11.
+E. Brewer, " Lessons from giant-scale services ,"  IEEE Internet Computing , vol. 5, no. 4, pp. 46-55, July 2001.
+American Association for the Advancement of Science (AAAS) Fellow ,
+2021
+USENIX Test of Time Award ,
+2019
+American Academy of Arts and Sciences Member ,
+2018
+ACM SIGPLAN Most Influential Programming Language Design and Implementation (PLDI) Paper Award ,
+2013
+ACM SIGOPS Mark Weiser Award ,
+2009
+ACM Prize in Computing ,
+2009
+Association for Computing Machinery (ACM) Fellow ,
+2007
+National Academy of Engineering (NAE) Member ,
+2007
+Diane S. McEntyre Award for Excellence in Teaching Computer Science ,
+2005
+MIT Tech Review Top 100 Innovators Under 35 (TR100) ,
+1999
+Okawa Research Grant ,
+1998
+Sloan Research Fellow ,
+1997

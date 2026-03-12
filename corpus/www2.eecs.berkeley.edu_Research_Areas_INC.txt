@@ -1,0 +1,77 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/INC
+Integrated Circuits (INC)
+Overview
+Topics
+Applications
+Analog-to-digital and digital-to-analog conversion, automotive electronics, biosystems, computation, consumer electronics, instrumentation, medical systems, signal processing, ubiquitous electronics, and wireless communications.
+Circuit Design
+High-speed digital and high-frequency analog circuits, microwave circuits, memories, nanoscale analog circuits, precision measurement, timing, voltages and currents, robust circuit design, and system architecture.
+Devices and Technology
+Bio/silicon interfaces, integrated sensors, mixed signal systems, mixed material systems, and microelectromechanical systems.
+Energy Management
+High-power circuits, on-chip power distribution, power/performance tradeoffs, ultra-low-power circuits, and ultra-low-voltage circuits.
+Research Centers
+Berkeley Wireless Research Center
+SpeciaLIzed Computing Ecosystems
+Faculty
+Primary
+Elad Alon
+Mekhail Anwar
+Jun-Chau Chien
+Rikky Muller
+Aditya Varma Muppala
+Ali Niknejad  (coordinator)
+Borivoje Nikolic
+Pierluigi Nuzzo
+Jaijeet Roychowdhury
+Osama Shana'a
+Vladimir Stojanovic
+Secondary
+Krste Asanović
+Jessica Boles
+Bernhard Boser
+Zaijun Chen
+Paul R. Gray
+Chenming Hu
+Sagar Karandikar
+Michael Lustig
+Robert G. Meyer
+Richard S. Muller
+Clark Nguyen
+Robert Pilawa-Podgurski
+Kristofer Pister
+Jan M. Rabaey
+Seth R. Sanders
+Sophia Shao
+Alp Sipahigil
+Costas J. Spanos
+Grigory Tikhomirov
+Mengjie Yu
+Faculty Awards
+National Medal of Technology and Innovation:
+Chenming Hu, 2016.
+IEEE Medal of Honor:
+Chenming Hu, 2020.
+Silicon Valley Engineering Hall of Fame:
+Chenming Hu, 2017.
+Paul R. Gray, 2015.
+National Academy of Engineering (NAE) Member:
+Chenming Hu, 1996.
+Richard S. Muller, 1992.
+Paul R. Gray, 1990.
+Berkeley Citation:
+Chenming Hu, 2011.
+Paul R. Gray, 2006.
+Richard S. Muller, 1994.
+UC Berkeley Distinguished Teaching Award:
+Chenming Hu, 1997.
+Sloan Research Fellow:
+Sophia Shao, 2024.
+Michael Lustig, 2013.
+Related Courses
+EE 105. Microelectronic Devices and Circuits
+EE 140. Linear Integrated Circuits
+EE 142. Integrated Circuits for Communications
+EE 240A. Analog Integrated Circuits
+EE 240B. Advanced Analog Integrated Circuits
+EE 242A. Integrated Circuits for Communications

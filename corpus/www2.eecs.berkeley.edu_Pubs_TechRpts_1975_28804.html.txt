@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28804.html
+Storage Structures and Access Methods in the Relational Data Base Management System Ingres | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Storage Structures and Access Methods in the Relational Data Base Management System Ingres
+Storage Structures and Access Methods in the Relational Data Base Management System Ingres
+Gerald Held and Michael Stonebraker
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M505
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-505.pdf
+BibTeX citation:
+@techreport{Held:M505,
+Author = {Held, Gerald and Stonebraker, Michael},
+Title = {Storage Structures and Access Methods in the Relational Data Base Management System Ingres},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28804.html},
+Number = {UCB/ERL M505}
+}
+EndNote citation:
+%0 Report
+%A Held, Gerald
+%A Stonebraker, Michael
+%T Storage Structures and Access Methods in the Relational Data Base Management System Ingres
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M505
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28804.html
+%F Held:M505

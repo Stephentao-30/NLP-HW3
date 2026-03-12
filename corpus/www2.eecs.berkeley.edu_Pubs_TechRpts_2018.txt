@@ -1,0 +1,162 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018
+Technical Reports - 2018
+Sculpture Designs Based on Borromean Soap Films  (EECS-2018-192) Carlo H. Séquin
+Scaling Interactive Data Science Transparently with Modin  (EECS-2018-191) Devin Petersohn
+HindSight: Enhancing Spatial Awareness by Sonifying Detected Objects in Real-Time 360-Degree Video  (EECS-2018-190) Eldon Schoop, James Smith and Björn Hartmann
+Reducing Actuation Voltage in RF MEMS Switches and the Impact of Scaling on Performance and Reliability  (EECS-2018-189) Jaime Castro
+Reducing Actuation Voltage in RF MEMS Switches and the Impact of Scaling on Performance and Reliability  (EECS-2018-188) Jaime Castro
+Negative capacitance and hyperdimensional computing for unconventional low-power computing  (EECS-2018-187) Justin Wong
+Scaling Effect on RF MEMS Switch  (EECS-2018-186) Xiao Chen
+Optimization Everywhere: Convex, Combinatorial, and Economic  (EECS-2018-185) Sam Wong
+Domain-Specific Techniques for High-Performance Computational Image Reconstruction  (EECS-2018-184) Michael Driscoll
+Non-Linear Stiffness Extraction & Modeling of Wineglass Disk Resonators  (EECS-2018-183) Alain Anton
+Low Dimensional Methods for High Dimensional Magnetic Resonance Imaging  (EECS-2018-181) Frank Ong
+Parametric Oscillation with Wineglass Disk Resonators  (EECS-2018-179) Thanh-Phong Nguyen
+Deep Networks for Equalization in Communications  (EECS-2018-177) Laura Brink
+Acquiring Diverse Robot Skills via Maximum Entropy Deep Reinforcement Learning  (EECS-2018-176) Tuomas Haarnoja
+Adaptive and Diverse Techniques for Generating Adversarial Examples  (EECS-2018-175) Warren He
+Quantifying the Development Value of Code Contributions  (EECS-2018-174) Hezheng Yin
+A Platform-Based Approach to Verification and Synthesis of Linear Temporal Logic Specifications  (EECS-2018-173) Antonio Iannopollo
+3D Object Detection with Sparse Sampling Neural Networks  (EECS-2018-172) Ryan Goy and Avideh Zakhor
+Towards Practical Privacy-Preserving Data Analytics  (EECS-2018-171) Noah Johnson
+Learning to Navigate in Visual Environments  (EECS-2018-169) Peter Jin
+Zephyr: Simple, Ready-to-use Software-based Power Evaluation for Background Sensing Smartphone Applications  (EECS-2018-168) K. Shankari, Jonathan Fürst, Yawen Wang, Philippe Bonnet, David E. Culler and Randy H. Katz
+The Sparse Manifold Transform  (EECS-2018-167) Yubei Chen, Dylan Paiton and Bruno Olshausen
+Cell Geometry Impact on the Cell Filling Process in Gravure Printing for Printed Electronics  (EECS-2018-165) Xiaoer Hu
+The Ionocraft: Flying Microrobots With No Moving Parts  (EECS-2018-164) Daniel Drew
+Reverse Curriculum Generation for Reinforcement Learning  (EECS-2018-162) Carlos Florensa Campo, David Held,  Markus Wulfmeier, Michael Zhang and Pieter Abbeel
+Curriculum Distillation to Teach Playing Atari  (EECS-2018-161) Chen Tang and John F. Canny
+Differential methods in phase imaging for optical lithography  (EECS-2018-160) Aamod Shanker and Antoine Wojdyla
+Understanding and Engineering Surface and Edge Defects of Transition Metal Dichalcogenides  (EECS-2018-157) Peida Zhao
+Bottom-up Memory Design Techniques for Energy-Efficient and Resilient Computing  (EECS-2018-156) Pi-Feng Chiu
+Dynamic Analysis for JavaScript  (EECS-2018-155) Liang Gong
+FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud  (EECS-2018-154) Sagar Karandikar
+RFID Reader Design for Neural Implants  (EECS-2018-153) Christopher Sutardja
+Hardware and Software Support for Managed-Language Workloads in Data Centers  (EECS-2018-152) Martin Maas
+A Highly Productive Implementation of an Out-of-Order Processor Generator  (EECS-2018-151) Christopher Celio
+Toward a more reliable power system: frequency regulation from buildings and secure estimation against cyber attacks  (EECS-2018-150) Qie Hu
+Guided GUI Testing of Android Apps with Minimal Restart and Approximate Learning  (EECS-2018-149) Wonae Choi
+Variability-Aware Compact Modeling of Nano-scale Technologies with Customized Test Structure Designs  (EECS-2018-148) Ying Qiao
+Screen Printed MRI Receive Coils  (EECS-2018-147) Joseph Corea
+Neural Dust: Ultrasonic Biological Interface  (EECS-2018-146) Dongjin (DJ) Seo
+Sparse optimization models with robust sketching and applications  (EECS-2018-145) Vu Pham
+Better, Faster, Stronger: Measuring and Transcending Your Physical Limits with Wearable Robots  (EECS-2018-143) Robert Matthew
+Design of Reconfigurable Radio Front-Ends  (EECS-2018-142) Xiao Xiao
+Learning from Language  (EECS-2018-141) Jacob Andreas
+Statistical Learning Towards Gamification in Human-Centric Cyber-Physical Systems  (EECS-2018-139) Ioannis Konstantakopoulos
+Large-Batch Training for LSTM and Beyond  (EECS-2018-138) Yang You, James Demmel, Kurt Keutzer, Cho-Jui Hsieh, Chris Ying and Jonathan Hseu
+numpywren: serverless linear algebra  (EECS-2018-137) Vaishaal Shankar, Karl Krauth, Qifan Pu, Eric Jonas, Shivaram Venkataraman, Ion Stoica, Benjamin Recht and Jonathan Ragan-Kelley
+Evaluating Software Switches: Hard or Hopeless?  (EECS-2018-136) Vivian Fang, Tamás Lévai, Sangjin Han, Sylvia Ratnasamy, Barath Raghavan and Justine Sherry
+Accountable Data Fusion and Privacy Preservation Techniques in Cyber-Physical Systems  (EECS-2018-135) Ruoxi Jia
+Programming Abstractions and Synthesis-Aided Compilation for Emerging Computing Platforms  (EECS-2018-134) Phitchaya Phothilimthana
+Computational Sensorimotor Learning  (EECS-2018-133) Pulkit Agrawal
+Learning and Optimization for Mixed Autonomy Systems - A Mobility Context  (EECS-2018-132) Cathy Wu
+Design and Characterization of Ferroelectric Negative Capacitance  (EECS-2018-131) Korok Chatterjee
+An Architecture for a Widely Distributed Storage and Communication Infrastructure  (EECS-2018-130) Nitesh Mor, Eric Allman, Richard Pratt, Kenneth Lutz and John D. Kubiatowicz
+Electronic Interfaces for Bacteria-Based Biosensing  (EECS-2018-129) Tom Zajdel
+Visual Learning Beyond Direct Supervision  (EECS-2018-128) Tinghui Zhou
+Soter: Programming Safe Robotics System using Runtime Assurance  (EECS-2018-127) Ankush Desai, Shromona Ghosh, Sanjit A. Seshia, Natarajan Shankar and Ashish Tiwari
+Statistics meets Optimization: Computational guarantees for statistical learning algorithms  (EECS-2018-126) Fanny Yang
+Further Stochastic Analysis of the k-Server Problem on the Circle  (EECS-2018-125) Jarett Schwartz
+MR Shuffling: Accelerated Single-Scan Multi-Contrast Magnetic Resonance Imaging  (EECS-2018-124) Jonathan Tamir
+Method of Local Corrections Solver for Manycore  Architectures  (EECS-2018-122) Brian Van Straalen
+Optimal Differential Drag Control of Small Satellite Constellations  (EECS-2018-121) Andrew Blatner
+Efficient Policy Learning for Robust Robot Grasping  (EECS-2018-120) Jeffrey Mahler
+Adapting Swarm Applications: A Systematic and Quantitative Approach  (EECS-2018-119) Ben Zhang
+Evaluation and Design of Robust Neural Network Defenses  (EECS-2018-118) Nicholas Carlini
+Real-time Communication Systems For Automation Over Wireless: Enabling Future Interactive Tech  (EECS-2018-114) Vasuki Narasimha Swamy
+Combining Speech and Speaker Recognition - A Joint Modeling Approach  (EECS-2018-113) Hang Su
+Mechanical Energy Storage for Self-Destructing Motes and Jumping Microrobots  (EECS-2018-112) Joseph Greenspun
+Vision-based Appliance Identification and Control with Smartphone Sensors in Commercial Buildings  (EECS-2018-111) Kaifei Chen
+Machine Learning for Automatic Resource Management in the Datacenter and the Cloud  (EECS-2018-110) Neeraja Yadwadkar
+Exploration for Range Based Indoor Localization Technologies and Algorithms  (EECS-2018-109) Casey Mackin
+On and Off-Policy Deep Imitation Learning for Robotics  (EECS-2018-108) Michael Laskey
+Inductive Program Synthesis in BLOG  (EECS-2018-107) Jared Rulison
+Learning to Learn with Gradients  (EECS-2018-105) Chelsea Finn
+Representations for Visually Guided Actions  (EECS-2018-104) Saurabh Gupta
+Towards a More Stable Network Infrastructure  (EECS-2018-103) Radhika Mittal
+A Tool for Computational Analysis of Narrative Film  (EECS-2018-102) Alexei (Alyosha) Efros, Frederick Alexander Hall and Maneesh Agrawala
+Hierarchical Deep Reinforcement Learning For Robotics and Data Science  (EECS-2018-101) Sanjay Krishnan
+Energy-efficient and High-bandwidth Density Monolithic Optical Transceivers in Advanced CMOS Processes  (EECS-2018-100) Sajjad Moazeni and Vladimir Stojanovic
+Methods and Systems for Understanding Large-Scale Internet Threats  (EECS-2018-98) Paul Pearce
+Three-Dimensional Structure Formation via Inkjet-printed Metal Nanoparticles: Ink and Application Development  (EECS-2018-96) Dwipayan Patnaik
+Compositional Programming and Testing of Dynamic Distributed Systems  (EECS-2018-95) Ankush Desai, Amar Phanishayee, Shaz Qadeer and Sanjit A. Seshia
+Extended Formulation Lower Bounds for Combinatorial Optimization  (EECS-2018-94) Jonah Brown-Cohen
+Learning Single-view 3D Reconstruction of Objects and Scenes  (EECS-2018-93) Shubham Tulsiani
+Avoiding Communication in First Order Methods for Optimization  (EECS-2018-92) Aditya Devarakonda
+Equalization of Backplane Channels Using Transmitter FFE and Receiver CTLE+DFE  (EECS-2018-90) Jesse Brannon, Hari Vemuri and Yuda Wang
+New Generation Verilog-A Model Development Tools: VAPP and VALint  (EECS-2018-89) A. Gokcen Mahmutoglu, Xufeng Wang and Jaijeet Roychowdhury
+Classical Verification and Blind Delegation of Quantum Computations  (EECS-2018-88) Urmila Mahadev
+Optical Phase Space Measurements and Applications to 3D Imaging and Light Scattering  (EECS-2018-87) Hsiou-Yuan Liu
+Design of a Brushless Servomotor for a Low-cost Compliant Robotic Manipulator  (EECS-2018-86) Allan Zhao
+Mr. Plotter: Unifying Data Reduction Techniques in Storage and Visualization Systems  (EECS-2018-85) Sam Kumar, Michael P Andersen and David E. Culler
+Ray DataFrames: A library for parallel data analysis  (EECS-2018-84) Patrick Yang
+An Attention-Based Model for Transcription Factor Binding Site Prediction  (EECS-2018-83) Gunjan Baid
+An arithmetic complexity lower bound for computing rational functions, with applications to structured and sparse linear algebra  (EECS-2018-82) James Demmel
+Pedagogy, Infrastructure, and Analytics for Data Science Education at Scale  (EECS-2018-81) Vinitra Swamy
+Arrhythmia Classification in Multi-Channel ECG Signals Using Deep Neural Networks  (EECS-2018-80) Kyungna Kim
+Meta-analysis of massive parallel reporter assay enables functional regulatory elements prediction  (EECS-2018-79) Zhongxia Yan
+DIZK: A Distributed Zero-Knowledge Proof System  (EECS-2018-78) Howard Wu, Wenting Zheng, Alessandro Chiesa, Raluca Ada Popa and Ion Stoica
+Scalable, Efficient Deep Learning by Means of Elastic Averaging  (EECS-2018-77) Kevin Peng
+InferLine: ML Inference Pipeline Composition Framework  (EECS-2018-76) Corey Zumar
+A Data Analysis of Student Success and Motivations in the BJCx MOOC  (EECS-2018-75) Yifat Amir
+Exploring Novel Architectures For Serving Machine Learning Models  (EECS-2018-73) Aditya Chopra
+The Design of an Analog Associative Memory Circuit for Applications in High-Dimensional Computing  (EECS-2018-72) Miles Rusch
+Epigenetic Imputation  (EECS-2018-71) Alexander Ku
+Visual Model Predictive Control  (EECS-2018-69) Varun Tolani
+Using Physics Simulators to Aid in Real-Time Robot Planning  (EECS-2018-68) Michael Tong
+Fighting Fake News: Image Splice Detection via Learned Self-Consistency  (EECS-2018-67) Minyoung Huh, Andrew Liu, Andrew Owens and Alexei (Alyosha) Efros
+Table-based Device Modeling: Methods and Applications  (EECS-2018-66) Archit Gupta
+ConNect: Exploring Augmented Reality Service using Image Localization and Neural Network Object Detection  (EECS-2018-65) Tong Li
+ConNect: Exploring Augmented Reality Service using Image Localization and Neural Network Object Detection  (EECS-2018-64) Tong Li
+A 12.5GHz High Speed Data Link  (EECS-2018-63) Glenn Kewley
+See-Thru: Towards Minimally Obstructive Eye-Controlled Wheelchair Interfaces  (EECS-2018-61) Corten Singer
+Hollow Disk Electromechanical Coupling Cx/Co Boosting  (EECS-2018-60) Yafei Li and Clark Nguyen
+12.5 Gbit/sec Serial Link  (EECS-2018-59) Glenn Kewley
+Thin-Film Electrostatic Actuators and Adhesives for High-Voltage Robotics  (EECS-2018-58) Ethan Schaler
+nbinteract: Generate Interactive Web Pages From Jupyter Notebooks  (EECS-2018-57) Samuel Lau and Joshua Hug
+An Internet-Spanning Content Distribution Mechanism for IoT  (EECS-2018-56) Griffin Potrock
+Modeling Supervisor Safe Sets for Improving Collaboration in Human-Robot Teams  (EECS-2018-55) Dexter Scobee
+AutoQuiz: an online, adaptive, test practice system  (EECS-2018-54) Zhiping Xiao
+Frequency-swept Ferromagnetic Resonance Characterization of Permalloy Thin Films  (EECS-2018-53) Samuel Holladay
+Lifted Recurrent Neural Networks  (EECS-2018-52) Rajiv Sambharya
+A Hardware Accelerator for Computing an Exact Dot Product  (EECS-2018-51) Jack Koenig
+Interpretable Machine Learning with Applications in Neuroscience  (EECS-2018-50) Reza Abbasi Asl
+Program Synthesis for Systems Biology  (EECS-2018-49) Ali Sinan Koksal
+Interactive CAD Software for the Design of 2-manifold Free-form Surfaces (NOME)  (EECS-2018-48) Gauthier Dieppedalle
+Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation  (EECS-2018-47) Gregory Kahn, Adam Villaflor, Bosen Ding, Pieter Abbeel and Sergey Levine
+An Integrative Approach to Data-Driven Monitoring and Control of Electric Distribution Networks  (EECS-2018-45) Roel Dobbe
+Extraction of Vehicle Trajectories from Online Video Streams  (EECS-2018-44) Xinhe Ren, David Wang, Michael Laskey and Ken Goldberg
+Learning Image-Conditioned Dynamics Models for Control of Under-actuated Legged Millirobots  (EECS-2018-43) Anusha Nagabandi
+Ultra Low Noise Preamplifier Design for Magnetic Particle Imaging  (EECS-2018-42) Quincy Huynh
+A Learning-Based Approach to Safety for Uncertain Robotic Systems  (EECS-2018-41) Anayo Akametalu
+Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation  (EECS-2018-37) YuXuan Liu, Abhishek Gupta, Pieter Abbeel and Sergey Levine
+Image Synthesis for Self-Supervised Visual Representation Learning  (EECS-2018-36) Richard Zhang
+Natural Language Understanding for Healthcare Queries  (EECS-2018-35) Vivek Raghuram
+Exploratory model analysis for machine learning  (EECS-2018-34) Biye Jiang
+Adaptive Memory Networks  (EECS-2018-33) Daniel Li
+A Simple Neural Attentive Meta-Learner  (EECS-2018-32) Nikhil Mishra, Mostafa Rohaninejad, Xi Chen and Pieter Abbeel
+Detection limits and fluctuation results in some spiked random matrix models and pooling of discrete data  (EECS-2018-31) Ahmed El Alaoui
+Alluxio: A Virtual Distributed File System  (EECS-2018-29) Haoyuan Li
+Joint State and Parameter Estimation in Temporal Models  (EECS-2018-28) Yusuf Erol, Stuart J. Russell and Laurent El Ghaoui
+Lung Nodule Detection Using Convolutional Neural Networks  (EECS-2018-27) Jiaying Shi
+Go with the Flow: Graphs, Streaming and Relational Computations over Distributed Dataflow  (EECS-2018-26) Reynold Shi Xin
+Formal Specification for Deep Neural Networks  (EECS-2018-25) Sanjit A. Seshia, Ankush Desai, Tommaso Dreossi, Daniel Fremont, Shromona Ghosh, Edward Kim, Sumukh Shivakumar, Marcell Vazquez-Chanlatte and Xiangyu Yue
+Mathematical Compact Models of Advanced Transistors for Numerical Simulation and Hardware Design  (EECS-2018-24) Juan Duarte
+Population Coding in Retinal Ganglion Cells  (EECS-2018-23) Reza Abbasi Asl
+An Efficient, Full Stack Protocol for Body Area Mesh Networks  (EECS-2018-22) Ramakrishnan Menon
+A deep generative model for gene expression profiles from single-cell RNA sequencing  (EECS-2018-21) Nir Yosef, Michael Jordan and Romain Lopez
+Novel Processing Schemes for Material Systems on Amorphous and Flexible Substrates  (EECS-2018-18) Kevin Chen
+A 60 GHz Development & Test Platform for Wireless Systems Research  (EECS-2018-17) Christopher Yarp
+Stirling Engine for Solar Thermal Electric Generation  (EECS-2018-15) Mike Miao He
+Powering OMNI: A Distributed and Modular Closed-Loop Neuromodulation Device  (EECS-2018-14) George Alexandrov
+An Early Exploration of Causality Analysis for Irregularly Sampled Time Series via the Frequency Domain  (EECS-2018-12) Francois Belletti
+Assembly of a Wireless Ultrasonic Backscatter System  (EECS-2018-10) Konlin Shen
+Scenic: Language-Based Scene Generation  (EECS-2018-8) Daniel Fremont, Xiangyu Yue, Tommaso Dreossi, Shromona Ghosh, Alberto L. Sangiovanni-Vincentelli and Sanjit A. Seshia
+Dueling Metrics: Choosing the Appropriate Error Metric for Models of Cognition in the Learning Analytics Field  (EECS-2018-7) Phitchaya Phothilimthana, Seung Yeon Lee and Zachary Pardos
+Modeling and Control of Resonant Switched Capacitor DC-DC Converter  (EECS-2018-6) Yongjun Li
+The Dark Net: De-Anonymization, Classification and Analysis  (EECS-2018-5) Rebecca Portnoff
+Transconductance Amplifier for SC Filter  (EECS-2018-4) Emile Kowalski
+Towards a Better Mechanistic Understanding of the Degradation Processes of Perovskite Solar Cells  (EECS-2018-3) Carlos Biaou
+Lambda: An Autograder for Snap!  (EECS-2018-2) Michael Ball
+Spawnpoint: Secure Deployment of Distributed, Managed Containers  (EECS-2018-1) John Kolb

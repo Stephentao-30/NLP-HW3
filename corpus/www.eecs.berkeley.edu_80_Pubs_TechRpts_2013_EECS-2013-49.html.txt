@@ -1,0 +1,39 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-49.html
+Towards Evidence-Based Assessment of Factors Contributing to the Introduction and Detection of Software Vulnerabilities
+Matthew Finifter
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-49
+May 8,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-49.pdf
+There is an entire ecosystem of tools, techniques, and processes designed to improve software security by preventing, finding, mitigating, and/or eliminating software vulnerabilities. Software vendors have this entire ecosystem to choose from during each phase of the software development lifecycle, which begins when someone identifies a software need, ends when the software vendor decides to halt support for the software, and includes everything in between.
+Unfortunately, guidance regarding which of these tools to choose is often non-existent or based solely on anecdotal evidence. In this dissertation, we present three studies to demonstrate that empirical studies can be used to enhance our understanding of the effectiveness of various tools and techniques intended to improve software security.
+In our first study, we use a data set of 9 implementations of the same software specification in order to explore the relationship between web application development tools and the security of the applications developed using those tools. We found evidence that framework support for avoiding security vulnerabilities influences application security, that we can expect manual framework support to continue to be problematic, and that manual code review and black-box penetration testing are complementary techniques.
+In our second study, we hire 30 code reviewers to perform manual security reviews of a content management system in an effort to better understand the effectiveness of manual security review as a technique for vulnerability discovery. We found that level of experience and education do not correlate with reviewer effectiveness at code review, that overall reviewer effectiveness is low, and that there is significant variation amongst reviewers.
+Finally, in our third study, we analyze a data set of rewards paid out over the course of two exemplar vulnerability rewards programs (VRPs), that of Google Chrome and Mozilla Firefox, in an effort to better understand the costs and benefits of such programs. We found that these VRPs appear economically efficient, comparing favorably to the cost of hiring full-time security researchers, that both programs have successfully encouraged broad community participation, and that Chrome’s VRP has uncovered more vulnerabilities than that of Firefox despite costing almost exactly the same amount.
+Advisors:  David Wagner
+BibTeX citation:
+@phdthesis{Finifter:EECS-2013-49,
+Author= {Finifter, Matthew},
+Title= {Towards Evidence-Based Assessment of Factors Contributing to the Introduction and Detection of Software Vulnerabilities},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-49.html},
+Number= {UCB/EECS-2013-49},
+Abstract= {There is an entire ecosystem of tools, techniques, and processes designed to improve software security by preventing, finding, mitigating, and/or eliminating software vulnerabilities. Software vendors have this entire ecosystem to choose from during each phase of the software development lifecycle, which begins when someone identifies a software need, ends when the software vendor decides to halt support for the software, and includes everything in between.
+Unfortunately, guidance regarding which of these tools to choose is often non-existent or based solely on anecdotal evidence. In this dissertation, we present three studies to demonstrate that empirical studies can be used to enhance our understanding of the effectiveness of various tools and techniques intended to improve software security.
+In our first study, we use a data set of 9 implementations of the same software specification in order to explore the relationship between web application development tools and the security of the applications developed using those tools. We found evidence that framework support for avoiding security vulnerabilities influences application security, that we can expect manual framework support to continue to be problematic, and that manual code review and black-box penetration testing are complementary techniques.
+In our second study, we hire 30 code reviewers to perform manual security reviews of a content management system in an effort to better understand the effectiveness of manual security review as a technique for vulnerability discovery. We found that level of experience and education do not correlate with reviewer effectiveness at code review, that overall reviewer effectiveness is low, and that there is significant variation amongst reviewers.
+Finally, in our third study, we analyze a data set of rewards paid out over the course of two exemplar vulnerability rewards programs (VRPs), that of Google Chrome and Mozilla Firefox, in an effort to better understand the costs and benefits of such programs. We found that these VRPs appear economically efficient, comparing favorably to the cost of hiring full-time security researchers, that both programs have successfully encouraged broad community participation, and that Chrome’s VRP has uncovered more vulnerabilities than that of Firefox despite costing almost exactly the same amount.},
+}
+EndNote citation:
+%0 Thesis
+%A Finifter, Matthew
+%T Towards Evidence-Based Assessment of Factors Contributing to the Introduction and Detection of Software Vulnerabilities
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 8
+%@ UCB/EECS-2013-49
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-49.html
+%F Finifter:EECS-2013-49

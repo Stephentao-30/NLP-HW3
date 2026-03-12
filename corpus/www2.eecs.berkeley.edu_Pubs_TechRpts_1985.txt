@@ -1,0 +1,131 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1985
+Technical Reports - 1985
+Static Semantics and Compiler Error Recovery  (CSD-85-251) Robert Paul Corbett
+The Berkeley UNIX 4.3BSD Time Synchronization Protocol  (CSD-85-250) Riccardo Gusella and Stefano Zatti
+Experiences with Ada Code Generation  (CSD-85-249) Benjamin G. Zorn
+An Implementation of a Remote Procedure Call Protocol in the Berkeley UNIX Kernel  (CSD-85-248) Karen White
+The Impact of Buffer Management on Networking Software Performance in Berkeley UNIX 4.2BSD: A Case Study  (CSD-85-247) Luis Felipe Cabrera, Michael J. Karels and David A. Mosher
+An Appraisal of the Instrumentation in Berkeley UNIX 4.2BSD  (CSD-85-246) Michael David Kupfer
+Performance Improvements and Functional Enhancements in 4.3BSD  (CSD-85-245) M. Kirk McKusick, Michael J. Karels and Samuel J. Leffler
+A Minimum-Area Circuit for l-Selection  (CSD-85-244) Pavol Duris, Ondrej Sykora, Clark D. Thompson and Imrich Vrto
+Signal Delay in RC Trees with Charge Sharing or Leakage  (CSD-85-243) Arvind Raghunathan and Clark D. Thompson
+Randomized Rounding: A Technique for Provably Good Algorithms and Algorithmic Proofs  (CSD-85-242) Prabhakar Raghavan and Clark D. Thompson
+Research Highlights in Computer Graphics at Berkeley  (CSD-85-241) Brian A. Barsky
+UniQuadrix  (CSD-85-240) Eugene Kenneth Ressler
+Line (Block) Size Choice for CPU Cache Memories  (CSD-85-239) Alan Jay Smith
+A Study of An Internet Protocol Implementation  (CSD-85-238) David A. Mosher
+Talking to Smalltalk  (CSD-85-237) Jeffrey Lo
+DFS925: A Distributed File System in a Workstation/LAN Environment  (CSD-85-236) Michelle Joy Arden
+A File System Tracing Package for Berkeley UNIX  (CSD-85-235) Songnian Zhou, Herve Da Costa and Alan Jay Smith
+A Multivariable Information Scheme to Balance the Load in a Distributed System  (CSD-85-234) Stefano Zatti
+TLB For Free: In-Cache Address Translation For A Multiprocessor Workstation  (CSD-85-233) Scott Allen Ritchie
+The Multibus Design Frame  (CSD-85-232) Gaetano Borriello, Randy H. Katz and Alan G. Bell
+Replicated Distributed Programs  (CSD-85-231) Eric Charles Cooper
+A Trace-Driven Analysis of the UNIX 4.2BSD File System  (CSD-85-230) John K. Ousterhout, Herve Da Costa, David Harrison, John A. Kunze, Michael Kupfer and James G. Thompson
+Cache Evaluation and the Impact of Workload Choice  (CSD-85-229) Alan Jay Smith
+Distributed Name Servers: Naming and Caching in Large Distributed Computing Environments  (CSD-85-228) Douglas Brian Terry
+The Understanding and Generation of Ellipses in a Natural Language System  (CSD-85-227) Lisa F. Rau
+SOAR Architecture  (CSD-85-226) Alan Dain Samples, Mike Klein and Pete Foley
+1985 VLSI Tools: More Works by the Original Artists  (CSD-85-225) Walter S. Scott, Gordon Hamachi, John Ousterhout and Robert N. Mayo
+Adding Remote File Access to Berkeley UNIX 4.2BSD Through Remote Mount  (CSD-85-224) Edward Hunter
+Performance of a Remote Instrumentation Program  (CSD-85-223) Michael Kupfer
+Sensitivity Study of the Clustering Approach to Workload Modeling  (CSD-85-222) Maria Calzarossa and Domenico Ferrari
+Memory Hierarchy Aspects of a Multiprocessor RISC: Cache and Bus Analyses  (CSD-85-221) Randy H. Katz, Susan J. Eggers, Garth A. Gibson, Paul Mark Hansen, Mark Donald Hill, J. M. Pendleton, Scott Allen Ritchie, George S. Taylor, David A. Wood and David A. Patterson
+Shallow Diffusion of GeSe in GaAs Using Rapid Thermal Annealing to Form Non-Alloyed Ohmic Contacts  (M85/104) N. Kepler
+A General Architecture for Data Link Layer Controllers  (M85/103) R. Cieslak and A. Fawaz
+Double Scroll Family: Part I - Rigorous Proof of Chaos; Part II - Rigorous Analysis of Bifurcation Phenomena  (M85/102) Leon O. Chua, M. Komuro and T. Matsumoto
+Transfer Maps and Return for Piecewise- Linear Three-Region Dynamical Systems  (M85/101) C. Kahlert and Leon O. Chua
+Canonical Nonlinear Programming Circuits  (M85/100) J.L. Huertas, A. Rueda, A. Rodriguez-Vazquez and Leon O. Chua
+On Stochastic Optimal Control Problems with Selection Among Different Costly Observations  (M85/99) S. Lafortune
+Devil's Staircase Route to Chaos in a Nonlinear Circuit  (M85/98) Leon O. Chua, Y. Yao and Q. Yang
+Van Der Pol and Chaos  (M85/97) M.P. Kennedy and Leon O. Chua
+High-Frequency Voltage Amplification and Comparison in a One-Micron NMOS Technology.  (M85/96) David C.-F. Soo
+The Design of POSTGRES  (M85/95) Michael Stonebraker and Lawrence A. Rowe
+Discrete Time Adaptive Control Utilizing Prior Information  (M85/94) E.W. Bai and S. Shankar Sastry
+An Algebraic Approach to Recursive Inference  (M85/93) Y.E. Ioannidis and Eugene Wong
+Nonlinear Averaging Theorems, and the Determination of Parameter Convergence Rates in Adaptive Control  (M85/92) M. Bodson, S. Shankar Sastry, B.D.O. Anderson, I. Mareels and R. Bitmead
+The Alfven Ion-Cyclotron Instability: Simulation Theory and Techniques  (M85/91) N.F. Otani
+Multirate Integration Properties of Waveform Relaxation with Application to Circuit Simulation and Parallel Computation  (M85/90) Jacob K. White
+a Design Methodology for VLSI Processors, Vol. II  (M85/89) J.M. Pendleton
+A Design Methodology for VLSI Processors, Vol. I  (M85/88) J.M. Pendleton
+Architectural Alternatives for Database Machines  (M85/87) Marguerite C. Murphy
+A High-Speed, High-Precision Comparator Design for a 10-Bit 15 MHz A/D Converter  (M85/86) T. Baji
+MOS Transistor Modeling and Characterization for Circuit Simulation  (M85/85) Bing J. Sheu
+Node Emulator Architecture for the U.C. Berkeley Protocol Workroom Facility  (M85/84) A. Fawaz, L. Ludwig and M. Peck
+A Flexible 10Mbps Channel Emulation System for Communications Research  (M85/83) A. Kao and L. Ludwig
+The PROTOCOL WORKROOM: An Experimental Protocol and Distributed Systems Research Facility for U.C. Berkeley  (M85/82) A. Fawaz, D. Giralt and L. Ludwig
+Parameter Identification Using Prior Information  (M85/81) E.W. Bai and S. Shankar Sastry
+Trigger System for Multiple Mirror Experiment  (M85/80) B.T. Archer, R.T. Hamilton and H. Meuth
+BSIM Parameter Extraction - Algorithms and User's Guide  (M85/79) M.C. Jeng, B.J. Sheu and P.K. Ko
+Computer Implementation of Two Topological Uniqueness Tests  (M85/78) T.S. Parker, M.P. Kennedy, Y. Liao and Leon O. Chua
+Extensions of Channel Routing Techniques and the Implementation of a Standard-Cell Placement and Routing System  (M85/77) D. Braun
+Characterization of Inorganic Resist for VLSI Fabrication  (M85/76) Wingyu Leung
+A State Transition Model for Distributed Query Processing  (M85/75) S. Lafortune and Eugene Wong
+Many-Dimensional Hamiltonian Systems  (M85/74) Michael A. Lieberman
+Specifying Integrated Circuit Photolithography Processes Using Heuristic and Algorithmic Techniques (Computer-Aided Design, Expert System)  (M85/73) Michael F. Klein
+Order Reducing Approximation of Two-Time- Scale Stochastic Discrete Linear Time- Varying Systems  (M85/72) N. Nordstrom
+On the Efficient Formulation of Worst Case Control System Design  (M85/71) Elijah Polak and D.M. Stimler
+Analytical Tools for System Restoration Conceptual Design  (M85/70) Felix F. Wu and A. Monticelli
+Experimental Confirmation of the Period-Adding Route to Chaos in a Nonlinear Circuit  (M85/69) L.Q. Pei, F. Guo, S.X. Wu and Leon O. Chua
+Computer-Aided Testing of A/D Converters Using Sinusoidal Fitting  (M85/68) M.L. Handler and M.J. Sabin
+Inclusion of New Types in Relational Data Dase Systems  (M85/67) Michael Stonebraker
+An Expert Database System for the Overland Search Problem  (M85/66) O. Gunther
+Waveform Relaxation: Theory and Practice  (M85/65) J. White, F. Odeh, Alberto L. Sangiovanni-Vincentelli and A. Ruehli
+Markov Processes on the Plane  (M85/64) Eugene Wong and M. Zakai
+A Novel Approach to the Dynamics of Flexible Beams Under Large Overall Motions- The Plane Case  (M85/63) J.C. Simo and L. Vu-Quoc
+A Conical Projection Algorithm for Linear Programming  (M85/61) C. Gonzaga
+Precision Analog to Digital and Digital to Analog Conversion Using Reference Recirculating Algorithmic Architectures  (M85/60) Cheng-Chung Shih
+Extending a Data Base System with Procedures  (M85/59) Michael Stonebraker, Jeff Anton and Eric Hanson
+A New Profit Maximization Methodology for Statistical Design of Integrated Circuits Part I: Problem Formulation  (M85/58) D. Riley and Alberto Sangiovanni-Vincentelli
+A System for Testing Custom Designed VLSI  (M85/57) J. Dinur
+Transient Chaotic Distributions in Dissipative Systems  (M85/56) K.Y. Tsang and Michael A. Lieberman
+SIMPL-2 (Simulated Profiles from the Layout - Version 2)  (M85/55) Keunmyung Lee
+Bounded Plasma Dynamics from Particle Simulations; Movie Script  (M85/54) C.K. Birdsall, T.L. Crystal, P.C. Gray and S. Kuhn
+Automated Synthesis in Multi-Level Combinational Logic in CMOS Technology  (M85/53) Mark E. Hofmann
+An Exact Penalty Function Algorithm for Control Problems with State and Control Constraints  (M85/52) D.Q. Mayne and Elijah Polak
+Simulation of Developed Resist Profiles for Masked Ion Beam Lithography (MIBL)  (M85/51) G.M. Atkinson
+Generalized Gradient Control Scheme for Robot Manipulators  (M85/50) B.E. Paden and S. Shankar Sastry
+Electric and Magnetic Field Measurements of MHD Modes in the Berkeley Multiple Mirror  (M85/49) R. Close
+Smalltalk on a RISC-CMOS Implementation  (M85/48) C.C. Marino
+Triggers and Inference in Data Base Systems  (M85/46) Michael Stonebraker
+Saturation Characteristics of Counterstreaming Warm Electrons  (M85/45) A. Wendt
+Chaos in a Switched Capacitor Circuit  (M85/44) A. Rodriguez-Vazquez, J.J. Huertas and Leon O. Chua
+Algebra Design of Linear Multivariable Feedback Systems  (M85/43) D.A. Desoer and A.N. Gündeş
+SPICE2 Implementation of BSIM  (M85/42) B.J. Sheu, D.L. Scharfetter and P.K. Ko
+Observation of a Curvature Driven, Trapped Particle Mode Created by a Potential Barrier  (M85/41) J.C. Fernandez, C.P. Chang, Allan J. Lichtenberg, Michael A. Lieberman and H. Meuth
+A Routing Toolbox for Interactive Custom IC Layout  (M85/40) D.E. Ryan
+Algorithms and Architecture for Multiprocessor-Based Circuit Simulation  (M85/39) Jeffrey T. Deutsch
+Synchronous Electron Beam Diagnostic for Plasma Etching Discharges  (M85/38) C.P. Chang and Michael A. Lieberman
+Partial Response Coding in Digital Subscriber Loops  (M85/37) N-S. Lin, David A. Hodges and David G. Messerschmitt
+Canonical Piecewise-Linear Analysis: Generalize Brake Point Hopping Algorithm  (M85/36) Leon O. Chua and A-C. Deng
+Canonical Piecewise-Linear Modeling  (M85/35) Leon O. Chua and A-C. Deng
+Time-of-Flight He+ Beam Potential Diagnostic in Tandem Mirror  (M85/34) B.T. Archer and Michael A. Lieberman
+Algorithms for Optimization Problems with Exclusion Constraints  (M85/33) D. Q. Mayne and Elijah Polak
+DELIGHT for Intermediates  (M85/32) B. Nye and D. Wang
+Three Dimensional Finite Strain Rod Model Part II: Computational Aspects  (M85/31) J.C. Simo and L. Vu-Quoc
+Bifurcation Phenomena in a Third Order Electrical Circuit  (M85/30) T. Matsumoto, Leon O. Chua and M. Komuro
+Timing Recovery in Digital Subscriber Loops  (M85/29) Chin-Pyng J. Tzeng
+Efficient Solution of the Variational Equation for Piece-Wise Linear Differential Equation  (M85/28) T.S. Parker and Leon O. Chua
+A State Model for the Concurrency Control Problem in Database Management Systems  (M85/27) S. Lafortune and Eugene Wong
+Transient Chaos in Dissipatively Perturbed Near-Integrable Hamiltonian Systems  (M85/26) Michael A. Lieberman and K.Y. Tsang
+Point-Matched Time Domain Finite Element Methods for Electromagnetic Radiation and Scattering  (M85/25) A.C. Cangellaris, C.C. Lin and Kenneth K. Mei
+Analysis of MOSFET LEVEL II Model in SPICE 2G.6  (M85/24) A.A. Malik
+Convergence and Finite-Time Behavior of Simulated Annealing  (M85/23) D. Mitra, F. Romeo and Alberto L. Sangiovanni-Vincentelli
+A Subthreshold Conduction Model for BSIM  (M85/22) A.H-C. Fung
+New Stability Theorems for Averaging and Their Applications to the Convergence Analysis of Adaptive Identification and Control Schemes  (M85/21) L-C. Fu, M. Bodson and S. Shankar Sastry
+Conditioned Invariant Subspaces, Disturbance Decoupling and Solutions of Rational Matrix Equations  (M85/20) Z. Li and S. Shankar Sastry
+High-Frequency CMOS Continuous Time Filters  (M85/19) Haideh Khorramabadi
+On the Mathematical Foundations of Nondifferentiable Optimization in Engineering Design  (M85/17) Elijah Polak
+YACR2: Yet Another Channel Router  (M85/16) J.B. Reed
+A Sequential Optimal Redesign Procedure for Linear Feedback Systems  (M85/15) Elijah Polak, S. Salcudean and D.Q. Mayne
+Building Block Layout: Routing Region Definition and Ordering Scheme  (M85/14) W.M. Dai, T. Asano and Ernest S. Kuh
+Solving Rational Matrix Equations in the State Space with Applications to Computer Aided Control System Design  (M85/13) A.K. Packard and S. Shankar Sastry
+Automatic Generation of Signal Processing Integrated Circuits  (M85/11) Stephen P. Pope
+Some Design Techniques for High-Performance MOS Circuits  (M85/10) S.I. Kong
+Decoupling of Linear Multivariable Plants by Dynamical Output Feedback: An Algebraic Theory  (M85/9) Charles A. Desoer and A.N. Gündeş
+Bounded Recursion in Deductive Databases  (M85/6) Y.E. Ioannidis
+LAGER: An Automated Layout Generating System for Digital Signal Processing Circuits. User Manual - Version 1.3  (M85/5) Jan M. Rabaey
+Robust Stability Under Additive Pertubrations: The Nonlinear Case  (M85/4) A. Bhaya and Charles A. Desoer
+Extended Domain Types and Specification of User Defined Operators  (M85/3) Eugene Wong
+BBL.2 User's Manual  (M85/2) N.-P. Chen, C.-C. Chen, C.-P. Hsu, H.H. Chen, Ernest S. Kuh and M. Marek-Sadowska
+Optimization of Extended Database Query Languages  (M85/1) T.K. Sellis and L. Shapiro

@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28829.html
+A Study in Operating System Performance Measurement and Modeling | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Study in Operating System Performance Measurement and Modeling
+A Study in Operating System Performance Measurement and Modeling
+David S. Lindsay and Domenico Ferrari
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M550
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-550.pdf
+BibTeX citation:
+@techreport{Lindsay:M550,
+Author = {Lindsay, David S. and Ferrari, Domenico},
+Title = {A Study in Operating System Performance Measurement and Modeling},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28829.html},
+Number = {UCB/ERL M550}
+}
+EndNote citation:
+%0 Report
+%A Lindsay, David S.
+%A Ferrari, Domenico
+%T A Study in Operating System Performance Measurement and Modeling
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M550
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28829.html
+%F Lindsay:M550

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29391.html
+Strong Structural Stability of Resistive Nonlinear n-Ports | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Strong Structural Stability of Resistive Nonlinear n-Ports
+Strong Structural Stability of Resistive Nonlinear n-Ports
+T. Matsumoto, G. Ikegami and L.O. Chua
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/14
+March 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-14.pdf
+BibTeX citation:
+@techreport{Matsumoto:M81/14,
+Author = {Matsumoto, T. and Ikegami, G. and Chua, L.O.},
+Title = {Strong Structural Stability of Resistive Nonlinear n-Ports},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29391.html},
+Number = {UCB/ERL M81/14}
+}
+EndNote citation:
+%0 Report
+%A Matsumoto, T.
+%A Ikegami, G.
+%A Chua, L.O.
+%T Strong Structural Stability of Resistive Nonlinear n-Ports
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29391.html
+%F Matsumoto:M81/14

@@ -1,0 +1,47 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-14.html
+Incentives, Computation, and Networks: Limitations and Possibilities of Algorithmic Mechanism Design
+Yaron Singer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-14
+January 20,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-14.pdf
+In the past decade, a theory of manipulation-robust algorithms
+has been emerging to address the challenges that frequently occur in strategic environments such as the internet.
+The theory, known as algorithmic mechanism design, builds on the foundations of classical mechanism design
+from microeconomics and is based on the idea of incentive compatible protocols.  Such protocols achieve
+system-wide objectives through careful design that ensures it is in
+every agent's best interest to comply with the protocol.
+As it turns out, however, implementing incentive compatible protocols as advocated in classical mechanism design theory often necessitates solving intractable problems.  To address this, algorithmic mechanism design focuses on designing computationally-feasible incentive compatible approximation algorithms.
+In the first part of this thesis we show the limitations of algorithmic mechanism design.  We introduce a novel class of problems which are approximable in the absence of strategic constraints, and have an optimal incentive compatible solution when no computational constraints are enforced; we show that, under standard computational assumptions, for this class of problems there is no algorithm with a reasonable approximation ratio that is both computationally feasible and incentive compatible.   This settles the central open question in algorithmic mechanism design which, since its inception, has been focused on trying to show the hardness of polynomial time incentive compatibility.
+In the second part of this thesis we show the possibilities of algorithmic mechanism design.  We introduce a novel class of problems where the bottleneck for implementation is the constraint on payments.  We show that for a broad class of these problems, there are incentive compatible mechanisms with desirable approximation guarantees that do not require overpayments.  By resulting to approximations, this result circumvents well known impossibility results from classical mechanism design theory that deem incentive compatibility to be infeasible under a budget.
+Advisors:  Christos Papadimitriou
+BibTeX citation:
+@phdthesis{Singer:EECS-2012-14,
+Author= {Singer, Yaron},
+Title= {Incentives, Computation, and Networks: Limitations and Possibilities of Algorithmic Mechanism Design},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-14.html},
+Number= {UCB/EECS-2012-14},
+Abstract= {In the past decade, a theory of manipulation-robust algorithms
+has been emerging to address the challenges that frequently occur in strategic environments such as the internet.
+The theory, known as algorithmic mechanism design, builds on the foundations of classical mechanism design
+from microeconomics and is based on the idea of incentive compatible protocols.  Such protocols achieve
+system-wide objectives through careful design that ensures it is in
+every agent's best interest to comply with the protocol.
+As it turns out, however, implementing incentive compatible protocols as advocated in classical mechanism design theory often necessitates solving intractable problems.  To address this, algorithmic mechanism design focuses on designing computationally-feasible incentive compatible approximation algorithms.
+In the first part of this thesis we show the limitations of algorithmic mechanism design.  We introduce a novel class of problems which are approximable in the absence of strategic constraints, and have an optimal incentive compatible solution when no computational constraints are enforced; we show that, under standard computational assumptions, for this class of problems there is no algorithm with a reasonable approximation ratio that is both computationally feasible and incentive compatible.   This settles the central open question in algorithmic mechanism design which, since its inception, has been focused on trying to show the hardness of polynomial time incentive compatibility.
+In the second part of this thesis we show the possibilities of algorithmic mechanism design.  We introduce a novel class of problems where the bottleneck for implementation is the constraint on payments.  We show that for a broad class of these problems, there are incentive compatible mechanisms with desirable approximation guarantees that do not require overpayments.  By resulting to approximations, this result circumvents well known impossibility results from classical mechanism design theory that deem incentive compatibility to be infeasible under a budget.},
+}
+EndNote citation:
+%0 Thesis
+%A Singer, Yaron
+%T Incentives, Computation, and Networks: Limitations and Possibilities of Algorithmic Mechanism Design
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 20
+%@ UCB/EECS-2012-14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-14.html
+%F Singer:EECS-2012-14

@@ -1,0 +1,100 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/triple_8h_source.html
+Compressed Sparse Blocks: triple.h Source File
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+triple.h
+Go to the documentation of this file.     1   #ifndef _TRIPLE_H_
+2   #define _TRIPLE_H_
+3
+4   #include <iostream>
+5   #include <functional>
+6   #include " utility.h "
+7   #include " spvec.h "
+8   using namespace  std;
+9
+10   template  < class  T,  class  ITYPE>
+11   struct  Triple
+12  {
+13      ITYPE  row ;   //  row index
+14      ITYPE  col ;   //  col index
+15      T  val ;       //  value
+16  };
+17
+18   template  < class  T,  class  ITYPE>
+19   struct  ColSortCompare :   // struct instead of class so that operator() is public
+20       public  binary_function< Triple<T, ITYPE>, Triple<T, ITYPE>, bool >   // (par1, par2, return_type)
+21      {
+22           inline   bool   operator() ( const   Triple<T, ITYPE>  & lhs,  const   Triple<T, ITYPE>  & rhs)  const
+23     {
+24               if (lhs. col   == rhs. col )
+25              {
+26                   return  lhs. row  < rhs. row ;
+27              }
+28               else
+29              {
+30                   return  lhs. col  < rhs. col ;
+31              }
+32          }
+33      };
+34
+35   template  < class  T,  class  ITYPE>
+36   struct  RowSortCompare :   // struct instead of class so that operator() is public
+37       public  binary_function< Triple<T, ITYPE>, Triple<T, ITYPE>, bool >   // (par1, par2, return_type)
+38      {
+39           inline   bool   operator() ( const   Triple<T, ITYPE>  & lhs,  const   Triple<T, ITYPE>  & rhs)  const
+40     {
+41               if (lhs. row   == rhs. row )
+42              {
+43                   return  lhs. col  < rhs. col ;
+44              }
+45               else
+46              {
+47                   return  lhs. row  < rhs. row ;
+48              }
+49          }
+50      };
+51
+52   template  < class  T,  class  ITYPE,  class  OTYPE>
+53   struct  BitSortCompare :   // struct instead of class so that operator() is public
+54       public  binary_function< Triple<T, ITYPE>, Triple<T, ITYPE>, bool >   // (par1, par2, return_type)
+55      {
+56           inline   bool   operator() ( const   Triple<T, ITYPE>  & lhs,  const   Triple<T, ITYPE>  & rhs)  const
+57     {
+58               return  BitInterleave<ITYPE, OTYPE>(lhs. row , lhs. col ) < BitInterleave<ITYPE, OTYPE>(rhs. row , rhs. col );
+59          }
+60      };
+61
+62   template  < typename  T,  typename  ITYPE>
+63   void   triples_gaxpy ( Triple<T, ITYPE>  * triples,  Spvec<T, ITYPE>  & x,  Spvec<T, ITYPE>  & y, ITYPE nnz)
+64  {
+65       for (ITYPE i=0; i< nnz; ++i)
+66      {
+67          y [triples[i]. row ] += triples[i].val * x [triples[i].col] ;
+68      }
+69  };
+70
+71
+72   #endif
+73
+BitSortCompare Definition:   triple.h:53
+BitSortCompare::operator() bool operator()(const Triple< T, ITYPE > &lhs, const Triple< T, ITYPE > &rhs) const  Definition:   triple.h:56
+triples_gaxpy void triples_gaxpy(Triple< T, ITYPE > *triples, Spvec< T, ITYPE > &x, Spvec< T, ITYPE > &y, ITYPE nnz) Definition:   triple.h:63
+Triple::col ITYPE col Definition:   triple.h:14
+ColSortCompare::operator() bool operator()(const Triple< T, ITYPE > &lhs, const Triple< T, ITYPE > &rhs) const  Definition:   triple.h:22
+RowSortCompare::operator() bool operator()(const Triple< T, ITYPE > &lhs, const Triple< T, ITYPE > &rhs) const  Definition:   triple.h:39
+Spvec Definition:   spvec.h:10
+spvec.h
+Triple::row ITYPE row Definition:   triple.h:13
+utility.h
+RowSortCompare Definition:   triple.h:36
+Triple Definition:   csc.h:12
+Triple::val T val Definition:   triple.h:15
+ColSortCompare Definition:   triple.h:19
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

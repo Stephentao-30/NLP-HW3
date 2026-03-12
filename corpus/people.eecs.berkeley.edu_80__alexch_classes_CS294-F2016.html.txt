@@ -1,0 +1,346 @@
+URL: http://people.eecs.berkeley.edu:80/~alexch/classes/CS294-F2016.html
+CS294 - Property Testing
+CS294: Property Testing (F2016)
+Basics
+Instructor(s):   Alessandro Chiesa, Igor Shinkar
+Teaching Assistant(s):   none
+Time:   W 13.00-16.00 (with food at half-time!)
+Location:   380 Soda Hall
+Office Hours:   fix appointment via email (to Alessandro or Igor)
+Course Description
+This course offers a graduate introduction to property testing, which studies how to detect structural properties of huge objects by only examining 'local views' of these objects. Property testing has its roots in the program checking and PCP literature, but has evolved into a thriving area of its own standing between algorithms and complexity theory; results are often characterized by relatively simple algorithms that are supported by a fairly complex analysis. (Sometimes invoking powerful results from additive combinatorics, extremal graph theory, and algebraic geometry.)
+Topics covered include:
+testing properties of boolean functions (linearity, dictators, juntas),
+testing properties of real functions (monotonicity, submodularity),
+testing algebraic properties of functions (low-degreeness in various settings),
+lower bounds (via communication complexity, via yes/no instances),
+testing graph properties (in the dense graph model, regularity, bipartiteness, k-colorability, triangle-freeness)
+Emphasis is on getting students up to speed for research in the area; lectures will often contain open problems or suggestions for future research.
+The Piazza website is  here .
+Prerequisites
+The official prerequisite is CS 170 (or equivalent). All students with "mathematical maturity" (ease with proofs, algorithms, elementary number theory, and discrete probability) and curiosity about property testing are welcome. Reviewing  standard probability inequalities  is helpful.
+Requirements
+Completing the course requires regular attendance/participation and a research project. Grading will be based 30% on attendance/participation, and 70% on the research project.
+Reading and Resources
+This course has no required textbook, but much of the material covered in class can be found online; we give specific references for each lecture. In addition, the following online resources could be helpful:
+Monograph:  Lecture notes on property testing  (Oded Goldreich)
+Talk:  Survey on low-degree testing  (Madhu Sudan)
+Course:  Sublinear algorithms  (Piotr Indyk & Ronitt Rubinfeld)
+Course:  Sublinear algorithms  (Sofya Raskhodnikova)
+Course:  Sublinear Time Algorithms in Learning and Property Testing  (Rocco Servedio)
+Blog:  Property testing review  (several authors)
+Assignments
+None.
+Schedule
+#
+Date
+Topic
+Reading
+1
+2016.08.24
+Introduction
+introduction to the course
+general formulation of property testing  [GGR98, introduction]
+testing linearity
+BLR test  [BLR90]
+analysis via majority decoding  [BLR90]
+testing regularity in the dense graph model
+via degree estimation
+[GGR98, Proposition 10.2.1.3 and Appendix D]
+via 2 queries (proximity oblivious testing)
+even two queries suffice to get information on regularity!
+[GS12, introduction and Section 3.1]
+Main:
+Blum Luby Rubinfeld 1990:  Self-testing/correcting with applications to numerical problems
+Goldreich Goldwasser Ron 1998:  Property testing and its connection to learning and approximation
+Additional:
+Goldreich Shinkar 2012:  Two-sided error proximity oblivious testing
+2
+2016.08.31
+Boolean Functions 1
+testing linearity over binary fields
+analysis via Fourier coefficients
+[BCHKS96, introduction and Section 2]
+3delta lower bound
+[BGLR93, Lemma 3.7]
+testing linear consistency
+BLR test with three functions
+[AHRS99, Section 4]
+efficient soundness amplification
+analysis of graph tests
+[HW03, Section 3]
+Main
+Bellare Coppersmith Håstad Kiwi Sudan 1996:  Linearity testing in characteristic two
+first connection of Fourier analysis and testing
+Aumann Håstad Rabin Sudan 1999:  Linear consistency testing
+modification of BLR that sends each query to a different function
+Håstad Wigderson 2003:  Simple analysis of graph tests for linearity and PCP
+efficient soundness amplification
+Additional:
+Bellare Goldwasser Lund Russel 1993:  Efficient probabilistically checkable proofs and applications to approximations
+Kaufman Litsyn Xie 2007:  Breaking the ε-soundness bound of the linearity test over GF(2)
+Kiwi 1996:  Probabilistically checkable proofs and the testing of Hadamard-like codes
+improved analysis of linearity testing over all finite fields
+Samorodnitsky Trevisan 2005:  Gowers uniformity, influence of variables, and PCPs
+3
+2016.09.07
+Boolean Functions 2
+testing dictators
+definition of dictator
+4-query test
+Håstad test
+[H01, Section 4]
+Rubinfeld's lecture notes
+testing juntas
+definition of k-junta
+[B09, Section 2]
+adaptive O(k*logk+k/ε)-query test
+[B09, Sections 3,4]
+Main:
+Håstad 2001:  Some optimal inapproximability results
+Blais 2009:  Testing juntas nearly optimally
+Additional on testing dictators and their applications:
+(video)  Håstad 2013:  Inapproximability of CSPs I
+(video)  Håstad 2013:  Inapproximability of CSPs II
+(video)  Håstad 2013:  Inapproximability of CSPs III
+(video)  Håstad 2013:  Inapproximability of CSPs IV
+(video)  Håstad 2013:  Inapproximability of CSPs V
+Additional on juntas:
+Fischer Kindler Ron Safra Samorodnitsky 2004:  Testing juntas
+polynomial-query tester
+Servedio Tan Wright 2015:  Adaptivity helps for testing juntas
+lower bound on non-adaptive testers for k-juntas
+Additional on PCP applications of Fourier analys:
+Khot Saket 2006:  A 3-query non-adaptive PCP with perfect completeness
+4
+2016.09.14
+Boolean Functions 3
+testing linear transformations
+regime of large agreement / small distance
+black-box use of BLR with union bound
+directly via majority decoding
+[V11, Section 7]
+regime of small agreement / large distance
+statement of Samorodnitsky's theorem
+[V11, Section 1]
+Balog-Szemerédi-Gowers Theorem
+[V11, Section 3]  (proof skipped in class)
+Rusza Theorem
+[V11, Section 4]
+decoding to a linear transformation
+[V11, Section 5]
+Main:
+Viola 2011:  Selected results in additive combinatorics: an exposition
+Additional:
+Samorodnitsky 2007:  Low-degree tests at large distances
+Lovett 2012:  An exposition of Sanders quasi-polynomial Freiman-Ruzsa theorem
+Lovett 2010:  Equivalence of polynomial conjectures in additive combinatorics
+Lovett 2013:  Additive combinatorics and its applications to TCS
+Trevisan 2007:  The unreasonable effectiveness of additive combinatorics in CS
+5
+2016.09.21
+Real Functions
+testing monotonicity
+adaptive tester for the line
+[EKKRV99, Section 2.1.2]
+non-adaptive tester for the line
+[EKKRV99, Section 2.1.1]
+testing submodularity
+[SV10]
+Main:
+Ergün Kannan Kumar Rubinfeld Viswanathan:  Spot checkers
+Seshadhri Vondrák 2010:  Is submodularity testable?
+More on testing monotonicity:
+Goldreich Goldwasser Lehman Ron Samorodnitsky 1999:  Testing monotonicity
+Khot Minzer Safra 2015:  On monotonicity testing and boolean isoperimetric type theorems
+Testing real functions for Lp distances:
+Berman Raskhodnikova Yaroslavtsev 2014:  Lp-testing
+Other cool topics about boolean functions that we do not have time to cover:
+Testing k-linearity
+Blais Kane 2012:  Testing properties of linear functions
+Majority is stablest
+Khot Kindler Mossel O’Donnell 2007:  Optimal inapproximability results for MAX‐CUT and other 2‐variable CSPs?
+Mossel O’Donnell Oleszkiewicz 2010:  Noise stability of functions with low influences: invariance and optimality
+(video)  Mossel 2013:  Majority is Stablest: Discrete and SOS
+6
+2016.09.28
+Low-Degree Polynomials 1
+definition of low-degree testing
+univariate polynomials
+d+2 random points (any ε)
+[S92, Section 3.1.1]
+d+2 random evenly-spaced points (ε ~ 1/d 2 )
+[S92, Section 3.1.2]
+multivariate polynomials
+total degree via random lines (ε ~ 1/d 2 )
+[S92, Section 3.2.1]
+bivariate polynomials
+individual degree via random row/column (ε ~ 1/d)
+[S92, Section 3.2.2]
+Main:
+Rubinfeld Sudan 1996:  Robust Characterizations of Polynomials with Applications to Program Testing
+Goldreich 2016:  Lecture notes on low-degree tests
+Additional:
+Sudan 1992:  Efficient checking of polynomials and proofs and the hardness of approximation problems
+(video)  Sudan 2015:  Robust low-degree testing
+Gemmel Lipton Rubinfeld Sudan Wigderson 1991:  Self-testing/correcting for polynomials and for approximate functions
+Friedl Sudan 2010:  Some improvements to total degree tests
+Initial uses of low-degree testing for probabilistic checking:
+Babai Fortnow Lund 1990:  Non-deterministic exponential time has two-prover interactive protocols
+MIP=NEXP
+Babai Fortnow Levin Szegedy 1991:  Checking computations in polylogarithmic time
+PCP=NEXP
+7
+2016.10.05
+Low-Degree Polynomials 2
+connection from total degree to individual degree
+redoing multivariate, but via bivariate (ε ~ 1/d)
+[S92, Section 3.2.3]
+bivariate polynomials (tighter analysis via Bézout)
+individual degree via random row/column (ε ~ constant)
+[PS94, Sections 3,4,5]
+Main:
+Rubinfeld Sudan 1996:  Robust Characterizations of Polynomials with Applications to Program Testing
+Polishchuk Spielman 1994:  Nearly linear-size holographic proofs
+Additional:
+Spielman 1995:  Computationally efficient error-correcting codes and holographic proofs
+Matoušek 2012:  The weak Bézout theorem
+Guth 2012:  Bézout theorem
+8
+2016.10.12
+Low-Degree Polynomials 3
+low-degree testing at large distances  [RS97]
+random planes tester
+[H10, Lecture 7, Section 7.1]
+equivalence of random planes and plane-vs-point
+[H10, Lecture 7, Section 7.2]
+analysis of plane-vs-point
+[H10, Lecture 8]
+Main:
+Lecture 7 of Harsha's 2010 course
+Lecture 8 of Harsha's 2010 course
+Raz Safra 1997:  A sub-constant error-probability low-degree test, and a sub-constant error-probability PCP characterization of NP
+Additional:
+Raz Moshkovitz 2008:  Sub-constant error low degree test of almost linear size
+9
+2016.10.19
+Tensor Product Codes
+testing tensor products of codes
+definition of tensor product codes
+[V11, Section 2.1]
+definition of locally testable codes
+[V11, Section 2.2]
+random axis-parallel hyperplane tester
+[V11, Appendix A]
+random axis-parallel plane tester
+[V11, Appendix C.1]
+Main:
+Ben-Sasson Sudan 2006:  Robust locally testable codes and products of codes
+Viderman 2011:  A combination of testability and decodability by tensor products
+Positive results for robust testability 2-wise tensor products:
+Dinur Sudan Wigderson 2006:  Robust local testability of tensor products of LDPC codes
+Ben-Sasson Viderman 2009:  Composition of semi-LTCs by two-wise tensor products
+Ben-Sasson Viderman 2009:  Tensor products of weakly smooth codes are robust
+Meir 2011:  On the rectangle method in proofs of robustness of tensor products
+Negative results for robust testability 2-wise tensor products:
+Valiant 2005:  The tensor product of two codes is not necessarily robustly testable
+Goldreich Meir 2007:  The tensor product of two good codes is not necessarily robustly testable
+Coppersmith Rudra 2005:  On the robust testability of product of codes
+Other cool topics that we do not have time to cover:
+Testing direct products
+Dinur Seurer 2013:  Direct product testing
+Impagliazzo Kabanets Wigderson 2009:  New direct-product testers and 2-query PCPs
+Impagliazzo Jaiswal Kabanets Wigderson 2010:  Uniform direct product theorems: simplified, optimized, and derandomized
+Polynomially low error
+Moshkovitz 2016:  Low degree test with polynomially small error
+Bhattacharyya Kopparty Schoenebeck Sudan Zuckerman 2010:  Optimal testing of Reed-Muller codes
+Alon Kaufman Krivelevich Litsyn Ron 2005:  Testing Reed-Muller codes
+10
+2016.10.26
+Lower Bounds
+via communication complexity
+for k-linearity
+[G16, Section 3]
+by showing YES and NO distributions
+paradigm
+[G16, Section 2]
+univariate polynomials (1- and 2-sided)
+1-sided graph regularity
+monotonicity over hypercubes
+[FLNRRS02, Section 7]
+Main:
+Goldreich 2016:  Notes for lower bounds techniques
+Blais Brody Matulef 2012:  Property testing lower bounds via communication complexity
+Fischer Lehman Newman Raskhodnikova Rubinfeld Samorodnitsky:  Monotonicity testing over general poset domains
+Additional:
+Bogdanov Trevisan 2004:  Lower bounds for testing bipartiteness in dense graphs
+X
+2016.11.02
+No class.
+No class.
+11
+2016.11.09
+Graph Properties 1
+introduction of the dense graph model
+definitions
+[GGR98, Section 5]
+testing bipartiteness
+sampling O(1/ε 2 ) vertices
+[GGR98, Section 6.1]
+testing k-colorability
+sampling O(k*log(k)/ε 2 ) vertices
+[AK02, Section 4]
+Main:
+Goldreich Goldwasser Ron 1998:  Property testing and its connection to learning and approximation
+Alon Krivelevich 2002:  Testing k-colorability
+More on upper and lower bounds for bipartiteness:
+Bogdanov Trevisan 2004:  Lower bounds for testing bipartiteness in dense graphs
+Bogdanov Li 2010:  A better tester for bipartiteness?
+12
+2016.11.16
+Graph Properties 2
+Szemerédi’s regularity lemma
+statement
+[V, Section 1]
+proof
+[V, Section 3]  (watch out for typos)
+[L, Section 1]
+testing triangle freeness
+triangle removal lemma
+[V, Section 2.3]
+[L, Section 3]
+distinguishing few vs many triangles
+[GS14, Section 3.4]
+Main:
+Szemerédi 1975:  Regular partitions of graphs
+Verstraëte:  Regularity lemma  (lecture notes)
+Lee:  Regularity lemma  (lecture notes)
+Additional:
+Alon Fischer Krivelevich Szegedy 2000:  Efficient testing of large graphs
+Alon 2002:  Testing subgraphs in large graphs
+Alon Fischer Newman Shapira 2009:  A combinatorial characterization of the testable graph properties: it's all about regularity
+Fox 2010: _ A new proof of the graph removal lemma_
+Alon Fox 2015:  Easily testable graph properties
+X
+2016.11.23
+No class.
+No class.
+13
+2016.11.30
+Research project presentations
+Schedule:
+1310-1330: HKN Evaluations
+1330-1350: Peter Manohar,  m-variate low degree testing
+1350-1410: Yuting Wei,  testing shape restriction of discrete distribution
+1410-1430: Aaron Schild,  local computation algorithms
+10-min break
+1440-1500: Pratyush Mishra,  PCP proof composition
+1500-1520: Pasin Manurangsi,  (2-eps) vertex cover hardness
+1520-1540: Xingyou Song,  submodular testing and optimization
+1540-1600: Daniel Shaw,  a combinatorial characterization of testable graph properties and regularity
+later on
+Benjamin Weitz,  another proof of the BLR test: generalizing to different domains
+X
+2016.12.07
+No class.
+No class.

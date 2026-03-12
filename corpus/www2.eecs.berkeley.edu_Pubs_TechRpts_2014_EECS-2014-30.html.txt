@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-30.html
+Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI
+Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI
+Stavros Tripakis and David Broman
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-30
+April 25, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-30.pdf
+FMI (Functional Mockup Interface) is a standard for exchanging and co-simulating model components (called FMUs) coming from potentially different modeling formalisms, languages, and tools. Previous work has proposed a formal model for the co-simulation part of the FMI standard, and also presented two co-simulation algorithms which can be proven to have desirable properties, such as determinacy, provided the FMUs satisfy a formal contract. In this paper we discuss the principles for encoding different modeling formalisms, including state machines, discrete-event systems, and synchronous dataflow, as FMUs. The challenge is to bridge the various semantic gaps (untimed vs. timed, signals vs. events, etc.) that arise because of the heterogeneity between these modeling formalisms and the FMI API.
+BibTeX citation:
+@techreport{Tripakis:EECS-2014-30,
+Author = {Tripakis, Stavros and Broman, David},
+Title = {Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-30.html},
+Number = {UCB/EECS-2014-30},
+Abstract = {FMI (Functional Mockup Interface) is a standard for exchanging and co-simulating model components (called FMUs) coming from potentially different modeling formalisms, languages, and tools. Previous work has proposed a formal model for the co-simulation part of the FMI standard, and also presented two co-simulation algorithms which can be proven to have desirable properties, such as determinacy, provided the FMUs satisfy a formal contract. In this paper we discuss the principles for encoding different modeling formalisms, including state machines, discrete-event systems, and synchronous dataflow, as FMUs. The challenge is to bridge the various semantic gaps (untimed vs. timed, signals vs. events, etc.) that arise because of the heterogeneity between these modeling formalisms and the FMI API.}
+}
+EndNote citation:
+%0 Report
+%A Tripakis, Stavros
+%A Broman, David
+%T Bridging the Semantic Gap Between Heterogeneous Modeling Formalisms and FMI
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 April 25
+%@ UCB/EECS-2014-30
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-30.html
+%F Tripakis:EECS-2014-30

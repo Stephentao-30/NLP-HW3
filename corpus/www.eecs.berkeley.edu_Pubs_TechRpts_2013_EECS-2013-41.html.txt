@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-41.html
+Designing plant dynamics to optimize task-specific closed-loop performance of brain-machine interfaces
+Suraj Gowda
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-41
+May 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-41.pdf
+Closed-loop brain-machine interface (BMI) systems are dynamical systems whose plant properties ultimately influence controllability. For instance, a 2D cursor in which velocity is controlled using a Kalman filter (KF) will, by default, model a correlation between horizontal and vertical velocity. In closed-loop, this translates to a “curling” dynamical effect, and such an effect is unlikely to be beneficial for BMI performance. However, there have been few empirical studies exploring how various dynamical effects of closed-loop BMIs ultimately influence performance. In this work, we utilize experimental data from a monkey subject performing closed-loop control of a 2D cursor BMI and show that the presence of certain dynamical properties correlate with performance loss. We also show that other dynamical properties represent tradeoffs between naturally competing objectives, such as speed versus accuracy. These empirical findings demonstrate the need to eliminate detrimental dynamics by accounting for the feedback control strategy employed by the user, as well as the need to fine-tune plant dynamics to optimize task-specific performance tradeoffs. To this end, we develop general-purpose tools for designing BMI plant dynamics. Using these tools, we show two different ways to improve accuracy and hold performance at the expense of speed. In a closed-loop BMI simulator, the two accuracy-optimized decoders, the symmetrically dampened (SD) velocity KF (SDVKF) and velocity linear system (SDVLS), had significantly better reaching accuracy than standard KF variants. In a closed-loop experiment, a monkey subject demonstrated significantly better holding performance and more accurate reaches at the cost of slightly slower reaches when operating the SDVKF than when operating the standard position/velocity KF. Thus, BMI design can be improved by using parameter estimation techniques that craft the BMI plant to both user and task.
+Advisors:  Jose M. Carmena
+BibTeX citation:
+@mastersthesis{Gowda:EECS-2013-41,
+Author= {Gowda, Suraj},
+Title= {Designing plant dynamics to optimize task-specific closed-loop performance of brain-machine interfaces},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-41.html},
+Number= {UCB/EECS-2013-41},
+Abstract= {Closed-loop brain-machine interface (BMI) systems are dynamical systems whose plant properties ultimately influence controllability. For instance, a 2D cursor in which velocity is controlled using a Kalman filter (KF) will, by default, model a correlation between horizontal and vertical velocity. In closed-loop, this translates to a “curling” dynamical effect, and such an effect is unlikely to be beneficial for BMI performance. However, there have been few empirical studies exploring how various dynamical effects of closed-loop BMIs ultimately influence performance. In this work, we utilize experimental data from a monkey subject performing closed-loop control of a 2D cursor BMI and show that the presence of certain dynamical properties correlate with performance loss. We also show that other dynamical properties represent tradeoffs between naturally competing objectives, such as speed versus accuracy. These empirical findings demonstrate the need to eliminate detrimental dynamics by accounting for the feedback control strategy employed by the user, as well as the need to fine-tune plant dynamics to optimize task-specific performance tradeoffs. To this end, we develop general-purpose tools for designing BMI plant dynamics. Using these tools, we show two different ways to improve accuracy and hold performance at the expense of speed. In a closed-loop BMI simulator, the two accuracy-optimized decoders, the symmetrically dampened (SD) velocity KF (SDVKF) and velocity linear system (SDVLS), had significantly better reaching accuracy than standard KF variants. In a closed-loop experiment, a monkey subject demonstrated significantly better holding performance and more accurate reaches at the cost of slightly slower reaches when operating the SDVKF than when operating the standard position/velocity KF. Thus, BMI design can be improved by using parameter estimation techniques that craft the BMI plant to both user and task.},
+}
+EndNote citation:
+%0 Thesis
+%A Gowda, Suraj
+%T Designing plant dynamics to optimize task-specific closed-loop performance of brain-machine interfaces
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 1
+%@ UCB/EECS-2013-41
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-41.html
+%F Gowda:EECS-2013-41

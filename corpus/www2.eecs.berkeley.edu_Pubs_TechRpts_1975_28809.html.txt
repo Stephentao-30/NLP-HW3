@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28809.html
+An Augmented Transition Network Interpreter | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+An Augmented Transition Network Interpreter
+An Augmented Transition Network Interpreter
+Rowland R. Johnson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M511
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-511.pdf
+BibTeX citation:
+@techreport{Johnson:M511,
+Author = {Johnson, Rowland R.},
+Title = {An Augmented Transition Network Interpreter},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28809.html},
+Number = {UCB/ERL M511}
+}
+EndNote citation:
+%0 Report
+%A Johnson, Rowland R.
+%T An Augmented Transition Network Interpreter
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M511
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28809.html
+%F Johnson:M511

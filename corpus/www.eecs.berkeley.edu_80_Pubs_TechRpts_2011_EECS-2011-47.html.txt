@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2011/EECS-2011-47.html
+The Elements of Automatic Summarization
+Daniel Jacob Gillick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2011-47
+May 12,
+2011
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-47.pdf
+This thesis is about automatic summarization, with experimental results on multi-document news topics: how to choose a series of sentences that best represents a collection of articles about one topic. I describe prior work and my own improvements on each component of a summarization system, including preprocessing, sentence valuation, sentence selection and compression, sentence ordering, and evaluation of summaries. The centerpiece of this work is an objective function for summarization that I call "maximum coverage". The intuition is that a good summary covers as many possible important facts or concepts in the original documents. It turns out that this objective, while computationally intractable in general, can be solved efficiently for medium-sized problems and has reasonably good fast approximate solutions. Most importantly, the use of an objective function marks a departure from previous algorithmic approaches to summarization.
+Advisors:  Nelson Morgan
+BibTeX citation:
+@phdthesis{Gillick:EECS-2011-47,
+Author= {Gillick, Daniel Jacob},
+Title= {The Elements of Automatic Summarization},
+School= {EECS Department, University of California, Berkeley},
+Year= {2011},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-47.html},
+Number= {UCB/EECS-2011-47},
+Abstract= {This thesis is about automatic summarization, with experimental results on multi-document news topics: how to choose a series of sentences that best represents a collection of articles about one topic. I describe prior work and my own improvements on each component of a summarization system, including preprocessing, sentence valuation, sentence selection and compression, sentence ordering, and evaluation of summaries. The centerpiece of this work is an objective function for summarization that I call "maximum coverage". The intuition is that a good summary covers as many possible important facts or concepts in the original documents. It turns out that this objective, while computationally intractable in general, can be solved efficiently for medium-sized problems and has reasonably good fast approximate solutions. Most importantly, the use of an objective function marks a departure from previous algorithmic approaches to summarization.},
+}
+EndNote citation:
+%0 Thesis
+%A Gillick, Daniel Jacob
+%T The Elements of Automatic Summarization
+%I EECS Department, University of California, Berkeley
+%D 2011
+%8 May 12
+%@ UCB/EECS-2011-47
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-47.html
+%F Gillick:EECS-2011-47

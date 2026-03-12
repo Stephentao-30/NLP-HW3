@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-193.html
+QUALCOMM: SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS
+Jie Luo
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-193
+December 1,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-193.pdf
+Wi-Fi Protect Setup (WPS) is a Wi-Fi configuration protocol that provides a secure and simple Wi-Fi setup process by PIN method and Push-Button method. At the moment, hacking activity and complex configuration process of Wi-Fi is still the main barrier for the developing of Internet of Things. A successful secure and simple Wi-Fi configuration is desired by increasing usage of Internet of Things. This paper proposed to introduce a new Wi-Fi configuration method depending on WPS protocol to simplify the connection process and improve the security level. The fundamental concept of configuration approach is using smartphone as the intermedia to connect Internet of Things and Access point (AP). The PIN number is dynamically displaying by external source, then the PIN information would by captured by smartphone to process the Wi-Fi configuration. The whole IoT device Wi-Fi setup depending on WPS would compress the configuration time from average 5 minutes to several seconds, which is drastically reduced complexity. Compared with traditional way of Wi-Fi setup method, a simple & secure Wi-Fi configuration relied relying on the physical signal communication would significantly improve the security level of current pure wireless sign-in method. On the other hand, any passphrase of small network such as home, office would not be necessary at all due to the very ubiquity of the smartphone in the near future.
+Advisors:  Bernhard Boser
+BibTeX citation:
+@mastersthesis{Luo:EECS-2013-193,
+Author= {Luo, Jie},
+Title= {QUALCOMM: SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-193.html},
+Number= {UCB/EECS-2013-193},
+Abstract= {Wi-Fi Protect Setup (WPS) is a Wi-Fi configuration protocol that provides a secure and simple Wi-Fi setup process by PIN method and Push-Button method. At the moment, hacking activity and complex configuration process of Wi-Fi is still the main barrier for the developing of Internet of Things. A successful secure and simple Wi-Fi configuration is desired by increasing usage of Internet of Things. This paper proposed to introduce a new Wi-Fi configuration method depending on WPS protocol to simplify the connection process and improve the security level. The fundamental concept of configuration approach is using smartphone as the intermedia to connect Internet of Things and Access point (AP). The PIN number is dynamically displaying by external source, then the PIN information would by captured by smartphone to process the Wi-Fi configuration. The whole IoT device Wi-Fi setup depending on WPS would compress the configuration time from average 5 minutes to several seconds, which is drastically reduced complexity. Compared with traditional way of Wi-Fi setup method, a simple & secure Wi-Fi configuration relied relying on the physical signal communication would significantly improve the security level of current pure wireless sign-in method. On the other hand, any passphrase of small network such as home, office would not be necessary at all due to the very ubiquity of the smartphone in the near future.},
+}
+EndNote citation:
+%0 Thesis
+%A Luo, Jie
+%T QUALCOMM: SIMPLE & SECURE WI-FI CONFIGURATION FOR INTERNET OF THINGS
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 1
+%@ UCB/EECS-2013-193
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-193.html
+%F Luo:EECS-2013-193

@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29148.html
+Necessary and Sufficient Condition for Robust Stability of Linear Distributed Feedback Systems
+M.J. Chen and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M81/58
+, 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-58.pdf
+BibTeX citation:
+@techreport{Chen:M81/58,
+Author= {Chen, M.J. and Desoer, C.A.},
+Title= {Necessary and Sufficient Condition for Robust Stability of Linear Distributed Feedback Systems},
+Year= {1981},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29148.html},
+Number= {UCB/ERL M81/58},
+}
+EndNote citation:
+%0 Report
+%A Chen, M.J.
+%A Desoer, C.A.
+%T Necessary and Sufficient Condition for Robust Stability of Linear Distributed Feedback Systems
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/58
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/29148.html
+%F Chen:M81/58

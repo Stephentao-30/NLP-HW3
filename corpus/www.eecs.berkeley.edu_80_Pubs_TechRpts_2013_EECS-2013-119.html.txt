@@ -1,0 +1,32 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-119.html
+Estimating the Resources for Quantum Computation with the QuRE Toolbox
+Martin Suchara and Arvin Faruque and Ching-Yi Lai and Gerardo Paz and Frederic Chong and John D. Kubiatowicz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-119
+May 31,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-119.pdf
+BibTeX citation:
+@techreport{Suchara:EECS-2013-119,
+Author= {Suchara, Martin and Faruque, Arvin and Lai, Ching-Yi and Paz, Gerardo and Chong, Frederic and Kubiatowicz, John D.},
+Title= {Estimating the Resources for Quantum Computation with the QuRE Toolbox},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-119.html},
+Number= {UCB/EECS-2013-119},
+}
+EndNote citation:
+%0 Report
+%A Suchara, Martin
+%A Faruque, Arvin
+%A Lai, Ching-Yi
+%A Paz, Gerardo
+%A Chong, Frederic
+%A Kubiatowicz, John D.
+%T Estimating the Resources for Quantum Computation with the QuRE Toolbox
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 31
+%@ UCB/EECS-2013-119
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-119.html
+%F Suchara:EECS-2013-119

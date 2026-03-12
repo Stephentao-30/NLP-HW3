@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/using-machine-learning-reinvent-cybersecurity-two-ways-song-and-popa
+Using machine-learning to reinvent cybersecurity two ways: Song and Popa - EECS at Berkeley
+EECS Prof. and alumna Dawn Song (Ph.D. ’02, advisor: Doug Tygar) and Assistant Prof. Raluca Ada Popa are featured in the cover story for the Spring 2020 issue of the Berkeley Engineer titled “Reinventing Cybersecurity.”  Faced with the challenge of protecting users’ personal data while recognizing that sharing access to that data “has fueled the modern-day economy” and supports scientific research, Song has proposed a paradigm that involves “controlled use” and an open source approach utilizing a new set of principles based on game theory.  Her lab is creating a platform that applies cryptographic techniques to both machine-learning models and hardware solutions, allowing users to keep their data safe while also making it accessible.  Popa’s work focuses on using machine-learning algorithms to keep data encrypted in cloud computing environments instead of just surrounding the data with firewalls.  “Sharing without showing” allows sensitive data to be made available for collaboration without decryption.  This approach is made practical by the creation of a machine-learning training system that is exponentially faster than other approaches. “So instead of training a model in three months, it takes us under three hours.”
+Categories
+Alumni
+Faculty
+publications
+Research
+View
+Open Faculty Positions

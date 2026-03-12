@@ -1,0 +1,37 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28472.html
+Foundations of Nonlinear Network Theory: Part II Losslessness | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Foundations of Nonlinear Network Theory: Part II Losslessness
+Foundations of Nonlinear Network Theory: Part II Losslessness
+J.L. Wyatt Jr., L.O. Chua, J.W. Gannett, I.C. Goknar and D.N. Green
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/3
+February 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-3.pdf
+BibTeX citation:
+@techreport{Wyatt Jr.:M80/3,
+Author = {Wyatt Jr., J.L. and Chua, L.O. and Gannett, J.W. and Goknar, I.C. and Green, D.N.},
+Title = {Foundations of Nonlinear Network Theory: Part II Losslessness},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28472.html},
+Number = {UCB/ERL M80/3}
+}
+EndNote citation:
+%0 Report
+%A Wyatt Jr., J.L.
+%A Chua, L.O.
+%A Gannett, J.W.
+%A Goknar, I.C.
+%A Green, D.N.
+%T Foundations of Nonlinear Network Theory: Part II Losslessness
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/3
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/28472.html
+%F Wyatt Jr.:M80/3

@@ -1,0 +1,37 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-221.html
+Engineering Autonomous Chemomechanical Nanomachines Using Brownian Ratchets
+Gabriel Lavella
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-221
+December 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-221.pdf
+Nanoscale machines which directly convert chemical energy into mechanical work are ubiquitous in nature and are employed to perform a diverse set of tasks such as transporting molecules, maintaining molecular gradients, and providing motion to organisms. Their widespread use in nature suggests that large technological rewards can be obtained by designing synthetic machines that use similar mechanisms.
+This thesis addresses the technological adaptation of a specific mechanism known as the Brownian ratchet for the design of synthetic autonomous nanomachines. My efforts were focused more specifically on synthetic chemomechanical ratchets which I deem will be broadly applicable in the life sciences. In my work I have theoretically explored the biophysical mechanisms and energy landscapes that give rise to the ratcheting phenomena and devised devices that operate off these principles.
+I demonstrate two generations of devices that produce mechanical force/deformation in response to a user specified ligand.  The first generation devices, fabricatied using a combination nanoscale lithographic processes and bioconjugation techniques, were used to provide evidence that the proposed ratcheting phenomena can be exploited in synthetic architectures. Second generation devices fabricated using self-assembled DNA/hapten motifs were constructed to gain a precise understanding of ratcheting dynamics and design constraints. In addition, the self-assembled devices enabled fabrication en masse, which I feel will alleviate future experimental hurdles in analysis and facilitate its adaptation to technologies.
+The product of these efforts is an architecture that has the potential to enable numerous technologies in biosensing and drug delivery. For example, the coupling of molecule-specific actuation to the release of drugs or signaling molecules from nanocapsules or porous materials could be transformative. Such architectures could provide possible avenues to pressing issues in biology and medicine: drugs could eventually be triggered to release in the presence of molecular signals indicative of diseased states, early disease detection could be achieved by examining the cell microenvironment then releasing imaging agents and generalized control could exerted over the free molecule signaling networks of cells.
+Advisors:  Michel Maharbiz
+BibTeX citation:
+@phdthesis{Lavella:EECS-2012-221,
+Author= {Lavella, Gabriel},
+Title= {Engineering Autonomous Chemomechanical Nanomachines Using Brownian Ratchets},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-221.html},
+Number= {UCB/EECS-2012-221},
+Abstract= {Nanoscale machines which directly convert chemical energy into mechanical work are ubiquitous in nature and are employed to perform a diverse set of tasks such as transporting molecules, maintaining molecular gradients, and providing motion to organisms. Their widespread use in nature suggests that large technological rewards can be obtained by designing synthetic machines that use similar mechanisms.
+This thesis addresses the technological adaptation of a specific mechanism known as the Brownian ratchet for the design of synthetic autonomous nanomachines. My efforts were focused more specifically on synthetic chemomechanical ratchets which I deem will be broadly applicable in the life sciences. In my work I have theoretically explored the biophysical mechanisms and energy landscapes that give rise to the ratcheting phenomena and devised devices that operate off these principles.
+I demonstrate two generations of devices that produce mechanical force/deformation in response to a user specified ligand.  The first generation devices, fabricatied using a combination nanoscale lithographic processes and bioconjugation techniques, were used to provide evidence that the proposed ratcheting phenomena can be exploited in synthetic architectures. Second generation devices fabricated using self-assembled DNA/hapten motifs were constructed to gain a precise understanding of ratcheting dynamics and design constraints. In addition, the self-assembled devices enabled fabrication en masse, which I feel will alleviate future experimental hurdles in analysis and facilitate its adaptation to technologies.
+The product of these efforts is an architecture that has the potential to enable numerous technologies in biosensing and drug delivery. For example, the coupling of molecule-specific actuation to the release of drugs or signaling molecules from nanocapsules or porous materials could be transformative. Such architectures could provide possible avenues to pressing issues in biology and medicine: drugs could eventually be triggered to release in the presence of molecular signals indicative of diseased states, early disease detection could be achieved by examining the cell microenvironment then releasing imaging agents and generalized control could exerted over the free molecule signaling networks of cells.},
+}
+EndNote citation:
+%0 Thesis
+%A Lavella, Gabriel
+%T Engineering Autonomous Chemomechanical Nanomachines Using Brownian Ratchets
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 December 1
+%@ UCB/EECS-2012-221
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-221.html
+%F Lavella:EECS-2012-221

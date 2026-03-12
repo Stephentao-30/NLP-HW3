@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-148.html
+A study of some problems in network information theory
+Sudeep Kamath
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-148
+August 15,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-148.pdf
+Shannon theory has been very successful in studying fundamental limits of communication in the classical setting, where one sender wishes to communicate a message to one receiver over an unreliable medium. The theory has also been successful in studying networks of small to moderate sizes, with multiple senders and multiple receivers. However, it has become well-known recently that understanding the fundamental limits of communication in a general network is a hard problem on numerous accounts.
+In this dissertation, we suggest that a significant aspect of the difficulty in studying limits of communication over networks lies in the unidirectional aspect of the problem. Under different assumptions that rid the problem of this particular aspect by introducing a suitable symmetry, either in the underlying network or in the traffic model, we find that simple schemes are approximately optimal in achieving these fundamental limits. We demonstrate this as a meta-theorem in the class of wireline networks and Gaussian networks. The key contribution driving these results is a new outer bound that we call the Generalized Network Sharing bound.
+We also study a problem of simulation of joint distributions in a non-interactive setup. Two agents observe correlated random variables and wish to simulate a certain joint distribution. We consider a non-asymptotic formulation of this problem and study tools that help prove impossibility results. We also study connections of this problem to existing problems in the literature.
+Advisors:  David Tse and Venkat Anantharam
+BibTeX citation:
+@phdthesis{Kamath:EECS-2013-148,
+Author= {Kamath, Sudeep},
+Title= {A study of some problems in network information theory},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Aug},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-148.html},
+Number= {UCB/EECS-2013-148},
+Abstract= {Shannon theory has been very successful in studying fundamental limits of communication in the classical setting, where one sender wishes to communicate a message to one receiver over an unreliable medium. The theory has also been successful in studying networks of small to moderate sizes, with multiple senders and multiple receivers. However, it has become well-known recently that understanding the fundamental limits of communication in a general network is a hard problem on numerous accounts.
+In this dissertation, we suggest that a significant aspect of the difficulty in studying limits of communication over networks lies in the unidirectional aspect of the problem. Under different assumptions that rid the problem of this particular aspect by introducing a suitable symmetry, either in the underlying network or in the traffic model, we find that simple schemes are approximately optimal in achieving these fundamental limits. We demonstrate this as a meta-theorem in the class of wireline networks and Gaussian networks. The key contribution driving these results is a new outer bound that we call the Generalized Network Sharing bound.
+We also study a problem of simulation of joint distributions in a non-interactive setup. Two agents observe correlated random variables and wish to simulate a certain joint distribution. We consider a non-asymptotic formulation of this problem and study tools that help prove impossibility results. We also study connections of this problem to existing problems in the literature.},
+}
+EndNote citation:
+%0 Thesis
+%A Kamath, Sudeep
+%T A study of some problems in network information theory
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 August 15
+%@ UCB/EECS-2013-148
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-148.html
+%F Kamath:EECS-2013-148

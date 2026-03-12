@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-215.html
+Wireless Sensing Applications for Critical Industrial Environments | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Wireless Sensing Applications for Critical Industrial Environments
+Wireless Sensing Applications for Critical Industrial Environments
+Fabien Joseph Chraim
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-215
+December 13, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-215.pdf
+The widespread deployment of the World Wide Web over the past few decades has connected people globally. The next logical step in this evolution was to connect people to their environment. As public interest in the aging infrastructure grew, so did the desire to make this infrastructure safer and more environmentally friendly. This required the development of low-power wireless sensor networks to monitor and control this infrastructure, the so-called Internet of Things. With the introduction of low-power communication standards rooted in the Time Slotted Channel Hopping (TSCH) mechanism, the ability to have sensors communicate robustly (99.999%) over long periods of time (10 years) using battery power, appears to have been largely achieved. This thesis is concerned with exploring three significant applications of these new communication networks. It also introduces two modeling tools useful in designing new applications for this space. A process automation solution centered around rotary valve position monitoring is presented first. The "peel-and-stick" MEMS device shows an accuracy of +/- 5 degrees for quarter-turn valves, and an accuracy of +/- 10% of a turn was obtained with the multi-turn valves. This cost-effective solution is designed to be densely deployed on most of the plant's rotary valves. Next, the design and implementation of fence line perimeter security application is developed and verified. Combining a MEMS accelerometer with a hypothesis testing algorithm, all 91 known intrusions were detected with no false alarms over a period of approximately two months. Finally, a wireless gas leak detection and localization is evaluated from a sensory swarm perspective. This application highlights the detection challenges when working with noisy sensors. A gas plume detection rate higher than 90% is demonstrated, with 7 false alarms over a period of three days and an average detection delay of 108s. In terms of localization, the system estimated the leak locations to within three meters of the actual leak source. The design of the new system tools is controlled by the energy trade-off between transmitting and locally processing captured data. This has direct implications on the Quality of Service (robustness, delay, lifetime, etc.). An adaptable energy consumption model for TSCH networks is presented and then generalized to an application energy consumption model. These design-time tools allow developers to understand the feasibility of the new application and to refine its hardware and software design in order to meet predefined specifications. The application energy model is presented by taking a motor vibration application as an example, while combining the sensing and communication hardware with energy scavenging. The work done in this thesis is experimental in nature and care is taken to bring the proposed ideas as close to real implementations as possible: the hardware is built using commercial off-the-shelf components, the networks are configured for the application at hand, and algorithms are devised and validated in each setting.
+BibTeX citation:
+@techreport{Chraim:EECS-2014-215,
+Author = {Chraim, Fabien Joseph},
+Title = {Wireless Sensing Applications for Critical Industrial Environments},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {Dec},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-215.html},
+Number = {UCB/EECS-2014-215},
+Abstract = {The widespread deployment of the World Wide Web over the past few decades has connected people globally. The next logical step in this evolution was to connect people to their environment. As public interest in the aging infrastructure grew, so did the desire to make this infrastructure safer and more environmentally friendly. This required the development of low-power wireless sensor networks to monitor and control this infrastructure, the so-called Internet of Things. With the introduction of low-power communication standards rooted in the Time Slotted Channel Hopping (TSCH) mechanism, the ability to have sensors communicate robustly (99.999%) over long periods of time (10 years) using battery power, appears to have been largely achieved.
+This thesis is concerned with exploring three significant applications of these new communication networks. It also introduces two modeling tools useful in designing new applications for this space. A process automation solution centered around rotary valve position monitoring is presented first. The "peel-and-stick" MEMS device shows an accuracy of +/- 5 degrees for quarter-turn valves, and an accuracy of +/- 10% of a turn was obtained with the multi-turn valves. This cost-effective solution is designed to be densely deployed on most of the plant's rotary valves. Next, the design and implementation of fence line perimeter security application is developed and verified. Combining a MEMS accelerometer with a hypothesis testing algorithm, all 91 known intrusions were detected with no false alarms over a period of approximately two months. Finally, a wireless gas leak detection and localization is evaluated from a sensory swarm perspective. This application highlights the detection challenges when working with noisy sensors. A gas plume detection rate higher than 90% is demonstrated, with 7 false alarms over a period of three days and an average detection delay of 108s. In terms of localization, the system estimated the leak locations to within three meters of the actual leak source.
+The design of the new system tools is controlled by the energy trade-off between transmitting and locally processing captured data. This has direct implications on the Quality of Service (robustness, delay, lifetime, etc.). An adaptable energy consumption model for TSCH networks is presented and then generalized to an application energy consumption model. These design-time tools allow developers to understand the feasibility of the new application and to refine its hardware and software design in order to meet predefined specifications. The application energy model is presented by taking a motor vibration application as an example, while combining the sensing and communication hardware with energy scavenging.
+The work done in this thesis is experimental in nature and care is taken to bring the proposed ideas as close to real implementations as possible: the hardware is built using commercial off-the-shelf components, the networks are configured for the application at hand, and algorithms are devised and validated in each setting.}
+}
+EndNote citation:
+%0 Report
+%A Chraim, Fabien Joseph
+%T Wireless Sensing Applications for Critical Industrial Environments
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 December 13
+%@ UCB/EECS-2014-215
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-215.html
+%F Chraim:EECS-2014-215

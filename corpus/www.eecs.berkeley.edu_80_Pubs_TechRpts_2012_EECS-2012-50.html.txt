@@ -1,0 +1,35 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2012/EECS-2012-50.html
+Advanced MOSFET Designs and Implications for SRAM Scaling
+Changhwan Shin
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-50
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-50.pdf
+Continued planar bulk MOSFET scaling is becoming increasingly difficult due to increased random variation in transistor performance with decreasing gate length, and thereby scaling of SRAM using minimum-size transistors is further challenging. This dissertation will discuss various advanced MOSFET designs and their benefits for extending density and voltage scaling of static memory (SRAM) arrays. Using three-dimensional (3-D) process and design simulations, transistor designs are optimized. Then, using an analytical compact model calibrated to the simulated transistor current-vs.-voltage characteristics, the performance and yield of six-transistor (6-T) SRAM cells are estimated. For a given cell area, fully depleted silicon-on-insulator (FD-SOI) MOSFET technology is projected to provide for significantly improved yield across a wide range of operating voltages, as compared with conventional planar bulk CMOS technology. Quasi-Planar (QP) bulk silicon MOSFETs are a lower-cost alternative and also can provide for improved SRAM yield. A more printable "notchless" QP bulk SRAM cell layout is proposed to reduce lithographic variations, and is projected to achieve six-sigma yield (required for terabit-scale SRAM arrays) with a minimum operating voltage below 1 Volt.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Shin:EECS-2012-50,
+Author= {Shin, Changhwan},
+Editor= {King Liu, Tsu-Jae and Nikolic, Borivoje and Haller, Eugene},
+Title= {Advanced MOSFET Designs and Implications for SRAM Scaling},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-50.html},
+Number= {UCB/EECS-2012-50},
+Abstract= {Continued planar bulk MOSFET scaling is becoming increasingly difficult due to increased random variation in transistor performance with decreasing gate length, and thereby scaling of SRAM using minimum-size transistors is further challenging. This dissertation will discuss various advanced MOSFET designs and their benefits for extending density and voltage scaling of static memory (SRAM) arrays. Using three-dimensional (3-D) process and design simulations, transistor designs are optimized. Then, using an analytical compact model calibrated to the simulated transistor current-vs.-voltage characteristics, the performance and yield of six-transistor (6-T) SRAM cells are estimated. For a given cell area, fully depleted silicon-on-insulator (FD-SOI) MOSFET technology is projected to provide for significantly improved yield across a wide range of operating voltages, as compared with conventional planar bulk CMOS technology. Quasi-Planar (QP) bulk silicon MOSFETs are a lower-cost alternative and also can provide for improved SRAM yield. A more printable "notchless" QP bulk SRAM cell layout is proposed to reduce lithographic variations, and is projected to achieve six-sigma yield (required for terabit-scale SRAM arrays) with a minimum operating voltage below 1 Volt.},
+}
+EndNote citation:
+%0 Thesis
+%A Shin, Changhwan
+%E King Liu, Tsu-Jae
+%E Nikolic, Borivoje
+%E Haller, Eugene
+%T Advanced MOSFET Designs and Implications for SRAM Scaling
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-50
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-50.html
+%F Shin:EECS-2012-50

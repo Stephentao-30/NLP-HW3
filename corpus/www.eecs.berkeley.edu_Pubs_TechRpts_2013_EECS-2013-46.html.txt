@@ -1,0 +1,56 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-46.html
+Communication Avoiding Rank Revealing QR Factorization with Column Pivoting
+James Demmel and Laura Grigori and Ming Gu and Hua Xiang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-46
+May 3,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-46.pdf
+In this paper we introduce CARRQR, a communication avoiding rank revealing QR
+factorization with tournament pivoting. We show that CARRQR reveals the numerical rank of a
+matrix in an analogous way to QR factorization with column pivoting (QRCP). Although the upper
+bound of a quantity involved in the characterization of a rank revealing factorization is worse for
+CARRQR than for QRCP, our numerical experiments on a set of challenging matrices show that this
+upper bound is very pessimistic, and CARRQR is an e
+ective tool in revealing the rank in practical
+problems.
+Our main motivation for introducing CARRQR is that it minimizes data transfer, modulo poly-
+logarithmic factors, on both sequential and parallel machines, while previous factorizations as QRCP
+are communication sub-optimal and require asymptotically more communication than CARRQR.
+Hence CARRQR is expected to have a better performance on current and future computers, where
+commmunication is a major bottleneck that highly impacts the performance of an algorithm.
+BibTeX citation:
+@techreport{Demmel:EECS-2013-46,
+Author= {Demmel, James and Grigori, Laura and Gu, Ming and Xiang, Hua},
+Title= {Communication Avoiding Rank Revealing QR Factorization with Column Pivoting},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-46.html},
+Number= {UCB/EECS-2013-46},
+Abstract= {In this paper we introduce CARRQR, a communication avoiding rank revealing QR
+factorization with tournament pivoting. We show that CARRQR reveals the numerical rank of a
+matrix in an analogous way to QR factorization with column pivoting (QRCP). Although the upper
+bound of a quantity involved in the characterization of a rank revealing factorization is worse for
+CARRQR than for QRCP, our numerical experiments on a set of challenging matrices show that this
+upper bound is very pessimistic, and CARRQR is an e
+ective tool in revealing the rank in practical
+problems.
+Our main motivation for introducing CARRQR is that it minimizes data transfer, modulo poly-
+logarithmic factors, on both sequential and parallel machines, while previous factorizations as QRCP
+are communication sub-optimal and require asymptotically more communication than CARRQR.
+Hence CARRQR is expected to have a better performance on current and future computers, where
+commmunication is a major bottleneck that highly impacts the performance of an algorithm.},
+}
+EndNote citation:
+%0 Report
+%A Demmel, James
+%A Grigori, Laura
+%A Gu, Ming
+%A Xiang, Hua
+%T Communication Avoiding Rank Revealing QR Factorization with Column Pivoting
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 3
+%@ UCB/EECS-2013-46
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-46.html
+%F Demmel:EECS-2013-46

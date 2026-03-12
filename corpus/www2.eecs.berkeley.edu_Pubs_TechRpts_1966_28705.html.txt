@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28705.html
+Shadows of Fuzzy Sets | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Shadows of Fuzzy Sets
+Shadows of Fuzzy Sets
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M336
+March 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-336.pdf
+BibTeX citation:
+@techreport{Zadeh:M336,
+Author = {Zadeh, L.A.},
+Title = {Shadows of Fuzzy Sets},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28705.html},
+Number = {UCB/ERL M336}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Shadows of Fuzzy Sets
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M336
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/28705.html
+%F Zadeh:M336

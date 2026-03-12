@@ -1,0 +1,12 @@
+URL: https://eecs.berkeley.edu/news/activeclean-tool-uses-machine-learning-clean-dirty-data-big-data-sets
+ActiveClean: a tool that uses machine learning to clean dirty data in big data sets - EECS at Berkeley
+AMPLab  researchers  Sanjay Krishnan , Prof.  Michael Franklin , Prof.  Ken Goldberg ,  Eugene Wu , and  Jiannan Wang  have developed  ActiveClean , a system that uses machine learning to improve the process of removing dirty data by analyzing a user’s prediction model to decide which mistakes to edit first, while updating the model as it works.  The demonstration paper titled “ ActiveClean: An Interactive Data Cleaning Framework For Modern Machine Learning ” received the Best Demo Award at SIGMOD 2016.
+ActiveClean is profiled in an  I Programmer article  and the development team led byEugene Wu (now at Columbia) will present its research on Sept. 7 in New Delhi, at the  2016 conference on Very Large Data Bases .
+Categories
+Faculty
+Research
+Related Links
+I Programmer: Columbia Creates Data Set Cleaner
+ActiveClean: An Interactive Data Cleaning Framework For Modern Machine Learning
+View
+Open Faculty Positions

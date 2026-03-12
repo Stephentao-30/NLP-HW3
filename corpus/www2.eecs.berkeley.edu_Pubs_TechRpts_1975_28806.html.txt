@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28806.html
+Graph-Theoretic Properties of Dynamic Nonlinear Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Graph-Theoretic Properties of Dynamic Nonlinear Networks
+Graph-Theoretic Properties of Dynamic Nonlinear Networks
+Leon O. Chua and Douglas N. Green
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M507
+March 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-507.pdf
+BibTeX citation:
+@techreport{Chua:M507,
+Author = {Chua, Leon O. and Green, Douglas N.},
+Title = {Graph-Theoretic Properties of Dynamic Nonlinear Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28806.html},
+Number = {UCB/ERL M507}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Green, Douglas N.
+%T Graph-Theoretic Properties of Dynamic Nonlinear Networks
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M507
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28806.html
+%F Chua:M507

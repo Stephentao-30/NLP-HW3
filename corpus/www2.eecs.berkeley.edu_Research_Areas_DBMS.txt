@@ -1,0 +1,66 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/DBMS
+Database Management Systems (DBMS)
+Overview
+Large-scale computing services revolve around the management, distribution, and analysis of massive data sets. For over 40 years, Berkeley has led the world in recognizing and advancing the centrality of data in computing. Faculty and students at Berkeley have repeatedly defined and redefined the broad field of data management, combining deep intellectual impact with the birth of multi-billion dollar industries, including relational databases, RAID storage, scalable Internet search, and big data analytics. Berkeley also gave birth to many of the most widely-used open source systems in the field including INGRES, Postgres, BerkeleyDB, and Apache Spark. Today, our research continues to push the boundaries of data-centric computing, taking the foundations of data management to a broad array of emerging scenarios.
+Database group website:
+db.cs.berkeley.edu
+Topics
+Declarative languages and runtime systems
+Design and implementation of declarative programming languages with applications to distributed systems, networking, machine learning, metadata management, and interactive visualization; design of query interface for applications.
+Scalable data analysis and query processing
+Scalable data processing in new settings, including interactive exploration, metadata management, cloud and serverless environments, and machine learning; query processing on compressed, semi-structured, and streaming data; query processing with additional constraints, including fairness, resource utilization, and cost.
+Consistency, concurrency, coordination and reliability
+Coordination avoidance, consistency and monotonicity analysis; transaction isolation levels and protocols; distributed analytics and data management, geo-replication; fault tolerance and fault injection.
+Data storage and physical design
+Hot and cold storage; immutable data structures; indexing and data skipping; versioning; new data types; implications of hardware evolution.
+Metadata management
+Data lineage and versioning; usage tracking and collective intelligence; scalability of metadata management services; metadata representations; reproducibility and debugging of data pipelines.
+Systems for machine learning and model management
+Distributed machine learning and graph analytics; physical and logical optimization of machine learning pipelines; online model management and maintenance; prediction serving; real-time personalization; latency-accuracy tradeoffs and edge computing for large-scale models; machine learning lifecycle management.
+Data cleaning, data transformation, and crowdsourcing
+Human-data interaction including interactive transformation, query authoring, and crowdsourcing; machine learning for data cleaning; statistical properties of data cleaning pipelines; end-to-end systems for crowdsourcing.
+Interactive data exploration and visualization
+Interactive querying and direct manipulation; scalable spreadsheets and data visualization; languages and interfaces for interactive exploration; progressive query visualization; predictive interaction.
+Secure data processing
+Data processing under homomorphic encryption; data compression and encryption; differential privacy; oblivious data processing; databases in secure hardware enclaves.
+Foundations of data management
+Optimal trade-offs between storage, quality, latency, and cost, with applications to crowdsourcing, distributed data management, stream data processing, version management; expressiveness, complexity, and completeness of data representations, query languages, and query processing; query processing with fairness constraints.
+Research Centers
+EPIC Data lab
+Sky Computing Lab
+Faculty
+Primary
+Alvin Cheung
+Natacha Crooks
+Ali Ghodsi
+Joseph Gonzalez
+Joseph M. Hellerstein  (coordinator)
+Jiantao Jiao
+Aditya Parameswaran
+Matei Zaharia
+Secondary
+Eric Brewer
+Michael Lustig
+Jelani Nelson
+Ion Stoica
+Faculty Awards
+ACM Prize in Computing:
+Eric Brewer, 2009.
+National Academy of Engineering (NAE) Member:
+Ion Stoica, 2024.
+Eric Brewer, 2007.
+American Academy of Arts and Sciences Member:
+Eric Brewer, 2018.
+Sloan Research Fellow:
+Natacha Crooks, 2025.
+Matei Zaharia, 2022.
+Aditya Parameswaran, 2020.
+Alvin Cheung, 2019.
+Jelani Nelson, 2017.
+Michael Lustig, 2013.
+Ion Stoica, 2003.
+Joseph M. Hellerstein, 1998.
+Eric Brewer, 1997.
+Related Courses
+CS 186. Introduction to Database Systems
+CS 262A. Advanced Topics in Computer Systems

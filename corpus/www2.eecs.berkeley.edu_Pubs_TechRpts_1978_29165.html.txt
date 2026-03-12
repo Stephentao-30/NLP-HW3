@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29165.html
+Modular Decomposition in Stochastic Transportation Networks | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Modular Decomposition in Stochastic Transportation Networks
+Modular Decomposition in Stochastic Transportation Networks
+A.W. Shogan
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/86
+September 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-86.pdf
+BibTeX citation:
+@techreport{Shogan:M78/86,
+Author = {Shogan, A.W.},
+Title = {Modular Decomposition in Stochastic Transportation Networks},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29165.html},
+Number = {UCB/ERL M78/86}
+}
+EndNote citation:
+%0 Report
+%A Shogan, A.W.
+%T Modular Decomposition in Stochastic Transportation Networks
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/86
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/29165.html
+%F Shogan:M78/86

@@ -1,0 +1,434 @@
+URL: https://people.eecs.berkeley.edu/~aydin/csb/html/utility_8h.html
+Compressed Sparse Blocks: utility.h File Reference
+Compressed Sparse Blocks
+1.2
+Main Page
+Classes
+Files
+File List
+File Members
+All   Classes   Files   Functions   Variables   Typedefs   Friends   Macros   Pages
+Classes  |
+Macros  |
+Functions  |
+Variables
+utility.h File Reference
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+#include <climits>
+#include <iostream>
+#include <cmath>
+#include <vector>
+#include <mmintrin.h>
+#include <xmmintrin.h>
+#include <emmintrin.h>
+#include <pmmintrin.h>
+#include <cilk/cilk_api.h>
+#include <cilk/cilk.h>
+Go to the source code of this file.
+Classes
+struct     int_least_helper< Category >
+struct     int_least_helper< 8 >
+struct     int_least_helper< 4 >
+struct     int_least_helper< 2 >
+struct     thread_data
+struct     absdiff< T >
+Macros
+#define    __int64    long long
+#define    SYNCHED     __cilkrts_synched ()
+#define    DETECT    __cilkscreen_enable_checking()
+#define    ENDDETECT    __cilkscreen_disable_checking()
+#define    WORKERS    __cilkrts_get_nworkers()
+#define    UNROLL    1
+#define    RHSDIM    1
+#define    BALANCETH    2
+#define    RBDIM    8
+#define    RBSIZE    ( RBDIM * RBDIM )
+#define    SLACKNESS    8
+#define    KBYTE    1024
+#define    L2SIZE    (256* KBYTE  /  RHSDIM )
+#define    CLSIZE    64
+#define    BREAKEVEN    4
+#define    MINNNZTOPAR    128
+#define    BREAKNRB    (8/ RBDIM )
+#define    MINNRBTOPAR    (256/ RBDIM )
+#define    LOGSERIAL    15
+#define    ROLLING    20
+#define    EPSILON    0.0001
+#define    REPEAT    10
+#define    absdiff (x, y)   ( (x) > (y) ? (x-y) : (y-x))
+Functions
+CILK_EXPORT __CILKRTS_NOTHROW int    __cilkrts_synched  (void)
+template<typename MTYPE >
+MTYPE    GetMaskTable  (unsigned int index)
+template<>
+uint64_t    GetMaskTable< uint64_t >  (unsigned int index)
+template<>
+unsigned short    GetMaskTable< unsigned short >  (unsigned int index)
+template<>
+unsigned char    GetMaskTable< unsigned char >  (unsigned int index)
+void    popcountall  (const uint64_t *__restrict M, unsigned *__restrict count, size_t size)
+void    popcountall  (const unsigned short *__restrict M, unsigned *__restrict count, size_t size)
+void    popcountall  (const unsigned char *__restrict M, unsigned *__restrict count, size_t size)
+template<typename T >
+void    printhistogram  (const T *scansum, size_t size, unsigned bins)
+unsigned int    highestbitset  (unsigned  __int64  v)
+template<typename MTYPE >
+unsigned    prescan  (unsigned *a, MTYPE *const M, int n)
+unsigned char *    aligned_malloc  (uint64_t size)
+void    aligned_free  (unsigned char *ptr)
+template<typename ITYPE >
+ITYPE    CumulativeSum  (ITYPE *arr, ITYPE size)
+template<typename T >
+T    machineEpsilon  ()
+template<typename _ForwardIter , typename T >
+void    iota  (_ForwardIter __first, _ForwardIter __last, T __value)
+template<typename T , typename I >
+T **    allocate2D  (I m, I n)
+template<typename T , typename I >
+void    deallocate2D  (T **array, I m)
+template<int D>
+void    MultAdd  (double &a, const double &b, const double &c)
+template<typename ITYPE >
+ITYPE    BitInterleaveLow  (ITYPE x, ITYPE y)
+template<typename ITYPE , typename OTYPE >
+OTYPE    BitInterleave  (ITYPE x, ITYPE y)
+template<unsigned BASE>
+unsigned    IntPower  (unsigned exponent)
+template<>
+unsigned    IntPower< 2 >  (unsigned exponent)
+template<typename T >
+bool    IsPower2  (T x)
+unsigned int    nextpoweroftwo  (unsigned int v)
+__int64     highestbitset  ( __int64  v)
+unsigned int    highestbitset  (unsigned int v)
+int    highestbitset  (int v)
+unsigned int    getModulo  (unsigned int n, unsigned int d)
+unsigned int    getDivident  (unsigned int n, unsigned int d)
+Variables
+void *    address
+void *    base
+const uint64_t    masktable64  [64]
+const unsigned short    masktable16  [16]
+const unsigned char    masktable4  [4] = { 0x08, 0x04, 0x02, 0x01 }
+unsigned    rmasks  [32]
+Macro Definition Documentation
+#define __int64   long long
+Definition at line  4  of file  utility.h .
+#define  absdiff
+(
+x,
+y
+)
+( (x) > (y) ? (x-y) : (y-x))
+Definition at line  147  of file  utility.h .
+#define BALANCETH   2
+Definition at line  127  of file  utility.h .
+#define BREAKEVEN   4
+Definition at line  136  of file  utility.h .
+#define BREAKNRB   (8/ RBDIM )
+Definition at line  138  of file  utility.h .
+#define CLSIZE   64
+Definition at line  133  of file  utility.h .
+#define DETECT   __cilkscreen_enable_checking()
+Definition at line  22  of file  utility.h .
+#define ENDDETECT   __cilkscreen_disable_checking()
+Definition at line  23  of file  utility.h .
+#define EPSILON   0.0001
+Definition at line  143  of file  utility.h .
+#define KBYTE   1024
+Definition at line  131  of file  utility.h .
+#define L2SIZE   (256* KBYTE  /  RHSDIM )
+Definition at line  132  of file  utility.h .
+#define LOGSERIAL   15
+Definition at line  140  of file  utility.h .
+#define MINNNZTOPAR   128
+Definition at line  137  of file  utility.h .
+#define MINNRBTOPAR   (256/ RBDIM )
+Definition at line  139  of file  utility.h .
+#define RBDIM   8
+Definition at line  128  of file  utility.h .
+#define RBSIZE   ( RBDIM * RBDIM )
+Definition at line  129  of file  utility.h .
+#define REPEAT   10
+Definition at line  144  of file  utility.h .
+#define RHSDIM   1
+Definition at line  125  of file  utility.h .
+#define ROLLING   20
+Definition at line  141  of file  utility.h .
+#define SLACKNESS   8
+Definition at line  130  of file  utility.h .
+#define SYNCHED    __cilkrts_synched ()
+Definition at line  21  of file  utility.h .
+#define UNROLL   1
+Definition at line  29  of file  utility.h .
+#define WORKERS   __cilkrts_get_nworkers()
+Definition at line  24  of file  utility.h .
+Function Documentation
+CILK_EXPORT __CILKRTS_NOTHROW int __cilkrts_synched
+(
+void
+)
+void aligned_free
+(
+unsigned char *
+ptr   )
+Definition at line  258  of file  utility.h .
+unsigned char* aligned_malloc
+(
+uint64_t
+size   )
+Definition at line  248  of file  utility.h .
+template<typename T , typename I >
+T** allocate2D
+(
+I
+m ,
+I
+n
+)
+Definition at line  302  of file  utility.h .
+template<typename ITYPE , typename OTYPE >
+OTYPE BitInterleave
+(
+ITYPE
+x ,
+ITYPE
+y
+)
+Definition at line  359  of file  utility.h .
+template<typename ITYPE >
+ITYPE BitInterleaveLow
+(
+ITYPE
+x ,
+ITYPE
+y
+)
+Definition at line  344  of file  utility.h .
+template<typename ITYPE >
+ITYPE CumulativeSum
+(
+ITYPE *
+arr ,
+ITYPE
+size
+)
+Definition at line  265  of file  utility.h .
+template<typename T , typename I >
+void deallocate2D
+(
+T **
+array ,
+I
+m
+)
+Definition at line  311  of file  utility.h .
+unsigned int getDivident
+(
+unsigned int
+n ,
+unsigned int
+d
+)
+inline
+Definition at line  502  of file  utility.h .
+template<typename MTYPE >
+MTYPE GetMaskTable
+(
+unsigned int
+index   )
+Definition at line  99  of file  utility.h .
+template<>
+uint64_t  GetMaskTable < uint64_t >
+(
+unsigned int
+index   )
+Definition at line  106  of file  utility.h .
+template<>
+unsigned char  GetMaskTable < unsigned char >
+(
+unsigned int
+index   )
+Definition at line  119  of file  utility.h .
+template<>
+unsigned short  GetMaskTable < unsigned short >
+(
+unsigned int
+index   )
+Definition at line  112  of file  utility.h .
+unsigned int getModulo
+(
+unsigned int
+n ,
+unsigned int
+d
+)
+inline
+Definition at line  496  of file  utility.h .
+unsigned int highestbitset
+(
+unsigned  __int64
+v   )
+Definition at line  423  of file  utility.h .
+__int64  highestbitset
+(
+__int64
+v   )
+Definition at line  442  of file  utility.h .
+unsigned int highestbitset
+(
+unsigned int
+v   )
+Definition at line  460  of file  utility.h .
+int highestbitset
+(
+int
+v   )
+Definition at line  479  of file  utility.h .
+template<unsigned BASE>
+unsigned IntPower
+(
+unsigned
+exponent   )
+inline
+Definition at line  373  of file  utility.h .
+template<>
+unsigned  IntPower < 2 >
+(
+unsigned
+exponent   )
+inline
+Definition at line  387  of file  utility.h .
+template<typename _ForwardIter , typename T >
+void iota
+(
+_ForwardIter
+__first ,
+_ForwardIter
+__last ,
+T
+__value
+)
+Definition at line  295  of file  utility.h .
+template<typename T >
+bool IsPower2
+(
+T
+x   )
+Definition at line  396  of file  utility.h .
+template<typename T >
+T machineEpsilon
+(
+)
+Definition at line  280  of file  utility.h .
+template<int D>
+void MultAdd
+(
+double &
+a ,
+const double &
+b ,
+const double &
+c
+)
+Definition at line  332  of file  utility.h .
+unsigned int nextpoweroftwo
+(
+unsigned int
+v   )
+Definition at line  401  of file  utility.h .
+void popcountall
+(
+const uint64_t *__restrict
+M ,
+unsigned *__restrict
+count ,
+size_t
+size
+)
+Definition at line  1273  of file  SSEspmv.cpp .
+void popcountall
+(
+const unsigned short *__restrict
+M ,
+unsigned *__restrict
+count ,
+size_t
+size
+)
+Definition at line  1253  of file  SSEspmv.cpp .
+void popcountall
+(
+const unsigned char *__restrict
+M ,
+unsigned *__restrict
+count ,
+size_t
+size
+)
+Definition at line  1232  of file  SSEspmv.cpp .
+template<typename MTYPE >
+unsigned prescan
+(
+unsigned *
+a ,
+MTYPE *const
+M ,
+int
+n
+)
+Definition at line  191  of file  utility.h .
+template<typename T >
+void printhistogram
+(
+const T *
+scansum ,
+size_t
+size ,
+unsigned
+bins
+)
+Definition at line  166  of file  utility.h .
+Variable Documentation
+void* address
+Definition at line  62  of file  utility.h .
+void* base
+Definition at line  63  of file  utility.h .
+const unsigned short masktable16[16]
+Initial value: = {0x8000, 0x4000, 0x2000, 0x1000, 0x0800, 0x0400, 0x0200, 0x0100,
+0x0080, 0x0040, 0x0020, 0x0010, 0x0008, 0x0004, 0x0002, 0x0001 }
+Definition at line  91  of file  utility.h .
+const unsigned char masktable4[4] = { 0x08, 0x04, 0x02, 0x01 }
+Definition at line  95  of file  utility.h .
+const uint64_t masktable64[64]
+Initial value: = {0x8000000000000000, 0x4000000000000000, 0x2000000000000000, 0x1000000000000000,
+0x0800000000000000, 0x0400000000000000, 0x0200000000000000, 0x0100000000000000,
+0x0080000000000000, 0x0040000000000000, 0x0020000000000000, 0x0010000000000000,
+0x0008000000000000, 0x0004000000000000, 0x0002000000000000, 0x0001000000000000,
+0x0000800000000000, 0x0000400000000000, 0x0000200000000000, 0x0000100000000000,
+0x0000080000000000, 0x0000040000000000, 0x0000020000000000, 0x0000010000000000,
+0x0000008000000000, 0x0000004000000000, 0x0000002000000000, 0x0000001000000000,
+0x0000000800000000, 0x0000000400000000, 0x0000000200000000, 0x0000000100000000,
+0x0000000080000000, 0x0000000040000000, 0x0000000020000000, 0x0000000010000000,
+0x0000000008000000, 0x0000000004000000, 0x0000000002000000, 0x0000000001000000,
+0x0000000000800000, 0x0000000000400000, 0x0000000000200000, 0x0000000000100000,
+0x0000000000080000, 0x0000000000040000, 0x0000000000020000, 0x0000000000010000,
+0x0000000000008000, 0x0000000000004000, 0x0000000000002000, 0x0000000000001000,
+0x0000000000000800, 0x0000000000000400, 0x0000000000000200, 0x0000000000000100,
+0x0000000000000080, 0x0000000000000040, 0x0000000000000020, 0x0000000000000010,
+0x0000000000000008, 0x0000000000000004, 0x0000000000000002, 0x0000000000000001 }
+Definition at line  73  of file  utility.h .
+unsigned rmasks[32]
+Initial value: = { 0x00000001, 0x00000002, 0x00000004, 0x00000008,
+0x00000010, 0x00000020, 0x00000040, 0x00000080,
+0x00000100, 0x00000200, 0x00000400, 0x00000800,
+0x00001000, 0x00002000, 0x00004000, 0x00008000,
+0x00010000, 0x00020000, 0x00040000, 0x00080000,
+0x00100000, 0x00200000, 0x00400000, 0x00800000,
+0x01000000, 0x02000000, 0x04000000, 0x08000000,
+0x10000000, 0x20000000, 0x40000000, 0x80000000 }
+Definition at line  150  of file  utility.h .
+Generated on Sun Mar 2 2014 21:16:24 for Compressed Sparse Blocks by
+1.8.6

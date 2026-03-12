@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28444.html
+Coherence and Alert States for Interconnected Power Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Coherence and Alert States for Interconnected Power Systems
+Coherence and Alert States for Interconnected Power Systems
+Shankar Sastry and Pravin Varaiya
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/57
+August 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-57.pdf
+BibTeX citation:
+@techreport{Sastry:M79/57,
+Author = {Sastry, Shankar and Varaiya, Pravin},
+Title = {Coherence and Alert States for Interconnected Power Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28444.html},
+Number = {UCB/ERL M79/57}
+}
+EndNote citation:
+%0 Report
+%A Sastry, Shankar
+%A Varaiya, Pravin
+%T Coherence and Alert States for Interconnected Power Systems
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/28444.html
+%F Sastry:M79/57

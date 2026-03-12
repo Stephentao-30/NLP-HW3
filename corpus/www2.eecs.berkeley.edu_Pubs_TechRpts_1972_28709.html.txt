@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28709.html
+A Theory of Algebraic N-Ports | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Theory of Algebraic N-Ports
+A Theory of Algebraic N-Ports
+L.O. Chua and Y-F Lam
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M344
+July 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-344.pdf
+BibTeX citation:
+@techreport{Chua:M344,
+Author = {Chua, L.O. and Lam, Y-F},
+Title = {A Theory of Algebraic N-Ports},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1972},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28709.html},
+Number = {UCB/ERL M344}
+}
+EndNote citation:
+%0 Report
+%A Chua, L.O.
+%A Lam, Y-F
+%T A Theory of Algebraic N-Ports
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M344
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28709.html
+%F Chua:M344

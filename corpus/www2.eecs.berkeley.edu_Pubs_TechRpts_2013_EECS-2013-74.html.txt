@@ -1,0 +1,39 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-74.html
+Android Application for Indoor Wi-Fi Layout
+Zhengyin Qian
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-74
+May 16,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-74.pdf
+The goal of this project is to develop an Android Phone App that can be used to measure dimensions of a room and overlay it with a Wi-Fi strength map. This is meant to address suboptimal arrangements of Wi-Fi router/access points, which result in a low speed/unstable/inaccessible Wi-Fi signal coverage in an indoor space. The motivation of the project is to reduce the cost of having a specialist to come to customers property to fix Wi-Fi coverage problems. The App developed will enable Android users to identify such problems themselves for free.
+There are two major tasks in this App. The first is to measure the room dimension. Camera and Orientation API calls are used to achieve the first task. A user will point his/her Android phone to subsequent corners of a room. Orientation API call provides the Euler angle reading and a real time algorithm, using trigonometric geometry, computes the lengths of each wall measured. Some simple optimizations are then
+applied to generate the final dimension and coordinates. All measured rooms will be assigned a specific ID and passed to another Android Activity to be displayed
+The second task is overlaying the measured rooms with Wi-Fi strength map. An initial map is generated once a user finishes measuring the room. In addition, the user can collect Wi-Fi strength data at 4 corners of the room to improve the map accuracy. The data is provided by the Wi-Fi API calls and associated to corresponding location. After a user has collected enough data points, the App will perform an interpolation based on finite discrete data points. A second order interpolation is used in this estimation algorithm. The Wi-Fi strength is then color-coded and overlaid on the existing floor plan.
+The methods used in this project are simple and effective. The final product developed is the first working App that combines room dimension measurement and Wi-Fi strength measurement, and will be further embedded by QualComm in their future projects.
+Advisors:  Pieter Abbeel
+BibTeX citation:
+@mastersthesis{Qian:EECS-2013-74,
+Author= {Qian, Zhengyin},
+Title= {Android Application for Indoor Wi-Fi Layout},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-74.html},
+Number= {UCB/EECS-2013-74},
+Abstract= {The goal of this project is to develop an Android Phone App that can be used to measure dimensions of a room and overlay it with a Wi-Fi strength map. This is meant to address suboptimal arrangements of Wi-Fi router/access points, which result in a low speed/unstable/inaccessible Wi-Fi signal coverage in an indoor space. The motivation of the project is to reduce the cost of having a specialist to come to customers property to fix Wi-Fi coverage problems. The App developed will enable Android users to identify such problems themselves for free.
+There are two major tasks in this App. The first is to measure the room dimension. Camera and Orientation API calls are used to achieve the first task. A user will point his/her Android phone to subsequent corners of a room. Orientation API call provides the Euler angle reading and a real time algorithm, using trigonometric geometry, computes the lengths of each wall measured. Some simple optimizations are then
+applied to generate the final dimension and coordinates. All measured rooms will be assigned a specific ID and passed to another Android Activity to be displayed
+The second task is overlaying the measured rooms with Wi-Fi strength map. An initial map is generated once a user finishes measuring the room. In addition, the user can collect Wi-Fi strength data at 4 corners of the room to improve the map accuracy. The data is provided by the Wi-Fi API calls and associated to corresponding location. After a user has collected enough data points, the App will perform an interpolation based on finite discrete data points. A second order interpolation is used in this estimation algorithm. The Wi-Fi strength is then color-coded and overlaid on the existing floor plan.
+The methods used in this project are simple and effective. The final product developed is the first working App that combines room dimension measurement and Wi-Fi strength measurement, and will be further embedded by QualComm in their future projects.},
+}
+EndNote citation:
+%0 Thesis
+%A Qian, Zhengyin
+%T Android Application for Indoor Wi-Fi Layout
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 16
+%@ UCB/EECS-2013-74
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-74.html
+%F Qian:EECS-2013-74

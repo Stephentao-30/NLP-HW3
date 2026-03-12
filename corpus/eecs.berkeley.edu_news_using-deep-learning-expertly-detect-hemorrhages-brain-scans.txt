@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/using-deep-learning-expertly-detect-hemorrhages-brain-scans
+Using deep learning to expertly detect hemorrhages in brain scans - EECS at Berkeley
+A computer algorithm co-developed by Vision Group alumnus Weicheng Kuo (Ph.D. ’19), post doc Christian Hӓne, their advisor Prof. Jitendra Malik, and researchers at UCSF, bested two out of four expert radiologists at finding tiny brain hemorrhages in head scans, an advance that one day may help doctors treat patients with traumatic brain injuries, strokes and aneurysms.  The algorithm found some small abnormalities that the experts missed, noted their location within the brain, and classified them according to subtype.  T he researchers used of a type of deep learning known as a fully convolutional neural network (FCN) to train the algorithm on a relatively small number of images that were packed with data.  Each small abnormality was manually delineated at the pixel level. The richness of this data — along with other steps that prevented the model from misinterpreting random variations, or “noise,” as meaningful — created an extremely accurate algorithm.
+Categories
+Alumni
+Faculty
+publications
+Research
+View
+Open Faculty Positions

@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-18.html
+Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling
+Jethro Beekman and Christopher Thompson
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-18
+March 19,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-18.pdf
+T-Mobile has a service called “Wi-Fi Calling”, which lets users make and receive calls even when without cellular service. This service is pre-installed on millions of T-Mobile Android smartphones. We analyze the security aspects of this service from a network perspective, and demonstrate a man-in-the-middle attack caused by a lack of TLS certificate validation, allowing an attacker to eavesdrop and even modify calls and text messages placed using the Wi-Fi Calling feature. We have worked with T-Mobile to fix this issue, and, as of 18 March 2013, they report that all affected customers have received an update fixing this vulnerability.
+BibTeX citation:
+@techreport{Beekman:EECS-2013-18,
+Author= {Beekman, Jethro and Thompson, Christopher},
+Title= {Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling},
+Year= {2013},
+Month= {Mar},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-18.html},
+Number= {UCB/EECS-2013-18},
+Abstract= {T-Mobile has a service called “Wi-Fi Calling”, which lets users make and receive calls even when without cellular service. This service is pre-installed on millions of T-Mobile Android smartphones. We analyze the security aspects of this service from a network perspective, and demonstrate a man-in-the-middle attack caused by a lack of TLS certificate validation, allowing an attacker to eavesdrop and even modify calls and text messages placed using the Wi-Fi Calling feature. We have worked with T-Mobile to fix this issue, and, as of 18 March 2013, they report that all affected customers have received an update fixing this vulnerability.},
+}
+EndNote citation:
+%0 Report
+%A Beekman, Jethro
+%A Thompson, Christopher
+%T Man-in-the-Middle Attack on T-Mobile Wi-Fi Calling
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 March 19
+%@ UCB/EECS-2013-18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-18.html
+%F Beekman:EECS-2013-18

@@ -1,0 +1,99 @@
+URL: https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/heaven-point
+Heaven Point Formula - EECS at Berkeley
+Heaven Point Formula
+The EECS workload formula, as adopted by the EECS faculty in 1981, and amended in 1982, 1990, and 2004, is below. As stated in the original document, the main goal of this formula is to evaluate the teaching workload of a faculty member in the interest of fairness and accountability.
+The load represented by a regularly-scheduled non-seminar course is calculated by the following formula:
+(# of lecture hours + lab credit)*(weighting factor)
+A course with a lab shall have its defined lecture hours increased by .35 in the workload computation (for the first section only of a multi-section course). The lab credit will normally be divided equally among all instructors of a multiple-section lab course. However, exceptions are encouraged. Advise the scheduling officer if one instructor will take all the responsibility, and all the credit, for a lab.
+The weighting factor for a course is determined by its enrollment, as shown on the registrar’s grade list. Small graduate courses are treated differently than small undergraduate courses for policy reasons: resources devoted to small undergraduate courses should be allocated elsewhere, if possible, but small graduate courses are inevitable in some of our smaller sub-programs. The upper limit of the workload for a single course, no matter how large, is 8.0.
+The weighting factor for an undergraduate course is determined by the following piecewise-linear curve:
+N=enrollment
+W=weighting factor
+if N≤5, W=0.0
+if 5<N<10, W=.1*N
+if 10<N<=30, W=1.0
+if 30<N, W=1+.005*(N-30)
+The weighting factor for graduate courses is:
+N=enrollment
+W=weighting factor
+if 0<N<5, W=.2*N
+if 5<N<=30, W=1.0
+if 30<N, W=1+.005*(N-30)
+Here is a graphical representation of the formula. The pink line represents the graduate course formula, and the blue line represents the undergraduate course formula:
+The number of lecture hours for a course is the number of hours each week of regularly scheduled lectures (e.g., 3 for a MWF 9-10 class). Courses without assigned lectures (such as lab courses and self-paced courses) are assigned .75 defined lecture hours; these lecture hours are scaled by enrollment as is shown above.
+An instructor teaching multiple sections of a course in a given semester shall have the workload credit computed as follows: the initial credit shall be the credit for the course as if all students were in one section (including any credits that are due, such as lab credits, etc.). The credit for any additional sections shall be .6 times the number of lecture hours for each section. The total credit shall be the sum of the initial credit and the credits for the additional sections.
+If a course is team-taught, the teaching credit for the course shall be divided among the faculty involved in proportion to their work in the course. In the absence of other information, workload credit shall be divided equally. If multiple faculty teach an undergraduate course with more than 100 students, and each attends all lectures, the teaching credit for the course will be multiplied by 4/3 and shared equally. If team teaching is done at the request of the department, then additional workload credit may be offered.
+The enrollment for courses cross-listed with other departments shall be the total number of students taking the course, not just those enrolled via EECS.
+Workload credit for the teaching of discussion sections shall be given only when this is done at the request of the department. While faculty involvement in teaching laboratories may be educationally desirable in special situations, as a general rule workload credit for the teaching of laboratory sessions shall be given only if done at the request of the department.
+The chairs are empowered to grant teaching workload reductions (heaven point credits) for administrative assignments and other purposes. By tradition, such reductions go to the chairs and vice chairs of the department and the division, and the director of ERSO. All reductions shall be discussed with the scheduling officer, and shall be documented in writing, with copies of the documentation to be kept by both the scheduling officer and the CS/EECS office. Workload reductions for new faculty are granted on an ad hoc basis and shall also be documented.
+The chairs are empowered to grant additional credit for the teaching of a course new to a faculty member or to the department. This credit is offered only by specific arrangement, and not by default. The additional credits shall be discussed with the scheduling officer and shall be documented in writing.
+Additional workload credit accrues to instructors who perform any instructional activity that the scheduling officer deems worthy of exceptional treatment.
+The normal workload quota (“heaven points”) for a full time faculty member with no reduction due to leaves, sabbaticals, or administrative assignments, shall be 8.0.
+The normal workload quota (“heaven points”) for a full time lecturer is 18.0.
+Approved research and industrial leaves shall reduce an instructor’s workload quota in direct proportion to the percentage of leave; e.g., a 25% research leave over an academic year would reduce an instructor’s workload quota to 6.0.
+Approved sabbatical leaves and leaves in lieu of sabbatical shall reduce an instructor’s workload quota to 0 for the semester or academic year in which the leave is taken.
+The intention of this policy is that teaching loads be openly documented. To this end, yearly summaries of the faculty’s teaching load will be distributed to all faculty members at the end of the spring semester, as well as a copy of one’s own “balance sheet.” For spring semester, fifth week enrollment figures may be used. (All balance sheets will be open for inspection by any interested faculty member.)
+The appropriate yearly workload quota will be deducted from each faculty member’s balance sheet at the end of each academic year. Faculty members who show a net workload deficit will be expected to “work their way out of debt” in future years.
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

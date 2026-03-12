@@ -1,0 +1,38 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-52.html
+Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides
+Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides
+Meriem Ben Salah Ep Akin, Lutz Rissing and Elke Pichler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-52
+May 3, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-52.pdf
+In this work, we conduct a numerical investigation of the structural feasibility of a flexible, monolithic and planar opto-electronic system based on low Tg polymers using ANSYS™. In particular, we explore the effectiveness of two eutectic compounds 52w.%In 48w.%Sn and 58w.%Bi 42w.%Sn to solder light sources and sinks to multimode light waveguides. First, we analyze the warpage of the optical structures due to eutectic soldering. Furthermore, we study the spectrum of mechanical stresses within the eutectic layer. Then, we investigate the possibility of roll-to-roll mass production. Finally, we establish design guidelines for decreasing the system warpage, and consequently preserving optical alignment, while complying with the ultimate shear strength of the eutectic material.
+BibTeX citation:
+@techreport{Ben Salah Ep Akin:EECS-2014-52,
+Author = {Ben Salah Ep Akin, Meriem and Rissing, Lutz and Pichler, Elke},
+Title = {Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-52.html},
+Number = {UCB/EECS-2014-52},
+Abstract = {In this work, we conduct a numerical investigation of the structural feasibility of a flexible, monolithic and planar opto-electronic system based on low Tg polymers using ANSYS™. In particular, we explore the effectiveness of two eutectic compounds 52w.%In 48w.%Sn and 58w.%Bi 42w.%Sn to solder light sources and sinks to multimode light waveguides. First, we analyze the warpage of the optical structures due to eutectic soldering. Furthermore, we study the spectrum of mechanical stresses within the eutectic layer. Then, we investigate the possibility of roll-to-roll mass production. Finally, we establish design guidelines for decreasing the system warpage, and consequently preserving optical alignment, while complying with the ultimate shear strength of the eutectic material.}
+}
+EndNote citation:
+%0 Report
+%A Ben Salah Ep Akin, Meriem
+%A Rissing, Lutz
+%A Pichler, Elke
+%T Design guidelines for efficient eutectic soldering onto low Tg polymeric multimode light waveguides
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 3
+%@ UCB/EECS-2014-52
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-52.html
+%F Ben Salah Ep Akin:EECS-2014-52

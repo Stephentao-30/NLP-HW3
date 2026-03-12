@@ -1,0 +1,10 @@
+URL: https://eecs.berkeley.edu/news/matthias-vallentin-and-vern-paxson-take-vast-step-forward-cyber-security
+Matthias Vallentin and Vern Paxson take a “VAST” Step Forward in Cyber Security - EECS at Berkeley
+Postdoctoral researcher Matthias Vallentin is developing VAST,  a  forensic analysis tool  designed to help prioritize the investigation of computer security breaches.  It complements Bro, a security tool  devised by Prof. Vern Paxson when he was a graduate student 22 years ago and which is now used worldwide, to instantly collect huge volumes of log data that a hack might compromise.  “Maybe the external machine also appeared in a phishing email, which contained a PDF attachment. Not only that, but the PDF also includes a malicious payload, which upon opening, sends sensitive information from the employee’s computer to a cyber criminal.  VAST supports this iterative process to reconstruct the complete picture and presents it on a platter” explains Vallentin.  The function, development, and industrial potential of these tools are discussed in a  Berkeley Research article .
+Categories
+Alumni
+Faculty
+Research
+Students
+View
+Open Faculty Positions

@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-64.html
+Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms
+Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms
+Guoming Wang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2014-64
+May 13, 2014
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-64.pdf
+Advisor:  Umesh Vazirani
+BibTeX citation:
+@phdthesis{Wang:EECS-2014-64,
+Author = {Wang, Guoming},
+Title = {Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms},
+School = {EECS Department, University of California, Berkeley},
+Year = {2014},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-64.html},
+Number = {UCB/EECS-2014-64}
+}
+EndNote citation:
+%0 Thesis
+%A Wang, Guoming
+%T Span Programs, Electrical Flows, and Beyond: New Approaches to Quantum Algorithms
+%I EECS Department, University of California, Berkeley
+%D 2014
+%8 May 13
+%@ UCB/EECS-2014-64
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-64.html
+%F Wang:EECS-2014-64

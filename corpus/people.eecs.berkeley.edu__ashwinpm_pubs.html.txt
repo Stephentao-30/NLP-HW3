@@ -1,0 +1,82 @@
+URL: https://people.eecs.berkeley.edu/~ashwinpm/pubs.html
+Publications
+Work
+Home
+Publications
+Talks
+Fun
+An Old Website
+Publications
+Journal Papers and Preprints
+Max-Affine Regression: Provable, Tractable, and Near-Optimal Statistical Estimation
+with Avishek Ghosh, Adityanand Guntuboyina, and Kannan Ramchandran
+submitted
+Derivative-Free Methods for Policy Optimization: Guarantees for Linear Quadratic Systems
+with Dhruv Malik, Kush Bhatia, Koulik Khamaru, Peter L. Bartlett, and Martin J. Wainwright
+submitted
+Semi-Parametric Estimation in the High Signal Regime: Consequences for Shape-Constrained Single-Index Models and Structured Phase Retrieval
+with Dean Foster
+submitted
+Towards Optimal Estimation of Bivariate Isotonic Matrices with Unknown Permutations
+with Cheng Mao and Martin J. Wainwright
+submitted
+(A corollary of one theorem was stated in an extended abstract at COLT 2018)
+Denoising Linear Models with Permuted Data
+with Martin J. Wainwright and Thomas A. Courtade
+Manuscript
+Worst-case vs Average-case Design for Estimation from Fixed Pairwise Comparisons
+with Cheng Mao, Vidya Muthukumar, Martin J. Wainwright, and Thomas A. Courtade
+Annals of Statistics, to appear
+NIPS 2017 Workshop on Learning on Distributions, Functions, Graphs and Groups
+Existence of Stein Kernels under Spectral Gap, and Discrepancy Bounds
+with Thomas A. Courtade and Max Fathi
+Annales de l’Institut Henri Poincare, May 2019
+Quantitative Stability of the Entropy Power Inequality
+with Thomas A. Courtade and Max Fathi
+IEEE Transactions on Information Theory, August 2018
+Linear Regression with Shuffled Data: Statistical and Computational Limits of Permutation Recovery
+with Martin J. Wainwright and Thomas A. Courtade
+IEEE Transactions on Information Theory, May 2018
+The Effect of Local Decodability Constraints on Variable-Length Compression
+with Thomas A. Courtade
+IEEE Transactions on Information Theory, April 2018
+Optimally Approximating the Coverage Lifetime of Wireless Sensor Networks
+with Vivek Kumar Bagaria and Rahul Vaze
+IEEE/ACM Transactions on Networking, Feb 2017
+On the Complexity of Making a Distinguished Vertex Minimum or Maximum Degree by Vertex Deletion
+with Sounaka Mishra and N. Safina Devi
+Journal of Discrete Algorithms, July 2015
+Conference Papers
+A Family of Bayesian Cramer-Rao Bounds, and Consequences for Log-Concave Priors
+with Efe Aras, Kuan-Yun Lee, and Thomas A. Courtade
+ISIT 2019
+Derivative-Free Methods for Policy Optimization: Guarantees for Linear Quadratic Systems
+with Dhruv Malik, Kush Bhatia, Koulik Khamaru, Peter L. Bartlett, and Martin J. Wainwright
+AISTATS 2019
+Breaking the   Barrier: Faster Rates for Permutation-Based Models in Polynomial Time
+with Cheng Mao and Martin J. Wainwright
+COLT 2019 (extended abstract)
+Gradient Diversity: a Key Ingredient for Scalable Distributed Learning
+with Dong Yin, Max Lam, Dimitris Papailiopoulos, Kannan Ramchandran, and Peter Bartlett
+AISTATS 2018
+NIPS 2017 OPT-ML Workshop
+Wasserstein Stability of the Entropy Power Inequality for Log-concave Densities
+with Thomas A. Courtade and Max Fathi
+ISIT 2017
+Denoising Linear Models with Permuted Data
+with Martin J. Wainwright and Thomas A. Courtade
+ISIT 2017
+Linear Regression with an Unknown Permutation: Statistical and Computational Limits
+with Martin J. Wainwright and Thomas A. Courtade
+Allerton 2016
+Compressing Sparse Sequences Under Local Decodability Constraints
+with Thomas A. Courtade
+ISIT 2015
+The Online Disjoint Set Cover Problem and its Applications
+with Vivek Kumar Bagaria and Rahul Vaze
+INFOCOM 2015
+Maximizing Utility Among Selfish Users in Social Groups
+with Vivek Kumar Bagaria and Rahul Vaze
+NCC 2014
+Best Paper Award, Networks Track
+Last updated: March 2019

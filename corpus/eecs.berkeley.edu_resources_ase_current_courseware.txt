@@ -1,0 +1,144 @@
+URL: https://eecs.berkeley.edu/resources/ase/current/courseware
+GSI Guide: Course Software and Services - EECS at Berkeley
+GSI Guide: Course Software and Services
+In This Page
+Campus & EECS Services
+Instructional computing (ISG); CalCentral; bCourses; SPA
+Staff Management & Courseware
+G Suite (bDrive, bCal, bConnected); Slack; GitHub; Moss
+Student Courseware
+Ok; Gradescope; Piazza; GitHub; glookup
+Campus and EECS Services
+Each course has its own software stack based on its own needs. Here are a selection of the common services useful to most courses.
+Instructional Computing
+The EECS Instructional Support Group (ISG, inst@eecs.berkeley.edu) hosts the public, static course websites including lecture notes, syllabi, assignments, practice problems, solutions. They operate the lab computers, login servers and WEB server ( http://inst.eecs.berkeley.edu ) that are available to EECS courses.
+There is a permanent instructor account for each course. ISG sends accounts for the current teaching staff to the instructors before the start of the classes. That is done automatically for some classes, but ask inst@eecs.berkeley.edu for the accounts if you need them.
+The instructional computers use their own password service (not CalNet). Students can obtain accounts for the semester by logging into  UAW2865   WebAcct  with their Calnet IDs. Students are pre-approved for accounts based on enrollment lists from the Registrar.
+That leaves out the course teaching staff and the concurrent enrollment students, so the instructor or TAs should notify the instructional lab staff (ISG, inst@eecs.berkeley.edu) about those students. You can email spreadsheets containing their Student IDs, email addresses and 6-digit gold proxy numbers from the back of their Cal1Cards. ISG will add those students to WebAcct and request cardkey access for them.
+The glookup system also runs on the instructional computers, under the instructor account (such as “cs61b”). ‘Glookup’ can be used to manage grades, though many courses have moved their workflow to Gradescope and their own systems. ISG also hosts  Information for Instuctors .
+CalCentral
+For instructors, CalCentral shows the course enrollment and waitlist information and roster photos for assigned sections. At the end of the semester, final grades will be assigned through CalCentral. Grades usually show up the day after they’re posted to CalCentral.
+Students can find webcast links here as well.
+bCourses
+Not viewable by the public, by default. Send announcements, create assignments for online submission, hold virtual office hours, student file submission, discussion forums, grades, polls, quizzes and surveys, student rosters, course schedules, manage course sections, analytics and rubrics, learning outcomes.
+bCourses contains the course roster and roster photos. Instructors can also add other course staff to bCourses to view the roster. Some EECS courses also prefer to use bCourses as their primary courseware, though many prefer grading assignments with their own autograders or Gradescope, and hosting assignments on their own public course website.
+SPA (Special Purpose Account)
+Special Purpose Accounts  are essentially additional CalNet IDs that can be provisioned for academic purposes. They also include an optional bConnected account, which makes available all of the standard Berkeley-branded Google services like bMail, bDrive, and bCal.
+Course staffs use special purpose accounts for managing logistical concerns and accommodations to help organize requests in a central location and ensure communication is handled in a timely manner. SPA bMail accounts allow the TAs to respond anonymously to students and lets us deliver decisions on behalf of the entire course staff instead of any one individual staff member. (If you only need a staff email, and not the other uses, a bConnected list may be easier for your course).
+To access the account, you will first need to request access from someone who is an account manager. The head TAs or the instructors should all have the ability to add a new member to the SPA via  CalGroups .
+Use SPAs for any resources “owned” by a course, whenever possible. For example if you’re creating a Google Developer Account, set the account email to be the SPA email.  If you ever feel the need to share a single password with multiple course staff, you should use a SPA bMail account as the login.
+Staff Management & Courseware
+G Suite for Education (bConnected)
+bConnected is a collection of campus collaboration tools that includes G Suite for Education (bMail, bCal, bDrive, bConnected Lists), Box, CalShare, bCourses Project Sites.
+bDrive
+bDrive allows for sharing and collaborating on files. A new bDrive folder is usually created for each new semester, and then course staff-specific files are placed within the folder.
+It can also be helpful to use bDrive for managing staff-internal documentation (though GitHub Wikis are a good alternative), as well as for synchronizing exam clarification information between several different rooms.
+bCal
+A staff-internal bCal can be helpful to share events between staff (such as staff meetings, exams, etc.). Calendars can also be made public and shared with students, so it could be useful too. A SPA is a great account act as the owner of staff calendars, which can be shared from semester-to-semester.
+bConnected List
+bConnected Lists are Google Groups mailing lists, which allow for easy delegation of access to other Google services. Create a bConnected list for each new semester’s course staff, and then share the staff bDrive and bCal with the mailing list to give everyone on the list access.
+Slack
+Instant messaging app for small teams. It’s different from Piazza in that conversations are broken into channels: each channel can have a different topic. It’s nice for short messages that don’t warrant emails.
+The Slack mobile app also has great notification features, so it’s really helpful for getting another staff member’s attention (similar to texting, but with lots more capabilities like GitHub integration, file upload, and more).
+The free plan is limited to 10,000 messages in the history, but there is a free trial which extends for a few months. Generally, we stick with the free version: important and longer-lived documents, notes, and conversations should live on bDrive anyways for posterity and archival.
+Some channels CS 61B uses are #urgent, #labs, #website, #autograder, #projects, #random, and channels for proctoring, scanning, and grading each exam. We usually have several rooms taking the same exam at the same time, so it’s really helpful to instantly update each other on exam corrections, timing, and progress. The instructor can then escalate clarification discussion made between course staff on Slack to the projected exam clarifications doc.
+Slack channels are unlimited; don’t be afraid to create short-lived channels for active discussions. The important thing is to make sure staff can keep with the most important updates, and won’t feel the need to read every post.
+GitHub
+Each course usually retains its own GitHub organization for managing the course repositories. The course GitHub organization might contain repositories containing the course’s source code for coding assignments or problem sets.
+GitHub also offers free static web page hosting through GitHub Pages. This is a good alternative to making changes directly on the instructional computing servers since the website can be generated and updated seamlessly each time a commit is made to the repository. In addition, GitHub Pages also supports Jekyll, a popular static website generator, which makes it easy to build websites in a modular fashion. Pages can be written in Markdown and then rendered according to predefined templates.
+If you are hosting a course site on GitHub Pages, or any 3rd-party domain, it is a good idea to update your instructional computing webpage (for example, http://inst.eecs.berkeley.edu/~csXXX/) to point to your own domain.
+The institutional memory of the course is stored on GitHub through wikis and past-semester course materials, and hand-off between instructors usually also involves sharing GitHub organization access. Maintain a GitHub wiki to codify the practices and procedures between semesters.
+If your course is just setting up GitHub,  GitHub Education  discounts are available for organizations as well as individual users. This can be used together with a  GitHub Classroom  to distribute private GitHub repositories to students with staff permissions automatically set.
+Moss
+Moss is an open-source software we use for plagiarism-detection. It performs a Measure of Software Similarity, so it requires additional intervention from course staff to interpret the results.
+Student Courseware
+Ok
+Ok is a software platform and courseware originally developed by the CS 61A staff for managing the course at scale. Other courses can also sign-up to use the Ok platform to centralize grading (both autograded and instructor feedback), automatically backup code, create online office hour queues to streamline the office hours help experience, generate exam seating assignments (and send students personalized seating emails) for any room on campus, plagiarism detection, and more.
+Gradescope
+Gradescope is an online grading platform free for UC Berkeley courses. Gradescope provides services to help staff grade faster by scanning and grading exams online. Gradescope also allows for student submissions, which makes it easy to grade problem sets online without having students need to hand in papers in person.
+Programming assignments can be autograded by the  Gradescope Autograder , which relies on Docker containers to safely execute student code in a controlled environment.
+To enroll students on Gradescope, we recommend using the Canvas LMS integration which will allow Gradescope to sync their student rosters with bCourses, which contains enrolled as well as waitlisted students. Students who aren’t on bCourses (for whatever reason) can be added manually by instructors. Syncing with bCourses will also sync all staff members.
+The quickest way to create your Gradescope course is by clicking on the ‘Gradescope’ link from the sidebar within your bCourses course.
+Gradescope has a  public Trello  which tracks and showcases upcoming features. Course staff can also request access to beta features by emailing  help@gradescope.com .
+Piazza
+Piazza is the online course forum where students can ask and answer questions. Posts can also be pinned by including the plaintext “#pin” in the body of the text.
+One of the secrets to managing discussions on Piazza is to use pinned problem threads that allow students to concentrate discussions about a particular problem into a particular thread. This makes it a lot easier for them and for the instructional staff. CS 70 course staff follows this procedure for managing Piazza:
+Piazza will routinely be flooded with questions, especially near exams. Managing Piazza effectively does not necessarily mean keeping up with this flood of questions; it means directing the flow of questions efficiently so that students with similar questions can easily find previous students’ questions and avoid asking repeat questions.
+Each week, keep a pinned Piazza thread for each separate homework question. This is the most important rule to follow, as homework questions will comprise the majority of all Piazza questions. Also, we recommend creating separate threads for each lecture note and discussion. Once these threads are in place, aggressively mark student questions as duplicates and move them to the appropriate threads so that all similar questions are in one place.
+To help students find these various threads, create a pinned master index which contains links to all of the above threads, as well as threads containing homework grade distributions, TA resources, weekly posts (described below), events (guerrilla sections, exam review sessions, etc.), and other announcements. The index requires maintenance, so either consciously assign the management of the index as a TA duty, or make it understood within the team that each person who posts new material on the Piazza is also responsible for adding a link in the index.
+Each course staff has different policies about using Piazza: some prefer not to give homework hints and instead treat Piazza as a space for homework clarifications, while others are more open to providing answers to students’ questions about the material.
+Piazza can also be used to help manage course announcements, if the website is not already a central source of information for current course information. It is incredibly helpful for students if you send out a weekly email which summarizes all of the happenings in the course for the week. This weekly post should be pinned on Piazza. Items included within the weekly post:
+Homework releases and deadlines
+Graded homeworks and regrade request deadlines
+The lecture notes they should read for the upcoming week
+Other important announcements such as upcoming exams, review sessions, links to surveys, grading option forms, etc.
+Links to TA resources
+One technical detail about using Piazza: Piazza allows instructors to define tags which students must use when posting, but when there are too many active tags, older tags are hidden. So we recommend, both for the sake of students and instructors, to reduce the number of tags available to choose from if possible.
+GitHub
+GitHub is a web service for managing and sharing Git version control repositories. Students can also receive free private repositories as well as other software by registering with their berkeley.edu email address. Educational organizations can also sign-up for free private repositories as well.
+Instructors can also setup  GitHub Classroom , a GitHub integration which allows instructors to automatically generate repositories for tracking student work on an assignment. This can be especially convenient for classes that also use Gradescope, as it supports submission directly from GitHub.
+glookup
+glookup is a terminal-based tool for managing student grades. It allows instructors to input assignment grades for each student. Students can then view their own grades through the glookup tool.
+Resources
+Information for Current Students
+Broadening Participation in EECS
+Department Policy on Academic Misconduct
+Wellness Resources
+Student Concerns and Grievances
+Student Computing and Email
+Curricular Practical Training (CPT)
+Resources for Faculty and Staff
+Staff Contact Quick List
+Administrative Services
+Course and Instructional Support
+Academic Personnel Information
+Event Planning Calendar
+Undergraduate Faculty Advising – for Faculty
+Staff IT Procedures
+Graduate Student Review Information for Faculty
+My EECS Info Guide
+A Guide to IEEE and ACM Awards
+Academic Personnel Information
+Center for Student Affairs
+Visiting Research Scholars
+Prospective Visiting Scholar Information & Applications
+New Visiting Scholar Information
+Information for Current Graduate Students
+Grad Student Visit Days
+Graduate Advisors
+EECS Technical Memorandum Series Policy
+M.Eng. Student Guide
+M.S. and Ph.D. Class Information and Scheduling
+Readmission and Re-Enrollment to the EECS Department
+Pre-Faculty Preparation
+Forms for Current Graduate Students
+Information for Current Undergraduate Students
+Undergraduate Research
+Honors Program
+Accel Scholars Program
+Information for New EECS Students
+EECS Major Information
+CS Major Information
+Preparing for Graduate School
+Tutoring and Counseling
+Undergraduate Faculty Advising  – for Students
+Undergraduate Scholarships
+EECS Study Abroad Program
+Facilitating EECS DeCal Classes
+Undergraduate FAQs and Advice
+Undergraduate Programs and Scholarships
+Undergraduate Minors
+ECE Major Information
+Information for ASEs
+Guide for Prospective ASEs
+Guide for Current ASEs
+Facilities, Safety and Space Management
+About Reserving Cory and Soda Hall Rooms
+EECS Department Space Policy
+Soda Hall Space Policy
+Principles of Soda Hall Space Allocation
+Department Vehicle Use Policy & Procedures
+EECS Safety Manual
+Login URLs for EECS and Campus Resources
+View
+Open Faculty Positions

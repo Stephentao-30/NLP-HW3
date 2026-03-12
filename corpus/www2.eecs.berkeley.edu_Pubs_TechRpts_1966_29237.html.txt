@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29237.html
+Simplified Conditions for Controllability and Observability of Linear Time-Invariant Systems
+C.T. Chen and C.A. Desoer
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M152
+, 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-152.pdf
+BibTeX citation:
+@techreport{Chen:M152,
+Author= {Chen, C.T. and Desoer, C.A.},
+Title= {Simplified Conditions for Controllability and Observability of Linear Time-Invariant Systems},
+Year= {1966},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29237.html},
+Number= {UCB/ERL M152},
+}
+EndNote citation:
+%0 Report
+%A Chen, C.T.
+%A Desoer, C.A.
+%T Simplified Conditions for Controllability and Observability of Linear Time-Invariant Systems
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M152
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/29237.html
+%F Chen:M152

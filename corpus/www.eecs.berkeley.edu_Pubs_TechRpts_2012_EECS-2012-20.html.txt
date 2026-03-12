@@ -1,0 +1,30 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-20.html
+Hierarchical Additions to the SPMD Programming Model
+Amir Ashraf Kamil and Katherine A. Yelick
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-20
+February 2,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-20.pdf
+Large-scale parallel machines are programmed mainly with the single program, multiple data (SPMD) model of parallelism. This model has advantages of scalability and simplicity, combining independent threads of execution with global collective communication and synchronization operations. However, the model does not fit well with divide-and-conquer parallelism or hierarchical machines that mix shared and distributed memory. In this paper, we define a hierarchical team mechanism that retains the performance and analysis advantages of SPMD parallelism while supporting hierarchical algorithms and machines. We demonstrate how to ensure alignment of collective operations on teams, eliminating a class of deadlocks. We present application case studies showing that the team mechanism is both elegant and powerful, enabling users to exploit the hardware features at different levels of a hierarchical machine and resulting in significant performance gains.
+BibTeX citation:
+@techreport{Kamil:EECS-2012-20,
+Author= {Kamil, Amir Ashraf and Yelick, Katherine A.},
+Title= {Hierarchical Additions to the SPMD Programming Model},
+Year= {2012},
+Month= {Feb},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-20.html},
+Number= {UCB/EECS-2012-20},
+Abstract= {Large-scale parallel machines are programmed mainly with the single program, multiple data (SPMD) model of parallelism. This model has advantages of scalability and simplicity, combining independent threads of execution with global collective communication and synchronization operations. However, the model does not fit well with divide-and-conquer parallelism or hierarchical machines that mix shared and distributed memory. In this paper, we define a hierarchical team mechanism that retains the performance and analysis advantages of SPMD parallelism while supporting hierarchical algorithms and machines. We demonstrate how to ensure alignment of collective operations on teams, eliminating a class of deadlocks. We present application case studies showing that the team mechanism is both elegant and powerful, enabling users to exploit the hardware features at different levels of a hierarchical machine and resulting in significant performance gains.},
+}
+EndNote citation:
+%0 Report
+%A Kamil, Amir Ashraf
+%A Yelick, Katherine A.
+%T Hierarchical Additions to the SPMD Programming Model
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 February 2
+%@ UCB/EECS-2012-20
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-20.html
+%F Kamil:EECS-2012-20

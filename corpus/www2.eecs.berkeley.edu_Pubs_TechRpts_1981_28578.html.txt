@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28578.html
+Program Restructuring in a Multilevel Virtual Memory | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Program Restructuring in a Multilevel Virtual Memory
+Program Restructuring in a Multilevel Virtual Memory
+Edwin J. Lau and Domenico Ferrari
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M81/26
+May 1981
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/ERL-m-81-26.pdf
+BibTeX citation:
+@techreport{Lau:M81/26,
+Author = {Lau, Edwin J. and Ferrari, Domenico},
+Title = {Program Restructuring in a Multilevel Virtual Memory},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1981},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28578.html},
+Number = {UCB/ERL M81/26}
+}
+EndNote citation:
+%0 Report
+%A Lau, Edwin J.
+%A Ferrari, Domenico
+%T Program Restructuring in a Multilevel Virtual Memory
+%I EECS Department, University of California, Berkeley
+%D 1981
+%@ UCB/ERL M81/26
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1981/28578.html
+%F Lau:M81/26

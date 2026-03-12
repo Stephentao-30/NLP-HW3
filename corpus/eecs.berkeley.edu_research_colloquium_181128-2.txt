@@ -1,0 +1,23 @@
+URL: https://eecs.berkeley.edu/research/colloquium/181128-2
+Deep Learning to Solve Challenging Problems - EECS at Berkeley
+Deep Learning to Solve Challenging Problems
+EECS Colloquium
+Wednesday, November 28, 2018
+306 Soda Hall (HP Auditorium)
+4:00 – 5:00 pm
+Jeff Dean
+Senior Fellow, Google, Inc.
+Jeff Dean speaks on Deep Learning to Solve Challenging Problems, 11/28/18
+Abstract
+For the past seven years, Google Research teams have conducted research on difficult problems in artificial intelligence, on building large-scale computer systems for machine learning research, and, in collaboration with many teams at Google, on applying our research and systems to many Google products.  As part of our work in this space, we have built and open-sourced the TensorFlow system ( tensorflow.org ), a widely popular system designed to easily express machine learning ideas, and to quickly train, evaluate and deploy machine learning systems.
+We have also collaborated closely with Google’s platforms team to design and deploy new computational hardware called Tensor Processing Units, specialized for accelerating machine learning computations.  In this talk, I’ll highlight some of our research accomplishments, and will relate them to the National Academy of Engineering’s Grand Engineering Challenges for the 21st Century, including the use of machine learning for healthcare, robotics, and engineering the tools of scientific discovery.  I’ll also cover how machine learning is transforming many aspects of our computing hardware and software systems. This talk describes joint work with many people at Google.
+Biography
+Jeff Dean joined Google in 1999 and is currently a Google Senior Fellow, leading Google AI and related research efforts.  He and his research collaborators are working on systems for speech recognition, computer vision, language understanding, and various other machine learning tasks. He has co-designed/implemented many different systems include Google’s crawling, indexing, and query serving systems, early versions of Google’s initial advertising and AdSense for Content systems, MapReduce, BigTable, Spanner, TensorFlow, protocol buffers, and a variety of internal and external libraries and developer tools.
+Jeff received a Ph.D. in Computer Science from the University of Washington in 1996, working with Craig Chambers on whole-program optimization techniques for object-oriented languages.  He received a B.S. in computer science & economics from the University of Minnesota in 1990.  He is a member of the National Academy of Engineering, and of the American Academy of Arts and Sciences, a Fellow of the Association for Computing Machinery (ACM), a Fellow of the American Association for the Advancement of Sciences (AAAS), and a winner of the ACM Prize in Computing.
+Video of Presentation
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

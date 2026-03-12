@@ -1,0 +1,35 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29168.html
+Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom
+Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom
+J.L. Tennyson, M.A. Lieberman and A.J. Lichtenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M79/19
+March 1979
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/ERL-m-79-19.pdf
+BibTeX citation:
+@techreport{Tennyson:M79/19,
+Author = {Tennyson, J.L. and Lieberman, M.A. and Lichtenberg, A.J.},
+Title = {Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1979},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29168.html},
+Number = {UCB/ERL M79/19}
+}
+EndNote citation:
+%0 Report
+%A Tennyson, J.L.
+%A Lieberman, M.A.
+%A Lichtenberg, A.J.
+%T Diffusion in Near-Integrable Hamiltonian Systems with Three Degrees of Freedom
+%I EECS Department, University of California, Berkeley
+%D 1979
+%@ UCB/ERL M79/19
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1979/29168.html
+%F Tennyson:M79/19

@@ -1,0 +1,40 @@
+URL: http://www.eecs.berkeley.edu:80/Pubs/TechRpts/2013/EECS-2013-136.html
+Novel Technologies for Next Generation Memory
+WookHyun Kwon
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-136
+July 25,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-136.pdf
+Historically, our society requires computational memory media to support the development of our civilization.  It is likely that our society will keep demanding larger capacity memory.  However, conventional memory technologies are facing many challenges such as difficulties of miniaturization and guarantee of good reliability.  For this reason, alternate memory device designs are proposed to overcome the conventional memory device technologies.
+For DRAM technology, a double-gate array having vertical channel structure (DGVC) with 4F2 cell size is proposed, which can be fabricated on a bulk silicon wafer using the conventional memory process flow for stand-alone DRAM application. The operation and scalability of the DGVC cell are demonstrated via TCAD device simulations.
+For Flash Memory technology, a new backside charge storage non-volatile memory (BCS-NVM) cell design is proposed. A NAND flash array of the BCS-NVM cells can be fabricated on a modified SOI substrate.  TCAD device simulation show that this design allows for a relatively high cell read current and steep sub-threshold slope to enable lower voltage operation in comparison with conventional NAND flash memory devices.
+As a new concept of non-volatile memory technology, a nano-electro-mechanical (NEM) diode non-volatile memory cell design is proposed. This design eliminates the need of a selector device to form a cross-point array, by leveraging the gap closing actuator.  The electro-mechanical diode cell design can be scaled to 20 nm minimum lateral dimension by following an appropriate scaling methodology in consideration of various practical and fundamental limits. Low-voltage (< 2 V) and high-speed (sub-nanosecond) operation are projected using a calibrated analytical model as well as 3-D FEM simulation. These findings indicate that electro-mechanical diode technology is promising for high density storage beyond the limits of conventional flash memory technology.
+Advisors:  Tsu-Jae King Liu
+BibTeX citation:
+@phdthesis{Kwon:EECS-2013-136,
+Author= {Kwon, WookHyun},
+Editor= {King Liu, Tsu-Jae and Subramanian, Vivek},
+Title= {Novel Technologies for Next Generation Memory},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Jul},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-136.html},
+Number= {UCB/EECS-2013-136},
+Abstract= {Historically, our society requires computational memory media to support the development of our civilization.  It is likely that our society will keep demanding larger capacity memory.  However, conventional memory technologies are facing many challenges such as difficulties of miniaturization and guarantee of good reliability.  For this reason, alternate memory device designs are proposed to overcome the conventional memory device technologies.
+For DRAM technology, a double-gate array having vertical channel structure (DGVC) with 4F2 cell size is proposed, which can be fabricated on a bulk silicon wafer using the conventional memory process flow for stand-alone DRAM application. The operation and scalability of the DGVC cell are demonstrated via TCAD device simulations.
+For Flash Memory technology, a new backside charge storage non-volatile memory (BCS-NVM) cell design is proposed. A NAND flash array of the BCS-NVM cells can be fabricated on a modified SOI substrate.  TCAD device simulation show that this design allows for a relatively high cell read current and steep sub-threshold slope to enable lower voltage operation in comparison with conventional NAND flash memory devices.
+As a new concept of non-volatile memory technology, a nano-electro-mechanical (NEM) diode non-volatile memory cell design is proposed. This design eliminates the need of a selector device to form a cross-point array, by leveraging the gap closing actuator.  The electro-mechanical diode cell design can be scaled to 20 nm minimum lateral dimension by following an appropriate scaling methodology in consideration of various practical and fundamental limits. Low-voltage (< 2 V) and high-speed (sub-nanosecond) operation are projected using a calibrated analytical model as well as 3-D FEM simulation. These findings indicate that electro-mechanical diode technology is promising for high density storage beyond the limits of conventional flash memory technology.},
+}
+EndNote citation:
+%0 Thesis
+%A Kwon, WookHyun
+%E King Liu, Tsu-Jae
+%E Subramanian, Vivek
+%T Novel Technologies for Next Generation Memory
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 July 25
+%@ UCB/EECS-2013-136
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-136.html
+%F Kwon:EECS-2013-136

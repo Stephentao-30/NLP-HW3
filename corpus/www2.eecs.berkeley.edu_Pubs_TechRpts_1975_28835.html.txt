@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28835.html
+The Linear Multivariable Regulator Problem | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+The Linear Multivariable Regulator Problem
+The Linear Multivariable Regulator Problem
+Bruce A. Francis
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M560
+October 1975
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-m-560.pdf
+BibTeX citation:
+@techreport{Francis:M560,
+Author = {Francis, Bruce A.},
+Title = {The Linear Multivariable Regulator Problem},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1975},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28835.html},
+Number = {UCB/ERL M560}
+}
+EndNote citation:
+%0 Report
+%A Francis, Bruce A.
+%T The Linear Multivariable Regulator Problem
+%I EECS Department, University of California, Berkeley
+%D 1975
+%@ UCB/ERL M560
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1975/28835.html
+%F Francis:M560

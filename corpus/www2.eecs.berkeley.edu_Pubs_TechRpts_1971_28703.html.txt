@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28703.html
+Matroid Intersection Algorithms | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Matroid Intersection Algorithms
+Matroid Intersection Algorithms
+Eugene L. Lawler
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M333
+October 1971
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/ERL-m-333.pdf
+BibTeX citation:
+@techreport{Lawler:M333,
+Author = {Lawler, Eugene L.},
+Title = {Matroid Intersection Algorithms},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1971},
+Month = {Oct},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28703.html},
+Number = {UCB/ERL M333}
+}
+EndNote citation:
+%0 Report
+%A Lawler, Eugene L.
+%T Matroid Intersection Algorithms
+%I EECS Department, University of California, Berkeley
+%D 1971
+%@ UCB/ERL M333
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1971/28703.html
+%F Lawler:M333

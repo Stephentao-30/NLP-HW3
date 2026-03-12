@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28381.html
+Theoretical Investigation of a Non-planar Field Effect Transistor | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theoretical Investigation of a Non-planar Field Effect Transistor
+Theoretical Investigation of a Non-planar Field Effect Transistor
+S.R. Levine
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M122
+July 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-122.pdf
+BibTeX citation:
+@techreport{Levine:M122,
+Author = {Levine, S.R.},
+Title = {Theoretical Investigation of a Non-planar Field Effect Transistor},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28381.html},
+Number = {UCB/ERL M122}
+}
+EndNote citation:
+%0 Report
+%A Levine, S.R.
+%T Theoretical Investigation of a Non-planar Field Effect Transistor
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M122
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28381.html
+%F Levine:M122

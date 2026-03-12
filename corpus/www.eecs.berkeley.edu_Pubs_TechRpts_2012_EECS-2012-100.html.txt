@@ -1,0 +1,33 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-100.html
+Automated Tuberculosis Diagnosis Using Fluorescence Images from a Mobile Microscope
+Jeannette Chang
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-100
+May 11,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-100.pdf
+In low-income countries, the most common method of tuberculosis (TB) diagnosis is visual identification of rod-shaped TB bacilli in sputum smears by microscope. We present an algorithm for automated TB detection in smear images taken by digital microscopes such as CellScope [1], a novel low-cost, portable device capable of brightfield and fluorescence microscopy.  Automated processing on such platforms could save lives by bringing healthcare to rural areas with limited access to laboratory-based diagnostics. Though the focus of this study is the application of our automated algorithm to CellScope images, our method may be readily generalized for use with images from other digital fluorescence microscopes.
+Our algorithm applies morphological operations and template matching with a Gaussian kernel to identify TB-object candidates. We then use moment, geometric, photometric, and oriented gradient features to characterize these objects and perform discriminative, support vector machine classification. We test our algorithm on a large set of CellScope fluorescence images from sputum smears collected at clinics in Uganda (594 images corresponding to 290 patients). Our object-level classification is highly accurate, with Average Precision of 89.2% +/- 2.1%. For slide-level classification, our algorithm performs at the level of human readers, demonstrating the potential for making a significant impact on global healthcare.
+Advisors:  Jitendra Malik and Daniel A. Fletcher
+BibTeX citation:
+@mastersthesis{Chang:EECS-2012-100,
+Author= {Chang, Jeannette},
+Title= {Automated Tuberculosis Diagnosis Using Fluorescence Images from a Mobile Microscope},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-100.html},
+Number= {UCB/EECS-2012-100},
+Abstract= {In low-income countries, the most common method of tuberculosis (TB) diagnosis is visual identification of rod-shaped TB bacilli in sputum smears by microscope. We present an algorithm for automated TB detection in smear images taken by digital microscopes such as CellScope [1], a novel low-cost, portable device capable of brightfield and fluorescence microscopy.  Automated processing on such platforms could save lives by bringing healthcare to rural areas with limited access to laboratory-based diagnostics. Though the focus of this study is the application of our automated algorithm to CellScope images, our method may be readily generalized for use with images from other digital fluorescence microscopes.
+Our algorithm applies morphological operations and template matching with a Gaussian kernel to identify TB-object candidates. We then use moment, geometric, photometric, and oriented gradient features to characterize these objects and perform discriminative, support vector machine classification. We test our algorithm on a large set of CellScope fluorescence images from sputum smears collected at clinics in Uganda (594 images corresponding to 290 patients). Our object-level classification is highly accurate, with Average Precision of 89.2% +/- 2.1%. For slide-level classification, our algorithm performs at the level of human readers, demonstrating the potential for making a significant impact on global healthcare.},
+}
+EndNote citation:
+%0 Thesis
+%A Chang, Jeannette
+%T Automated Tuberculosis Diagnosis Using Fluorescence Images from a Mobile Microscope
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 11
+%@ UCB/EECS-2012-100
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-100.html
+%F Chang:EECS-2012-100

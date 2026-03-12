@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29208.html
+State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements
+State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements
+Leon O. Chua and Ellen W. Szeto
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/18
+March 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-18.pdf
+BibTeX citation:
+@techreport{Chua:M82/18,
+Author = {Chua, Leon O. and Szeto, Ellen W.},
+Title = {State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29208.html},
+Number = {UCB/ERL M82/18}
+}
+EndNote citation:
+%0 Report
+%A Chua, Leon O.
+%A Szeto, Ellen W.
+%T State-Space Theory of Nonlinear Two-Terminal Higher-Order Elements
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/18
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29208.html
+%F Chua:M82/18

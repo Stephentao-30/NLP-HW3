@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/7118.html
+Integrated Lowpass Amplifiers | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Integrated Lowpass Amplifiers
+Integrated Lowpass Amplifiers
+Arthur J. Brodersen
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M185
+September 1966
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/ERL-m-185.pdf
+Advisor:  Donald O. Pederson
+BibTeX citation:
+@phdthesis{Brodersen:M185,
+Author = {Brodersen, Arthur J.},
+Title = {Integrated Lowpass Amplifiers},
+School = {EECS Department, University of California, Berkeley},
+Year = {1966},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/7118.html},
+Number = {UCB/ERL M185}
+}
+EndNote citation:
+%0 Thesis
+%A Brodersen, Arthur J.
+%T Integrated Lowpass Amplifiers
+%I EECS Department, University of California, Berkeley
+%D 1966
+%@ UCB/ERL M185
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1966/7118.html
+%F Brodersen:M185

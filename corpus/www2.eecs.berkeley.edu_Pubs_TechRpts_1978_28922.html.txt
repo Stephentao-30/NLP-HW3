@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28922.html
+GO is a P space Hard | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+GO is a P space Hard
+GO is a P space Hard
+D. Lichtenstein and M. Sipser
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M78/16
+April 1978
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/ERL-m-78-16.pdf
+BibTeX citation:
+@techreport{Lichtenstein:M78/16,
+Author = {Lichtenstein, D. and Sipser, M.},
+Title = {GO is a P space Hard},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1978},
+Month = {Apr},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28922.html},
+Number = {UCB/ERL M78/16}
+}
+EndNote citation:
+%0 Report
+%A Lichtenstein, D.
+%A Sipser, M.
+%T GO is a P space Hard
+%I EECS Department, University of California, Berkeley
+%D 1978
+%@ UCB/ERL M78/16
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1978/28922.html
+%F Lichtenstein:M78/16

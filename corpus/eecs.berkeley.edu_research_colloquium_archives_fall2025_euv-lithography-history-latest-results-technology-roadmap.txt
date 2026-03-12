@@ -1,0 +1,25 @@
+URL: https://eecs.berkeley.edu/research/colloquium/archives/fall2025/euv-lithography-history-latest-results-technology-roadmap
+EUV: Lithography: History, Latest Results, Technology Roadmap - EECS at Berkeley
+EUV: Lithography: History, Latest Results, Technology Roadmap
+Tony Yen and Ronald Goossens give their talk, “ EUV: Lithography: History, Latest Results, Technology Roadmap ” on Sept. 3, 2025.
+EECS Colloquium
+Wednesday, September 3, 2025
+306 Soda Hall (HP Auditorium) 4:00 – 5:00 pm
+Youtube Webinar
+Abstract
+In the late 1970s and early 1980s, various research groups – not UC Berkeley, which focused on optical lithography – started to work on next-generation lithography (NGL) technologies. The chief rationale was the “foreseeable” resolution limit of optical lithography being no better than 0.5 µm. In those days, excimer-laser-based deep-ultraviolet lithography was not yet around and high-numerical-aperture (NA) lenses were considered difficult to fabricate without introducing a lot of aberrations. In short, the future of optical lithography looked discouraging. Among the NGL technologies, extreme ultraviolet lithography (EUVL) was actually a later comer, with its long development process starting in the mid-1980s. Never could its pioneers imagine that the technology’s gestation period would be more than thirty years. In the meantime, optical lithography continued to make progress, culminating in 193-nm immersion lithography. Advances in optical lithography carried the geometrical scaling and provided the needed extra years for EUVL to mature.
+EUVL entered the high-volume production of semiconductor chips in 2019, at the 7-nm node of logic integrated circuits, and enabled the continued geometrical scaling. Since then, it has been used in research and development as well as the production of advanced logic and DRAM chips, and the performance of EUV exposure systems in both imaging and productivity continues to improve. Meanwhile, after about ten years of development, 0.55 NA exposure systems became available in 2024. The latest lithographic results from such a system will be presented. High-NA EUVL will enable further scaling of logic and DRAM devices, and perhaps new-type devices of the future.  Like optical lithography, the resolution of EUVL, in terms of the half-pitch, follows the well-known expression k1NA. So what’s next? In optical immersion lithography, k1<0.3 is realized in routine production, while in EUV lithography, the corresponding number is k1=0.4. How to lower the k1-factor further? Do we need an even higher NA? Our presentation will conclude with a discussion on resolution enhancement and ASML’s EUV technology roadmap.
+Tony Yen
+Visiting Professor, UC Berkeley EECS VP and Head of the Technology Development Center, ASML
+Ronald Goossens
+Adjunct Professor ECE, Purdue University Senior Strategy Manager, ASML
+Bio
+Anthony (Tony) Yen  is VP and Head of the Technology Development Center at ASML, leading a global organization to work on identifying mid- and long-term technological directions in semiconductors and on accompanying patterning solutions in close collaboration with other organizations within ASML, imec, and universities. He also serves as a Visiting Professor at UC Berkeley EECS. Tony received his BSEE degree from Purdue University and his SM, EE, PhD, and MBA degrees from MIT. From 1991 to 1997, he was a Member of the Technical Staff at Texas Instruments. From 1997 to 2003 and again from 2006 to 2017, he was with TSMC where he led the development of its lithography processes and the development of EUV lithography, including its mask technology, for high-volume manufacturing. Tony is a Fellow of the IEEE and the 2026 recipient of its Cledo Brunetti Award, and a Fellow of SPIE and a recipient of its Frits Zernike Award for Microlithography.
+Bio
+Ronald Goossens  was born and raised in the Netherlands, where he studied Physics at Utrecht University. During his Masters studies, he worked on computer modeling of nucleosynthesis in stellar interiors and the impact on stellar evolution. This became the start of a lifelong love affair with modeling and simulation of complex physical and chemical processes. During his years with Phillips Research, Stanford University, National Semiconductor, and NXP Semiconductor, he worked on the modeling of electron transport in transistors, of analog circuit behavior, and of system-level digital designs. For the last 20 years, he has worked at ASML on Computational Lithography with emphasis on control applications in semiconductor manufacturing. In early 2022, Ronald retired from full-time work. Currently, he “fills his time” as a part-time Senior Strategy Manager for ASML, as Adjunct Professor of Nanolithography at Purdue University, as a Board Member of the Boys & Girls Club of Silicon Valley, and as an avid outdoor photographer and skier.
+Research
+Department Colloquium Series
+EECS Department Colloquium Series Archive
+Berkeley EECS Annual Research Symposium (BEARS) Archive
+View
+Open Faculty Positions

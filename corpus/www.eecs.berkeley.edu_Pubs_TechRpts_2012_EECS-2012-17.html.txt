@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-17.html
+Design Insights for MapReduce from Diverse Production Workloads
+Yanpei Chen and Sara Alspaugh and Randy H. Katz
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-17
+January 25,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-17.pdf
+In this paper, we analyze seven MapReduce workload traces from production clusters at Facebook and at Cloudera customers in e-commerce, telecommunications, media, and retail. Cumulatively, these traces comprise over a year’s worth of data logged from over 5000 machines, and contain over two million jobs that perform 1.6 exabytes of I/O. Key observations include input data forms up to 77% of all bytes, 90% of jobs access KB to GB sized files that make up less than 16% of stored bytes, up to 60% of jobs re-access data that has been touched within the past 6 hours, peak-to-median job submission rates are 9:1 or greater, an average of 68% of all compute time is spent in map, task-seconds-per-byte is a key metric for balancing compute and data bandwidth, task durations range from seconds to hours, and five out of seven workloads contain map-only jobs. We have also deployed a public workload repository with workload replay tools so that the researchers can systematically assess design priorities and compare performance across diverse MapReduce workloads.
+BibTeX citation:
+@techreport{Chen:EECS-2012-17,
+Author= {Chen, Yanpei and Alspaugh, Sara and Katz, Randy H.},
+Title= {Design Insights for MapReduce from Diverse Production Workloads},
+Year= {2012},
+Month= {Jan},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-17.html},
+Number= {UCB/EECS-2012-17},
+Abstract= {In this paper, we analyze seven MapReduce workload traces from production clusters at Facebook and at Cloudera customers in e-commerce, telecommunications, media, and retail. Cumulatively, these traces comprise over a year’s worth of data logged from over 5000 machines, and contain over two million jobs that perform 1.6 exabytes of I/O. Key observations include input data forms up to 77% of all bytes, 90% of jobs access KB to GB sized files that make up less than 16% of stored bytes, up to 60% of jobs re-access data that has been touched within the past 6 hours, peak-to-median job submission rates are 9:1 or greater, an average of 68% of all compute time is spent in map, task-seconds-per-byte is a key metric for balancing compute and data bandwidth, task durations range from seconds to hours, and five out of seven workloads contain map-only jobs. We have also deployed a public workload repository with workload replay tools so that the researchers can systematically assess design priorities and compare performance across diverse MapReduce workloads.},
+}
+EndNote citation:
+%0 Report
+%A Chen, Yanpei
+%A Alspaugh, Sara
+%A Katz, Randy H.
+%T Design Insights for MapReduce from Diverse Production Workloads
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 January 25
+%@ UCB/EECS-2012-17
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-17.html
+%F Chen:EECS-2012-17

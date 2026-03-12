@@ -1,0 +1,43 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-98.html
+Hardware Construction in Chisel | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Hardware Construction in Chisel
+Hardware Construction in Chisel
+Huy Vo
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/EECS-2013-98
+May 17, 2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-98.pdf
+This thesis classifies Chisel hardware construction into three levels. At the first level, users write Chisel code at the granularity of nodes. The second level of hardware construction uses functional abstraction to group nodes into subgraphs. To illustrate the differences between these levels, we show how someone would implement a new hardware facility at both levels of hardware construction. At the third level of hardware construction, users write elaboration time function that the Chisel compiler invokes on the user’s behalf to construct hardware. We present three examples of writing elaboration time functions to build hardware.
+Advisor:  Krste Asanović
+BibTeX citation:
+@mastersthesis{Vo:EECS-2013-98,
+Author = {Vo, Huy},
+Title = {Hardware Construction in Chisel},
+School = {EECS Department, University of California, Berkeley},
+Year = {2013},
+Month = {May},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-98.html},
+Number = {UCB/EECS-2013-98},
+Abstract = {This thesis classifies Chisel hardware construction into three levels. At the first level, users
+write Chisel code at the granularity of nodes. The second level of hardware construction uses
+functional abstraction to group nodes into subgraphs. To illustrate the differences between
+these levels, we show how someone would implement a new hardware facility at both levels
+of hardware construction. At the third level of hardware construction, users write elaboration
+time function that the Chisel compiler invokes on the user’s behalf to construct hardware. We
+present three examples of writing elaboration time functions to build hardware.}
+}
+EndNote citation:
+%0 Thesis
+%A Vo, Huy
+%T Hardware Construction in Chisel
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 May 17
+%@ UCB/EECS-2013-98
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-98.html
+%F Vo:EECS-2013-98

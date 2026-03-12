@@ -1,0 +1,7 @@
+URL: https://people.eecs.berkeley.edu/~bh/61a-pages/Lectures/1.1/plural.scm
+(define (plural wd)
+(word wd 's))
+(define (plural wd)
+(if (equal? (last wd) 'y)
+(word (bl wd) 'ies)
+(word wd 's)))

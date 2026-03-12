@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-51.html
+Design, Fabrication and Testing of Angled Fiber Suspension for Electrostatic Actuators
+Bryan Edward Schubert
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-51
+May 1,
+2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-51.pdf
+A suspension comprised of angled fibers is proposed as a new means for achieving high strain, high stress, energy dense electrostatic actuators. Angled fiber arrays have low density and can be placed between the electrodes of a parallel plate or comb-drive type actuator to create a self-contained actuator sheet with low mass and volume. Angled fibers also have a Poisson's ratio of zero, allowing the use of robust, rigid electrodes, and they can be composed of stiff materials with low viscoelastic properties. This is in contrast to the alternative technology of dielectric elastomers that depend on unreliable compliant electrodes and highly viscoelastic dielectrics. Performance limits of an ideal nanometer-scale actuator, such as energy density, stress and strain, and efficiency are considered through theoretical modeling. A micrometer scale prototype is fabricated using a novel fiber peeling technique that easily produces high-aspect-ratio (1.8 um radius, 66 um long), angled microfibers. The microfibers are used as a suspension for a parallel plate actuator. The prototype actuator is characterized through static and dynamic tests, to reveal a maximum static strain of 3.4% at a static stress of 0.8 kPa (electric field of 13.9 V/um), a fast unloaded step response of less than 2 ms, a Q of 12.9 and a power density of 12.8 W/kg when driving an inertial load in resonance at 845 Hz.
+Advisors:  Ronald S. Fearing
+BibTeX citation:
+@phdthesis{Schubert:EECS-2012-51,
+Author= {Schubert, Bryan Edward},
+Title= {Design, Fabrication and Testing of Angled Fiber Suspension for Electrostatic Actuators},
+School= {EECS Department, University of California, Berkeley},
+Year= {2012},
+Month= {May},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-51.html},
+Number= {UCB/EECS-2012-51},
+Abstract= {A suspension comprised of angled fibers is proposed as a new means for achieving high strain, high stress, energy dense electrostatic actuators. Angled fiber arrays have low density and can be placed between the electrodes of a parallel plate or comb-drive type actuator to create a self-contained actuator sheet with low mass and volume. Angled fibers also have a Poisson's ratio of zero, allowing the use of robust, rigid electrodes, and they can be composed of stiff materials with low viscoelastic properties. This is in contrast to the alternative technology of dielectric elastomers that depend on unreliable compliant electrodes and highly viscoelastic dielectrics. Performance limits of an ideal nanometer-scale actuator, such as energy density, stress and strain, and efficiency are considered through theoretical modeling. A micrometer scale prototype is fabricated using a novel fiber peeling technique that easily produces high-aspect-ratio (1.8 um radius, 66 um long), angled microfibers. The microfibers are used as a suspension for a parallel plate actuator. The prototype actuator is characterized through static and dynamic tests, to reveal a maximum static strain of 3.4% at a static stress of 0.8 kPa (electric field of 13.9 V/um), a fast unloaded step response of less than 2 ms, a Q of 12.9 and a power density of 12.8 W/kg when driving an inertial load in resonance at 845 Hz.},
+}
+EndNote citation:
+%0 Thesis
+%A Schubert, Bryan Edward
+%T Design, Fabrication and Testing of Angled Fiber Suspension for Electrostatic Actuators
+%I EECS Department, University of California, Berkeley
+%D 2012
+%8 May 1
+%@ UCB/EECS-2012-51
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-51.html
+%F Schubert:EECS-2012-51

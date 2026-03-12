@@ -1,0 +1,26 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28722.html
+A Modified Markov Algorithm as a Language Parser
+Jacob Katzenelson and Elie Milgrom
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/ERL M363
+, 1972
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/ERL-m-363.pdf
+BibTeX citation:
+@techreport{Katzenelson:M363,
+Author= {Katzenelson, Jacob and Milgrom, Elie},
+Title= {A Modified Markov Algorithm as a Language Parser},
+Year= {1972},
+Month= {Jun},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28722.html},
+Number= {UCB/ERL M363},
+}
+EndNote citation:
+%0 Report
+%A Katzenelson, Jacob
+%A Milgrom, Elie
+%T A Modified Markov Algorithm as a Language Parser
+%I EECS Department, University of California, Berkeley
+%D 1972
+%@ UCB/ERL M363
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1972/28722.html
+%F Katzenelson:M363

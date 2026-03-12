@@ -1,0 +1,57 @@
+URL: https://www2.eecs.berkeley.edu/Courses/EEC145L
+Course: EEC145L | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+EEC145L
+EE C145L. Introductory Electronic Transducers Laboratory
+Catalog Description:  Laboratory exercises exploring a variety of electronic transducers for measuring physical quantities such as temperature, force, displacement, sound, light, ionic potential; the use of circuits for low-level differential amplification and analog signal processing; and the use of microcomputers for digital sampling and display. Lectures cover principles explored in the laboratory exercises; construction, response and signal to noise of electronic transducers and actuators; and design of circuits for sensing and controlling physical quantities.
+Units:  3.0
+Class homepage on inst.eecs
+General Catalog listing
+Department Notes:   Course objectives:
+To be able to amplify signals from sensors that have low-level, differential, high impedance outputs
+To learn about noise sources and how to use shielding, grounding, and analog filtering to enhance the signal-to-noise ratio
+To learn the properties of a number of useful sensors for measuring position, temperature, strain, force, light, ionic potentials, biological signals, ionizing radiation, etc.
+To be able to design instrumentation that senses desired quantities, transduces to an electrical signal, and amplifies and filters that signal for interfacing to a microcomputer
+To be able to design simple analog control systems, using sensors, amplification, filtering, controller circuits, power amplifiers, and actuators
+To make analog circuits work (design and debugging)
+To write clear, concise, informative laboratory reports
+Topics Covered:
+Properties of the ideal and the realistic op-amp
+Op-amp properties: Open-loop Bode plot, gain-bandwidth product, risetime, slewing rate
+Amplifier circuits using the op-amp and negative feedback: inverting, non-inverting, buffer, differential, current summing, low-level rectification; Bode plot, risetime
+Instrumentation amplifier circuit and properties: common mode and differential gains
+Isolation amplifiers- electromagnetic and optical
+Gaussian curve of error and error propagation
+Johnson and shot noise- combined amplifier noise
+Interference, grounding, and shielding
+Analog filtering using op-amps and negative feedback: gain and phase shift vs. frequency- simple filters and multi-pole Butterworth and Bessel filters
+Notch filter and analysis
+Power op-amp
+Introduction to A/D and D/A conversion- data acquisition using the microcomputer
+Definition, general characteristics, and examples of sensors and actuators
+Position and angle sensors: resistive, Piezoelectric, and optical
+Gray and binary codes
+Position actuators: Piezoelectric, solenoid, and stepper motor
+Thompson, Peltier, and Seebeck emfs
+Thermocouple properties and electronic ice points
+Thermistor properties and optimized bridge readout; self-heating
+Platinum resistance and solid state temperature sensors
+Infrared sensing and imaging
+Thermoelectric heat pump- thermal efficiency and heat transfer equations
+Strain gauge sensors, bridges, and force transducers
+Piezoelectric properties and measurement of force, acceleration, pressure
+Production and measurement of vacua
+Silicon photodiode: construction, properties, and uses
+Production of light: incandescent, fluorescent, lasers
+Electrochemical reactions and the Ag(AgCl) skin electrode
+The characteristics and detection of alpha, beta, x-ray, and gamma radiation, and practical applications in industry and medicine
+Electrical safety: accident scenarios; grounding, isolation transformers and amplifiers, ground fault interrupters, circuit breakers, surge protectors
+Signals from the human heart: electrocardiogram, phonocardiogram, blood pressure
+Skeletal muscle and the electromyogram
+The electrooculogram and the mechanics of eye motion
+Analog control systems: sensors, instrumentation amplifiers, controller circuits, power amplifiers, and actuators; on-off, proportional, PID controllers
+Related Areas:
+Biosystems & Computational Biology (BIO)

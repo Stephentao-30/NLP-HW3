@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28994.html
+Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems
+Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems
+G. Guardabassi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/8
+February 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-8.pdf
+BibTeX citation:
+@techreport{Guardabassi:M82/8,
+Author = {Guardabassi, G.},
+Title = {Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Feb},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28994.html},
+Number = {UCB/ERL M82/8}
+}
+EndNote citation:
+%0 Report
+%A Guardabassi, G.
+%T Subsystemwise Simulation oif Discrete-Time Interconnected Dynamical Systems
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/8
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/28994.html
+%F Guardabassi:M82/8

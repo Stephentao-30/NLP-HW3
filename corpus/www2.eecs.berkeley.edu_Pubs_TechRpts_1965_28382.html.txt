@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28382.html
+A Boundary Layer Model for Velocity Space Instabilities | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+A Boundary Layer Model for Velocity Space Instabilities
+A Boundary Layer Model for Velocity Space Instabilities
+J.S. Jayson and A.J. Lichtenberg
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M124
+July 1965
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/ERL-m-124.pdf
+BibTeX citation:
+@techreport{Jayson:M124,
+Author = {Jayson, J.S. and Lichtenberg, A.J.},
+Title = {A Boundary Layer Model for Velocity Space Instabilities},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1965},
+Month = {Jul},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28382.html},
+Number = {UCB/ERL M124}
+}
+EndNote citation:
+%0 Report
+%A Jayson, J.S.
+%A Lichtenberg, A.J.
+%T A Boundary Layer Model for Velocity Space Instabilities
+%I EECS Department, University of California, Berkeley
+%D 1965
+%@ UCB/ERL M124
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1965/28382.html
+%F Jayson:M124

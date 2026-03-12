@@ -1,0 +1,17 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-66.html
+Computational Trade-offs in Statistical Learning
+THIS REPORT HAS BEEN WITHDRAWN
+Alekh Agarwal
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2012-66
+May 9, 2012
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/Withdrawn/EECS-2012-66.pdf
+The last several years have seen the emergence of datasets of an unprecedented scale, and solving various inference problems on such datasets has received much focus in the modern machine learning and statistics literature. Understanding the statistical and computational aspects of learning from these large and high-dimensional datasets is
+the key focus of this thesis. One source of such data is the virtually unbounded amounts of unstructured information on the internet, which can often be compiled into large datasets for training machine learning algorithms using automated techniques, computer vision, natural language tasks, and web search and ranking being prime examples. Computational biology, computational astronomy and
+collaborative filtering are some other examples of problem domains where vast amounts of training data for learning algorithms are often readily available.
+It might be expected that the large number of samples make the statistical problem easier, and subsampling a smaller dataset should be an effective computational strategy. However, this is not always the case. With access to more and more data, the goal is often to understand higher order dependencies in the data, leading to an explosion in the number of parameters to be estimated. Indeed a large body of literature in modern machine learning and statistics is
+focusing on problems where the number of parameters grows with, and is often larger than the number of samples.
+While the number of training samples and parameters seems to grow almost unboundedly, computation is struggling to keep up. The last few years have seen a clear tapering off in the rate of growth of computational power on individual cores. As a result, the algorithmic focus in machine learning has shifted to online and stochastic optimization algorithms, budgeted learning algorithms and parallel and distributed algorithms fit for multicore, cluster or cloud environments.
+Though it might seem that computation is the main bottleneck for such massive data problems, it is not appropriate to consider these problems as purely computational and ignore the underlying statistical structure. In fact, in many cases the statistical nature of the data can make the computational problem easier, and make the goals of computation simpler than needed without this structure. As a result, a fundamental question in modern statistics and machine learning is to understand the error of statistical estimators, as a function of the <i>sample size</i>, <i>number of parameters</i> and the <i>computational budget</i> available.
+The goal of this thesis is to study these trade-offs between the computational and statistical aspects of learning problems. This line of research results in several natural questions, some of which are partially addressed in this thesis and others present interesting challenges for future work.
+Author Comments:

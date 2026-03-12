@@ -1,0 +1,31 @@
+URL: http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-222.html
+Formal Methods for Reverse Engineering Gate-Level Netlists
+Wenchao Li
+EECS Department, University of California, Berkeley
+Technical Report No. UCB/EECS-2013-222
+December 18,
+2013
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-222.pdf
+Systems are increasingly being constructed from off-the-shelf components acquired through a globally distributed supply chain. There is a rising concern over the trustworthiness of these components, especially when used in mission-critical applications. In this report, we present a systematic framework for automatically deriving high-level functions and structures from the gate-level netlist of a digital circuit. First, we formally define the problem of reverse engineering a bit-level description into the corresponding high-level description of a digital circuit. We then present a portfolio of techniques for solving this problem with judicious use of formal methods.
+Advisors:  Sanjit A. Seshia
+BibTeX citation:
+@mastersthesis{Li:EECS-2013-222,
+Author= {Li, Wenchao},
+Title= {Formal Methods for Reverse Engineering Gate-Level Netlists},
+School= {EECS Department, University of California, Berkeley},
+Year= {2013},
+Month= {Dec},
+Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-222.html},
+Number= {UCB/EECS-2013-222},
+Abstract= {Systems are increasingly being constructed from off-the-shelf components acquired through a globally distributed supply chain. There is a rising concern over the trustworthiness of these components, especially when used in mission-critical applications. In this report, we present a systematic framework for automatically deriving high-level functions and structures from the gate-level netlist of a digital circuit. First, we formally define the problem of reverse engineering a bit-level description into the corresponding high-level description of a digital circuit. We then present a portfolio of techniques for solving this problem with judicious use of formal methods.},
+}
+EndNote citation:
+%0 Thesis
+%A Li, Wenchao
+%T Formal Methods for Reverse Engineering Gate-Level Netlists
+%I EECS Department, University of California, Berkeley
+%D 2013
+%8 December 18
+%@ UCB/EECS-2013-222
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-222.html
+%F Li:EECS-2013-222

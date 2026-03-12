@@ -1,0 +1,20 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS262B
+Course: CS262B | EECS at UC Berkeley
+Skip to main content
+Home
+Academics
+Courses
+CS262B
+CS 262B. Advanced Topics in Computer Systems
+Catalog Description:  Continued graduate survey of large-scale systems for managing information and computation. Topics include basic performance measurement; extensibility, with attention to protection, security, and management of abstract data types; index structures, including support for concurrency and recovery; parallelism, including parallel architectures, query processing and scheduling; distributed data management, including distributed and mobile file systems and databases; distributed caching; large-scale data analysis and search. Homework assignments, exam, and term paper or project required.
+Units:  3.0
+Prerequisites:  262A.
+Formats:  Fall: 3 hours of lecture per week
+Spring: 3 hours of lecture per week
+Grading basis:  letter
+Final exam status:  No final exam
+Class Schedule (Spring 2020):
+TuTh 12:30PM - 1:59PM, Soda 310 –
+David E. Culler
+Class homepage on inst.eecs
+General Catalog listing

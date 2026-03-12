@@ -1,0 +1,130 @@
+URL: https://www2.eecs.berkeley.edu/Research/Areas/OSNT
+Operating Systems & Networking (OSNT)
+Overview
+Topics
+Internet architecture:
+Overlay architectures. Distributed hashing. Naming. Next generation network design.
+Peer to peer networking. Mobile and ad-hoc networking.  Troubleshooting.  Implications for energy efficiency.
+Security:
+Malware detection. Secure routing. Testbeds for security applications. Operating systems security. Intrusion detection/prevention. Availability. Authentication.  Botnets and worms.
+Distributed Systems:
+Experimental testbeds. Distributed logging.  Declarative networking.
+Operating systems:
+OS for sensor networks. Monitoring OS behavior for malware detection.  Performance analysis. Programming languages for systems. Power aware computing.
+Network economics:
+Price of anarchy. Game theory.
+Technology for developing regions:
+Network measurement:
+Traffic characterization and modeling.
+Research Centers
+Agile Design of Efficient Processing Technologies
+Berkeley Center for Responsible, Decentralized Intelligence (RDI)
+EPIC Data lab
+Industrial Engineering and Operations Research
+International Computer Science Institute
+Networked Systems Lab
+Sky Computing Lab
+Software Principles for Advanced Networking
+Faculty
+Primary
+Eric Brewer  (coordinator)
+Natacha Crooks
+David E. Culler
+Prabal Dutta
+Ali Ghodsi
+Joseph Gonzalez
+Rishabh Iyer
+Jiantao Jiao
+Anthony D. Joseph
+Raluca Ada Popa
+Sylvia Ratnasamy
+Scott Shenker
+Dawn Song
+Matei Zaharia
+Secondary
+Krste Asanović
+John Chuang
+Henry Corrigan-Gibbs
+Joseph M. Hellerstein
+Sagar Karandikar
+Richard M. Karp
+Randy H. Katz
+John D. Kubiatowicz
+Michael Lustig
+David A. Patterson
+Vern Paxson
+Alan J. Smith
+Ion Stoica
+David Wagner
+Faculty Awards
+National Medal of Science:
+Richard M. Karp, 1996.
+ACM A.M. Turing Award:
+David A. Patterson, 2017.
+Richard M. Karp, 1985.
+ACM Prize in Computing:
+Eric Brewer, 2009.
+SIAM John von Neumann Lecture Prize:
+Richard M. Karp, 1987.
+Computers and Communications (C&C) Prize:
+Scott Shenker, 2015.
+David A. Patterson, 2004.
+Silicon Valley Engineering Hall of Fame:
+Randy H. Katz, 2018.
+David A. Patterson, 2005.
+Harvey Prize:
+Richard M. Karp, 1998.
+Kyoto Prize:
+Richard M. Karp, 2008.
+MacArthur Fellow:
+Dawn Song, 2010.
+Okawa Prize:
+David E. Culler, 2013.
+National Academy of Sciences (NAS) Member:
+Scott Shenker, 2019.
+David A. Patterson, 2006.
+Richard M. Karp, 1980.
+National Academy of Engineering (NAE) Member:
+Ion Stoica, 2024.
+Scott Shenker, 2012.
+Eric Brewer, 2007.
+David E. Culler, 2005.
+Randy H. Katz, 2000.
+David A. Patterson, 1993.
+Richard M. Karp, 1992.
+American Academy of Arts and Sciences Member:
+Dawn Song, 2025.
+Eric Brewer, 2018.
+Scott Shenker, 2016.
+David A. Patterson, 2006.
+Randy H. Katz, 1990.
+Richard M. Karp, 1980.
+Berkeley Citation:
+Randy H. Katz, 2026.
+David E. Culler, 2021.
+David A. Patterson, 2016.
+UC Berkeley Distinguished Teaching Award:
+David Wagner, 2006.
+Randy H. Katz, 1992.
+Richard M. Karp, 1986.
+David A. Patterson, 1982.
+Sloan Research Fellow:
+Natacha Crooks, 2025.
+Matei Zaharia, 2022.
+Raluca Ada Popa, 2018.
+Prabal Dutta, 2017.
+Michael Lustig, 2013.
+Sylvia Ratnasamy, 2012.
+Dawn Song, 2007.
+Ion Stoica, 2003.
+David Wagner, 2003.
+Joseph M. Hellerstein, 1998.
+Eric Brewer, 1997.
+Related Courses
+CS 162. Operating Systems and System Programming
+CS 169. Software Engineering
+CS 262A. Advanced Topics in Computer Systems
+CS 266. Introduction to System Performance Analysis
+CS 268. Computer Networks
+CS 269. Advanced Topics in Distributed Computing Systems
+EE 122. Introduction to Communication Networks

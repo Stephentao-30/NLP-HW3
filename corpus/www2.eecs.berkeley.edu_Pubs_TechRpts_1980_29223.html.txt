@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29223.html
+Residual Bounds on Approximate Eigensystems of Nonnormal Matrices | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Residual Bounds on Approximate Eigensystems of Nonnormal Matrices
+Residual Bounds on Approximate Eigensystems of Nonnormal Matrices
+B.N. Parlett and E. Jiang
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M80/39
+September 1980
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/ERL-m-80-39.pdf
+BibTeX citation:
+@techreport{Parlett:M80/39,
+Author = {Parlett, B.N. and Jiang, E.},
+Title = {Residual Bounds on Approximate Eigensystems of Nonnormal Matrices},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1980},
+Month = {Sep},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29223.html},
+Number = {UCB/ERL M80/39}
+}
+EndNote citation:
+%0 Report
+%A Parlett, B.N.
+%A Jiang, E.
+%T Residual Bounds on Approximate Eigensystems of Nonnormal Matrices
+%I EECS Department, University of California, Berkeley
+%D 1980
+%@ UCB/ERL M80/39
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1980/29223.html
+%F Parlett:M80/39

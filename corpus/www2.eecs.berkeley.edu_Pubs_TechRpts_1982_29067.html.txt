@@ -1,0 +1,33 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29067.html
+Some Combinatorial Aspects of Network Reliability | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Some Combinatorial Aspects of Network Reliability
+Some Combinatorial Aspects of Network Reliability
+Rubin Johnson
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M82/14
+March 1982
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/ERL-m-82-14.pdf
+BibTeX citation:
+@techreport{Johnson:M82/14,
+Author = {Johnson, Rubin},
+Title = {Some Combinatorial Aspects of Network Reliability},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1982},
+Month = {Mar},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29067.html},
+Number = {UCB/ERL M82/14}
+}
+EndNote citation:
+%0 Report
+%A Johnson, Rubin
+%T Some Combinatorial Aspects of Network Reliability
+%I EECS Department, University of California, Berkeley
+%D 1982
+%@ UCB/ERL M82/14
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/29067.html
+%F Johnson:M82/14

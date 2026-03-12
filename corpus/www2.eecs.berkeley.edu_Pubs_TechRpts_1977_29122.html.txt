@@ -1,0 +1,34 @@
+URL: https://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29122.html
+Coherency Identification for Power System Dynamic Equivalents | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Coherency Identification for Power System Dynamic Equivalents
+Coherency Identification for Power System Dynamic Equivalents
+F.F. Wu and N. Narasimhamurthi
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/57
+August 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-57.pdf
+BibTeX citation:
+@techreport{Wu:M77/57,
+Author = {Wu, F.F. and Narasimhamurthi, N.},
+Title = {Coherency Identification for Power System Dynamic Equivalents},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Aug},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29122.html},
+Number = {UCB/ERL M77/57}
+}
+EndNote citation:
+%0 Report
+%A Wu, F.F.
+%A Narasimhamurthi, N.
+%T Coherency Identification for Power System Dynamic Equivalents
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/57
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/29122.html
+%F Wu:M77/57

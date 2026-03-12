@@ -1,0 +1,33 @@
+URL: http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28875.html
+Theory of Fuzzy Sets | EECS at UC Berkeley
+Skip to main content
+Home
+Research
+Technical Reports
+Theory of Fuzzy Sets
+Theory of Fuzzy Sets
+L.A. Zadeh
+EECS Department
+University of California, Berkeley
+Technical Report No. UCB/ERL M77/1
+January 1977
+http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/ERL-m-77-1.pdf
+BibTeX citation:
+@techreport{Zadeh:M77/1,
+Author = {Zadeh, L.A.},
+Title = {Theory of Fuzzy Sets},
+Institution = {EECS Department, University of California, Berkeley},
+Year = {1977},
+Month = {Jan},
+URL = {http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28875.html},
+Number = {UCB/ERL M77/1}
+}
+EndNote citation:
+%0 Report
+%A Zadeh, L.A.
+%T Theory of Fuzzy Sets
+%I EECS Department, University of California, Berkeley
+%D 1977
+%@ UCB/ERL M77/1
+%U http://www2.eecs.berkeley.edu/Pubs/TechRpts/1977/28875.html
+%F Zadeh:M77/1

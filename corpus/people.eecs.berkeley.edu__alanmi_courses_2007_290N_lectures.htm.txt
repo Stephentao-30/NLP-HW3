@@ -1,0 +1,259 @@
+URL: https://people.eecs.berkeley.edu/~alanmi/courses/2007_290N/lectures.htm
+EECS 290N
+EECS 290N
+Equivalence
+Checking �
+Schedule
+Instruction begins �
+Tuesday, January 16, 2007
+Spring recess �
+Monday, March 26, 2007 - Friday, March
+30, 2007
+Instruction ends
+Tuesday, May 08, 2007
+Lecture
+Date
+Lecture
+Date
+Lecture
+Date
+1
+January
+16
+6
+February
+20
+11
+April
+3
+2
+January
+23
+7
+February
+27
+12
+April
+10
+3
+January
+30
+8
+March
+6
+13
+April
+17
+4
+February
+6
+9
+March
+13
+14
+April
+24
+5
+February
+13
+10
+March
+20
+15
+May
+1
+Lectures
+1.
+Introduction
+�
+M. N. Mneimneh and K. A.
+Sakallah.  Principles of
+sequential-equivalence verification . IEEE D&T Comp. Vol. 22(3), pp.
+248-257, 2005.
+�
+N. Een and N. S�rensson.  An extensible SAT-solver . Proc. SAT�03.
+�
+N. Een and N. S�rensson.  SAT solver
+MINISAT .
+�
+A. Biere.  AIGER format  for representing And-Inverter
+Graph in formal verification.
+�
+ABC: A System
+for Sequential Synthesis and Verification .
+2.
+Synthesis for Verification
+�
+R. Brummayer and A. Biere.  Local two-level And-Inverter Graph
+minimization without blowup . Proc. 2nd Doctoral Workshop on Mathematical
+and Engineering Methods in Computer Science (MEMICS'06), Mikulov, Czechia,
+October 2006.
+�
+P. Bjesse and A. Boralv.  DAG-aware circuit compression for formal
+verification . Proc. ICCAD�04, pp. 42-49.
+�
+A. Mishchenko,  S. Chatterjee , and R. Brayton.  DAG-aware AIG rewriting: A fresh
+look at combinational logic synthesis.  Proc. DAC '06, pp. 532-536.
+3.
+Resolution proofs
+�
+L. Zhang and S. Malik.  Validating SAT solvers using an
+independent resolution-based checker: Practical implementations and other
+applications . Proc. DATE�03, pp. 880- 885.
+�
+C. Sinz and A. Biere.  Extended resolution proofs for
+conjoining BDDs . Proc. CSR�06, pp. 600-611.
+�
+S. Chatterjee, A. Mishchenko,
+R. Brayton, and A. Kuehlmann.  On
+resolution proofs for combinational equivalence checking . ERL Technical
+Report, EECS Dept., UC Berkeley.
+�
+A. Biere. SAT solver  BooleForce  allowing for generation of
+compact resolution proofs.
+4.
+Interpolation
+�
+K. L. McMillan.  Interpolation and SAT-Based model checking .
+Proc. CAV�03, pp. 1-13.
+�
+K. L. McMillan.  Applications of Craig interpolants in
+model checking . Proc. TACAS�05, pp. 1-12.
+�
+K. L. McMillan.  Lazy abstraction with interpolants . Proc.
+CAV�06, pp. 123-136.
+�
+R. K. Brayton.  The real reason why McMillan's
+construction is an interpolant . ERL Technical Report, EECS Dept., UC
+Berkeley.
+5.
+Combinational equivalence checking
+�
+J. R. Burch and V. Singhal.  Tight integration of combinational verification methods . Proc. ICCAD�98, pp. 570-576.
+�
+A. Kuehlmann, V. Paruthi, F.
+Krohm, and M. K. Ganai.  Robust Boolean reasoning for
+equivalence checking and functional property verification . IEEE Trans. CAD, 21(12), Dec 2002, pp. 1377-1394.
+�
+A. Mishchenko, S. Chatterjee,
+R. Brayton, and N. Een.  Improvements
+to combinational equivalence checking . Proc. ICCAD '06, pp. 836-843.
+6.
+Retiming and Resynthesis
+�
+S. Malik, E. Sentovich, R. K.
+Brayton, and A. Sangiovanni-Vincentelli.  Retiming
+and resynthesis: Optimizing sequential networks with combinational techniques .
+IEEE TCAD, Vol. 10 (1), Jan 1991, pp. 74-84.
+�
+S. Malik, K. J. Singh, R. K.
+Brayton, and A. Sangiovanni-Vincentelli.  Performance
+optimization of pipelined logic circuits using peripheral retiming and
+resynthesis.  IEEE TCAD, Vol. 12 (5), May 1993, pp. 568-578.
+�
+V. Singhal, C. Pixley, R. L.
+Rudell, and R. K. Brayton.  The validity
+of retiming sequential circuits.  Proc. DAC�95, pp. 316-321.
+�
+H. Zhou, V. Singhal, and A.
+Aziz.  How powerful is retiming?  Proc.
+IWLS�98.
+�
+J.-H. Jiang and R. Brayton.  Retiming and resynthesis: A complexity
+perspective . Accepted to IEEE TCAD.
+�
+R. Brayton and A. Mishchenko.  Sequential rewriting . ERL Technical Report,
+EECS Dept., UC Berkeley.
+�
+R. Brayton and A. Mishchenko.  Scalable sequential verification . ERL
+Technical Report, EECS Dept., UC Berkeley.
+7.
+Sequential equivalence checking (BDDs -  Berkeley )
+�
+J.-H. R. Jiang, and R. K.
+Brayton.  On the verification of
+sequential equivalence . IEEE Trans. CAD, Vol. 22(6), June 2003, pp.
+686-697. �
+8.
+Sequential equivalence checking (Retiming - U  Michigan )
+�
+M. N. Mneimneh and K. A.
+Sakallah.  SAT-based sequential depth
+computation . Proc. ASPDAC�03, pp. 87-92. �
+�
+M. N. Mneimneh and K. A.
+Sakallah.  REVERSE: Efficient sequential
+verification for retiming . Proc. IWLS�03.
+�
+M. N. Mneimneh, K. A. Sakallah,
+and J. Moondanos.  Preserving
+synchronizing sequences of sequential circuits after retiming . Proc. ASPDAC�04,
+pp. 579-584.
+9.
+Sequential equivalence checking (Induction -  Europe )
+�
+C. A. J. van Eijk.  Sequential equivalence checking
+based on structural similarities , IEEE Trans. CAD, 19(7), July 2000, pp.
+814-819.
+�
+P. Bjesse and K. Claessen.  SAT-based verification without state
+space traversal . Proc. FMCAD'00.
+10.
+Sequential equivalence checking (SAT - UCSB)
+�
+F. Lu, M. K. Iyer, G.
+Parthasarathy, K.-T. Cheng, and K.C. Chen.  An
+efficient sequential SAT solver with improved search strategies . Proc. DATE�05,
+pp. 1102-1107.
+�
+F. Lu and K.-T. Cheng.  Sequential equivalence checking based on
+K-th invariants and circuit SAT solving . Proc. HLDVT�05.
+�
+F. Lu and T. Cheng.  IChecker: An efficient checker for
+inductive invariants . Proc. HLDVT�06.
+11.
+Sequential equivalence checking (Hybrid - IBM)
+�
+A. Kuehlmann and J.
+Baumgartner.  Transformation-based
+verification using generalized retiming . Proc. CAV�01.
+�
+H. Mony, J. Baumgartner, V.
+Paruthi, and R. Kanzelman.  Exploiting
+suspected redundancy without proving it . Proc. DAC�05.
+�
+J. Baumgartner, H. Mony, V.
+Paruthi, R. Kanzelman, and G. Janssen.  Scalable
+sequential equivalence checking across arbitrary design transformations .
+Proc. ICCD�06.
+12.
+Sequential equivalence checking (Hybrid - Intel)
+�
+Z. Khasidashvili and Z. Hanna.  SAT-based methods for sequential hardware equivalence
+verification without synchronization . Proc. BMC �03.
+�
+Z. Khasidashvili, M. Skaba, D.
+Kaiss, and Z. Hanna.  Theoretical
+framework for compositional sequential hardware equivalence verification in
+presence of design constraints . Proc. ICCAD�04, pp. 58-65.
+13.
+Model checking
+�
+A. Biere, A. Cimatti, E.
+Clarke, and Y. Zhu.  Symbolic model
+checking without BDDs . Proc. TACAS�99.
+�
+K. L. McMillan.  Applying SAT methods in unbounded symbolic
+model checking . Proc. CAV�02, pp. 250-264.
+�
+T. A. Henzinger, O. Kupferman,
+and S. Qadeer.  From prehistoric to
+postmodern symbolic model checking . Formal Methods in System Design. Vol.
+23, pp. 303-327, 2003.
+14.
+Assume-guarantee
+�
+T. A. Henzinger, S. Qadeer, and
+S. K. Rajamani.  Decomposing
+refinement proofs using assume-guarantee reasoning . Proc. ICCAD�00, pp.
+245-252.

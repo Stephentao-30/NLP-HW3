@@ -1,0 +1,250 @@
+URL: http://people.eecs.berkeley.edu/~attwood/sxr2009/content.html
+Book chapters
+Chapter 1. Introduction
+1.1
+The
+Soft X-Ray and Extreme Ultraviolet Regions of the
+Electromagnetic Spectrum
+1.2
+Basic
+Absorption and Emission Processes
+1.3
+Atomic
+Energy Levels and Allowed Transitions
+1.4
+Scattering,
+Diffraction, and Refraction of Electromagnetic
+Radiation
+Chapter 2. Radiation and Scattering at
+EUV and Soft X-Ray Wavelengths
+2.1
+Maxwell's
+Equations and the Wave Equation
+2.2
+Calculating
+Scattered Fields
+2.3
+Radiated
+Power and Poynting's Theorem
+2.4
+Scattering
+Cross Sections
+2.5
+Scattering
+by a Free Electron
+2.6
+Scattering
+by Bound Electrons
+2.7
+Scattering
+by a Multi-Electron Atom
+Chapter 3. Wave Propagation and
+Refractive Index at EUV and Soft X-Ray Wavelengths
+3.1
+The
+Wave Equation and Refractive Index
+3.2
+Phase
+Variation and Absorption of Propagating Waves
+3.3
+Reflection
+and Refraction at an Interface
+3.4
+Total
+External Reflection of Soft X-Rays and EUV Radiation
+3.5
+Reflection
+Coefficients at an Interface
+3.6
+Brewster's
+Angle
+3.7
+Field
+Penetration into a Lossy Medium near the Critical
+Angle
+3.8
+Determination
+of  d   and
+b : The Kramer-Kronig Relations
+3.9
+Applications
+to Glancing Incidence Optics
+3.10
+Enhanced
+Reflectivity from Periodic Structures
+Chapter 4. Multilayer Interference
+Coatings
+4.1
+Introduction
+4.2
+Constructive
+Interference of Scattered Radiation
+4.3
+Computational
+Model for Calculating Reflection from a Multilayer
+Mirror
+4.4
+Multilayer
+Fabrication
+4.5
+Applications
+of Multilayer Coated Optics
+Chapter 5. Synchrotron Radiation
+5.1
+Introduction
+5.2
+Characteristics
+of Bending Magnet Radiation
+5.3
+Characteristics
+of Undulator Radiation
+5.4
+Undulator
+Radiation: Calculations of Radiated Power, Brightness,
+and Harmonics
+5.5
+The
+Scale of Harmonic Motion
+5.6
+The
+Transition from Undulator to Wiggler Radiation
+5.7
+Wiggler
+Power and Flux
+5.8
+Femtosecond
+Pulse Generation
+Chapter 6. Physics of Hot Dense Plasmas
+6.1
+Introduction
+6.2
+Short
+and Long Range Interactions in Plasmas
+6.3
+Basic
+Parameters for Describing a Plasma
+6.4
+Microscopic,
+Kinetic and Fluid Descriptions of a Plasma
+6.5
+Numerical
+Simulations
+6.6
+Density
+Gradients, UV and EUV Probing
+6.7
+X-Ray
+Emission From a Hot Dense Plasma
+6.8
+High
+Harmonic Generation with Femtosecond Laser Pulses
+Chapter 7. Extreme Ultraviolet And Soft
+X-Ray Lasers
+7.1
+Basic
+Processes
+7.2
+Gain
+7.3
+Recombination
+Lasing with Hydrogen-Like Carbon Ions
+7.4
+Collisionally
+Pumped Neon-Like Lasers
+7.5
+Compact
+EUV Lasers
+Chapter 8. Coherence at Short
+Wavelengths
+8.1
+Concepts
+of Spatial and Temporal Coherence
+8.2
+Examples
+of Experiments that Require Coherence
+8.3
+Spatial
+and Spectral Filtering
+8.4
+Spatial
+and Spectral Filtering of Undulator Radiation
+8.5
+Spatially
+Coherent EUV and Soft X-Ray Lasers
+8.6
+The van
+Cittert-Zernike Theorem
+8.7
+Examples
+of High Contrast Fringes Formed at Short Wavelengths
+Chapter 9. X-Ray Microscopy with
+Diffractive Optics
+9.1
+Introduction
+9.2
+The
+Fresnel Zone Plate Lens
+9.3
+Diffraction
+of Radiation by Pinhole Apertures and Zone Plates
+9.4
+Spatial
+Resolution of a Zone Plate Lens
+9.5
+Depth
+of Focus and Spectral Bandwidth
+9.6
+Spatial
+Resolution Beyond the Rayleigh Limit: The Effective
+Angular Illumination Profile
+9.7
+High
+Resolution Soft X-Ray Microscopy
+9.8
+Applications
+to the Life Sciences
+9.9
+Applications
+to the Physical Sciences: Analytic Tools for
+Materials and Surface Science at Spatial Resolutions
+Below 100 Nanometers
+9.10
+Zone
+Plate Fabrication
+Chapter 10. Extreme Ultraviolet and X-Ray
+Lithography
+10.1
+Deep
+Ultraviolet (DUV) Lithography and Beyond
+10.2
+Extreme
+Ultraviolet (EUV) Lithography
+10.3
+X-Ray
+Proximity Lithography
+Appendix
+A.
+Units and Physical
+Constants
+Appendix
+B.
+Electron Binding
+Energies, Principal K- and L- Shell Emission Lines, and
+Auger Electron Energies
+Appendix
+C.
+Atomic Scattering
+Factors, Absorption Coefficients, and Sub-Shell
+Photoionization Cross-Sections
+Appendix
+D.
+Mathematical and
+Vector Relations
+Appendix
+E.
+Some Integrations
+in k,  w -Space
+Appendix
+F.
+Lorentz Space-Time
+Transformation

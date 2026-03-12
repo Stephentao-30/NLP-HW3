@@ -1,0 +1,25 @@
+URL: https://www2.eecs.berkeley.edu/Courses/CS161
+CS 161. Computer Security
+Catalog Description:  Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems.
+Units:  4
+Related Areas:
+Security (SEC)
+Prerequisites:  COMPSCI 61B, COMPSCI 61C, and COMPSCI 70.
+Formats:  Summer: 6.0-6.0 hours of lecture and  2.0-3.0 hours of discussion per week
+Spring: 3.0-3.0 hours of lecture and  1.0-1.5 hours of discussion per week
+Fall: 3.0-3.0 hours of lecture and  1.0-1.5 hours of discussion per week
+Grading Basis:  letter
+Final Exam Status:  Written final exam conducted during the scheduled final exam period
+Class Schedule (Spring 2026):
+CS 161 –                MoWeFr 15:00-15:59, Wheeler 150 –
+Henry Corrigan-Gibbs ,  Raluca Ada Popa Class Notes
+- Time conflicts are allowed
+- Instructors plan to offer an alternate final exam
+- Lectures will be recorded
+- Seats reserved for students with enrollment permission are not open. They are reserved for students in internal programs. Please DO NOT ask faculty or staff for one of these seats. The students who qualify have already been notified.
+- FAQ: https://fa25.cs161.org/resources/faqs/
+Links:
+EECS Course Archives (CalNet authentication required)
+CS enrollment policies
+EE enrollment policies
+HKN course maps
